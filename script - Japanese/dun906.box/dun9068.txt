@@ -64,7 +64,7 @@
 <removesprite -1 11>
 <sprite "ta01c07.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
-<name "Celes" "!AA3227">
+<name "セリス" "!AA3227">
 「ありがとうございます」
 #
 <sprite "ta05a10.iph" 6 4 12>
@@ -84,7 +84,7 @@
 　期待しています」
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "Celes" "!AA3228">
+<name "セリス" "!AA3228">
 「期待を裏切らぬように、頑張ります」
 #
 <removesprite -1 11>
@@ -118,71 +118,71 @@
 <music 6>
 <background "bg008a0.iph" 11>
 <sprite "ta03a15.iph" 4 4 11>
-<name "Viola" "!BA0299">
+<name "ヴィオラ" "!BA0299">
 「……あの子が一等魔法使い」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「準備しないように」
 #
 <sprite "ta03b19.iph" 4 4 11>
-<name "Viola" "!BA0300">
+<name "ヴィオラ" "!BA0300">
 「なに？
 　急に？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヴィオラがムキになるから、抑え込めと言われた」
 #
 <sprite "ta03b18.iph" 4 4 12>
-<name "Viola" "!BA0301">
+<name "ヴィオラ" "!BA0301">
 「……別にムキになってないわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だよな。
 　俺は杞憂だと言ったんだが……」
 #
 <sprite "ta03b15.iph" 4 4 12>
-<name "Viola" "!BA0302">
+<name "ヴィオラ" "!BA0302">
 「そうよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ところで、外出準備のようだが……
 　どこかに行くのか？」
 #
 <sprite "ta03b19.iph" 4 4 12>
-<name "Viola" "!BA0303">
+<name "ヴィオラ" "!BA0303">
 「……買物よ。
 　付き合いなさい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「手短にな。
 　夜はセリスの一等を祝うパーティーがあるから」
 #
 <sprite "ta03b17.iph" 4 4 12>
-<name "Viola" "!BA0304">
+<name "ヴィオラ" "!BA0304">
 「む……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「年上の余裕で、一緒に祝ってやろう」
 #
 <sprite "ta03b18.iph" 4 4 12>
-<name "Viola" "!BA0305">
+<name "ヴィオラ" "!BA0305">
 「仕方が無いわね」
 #
 <removesprite -1 11>
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta02a28.iph" 4 4 11>
-<name "Elle" "!CA0239">
+<name "イエル" "!CA0239">
 「…………セリスが一等」
 #
 <sprite "ta02a19.iph" 4 4 12>
-<name "Elle" "!CA0241">
+<name "イエル" "!CA0241">
 「ランクなんか飾り……と言いたいけど、その飾り
 　を取るだけの実力があるって事」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0315">
+<name "イエル" "!CA0315">
 「…………
 　とりあえず、おめでとうを言いに行こう」
 #
@@ -190,79 +190,79 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0559">
+<name "ソシエット" "!DA0559">
 「セリスさん。
 　おめでとうございます」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA3229">
+<name "セリス" "!AA3229">
 「ありがとうございます」
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "Soshiette" "!DA0560">
+<name "ソシエット" "!DA0560">
 「今日は派手にお祝いしましょう」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA3230">
+<name "セリス" "!AA3230">
 「はい。
 　でも、明日からはまた修行です」
 #
 <sprite "ta01a90.iph" 2 5 12>
-<name "Celes" "!AA3231">
+<name "セリス" "!AA3231">
 「私の目標は一等魔法使いになる事ではなく、クデュ
 　ール魔法大会で優勝する事。
 　そして、家を取り返す事ですから」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0561">
+<name "ソシエット" "!DA0561">
 「一等魔法使いになっても奢らないその姿勢があれ
 　ば、目標はやがて達せられるでしょう」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA3232">
+<name "セリス" "!AA3232">
 「ソシエットさん」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA0562">
+<name "ソシエット" "!DA0562">
 「ご主人様は、お祝いの準備と人集めに出ています。
 　しばらくすれば戻って来ると思います」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0563">
+<name "ソシエット" "!DA0563">
 「戻ってきたら、始めましょう」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA3233">
+<name "セリス" "!AA3233">
 「はい」
 #
 <removesprite -1 11>
 　セリスの一等魔法使いとなったお祝いは、派手な
 　パーティーとなり、夜遅くまで続けられた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA3234">
+<name "セリス" "!AA3234">
 「はい？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……よくやった」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA3235">
+<name "セリス" "!AA3235">
 「はい。
 　でも、まだまだです。
 　これからもよろしくお願いします。
 　師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、厳しく行くぞ」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA3236">
+<name "セリス" "!AA3236">
 「はい」
 #
 <removesprite -1 11>
@@ -274,26 +274,26 @@
 #
 <background "bg002a0.iph" 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0306">
+<name "ヴィオラ" "!BA0306">
 「まさか、並ばれるとは思わなかったわ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「試験の方法に問題はないぞ」
 #
 <sprite "ta03a04.iph" 4 4 12>
-<name "Viola" "!BA0307">
+<name "ヴィオラ" "!BA0307">
 「わかっているわ。
 　ただ、セリスが強いだけ。
 　それだけよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そうだな」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0308">
+<name "ヴィオラ" "!BA0308">
 「でも、私は負けないわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、ヴィオラの強さは痛いほど知っている」
 #
 <removesprite -1 11>
@@ -304,20 +304,20 @@
 　セリスは三等魔法使いのランクが授与された。
 #
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「三等か……
 　もうすぐ、ヴィオラや協会長に並ぶな」
 #
 <sprite "ta01c92.iph" 4 4 11>
-<name "Celes" "!AA3237">
+<name "セリス" "!AA3237">
 「そんな……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「簡単にランクアップできないだろうが、ここまで
 　来たら一等を目指せ」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3238">
+<name "セリス" "!AA3238">
 「はい！」
 #
 <removesprite -1 11>
@@ -329,23 +329,23 @@
 #
 <background "bg002a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA3242">
+<name "セリス" "!AA3242">
 「す、すみません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「謝るな。
 　胸を張れ」
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "Celes" "!AA3243">
+<name "セリス" "!AA3243">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そして、見事だ。
 　四等魔法使い」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3244">
+<name "セリス" "!AA3244">
 「ありがとうございます」
 #
 <removesprite -1 11>
@@ -357,30 +357,30 @@
 #
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0564">
+<name "ソシエット" "!DA0564">
 「ご主人様。
 　一言、よろしいですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta04a11.iph" 4 4 12>
-<name "Soshiette" "!DA0565">
+<name "ソシエット" "!DA0565">
 「やーい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0566">
+<name "ソシエット" "!DA0566">
 「ごほん。
 　失礼しました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セ、セリスが俺と並んだのがそんなに嬉しいか」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0567">
+<name "ソシエット" "!DA0567">
 「早く抜いて欲しいものです」
 #
 <removesprite -1 11>
@@ -389,17 +389,17 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0568">
+<name "ソシエット" "!DA0568">
 「セリスさんが、六等魔法使いになりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0569">
+<name "ソシエット" "!DA0569">
 「もうすぐ、セリスさんに追いつかれますね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……抜かれたお前に言われたくない」
 #
 <removesprite -1 11>
@@ -408,33 +408,33 @@
 <music 11>
 <background "bg009a0.iph" 11>
 <sprite "ta04a24.iph" 4 4 11>
-<name "Soshiette" "!DA0570">
+<name "ソシエット" "!DA0570">
 「七等魔法使い。
 　試験ではなく、研究成果によってこのランクを手
 　に入れようと思ったら、かなりの苦労が強いられ
 　ます」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA0571">
+<name "ソシエット" "!DA0571">
 「それを、この短期間で……」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0572">
+<name "ソシエット" "!DA0572">
 「お見事と言わせて頂きます」
 #
 <removesprite -1 11>
 <sprite "ta01c15.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA3245">
+<name "セリス" "!AA3245">
 「ありがとうございます」
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "Soshiette" "!DA0574">
+<name "ソシエット" "!DA0574">
 「この調子で是非、ご主人様のランクも抜いてくだ
 　さい」
 #
 <sprite "ta01c92.iph" 2 5 12>
-<name "Celes" "!AA3246">
+<name "セリス" "!AA3246">
 「が、頑張ります」
 #
 <removesprite -1 11>
@@ -442,21 +442,21 @@
 :2319
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「……八等魔法使い。
 　ソシエット。
 　並ばれたぞ」
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0575">
+<name "ソシエット" "!DA0575">
 「悔しいと思うと同時に、嬉しくもあります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そっか。
 　俺もすぐに追いつかれるかなぁ」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0576">
+<name "ソシエット" "!DA0576">
 「そうでなくては」
 #
 <removesprite -1 11>
@@ -465,16 +465,16 @@
 <music 11>
 <background "bg009a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3247">
+<name "セリス" "!AA3247">
 「九等魔法使い」
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "Celes" "!AA3248">
+<name "セリス" "!AA3248">
 「これで九等。
 　この上はどれだけ困難なの……」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA3249">
+<name "セリス" "!AA3249">
 「でも、負けない！」
 #
 <removesprite -1 11>
@@ -482,68 +482,68 @@
 :2599
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリスが十等魔法使いになったか。
 　予想以上に早かったな」
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0577">
+<name "ソシエット" "!DA0577">
 「驚異的ですが、これも私の教えの結果です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、俺だろう」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA0578">
+<name "ソシエット" "!DA0578">
 「ご主人様。
 　謙遜と言う言葉を知っていますか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「こらこら、魔法に関しては俺の教育成果だろう」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0580">
+<name "ソシエット" "!DA0580">
 「いえいえ、セリスさんの先天的な才能が、私の指
 　導で花開いたのです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前が言うほど、何をやった！」
 #
 <sprite "ta04a11.iph" 4 4 12>
-<name "Soshiette" "!DA0581">
+<name "ソシエット" "!DA0581">
 「そのまま、お言葉を返させて頂きます」
 #
 <removesprite -1 11>
 <sprite "ta01c36.iph" 4 4 11>
-<name "Celes" "!AA3250">
+<name "セリス" "!AA3250">
 「あ、あの……」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 4 11>
 <sprite "ta01c36.iph" 6 5 11>
-<name "Viola" "!BA0309">
+<name "ヴィオラ" "!BA0309">
 「醜い争いには、参加しない事よ」
 #
 <sprite "ta01c06.iph" 6 5 12>
-<name "Celes" "!AA3251">
+<name "セリス" "!AA3251">
 「あ、ヴィオラさん」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0310">
+<name "ヴィオラ" "!BA0310">
 「十等魔法使いになったそうね。
 　おめでとう」
 #
 <sprite "ta01c15.iph" 6 5 12>
-<name "Celes" "!AA3252">
+<name "セリス" "!AA3252">
 「あ、ありがとうございます」
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "Viola" "!BA0311">
+<name "ヴィオラ" "!BA0311">
 「貴女が頑張れば、イエルの良い刺激になるわ。
 　これからも、頑張りなさい」
 #
 <sprite "ta01c90.iph" 6 5 12>
-<name "Celes" "!AA3253">
+<name "セリス" "!AA3253">
 「は、はい」
 #
 <removesprite -1 11>
@@ -551,19 +551,19 @@
 :2AEA
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「もう一級魔法使いか……」
 #
 <sprite "ta04a24.iph" 4 4 11>
-<name "Soshiette" "!DA0582">
+<name "ソシエット" "!DA0582">
 「本来は、数年掛けて一ランクずつ上げていくもの
 　なのですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、いまさら言うな」
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "Soshiette" "!DA0583">
+<name "ソシエット" "!DA0583">
 「はい」
 #
 <removesprite -1 11>
@@ -572,53 +572,53 @@
 <music 6>
 <background "bg008a0.iph" 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0312">
+<name "ヴィオラ" "!BA0312">
 「……セリスが、二級魔法使いになったらしいわ」
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta02a35.iph" 6 4 11>
-<name "Elle" "!CA0243">
+<name "イエル" "!CA0243">
 「セリスが……」
 #
 <sprite "ta03a06.iph" 2 5 12>
-<name "Viola" "!BA0313">
+<name "ヴィオラ" "!BA0313">
 「並ばれたわね」
 #
 <sprite "ta02a30.iph" 6 4 12>
-<name "Elle" "!CA0244">
+<name "イエル" "!CA0244">
 「む……」
 #
 <sprite "ta03a01.iph" 2 5 12>
-<name "Viola" "!BA0315">
+<name "ヴィオラ" "!BA0315">
 「そうムキにならないの。
 　ランクは飾り。
 　教えたでしょ」
 #
 <sprite "ta02a32.iph" 6 4 12>
-<name "Elle" "!CA0245">
+<name "イエル" "!CA0245">
 「そ、そうですが……」
 #
 <sprite "ta03a06.iph" 2 5 12>
-<name "Viola" "!BA0316">
+<name "ヴィオラ" "!BA0316">
 「敵と対峙した時、ものを言うのはその実力。
 　ランクは役に立たない。
 　強い方が勝つ。
 　それだけよ」
 #
 <sprite "ta02a17.iph" 6 4 12>
-<name "Elle" "!CA0246">
+<name "イエル" "!CA0246">
 「……はい。
 　でも、私が上のランクを目指しても、何も問題あ
 　りませんよね」
 #
 <sprite "ta03a01.iph" 2 5 12>
-<name "Viola" "!BA0317">
+<name "ヴィオラ" "!BA0317">
 「ええ、問題無いわ。
 　頑張りなさい」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0247">
+<name "イエル" "!CA0247">
 「はい」
 #
 <removesprite -1 11>
@@ -627,42 +627,42 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta02a09.iph" 4 4 11>
-<name "Elle" "!CA0248">
+<name "イエル" "!CA0248">
 「三級魔法使い、おめでとう」
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta02a09.iph" 6 4 11>
-<name "Celes" "!AA3254">
+<name "セリス" "!AA3254">
 「ありがとう。
 　イエルちゃん」
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "Elle" "!CA0250">
+<name "イエル" "!CA0250">
 「凄いわね。
 　あっという間に三級なんて」
 #
 <sprite "ta01a90.iph" 2 5 12>
-<name "Celes" "!AA3255">
+<name "セリス" "!AA3255">
 「えへへ……
 　あ、そう言えばイエルちゃんは？」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0251">
+<name "イエル" "!CA0251">
 「二級。
 　すぐに追いつかれそうね」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA3256">
+<name "セリス" "!AA3256">
 「そんな……」
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "Elle" "!CA0252">
+<name "イエル" "!CA0252">
 「いいのよ。
 　お互い、頑張って上のランクを目指しましょう」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA3257">
+<name "セリス" "!AA3257">
 「うん」
 #
 <removesprite -1 11>
@@ -671,33 +671,33 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0584">
+<name "ソシエット" "!DA0584">
 「四級魔法使いですね。
 　おめでとうございます」
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA3258">
+<name "セリス" "!AA3258">
 「ありがとうございます」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA0585">
+<name "ソシエット" "!DA0585">
 「ですが、誰かと戦う時。
 　このランクで相手の力量を測ってはいけません」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA3259">
+<name "セリス" "!AA3259">
 「はい。
 　師匠にも注意されました」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0586">
+<name "ソシエット" "!DA0586">
 「そうですか。
 　……余計な事でした」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA3260">
+<name "セリス" "!AA3260">
 「いえ、ありがとうございます。
 　これからも、よろしくお願いします」
 #
@@ -706,44 +706,44 @@
 :35F3
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「五級魔法使いになったか」
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3261">
+<name "セリス" "!AA3261">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……じゃあ、そろそろ言っておこうかな」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA3262">
+<name "セリス" "!AA3262">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ランクを習得していくウチに、上位ランクの凄さ
 　を感じたと思うが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ランクは協会が決めた目安だ。
 　絶対的な強さを示す物じゃない。
 　そして、魔法使いの中にはランク取得に興味の無
 　い者もいる」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ランクを絶対視しないように。
 　そして、ランクに惑わされないように」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3263">
+<name "セリス" "!AA3263">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それを理解した上で、さらなるランクアップを目
 　指せ」
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "Celes" "!AA3264">
+<name "セリス" "!AA3264">
 「はい」
 #
 <removesprite -1 11>
@@ -758,14 +758,14 @@
 <removesprite -1 11>
 <sprite "ta01c07.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "Celes" "!AA3265">
+<name "セリス" "!AA3265">
 「ありがとうございます」
 #
 <name "協会長秘書" "!GA0114">
 「セリスティーネさん」
 #
 <sprite "ta01c06.iph" 2 5 12>
-<name "Celes" "!AA3266">
+<name "セリス" "!AA3266">
 「はい？」
 #
 <name "協会長秘書" "!GA0115">
@@ -774,7 +774,7 @@
 　頑張ってください」
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "Celes" "!AA3267">
+<name "セリス" "!AA3267">
 「は、はい。
 　ありがとうございます」
 #
@@ -790,7 +790,7 @@
 <removesprite -1 11>
 <sprite "ta01c15.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "Celes" "!AA3268">
+<name "セリス" "!AA3268">
 「ありがとうございます」
 #
 <removesprite -1 11>
@@ -806,14 +806,14 @@
 <removesprite -1 11>
 <sprite "ta01c07.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "Celes" "!AA3269">
+<name "セリス" "!AA3269">
 「ありがとうございます」
 #
 <name "協会長秘書" "!GA0118">
 「これからも、頑張ってください」
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "Celes" "!AA3270">
+<name "セリス" "!AA3270">
 「はい」
 #
 <removesprite -1 11>
@@ -822,26 +822,26 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c06.iph" 4 4 11>
-<name "Celes" "!AA3271">
+<name "セリス" "!AA3271">
 「師匠。
 　九級魔法使いになったのですが、どれぐらいの価
 　値なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ルーン魔法学園を卒業するレベルだ」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA3272">
+<name "セリス" "!AA3272">
 「卒業レベル。
 　凄いんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、卒業レベルでも上位は七級ぐらいになる。
 　九級は平均。
 　確か、イエルは学園を辞めた時、七級だったぞ」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3273">
+<name "セリス" "!AA3273">
 「……まだまだ、頑張ります」
 #
 <removesprite -1 11>
@@ -864,7 +864,7 @@
 <removesprite -1 11>
 <sprite "ta01c07.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "Celes" "!AA3274">
+<name "セリス" "!AA3274">
 「はい」
 #
 <removesprite -1 11>
@@ -880,7 +880,7 @@
 <removesprite -1 11>
 <sprite "ta01c37.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "Celes" "!AA3275">
+<name "セリス" "!AA3275">
 「むう……悔しい」
 #
 <removesprite -1 11>
@@ -889,22 +889,22 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3276">
+<name "セリス" "!AA3276">
 「駄目だったか……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「残念だったな」
 #
 <sprite "ta01c19.iph" 4 4 12>
-<name "Celes" "!AA3277">
+<name "セリス" "!AA3277">
 「次は、ランクアップします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その意気だ。
 　頑張れ」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3278">
+<name "セリス" "!AA3278">
 「はい」
 #
 <removesprite -1 11>
@@ -913,15 +913,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3279">
+<name "セリス" "!AA3279">
 「あうう……
 　失敗しました……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「次、頑張れ」
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "Celes" "!AA3280">
+<name "セリス" "!AA3280">
 「はい」
 #
 <removesprite -1 11>
@@ -930,17 +930,17 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3281">
+<name "セリス" "!AA3281">
 「……むう」
 #
 <removesprite -1 11>
 <sprite "ta01c37.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
-<name "Soshiette" "!DA0587">
+<name "ソシエット" "!DA0587">
 「残念でした」
 #
 <sprite "ta01c19.iph" 2 5 12>
-<name "Celes" "!AA3282">
+<name "セリス" "!AA3282">
 「次、頑張ります」
 #
 <removesprite -1 11>
@@ -955,7 +955,7 @@
 <removesprite -1 11>
 <sprite "ta01c31.iph" 2 5 11>
 <sprite "ta05a20.iph" 6 4 11>
-<name "Celes" "!AA3283">
+<name "セリス" "!AA3283">
 「協会長……」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -963,7 +963,7 @@
 「また、挑戦してね♪」
 #
 <sprite "ta01c37.iph" 2 5 12>
-<name "Celes" "!AA3284">
+<name "セリス" "!AA3284">
 「むうう……」
 #
 <removesprite -1 11>

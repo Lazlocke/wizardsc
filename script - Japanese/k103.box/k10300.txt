@@ -30,7 +30,7 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1045">
+<name "セリス" "!AA1045">
 「えいっ！」
 #
 <removesprite -1 11>
@@ -39,7 +39,7 @@
 　矢は手前で落ちた。
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0350">
+<name "ソシエット" "!DA0350">
 「……弦が弱すぎます。
 　もっと強い弦にしてください」
 #
@@ -49,7 +49,7 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1046">
+<name "セリス" "!AA1046">
 「たぁっ！」
 #
 　セリスは矢を放ち、次々に的に命中させていく。
@@ -57,11 +57,11 @@
 　なかなかの精度だ。
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「良い感じだな」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1047">
+<name "セリス" "!AA1047">
 「はい。
 　この調子で頑張ります」
 #
@@ -71,22 +71,22 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0351">
+<name "ソシエット" "!DA0351">
 「かなり弓矢の扱いが上手くなってきましたね」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Celes" "!AA1048">
+<name "セリス" "!AA1048">
 「ありがとうございます」
 #
 <sprite "ta04a63.iph" 6 4 12>
-<name "Soshiette" "!DA0352">
+<name "ソシエット" "!DA0352">
 「これからは、基本練習に加え、動く的を狙う練習
 　と動きながら狙う練習をやって頂こうと思います」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA1049">
+<name "セリス" "!AA1049">
 「はい。
 　頑張ります」
 #
@@ -96,32 +96,32 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01d06.iph" 4 4 11>
-<name "Celes" "!AA1050">
+<name "セリス" "!AA1050">
 「石を投げるんですか？」
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Soshiette" "!DA0353">
+<name "ソシエット" "!DA0353">
 「はい。
 　どうしました？」
 #
 <sprite "ta01d32.iph" 2 5 12>
-<name "Celes" "!AA1051">
+<name "セリス" "!AA1051">
 「あ、いえ……その、小さい時から石は投げちゃ駄
 　目と言われてましたので」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0354">
+<name "ソシエット" "!DA0354">
 「それは立派な教育だと思います」
 #
 <sprite "ta04a19.iph" 6 4 12>
-<name "Soshiette" "!DA0355">
+<name "ソシエット" "!DA0355">
 「ですが、戦いの場では邪魔です。
 　忘れてください」
 #
 <sprite "ta01d31.iph" 2 5 12>
-<name "Celes" "!AA1052">
+<name "セリス" "!AA1052">
 「は、はい」
 #
 <removesprite -1 11>
@@ -130,29 +130,29 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1053">
+<name "セリス" "!AA1053">
 「石を持って……投げる！」
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Soshiette" "!DA0356">
+<name "ソシエット" "!DA0356">
 「フォームは良い感じです。
 　もう少しだけ、石を投げるタイミングを遅らせて
 　ください」
 #
 <sprite "ta01d09.iph" 2 5 12>
-<name "Celes" "!AA1054">
+<name "セリス" "!AA1054">
 「はい。
 　……えいっ！
 　あ、当たった！」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0357">
+<name "ソシエット" "!DA0357">
 「その調子です」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA1055">
+<name "セリス" "!AA1055">
 「はい」
 #
 <removesprite -1 11>
@@ -161,31 +161,31 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0358">
+<name "ソシエット" "!DA0358">
 「戦場において、石を投げるのはかなり有効な攻撃
 　です。
 　ですが、個々の対戦ではあまり効果的ではありま
 　せん」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0359">
+<name "ソシエット" "!DA0359">
 「なぜだか、わかりますか？」
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Celes" "!AA1056">
+<name "セリス" "!AA1056">
 「腕の振りで、軌道を読まれるからですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0360">
+<name "ソシエット" "!DA0360">
 「その通りです。
 　戦場において有効なのは、集団で投げるから有効
 　なのです。
 　忘れないでください」
 #
 <sprite "ta01d07.iph" 2 5 12>
-<name "Celes" "!AA1057">
+<name "セリス" "!AA1057">
 「はい」
 #
 <removesprite -1 11>
@@ -194,39 +194,39 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0361">
+<name "ソシエット" "!DA0361">
 「ナイフの投げ方は多数ありますが、お薦めは振り
 　かぶって投げる方法と、下から手首だけで投げる
 　方法です」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0362">
+<name "ソシエット" "!DA0362">
 「前者は威力と距離を重視し、後者は不意打ち用で
 　す」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Celes" "!AA1058">
+<name "セリス" "!AA1058">
 「はい」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0363">
+<name "ソシエット" "!DA0363">
 「例を見せましょう。
 　ご主人様、協力……あれ？
 　どこに行きました？」
 #
 <sprite "ta01d32.iph" 2 5 12>
-<name "Celes" "!AA1059">
+<name "セリス" "!AA1059">
 「一目散に向こう側に……」
 #
 <sprite "ta04a86.iph" 6 4 12>
-<name "Soshiette" "!DA0364">
+<name "ソシエット" "!DA0364">
 「仕方がありません。
 　案山子を相手に例を見せます」
 #
 <sprite "ta01d92.iph" 2 5 12>
-<name "Celes" "!AA1060">
+<name "セリス" "!AA1060">
 「……
 　師匠を相手に、ナイフを投げる気だったのかな？」
 #
@@ -242,14 +242,14 @@
 　うおっ、いつの間にかナイフが案山子に……
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1061">
+<name "セリス" "!AA1061">
 「見えました？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、全然……凄いな」
 #
 <sprite "ta01d31.iph" 4 4 12>
-<name "Celes" "!AA1062">
+<name "セリス" "!AA1062">
 「これでも、ソシエットさんには駄目出しをされて
 　まして……もっと頑張らないと」
 #
@@ -261,15 +261,15 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta04a73.iph" 4 4 11>
-<name "Soshiette" "!DA0366">
+<name "ソシエット" "!DA0366">
 「四本！」
 #
 <sprite "ta04a72.iph" 4 4 12>
-<name "Soshiette" "!DA0367">
+<name "ソシエット" "!DA0367">
 「二本！」
 #
 <sprite "ta04a73.iph" 4 4 12>
-<name "Soshiette" "!DA0368">
+<name "ソシエット" "!DA0368">
 「六本！」
 #
 <removesprite -1 11>
@@ -278,27 +278,27 @@
 　く。
 #
 <sprite "ta01d03.iph" 4 4 11>
-<name "Celes" "!AA1063">
+<name "セリス" "!AA1063">
 「どうですか？」
 #
 <removesprite -1 11>
 <sprite "ta01d03.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Soshiette" "!DA0369">
+<name "ソシエット" "!DA0369">
 「最終的には、私の背後にある案山子を狙って貰う
 　のです。
 　もう少し、私の傍を狙ってください」
 #
 <sprite "ta01d21.iph" 2 5 12>
-<name "Celes" "!AA1064">
+<name "セリス" "!AA1064">
 「はい」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0370">
+<name "ソシエット" "!DA0370">
 「では、もう一度」
 #
 <sprite "ta01d20.iph" 2 5 12>
-<name "Celes" "!AA1065">
+<name "セリス" "!AA1065">
 「はい」
 #
 <removesprite -1 11>
@@ -308,7 +308,7 @@
 <background "bg004a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1655: 
 <sprite "ta01d03.iph" 4 4 11>
-<name "Celes" "!AA1071">
+<name "セリス" "!AA1071">
 「的に当てないと」
 #
 <removesprite -1 11>
@@ -316,7 +316,7 @@
 :1655
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :16D7: 
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1072">
+<name "セリス" "!AA1072">
 「遠くの相手を攻撃できるので、有利なのかな？」
 #
 <removesprite -1 11>
@@ -324,7 +324,7 @@
 :16D7
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :174B: 
 <sprite "ta01d31.iph" 4 4 11>
-<name "Celes" "!AA1073">
+<name "セリス" "!AA1073">
 「動く相手を狙うのは難しい……」
 #
 <removesprite -1 11>
@@ -332,7 +332,7 @@
 :174B
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :17AD: 
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1074">
+<name "セリス" "!AA1074">
 「練習、開始」
 #
 <removesprite -1 11>

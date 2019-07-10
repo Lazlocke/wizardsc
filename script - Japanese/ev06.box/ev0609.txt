@@ -57,21 +57,21 @@
 『探索』
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA6318">
+<name "セリス" "!AA6318">
 「……ここです！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「無いぞ」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA6319">
+<name "セリス" "!AA6319">
 「じゃあ、こっちです！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「無いぞ」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA6320">
+<name "セリス" "!AA6320">
 「こっちかも！」
 #
 <removesprite -1 11>
@@ -85,14 +85,14 @@
 『探索』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6321">
+<name "セリス" "!AA6321">
 「無くした小物は……
 　こっちです！」
 #
 <removesprite -1 11>
 　セリスは水晶球を前にそう言った。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それは探索技術じゃなくて……占いじゃないかな」
 #
 <exit>
@@ -102,27 +102,27 @@
 『探索』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6322">
+<name "セリス" "!AA6322">
 「物を探す時のコツは、視点の変更です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「視点変更？」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA6323">
+<name "セリス" "!AA6323">
 「はい。
 　人間、どうしても自分の目線で物を探しますが、
 　同じ場所を何度探しても意味はありません。
 　目線を変える事で、短時間の捜索が可能なのです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「つまり、しゃがんだり、背伸びしたりしろと」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6324">
+<name "セリス" "!AA6324">
 「ぶっちゃけると、そうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「簡単なコツだな」
 #
 <removesprite -1 11>
@@ -133,16 +133,16 @@
 『謎解き』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6325">
+<name "セリス" "!AA6325">
 「むう……
 　犯人は、被害者の友人、トム！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「推理物の本……
 　最初の数ページで推理するのは侮辱じゃないか？」
 #
 <sprite "ta01a25.iph" 4 4 12>
-<name "Celes" "!AA6326">
+<name "セリス" "!AA6326">
 「いえ、間違いありません！」
 #
 <removesprite -1 11>
@@ -150,14 +150,14 @@
 #
 　……
 #
-<name "Lazlocke">
+<name "ラズロック">
 「違ったぞ」
 #
 <sprite "ta01a23.iph" 4 4 11>
-<name "Celes" "!AA6327">
+<name "セリス" "!AA6327">
 「ば、馬鹿なっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「謎解きは……
 　謎に出会ってからにしないか？
 　犯人がどうやって殺したとか、どうやってあの場
@@ -171,14 +171,14 @@
 『謎解き』
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6328">
+<name "セリス" "!AA6328">
 「こうやって、こうして……こうすれば……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おお、あの難解なパズルを一瞬で……」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6329">
+<name "セリス" "!AA6329">
 「私に掛かればこの程度、楽勝です」
 #
 <removesprite -1 11>
@@ -192,22 +192,22 @@
 『謎解き』
 #
 <sprite "ta01a32.iph" 4 4 11>
-<name "Celes" "!AA6330">
+<name "セリス" "!AA6330">
 「むう……難しい」
 #
 <removesprite -1 11>
 　セリスが異国のパズルを前に、悩んでいた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリスがパズルで悩むなんて、珍しいな」
 #
 <sprite "ta01a92.iph" 4 4 11>
-<name "Celes" "!AA6331">
+<name "セリス" "!AA6331">
 「いえ、そうじゃないんです。
 　このパズル。
 　どうなれば正解なのか、わからなくて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、なるほど。
 　ルールがわからないか……よくある。
 　よくある。
@@ -221,30 +221,30 @@
 『魔物の知識』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6332">
+<name "セリス" "!AA6332">
 「この絵の魔物は、夜行性で動きが速いですが、火
 　に弱いと言う弱点があるので、夜道では火を持っ
 　て歩けば大丈夫です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なるほど」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA6333">
+<name "セリス" "!AA6333">
 「こちらの絵の魔物も夜行性です。
 　普段は温厚で動きは鈍いのですが、火を見ると興
 　奮して襲ってきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なるほど。
 　その二種類の魔物が居る場所ではどうすれば良い
 　んだ？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6334">
+<name "セリス" "!AA6334">
 「夜に、そんな場所に行かない事です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「正論だな」
 #
 <removesprite -1 11>
@@ -255,32 +255,32 @@
 『魔物の知識』
 #
 <sprite "ta01a31.iph" 4 4 11>
-<name "Celes" "!AA6335">
+<name "セリス" "!AA6335">
 「魔物の生態を知れば知るほど、不思議ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうなのか？」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA6336">
+<name "セリス" "!AA6336">
 「はい。
 　正直、この世界に適した生物とは思えません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なるほど……
 　魔物は、遥か昔に魔界や天界からやってきた生物
 　だと言う説がある」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA6337">
+<name "セリス" "!AA6337">
 「はい。
 　もっと研究していきたいと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、根を詰めないようにな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6338">
+<name "セリス" "!AA6338">
 「頑張ります」
 #
 <removesprite -1 11>
@@ -291,24 +291,24 @@
 『魔物の知識』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6339">
+<name "セリス" "!AA6339">
 「同じ魔物でも、動きや行動パターンが違う場合が
 　ありますよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6340">
+<name "セリス" "!AA6340">
 「どうしてなんですかね？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「人間でも、同じ風に対処しないだろ。
 　その個性じゃないか？
 　本質は変わってないわけだし」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA6341">
+<name "セリス" "!AA6341">
 「なるほど……個性と言う事ですね。
 　興味深い……
 　もっと研究しないと」
@@ -326,7 +326,7 @@
 「なーなー、この魔物、知ってる？」
 #
 <sprite "ta01a90.iph" 4 4 11>
-<name "Celes" "!AA6342">
+<name "セリス" "!AA6342">
 「これはアンギヌウス＝ヘリクサス。
 　通称ベトよ」
 #
@@ -344,34 +344,34 @@
 『罠知識』
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA1183">
+<name "ソシエット" "!DA1183">
 「大会には罠がありませんが、塔などには良くあり
 　ます」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA1184">
+<name "ソシエット" "!DA1184">
 「無駄に戦わない為にも、良く覚えてください」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA6343">
+<name "セリス" "!AA6343">
 「はい」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1187">
+<name "ソシエット" "!DA1187">
 「では、こちらに用意した道を進んでください」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA6344">
+<name "セリス" "!AA6344">
 「え？」
 #
 <sprite "ta04a09.iph" 6 4 12>
-<name "Soshiette" "!DA1188">
+<name "ソシエット" "!DA1188">
 「何事も、身を持って覚えるのが一番です」
 #
 <sprite "ta01a42.iph" 2 5 12>
-<name "Celes" "!AA6345">
+<name "セリス" "!AA6345">
 「……が、頑張ります」
 #
 <removesprite -1 11>
@@ -384,36 +384,36 @@
 <background "bg014a0.iph" 11>
 『罠知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……セリス君」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6346">
+<name "セリス" "!AA6346">
 「はい。
 　なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうして、俺の背中について歩く」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6347">
+<name "セリス" "!AA6347">
 「安全だからです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……罠対策か？」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA6348">
+<name "セリス" "!AA6348">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「師匠を犠牲にする事に、心を痛める事は？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6349">
+<name "セリス" "!AA6349">
 「師匠なら躱すと信じています」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <removesprite -1 11>
@@ -426,31 +426,31 @@
 <background "bg002a0.iph" 11>
 『罠知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうした、セリス。
 　挙動不審だぞ？」
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6350">
+<name "セリス" "!AA6350">
 「そうですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、扉の前には立たないし、開け方も変だ。
 　なぜ、しゃがみながら扉を開ける？」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA6351">
+<name "セリス" "!AA6351">
 「罠の大半は、人の高さを計算しています。
 　特に致命傷を狙うなら首の高さです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「家の玄関に、罠を仕掛ける馬鹿が居るか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6352">
+<name "セリス" "!AA6352">
 「人の心理の裏を突くのが罠です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <removesprite -1 11>
@@ -464,37 +464,37 @@
 <background "bg002a0.iph" 11>
 『罠知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ソシエット君」
 #
 <sprite "ta04a06.iph" 4 4 11>
-<name "Soshiette" "!DA1189">
+<name "ソシエット" "!DA1189">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリスに罠に関する知識を教えたね」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA1190">
+<name "ソシエット" "!DA1190">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「やりすぎだ。
 　人間不信のレベルにまでなっているじゃないか」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1191">
+<name "ソシエット" "!DA1191">
 「罠とは、人の悪意と悪戯を見抜く力です。
 　極めようとすれば、そうなってしまう事も避けら
 　れないと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「言い訳はわかったから、セリスを部屋から出すよ
 　うに。
 　ずーっと引き篭もってる」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA1192">
+<name "ソシエット" "!DA1192">
 「努力します」
 #
 <removesprite -1 11>
@@ -505,21 +505,21 @@
 『毒知識』
 #
 <sprite "ta01a32.iph" 4 4 11>
-<name "Celes" "!AA6353">
+<name "セリス" "!AA6353">
 「これは……毒です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「こっちは？」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA6354">
+<name "セリス" "!AA6354">
 「大丈夫です」
 #
 <removesprite -1 11>
 　セリスの毒知識はなかなか役に立つ。
 #
 <sprite "ta01a36.iph" 4 4 11>
-<name "Celes" "!AA6355">
+<name "セリス" "!AA6355">
 「でも、倉庫の食材の安全確認に使われるとは思っ
 　ていませんでした」
 #
@@ -531,34 +531,34 @@
 『毒知識』
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6356">
+<name "セリス" "!AA6356">
 「うーん、うーん」
 #
 <removesprite -1 11>
 　セリスは二つのコップを前に、悩んでいた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「何を悩んでいるんだ？」
 #
 <sprite "ta01a32.iph" 4 4 11>
-<name "Celes" "!AA6357">
+<name "セリス" "!AA6357">
 「このコップの中身、両方とも美味しいジュースな
 　んですが、どちらかに毒が入っているんです。
 　それで、困っているんです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「両方、捨てろ」
 #
 <sprite "ta01a37.iph" 4 4 12>
-<name "Celes" "!AA6358">
+<name "セリス" "!AA6358">
 「ええ！
 　片方は美味しいジュースなんですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「この場合は、両方共入っていると考えるんだ」
 #
 <sprite "ta01a41.iph" 4 4 12>
-<name "Celes" "!AA6359">
+<name "セリス" "!AA6359">
 「むうう……」
 #
 <removesprite -1 11>
@@ -569,31 +569,31 @@
 『毒知識』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1193">
+<name "ソシエット" "!DA1193">
 「毒草や毒キノコに関しては、経験しかありません」
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA6360">
+<name "セリス" "!AA6360">
 「まさか、食べて覚えるんですか？」
 #
 <sprite "ta04a26.iph" 6 4 12>
-<name "Soshiette" "!DA1194">
+<name "ソシエット" "!DA1194">
 「そうしたかったのですが、ご主人様に止められま
 　した」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA6361">
+<name "セリス" "!AA6361">
 「師匠。
 　ありがとうございます」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA1195">
+<name "ソシエット" "!DA1195">
 「仕方が無いので、図鑑で覚えてください」
 #
 <sprite "ta01a17.iph" 2 5 12>
-<name "Celes" "!AA6362">
+<name "セリス" "!AA6362">
 「師匠。
 　本当にありがとうございます」
 #
@@ -605,17 +605,17 @@
 『毒知識』
 #
 <sprite "ta01a10.iph" 4 4 11>
-<name "Celes" "!AA6363">
+<name "セリス" "!AA6363">
 「……ば、馬鹿な」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうした？」
 #
 <sprite "ta01a37.iph" 4 4 12>
-<name "Celes" "!AA6364">
+<name "セリス" "!AA6364">
 「自分の作った料理から、毒反応が……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………精進するように」
 #
 <removesprite -1 11>
@@ -625,27 +625,27 @@
 <background "bg002a0.iph" 11>
 『大会の知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大会で勝ち抜くテクニック、その一」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「相手の力量を見極める」
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6365">
+<name "セリス" "!AA6365">
 「相手の力量ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　敵を知り、己を知れば百戦危うからず。
 　初戦は仕方が無いが、それ以外は相手も戦ってい
 　る」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちゃんと観察するように」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA6366">
+<name "セリス" "!AA6366">
 「はい。
 　わかりました」
 #
@@ -656,46 +656,46 @@
 <background "bg002a0.iph" 11>
 『大会の知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大会で勝ち抜くテクニック、その二」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「体力を温存する」
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA6368">
+<name "セリス" "!AA6368">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうやって体力を温存するかと言うとだな……
 　雑魚相手には、全力で速攻だ！」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA6369">
+<name "セリス" "!AA6369">
 「全力で速攻ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「早く倒せば、試合は早く終わる。
 　それは体力温存に繋がる」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6370">
+<name "セリス" "!AA6370">
 「なるほど。
 　師匠の夜の行為と一緒ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……セリス君。
 　いま、壮絶な毒を吐いたね」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA6371">
+<name "セリス" "!AA6371">
 「え？」
 #
 <removesprite -1 11>
 　俺はセリスを押し倒し、徹底的に弄ってやった。
 #
 <sprite "ta01a80.iph" 4 4 11>
-<name "Celes" "!AA6372">
+<name "セリス" "!AA6372">
 「あ、あうう……し、死ぬ……」
 #
 <removesprite -1 11>
@@ -705,36 +705,36 @@
 <background "bg002a0.iph" 11>
 『大会の知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大会で勝ち抜くテクニック、その三」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「技の温存」
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6373">
+<name "セリス" "!AA6373">
 「技を温存するんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　序盤でこちらの技を全て見せてしまうと、相手に
 　対策される可能性がある」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、魔法などは即座に対応できないから大丈夫
 　だとは思うが、用心に越した事は無い」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA6374">
+<name "セリス" "!AA6374">
 「わかりました。
 　技を出し惜しみするんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　しかし、相手が強い場合は遠慮はいらないぞ」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA6375">
+<name "セリス" "!AA6375">
 「はい」
 #
 <removesprite -1 11>
@@ -744,32 +744,32 @@
 <background "bg002a0.iph" 11>
 『大会の知識』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大会で勝ち抜くテクニック、その四」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「審判を味方にする！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだが……ジャッジマンは実に公平だ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ジャッジマンじゃない時に考えるように」
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA6376">
+<name "セリス" "!AA6376">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「味方にする方法としては、直接的にコビを売る方
 　法と、礼儀正しくし、審判の判定には逆らいませ
 　んと服従する方法がある」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「相手を見て、方法を変えるように」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA6377">
+<name "セリス" "!AA6377">
 「はい」
 #
 <removesprite -1 11>
@@ -780,45 +780,45 @@
 『戦術』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6378">
+<name "セリス" "!AA6378">
 「師匠。
 　戦術を学ぶ為に、一局、お相手をお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「チェスか……良いだろう」
 #
 <removesprite -1 11>
 　数分後。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ば、馬鹿な」
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA6379">
+<name "セリス" "!AA6379">
 「あ、あはは……ぐ、偶然ですよ」
 #
 <removesprite -1 11>
 <sprite "ta04a63.iph" 4 4 11>
-<name "Soshiette" "!DA1196">
+<name "ソシエット" "!DA1196">
 「いえ、偶然ではありません。
 　戦術面で、見事でした」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ソシエット……」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA1197">
+<name "ソシエット" "!DA1197">
 「席を替わってください。
 　次は私がお相手しましょう」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA6380">
+<name "セリス" "!AA6380">
 「お、お願いします」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1198">
+<name "ソシエット" "!DA1198">
 「私は、そこの負け犬とは違いますよ」
 #
 <removesprite -1 11>
@@ -833,36 +833,36 @@
 　セリスは、ソシエットに昔の戦いを教わっていた。
 #
 <sprite "ta04a63.iph" 4 4 11>
-<name "Soshiette" "!DA1199">
+<name "ソシエット" "!DA1199">
 「東軍と西軍の動き、どう思いますか？」
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a63.iph" 6 4 11>
-<name "Celes" "!AA6381">
+<name "セリス" "!AA6381">
 「西軍が圧倒的に有利です。
 　負ける事が考えられません」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA1200">
+<name "ソシエット" "!DA1200">
 「ですが、これは西軍が負けるのです」
 #
 <sprite "ta01a10.iph" 2 5 12>
-<name "Celes" "!AA6382">
+<name "セリス" "!AA6382">
 「そんな馬鹿な。
 　どうしてですか？」
 #
 <sprite "ta04a87.iph" 6 4 12>
-<name "Soshiette" "!DA1201">
+<name "ソシエット" "!DA1201">
 「裏切りです」
 #
 <sprite "ta01a32.iph" 2 5 12>
-<name "Celes" "!AA6383">
+<name "セリス" "!AA6383">
 「この局面で裏切るなんて……
 　裏切ったのは馬鹿ですか？」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA1202">
+<name "ソシエット" "!DA1202">
 「馬鹿なんでしょう。
 　では、個々の戦いに関して説明します。
 　まず、緒戦はこことこの部隊が激突しました」
@@ -878,30 +878,30 @@
 <background "bg002a0.iph" 11>
 『戦術』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「戦術か……」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6384">
+<name "セリス" "!AA6384">
 「あの、師匠。
 　別に体のどこから責めるかの授業ではありません
 　よ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺、そんなにエロそうな顔をしていたか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6385">
+<name "セリス" "!AA6385">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………」
 #
 <removesprite -1 11>
 　とりあえず、セリスを襲っておいた。
 #
 <sprite "ta01a79.iph" 4 4 11>
-<name "Celes" "!AA6386">
+<name "セリス" "!AA6386">
 「うう……見事な力押し……」
 #
 <removesprite -1 11>

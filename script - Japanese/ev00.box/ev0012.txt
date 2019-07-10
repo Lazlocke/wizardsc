@@ -61,7 +61,7 @@
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a05.iph" 6 5 11>
-<name "Soshiette" "!DA0915">
+<name "ソシエット" "!DA0915">
 「変態のようですが……」
 #
 <sprite "ta05a21.iph" 6 5 12>
@@ -73,7 +73,7 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0916">
+<name "ソシエット" "!DA0916">
 「報告します」
 #
 <removesprite -1 11>
@@ -82,67 +82,67 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0917">
+<name "ソシエット" "!DA0917">
 「イエルさん、頑張っていますね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta04a63.iph" 4 4 12>
-<name "Soshiette" "!DA0918">
+<name "ソシエット" "!DA0918">
 「セリスさんに立ちはだかる、大きな壁となるでしょ
 　う」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta04a19.iph" 4 4 12>
-<name "Soshiette" "!DA0919">
+<name "ソシエット" "!DA0919">
 「……
 　なぜイエルさんに魔力を？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ、怒っていたのか」
 #
 <sprite "ta04a64.iph" 4 4 12>
-<name "Soshiette" "!DA0920">
+<name "ソシエット" "!DA0920">
 「わざわざ、ぶつかると判っている相手にどうして
 　ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「障害は大きい方が良いだろ」
 #
 <sprite "ta04a16.iph" 4 4 12>
-<name "Soshiette" "!DA0921">
+<name "ソシエット" "!DA0921">
 「すでに十分、大きいと思うのですが」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあな。
 　気紛れと思ってくれ」
 #
 <sprite "ta04a15.iph" 4 4 12>
-<name "Soshiette" "!DA0922">
+<name "ソシエット" "!DA0922">
 「気紛れ……ですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ、その目は？」
 #
 <sprite "ta04a19.iph" 4 4 12>
-<name "Soshiette" "!DA0923">
+<name "ソシエット" "!DA0923">
 「本当の理由は、なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ヴィオラに頼まれたからだ」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA0924">
+<name "ソシエット" "!DA0924">
 「相変わらず、ヴィオラ様には弱いのですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「アイツに強いヤツが居るのか？」
 #
 <sprite "ta04a87.iph" 4 4 12>
-<name "Soshiette" "!DA0925">
+<name "ソシエット" "!DA0925">
 「……はぁ」
 #
 <removesprite -1 11>
@@ -157,7 +157,7 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
-<name "Celes" "!AA5690">
+<name "セリス" "!AA5690">
 「え？」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -165,7 +165,7 @@
 「プレゼントよ」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA5691">
+<name "セリス" "!AA5691">
 「あの、貴女は？」
 #
 <sprite "ta05a11.iph" 6 4 12>
@@ -189,7 +189,7 @@
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
-<name "Celes" "!AA5692">
+<name "セリス" "!AA5692">
 「あの、貴女は？」
 #
 <sprite "ta05a11.iph" 6 4 12>
@@ -197,7 +197,7 @@
 「気にしちゃ駄目よ」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA5693">
+<name "セリス" "!AA5693">
 「え？
 　あれ？
 　行っちゃった……」
@@ -213,12 +213,12 @@
 #
 <removesprite -1 11>
 <sprite "ta02a01.iph" 4 5 11>
-<name "Elle" "!CA0857">
+<name "イエル" "!CA0857">
 「あれ？
 　変な視線を感じたけど……」
 #
 <sprite "ta02a06.iph" 4 5 12>
-<name "Elle" "!CA0858">
+<name "イエル" "!CA0858">
 「なんだったんだろ？」
 #
 <removesprite -1 11>
@@ -227,27 +227,27 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA5694">
+<name "セリス" "!AA5694">
 「あの人……
 　学園の関係者かな？」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Elle" "!CA0859">
+<name "イエル" "!CA0859">
 「誰の事？」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA5695">
+<name "セリス" "!AA5695">
 「あそこに居る人」
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "Elle" "!CA0860">
+<name "イエル" "!CA0860">
 「ん？
 　どこ？」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA5696">
+<name "セリス" "!AA5696">
 「……あれ？
 　居なくなった」
 #
@@ -285,7 +285,7 @@
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a05.iph" 6 5 11>
-<name "Soshiette" "!DA0926">
+<name "ソシエット" "!DA0926">
 「あの、何をしているのですか？」
 #
 <sprite "ta05a10.iph" 6 5 12>
@@ -293,7 +293,7 @@
 「登場の時の練習」
 #
 <sprite "ta04a24.iph" 2 4 12>
-<name "Soshiette" "!DA0927">
+<name "ソシエット" "!DA0927">
 「別に、すっと出ていけば良いじゃないですか」
 #
 <sprite "ta05a15.iph" 6 5 12>
@@ -301,7 +301,7 @@
 「こういった所に拘らずして、どこに拘るのよ」
 #
 <sprite "ta04a86.iph" 2 4 12>
-<name "Soshiette" "!DA0928">
+<name "ソシエット" "!DA0928">
 「いえ、別にどこにも拘らなければ良いと思います
 　が……」
 #
@@ -317,7 +317,7 @@
 <removesprite -1 11>
 <sprite "ta04a23.iph" 2 4 11>
 <sprite "ta05a23.iph" 6 5 11>
-<name "Soshiette" "!DA0929">
+<name "ソシエット" "!DA0929">
 「コソコソしているからですよ。
 　協会長」
 #
@@ -333,7 +333,7 @@
 <removesprite -1 11>
 <sprite "ta04a23.iph" 2 4 11>
 <sprite "ta05a12.iph" 6 5 11>
-<name "Soshiette" "!DA0930">
+<name "ソシエット" "!DA0930">
 「なにを……しているのですか？」
 #
 <sprite "ta05a40.iph" 6 5 12>
@@ -341,7 +341,7 @@
 「…………今、見たのは忘れなさい」
 #
 <sprite "ta04a28.iph" 2 4 12>
-<name "Soshiette" "!DA0931">
+<name "ソシエット" "!DA0931">
 「は、はい」
 #
 <removesprite -1 11>
@@ -356,7 +356,7 @@
 <removesprite -1 11>
 <sprite "ta04a10.iph" 2 4 11>
 <sprite "ta05a06.iph" 6 5 11>
-<name "Soshiette" "!DA0932">
+<name "ソシエット" "!DA0932">
 「参加されますか？」
 #
 <sprite "ta05a21.iph" 6 5 12>
@@ -375,7 +375,7 @@
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a01.iph" 6 5 11>
-<name "Soshiette" "!DA0933">
+<name "ソシエット" "!DA0933">
 「思わせぶりですね」
 #
 <sprite "ta05a12.iph" 6 5 12>
@@ -388,7 +388,7 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta04a23.iph" 4 4 11>
-<name "Soshiette" "!DA0906">
+<name "ソシエット" "!DA0906">
 「協会長。
 　ご主人様とヴィオラ様の仲を取り持つのには、何
 　か目的があるのですか？」
@@ -400,7 +400,7 @@
 「目的は、ラズの幸せよ」
 #
 <sprite "ta04a24.iph" 2 4 12>
-<name "Soshiette" "!DA0907">
+<name "ソシエット" "!DA0907">
 「ご主人様の幸せ……ですか？」
 #
 <sprite "ta05a04.iph" 6 5 12>
@@ -424,7 +424,7 @@
 　味があると思わない？」
 #
 <sprite "ta04a22.iph" 2 4 12>
-<name "Soshiette" "!DA0908">
+<name "ソシエット" "!DA0908">
 「……そうですね」
 #
 <sprite "ta05a07.iph" 6 5 12>
@@ -445,7 +445,7 @@
 「なかなか、上手くいかないものね」
 #
 <sprite "ta04a28.iph" 2 4 12>
-<name "Soshiette" "!DA0909">
+<name "ソシエット" "!DA0909">
 「男女の仲とは、そういうものです」
 #
 <removesprite -1 11>
@@ -454,7 +454,7 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0910">
+<name "ソシエット" "!DA0910">
 「協会長は、ご主人様の事を……」
 #
 <removesprite -1 11>
@@ -464,7 +464,7 @@
 「もちろん、好きよ」
 #
 <sprite "ta04a24.iph" 2 4 12>
-<name "Soshiette" "!DA0911">
+<name "ソシエット" "!DA0911">
 「では……」
 #
 <sprite "ta05a10.iph" 6 5 12>
@@ -476,7 +476,7 @@
 「協会を大きくしちゃった責任もあるしね」
 #
 <sprite "ta04a24.iph" 2 4 12>
-<name "Soshiette" "!DA0912">
+<name "ソシエット" "!DA0912">
 「協会長……」
 #
 <sprite "ta05a07.iph" 6 5 12>
@@ -484,7 +484,7 @@
 「若い者は、若い者に任せるとするわ」
 #
 <sprite "ta04a28.iph" 2 4 12>
-<name "Soshiette" "!DA0913">
+<name "ソシエット" "!DA0913">
 「まだまだ、お若いですよ」
 #
 <sprite "ta05a12.iph" 6 5 12>
@@ -497,7 +497,7 @@
 　立つかも」
 #
 <sprite "ta04a29.iph" 2 4 12>
-<name "Soshiette" "!DA0914">
+<name "ソシエット" "!DA0914">
 「あはは……
 　良い食事と、弛まぬ運動の成果です」
 #

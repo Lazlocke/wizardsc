@@ -2,32 +2,32 @@
 <background "ev059a0.iph" 10>
 　俺はイエルの胸に吸い付く。
 #
-<name "Elle" "!CA0692">
+<name "イエル" "!CA0692">
 「あ、ん、んぁ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん……良い感触だ……」
 #
 　セリスよりは小振りだが……
 #
-<name "Elle" "!CA0693">
+<name "イエル" "!CA0693">
 「ん！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？
 　凄い殺気だったぞ」
 #
-<name "Elle" "!CA0694">
+<name "イエル" "!CA0694">
 「今、別の人の事を考えてませんでしたか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え？
 　あ、いや、全然」
 #
-<name "Elle" "!CA0695">
+<name "イエル" "!CA0695">
 「そうですか……すみません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「い、いや……」
 #
 　女のカンは恐ろしい。

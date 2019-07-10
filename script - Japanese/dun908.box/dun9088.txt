@@ -12,10 +12,10 @@
 \x2B
 <background "bg002a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0597">
+<name "ソシエット" "!DA0597">
 「まだまだですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな……
 　ま、早々に登れるとは思っていないさ」
 #
@@ -25,10 +25,10 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA0598">
+<name "ソシエット" "!DA0598">
 「惜しかったですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だな……」
 #
 <removesprite -1 11>
@@ -37,34 +37,34 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0325">
+<name "ヴィオラ" "!BA0325">
 「駄目だったの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ……
 　どうしたんだ？」
 #
 <sprite "ta03a32.iph" 4 4 12>
-<name "Viola" "!BA0326">
+<name "ヴィオラ" "!BA0326">
 「んー、魔法の塔を教えたの私だから、責任を……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気にするな。
 　いきなり登れたら、修行にならないだろ」
 #
 <sprite "ta03a34.iph" 4 4 12>
-<name "Viola" "!BA0327">
+<name "ヴィオラ" "!BA0327">
 「そうだろうけど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あんまり心配すると、セリスが怒るから止めてく
 　れ」
 #
 <sprite "ta03a31.iph" 4 4 12>
-<name "Viola" "!BA0328">
+<name "ヴィオラ" "!BA0328">
 「そうなの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、見かけによらず負けず嫌いなんだ。
 　お前が応援していたと伝えておくよ」
 #
@@ -74,23 +74,23 @@
 \x41 10 
 <background "bg002a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "Celes" "!AA3358">
+<name "セリス" "!AA3358">
 「師匠、魔法の塔！
 　登ってきました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よくやった」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3359">
+<name "セリス" "!AA3359">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しかし、あの塔に凶悪な魔法使いは居なかった事
 　を忘れないように」
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "Celes" "!AA3360">
+<name "セリス" "!AA3360">
 「はい」
 #
 <removesprite -1 11>

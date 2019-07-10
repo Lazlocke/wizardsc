@@ -4,70 +4,70 @@
 :31
 <background "bg002a0.iph" 11>
 <sprite "ta01c06.iph" 4 4 11>
-<name "Celes" "!AA3722">
+<name "セリス" "!AA3722">
 「詠唱の塔と言えば……
 　魔法使い協会の本部ですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　街の中心にそびえるあの偉そうな塔だ」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA3723">
+<name "セリス" "!AA3723">
 「そこに挑戦って……
 　どうすれば良いんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「登れば良いんだ」
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "Celes" "!AA3724">
+<name "セリス" "!AA3724">
 「そう言われても……
 　普通にいつでも入れるんじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「挑戦札を持つ。
 　そうすれば、本部に居る魔法使いが妨害してくれ
 　る。
 　容赦無いぞ」
 #
 <sprite "ta01c10.iph" 4 4 12>
-<name "Celes" "!AA3725">
+<name "セリス" "!AA3725">
 「よ、容赦が無いんですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「実験や研究用に捕まえた魔物を放つヤツとか居る
 　から注意するように。
 　あと、施設は魔法で強化されているから気にしな
 　くて良いぞ」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA3726">
+<name "セリス" "!AA3726">
 「は、はい。
 　わかりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そう不安そうにするな。
 　大丈夫。
 　無茶な場所に、俺が行かせるわけないだろ」
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "Celes" "!AA3727">
+<name "セリス" "!AA3727">
 「そ、そうですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「頑張って登ってこい」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3728">
+<name "セリス" "!AA3728">
 「はい！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちなみに、俺も昔に挑戦したが……
 　登りきれなかった」
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "Celes" "!AA3729">
+<name "セリス" "!AA3729">
 「き、聞きたくなかった情報です」
 #
 <removesprite -1 11>

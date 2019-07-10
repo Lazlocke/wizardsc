@@ -28,22 +28,22 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d0.iph" 10>
 :139 + 1
-<name "Lazlocke">
+<name "ラズロック">
 「うーん」
 #
-<name "Celes" "!AA4970">
+<name "セリス" "!AA4970">
 「な、なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「前々から何度も思っているが……」
 #
-<name "Celes" "!AA4971">
+<name "セリス" "!AA4971">
 「はい？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「良い女だ」
 #
-<name "Celes" "!AA4972">
+<name "セリス" "!AA4972">
 「え？
 　あ、きゃぁっ♪」
 #

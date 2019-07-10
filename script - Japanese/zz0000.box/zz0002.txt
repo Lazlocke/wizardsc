@@ -1,100 +1,100 @@
 <music 2>
 <background "bg001a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「こーいつー♪」
 #
 <sprite "ta01a17.iph" 4 4 11>
-<name "Celes" "!AA7117">
+<name "セリス" "!AA7117">
 「あん、もう……師匠ったら♪」
 #
 <removesprite -1 11>
 <sprite "ta03a08.iph" 4 4 11>
-<name "Viola" "!BA1313">
+<name "ヴィオラ" "!BA1313">
 「……なに、やってるの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「こらこら、冷たい目で見るなよ」
 #
 <removesprite -1 11>
 <sprite "ta03a08.iph" 2 4 11>
 <sprite "ta01a07.iph" 6 5 11>
-<name "Celes" "!AA7118">
+<name "セリス" "!AA7118">
 「王様ゲームです。
 　ヴィオラさんも入りませんか？」
 #
 <sprite "ta03a03.iph" 2 4 12>
-<name "Viola" "!BA1314">
+<name "ヴィオラ" "!BA1314">
 「王様ゲームって……今時」
 #
 <sprite "ta01a15.iph" 6 5 12>
-<name "Celes" "!AA7119">
+<name "セリス" "!AA7119">
 「まあまあ」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA1315">
+<name "ヴィオラ" "!BA1315">
 「一回だけよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……やるんだ」
 #
 <sprite "ta01a09.iph" 6 5 12>
-<name "Celes" "!AA7120">
+<name "セリス" "!AA7120">
 「じゃあ、クジを持ってください。
 　いきますよー、おーさまだーれだ♪」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1450">
+<name "ソシエット" "!DA1450">
 「はい」
 #
 <removesprite -1 11>
 <sprite "ta01a90.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA7121">
+<name "セリス" "!AA7121">
 「命令をどうぞ」
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "Soshiette" "!DA1451">
+<name "ソシエット" "!DA1451">
 「一番と五番の人が海辺で追いかけっこ」
 #
 <removesprite -1 11>
 <background "bg019a0.iph" 11>
 <sprite "ta03a07.iph" 4 4 11>
-<name "Viola" "!BA1316">
+<name "ヴィオラ" "!BA1316">
 「ほら、ここまで来てみなさーい♪」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「待て待てぇ～♪」
 #
 <sprite "ta03a07.iph" 4 4 11>
-<name "Viola" "!BA1317">
+<name "ヴィオラ" "!BA1317">
 「うふふふふ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あははは……」
 #
 <removesprite -1 11>
 <background "bg001a0.iph" 11>
 <sprite "ta03a05.iph" 4 4 11>
-<name "Viola" "!BA1318">
+<name "ヴィオラ" "!BA1318">
 「凄く良かった。
 　もう一回、もう一回やりましょう」
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 2 4 11>
 <sprite "ta01a15.iph" 6 5 11>
-<name "Celes" "!AA7122">
+<name "セリス" "!AA7122">
 「あははは……
 　では、続行します」
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "Elle" "!CA1174">
+<name "イエル" "!CA1174">
 「いいけど、アンタの師匠。
 　青くなって倒れてるけど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「せ、精神的にくるなぁ……」
 #
 <removesprite -1 11>

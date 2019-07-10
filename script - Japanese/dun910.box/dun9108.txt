@@ -11,11 +11,11 @@
 \x78
 :DB
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「絶望したか？」
 #
 <sprite "ta01c22.iph" 4 4 11>
-<name "Celes" "!AA3438">
+<name "セリス" "!AA3438">
 「いえ、まだまだ」
 #
 <removesprite -1 11>
@@ -23,18 +23,18 @@
 :167
 <background "bg001a0.iph" 11>
 <sprite "ta01c21.iph" 4 4 11>
-<name "Celes" "!AA3439">
+<name "セリス" "!AA3439">
 「ふう……手強い」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3440">
+<name "セリス" "!AA3440">
 「だが、その強さが心地良い……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「負け惜しみか？」
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "Celes" "!AA3441">
+<name "セリス" "!AA3441">
 「負け惜しみです」
 #
 <removesprite -1 11>
@@ -42,11 +42,11 @@
 :290
 <background "bg003a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3442">
+<name "セリス" "!AA3442">
 「イタタ……」
 #
 <sprite "ta01c29.iph" 4 4 12>
-<name "Celes" "!AA3443">
+<name "セリス" "!AA3443">
 「ぬう……色々足りないのかな。
 　もっと頑張らなきゃ」
 #
@@ -55,11 +55,11 @@
 :361
 <background "bg003a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3444">
+<name "セリス" "!AA3444">
 「ある意味……この高さに絶望する……」
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "Celes" "!AA3445">
+<name "セリス" "!AA3445">
 「でも負けない！」
 #
 <removesprite -1 11>
@@ -67,14 +67,14 @@
 :425
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3490">
+<name "セリス" "!AA3490">
 「悔しいですぅ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあまあ、そう気にするな」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA3491">
+<name "セリス" "!AA3491">
 「ううううううううううううっ」
 #
 <removesprite -1 11>
@@ -86,12 +86,12 @@
 　特にヴィオラは、魔力が尽きるまであの塔を攻撃
 　していたなぁ。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、修行にはなったわけだし、気持ちを切り替
 　えていこう」
 #
 <sprite "ta01c42.iph" 4 4 11>
-<name "Celes" "!AA3492">
+<name "セリス" "!AA3492">
 「ううううううううううううっ……」
 #
 <removesprite -1 11>

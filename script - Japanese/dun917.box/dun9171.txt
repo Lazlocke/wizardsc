@@ -33,7 +33,7 @@
 　一人でなんて、死にに行くようなものです」
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "Celes" "!AA4024">
+<name "セリス" "!AA4024">
 「そんなに危ないのですか？」
 #
 <name "村娘" "!KA0061">
@@ -41,7 +41,7 @@
 　城の見える場所には魔物がたくさんいます」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA4025">
+<name "セリス" "!AA4025">
 「たくさんですか」
 #
 <name "村娘" "!KA0062">
@@ -49,7 +49,7 @@
 　ません」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA4026">
+<name "セリス" "!AA4026">
 「そうですか。
 　親切にありがとうございます」
 #
@@ -58,7 +58,7 @@
 　良かった」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA4027">
+<name "セリス" "!AA4027">
 「いえ、行きます。
 　私は強くならないといけないのです」
 #
@@ -66,7 +66,7 @@
 「そんな……」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA4028">
+<name "セリス" "!AA4028">
 「大丈夫です。
 　負けません」
 #
@@ -228,58 +228,58 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA4029">
+<name "セリス" "!AA4029">
 「師匠。
 　魔王の城に行ってきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう、頑張れ」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA4030">
+<name "セリス" "!AA4030">
 「その前に、聞きたいのですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA4031">
+<name "セリス" "!AA4031">
 「ベオル王国軍の誇る英雄、ダランドン様ってどん
 　な人ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ダランドン？
 　ああ、強い剣士だ。
 　有名人だぞ」
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "Celes" "!AA4032">
+<name "セリス" "!AA4032">
 「そ、そうですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうしたんだ？」
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "Celes" "!AA4033">
+<name "セリス" "!AA4033">
 「いえ、魔王の城に行く途中でよく耳にするので」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だろうな……
 　そういえば、なんであの男が居るのに、魔王の城
 　の討伐に失敗したんだ？」
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "Celes" "!AA4034">
+<name "セリス" "!AA4034">
 「なんでも腹痛とか……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そういえば、プレッシャーに弱かったな」
 #
 <sprite "ta01c05.iph" 4 4 12>
-<name "Celes" "!AA4035">
+<name "セリス" "!AA4035">
 「……それで、英雄ですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「剣の腕は一流なんだ。
 　本当に」
 #
@@ -293,7 +293,7 @@
 　頑張ってください」
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA4036">
+<name "セリス" "!AA4036">
 「ありがとう」
 #
 <removesprite -1 11>
@@ -305,7 +305,7 @@
 「頑張ってくださいね」
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA4037">
+<name "セリス" "!AA4037">
 「はい」
 #
 <removesprite -1 11>
@@ -317,14 +317,14 @@
 「頑張ってくださいね」
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "Celes" "!AA4038">
+<name "セリス" "!AA4038">
 「ええ、その前に聞いて良いかな？」
 #
 <name "村娘" "!KA0068">
 「なんですか？」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA4039">
+<name "セリス" "!AA4039">
 「ギャラリーが集まっているんだけど、これは？」
 #
 <name "村娘" "!KA0069">
@@ -332,7 +332,7 @@
 　頑張ってください」
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "Celes" "!AA4040">
+<name "セリス" "!AA4040">
 「は、はぁ……
 　応援団……女の人ばかり……複雑な感じがする」
 #

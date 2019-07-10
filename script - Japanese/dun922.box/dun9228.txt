@@ -9,7 +9,7 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA4141">
+<name "セリス" "!AA4141">
 「勝った」
 #
 <name "美しき剣士" "!JA0065">
@@ -19,7 +19,7 @@
 　セリスは女剣士に勝利した。
 #
 <sprite "ta01c08.iph" 4 4 11>
-<name "Celes" "!AA4142">
+<name "セリス" "!AA4142">
 「それで、どうして私に？」
 #
 <name "美しき剣士" "!JA0066">
@@ -27,7 +27,7 @@
 　たから」
 #
 <sprite "ta01c92.iph" 4 4 11>
-<name "Celes" "!AA4143">
+<name "セリス" "!AA4143">
 「…………………………ええっと」
 #
 <removesprite -1 11>
@@ -55,7 +55,7 @@
 　湧き上がる観客からの拍手。
 #
 <sprite "ta01c92.iph" 4 4 11>
-<name "Celes" "!AA4144">
+<name "セリス" "!AA4144">
 「え、えっと……」
 #
 <removesprite -1 11>
@@ -66,7 +66,7 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA4145">
+<name "セリス" "!AA4145">
 「うう……負けた……」
 #
 <name "美しき剣士" "!JA0069">
@@ -74,7 +74,7 @@
 　この程度ね」
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "Celes" "!AA4147">
+<name "セリス" "!AA4147">
 「せめて、どうして私に勝負を仕掛けたか教えて」
 #
 <name "美しき剣士" "!JA0071">
@@ -86,11 +86,11 @@
 　剣士は去った。
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA4149">
+<name "セリス" "!AA4149">
 「うう……悔しい」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA4150">
+<name "セリス" "!AA4150">
 「あと、そんな理由で……」
 #
 <removesprite -1 11>

@@ -95,14 +95,14 @@
 :9D3
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4210">
+<name "セリス" "!AA4210">
 「こっちが良いかなぁ～、それともこっちかも……
 　うーん、悩む」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「時間が無くなるぞ」
 #
-<name "Celes" "!AA4211">
+<name "セリス" "!AA4211">
 「え、あ、い、急ぎます」
 #
 　そう確かに聞いたのに、買物が終ったのはかなり
@@ -114,15 +114,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4212">
+<name "セリス" "!AA4212">
 「師匠、買物に行きませんか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そうだな。
 　食材の購入も兼ねて、行くか」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA4213">
+<name "セリス" "!AA4213">
 「はい」
 #
 <removesprite -1 11>
@@ -131,15 +131,15 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4214">
+<name "セリス" "!AA4214">
 「師匠。
 　買物にコツってありますか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「必要な物を買って、不必要な物を買わない」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA4215">
+<name "セリス" "!AA4215">
 「む、難しそうな極意ですね」
 #
 <removesprite -1 11>
@@ -147,16 +147,16 @@
 :CF2
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリス。
 　なんだったら、家具とかを買って部屋を明るくす
 　るのはどうだ？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「良い部屋だと、自然と勉強にも身が入るぞ」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4216">
+<name "セリス" "!AA4216">
 「そうですね。
 　考えます」
 #
@@ -166,32 +166,32 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4217">
+<name "セリス" "!AA4217">
 「師匠。
 　武器と防具。
 　どちらから先に買ったら良いでしょう？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ケースによるが……
 　俺は防具から揃えるな」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA4218">
+<name "セリス" "!AA4218">
 「どうしてですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「痛いのが嫌だから」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA4219">
+<name "セリス" "!AA4219">
 「なるほど」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「殴られる前に殴るの精神で、先に武器を買うのも
 　悪く無いと思うぞ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4220">
+<name "セリス" "!AA4220">
 「考えます」
 #
 <removesprite -1 11>
@@ -199,7 +199,7 @@
 :1037
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4221">
+<name "セリス" "!AA4221">
 「あれ？
 　新商品？」
 #
@@ -212,7 +212,7 @@
 :10CC
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4222">
+<name "セリス" "!AA4222">
 「あ、新商品だ」
 #
 <name "店員" "!SB0165">
@@ -223,14 +223,14 @@
 :1141
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4223">
+<name "セリス" "!AA4223">
 「私が売った商品。
 　四倍の値段で売られている……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「商売とはそういう物だ」
 #
-<name "Celes" "!AA4224">
+<name "セリス" "!AA4224">
 「むう……」
 #
 \x0A\x24\x00\x0F\x84\x01
@@ -239,43 +239,43 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0275">
+<name "イエル" "!CA0275">
 「セリス。
 　お出掛け？」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Celes" "!AA4225">
+<name "セリス" "!AA4225">
 「うん。
 　お買物」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0276">
+<name "イエル" "!CA0276">
 「へー、良いわね」
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "Celes" "!AA4226">
+<name "セリス" "!AA4226">
 「イエルちゃんは？」
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "Elle" "!CA0277">
+<name "イエル" "!CA0277">
 「修行。
 　この街に隠された猫の像を探さなきゃいけないの。
 　どこかで見た？」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA4227">
+<name "セリス" "!AA4227">
 「そう言えば、パン屋さんの横の路地に……」
 #
 <sprite "ta02a01.iph" 6 4 12>
-<name "Elle" "!CA0278">
+<name "イエル" "!CA0278">
 「パン屋って、ウィットニーさんの所？
 　ありがとう。
 　行ってみるわ」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA4228">
+<name "セリス" "!AA4228">
 「頑張ってね」
 #
 <removesprite -1 11>
@@ -284,33 +284,33 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0279">
+<name "イエル" "!CA0279">
 「セリス。
 　お買物？」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Celes" "!AA4229">
+<name "セリス" "!AA4229">
 「うん。
 　イエルちゃんは？」
 #
 <sprite "ta02a27.iph" 6 4 12>
-<name "Elle" "!CA0280">
+<name "イエル" "!CA0280">
 「……買い出し。
 　師匠の家のメイドの半分が風邪で倒れちゃって」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA4230">
+<name "セリス" "!AA4230">
 「大丈夫なの？」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0281">
+<name "イエル" "!CA0281">
 「問題無いわ。
 　セリスも風邪には気を付けてね」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA4231">
+<name "セリス" "!AA4231">
 「うん。
 　イエルちゃんもね」
 #
@@ -333,7 +333,7 @@
 \x52 "ta01a07.iph"  2  5  11 \x52 "ta10b09.iph"  6  4  11 
 :18AE
 \x2B
-<name "Celes" "!AA4232">
+<name "セリス" "!AA4232">
 「うん」
 #
 \x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :18FF: \x52 "ta10a11.iph"  6  4  11 \x18 :191C: 
@@ -345,7 +345,7 @@
 「時間があるなら、食べないか？」
 #
 <sprite "ta01a06.iph" 2 5 11>
-<name "Celes" "!AA4233">
+<name "セリス" "!AA4233">
 「？」
 #
 \x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :19C6: \x52 "ta10a18.iph"  6  4  11 \x18 :19E3: 
@@ -358,7 +358,7 @@
 　森に戻った時に持って来たんだ」
 #
 <sprite "ta01a15.iph" 2 5 11>
-<name "Celes" "!AA4234">
+<name "セリス" "!AA4234">
 「ありがとう」
 #
 <removesprite -1 11>
@@ -373,7 +373,7 @@
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta12a00.iph" 6 4 11>
-<name "Celes" "!AA4235">
+<name "セリス" "!AA4235">
 「こんにちは」
 #
 <sprite "ta12a02.iph" 6 4 12>
@@ -381,7 +381,7 @@
 「買物か？」
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "Celes" "!AA4236">
+<name "セリス" "!AA4236">
 「ええ」
 #
 <sprite "ta12a07.iph" 6 4 12>
@@ -391,7 +391,7 @@
 　か？」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA4237">
+<name "セリス" "!AA4237">
 「手伝う？」
 #
 <sprite "ta12a00.iph" 6 4 12>
@@ -401,7 +401,7 @@
 　行くぞ」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA4238">
+<name "セリス" "!AA4238">
 「ああ、手伝うって言ってないのに……」
 #
 <removesprite -1 11>
@@ -416,7 +416,7 @@
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta15a00.iph" 6 4 11>
-<name "Celes" "!AA4239">
+<name "セリス" "!AA4239">
 「ええ……」
 #
 <sprite "ta15a24.iph" 6 4 12>
@@ -438,7 +438,7 @@
 　ある事には目をつぶるわ」
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "Celes" "!AA4240">
+<name "セリス" "!AA4240">
 「……興味あります」
 #
 <sprite "ta15a00.iph" 6 4 12>
@@ -446,7 +446,7 @@
 「じゃあ、変装してついてきなさい」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA4241">
+<name "セリス" "!AA4241">
 「はい」
 #
 <removesprite -1 11>
@@ -459,13 +459,13 @@
 :2133
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4242">
+<name "セリス" "!AA4242">
 「あれ、今日はなんだか店が綺麗……」
 #
 <name "店員" "!SB0166">
 「実は、武器屋品評会ってのがあってな」
 #
-<name "Celes" "!AA4243">
+<name "セリス" "!AA4243">
 「武器屋品評会？」
 #
 <name "店員" "!SB0167">
@@ -473,14 +473,14 @@
 　この街で一番、優れた武器を取り扱っている店を
 　決める大会さ」
 #
-<name "Celes" "!AA4244">
+<name "セリス" "!AA4244">
 「へー。
 　それで綺麗に」
 #
 <name "店員" "!SB0168">
 「まあな」
 #
-<name "Celes" "!AA4245">
+<name "セリス" "!AA4245">
 「でも……あまり、品評会の最中って感じがしない
 　けど？」
 #
@@ -488,20 +488,20 @@
 「審査員は、客に扮して来るのさ。
 　普段の応対を見る為にな」
 #
-<name "Celes" "!AA4246">
+<name "セリス" "!AA4246">
 「なるほど」
 #
 <name "店員" "!SB0170">
 「まあ、そう言うワケで……
 　できるだけ協力してくれ」
 #
-<name "Celes" "!AA4247">
+<name "セリス" "!AA4247">
 「協力？」
 #
 <name "店員" "!SB0171">
 「大きな声で、ウチの商品は良いなぁと」
 #
-<name "Celes" "!AA4248">
+<name "セリス" "!AA4248">
 「この店、品揃えが良いわねぇ。
 　あ、欲しかった武器だ。
 　ラッキー♪」
@@ -509,7 +509,7 @@
 <name "店員" "!SB0172">
 「お菓子をやろう」
 #
-<name "Celes" "!AA4249">
+<name "セリス" "!AA4249">
 「半額」
 #
 <name "店員" "!SB0173">
@@ -520,13 +520,13 @@
 :24E8
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4250">
+<name "セリス" "!AA4250">
 「武器屋品評会、結果はどうだったの？」
 #
 <name "店員" "!SB0174">
 「……聞かないでくれ」
 #
-<name "Celes" "!AA4251">
+<name "セリス" "!AA4251">
 「じゃあ、優勝した店に買いに行ってきます」
 #
 <name "店員" "!SB0175">
@@ -539,7 +539,7 @@
 :260B
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4252">
+<name "セリス" "!AA4252">
 「店が綺麗になってる……
 　武器屋品評会が始まったのね」
 #
@@ -551,14 +551,14 @@
 :26B9
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4253">
+<name "セリス" "!AA4253">
 「結果はどうでした？」
 #
 <name "店員" "!SB0177">
 「わはは……
 　相変わらず」
 #
-<name "Celes" "!AA4254">
+<name "セリス" "!AA4254">
 「残念でしたね」
 #
 <name "店員" "!SB0178">
@@ -569,7 +569,7 @@
 :279F
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4255">
+<name "セリス" "!AA4255">
 「店が綺麗に……」
 #
 <name "店員" "!SB0179">
@@ -580,7 +580,7 @@
 :2818
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4256">
+<name "セリス" "!AA4256">
 「あ、ニコニコしてる」
 #
 <name "店員" "!SB0180">
@@ -588,7 +588,7 @@
 　そう？
 　そんな事、ないけどなぁ」
 #
-<name "Celes" "!AA4257">
+<name "セリス" "!AA4257">
 「……何位だったの？」
 #
 <name "店員" "!SB0181">
@@ -601,7 +601,7 @@
 　三位。
 　今度、看板に三位って書こうかなぁ」
 #
-<name "Celes" "!AA4258">
+<name "セリス" "!AA4258">
 「……そうしたら、もう来ないでおこう」
 #
 <name "店員" "!SB0183">
@@ -634,7 +634,7 @@
 「今日は半額セールだ。
 　どーんと買物していってくれ」
 #
-<name "Celes" "!AA4259">
+<name "セリス" "!AA4259">
 「はい。
 　でも、お値段じゃなくて、商品と相談します。
 　半額でも、必要のない物にお金は出せません」
@@ -650,7 +650,7 @@
 <name "店員" "!SB0188">
 「半額セール開催中だよ」
 #
-<name "Celes" "!AA4260">
+<name "セリス" "!AA4260">
 「ラッキーです」
 #
 \x0A\x24\x00\x0F\x84\x01
@@ -662,7 +662,7 @@
 「半額セールは年に一度。
 　一定期間しか行なっていないんだよ」
 #
-<name "Celes" "!AA4261">
+<name "セリス" "!AA4261">
 「そうだったんですか……
 　ええと、いつだったかなぁ？」
 #
@@ -671,7 +671,7 @@
 :2D13
 <music 31>
 <background "ev029a0.iph" 11>
-<name "Celes" "!AA4262">
+<name "セリス" "!AA4262">
 「なんですか？
 　この値段？」
 #
@@ -688,14 +688,14 @@
 <name "店員" "!SB0191">
 「戦争で、商品の値段が上がって仕方がない」
 #
-<name "Celes" "!AA4263">
+<name "セリス" "!AA4263">
 「逆に言えば高く買い取ってくれるって事ですよね」
 #
 <name "店員" "!SB0192">
 「ああ、高く買い取らせて貰うよ。
 　ダンジョンとかで何か手に入れたら売りに来てよ」
 #
-<name "Celes" "!AA4264">
+<name "セリス" "!AA4264">
 「そうですね。
 　そうします」
 #
@@ -708,7 +708,7 @@
 「武器を扱っていてなんだが、戦争は嫌だね。
 　早く終わってくれないかな」
 #
-<name "Celes" "!AA4265">
+<name "セリス" "!AA4265">
 「同感です」
 #
 \x0A\x24\x00\x0F\x84\x01
@@ -717,12 +717,12 @@
 <music 31>
 <background "ev029a0.iph" 11>
 \x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :303C: 
-<name "Celes" "!AA4373">
+<name "セリス" "!AA4373">
 「何を買おうかな……」
 #
 :303C
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3070: 
-<name "Celes" "!AA4374">
+<name "セリス" "!AA4374">
 「お買物♪」
 #
 :3070

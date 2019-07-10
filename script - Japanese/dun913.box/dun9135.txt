@@ -10,62 +10,62 @@
 :7F
 <music 23>
 <background "ev023a0.iph" 10>
-<name "Celes" "!AA3705">
+<name "セリス" "!AA3705">
 「よし、一番上……到達！」
 #
-<name "Celes" "!AA3706">
+<name "セリス" "!AA3706">
 「ふう……高い塔だった」
 #
-<name "Celes" "!AA3707">
+<name "セリス" "!AA3707">
 「あ、石版がある……えっと……」
 #
-<name "Celes" "!AA3708">
+<name "セリス" "!AA3708">
 「この塔がある限り、天界と魔界の仲は永遠に保た
 　れるであろう」
 #
-<name "Celes" "!AA3709">
+<name "セリス" "!AA3709">
 「その下に落書き……」
 #
-<name "Celes" "!AA3710">
+<name "セリス" "!AA3710">
 「すぐに喧嘩を始めやがって、この嘘吐きが」
 #
-<name "Celes" "!AA3711">
+<name "セリス" "!AA3711">
 「この塔って、人間や獣人を苦労させて作って、ま
 　るっきり意味がなかったと……」
 #
-<name "Celes" "!AA3712">
+<name "セリス" "!AA3712">
 「虚しい塔ね」
 #
-<name "Celes" "!AA3713">
+<name "セリス" "!AA3713">
 「でも、私の修行にはなったから、少しだけ感謝」
 #
 <exit>
 :2C2
 <music 23>
 <background "ev023a0.iph" 10>
-<name "Celes" "!AA3714">
+<name "セリス" "!AA3714">
 「到着！」
 #
-<name "Celes" "!AA3715">
+<name "セリス" "!AA3715">
 「神魔の塔の一番上……気持ちが良い」
 #
 <exit>
 :339
 <music 23>
 <background "ev023a0.iph" 10>
-<name "Celes" "!AA3716">
+<name "セリス" "!AA3716">
 「やったぞおおおおおおおおおおおおおっ！」
 #
-<name "Celes" "!AA3717">
+<name "セリス" "!AA3717">
 「がっつ！」
 #
-<name "Celes" "!AA3718">
+<name "セリス" "!AA3718">
 「げっつ！」
 #
-<name "Celes" "!AA3719">
+<name "セリス" "!AA3719">
 「ヴィクトリー！」
 #
-<name "Celes" "!AA3720">
+<name "セリス" "!AA3720">
 「ふう……
 　高い場所に立つと、テンション上がっちゃう」
 #
@@ -73,7 +73,7 @@
 :451
 <music 23>
 <background "ev023a0.iph" 10>
-<name "Celes" "!AA3721">
+<name "セリス" "!AA3721">
 「神魔の塔……征服完了！」
 #
 <exit>

@@ -1,56 +1,56 @@
 <music 10>
 <background "bg002b0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリスー」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA7170">
+<name "セリス" "!AA7170">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「麻雀やるぞ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA7171">
+<name "セリス" "!AA7171">
 「……え？
 　良いんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？
 　そのリアクションは？」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA7172">
+<name "セリス" "!AA7172">
 「私、国元では“染姫のセリス”と異名をつけられ、
 　あらゆる雀荘で出禁となっていましたから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA7173">
+<name "セリス" "!AA7173">
 「では、やりましょう。
 　ルールとレートはどうなっていますか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ア、アリアリで……１０００点１Ｂ」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA7174">
+<name "セリス" "!AA7174">
 「半荘回数は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「と、特には……
 　話し合ってラス半（最後の半荘）を決めるぐらい
 　で……」
 #
 <sprite "ta01a00.iph" 4 4 12>
-<name "Celes" "!AA7175">
+<name "セリス" "!AA7175">
 「わかりました。
 　問題ありません。
 　ふふ……腕が鳴ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <removesprite -1 11>
@@ -59,25 +59,25 @@
 #
 <background "bg002a0.iph" 11>
 <sprite "ta03a35.iph" 4 4 11>
-<name "Viola" "!BA1319">
+<name "ヴィオラ" "!BA1319">
 「つ、強い……」
 #
 <removesprite -1 11>
 <sprite "ta04a65.iph" 4 4 11>
-<name "Soshiette" "!DA1475">
+<name "ソシエット" "!DA1475">
 「馬鹿な……」
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "Elle" "!CA1196">
+<name "イエル" "!CA1196">
 「ドラが……ドラがあんなにあるなんて……」
 #
 <removesprite -1 11>
 <sprite "ta01a18.iph" 4 4 11>
-<name "Celes" "!AA7176">
+<name "セリス" "!AA7176">
 「気持ち良い朝です♪」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ふう。
 　世話係に回って正解だった」
 #

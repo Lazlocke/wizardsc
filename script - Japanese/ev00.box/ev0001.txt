@@ -28,62 +28,62 @@
 :496
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「魔法を学ぶには、本を読んで知識をつけ、実践す
 　る事で経験を積む」
 #
 <sprite "ta01a00.iph" 4 4 11>
-<name "Celes" "!AA1782">
+<name "セリス" "!AA1782">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会に出るという目的があるから、
 　戦い向きの魔法を中心に教えていこうと思うが……
 　問題はあるか？」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA1783">
+<name "セリス" "!AA1783">
 「いえ、よろしくお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よし！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「では、外を走って来い！」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA1784">
+<name "セリス" "!AA1784">
 「……え？
 　またですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そんな顔するな。
 　魔法使いにも、体力は必要だ」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA1785">
+<name "セリス" "!AA1785">
 「それはわかりますが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかっているなら、走って来い」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA1786">
+<name "セリス" "!AA1786">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「走り終わったら、新しい魔法を見せてやる」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1787">
+<name "セリス" "!AA1787">
 「急いで走って来ます！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「準備運動は忘れるな。
 　あと、ペースは守れ」
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "Celes" "!AA1788">
+<name "セリス" "!AA1788">
 「はい！」
 #
 <removesprite -1 11>
@@ -91,38 +91,38 @@
 :8D7
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「魔法の修行は系統毎に行なう。
 　系統の種類は覚えているな」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA1789">
+<name "セリス" "!AA1789">
 「はい。
 　火、水、風、土、雷、闇、光の七つです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　そして、これからは火、水、風、土の四つの系統
 　に関して練習を行なう」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「行なうと言っても、全てやる必要は無い。
 　得意を見つける事も大事だ。
 　もちろん、全部やっても良い」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「質問はあるか？」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA1790">
+<name "セリス" "!AA1790">
 「雷や闇、光はやらないんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それらは上級者向きだから、後回しだ。
 　実力を付けてから頑張ってもらう」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1791">
+<name "セリス" "!AA1791">
 「はい」
 #
 <removesprite -1 11>
@@ -130,22 +130,22 @@
 :BAF
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「魔法の修行は系統毎に行なう。
 　系統の種類は覚えているな」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA1789">
+<name "セリス" "!AA1789">
 「はい。
 　火、水、風、土、雷、闇、光の七つです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　そして、これからは全ての系統の練習を行なう事
 　を許可する」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1792">
+<name "セリス" "!AA1792">
 「はい！
 　頑張ります」
 #
@@ -154,21 +154,21 @@
 :D3C
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「魔法の修行は系統毎に行なう。
 　系統の種類は覚えているな」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA1789">
+<name "セリス" "!AA1789">
 「はい。
 　火、水、風、土、雷、闇、光の七つです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その通りだ。
 　これから、頑張るように」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA1793">
+<name "セリス" "!AA1793">
 「はい！」
 #
 <removesprite -1 11>
@@ -176,29 +176,29 @@
 :E99
 <music 2>
 <background "bg001a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリス。
 　かなり上達したな。
 　そろそろ、次の段階へ進もうか」
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA1794">
+<name "セリス" "!AA1794">
 「次の段階ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、勉強の難度を少し上げる。
 　その分、上達が早くなるぞ」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA1795">
+<name "セリス" "!AA1795">
 「でも、失敗する率も大きいんですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「恐れるな。
 　今のセリスなら大丈夫だ」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA1796">
+<name "セリス" "!AA1796">
 「……はい！
 　頑張ります！」
 #
@@ -207,77 +207,77 @@
 :109D
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「ある程度、魔法を覚えたなら、魔法の本質に関し
 　ての勉強もしてみると良い」
 #
 <sprite "ta01a03.iph" 4 4 11>
-<name "Celes" "!AA1797">
+<name "セリス" "!AA1797">
 「魔法の本質ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「今まで勉強してきたのは、すでに誰かが開拓した
 　道だからな。
 “こうすれば火が出る”と覚えたに過ぎない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「次は“こうすれば、なぜ火が出る”のかを考える
 　んだ」
 #
 <sprite "ta01a00.iph" 4 4 12>
-<name "Celes" "!AA1798">
+<name "セリス" "!AA1798">
 「“なぜ”ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　これまでの勉強にもそういった側面はあるが、本
 　質にまで至っていない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「無論、ワザとそうなるように俺が仕向けた。
 　未熟な者に本質を理解しろと言っても無駄だし、
 　経験不足なのに本質など見える筈もない」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA1799">
+<name "セリス" "!AA1799">
 「今なら大丈夫と……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　魔法の本質を理解するのは、優秀な魔法使いの基
 　礎だ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1800">
+<name "セリス" "!AA1800">
 「が、頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、無理はするな。
 　本質の理解は、魔法使いを五十年やって道半ばと
 　言われるぐらいだ。
 　かくいう俺もまだまだ未熟者」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA1801">
+<name "セリス" "!AA1801">
 「……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しかし、世の中には例外がある。
 　メイア＝クルセイダという優れた魔法使いは、二
 　十代で魔法の本質を理解し、今の戦場魔法と言わ
 　れる高速魔法形態を生み出した」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法使いの歴史は、戦場魔法で一変したと言って
 　も過言ではない。
 　それは、一人の魔法使いによってもたらされた」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前が第二のメイア＝クルセイダじゃないとは、
 　誰にも言えない……んじゃないかな」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA1802">
+<name "セリス" "!AA1802">
 「……そ、そうですね。
 　頑張ります！」
 #
@@ -286,35 +286,35 @@
 :173D
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリス」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA1803">
+<name "セリス" "!AA1803">
 「はい。
 　なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「アルバイトの話を持って来た」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA1804">
+<name "セリス" "!AA1804">
 「アルバイトですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　修行にはお金が掛かるからな。
 　稼がないと」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA1805">
+<name "セリス" "!AA1805">
 「はぁ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そういうわけで頑張るように」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA1806">
+<name "セリス" "!AA1806">
 「は、はい」
 #
 <removesprite -1 11>
@@ -323,104 +323,104 @@
 <music 2>
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA1807">
+<name "セリス" "!AA1807">
 「ソシエットさん」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Soshiette" "!DA0431">
+<name "ソシエット" "!DA0431">
 「どうしました？」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA1808">
+<name "セリス" "!AA1808">
 「師匠、どうしてお金が無いんですか？
 　協会でかなり働いていると思いますが？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0432">
+<name "ソシエット" "!DA0432">
 「その質問は、ご主人様に直接聞いた方がよろしい
 　のでは？」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA1809">
+<name "セリス" "!AA1809">
 「き、聞き難くて……
 　教えてくれませんか？」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0433">
+<name "ソシエット" "!DA0433">
 「答え難い質問ですが……わかりました」
 #
 <sprite "ta04a25.iph" 6 4 12>
-<name "Soshiette" "!DA0434">
+<name "ソシエット" "!DA0434">
 「ご主人様は協会からの依頼をこなして、報酬を得
 　ています。
 　しかし、“魔法使いの花嫁”の力を使った仕事の
 　報酬は受け取っていないのです」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA1810">
+<name "セリス" "!AA1810">
 「そうなんですか！」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0436">
+<name "ソシエット" "!DA0436">
 「はい。
 　そして、これまではそれ以外の仕事で収入を得て
 　いたのですが、セリスさんの世話を始めてからそ
 　の仕事量も減りました」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA1811">
+<name "セリス" "!AA1811">
 「……」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0437">
+<name "ソシエット" "!DA0437">
 「お金が無い理由は、こんなところでしょうか」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA1812">
+<name "セリス" "!AA1812">
 「私の所為だったんですね」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0438">
+<name "ソシエット" "!DA0438">
 「全てが、とは言いません」
 #
 <sprite "ta01a29.iph" 2 5 12>
-<name "Celes" "!AA1813">
+<name "セリス" "!AA1813">
 「……」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA0439">
+<name "ソシエット" "!DA0439">
 「アルバイトを頑張ってください。
 　ご主人様の探してきたアルバイトは、どれも貴女
 　の為になるものです」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA1814">
+<name "セリス" "!AA1814">
 「……そうですね。
 　頑張ります！」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0440">
+<name "ソシエット" "!DA0440">
 「それと、余計な事ですが……
 　ご主人様は、セリスさんと知り合ってからよく笑
 　うようになりました」
 #
 <sprite "ta01a29.iph" 2 5 12>
-<name "Celes" "!AA1815">
+<name "セリス" "!AA1815">
 「……」
 #
 <sprite "ta04a63.iph" 6 4 12>
-<name "Soshiette" "!DA0441">
+<name "ソシエット" "!DA0441">
 「セリスさんの所為で、苦労しているとは思ってい
 　ない筈です」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA1816">
+<name "セリス" "!AA1816">
 「あ、ありがとうございます」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0442">
+<name "ソシエット" "!DA0442">
 「余計な事でした。
 　忘れてください」
 #
@@ -429,47 +429,47 @@
 :2243
 <music 2>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリス君！」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA1817">
+<name "セリス" "!AA1817">
 「は、はい！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大事な話がある！」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA1818">
+<name "セリス" "!AA1818">
 「なんでしょうか！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……金が無い！」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA1819">
+<name "セリス" "!AA1819">
 「…………………………」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「アルバイトをして、修行する為の資金を集めてく
 　ださい」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA1820">
+<name "セリス" "!AA1820">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺も頑張りますので」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA1821">
+<name "セリス" "!AA1821">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「経済力の無い師匠ですみません」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA1822">
+<name "セリス" "!AA1822">
 「いえ……頑張ります」
 #
 <removesprite -1 11>
@@ -478,10 +478,10 @@
 <music 2>
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA2705">
+<name "セリス" "!AA2705">
 「幽霊ですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「幽霊だ」
 #
 <removesprite -1 11>
@@ -489,94 +489,94 @@
 　なり始めた。
 #
 <sprite "ta04a84.iph" 4 4 11>
-<name "Soshiette" "!DA0468">
+<name "ソシエット" "!DA0468">
 「馬鹿馬鹿しいです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「馬鹿馬鹿しいって、お前な。
 　塔やダンジョンに行けば、魔物が居るんだ。
 　街中に幽霊が居てもおかしくないだろう」
 #
 <sprite "ta04a85.iph" 4 4 12>
-<name "Soshiette" "!DA0469">
+<name "ソシエット" "!DA0469">
 「街には結界があります。
 　それが破られたと言う事ですか？」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a85.iph" 6 4 11>
-<name "Celes" "!AA2706">
+<name "セリス" "!AA2706">
 「結界？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「結界と言っても、すごいものじゃない。
 　街や村で祭や祝い事をやるだろ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それが魔物達を寄せ付けない結界って事だ」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA2707">
+<name "セリス" "!AA2707">
 「なるほど。
 　そうだったんですか。
 　普通に楽しんでいました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「別に意識する必要は無いさ」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0470">
+<name "ソシエット" "!DA0470">
 「人が集まり、楽しむ事に意味があるのですから。
 　そして人が多い街では、楽しむ者の数も多くなり
 　ます。
 　必然、結界も強固になります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しかし、その結界は、侵入を防ぐ結界だ。
 　結界内で幽霊化した場合は防げないだろ」
 #
 <sprite "ta04a86.iph" 6 4 12>
-<name "Soshiette" "!DA0471">
+<name "ソシエット" "!DA0471">
 「……確かに」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「街中に幽霊が居る可能性があるって事だ」
 #
 <sprite "ta01a31.iph" 2 5 12>
-<name "Celes" "!AA2708">
+<name "セリス" "!AA2708">
 「……怖いですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「怖がるな。
 　お前が退治に行くんだ」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA2709">
+<name "セリス" "!AA2709">
 「……え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前が退治に行くんだ。
 　頑張れ」
 #
 <sprite "ta01a38.iph" 2 5 12>
-<name "Celes" "!AA2710">
+<name "セリス" "!AA2710">
 「えええええっ！！
 　ど、どうしてですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会から調べろって要請があってな」
 #
 <sprite "ta01a37.iph" 2 5 12>
-<name "Celes" "!AA2711">
+<name "セリス" "!AA2711">
 「わ、私一人でですか？」
 #
 　セリスの視線は、ソシエットに向かっている。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ソシエット」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0472">
+<name "ソシエット" "!DA0472">
 「セリスさん……いえ、セリス様。
 　貴女の勇姿は忘れません。
 　頑張ってください」
@@ -587,30 +587,30 @@
 #
 　実は、ソシエットは幽霊系に弱い。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「と言うわけでだ。
 　もちろん、俺が一緒に行ったら修行にならないだ
 　ろ」
 #
 <sprite "ta01a37.iph" 4 4 11>
-<name "Celes" "!AA2712">
+<name "セリス" "!AA2712">
 「そ、そんなぁ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大丈夫だ。
 　街の外に居る魔物より強いって事はない」
 #
 <sprite "ta01a38.iph" 4 4 12>
-<name "Celes" "!AA2713">
+<name "セリス" "!AA2713">
 「で、でも……幽霊ですよ。
 　怖いじゃないですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わはははは……
 　世の中、幽霊より怖いのはたくさん居るぞ」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA2714">
+<name "セリス" "!AA2714">
 「う……うう……頑張ります」
 #
 <removesprite -1 11>
@@ -619,24 +619,24 @@
 <music 2>
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA2762">
+<name "セリス" "!AA2762">
 「巨大キノコですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、この時期。
 　森では巨大キノコが暴れて、迷惑を掛けるらしい」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA2763">
+<name "セリス" "!AA2763">
 「……巨大キノコが暴れるんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　それに困った近隣の村が賞金を掛けている。
 　狙ってみるか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA2764">
+<name "セリス" "!AA2764">
 「そ、そうですね……
 　巨大キノコって、これぐらいの大きさですか？」
 #
@@ -645,13 +645,13 @@
 　……
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA2765">
+<name "セリス" "!AA2765">
 「えっと、これの倍ぐらいですか？」
 #
 　……
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA2766">
+<name "セリス" "!AA2766">
 「か、考えさせてください」
 #
 <removesprite -1 11>
@@ -666,32 +666,32 @@
 <music 2>
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0480">
+<name "ソシエット" "!DA0480">
 「と協会に訴えがありまして、退治してくれる方を
 　求めているところです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それで、俺の所へか？」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0481">
+<name "ソシエット" "!DA0481">
 「正確には、セリスさんにです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリスの修行相手か？」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA0482">
+<name "ソシエット" "!DA0482">
 「そうです。
 　ただ、少々強いので判断はご主人様にお任せしま
 　す」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0483">
+<name "ソシエット" "!DA0483">
 「参加されるのでしたら、二週間以内に行動をお願
 　いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった。
 　考えておこう」
 #
@@ -701,29 +701,29 @@
 <music 2>
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA2851">
+<name "セリス" "!AA2851">
 「海辺に魔物ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、なんでも出るらしい」
 #
 <sprite "ta01a00.iph" 4 4 12>
-<name "Celes" "!AA2852">
+<name "セリス" "!AA2852">
 「その退治が、依頼に出てるんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「報酬はそれなりに良い。
 　と言う事は、魔物はそれなりに強いぞ」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA2853">
+<name "セリス" "!AA2853">
 「ですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「やる気があるなら、行ってきても良いぞ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA2854">
+<name "セリス" "!AA2854">
 「か、考えておきます」
 #
 <removesprite -1 11>

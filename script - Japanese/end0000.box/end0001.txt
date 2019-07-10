@@ -56,26 +56,26 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a72.iph" 4 4 11>
-<name "Soshiette" "!DA1205">
+<name "ソシエット" "!DA1205">
 「乗っ取った者による、自主的な返還です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「本当か？」
 #
 <sprite "ta04a75.iph" 4 4 12>
-<name "Soshiette" "!DA1206">
+<name "ソシエット" "!DA1206">
 「はい。
 　ただ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ただ？」
 #
 <sprite "ta04a73.iph" 4 4 12>
-<name "Soshiette" "!DA1225">
+<name "ソシエット" "!DA1225">
 「協会関係者から、セリスさんの成長に関しての報
 　告は行われていると思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………なるほど」
 #
 <removesprite -1 11>
@@ -86,15 +86,15 @@
 　実際、その可能性はゼロではない。
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1208">
+<name "ソシエット" "!DA1208">
 「セリスさんを潰すのは、協会も惜しいと思ったの
 　でしょう」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、最初の課題からして無茶だったからな」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1210">
+<name "ソシエット" "!DA1210">
 「はい」
 #
 <removesprite -1 11>

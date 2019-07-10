@@ -14,35 +14,35 @@
 :C9
 <music 24>
 <background "ev026a0.iph" 10>
-<name "Celes" "!AA4104">
+<name "セリス" "!AA4104">
 「ううう……」
 #
 　セリスは倒れた。
 #
 <background "ev026a1.iph" 10>
-<name "Celes" "!AA4105">
+<name "セリス" "!AA4105">
 「すみません……師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気にするな。
 　ゆっくりと身体を休めろ」
 #
-<name "Celes" "!AA4106">
+<name "セリス" "!AA4106">
 「は、はい……でも」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法による治療はしてやる。
 　ただ、どうやっても一ヶ月は寝てなきゃいけない」
 #
-<name "Celes" "!AA4107">
+<name "セリス" "!AA4107">
 「一ヶ月……そんなっ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「諦めろ。
 　無茶をしても、動けるだけで修行はできない。
 　今は休んで回復するのがベストだ」
 #
-<name "Celes" "!AA4108">
+<name "セリス" "!AA4108">
 「う……あ……わかりました」
 #
 \x0B\x02\x00\x0C\x02\x00\x0C 4 
@@ -52,13 +52,13 @@
 :325
 <music 24>
 <background "ev026a1.iph" 10>
-<name "Celes" "!AA4109">
+<name "セリス" "!AA4109">
 「……すみません、師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いいから、身体を休めろ」
 #
-<name "Celes" "!AA4110">
+<name "セリス" "!AA4110">
 「は、はい……」
 #
 \x0B\x02\x00\x0C\x02\x00\x0C 3 
@@ -68,20 +68,20 @@
 :3F0
 <music 24>
 <background "ev026a0.iph" 10>
-<name "Elle" "!CA0260">
+<name "イエル" "!CA0260">
 「セリスの様子はどうですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しばらくは動けん」
 #
-<name "Elle" "!CA0261">
+<name "イエル" "!CA0261">
 「そう……ですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「心配するな。
 　絶対に元に戻してやる」
 #
-<name "Elle" "!CA0263">
+<name "イエル" "!CA0263">
 「……お願いします」
 #
 \x0B\x02\x00\x0C\x02\x00\x0C 3 
@@ -91,22 +91,22 @@
 :522
 <music 24>
 <background "ev026a0.iph" 10>
-<name "Celes" "!AA4148">
+<name "セリス" "!AA4148">
 「うう……」
 #
-<name "Soshiette" "!DA0651">
+<name "ソシエット" "!DA0651">
 「セリスさんの様子はどうですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しばらくは動けん」
 #
-<name "Soshiette" "!DA0652">
+<name "ソシエット" "!DA0652">
 「そうですか……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「回復するまで、協会の仕事はしないからな」
 #
-<name "Soshiette" "!DA0653">
+<name "ソシエット" "!DA0653">
 「……承知しました」
 #
 \x0B\x02\x00\x0C\x02\x00\x0C 2 
@@ -116,17 +116,17 @@
 :687
 <music 24>
 <background "ev026a0.iph" 10>
-<name "Lazlocke">
+<name "ラズロック">
 「大丈夫か？」
 #
-<name "Celes" "!AA4111">
+<name "セリス" "!AA4111">
 「ぁ……はい……すみません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「謝らなくていい。
 　しばらくはのんびりしてろ」
 #
-<name "Celes" "!AA4112">
+<name "セリス" "!AA4112">
 「はい」
 #
 \x0B\x02\x00\x0C\x02\x00\x0C 4 

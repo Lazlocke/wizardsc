@@ -9,7 +9,7 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "Celes" "!AA4129">
+<name "セリス" "!AA4129">
 「勝った！」
 #
 <name "棒使い" "!UA0225">
@@ -26,15 +26,15 @@
 「甘い甘い」
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA4130">
+<name "セリス" "!AA4130">
 「す、すみません……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気にするな。
 　相手が強かっただけだ」
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "Celes" "!AA4131">
+<name "セリス" "!AA4131">
 「うう……悔しい」
 #
 <removesprite -1 11>

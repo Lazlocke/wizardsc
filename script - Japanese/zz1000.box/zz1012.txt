@@ -28,13 +28,13 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d2.iph" 10>
 :139 + 1
-<name "Celes" "!AA4991">
+<name "セリス" "!AA4991">
 「し、師匠……胸ばかり、あ、あう、うぁん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「母乳が出ないかなぁと」
 #
-<name "Celes" "!AA4992">
+<name "セリス" "!AA4992">
 「出ません！」
 #
 \x78\x78

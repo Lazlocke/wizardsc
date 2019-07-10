@@ -7,37 +7,37 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
-<name "Celes" "!AA6618">
+<name "セリス" "!AA6618">
 「あの……師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA6619">
+<name "セリス" "!AA6619">
 「その……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA6620">
+<name "セリス" "!AA6620">
 「えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうしたんだ？」
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "Celes" "!AA6621">
+<name "セリス" "!AA6621">
 「妊娠……しちゃいました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………………………………………」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なにぃぃぃぃぃぃぃぃぃぃぃぃっ！」
 #
 <removesprite -1 11>
@@ -45,7 +45,7 @@
 <background "ev086a0.iph" 10>
 　俺はセリスと結婚し、育児に励む事になった。
 #
-<name "Celes" "!AA6622">
+<name "セリス" "!AA6622">
 「家の事は残念ですけど……
 　これはこれで、良かったのかもしれません」
 #
@@ -65,32 +65,32 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA1222">
+<name "ソシエット" "!DA1222">
 「ご主人様」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？」
 #
 <sprite "ta04a29.iph" 4 4 12>
-<name "Soshiette" "!DA1223">
+<name "ソシエット" "!DA1223">
 「セリスさんからご報告があります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <removesprite -1 11>
 <sprite "ta01a97.iph" 4 4 11>
-<name "Celes" "!AA6623">
+<name "セリス" "!AA6623">
 「えっと……その……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん……」
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "Celes" "!AA6624">
+<name "セリス" "!AA6624">
 「妊娠しちゃいました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え？」
 #
 <removesprite -1 11>
@@ -98,7 +98,7 @@
 <background "ev086a0.iph" 10>
 　俺はセリスと結婚し、育児に励む事になった。
 #
-<name "Celes" "!AA6625">
+<name "セリス" "!AA6625">
 「色々と残念ですけど……
 　これはこれで、良かったのかもしれません」
 #

@@ -93,16 +93,16 @@
 『戦闘速度』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0987">
+<name "ソシエット" "!DA0987">
 「体捌きを良くし、無駄を削ります」
 #
 <sprite "ta04a08.iph" 4 4 12>
-<name "Soshiette" "!DA0988">
+<name "ソシエット" "!DA0988">
 「無駄が減った分、別の行動ができます。
 　手数が増えると言う事です」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0989">
+<name "ソシエット" "!DA0989">
 「相手が一度動く間に、こちらは二度、三度と動き
 　ます。
 　それは戦闘でどれだけ有利かは言わなくてもわか
@@ -111,17 +111,17 @@
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a08.iph" 6 4 11>
-<name "Celes" "!AA5746">
+<name "セリス" "!AA5746">
 「はい！」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA0990">
+<name "ソシエット" "!DA0990">
 「セリスさんを見る限り、前に比べて無駄が減りま
 　したが、まだまだです。
 　精進してください」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA5747">
+<name "セリス" "!AA5747">
 「は、はい！
 　頑張ります！」
 #
@@ -133,12 +133,12 @@
 『戦闘速度』
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0991">
+<name "ソシエット" "!DA0991">
 「無駄を削った動きは、芸術の域に達します。
 　見た目を重視するつもりはありませんが、その域
 　に達するように頑張ってください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気を失っている相手に言っても、無駄だぞ。
 　もう少し、手を抜け」
 #
@@ -150,11 +150,11 @@
 『戦闘速度』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA5748">
+<name "セリス" "!AA5748">
 「素早く脱衣……そしてベッドに……」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「む、無駄が無いが……少し寂しい」
 #
 <exit>
@@ -163,15 +163,15 @@
 <background "bg002a0.iph" 11>
 『戦闘速度』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うおおおっ、セ、セリスの腰の動きが……
 　速過ぎる！」
 #
 <sprite "ta01a51.iph" 4 4 11>
-<name "Celes" "!AA5749">
+<name "セリス" "!AA5749">
 「駄目ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気持ちは良い……
 　でも、もう少しだけゆっくりめで」
 #
@@ -183,52 +183,52 @@
 『体力回復』
 #
 <sprite "ta01d06.iph" 4 4 11>
-<name "Celes" "!AA5750">
+<name "セリス" "!AA5750">
 「魔力を上手く使う事で、体力を回復させる……
 　こんな感じですか？」
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Soshiette" "!DA0992">
+<name "ソシエット" "!DA0992">
 「そうですね。
 　いい感じです」
 #
 <sprite "ta01d07.iph" 2 5 12>
-<name "Celes" "!AA5751">
+<name "セリス" "!AA5751">
 「良かった」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0993">
+<name "ソシエット" "!DA0993">
 「ですが、まだまだです。
 　もう少し回復速度を高めましょう」
 #
 <sprite "ta01d06.iph" 2 5 12>
-<name "Celes" "!AA5752">
+<name "セリス" "!AA5752">
 「はい！
 　……え？
 　あれ？
 　どうして構えているんですか？」
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "Soshiette" "!DA0994">
+<name "ソシエット" "!DA0994">
 「体力がほぼ回復したようですので、回復する為の
 　ダメージを負わねばなりません」
 #
 <sprite "ta01d37.iph" 2 5 12>
-<name "Celes" "!AA5753">
+<name "セリス" "!AA5753">
 「え、あ……い、痛いのは……」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0995">
+<name "ソシエット" "!DA0995">
 「痛みを感じる前に倒します」
 #
 <sprite "ta01d38.iph" 2 5 12>
-<name "Celes" "!AA5754">
+<name "セリス" "!AA5754">
 「ちが……きゃぁぁぁぁっ！」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「本末転倒だなぁ」
 #
 <exit>
@@ -237,20 +237,20 @@
 <background "bg004a0.iph" 11>
 『体力回復』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「回復が早くなったな」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA5755">
+<name "セリス" "!AA5755">
 「はい。
 　ソシエットさんに倒されても、数分で気を取り戻
 　すようになりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「前は一時間ぐらい寝てたもんな」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA5756">
+<name "セリス" "!AA5756">
 「あはは……」
 #
 <removesprite -1 11>
@@ -261,17 +261,17 @@
 『体力回復』
 #
 <sprite "ta01d08.iph" 4 4 11>
-<name "Celes" "!AA5757">
+<name "セリス" "!AA5757">
 「師匠の体力って、魔力によって強化されているん
 　ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「強制的にな。
 　だから、魔力が溜まっている時の俺との行為は大
 　変だぞ」
 #
 <sprite "ta01d97.iph" 4 4 12>
-<name "Celes" "!AA5758">
+<name "セリス" "!AA5758">
 「そ、それ以上に頑張って体力を回復させます」
 #
 <removesprite -1 11>
@@ -281,12 +281,12 @@
 <background "bg004a0.iph" 11>
 『体力増加』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法使いでも体力は必要だからな。
 　頑張って体力を付けていけ」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA5759">
+<name "セリス" "!AA5759">
 「はい」
 #
 <removesprite -1 11>
@@ -296,24 +296,24 @@
 <background "bg004a0.iph" 11>
 『体力増加』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法使いでも体力は必要だからな。
 　頑張って体力を付けていけ」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA5760">
+<name "セリス" "!AA5760">
 「だから、師匠も体力があるんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「人並みにはな」
 #
 <sprite "ta01d08.iph" 4 4 12>
-<name "Celes" "!AA5761">
+<name "セリス" "!AA5761">
 「え……
 　あのＨの回数は化け物だとソシエットさんが言っ
 　てましたけど」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「聞き流しておくように」
 #
 <removesprite -1 11>
@@ -324,17 +324,17 @@
 『体力増加』
 #
 <sprite "ta01d06.iph" 4 4 11>
-<name "Celes" "!AA5762">
+<name "セリス" "!AA5762">
 「体力が付いたかな……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「試してやろうか？」
 #
 <sprite "ta01d92.iph" 4 4 12>
-<name "Celes" "!AA5763">
+<name "セリス" "!AA5763">
 「えっと……どういった方法で？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ベッドの上で」
 #
 <removesprite -1 11>
@@ -344,19 +344,19 @@
 <background "bg004a0.iph" 11>
 『体力増加』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……前に比べて、体力が付いたな」
 #
 <sprite "ta01d06.iph" 4 4 11>
-<name "Celes" "!AA5766">
+<name "セリス" "!AA5766">
 「そうですか？
 　自分では分らないんですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いやいや、付いている」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA5767">
+<name "セリス" "!AA5767">
 「えへへ……
 　そうですか」
 #
@@ -367,11 +367,11 @@
 　だよなぁ。
 #
 <sprite "ta01d27.iph" 4 4 11>
-<name "Celes" "!AA5768">
+<name "セリス" "!AA5768">
 「……あれ？
 　なにか変な事、考えませんでした？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気のせいだよ」
 #
 <removesprite -1 11>
@@ -382,21 +382,21 @@
 『移動力増加』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0996">
+<name "ソシエット" "!DA0996">
 「移動に関して、上達が見えます」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA5769">
+<name "セリス" "!AA5769">
 「ありがとうございます！」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0997">
+<name "ソシエット" "!DA0997">
 「これからも頑張るように」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA5770">
+<name "セリス" "!AA5770">
 「はい！」
 #
 <removesprite -1 11>
@@ -407,17 +407,17 @@
 『移動力増加』
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA5771">
+<name "セリス" "!AA5771">
 「お茶です！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ありがとう」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA5772">
+<name "セリス" "!AA5772">
 「お茶請けです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あ、ああ……
 　ありがとう」
 #
@@ -426,7 +426,7 @@
 　な……
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0998">
+<name "ソシエット" "!DA0998">
 「気配りが良くなっただけでは？」
 #
 <removesprite -1 11>
@@ -436,29 +436,29 @@
 <background "bg004a0.iph" 11>
 『戦闘防御』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス。
 　防御が上手くなったな」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA5773">
+<name "セリス" "!AA5773">
 「えへへ……そうですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ……
 　ソシエットに殴られ続けた甲斐があったな」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA5774">
+<name "セリス" "!AA5774">
 「あはは……師匠。
 　殴られ続けたんじゃなくて、ぶちのめされ続けた
 　んですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そ、そうか……大変だな」
 #
 <sprite "ta01d36.iph" 4 4 12>
-<name "Celes" "!AA5775">
+<name "セリス" "!AA5775">
 「ええ……本当に、防御が上手くならないと死にま
 　すから……」
 #
@@ -470,40 +470,40 @@
 『戦闘防御』
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0999">
+<name "ソシエット" "!DA0999">
 「戦闘に関して、防御が上達しています」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか、良い事だな」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA1000">
+<name "ソシエット" "!DA1000">
 「私としては、当たらないのが一番なのですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「全員が全員、お前みたいに動けるわけじゃないか
 　らな」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1001">
+<name "ソシエット" "!DA1001">
 「……そんな事はありません。
 　命じて頂ければ、ご主人様を私以上に動けるよう
 　にして見せますよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あはは……
 　できなかったら死ぬんだろ」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA1002">
+<name "ソシエット" "!DA1002">
 「もちろんです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そこで倒れてるセリス。
 　死んでないだろうな」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1003">
+<name "ソシエット" "!DA1003">
 「大丈夫です。
 　まだ、息はあります」
 #
@@ -515,41 +515,41 @@
 『反射防御』
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA1008">
+<name "ソシエット" "!DA1008">
 「敵の連続攻撃を、反射的に避ける技術です」
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Celes" "!AA5776">
+<name "セリス" "!AA5776">
 「反射的にですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1009">
+<name "ソシエット" "!DA1009">
 「そうです。
 　頭で考えるよりも先に、身体が反応して避けるの
 　です」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA5777">
+<name "セリス" "!AA5777">
 「便利そうですね」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA1006">
+<name "ソシエット" "!DA1006">
 「便利ですので、覚えましょう」
 #
 <sprite "ta01d07.iph" 2 5 12>
-<name "Celes" "!AA5778">
+<name "セリス" "!AA5778">
 「はい。
 　でも、覚えるのは難しいんじゃないですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1007">
+<name "ソシエット" "!DA1007">
 「簡単です。
 　身体に教え込むだけで良いんですから」
 #
 <sprite "ta01d36.iph" 2 5 12>
-<name "Celes" "!AA5779">
+<name "セリス" "!AA5779">
 「え……」
 #
 <removesprite -1 11>
@@ -559,13 +559,13 @@
 <background "bg004a0.iph" 11>
 『反射防御』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……
 　何度も見ているが、スカートを捲くるのを防御す
 　るヤツか？」
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA5780">
+<name "セリス" "!AA5780">
 「いえ、スカートを捲くられた後、伸びてくる腕を
 　回避する技術です」
 #
@@ -577,17 +577,17 @@
 『スタン防御』
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA1010">
+<name "ソシエット" "!DA1010">
 「攻撃された時、こちらの攻撃が止まってしまうの
 　は仕方が無い事です」
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "Soshiette" "!DA1011">
+<name "ソシエット" "!DA1011">
 「ですが、止まると不利になるのは説明するまでも
 　ありません」
 #
 <sprite "ta04a63.iph" 4 4 12>
-<name "Soshiette" "!DA1012">
+<name "ソシエット" "!DA1012">
 「これから教える技術は、その止まる時間を少しで
 　も減らす技術です。
 　頑張ってください」
@@ -595,7 +595,7 @@
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a63.iph" 6 4 11>
-<name "Celes" "!AA5781">
+<name "セリス" "!AA5781">
 「はい」
 #
 <removesprite -1 11>
@@ -606,11 +606,11 @@
 『スタン防御』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA5782">
+<name "セリス" "!AA5782">
 「攻撃されても動きを止めない！
 　つまり、射精されても動きを止めないと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「射精中は、止まっていてくれた方が良いなぁ」
 #
 <removesprite -1 11>
@@ -621,23 +621,23 @@
 『バック防御』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1013">
+<name "ソシエット" "!DA1013">
 「攻撃されても、後ろに下がらない。
 　これはとても大事な事です」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA5783">
+<name "セリス" "!AA5783">
 「相手に、距離の主導権を奪われない為ですね」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1014">
+<name "ソシエット" "!DA1014">
 「その通りです。
 　技術を伝えますので、覚えてください」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA5784">
+<name "セリス" "!AA5784">
 「はい」
 #
 <removesprite -1 11>
@@ -648,33 +648,33 @@
 『バック防御』
 #
 <sprite "ta04a16.iph" 4 4 11>
-<name "Soshiette" "!DA1015">
+<name "ソシエット" "!DA1015">
 「叩かれても……」
 #
 <removesprite -1 11>
 <sprite "ta01d22.iph" 4 4 11>
-<name "Celes" "!AA5785">
+<name "セリス" "!AA5785">
 「前へ！」
 #
 <removesprite -1 11>
 <sprite "ta04a16.iph" 4 4 11>
-<name "Soshiette" "!DA1016">
+<name "ソシエット" "!DA1016">
 「叩かれても……」
 #
 <removesprite -1 11>
 <sprite "ta01d22.iph" 4 4 11>
-<name "Celes" "!AA5786">
+<name "セリス" "!AA5786">
 「前へ！」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1017">
+<name "ソシエット" "!DA1017">
 「見事です」
 #
 <removesprite -1 11>
 <sprite "ta01d42.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA5787">
+<name "セリス" "!AA5787">
 「でも、痛いのには変わりありません……イタタ」
 #
 <exit>
@@ -684,20 +684,20 @@
 『バック防御』
 #
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA5788">
+<name "セリス" "!AA5788">
 「叩かれても、叩かれても……後ろに下がらない！」
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a63.iph" 6 4 11>
-<name "Soshiette" "!DA1018">
+<name "ソシエット" "!DA1018">
 「見事な防御です！」
 #
 <sprite "ta01d22.iph" 2 5 12>
-<name "Celes" "!AA5789">
+<name "セリス" "!AA5789">
 「そして前に！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「パワフルだなぁ……」
 #
 <removesprite -1 11>
@@ -707,11 +707,11 @@
 <background "bg004a0.iph" 11>
 『バック防御』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01d79.iph" 4 4 11>
-<name "Celes" "!AA5790">
+<name "セリス" "!AA5790">
 「あの、師匠の思っているのとは違いますから」
 #
 <removesprite -1 11>
@@ -721,16 +721,16 @@
 <background "bg004a0.iph" 11>
 『必殺防御』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「攻撃には、弱点を突いてくる技がある。
 　必殺と言うヤツだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「必殺防御は、それを防御する為の技術だ。
 　頑張って覚えろ」
 #
 <sprite "ta01d15.iph" 4 4 11>
-<name "Celes" "!AA5791">
+<name "セリス" "!AA5791">
 「はい」
 #
 <removesprite -1 11>
@@ -741,13 +741,13 @@
 『必殺防御』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1019">
+<name "ソシエット" "!DA1019">
 「必殺防御は、覚えて損の無いスキルです」
 #
 <removesprite -1 11>
 <sprite "ta01d15.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA5792">
+<name "セリス" "!AA5792">
 「はい。
 　頑張って覚えます」
 #
@@ -759,19 +759,19 @@
 『必殺防御』
 #
 <sprite "ta04a16.iph" 4 4 11>
-<name "Soshiette" "!DA1020">
+<name "ソシエット" "!DA1020">
 「せいっ！」
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 4 5 11>
-<name "Celes" "!AA5793">
+<name "セリス" "!AA5793">
 「やっ！」
 #
 <removesprite -1 11>
 　ソシエットの攻撃をセリスは受け止めた。
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1021">
+<name "ソシエット" "!DA1021">
 「一撃で倒すつもりの攻撃でしたが、防がれるとは
 　思いませんでした。
 　見事な防御です」
@@ -779,11 +779,11 @@
 <removesprite -1 11>
 <sprite "ta01d09.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA5794">
+<name "セリス" "!AA5794">
 「あ、ありがとうございます」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA1022">
+<name "ソシエット" "!DA1022">
 「この調子で、精進してください」
 #
 <removesprite -1 11>
@@ -793,11 +793,11 @@
 <background "bg004a0.iph" 11>
 『必殺防御』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01d97.iph" 4 4 11>
-<name "Celes" "!AA5795">
+<name "セリス" "!AA5795">
 「師匠、別にエッチ中の必殺技まで防御しませんよ」
 #
 　エッチ中の必殺技ってなんだろう？

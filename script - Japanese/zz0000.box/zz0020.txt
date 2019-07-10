@@ -1,31 +1,31 @@
 <music 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1479">
+<name "ソシエット" "!DA1479">
 「保守部の仕事をやって……」
 #
 <sprite "ta04a06.iph" 4 4 12>
-<name "Soshiette" "!DA1480">
+<name "ソシエット" "!DA1480">
 「ご主人様を監視……」
 #
 <sprite "ta04a07.iph" 4 4 12>
-<name "Soshiette" "!DA1481">
+<name "ソシエット" "!DA1481">
 「協会長から仕事を言われて……」
 #
 <sprite "ta04a08.iph" 4 4 12>
-<name "Soshiette" "!DA1482">
+<name "ソシエット" "!DA1482">
 「セリスさんの修行の手伝い」
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "Soshiette" "!DA1483">
+<name "ソシエット" "!DA1483">
 「…………私、メチャクチャ忙しいのでは？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「嫌なら、俺の監視とセリスの手伝いを止めれば良
 　いんじゃないか？」
 #
 <sprite "ta04a06.iph" 4 4 12>
-<name "Soshiette" "!DA1484">
+<name "ソシエット" "!DA1484">
 「その二つはライフワークです。
 　辞めるなら、保守部か協会長からの仕事を……」
 #
@@ -36,7 +36,7 @@
 「あら」
 #
 <sprite "ta04a65.iph" 6 4 12>
-<name "Soshiette" "!DA1485">
+<name "ソシエット" "!DA1485">
 「え」
 #
 <sprite "ta05a13.iph" 2 5 12>
@@ -44,7 +44,7 @@
 「あらあら」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA1486">
+<name "ソシエット" "!DA1486">
 「……きょ、協会長」
 #
 <sprite "ta05a16.iph" 2 5 12>
@@ -52,7 +52,7 @@
 「いま、変な事を言ったかしら？」
 #
 <sprite "ta04a29.iph" 6 4 12>
-<name "Soshiette" "!DA1487">
+<name "ソシエット" "!DA1487">
 「いえ、粉骨砕身これからも頑張ろうと決意を新た
 　にしたところです」
 #
@@ -65,14 +65,14 @@
 #
 <removesprite -1 11>
 <sprite "ta04a65.iph" 4 4 11>
-<name "Soshiette" "!DA1488">
+<name "ソシエット" "!DA1488">
 「が、頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……手伝ってやるから泣くな」
 #
 <sprite "ta04a23.iph" 4 4 12>
-<name "Soshiette" "!DA1489">
+<name "ソシエット" "!DA1489">
 「うう……ありがとうございます」
 #
 <removesprite -1 11>

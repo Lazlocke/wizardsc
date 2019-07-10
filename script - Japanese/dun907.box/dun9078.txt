@@ -10,19 +10,19 @@
 :9D
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、一度で登れるとは思っていなかったさ」
 #
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA3288">
+<name "セリス" "!AA3288">
 「むう、信用されてない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうじゃない。
 　難しい試練だって事だ」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA3289">
+<name "セリス" "!AA3289">
 「……次こそは」
 #
 <removesprite -1 11>
@@ -31,14 +31,14 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c21.iph" 4 4 11>
-<name "Celes" "!AA3290">
+<name "セリス" "!AA3290">
 「むう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「未熟を嘆け」
 #
 <sprite "ta01c26.iph" 4 4 12>
-<name "Celes" "!AA3291">
+<name "セリス" "!AA3291">
 「ううう……悔しい」
 #
 <removesprite -1 11>
@@ -47,15 +47,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c21.iph" 4 4 11>
-<name "Celes" "!AA3292">
+<name "セリス" "!AA3292">
 「………………やるな！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「やるなじゃない。
 　もう少し、頑張れ」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA3293">
+<name "セリス" "!AA3293">
 「あうう……」
 #
 <removesprite -1 11>
@@ -64,17 +64,17 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA3294">
+<name "セリス" "!AA3294">
 「あと少しだったのに……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「惜しかったな」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3295">
+<name "セリス" "!AA3295">
 「次こそは登りきってみせます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その意気だ」
 #
 <removesprite -1 11>

@@ -9,22 +9,22 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "Celes" "!AA2835">
+<name "セリス" "!AA2835">
 「師匠、山の魔物を倒しました！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よくやった。
 　頭を撫でてやろう」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA2836">
+<name "セリス" "!AA2836">
 「わーい」
 #
 <sprite "ta01c05.iph" 4 4 12>
-<name "Celes" "!AA2837">
+<name "セリス" "!AA2837">
 「……すごく子供扱いじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気にするな」
 #
 <removesprite -1 11>
@@ -33,23 +33,23 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA2839">
+<name "セリス" "!AA2839">
 「師匠、やりました！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺の弟子なら当たり前。
 　と言いたいが……」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA2840">
+<name "セリス" "!AA2840">
 「？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よくやった。
 　襲ってやろう」
 #
 <sprite "ta01c79.iph" 4 4 12>
-<name "Celes" "!AA2841">
+<name "セリス" "!AA2841">
 「きゃぁ♪」
 #
 <removesprite -1 11>

@@ -1,59 +1,59 @@
 <music 25>
 <background "bg004a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「セリス」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA5309">
+<name "セリス" "!AA5309">
 「師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「やるか」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA5310">
+<name "セリス" "!AA5310">
 「はい」
 #
 <removesprite -1 11>
 <music 36>
 <background "ev042a2.iph" 10>
-<name "Celes" "!AA5311">
+<name "セリス" "!AA5311">
 「ふぁん、この格好にも、慣れ、あ、ああん」
 #
 　俺は野外で、セリスと楽しんだ。
 #
 <background "bg004a0.iph" 11>
-<name "Celes" "!AA5312">
+<name "セリス" "!AA5312">
 「あの、別に地面の上で横になっても良いですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それも悪く無いが、見た目が悪い」
 #
-<name "Celes" "!AA5313">
+<name "セリス" "!AA5313">
 「悪いですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、凄く襲っている感じが……」
 #
-<name "Celes" "!AA5314">
+<name "セリス" "!AA5314">
 「襲っているのだから、問題無いと思いますが？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そうか」
 #
 　俺はセリスを地面の上に転がして、押し倒した。
 #
-<name "Celes" "!AA5315">
+<name "セリス" "!AA5315">
 「地面の上でやると、メチャクチャ痛いです。
 　あと、すっごく襲われた感があります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だろ」
 #
-<name "Celes" "!AA5316">
+<name "セリス" "!AA5316">
 「これはこれで興奮します」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 \x78\x78

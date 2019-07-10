@@ -1,21 +1,21 @@
 <music 2>
 <background "ev001a0.iph" 10>
-On a cold winter day, I met Celes.
+　寒い冬のある日、俺とセリスは出会った。
 #
-It was just happenstance.
+　それは偶然だった。
 #
-But it was a chance for both of us.
+　その偶然は、双方にとって僥倖であった。
 #
 <music 35>
 <background "ev033a0.iph" 10>
-I have someone to drain my mana.
+　俺は魔力の吐き出し先を手に入れ。
 #
 <music 28>
 <background "ev005a1.iph" 10>
-She receives the mana she needs.
+　セリスは魔力を得た。
 #
 <music 10>
 <background "bg001a0.iph" 11>
-And so our life together began.
+　そして、師弟生活が始まった。
 #
 \x78\x78

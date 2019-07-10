@@ -1,25 +1,25 @@
 <music 36>
 <background "ev042a2.iph" 10>
-<name "Celes" "!AA5301">
+<name "セリス" "!AA5301">
 「あん、んぁ、んぁ、ふぁん、ん、んぁ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「野外での行為にも、ずいぶんと慣れたな」
 #
-<name "Celes" "!AA5302">
+<name "セリス" "!AA5302">
 「し、師匠が、あん、ん、んはぁん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、俺の所為だ。
 　セリスがエロいのはな」
 #
-<name "Celes" "!AA5303">
+<name "セリス" "!AA5303">
 「も、もう、ふぁん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「もっと、エロくなれ」
 #
-<name "Celes" "!AA5304">
+<name "セリス" "!AA5304">
 「は、はい。
 　あん、んぁ、んぁぁんん」
 #
@@ -27,32 +27,32 @@
 　精を始めた。
 #
 <background "ev042a3.iph" 10>
-<name "Celes" "!AA5305">
+<name "セリス" "!AA5305">
 「ふぁ、ぁ、ぁぁ……
 　ぁ、ぁ、ぁぁぁぁぁぁぁん」
 #
 　そして、俺の射精に少し遅れながら、セリスも身
 　体を震わせて達した。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ん、エロいぞ」
 #
-<name "Celes" "!AA5306">
+<name "セリス" "!AA5306">
 「もう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あとな」
 #
-<name "Celes" "!AA5307">
+<name "セリス" "!AA5307">
 「はい？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そんな格好で潮を吹くと、犬みたいだぞ」
 #
-<name "Celes" "!AA5308">
+<name "セリス" "!AA5308">
 「噛み付きますよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「冗談だ」
 #
 　俺はセリスを抱き締めながら、さらなる射精に向

@@ -9,7 +9,7 @@
 <music 2>
 <background "bg015a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "Celes" "!AA4158">
+<name "セリス" "!AA4158">
 「召し捕った！」
 #
 <name "街の人" "!HA0158">
@@ -21,7 +21,7 @@
 <music 2>
 <background "bg015a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA4159">
+<name "セリス" "!AA4159">
 「し、しまった……」
 #
 <name "街の人" "!HA0159">

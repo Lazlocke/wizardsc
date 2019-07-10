@@ -15,7 +15,7 @@
 「一勝負、お相手願いたい」
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA4132">
+<name "セリス" "!AA4132">
 「わかりました」
 #
 <removesprite -1 11>

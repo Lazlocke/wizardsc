@@ -16,7 +16,7 @@
 :117
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3518">
+<name "セリス" "!AA3518">
 「強い……
 　で、出直そう」
 #
@@ -25,18 +25,18 @@
 :18B
 <background "bg016a0.iph" 11>
 <sprite "ta04a24.iph" 4 4 11>
-<name "Soshiette" "!DA0606">
+<name "ソシエット" "!DA0606">
 「セリスさん。
 　大丈夫ですか？」
 #
 <removesprite -1 11>
 <sprite "ta01c42.iph" 2 5 11>
 <sprite "ta04a24.iph" 6 4 11>
-<name "Celes" "!AA3519">
+<name "セリス" "!AA3519">
 「ぁ……ぁ……は、はい」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0607">
+<name "ソシエット" "!DA0607">
 「迎えに来てよかった。
 　引き上げます」
 #
@@ -44,20 +44,20 @@
 <exit>
 :2E1
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「強いだろ」
 #
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA3520">
+<name "セリス" "!AA3520">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔物になった王様は、そのまま魔物の王様になっ
 　たって話らしいからな。
 　強敵揃いだぞ」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA3521">
+<name "セリス" "!AA3521">
 「ですね。
 　でも……まだ、諦めません」
 #
@@ -65,14 +65,14 @@
 <exit>
 :42F
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「感想は？」
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3522">
+<name "セリス" "!AA3522">
 「……い、いい勉強に、なります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それだけ強がれるなら、大丈夫だな」
 #
 <removesprite -1 11>
@@ -80,11 +80,11 @@
 :4FB
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3523">
+<name "セリス" "!AA3523">
 「ま、負けたぁぁ……悔しい……」
 #
 <sprite "ta01c19.iph" 4 4 12>
-<name "Celes" "!AA3524">
+<name "セリス" "!AA3524">
 「でも、絶対に登りきってみせる」
 #
 <removesprite -1 11>
@@ -92,67 +92,67 @@
 :5C7
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3525">
+<name "セリス" "!AA3525">
 「むう……あと、少しだと思うんだけど」
 #
 <sprite "ta01c91.iph" 4 4 12>
-<name "Celes" "!AA3526">
+<name "セリス" "!AA3526">
 「ええい、頑張る！」
 #
 <removesprite -1 11>
 <exit>
 :68D
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「それで、どうして国が大きくなって民衆の生活が
 　悪くなったかわかったか？」
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3558">
+<name "セリス" "!AA3558">
 「ど、独自解釈ですが…………」
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "Celes" "!AA3559">
+<name "セリス" "!AA3559">
 「国が大きくなって、民衆の数が増えたけど、王様
 　は一人のまま」
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "Celes" "!AA3560">
+<name "セリス" "!AA3560">
 「民衆は、薄まる王様の加護に怒ったんじゃないか
 　と思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それで、生活が苦しくなったのか？」
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "Celes" "!AA3561">
+<name "セリス" "!AA3561">
 「王様も、大きくなる国に対して指導力が追い付か
 　なかったんだと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……なるほど。
 　それで、どっちが悪いんだ？」
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "Celes" "!AA3562">
+<name "セリス" "!AA3562">
 「両方共悪く、両方共悪く無いです。
 　だって、王様は民衆の為に国を大きくしたわけだ
 　し、民衆は王様の為に働いたわけじゃないですか」
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "Celes" "!AA3563">
+<name "セリス" "!AA3563">
 「誰も悪い事をしてないのに、どっちが悪いかなん
 　て決めれません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「民衆は王様を殺しているぞ」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA3564">
+<name "セリス" "!AA3564">
 「あ……う……そう言えば……
 　じゃあ、民衆が悪いのかな？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ま、わかった。
 　よく一番上まで行ったな」
 #
@@ -160,17 +160,17 @@
 　俺はセリスの頭を撫でた。
 #
 <sprite "ta01c17.iph" 4 4 11>
-<name "Celes" "!AA3565">
+<name "セリス" "!AA3565">
 「わーい」
 #
 <removesprite -1 11>
 　……
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0608">
+<name "ソシエット" "!DA0608">
 「……本当の事をお教えしなくて良いのですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「んー……」
 #
 <removesprite -1 11>
@@ -190,20 +190,20 @@
 #
 　しかし、それを民衆は許さずに争い、国は滅んだ。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あの問い掛けは、考える事が大事なのであって、
 　どっちが悪いかの答えの正否を問うものじゃない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「次の国の王よ、よく考えろと戒めの為に魔物に身
 　を堕とした王が造った塔」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ただ、亡国の念がそこに集まり、怪しい塔になっ
 　てしまっているがな」
 #
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA0609">
+<name "ソシエット" "!DA0609">
 「ですね。
 　定期的に掃除にいかねばならないのが、困りもの
 　です」

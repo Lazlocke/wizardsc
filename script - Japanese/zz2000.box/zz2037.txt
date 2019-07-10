@@ -440,23 +440,23 @@
 #
 <music 31>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「この猫。
 　俺みたいだな……」
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA5744">
+<name "セリス" "!AA5744">
 「なにがですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うおっ、ビ、ビックリした……
 　急に背後に立つなよ」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA5745">
+<name "セリス" "!AA5745">
 「掃除中に読書をしないでください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「むう……す、すまん」
 #
 <removesprite -1 11>

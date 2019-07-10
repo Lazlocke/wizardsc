@@ -9,13 +9,13 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "Celes" "!AA4153">
+<name "セリス" "!AA4153">
 「な、なんとか……」
 #
 <removesprite -1 11>
 <sprite "ta01c22.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Soshiette" "!DA0656">
+<name "ソシエット" "!DA0656">
 「お見事です」
 #
 <removesprite -1 11>
@@ -27,17 +27,17 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA0657">
+<name "ソシエット" "!DA0657">
 「まだまだですね」
 #
 <removesprite -1 11>
 <sprite "ta01c27.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
-<name "Celes" "!AA4154">
+<name "セリス" "!AA4154">
 「す、すみません」
 #
 <sprite "ta04a65.iph" 6 4 12>
-<name "Soshiette" "!DA0658">
+<name "ソシエット" "!DA0658">
 「この程度の相手に」
 #
 <name "乱暴者" "!QB0169">

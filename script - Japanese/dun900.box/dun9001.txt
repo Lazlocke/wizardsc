@@ -5,40 +5,40 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0504">
+<name "ソシエット" "!DA0504">
 「参加できちゃうぜ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……なんだ？」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0505">
+<name "ソシエット" "!DA0505">
 「いえ、ハイテンションな感じをご主人様に披露し
 　ようと思いまして」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なぜ？」
 #
 <sprite "ta04a08.iph" 4 4 12>
-<name "Soshiette" "!DA0506">
+<name "ソシエット" "!DA0506">
 「セリスさんのバンカスター武術大会への出場登録
 　が済みましたので、そのご報告を兼ねまして」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「兼ねんで良い。
 　セリス」
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA2981">
+<name "セリス" "!AA2981">
 「はい？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「バンカスター武術大会の出場登録が済んだ。
 　頑張れよ」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA2982">
+<name "セリス" "!AA2982">
 「はい。
 　頑張ります」
 #
@@ -49,43 +49,43 @@
 #
 <background "bg011a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0507">
+<name "ソシエット" "!DA0507">
 「戦っちゃうぜ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「もう良い」
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "Soshiette" "!DA0508">
+<name "ソシエット" "!DA0508">
 「頑張っているのに……報われない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はいはい。
 　セリスはどこだ？」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0509">
+<name "ソシエット" "!DA0509">
 「あちらに」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「もう始まるのか」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0510">
+<name "ソシエット" "!DA0510">
 「そのようです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前は出ないのか？」
 #
 <sprite "ta04a63.iph" 4 4 12>
-<name "Soshiette" "!DA0511">
+<name "ソシエット" "!DA0511">
 「私は二回戦からです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……なるほど」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0512">
+<name "ソシエット" "!DA0512">
 「始まります。
 　応援致しましょう」
 #

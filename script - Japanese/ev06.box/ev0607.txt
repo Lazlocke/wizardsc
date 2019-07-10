@@ -104,12 +104,12 @@
 <background "bg004a0.iph" 11>
 『炎の矢』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「火の魔法はお湯を沸かしたり、料理に使ったりと
 　生活に役立つ」
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "Celes" "!AA6136">
+<name "セリス" "!AA6136">
 「……魔力の無駄使いです」
 #
 <removesprite -1 11>
@@ -119,17 +119,17 @@
 <background "bg004a0.iph" 11>
 『炸裂する炎』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「炸裂する炎を上手く使えば、夜道を歩くのも怖く
 　ない」
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6137">
+<name "セリス" "!AA6137">
 「使っている方は怖くないかもしれませんが、見て
 　いる方は恐怖だと思いますよ」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA6138">
+<name "セリス" "!AA6138">
 「炎が爆発しながら移動してるんですから」
 #
 <removesprite -1 11>
@@ -140,7 +140,7 @@
 『爆裂する炎』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6139">
+<name "セリス" "!AA6139">
 「爆裂する炎っ！」
 #
 <removesprite -1 11>
@@ -150,10 +150,10 @@
 　そこにソシエットがやってきて……
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1164">
+<name "ソシエット" "!DA1164">
 「別に火の魔法なんて出来なくても死にません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うおいっ！」
 #
 <removesprite -1 11>
@@ -164,14 +164,14 @@
 『焼き尽くす炎』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6140">
+<name "セリス" "!AA6140">
 「焼き尽くすー！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「で、この丸コゲの料理が出来たと」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA6141">
+<name "セリス" "!AA6141">
 「すみません」
 #
 <removesprite -1 11>
@@ -181,14 +181,14 @@
 <background "bg004a0.iph" 11>
 『炎の陣』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「自分の周囲を、炎の兵が守ってくれる感じだ」
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA6142">
+<name "セリス" "!AA6142">
 「なんだか、ファンタジックですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わはは……
 　魔法は常にファンタジックだ」
 #
@@ -200,10 +200,10 @@
 『炎の蛇』
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6143">
+<name "セリス" "!AA6143">
 「うーん、可愛くない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、可愛い可愛くないの要素を入れる必要が無
 　いと思うが……」
 #
@@ -215,19 +215,19 @@
 『炎の壁』
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6144">
+<name "セリス" "!AA6144">
 「炎の壁を見てると、火事で燃えている家を想像し
 　てしまいます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「火事は怖いな」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA6145">
+<name "セリス" "!AA6145">
 「はい。
 　火の用心です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「火の魔法を使いながら言われてもなぁ……」
 #
 <removesprite -1 11>
@@ -237,13 +237,13 @@
 <background "bg004a0.iph" 11>
 『水弾』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「この魔法は、威力が弱いと本当に役立たずだから
 　な。
 　頑張って威力を上げるように」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6146">
+<name "セリス" "!AA6146">
 「は、はい。
 　頑張ります」
 #
@@ -255,18 +255,18 @@
 『水弾』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6147">
+<name "セリス" "!AA6147">
 「水をぶつけても、痛くないんじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ほう」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA6148">
+<name "セリス" "!AA6148">
 「あ、いえ、別に実践で喰らいたいわけじゃありま
 　せん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか、残念だ」
 #
 <removesprite -1 11>
@@ -277,14 +277,14 @@
 『水弾』
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6149">
+<name "セリス" "!AA6149">
 「水の硬さって解り難いですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「雨の日に走った時、顔に当たる痛さとか」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA6150">
+<name "セリス" "!AA6150">
 「とても、解り難いです」
 #
 <removesprite -1 11>
@@ -295,14 +295,14 @@
 『流れる水』
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6151">
+<name "セリス" "!AA6151">
 「寒い地方では、流れる水も凍るそうですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「へー」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6152">
+<name "セリス" "!AA6152">
 「それだけなんですけどね」
 #
 <removesprite -1 11>
@@ -313,18 +313,18 @@
 『凍てつく氷』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6153">
+<name "セリス" "!AA6153">
 「水が凍ると、大きくなりますよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6154">
+<name "セリス" "!AA6154">
 「でも、溶かすと減るんですよね。
 　増えた分は、どこへ行ったんでしょうか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「元に戻っているだけだろ」
 #
 <removesprite -1 11>
@@ -335,19 +335,19 @@
 『激動の大河』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6155">
+<name "セリス" "!AA6155">
 「大河が激動したら、色々な人に迷惑が掛かります
 　よね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA6156">
+<name "セリス" "!AA6156">
 「あの、それがどうしたって感じで答えられても困
 　るんですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そう言われても俺が困る」
 #
 <removesprite -1 11>
@@ -358,28 +358,28 @@
 『砕け散る氷河』
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6157">
+<name "セリス" "!AA6157">
 「師匠。
 　質問なんですが、私達の服って魔法である程度の
 　防寒防暖仕様になっているじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、そうだぞ」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA6158">
+<name "セリス" "!AA6158">
 「これで、水や火の魔法の威力を減らす事は出来な
 　いんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ジワリとくる寒さや暑さは防ぐが、ガツンとくる
 　寒さや暑さは防げないんだ」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6159">
+<name "セリス" "!AA6159">
 「と言いますと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「火で例えるなら……直火は無理」
 #
 <removesprite -1 11>
@@ -390,11 +390,11 @@
 『歓喜の雨』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6162">
+<name "セリス" "!AA6162">
 「日照り続きで泣きそうになっている畑仕事の人達
 　を喜ばせる雨ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「えっとだな」
 #
 <removesprite -1 11>
@@ -407,11 +407,11 @@
 『嘆きの泉』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6161">
+<name "セリス" "!AA6161">
 「嘆きの泉と言えば……
 　どこかの観光名所でしたっけ？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、まったく違うから」
 #
 <removesprite -1 11>
@@ -422,16 +422,16 @@
 『氷の壁』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6163">
+<name "セリス" "!AA6163">
 「氷の壁っ！
 　……出来た！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「出来たが……小さいな。
 　姿が隠れてないぞ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6164">
+<name "セリス" "!AA6164">
 「これから頑張って大きくしていきます」
 #
 <removesprite -1 11>
@@ -442,14 +442,14 @@
 『氷の壁』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6165">
+<name "セリス" "!AA6165">
 「氷の壁っ！」
 #
 <sprite "ta01a18.iph" 4 4 12>
-<name "Celes" "!AA6166">
+<name "セリス" "!AA6166">
 「……うーん、冷たくて気持ち良い」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「夏場は重宝するなぁ」
 #
 <removesprite -1 11>
@@ -460,26 +460,26 @@
 『切り裂く風』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6167">
+<name "セリス" "!AA6167">
 「風で物が裂けるなんて、不思議ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうでもないぞ。
 　自然にも時々、発生していてだな。
 　ええと……シックルウィーゼルだったかな？」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA6168">
+<name "セリス" "!AA6168">
 「良く解りません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「すまん。
 　俺も勉強不足だ。
 　だが、風が物を裂くのは珍しくないと覚えておこ
 　う」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6169">
+<name "セリス" "!AA6169">
 「はい」
 #
 <removesprite -1 11>
@@ -490,11 +490,11 @@
 『追跡する風』
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA6170">
+<name "セリス" "!AA6170">
 「これって、逃げた方向に不幸がやって来るってヤ
 　ツですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「違う。
 　あと、ちゃんと魔法で追いかけるから」
 #
@@ -506,19 +506,19 @@
 『弾ける風』
 #
 <sprite "ta01a17.iph" 4 4 11>
-<name "Celes" "!AA6171">
+<name "セリス" "!AA6171">
 「パッチンパッチン♪」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「楽しそうだな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6172">
+<name "セリス" "!AA6172">
 「はい。
 　風の魔法って、楽器が無くても音楽を奏でられる
 　んですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「本来の使い方とは違うがな……」
 #
 <removesprite -1 11>
@@ -531,32 +531,32 @@
 『荒れ狂う風』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6173">
+<name "セリス" "!AA6173">
 「師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6174">
+<name "セリス" "!AA6174">
 「荒れ狂う風って、竜巻みたいなものですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6175">
+<name "セリス" "!AA6175">
 「じゃあ、あそこにある竜巻は師匠の魔法ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「使った覚えは無いな」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「あれ？
 　セリス？」
 #
-<name "Celes" "!AA6177">
+<name "セリス" "!AA6177">
 「師匠、逃げてー」
 #
 　セリスは振り返りもせず、声だけを置いて一目散
@@ -574,26 +574,26 @@
 『嵐』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6178">
+<name "セリス" "!AA6178">
 「嵐、嵐、嵐、嵐、嵐、嵐、嵐！」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6179">
+<name "セリス" "!AA6179">
 「さて、私は嵐を何回言ったでしょうか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「七回」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA6180">
+<name "セリス" "!AA6180">
 「もう、どうして当てるんですか……」
 #
 <removesprite -1 11>
 <sprite "ta04a87.iph" 4 4 11>
-<name "Soshiette" "!DA1165">
+<name "ソシエット" "!DA1165">
 「空気を読んでません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え、俺、怒られるの？」
 #
 <removesprite -1 11>
@@ -604,7 +604,7 @@
 『嵐』
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA6181">
+<name "セリス" "!AA6181">
 「嵐、嵐、嵐、嵐、嵐、嵐！
 　さて、私は嵐を何回言ったでしょうか？」
 #
@@ -617,35 +617,35 @@
 #
 　俺は学習できる男だ。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「七回」
 #
 <sprite "ta01a17.iph" 4 4 11>
-<name "Celes" "!AA6182">
+<name "セリス" "!AA6182">
 「残念！
 　六回でした！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「し、しまった！」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1166">
+<name "ソシエット" "!DA1166">
 「では、罰ゲームです。
 　魔法の実験台になってください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おいっ！
 　空気を読んだ結果がこれか！」
 #
 <sprite "ta04a11.iph" 4 4 12>
-<name "Soshiette" "!DA1167">
+<name "ソシエット" "!DA1167">
 「罰ゲームは罰ゲームです」
 #
 <removesprite -1 11>
 <sprite "ta01a17.iph" 2 5 11>
 <sprite "ta04a11.iph" 6 4 11>
-<name "Celes" "!AA6183">
+<name "セリス" "!AA6183">
 「ささ、こちらに」
 #
 <removesprite -1 11>
@@ -660,27 +660,27 @@
 『重き風』
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6186">
+<name "セリス" "!AA6186">
 「風が重くなっても、大した事は無いと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「風の力を馬鹿にしてはいけない。
 　使い方次第では、人ぐらい潰せてしまうぞ」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6187">
+<name "セリス" "!AA6187">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ。
 　俺は無理だが……
 　ヴィオラならやれるかもしれないな」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA6188">
+<name "セリス" "!AA6188">
 「…………風も馬鹿にできませんね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うむ」
 #
 <removesprite -1 11>
@@ -691,12 +691,12 @@
 『重き風』
 #
 <sprite "ta01a17.iph" 4 4 11>
-<name "Celes" "!AA6189">
+<name "セリス" "!AA6189">
 「重き風……
 　ダイエット中の人に掛けると、すっごくダメージ
 　がありそうですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「多分、その相手からの反撃はすごい一撃になるか
 　ら止めておきなさい」
 #
@@ -708,23 +708,23 @@
 『背中を押す風』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6193">
+<name "セリス" "!AA6193">
 「背中を押す風」
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "Celes" "!AA6194">
+<name "セリス" "!AA6194">
 「凄い速さで走れるっ！」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「おおっ…………あ、あー……
 　すっごい勢いで転んだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大丈夫か？」
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "Celes" "!AA6195">
+<name "セリス" "!AA6195">
 「うう、痛かったです」
 #
 <removesprite -1 11>
@@ -738,20 +738,20 @@
 #
 <music 26>
 <background "ev027a0.iph" 10>
-<name "Celes" "!AA6196">
+<name "セリス" "!AA6196">
 「こ、こんな感じですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よし、浮いている。
 　良い感じだぞ」
 #
-<name "Celes" "!AA6197">
+<name "セリス" "!AA6197">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そのまま、意識を集中して高度を上げろ」
 #
-<name "Celes" "!AA6198">
+<name "セリス" "!AA6198">
 「頑張ります」
 #
 <background "ev027a1.iph" 10>
@@ -760,82 +760,82 @@
 　そして、ある程度まで上がった所で落ちてきた。
 #
 <background "ev027a0.iph" 10>
-<name "Celes" "!AA6199">
+<name "セリス" "!AA6199">
 「……げ、限界です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、まだこんなものかな。
 　降りて良いぞ」
 #
-<name "Celes" "!AA6200">
+<name "セリス" "!AA6200">
 「は、はい。
 　あの……ホウキとか絨毯は使わせてくれないんで
 　すか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それは、もう少し上手くなってからだ」
 #
-<name "Celes" "!AA6201">
+<name "セリス" "!AA6201">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「道具に魔法を掛けて空を飛ぶのと、自分が空を飛
 　ぶではどちらが難度が高いと思うんだ？」
 #
-<name "Celes" "!AA6202">
+<name "セリス" "!AA6202">
 「…………道具に魔法を掛ける方が難しそうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だろう」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、素で飛んでると格好が悪いとか、女の子は
 　スカートの中を見られるとかの理由で、道具を使
 　い始めるんだけどな」
 #
-<name "Celes" "!AA6203">
+<name "セリス" "!AA6203">
 「そうなんですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうなんだ。
 　普通に飛んで移動しているとき、結構、ポーズと
 　かに困るんだ」
 #
-<name "Celes" "!AA6204">
+<name "セリス" "!AA6204">
 「はぁ、そうですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ともかく、今は自力で飛ぶ練習あるのみ。
 　寝てても空を飛べるように頑張れ」
 #
-<name "Celes" "!AA6205">
+<name "セリス" "!AA6205">
 「が、頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あ、あと、注意だが……
 　この魔法は詠唱に時間が掛かるから、戦闘中は使
 　えない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それと、主要な場所には飛行封じがあるから、気
 　を付けろ」
 #
-<name "Celes" "!AA6206">
+<name "セリス" "!AA6206">
 「主要な場所って、どこですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「色々あるが……城とか塔だな。
 　存在が飛行封じになっているから、飛んで近付こ
 　うとすると落ちるぞ」
 #
-<name "Celes" "!AA6207">
+<name "セリス" "!AA6207">
 「き、気をつけます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それがいい。
 　まあ、この魔法は移動用と割り切る事だ」
 #
-<name "Celes" "!AA6208">
+<name "セリス" "!AA6208">
 「はい」
 #
 【セリスの行動範囲が広がった】
@@ -847,54 +847,54 @@
 『飛行』
 #
 <background "ev027a1.iph" 10>
-<name "Celes" "!AA6209">
+<name "セリス" "!AA6209">
 「上がりまーす」
 #
 <background "ev027a0.iph" 10>
-<name "Celes" "!AA6210">
+<name "セリス" "!AA6210">
 「下がりまーす」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おお、自由自在だな」
 #
-<name "Celes" "!AA6211">
+<name "セリス" "!AA6211">
 「はい。
 　なんだかこの魔法とは、相性が良いみたいです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いやいや、相性だけでこの魔法をそこまで使いこ
 　なせたりしないぞ。
 　ベテラン魔法使いでも、使えないヤツも居るぐら
 　いなのに」
 #
-<name "Celes" "!AA6212">
+<name "セリス" "!AA6212">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、大したものだ」
 #
-<name "Celes" "!AA6213">
+<name "セリス" "!AA6213">
 「えへへ……
 　でも、この魔法、戦闘中とかに使えないんですよ
 　ね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「発動に時間が掛かるからな」
 #
-<name "Celes" "!AA6214">
+<name "セリス" "!AA6214">
 「一気に塔とかに登れちゃうかなと思ったんですけ
 　ど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「飛行封じがあるからな」
 #
-<name "Celes" "!AA6215">
+<name "セリス" "!AA6215">
 「街中で飛ぶ事は禁止ですし……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会がそう言ってるからな」
 #
-<name "Celes" "!AA6216">
+<name "セリス" "!AA6216">
 「残念です」
 #
 【セリスの行動範囲が広がった】
@@ -906,17 +906,17 @@
 『襲う土の槍』
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6217">
+<name "セリス" "!AA6217">
 「地面からニョキニョキと土の槍が伸びますね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6218">
+<name "セリス" "!AA6218">
 「タケノコみたいです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「思っても、口にしないように」
 #
 <removesprite -1 11>
@@ -927,29 +927,29 @@
 『震える大地』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6219">
+<name "セリス" "!AA6219">
 「震える大地って、要は地震の事ですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6220">
+<name "セリス" "!AA6220">
 「なぜ、素直に地震と言わないんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そりゃ、唱えた時の格好良さじゃないか」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA6221">
+<name "セリス" "!AA6221">
 「地震っ！」
 #
 <sprite "ta01a22.iph" 4 4 12>
-<name "Celes" "!AA6222">
+<name "セリス" "!AA6222">
 「震える大地っ！」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA6223">
+<name "セリス" "!AA6223">
 「……む、確かに」
 #
 <removesprite -1 11>
@@ -960,11 +960,11 @@
 『暴れる大地』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6225">
+<name "セリス" "!AA6225">
 「この暴れる大地を上手く使えば、子供が喜ぶ遊具
 　を作れそうですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「前にやった事があるが、泣き叫んだぞ」
 #
 <removesprite -1 11>
@@ -975,29 +975,29 @@
 『遮る土の壁』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6226">
+<name "セリス" "!AA6226">
 「遮る土の壁っ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なかなか見事だな」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6227">
+<name "セリス" "!AA6227">
 「はい。
 　ところで師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA6228">
+<name "セリス" "!AA6228">
 「この魔法で家を建てるのは無理ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「無理だ」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA6229">
+<name "セリス" "!AA6229">
 「……残念」
 #
 <removesprite -1 11>
@@ -1007,15 +1007,15 @@
 <background "bg004a0.iph" 11>
 『繋ぎとめる泥』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「相手の足元を崩し、動きを鈍らせる魔法だ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「飛んでいる相手には効かないので、注意するよう
 　に」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6230">
+<name "セリス" "!AA6230">
 「はい」
 #
 <removesprite -1 11>
@@ -1026,25 +1026,25 @@
 『繋ぎとめる泥』
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6231">
+<name "セリス" "!AA6231">
 「若い男が一人、また一人と街に出掛けていきます。
 　村には年老いた者ばかり」
 #
 <sprite "ta01a34.iph" 4 4 12>
-<name "Celes" "!AA6232">
+<name "セリス" "!AA6232">
 「このままでは村はおしまいだ。
 　なんとかしなきゃ」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA6233">
+<name "セリス" "!AA6233">
 「年老いた者達が考えに考え抜いた魔法。
 　それが……繋ぎとめる泥」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6234">
+<name "セリス" "!AA6234">
 「と言う結論を出してみました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <removesprite -1 11>
@@ -1055,21 +1055,21 @@
 『溺れる泥の沼』
 #
 <sprite "ta01a32.iph" 4 4 11>
-<name "Celes" "!AA6235">
+<name "セリス" "!AA6235">
 「泥で溺れると、本当に大変ですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「前に溺れた事があるのか？」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA6236">
+<name "セリス" "!AA6236">
 「はい。
 　生死の境を思いっきり、彷徨いました。
 　泥の沼は恐ろしいです。
 　それを魔法で……」
 #
 <sprite "ta01a37.iph" 4 4 12>
-<name "Celes" "!AA6237">
+<name "セリス" "!AA6237">
 「ああ、魔法って恐ろしい」
 #
 <removesprite -1 11>
@@ -1079,15 +1079,15 @@
 <background "bg004a0.iph" 11>
 『肉体強化』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法によって肉体を一時的に強化し、戦闘を優位
 　に進める」
 #
 <sprite "ta01a97.iph" 4 4 11>
-<name "Celes" "!AA6238">
+<name "セリス" "!AA6238">
 「エッチな行為の時もですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「つ、使った事は無いぞ」
 #
 <removesprite -1 11>
@@ -1098,19 +1098,19 @@
 『魔力強化』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6239">
+<name "セリス" "!AA6239">
 「魔力を活用して魔力を高める……」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA6240">
+<name "セリス" "!AA6240">
 「なんだか変な感じですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「自分の体内にある魔力を整え、魔法として使いや
 　すくすると思えば良い」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6241">
+<name "セリス" "!AA6241">
 「なるほど」
 #
 <removesprite -1 11>
@@ -1120,24 +1120,24 @@
 <background "bg004a0.iph" 11>
 『治癒の魔法』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「治癒のイメージは、時間を進める感じだと覚える
 　ように」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6244">
+<name "セリス" "!AA6244">
 「はい。
 　だから、時間を進めても治らない症状には効かな
 　いんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ」
 #
 <sprite "ta01a61.iph" 4 4 12>
-<name "Celes" "!AA6243">
+<name "セリス" "!AA6243">
 「でも、エロい行為の体力回復には使えると……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「行為中は良いが、後でかなり疲れるのでやらない
 　ように」
 #
@@ -1149,20 +1149,20 @@
 『治癒の魔法』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6245">
+<name "セリス" "!AA6245">
 「治癒の魔法を使いこなせば、街の人とかすっごく
 　助かるんじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「万能ではないがな。
 　一応、協会がそういった組織を作って頑張ってい
 　る」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6246">
+<name "セリス" "!AA6246">
 「おお」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「数少ない有益な事業だ」
 #
 <removesprite -1 11>
@@ -1173,36 +1173,36 @@
 『再生の魔法』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6247">
+<name "セリス" "!AA6247">
 「再生と言うと、トカゲの切れた尻尾がまた生える
 　みたいな感じ……」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA6248">
+<name "セリス" "!AA6248">
 「つまり、腕を落とした場合はその腕が生えると？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それは無理だ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6249">
+<name "セリス" "!AA6249">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法でも限界はある。
 　落とされた腕を戻したいなら、その落とされた腕
 　が必要となる」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうしてくっついたとしても、元通りの働きをす
 　る事は難しい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法は便利に思えるかもしれないが、その限界を
 　間違えないように」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6250">
+<name "セリス" "!AA6250">
 「わかりました」
 #
 <removesprite -1 11>
@@ -1213,39 +1213,39 @@
 『雷撃』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1168">
+<name "ソシエット" "!DA1168">
 「はい！
 　はいです！
 　ご主人様！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうしたんだ？」
 #
 <sprite "ta04a07.iph" 4 4 12>
-<name "Soshiette" "!DA1169">
+<name "ソシエット" "!DA1169">
 「雷系の魔法ならこの私にお任せ願えませんか！」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1170">
+<name "ソシエット" "!DA1170">
 「是非、是非に！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そこまで言っても駄目だ！」
 #
 <sprite "ta04a23.iph" 4 4 12>
-<name "Soshiette" "!DA1171">
+<name "ソシエット" "!DA1171">
 「何故ですか！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法もお前に任せ始めたら、俺の立場が危なくな
 　るだろう！」
 #
 <sprite "ta04a25.iph" 4 4 12>
-<name "Soshiette" "!DA1173">
+<name "ソシエット" "!DA1173">
 「ご主人様にはエッチな事をして魔力を与えると言
 　う大事な使命があるじゃないですか！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うおいっ！
 　機密事項を叫ぶな！」
 #
@@ -1257,20 +1257,20 @@
 『雷撃』
 #
 <sprite "ta01a10.iph" 4 4 11>
-<name "Celes" "!AA6251">
+<name "セリス" "!AA6251">
 「うわっ、ビ、ビリッとしました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、そういった魔法だからな……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちなみに、低威力でエロ行為に使うとだな……」
 #
 <sprite "ta01a19.iph" 4 4 12>
-<name "Celes" "!AA6252">
+<name "セリス" "!AA6252">
 「凄い威力、ちゃんと使いこなさないと」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「無視された……」
 #
 <removesprite -1 11>
@@ -1281,29 +1281,29 @@
 『雷球』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6253">
+<name "セリス" "!AA6253">
 「雷の玉……室内の明かりみたいな感じですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あれは光系の魔法」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6254">
+<name "セリス" "!AA6254">
 「どう違うんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………………………………………」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6255">
+<name "セリス" "!AA6255">
 「どう違うんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……あ、あれだ。
 　ほら、雷系はビリッて音がするじゃないか」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA6256">
+<name "セリス" "!AA6256">
 「な、なるほど」
 #
 <removesprite -1 11>
@@ -1315,20 +1315,20 @@
 <background "bg004a0.iph" 11>
 『雷電』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「雷も電も共に、稲妻、カミナリの事だ」
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA6257">
+<name "セリス" "!AA6257">
 「ビリビリがいっぱいって感じですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、それなりの年齢の女性が、雷をビリビリと
 　表現するのはどうなんだろう、と言う話は置いて
 　おいて、ビリビリがいっぱいなんだ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6258">
+<name "セリス" "!AA6258">
 「良いじゃないですか。
 　ビリビリで。
 　可愛いと思います」
@@ -1341,39 +1341,39 @@
 『雷王』
 #
 <sprite "ta04a16.iph" 4 4 11>
-<name "Soshiette" "!DA1175">
+<name "ソシエット" "!DA1175">
 「雷の王様のような感じで！」
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6259">
+<name "セリス" "!AA6259">
 「ビリビリビリ……」
 #
 <removesprite -1 11>
 <sprite "ta04a16.iph" 4 4 11>
-<name "Soshiette" "!DA1176">
+<name "ソシエット" "!DA1176">
 「もっと格調高く！
 　動きもシャープに！」
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6260">
+<name "セリス" "!AA6260">
 「ビリビリビリーン」
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Soshiette" "!DA1179">
+<name "ソシエット" "!DA1179">
 「素晴らしい。
 　その調子です」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「ビリビリと口で言いながら、変なダンスをする意
 　味ってなんだ？」
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1178">
+<name "ソシエット" "!DA1178">
 「何事も、形から入るんです」
 #
 <removesprite -1 11>
@@ -1384,21 +1384,21 @@
 『雷帝』
 #
 <sprite "ta01a10.iph" 4 4 11>
-<name "Celes" "!AA6263">
+<name "セリス" "!AA6263">
 「ビリッてしたぁ……」
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
-<name "Soshiette" "!DA1180">
+<name "ソシエット" "!DA1180">
 「雷系の魔法の宿命です」
 #
 <sprite "ta01a48.iph" 2 5 12>
-<name "Celes" "!AA6262">
+<name "セリス" "!AA6262">
 「でも、なんだか気持ちが良いかも……」
 #
 <sprite "ta04a29.iph" 6 4 12>
-<name "Soshiette" "!DA1181">
+<name "ソシエット" "!DA1181">
 「それは危険な方向です。
 　戻って来てください」
 #
@@ -1410,26 +1410,26 @@
 『雷龍』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6264">
+<name "セリス" "!AA6264">
 「召喚魔法じゃないですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、雷龍の如き威力で名付けられた」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA6265">
+<name "セリス" "!AA6265">
 「前から思っていましたが、魔法の名前って誰が付
 　けたんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「最初に編み出した魔法使いだろうな」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、一つの魔法でも複数の呼び方があるから、
 　呼びやすいように言えば良いんじゃないか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6266">
+<name "セリス" "!AA6266">
 「考えておきます」
 #
 <removesprite -1 11>
@@ -1440,31 +1440,31 @@
 『雷歩』
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA6267">
+<name "セリス" "!AA6267">
 「雷のような速さで……歩く！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「良い感じだな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6268">
+<name "セリス" "!AA6268">
 「はい。
 　これで、街の中での移動も楽になるかと」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なるほど。
 　しかし、持久力のある魔法じゃないから、街中で
 　の移動には向いていないと思うぞ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あと、街中で楽に移動したいからなんて理由で魔
 　法を使ったら、協会から何を言われるか……」
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "Celes" "!AA6269">
+<name "セリス" "!AA6269">
 「バレなければ良いと、ソシエットさんが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <removesprite -1 11>
@@ -1476,14 +1476,14 @@
 <background "bg004a0.iph" 11>
 『雷歩』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うーん……」
 #
 　ソシエットとセリスが模擬戦をやっているが、お
 　互いが高度な雷歩を使っているので、まるっきり
 　見えない。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うーん……スローにする魔法を掛けてやろうか」
 #
 <exit>

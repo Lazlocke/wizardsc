@@ -22,35 +22,35 @@
 :193
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3600">
+<name "セリス" "!AA3600">
 「ま、まさか……あんなに竜が居るなんて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大丈夫か？」
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "Celes" "!AA3601">
+<name "セリス" "!AA3601">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「竜は強かったろ」
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "Celes" "!AA3602">
+<name "セリス" "!AA3602">
 「はい。
 　古代竜じゃないのに、あんなに強いなんて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「他の竜も、全部雄だ。
 　そう考えると、雌の竜の強さって考えたくないよ
 　な」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA3603">
+<name "セリス" "!AA3603">
 「あはは……
 　でも、いつかきっと」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そうだな。
 　いつかきっとだ」
 #
@@ -59,25 +59,25 @@
 :3FC
 <background "bg002a0.iph" 11>
 <sprite "ta01c23.iph" 4 4 11>
-<name "Celes" "!AA3604">
+<name "セリス" "!AA3604">
 「は、反則です！
 　なんですかあの強さは！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はいはい、静かに休むように」
 #
 <removesprite -1 11>
 <exit>
 :4B0
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「ま……簡単に登られても困るが……」
 #
 <sprite "ta01c27.iph" 4 4 11>
-<name "Celes" "!AA3605">
+<name "セリス" "!AA3605">
 「きゅー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「怪我ばかりも困るな」
 #
 <removesprite -1 11>
@@ -85,10 +85,10 @@
 :570
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3606">
+<name "セリス" "!AA3606">
 「も、もう少しだったのに……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あの塔、そこまで登れる事に感心する」
 #
 <removesprite -1 11>

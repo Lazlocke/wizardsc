@@ -200,35 +200,35 @@
 <background "bg024a0.iph" 10>
 <music 31>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「…………」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うーん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「むーん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なるほど」
 #
 　悪く無いプレイかもしれない。
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA5732">
+<name "セリス" "!AA5732">
 「師匠！
 　掃除、サボってますね！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うわぁぁぁぁっ！
 　び、びっくりしたぁ……」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA5733">
+<name "セリス" "!AA5733">
 「びっくりしたじゃないです。
 　掃除、続けてください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お、おう」
 #
 <removesprite -1 11>

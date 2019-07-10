@@ -6,23 +6,23 @@
 :70
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「本選が始まるぞ」
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA2948">
+<name "セリス" "!AA2948">
 「はい。
 　準備は万端です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……頑張れ」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA2949">
+<name "セリス" "!AA2949">
 「はい」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「……ああ待て」
 #
 　俺は協会の宝物庫から、持ち出した秘薬をセリス
@@ -38,11 +38,11 @@
 <music 10>
 <background "bg003a0.iph" 11>
 <sprite "ta01c00.iph" 4 4 11>
-<name "Celes" "!AA2950">
+<name "セリス" "!AA2950">
 「本選が始まる……」
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "Celes" "!AA2951">
+<name "セリス" "!AA2951">
 「強い人ばかりだけど……
 　全員を倒して、優勝する！」
 #

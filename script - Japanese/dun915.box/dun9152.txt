@@ -198,50 +198,50 @@
 \x1A\x01\x07\x04\x0A\x69\x84\x00\x01\x0E :CF0: \x1A\x01\x0A\x02\x01\x0F 12 \x01\x0E :CF0: \x96\x9A\xBC "門開ける" \x97 "dun915.box"  9 \x0A\x04\x0A\x69\x84\x01\x15 :CF0: 
 :CF0
 \x78
-<name "Celes" "!AA3904">
+<name "セリス" "!AA3904">
 「なにか謎でもないのかしら？」
 #
-<name "Celes" "!AA3905">
+<name "セリス" "!AA3905">
 「真っ直ぐ進むだけじゃ、面白くないわね」
 #
-<name "Celes" "!AA3923">
+<name "セリス" "!AA3923">
 「……あれ」
 #
-<name "Celes" "!AA3924">
+<name "セリス" "!AA3924">
 「…………あれれ？
 　見覚えがある場所に……」
 #
-<name "Celes" "!AA3925">
+<name "セリス" "!AA3925">
 「まさか……」
 #
-<name "Celes" "!AA3926">
+<name "セリス" "!AA3926">
 「道に迷った？」
 #
-<name "Celes" "!AA3927">
+<name "セリス" "!AA3927">
 「行き止まり？
 　そんなぁ～」
 #
-<name "Celes" "!AA3928">
+<name "セリス" "!AA3928">
 「うう……戻らないと」
 #
-<name "Celes" "!AA3929">
+<name "セリス" "!AA3929">
 「うわっ！
 　罠だ！」
 #
-<name "Celes" "!AA3930">
+<name "セリス" "!AA3930">
 「しまったぁ……」
 #
-<name "Celes" "!AA3931">
+<name "セリス" "!AA3931">
 「うう……強そう」
 #
-<name "Celes" "!AA3932">
+<name "セリス" "!AA3932">
 「でも、負けない！」
 #
-<name "Celes" "!AA3933">
+<name "セリス" "!AA3933">
 「あ、宝箱発見！
 　なにかな～♪」
 #
-<name "Celes" "!AA3935">
+<name "セリス" "!AA3935">
 「ラッキー、アイテム♪」
 #
 \x78

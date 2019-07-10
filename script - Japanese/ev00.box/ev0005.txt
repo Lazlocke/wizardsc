@@ -109,41 +109,41 @@
 　協会からの命令で、俺はヴィオラと共にクルーネ
 　帝国に強行偵察に来ていた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「偵察なら、街に行くのがベストじゃないのか？」
 #
 <sprite "ta03b03.iph" 4 4 11>
-<name "Viola" "!BA0282">
+<name "ヴィオラ" "!BA0282">
 「私の顔が知られ過ぎているから、街には行けない
 　わよ。
 　私と貴方で組ませての偵察なんだから、軍の演習
 　を覗いて来いって事でしょ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「情報部の仕事を、どうして俺達が……」
 #
 <sprite "ta03b01.iph" 4 4 12>
-<name "Viola" "!BA0283">
+<name "ヴィオラ" "!BA0283">
 「実働部隊に見せておきたいんでしょ。
 　クルーネ帝国の実状を」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そろそろ、ヤバイみたいだな」
 #
 <sprite "ta03b00.iph" 4 4 12>
-<name "Viola" "!BA0284">
+<name "ヴィオラ" "!BA0284">
 「そうね。
 　予想ではまだ数年先だと思ったけど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「面倒な事を……」
 #
 <sprite "ta03b03.iph" 4 4 12>
-<name "Viola" "!BA0285">
+<name "ヴィオラ" "!BA0285">
 「文句を言わない。
 　次の場所に行くわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった」
 #
 <removesprite -1 11>
@@ -154,46 +154,46 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA3134">
+<name "セリス" "!AA3134">
 「ただいま戻りました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おかえり。
 　……ん？
 　頼んだ薬品。
 　買い忘れか？」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA3135">
+<name "セリス" "!AA3135">
 「いえ、お店に商品がなかったんです。
 　しばらくは入荷しないと言ってました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか……
 　あの薬品、欲しかったんだがな……」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA3136">
+<name "セリス" "!AA3136">
 「原材料を教えて頂ければ、採って来ますが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……いや、良い。
 　悪かったな。
 　無駄足をさせて」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA3137">
+<name "セリス" "!AA3137">
 「いえ……
 　では、夕食の準備をします」
 #
 <removesprite -1 11>
 　セリスは買物篭を持って、台所に向かった。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……あの薬品の原材料。
 　クルーネ帝国の特産だったな」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「収穫量が落ちたのか、それとも……」
 #
 　今度、ソシエットに言って調査して貰おう。
@@ -203,51 +203,51 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a01.iph" 4 4 11>
-<name "Soshiette" "!DA0529">
+<name "ソシエット" "!DA0529">
 「緊急連絡です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「緊急？」
 #
 <sprite "ta04a02.iph" 4 4 12>
-<name "Soshiette" "!DA0530">
+<name "ソシエット" "!DA0530">
 「カスト地方にて、クインズベル王国軍とクルーネ
 　帝国軍が交戦状態に入りました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ついに火が付いたか。
 　指揮官は？」
 #
 <sprite "ta04a01.iph" 4 4 12>
-<name "Soshiette" "!DA0531">
+<name "ソシエット" "!DA0531">
 「クインズベル王国軍は、リチャード将軍。
 　クルーネ帝国軍は、マッコフ将軍です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「双方、実力者だな。
 　長引くか？」
 #
 <sprite "ta04a02.iph" 4 4 12>
-<name "Soshiette" "!DA0532">
+<name "ソシエット" "!DA0532">
 「王国はそう見ています。
 　協会はクインズベル王国軍に荷担し、早期の戦争
 　終結に向けて動きます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA0533">
+<name "ソシエット" "!DA0533">
 「ここ、ローリアの街は戦地から離れていますが、
 　戦争勃発に伴い様々な弊害が出ると思います。
 　ご注意ください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった。
 　出る必要があったら言ってくれ」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0534">
+<name "ソシエット" "!DA0534">
 「承知しました」
 #
 <removesprite -1 11>
@@ -256,30 +256,30 @@
 <music 6>
 <background "bg008a0.iph" 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "Elle" "!CA0229">
+<name "イエル" "!CA0229">
 「師匠、戦争が始まりました！」
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta02a32.iph" 6 4 11>
-<name "Viola" "!BA0286">
+<name "ヴィオラ" "!BA0286">
 「知っているわ。
 　三日前から小競り合いは始まっているんだから、
 　今さら騒がないように」
 #
 <sprite "ta02a28.iph" 6 4 12>
-<name "Elle" "!CA0230">
+<name "イエル" "!CA0230">
 「え、あ、はい。
 　でも、のんびりしてて良いんですか？」
 #
 <sprite "ta03a03.iph" 2 5 12>
-<name "Viola" "!BA0287">
+<name "ヴィオラ" "!BA0287">
 「そのうちに私の出陣もあると思うけど、今はまだ
 　様子見の時期だからのんびりするわ。
 　お茶、お願いできるかしら？」
 #
 <sprite "ta02a27.iph" 6 4 12>
-<name "Elle" "!CA0232">
+<name "イエル" "!CA0232">
 「は、はい。
 　用意します」
 #
@@ -289,14 +289,14 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA3155">
+<name "セリス" "!AA3155">
 「アルバイトが出来ない……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「戦争中だからな」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA3156">
+<name "セリス" "!AA3156">
 「早く終わって欲しいです」
 #
 <removesprite -1 11>
@@ -541,7 +541,7 @@
 <removesprite -1 11>
 <sprite "ta03a20.iph" 2 5 11>
 <sprite "ta05a06.iph" 6 4 11>
-<name "Viola" "!BA0288">
+<name "ヴィオラ" "!BA0288">
 「戦争が長引いているようなので、様子を伺いに」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -550,7 +550,7 @@
 　てっきり、お願い事でもあるのかと思ったのに」
 #
 <sprite "ta03a15.iph" 2 5 12>
-<name "Viola" "!BA0289">
+<name "ヴィオラ" "!BA0289">
 「……」
 #
 <sprite "ta05a07.iph" 6 4 12>
@@ -559,7 +559,7 @@
 　出陣となったら、貴女の指揮下に入るように手配
 　するわ」
 #
-<name "Viola" "!BA0290">
+<name "ヴィオラ" "!BA0290">
 「…………」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -567,7 +567,7 @@
 「これでも、応援しているのよ」
 #
 <sprite "ta03a18.iph" 2 5 12>
-<name "Viola" "!BA0291">
+<name "ヴィオラ" "!BA0291">
 「余計なお世話です」
 #
 <sprite "ta05a11.iph" 6 4 12>
@@ -643,63 +643,63 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0535">
+<name "ソシエット" "!DA0535">
 「クルーネ帝国軍が降伏しました。
 　戦争終結です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか……思ったよりも早かったな」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0536">
+<name "ソシエット" "!DA0536">
 「はい。
 　ベルーダ王国やリカオン王国からの説得が効いた
 　ようです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんにせよ、良い事だ」
 #
 <sprite "ta04a11.iph" 4 4 12>
-<name "Soshiette" "!DA0537">
+<name "ソシエット" "!DA0537">
 「そうですね。
 　祝賀会が王都で予定されていますが、出席されま
 　すか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「丁重に、お断りする」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0538">
+<name "ソシエット" "!DA0538">
 「承知しました。
 　では、私は協会に戻ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会長に、よろしく」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0539">
+<name "ソシエット" "!DA0539">
 「はい」
 #
 <removesprite -1 11>
 　ソシエットと入れ替わり、セリスがやってくる。
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA3157">
+<name "セリス" "!AA3157">
 「師匠、戦争が終ったんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、やっとな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA3158">
+<name "セリス" "!AA3158">
 「一安心ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな。
 　……これで、お前も修行に集中できるな」
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "Celes" "!AA3159">
+<name "セリス" "!AA3159">
 「はい！
 　頑張ります」
 #
@@ -709,27 +709,27 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0540">
+<name "ソシエット" "!DA0540">
 「ご主人様。
 　協会から、出陣要請です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……わかった」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA3160">
+<name "セリス" "!AA3160">
 「師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス。
 　留守番をしていろ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA3161">
+<name "セリス" "!AA3161">
 「一緒に行くのは駄目ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「駄目だ」
 #
 <removesprite -1 11>
@@ -737,62 +737,62 @@
 #
 　しかし、俺は折れない。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そんな顔をしても駄目だ」
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0541">
+<name "ソシエット" "!DA0541">
 「協会からセリスさんに出陣要請はありません。
 　一緒に来られても、同じ部隊で行動できない可能
 　性が高いです」
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "Soshiette" "!DA0542">
+<name "ソシエット" "!DA0542">
 「そうなれば、余計な心配をご主人様にお掛けする
 　事になるのではありませんか？」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta04a24.iph" 6 4 11>
-<name "Celes" "!AA3162">
+<name "セリス" "!AA3162">
 「……わかりました。
 　留守番しています」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「ソシエット、他に出るヤツは？」
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0543">
+<name "ソシエット" "!DA0543">
 「ヴィオラ様、メイツェル様、ヘンリエッタ様です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヘンリエッタまで来るのか？」
 #
 <sprite "ta04a68.iph" 4 4 12>
-<name "Soshiette" "!DA0544">
+<name "ソシエット" "!DA0544">
 「はい。
 　最大戦力で、一気に終らせる計画です。
 　非公式ながら、エルザ様、キーマ様も参加されま
 　す」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちょっとした同窓会だな。
 　協会長は？」
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "Soshiette" "!DA0545">
+<name "ソシエット" "!DA0545">
 「王都の防衛に残ります。
 　戦後に、全員で顔を見せに来るようにとの命令が
 　出ています」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「命令ね。
 　命令なら従わないとな。
 　……行くぞ」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0546">
+<name "ソシエット" "!DA0546">
 「はい」
 #
 <removesprite -1 11>
@@ -808,38 +808,38 @@
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「あー、終った終った」
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA3163">
+<name "セリス" "!AA3163">
 「師匠……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「久しぶりだな。
 　ちゃんと修行はしていたか？」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA3164">
+<name "セリス" "!AA3164">
 「……駄目でした。
 　集中できなくて」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか。
 　まあ、戦争は終ったんだ。
 　これからは修行がいくらでも出来るぞ」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA3165">
+<name "セリス" "!AA3165">
 「はい。
 　指導、よろしくお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった。
 　が、今日は休ませてくれ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA3166">
+<name "セリス" "!AA3166">
 「はい♪」
 #
 <removesprite -1 11>
@@ -854,55 +854,55 @@
 <music 10>
 <background "bg008a0.iph" 11>
 <sprite "ta03a38.iph" 4 4 11>
-<name "Viola" "!BA0292">
+<name "ヴィオラ" "!BA0292">
 「疲れたわね」
 #
 <removesprite -1 11>
 <sprite "ta03a38.iph" 2 4 11>
 <sprite "ta02a34.iph" 6 5 11>
-<name "Elle" "!CA0233">
+<name "イエル" "!CA0233">
 「師匠！」
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "Viola" "!BA0293">
+<name "ヴィオラ" "!BA0293">
 「出迎え、ありがとう。
 　ん、どうしたの？」
 #
 <sprite "ta02a27.iph" 6 5 12>
-<name "Elle" "!CA0234">
+<name "イエル" "!CA0234">
 「いえ、師匠が無事で……」
 #
 <sprite "ta03a03.iph" 2 4 12>
-<name "Viola" "!BA0294">
+<name "ヴィオラ" "!BA0294">
 「私が死ぬと思ったの？」
 #
 <sprite "ta02a32.iph" 6 5 12>
-<name "Elle" "!CA0235">
+<name "イエル" "!CA0235">
 「そ、そうではありませんが……」
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "Viola" "!BA0295">
+<name "ヴィオラ" "!BA0295">
 「……心配してくれてありがとう。
 　でも、私の心配をする前に、腕を磨きなさい」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0296">
+<name "ヴィオラ" "!BA0296">
 「貴女が強くなれば、私の心配をしなくても良くな
 　るでしょう」
 #
 <sprite "ta02a09.iph" 6 5 12>
-<name "Elle" "!CA0236">
+<name "イエル" "!CA0236">
 「そ、そうですね。
 　頑張ります！」
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "Viola" "!BA0297">
+<name "ヴィオラ" "!BA0297">
 「よろしい。
 　……少し横になるわ。
 　私の事は良いから、修行に励みなさい」
 #
 <sprite "ta02a10.iph" 6 5 12>
-<name "Elle" "!CA0238">
+<name "イエル" "!CA0238">
 「はい」
 #
 <removesprite -1 11>
@@ -911,55 +911,55 @@
 <music 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0547">
+<name "ソシエット" "!DA0547">
 「戦争終結です。
 　ご苦労様でした」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「んー……まあ、ヴィオラとヘンリエッタが暴れた
 　だけな気がするが……」
 #
 <sprite "ta04a11.iph" 4 4 12>
-<name "Soshiette" "!DA0548">
+<name "ソシエット" "!DA0548">
 「あの二人を抑えられるのは、ご主人様しかいませ
 　ん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「嫌な頼られ方だ」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0549">
+<name "ソシエット" "!DA0549">
 「なにはともあれ、ありがとうございました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう」
 #
 <removesprite -1 11>
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA3167">
+<name "セリス" "!AA3167">
 「師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「久しぶりだな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA3168">
+<name "セリス" "!AA3168">
 「ご無事でなによりです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、無事さを確かめる為に、一戦するか？」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA3169">
+<name "セリス" "!AA3169">
 「模擬戦ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、ベッドの中」
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "Celes" "!AA3170">
+<name "セリス" "!AA3170">
 「…………はい♪」
 #
 <removesprite -1 11>

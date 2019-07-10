@@ -34,11 +34,11 @@
 #
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a05.iph" 6 4 11>
-<name "Elle" "!CA1203">
+<name "イエル" "!CA1203">
 「……あの二人、仲良いね」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA7182">
+<name "セリス" "!AA7182">
 「男の人が話してるだけで、勘繰るのは良くないと
 　思う」
 #

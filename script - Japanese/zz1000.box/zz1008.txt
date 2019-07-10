@@ -28,57 +28,57 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d0.iph" 10>
 :139 + 1
-<name "Celes" "!AA4960">
+<name "セリス" "!AA4960">
 「あ、あん、師匠……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
-<name "Celes" "!AA4961">
+<name "セリス" "!AA4961">
 「さっきから胸ばっかりで……その、あの……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「我慢できないのか？」
 #
-<name "Celes" "!AA4962">
+<name "セリス" "!AA4962">
 「そ、そう言うワケでは……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「じゃあ、もっと胸を突き出せ。
 　可愛がってやる」
 #
-<name "Celes" "!AA4963">
+<name "セリス" "!AA4963">
 「ん……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……良い形だ」
 #
-<name "Celes" "!AA4964">
+<name "セリス" "!AA4964">
 「そんなにハッキリと感想を言わないでください。
 　恥ずかしいです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「黙って揉んでいたら、文句を言ったのはお前だろう」
 #
-<name "Celes" "!AA4965">
+<name "セリス" "!AA4965">
 「でも……あ、あん♪」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス」
 #
-<name "Celes" "!AA4966">
+<name "セリス" "!AA4966">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「我慢できないなら、自分から腰を振って良いぞ」
 #
-<name "Celes" "!AA4967">
+<name "セリス" "!AA4967">
 「そんな……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺はしばらくお前の胸しか弄らないからな」
 #
-<name "Celes" "!AA4968">
+<name "セリス" "!AA4968">
 「あん、んぁ……し、師匠……」
 #
 　俺はセリスの胸を存分に楽しんだ。
@@ -88,11 +88,11 @@
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「いやらしいセリスも可愛いな」
 #
 <sprite "ta01a75.iph" 4 4 11>
-<name "Celes" "!AA4969">
+<name "セリス" "!AA4969">
 「そ、そんな事を言わないでください」
 #
 <removesprite -1 11>

@@ -1743,19 +1743,19 @@
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7F54: 
 <name "ジャッジマン" "!FA0475">
 「絶対領域を持つのは誰？」
-<choice :107E: "Celes" \x00\x00>
-<choice :107E: "Soshiette" \x00\x00>
-<choice :EC6: "Elle" \x00\x00>
-<choice :107E: "Viola" \x00\x00>
+<choice :107E: "セリス" \x00\x00>
+<choice :107E: "ソシエット" \x00\x00>
+<choice :EC6: "イエル" \x00\x00>
+<choice :107E: "ヴィオラ" \x00\x00>
 #
 \x18 :7FD0: 
 :7F54
 <name "ジャッジマン" "!FA0475">
 「絶対領域を持つのは誰？」
-<choice :107E: "Viola" \x00\x00>
-<choice :107E: "Soshiette" \x00\x00>
-<choice :EC6: "Elle" \x00\x00>
-<choice :107E: "Celes" \x00\x00>
+<choice :107E: "ヴィオラ" \x00\x00>
+<choice :107E: "ソシエット" \x00\x00>
+<choice :EC6: "イエル" \x00\x00>
+<choice :107E: "セリス" \x00\x00>
 #
 :7FD0
 \x1A\x01\x0A\x22\x00\x12 71 \x01\x0E :80FB: 
@@ -1783,19 +1783,19 @@
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :81D8: 
 <name "ジャッジマン" "!FA0477">
 「常時メガネをかけているキャラは？」
-<choice :107E: "Celes" \x00\x00>
-<choice :107E: "Soshiette" \x00\x00>
-<choice :107E: "Viola" \x00\x00>
+<choice :107E: "セリス" \x00\x00>
+<choice :107E: "ソシエット" \x00\x00>
+<choice :107E: "ヴィオラ" \x00\x00>
 <choice :EC6: "ルーン" \x00\x00>
 #
 \x18 :825E: 
 :81D8
 <name "ジャッジマン" "!FA0477">
 「常時メガネをかけているキャラは？」
-<choice :107E: "Celes" \x00\x00>
+<choice :107E: "セリス" \x00\x00>
 <choice :EC6: "ルーン" \x00\x00>
-<choice :107E: "Soshiette" \x00\x00>
-<choice :107E: "Viola" \x00\x00>
+<choice :107E: "ソシエット" \x00\x00>
+<choice :107E: "ヴィオラ" \x00\x00>
 #
 :825E
 \x15 :4B9: 

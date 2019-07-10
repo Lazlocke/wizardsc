@@ -17,12 +17,12 @@
 :E0
 \x1A\x01\x07\x44\x02\xC1\x84\x01\x01\x0E :FB: \x0B\x22\x00\x05\x22\x00\x05 10 
 :FB
-<choice :1A4: "Carry Over" \x00\x00>
-<choice :1B0: "Start From Scratch" \x00\x00>
-Carry over your money and skills?
-Money -　&CG050&Ｂ
-Skill Points
-&CL005&% of previous max
+<choice :1A4: "引き継ぐ" \x00\x00>
+<choice :1B0: "引き継がない" \x00\x00>
+　資金やスキルポイントを引き継ぎますか？
+　引き継ぎ資金　&CG050&Ｂ
+　引き継ぎスキルポイント
+　過去ＭＡＸ値の　&CL005&％
 #
 :1A4
 \x0A\x04\x01\x5E\x84\x01\x15 :1B6: 
@@ -32,54 +32,54 @@ Skill Points
 \xB5 "ボロベッド" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :1E4: \xB4 "ボロベッド" \x84\x01
 :1E4
 \x1A\x01\x07\x44\x03\x6C\x84\x01\x01\x0E :28B: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-<choice :659: "Skill Mode" \x00\x00>
-<choice :6F6: "Glory Mode" \x00\x00>
-<choice :7A5: "Final Mode" \x00\x00>
-Which mode would you like to play?
+<choice :4C8: "ノーマルモード" \x00\x00>
+<choice :54F: "修行モード" \x00\x00>
+<choice :5C2: "試練モード" \x00\x00>
+<choice :659: "熟練モード" \x00\x00>
+<choice :6F6: "栄光モード" \x00\x00>
+<choice :7A5: "最終モード" \x00\x00>
+　どのモードにしますか？
 #
 :28B
 \x1A\x01\x07\x44\x03\x6B\x84\x01\x01\x0E :31E: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-<choice :659: "Skill Mode" \x00\x00>
-<choice :6F6: "Glory Mode" \x00\x00>
-Which mode would you like to play?
+<choice :4C8: "ノーマルモード" \x00\x00>
+<choice :54F: "修行モード" \x00\x00>
+<choice :5C2: "試練モード" \x00\x00>
+<choice :659: "熟練モード" \x00\x00>
+<choice :6F6: "栄光モード" \x00\x00>
+　どのモードにしますか？
 #
 :31E
 \x1A\x01\x07\x44\x03\x6A\x84\x01\x01\x0E :39D: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-<choice :659: "Skill Mode" \x00\x00>
-Which mode would you like to play?
+<choice :4C8: "ノーマルモード" \x00\x00>
+<choice :54F: "修行モード" \x00\x00>
+<choice :5C2: "試練モード" \x00\x00>
+<choice :659: "熟練モード" \x00\x00>
+　どのモードにしますか？
 #
 :39D
 \x1A\x01\x07\x44\x03\x69\x84\x01\x01\x0E :408: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-Which mode would you like to play?
+<choice :4C8: "ノーマルモード" \x00\x00>
+<choice :54F: "修行モード" \x00\x00>
+<choice :5C2: "試練モード" \x00\x00>
+　どのモードにしますか？
 #
 :408
 \x1A\x01\x07\x44\x03\x68\x84\x01\x01\x0E :4C2: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-Which mode would you like to play?
-(Different modes affect initial stats as well
- as when events will unlock.
- Training Mode is recommended right now.)
+<choice :4C8: "ノーマルモード" \x00\x00>
+<choice :54F: "修行モード" \x00\x00>
+　どのモードにしますか？
+（モードを変更すると、初期状態が少しだけ変化し
+　ます。
+　修行モードを選ぶ事をお薦めします）
 #
 :4C2
 \x15 :4C8: 
 :4C8
 \x0A\x02\x01\x9A 1 \x1A\x01\x07\x44\x02\xBD\x84\x01\x01\x0E :518: 
-<choice :518: "View the Prologue" \x00\x00>
-<choice :525: "Skip the Prologue" \x00\x00>
-Watch the prologue?
+<choice :518: "見る" \x00\x00>
+<choice :525: "飛ばす" \x00\x00>
+　ＯＰを飛ばしますか？
 #
 :518
 \x6E 1 \x00\x0A\x44\x02\xBD\x84\x01

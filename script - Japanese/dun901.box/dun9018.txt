@@ -11,7 +11,7 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "Celes" "!AA2946">
+<name "セリス" "!AA2946">
 「よし、なんとか予選突破」
 #
 <removesprite -1 11>
@@ -19,11 +19,11 @@
 :115
 <music 15>
 <background "bg011a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「予選突破だな」
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA2947">
+<name "セリス" "!AA2947">
 「はい。
 　次は本選です」
 #
@@ -33,21 +33,21 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c29.iph" 4 4 11>
-<name "Celes" "!AA2962">
+<name "セリス" "!AA2962">
 「よ、予選で……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「残念だったな」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA2963">
+<name "セリス" "!AA2963">
 「予選も突破できないなんて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会は厳しいからな」
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "Celes" "!AA2964">
+<name "セリス" "!AA2964">
 「う、うう……」
 #
 <removesprite -1 11>

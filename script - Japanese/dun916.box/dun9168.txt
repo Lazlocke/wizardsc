@@ -14,7 +14,7 @@
 :142
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3967">
+<name "セリス" "!AA3967">
 「失敗……思った以上に、手強い」
 #
 <removesprite -1 11>
@@ -22,12 +22,12 @@
 :1B9
 <background "bg016a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA3968">
+<name "セリス" "!AA3968">
 「しくじった……
 　ふう、油断したかな？」
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "Celes" "!AA3969">
+<name "セリス" "!AA3969">
 「いや、油断はしてない。
 　自分の実力ね。
 　もっと頑張らないと」
@@ -37,11 +37,11 @@
 :2B4
 <background "bg016a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3970">
+<name "セリス" "!AA3970">
 「良い感じで敵が強い……」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3971">
+<name "セリス" "!AA3971">
 「修行になるわね」
 #
 <removesprite -1 11>
@@ -49,12 +49,12 @@
 :36C
 <background "bg016a0.iph" 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "Celes" "!AA3972">
+<name "セリス" "!AA3972">
 「ふぁっ……やられた。
 　また、最初から……」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA3973">
+<name "セリス" "!AA3973">
 「自分の弱さを反省しなきゃ」
 #
 <removesprite -1 11>
@@ -62,11 +62,11 @@
 :443
 <background "bg016a0.iph" 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "Celes" "!AA3974">
+<name "セリス" "!AA3974">
 「惜しい所まで行けたと思うんだけど……」
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "Celes" "!AA3975">
+<name "セリス" "!AA3975">
 「まだまだね。
 　もっと頑張らないと」
 #
@@ -86,7 +86,7 @@
 #
 　悪鬼伝説として。
 #
-<name "Celes" "!AA4009">
+<name "セリス" "!AA4009">
 「い、戦乙女伝説とかの方が良いなぁ」
 #
 <name "噂する冒険者" "!RB0192">
@@ -96,49 +96,49 @@
 「うんうん」
 #
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「攻略したか……
 　よくやった」
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA4010">
+<name "セリス" "!AA4010">
 「はい。
 　頑張りました！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それで、大地下迷宮の名前は？」
 #
 <sprite "ta01c09.iph" 4 4 12>
-<name "Celes" "!AA4011">
+<name "セリス" "!AA4011">
 「ダイ＝チカ＝メイキュです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……本当か？」
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "Celes" "!AA4012">
+<name "セリス" "!AA4012">
 「いえ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「じゃあ、その名前は？」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA4013">
+<name "セリス" "!AA4013">
 「私が付けました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……なぜ？」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA4014">
+<name "セリス" "!AA4014">
 「合間を縫って調べたのですが、どうしてもわから
 　なくて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それで、名前を付けたと」
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "Celes" "!AA4015">
+<name "セリス" "!AA4015">
 「はい。
 　冒険者や、近隣の街や村にもそういう噂を流して
 　おきましたので、十年後ぐらいには真実になって
@@ -149,7 +149,7 @@
 　握り拳を押し付けた。
 #
 <sprite "ta01c34.iph" 4 4 11>
-<name "Celes" "!AA4016">
+<name "セリス" "!AA4016">
 「痛い痛い痛い……」
 #
 <removesprite -1 11>

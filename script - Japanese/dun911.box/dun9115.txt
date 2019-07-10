@@ -9,41 +9,41 @@
 \x78
 :8D
 <music 23>
-<name "Celes" "!AA3553">
+<name "セリス" "!AA3553">
 「頂上到着！
 　王魔の塔、制覇！」
 #
-<name "Celes" "!AA3554">
+<name "セリス" "!AA3554">
 「いえーい！」
 #
-<name "Celes" "!AA3555">
+<name "セリス" "!AA3555">
 「さてと……
 　これは、王様と民衆の像かな」
 #
-<name "Celes" "!AA3556">
+<name "セリス" "!AA3556">
 「この像を見てると、仲が良さそうなのにね」
 #
-<name "Celes" "!AA3557">
+<name "セリス" "!AA3557">
 「……仲は良かったよね」
 #
 <exit>
 :1A4
 <music 23>
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3566">
+<name "セリス" "!AA3566">
 「到達！」
 #
-<name "Celes" "!AA3567">
+<name "セリス" "!AA3567">
 「うーん、いい風ね」
 #
-<name "Celes" "!AA3568">
+<name "セリス" "!AA3568">
 「高い所って、楽しい♪」
 #
 <exit>
 :239
 <music 23>
 <background "ev022a1.iph" 10>
-<name "Celes" "!AA3569">
+<name "セリス" "!AA3569">
 「到着した時は嬉しいし、達成感もあるけど……
 　帰るのは寂しいなぁ」
 #
@@ -51,7 +51,7 @@
 :2B1
 <music 23>
 <background "ev022a1.iph" 10>
-<name "Celes" "!AA3570">
+<name "セリス" "!AA3570">
 「また来ちゃった」
 #
 <exit>

@@ -8,13 +8,13 @@
 :61
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「美味いけど……
 　一週間、キノコ料理ばかりなのは泣きそうになる
 　な」
 #
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA2791">
+<name "セリス" "!AA2791">
 「持って帰るの、苦労したのに……」
 #
 <removesprite -1 11>

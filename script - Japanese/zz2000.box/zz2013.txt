@@ -1,18 +1,18 @@
 <music 35>
 <background "ev069b1.iph" 10>
-<name "Lazlocke">
+<name "ラズロック">
 「メガネ……似合ってるな」
 #
-<name "Viola" "!BA0747">
+<name "ヴィオラ" "!BA0747">
 「そう？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 　俺はヴィオラを抱き締めながら、キスをする。
 #
 <background "ev069b0.iph" 10>
-<name "Viola" "!BA0748">
+<name "ヴィオラ" "!BA0748">
 「ん……」
 #
 　俺はヴィオラがメガネを持っていると聞き、それ
@@ -21,17 +21,17 @@
 #
 　そして、そのまま行為に至っている。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「興奮する」
 #
-<name "Viola" "!BA0749">
+<name "ヴィオラ" "!BA0749">
 「あん、メガネに？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「メガネをつけたお前に」
 #
 <background "ev069b3.iph" 10>
-<name "Viola" "!BA0750">
+<name "ヴィオラ" "!BA0750">
 「……ん」
 #
 　俺の言葉に、ヴィオラは黙ってキスをして応える。
@@ -39,7 +39,7 @@
 　俺はヴィオラを抱き締めながら、腰を振り始めた。
 #
 <background "ev069b2.iph" 10>
-<name "Viola" "!BA0752">
+<name "ヴィオラ" "!BA0752">
 「んぁ、あ、あん♪」
 #
 <background "ev069b4.iph" 10>

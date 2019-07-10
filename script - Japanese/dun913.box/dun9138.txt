@@ -14,10 +14,10 @@
 :136
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3667">
+<name "セリス" "!AA3667">
 「は、話になりませんでした……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあまあ、気を落とすな。
 　ここまで来ると、登れるヤツの方が珍しいんだ」
 #
@@ -26,40 +26,40 @@
 :20A
 <background "bg002a0.iph" 11>
 <sprite "ta01c42.iph" 4 4 11>
-<name "Celes" "!AA3668">
+<name "セリス" "!AA3668">
 「む……
 　さ、先は長そうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「無茶をするな」
 #
 <removesprite -1 11>
 <exit>
 :2A4
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「なにか、感想は？」
 #
 <sprite "ta01c36.iph" 4 4 11>
-<name "Celes" "!AA3669">
+<name "セリス" "!AA3669">
 「い、良い汗をかきました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「冷や汗もあるだろ」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA3670">
+<name "セリス" "!AA3670">
 「……はい」
 #
 <removesprite -1 11>
 <exit>
 :3A3
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「大丈夫か？」
 #
 <sprite "ta01c42.iph" 4 4 11>
-<name "Celes" "!AA3671">
+<name "セリス" "!AA3671">
 「な、なんとか……まだ……生きてます」
 #
 <removesprite -1 11>
@@ -67,10 +67,10 @@
 :441
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3672">
+<name "セリス" "!AA3672">
 「あ、あと少し……な感じがします……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よしよし」
 #
 <removesprite -1 11>

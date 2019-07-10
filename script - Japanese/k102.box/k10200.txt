@@ -36,41 +36,41 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01d00.iph" 4 4 11>
-<name "Celes" "!AA1011">
+<name "セリス" "!AA1011">
 「武器ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、魔法使いだって武器は使う。
 　とりあえずは色々と練習してみよう」
 #
 <sprite "ta01d02.iph" 4 4 12>
-<name "Celes" "!AA1012">
+<name "セリス" "!AA1012">
 「わかりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ある程度、上手くなったらソシエットに詳しく教
 　えて貰え」
 #
 \x1A\x01\x0A\x02\x01\x9A 5 \x01\x14 :3ED: 
 <sprite "ta01d07.iph" 4 4 12>
-<name "Celes" "!AA1013">
+<name "セリス" "!AA1013">
 「はい」
 #
 \x18 :4F9: 
 :3ED
 <sprite "ta01d03.iph" 4 4 12>
-<name "Celes" "!AA1014">
+<name "セリス" "!AA1014">
 「え？
 　あの、師匠は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺は武器は全然駄目だ」
 #
 <sprite "ta01d27.iph" 4 4 12>
-<name "Celes" "!AA1015">
+<name "セリス" "!AA1015">
 「……苦手、多いんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「苦手が多いんじゃない。
 　得意が少ないだけだ」
 #
@@ -81,40 +81,40 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0314">
+<name "ソシエット" "!DA0314">
 「一つの武器を学べば、他の武器も大体わかります」
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Celes" "!AA1016">
+<name "セリス" "!AA1016">
 「そうなんですか？」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0315">
+<name "ソシエット" "!DA0315">
 「はい、基本は同じです」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0316">
+<name "ソシエット" "!DA0316">
 「武器を肉体の延長と思う事。
 　武器の特性を活かす事。
 　あとは……体術と変わりません」
 #
 <sprite "ta01d27.iph" 2 5 12>
-<name "Celes" "!AA1017">
+<name "セリス" "!AA1017">
 「む、難しいです……」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0317">
+<name "ソシエット" "!DA0317">
 「大丈夫です。
 　その為の練習です」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0318">
+<name "ソシエット" "!DA0318">
 「そして、今の事は自然と身に付く事ですから」
 #
 <sprite "ta01d20.iph" 2 5 12>
-<name "Celes" "!AA1018">
+<name "セリス" "!AA1018">
 「が、頑張ります」
 #
 <removesprite -1 11>
@@ -123,34 +123,34 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0319">
+<name "ソシエット" "!DA0319">
 「武器を持って大事な事は、武器に頼り過ぎない事
 　です」
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Celes" "!AA1019">
+<name "セリス" "!AA1019">
 「頼り過ぎない事ですか？」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0320">
+<name "ソシエット" "!DA0320">
 「はい。
 　頼り過ぎると、その武器が壊れた時などにどうし
 　ても隙が出てしまいます」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0321">
+<name "ソシエット" "!DA0321">
 「また、動きもその武器中心となってしまい、相手
 　に行動を予測させてしまいます」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0323">
+<name "ソシエット" "!DA0323">
 「武器は頼もしいですが、頼り過ぎない事。
 　心に留めてください」
 #
 <sprite "ta01d07.iph" 2 5 12>
-<name "Celes" "!AA1020">
+<name "セリス" "!AA1020">
 「は、はい。
 　わかりました」
 #
@@ -160,7 +160,7 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1021">
+<name "セリス" "!AA1021">
 「えい、やあ、とう」
 #
 <removesprite -1 11>
@@ -168,34 +168,34 @@
 #
 　指導しているのはソシエット。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta04a02.iph" 4 4 11>
-<name "Soshiette" "!DA0324">
+<name "ソシエット" "!DA0324">
 「問題でもありましたか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「教えている剣術、実戦的過ぎるぞ……」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0325">
+<name "ソシエット" "!DA0325">
 「実戦で使いますから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうなんだけどな……」
 #
 <sprite "ta04a72.iph" 4 4 12>
-<name "Soshiette" "!DA0326">
+<name "ソシエット" "!DA0326">
 「綺麗な剣術は知識程度で。
 　必要なのは実戦的な剣術ですから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はぁ……貴族と練習試合とかさせるなよ。
 　連中は型とかに煩いから」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0327">
+<name "ソシエット" "!DA0327">
 「貴族では相手にならないぐらい、鍛えてみせます」
 #
 <removesprite -1 11>
@@ -204,26 +204,26 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta04a15.iph" 4 4 11>
-<name "Soshiette" "!DA0328">
+<name "ソシエット" "!DA0328">
 「せいっ！」
 #
 <removesprite -1 11>
 　ソシエットは、剣術の手本を見せる。
 #
 <sprite "ta01d08.iph" 4 4 11>
-<name "Celes" "!AA1022">
+<name "セリス" "!AA1022">
 「凄い……」
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Soshiette" "!DA0329">
+<name "ソシエット" "!DA0329">
 「まだまだです。
 　ですが、私ぐらいには扱えるようになってくださ
 　い」
 #
 <sprite "ta01d20.iph" 2 5 12>
-<name "Celes" "!AA1023">
+<name "セリス" "!AA1023">
 「が、頑張ります」
 #
 <removesprite -1 11>
@@ -232,7 +232,7 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1024">
+<name "セリス" "!AA1024">
 「やっ！」
 #
 <removesprite -1 11>
@@ -241,14 +241,14 @@
 　なかなか大したものだ。
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0331">
+<name "ソシエット" "!DA0331">
 「感心するのは、まだ早いです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……厳しいな」
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "Soshiette" "!DA0332">
+<name "ソシエット" "!DA0332">
 「ご主人様が優し過ぎるだけです」
 #
 <removesprite -1 11>
@@ -257,22 +257,22 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0333">
+<name "ソシエット" "!DA0333">
 「棒でこの案山子を突いてください」
 #
 <removesprite -1 11>
 <sprite "ta01d20.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Celes" "!AA1026">
+<name "セリス" "!AA1026">
 「はい」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0334">
+<name "ソシエット" "!DA0334">
 「突く場所は自由ですが、面で狙ってはいけません。
 　点で狙うように」
 #
 <sprite "ta01d21.iph" 2 5 12>
-<name "Celes" "!AA1027">
+<name "セリス" "!AA1027">
 「はい」
 #
 <removesprite -1 11>
@@ -281,23 +281,23 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0335">
+<name "ソシエット" "!DA0335">
 「突いて引き戻す所までを一連の動作と考えてくだ
 　さい」
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Celes" "!AA1028">
+<name "セリス" "!AA1028">
 「はい」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0337">
+<name "ソシエット" "!DA0337">
 「突いて当てただけで、気を緩めてはいけないとい
 　う事です」
 #
 <sprite "ta01d20.iph" 2 5 12>
-<name "Celes" "!AA1029">
+<name "セリス" "!AA1029">
 「はい」
 #
 <removesprite -1 11>
@@ -306,18 +306,18 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0342">
+<name "ソシエット" "!DA0342">
 「棒術は変幻自在に動かしてこそです。
 　相手をかく乱しながら、相手を攻撃していきます」
 #
 <removesprite -1 11>
 <sprite "ta01d32.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Celes" "!AA1030">
+<name "セリス" "!AA1030">
 「む、難しいです」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0339">
+<name "ソシエット" "!DA0339">
 「頑張って、慣れていきましょう」
 #
 <removesprite -1 11>
@@ -326,27 +326,27 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1031">
+<name "セリス" "!AA1031">
 「えいっ！
 　やぁっ！」
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a65.iph" 6 4 11>
-<name "Soshiette" "!DA0340">
+<name "ソシエット" "!DA0340">
 「セリスさん。
 　武器を持った時は、女である事を忘れてください」
 #
 <sprite "ta01d06.iph" 2 5 12>
-<name "Celes" "!AA1032">
+<name "セリス" "!AA1032">
 「え？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0341">
+<name "ソシエット" "!DA0341">
 「ハッキリ言えば、恥ずかしがらずに」
 #
 <sprite "ta01d42.iph" 2 5 12>
-<name "Celes" "!AA1033">
+<name "セリス" "!AA1033">
 「す、すみません……頑張ります」
 #
 <removesprite -1 11>
@@ -355,7 +355,7 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA1034">
+<name "セリス" "!AA1034">
 「ていっ！」
 #
 <removesprite -1 11>
@@ -363,20 +363,20 @@
 　二つに斬った。
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0343">
+<name "ソシエット" "!DA0343">
 「十分に体重が乗っていますが、セリスさんの体重
 　が軽いだけあって威力がイマイチです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あれでイマイチか？」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0344">
+<name "ソシエット" "!DA0344">
 「はい。
 　セリスさんの体重が増えるように、こっそりと食
 　事量を増やして頂けませんか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「断わる。
 　……バレた時が怖いから」
 #
@@ -388,12 +388,12 @@
 　俺の目の前には、叩き割られた訓練用の案山子が
 　散乱していた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「このパワー、マキにぶつけてくれると色々と助か
 　るのだが……」
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0345">
+<name "ソシエット" "!DA0345">
 「人型を相手にする事が大事なのです」
 #
 <removesprite -1 11>
@@ -403,7 +403,7 @@
 <background "bg004a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  10 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1C9C: 
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1039">
+<name "セリス" "!AA1039">
 「今日も頑張る」
 #
 <removesprite -1 11>
@@ -411,7 +411,7 @@
 :1C9C
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1D04: 
 <sprite "ta01d15.iph" 4 4 11>
-<name "Celes" "!AA1040">
+<name "セリス" "!AA1040">
 「素振り、素振り♪」
 #
 <removesprite -1 11>
@@ -419,7 +419,7 @@
 :1D04
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1D72: 
 <sprite "ta01d02.iph" 4 4 11>
-<name "Celes" "!AA1041">
+<name "セリス" "!AA1041">
 「武器の扱いに慣れないと」
 #
 <removesprite -1 11>
@@ -427,7 +427,7 @@
 :1D72
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1DD6: 
 <sprite "ta01d20.iph" 4 4 11>
-<name "Celes" "!AA1042">
+<name "セリス" "!AA1042">
 「練習あるのみ」
 #
 <removesprite -1 11>
@@ -435,7 +435,7 @@
 :1DD6
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1E38: 
 <sprite "ta01d15.iph" 4 4 11>
-<name "Celes" "!AA1043">
+<name "セリス" "!AA1043">
 「修行修行♪」
 #
 <removesprite -1 11>
@@ -443,7 +443,7 @@
 :1E38
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1E9E: 
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1044">
+<name "セリス" "!AA1044">
 「武器練習、開始」
 #
 <removesprite -1 11>
@@ -451,7 +451,7 @@
 :1E9E
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :1F0A: 
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0346">
+<name "ソシエット" "!DA0346">
 「頑張ってください」
 #
 <removesprite -1 11>
@@ -459,7 +459,7 @@
 :1F0A
 \x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :1F80: 
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0347">
+<name "ソシエット" "!DA0347">
 「武器練習、頑張ってください」
 #
 <removesprite -1 11>
@@ -467,7 +467,7 @@
 :1F80
 \x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :1FFC: 
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0348">
+<name "ソシエット" "!DA0348">
 「武器練習なら、お付き合い致します」
 #
 <removesprite -1 11>
@@ -475,7 +475,7 @@
 :1FFC
 \x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :2070: 
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0349">
+<name "ソシエット" "!DA0349">
 「色々とやってみてください」
 #
 <removesprite -1 11>

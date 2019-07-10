@@ -1,20 +1,19 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a16.iph" 4 4 11>
-<name "Celes" "!AA0232">
-"Mew♪"
+<name "セリス" "!AA0232">
+「にゃん♪」
 #
 <removesprite -1 11>
 <sprite "ta01a16.iph" 2 5 11>
 <sprite "ta04a11.iph" 6 4 11>
 \x2B\x2B
-<name "Soshiette" "!DA0092">
-"Mew mew♪"
+<name "ソシエット" "!DA0092">
+「にゃんにゃん♪」
 #
 <removesprite -1 11>
-...
+　……
 #
-I'm not sure what they said, but it seems like
-they've figured things out.
+　意味は良くわからないが、意思疎通はしたようだ。
 #
 \x78\x78

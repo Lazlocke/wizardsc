@@ -18,32 +18,32 @@
 :103
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「戦地に行くか」
 #
 <sprite "ta01c19.iph" 4 4 11>
-<name "Celes" "!AA3138">
+<name "セリス" "!AA3138">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「止めても聞かないだろうから、これだけは言って
 　おく」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「危なくなったら、恥を捨てて逃げろ。
 　そして、自分の事だけを考えろ。
 　他人を助けようと思うな」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA3139">
+<name "セリス" "!AA3139">
 「え……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前には、目的がある。
 　忘れるな」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA3140">
+<name "セリス" "!AA3140">
 「……はい。
 　わかりました」
 #
@@ -55,7 +55,7 @@
 　用意は良いか！」
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3147">
+<name "セリス" "!AA3147">
 「はい！」
 #
 <removesprite -1 11>
@@ -68,14 +68,14 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3141">
+<name "セリス" "!AA3141">
 「頑張ってきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「油断するなよ」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3142">
+<name "セリス" "!AA3142">
 「はい。
 　大丈夫です」
 #
@@ -101,22 +101,22 @@
 :5B7
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「魔法使いの部隊は後方に配置されるのが常だから、
 　一安心だが……」
 #
 <sprite "ta01c27.iph" 4 4 11>
-<name "Celes" "!AA3143">
+<name "セリス" "!AA3143">
 「狙われるとすれば、私達からなんですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　少しでも魔法を知っているヤツが相手の陣営にい
 　れば、確実に狙ってくる。
 　油断するな」
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "Celes" "!AA3144">
+<name "セリス" "!AA3144">
 「はい」
 #
 <removesprite -1 11>
@@ -137,7 +137,7 @@
 「くっ！
 　なにやっとるか！」
 #
-<name "Celes" "!AA3148">
+<name "セリス" "!AA3148">
 「隊長、ここは私が抑えます！
 　その間に態勢を整えてください！」
 #
@@ -151,11 +151,11 @@
 <music 10>
 <background "bg017a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3145">
+<name "セリス" "!AA3145">
 「戦場では、自分の身は自分で守らないと……」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3146">
+<name "セリス" "!AA3146">
 「……とりあえず、食糧確保かな。
 　配給分だけじゃ足りないし」
 #
@@ -167,7 +167,7 @@
 「敵襲だと！？」
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3154">
+<name "セリス" "!AA3154">
 「ここは私が抑えます。
 　他の人は下がって態勢を整えてください」
 #
@@ -207,21 +207,21 @@
 <name "兵" "!QB0138">
 「で、ですが……」
 #
-<name "Celes" "!AA3149">
+<name "セリス" "!AA3149">
 「私が抑えます。
 　その間に引き上げを」
 #
 <name "指揮官" "!TB0098">
 「……出来るのか？」
 #
-<name "Celes" "!AA3150">
+<name "セリス" "!AA3150">
 「出来ない事は言いません」
 #
 <name "指揮官" "!TB0099">
 「よし。
 　死ぬなよ」
 #
-<name "Celes" "!AA3151">
+<name "セリス" "!AA3151">
 「はい！」
 #
 <exit>

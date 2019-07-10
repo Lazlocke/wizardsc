@@ -2,28 +2,27 @@
 <background "bg002a0.iph" 11>
 \x2B
 <sprite "ta01a16.iph" 4 4 11>
-<name "Celes" "!AA0233">
-"Mew♪"
+<name "セリス" "!AA0233">
+「にゃん♪」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0093">
-"Mew mew♪"
+<name "ソシエット" "!DA0093">
+「にゃんにゃん♪」
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 4 4 11>
-<name "Viola" "!BA0000">
-"Woof♪"
+<name "ヴィオラ" "!BA0000">
+「わん♪」
 #
 <removesprite -1 11>
 <sprite "ta02a10.iph" 4 4 11>
-<name "Elle" "!CA0000">
-"Woof woof♪"
+<name "イエル" "!CA0000">
+「わんわん♪」
 #
 <removesprite -1 11>
-...
+　……
 #
-I'm not sure what they said, but it seems like
-they've figured things out.
+　意味は良くわからないが、意思疎通はしたようだ。
 #
 \x78\x78

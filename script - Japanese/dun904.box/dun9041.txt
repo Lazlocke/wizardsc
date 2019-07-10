@@ -3,50 +3,50 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3063">
+<name "セリス" "!AA3063">
 「真なる英雄の大会……
 　行ってきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「戦いを長引かせるな。
 　速攻で決めろ。
 　そうしないと、捕まるからな」
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "Celes" "!AA3064">
+<name "セリス" "!AA3064">
 「はい、心に刻んでおきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よし、勝ってこい」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA3065">
+<name "セリス" "!AA3065">
 「はい！」
 #
 <removesprite -1 11>
 　……
 #
-<name "Lazlocke">
+<name "ラズロック">
 「さて、ソシエット君」
 #
 <sprite "ta04a73.iph" 4 4 11>
-<name "Soshiette" "!DA0528">
+<name "ソシエット" "!DA0528">
 「ご要望通り、協会による街の警備から一線級を外
 　しております」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ご苦労」
 #
 <sprite "ta04a76.iph" 4 4 12>
-<name "Soshiette" "!DA0526">
+<name "ソシエット" "!DA0526">
 「後で、保守部長に謝罪をお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった。
 　頭を下げに行こう」
 #
 <sprite "ta04a72.iph" 4 4 12>
-<name "Soshiette" "!DA0527">
+<name "ソシエット" "!DA0527">
 「よろしくお願いします」
 #
 <removesprite -1 11>

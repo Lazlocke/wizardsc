@@ -1,63 +1,65 @@
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
-"This is my apprentice!"
+<name "ラズロック">
+「これが、俺の弟子だ！」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA0229">
-"I'm Celestine.
- P-Pleased to meet you."
+<name "セリス" "!AA0229">
+「セリスティーネです。
+　よ、よろしくお願いします」
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0083">
-"..."
+<name "ソシエット" "!DA0083">
+「はぁ」
 #
-<name "Lazlocke">
-"You don't seem very surprised."
+<name "ラズロック">
+「なんだ、驚きが少ないな」
 #
 <sprite "ta04a25.iph" 4 4 12>
-<name "Soshiette" "!DA0084">
-"No, I promise you I am.
- You've supplied her with mana?"
+<name "ソシエット" "!DA0084">
+「いえ、十分驚いています。
+　……魔力の供給を？」
 #
-<name "Lazlocke">
-"Yeah, I did."
+<name "ラズロック">
+「ああ、やったぞ」
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "Soshiette" "!DA0085">
-"In that way?"
+<name "ソシエット" "!DA0085">
+「例の方法で？」
 #
-<name "Lazlocke">
-"Of course."
+<name "ラズロック">
+「そうだ」
 #
 <sprite "ta04a19.iph" 4 4 12>
-<name "Soshiette" "!DA0087">
-"But without permission from the Guild.
- Did someone put her up to this?"
+<name "ソシエット" "!DA0087">
+「……協会の許可は取っていませんよね。
+　推薦人が居るのですか？」
 #
-<name "Lazlocke">
-"Don't be mean.
- It's just her."
+<name "ラズロック">
+「固い事を言うな。
+　こいつだけだ」
 #
 <sprite "ta04a20.iph" 4 4 12>
-<name "Soshiette" "!DA0088">
-"The Guild requires an explaination."
+<name "ソシエット" "!DA0088">
+「言い訳は協会でお願いします」
 #
-<name "Lazlocke">
-"Huh? Why are you grabbing my collar?"
+<name "ラズロック">
+「……あれ？
+　なんで、俺の襟首を掴んでいるんだ？」
 #
 <sprite "ta04a19.iph" 4 4 12>
-<name "Soshiette" "!DA0089">
-"Forgive me. I seem to have lost my temper.
- Come on. Let's go see the Guild.
- Celestine, please return to your training,
- and welcome to the world of wizardry."
+<name "ソシエット" "!DA0089">
+「申し訳ありませんが、怒っています。
+　さあ、協会に行きますよ。
+　セリスティーネさんは、修行に戻ってください。
+　あと、魔法使いの世界にようこそ」
 #
 <removesprite -1 11>
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA0230">
-"Okay. I'll do my best!"
+<name "セリス" "!AA0230">
+「はい。
+　頑張ります」
 #
 <removesprite -1 11>
 \x2B\x78\x78

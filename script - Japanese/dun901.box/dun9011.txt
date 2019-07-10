@@ -9,55 +9,55 @@
 <music 32>
 <background "bg011a0.iph" 11>
 <sprite "ta01c06.iph" 4 4 11>
-<name "Celes" "!AA2935">
+<name "セリス" "!AA2935">
 「ずいぶんと、静かな感じで予選が始まるんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな……
 　賑やかなのは、出場者や観客目当ての出店ぐらい
 　かな」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA2936">
+<name "セリス" "!AA2936">
 「でも、熱気は凄いです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会。
 　協会の後押しもあって、数ある大会の中では一番
 　権威があるとされているからな」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「本選になれば、近隣諸国の王族も見物にやってく
 　る」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA2937">
+<name "セリス" "!AA2937">
 「その大会に……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まだ予選だ。
 　気負い過ぎるなよ」
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "Celes" "!AA2938">
+<name "セリス" "!AA2938">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「予選では、規定回数勝ち抜けば良い」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA2939">
+<name "セリス" "!AA2939">
 「規定回数の勝ち抜きですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、だから対戦相手に恵まれれば、本選に出ら
 　れる」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「頑張れ」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA2940">
+<name "セリス" "!AA2940">
 「はい」
 #
 <removesprite -1 11>
@@ -65,31 +65,31 @@
 :461
 <music 32>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会の予選が始まったな」
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA2941">
+<name "セリス" "!AA2941">
 「はい。
 　頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おっ、緊張してないな」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA2942">
+<name "セリス" "!AA2942">
 「はい。
 　これまでの修行を信じるだけですから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ま、予選だ。
 　軽く突破してこい」
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "Celes" "!AA2943">
+<name "セリス" "!AA2943">
 「はい」
 #
 <removesprite -1 11>
@@ -97,16 +97,16 @@
 :639
 <music 32>
 <background "bg011a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会の予選が始まったな」
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA2944">
+<name "セリス" "!AA2944">
 「はい……
 　思ったより、緊張はしていません」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA2945">
+<name "セリス" "!AA2945">
 「不思議です」
 #
 <removesprite -1 11>

@@ -38,7 +38,7 @@
 :2BF
 <music 5>
 <background "bg003a0.iph" 11>
-<name "Celes" "!AA4375">
+<name "セリス" "!AA4375">
 「すやすや～」
 #
 　セリスは昼寝していた。
@@ -47,7 +47,7 @@
 :31C
 <music 5>
 <background "bg003a0.iph" 11>
-<name "Celes" "!AA4381">
+<name "セリス" "!AA4381">
 「もう食べられない……」
 #
 　セリスは昼寝していた。
@@ -56,7 +56,7 @@
 :383
 <music 5>
 <background "bg003a0.iph" 11>
-<name "Celes" "!AA4377">
+<name "セリス" "!AA4377">
 「大丈夫です。
 　起きてます～」
 #
@@ -66,7 +66,7 @@
 :3F3
 <music 5>
 <background "bg003a0.iph" 11>
-<name "Celes" "!AA4378">
+<name "セリス" "!AA4378">
 「あと少しだけぇ……」
 #
 　セリスは昼寝していた。
@@ -75,7 +75,7 @@
 :458
 <music 5>
 <background "bg003a0.iph" 11>
-<name "Celes" "!AA4379">
+<name "セリス" "!AA4379">
 「それ、食べちゃ駄目ですぅ……」
 #
 　セリスは昼寝していた。
@@ -86,22 +86,22 @@
 <background "bg004a0.iph" 11>
 　セリスは昼寝していた。
 #
-<name "Celes" "!AA4380">
+<name "セリス" "!AA4380">
 「師匠の……えっちぃ……」
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0681">
+<name "ソシエット" "!DA0681">
 「ご主人様？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「誤解だ。
 　まだ、何もしていない」
 #
 <sprite "ta04a02.iph" 4 4 12>
-<name "Soshiette" "!DA0682">
+<name "ソシエット" "!DA0682">
 「まだ？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まだ」
 #
 <removesprite -1 11>
@@ -111,13 +111,13 @@
 <background "bg004a0.iph" 11>
 　セリスは昼寝していた。
 #
-<name "Celes" "!AA4382">
+<name "セリス" "!AA4382">
 「くー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「むう……良い寝顔だ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「悪戯をしてしまいそうになるな」
 #
 　もちろん、そんな事はしないが。
@@ -129,14 +129,14 @@
 　セリスは昼寝していた。
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0683">
+<name "ソシエット" "!DA0683">
 「あら、よく寝てますね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「起こすなよ」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0684">
+<name "ソシエット" "!DA0684">
 「わかってます」
 #
 <removesprite -1 11>
@@ -147,15 +147,15 @@
 　セリスは昼寝していた。
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0685">
+<name "ソシエット" "!DA0685">
 「ご主人様もお休みになったら、どうですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺は十分に休んでいるさ。
 　休むなら、お前だろ」
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0686">
+<name "ソシエット" "!DA0686">
 「いえ。
 　休むと、身体が落ち着かない性分ですので」
 #
@@ -170,17 +170,17 @@
 　セリスは昼寝していた。
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0687">
+<name "ソシエット" "!DA0687">
 「……見ていたら、私も眠たくなりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一緒に寝たらどうだ？」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0688">
+<name "ソシエット" "!DA0688">
 「では、お言葉に甘えて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうして、俺の膝を使おうとする？」
 #
 <removesprite -1 11>
@@ -191,33 +191,33 @@
 　セリスは昼寝していた。
 #
 <sprite "ta02a06.iph" 4 4 11>
-<name "Elle" "!CA0282">
+<name "イエル" "!CA0282">
 「あれ？
 　セリスはお昼寝中？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ……休養だ。
 　どうしたんだ？」
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "Elle" "!CA0283">
+<name "イエル" "!CA0283">
 「師匠からのお届け物です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか。
 　ありがとう。
 　……茶でも飲んでいくか？」
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "Elle" "!CA0284">
+<name "イエル" "!CA0284">
 「いえ、すぐに帰るように言われてますので」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか。
 　そっちも大変だろうが、頑張れよ」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0285">
+<name "イエル" "!CA0285">
 「はい」
 #
 <removesprite -1 11>
@@ -228,30 +228,30 @@
 　セリスは昼寝していた。
 #
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0363">
+<name "ヴィオラ" "!BA0363">
 「あら……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「すまん。
 　起こさないでやってくれ」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0364">
+<name "ヴィオラ" "!BA0364">
 「ええ、休養中？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ。
 　ヴィオラは？」
 #
 <sprite "ta03a05.iph" 4 4 12>
-<name "Viola" "!BA0365">
+<name "ヴィオラ" "!BA0365">
 「連絡事項」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「奥の部屋で聞こう」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0366">
+<name "ヴィオラ" "!BA0366">
 「わかったわ」
 #
 <removesprite -1 11>
@@ -271,7 +271,7 @@
 <removesprite -1 11>
 　……
 #
-<name "Lazlocke">
+<name "ラズロック">
 「誰だ！
 　セリスの顔に落書きしたのは！」
 #
@@ -282,18 +282,18 @@
 　セリスは昼寝していた。
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0689">
+<name "ソシエット" "!DA0689">
 「ご主人様」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "Soshiette" "!DA0690">
+<name "ソシエット" "!DA0690">
 「寒い季節です。
 　睡眠時にはご注意を」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、わかってる」
 #
 <removesprite -1 11>
@@ -303,11 +303,11 @@
 <background "bg002a0.iph" 11>
 　セリスは昼寝していた。
 #
-<name "Celes" "!AA4383">
+<name "セリス" "!AA4383">
 「こんなに寝てて良いのかな？
 　……でも、師匠の指示だし」
 #
-<name "Celes" "!AA4384">
+<name "セリス" "!AA4384">
 「ふぁ～、おやすみなさい」
 #
 <exit>
@@ -317,24 +317,24 @@
 　セリスは昼寝していた。
 #
 <sprite "ta04a24.iph" 4 4 11>
-<name "Soshiette" "!DA0691">
+<name "ソシエット" "!DA0691">
 「寝てばかりじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな」
 #
 <sprite "ta04a23.iph" 4 4 12>
-<name "Soshiette" "!DA0692">
+<name "ソシエット" "!DA0692">
 「どうしてですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「寝顔が可愛くて」
 #
 <sprite "ta04a13.iph" 4 4 12>
-<name "Soshiette" "!DA0693">
+<name "ソシエット" "!DA0693">
 「…………………………本気で言ってますか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「冗談だ」
 #
 <removesprite -1 11>
@@ -344,35 +344,35 @@
 <background "bg003a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1439: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4389">
+<name "セリス" "!AA4389">
 「休養休養」
 #
 <removesprite -1 11>
 \x2B
 :1439
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :146F: 
-<name "Celes" "!AA4390">
+<name "セリス" "!AA4390">
 「すやすや～」
 #
 :146F
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :14A5: 
-<name "Celes" "!AA4391">
+<name "セリス" "!AA4391">
 「のんびり～」
 #
 :14A5
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :14DB: 
-<name "Celes" "!AA4392">
+<name "セリス" "!AA4392">
 「らくらく～」
 #
 :14DB
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1511: 
-<name "Celes" "!AA4393">
+<name "セリス" "!AA4393">
 「ゆったり～」
 #
 :1511
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1579: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4394">
+<name "セリス" "!AA4394">
 「どこで寝ようかな」
 #
 <removesprite -1 11>

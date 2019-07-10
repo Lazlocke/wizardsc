@@ -1,653 +1,609 @@
 <music 2>
 <background "bg020a0.iph" 10>
-Every single wizard is foolhardy,
-temperamental, eccentric, and just plain
-strange.
+　魔法使いは調子に乗りやすく、逆上しやすく、偏
+　執的で、変なヤツばかりだ。
 #
-They're twisted, inside and out.
+　それに加え、性格も捻じ曲がっているし、根性も
+　ヒネている。
 #
-There's no redeeming them.
+　まったく救いようが無い。
 #
-I say that as fact.
+　俺はそう断言する。
 #
-I'm sure of it.
+　間違いじゃない。
 #
-Because I'm a wizard too.
+　なぜなら、俺も魔法使いだからだ。
 #
 <music 11>
 <background "bg009a0.iph" 11>
 <sprite "ta00a00.iph" 4 4 11>
-My name is Lazlocke Althorn.
+　俺の名前はラズロック＝アルトホーン。
 #
-I'm a wizard working for the Wizard's Guild.
+　魔法使い協会で働く、魔法使いだ。
 #
-Like it or not, I've been a wizard since I was
-a kid. I know enough and am skilled enough to
-turn that into fulfilling Guild jobs for
-money.
+　幸か不幸か、幼い頃から魔法使いをやっていたの
+　で、協会からの依頼をこなして日銭を稼げるぐら
+　いの知識と技術はある。
 #
-Also, Loria, the town where I am, is the
-base for the Wizard's Guild.
+　それに、今居るこのローリアの街はその魔法使い
+　協会の本部がある。
 #
-There's no shortage of work.
+　仕事には困らない。
 #
 <removesprite -1 11>
-But there is a shortage of money.
+　しかし、それでも金には困り始めていた。
 #
-Magic doesn't come cheap.
+　なにしろ、魔法にはお金が掛かる。
 #
-You don't need anything to do the simple 
-stuff, but to create new spells, research new
-theories, or put them into practice, that you
-need money for.
+　基本は自分の身一つだけで良いのだが、新しい魔
+　法を使う為にも、知識を得る為にも、そして練習
+　をする為にもお金は必要だ。
 #
-You also need money to eat.
+　世の中、お金がなければ食事もできない。
 #
-You could be able to cast the most 
-unbelievable spell imaginable, and you still
-wouldn't be able to buy a single loaf of bread
-without money.
+　いくら凄い魔法が使えても、お金が無ければパン
+　さえ買えない。
 #
-Years ago, I combed the Guild's library for
-spells to create food, but I couldn't find
-anything.
+　昔、魔法使い協会の図書館で食事をしなくて済む
+　魔法が無いか探した事があるが、発見できなかっ
+　た。
 #
-I guess nobody ever bothered to spend the 
-effort on something that mundane.
+　誰もそんな馬鹿な事に労力を費やそうとはしなかっ
+　たのだろうか？
 #
-Actually, it's probably because it's 
-impossible.
+　実は、無理だからだ。
 #
-Magic can't do everything.
+　魔法というヤツは、それほど便利ではない。
 #
-Fire is hot, the sky is vast, rivers flow
-downhill.
+　火は熱い、川は流れる、空は広い。
 #
-It's just the way things are.
+　そんなものだ。
 #
-Magic can only do so much.
+　魔法は、魔法で出来る事しかできない。
 #
-But we don't have a good idea what its limits
-actually are.
+　ただ、人間はその魔法で出来る事と出来ない事が
+　よく分かっていないのだ。
 #
-It seems to do the impossible.
+　だから、万能に思える。
 #
-It seems like there's limitless potential in
-it.
+　無限の可能性を見出してしまう。
 #
-That's fascinating.
+　そして、取り憑かれてしまう。
 #
-Wizards are pathetic creatures enraptured by
-it.
+　そんな哀れな存在が、魔法使いだ。
 #
-But, well, I can cry about that as much as I
-want, and it won't do anything about my 
-hunger.
+　が、まあ、そんな風に嘆いても腹は減る。
 #
-What a pain.
+　困ったものだ。
 #
-I should get home and make something to eat.
+　早く帰って、食事にしよう。
 #
-Better get going.
+　俺は家路を急いだ。
 #
 <music 2>
 <background "bg012a0.iph" 11>
-My house is pretty far from the city proper.
+　家は街の外れ、少し遠い。
 #
-Normally, it's a carriage ride.
+　本来なら、馬車の距離だ。
 #
-But I was worrying about money and chose to
-skip the cost.
+　しかし、少し先の未来を考えると、馬車代を惜し
+　んでしまう。
 #
-Sigh...
+　ふう……
 #
-It's a brand new year.
-This is pathetic.
+　新年を迎えたばかりだと言うのに、悲しい事だ。
 #
-...As I'm walking, a shrill voice catches my
-ear.
+　と、俺が歩いていると、黄色い声が耳に入った。
 #
-I look over and see a bunch of young women.
+　その方向に顔を向けると、若い女性の一団が見え
+　た。
 #
-They're all wearing the same thing. Anybody
-living in this town would recognize it, the
-uniform of Rune Magic Academy.
+　その服装は統一されており、この街に住む者なら
+　誰もが知っているルーン魔法学園の制服だ。
 #
-Certainly quite fetching, but something's up
-here.
+　なかなか華やかで良いのだが……様子が変だ。
 #
-For a second, it looks like a fight, but 
-that's not it.
+　喧嘩かと思ったが、違った。
 #
-There's one girl in the middle that they're
-all standing around talking about.
+　学園生が、一人の娘を遠巻きにして思い思いに喋っ
+　ている。
 #
-And it's not nice.
+　お世辞にも、良い事は言っていない。
 #
-Contempt would be putting it mildly.
+　誰が聞いても、侮蔑の内容だ。
 #
-Sheesh. Now what?
+　やれやれと俺は頭を掻く。
 #
-Rune Magic Academy...
+　ルーン魔法学園。
 #
-It's one of the schools run by the Guild.
+　魔法使い協会が運営している教育施設の一つだ。
 #
-They bring in people who have a magical talent
-and teach them the basics of wizardry.
+　魔法使いの資質がある者を広く集め、魔法使いに
+　なる基礎を教えている。
 #
-The Guild trains and equips the next
-generation.
+　将来の協会の力を育てているのだ。
 #
-But it also puts the difference of those who
-can use magic and those who can't into stark
-relief.
+　だが、そこには魔法を使える者と、使えない者と
+　の差を生む。
 #
-Students, especially those who hadn't been
-able to use magic before coming here tend to
-let it go to their heads.
+　特に、これまで魔法を使えなかった者が魔法を使
+　えるようになると、調子に乗る。
 #
-A lot of them look down on people who can't
-use magic.
+　多いのが、魔法を使えない者に対する侮蔑だ。
 #
-That's probably precisely what I'm seeing
-right now. I make my way over to deal with it.
+　目の前で起きているのはそれだろうと当たりをつ
+　け、俺は注意しようと動く。
 #
-But before I get there, they apparently lose
-interest and start walking off.
+　しかし、俺がその現場に辿り着く前に、学園生の
+　一団は興味を失ったように歩いて行った。
 #
-When I get there, only the girl they had
-surrounded is left.
+　俺がその場に着くと、囲まれていた娘が一人。
 #
-She's just standing there.
+　その場に立ち尽くしていた。
 #
 <music 5>
 <background "ev001a0.iph" 10>
-She's covered in a dingy cloak.
+　娘は汚れたマントで身を覆っていた。
 #
-Her beautiful long hair looks completely out
-of place in it.
+　その格好に不似合いなウェーブの掛かった綺麗な
+　長い髪。
 #
-For a second, I think she might be the daughter
-of some noble, but then I notice.
+　良い所のお嬢様だろうかと思ったが、即座に訂正
+　する。
 #
-Her face is haggard and exhausted.
+　その娘の顔には濃い疲労の色が見えたからだ。
 #
-A noble wouldn't be like this.
+　良い所のお嬢様は、こんな疲労はしない。
 #
-But despite her clear fatigue, her eyes are
-bright and strong.
+　だが、その疲労の中にあっても、瞳だけは力を失っ
+　ていないように思えた。
 #
-Hm...
+　……
 #
-For starters, I nod to her.
+　とりあえず、俺は小さく頭を下げた。
 #
-<name "Lazlocke">
-"I don't know what that was about, but I 
- apologize for them. If you're upset, tell the
- Guild about them. I'm sure they'll provide
- compensation."
+<name "ラズロック">
+「事情はよく知らないが、悪かったな。
+　収まらないのなら、協会に訴えてくれ。
+　いくらかの金は分捕れるぞ」
 #
-The Guild mainly trains and cares for wizards,
-but it also polices itself.
+　魔法使い協会は、魔法使いの保護や育成を主にす
+　るが、処断も行なう。
 #
-It has no qualms about punishing wizards who
-give the rest of us a bad name.
+　魔法使いを守る為に、魔法使い全体の為にならな
+　い魔法使いを罰するのだ。
 #
-<name "Girl" "!AA0001">
-"..."
+<name "娘" "!AA0001">
+「……」
 #
-She tries to say something, but her voice was
-too quiet for me to hear.
+　娘が何か言ったようだが、声が小さくて聞き取れ
+　なかった。
 #
-<name "Lazlocke">
-"Hm? What was that?"
+<name "ラズロック">
+「？
+　どうした？」
 #
-<name "Girl" "!AA0002">
-"Are you... a wizard?"
+<name "娘" "!AA0002">
+「貴方は……魔法使いですか？」
 #
-<name "Lazlocke">
-"Yeah, a poor one though."
+<name "ラズロック">
+「……あ、ああ、ヘボだけどな」
 #
-Technically, I guess I am associated with the
-school.
+　一応、さっきの学園生の関係者になる。
 #
-<name "Girl" "!AA0003">
-"...Please teach me."
+<name "娘" "!AA0003">
+「……教えて下さい」
 #
-<name "Lazlocke">
-"Huh? What do you mean?
- Are you lost?"
+<name "ラズロック">
+「？
+　何をだ？
+　道にでも迷ったか？」
 #
-<name "Girl" "!AA0004">
-"Please teach me magic."
+<name "娘" "!AA0004">
+「私に、魔法を教えて下さい」
 #
-<name "Lazlocke">
-"Magic?"
+<name "ラズロック">
+「……魔法を？」
 #
-It takes my brain a moment to catch up.
+　俺の思考が一瞬停止する。
 #
-She wants me to teach her magic?
+　魔法を教えて欲しい。
 #
-With Rune Academy right here, I never thought
-I'd hear that.
+　ルーン魔法学園が出来てから、しばらく聞かない
+　言葉だった。
 #
-<name "Lazlocke">
-"Is this because they were picking on you?
- You shouldn't bother. It's not as great as you
- think it is."
+<name "ラズロック">
+「さっきの連中に言われたからか？
+　止めておけ、それほど良いものじゃない」
 #
-She shakes her head.
+　俺の言葉に、娘は首を小さく左右に振る。
 #
-...
+　……
 #
-Seems like her mind's made up.
+　意志は固そうだ。
 #
-Hm...
+　……
 #
-Well, whatever.
+　仕方が無い。
 #
-<name "Lazlocke">
-"If you want to learn magic, go to Rune Magic
- Academy. It's the same place those people
- before are from, but they're not all like
- that."
+<name "ラズロック">
+「……魔法を学びたいなら、ルーン魔法学園に行く
+　事だ。
+　さっきの連中が居た所だが……あんな奴らばかり
+　じゃない」
 #
-<name "Lazlocke">
-"Tuition's expensive, but there are lots of 
- programs for dealing with that. If you're
- qualified, you should be able to learn pretty
- cheaply."
+<name "ラズロック">
+「授業料は高いが、色々と援助する制度がある。
+　資質があるなら、比較的安く学ばせて貰える筈だ」
 #
-Yeah, if you want to be a wizard these days,
-your best bet is with Rune.
+　そう、今は魔法使いになりたいなら、魔法学園に
+　入れば良い。
 #
-They'll teach you the basics and if you want to
-go further, you can join the Guild and research
-whatever you want.
+　基礎を丁寧に教えてくれるし、さらに上を目指す
+　なら協会に入って研究をする事も可能だ。
 #
-<name "Lazlocke">
-"They'll be some qualification checks before
- admitting you, but as long as you can pass
- those, you can become a wizard."
+<name "ラズロック">
+「入学時にいくつかの資質チェックがあるが……
+　それさえクリアすれば、魔法使いの仲間入りだ」
 #
-Despite saying that, I say a silent apology in
-my head.
+　そう言いながらも、俺は心の中で謝る。
 #
-It's just not happening.
+　まず、無理だからだ。
 #
-There's multiple conditions for enrolling in
-Rune.
+　魔法学園に入学するには、いくつかの条件がある。
 #
-Two in particular above all others.
+　その中で大きな条件が二つ。
 #
-First, whether there's mana in your body.
+　一つ、魔力を持つ身体かどうか。
 #
-Right now, the only way we know to use magic is
-to channel the mana inside yourself.
+　現在の所、魔法を使うには少なからず体内にある
+　魔力を消費する必要がある。
 #
-In short, without mana, you can't be a wizard.
+　つまり、魔力を持たなければ魔法使いにはなれな
+　い。
 #
-There aren't many people with enough mana to be
-able to use magic.
+　そして、魔法が使えるほどの魔力を持つ者は多く
+　ない。
 #
-Less than one in a hundred, I think.
+　百人に一人居るか居ないかだ。
 #
-And there's another big hurdle as well.
+　そして、さらに問題なのが、もう一つの条件。
 #
-You have to be able to channel mana into your
-body.
+　魔力を体内に取り込めるかだ。
 #
-Even if you can use the mana inside you, if you
-can't recover it, then you may as well not be
-able to use magic at all.
+　体内の魔力を消費した後、その魔力を回復できな
+　ければ使えないのと同じだ。
 #
-Most people can't easily recover their mana 
-once it's gone.
+　そして、大抵の者が自分の魔力を満足に回復でき
+　ない。
 #
-Put those together, and only maybe one in a
-thousand can be a wizard.
+　魔法使いになれるのは、千人に一人ぐらいなのだ。
 #
-And then you have to factor in the intensive
-training, and only a tiny fraction of the 
-population can become wizards.
+　さらにそこから厳しい修行に耐えられるかどうか
+　になると、魔法使い人口の少なさは推し量れると
+　言うものだ。
 #
-I don't think the girl before me can climb such
-a steep mountain.
+　そんな狭き門に、目の前の娘が通れるとは思わな
+　い。
 #
-<name "Lazlocke">
-"Studying to become a wizard is brutal.
- I'm not trying to insult you, but you should
- find something else to do."
+<name "ラズロック">
+「だが……魔法使いになる勉強は厳しいぞ。
+　悪い事は言わない。
+　魔法使いは諦めろ」
 #
-I'm trying to be nice, but her response 
-surprises me.
+　老婆心ながらそう言ったが、意外な返事を聞かさ
+　れた。
 #
-<name "Girl" "!AA0005">
-"The school... expelled me."
+<name "娘" "!AA0005">
+「学園は……辞めさせられました」
 #
-<name "Lazlocke">
-"Huh? Expelled you?"
+<name "ラズロック">
+「……？？？
+　辞めさせられた？」
 #
-What?
+　？？
 #
-They kicked her out?
+　学園を辞めさせられた？
 #
-As long as she was paying her tuition, I can't
-imagine them expelling anybody.
+　あそこは、授業料さえ払っていれば追い出すよう
+　な真似はしない筈だが……
 #
-Or rather, if you've got the potential to be a
-wizard, I can't see them letting you go no
-matter the cost.
+　いや、魔法使いの資質があるなら、決して逃がし
+　たりはしないと思うが……
 #
-<name "Girl" "!AA0006">
-"They said I lack potential."
+<name "娘" "!AA0006">
+「才能が無いって」
 #
-<name "Lazlocke">
-"Huh?"
+<name "ラズロック">
+「…………？？？」
 #
-This is getting more confusing.
+　ますます、わからない。
 #
-Rune teaches magic.
+　学園は魔法を教える所だ。
 #
-It takes everyone who enters and turns them 
-into proper wizards.
+　入学した者をそれなりの魔法使いにして卒業させ
+　る。
 #
-That's its sole reason for existence.
+　ただ、それだけの場所だ。
 #
-They don't care how much potential you have.
+　才能の有無など気にしない。
 #
-<name "Lazlocke">
-"Did you cause some kind of major problem?"
+<name "ラズロック">
+「なにか、大きな事故でも起こしたのか？」
 #
-I ask, but I've been around here for a few
-years now.
+　そう聞きながらも、俺はここ数年。
 #
-I haven't heard of anything all that 
-interesting happening at Rune.
+　魔法学園で大きな事件や事故が起こっていないの
+　は知っている。
 #
-<name "Girl" "!AA0007">
-"No..."
+<name "娘" "!AA0007">
+「いえ……」
 #
-<name "Lazlocke">
-"Then why were you expelled?"
+<name "ラズロック">
+「じゃあ、どうしてだ？」
 #
-<name "Girl" "!AA0008">
-"I... don't have mana."
+<name "娘" "!AA0008">
+「私に……魔力が無いから」
 #
-<name "Lazlocke">
-"Huh? Didn't they check for that before they
- admitted you?"
+<name "ラズロック">
+「は？
+　入学時に、魔力チェックはあっただろう？」
 #
-Rune will let you stay as long as you keep
-paying your tuition, but they wouldn't let
-someone in who didn't have mana in the first
-place.
+　授業料さえ払えば居させてくれる魔法学園でも、
+　さすがに魔力の無い者を入学させたりはしない。
 #
-Like I said, you can't use magic at all without
-mana.
+　先ほど述べた通り、魔力が無ければ魔法が使えな
+　いからだ。
 #
-<name "Girl" "!AA0009">
-"The school... made a special exception.
- They said I could stay there for a month 
- because there was a chance being somewhere
- with a lot of mana would change my body."
+<name "娘" "!AA0009">
+「学園には……無理を言って。
+　一ヶ月だけと言う約束で……魔力の多い場所に居
+　れば体質が変わる可能性があるから」
 #
-<name "Lazlocke">
-"Somewhere with a lot of mana? 
- Well, I guess, maybe."
+<name "ラズロック">
+「魔力の多い場所に居ればって……そりゃ、そうか
+　もしれないが……」
 #
-There are very few people with the potential to
-become wizards.
+　魔法使いになれる資質を持つ者は少ない。
 #
-So for ages, people have been researching ways
-to let anybody, even just regular people, learn
-how to use magic.
+　それゆえに、昔から一般の者が魔法を覚える為に
+　色々と研究してきた。
 #
-One of the ways is to change your body's
-chemistry by long-term exposure to an area very
-concentrated with mana.
+　その一つが、高密度の魔力に長時間触れ、自身の
+　体質を変える方法だ。
 #
-<name "Girl" "!AA0010">
-"I was allowed there for three months, but...
- it didn't work."
+<name "娘" "!AA0010">
+「三ヶ月、居させて貰ったけど……駄目だった」
 #
-<name "Lazlocke">
-"Well, the fastest I've ever heard that working
- took six months, but being affected by mana
- that fast drives you mad, to say nothing of
- what would happen in just a few weeks." 
+<name "ラズロック">
+「あれは、高密度の魔力に半年ぐらい関わって初め
+　てだぞ。
+　だが、体質が変わるほどの魔力に半年どころか数
+　日も触れていれば、精神が侵される」
 #
-Some have succeeded in the past, but almost
-none didn't go crazy.
+　過去に実施した者は居るが、自我を保ったままの
+　成功例はほぼ無い。
 #
-And the level of mana at Rune is nowhere even
-close to what it would take.
+　そして、学園にある魔力程度では体質を変えるに
+　は不足過ぎる。
 #
-I let out a big sigh.
+　……俺は大きな溜息を吐く。
 #
-She asked me to teach her magic.
+　この娘は、魔法を教えて下さいと言った。
 #
-But if she doesn't have mana, she can't use
-magic.
+　しかし、魔力が無いと言う事は、魔法の練習も出
+　来ないと言う事だ。
 #
-Magic is execution.
+　魔法は実践だ。
 #
-She could read all the books and learn 
-everything, but still not be able to put any of
-it into practice.
+　本を開いて知識だけ溜め込んでも、どうしようも
+　ない。
 #
-<name "Lazlocke">
-"I'm not sure what your reasons are, but if you
- don't have mana, you can't become a wizard.
- It's like a fish dreaming about becoming a
- bird."
+<name "ラズロック">
+「どんな理由があるか知らないが、魔力が無いなら
+　魔法使いになるのは諦めろ。
+　魚が鳥を目指すようなものだ」
 #
 <background "ev001a1.iph" 11>
-<name "Girl" "!AA0011">
-"..."
+<name "娘" "!AA0011">
+「……」
 #
-Her eyes well up and she turns away from me.
+　娘の顔は、少し悲しそうに歪んだ後、俺から目を
+　逸らした。
 #
-<name "Girl" "!AA0012">
-"I'm sorry. 
- I was asking too much."
+<name "娘" "!AA0012">
+「ごめんなさい。
+　無理を言って」
 #
-<name "Lazlocke">
-"I'm glad you understand.
- You shouldn't stay here.
- Go on home."
+<name "ラズロック">
+「……わかれば良いんだ。
+　こんな場所に居ないで、さっさと帰った方が良い
+　ぞ」
 #
-She doesn't respond.
+　俺の言葉に娘は返事をしなかった。
 #
-...
+　……
 #
 <music 2>
 <background "bg014a0.iph" 11>
-I turn my back on her and head for home.
+　俺は娘に背を向け、家を目指した。
 #
-Now then, what should I have for dinner?
+　さて、夜の食事はどうしようかな……
 #
-I still have bread, and I can reheat the soup
-I had for lunch...
-Ugh, pathetic.
+　まだパンは残っていたし、昼に作ったスープを温
+　め直して……
+　うーん、わびしい。
 #
-Maybe I should buy something nice while I'm
-here and treat myself.
+　ここは一つ、食材を買い足して豪華な食事にして
+　みるのも手かな。
 #
-Market street's right over there.
+　丁度、商店街だ。
 #
-Money, though...
+　金は……うーん。
 #
-That's the problem. 
-Maybe I can find something cheap.
+　悩み所だが……安い食材は無いだろうか。
 #
-I'm not sure how fancy a dinner I can make with
-cheap food though.
+　安い食材を買い足して、豪華な食事になるかどう
+　かは疑問だが。
 #
-...
+　……
 #
-.........
+　………………
 #
-I stop.
+　俺の足が止まった。
 #
-...
+　……
 #
-Her face flickers in my thoughts.
+　あの娘の顔がちらつく。
 #
-She was so tired.
+　疲労のある顔。
 #
-I wonder how long she was standing there.
+　一日、二日ではないだろう。
 #
-It must've been for days.
+　長く、あの場所に立っていたのかもしれない。
 #
-But why?
+　何の為に？
 #
-That street's near the Guild's main building.
+　あそこは魔法使い協会本部の近くだ。
 #
-So she was probably there looking for a wizard
-passing by.
+　通りかかる魔法使いに会う為だろう。
 #
-...Despite being mocked by students from the 
-school that threw her out.
+　辞めさせられた学園の生徒に馬鹿にされながらも。
 #
-...
+　……
 #
-.........
+　………………
 #
-Another big sigh.
+　大きな溜息。
 #
-I turn around and go back.
+　俺は踵を返し、娘の居た場所を目指す。
 #
-Will she still be there?
+　まだ、あの場所に居るだろうか。
 #
-Of course she will.
+　居るだろう。
 #
-She must be.
+　居るに違いない。
 #
-There's something driving her.
+　そう確信させる何かが、あの娘にはあった。
 #
-And I was right.
+　そして、その通りだった。
 #
 <music 5>
 <background "ev001a0.iph" 10>
-<name "Girl" "!AA0014">
-"Oh..."
+<name "娘" "!AA0014">
+「あ……」
 #
-<name "Lazlocke">
-"..."
+<name "ラズロック">
+「……」
 #
-<name "Girl" "!AA0015">
-"..."
+<name "娘" "!AA0015">
+「……」
 #
-<name "Lazlocke">
-"You want to become a wizard?"
+<name "ラズロック">
+「魔法使いになりたいか？」
 #
-<name "Girl" "!AA0016">
-"Yes, sir."
+<name "娘" "!AA0016">
+「はい」
 #
-<name "Lazlocke">
-"What are you prepared to give for it?"
+<name "ラズロック">
+「どれぐらいの覚悟がある？」
 #
-<name "Girl" "!AA0017">
-"W-Whatever it takes."
+<name "娘" "!AA0017">
+「い、一命を賭してでも」
 #
-<name "Lazlocke">
-"I see."
+<name "ラズロック">
+「そうか……」
 #
-<name "Girl" "!AA0018">
-"..."
+<name "娘" "!AA0018">
+「……」
 #
-<name "Lazlocke">
-"...Will you be my apprentice?"
+<name "ラズロック">
+「…………俺の弟子になるか？」
 #
-<name "Girl" "!AA0019">
-"Huh?"
+<name "娘" "!AA0019">
+「え？」
 #
-<name "Lazlocke">
-"If you become by apprentice, I can provide you
- mana and teach you how to use magic."
+<name "ラズロック">
+「俺の弟子になるなら、魔力を与えてやるし、
+　魔法の技術も教えてやろう」
 #
-<name "Girl" "!AA0020">
-"R-Really!?"
+<name "娘" "!AA0020">
+「ほ、本当ですか！」
 #
-I have the ability to make this mana-less girl
-a wizard.
+　俺には、この魔力の無い娘を魔法使いにする力が
+　ある。
 #
-I hate that.
+　俺自身が忌み嫌う力。
 #
-It's also what makes me who I am.
+　そして、俺自身を成り立たせている力。
 #
-It's a constant reminder of how different I am
-from regular people.
+　俺がどれだけズレた人間であるかを自覚させる力。
 #
-Using it, I could make her a wizard.
+　それを使えば、この娘は魔法使いになれる。
 #
-But it's up to her what kind of wizard she'll
-be.
+　どんな魔法使いになるかは、この娘次第だが……
 #
-<name "Girl" "!AA0021">
-"Please! I'm begging you!"
+<name "娘" "!AA0021">
+「是非、お願いします！」
 #
-<name "Lazlocke">
-"Hold on. Don't make a rash decision."
+<name "ラズロック">
+「待て、結論を急ぐな」
 #
-<name "Girl" "!AA0022">
-"Huh?"
+<name "娘" "!AA0022">
+「？」
 #
-<name "Lazlocke">
-"I realize you may have been waiting here for a
- long time, but you can't possibly believe
- something so perfect would just fall into your
- lap."
+<name "ラズロック">
+「どれだけここに立っていたか知らないが、都合の
+　良い話がそうそう落ちている筈がないだろう」
 #
-<name "Girl" "!AA0023">
-"..."
+<name "娘" "!AA0023">
+「……」
 #
-<name "Lazlocke">
-"There's a price to pay for being my apprentice.
- Make your decision after I tell you the entire
- story."
+<name "ラズロック">
+「俺の弟子になるには代価が要る。
+　その話を聞いてから、結論を出せ」
 #
-<name "Girl" "!AA0024">
-"O-Okay."
+<name "娘" "!AA0024">
+「は、はい」
 #
-<name "Lazlocke">
-"What's your name?"
+<name "ラズロック">
+「……名前は？」
 #
-<name "Girl" "!AA0028">
-"C-Celestine."
+<name "娘" "!AA0028">
+「セ、セリスティーネです」
 #
-<name "Lazlocke">
-"That's a mouthful.
- Will Celes be okay?"
+<name "ラズロック">
+「長いな。
+　セリスで良いか？」
 #
-<name "Celes" "!AA0029">
-"Yes, that's what my friends call me."
+<name "セリス" "!AA0029">
+「はい。
+　友達はそう呼んでいます」
 #
-<name "Lazlocke">
-"I'm Lazlocke. I can tell you what you need to
- know as we walk. 
- Come along."
+<name "ラズロック">
+「俺はラズロックだ。
+　詳しい話をしよう。
+　ついて来い」
 #
-<name "Celes" "!AA0030">
-"Yes, sir!"
+<name "セリス" "!AA0030">
+「はいっ！」
 #
 <music 11>
 <background "bg020a0.iph" 11>
-But she doesn't make it very far.
+　だが、セリスはついて来なかった。
 #
-She takes just a few steps, and then...
+　俺と一緒に歩き始めて、数歩。
 #
-She slumps to the ground, completely wiped out.
+　セリスは前のめりに倒れ込んでしまい、気を失っ
+　たからだ。
 #
-No doubt from exhaustion and lack of sleep.
+　原因は過労と、過度の睡眠不足のようだ。
 #
-...
+　……
 #
-This is going to be a pain...
-Well, if she didn't have it in her to push 
-herself to her limits, she was never going to
-be a wizard in the first place.
+　先が思いやられるが……
+　まあ、これぐらいの根性がなければ魔法使いには
+　なれない。
 #
 <background "bg024a0.iph" 10>
 \x2B\x42
@@ -655,365 +611,354 @@ be a wizard in the first place.
 <background "bg024a0.iph" 10>
 <music 2>
 <background "bg012a0.iph" 11>
-What is magic?
+　魔法とは何か？
 #
-Magic is the process of converting mana into
-power.
+　魔力を力として具現化する方法の事だ。
 #
-So what is mana?
+　魔力。
 #
-Depending on the time and place, it might be
-called divinity, chi, spirit, essence, 
-malevolence, or just plain superpower.  
-Whatever you call it, it's all the same thing.
+　場所や時代、立場によって、神力、人力、天力、
+　悪力、超力などと呼び方が様々に変わるが、存在
+　は変化しない。
 #
-It's a power that fills the whole world.
+　世界中に溢れ、漂う力。
 #
-Countless people live their lives without
-knowing anything about mana.
+　普通に生活している分には、魔力の事など知らな
+　くても問題無い。
 #
-As long as it doesn't concentrate too much in
-any place, and nothing causes it to go haywire,
-it's totally harmless.
+　魔力が一箇所に過剰に集まり、暴走するような事
+　でもない限り、極めて無害。
 #
-It's extremely rare for mana to concentrate 
-like that, so not many people know or care
-about it happening.
+　魔力が過剰に集まる事自体が稀なので、認知しな
+　くても欠片も問題無い。
 #
-Magic is how you convert mana into something
-useful.
+　その魔力を、具体的な力に変える方法が魔法。
 #
-Those who use magic are what we call wizards.
+　その魔法を使うのが、魔法使い。
+　術者とも言われる。
 #
-Mana can be converted to flame, cause objects
-to float, and all kinds of other useful
-applications.
+　魔力を火に変換したり、物を浮かす力に変えたり
+　と用途は色々とあり、なかなか便利なように思わ
+　れる。
 #
-But in order to use magic, mana has to be taken
-into your body and captured there.
+　ただ、魔法を使う為には多少なりとも魔力を体内
+　に取り込み貯蓄する必要がある。
 #
-The mana inside you can be made to react with
-the mana in the world, and changed into power.
+　体内に貯蓄した魔力を消費利用して周囲の魔力に
+　働きかけ、力へと変化させるからだ。
 #
-That's why the ability to store mana inside you
-determines whether or not you can use magic.
+　だから、魔力を体内に取り込み、貯蓄できるかど
+　うかで、魔法を使えるかどうかが決まる。
 #
-But the truth of the matter is that everybody
-can absorb and store mana inside them.
+　と言っても、実際は誰もが魔力を体内に取り込み
+　貯蓄する事は可能だ。
 #
-It's everywhere and all around us.
+　なにせ、そこら中に溢れているのだ。
 #
-Even a completely regular person will naturally
-absorb a fair amount over their lives.
+　長く生活していれば普通の人でも、自然に体内に
+　取り込んでいる。
 #
-The issue is the amount.
+　問題は量だ。
 #
-The amount of mana a normal person will absorb
-over their entire life isn't even enough to
-start a campfire.
+　普通の人が一生を掛けて体内に取り込む魔力量で
+　は、小さな火を起こす事すら出来ない。
 #
-To use magic, you need to be able to take in far
-more mana than a regular person, and you need to
-be able to hold onto it.
+　魔法を使うには、常人よりも常に多くの魔力を体
+　内に取り入れ、そして貯蓄しなければいけない。
 #
-Whether or not you can do it is almost entirely
-determined when you're born.
+　これは、生まれながらの資質に大きく左右される。
 #
-That's why they call magic an innate talent.
+　魔法は才能と言われる所以だ。
 #
 <music 5>
 <background "bg002a0.iph" 11>
-I carry Celes back to my house and leave her on
-a bed.
+　俺は倒れたセリスを背負って家まで運び、ベッド
+　に寝かせた。
 #
-She didn't wake up until the afternoon of the
-next day.
+　セリスが目を覚ましたのは、翌日の昼過ぎだった。
 #
-But she was still too weak to get up.
+　だが、ベッドから動けなかった。
 #
-It took her three days, including my magical
-treatment, because she was able to move again.
+　セリスがベッドから動けるようになったのは、俺
+　の魔法治療を受けながら三日後。
 #
-A full week passed before she had fully
-recovered.
+　完全に復調するのに、出会ってから一週間の時間
+　が過ぎていた。
 #
 <background "ev002a0.iph" 10>
-<name "Lazlocke">
-"Are you all right now?"
+<name "ラズロック">
+「大丈夫か？」
 #
-<name "Celes" "!AA0031">
-"Y-Yes. Thank you so much for everything.
- Um, and for the new clothes."
+<name "セリス" "!AA0031">
+「は、はい。
+　お世話になりました。
+　……その、服とかも用意して頂いて」
 #
-<name "Lazlocke">
-"If you want to be a wizard, you need to take
- better care of yourself."
+<name "ラズロック">
+「魔法使いになりたいなら、体調管理はしっかりし
+　ろ」
 #
-<name "Celes" "!AA0032">
-"I-I'm sorry.
- I'll be more careful."
+<name "セリス" "!AA0032">
+「す、すみません……気をつけます」
 #
-She sits down on the couch in her new clothes.
+　セリスは、俺の用意した服を着てソファーに座っ
+　ている。
 #
-<name "Lazlocke">
-"Now then, let's continue from where you
- passed out."
+<name "ラズロック">
+「さてと……倒れる前の話の続きをしようか」
 #
-I put a cup of tea down in front of her and
-take a seat.
+　俺はそのセリスの前に紅茶を置き、向かいのソファ
+　ーに腰を降ろす。
 #
-<name "Celes" "!AA0033">
-"Y-Yes, sir."
+<name "セリス" "!AA0033">
+「は、はい」
 #
-She asked about this from bed, but I told her to
-wait.
+　セリスはベッドの中から、何度か詳しい話を要求
+　したが俺は突っぱねた。
 #
-She needed to concentrate on recovering first
-and foremost.
+　まずは、体調を戻す事に専念させる為だ。
 #
-<name "Lazlocke">
-"I'm sure you're already aware, but this is
- my home. I brought you here when you passed
- out."
+<name "ラズロック">
+「もう、十分わかっていると思うが、ここは俺の家
+　だ。
+　倒れている間に、俺が運び込んだ」
 #
-I live on the outskirts of Loria in the
-Queensbell Kingdom.
+　クインズベル王国、ローリアの街の外れにある。
 #
-<name "Lazlocke">
-"I'm a wizard belonging to the Guild.
- Lazlocke Althorn."
+<name "ラズロック">
+「そして、俺は魔法使い協会に所属する魔法使い。
+　ラズロック＝アルトホーン」
 #
 <background "ev002b0.iph" 10>
 <background "ev002c0.iph" 10>
-<name "Celes" "!AA0034">
-"C-Celestine.
- It's an honor."
+<name "セリス" "!AA0034">
+「セ、セリスティーネです。
+　よろしくお願いします」
 #
-She stands up and bows deeply.
+　セリスは、立ち上がって頭を深々と下げる。
 #
-<name "Lazlocke">
-"No need for formalities.
- If you become my apprentice, I can provide you
- mana and teach you magic."
+<name "ラズロック">
+「そう頭を下げなくても、俺の弟子になれば魔力と
+　魔法の技術はちゃんと与える」
 #
 <background "ev002b0.iph" 10>
 <background "ev002a0.iph" 10>
-<name "Celes" "!AA0035">
-"Y-Yes, sir.
- Thank you very much."
+<name "セリス" "!AA0035">
+「は、はい。
+　よろしくお願いします」
 #
-<name "Lazlocke">
-"But there's a price."
+<name "ラズロック">
+「だが、代価は必要だ」
 #
-<name "Celes" "!AA0036">
-"I-I understand.
- I'll do whatever I need to."
+<name "セリス" "!AA0036">
+「わ、わかっています。
+　私にできる事なら、なんでもします」
 #
-<name "Lazlocke">
-"I like the spirit.
- There's just one thing."
+<name "ラズロック">
+「いい心掛けだ。
+　……代価はたった一つ」
 #
-<name "Lazlocke">
-"You will give yourself to me.
- Do you understand what I mean?"
+<name "ラズロック">
+「俺に身体を捧げる事だ。
+　意味はわかるな？」
 #
-<name "Celes" "!AA0037">
-"Huh?"
+<name "セリス" "!AA0037">
+「え？」
 #
-She blushes and looks down. 
-I ignore her reaction and continue.
+　セリスは顔を真っ赤にして俯いたが、俺は無視し
+　て説明を続ける。
 #
-<name "Lazlocke">
-"I have regular need of a woman.
- I've made due in various ways so far, but it
- would be a great help if I had a readily
- available one close at hand."
+<name "ラズロック">
+「俺は定期的に女を必要とする。
+　これまでは色々とやっていたが……
+　身近に手軽なのが居ると助かる」
 #
-<name "Celes" "!AA0038">
-"R-Readily?"
+<name "セリス" "!AA0038">
+「……手軽……ですか？」
 #
-<name "Lazlocke">
-"Correct. You would live in my home, stay by my
- side, and give yourself to me when I want.
- That is what I have to gain from taking you as
- my apprentice."
+<name "ラズロック">
+「そうだ。
+　この家に住み込み、俺の傍に居ろ。
+　そして、俺が望んだ時に身体を差し出せ。
+　それがお前を弟子にする俺のメリットだ」
 #
-<name "Celes" "!AA0039">
-"..."
+<name "セリス" "!AA0039">
+「……」
 #
-<name "Lazlocke">
-"You do not need to respect or love me, but
- when you're with me, you must always try your
- best to please me. 
- That is all I ask."
+<name "ラズロック">
+「俺を尊敬したり、敬意を払ったりする必要は無い。
+　ただ、俺に抱かれている時もだが、それ以外の時
+　も俺を喜ばせるように常に努力しろ。
+　以上だ」
 #
-<name "Celes" "!AA0040">
-"..."
+<name "セリス" "!AA0040">
+「……」
 #
-<name "Lazlocke">
-"I understand that this is not a decision that
- a woman can make lightly."
+<name "ラズロック">
+「が、そう言っても……女が軽々しく了承できる内
+　容じゃないのは理解している」
 #
-<name "Lazlocke">
-"Take your time and think it over.
- You may use the room until you've made your
- decision."
+<name "ラズロック">
+「時間はやる。
+　ゆっくりと考えろ。
+　それまでは部屋を使って良い」
 #
-<name "Celes" "!AA0041">
-"N-No, that's okay.
- If I'm good enough for you, you can use me
- however you want."
+<name "セリス" "!AA0041">
+「……い、いえ。
+　大丈夫です。
+　この身でよければ、自由にお使いください」
 #
-<name "Lazlocke">
-"That was quick."
+<name "ラズロック">
+「……決断が早いな」
 #
-<name "Celes" "!AA0042">
-"I... I have to become a wizard, no matter
- what."
+<name "セリス" "!AA0042">
+「私は……
+　どうしても魔法使いにならなければいけないんで
+　す」
 #
-<name "Lazlocke">
-"May I ask why?"
+<name "ラズロック">
+「……理由を、聞いても良いか？」
 #
-<name "Celes" "!AA0043">
-"M-My full name is Celestine Rococo.
- I'm the only daughter of the Rococo family."
+<name "セリス" "!AA0043">
+「わ、私はセリスティーネ＝ロココ。
+　ロココ家の娘です」
 #
-Rococo?
+　ロココ。
 #
-That's a pretty famous family of wizards over
-in the Arkanes Kingdom just north of Queensbell.
+　クインズベル王国の北側に国境を接するアルカン
+　ス王国の名門魔法使い一族の名だ。
 #
-I do remember hearing that the current head of
-the family died last year.
+　確か昨年、そこの当主が亡くなって代替りしてい
+　る。
 #
-<name "Lazlocke">
-"A question of succession then?"
+<name "ラズロック">
+「……継承争いか」
 #
-<name "Celes" "!AA0044">
-"Yes, but without mana, I can't be a wizard,
- and am prohibited from succeeding my family."
+<name "セリス" "!AA0044">
+「はい。
+　ですが、魔力が無くて魔法使いになれない私は、
+　継承を反対されました」
 #
-<name "Lazlocke">
-"So you want to become a wizard to inherit your
- family's estate?"
+<name "ラズロック">
+「……継承したくて、魔法使いになりたいわけか」
 #
-<name "Celes" "!AA0045">
-"No. That's not why."
+<name "セリス" "!AA0045">
+「いえ、違います」
 #
-<name "Lazlocke">
-"Hm?"
+<name "ラズロック">
+「？」
 #
-<name "Celes" "!AA0046">
-"My father was murdered."
+<name "セリス" "!AA0046">
+「お父様は殺されたんです」
 #
-<name "Lazlocke">
-"..."
+<name "ラズロック">
+「……」
 #
-<name "Celes" "!AA0047">
-"And the current head of Rococo is who was
- behind it. I have proof."
+<name "セリス" "!AA0047">
+「そして、現在のロココ家当主が犯人です。
+　証拠もあります」
 #
-<name "Lazlocke">
-"Take it to the Guild.
- They'll punish him and drive him out."
+<name "ラズロック">
+「なら、その証拠を持って協会に訴えろ。
+　そいつは追い出せるぞ」
 #
-<name "Celes" "!AA0048">
-"If I did that, there would be no wizards left
- in the Rococo family and we would lose 
- everything."
+<name "セリス" "!AA0048">
+「……そうしてしまうと、ロココ家に魔法使いが居
+　なくなります。
+　そうなると、ロココ家は潰れます」
 #
-Now it's getting clearer.
+　確かに……
 #
-<name "Celes" "!AA0051">
-"But if I become a wizard, and take it back
- from him myself..."
+<name "セリス" "!AA0051">
+「ですが、私が魔法使いになって、実力で当主の座
+　を奪い返せば……」
 #
-I see. A story of revenge...
+　なるほど、どちらかと言えば復讐か……
 #
-<name "Lazlocke">
-"All right. I understand."
+<name "ラズロック">
+「良く分かった」
 #
-<name "Celes" "!AA0052">
-"Then..."
+<name "セリス" "!AA0052">
+「では……」
 #
-<name "Lazlocke">
-"Yes, I can supply you with mana and teach you
- magic."
+<name "ラズロック">
+「ああ、ちゃんと魔力と魔法の技術は与えてやる」
 #
-<name "Celes" "!AA0053">
-"Thank you so much."
+<name "セリス" "!AA0053">
+「よろしくお願いします」
 #
-<name "Lazlocke">
-"But time isn't on your side."
+<name "ラズロック">
+「だが、急げよ」
 #
-<name "Celes" "!AA0054">
-"Huh?"
+<name "セリス" "!AA0054">
+「え？」
 #
-<name "Lazlocke">
-"The current head could protest a duel as
- unjust. The Guild won't recognize your claims
- unless you make them within the next four
- years."
+<name "ラズロック">
+「新しい当主が不当として、決闘を挑む場合……
+　継承してから四年以内でないと、協会は認めない
+　はずだ」
 #
-<name "Celes" "!AA0055">
-"R-Really!?"
+<name "セリス" "!AA0055">
+「ほ、本当ですか！」
 #
-<name "Lazlocke">
-"Yeah. I'll check into it as well."
+<name "ラズロック">
+「ああ、詳しくはまた調べておいてやる」
 #
-<name "Celes" "!AA0056">
-"T-Thank you."
+<name "セリス" "!AA0056">
+「お、お願いします」
 #
-<name "Lazlocke">
-"Now then, no time to waste. 
- Change into something easier to move in and go
- jog in the backyard. You're still recovering,
- so let's say just ten laps."
+<name "ラズロック">
+「さて、さっそくだが……
+　まずは運動しやすい服に着替えて裏庭を走って来
+　い。
+　病み上がりだから……十周ぐらいで良い」
 #
-<name "Celes" "!AA0057">
-"Huh?"
+<name "セリス" "!AA0057">
+「え？」
 #
-<name "Lazlocke">
-"Huh, what?
- You want to be a wizard, don't you?"
+<name "ラズロック">
+「えって何だ？
+　魔法使いになるんだろ」
 #
-<name "Celes" "!AA0058">
-"Y-Yes, sir.
- But..."
+<name "セリス" "!AA0058">
+「は、はい。
+　ですが……」
 #
-<name "Lazlocke">
-"You need a strong constitution to use magic.
- Running will get you in shape.
- Do you have an issue with that?"
+<name "ラズロック">
+「魔法を使うには、体力が必要だ。
+　走って鍛える。
+　何か問題でもあるか？」
 #
-<name "Celes" "!AA0059">
-"N-No, sir..."
+<name "セリス" "!AA0059">
+「い、いえ……」
 #
-<name "Lazlocke">
-"A little more enthusiasm."
+<name "ラズロック">
+「返事は元気良く」
 #
-<name "Celes" "!AA0060">
-"Y-Yes, sir!
- I'll go run!"
+<name "セリス" "!AA0060">
+「は、はい！
+　走りに行ってきます！」
 #
 <music 2>
 <background "bg001a0.iph" 11>
-She hurries to her room, changes, and goes out
-to the backyard.
+　セリスは急いで部屋に戻り、着替えて裏庭に出て
+　いった。
 #
-<name "Lazlocke">
-"Don't forget to stretch first."
+<name "ラズロック">
+「走る前に準備運動を忘れるなよ」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA0061">
-"Yes, sir!"
+<name "セリス" "!AA0061">
+「はい！」
 #
 <removesprite -1 11>
-She starts very carefully stretching.
+　そう返事をし、セリスは念入りな準備運動を行な
+　い始めた。
 #
-<name "Lazlocke">
-"Now then, I need to come up with a regimen."
+<name "ラズロック">
+「さて、訓練メニューを考えてやらないとなぁ」
 #
-And thus, my life with my new apprentice began.
+　こうして、俺とセリスの師弟生活が始まる事になっ
+　た。
 #
 \x78\x78

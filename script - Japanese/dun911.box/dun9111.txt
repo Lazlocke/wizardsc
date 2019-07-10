@@ -10,14 +10,14 @@
 :8B
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3507">
+<name "セリス" "!AA3507">
 「王魔の塔へ行ってきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気をつけていけ」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3508">
+<name "セリス" "!AA3508">
 「はい」
 #
 <removesprite -1 11>
@@ -25,11 +25,11 @@
 :15D
 <background "bg016a0.iph" 11>
 <sprite "ta01c92.iph" 4 4 11>
-<name "Celes" "!AA3509">
+<name "セリス" "!AA3509">
 「王魔の塔って遠いのよね……」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3510">
+<name "セリス" "!AA3510">
 「でも、頑張ろう」
 #
 <removesprite -1 11>
@@ -37,14 +37,14 @@
 :219
 <background "bg016a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "Celes" "!AA3511">
+<name "セリス" "!AA3511">
 「王魔の塔……そこだぁっ！」
 #
 <name "村人" "!TB0137">
 「なんじゃ、道に迷ったのか？」
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "Celes" "!AA3512">
+<name "セリス" "!AA3512">
 「………………すみません。
 　案内をお願いできますか」
 #
@@ -53,25 +53,25 @@
 :32A
 <background "bg016a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA3513">
+<name "セリス" "!AA3513">
 「えっと……あれ？
 　前に来た時はすぐに行けたのに……」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA3514">
+<name "セリス" "!AA3514">
 「道に迷ったかな……」
 #
 <sprite "ta01c29.iph" 4 4 12>
-<name "Celes" "!AA3515">
+<name "セリス" "!AA3515">
 「うーん……」
 #
 <sprite "ta01c09.iph" 4 4 12>
-<name "Celes" "!AA3516">
+<name "セリス" "!AA3516">
 「あ、案内看板。
 　助かった～」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA3517">
+<name "セリス" "!AA3517">
 「助かったけど、どうして案内看板なんかあるんだ
 　ろ？」
 #

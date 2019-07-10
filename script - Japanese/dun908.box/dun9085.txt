@@ -7,38 +7,38 @@
 \x78
 :61
 <music 23>
-<name "Celes" "!AA3348">
+<name "セリス" "!AA3348">
 「うわっ……凄い水晶……」
 #
-<name "Celes" "!AA3349">
+<name "セリス" "!AA3349">
 「叩いても……大丈夫。
 　飾りかな」
 #
-<name "Celes" "!AA3350">
+<name "セリス" "!AA3350">
 「さて、仕掛けも無いようなので……
 　あ、文字が……ええと……」
 #
-<name "Celes" "!AA3351">
+<name "セリス" "!AA3351">
 「優れた魔法使いほど、魔法に頼らない」
 #
-<name "Celes" "!AA3352">
+<name "セリス" "!AA3352">
 「古の魔法使いヴィクトリア＝ルル＝ブラックマン
 　の言葉だったかな」
 #
-<name "Celes" "!AA3353">
+<name "セリス" "!AA3353">
 「意味は魔法に溺れるなって事」
 #
-<name "Celes" "!AA3354">
+<name "セリス" "!AA3354">
 「心に刻みます」
 #
-<name "Celes" "!AA3355">
+<name "セリス" "!AA3355">
 「……さて」
 #
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3356">
+<name "セリス" "!AA3356">
 「到着！」
 #
-<name "Celes" "!AA3357">
+<name "セリス" "!AA3357">
 「達成！
 　やったー！」
 #
@@ -46,20 +46,20 @@
 :2A3
 <music 23>
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3361">
+<name "セリス" "!AA3361">
 「到達！」
 #
-<name "Celes" "!AA3362">
+<name "セリス" "!AA3362">
 「うん、問題無し」
 #
 :307
 <music 23>
 <background "ev022a1.iph" 10>
-<name "Celes" "!AA3363">
+<name "セリス" "!AA3363">
 「到着♪
 　……かなり楽にこれるようになったかな」
 #
-<name "Celes" "!AA3364">
+<name "セリス" "!AA3364">
 「魔法の塔を征服したって感じ♪」
 #
 <exit>

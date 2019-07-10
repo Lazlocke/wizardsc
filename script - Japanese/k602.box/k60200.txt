@@ -37,40 +37,40 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4395">
+<name "セリス" "!AA4395">
 「読書ですか。
 　はい、どんな本を読めば良いですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、適当に……
 　楽しそうなのを読めば良いんじゃないか？」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA4396">
+<name "セリス" "!AA4396">
 「え？
 　楽しそうな？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA4397">
+<name "セリス" "!AA4397">
 「あの、それはどんな修行になるのですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……あはははは。
 　違う違う、修行じゃない。
 　休憩だ」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA4398">
+<name "セリス" "!AA4398">
 「休憩……ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「休むのも修行のウチだ」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA4399">
+<name "セリス" "!AA4399">
 「は、はい。
 　頑張ります」
 #
@@ -80,10 +80,10 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA4400">
+<name "セリス" "!AA4400">
 「頑張って読みます！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、読書にそんなに気合を入れなくても……」
 #
 <removesprite -1 11>
@@ -92,31 +92,31 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4401">
+<name "セリス" "!AA4401">
 「師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01a05.iph" 4 4 12>
-<name "Celes" "!AA4402">
+<name "セリス" "!AA4402">
 「このサスペンス。
 　イマイチです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、その本か……俺もイマイチだと思う」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA4403">
+<name "セリス" "!AA4403">
 「どうして、こんなトリックが成立するんですか！
 　大体、魔法使いが魔法を使わずに殴って殺すのが
 　変だし、ミスリードもワザとらしい！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うんうん」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA4404">
+<name "セリス" "!AA4404">
 「どうして、こんな本を買ったんですか！」
 #
 <removesprite -1 11>
@@ -130,15 +130,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4405">
+<name "セリス" "!AA4405">
 「師匠。
 　何冊か本を借りても良いですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、良いぞ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4406">
+<name "セリス" "!AA4406">
 「すみません」
 #
 <removesprite -1 11>
@@ -154,40 +154,40 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a23.iph" 4 4 11>
-<name "Celes" "!AA4407">
+<name "セリス" "!AA4407">
 「師匠っ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「な、なんだ？」
 #
 　勢い良くセリスが俺の元にやってきた。
 #
 <sprite "ta01a26.iph" 4 4 12>
-<name "Celes" "!AA4408">
+<name "セリス" "!AA4408">
 「この本の続きがありません！」
 #
 　セリスが手にしている本の背表紙には、目立つ金
 　字で第一巻と書かれていた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「クレス家の野望か、そう言えば……ソシエットが
 　貸してくれと言って、持って行ったきりだったな」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA4409">
+<name "セリス" "!AA4409">
 「ソシエットさんはどこに居るんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え？
 　協会本部に居ると思うけど……まさか、返して貰
 　いに行くのか？」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA4410">
+<name "セリス" "!AA4410">
 「こんな所で終っては、落ち着いて何もできません！
 　行ってきます！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一気読みする気か……」
 #
 <removesprite -1 11>
@@ -198,28 +198,28 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA4411">
+<name "セリス" "!AA4411">
 「最近、分かってきました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「何がだ？」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA4412">
+<name "セリス" "!AA4412">
 「お風呂シーンや水着シーンが入るタイミングです。
 　だいたい、三巻目ぐらいです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「へ、偏見だぞ。
 　それは」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA4413">
+<name "セリス" "!AA4413">
 「師匠の買っている本の大半に、その傾向がありま
 　す。
 　納得して頂けないなら、分析表を作りますが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………ごめんなさい」
 #
 <removesprite -1 11>
@@ -228,119 +228,119 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA4414">
+<name "セリス" "!AA4414">
 「師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？
 　なんだ？」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA4415">
+<name "セリス" "!AA4415">
 「なんですか！
 　この非武装、非戦闘を謳う本は！」
 #
 <sprite "ta01a24.iph" 4 4 12>
-<name "Celes" "!AA4416">
+<name "セリス" "!AA4416">
 「話し合いでお腹が膨れるなら、誰も戦争なんかし
 　ません！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあまあ、戦争を知らない貴族のボンボンが書い
 　た本だ。
 　そういった思想もあると受け流せ」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA4417">
+<name "セリス" "!AA4417">
 「ですが！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「じゃあ、支配している市民に戦いは悪だと教えて、
 　反抗させない手段と考えろ」
 #
 <sprite "ta01a26.iph" 4 4 12>
-<name "Celes" "!AA4418">
+<name "セリス" "!AA4418">
 「むう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、その本は色々な物を守る為に戦った者達ま
 　で馬鹿にしているからな」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA4419">
+<name "セリス" "!AA4419">
 「そうです。
 　確かに戦う、戦わないで言えば、戦わない方が大
 　事です」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA4420">
+<name "セリス" "!AA4420">
 「ですが、殴られているのに、戦わないのはチキン
 　なだけです。
 　それでもこの本では戦わずに話し合えと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「飢えた野良犬に話が通じると考えている楽天家な
 　んだろ」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA4421">
+<name "セリス" "!AA4421">
 「そうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちなみにだ」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA4422">
+<name "セリス" "!AA4422">
 「はい？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その本を出してしばらく後、その本を書いた貴族
 　の邸宅に大勢の泥棒や強盗が押しかけた」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA4423">
+<name "セリス" "!AA4423">
 「え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「戦わないって、公言しているワケだからな」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA4424">
+<name "セリス" "!AA4424">
 「それで、どうなったんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「貴族の周りの者達は逃げたか投降して、誰も戦わ
 　なかった。
 　戦ったのは、その貴族のみ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だが、その貴族は殺されなかった。
 　財産の大半は奪われてしまったが、命だけは守り
 　きった」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA4425">
+<name "セリス" "!AA4425">
 「殺されなかったんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、また頑張って財産を貯めろと泥棒や強盗に
 　言われてな」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA4426">
+<name "セリス" "!AA4426">
 「……笑い話ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だな。
 　善意は大事だが、それは自分の心の中で大事にす
 　れば良い。
 　相手にそれを求めるのは間違いだ」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA4427">
+<name "セリス" "!AA4427">
 「考えさせられます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だから、その本を置いてあるんだ。
 　俺も初めて読んだ時は、変な顔になったからな」
 #
@@ -349,13 +349,13 @@
 :18D9
 <music 5>
 <background "ev028a0.iph" 11>
-<name "Celes" "!AA4428">
+<name "セリス" "!AA4428">
 「クレス家の野望……名作です」
 #
-<name "Celes" "!AA4429">
+<name "セリス" "!AA4429">
 「六巻の絶望編と八巻の温泉編は必読ですね」
 #
-<name "Celes" "!AA4430">
+<name "セリス" "!AA4430">
 「何度、読み返しても良い作品です」
 #
 　……
@@ -370,30 +370,30 @@
 :1A31
 <music 5>
 <background "ev028a0.iph" 11>
-<name "Elle" "!CA0287">
+<name "イエル" "!CA0287">
 「なにを読んでるの？」
 #
-<name "Celes" "!AA4431">
+<name "セリス" "!AA4431">
 「あ、イエルちゃん。
 　読んでる本は、“マックラーの屍”よ」
 #
-<name "Elle" "!CA0288">
+<name "イエル" "!CA0288">
 「なにそれ？」
 #
-<name "Celes" "!AA4432">
+<name "セリス" "!AA4432">
 「戦争の舞台になったマックラーにおける悲劇と悲
 　運を描いた物語よ」
 #
-<name "Elle" "!CA0289">
+<name "イエル" "!CA0289">
 「暗そうな話ね」
 #
-<name "Celes" "!AA4433">
+<name "セリス" "!AA4433">
 「悲劇も重なれば笑い話みたいなものよ」
 #
-<name "Elle" "!CA0290">
+<name "イエル" "!CA0290">
 「へぇ～、面白いの？」
 #
-<name "Celes" "!AA4434">
+<name "セリス" "!AA4434">
 「ううん、落ち込むだけ」
 #
 \x0A\x24\x00\x0F\x84\x01
@@ -401,20 +401,20 @@
 :1C0E
 <music 5>
 <background "ev028a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「あー、セリス君」
 #
-<name "Celes" "!AA4435">
+<name "セリス" "!AA4435">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「読書に夢中になるのは良いが、カップを持ったま
 　まなのはどうかな？」
 #
 　飲まないのにずっと、持っているのはかなり気に
 　なる。
 #
-<name "Celes" "!AA4436">
+<name "セリス" "!AA4436">
 「あ、あはは……
 　気をつけます」
 #
@@ -426,24 +426,24 @@
 :1D9B
 <music 5>
 <background "ev028a0.iph" 11>
-<name "Celes" "!AA4437">
+<name "セリス" "!AA4437">
 「師匠、この本。
 　別の本に寄稿していた作品をまとめたものなんで
 　すが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうした？」
 #
-<name "Celes" "!AA4438">
+<name "セリス" "!AA4438">
 「最初、１００万Ｂ奪った盗賊の話だったんですが、
 　後半は農作物の値上がりに困る人々を助ける為に
 　治水をする話になっているんです」
 #
-<name "Celes" "!AA4439">
+<name "セリス" "!AA4439">
 「なんですか？
 　このチグハグな本は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「流行を追いかけた結果だろうな」
 #
 \x0A\x24\x00\x0F\x84\x01
@@ -452,25 +452,25 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA4440">
+<name "セリス" "!AA4440">
 「師匠。
 　新しい本はありませんか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？
 　なんだ？
 　もう、読みきったのか？」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA4441">
+<name "セリス" "!AA4441">
 「はい……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか……
 　今度、一緒に買いに行くか」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4442">
+<name "セリス" "!AA4442">
 「はい。
 　購入リストを作っておきます！」
 #
@@ -482,36 +482,36 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA4443">
+<name "セリス" "!AA4443">
 「むう……なるほど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA4444">
+<name "セリス" "!AA4444">
 「そんな……こんな事を……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA4445">
+<name "セリス" "!AA4445">
 「うわー、うわー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………おーい」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA4446">
+<name "セリス" "!AA4446">
 「はいぃぃぃぃっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「エロ本を読みながら、チラチラこっちを見るな。
 　テレる」
 #
 <sprite "ta01a97.iph" 4 4 12>
-<name "Celes" "!AA4447">
+<name "セリス" "!AA4447">
 「す、すみません」
 #
 <removesprite -1 11>
@@ -520,51 +520,51 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "Viola" "!BA0367">
+<name "ヴィオラ" "!BA0367">
 「読書中、お邪魔するわね」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 4 11>
 <sprite "ta01a07.iph" 6 5 11>
-<name "Celes" "!AA4448">
+<name "セリス" "!AA4448">
 「あ、ヴィオラさん」
 #
 <sprite "ta03a00.iph" 2 4 12>
-<name "Viola" "!BA0368">
+<name "ヴィオラ" "!BA0368">
 「魔法の本じゃないみたいだけど……」
 #
 <sprite "ta01a15.iph" 6 5 12>
-<name "Celes" "!AA4449">
+<name "セリス" "!AA4449">
 「えへへ……
 　気分転換に、普通の本です」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0369">
+<name "ヴィオラ" "!BA0369">
 「“湯煙に隠れた七つの殺人”……サスペンスね。
 　そういった本も読むなら、今度、何冊か持って来
 　てあげるわ」
 #
 <sprite "ta01a17.iph" 6 5 12>
-<name "Celes" "!AA4450">
+<name "セリス" "!AA4450">
 「ありがとうございます」
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "Viola" "!BA0371">
+<name "ヴィオラ" "!BA0371">
 「それで、ラズロックは？」
 #
 <sprite "ta01a07.iph" 6 5 12>
-<name "Celes" "!AA4451">
+<name "セリス" "!AA4451">
 「部屋で机に向かってます。
 　呼んできましょうか？」
 #
 <sprite "ta03a05.iph" 2 4 12>
-<name "Viola" "!BA0372">
+<name "ヴィオラ" "!BA0372">
 「読書の邪魔を、これ以上はできないわよ。
 　自分で行くわ。
 　お茶も結構、ラズロックに用意させるから」
 #
 <sprite "ta01a89.iph" 6 5 12>
-<name "Celes" "!AA4452">
+<name "セリス" "!AA4452">
 「はい。
 　すみません」
 #
@@ -573,16 +573,16 @@
 :27B2
 <music 5>
 <background "ev028a0.iph" 11>
-<name "Celes" "!AA4453">
+<name "セリス" "!AA4453">
 「今日はヴィオラさんに貰った本を読もう」
 #
-<name "Celes" "!AA4454">
+<name "セリス" "!AA4454">
 「ヴィオラさんもサスペンス好きなのかな？
 　……あれ？
 　貰った本の中に一冊だけ、激甘と評判のラブロマ
 　ンス本が……」
 #
-<name "Celes" "!AA4455">
+<name "セリス" "!AA4455">
 「ヴィオラさんのイメージじゃないけど……
 　これもサスペンスなのかな？」
 #
@@ -591,20 +591,20 @@
 :2903
 <music 5>
 <background "ev028a0.iph" 11>
-<name "Celes" "!AA4456">
+<name "セリス" "!AA4456">
 「これだけ読んでも、まだ読んでない本がある……」
 #
-<name "Celes" "!AA4457">
+<name "セリス" "!AA4457">
 「終わりはあるのかしら？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「読んでる間にも、本は生まれているからな。
 　難しいんじゃないか？」
 #
-<name "Celes" "!AA4458">
+<name "セリス" "!AA4458">
 「うう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「楽しみが尽きないと思えば良いじゃないか」
 #
 \x0A\x24\x00\x0F\x84\x01
@@ -613,38 +613,38 @@
 <music 5>
 <background "ev028a0.iph" 11>
 \x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  7 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2ABD: 
-<name "Celes" "!AA4462">
+<name "セリス" "!AA4462">
 「本を読んでいます」
 #
 :2ABD
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2AF5: 
-<name "Celes" "!AA4463">
+<name "セリス" "!AA4463">
 「もくもく……」
 #
 :2AF5
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2B50: 
-<name "Celes" "!AA4464">
+<name "セリス" "!AA4464">
 「本を読むのも勉強、勉強。
 　あ、休まないと……」
 #
 :2B50
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2B94: 
-<name "Celes" "!AA4465">
+<name "セリス" "!AA4465">
 「身体を休めつつ、勉強……」
 #
 :2B94
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2BD4: 
-<name "Celes" "!AA4466">
+<name "セリス" "!AA4466">
 「のんびりと本を読もう」
 #
 :2BD4
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :2C12: 
-<name "Celes" "!AA4467">
+<name "セリス" "!AA4467">
 「どの本を読もうかな」
 #
 :2C12
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :2C50: 
-<name "Celes" "!AA4468">
+<name "セリス" "!AA4468">
 「読書って、楽しい♪」
 #
 :2C50

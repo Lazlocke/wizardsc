@@ -309,45 +309,45 @@
 #
 <music 31>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「コスチュームか……
 　確かに大事だな」
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA5736">
+<name "セリス" "!AA5736">
 「師匠！
 　掃除をサボっちゃ駄目ですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そう言うな……」
 #
 <removesprite -1 11>
 　俺は本を置いた時、ある物が目に入った。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA5737">
+<name "セリス" "!AA5737">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あの服、着てみるか？」
 #
 <sprite "ta01a77.iph" 4 4 12>
-<name "Celes" "!AA5738">
+<name "セリス" "!AA5738">
 「えっと……なんですか？
 　この穴の開いた服は？
 　大事な部分を隠してないんですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「エロい服」
 #
 <sprite "ta01a70.iph" 4 4 12>
-<name "Celes" "!AA5739">
+<name "セリス" "!AA5739">
 「…………師匠がどうしてもと言うなら着ます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうしても」
 #
 <removesprite -1 11>

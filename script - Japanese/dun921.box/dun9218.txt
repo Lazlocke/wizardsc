@@ -9,7 +9,7 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "Celes" "!AA4133">
+<name "セリス" "!AA4133">
 「よしっ！」
 #
 <name "格闘家" "!TB0161">
@@ -21,7 +21,7 @@
 「これを受け取ってくれ」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA4134">
+<name "セリス" "!AA4134">
 「えっと……お金？」
 #
 <name "格闘家" "!TB0163">
@@ -30,14 +30,14 @@
 　遠慮無く、受け取って欲しい」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA4135">
+<name "セリス" "!AA4135">
 「わ、わかりました」
 #
 <name "格闘家" "!TB0164">
 「お互い、精進しよう」
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "Celes" "!AA4136">
+<name "セリス" "!AA4136">
 「はい」
 #
 <removesprite -1 11>
@@ -51,7 +51,7 @@
 「うむ」
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA4137">
+<name "セリス" "!AA4137">
 「ま、負けた……悔しい」
 #
 　セリスは格闘家に敗北した。

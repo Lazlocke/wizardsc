@@ -13,37 +13,37 @@
 <music 10>
 <background "bg002b0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA2737">
+<name "セリス" "!AA2737">
 「セリス、ただいま戻りました！
 　任務達成です！」
 #
 <removesprite -1 11>
 <sprite "ta01c15.iph" 2 5 11>
 <sprite "ta04a08.iph" 6 4 11>
-<name "Soshiette" "!DA0476">
+<name "ソシエット" "!DA0476">
 「素晴らしい。
 　流石です。
 　セリス様♪」
 #
 <sprite "ta01c36.iph" 2 5 12>
-<name "Celes" "!AA2738">
+<name "セリス" "!AA2738">
 「え、あ、あの……」
 #
 <removesprite -1 11>
 　俺がセリスを褒める前に、ソシエットがセリスを
 　抱き締めて褒め称えた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おーい、俺の役目は？」
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0477">
+<name "ソシエット" "!DA0477">
 「幽霊殲滅パーティーの料理でも作ってください」
 #
 <removesprite -1 11>
 <sprite "ta01c42.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA2739">
+<name "セリス" "!AA2739">
 「あはは……
 　その前に寝かせて貰えると嬉しいのですが……」
 #
@@ -55,15 +55,15 @@
 <music 10>
 <background "bg002b0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA2741">
+<name "セリス" "!AA2741">
 「ゆ、幽霊怖い……」
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0478">
+<name "ソシエット" "!DA0478">
 「ご主人様、よろしくお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「仕方が無い……」
 #
 <removesprite -1 11>
@@ -76,10 +76,10 @@
 <music 10>
 <background "bg002b0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA0479">
+<name "ソシエット" "!DA0479">
 「ご主人様」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった」
 #
 <removesprite -1 11>

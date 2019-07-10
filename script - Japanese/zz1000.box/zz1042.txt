@@ -1,12 +1,12 @@
 <music 35>
 <background "ev039a0.iph" 10>
-<name "Celes" "!AA5169">
+<name "セリス" "!AA5169">
 「師匠……やり過ぎで、湯船が凄い事になってます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「別に飲めとか言わないから気にするな」
 #
-<name "Celes" "!AA5170">
+<name "セリス" "!AA5170">
 「はい。
 　飲むなら……直接……」
 #

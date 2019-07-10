@@ -14,17 +14,17 @@
 :CD
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「それで、一部を持って帰って来たと」
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA2875">
+<name "セリス" "!AA2875">
 「はい。
 　これの小型のは、地元では食用として重宝されて
 　いるんですよ。
 　……はい、出来ましたよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「う、うーん」
 #
 <removesprite -1 11>
@@ -35,24 +35,24 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA2876">
+<name "セリス" "!AA2876">
 「やりました！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よくやった！」
 #
 <removesprite -1 11>
 　俺はセリスを抱き抱えグルグルと回転する。
 #
 <sprite "ta01c36.iph" 4 4 11>
-<name "Celes" "!AA2877">
+<name "セリス" "!AA2877">
 「か、歓迎の仕方が大げさです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ダメか？」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA2878">
+<name "セリス" "!AA2878">
 「い、いえ……あれはあれで楽しかったです」
 #
 <removesprite -1 11>
@@ -61,26 +61,26 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c42.iph" 4 4 11>
-<name "Celes" "!AA2879">
+<name "セリス" "!AA2879">
 「うわーん……負けましたぁ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よしよし。
 　大丈夫か」
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "Celes" "!AA2880">
+<name "セリス" "!AA2880">
 「ヌルヌルしたんですー。
 　磯の臭いも酷かったしー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「海の魔物だからな」
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "Celes" "!AA2881">
+<name "セリス" "!AA2881">
 「今度あったら、食べてやろうと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうかそうか」
 #
 <removesprite -1 11>
@@ -91,11 +91,11 @@
 :5CF
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「それで、調査を忘れたと」
 #
 <sprite "ta01c42.iph" 4 4 11>
-<name "Celes" "!AA2868">
+<name "セリス" "!AA2868">
 「す、すみません」
 #
 <removesprite -1 11>

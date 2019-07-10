@@ -180,15 +180,15 @@
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「珍しいな。
 　異種間の魔物同士での行為か……
 　しかも同性」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「むう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、人間も色々なタイプがあるしな……
 　メモメモ」
 #

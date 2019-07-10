@@ -1,23 +1,23 @@
 <music 38>
 <background "ev040a1.iph" 10>
-<name "Lazlocke">
+<name "ラズロック">
 「セリス、正直に告白しよう」
 #
-<name "Celes" "!AA5233">
+<name "セリス" "!AA5233">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「実は俺、こうやって襲う系が好きかもしれない」
 #
-<name "Celes" "!AA5234">
+<name "セリス" "!AA5234">
 「師匠。
 　実は私も、こうやって襲われる感じが好きかもし
 　れません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス」
 #
-<name "Celes" "!AA5235">
+<name "セリス" "!AA5235">
 「師匠」
 #
 　俺達は激しく野外での行為を楽しんだ。

@@ -33,7 +33,7 @@
 『指弾』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1131">
+<name "ソシエット" "!DA1131">
 「指弾は、指で小石などを弾き、相手にダメージを
 　与える技です。
 　これを伝授しましょう」
@@ -41,30 +41,30 @@
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA5971">
+<name "セリス" "!AA5971">
 「よろしくお願いします」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1132">
+<name "ソシエット" "!DA1132">
 「まず、適度な小石を探します」
 #
 <sprite "ta01d89.iph" 2 5 12>
-<name "Celes" "!AA5972">
+<name "セリス" "!AA5972">
 「はい」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA1133">
+<name "ソシエット" "!DA1133">
 「次にこう握ります。
 　親指の爪の上に、小石を乗せる感じです」
 #
 <sprite "ta01d07.iph" 2 5 12>
-<name "Celes" "!AA5973">
+<name "セリス" "!AA5973">
 「は、はい」
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta04a16.iph" 4 4 11>
-<name "Soshiette" "!DA1134">
+<name "ソシエット" "!DA1134">
 「そして……こうです」
 #
 <removesprite -1 11>
@@ -72,43 +72,43 @@
 　めり込んだ。
 #
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA5974">
+<name "セリス" "!AA5974">
 「えいっ」
 #
 <removesprite -1 11>
 　セリスの弾いた小石は、セリスの足元に落ちた。
 #
 <sprite "ta01d27.iph" 4 4 11>
-<name "Celes" "!AA5975">
+<name "セリス" "!AA5975">
 「……す、すみません」
 #
 <removesprite -1 11>
 <sprite "ta01d27.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Soshiette" "!DA1135">
+<name "ソシエット" "!DA1135">
 「いえ、大丈夫です。
 　この私に掛かれば、三日でマスターさせてみせま
 　す」
 #
 <sprite "ta01d09.iph" 2 5 12>
-<name "Celes" "!AA5976">
+<name "セリス" "!AA5976">
 「本当ですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA1136">
+<name "ソシエット" "!DA1136">
 「はい。
 　マスターできなければ、その指を切り落とします
 　ので、頑張りましょう」
 #
 <sprite "ta01d10.iph" 2 5 12>
-<name "Celes" "!AA5977">
+<name "セリス" "!AA5977">
 「……え？」
 #
 <removesprite -1 11>
 　セリスは、なんとか指弾を習得した。
 #
 <sprite "ta01d37.iph" 4 4 11>
-<name "Celes" "!AA5978">
+<name "セリス" "!AA5978">
 「ソ、ソシエットさん、本気だった……」
 #
 <removesprite -1 11>
@@ -118,26 +118,26 @@
 <background "bg004a0.iph" 11>
 『指弾』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「指弾か……」
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1137">
+<name "ソシエット" "!DA1137">
 「はい。
 　セリスさんは、なかなか優秀な使い手になりまし
 　た」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだが……
 　指弾は暗器の類だろう。
 　殺し屋にする気は無いぞ」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1138">
+<name "ソシエット" "!DA1138">
 「もちろんです。
 　教えている技は、自衛と大会で勝ち上がる為です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それさえ忘れてなければ良い」
 #
 <removesprite -1 11>
@@ -150,11 +150,11 @@
 　セリスは握り拳を作り、親指の付け根を木の幹に
 　当てた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「？」
 #
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA5979">
+<name "セリス" "!AA5979">
 「はっ」
 #
 <removesprite -1 11>
@@ -177,12 +177,12 @@
 #
 　人の腹だと思うと、ゾッとする。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「連続指弾の威力は理解した。
 　指は大丈夫か？」
 #
 <sprite "ta01d15.iph" 4 4 11>
-<name "Celes" "!AA5980">
+<name "セリス" "!AA5980">
 「鍛えてますから」
 #
 <removesprite -1 11>
@@ -195,35 +195,35 @@
 <background "bg004a0.iph" 11>
 『憤激指弾』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「指弾なんてやってて、よく爪を割らないな」
 #
 <sprite "ta01d15.iph" 4 4 11>
-<name "Celes" "!AA5981">
+<name "セリス" "!AA5981">
 「あはは……最初の頃は良く割ってました。
 　でも、慣れたら大丈夫です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「慣れたらか……」
 #
 <sprite "ta01d09.iph" 4 4 12>
-<name "Celes" "!AA5982">
+<name "セリス" "!AA5982">
 「はい。
 　慣れると、コインとかでも弾けるんですよ。
 　小石とか探すのが面倒な時に便利です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……どんどん、暗殺仕様になるな」
 #
 <sprite "ta01d06.iph" 4 4 12>
-<name "Celes" "!AA5983">
+<name "セリス" "!AA5983">
 「はい？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、気にしないで修行を続けてくれ」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA5984">
+<name "セリス" "!AA5984">
 「はい！」
 #
 <removesprite -1 11>
@@ -234,7 +234,7 @@
 『手裏剣』
 #
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA5985">
+<name "セリス" "!AA5985">
 「やっ！」
 #
 <removesprite -1 11>
@@ -244,7 +244,7 @@
 　良い。
 #
 <sprite "ta01d21.iph" 4 4 11>
-<name "Celes" "!AA5986">
+<name "セリス" "!AA5986">
 「とうっ！」
 #
 <removesprite -1 11>
@@ -252,7 +252,7 @@
 　掠めたので考えを改めた。
 #
 <sprite "ta01d10.iph" 4 4 11>
-<name "Celes" "!AA5987">
+<name "セリス" "!AA5987">
 「す、すみません」
 #
 <removesprite -1 11>
@@ -277,12 +277,12 @@
 #
 　が、それは置いておいて……
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス。
 　食べ物を投げるなと言っているだろう」
 #
 <sprite "ta01d10.iph" 4 4 11>
-<name "Celes" "!AA5988">
+<name "セリス" "!AA5988">
 「す、すみません」
 #
 <removesprite -1 11>
@@ -298,28 +298,28 @@
 『乱れ手裏剣』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1139">
+<name "ソシエット" "!DA1139">
 「多数の手裏剣を多方向に同時に投げる技です」
 #
 <sprite "ta04a08.iph" 4 4 12>
-<name "Soshiette" "!DA1140">
+<name "ソシエット" "!DA1140">
 「この技は敵を倒すよりも、敵を牽制する方に良く
 　使われます」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a08.iph" 6 4 11>
-<name "Celes" "!AA5989">
+<name "セリス" "!AA5989">
 「はい」
 #
 <sprite "ta04a15.iph" 6 4 12>
-<name "Soshiette" "!DA1141">
+<name "ソシエット" "!DA1141">
 「では、そこの小さくて黒く、素早い生物に向けて
 　放ってください。
 　こちらに近づけないように」
 #
 <sprite "ta01d10.iph" 2 5 12>
-<name "Celes" "!AA5990">
+<name "セリス" "!AA5990">
 「え？
 　きゃぁぁぁぁっ！」
 #
@@ -331,29 +331,29 @@
 『大車輪手裏剣』
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA1142">
+<name "ソシエット" "!DA1142">
 「手裏剣を回転させます。
 　棒状の手裏剣はこう。
 　円状の手裏剣はこう回転させます」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1143">
+<name "ソシエット" "!DA1143">
 「これで、威力が増します」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA5991">
+<name "セリス" "!AA5991">
 「はい」
 #
 <sprite "ta04a15.iph" 6 4 12>
-<name "Soshiette" "!DA1144">
+<name "ソシエット" "!DA1144">
 「では、その手裏剣でそこの壁に居る小さくて黒く、
 　素早い生物を狙ってください。
 　こちらに近づけないように」
 #
 <sprite "ta01d10.iph" 2 5 12>
-<name "Celes" "!AA5992">
+<name "セリス" "!AA5992">
 「え？
 　きゃぁぁっ！
 　と、飛んだぁっ！」
@@ -366,48 +366,48 @@
 『弓』
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA5994">
+<name "セリス" "!AA5994">
 「弓……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうだ？」
 #
 <sprite "ta01d09.iph" 4 4 12>
-<name "Celes" "!AA5995">
+<name "セリス" "!AA5995">
 「なんとか、的には当たるようになりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おお、やるな。
 　俺はどうやっても的には当たらなかったのに……」
 #
 <sprite "ta01d08.iph" 4 4 12>
-<name "Celes" "!AA5996">
+<name "セリス" "!AA5996">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうなんだ。
 　やってみせよう」
 #
 <sprite "ta01d06.iph" 4 4 12>
-<name "Celes" "!AA5997">
+<name "セリス" "!AA5997">
 「は、はい」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「あ、そこに居ると危ないぞ」
 #
 <sprite "ta01d32.iph" 4 4 11>
-<name "Celes" "!AA5998">
+<name "セリス" "!AA5998">
 「え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺が射る場合の安全地帯は、的の前だ」
 #
 <sprite "ta01d92.iph" 4 4 12>
-<name "Celes" "!AA5999">
+<name "セリス" "!AA5999">
 「……すっごく、怖いんですけど」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大丈夫だ。
 　すぐにわかる」
 #
@@ -417,28 +417,28 @@
 　矢は見事に俺の後方に飛んでいった。
 #
 <sprite "ta01d05.iph" 4 4 11>
-<name "Celes" "!AA6000">
+<name "セリス" "!AA6000">
 「……呪いのレベルですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だろう。
 　ソシエットには、敵に捕らわれて味方を射るよう
 　に言われた時とかに有効ですね、と言われたぐら
 　いだ」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA6001">
+<name "セリス" "!AA6001">
 「その状況の時なら、役に立ちますね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう」
 #
 <sprite "ta01d42.iph" 4 4 12>
-<name "Celes" "!AA6002">
+<name "セリス" "!AA6002">
 「ですが、もう触らないでください。
 　すっごく怖いですから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お、おう」
 #
 <removesprite -1 11>
@@ -448,27 +448,27 @@
 <background "bg004a0.iph" 11>
 『弓』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「プレゼントだ」
 #
 <sprite "ta01d08.iph" 4 4 11>
-<name "Celes" "!AA6003">
+<name "セリス" "!AA6003">
 「なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「胸当てだ。
 　女性が弓を使うなら、必須だろ」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA6005">
+<name "セリス" "!AA6005">
 「ありがとうございます。
 　今の胸当ては擦れてしまってて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、自分の胸を削らないようにな」
 #
 <sprite "ta01d17.iph" 4 4 12>
-<name "Celes" "!AA6006">
+<name "セリス" "!AA6006">
 「あはは……注意します」
 #
 <removesprite -1 11>
@@ -480,17 +480,17 @@
 #
 　セリスは弓の稽古をしていた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「百発百中だな」
 #
 <sprite "ta01d20.iph" 4 4 11>
-<name "Celes" "!AA6007">
+<name "セリス" "!AA6007">
 「はい。
 　ですが、千矢放てば、一矢は外してしまいます。
 　その一矢が生死を分けると思えば、まだまだ鍛錬
 　は欠かせません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「良い心掛けだ」
 #
 <removesprite -1 11>
@@ -503,18 +503,18 @@
 　セリスが激動弓なる技を覚えた。
 #
 <sprite "ta01d08.iph" 4 4 11>
-<name "Celes" "!AA6008">
+<name "セリス" "!AA6008">
 「その技で獲物を狩ると、凄い事になるんですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな。
 　ミンチ肉ばっかりになってしまう」
 #
 <sprite "ta01d42.iph" 4 4 12>
-<name "Celes" "!AA6009">
+<name "セリス" "!AA6009">
 「不便かも」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、攻撃手段としては有効だと思う」
 #
 <removesprite -1 11>
@@ -524,20 +524,20 @@
 <background "bg004a0.iph" 11>
 『断罪弓』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「断罪弓……仰々しい名前だな」
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA6010">
+<name "セリス" "!AA6010">
 「なんでも、罪人の罪を許すかどうかを試す技だっ
 　たらしいんですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「へー。
 　でも、どうやって試すんだ？」
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "Celes" "!AA6011">
+<name "セリス" "!AA6011">
 「まずはこのリンゴを頭の上に……あれ？」
 #
 <removesprite -1 11>
@@ -550,18 +550,18 @@
 『崩壊弓』
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA6012">
+<name "セリス" "!AA6012">
 「城すらも一矢で崩壊させると伝えられる伝説の弓
 　技です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ほう……では、これを攻撃したまえ」
 #
 <removesprite -1 11>
 　俺は立ち上がり、自分の座っていた岩を指差す。
 #
 <sprite "ta01d91.iph" 4 4 11>
-<name "Celes" "!AA6013">
+<name "セリス" "!AA6013">
 「ふふふ……師匠。
 　舐めてますね」
 #
@@ -574,34 +574,34 @@
 　た。
 #
 <sprite "ta01d08.iph" 4 4 11>
-<name "Celes" "!AA6014">
+<name "セリス" "!AA6014">
 「え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「崩壊弓、破れたり！」
 #
 <sprite "ta01d10.iph" 4 4 12>
-<name "Celes" "!AA6015">
+<name "セリス" "!AA6015">
 「げ、幻覚の魔法ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うむ。
 　どんな凄い技を覚えても、当たらなければ意味が
 　無い事を教えようと思ってな」
 #
 <sprite "ta01d36.iph" 4 4 12>
-<name "Celes" "!AA6016">
+<name "セリス" "!AA6016">
 「そうですか。
 　ありがとうございます。
 　ですが、私の記憶が正しければ、先程まであの岩
 　に座っていたのでは？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「座った振りをして、中腰だったんだ。
 　辛かった……」
 #
 <sprite "ta01d42.iph" 4 4 12>
-<name "Celes" "!AA6017">
+<name "セリス" "!AA6017">
 「私を騙す為に、そこまで……」
 #
 <removesprite -1 11>

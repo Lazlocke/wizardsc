@@ -46,7 +46,7 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4813">
+<name "セリス" "!AA4813">
 「イエルちゃんの所に行ってきます」
 #
 <removesprite -1 11>
@@ -56,7 +56,7 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4814">
+<name "セリス" "!AA4814">
 「イエルちゃんの所に行きましょう」
 #
 <removesprite -1 11>
@@ -66,7 +66,7 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA4815">
+<name "セリス" "!AA4815">
 「イエルちゃんを誘ってきます」
 #
 <removesprite -1 11>
@@ -76,7 +76,7 @@
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "Elle" "!CA0488">
+<name "イエル" "!CA0488">
 「なにをして遊ぶ？」
 #
 <removesprite -1 11>
@@ -86,7 +86,7 @@
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "Elle" "!CA0489">
+<name "イエル" "!CA0489">
 「よーし、楽しんじゃおう」
 #
 <removesprite -1 11>
@@ -96,7 +96,7 @@
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a27.iph" 4 4 11>
-<name "Elle" "!CA0490">
+<name "イエル" "!CA0490">
 「べ、勉強してなくて良いのかな？」
 #
 <removesprite -1 11>
@@ -106,7 +106,7 @@
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a09.iph" 4 4 11>
-<name "Elle" "!CA0491">
+<name "イエル" "!CA0491">
 「たまには気分転換も重要よね」
 #
 <removesprite -1 11>
@@ -116,15 +116,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0440">
+<name "イエル" "!CA0440">
 「こんにちは」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう。
 　もうすぐセリスも来るから、待ってろ」
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "Elle" "!CA0441">
+<name "イエル" "!CA0441">
 「はい」
 #
 <removesprite -1 11>
@@ -145,102 +145,102 @@
 　俺は、セリスの刺激にもなるので、問題無く受け
 　入れている。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そう言えば、イエルはヴィオラの家に住んで
 　いるんだよな」
 #
 <sprite "ta02a04.iph" 4 4 11>
-<name "Elle" "!CA0442">
+<name "イエル" "!CA0442">
 「はい。
 　住み込みで勉強させて貰っています」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その前は学園の寮に住んでいたと……」
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "Elle" "!CA0443">
+<name "イエル" "!CA0443">
 「ええ、そうですけど」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「実家はどこなんだ？」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0444">
+<name "イエル" "!CA0444">
 「王都です。
 　知りません？
 　ブルータクト商会って言う、それなりに大きな店
 　をやっているんですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、そう言えばあったな……
 　へー……ある意味、お嬢様じゃないか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それがまたどうして魔法使いなんかに？」
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "Elle" "!CA0445">
+<name "イエル" "!CA0445">
 「師匠……ヴィオラ様を見たからです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヴィオラを？」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0446">
+<name "イエル" "!CA0446">
 「はい。
 　バズール王国との戦争が終わり、宮廷魔法使いに
 　任命されたヴィオラ様」
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "Elle" "!CA0449">
+<name "イエル" "!CA0449">
 「格好良かった……
 　セリスの師匠はその様子を見てないんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あ、ああ……
 　その頃は少し旅に出てたからな」
 #
 <sprite "ta02a35.iph" 4 4 12>
-<name "Elle" "!CA0450">
+<name "イエル" "!CA0450">
 「勿体無い……あの勇姿を見逃すなんて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「でも、それって数年前だよな。
 　そこから、魔法使いを目指して今の実力なんて、
 　凄いんじゃないか？」
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "Elle" "!CA0451">
+<name "イエル" "!CA0451">
 「魔法使いを本格的に目指したのはその時ですけど、
 　小さい時から宮廷魔法使いになれって勉強はさせ
 　られていたんです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「また、どうして宮廷魔法使いなんかに……」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0452">
+<name "イエル" "!CA0452">
 「ほら、商人がある程度お金を持ったりすると、名
 　誉とか地位を求めるじゃないですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、なるほどなぁ」
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "Elle" "!CA0453">
+<name "イエル" "!CA0453">
 「でも、その勉強が役立っているので、今の私的に
 　は幸運でした」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0454">
+<name "イエル" "!CA0454">
 「その基礎が無ければ、ヴィオラ様の弟子にもなれ
 　なかっただろうし」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな……っと、セリスが来たみたいだぞ」
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "Elle" "!CA0455">
+<name "イエル" "!CA0455">
 「はい。
 　それでは、失礼します」
 #
@@ -249,51 +249,51 @@
 :1217
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「むむむ……」
 #
 <sprite "ta02a30.iph" 4 4 11>
-<name "Elle" "!CA0456">
+<name "イエル" "!CA0456">
 「むう……」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a30.iph" 6 4 11>
-<name "Celes" "!AA4771">
+<name "セリス" "!AA4771">
 「あの、何をやっているんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ゲームだ」
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "Elle" "!CA0458">
+<name "イエル" "!CA0458">
 「ゲームよ」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA4772">
+<name "セリス" "!AA4772">
 「はぁ……その、どういったルールなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わからん」
 #
 <sprite "ta02a37.iph" 6 4 12>
-<name "Elle" "!CA0459">
+<name "イエル" "!CA0459">
 「分析中かな」
 #
 <sprite "ta01a32.iph" 2 5 12>
-<name "Celes" "!AA4773">
+<name "セリス" "!AA4773">
 「それで、延々と睨み合っているんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「こうやって駒を動かしておけば、なんとなくゲー
 　ムしている感じになるかなぁと」
 #
 <sprite "ta02a27.iph" 6 4 12>
-<name "Elle" "!CA0463">
+<name "イエル" "!CA0463">
 「うん」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA4774">
+<name "セリス" "!AA4774">
 「……暇なんですね」
 #
 <removesprite -1 11>
@@ -304,54 +304,54 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4775">
+<name "セリス" "!AA4775">
 「イエルちゃんには嫌いな食べ物ある？」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a06.iph" 6 4 11>
-<name "Elle" "!CA0464">
+<name "イエル" "!CA0464">
 「うーん……なんだろ？
 　昔から、好き嫌いは無かったと思うけど……」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA4776">
+<name "セリス" "!AA4776">
 「好き嫌い無し……ありえない」
 #
 <removesprite -1 11>
 <sprite "ta04a67.iph" 4 4 11>
-<name "Soshiette" "!DA0728">
+<name "ソシエット" "!DA0728">
 「そうですね。
 　ありえません」
 #
 <removesprite -1 11>
 <sprite "ta04a67.iph" 2 4 11>
 <sprite "ta02a03.iph" 6 5 11>
-<name "Elle" "!CA0465">
+<name "イエル" "!CA0465">
 「うわっ」
 #
 <sprite "ta04a66.iph" 2 4 12>
-<name "Soshiette" "!DA0729">
+<name "ソシエット" "!DA0729">
 「食材を一つ一つ試してみましょう」
 #
 <sprite "ta02a07.iph" 6 5 12>
-<name "Elle" "!CA0466">
+<name "イエル" "!CA0466">
 「え？
 　え？」
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA4777">
+<name "セリス" "!AA4777">
 「協力します」
 #
 <removesprite -1 11>
 　結果、茹でたブロッコリーが苦手と判明した。
 #
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0467">
+<name "イエル" "!CA0467">
 「で、でも、頑張れば食べれるもん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ニンジンを見るのも嫌な人達よりは優秀だ」
 #
 <removesprite -1 11>
@@ -362,28 +362,28 @@
 　……
 #
 <sprite "ta02a06.iph" 4 4 11>
-<name "Elle" "!CA0468">
+<name "イエル" "!CA0468">
 「あの、なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え？
 　あ、すまん。
 　別に睨んではいないぞ」
 #
 <sprite "ta02a01.iph" 4 4 12>
-<name "Elle" "!CA0469">
+<name "イエル" "!CA0469">
 「いえ、そうは思っていませんが……
 　じっと私を見てたので」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、いや、やっぱりセリスとは違うんだなと」
 #
 <sprite "ta02a03.iph" 4 4 12>
-<name "Elle" "!CA0470">
+<name "イエル" "!CA0470">
 「当たり前じゃないですか。
 　私とセリスは別の人間ですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その当たり前の事を再確認していた」
 #
 <removesprite -1 11>
@@ -393,11 +393,11 @@
 :1BF8
 <music 26>
 <background "bg004a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「なかなか、楽しいな」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4778">
+<name "セリス" "!AA4778">
 「はい。
 　良い馬で乗りやすいですし」
 #
@@ -406,41 +406,41 @@
 　んでいた。
 #
 <sprite "ta03a34.iph" 4 4 11>
-<name "Viola" "!BA0506">
+<name "ヴィオラ" "!BA0506">
 「二度ほど放り投げられてたけど、大丈夫なの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わはは……めっちゃ痛い」
 #
 <sprite "ta03a32.iph" 4 4 12>
-<name "Viola" "!BA0507">
+<name "ヴィオラ" "!BA0507">
 「そうよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しかし、ヴィオラはともかく、セリスもイエルも
 　なかなか乗馬がサマになっているな」
 #
 <removesprite -1 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "Elle" "!CA0471">
+<name "イエル" "!CA0471">
 「私は小さい時から乗っていましたから」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
-<name "Celes" "!AA4779">
+<name "セリス" "!AA4779">
 「私もです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「小さい時から馬に乗れる生活……
 　貧富の差を感じるなぁ」
 #
 <sprite "ta03a06.iph" 4 4 11>
-<name "Viola" "!BA0508">
+<name "ヴィオラ" "!BA0508">
 「拗ねてないで、頑張って再挑戦。
 　ある程度の地位になったら、乗馬は必須スキルよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うう……」
 #
 <removesprite -1 11>
@@ -452,24 +452,24 @@
 #
 <background "bg008a0.iph" 11>
 <sprite "ta02a27.iph" 4 4 11>
-<name "Elle" "!CA0472">
+<name "イエル" "!CA0472">
 「すみません。
 　今、ヴィオラ様。
 　仕事に追われてて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そんなにヤバイのか？」
 #
 <sprite "ta02a37.iph" 4 4 12>
-<name "Elle" "!CA0473">
+<name "イエル" "!CA0473">
 「そりゃもう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「仕方が無い。
 　諦めよう」
 #
 <sprite "ta02a27.iph" 4 4 12>
-<name "Elle" "!CA0474">
+<name "イエル" "!CA0474">
 「すみません」
 #
 <removesprite -1 11>
@@ -479,52 +479,52 @@
 :21E3
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「演劇鑑賞？」
 #
 <sprite "ta03a02.iph" 4 4 11>
-<name "Viola" "!BA0509">
+<name "ヴィオラ" "!BA0509">
 「是非にって招待されたんだけど、断わり難い相手
 　なのよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前が断わり難い相手なんか居るのか？」
 #
 <sprite "ta03a00.iph" 4 4 12>
-<name "Viola" "!BA0511">
+<name "ヴィオラ" "!BA0511">
 「ダルントン夫人」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……なるほど。
 　断わると、すっごく寂しそうな顔をする人だな」
 #
 <sprite "ta03a33.iph" 4 4 12>
-<name "Viola" "!BA0512">
+<name "ヴィオラ" "!BA0512">
 「そうよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それで、俺が巻き込まれると」
 #
 <sprite "ta03a38.iph" 4 4 12>
-<name "Viola" "!BA0513">
+<name "ヴィオラ" "!BA0513">
 「女一人じゃ劇場に入れないでしょ。
 　エスコートしなさい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「了解」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0514">
+<name "ヴィオラ" "!BA0514">
 「セリスも連れて行くわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「良いのか？」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0515">
+<name "ヴィオラ" "!BA0515">
 「ええ、ＢＯＸ席だし、イエルも行きたがってるから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった」
 #
 <removesprite -1 11>
@@ -535,34 +535,34 @@
 <music 6>
 <background "bg008a0.iph" 11>
 <sprite "ta02a06.iph" 4 4 11>
-<name "Elle" "!CA0475">
+<name "イエル" "!CA0475">
 「肝試し？」
 #
 <removesprite -1 11>
 <sprite "ta03a03.iph" 2 4 11>
 <sprite "ta02a06.iph" 6 5 11>
-<name "Viola" "!BA0516">
+<name "ヴィオラ" "!BA0516">
 「ええ、危険そうな場所に行って、自分達の胆力を
 　試すお祭らしいんだけど……」
 #
 <sprite "ta03a33.iph" 2 4 12>
-<name "Viola" "!BA0518">
+<name "ヴィオラ" "!BA0518">
 「私、いつも参加拒否されるのよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前が恐怖を感じる前に、相手に恐怖を与えるか
 　らだろう」
 #
 <sprite "ta02a03.iph" 6 5 12>
-<name "Elle" "!CA0476">
+<name "イエル" "!CA0476">
 「どういう事ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「脅かし役が、そこらに隠れているんだが……
 　怪しい所に攻撃魔法を投げ込むもんだから」
 #
 <sprite "ta02a07.iph" 6 5 12>
-<name "Elle" "!CA0477">
+<name "イエル" "!CA0477">
 「なるほど……」
 #
 <removesprite -1 11>
@@ -571,53 +571,53 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta02a06.iph" 4 4 11>
-<name "Elle" "!CA0478">
+<name "イエル" "!CA0478">
 「狩りですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、ついてくるか？」
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "Elle" "!CA0479">
+<name "イエル" "!CA0479">
 「ご一緒します。
 　でも……魔法で狩るんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺は弓が駄目だから、魔法を使うが……
 　弓を扱った事は？」
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "Elle" "!CA0480">
+<name "イエル" "!CA0480">
 「数回です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「じゃあ、練習だな」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Celes" "!AA4780">
+<name "セリス" "!AA4780">
 「私が教えてあげるね」
 #
 <sprite "ta02a04.iph" 6 4 11>
-<name "Elle" "!CA0481">
+<name "イエル" "!CA0481">
 「お願いね」
 #
 <removesprite -1 11>
 　俺達は狩りを楽しんだ。
 #
 <sprite "ta02a37.iph" 4 4 11>
-<name "Elle" "!CA0482">
+<name "イエル" "!CA0482">
 「うーむ、弓って奥が深い」
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta02a37.iph" 6 4 11>
-<name "Celes" "!AA4781">
+<name "セリス" "!AA4781">
 「でも、いきなり命中させて兎を獲ってるんだから
 　凄い」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法で狩っても、誰も褒めてくれないんだよな」
 #
 <removesprite -1 11>
@@ -626,40 +626,40 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA4782">
+<name "セリス" "!AA4782">
 「庭園を観に行くんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、庭園自慢の奥さんが居てな」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA4783">
+<name "セリス" "!AA4783">
 「ダルントン夫人ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よく知ってるな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4784">
+<name "セリス" "!AA4784">
 「ヴィオラさんやイエルちゃんも言ってましたから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか……じゃあ、ヴィオラ達も誘って行くか」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA4785">
+<name "セリス" "!AA4785">
 「はい」
 #
 <removesprite -1 11>
 　俺達は、ヴィオラ達と一緒にダルントン夫人の庭
 　園観賞を楽しんだ。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うーむ、凄いスケールの庭だったな。
 　観に来いと言う気持ちが解る」
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA4786">
+<name "セリス" "!AA4786">
 「私は、ダルントン夫人が王族だった事に驚いてい
 　るんですが……」
 #
@@ -671,36 +671,36 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0519">
+<name "ヴィオラ" "!BA0519">
 「なにやってるの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？」
 #
-<name "Celes" "!AA4787">
+<name "セリス" "!AA4787">
 「あ、ヴィオラさん」
 #
 <sprite "ta03a00.iph" 4 4 12>
-<name "Viola" "!BA0520">
+<name "ヴィオラ" "!BA0520">
 「なに、やっているの？」
 #
-<name "Celes" "!AA4788">
+<name "セリス" "!AA4788">
 「ええとですね……」
 #
 　俺とセリスは逆立ちしていた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どれだけ長く逆立ちができるか……」
 #
 <sprite "ta03a08.iph" 4 4 12>
-<name "Viola" "!BA0521">
+<name "ヴィオラ" "!BA0521">
 「暇なのね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、大事な実験中だ」
 #
 <sprite "ta03a11.iph" 4 4 12>
-<name "Viola" "!BA0522">
+<name "ヴィオラ" "!BA0522">
 「暇なのね」
 #
 　ヴィオラは、逆立ちしている俺の手の上に足を
@@ -708,38 +708,38 @@
 #
 　そして力が込められる。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はい。
 　暇です。
 　すみません。
 　だから、足をどけてください」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0523">
+<name "ヴィオラ" "!BA0523">
 「暇なら丁度良かったわ。
 　ダルントン夫人の夜会があるの」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ご一緒させて頂きます。
 　だから足をどけてくださいませんか？
 　かなり痛いんで」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0524">
+<name "ヴィオラ" "!BA0524">
 「セリスも一緒にね」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 4 11>
 <sprite "ta01a07.iph" 6 5 11>
-<name "Celes" "!AA4789">
+<name "セリス" "!AA4789">
 「は、はい」
 #
 <sprite "ta03a07.iph" 2 4 12>
-<name "Viola" "!BA0525">
+<name "ヴィオラ" "!BA0525">
 「では、出発準備を開始」
 #
 <sprite "ta01a89.iph" 6 5 12>
-<name "Celes" "!AA4790">
+<name "セリス" "!AA4790">
 「はい」
 #
 <removesprite -1 11>
@@ -748,7 +748,7 @@
 　なかなか、楽しい見世物が多かった。
 #
 <sprite "ta03a42.iph" 4 4 11>
-<name "Viola" "!BA0526">
+<name "ヴィオラ" "!BA0526">
 「はぁ……
 　愛想笑いが辛い……」
 #
@@ -758,49 +758,49 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0527">
+<name "ヴィオラ" "!BA0527">
 「お土産よ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？
 　ワイン？」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0528">
+<name "ヴィオラ" "!BA0528">
 「ええ、私の畑で出来た八年前のヤツ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「へー」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 4 11>
 <sprite "ta01a08.iph" 6 5 11>
-<name "Celes" "!AA4791">
+<name "セリス" "!AA4791">
 「ヴィオラさんて、畑を持ってるんですか？」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0529">
+<name "ヴィオラ" "!BA0529">
 「んー、名義上ね。
 　管理は別の人がやってるわ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会の仕事で色々とやっていると、土地や建物を
 　手に入れる事もあるんだ」
 #
 <sprite "ta01a07.iph" 6 5 12>
-<name "Celes" "!AA4792">
+<name "セリス" "!AA4792">
 「凄いですね」
 #
 <sprite "ta03a32.iph" 2 4 12>
-<name "Viola" "!BA0530">
+<name "ヴィオラ" "!BA0530">
 「その分、面倒な事も増えるわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それを嫌ったら、俺みたいな貧乏魔法使いが出来
 　上がるぞ」
 #
 <sprite "ta01a92.iph" 6 5 12>
-<name "Celes" "!AA4793">
+<name "セリス" "!AA4793">
 「あはは……」
 #
 <removesprite -1 11>
@@ -808,33 +808,33 @@
 :3894
 <music 2>
 <background "bg013a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「図書館で、のんびりと本でも読むか」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4794">
+<name "セリス" "!AA4794">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「イエルも誘って来い」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA4795">
+<name "セリス" "!AA4795">
 「え、良いんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「今、ヴィオラは王都に行ってるんだ。
 　イエルの面倒を頼むと言われてる」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA4796">
+<name "セリス" "!AA4796">
 「わかりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「帰りに飯でも食おう」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4797">
+<name "セリス" "!AA4797">
 「はい」
 #
 <removesprite -1 11>
@@ -843,56 +843,56 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0532">
+<name "ヴィオラ" "!BA0532">
 「カニが食べたいわね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え、あ、ああ……季節だしな」
 #
 <sprite "ta03a08.iph" 4 4 12>
-<name "Viola" "!BA0533">
+<name "ヴィオラ" "!BA0533">
 「カニを買って来て」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それは構わないが……
 　料理まで俺にさせるなら、カニ料理を作ってとお
 　願いするべきじゃないか？」
 #
 <sprite "ta03a12.iph" 4 4 12>
-<name "Viola" "!BA0534">
+<name "ヴィオラ" "!BA0534">
 「カニ料理を作って」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「努力してみよう」
 #
 <removesprite -1 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "Elle" "!CA0483">
+<name "イエル" "!CA0483">
 「買出しはお任せください」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
-<name "Celes" "!AA4798">
+<name "セリス" "!AA4798">
 「お供します」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0484">
+<name "イエル" "!CA0484">
 「カニ、好きです」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA4799">
+<name "セリス" "!AA4799">
 「カニ、とっても好きです」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0730">
+<name "ソシエット" "!DA0730">
 「カニと聞いて、やってきました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わ、わかった。
 　お前達の分も、作ってやるから」
 #
@@ -900,13 +900,13 @@
 　俺達はカニ料理を楽しんだ。
 #
 <sprite "ta03a06.iph" 4 4 11>
-<name "Viola" "!BA0535">
+<name "ヴィオラ" "!BA0535">
 「カニを食べている時って、無言になるわね」
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Soshiette" "!DA0731">
+<name "ソシエット" "!DA0731">
 「喋るよりも、カニをホジる方が優先ですから」
 #
 <removesprite -1 11>
@@ -915,50 +915,50 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "Viola" "!BA0536">
+<name "ヴィオラ" "!BA0536">
 「ラズロック。
 　ちょっと出掛けない？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？
 　どこに行くんだ？」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0537">
+<name "ヴィオラ" "!BA0537">
 「王城」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………」
 #
 <sprite "ta03a07.iph" 4 4 12>
-<name "Viola" "!BA0538">
+<name "ヴィオラ" "!BA0538">
 「もの凄く嫌そうな顔をしてるけど、協会からの命
 　令よ」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0539">
+<name "ヴィオラ" "!BA0539">
 「セリスとイエルも連れて、のんびり小旅行感覚で
 　行きましょう」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「飛んでいけば、すぐじゃないのか？」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0540">
+<name "ヴィオラ" "!BA0540">
 「貴方の大好きなのんびりでしょ。
 　ほら、出発よ」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4800">
+<name "セリス" "!AA4800">
 「準備完了です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……さ、先に丸め込まれていたか」
 #
 <removesprite -1 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "Elle" "!CA0486">
+<name "イエル" "!CA0486">
 「馬車の準備、できましたよ」
 #
 　……
@@ -967,12 +967,12 @@
 　仕方なく、俺達は王都までの小旅行を楽しんだ。
 #
 <sprite "ta01a17.iph" 4 4 11>
-<name "Celes" "!AA4801">
+<name "セリス" "!AA4801">
 「師匠。
 　嫌がってるわりには、テンションが高かったです
 　ね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「拗ねながら旅をしても仕方が無いだろう」
 #
 <removesprite -1 11>

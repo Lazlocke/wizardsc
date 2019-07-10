@@ -13,113 +13,113 @@
 :105
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA4191">
+<name "セリス" "!AA4191">
 「魔物との戦いですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、だが実際に戦うわけじゃない。
 　魔法による、頭の中でのシミュレーションだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「頭の中でやるから、時間も掛からないし、ダメー
 　ジを受けても平気だ。
 　魔力の消費だって気にしなくて良い」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA4192">
+<name "セリス" "!AA4192">
 「良い事尽くしですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だが、残念ながら経験にはならない」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA4193">
+<name "セリス" "!AA4193">
 「そうなんですか？
 　頭の中のトレーニングでも、それなりに勉強にな
 　ると思いますが？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「忘れるんだ」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA4194">
+<name "セリス" "!AA4194">
 「は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「この方法でやった事は、すぐに忘れてしまう。
 　夢みたいなものなんだ」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA4195">
+<name "セリス" "!AA4195">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ。
 　だが、やった直後は色々と覚えているからな。
 　まったくの無駄じゃない。
 　とりあえず、やってみろ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4196">
+<name "セリス" "!AA4196">
 「はい」
 #
 <removesprite -1 11>
 <exit>
 :528
 <background "bg004a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「対人戦闘の模擬戦をやるぞ」
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA4197">
+<name "セリス" "!AA4197">
 「例のヤツですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、相手は適当に出すが……
 　そんなに強くない筈だ。
 　頑張れ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA4198">
+<name "セリス" "!AA4198">
 「はい！」
 #
 <removesprite -1 11>
 <exit>
 :657
 <background "bg004a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「今回は、魔物を多めに出すぞ」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA4199">
+<name "セリス" "!AA4199">
 「多めですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、無茶な数は出さないから安心しろ」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA4200">
+<name "セリス" "!AA4200">
 「お願いします」
 #
 <removesprite -1 11>
 <exit>
 :76E
 <background "bg004a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「対戦相手の数を多くするのか？」
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA4201">
+<name "セリス" "!AA4201">
 「はい。
 　多人数を相手に、どこまでやれるか知りたいんで
 　す」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……わかった。
 　頑張るように」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA4202">
+<name "セリス" "!AA4202">
 「はい」
 #
 <removesprite -1 11>

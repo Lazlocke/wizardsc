@@ -18,22 +18,22 @@
 :175
 <background "bg009a0.iph" 11>
 <sprite "ta01c23.iph" 4 4 11>
-<name "Celes" "!AA3731">
+<name "セリス" "!AA3731">
 「ぬ……て、手強い……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「難しかったか？」
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "Celes" "!AA3732">
+<name "セリス" "!AA3732">
 「は、はい……自分の未熟を知りました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ならば良し。
 　明日に繋げるように」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3733">
+<name "セリス" "!AA3733">
 「はい」
 #
 <removesprite -1 11>
@@ -41,27 +41,27 @@
 :2D9
 <background "bg009a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3734">
+<name "セリス" "!AA3734">
 「だ、駄目だった……」
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta01c37.iph" 6 4 11>
-<name "Viola" "!BA0335">
+<name "ヴィオラ" "!BA0335">
 「傷だらけね。
 　大丈夫？」
 #
 <sprite "ta01c36.iph" 6 4 12>
-<name "Celes" "!AA3735">
+<name "セリス" "!AA3735">
 「え、あ、は、はい。
 　大丈夫です」
 #
 <sprite "ta03a06.iph" 2 5 12>
-<name "Viola" "!BA0336">
+<name "ヴィオラ" "!BA0336">
 「……無茶はしないようにね」
 #
 <sprite "ta01c15.iph" 6 4 12>
-<name "Celes" "!AA3736">
+<name "セリス" "!AA3736">
 「はい。
 　ありがとうございます」
 #
@@ -70,7 +70,7 @@
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0337">
+<name "ヴィオラ" "!BA0337">
 「……放っておいたら、怒られるわよね」
 #
 <removesprite -1 11>
@@ -78,7 +78,7 @@
 　要求してから帰った。
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "Celes" "!AA3737">
+<name "セリス" "!AA3737">
 「お手数をお掛けしました」
 #
 <removesprite -1 11>
@@ -86,17 +86,17 @@
 :605
 <background "bg009a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3738">
+<name "セリス" "!AA3738">
 「ぬう……厳しい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「みたいだな」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3739">
+<name "セリス" "!AA3739">
 「でも、頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その意気だ。
 　が、今日は帰るぞ」
 #
@@ -146,28 +146,28 @@
 :9F7
 <background "bg010a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "Celes" "!AA3740">
+<name "セリス" "!AA3740">
 「外で見ている時は、こんなに高い塔じゃなかった
 　のに……」
 #
 <removesprite -1 11>
 <sprite "ta01c37.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
-<name "Soshiette" "!DA0623">
+<name "ソシエット" "!DA0623">
 「色々と仕掛けがあります。
 　大丈夫ですか？」
 #
 <sprite "ta01c36.iph" 2 5 12>
-<name "Celes" "!AA3741">
+<name "セリス" "!AA3741">
 「は、はい……なんとか」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0622">
+<name "ソシエット" "!DA0622">
 「無理はなさらずに。
 　でも、諦め無いでください」
 #
 <sprite "ta01c42.iph" 2 5 12>
-<name "Celes" "!AA3742">
+<name "セリス" "!AA3742">
 「はい。
 　もちろんです。
 　が……今回は帰還します……」

@@ -28,49 +28,49 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d2.iph" 10>
 :139 + 1
-<name "Celes" "!AA4950">
+<name "セリス" "!AA4950">
 「っっっ！」
 #
 　セリスは、俺の挿入に苦痛の悲鳴を上げた。
 #
 　そして、痛みに耐えながら涙目で俺に訴える。
 #
-<name "Celes" "!AA4951">
+<name "セリス" "!AA4951">
 「し、師匠……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
-<name "Celes" "!AA4952">
+<name "セリス" "!AA4952">
 「い、挿れる場所が……違います……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「たまにはこっちでな」
 #
 　俺は腰を軽く振った。
 #
-<name "Celes" "!AA4953">
+<name "セリス" "!AA4953">
 「ふぁぁっ、う、動かないで……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「別に初めてじゃないだろ」
 #
 　俺はこれまで、何度もセリスの後ろの穴を使って
 　いる。
 #
-<name "Celes" "!AA4954">
+<name "セリス" "!AA4954">
 「きゅ、急には……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前の穴を見てたらつい……」
 #
-<name "Celes" "!AA4955">
+<name "セリス" "!AA4955">
 「も、もう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「動くぞ」
 #
-<name "Celes" "!AA4956">
+<name "セリス" "!AA4956">
 「あ、ま、待って……ふぁぁぁぁぁぁっ！」
 #
 　俺はセリスの後ろの穴を堪能した。
@@ -78,27 +78,27 @@
 <music 10>
 <background "bg003a0.iph" 11>
 <sprite "ta01a64.iph" 4 4 11>
-<name "Celes" "!AA4957">
+<name "セリス" "!AA4957">
 「酷いです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「かわいかったぞ」
 #
 <sprite "ta01a69.iph" 4 4 12>
-<name "Celes" "!AA4958">
+<name "セリス" "!AA4958">
 「そんな言葉じゃ、誤魔化されません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……セリス」
 #
 <removesprite -1 11>
 　俺はセリスに深いキスをした。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「また、やらせてくれ」
 #
 <sprite "ta01a75.iph" 4 4 11>
-<name "Celes" "!AA4959">
+<name "セリス" "!AA4959">
 「きゅ、急にじゃなければ……」
 #
 <removesprite -1 11>

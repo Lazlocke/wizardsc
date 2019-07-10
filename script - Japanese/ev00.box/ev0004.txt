@@ -105,7 +105,7 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta10a11.iph" 6 4 11>
-<name "Celes" "!AA0729">
+<name "セリス" "!AA0729">
 「え？
 　あ……す、すみません」
 #
@@ -115,7 +115,7 @@
 　僕は太っていないからね」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0730">
+<name "セリス" "!AA0730">
 「……え？」
 #
 <sprite "ta10a00.iph" 6 4 12>
@@ -123,7 +123,7 @@
 「少し、ふくよかなだけさ」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA0731">
+<name "セリス" "!AA0731">
 「はぁ……」
 #
 <sprite "ta10a02.iph" 6 4 12>
@@ -132,7 +132,7 @@
 　良かったら覚えておいてくれ」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0732">
+<name "セリス" "!AA0732">
 「……わ、わかりました……」
 #
 <sprite "ta10a20.iph" 6 4 12>
@@ -152,7 +152,7 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta10a00.iph" 6 4 11>
-<name "Celes" "!AA0733">
+<name "セリス" "!AA0733">
 「……は？」
 #
 <sprite "ta10a02.iph" 6 4 12>
@@ -166,38 +166,38 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01a10.iph" 4 5 11>
-<name "Celes" "!AA0757">
+<name "セリス" "!AA0757">
 「……凄いファッションの人ね」
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta02a06.iph" 6 4 11>
-<name "Elle" "!CA0123">
+<name "イエル" "!CA0123">
 「でも、腕の良い魔法使いよ」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0758">
+<name "セリス" "!AA0758">
 「そうなの？」
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "Elle" "!CA0124">
+<name "イエル" "!CA0124">
 「ええ、学園に講師に来てたから」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0759">
+<name "セリス" "!AA0759">
 「へ、へー……」
 #
 <sprite "ta02a07.iph" 6 4 12>
-<name "Elle" "!CA0125">
+<name "イエル" "!CA0125">
 「教えるよりも、男の生徒を物色していた印象が強
 　いけど」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0760">
+<name "セリス" "!AA0760">
 「あ、あはは……」
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "Elle" "!CA0126">
+<name "イエル" "!CA0126">
 「名前は……
 　プシェル＝フォックスブブ、だったかな」
 #
@@ -210,7 +210,7 @@
 <removesprite -1 11>
 <sprite "ta15a00.iph" 2 4 11>
 <sprite "ta02a37.iph" 6 4 11>
-<name "Elle" "!CA0128">
+<name "イエル" "!CA0128">
 「うわっ」
 #
 <sprite "ta15a05.iph" 2 4 12>
@@ -220,7 +220,7 @@
 #
 <removesprite 6 11>
 <sprite "ta01a27.iph" 6 5 11>
-<name "Celes" "!AA0761">
+<name "セリス" "!AA0761">
 「す、すみません」
 #
 <sprite "ta15a21.iph" 2 4 12>
@@ -230,7 +230,7 @@
 　セリスとイエルだったかしら？」
 #
 <sprite "ta01a08.iph" 6 5 12>
-<name "Celes" "!AA0762">
+<name "セリス" "!AA0762">
 「どうして？」
 #
 <sprite "ta15a00.iph" 2 4 12>
@@ -247,7 +247,7 @@
 #
 <removesprite 6 11>
 <sprite "ta02a19.iph" 6 4 11>
-<name "Elle" "!CA0129">
+<name "イエル" "!CA0129">
 「む……」
 #
 <sprite "ta15a27.iph" 2 4 12>
@@ -263,7 +263,7 @@
 #
 <removesprite 6 11>
 <sprite "ta01a36.iph" 6 5 11>
-<name "Celes" "!AA0763">
+<name "セリス" "!AA0763">
 「よ、よろしく……」
 #
 <sprite "ta15a05.iph" 2 4 12>
@@ -276,14 +276,14 @@
 　……
 #
 <sprite "ta02a37.iph" 4 4 11>
-<name "Elle" "!CA0130">
+<name "イエル" "!CA0130">
 「……
 　肌に合わない！」
 #
 <removesprite -1 11>
 <sprite "ta01a92.iph" 2 5 11>
 <sprite "ta02a37.iph" 6 4 11>
-<name "Celes" "!AA0764">
+<name "セリス" "!AA0764">
 「あはは……」
 #
 <removesprite -1 11>
@@ -298,7 +298,7 @@
 <removesprite -1 11>
 <sprite "ta15a00.iph" 2 4 11>
 <sprite "ta01a06.iph" 6 5 11>
-<name "Celes" "!AA0765">
+<name "セリス" "!AA0765">
 「え？」
 #
 <sprite "ta15a05.iph" 2 4 12>
@@ -307,7 +307,7 @@
 　挨拶が出来ない子は、ロクな大人にならないわよ」
 #
 <sprite "ta01a36.iph" 6 5 12>
-<name "Celes" "!AA0766">
+<name "セリス" "!AA0766">
 「す、すみません。
 　こんにちは」
 #
@@ -317,7 +317,7 @@
 　礼節は重んじるべきよ」
 #
 <sprite "ta01a06.iph" 6 5 12>
-<name "Celes" "!AA0767">
+<name "セリス" "!AA0767">
 「はぁ……あの」
 #
 <sprite "ta15a00.iph" 2 4 12>
@@ -326,7 +326,7 @@
 　よろしくね」
 #
 <sprite "ta01a08.iph" 6 5 12>
-<name "Celes" "!AA0768">
+<name "セリス" "!AA0768">
 「はい。
 　よろしくお願いします」
 #
@@ -335,38 +335,38 @@
 　いた。
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0769">
+<name "セリス" "!AA0769">
 「……え？
 　なんだったんだろ？」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Elle" "!CA0131">
+<name "イエル" "!CA0131">
 「強い魔法使いよ。
 　時々、学園で講義をしてるわ」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0770">
+<name "セリス" "!AA0770">
 「そうなんだ……」
 #
 <sprite "ta02a07.iph" 6 4 12>
-<name "Elle" "!CA0132">
+<name "イエル" "!CA0132">
 「あの人が女のセリスに挨拶したって事は、マーク
 　してるって事ね。
 　大変よ」
 #
 <sprite "ta01a10.iph" 2 5 12>
-<name "Celes" "!AA0771">
+<name "セリス" "!AA0771">
 「お、脅かさないで。
 　イエルちゃんは挨拶とかされたの？」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0133">
+<name "イエル" "!CA0133">
 「私は姿を見たら、逃げる事にしてるから」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA0772">
+<name "セリス" "!AA0772">
 「あはは……」
 #
 <removesprite -1 11>
@@ -383,7 +383,7 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta13a47.iph" 6 4 11>
-<name "Celes" "!AA0773">
+<name "セリス" "!AA0773">
 「は、はい。
 　……あの、どこかでお会いしましたか？」
 #
@@ -393,7 +393,7 @@
 　ですが、貴女のお噂は前々より聞いております」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0774">
+<name "セリス" "!AA0774">
 「う、噂？」
 #
 <sprite "ta13a58.iph" 6 4 12>
@@ -401,7 +401,7 @@
 「ええ、なんでも魔法使い協会が認めた才女とか」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0775">
+<name "セリス" "!AA0775">
 「才女？」
 #
 <sprite "ta13a59.iph" 6 4 12>
@@ -411,7 +411,7 @@
 　が……」
 #
 <sprite "ta01a91.iph" 2 5 12>
-<name "Celes" "!AA0776">
+<name "セリス" "!AA0776">
 「い、いえ。
 　才女です！」
 #
@@ -422,7 +422,7 @@
 　大会などで対戦できる日を楽しみにしております」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA0777">
+<name "セリス" "!AA0777">
 「わ、私も楽しみです」
 #
 <sprite "ta13a58.iph" 6 4 12>
@@ -432,7 +432,7 @@
 　ラズロック先生にもよろしくお伝えください」
 #
 <sprite "ta01a90.iph" 2 5 12>
-<name "Celes" "!AA0778">
+<name "セリス" "!AA0778">
 「は、はい。
 　伝えておきます」
 #
@@ -444,55 +444,55 @@
 　……
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0779">
+<name "セリス" "!AA0779">
 「ラズロック先生？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「昔、ルーン魔法学園で教えてた時があってな」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA0780">
+<name "セリス" "!AA0780">
 「うわぁぁっ！
 　ビックリした」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヘンドリクはその時の教え子の一人だ。
 　かなり優秀だったぞ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0781">
+<name "セリス" "!AA0781">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「卒業前にバズール王国にスカウトされたぐらいだ」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA0782">
+<name "セリス" "!AA0782">
 「す、凄いんだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なに、君の方が凄いんだろ。
 　才女なセリス君」
 #
 <sprite "ta01a79.iph" 4 4 12>
-<name "Celes" "!AA0783">
+<name "セリス" "!AA0783">
 「……き、聞いてました？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しっかりと」
 #
 <sprite "ta01a97.iph" 4 4 12>
-<name "Celes" "!AA0784">
+<name "セリス" "!AA0784">
 「あはははは……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヤツは強いぞ」
 #
 <sprite "ta01a22.iph" 4 4 12>
-<name "Celes" "!AA0785">
+<name "セリス" "!AA0785">
 「頑張って、才女である事を証明します」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……その意気だ」
 #
 <removesprite -1 11>
@@ -504,7 +504,7 @@
 <name "ヘンドリク" "!QA0016">
 「それでは、失礼します」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう、暇が出来たらまた来い」
 #
 <sprite "ta13a56.iph" 4 4 12>
@@ -515,23 +515,23 @@
 　……
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0786">
+<name "セリス" "!AA0786">
 「今の人、魔法使いですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、ルーン魔法学園の卒業生。
 　卒業前にバズール王国に目をつけられた秀才だぞ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0787">
+<name "セリス" "!AA0787">
 「す、凄い人なんだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヤツもクデュール魔法大会が目標らしいから、ラ
 　イバルだな」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA0788">
+<name "セリス" "!AA0788">
 「ま、負けません」
 #
 <removesprite -1 11>
@@ -546,7 +546,7 @@
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 4 11>
 <sprite "ta12a22.iph" 6 5 11>
-<name "Celes" "!AA0797">
+<name "セリス" "!AA0797">
 「……え」
 #
 <sprite "ta12a29.iph" 6 5 12>
@@ -554,7 +554,7 @@
 「むむ……」
 #
 <sprite "ta01a36.iph" 2 4 12>
-<name "Celes" "!AA0798">
+<name "セリス" "!AA0798">
 「あの……なにかな？」
 #
 <sprite "ta12a22.iph" 6 5 12>
@@ -562,7 +562,7 @@
 「大会とかによく顔を出すセリスだな」
 #
 <sprite "ta01a06.iph" 2 4 12>
-<name "Celes" "!AA0799">
+<name "セリス" "!AA0799">
 「え、あ、はい」
 #
 <sprite "ta12a25.iph" 6 5 12>
@@ -571,7 +571,7 @@
 　テメェには負けねぇから、覚えておけ！」
 #
 <sprite "ta01a08.iph" 2 4 12>
-<name "Celes" "!AA0800">
+<name "セリス" "!AA0800">
 「は？」
 #
 <sprite "ta12a44.iph" 6 5 12>
@@ -580,7 +580,7 @@
 　り合いと言っても過言では無い筈だ」
 #
 <sprite "ta01a06.iph" 2 4 12>
-<name "Celes" "!AA0801">
+<name "セリス" "!AA0801">
 「はぁ」
 #
 <sprite "ta12a49.iph" 6 5 12>
@@ -588,7 +588,7 @@
 「知り合いなら、助け合うのが筋だろう」
 #
 <sprite "ta01a36.iph" 2 4 12>
-<name "Celes" "!AA0802">
+<name "セリス" "!AA0802">
 「え？」
 #
 <sprite "ta12a22.iph" 6 5 12>
@@ -596,7 +596,7 @@
 「この地図の場所まで案内するように」
 #
 <sprite "ta01a92.iph" 2 4 12>
-<name "Celes" "!AA0803">
+<name "セリス" "!AA0803">
 「……ああ、迷子なら迷子と」
 #
 <sprite "ta12a30.iph" 6 5 12>
@@ -604,7 +604,7 @@
 「迷子じゃねぇ！」
 #
 <sprite "ta01a15.iph" 2 4 12>
-<name "Celes" "!AA0804">
+<name "セリス" "!AA0804">
 「じゃあ、他の人を頼ってください」
 #
 <sprite "ta12a34.iph" 6 5 12>
@@ -613,7 +613,7 @@
 　これが、大会常連者の狡猾さか……」
 #
 <sprite "ta01a07.iph" 2 4 12>
-<name "Celes" "!AA0805">
+<name "セリス" "!AA0805">
 「迷子なら、助けますが」
 #
 <sprite "ta12a40.iph" 6 5 12>
@@ -621,7 +621,7 @@
 「ま、迷子……です」
 #
 <sprite "ta01a15.iph" 2 4 12>
-<name "Celes" "!AA0806">
+<name "セリス" "!AA0806">
 「よろしい」
 #
 <removesprite -1 11>
@@ -636,30 +636,30 @@
 <removesprite -1 11>
 <sprite "ta01a09.iph" 2 4 11>
 <sprite "ta12a09.iph" 6 5 11>
-<name "Celes" "!AA0807">
+<name "セリス" "!AA0807">
 「こんにちは」
 #
 <removesprite -1 11>
 　リノは会釈して去っていった。
 #
 <sprite "ta02a06.iph" 4 4 11>
-<name "Elle" "!CA0134">
+<name "イエル" "!CA0134">
 「……知り合い？」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a06.iph" 6 4 11>
-<name "Celes" "!AA0808">
+<name "セリス" "!AA0808">
 「大会で、何度か顔を見たことがあるだけ。
 　名前はリノよ」
 #
 <sprite "ta02a01.iph" 6 4 12>
-<name "Elle" "!CA0135">
+<name "イエル" "!CA0135">
 「ふーん。
 　実力は？」
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "Celes" "!AA0809">
+<name "セリス" "!AA0809">
 「名前を覚えて損しないぐらい」
 #
 <removesprite -1 11>
@@ -674,14 +674,14 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "Celes" "!AA0810">
+<name "セリス" "!AA0810">
 「え、私？」
 #
 <name "レッキーノ" "!RA0006">
 「そうだ……貴様、強いな」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0811">
+<name "セリス" "!AA0811">
 「え？」
 #
 <name "レッキーノ" "!RA0007">
@@ -689,21 +689,21 @@
 　手合わせを願えるか」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0812">
+<name "セリス" "!AA0812">
 「あはは……街中ではちょっと」
 #
 <name "レッキーノ" "!RA0008">
 「森なら良いか？」
 #
 <sprite "ta01a42.iph" 2 5 12>
-<name "Celes" "!AA0813">
+<name "セリス" "!AA0813">
 「あ、いや、そうじゃなくて……」
 #
 <name "レッキーノ" "!RA0009">
 「山なら良いか？」
 #
 <sprite "ta01a21.iph" 2 5 12>
-<name "Celes" "!AA0814">
+<name "セリス" "!AA0814">
 「……大会で会いましょう。
 　クインズベル魔法大会。
 　もしくは、クデュール魔法大会で！」
@@ -714,45 +714,45 @@
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA0815">
+<name "セリス" "!AA0815">
 「……」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta02a09.iph" 6 4 11>
-<name "Elle" "!CA0136">
+<name "イエル" "!CA0136">
 「なに、今の？
 　ナンパ？」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0816">
+<name "セリス" "!AA0816">
 「聞き耳立てて、その結論？」
 #
 <sprite "ta02a11.iph" 6 4 12>
-<name "Elle" "!CA0137">
+<name "イエル" "!CA0137">
 「あはは……
 　面倒臭そうなのに絡まれたわね。
 　その場で捻った方が良かったんじゃない？」
 #
 <sprite "ta01a20.iph" 2 5 12>
-<name "Celes" "!AA0817">
+<name "セリス" "!AA0817">
 「でも、実力はありそうだったから」
 #
 <sprite "ta02a01.iph" 6 4 12>
-<name "Elle" "!CA0138">
+<name "イエル" "!CA0138">
 「そうなの？」
 #
 <sprite "ta01a22.iph" 2 5 12>
-<name "Celes" "!AA0818">
+<name "セリス" "!AA0818">
 「うん。
 　でも、負けないけどね」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0139">
+<name "イエル" "!CA0139">
 「セリスで勝てるんなら、私も勝てそうね」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0819">
+<name "セリス" "!AA0819">
 「……その判断の仕方は酷いと思う」
 #
 <removesprite -1 11>
@@ -767,7 +767,7 @@
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "Celes" "!AA0820">
+<name "セリス" "!AA0820">
 「あの？」
 #
 <name "レッキーノ" "!RA0012">
@@ -776,7 +776,7 @@
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0821">
+<name "セリス" "!AA0821">
 「？」
 #
 <removesprite -1 11>
@@ -793,18 +793,18 @@
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 4 5 11>
-<name "Celes" "!AA0839">
+<name "セリス" "!AA0839">
 「えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「師匠。
 　どうしたんですか？」
 #
 <sprite "ta01a08.iph" 4 5 12>
-<name "Celes" "!AA0840">
+<name "セリス" "!AA0840">
 「師匠？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、俺の師匠だ」
 #
 <removesprite -1 11>
@@ -813,13 +813,13 @@
 　顔に笑顔を張り付かせたままだ。
 #
 <sprite "ta01a27.iph" 4 5 11>
-<name "Celes" "!AA0841">
+<name "セリス" "!AA0841">
 「あの、師匠」
 #
 <removesprite -1 11>
 　俺は溜息を吐き、師匠の意図を受け取る。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ルーン＝ヴィレアトロ。
 　俺の美しい師匠だ」
 #
@@ -830,7 +830,7 @@
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta05a12.iph" 6 4 11>
-<name "Celes" "!AA0842">
+<name "セリス" "!AA0842">
 「あ、は、はい。
 　セリスです。
 　よろしくお願いします」
@@ -842,7 +842,7 @@
 　この場合、なんて言うのかな？」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0843">
+<name "セリス" "!AA0843">
 「孫弟子でしょうか……」
 #
 <sprite "ta05a13.iph" 6 4 12>
@@ -850,7 +850,7 @@
 「孫弟子。
 　ああ、甘美な響き」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「大げさな。
 　世の中に、何人の孫弟子が……あれ？
 　居なかったかな」
@@ -867,7 +867,7 @@
 　ら」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0844">
+<name "セリス" "!AA0844">
 「は、はぁ、光栄です」
 #
 <sprite "ta05a11.iph" 6 4 12>
@@ -876,7 +876,7 @@
 　るのよね」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA0845">
+<name "セリス" "!AA0845">
 「え、ええ……」
 #
 <sprite "ta05a13.iph" 6 4 12>
@@ -886,25 +886,25 @@
 　その調子で頑張るように！」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA0846">
+<name "セリス" "!AA0846">
 「は、はい」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「それで、今日はセリスに会いに来ただけですか？」
 #
 <sprite "ta05a07.iph" 4 4 11>
 <name "ルーン" "!EA0016">
 「目的の半分はそれね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「もう半分は？」
 #
 <sprite "ta05a12.iph" 4 4 12>
 <name "ルーン" "!EA0017">
 「…………逃亡」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はぁ、またですか？」
 #
 <sprite "ta05a23.iph" 4 4 12>
@@ -912,7 +912,7 @@
 「だって、仕事が多くて……
 　周りのみんなは厳しいし」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「普通はそうです。
 　まあ、迎えが来るまで居ても良いですけど、邪魔
 　はしないようにお願いします」
@@ -922,7 +922,7 @@
 「さすがラズロック♪
 　愛してるわ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「でも、この家。
 　ソシエットが見張ってるの、忘れてません？」
 #
@@ -931,7 +931,7 @@
 「大丈夫。
 　ソシエットには別の仕事を与えてるから」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「用意の良い事で……」
 #
 <removesprite -1 11>
@@ -941,15 +941,15 @@
 　していた。
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0847">
+<name "セリス" "!AA0847">
 「ソシエットさんに別の仕事って……」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA0848">
+<name "セリス" "!AA0848">
 「そう言えば、師匠の師匠って……魔法使い協会の
 　協会長だって前に聞いた覚えが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、協会長だぞ」
 #
 <removesprite -1 11>
@@ -959,19 +959,19 @@
 #
 <removesprite -1 11>
 <sprite "ta01a11.iph" 4 4 11>
-<name "Celes" "!AA0849">
+<name "セリス" "!AA0849">
 「えええええええっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「信じられないのも無理は無いだろうが、世の中で
 　はそうなっている。
 　頑張って認識するように」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA0850">
+<name "セリス" "!AA0850">
 「この人が魔法使い協会の協会長なんですか！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「残念ながら」
 #
 <removesprite -1 11>
@@ -979,12 +979,12 @@
 <name "ルーン" "!EA0022">
 「残念ってなによー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、組織運営に関しては一流だから」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA0851">
+<name "セリス" "!AA0851">
 「え、えっと……あの、協会長なら……」
 #
 <removesprite -1 11>
@@ -995,12 +995,12 @@
 #
 　だが……
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会長でも、出来る事と出来ない事がある」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA0852">
+<name "セリス" "!AA0852">
 「ぁ……」
 #
 <removesprite -1 11>
@@ -1012,17 +1012,17 @@
 　決定は変えられないの」
 #
 <sprite "ta01a29.iph" 2 5 12>
-<name "Celes" "!AA0853">
+<name "セリス" "!AA0853">
 「そう……ですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺の弟子って事で、あの条件でもかなり無理を聞
 　いて貰っているんだ」
 #
 　本来なら、却下の一言で終わりだ。
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA0854">
+<name "セリス" "!AA0854">
 「す、すみません」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -1033,7 +1033,7 @@
 　頑張ってね」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0855">
+<name "セリス" "!AA0855">
 「はい」
 #
 <sprite "ta05a13.iph" 6 4 12>
@@ -1042,7 +1042,7 @@
 　んだけど……」
 #
 <sprite "ta01a31.iph" 2 5 12>
-<name "Celes" "!AA0856">
+<name "セリス" "!AA0856">
 「迎えですね」
 #
 <sprite "ta05a22.iph" 6 4 12>
@@ -1061,7 +1061,7 @@
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta05a21.iph" 6 4 11>
-<name "Celes" "!AA0857">
+<name "セリス" "!AA0857">
 「わ、私もお会いできて良かったです」
 #
 <sprite "ta05a07.iph" 6 4 12>
@@ -1069,7 +1069,7 @@
 「じゃあ、またね」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA0858">
+<name "セリス" "!AA0858">
 「はい」
 #
 <removesprite -1 11>
@@ -1077,51 +1077,51 @@
 　ら協会本部に戻っていった。
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA0859">
+<name "セリス" "!AA0859">
 「なんだか、すごい人ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あんまり騙されるなよ」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0860">
+<name "セリス" "!AA0860">
 「は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「貧弱だった協会組織を今の規模にまで一人でした
 　人だ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「さっきも言ったが、組織運営に関しては一流。
 　そこらの王族よりも才能がある」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「つまり、切るべき所は切れる人だ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会長と知り合えたからと言って、お前の実家の
 　問題になんら変化は無い」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA0861">
+<name "セリス" "!AA0861">
 「……は、はい。
 　わかっています」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だが、約束した事は守る人でもある。
 　クデュール魔法大会で優勝すれば、誰が何を言お
 　うと、そしてどんな手を使ってでも、お前の希望
 　を叶えるだろう」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA0862">
+<name "セリス" "!AA0862">
 「……はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「では、頑張って今日の勉強を始めよう」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA0863">
+<name "セリス" "!AA0863">
 「はい。
 　頑張ります」
 #
@@ -1137,22 +1137,22 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
-<name "Celes" "!AA0864">
+<name "セリス" "!AA0864">
 「えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺の師匠だ」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0865">
+<name "セリス" "!AA0865">
 「え……
 　あ、じゃあ、魔法使い協会の協会長ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうなる」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA0866">
+<name "セリス" "!AA0866">
 「は、はじめまして」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -1162,7 +1162,7 @@
 　しての気分じゃないけどね」
 #
 <sprite "ta01a09.iph" 2 5 12>
-<name "Celes" "!AA0867">
+<name "セリス" "!AA0867">
 「そ、そうですか……
 　私も協会長のお話は色々と……」
 #
@@ -1171,7 +1171,7 @@
 「良い話？」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0868">
+<name "セリス" "!AA0868">
 「え、ええ、まあ、主に……」
 #
 <sprite "ta05a16.iph" 6 4 12>
@@ -1179,27 +1179,27 @@
 「悪い話は……ラズロックからね」
 #
 <sprite "ta01a32.iph" 2 5 12>
-<name "Celes" "!AA0869">
+<name "セリス" "!AA0869">
 「は、はい」
 #
 <sprite "ta05a15.iph" 6 4 12>
 <name "ルーン" "!EA0035">
 「ラズ、後で協会本部に出頭するように」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「前向きに善処します」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA0870">
+<name "セリス" "!AA0870">
 「ああ、師匠。
 　すみません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気にするな。
 　師匠相手に、ペースを握れるとは思ってないから」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA0871">
+<name "セリス" "!AA0871">
 「は、はぁ」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -1215,23 +1215,23 @@
 #
 <removesprite -1 11>
 <sprite "ta03a31.iph" 4 4 11>
-<name "Viola" "!BA0180">
+<name "ヴィオラ" "!BA0180">
 「お久しぶりです」
 #
 <removesprite -1 11>
 <sprite "ta03a31.iph" 2 5 11>
 <sprite "ta02a27.iph" 6 4 11>
-<name "Elle" "!CA0145">
+<name "イエル" "!CA0145">
 「こ、こんにちは」
 #
 <sprite "ta03a35.iph" 2 5 12>
-<name "Viola" "!BA0181">
+<name "ヴィオラ" "!BA0181">
 「師匠。
 　師匠のお願いならちゃんと聞きますから、手紙に
 　脅迫めいた事を書くのはやめてください」
 #
 <sprite "ta02a35.iph" 6 4 12>
-<name "Elle" "!CA0146">
+<name "イエル" "!CA0146">
 「あ、あの方が魔法使い協会の協会長……
 　ヴィオラ様の師匠……」
 #
@@ -1242,7 +1242,7 @@
 #
 <removesprite -1 11>
 <sprite "ta01a09.iph" 4 5 11>
-<name "Celes" "!AA0872">
+<name "セリス" "!AA0872">
 「は、はい」
 #
 <removesprite -1 11>
@@ -1250,21 +1250,21 @@
 　とセリスの顔見せは終った。
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA0873">
+<name "セリス" "!AA0873">
 「うう……緊張した」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta02a27.iph" 6 4 11>
-<name "Elle" "!CA0147">
+<name "イエル" "!CA0147">
 「私も……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まさかあんな格好で歌わされるとは……」
 #
 <removesprite -1 11>
 <sprite "ta03a38.iph" 4 4 11>
-<name "Viola" "!BA0182">
+<name "ヴィオラ" "!BA0182">
 「今日見た事は、全て忘れるように」
 #
 <removesprite -1 11>
@@ -1282,7 +1282,7 @@
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
-<name "Celes" "!AA0874">
+<name "セリス" "!AA0874">
 「こ、こんにちは」
 #
 <sprite "ta05a12.iph" 6 4 12>
@@ -1295,24 +1295,24 @@
 　俺の師匠は、そう言って颯爽と去っていった。
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0875">
+<name "セリス" "!AA0875">
 「え……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あー……
 　今のが俺の師匠で、魔法使い協会の協会長だ。
 　残念ながら」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0876">
+<name "セリス" "!AA0876">
 「えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、出来るなら記憶の片隅にでも留めておいて
 　くれ」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA0877">
+<name "セリス" "!AA0877">
 「は、はい……覚えました」
 #
 <removesprite -1 11>

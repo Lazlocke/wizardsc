@@ -11,19 +11,19 @@
 <music 23>
 <background "bg011a0.iph" 11>
 <sprite "ta01c06.iph" 4 4 11>
-<name "Celes" "!AA2952">
+<name "セリス" "!AA2952">
 「か、勝った……」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA2953">
+<name "セリス" "!AA2953">
 「私が……優勝……」
 #
 <sprite "ta01c09.iph" 4 4 12>
-<name "Celes" "!AA2954">
+<name "セリス" "!AA2954">
 「優勝した……」
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "Celes" "!AA2955">
+<name "セリス" "!AA2955">
 「やったぁぁぁぁぁぁぁぁぁぁ！」
 #
 <removesprite -1 11>
@@ -41,15 +41,15 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA2956">
+<name "セリス" "!AA2956">
 「ま、負けた……」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA2957">
+<name "セリス" "!AA2957">
 「あと、少しだったのに……」
 #
 <sprite "ta01c31.iph" 4 4 12>
-<name "Celes" "!AA2958">
+<name "セリス" "!AA2958">
 「あと……少しだったのに……」
 #
 <removesprite -1 11>
@@ -65,22 +65,22 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "Celes" "!AA2959">
+<name "セリス" "!AA2959">
 「くっ……せっかく、ここまで来たのに……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「残念だったな」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA2960">
+<name "セリス" "!AA2960">
 「師匠……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「結果は残念だったが、胸を張れ。
 　お前は強い」
 #
 <sprite "ta01c31.iph" 4 4 12>
-<name "Celes" "!AA2961">
+<name "セリス" "!AA2961">
 「……はい」
 #
 <removesprite -1 11>
@@ -96,44 +96,44 @@
 　そして、その夜。
 #
 <background "bg002b0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「……俺の勝ちだな」
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0988">
+<name "ヴィオラ" "!BA0988">
 「ええ。
 　約束は約束、なんでも言って頂戴」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな……」
 #
 <removesprite -1 11>
 　俺はヴィオラを傍に呼び寄せる。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「もう一歩前へ」
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0989">
+<name "ヴィオラ" "!BA0989">
 「こう？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 　目の前にヴィオラの顔がある。
 #
 　その目を見て、俺は覚悟を決める。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺の子供、産んでくれないか？」
 #
-<name "Viola" "!BA0990">
+<name "ヴィオラ" "!BA0990">
 「……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………駄目か？」
 #
-<name "Viola" "!BA0991">
+<name "ヴィオラ" "!BA0991">
 「…………………………駄目なわけないじゃない」
 #
 <removesprite -1 11>
@@ -146,93 +146,93 @@
 #
 <background "bg008b0.iph" 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0992">
+<name "ヴィオラ" "!BA0992">
 「私の勝ちね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「容赦の無い事で……
 　セリスを慰めるの、大変だったんだぞ」
 #
-<name "Viola" "!BA0993">
+<name "ヴィオラ" "!BA0993">
 「ごめんなさい。
 　それでだけど……約束、覚えてるわよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかってる。
 　言う事を聞くんだよな。
 　なんだ？
 　あんまり、難しいのは止めてくれよ」
 #
-<name "Viola" "!BA0994">
+<name "ヴィオラ" "!BA0994">
 「難しくないわ。
 　もう少し、こっちに来て」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？」
 #
-<name "Viola" "!BA0995">
+<name "ヴィオラ" "!BA0995">
 「……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……どうしたんだ？」
 #
-<name "Viola" "!BA0996">
+<name "ヴィオラ" "!BA0996">
 「な、なんだか恥ずかしいわね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前が近づけって言ったんだろ」
 #
-<name "Viola" "!BA0997">
+<name "ヴィオラ" "!BA0997">
 「ごめんなさい」
 #
 <removesprite -1 11>
 　ヴィオラは咳払いして、俺を見詰める。
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA0998">
+<name "ヴィオラ" "!BA0998">
 「……私をもう一度、好きになって」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え……」
 #
-<name "Viola" "!BA0999">
+<name "ヴィオラ" "!BA0999">
 「む、昔の事は謝るから。
 　その、私が恋とか、そう言うのをよく知らなかっ
 　たから、貴方を傷付ける事を言ってしまって……」
 #
-<name "Viola" "!BA1000">
+<name "ヴィオラ" "!BA1000">
 「その、結構、後悔してるの。
 　だから、その、えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「悪いが無理だ」
 #
-<name "Viola" "!BA1001">
+<name "ヴィオラ" "!BA1001">
 「………………………………」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「もう一度、好きになれって言われてもな……」
 #
-<name "Viola" "!BA1002">
+<name "ヴィオラ" "!BA1002">
 「そ、そうよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「好きな相手を、もう一度好きにはなる事は出来な
 　いと思うな」
 #
-<name "Viola" "!BA1003">
+<name "ヴィオラ" "!BA1003">
 「…………」
 #
 　俺はヴィオラを抱き締めた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺はそのなんだ……
 　結構、諦めが悪いんだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だから、別の内容にしろ」
 #
-<name "Viola" "!BA1004">
+<name "ヴィオラ" "!BA1004">
 「……………………うん」
 #
 <removesprite -1 11>

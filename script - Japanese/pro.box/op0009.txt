@@ -2,72 +2,69 @@
 :1B
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
-"..."
+<name "ラズロック">
+「…………」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0091">
-"Master? Is something the matter?"
+<name "セリス" "!AA0091">
+「師匠、どうかしました？」
 #
-<name "Lazlocke">
-"No, it's nothing.
- Keep practicing as usual."
+<name "ラズロック">
+「いや……なんでもない。
+　セリスはいつも通りに訓練をするように」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA0092">
-"Okay.
- Um, could I ask a favor?"
+<name "セリス" "!AA0092">
+「はい。
+　あの、お願いがあるんですが……」
 #
-<name "Lazlocke">
-"What is it?"
+<name "ラズロック">
+「なんだ？」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA0093">
-"Could you call it training instead of
- practicing?
- I feel like it'll help me feel like I'm
- getting stronger."
+<name "セリス" "!AA0093">
+「訓練ではなく、修行と言いませんか？
+　そっちの方が強くなれる気がするので……」
 #
-<name "Lazlocke">
-"...If I feel like it."
+<name "ラズロック">
+「…………気が向いた時にな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA0094">
-"Okay."
+<name "セリス" "!AA0094">
+「はい」
 #
 <removesprite -1 11>
-She changes into her exercise clothes and goes
-out into the yard.
+　セリスは運動服に着替えて、裏庭に出た。
 #
-...
+　……
 #
-Almost...
+　そろそろか……
 #
-No, not yet.
+　いや、まだ……
 #
-I'm still okay.
+　まだ大丈夫だ。
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0039">
-"Your Grace."
+<name "ソシエット" "!DA0039">
+「ご主人様」
 #
-<name "Lazlocke">
-"What?"
+<name "ラズロック">
+「……なんだ？」
 #
-She appears out of nowhere.
+　いつの間にか、ソシエットが立っていた。
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "Soshiette" "!DA0040">
-"The Guild is on your side.
- We can have one prepared as soon as you ask."
+<name "ソシエット" "!DA0040">
+「協会は、ご主人様の味方です。
+　ご命令さえ頂ければ、すぐにご用意致します」
 #
-<name "Lazlocke">
-"There's no need for that."
+<name "ラズロック">
+「必要無い」
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "Soshiette" "!DA0041">
-"Understood.
- Excuse my interruption."
+<name "ソシエット" "!DA0041">
+「承知しました。
+　では、失礼致します」
 #
 <removesprite -1 11>
 \x2B
@@ -77,201 +74,206 @@ She appears out of nowhere.
 <music 13>
 <background "bg001b0.iph" 11>
 <background "bg002b0.iph" 11>
-Celes is asleep in her room.
+　セリスは部屋で寝ている。
 #
-...
+　……
 #
-I can't take it.
+　駄目だ。
 #
-My dick is hard.
+　俺の股間で、モノが膨張している。
 #
-I need a woman.
+　女を求めている。
 #
-...
+　……
 #
-Should I assault her in her sleep?
+　寝ているセリスを襲うか。
 #
-No.
+　駄目だ。
 #
-I leave to get away from her.
+　俺はセリスから逃れるように離れる。
 #
-But someone's standing in front of me.
+　と、そこに人影があった。
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0044">
-"Your Grace."
+<name "ソシエット" "!DA0044">
+「ご主人様」
 #
-Soshiette...
+　ソシエット……
 #
-I pull her into my arms.
+　俺はソシエットを抱き締めた。
 #
-She doesn't resist and embraces me.
+　ソシエットは抵抗せず、そのまま抱き締め返して
+　きた。
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "Soshiette" "!DA0045">
-"Don't rush. We'll wake Miss Celes if we do it
- here. Come to the bed."
+<name "ソシエット" "!DA0045">
+「慌てずに……
+　ここではセリスさんを起こしてしまいます。
+　ベッドの方へ……」
 #
 <removesprite -1 11>
 <music 40>
 <background "ev004a0.iph" 10>
-I've been with her for hours now.
+　ソシエットにベッドに連れて行かれ、数時間。
 #
-The sun's long since gone down, but my dick
-remains deep inside her.
+　すでに日は落ちたが、ソシエットは俺のモノを膣
+　内に収めて離さない。
 #
 <background "ev004a1.iph" 10>
-<name "Soshiette" "!DA0046">
-"Mm...mm...mm..."
+<name "ソシエット" "!DA0046">
+「……ん……んん……んぁ……」
 #
-The way she winds her hips is fascinating and
-exquisite.
+　ソシエットの腰の動きは変幻自在で、絶妙だ。
 #
-Just as I get used to her writhing, she 
-suddenly starts bouncing up and down.
+　グイングインと腰を捏ねるように動かしたかと思
+　うと、急に跳ねて上下運動。
 #
-It's constant stimulation all over that keeps
-me rock hard.
+　俺のモノを痛めない程度に刺激しながら、萎えさ
+　せない。
 #
-She's been able to make me come three times
-already.
+　それによって、俺は三回以上の射精を強要させら
+　れた。
 #
-It feels like I'm being wrung out.
+　搾り取られている感じだ。
 #
-<name "Soshiette" "!DA0047">
-"Ah...mm...ahhh...mmm..."
+<name "ソシエット" "!DA0047">
+「ぁ……ん、ふぁ……んん」
 #
-But I don't fight her.
+　だが、俺はソシエットの行為に抵抗したりはしな
+　い。
 #
-I give myself to what she's doing and bask in
-pleasure.
+　逆にその行為に身を委ね、欲望を消化していく。
 #
-<name "Soshiette" "!DA0048">
-"Ah...mm...aah...mmmmm..."
+<name "ソシエット" "!DA0048">
+「ぁん、ん……んぁ、んんん」
 #
-She brings me to the brink and I start to come
-again.
+　ソシエットの動きにより、俺は出ると思った瞬間、
+　射精を開始していた。
 #
-<name "Soshiette" "!DA0049">
-"Mm...mmm...♪"
+<name "ソシエット" "!DA0049">
+「んん……ん♪」
 #
 <background "ev004a2.iph" 10>
-Spurt... Spurt... Spurt...
+　ドクンッドクンッドクンッドクンッ……
 #
-A long, but steady orgasm.
+　ゆっくりとだが、確実な射精。
 #
-I keep pouring myself deep into her.
+　ソシエットの膣奥にぶつけるように吐き出し続け
+　た。
 #
-<name "Soshiette" "!DA0050">
-"Mm...ah...mm...♪"
+<name "ソシエット" "!DA0050">
+「ん……あ、ん♪」
 #
-As I finish, her walls squeeze around me like
-she's trying to milk the rest out.
+　俺の射精が終ると、ソシエットは残りも出せとば
+　かりに膣壁を締め付け、俺のモノを搾る。
 #
-<name "Soshiette" "!DA0051">
-"Mm... 
- Are you just about finished?"
+<name "ソシエット" "!DA0051">
+「ん……そろそろ、終わりですか？」
 #
-My dick's still hard, but not as much as before.
+　俺のモノはまだ大きいが、少し力がなくなってき
+　ている。
 #
-And I don't know how much more my body can
-take.
+　それに俺の体力も限界近い。
 #
-<name "Lazlocke">
-"Sorry."
+<name "ラズロック">
+「……悪かったな」
 #
-<name "Soshiette" "!DA0052">
-"Pay it no mind.
- This is what I'm with you for."
+<name "ソシエット" "!DA0052">
+「お気になさらずに。
+　こういった事態の為にも、私はご主人様の傍に居
+　るのです」
 #
-<name "Lazlocke">
-"I guess..."
+<name "ラズロック">
+「そうか」
 #
-<name "Soshiette" "!DA0053">
-"Is Miss Celes not enough?"
+<name "ソシエット" "!DA0053">
+「セリスさんでは、不十分でしたか？」
 #
-<name "Lazlocke">
-"She's not ready yet."
+<name "ラズロック">
+「……慣れていないだけだ」
 #
-<name "Soshiette" "!DA0054">
-"If you need an outlet for mana, you need only
- ask and the Guild will have one prepared."
+<name "ソシエット" "!DA0054">
+「……魔力の捌け口がご要望でしたら、協会にお申
+　し出くださればご用意いたします」
 #
-<name "Lazlocke">
-"..."
+<name "ラズロック">
+「……」
 #
-<name "Soshiette" "!DA0055">
-"An apprentice, a slave, whatever you desire.
- The Guild will do whatever it can to find you
- any manner of woman you want."
+<name "ソシエット" "!DA0055">
+「弟子でも、奴隷でも、ご主人様さえ望めば良いの
+　です。
+　例えそれがどのような女性でも、協会が総力を持っ
+　てご用意いたします」
 #
-<name "Lazlocke">
-"Provided I ask, huh?"
+<name "ラズロック">
+「俺が望みさえすれば……か」
 #
-<name "Soshiette" "!DA0056">
-"Yes."
+<name "ソシエット" "!DA0056">
+「はい」
 #
-<name "Lazlocke">
-"I hate that."
+<name "ラズロック">
+「それが気に入らない」
 #
-<name "Soshiette" "!DA0057">
-"..."
+<name "ソシエット" "!DA0057">
+「……」
 #
-<name "Lazlocke">
-"...I know. Don't be mad.
- I just need to buck at the reins a little."
+<name "ラズロック">
+「……わかっている。
+　怒るな。
+　少し、協会に対して反抗したかった……」
 #
-<name "Lazlocke">
-"No, that's not it. I just wanted someone who
- had nothing to do with the Guild, I think."
+<name "ラズロック">
+「違うな。
+　協会の息の掛からない相手が欲しかっただけ……
+　かな」
 #
-<name "Soshiette" "!DA0058">
-"Please don't find a second person."
+<name "ソシエット" "!DA0058">
+「二人目は無いようにお願いします」
 #
-<name "Lazlocke">
-"Yeah, don't worry.
- I won't upset the head of the Guild any more
- than I already have."
+<name "ラズロック">
+「ああ……
+　これ以上、協会長を怒らせたりはしない。
+　安心しろ」
 #
-<name "Soshiette" "!DA0059">
-"Thank you."
+<name "ソシエット" "!DA0059">
+「お願いします」
 #
-<name "Lazlocke">
-"Anyway, one more time.
- This time in the ass."
+<name "ラズロック">
+「それより、もう一度だ。
+　次は後ろの穴で頼む」
 #
-<name "Soshiette" "!DA0060">
-"All right, as you wish."
+<name "ソシエット" "!DA0060">
+「はい。
+　承知しました」
 #
-<name "Lazlocke">
-"It'd be nice if you were a little more
- bashful."
+<name "ラズロック">
+「……もう少し、恥らってくれた方が嬉しいな」
 #
-<name "Soshiette" "!DA0061">
-"I've already given all of myself to you.
- There's nothing left to be ashamed of."
+<name "ソシエット" "!DA0061">
+「私の身体は、すでにご主人様に全てを捧げており
+　ます。
+　いまさら恥じ入るような事はありません」
 #
-<name "Lazlocke">
-"..."
+<name "ラズロック">
+「……」
 #
-<name "Soshiette" "!DA0062">
-"Since you look displeased, let me rephrase.
- You took me against my will.
- Perhaps it's more accurate to say that you
- stole it from me?"
+<name "ソシエット" "!DA0062">
+「不満そうな顔ですので、訂正いたします。
+　無理矢理、捧げさせられました。
+　奪われたと言った方がよろしいですか？」
 #
-<name "Lazlocke">
-"Sorry."
+<name "ラズロック">
+「……悪かった」
 #
-<name "Soshiette" "!DA0063">
-"Well, then...♪"
+<name "ソシエット" "!DA0063">
+「では♪」
 #
 <background "ev004a3.iph" 10>
-She moves my dick into her ass like I asked and
-begins moving her hips again.
+　ソシエットは、俺の指示通りに後ろの穴で俺のモ
+　ノを咥え込み、腰を動かし始めた。
 #
-I admire her practiced movements and give 
-myself to her.
+　その慣れた動きに感心しながら、俺はソシエット
+　に身を委ねた。
 #
 \x0A\x44\x00\x65\x84\x01\x2E\x22\x00\x01 -3000  -1000 \x0B\x02\x00\x0B\x02\x00\x0B\x22\x00\x01
 <exit>

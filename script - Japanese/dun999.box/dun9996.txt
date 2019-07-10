@@ -15,33 +15,33 @@
 :BF
 \x78
 :C0
-<name "Celes" "!AA3844">
+<name "セリス" "!AA3844">
 「は、話にならなかった……
 　修行が足りない」
 #
 <exit>
 :106
-<name "Celes" "!AA3845">
+<name "セリス" "!AA3845">
 「て、手加減して欲しいなぁ……」
 #
 <exit>
 :13D
-<name "Celes" "!AA3846">
+<name "セリス" "!AA3846">
 「やられたぁ……悔しい」
 #
 <exit>
 :16C
-<name "Celes" "!AA3848">
+<name "セリス" "!AA3848">
 「これでも駄目なの……」
 #
 <exit>
 :19B
-<name "Celes" "!AA3849">
+<name "セリス" "!AA3849">
 「どこまで高いの……この塔」
 #
 <exit>
 :1CE
-<name "Celes" "!AA3850">
+<name "セリス" "!AA3850">
 「むう……惜しいと言いたい」
 #
 <exit>

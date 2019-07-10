@@ -7,10 +7,10 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3217">
+<name "セリス" "!AA3217">
 「認定の塔に挑戦すれば、良いんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　魔法使いのランクを一気に上げられるぞ」
 #
@@ -18,18 +18,18 @@
 　が与えられる。
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3218">
+<name "セリス" "!AA3218">
 「わかりました！
 　頑張ります！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一応、協会が管理している塔だから死にはしない
 　と思うが……
 　大怪我はありえる。
 　注意するように」
 #
 <sprite "ta01c90.iph" 4 4 12>
-<name "Celes" "!AA3219">
+<name "セリス" "!AA3219">
 「はい！」
 #
 <removesprite -1 11>
@@ -58,7 +58,7 @@
 <removesprite -1 11>
 <sprite "ta01c20.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "Celes" "!AA3220">
+<name "セリス" "!AA3220">
 「……いえ、挑戦します」
 #
 <name "協会長秘書" "!GA0106">
@@ -70,7 +70,7 @@
 　頑張ってください」
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "Celes" "!AA3221">
+<name "セリス" "!AA3221">
 「はい！」
 #
 <removesprite -1 11>
@@ -80,7 +80,7 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3222">
+<name "セリス" "!AA3222">
 「認定の塔に行ってきます」
 #
 <removesprite -1 11>
@@ -90,7 +90,7 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA3223">
+<name "セリス" "!AA3223">
 「頑張ってランクアップを目指します」
 #
 <removesprite -1 11>
@@ -100,7 +100,7 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA3224">
+<name "セリス" "!AA3224">
 「認定の塔に挑戦します」
 #
 <removesprite -1 11>

@@ -2,7 +2,7 @@
 <background "bg009a0.iph" 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0952">
+<name "ソシエット" "!DA0952">
 「ようこそ、ご主人様。
 　依頼のお引き受け、ありがとうございます」
 #
@@ -19,37 +19,37 @@
 　これまで、何度か逃げてるしな。
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0953">
+<name "ソシエット" "!DA0953">
 「さっそくですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかっている。
 　相手は？」
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "Soshiette" "!DA0954">
+<name "ソシエット" "!DA0954">
 「クレリア＝ノルザック。
 　ルーン魔法学園の生徒です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「聞いた名だな」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0955">
+<name "ソシエット" "!DA0955">
 「学園代表生徒です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、それでか」
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "Soshiette" "!DA0956">
+<name "ソシエット" "!DA0956">
 「いつもの場所で、準備を終えております」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0957">
+<name "ソシエット" "!DA0957">
 「では、よろしくお願いします」
 #
 <removesprite -1 11>

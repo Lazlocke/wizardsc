@@ -8,40 +8,40 @@
 :6D
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3661">
+<name "セリス" "!AA3661">
 「神魔の塔に行ってきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「危ない場所だぞ。
 　覚悟していけ」
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3662">
+<name "セリス" "!AA3662">
 「はい」
 #
 <removesprite -1 11>
 <exit>
 :152
 <background "bg001a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「……出掛けるか」
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3663">
+<name "セリス" "!AA3663">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「神魔の塔を登るのは険しいぞ」
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "Celes" "!AA3664">
+<name "セリス" "!AA3664">
 「険しいからこそ、挑むのです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……頑張ってこい」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3665">
+<name "セリス" "!AA3665">
 「はい！」
 #
 <removesprite -1 11>
@@ -49,14 +49,14 @@
 :2BE
 <background "bg001a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "Celes" "!AA3666">
+<name "セリス" "!AA3666">
 「いってきまーす」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「おう、いってらっしゃい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ん？
 　神魔の塔に行くんだよな……」
 #

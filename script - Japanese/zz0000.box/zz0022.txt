@@ -1,32 +1,32 @@
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「今晩は鍋でもするか」
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA7206">
+<name "セリス" "!AA7206">
 「いいですね。
 　賛成です」
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta02a10.iph" 6 4 11>
-<name "Elle" "!CA1220">
+<name "イエル" "!CA1220">
 「鍋でしたら、闇鍋なんてどうですか？」
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 4 4 11>
-<name "Viola" "!BA1320">
+<name "ヴィオラ" "!BA1320">
 「闇鍋……面白そうね」
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Soshiette" "!DA1490">
+<name "ソシエット" "!DA1490">
 「では、各自、材料を持ち寄ってご主人様の家に集
 　合と」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった。
 　準備しておこう」
 #
@@ -37,29 +37,29 @@
 　闇鍋は始まった。
 #
 <background "bg002b0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「むう、トウフだった。
 　もぐもぐ美味しい」
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA7207">
+<name "セリス" "!AA7207">
 「私は……お餅です」
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "Elle" "!CA1221">
+<name "イエル" "!CA1221">
 「あー、誰よ。
 　アスパラガスなんて……」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "Viola" "!BA1321">
+<name "ヴィオラ" "!BA1321">
 「ジャガイモは……良いサイズね。
 　食べやすいわ」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA1491">
+<name "ソシエット" "!DA1491">
 「シイタケも美味しいですね」
 #
 <removesprite -1 11>
@@ -69,12 +69,12 @@
 <name "ジャッジマン" "!FA0350">
 「この、馬鹿者がぁぁぁぁぁぁぁっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「な、なんだ？」
 #
 <removesprite -1 11>
 <sprite "ta01a37.iph" 4 4 11>
-<name "Celes" "!AA7208">
+<name "セリス" "!AA7208">
 「ジャッジマン？」
 #
 <removesprite -1 11>
@@ -90,7 +90,7 @@
 #
 <removesprite -1 11>
 <sprite "ta02a06.iph" 4 4 11>
-<name "Elle" "!CA1222">
+<name "イエル" "!CA1222">
 「リ、リアクションって言われても……
 　この鍋にはそんな変わった食材なんか入れてない
 　し……」
@@ -103,14 +103,14 @@
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 4 4 11>
-<name "Viola" "!BA1322">
+<name "ヴィオラ" "!BA1322">
 「自分で掴む事を考えたら、危険な物を入れるワケ
 　ないじゃない」
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 2 5 11>
 <sprite "ta04a26.iph" 6 4 11>
-<name "Soshiette" "!DA1492">
+<name "ソシエット" "!DA1492">
 「第一、芸人じゃないんですから、リアクションと
 　言われても……」
 #
@@ -126,7 +126,7 @@
 #
 <removesprite -1 11>
 <sprite "ta01a37.iph" 4 4 11>
-<name "Celes" "!AA7209">
+<name "セリス" "!AA7209">
 「え？」
 #
 <removesprite -1 11>
@@ -136,7 +136,7 @@
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "Elle" "!CA1223">
+<name "イエル" "!CA1223">
 「えええっ！」
 #
 <removesprite -1 11>
@@ -146,7 +146,7 @@
 　闇鍋は始まった。
 #
 <background "bg002b0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「うわっ、本当に戻った」
 #
 <sprite "ta07a10.iph" 4 4 11>
@@ -155,152 +155,152 @@
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA1493">
+<name "ソシエット" "!DA1493">
 「何か期待されているようですが……
 　では、いきます！」
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "Soshiette" "!DA1494">
+<name "ソシエット" "!DA1494">
 「……ヘビ？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「初っ端からハードだな」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA1495">
+<name "ソシエット" "!DA1495">
 「もぐもぐ……それなりです」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 2 4 11>
 <sprite "ta02a07.iph" 6 5 11>
-<name "Elle" "!CA1224">
+<name "イエル" "!CA1224">
 「躊躇無く食べた！」
 #
 <sprite "ta04a11.iph" 2 4 12>
-<name "Soshiette" "!DA1496">
+<name "ソシエット" "!DA1496">
 「まあ、サバイバルとかではヘビは貴重な食材です
 　から」
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "Viola" "!BA1323">
+<name "ヴィオラ" "!BA1323">
 「むう……次は私だけど、ヘビが煮えていた鍋に箸
 　を伸ばすのは気が引けるけど……えいっ」
 #
 <sprite "ta03a03.iph" 4 4 12>
-<name "Viola" "!BA1324">
+<name "ヴィオラ" "!BA1324">
 「これは……イモリの丸焼きね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「焼いたのを鍋で煮たのか……」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA1325">
+<name "ヴィオラ" "!BA1325">
 「もぐもぐ……それなり」
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 2 4 11>
 <sprite "ta01a07.iph" 6 5 11>
-<name "Celes" "!AA7210">
+<name "セリス" "!AA7210">
 「魔法使いですからね」
 #
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA1225">
+<name "イエル" "!CA1225">
 「イモリ程度では……次は私ね。
 　なんだか、ジャッジマンのこめかみがピクピクし
 　ているけど……気にせずにえいっ！」
 #
 <sprite "ta02a07.iph" 4 4 12>
-<name "Elle" "!CA1226">
+<name "イエル" "!CA1226">
 「…………タコ、丸ごと」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「むう、グロテスク」
 #
 <removesprite -1 11>
 <sprite "ta01a36.iph" 2 5 11>
 <sprite "ta02a07.iph" 6 4 11>
-<name "Celes" "!AA7211">
+<name "セリス" "!AA7211">
 「どうやってあの鍋に入っていたのか……」
 #
 <sprite "ta02a34.iph" 6 4 12>
-<name "Elle" "!CA1227">
+<name "イエル" "!CA1227">
 「とりあえず、食べます。
 　もぐもぐ……完食まで時間が必要です」
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA7212">
+<name "セリス" "!AA7212">
 「では、その間に私が……えいっ」
 #
 <sprite "ta01a86.iph" 4 4 12>
-<name "Celes" "!AA7213">
+<name "セリス" "!AA7213">
 「………………マグロの頭」
 #
 <removesprite -1 11>
 <sprite "ta01a86.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
-<name "Soshiette" "!DA1497">
+<name "ソシエット" "!DA1497">
 「底の深い鍋のようですね」
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta01a92.iph" 4 5 11>
-<name "Celes" "!AA7215">
+<name "セリス" "!AA7215">
 「でも、もぐもぐ……
 　サイズは変ですが食べられない事はありません」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「さて、俺の番か……覚悟を決めて……えいっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……………………女物の下着」
 #
 <removesprite -1 11>
 <sprite "ta01a38.iph" 4 4 11>
-<name "Celes" "!AA7216">
+<name "セリス" "!AA7216">
 「きゃぁぁぁぁぁぁっ！」
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "Elle" "!CA1228">
+<name "イエル" "!CA1228">
 「うわぁぁぁぁぁぁっ！」
 #
 <removesprite -1 11>
 　鍋による夕食会は、阿鼻叫喚の地獄絵図と化した。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、下着と一緒に煮込まれた食べ物を食べたく
 　は無いわな」
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "Celes" "!AA7217">
+<name "セリス" "!AA7217">
 「うう、酷い目にあった……」
 #
 <removesprite -1 11>
 <sprite "ta02a21.iph" 4 4 11>
-<name "Elle" "!CA1229">
+<name "イエル" "!CA1229">
 「ジャッジマンが良い笑顔なのがムカツク」
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA1498">
+<name "ソシエット" "!DA1498">
 「ところで、その下着は誰の物なのですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「未使用品らしい。
 　まあ、ジャッジマンの僅かな良心だろうな」
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 4 4 11>
-<name "Viola" "!BA1326">
+<name "ヴィオラ" "!BA1326">
 「使用済み、洗濯前だと、ジャッジマンを殺してい
 　たわね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ははは……」
 #
 <removesprite -1 11>

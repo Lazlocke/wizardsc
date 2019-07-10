@@ -13,26 +13,26 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c08.iph" 4 4 11>
-<name "Celes" "!AA3837">
+<name "セリス" "!AA3837">
 「英雄の塔？
 　聞いた事がありません。
 　どんな塔なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「自分の力を確かめる為の塔だ」
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "Celes" "!AA3838">
+<name "セリス" "!AA3838">
 「そんな塔があるんですか。
 　だったら、早く教えてくれても……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリスの実力が上がるのを待っていた。
 　今のお前なら、大丈夫だろう。
 　挑戦するか」
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "Celes" "!AA3839">
+<name "セリス" "!AA3839">
 「はい！
 　もちろんです」
 #
@@ -41,11 +41,11 @@
 :2B8
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「どこまでやれるか、頑張ってみろ」
 #
 <sprite "ta01c21.iph" 4 4 11>
-<name "Celes" "!AA3840">
+<name "セリス" "!AA3840">
 「はい！
 　登りきってみせます！」
 #
@@ -54,11 +54,11 @@
 :36E
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「何度目の挑戦になるかな」
 #
 <sprite "ta01c22.iph" 4 4 11>
-<name "Celes" "!AA3841">
+<name "セリス" "!AA3841">
 「到達するまでは、諦めません！」
 #
 <removesprite -1 11>
@@ -66,11 +66,11 @@
 :419
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「頑張れ」
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3842">
+<name "セリス" "!AA3842">
 「はい！」
 #
 <removesprite -1 11>
@@ -78,11 +78,11 @@
 :49E
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「登るのか」
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "Celes" "!AA3843">
+<name "セリス" "!AA3843">
 「はい。
 　そこに塔がある限り」
 #

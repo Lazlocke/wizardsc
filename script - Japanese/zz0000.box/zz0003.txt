@@ -1,83 +1,83 @@
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA1175">
+<name "イエル" "!CA1175">
 「イエルです」
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
-<name "Soshiette" "!DA1453">
+<name "ソシエット" "!DA1453">
 「ソシエットです」
 #
 <sprite "ta02a01.iph" 6 5 12>
-<name "Elle" "!CA1176">
+<name "イエル" "!CA1176">
 「あの、聞いて良いですか？」
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "Soshiette" "!DA1454">
+<name "ソシエット" "!DA1454">
 「なんですか？」
 #
 <sprite "ta02a04.iph" 6 5 12>
-<name "Elle" "!CA1177">
+<name "イエル" "!CA1177">
 「ストッキングって、この時代にあるんですか？」
 #
 <sprite "ta04a11.iph" 2 4 12>
-<name "Soshiette" "!DA1455">
+<name "ソシエット" "!DA1455">
 「なんちゃってファンタジーなので、あるんです」
 #
 <sprite "ta02a06.iph" 6 5 12>
-<name "Elle" "!CA1178">
+<name "イエル" "!CA1178">
 「へー、どうやって作っているんですか？」
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "Soshiette" "!DA1456">
+<name "ソシエット" "!DA1456">
 「魔法です」
 #
 <sprite "ta02a01.iph" 6 5 12>
-<name "Elle" "!CA1179">
+<name "イエル" "!CA1179">
 「ほー……」
 #
 <sprite "ta04a24.iph" 2 4 12>
-<name "Soshiette" "!DA1457">
+<name "ソシエット" "!DA1457">
 「何か不満でも？」
 #
 <sprite "ta02a00.iph" 6 5 12>
-<name "Elle" "!CA1180">
+<name "イエル" "!CA1180">
 「いえ……
 　質問を変えますが、この時代の避妊ってどうやっ
 　ているんですか？」
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "Soshiette" "!DA1458">
+<name "ソシエット" "!DA1458">
 「経験則です」
 #
 <sprite "ta02a07.iph" 6 5 12>
-<name "Elle" "!CA1181">
+<name "イエル" "!CA1181">
 「あれ？
 　魔法じゃないんですか？」
 #
 <sprite "ta04a22.iph" 2 4 12>
-<name "Soshiette" "!DA1459">
+<name "ソシエット" "!DA1459">
 「別に魔法は万能じゃないですから」
 #
 <sprite "ta02a28.iph" 6 5 12>
-<name "Elle" "!CA1182">
+<name "イエル" "!CA1182">
 「ええっ！
 　ステッキを持って呪文を唱えれば無敵じゃないん
 　ですか？」
 #
 <sprite "ta04a28.iph" 2 4 12>
-<name "Soshiette" "!DA1460">
+<name "ソシエット" "!DA1460">
 「それは魔女っ娘の魔法です。
 　あんな反則的な魔法はこの世界にはありません」
 #
 <sprite "ta02a37.iph" 6 5 12>
-<name "Elle" "!CA1183">
+<name "イエル" "!CA1183">
 「魔女っ娘が、経験則で避妊って……うーん」
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "Soshiette" "!DA1461">
+<name "ソシエット" "!DA1461">
 「エロエロですね」
 #
 <removesprite -1 11>

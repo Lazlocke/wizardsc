@@ -316,17 +316,17 @@
 　俺が本を読んでいると、後ろから軽く叩かれた。
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA5734">
+<name "セリス" "!AA5734">
 「師匠、掃除中の読書は駄目ですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……す、すまない」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA5735">
+<name "セリス" "!AA5735">
 「本を置いて、掃除を再開してください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「了解」
 #
 <removesprite -1 11>

@@ -10,82 +10,82 @@
 :7F
 <music 23>
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3296">
+<name "セリス" "!AA3296">
 「や、やった……登り切った……」
 #
-<name "Celes" "!AA3297">
+<name "セリス" "!AA3297">
 「やったぁぁぁぁぁぁぁぁっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よくやった。
 　頭を撫でてやろう」
 #
-<name "Celes" "!AA3298">
+<name "セリス" "!AA3298">
 「……あれ？
 　師匠」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？
 　なんだ？」
 #
-<name "Celes" "!AA3299">
+<name "セリス" "!AA3299">
 「どうして此処に」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、そろそろ登りきるかなと思って……」
 #
-<name "Celes" "!AA3300">
+<name "セリス" "!AA3300">
 「い、いえ……どうやって此処に？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そこにある魔法の昇降機で」
 #
-<name "Celes" "!AA3301">
+<name "セリス" "!AA3301">
 「く、苦労して登りきったのに、喜びが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「登りきった達成感は、お前だけのものだ」
 #
-<name "Celes" "!AA3303">
+<name "セリス" "!AA3303">
 「はい！」
 #
 <exit>
 :2F5
 <music 23>
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3304">
+<name "セリス" "!AA3304">
 「登りきったぞー！」
 #
-<name "Celes" "!AA3305">
+<name "セリス" "!AA3305">
 「いえー！」
 #
 <exit>
 :35E
 <music 23>
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3306">
+<name "セリス" "!AA3306">
 「到達！」
 #
-<name "Celes" "!AA3307">
+<name "セリス" "!AA3307">
 「ふう……この私に掛かれば当然」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……何を格好付けている」
 #
-<name "Celes" "!AA3308">
+<name "セリス" "!AA3308">
 「いえ、頑張ったので、そのご褒美に」
 #
 <exit>
 :437
 <music 23>
 <background "ev022a0.iph" 10>
-<name "Celes" "!AA3309">
+<name "セリス" "!AA3309">
 「楽勝♪」
 #
-<name "Celes" "!AA3310">
+<name "セリス" "!AA3310">
 「うーん、最初の頃の達成感は無いなぁ」
 #
-<name "Celes" "!AA3311">
+<name "セリス" "!AA3311">
 「もっと、上を目指さないと駄目って事かな」
 #
 <exit>

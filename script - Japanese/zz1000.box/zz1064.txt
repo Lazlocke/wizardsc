@@ -1,17 +1,17 @@
 <music 25>
 <background "ev053a0.iph" 10>
-<name "Celes" "!AA0702">
+<name "セリス" "!AA0702">
 「ジャーンプ！」
 #
-<name "Elle" "!CA0081">
+<name "イエル" "!CA0081">
 「むきー、ロープが……」
 #
 　二人は熱心に障害物走を楽しんでいた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……後で庭、元に戻せよ」
 #
-<name "Soshiette" "!DA0234">
+<name "ソシエット" "!DA0234">
 「頑張ります」
 #
 \x78\x78

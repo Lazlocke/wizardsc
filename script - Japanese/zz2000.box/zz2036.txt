@@ -493,40 +493,40 @@
 #
 <music 31>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA5740">
+<name "セリス" "!AA5740">
 「どうしました？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え、あ、いや……この本。
 　最後に“続く”って書いてあってな。
 　この先にどう続くのかなぁって……」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA5741">
+<name "セリス" "!AA5741">
 「その先は、実は生きていた男と、影の七人衆との
 　戦いになります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか……生きてたのか」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA5742">
+<name "セリス" "!AA5742">
 「お約束らしいです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うむ……」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA5743">
+<name "セリス" "!AA5743">
 「その話は置いておいて……
 　掃除の邪魔ですから、読書をするなら部屋から出
 　ていってください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「悪かった。
 　すぐに手伝う」
 #

@@ -32,7 +32,7 @@
 #
 <removesprite -1 11>
 <sprite "ta01c08.iph" 4 4 11>
-<name "Celes" "!AA3079">
+<name "セリス" "!AA3079">
 「え？
 　私？」
 #
@@ -44,7 +44,7 @@
 　おめでとう！」
 #
 <sprite "ta01c15.iph" 6 5 12>
-<name "Celes" "!AA3080">
+<name "セリス" "!AA3080">
 「どうも……頑張りました」
 #
 <sprite "ta07a09.iph" 2 4 12>
@@ -55,16 +55,16 @@
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "Celes" "!AA3081">
+<name "セリス" "!AA3081">
 「え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリス！
 　協会の警備が包囲を始めた！
 　逃げろっ！」
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "Celes" "!AA3082">
+<name "セリス" "!AA3082">
 「ええええっ！」
 #
 <removesprite -1 11>

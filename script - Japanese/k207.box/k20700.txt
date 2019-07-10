@@ -55,44 +55,44 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA1566">
+<name "セリス" "!AA1566">
 「光の魔法ですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「光の魔法だ」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA1567">
+<name "セリス" "!AA1567">
 「頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うん。
 　頑張るように」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA1568">
+<name "セリス" "!AA1568">
 「……あの」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1569">
+<name "セリス" "!AA1569">
 「光の魔法に関するアドバイスなど頂ければ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「予習はしているんだろ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA1570">
+<name "セリス" "!AA1570">
 「え、ええ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なら、大丈夫だ。
 　自信を持って勉強しろ」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA1571">
+<name "セリス" "!AA1571">
 「は、はい」
 #
 <removesprite -1 11>
@@ -103,16 +103,16 @@
 　セリスは、光の玉を生み出そうとしていた。
 #
 <sprite "ta01a32.iph" 4 4 11>
-<name "Celes" "!AA1572">
+<name "セリス" "!AA1572">
 「光、光、光……うーん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「太陽をイメージするのが良いんだが……
 　難しければ、暗い部屋に光が入ってくる感じでも
 　可だ」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA1573">
+<name "セリス" "!AA1573">
 「太陽とそれではかなり違う気がしますが……」
 #
 <removesprite -1 11>
@@ -121,43 +121,43 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <sprite "ta01d23.iph" 4 4 11>
-<name "Celes" "!AA1574">
+<name "セリス" "!AA1574">
 「光……光……うーん……えいっ！」
 #
 <removesprite -1 11>
 　セリスの胸元で、光が集まって弾けた。
 #
 <sprite "ta01d32.iph" 4 4 11>
-<name "Celes" "!AA1575">
+<name "セリス" "!AA1575">
 「あうう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「光を持続するのは難しいだろ」
 #
 <sprite "ta01d31.iph" 4 4 12>
-<name "Celes" "!AA1576">
+<name "セリス" "!AA1576">
 「は、はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「コツは……闇は収束。
 　光は解放だ」
 #
 <sprite "ta01d32.iph" 4 4 12>
-<name "Celes" "!AA1577">
+<name "セリス" "!AA1577">
 「解放……ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　光を点に集め、そこから解放する」
 #
 <sprite "ta01d27.iph" 4 4 12>
-<name "Celes" "!AA1578">
+<name "セリス" "!AA1578">
 「点からの解放……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その解放の具合で、光の魔法の威力が変わる」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「解放の仕方が悪いと、今みたいに弾けてしまう。
 　玉を作るには、一定の範囲に解放し続ける事だ」
 #
@@ -166,44 +166,44 @@
 　てみせる。
 #
 <sprite "ta01d32.iph" 4 4 11>
-<name "Celes" "!AA1579">
+<name "セリス" "!AA1579">
 「む……が、頑張ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その前に、もう一つ」
 #
 <removesprite -1 11>
 　俺はそう言って、別の光の玉を作ってみせる。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「違いがわかるか？」
 #
 <sprite "ta01d27.iph" 4 4 11>
-<name "Celes" "!AA1580">
+<name "セリス" "!AA1580">
 「え？
 　えっと……いえ、同じに見えます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一方は、点から無数の光を直線的に解放し、玉の
 　形で止めているものだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そしてもう一方は、点から一つの光を解放し、玉
 　の形に回転させ続けているものだ」
 #
 <sprite "ta01d32.iph" 4 4 12>
-<name "Celes" "!AA1581">
+<name "セリス" "!AA1581">
 「え……んんん……
 　すみません。
 　そう言われても、区別がつきません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「今、光の玉を作る方法が二つあるとだけ覚えてい
 　れば良い。
 　頑張るように」
 #
 <sprite "ta01d31.iph" 4 4 12>
-<name "Celes" "!AA1582">
+<name "セリス" "!AA1582">
 「はい」
 #
 <removesprite -1 11>
@@ -212,47 +212,47 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <sprite "ta01d27.iph" 4 4 11>
-<name "Celes" "!AA1583">
+<name "セリス" "!AA1583">
 「むう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうした？」
 #
 <sprite "ta01d32.iph" 4 4 12>
-<name "Celes" "!AA1584">
+<name "セリス" "!AA1584">
 「光の玉を作っているのですが、気を抜くとすぐに
 　消えてしまって……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「気を抜かなければ良いのでは？」
 #
 <sprite "ta01d31.iph" 4 4 12>
-<name "Celes" "!AA1585">
+<name "セリス" "!AA1585">
 「言い方が悪かったです。
 　他の事をしようとしたらです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「他の事？」
 #
 <sprite "ta01d27.iph" 4 4 12>
-<name "Celes" "!AA1586">
+<name "セリス" "!AA1586">
 「はい。
 　光の玉を作りながら、目標を見るとか……
 　水を飲むとか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、戦う時の動きか」
 #
 <sprite "ta01d31.iph" 4 4 12>
-<name "Celes" "!AA1587">
+<name "セリス" "!AA1587">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「先を見るのは良いが、まずはジックリと光の玉を
 　自由自在にする事を考えるように」
 #
 <sprite "ta01d32.iph" 4 4 12>
-<name "Celes" "!AA1588">
+<name "セリス" "!AA1588">
 「は、はい」
 #
 <removesprite -1 11>
@@ -261,15 +261,15 @@
 <music 26>
 <background "bg003b0.iph" 11>
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA1589">
+<name "セリス" "!AA1589">
 「暗い部屋で……光を生み出す練習！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、さっきからずーっと聞いているが、なかな
 　か成功しないな」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA1590">
+<name "セリス" "!AA1590">
 「……が、頑張ります」
 #
 <removesprite -1 11>
@@ -278,14 +278,14 @@
 <music 26>
 <background "bg003b0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA1591">
+<name "セリス" "!AA1591">
 「ひ、光あれ！」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1592">
+<name "セリス" "!AA1592">
 「おお、なんか偉くなった気分……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「光を生み出してから言おうな」
 #
 <removesprite -1 11>
@@ -293,22 +293,22 @@
 :1461
 <music 10>
 <background "bg003b0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「えっと……ああ、いた。
 　大丈夫か？」
 #
 <sprite "ta01a37.iph" 4 4 11>
-<name "Celes" "!AA1593">
+<name "セリス" "!AA1593">
 「は、はひ……」
 #
 <removesprite -1 11>
 　セリスは暗闇の中で転倒していた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「光を生み出す練習じゃなかったのか？」
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "Celes" "!AA1594">
+<name "セリス" "!AA1594">
 「あはは……
 　暗闇の中で歩く練習になっていたみたいで」
 #
@@ -318,19 +318,19 @@
 <music 26>
 <background "bg003b0.iph" 11>
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA1595">
+<name "セリス" "!AA1595">
 「光を安定させて……うーんと……」
 #
 <sprite "ta01a24.iph" 4 4 12>
-<name "Celes" "!AA1596">
+<name "セリス" "!AA1596">
 「どかーん！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どかーんじゃない。
 　光を生み出して安定させる練習だろ」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA1597">
+<name "セリス" "!AA1597">
 「あはは……」
 #
 <removesprite -1 11>
@@ -339,11 +339,11 @@
 <music 26>
 <background "bg002a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA1598">
+<name "セリス" "!AA1598">
 「光の帯を作って……んんんんん！」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA1599">
+<name "セリス" "!AA1599">
 「む、難しい……
 　でも諦めない」
 #
@@ -353,22 +353,22 @@
 <music 26>
 <background "bg002a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA1600">
+<name "セリス" "!AA1600">
 「光の帯を作って……よし、ここまではＯＫ」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA1601">
+<name "セリス" "!AA1601">
 「次は、この帯を結んで……うわわわわっ！」
 #
 <removesprite -1 11>
 　セリスは自分の作った光の帯で、自分をラッピン
 　グしていた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そんなアピールしなくても、襲ってやるぞ」
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "Celes" "!AA1602">
+<name "セリス" "!AA1602">
 「あははは……
 　すみません」
 #
@@ -378,24 +378,24 @@
 <music 26>
 <background "bg002a0.iph" 11>
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA1603">
+<name "セリス" "!AA1603">
 「光の帯作成！
 　……完成！」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA1604">
+<name "セリス" "!AA1604">
 「そして、そのまま蝶結びを………………」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「固結びだな」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1605">
+<name "セリス" "!AA1605">
 「あ、あはは……
 　すぐにやり直しを……あ、あれ？
 　……ほどけない」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「帯を作る所からやり直すように」
 #
 <removesprite -1 11>
@@ -404,19 +404,19 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA1606">
+<name "セリス" "!AA1606">
 「光を知る為とは言え……
 　日光浴ばかりしていて良いのかな？」
 #
 <removesprite -1 11>
-<name "Celes" "!AA1607">
+<name "セリス" "!AA1607">
 「…………ぐー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そう疑問を持ちながら、熟睡か……」
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "Soshiette" "!DA0405">
+<name "ソシエット" "!DA0405">
 「お肌の事を考えると、あまりお薦めできないので
 　すが……」
 #
@@ -426,31 +426,31 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA1608">
+<name "セリス" "!AA1608">
 「日の光を浴びていると、ぽかぽかしますね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな。
 　昼寝をしたくなる」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA1609">
+<name "セリス" "!AA1609">
 「ですね。
 　一緒に昼寝しますか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう！」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA1610">
+<name "セリス" "!AA1610">
 「と、元気に返事をしても……
 　掛け声だけなんですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあな、退屈は紛れたか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1611">
+<name "セリス" "!AA1611">
 「少しだけ」
 #
 <removesprite -1 11>
@@ -459,16 +459,16 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA1612">
+<name "セリス" "!AA1612">
 「日の光を浴びるのは良いんですが……
 　冬場は寒いですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法で、防寒対策はしてある。
 　頑張るように」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA1613">
+<name "セリス" "!AA1613">
 「はーい」
 #
 <removesprite -1 11>
@@ -477,45 +477,45 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0152">
+<name "イエル" "!CA0152">
 「セリス。
 　ローリアガールって知ってる？」
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Celes" "!AA1614">
+<name "セリス" "!AA1614">
 「なにそれ？」
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "Elle" "!CA0153">
+<name "イエル" "!CA0153">
 「なんでも、ローリアの街を守る正義の味方らしい
 　よ」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA1615">
+<name "セリス" "!AA1615">
 「へー」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0154">
+<name "イエル" "!CA0154">
 「光の魔法を使って、バババッと悪人を倒していく
 　んだって」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA1616">
+<name "セリス" "!AA1616">
 「光の魔法で」
 #
 <sprite "ta02a03.iph" 6 4 12>
-<name "Elle" "!CA0155">
+<name "イエル" "!CA0155">
 「それがまた凄いらしいのよ。
 　私、遠くからだけど一度だけ見たのよ」
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "Elle" "!CA0156">
+<name "イエル" "!CA0156">
 「凄かったぁ」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA1617">
+<name "セリス" "!AA1617">
 「光の魔法……私も頑張らないと」
 #
 <removesprite -1 11>
@@ -524,41 +524,41 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA1618">
+<name "セリス" "!AA1618">
 「光の魔法って、正義って感じですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあな」
 #
 <sprite "ta01a22.iph" 4 4 12>
-<name "Celes" "!AA1619">
+<name "セリス" "!AA1619">
 「つまり、光の魔法さえ使いこなせば明日から正義
 　の味方！」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA1620">
+<name "セリス" "!AA1620">
 「ローリアガール！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ、そのローリアガールってのは？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1621">
+<name "セリス" "!AA1621">
 「知らないんですか？
 　今、ローリアの街で有名な正義の味方ですよ」
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "Celes" "!AA1622">
+<name "セリス" "!AA1622">
 「悪人をバッタバッタと倒しているらしいですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「へー……そいつも、光の魔法を使うのか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA1623">
+<name "セリス" "!AA1623">
 「らしいですよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ほう……
 　今度、ソシエットにでも聞くか」
 #
@@ -567,44 +567,44 @@
 :26BF
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「ソシエット。
 　ローリアガールって知ってるか？」
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0406">
+<name "ソシエット" "!DA0406">
 「いえ。
 　なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんでも、光の魔法を使う正義の味方らしい」
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "Soshiette" "!DA0407">
+<name "ソシエット" "!DA0407">
 「ローリアの街でですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、俺はセリスから聞いたんだが……
 　街でも結構な評判になっていたぞ」
 #
 <sprite "ta04a86.iph" 4 4 12>
-<name "Soshiette" "!DA0408">
+<name "ソシエット" "!DA0408">
 「すみません。
 　私の耳には入っていません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会の監視をすり抜けているのか？」
 #
 <sprite "ta04a65.iph" 4 4 12>
-<name "Soshiette" "!DA0409">
+<name "ソシエット" "!DA0409">
 「ありえないと思いますが……
 　急ぎ調べます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、わかったら教えてくれ」
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "Soshiette" "!DA0410">
+<name "ソシエット" "!DA0410">
 「はい」
 #
 <removesprite -1 11>
@@ -612,30 +612,30 @@
 :29E5
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「そう言えば、ソシエット。
 　ローリアガールに関して何かわかったか？」
 #
 <sprite "ta04a84.iph" 4 4 11>
-<name "Soshiette" "!DA0411">
+<name "ソシエット" "!DA0411">
 「……ご主人様」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？」
 #
 <sprite "ta04a85.iph" 4 4 12>
-<name "Soshiette" "!DA0412">
+<name "ソシエット" "!DA0412">
 「ローリアガールに関しては、沈黙を守った方が良
 　いと判断します」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「は？」
 #
 <sprite "ta04a84.iph" 4 4 12>
-<name "Soshiette" "!DA0413">
+<name "ソシエット" "!DA0413">
 「では、失礼します」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「え？
 　な、なんだったんだ？」
 #
@@ -645,15 +645,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a84.iph" 4 4 11>
-<name "Celes" "!AA1624">
+<name "セリス" "!AA1624">
 「師匠。
 　ローリアガールの正体がわかりましたよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「誰なんだ？」
 #
 <sprite "ta01a85.iph" 4 4 12>
-<name "Celes" "!AA1625">
+<name "セリス" "!AA1625">
 「お呼びしております」
 #
 <removesprite -1 11>
@@ -662,7 +662,7 @@
 「こんにちは。
 　ローリアガールです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………………………………………………………」
 #
 <sprite "ta05a07.iph" 4 4 12>
@@ -674,7 +674,7 @@
 「やっぱり、ローリアガールの格好をした方がイン
 　パクトがあったかしら」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ローリアガールなんて馬鹿な事をしている人を師
 　匠と呼びたくないですけど、師匠。
 　ちなみに聞きますが、ローリアガールの格好って
@@ -685,7 +685,7 @@
 「自分で作ったユニフォームよ。
 　こうバニーガールの服を改造して……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、言わないでください。
 　想像してしまうから」
 #
@@ -693,22 +693,22 @@
 <name "ルーン" "!EA0092">
 「なによー、失礼ね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「………………はぁ」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA1626">
+<name "セリス" "!AA1626">
 「師匠？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まあ、本人の性格はアレだが……光の魔法に関し
 　ては超一流だ。
 　学べる所があるなら、魔法に関してのみ学ぶよう
 　に」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA1627">
+<name "セリス" "!AA1627">
 「は、はい」
 #
 <removesprite -1 11>
@@ -723,15 +723,15 @@
 <removesprite -1 11>
 <sprite "ta01a22.iph" 2 5 11>
 <sprite "ta05a16.iph" 6 4 11>
-<name "Celes" "!AA1628">
+<name "セリス" "!AA1628">
 「ローリアガール……シスター！」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「……………………」
 #
 <sprite "ta04a85.iph" 4 4 11>
-<name "Soshiette" "!DA0414">
+<name "ソシエット" "!DA0414">
 「ご主人様。
 　巻き込まれます。
 　近付かない方が……」
@@ -743,7 +743,7 @@
 <background "bg002a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :338E: 
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA1633">
+<name "セリス" "!AA1633">
 「よーし、頑張って光の魔法を勉強するぞー」
 #
 <removesprite -1 11>
@@ -751,7 +751,7 @@
 :338E
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3413: 
 <sprite "ta01a20.iph" 4 4 11>
-<name "Celes" "!AA1634">
+<name "セリス" "!AA1634">
 「光の魔法。
 　うーん、凄そうなイメージがある」
 #
@@ -760,7 +760,7 @@
 :3413
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :34A4: 
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA1635">
+<name "セリス" "!AA1635">
 「光の魔法って……
 　なんだか神聖なイメージがありますよね」
 #

@@ -1,26 +1,26 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0078">
+<name "イエル" "!CA0078">
 「あら、運動してたの？」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "Celes" "!AA0700">
+<name "セリス" "!AA0700">
 「うん。
 　魔法使いは体力だって、師匠が」
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "Elle" "!CA0079">
+<name "イエル" "!CA0079">
 「へー」
 #
 <sprite "ta01d09.iph" 2 5 12>
-<name "Celes" "!AA0701">
+<name "セリス" "!AA0701">
 「イエルちゃんもやってみる？」
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "Elle" "!CA0080">
+<name "イエル" "!CA0080">
 「そうね……」
 #
 <removesprite -1 11>
@@ -45,10 +45,10 @@
 #
 　しかし……
 #
-<name "Soshiette" "!DA0227">
+<name "ソシエット" "!DA0227">
 「なにか問題でも？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なにか問題でもと言われるとだな……」
 #
 　二人が走っているコースには、かなり本格的な障
@@ -83,48 +83,48 @@
 #
 　それはともかく、何が問題かと言うと……
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いつ、庭をこんな風に？」
 #
-<name "Soshiette" "!DA0228">
+<name "ソシエット" "!DA0228">
 「つい先程。
 　競争しようと言う話になったので、協力致しまし
 　た」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ほう。
 　一人で作ったのか？」
 #
-<name "Soshiette" "!DA0229">
+<name "ソシエット" "!DA0229">
 「協会の軍事部の者が何人か協力してくれました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか……
 　あとでそのリストをくれ」
 #
-<name "Soshiette" "!DA0230">
+<name "ソシエット" "!DA0230">
 「お褒めの言葉ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そう思うか？」
 #
-<name "Soshiette" "!DA0231">
+<name "ソシエット" "!DA0231">
 「はい。
 　弟子の教育の為にここまでやってくれてありがと
 　う。
 　みたいな感じになるかと」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………ソシエット君。
 　ご褒美をあげるから、部屋に行こうか」
 #
-<name "Soshiette" "!DA0232">
+<name "ソシエット" "!DA0232">
 「えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わーいと喜んで良いぞ」
 #
-<name "Soshiette" "!DA0233">
+<name "ソシエット" "!DA0233">
 「わーい」
 #
 　俺はソシエットを抱え、部屋に向かおうとした。

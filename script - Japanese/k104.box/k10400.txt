@@ -31,7 +31,7 @@
 　なかなか上手く扱えないようだ。
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0371">
+<name "ソシエット" "!DA0371">
 「セリスさん。
 　ムチはこう扱います」
 #
@@ -46,7 +46,7 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0372">
+<name "ソシエット" "!DA0372">
 「ムチは打撃のほかに絡め取りがあります。
 　相手の武器を奪ったりできるのは、大きな利点で
 　す」
@@ -54,15 +54,15 @@
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Celes" "!AA1078">
+<name "セリス" "!AA1078">
 「そうですね」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0373">
+<name "ソシエット" "!DA0373">
 「自由自在に動かせるように、頑張りましょう」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA1079">
+<name "セリス" "!AA1079">
 「はい」
 #
 <removesprite -1 11>
@@ -71,54 +71,54 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01d27.iph" 4 4 11>
-<name "Celes" "!AA1080">
+<name "セリス" "!AA1080">
 「ムチ……」
 #
 <removesprite -1 11>
 <sprite "ta01d27.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Soshiette" "!DA0374">
+<name "ソシエット" "!DA0374">
 「どうしました？」
 #
 <sprite "ta01d36.iph" 2 5 12>
-<name "Celes" "!AA1081">
+<name "セリス" "!AA1081">
 「あ、いえ、その……」
 #
 <sprite "ta04a02.iph" 6 4 12>
-<name "Soshiette" "!DA0378">
+<name "ソシエット" "!DA0378">
 「？」
 #
 <sprite "ta01d74.iph" 2 5 12>
-<name "Celes" "!AA1082">
+<name "セリス" "!AA1082">
 「師匠の持っていたエロ本に、ムチで叩くプレイが
 　あったので……」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0375">
+<name "ソシエット" "!DA0375">
 「そのムチは遊び用のムチです。
 　このムチで叩いたらプレイどころではありません」
 #
 <sprite "ta01d08.iph" 2 5 12>
-<name "Celes" "!AA1083">
+<name "セリス" "!AA1083">
 「そうなんですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0376">
+<name "ソシエット" "!DA0376">
 「ええ、このムチで叩かれたら、肌が腫れるのでは
 　なく裂けるのですから」
 #
 <sprite "ta01d37.iph" 2 5 12>
-<name "Celes" "!AA1084">
+<name "セリス" "!AA1084">
 「こ、怖い武器ですね」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0377">
+<name "ソシエット" "!DA0377">
 「ムチはかなり威力のある武器です。
 　熟練すれば剣士とも戦えます。
 　頑張ってください」
 #
 <sprite "ta01d20.iph" 2 5 12>
-<name "Celes" "!AA1085">
+<name "セリス" "!AA1085">
 「は、はい」
 #
 <removesprite -1 11>
@@ -127,45 +127,45 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
-<name "Celes" "!AA1086">
+<name "セリス" "!AA1086">
 「剣士相手に、ムチって有効なんですか？
 　なんだか斬られてしまいそうで……」
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Soshiette" "!DA0379">
+<name "ソシエット" "!DA0379">
 「そうですね。
 　ムチの特性から斬られてしまえば終わりです。
 　特に剣の達人には、ムチでの攻撃は有効的ではな
 　いでしょう」
 #
 <sprite "ta01d07.iph" 2 5 12>
-<name "Celes" "!AA1087">
+<name "セリス" "!AA1087">
 「ですよね」
 #
 <sprite "ta04a13.iph" 6 4 12>
-<name "Soshiette" "!DA0380">
+<name "ソシエット" "!DA0380">
 「ですが、それは素人が操るムチの場合です」
 #
 <sprite "ta04a16.iph" 6 4 12>
-<name "Soshiette" "!DA0381">
+<name "ソシエット" "!DA0381">
 「達人の操るムチは、剣よりも速く、誰にも止めら
 　れません」
 #
 <sprite "ta01d06.iph" 2 5 12>
-<name "Celes" "!AA1088">
+<name "セリス" "!AA1088">
 「……」
 #
 <sprite "ta04a19.iph" 6 4 12>
-<name "Soshiette" "!DA0382">
+<name "ソシエット" "!DA0382">
 「そして、ムチの長さを利用して相手の攻撃が届か
 　ない位置から一方的に攻撃できる。
 　ムチほど極めれば怖い武器はありません。
 　頑張ってください」
 #
 <sprite "ta01d15.iph" 2 5 12>
-<name "Celes" "!AA1089">
+<name "セリス" "!AA1089">
 「はい」
 #
 <removesprite -1 11>
@@ -174,30 +174,30 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0383">
+<name "ソシエット" "!DA0383">
 「この樽を転がしてください」
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a62.iph" 6 4 11>
-<name "Celes" "!AA1090">
+<name "セリス" "!AA1090">
 「はい。
 　ころころころ……」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「あれは何の練習だ？」
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "Soshiette" "!DA0384">
+<name "ソシエット" "!DA0384">
 「樽の扱い練習と、筋力トレーニングです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか。
 　……樽の取り扱い？」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0386">
+<name "ソシエット" "!DA0386">
 「はい」
 #
 <removesprite -1 11>
@@ -212,7 +212,7 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1091">
+<name "セリス" "!AA1091">
 「ころころころころ……」
 #
 <removesprite -1 11>
@@ -222,14 +222,14 @@
 #
 　…………
 #
-<name "Lazlocke">
+<name "ラズロック">
 「楽しそうだな」
 #
 <sprite "ta04a15.iph" 4 4 11>
-<name "Soshiette" "!DA0387">
+<name "ソシエット" "!DA0387">
 「ご主人様も転がしてみます？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「す、少しだけ……」
 #
 <removesprite -1 11>
@@ -242,14 +242,14 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01d20.iph" 4 4 11>
-<name "Celes" "!AA1094">
+<name "セリス" "!AA1094">
 「はっ、はっ、はっ……」
 #
 <removesprite -1 11>
 　セリスは樽を狙った所にピタリと転がす。
 #
 <sprite "ta01d26.iph" 4 4 11>
-<name "Celes" "!AA1093">
+<name "セリス" "!AA1093">
 「むう……
 　少しズレた……やり直し」
 #
@@ -262,7 +262,7 @@
 <background "bg004a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :12FA: 
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1100">
+<name "セリス" "!AA1100">
 「この武器を使いこなさないと」
 #
 <removesprite -1 11>
@@ -270,7 +270,7 @@
 :12FA
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1362: 
 <sprite "ta01d32.iph" 4 4 11>
-<name "Celes" "!AA1101">
+<name "セリス" "!AA1101">
 「扱いが難しい……」
 #
 <removesprite -1 11>
@@ -278,7 +278,7 @@
 :1362
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :13C6: 
 <sprite "ta01d15.iph" 4 4 11>
-<name "Celes" "!AA1102">
+<name "セリス" "!AA1102">
 「頑張るぞー！」
 #
 <removesprite -1 11>
@@ -286,7 +286,7 @@
 :13C6
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :142C: 
 <sprite "ta01d07.iph" 4 4 11>
-<name "Celes" "!AA1103">
+<name "セリス" "!AA1103">
 「頑張らなくちゃ」
 #
 <removesprite -1 11>
@@ -294,7 +294,7 @@
 :142C
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1490: 
 <sprite "ta01d17.iph" 4 4 11>
-<name "Celes" "!AA1104">
+<name "セリス" "!AA1104">
 「えい、やー♪」
 #
 <removesprite -1 11>

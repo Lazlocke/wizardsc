@@ -6,7 +6,7 @@
 :31
 <music 23>
 <background "ev023a0.iph" 10>
-<name "Celes" "!AA3743">
+<name "セリス" "!AA3743">
 「やったぁぁぁぁぁぁぁぁっ！」
 #
 　セリスは、詠唱の塔を登りきった。
@@ -15,25 +15,25 @@
 　挙であった。
 #
 <background "bg020a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「見事だ」
 #
 <removesprite -1 11>
 <sprite "ta01c08.iph" 4 4 11>
-<name "Celes" "!AA3744">
+<name "セリス" "!AA3744">
 「師匠。
 　それに、ヴィオラさん、ソシエットさん、ルーン
 　さんまで……」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "Viola" "!BA0338">
+<name "ヴィオラ" "!BA0338">
 「やるわね」
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Soshiette" "!DA0624">
+<name "ソシエット" "!DA0624">
 「おめでとうございます」
 #
 <removesprite 6 11>
@@ -42,7 +42,7 @@
 「まさか、登りきられるとは思わなかったわ」
 #
 <sprite "ta03a31.iph" 2 5 12>
-<name "Viola" "!BA0346">
+<name "ヴィオラ" "!BA0346">
 「師匠。
 　挑戦させておいて、それは無いでしょう」
 #
@@ -52,28 +52,28 @@
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA0625">
+<name "ソシエット" "!DA0625">
 「迷惑な話です」
 #
 <removesprite -1 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "Celes" "!AA3745">
+<name "セリス" "!AA3745">
 「えっと……皆さん」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「お前を祝いに来た。
 　それと、つまらない物だが賞品だ」
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "Celes" "!AA3746">
+<name "セリス" "!AA3746">
 「これは……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「“詠唱の杖”
 　魔法使い協会の至宝だ」
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "Celes" "!AA3747">
+<name "セリス" "!AA3747">
 「そ、そんなのを貰っても良いんですか？」
 #
 <removesprite -1 11>
@@ -88,10 +88,10 @@
 #
 <removesprite -1 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "Celes" "!AA3748">
+<name "セリス" "!AA3748">
 「……では、受け取ります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その他、副賞が色々あるが……
 　とりあえずは……よくやった。
 　見事だ」
@@ -99,12 +99,12 @@
 　俺はそう言って、セリスの頭を撫でた。
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "Celes" "!AA3749">
+<name "セリス" "!AA3749">
 「ありがとうございます」
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0626">
+<name "ソシエット" "!DA0626">
 「お祝いの席を設けましたので、そちらに移動しま
 　しょう」
 #
@@ -116,7 +116,7 @@
 　私の好物はある？」
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "Soshiette" "!DA0627">
+<name "ソシエット" "!DA0627">
 「もちろんでございます。
 　が、主役はセリスさんです」
 #
@@ -133,37 +133,37 @@
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 4 4 11>
-<name "Viola" "!BA0340">
+<name "ヴィオラ" "!BA0340">
 「ふんっ。
 　挑戦させてくれれば、私が先に制覇したのに……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「怒るな。
 　なんでもかんでもお前が持っていったら、お前へ
 　の風当たりが強くなるだろ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「名誉や称号は分け合え」
 #
 <sprite "ta03a19.iph" 4 4 12>
-<name "Viola" "!BA0341">
+<name "ヴィオラ" "!BA0341">
 「別にそんなのが欲しいワケじゃないわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかっているなら、拗ねるな」
 #
 <sprite "ta03a15.iph" 4 4 12>
-<name "Viola" "!BA0342">
+<name "ヴィオラ" "!BA0342">
 「むう……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ほら、頭を撫でてやるから」
 #
 <sprite "ta03a66.iph" 4 4 12>
-<name "Viola" "!BA0344">
+<name "ヴィオラ" "!BA0344">
 「そ、そんなので誤魔化されたりしないわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかっている。
 　埋め合わせはするから」
 #
@@ -171,7 +171,7 @@
 　俺はヴィオラの機嫌を直すのに、苦心した。
 #
 <sprite "ta04a28.iph" 4 4 11>
-<name "Soshiette" "!DA0628">
+<name "ソシエット" "!DA0628">
 「ご苦労様でした」
 #
 <removesprite -1 11>

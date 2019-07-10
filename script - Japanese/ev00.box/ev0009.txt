@@ -85,78 +85,78 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "Soshiette" "!DA0135">
+<name "ソシエット" "!DA0135">
 「おはようございます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おはよう」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA0432">
+<name "セリス" "!AA0432">
 「おはようございます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「で、どうして朝から居るんだ？」
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0136">
+<name "ソシエット" "!DA0136">
 「朝食をご用意に」
 #
 <removesprite -1 11>
 <sprite "ta01a09.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA0433">
+<name "セリス" "!AA0433">
 「あ、師匠。
 　用意されてますよ。
 　美味しそうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「見た目に騙されるな。
 　ソシエットの料理はイマイチだ」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0137">
+<name "ソシエット" "!DA0137">
 「失礼ですね。
 　簡単な料理なら大丈夫です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか。
 　じゃあ、頂きます」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA0434">
+<name "セリス" "!AA0434">
 「頂きます」
 #
 <removesprite -1 11>
 　モグモグ……ご馳走様。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……それで、どうして朝から居るんだ？」
 #
 <sprite "ta04a23.iph" 4 4 11>
-<name "Soshiette" "!DA0138">
+<name "ソシエット" "!DA0138">
 「食べるだけ食べておいて、それは酷いです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、まあ、理由は聞いておかないと」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a23.iph" 6 4 11>
-<name "Celes" "!AA0435">
+<name "セリス" "!AA0435">
 「そう思います」
 #
 <sprite "ta04a65.iph" 6 4 12>
-<name "Soshiette" "!DA0139">
+<name "ソシエット" "!DA0139">
 「セ、セリスさんまで……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「冗談はその辺りにして、理由は？」
 #
 <sprite "ta04a23.iph" 6 4 12>
-<name "Soshiette" "!DA0140">
+<name "ソシエット" "!DA0140">
 「特になんでもありません」
 #
 <removesprite -1 11>
@@ -168,62 +168,62 @@
 <music 6>
 <background "bg008a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0052">
+<name "イエル" "!CA0052">
 「おはようございます！
 　すみません、寝坊して……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう、おはよう」
 #
 <sprite "ta02a06.iph" 4 4 12>
-<name "Elle" "!CA0053">
+<name "イエル" "!CA0053">
 「……あれ？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうした？」
 #
 <sprite "ta02a27.iph" 4 4 12>
-<name "Elle" "!CA0054">
+<name "イエル" "!CA0054">
 「いえ……どうしてセリスの師匠がここに？
 　あと、私の師匠は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、まだ寝てる」
 #
 <sprite "ta02a28.iph" 4 4 12>
-<name "Elle" "!CA0055">
+<name "イエル" "!CA0055">
 「…………寝てる？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、寝かせておいてやれ」
 #
 <sprite "ta02a74.iph" 4 4 12>
-<name "Elle" "!CA0056">
+<name "イエル" "!CA0056">
 「は、はぁ……え？
 　と言う事は……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「言っておくが、ヴィオラは俺の魔力は必要としな
 　いぞ」
 #
 <sprite "ta02a73.iph" 4 4 12>
-<name "Elle" "!CA0057">
+<name "イエル" "!CA0057">
 「そ、そうですよね。
 　あははは……勘違いしちゃいました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「普通に一夜を共にしただけだ」
 #
 <sprite "ta02a76.iph" 4 4 12>
-<name "Elle" "!CA0058">
+<name "イエル" "!CA0058">
 「ぶっ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？
 　そんなに変か？」
 #
 <sprite "ta02a67.iph" 4 4 12>
-<name "Elle" "!CA0059">
+<name "イエル" "!CA0059">
 「え、あ、変と言うか……
 　私の師匠が……え？」
 #
@@ -232,42 +232,42 @@
 　た。
 #
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0136">
+<name "ヴィオラ" "!BA0136">
 「……おはよう」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「遅かったな」
 #
 <sprite "ta03a00.iph" 4 4 12>
-<name "Viola" "!BA0137">
+<name "ヴィオラ" "!BA0137">
 「貴方が早いのよ。
 　イエルもおはよう」
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 4 11>
 <sprite "ta02a35.iph" 6 5 11>
-<name "Elle" "!CA0060">
+<name "イエル" "!CA0060">
 「お、おはようございます」
 #
 <sprite "ta03a03.iph" 2 4 12>
-<name "Viola" "!BA0141">
+<name "ヴィオラ" "!BA0141">
 「朝食、私の分はある？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、お前の家のメイドが頑張った」
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "Viola" "!BA0142">
+<name "ヴィオラ" "!BA0142">
 「そう」
 #
 <sprite "ta02a09.iph" 6 5 12>
-<name "Elle" "!CA0061">
+<name "イエル" "!CA0061">
 （……あれ？
 　いつも通りだ？
 　……さっきのは冗談なのかな？）
 #
 <sprite "ta02a10.iph" 6 5 12>
-<name "Elle" "!CA0062">
+<name "イエル" "!CA0062">
 （そうよね。
 　あの師匠が、セリスの師匠となんて……
 　でも、うーん……）
@@ -275,61 +275,61 @@
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0143">
+<name "ヴィオラ" "!BA0143">
 「ラズロックは、この後は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、家に帰る。
 　セリスが待っているしな」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0144">
+<name "ヴィオラ" "!BA0144">
 「そう……
 　次はいつ来るの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いつ来ると言われてもな……
 　まあ、気が向いたら」
 #
 <sprite "ta03a15.iph" 4 4 12>
-<name "Viola" "!BA0145">
+<name "ヴィオラ" "!BA0145">
 「……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「会いたければ、いつでも会えるだろ」
 #
 <sprite "ta03a18.iph" 4 4 12>
-<name "Viola" "!BA0146">
+<name "ヴィオラ" "!BA0146">
 「別に会いたいわけじゃないわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうか」
 #
 <sprite "ta03a16.iph" 4 4 12>
-<name "Viola" "!BA0147">
+<name "ヴィオラ" "!BA0147">
 「そうよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「可愛くないな」
 #
 <sprite "ta03a17.iph" 4 4 12>
-<name "Viola" "!BA0148">
+<name "ヴィオラ" "!BA0148">
 「ぷいっ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「昨日はあんなに可愛かった……うおおっ！
 　し、室内で攻撃魔法は止めよう」
 #
 <sprite "ta03a75.iph" 4 4 12>
-<name "Viola" "!BA0149">
+<name "ヴィオラ" "!BA0149">
 「くだらない事を言わないように」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はいはい」
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "Elle" "!CA0063">
+<name "イエル" "!CA0063">
 （………………………………なに、この空気。
 　私、邪魔者？）
 #
@@ -342,53 +342,53 @@
 　する事になった。
 #
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「食材は十分。
 　セリス、手伝え」
 #
 <sprite "ta01a09.iph" 4 4 11>
-<name "Celes" "!AA0436">
+<name "セリス" "!AA0436">
 「はい。
 　わかりました」
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 4 4 11>
-<name "Viola" "!BA0150">
+<name "ヴィオラ" "!BA0150">
 「メインは肉料理ね。
 　……サイドは私がやるわ。
 　前に教わった料理があるの」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それは楽しみだな」
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
-<name "Elle" "!CA0064">
+<name "イエル" "!CA0064">
 「師匠、お手伝いします」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0151">
+<name "ヴィオラ" "!BA0151">
 「ありがとう。
 　それじゃあ、卵を割って溶いて頂戴」
 #
 <sprite "ta02a09.iph" 6 5 12>
-<name "Elle" "!CA0065">
+<name "イエル" "!CA0065">
 「はい」
 #
 <removesprite -1 11>
 <sprite "ta04a65.iph" 4 4 11>
-<name "Soshiette" "!DA0141">
+<name "ソシエット" "!DA0141">
 「………………
 　お客様から、注文を聞いてきます」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「料理を手伝おうとしないのは賢明だが、残念なが
 　らお客は居ない。
 　出来た皿を運んでくれ」
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "Soshiette" "!DA0142">
+<name "ソシエット" "!DA0142">
 「わかりました」
 #
 <removesprite -1 11>
@@ -399,31 +399,31 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA0437">
+<name "セリス" "!AA0437">
 「師匠。
 　魔法使いの花嫁に関してなんですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ？」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0438">
+<name "セリス" "!AA0438">
 「師匠は、定期的に魔力を吐き出す必要があるじゃ
 　ないですか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0439">
+<name "セリス" "!AA0439">
 「その、女性の場合もそうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、女性は必要無い。
 　月一で出しているからな」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0441">
+<name "セリス" "!AA0441">
 「月一？
 　……………………あ、あー！」
 #
@@ -433,78 +433,78 @@
 　外に排出する。
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA0442">
+<name "セリス" "!AA0442">
 「あはは……
 　それでも魔力が出せるんですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうみたいだな」
 #
 　俺の場合は、男なので生理が無く、排出手段が無
 　いので女性との性交が必要となるわけだ。
 #
 <sprite "ta01a75.iph" 4 4 12>
-<name "Celes" "!AA0443">
+<name "セリス" "!AA0443">
 「その、それが可能だったら、師匠も……その一人
 　で……えっと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一人でやっても魔力は出るが、即座に回収してし
 　まうから意味がなかった。
 　どうやら、受け取り手が居ないと難しいらしい」
 #
 <sprite "ta01a74.iph" 4 4 12>
-<name "Celes" "!AA0444">
+<name "セリス" "!AA0444">
 「実験済みなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、使いこなす為にも、よく知らないと駄目だ
 　からな」
 #
 <sprite "ta01a97.iph" 4 4 12>
-<name "Celes" "!AA0445">
+<name "セリス" "!AA0445">
 「そ、そうですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちなみに、射精しなくても身体を触れ合わせてい
 　るだけでも魔力を出す事は可能だ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0446">
+<name "セリス" "!AA0446">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だが、微々たるものでな。
 　俺が集める魔力量と変わりない」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA0447">
+<name "セリス" "!AA0447">
 「でも、ずっと手を繋いでいれば魔力を出せるんで
 　すよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あー……手じゃ駄目だった」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0449">
+<name "セリス" "!AA0449">
 「？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「キスだ」
 #
 <sprite "ta01a79.iph" 4 4 12>
-<name "Celes" "!AA0448">
+<name "セリス" "!AA0448">
 「………………………………」
 #
 <removesprite -1 11>
 　セリスは面白いぐらいに表情を色々と変えた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「試してみるか？
 　ちなみに三十分以上はしないと駄目だぞ」
 #
 <sprite "ta01a97.iph" 4 4 11>
-<name "Celes" "!AA0450">
+<name "セリス" "!AA0450">
 「あ、あはは……」
 #
 <removesprite -1 11>
@@ -514,7 +514,7 @@
 　まった。
 #
 <sprite "ta01a80.iph" 4 4 11>
-<name "Celes" "!AA0451">
+<name "セリス" "!AA0451">
 「た、試しになりませんでした……」
 #
 <removesprite -1 11>
@@ -522,56 +522,56 @@
 :25A3
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会は元々、魔法技術を競う為に
 　出来た大会なのだが、今ではなんでもありの戦闘
 　大会だ」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0452">
+<name "セリス" "!AA0452">
 「なんでもありですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一応、観客に被害が及ばないように最低限のルー
 　ルは決まっているけどな」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0453">
+<name "セリス" "!AA0453">
 「……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ここ最近では、一番権威のある大会として認識さ
 　れているから、各国から様々な者達が参加する」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「魔法使い協会からも、十数人の魔法使いが参加す
 　るはずだ。
 　ライバルは多いぞ」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA0454">
+<name "セリス" "!AA0454">
 「が、頑張ります！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、頑張れ。
 　……それでだ。
 　今後の教育方針だが、とりあえずこの大会で勝ち
 　抜けるように鍛える」
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "Celes" "!AA0455">
+<name "セリス" "!AA0455">
 「はい！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「その為に、薬学や占星術は後回しにして、実戦的
 　な技術を重視していく」
 #
 <sprite "ta01a22.iph" 4 4 12>
-<name "Celes" "!AA0456">
+<name "セリス" "!AA0456">
 「わかりました。
 　よろしくお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よし。
 　それじゃあ、今日のメニューだが……」
 #
@@ -581,60 +581,60 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0457">
+<name "セリス" "!AA0457">
 「うーん……
 　協会で働くなら、やっぱり“保守”じゃないです
 　か？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……そうなのか？」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA0458">
+<name "セリス" "!AA0458">
 「はい。
 　不正を働く魔法使いを取り締まる。
 　良いお仕事だと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「取り締まりねぇ……
 　ほぼ、暗殺だぞ」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA0459">
+<name "セリス" "!AA0459">
 「そうなんですか！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「取り締まられるような魔法使い相手じゃ、戦闘は
 　避けられないだろ。
 　だったら、奇襲で一気にケリをつける」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA0460">
+<name "セリス" "!AA0460">
 「う……確かに。
 　でも、それが市民の為なら」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「“保守”は市民を守るんじゃなくて、協会を守る
 　だけだ」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0461">
+<name "セリス" "!AA0461">
 「……」
 #
 <removesprite -1 11>
 <sprite "ta04a19.iph" 4 4 11>
-<name "Soshiette" "!DA0143">
+<name "ソシエット" "!DA0143">
 「ご主人様。
 　私が所属する部門に不満があるのでしたら、私に
 　直接言ってください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ほらみろ。
 　この接敵術。
 　見事なもの……いたたたたたたたたた！」
 #
 <sprite "ta04a83.iph" 4 4 12>
-<name "Soshiette" "!DA0145">
+<name "ソシエット" "!DA0145">
 「協会を守る事が、市民を守る事にもなるのです。
 　純粋な魔法使いを惑わさないようにお願いします」
 #
@@ -644,24 +644,24 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA0462">
+<name "セリス" "!AA0462">
 「ソシエットさん。
 　魔法使い協会に派閥とかは無いんですか？」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
-<name "Soshiette" "!DA0146">
+<name "ソシエット" "!DA0146">
 「昔はありましたが、今は協会長の下にほぼ一枚岩
 　の状態です」
 #
 <sprite "ta01a09.iph" 2 5 12>
-<name "Celes" "!AA0463">
+<name "セリス" "!AA0463">
 「そうなんですか？
 　協会長って凄いんですね」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0147">
+<name "ソシエット" "!DA0147">
 「はい。
 　凄いんですよ」
 #
@@ -671,60 +671,60 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0464">
+<name "セリス" "!AA0464">
 「前に協会に派閥は無いと聞きましたが、人が集ま
 　ればどうしてもできるんじゃないですか？」
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta04a02.iph" 6 4 11>
-<name "Soshiette" "!DA0148">
+<name "ソシエット" "!DA0148">
 「そうですね……
 　協会で言うなら、部門がそれにあたるかも知れま
 　せん」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0154">
+<name "ソシエット" "!DA0154">
 「“軍事”と“情報”が予算面で対立したり、仕事
 　面では縄張りを争ったりなど」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0150">
+<name "ソシエット" "!DA0150">
 「ですが、やはり派閥はありません」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0465">
+<name "セリス" "!AA0465">
 「……どうしてですか？」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0151">
+<name "ソシエット" "!DA0151">
 「それは現在の協会長とその六人のお弟子さん達が、
 　協会内で強い権力を持ちながらも固い結束を保っ
 　ているからです」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0466">
+<name "セリス" "!AA0466">
 「固い結束ですか……」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0152">
+<name "ソシエット" "!DA0152">
 「はい。
 　ちなみに、協会長の六人のお弟子さん達は、その
 　優秀さからグレイトシックスと呼ばれたりしてい
 　ます」
 #
 <sprite "ta01a09.iph" 2 5 12>
-<name "Celes" "!AA0467">
+<name "セリス" "!AA0467">
 「へー……かっこいいですね」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0155">
+<name "ソシエット" "!DA0155">
 「そうですね。
 　ですので、協会に関わるならこの六人を敵に回し
 　てはいけませんよ」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA0468">
+<name "セリス" "!AA0468">
 「は、はい。
 　注意します」
 #
@@ -734,82 +734,82 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA0469">
+<name "セリス" "!AA0469">
 「師匠。
 　グレイトシックスって知ってますか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、知ってるぞ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0470">
+<name "セリス" "!AA0470">
 「どんな人達なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA0472">
+<name "セリス" "!AA0472">
 「い、言い難いなら別に良いです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、そうじゃなくてだな……うーん」
 #
 <removesprite -1 11>
 <sprite "ta01a92.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Soshiette" "!DA0156">
+<name "ソシエット" "!DA0156">
 「セリスさん」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0473">
+<name "セリス" "!AA0473">
 「ソシエットさん」
 #
 <sprite "ta04a63.iph" 6 4 12>
-<name "Soshiette" "!DA0157">
+<name "ソシエット" "!DA0157">
 「グレイトシックス筆頭は、目の前に居ます」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0474">
+<name "セリス" "!AA0474">
 「ソシエットさんですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0158">
+<name "ソシエット" "!DA0158">
 「いえ、こちらです」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0475">
+<name "セリス" "!AA0475">
 「………………………………………………師匠？」
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "Soshiette" "!DA0164">
+<name "ソシエット" "!DA0164">
 「はい」
 #
 <sprite "ta01a11.iph" 2 5 12>
-<name "Celes" "!AA0476">
+<name "セリス" "!AA0476">
 「えええええええええええええええっ！」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA0160">
+<name "ソシエット" "!DA0160">
 「ちなみに、ヴィオラ様もグレイトシックスの一人
 　です」
 #
 <sprite "ta01a10.iph" 2 5 12>
-<name "Celes" "!AA0477">
+<name "セリス" "!AA0477">
 「そ、そうなんですか？」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0161">
+<name "ソシエット" "!DA0161">
 「はい。
 　協会長自慢の方々です」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「自慢されてもな……
 　ん？
 　どうしたセリス？」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0478">
+<name "セリス" "!AA0478">
 「し、師匠って……実はすごかったんだ」
 #
 　…………
@@ -820,12 +820,12 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0479">
+<name "セリス" "!AA0479">
 「師匠。
 　グレイトシックスには、師匠とヴィオラさん以外
 　にどんな方々が居るんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「んー……
 　ヘンリエッタ、エルザ、メイツェル、キーマの四
 　人だ」
@@ -833,116 +833,116 @@
 <removesprite -1 11>
 　ヘンリエッタ＝ベベルズ
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヘンリエッタは、協会研究部の元長だ。
 　今は結婚して主婦をしている」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0480">
+<name "セリス" "!AA0480">
 「主婦ですか……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヴィオラ以上に実践向きで破壊魔だったんだが、
 　結婚してから一気に大人しくなった」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヘンリエッタを知る連中は、全員が猫を被ってい
 　ると声を揃えて近付かない。
 　まあ、いつか暴発するだろうともっぱらの噂だ」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA0481">
+<name "セリス" "!AA0481">
 「あはは……」
 #
 <removesprite -1 11>
 　エルザ＝ベベルズ
 #
-<name "Lazlocke">
+<name "ラズロック">
 「エルザはヘンリエッタの妹だ。
 　ベルーダ王国で宮廷魔法使いをしている」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ヘンリエッタとは違って、実践よりも研究の方が
 　得意だったな」
 #
 　メイツェル＝ラグ
 #
-<name "Lazlocke">
+<name "ラズロック">
 「メイツェルは協会でガルンズ大陸北部方面支部長
 　をやっている」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「軍団指揮に、情報戦が得意と言う変な魔法使いだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「コイツを敵にまわすと、陰湿な報復が待っている
 　から、ヴィオラと違う意味で敵にまわしちゃいけ
 　ない」
 #
 　キーマ＝ルスト
 #
-<name "Lazlocke">
+<name "ラズロック">
 「キーマはリカオン王国の宮廷魔法使いだ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「派手さは無いが、実力ある魔法使いだ。
 　状況によれば、ヴィオラと対等以上の戦いが出来る」
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "Celes" "!AA0482">
+<name "セリス" "!AA0482">
 「凄い人ばっかりですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「だな」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0483">
+<name "セリス" "!AA0483">
 「師匠は、その人達の筆頭なんですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺は一番最初に弟子になったから、筆頭なだけだ。
 　実力じゃない」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0484">
+<name "セリス" "!AA0484">
 「そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、魔法で勝てるのは……
 　メイツェルぐらいかな」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「しかし、ヤツはそれを補って余りある才能を他で
 　発揮してる。
 　俺が勝てるヤツはいないな」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA0485">
+<name "セリス" "!AA0485">
 「そんな事は無いと思います」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「庇ってくれるのは嬉しいがな、事実だ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あと、グレイトシックスって名前は、他の連中が
 　勝手に言ってるだけだからな。
 　俺達が名乗った覚えは無いんで、あまり言わない
 　ように」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA0486">
+<name "セリス" "!AA0486">
 「ええっ！
 　そうなんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、敵も多いしな。
 　変にバレて勝負を挑まれるのも面倒だ」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA0487">
+<name "セリス" "!AA0487">
 「むう……わかりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「よろしい」
 #
 <removesprite -1 11>
@@ -952,114 +952,114 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0488">
+<name "セリス" "!AA0488">
 「師匠。
 　前にソシエットさんから、協会内に派閥は無いと
 　聞いたんですけど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「派閥か……
 　まあ、全員が同じ派閥なら、無いと同じだな。
 　それがどうかしたのか？」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0489">
+<name "セリス" "!AA0489">
 「いえ、その……噂なんですが……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「？」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA0490">
+<name "セリス" "!AA0490">
 「協会内部で、その結社があるって」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「結社が？」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA0491">
+<name "セリス" "!AA0491">
 「はい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺は聞いた事が無いが……
 　どんな結社なんだ？」
 #
 　場合によっては、ソシエットに報告して……
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA0492">
+<name "セリス" "!AA0492">
 「目的はわかりませんが“黄金の薔薇”と言うらし
 　いんですが」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0493">
+<name "セリス" "!AA0493">
 「あの……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ええとだな……」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Soshiette" "!DA0165">
+<name "ソシエット" "!DA0165">
 「それは、ご主人様に抱かれた女性による結社です」
 #
 <sprite "ta01a32.iph" 2 5 12>
-<name "Celes" "!AA0494">
+<name "セリス" "!AA0494">
 「え……」
 #
 <sprite "ta04a13.iph" 6 4 12>
-<name "Soshiette" "!DA0166">
+<name "ソシエット" "!DA0166">
 「目的はご主人様の保護と寵愛を受ける事。
 　参加条件は、ご主人様に抱かれる事」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0167">
+<name "ソシエット" "!DA0167">
 「協会内の最大勢力です」
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "Soshiette" "!DA0168">
+<name "ソシエット" "!DA0168">
 「ちなみに、セリスさんもそこに所属している事に
 　なっています」
 #
 <sprite "ta01a37.iph" 2 5 12>
-<name "Celes" "!AA0495">
+<name "セリス" "!AA0495">
 「ええっ！
 　い、いつの間に！」
 #
 <sprite "ta04a24.iph" 6 4 12>
-<name "Soshiette" "!DA0169">
+<name "ソシエット" "!DA0169">
 「毎月、社報が届いていると思いますが……」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA0496">
+<name "セリス" "!AA0496">
 「え……社報……
 　ひょっとして、月初めに届く師匠の先月の動きが
 　詳細に書かれたあれですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「待て！
 　そんなものが届いているのか！」
 #
 <sprite "ta01a29.iph" 2 5 12>
-<name "Celes" "!AA0497">
+<name "セリス" "!AA0497">
 「え、ええ……てっきり、師匠からの遠まわしな活
 　動報告かと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0170">
+<name "ソシエット" "!DA0170">
 「とりあえず、セリスさん。
 　結社の存在は極秘です。
 　誰にも喋らないように」
 #
 <sprite "ta01a31.iph" 2 5 12>
-<name "Celes" "!AA0498">
+<name "セリス" "!AA0498">
 「は、はい……」
 #
 <removesprite -1 11>
@@ -1071,62 +1071,62 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0499">
+<name "セリス" "!AA0499">
 「師匠はクデュール魔法大会に詳しいんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「クデュール魔法大会は、魔法使い協会が主催だか
 　らな。
 　人並みには知っていると思うぞ」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA0500">
+<name "セリス" "!AA0500">
 「どんな人が参加するんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どんな人って……腕に自信があるヤツとか記念参
 　加とか名前を売りたいヤツとか……」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA0501">
+<name "セリス" "!AA0501">
 「有名人とか居ます？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「あー、有名人か……
 　どちらかと言えば有名人を作る大会だが、ここ最
 　近はヴィオラやソシエットが猛威を振るっている
 　からなぁ……」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0507">
+<name "セリス" "!AA0507">
 「…………え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ん？
 　どうした？」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0503">
+<name "セリス" "!AA0503">
 「え、いや、その……
 　クデュール魔法大会って、ヴィオラさんやソシエッ
 　トさんも出るんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、協会からの要請で強制参加だ。
 　俺も時々、要請されるし、協会長もたまに出たり
 　するぞ」
 #
 <sprite "ta01a37.iph" 4 4 12>
-<name "Celes" "!AA0504">
+<name "セリス" "!AA0504">
 「……クデュール魔法大会って、凄い大会なんです
 　ね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、だから三年少しで優勝なんて奇跡だなんだ
 　とソシエットが褒めていたんじゃないか」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA0505">
+<name "セリス" "!AA0505">
 「あ、あははは……
 　勉強してきます」
 #
@@ -1136,187 +1136,187 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0506">
+<name "セリス" "!AA0506">
 「師匠の魔力を与える力ですが……
 　男性には無理なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、無理だぞ」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA0508">
+<name "セリス" "!AA0508">
 「試したんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……………………」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0509">
+<name "セリス" "!AA0509">
 「す、すみません。
 　すごく渋い顔をさせてしまって……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「…………………………」
 #
 <sprite "ta01a29.iph" 4 4 12>
-<name "Celes" "!AA0510">
+<name "セリス" "!AA0510">
 「あの、師匠？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……………………」
 #
 <removesprite -1 11>
 <sprite "ta01a29.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
-<name "Soshiette" "!DA0171">
+<name "ソシエット" "!DA0171">
 「セリスさん。
 　しばらく放置しましょう」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0172">
+<name "ソシエット" "!DA0172">
 「ご主人様の触れてはいけない部分に触れてしまい
 　ましたので」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA0511">
+<name "セリス" "!AA0511">
 「そ、そうなんですか？」
 #
 <sprite "ta04a86.iph" 6 4 12>
-<name "Soshiette" "!DA0173">
+<name "ソシエット" "!DA0173">
 「ええ……
 　実は昔、協会の方でも男性に魔力を渡せないかと
 　実験がありました」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0512">
+<name "セリス" "!AA0512">
 「実験ですか？」
 #
 <sprite "ta04a84.iph" 6 4 12>
-<name "Soshiette" "!DA0174">
+<name "ソシエット" "!DA0174">
 「はい」
 #
 <sprite "ta04a85.iph" 6 4 12>
-<name "Soshiette" "!DA0175">
+<name "ソシエット" "!DA0175">
 「それが、死ぬほどご主人様が嫌がりまして」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0513">
+<name "セリス" "!AA0513">
 「で、でしょうね……」
 #
 <sprite "ta04a65.iph" 6 4 12>
-<name "Soshiette" "!DA0176">
+<name "ソシエット" "!DA0176">
 「なんとか説得して……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「嘘を吐くなぁぁっ！
 　殴って縛って吊るしたクセにぃぃっ！」
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "Soshiette" "!DA0177">
+<name "ソシエット" "!DA0177">
 「黙ってください」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「げふぅぅぅっ！」
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "Celes" "!AA0514">
+<name "セリス" "!AA0514">
 「ああっ！
 　見事なボディがあんなにも深々と……」
 #
 <sprite "ta04a62.iph" 6 4 12>
-<name "Soshiette" "!DA0179">
+<name "ソシエット" "!DA0179">
 「話を続けます」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0515">
+<name "セリス" "!AA0515">
 「は、はぁ……」
 #
 <sprite "ta04a84.iph" 6 4 12>
-<name "Soshiette" "!DA0190">
+<name "ソシエット" "!DA0190">
 「あまりにも嫌がるので、それならばと、できるだ
 　け女の子に見える男の子を用意しまして」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0516">
+<name "セリス" "!AA0516">
 「女の子に見える男の子ですか」
 #
 <sprite "ta04a89.iph" 6 4 12>
-<name "Soshiette" "!DA0181">
+<name "ソシエット" "!DA0181">
 「はい。
 　そして、女装させて接近させたのです」
 #
 <sprite "ta01a09.iph" 2 5 12>
-<name "Celes" "!AA0517">
+<name "セリス" "!AA0517">
 「ど、どうなったんですか？」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0182">
+<name "ソシエット" "!DA0182">
 「最初はご主人様も諦めたようでした」
 #
 <sprite "ta01a12.iph" 2 5 12>
-<name "Celes" "!AA0518">
+<name "セリス" "!AA0518">
 「ほ、ほう……」
 #
 <sprite "ta04a93.iph" 6 4 12>
-<name "Soshiette" "!DA0183">
+<name "ソシエット" "!DA0183">
 「束の間の会話、手と手が触れあい、頬を赤らめる
 　ご主人様と男の子……」
 #
 <sprite "ta01a68.iph" 2 5 12>
-<name "Celes" "!AA0519">
+<name "セリス" "!AA0519">
 「ご、ごくり」
 #
 <sprite "ta04a56.iph" 6 4 12>
-<name "Soshiette" "!DA0184">
+<name "ソシエット" "!DA0184">
 「突如、ご主人様を押し倒した男の子……」
 #
 <sprite "ta01a65.iph" 2 5 12>
-<name "Celes" "!AA0520">
+<name "セリス" "!AA0520">
 「ご主人様が受けですか！」
 #
 <sprite "ta04a46.iph" 6 4 12>
-<name "Soshiette" "!DA0185">
+<name "ソシエット" "!DA0185">
 「はい。
 　それで、誰もが成功を確信したのですが……」
 #
 <sprite "ta04a23.iph" 6 4 12>
-<name "Soshiette" "!DA0187">
+<name "ソシエット" "!DA0187">
 「男の子が服を脱ぎ……股間部のアレが見えた時。
 　想像を越える動きで、男の子を吹き飛ばし、協会
 　施設を破壊しながら逃走をしまして……」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA0521">
+<name "セリス" "!AA0521">
 「失敗と……」
 #
 <sprite "ta04a86.iph" 6 4 12>
-<name "Soshiette" "!DA0191">
+<name "ソシエット" "!DA0191">
 「残念ながら。
 　その後、被害の甚大さから実験は無期限中止とな
 　りました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うう……
 　あの恐怖は忘れられない」
 #
 <sprite "ta01a90.iph" 2 5 12>
-<name "Celes" "!AA0522">
+<name "セリス" "!AA0522">
 「とりあえず、今の話で言える事は一つ」
 #
 <sprite "ta01a05.iph" 2 5 12>
-<name "Celes" "!AA0523">
+<name "セリス" "!AA0523">
 「師匠の根性無し」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「まて！
 　その非難はおかしいだろ！」
 #
 <sprite "ta04a84.iph" 6 4 12>
-<name "Soshiette" "!DA0189">
+<name "ソシエット" "!DA0189">
 「いえ、妥当です」
 #
 <removesprite -1 11>
@@ -1324,75 +1324,75 @@
 :635B
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「最近、沈んでいるな……」
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA0524">
+<name "セリス" "!AA0524">
 「そ、そうですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……隠すなら、バレないようにな」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA0525">
+<name "セリス" "!AA0525">
 「すみません」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それで、何かあったのか？」
 #
 <sprite "ta01a29.iph" 4 4 12>
-<name "Celes" "!AA0526">
+<name "セリス" "!AA0526">
 「……魔法学園の生徒に、実力も無いのに調子に乗っ
 　てるって」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「実力が無いのか？」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA0527">
+<name "セリス" "!AA0527">
 「自分じゃ、良くわからなくて……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「調子に乗ってたのか？」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0528">
+<name "セリス" "!AA0528">
 「そのつもりは無くても、そう思われたのかも……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……ソシエットに相談するか」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA0529">
+<name "セリス" "!AA0529">
 「…………………………ぼ、暴力で解決するのは良
 　くないと思うんです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なるほど。
 　じゃあ、後は……
 　多少、ヒガまれたぐらいでグラつかない実力を付
 　ける事だな」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA0530">
+<name "セリス" "!AA0530">
 「……グラつかない実力？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　練習に練習を重ね、調子に乗るぐらいの実力を付
 　けろ」
 #
 <sprite "ta01a31.iph" 4 4 12>
-<name "Celes" "!AA0531">
+<name "セリス" "!AA0531">
 「……そうですね。
 　はい、その通りです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「くだらない事で落ち込んでないで、練習だ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA0532">
+<name "セリス" "!AA0532">
 「はい、頑張ります！」
 #
 <removesprite -1 11>
@@ -1401,97 +1401,97 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA0687">
+<name "セリス" "!AA0687">
 「……ソシエットさん」
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Soshiette" "!DA0210">
+<name "ソシエット" "!DA0210">
 「なんですか？」
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "Celes" "!AA0688">
+<name "セリス" "!AA0688">
 「どうして師匠の事をご主人様って呼ぶんですか？
 　前に様式美だとは聞いたのですが……その」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0211">
+<name "ソシエット" "!DA0211">
 「信じられませんか？」
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "Celes" "!AA0689">
+<name "セリス" "!AA0689">
 「正直……」
 #
 <sprite "ta04a85.iph" 6 4 12>
-<name "Soshiette" "!DA0220">
+<name "ソシエット" "!DA0220">
 「メイド服を着ているのは、相手を油断させる為で
 　した」
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "Celes" "!AA0690">
+<name "セリス" "!AA0690">
 「油断ですか？」
 #
 <sprite "ta04a00.iph" 6 4 12>
-<name "Soshiette" "!DA0213">
+<name "ソシエット" "!DA0213">
 「ええ。
 　この格好をしていると、大抵の方が近くまで寄せ
 　てくれます」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0221">
+<name "ソシエット" "!DA0221">
 「ですが、ご主人様と相手を呼んだのは、ラズロッ
 　ク様だけです」
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "Celes" "!AA0691">
+<name "セリス" "!AA0691">
 「尊敬ですか？」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0215">
+<name "ソシエット" "!DA0215">
 「いえ、畏怖です」
 #
 <sprite "ta01a32.iph" 2 5 12>
-<name "Celes" "!AA0696">
+<name "セリス" "!AA0696">
 「畏怖？
 　その、師匠からは、失礼ながら……」
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "Soshiette" "!DA0216">
+<name "ソシエット" "!DA0216">
 「畏怖です」
 #
 <sprite "ta04a23.iph" 6 4 12>
-<name "Soshiette" "!DA0217">
+<name "ソシエット" "!DA0217">
 「ご主人様と呼んで、私が服従している事を伝え続
 　けなければ、怖いからです」
 #
 <sprite "ta01a27.iph" 2 5 12>
-<name "Celes" "!AA0693">
+<name "セリス" "!AA0693">
 「師匠が……怖い？」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0219">
+<name "ソシエット" "!DA0219">
 「はい」
 #
 <sprite "ta04a04.iph" 6 4 12>
-<name "Soshiette" "!DA0222">
+<name "ソシエット" "!DA0222">
 「でも……大丈夫です。
 　今のご主人様は怖くありません」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0223">
+<name "ソシエット" "!DA0223">
 「セリスさんのお陰かもしれません」
 #
 <sprite "ta01a31.iph" 2 5 12>
-<name "Celes" "!AA0694">
+<name "セリス" "!AA0694">
 「あはは……」
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "Soshiette" "!DA0224">
+<name "ソシエット" "!DA0224">
 「ですが今の話、ご主人様には内密でお願いします」
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "Celes" "!AA0695">
+<name "セリス" "!AA0695">
 「わ、わかりました」
 #
 <removesprite -1 11>
@@ -1500,24 +1500,24 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "Soshiette" "!DA0225">
+<name "ソシエット" "!DA0225">
 「遠くに行きたいのでしたら、飛行の魔法を覚える
 　事をお薦めします」
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "Celes" "!AA0698">
+<name "セリス" "!AA0698">
 「飛行の魔法ですか……」
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "Soshiette" "!DA0226">
+<name "ソシエット" "!DA0226">
 「はい。
 　風の魔法の一つです。
 　考えてみてください」
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "Celes" "!AA0699">
+<name "セリス" "!AA0699">
 「わかりました」
 #
 <removesprite -1 11>
@@ -1530,93 +1530,93 @@
 #
 <background "bg008a0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
-<name "Viola" "!BA0153">
+<name "ヴィオラ" "!BA0153">
 「どうしたの？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ちょっと教えて欲しい事があってな。
 　あと、見せて欲しい資料と」
 #
 <sprite "ta03a00.iph" 4 4 12>
-<name "Viola" "!BA0154">
+<name "ヴィオラ" "!BA0154">
 「……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「なんだ、変な顔をして」
 #
 <sprite "ta03a03.iph" 4 4 12>
-<name "Viola" "!BA0155">
+<name "ヴィオラ" "!BA0155">
 「あ、いや……
 　何かあったっけ？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「何かって何だ？」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0157">
+<name "ヴィオラ" "!BA0157">
 「いや、貴方が私に教えを請いに来るなんて珍しい
 　から」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「苛めるなよ」
 #
 <sprite "ta03a05.iph" 4 4 12>
-<name "Viola" "!BA0158">
+<name "ヴィオラ" "!BA0158">
 「それで、理由は？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「セリスにそろそろ本格的に教えようと思って再勉
 　強したんだが……
 　結構忘れているもんだと慌ててな」
 #
 <sprite "ta03a02.iph" 4 4 12>
-<name "Viola" "!BA0159">
+<name "ヴィオラ" "!BA0159">
 「……変な苦労を背負い込むぐらいなら、学園に放
 　り込めば良いのに」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「面倒を見始めたからな。
 　途中で放り出せないだろ」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0160">
+<name "ヴィオラ" "!BA0160">
 「……そうね。
 　私の授業料は高いわよ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「一応、手土産は持参しているぞ」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0161">
+<name "ヴィオラ" "!BA0161">
 「良い心掛けね」
 #
 <removesprite -1 11>
 　数時間後。
 #
 <sprite "ta03a05.iph" 4 4 11>
-<name "Viola" "!BA0162">
+<name "ヴィオラ" "!BA0162">
 「待って、もう少しで思い出すから……
 　うーん……ええっと……」
 #
 　ヴィオラはかなり苦戦していた。
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺達、どちらかと言えば実践派だからなぁ」
 #
 <sprite "ta03a37.iph" 4 4 12>
-<name "Viola" "!BA0163">
+<name "ヴィオラ" "!BA0163">
 「違うの。
 　ド忘れ！
 　あるでしょ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、だから俺は聞きに来たんだが……」
 #
 <sprite "ta03a34.iph" 4 4 12>
-<name "Viola" "!BA0164">
+<name "ヴィオラ" "!BA0164">
 「習った筈なのに……くぅ～」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「俺も習った筈なんだよなぁ～」
 #
 <removesprite -1 11>
@@ -1628,7 +1628,7 @@
 <music 6>
 <background "bg008a0.iph" 11>
 <sprite "ta02a01.iph" 4 4 11>
-<name "Elle" "!CA0102">
+<name "イエル" "!CA0102">
 「あれ？
 　師匠、机の上の香水ビン、二つありますけど……
 　どっちですか？」
@@ -1636,63 +1636,63 @@
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta02a01.iph" 6 4 11>
-<name "Viola" "!BA0165">
+<name "ヴィオラ" "!BA0165">
 「今日は城の方へ行くから、大きい方」
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "Elle" "!CA0103">
+<name "イエル" "!CA0103">
 「こっちですね」
 #
 <sprite "ta03a01.iph" 2 5 12>
-<name "Viola" "!BA0166">
+<name "ヴィオラ" "!BA0166">
 「ありがとう」
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "Elle" "!CA0104">
+<name "イエル" "!CA0104">
 「あの……聞いて良いですか？」
 #
 <sprite "ta03a03.iph" 2 5 12>
-<name "Viola" "!BA0167">
+<name "ヴィオラ" "!BA0167">
 「どうしたの？」
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "Elle" "!CA0105">
+<name "イエル" "!CA0105">
 「その……
 　机の上にあったもう片方の香水、大事にしてます
 　よね」
 #
 <sprite "ta03a00.iph" 2 5 12>
-<name "Viola" "!BA0168">
+<name "ヴィオラ" "!BA0168">
 「そう？」
 #
 <sprite "ta02a01.iph" 6 4 12>
-<name "Elle" "!CA0106">
+<name "イエル" "!CA0106">
 「ええ、その大きい方とは偉く扱いが違うと言うか
 　……
 　大きいのは放り出しているのに、小さい方はちゃ
 　んと飾ってありましたから」
 #
 <sprite "ta03a01.iph" 2 5 12>
-<name "Viola" "!BA0169">
+<name "ヴィオラ" "!BA0169">
 「……気のせいよ。
 　ほら、馬車が来たわ。
 　もう少しだけ待たせて頂戴」
 #
 <sprite "ta02a27.iph" 6 4 12>
-<name "Elle" "!CA0107">
+<name "イエル" "!CA0107">
 「は、はい」
 #
 <removesprite -1 11>
 　……
 #
 <sprite "ta03a01.iph" 4 4 11>
-<name "Viola" "!BA0170">
+<name "ヴィオラ" "!BA0170">
 「……大事に……」
 #
 <removesprite -1 11>
 <background "bg007a0.iph" 11>
 <sprite "ta02a35.iph" 4 4 11>
-<name "Elle" "!CA0108">
+<name "イエル" "!CA0108">
 「……あの小さい方って、セリスの家に行く時につ
 　けてるのよねぇ。
 　なぜかしら？」
@@ -1702,25 +1702,25 @@
 :7F29
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「おう、ヴィオラ。
 　今日も綺麗だな」
 #
 <sprite "ta03a01.iph" 4 4 11>
-<name "Viola" "!BA0171">
+<name "ヴィオラ" "!BA0171">
 「ありがとう。
 　喉が渇いているわ。
 　冷たいモノ、あるかしら？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「酒しかないぞ」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0172">
+<name "ヴィオラ" "!BA0172">
 「それで良いわ。
 　今日は仕事、終ったし」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった。
 　ああ、そうだ。
 　酒の前に……」
@@ -1728,40 +1728,40 @@
 　俺は小箱をヴィオラに差し出す。
 #
 <sprite "ta03a03.iph" 4 4 12>
-<name "Viola" "!BA0173">
+<name "ヴィオラ" "!BA0173">
 「なに？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「遠くに行ってる時、お土産を良く貰うからな。
 　お返しだ」
 #
 <sprite "ta03a00.iph" 4 4 12>
-<name "Viola" "!BA0174">
+<name "ヴィオラ" "!BA0174">
 「……前にくれた香水と同じに見えるけど」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「つけてくれているみたいだし、似合ってるぞ」
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "Viola" "!BA0175">
+<name "ヴィオラ" "!BA0175">
 「……香水に罪は無いわね。
 　もらってあげるわ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そりゃどうも」
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "Viola" "!BA0176">
+<name "ヴィオラ" "!BA0176">
 「お酒」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はいはい」
 #
 <removesprite -1 11>
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0109">
+<name "イエル" "!CA0109">
 「師匠、お帰りなさい。
 　……偉く機嫌が良いですね。
 　なにか良い事でもありました？」
@@ -1769,29 +1769,29 @@
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
-<name "Viola" "!BA0177">
+<name "ヴィオラ" "!BA0177">
 「そうでもないわよ」
 #
 <sprite "ta02a01.iph" 6 5 12>
-<name "Elle" "!CA0110">
+<name "イエル" "!CA0110">
 「そうですか？」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0178">
+<name "ヴィオラ" "!BA0178">
 「ええ。
 　それより、貴女の調子はどうなの？」
 #
 <sprite "ta02a09.iph" 6 5 12>
-<name "Elle" "!CA0111">
+<name "イエル" "!CA0111">
 「あはは……頑張ってます」
 #
 <sprite "ta03a06.iph" 2 4 12>
-<name "Viola" "!BA0179">
+<name "ヴィオラ" "!BA0179">
 「明日、仕事は夕方からだから、それまで見てあげ
 　るわ」
 #
 <sprite "ta02a04.iph" 6 5 12>
-<name "Elle" "!CA0112">
+<name "イエル" "!CA0112">
 「は、はい！
 　よろしくお願いします」
 #
@@ -1800,40 +1800,40 @@
 :85F3
 <music 10>
 <background "bg002a0.iph" 11>
-<name "Lazlocke">
+<name "ラズロック">
 「ケーキ、作ったぞ？
 　食べるか？」
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA0415">
+<name "セリス" "!AA0415">
 「え、本当ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、シンプルなヤツだけどな」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA0416">
+<name "セリス" "!AA0416">
 「十分です。
 　うわっ……甘い香り」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA0417">
+<name "セリス" "!AA0417">
 「それにフルーツ？
 　干してないフルーツですよね。
 　これ……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ああ、最近の流行だぞ。
 　日持ちはしないが、なかなか良いだろ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA0418">
+<name "セリス" "!AA0418">
 「はい♪
 　でも、今日は何かの記念日ですか？
 　ケーキを焼くなんて、年末か記念日ぐらいですよ
 　ね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、ただのアルバイトだ」
 #
 <removesprite -1 11>
@@ -1842,31 +1842,31 @@
 　今、セリスが食べているのは試作品だ。
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA0419">
+<name "セリス" "!AA0419">
 「誰からの依頼なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「協会幹部。
 　俺の料理には、それなりにファンが居るんだぞ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA0420">
+<name "セリス" "!AA0420">
 「この味ならわかります」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「味に問題が無ければ、量産する。
 　しばらくは台所を占領するぞ」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA0421">
+<name "セリス" "!AA0421">
 「わかりました。
 　えっと、私は手伝わなくて良いんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「人の楽しみを取らないように」
 #
 <sprite "ta01a90.iph" 4 4 12>
-<name "Celes" "!AA0423">
+<name "セリス" "!AA0423">
 「はい。
 　では、勉強してます」
 #

@@ -1,80 +1,80 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
-<name "Celes" "!AA7157">
+<name "セリス" "!AA7157">
 「言いたい事を言ってみようのコーナー！」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA7158">
+<name "セリス" "!AA7158">
 「私、独り言が多いでしょうか？」
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "Celes" "!AA7159">
+<name "セリス" "!AA7159">
 「説明セリフが多いでしょうか？」
 #
 <sprite "ta01a24.iph" 4 4 12>
-<name "Celes" "!AA7160">
+<name "セリス" "!AA7160">
 「仕方無いじゃないですか！」
 #
 <sprite "ta01a05.iph" 4 4 12>
-<name "Celes" "!AA7161">
+<name "セリス" "!AA7161">
 「ふう……すっきり」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そういえば、セリス君。
 　君の初期案はかなり不機嫌キャラだったそうだね」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA7162">
+<name "セリス" "!AA7162">
 「え？
 　あ、はい……不機嫌と言うか、クール系みたいな」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はい、少しお願いしてみましょう！」
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "Celes" "!AA7163">
+<name "セリス" "!AA7163">
 「ええっ！
 　す、少しだけですよ……
 　ええと、では、師匠と出会った時のセリフです。
 　……ごほん」
 #
 <sprite "ta01a01.iph" 4 4 12>
-<name "Celes" "!AA7164">
+<name "セリス" "!AA7164">
 「消えて……
 　魔法使いじゃないなら用は無いから」
 #
 <removesprite -1 11>
-<name "Lazlocke">
+<name "ラズロック">
 「で、俺が魔法使いである事を明かすと……」
 #
 <sprite "ta01a01.iph" 4 4 11>
-<name "Celes" "!AA7165">
+<name "セリス" "!AA7165">
 「私に魔法を教えて……なんでもするわ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA7166">
+<name "セリス" "!AA7166">
 「こ、こんな感じだったんですけど」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……イマイチだな」
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "Celes" "!AA7167">
+<name "セリス" "!AA7167">
 「ええっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ボツになった理由が、漫才が出来ないだし」
 #
 <sprite "ta01a41.iph" 4 4 12>
-<name "Celes" "!AA7168">
+<name "セリス" "!AA7168">
 「うう、その通りだけど……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「言いたい事を言ってみよう」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA7169">
+<name "セリス" "!AA7169">
 「今の性格で良かったです。
 　漫才が出来て、嬉しいです」
 #

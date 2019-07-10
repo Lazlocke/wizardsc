@@ -49,27 +49,27 @@
 『闇の槍』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6270">
+<name "セリス" "!AA6270">
 「なんだか、投げ易いですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「闇の槍は、相手を倒そうとする意思がそのまま力
 　に変わるからな」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6271">
+<name "セリス" "!AA6271">
 「殺意をぶつけている感じですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ。
 　でも、まだまだだぞ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「呪文を唱える時、相手が誰だろうと必殺の心で投
 　げるように」
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "Celes" "!AA6272">
+<name "セリス" "!AA6272">
 「が、頑張ります」
 #
 <removesprite -1 11>
@@ -80,25 +80,25 @@
 『闇の槍』
 #
 <sprite "ta01a37.iph" 4 4 11>
-<name "Celes" "!AA6273">
+<name "セリス" "!AA6273">
 「闇で作った槍……うーん、禍々しい」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA6274">
+<name "セリス" "!AA6274">
 「しかし、この禍々しさ……
 　どこかで」
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
-<name "Soshiette" "!DA1182">
+<name "ソシエット" "!DA1182">
 「台所などに多発する、例の黒い生物では……」
 #
 <sprite "ta01a09.iph" 2 5 12>
-<name "Celes" "!AA6275">
+<name "セリス" "!AA6275">
 「それだ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それだじゃない！」
 #
 <removesprite -1 11>
@@ -109,36 +109,36 @@
 『暗黒球』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6276">
+<name "セリス" "!AA6276">
 「ひっさーつ！
 　黒い玉！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「いや、確かに黒い玉だけどな。
 　もう少し品のある言い方を希望したい」
 #
 <sprite "ta01a22.iph" 4 4 12>
-<name "Celes" "!AA6277">
+<name "セリス" "!AA6277">
 「クロマル！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……黒い玉で良いです」
 #
 \x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :C9F: 
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "Elle" "!CA0861">
+<name "イエル" "!CA0861">
 「あ、あの……
 　ダークネスボールとか」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……お前は良い娘だ」
 #
 <removesprite -1 11>
 　俺はイエルを抱擁した。
 #
 <sprite "ta01a26.iph" 4 4 11>
-<name "Celes" "!AA6278">
+<name "セリス" "!AA6278">
 「そこ！
 　ベタベタしない！」
 #
@@ -151,10 +151,10 @@
 『漆黒』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6279">
+<name "セリス" "!AA6279">
 「漆黒……夜、眠り難い時などに重宝しそうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……」
 #
 <removesprite -1 11>
@@ -169,28 +169,28 @@
 『吸魔』
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "Celes" "!AA6280">
+<name "セリス" "!AA6280">
 「相手の魔力を奪う技ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだ」
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "Celes" "!AA6281">
+<name "セリス" "!AA6281">
 「イメージとしては、チューな感じですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「チューな感じだ」
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "Celes" "!AA6282">
+<name "セリス" "!AA6282">
 「チュー」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……エロいな」
 #
 <sprite "ta01a59.iph" 4 4 12>
-<name "Celes" "!AA6283">
+<name "セリス" "!AA6283">
 「し、師匠がそうしろって言ったんじゃないです
 　か！」
 #
@@ -202,15 +202,15 @@
 『絶望に震える闇』
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "Celes" "!AA6284">
+<name "セリス" "!AA6284">
 「絶望に震える闇ってどんな感じの闇なんですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ニンジンの山に埋もれて、視界を遮られている状
 　態じゃないか」
 #
 <sprite "ta01a37.iph" 4 4 12>
-<name "Celes" "!AA6285">
+<name "セリス" "!AA6285">
 「それは確かに絶望ですね。
 　発狂してるかもしれません」
 #
@@ -224,25 +224,25 @@
 『世界を飲み込む闇』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6286">
+<name "セリス" "!AA6286">
 「世界を飲み込む闇……怖い名前の魔法ですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「そうだな。
 　でも、扱いを間違えると本当に世界を飲み込むか
 　らなぁ。
 　それを忘れない為の名前だろう」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA6287">
+<name "セリス" "!AA6287">
 「え！
 　あ……じょ、冗談ですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「注意するように」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA6288">
+<name "セリス" "!AA6288">
 「冗談だって言ってください。
 　怖くて使えなくなるじゃないですか！」
 #
@@ -254,11 +254,11 @@
 『闇よりも暗き闇』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6289">
+<name "セリス" "!AA6289">
 「闇よりも暗き闇って……
 　真っ黒って事ですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「詩的な表現に、疑問を持たないように」
 #
 <removesprite -1 11>
@@ -269,10 +269,10 @@
 『暗黒竜の咆哮』
 #
 <sprite "ta01a10.iph" 4 4 11>
-<name "Celes" "!AA6290">
+<name "セリス" "!AA6290">
 「暗黒竜の咆哮って、すごく耳に悪そうです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「音が目的じゃない。
 　暗黒竜が叫びながら放つ攻撃って事だ」
 #
@@ -284,11 +284,11 @@
 『闇の盾』
 #
 <sprite "ta01a90.iph" 4 4 11>
-<name "Celes" "!AA6291">
+<name "セリス" "!AA6291">
 「闇の盾って……
 　なんだか、美味しそうですね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「どうして、そんな感想を持つのかな」
 #
 <removesprite -1 11>
@@ -298,12 +298,12 @@
 <background "bg002a0.iph" 11>
 『闇の霧』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「これを覚えると、いつでもどこでもエロい事がで
 　きるようになる」
 #
 <sprite "ta01a97.iph" 4 4 11>
-<name "Celes" "!AA6292">
+<name "セリス" "!AA6292">
 「別にこれを覚えなくても、いつでもどこでもエロ
 　いじゃないですか」
 #
@@ -315,14 +315,14 @@
 『魔物召喚』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6293">
+<name "セリス" "!AA6293">
 「魔物の召喚……えいっ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うおっ、俺のアレが大きくなった！」
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "Celes" "!AA6294">
+<name "セリス" "!AA6294">
 「ある意味、魔物ですから成功と……」
 #
 <removesprite -1 11>
@@ -333,17 +333,17 @@
 『光の槍』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6295">
+<name "セリス" "!AA6295">
 「これが光の槍……」
 #
 <removesprite -1 11>
 　セリスは光の槍を手にする。
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6296">
+<name "セリス" "!AA6296">
 「あんまり、痛そうに見えませんね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「でも、痛いから俺に向けて投げないように」
 #
 <removesprite -1 11>
@@ -353,19 +353,19 @@
 <background "bg004a0.iph" 11>
 『光の槍』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「捻じ込んでやると、中で発光して凄い事になるん
 　だ」
 #
 <sprite "ta01a31.iph" 4 4 11>
-<name "Celes" "!AA6297">
+<name "セリス" "!AA6297">
 「えっと……それは本来の使い方ではないですよね」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「今度、試してやろう」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA6298">
+<name "セリス" "!AA6298">
 「……やったら、本気で貫きますよ」
 #
 <removesprite -1 11>
@@ -376,24 +376,24 @@
 『貫く勝利の光槍』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6299">
+<name "セリス" "!AA6299">
 「貫け！
 　勝利の槍っ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「違う！
 　貫く勝利の光槍だ！」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6300">
+<name "セリス" "!AA6300">
 「多少のアレンジは許されるのでは？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「それはある程度、熟練した後でだ。
 　今は基本を大事に」
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "Celes" "!AA6301">
+<name "セリス" "!AA6301">
 「はーい」
 #
 <removesprite -1 11>
@@ -404,48 +404,48 @@
 『満たす光』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6302">
+<name "セリス" "!AA6302">
 「満たす光！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「強烈な光だな……もう少し、柔らかさが欲しい」
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "Celes" "!AA6303">
+<name "セリス" "!AA6303">
 「柔らかさですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おう。
 　例えるなら、春の日の朝の日差しのような感じで」
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "Celes" "!AA6304">
+<name "セリス" "!AA6304">
 「わかり難いです」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「……女性の乳房ぐらいの柔らかさで」
 #
 <sprite "ta01a42.iph" 4 4 12>
-<name "Celes" "!AA6305">
+<name "セリス" "!AA6305">
 「余計にわかり難くなりました」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「ここだ！
 　ここ！
 　お前のここの柔らかさが欲しいと言ってるんだ！」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA6306">
+<name "セリス" "!AA6306">
 「え？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「おっと、すまん。
 　そこは二の腕だったな。
 　ははは……
 　でも、そこぐらいの柔らかさでも可だぞ」
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "Celes" "!AA6307">
+<name "セリス" "!AA6307">
 「師匠。
 　師匠殺しって罪になりましたっけ？」
 #
@@ -457,10 +457,10 @@
 『満たす光』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6308">
+<name "セリス" "!AA6308">
 「満たす光！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「適度な温かさ。
 　寒い日は重宝するな」
 #
@@ -472,24 +472,24 @@
 『幻惑』
 #
 <sprite "ta01a27.iph" 4 4 11>
-<name "Celes" "!AA6309">
+<name "セリス" "!AA6309">
 「幻惑、幻惑……難しい」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「できるだけ、正確にイメージするのがコツだ」
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "Celes" "!AA6310">
+<name "セリス" "!AA6310">
 「正確にですか……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「例えば……こうだ」
 #
 <removesprite -1 11>
 　俺は淫らなセリスの幻惑を出した。
 #
 <sprite "ta01a80.iph" 4 4 11>
-<name "Celes" "!AA6311">
+<name "セリス" "!AA6311">
 「きゃぁー、きゃぁー、きゃぁぁぁぁー！」
 #
 <removesprite -1 11>
@@ -503,10 +503,10 @@
 『分身』
 #
 <sprite "ta01a22.iph" 4 4 11>
-<name "Celes" "!AA6312">
+<name "セリス" "!AA6312">
 「分身、出来た……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「これで、二人なのに乱交気分が味わえると……」
 #
 <removesprite -1 11>
@@ -519,26 +519,26 @@
 『拘束』
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "Celes" "!AA6313">
+<name "セリス" "!AA6313">
 「拘束っ！」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「残念、抜けられるぞ」
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "Celes" "!AA6314">
+<name "セリス" "!AA6314">
 「あ、本当だ……うーむ」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「縛るのは、本人の技術だからな……
 　ま、たくさん縛って覚えろ」
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "Celes" "!AA6315">
+<name "セリス" "!AA6315">
 「はい。
 　師匠、協力をお願いします」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「わかった」
 #
 <removesprite -1 11>
@@ -550,17 +550,17 @@
 <background "bg004a0.iph" 11>
 『聖光』
 #
-<name "Lazlocke">
+<name "ラズロック">
 「髪の毛を持って、ジッと見詰めているが……
 　別に斬る必要は無いぞ」
 #
 <sprite "ta01a10.iph" 4 4 11>
-<name "Celes" "!AA6316">
+<name "セリス" "!AA6316">
 「ええっ！
 　そうなんですか？
 　てっきり、頭を丸めなければいけないのかと……」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「はぁ……誰からそんなデマを」
 #
 <removesprite -1 11>
@@ -573,11 +573,11 @@
 『光の盾』
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "Celes" "!AA6317">
+<name "セリス" "!AA6317">
 「光の盾って、なんだか……
 　脆そうじゃないですか？」
 #
-<name "Lazlocke">
+<name "ラズロック">
 「うーん、確かになんでも通しそうだよなぁ」
 #
 <removesprite -1 11>
