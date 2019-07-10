@@ -1,0 +1,112 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :8A: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :30: \x16 :8B: \x15 :8A: 
+:30
+\x1A\x01\x0A\x02\x00\xFB 2 \x01\x0E :4E: \x16 :15F: \x15 :8A: 
+:4E
+\x1A\x01\x0A\x02\x00\xFB 3 \x01\x0E :6C: \x16 :2D5: \x15 :8A: 
+:6C
+\x1A\x01\x0A\x02\x00\xFB 4 \x01\x0E :8A: \x16 :514: \x15 :8A: 
+:8A
+\x78
+:8B
+<background "bg001a0.iph" 11>
+<sprite "ta01c21.iph" 4 4 11>
+<name "Celes" "!AA3583">
+「最上の塔を登ってきます」
+#
+<name "Lazlocke">
+「頑張って来い！」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3584">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:15F
+<background "bg001a0.iph" 11>
+<sprite "ta01c20.iph" 4 4 11>
+<name "Celes" "!AA3585">
+「最上の塔……相手にとって、不足はありません！」
+#
+<removesprite -1 11>
+<sprite "ta01c20.iph" 2 5 11>
+<sprite "ta04a22.iph" 6 4 11>
+<name "Soshiette" "!DA0610">
+「気合が入ってますね。
+　でも、相手は竜です。
+　一時も気を抜かないように」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "Celes" "!AA3586">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:2D5
+<background "bg001a0.iph" 11>
+<sprite "ta01c21.iph" 4 4 11>
+<name "Celes" "!AA3589">
+「最上の塔、行くぞー！」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3590">
+「おー！」
+#
+<sprite "ta01c21.iph" 4 4 12>
+<name "Celes" "!AA3591">
+「登るぞー！」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3592">
+「おー！」
+#
+<sprite "ta01c21.iph" 4 4 12>
+<name "Celes" "!AA3593">
+「てっぺんまでだー！」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3594">
+「おー！」
+#
+<name "Lazlocke">
+「掛け声ぐらい、俺がやってやろうか？」
+#
+<sprite "ta01c92.iph" 4 4 12>
+<name "Celes" "!AA3595">
+「次回からお願いします」
+#
+<removesprite -1 11>
+<exit>
+:514
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+「最上の塔、行くぞー！」
+#
+<sprite "ta01c22.iph" 4 4 11>
+<name "Celes" "!AA3596">
+「おー！」
+#
+<name "Lazlocke">
+「登るぞー！」
+#
+<sprite "ta01c21.iph" 4 4 12>
+<name "Celes" "!AA3597">
+「おー！」
+#
+<name "Lazlocke">
+「てっぺんまでだー！」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3598">
+「おー！」
+#
+<name "Lazlocke">
+「よし、頑張って来い！」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA3599">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+\x78

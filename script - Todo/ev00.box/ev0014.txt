@@ -1,0 +1,880 @@
+\x1A\x01\x07\x04\x0A\x1F\x84\x00\x01\x0E :69: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :69: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :69: \x1A\x01\x07\x04\x00\xCA\x84\x00\x01\x0E :69: \x1A\x01\x0A\x02\x01\xA5 8 \x01\x15 :69: \x16 :544: \x0A\x04\x0A\x1F\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:69
+\x1A\x01\x07\x04\x0A\x20\x84\x00\x01\x0E :D2: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :D2: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :D2: \x1A\x01\x07\x04\x00\xCA\x84\x00\x01\x0E :D2: \x1A\x01\x0A\x02\x01\xA5 10 \x01\x15 :D2: \x16 :711: \x0A\x04\x0A\x20\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:D2
+\x1A\x01\x07\x04\x0A\x21\x84\x00\x01\x0E :132: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :132: \x1A\x01\x07\x04\x00\xCA\x84\x00\x01\x0E :132: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 3 \x01\x15 :132: \x16 :988: \x0A\x04\x0A\x21\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:132
+\x1A\x01\x07\x04\x0A\x22\x84\x00\x01\x0E :198: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :198: \x1A\x01\x0A\x02\x01\x95 18 \x01\x0E :198: \x1A\x01\x07\x04\x09\x74\x84\x00\x01\x0E :198: \x1A\x01\x07\x04\x09\x77\x84\x00\x01\x0E :198: \x16 :D7C: \x0A\x04\x0A\x22\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:198
+\x1A\x01\x07\x04\x0A\x23\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :1FE: \x1A\x01\x0A\x02\x01\x95 18 \x01\x0E :1FE: \x1A\x01\x07\x04\x09\x74\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x09\x77\x84\x00\x01\x0E :1FE: \x16 :103A: \x0A\x04\x0A\x23\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:1FE
+\x1A\x01\x07\x04\x0A\x24\x84\x00\x01\x0E :252: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :252: \x1A\x01\x07\x04\x0A\x0C\x84\x01\x01\x0E :252: \x1A\x01\x07\x04\x09\xE4\x84\x01\x01\x0E :252: \x16 :1251: \x0A\x04\x0A\x24\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:252
+\x1A\x01\x07\x04\x0A\x25\x84\x00\x01\x0E :2A3: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :2A3: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :2A3: \x16 :1530: \x0A\x04\x0A\x25\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:2A3
+\x1A\x01\x07\x04\x0A\x26\x84\x00\x01\x0E :2EB: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :2EB: \x1A\x01\x0A\x02\x01\xA6 10 \x01\x15 :2EB: \x16 :17B2: \x0A\x04\x0A\x26\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:2EB
+\x1A\x01\x07\x04\x0A\x27\x84\x00\x01\x0E :341: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :341: \xA8 "魔力増加" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 10 \x01\x15 :341: \x16 :1A80: \x0A\x04\x0A\x27\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:341
+\x1A\x01\x07\x04\x0A\x28\x84\x00\x01\x0E :3DC: \x1A\x01\x0A\x02\x01\x9A 5 \x01\x15 :3DC: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :3DC: \x1A\x01\x0A\x02\x01\x96 2 \x01\x0E :3DC: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :3DC: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :3DC: \xA8 "魔力増加" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 30 \x01\x15 :3DC: \x16 :1CD8: \x0A\x04\x0A\x28\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:3DC
+\x1A\x01\x07\x04\x0A\x29\x84\x00\x01\x0E :477: \x1A\x01\x0A\x02\x01\x9A 5 \x01\x15 :477: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :477: \x1A\x01\x0A\x02\x01\x96 3 \x01\x0E :477: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :477: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :477: \xA8 "詠唱速度" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 20 \x01\x15 :477: \x16 :208D: \x0A\x04\x0A\x29\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:477
+\x1A\x01\x07\x04\x0A\x2A\x84\x00\x01\x0E :4DD: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :4DD: \x1A\x01\x07\x04\x01\x19\x84\x01\x01\x0E :4DD: \x1A\x01\x0A\x02\x00\x0C 141 \x01\x15 :4DD: \x1A\x01\x07\x04\x0A\x16\x84\x00\x01\x0E :4DD: \x16 :3426: \x0A\x04\x0A\x2A\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:4DD
+\x1A\x01\x07\x04\x0A\x2B\x84\x00\x01\x0E :543: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :543: \x1A\x01\x07\x04\x01\x19\x84\x01\x01\x0E :543: \x1A\x01\x0A\x02\x00\x0C 141 \x01\x15 :543: \x1A\x01\x07\x04\x0A\x16\x84\x01\x01\x0E :543: \x16 :39B0: \x0A\x04\x0A\x2B\x84\x01\x0A\x04\x00\x6E\x84\x01\x15 :543: 
+:543
+\x78
+:544
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「おう、ヴィオラか。
+　どうしたんだ？」
+#
+<sprite "ta03a00.iph" 4 4 11>
+<name "Viola" "!BA0665">
+「……最近、楽しそうね」
+#
+<name "Lazlocke">
+「そうか？」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0666">
+「弟子育成。
+　そんなに楽しいの？」
+#
+<name "Lazlocke">
+「まあ、悪くはないな。
+　お前も考えてみたらどうだ」
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0667">
+「……そうね。
+　考えてみるわ」
+#
+<removesprite -1 11>
+<exit>
+:711
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0668">
+「最近、協会に顔を出してないんだって？」
+#
+<name "Lazlocke">
+「ん？
+　ああ、しばらくセリスの相手をしているからな」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0669">
+「そう……
+　あまり、協会を困らせない方が良いんじゃない」
+#
+<name "Lazlocke">
+「協会を困らせているのは、俺よりもお前の方だろ」
+#
+<sprite "ta03a04.iph" 4 4 12>
+<name "Viola" "!BA0670">
+「ええ、そうよ。
+　その私が心配してるの」
+#
+<name "Lazlocke">
+「……わかっている。
+　気をつけているさ」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0671">
+「わかっているなら良いのよ」
+#
+<removesprite -1 11>
+<exit>
+:988
+<music 6>
+<background "bg008a0.iph" 11>
+<name "Lazlocke">
+「どうしたんだ？」
+#
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0672">
+「なによ？」
+#
+<name "Lazlocke">
+「いや、協会からお前の様子を見て来るように言わ
+　れてな。
+　協会がビビるような事でもしたのか？」
+#
+<sprite "ta03a15.iph" 4 4 12>
+<name "Viola" "!BA0673">
+「……ちょっとね。
+　イライラしてたのかな」
+#
+<name "Lazlocke">
+「その度に、俺が呼ばれるんだ。
+　止めてくれ」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0674">
+「……悪かったわね」
+#
+<name "Lazlocke">
+「ま、理由を聞いてやるから食事にでも行こうか」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0675">
+「奢らないわよ」
+#
+<name "Lazlocke">
+「任せろ。
+　協会から金を貰った」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0676">
+「それじゃあ、遠慮は要らないわね」
+#
+<name "Lazlocke">
+「残りは俺の小遣いになるから、手加減して欲しい
+　なぁ」
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0677">
+「嫌よ。
+　ほら、行くわよ」
+#
+<removesprite -1 11>
+　その後、ヴィオラの仕事のグチを延々と夜遅くま
+　で聞く事になった。
+#
+<exit>
+:D7C
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta02a01.iph" 4 4 11>
+<name "Elle" "!CA0824">
+「師匠。
+　どうかしたんですか？」
+#
+<removesprite -1 11>
+<sprite "ta03a00.iph" 2 4 11>
+<sprite "ta02a01.iph" 6 5 11>
+<name "Viola" "!BA0681">
+「……なに？」
+#
+<sprite "ta02a00.iph" 6 5 12>
+<name "Elle" "!CA0825">
+「いえ、何か物思いに耽っているようですから」
+#
+<sprite "ta03a03.iph" 2 4 12>
+<name "Viola" "!BA0682">
+「そんな事はないと思うけど……
+　私の事は、放っておいて勉強しなさい。
+　……私は少し、台所に居るわ」
+#
+<sprite "ta02a04.iph" 6 5 12>
+<name "Elle" "!CA0826">
+「は、はい。
+　わかりました」
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0683">
+「久しぶりに、ケーキでも焼いてみようかしら」
+#
+<removesprite -1 11>
+<exit>
+:103A
+<music 2>
+<background "bg013a0.iph" 11>
+　街中で、偶然ヴィオラに出会った。
+#
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0684">
+「良い所で会ったわ。
+　私の家に寄っていきなさい」
+#
+<name "Lazlocke">
+「ん？」
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0685">
+「久しぶりにケーキを焼いたの」
+#
+<name "Lazlocke">
+「へぇ、珍しいな」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0686">
+「でしょ。
+　味見をお願いするわ」
+#
+<name "Lazlocke">
+「おう、わかった」
+#
+<removesprite -1 11>
+　俺はヴィオラの家で、ケーキをご馳走になった。
+#
+　なかなか美味かった。
+#
+<exit>
+:1251
+<music 6>
+<background "bg007a0.iph" 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0928">
+「ラズロック」
+#
+<name "Lazlocke">
+「なんだ？」
+#
+<sprite "ta03a53.iph" 4 4 12>
+<name "Viola" "!BA0929">
+「………………抱きっ」
+#
+<name "Lazlocke">
+「え？」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0931">
+「もう良いわよ」
+#
+<name "Lazlocke">
+「なんだったんだ？」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0932">
+「気にしないで」
+#
+<name "Lazlocke">
+「いや、しかしだな……」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0933">
+「それ以上、追求したら攻撃魔法をぶつけるわよ」
+#
+<name "Lazlocke">
+「悪かった」
+#
+<removesprite -1 11>
+　……なんだったんだろう？
+#
+　後日判明。
+#
+　俺の体温が高いか低いかで、イエルと言い争った
+　らしい。
+#
+　聞いてくれれば良いのに。
+#
+<exit>
+:1530
+<music 6>
+<background "bg007a0.iph" 11>
+<sprite "ta03a00.iph" 4 4 11>
+<name "Viola" "!BA0934">
+「セリスと仲が良いわね」
+#
+<name "Lazlocke">
+「そうか？」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0935">
+「ええ……」
+#
+<name "Lazlocke">
+「まあ、師匠と弟子の仲が良いのは、悪い事じゃな
+　いだろう」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0936">
+「そうね」
+#
+<name "Lazlocke">
+「……」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0937">
+「なに？」
+#
+<name "Lazlocke">
+「……俺の事は嫌っても良いが、セリスの事は嫌わ
+　ないでやってくれ」
+#
+<sprite "ta03a15.iph" 4 4 12>
+<name "Viola" "!BA0938">
+「別に、嫌ってないから、気にしなくても大丈夫よ」
+#
+<removesprite -1 11>
+<exit>
+:17B2
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0939">
+「あら、起きてて良いの？」
+#
+<name "Lazlocke">
+「ん？
+　どうしてだ？」
+#
+<sprite "ta03a04.iph" 4 4 12>
+<name "Viola" "!BA0940">
+「風邪をひいたって聞いたから、お見舞いに来たの
+　だけど……」
+#
+<name "Lazlocke">
+「風邪？
+　ああ、少しクシャミはしたが、大した事は無い」
+#
+　それに、魔法使いは薬草も扱うし、病気に対抗す
+　る魔法もある。
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0942">
+「弱っている所が見られると思ったのに……
+　一応、お見舞いの果物」
+#
+<name "Lazlocke">
+「ありがたく頂こう。
+　ついでに、セリスの勉強を見てくれると助かるか
+　な」
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0943">
+「仕方が無いわね」
+#
+<removesprite -1 11>
+<exit>
+:1A80
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「ヴィオラ」
+#
+<sprite "ta03a00.iph" 4 4 11>
+<name "Viola" "!BA0944">
+「なに？」
+#
+<name "Lazlocke">
+「最近、よくここに居るな？」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0945">
+「……迷惑？」
+#
+<name "Lazlocke">
+「いや、そうじゃないけどな。
+　イエルの様子はどうだ？」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0946">
+「向こうで、セリスと修行してるけど」
+#
+<name "Lazlocke">
+「……イエルも来てるのか」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0947">
+「ええ。
+　それより、お茶はまだかしら？」
+#
+<name "Lazlocke">
+「いま、準備している」
+#
+<removesprite -1 11>
+<exit>
+:1CD8
+<music 11>
+<background "bg010a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0784">
+「……ヴィオラ様」
+#
+<removesprite -1 11>
+<sprite "ta03a00.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Viola" "!BA0948">
+「なに」
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0785">
+「ご主人様の事が好きでしたら、直接お伝えしては
+　如何ですか？」
+#
+<sprite "ta03a17.iph" 2 5 12>
+<name "Viola" "!BA0949">
+「…………」
+#
+<sprite "ta04a03.iph" 6 4 12>
+<name "Soshiette" "!DA0786">
+「伝えられないのですか？」
+#
+<sprite "ta03a19.iph" 2 5 12>
+<name "Viola" "!BA0950">
+「…………次、余計な事を言ったら殺すわよ」
+#
+<sprite "ta04a23.iph" 6 4 12>
+<name "Soshiette" "!DA0787">
+「ヴィオラ様」
+#
+<sprite "ta03a15.iph" 2 5 12>
+<name "Viola" "!BA0951">
+「下がりなさい」
+#
+<sprite "ta04a86.iph" 6 4 12>
+<name "Soshiette" "!DA0788">
+「……失礼します」
+#
+<removesprite -1 11>
+　……
+#
+<sprite "ta03a33.iph" 4 4 11>
+<name "Viola" "!BA0952">
+「伝えられるワケないじゃない。
+　あんな事を言ったんだから……」
+#
+<removesprite -1 11>
+<exit>
+:208D
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta05a01.iph" 4 4 11>
+<name "ルーン" "!EA0227">
+「こんにちは」
+#
+<removesprite -1 11>
+<sprite "ta03a03.iph" 2 5 11>
+<sprite "ta05a07.iph" 6 4 11>
+<name "Viola" "!BA0953">
+「師匠。
+　何かあったのですか？」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0228">
+「悩める弟子にアドバイスと思ってね」
+#
+<sprite "ta03a00.iph" 2 5 12>
+<name "Viola" "!BA0954">
+「私に……ですか？」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0229">
+「他に誰が居るのかな？」
+#
+<sprite "ta03a03.iph" 2 5 12>
+<name "Viola" "!BA0955">
+「別に、悩んでいませんが」
+#
+<sprite "ta05a08.iph" 6 4 12>
+<name "ルーン" "!EA0230">
+「ラズに関しても」
+#
+<sprite "ta03a17.iph" 2 5 12>
+<name "Viola" "!BA0956">
+「……はい」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0231">
+「そう、じゃあ独り言になっちゃうけど……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0232">
+「怖がってたら、何も手に入らないわよ」
+#
+<sprite "ta03a19.iph" 2 5 12>
+<name "Viola" "!BA0957">
+「私は怖がってなんかいません」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0233">
+「独り言よ」
+#
+<sprite "ta03a31.iph" 2 5 12>
+<name "Viola" "!BA0958">
+「む……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0234">
+「昔、貴女とラズの間で何があったかは詳しく知ら
+　ないけど、謝る所は謝って、素直に気持ちをぶつ
+　けた方が良いわよ」
+#
+<sprite "ta03a34.iph" 2 5 12>
+<name "Viola" "!BA0959">
+「…………どうして、私がラズロックの事を」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0235">
+「私は貴女達の師匠だもの。
+　見てれば、わかるわよ」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0236">
+「まあ、頼りない師匠だけど……
+　力になれるかもしれないから、相談してみなさい」
+#
+<sprite "ta03a33.iph" 2 5 12>
+<name "Viola" "!BA0960">
+「相談……ですか」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0237">
+「ええ、ラズは私の可愛い弟子だけど、貴女も私の
+　可愛い弟子だもの」
+#
+<sprite "ta03a34.iph" 2 5 12>
+<name "Viola" "!BA0961">
+「……」
+#
+<sprite "ta03a35.iph" 2 5 12>
+<name "Viola" "!BA0962">
+「私は……多数の女性と関係を持つラズロックの事
+　が嫌いでした」
+#
+<sprite "ta03a33.iph" 2 5 12>
+<name "Viola" "!BA0963">
+「でも、同時に私に手を出さない事に不満もありま
+　した」
+#
+<sprite "ta03a34.iph" 2 5 12>
+<name "Viola" "!BA0964">
+「私に手を出さなかったのは、私の事が好きだから
+　だと言ってくれたんです」
+#
+<sprite "ta03a35.iph" 2 5 12>
+<name "Viola" "!BA0965">
+「そう言ってくれたのに……
+　私は、私の都合で抱く事を強要して、ラズロック
+　の気持ちなんか関係無いって……」
+#
+<sprite "ta05a08.iph" 6 4 12>
+<name "ルーン" "!EA0239">
+「突っぱねたの」
+#
+<sprite "ta03a31.iph" 2 5 12>
+<name "Viola" "!BA0966">
+「……はい」
+#
+<sprite "ta03a38.iph" 2 5 12>
+<name "Viola" "!BA0967">
+「そんな私が、好きだって言っても……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0240">
+「馬鹿ね」
+#
+<sprite "ta03a31.iph" 2 5 12>
+<name "Viola" "!BA0968">
+「……」
+#
+<sprite "ta05a10.iph" 6 4 12>
+<name "ルーン" "!EA0241">
+「大丈夫よ。
+　ちゃんと伝えれば、ちゃんと応えてくれるわ」
+#
+<sprite "ta03a33.iph" 2 5 12>
+<name "Viola" "!BA0969">
+「でも、私が言った事を言われたら……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0242">
+「…………大丈夫。
+　ラズは貴女の事がまだ好きよ」
+#
+<sprite "ta03a34.iph" 2 5 12>
+<name "Viola" "!BA0970">
+「でも……」
+#
+<sprite "ta05a06.iph" 6 4 12>
+<name "ルーン" "!EA0243">
+「ラズはこの街に帰って来ても、貴女の事を求めな
+　かったでしょ」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0244">
+「それは、ラズが貴女にこれ以上、嫌われたくない
+　からよ」
+#
+<sprite "ta03a35.iph" 2 5 12>
+<name "Viola" "!BA0971">
+「私に……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0245">
+「ラズにしてみれば、好きだって言って断わられて、
+　でも戦場で一ヶ月近く毎日やってたんでしょ」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0246">
+「ラズは貴女にこれ以上、嫌われたくないからって
+　戻って来なかったのよ」
+#
+<sprite "ta03a31.iph" 2 5 12>
+<name "Viola" "!BA0972">
+「本当……ですか？」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0247">
+「ええ、だからラズを迎えに行く時、貴女を同行さ
+　せなかったんだから」
+#
+<sprite "ta03a33.iph" 2 5 12>
+<name "Viola" "!BA0973">
+「……」
+#
+<sprite "ta05a13.iph" 6 4 12>
+<name "ルーン" "!EA0248">
+「だから自信を持ちなさい。
+　弟子まで使って、関係を持ちたかったんでしょ」
+#
+<sprite "ta03a34.iph" 2 5 12>
+<name "Viola" "!BA0974">
+「それは……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0249">
+「魔法使いは、目的の為に手段は選ばない。
+　でしょ」
+#
+<sprite "ta05a11.iph" 6 4 12>
+<name "ルーン" "!EA0250">
+「欲しければ奪い取りなさい」
+#
+<sprite "ta05a14.iph" 6 4 12>
+<name "ルーン" "!EA0252">
+「ラズに断わられたら、監禁して襲っちゃうぐらい
+　じゃないと」
+#
+<sprite "ta03a00.iph" 2 5 12>
+<name "Viola" "!BA0975">
+「……」
+#
+<sprite "ta05a24.iph" 6 4 12>
+<name "ルーン" "!EA0253">
+「あ、無し無し！
+　今のは無し。
+　例えだから、ね。
+　だから、本気の目をしないで」
+#
+<sprite "ta03a00.iph" 2 5 12>
+<name "Viola" "!BA0976">
+「む……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0254">
+「もう……
+　まあ、それぐらいの気概で行きなさいって事」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0255">
+「大丈夫。
+　もっと自信を持ちなさい」
+#
+<sprite "ta03a32.iph" 2 5 12>
+<name "Viola" "!BA0977">
+「……はい。
+　頑張ってみます」
+#
+<removesprite -1 11>
+<exit>
+:3426
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a05.iph" 4 4 11>
+<name "Viola" "!BA0978">
+「セリスは良い感じで仕上がってるわね」
+#
+<name "Lazlocke">
+「そうだな。
+　今のセリスなら、お前とも良い勝負をするんじゃ
+　ないか」
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0979">
+「あら。
+　言うわね」
+#
+<name "Lazlocke">
+「それだけの自信って事だ」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0980">
+「そう……
+　じゃあ、賭けない？」
+#
+<name "Lazlocke">
+「ん？」
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0981">
+「私とセリス、どっちが優勝するか」
+#
+<name "Lazlocke">
+「優勝か」
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0982">
+「そう。
+　私は私が優勝する事に。
+　貴方はセリスが優勝する事に賭けるの」
+#
+<name "Lazlocke">
+「分が悪い気はするが……
+　まあ、良いだろう。
+　それで、何を賭けるんだ？
+　お金は無いぞ」
+#
+<sprite "ta03a04.iph" 4 4 12>
+<name "Viola" "!BA0983">
+「貴方からお金を巻き上げるほど、お金には困って
+　ないわよ」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0984">
+「そうね……
+　勝った方の言う事を一つ聞くってのはどう？」
+#
+<name "Lazlocke">
+「言う事を聞くか……」
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0985">
+「おもしろいでしょ」
+#
+<name "Lazlocke">
+「わかった。
+　良いだろう」
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0986">
+「約束よ」
+#
+<name "Lazlocke">
+「あ、ああ……わかってる。
+　そっちも、約束は守れよ」
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0987">
+「ええ」
+#
+<removesprite -1 11>
+<exit>
+:39B0
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA1005">
+「弟子を持つと……アレね」
+#
+<name "Lazlocke">
+「ん？」
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA1006">
+「気分が若返るわ」
+#
+<name "Lazlocke">
+「言うほど歳じゃないだろ」
+#
+<sprite "ta03a38.iph" 4 4 12>
+<name "Viola" "!BA1007">
+「そう思っていたけど……
+　あの若いエネルギーの塊みたいなのを見てるとね」
+#
+<name "Lazlocke">
+「まあ、昔を思い出すな」
+#
+<removesprite -1 11>
+　希望や夢に溢れていた頃を。
+#
+　……
+#
+<sprite "ta03a31.iph" 4 4 11>
+<name "Viola" "!BA1008">
+「ねえ……」
+#
+<name "Lazlocke">
+「なんだ？」
+#
+<sprite "ta03a36.iph" 4 4 12>
+<name "Viola" "!BA1009">
+「昔……私に言った事、覚えている？」
+#
+<name "Lazlocke">
+「どの件だ？
+　お前との付き合いは長いからな」
+#
+<sprite "ta03a32.iph" 4 4 12>
+<name "Viola" "!BA1011">
+「テロル山での戦場で言った事」
+#
+<name "Lazlocke">
+「……恥ずかしい話を思い出させるな」
+#
+<sprite "ta03a36.iph" 4 4 12>
+<name "Viola" "!BA1012">
+「覚えてるのね」
+#
+<name "Lazlocke">
+「忘れる方が難しいだろ」
+#
+<sprite "ta03a32.iph" 4 4 12>
+<name "Viola" "!BA1013">
+「それ、もう一回、私に言わない？」
+#
+<name "Lazlocke">
+「…………言わない」
+#
+<sprite "ta03a38.iph" 4 4 12>
+<name "Viola" "!BA1014">
+「………………意地悪ね。
+　泣くわよ」
+#
+<name "Lazlocke">
+「俺の前で涙を流せるなら、言ってやっても……」
+#
+<removesprite -1 11>
+<name "Viola" "!BA1015">
+「……」
+#
+　ヴィオラの目から、大粒の涙が零れていた。
+#
+　……
+#
+\x2B\x42\x2B
+<name "Lazlocke">
+「お前の為なら、全部捨ててやる。
+　師匠も協会も……
+　だから、一緒に逃げよう」
+#
+　そして……
+#
+<name "Lazlocke">
+「どこかの街で、一緒に暮らして行こう」
+#
+<music 10>
+<sprite "ta03a34.iph" 4 4 12>
+<name "Viola" "!BA1016">
+「！
+　あ、え……」
+#
+　ヴィオラは俺の言葉で、自分が涙を流していた事
+　に気付いた。
+#
+<name "Lazlocke">
+「……返事は？
+　前と一緒か？」
+#
+<sprite "ta03a85.iph" 4 4 12>
+<name "Viola" "!BA1017">
+「………………良く聞こえなかった。
+　もう一回」
+#
+<name "Lazlocke">
+「素直じゃないなぁ……」
+#
+<removesprite -1 11>
+　だが、それでこそヴィオラだと俺は思った。
+#
+\x0A\x04\x01\x86\x84\x01
+<exit>
+\x78

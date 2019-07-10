@@ -1,0 +1,77 @@
+<music 10>
+<background "bg024a0.iph" 11>
+\x2B\x0A\x02\x01\x99 0 \x2B
+<choice :96: "ノーマル" \x02\x01>
+\x99 1 
+<choice :96: "メガネ" \x02\x01>
+\x99 2 
+<choice :96: "ポニー" \x02\x01>
+\x99 3 
+<choice :96: "ポニーメガネ" \x02\x01>
+\x99 0 
+　お好みは？
+#
+:96
+<music 36>
+\x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :C4: 
+<background "ev036a1.iph" 10>
+\x2B
+:C4
+\x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :EB: 
+<background "ev036b1.iph" 10>
+\x2B
+:EB
+\x1A\x01\x0A\x02\x01\x99 3 \x01\x15 :112: 
+<background "ev036c1.iph" 10>
+\x2B
+:112
+\x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
+<background "ev036d1.iph" 10>
+:139 + 1
+<name "Celes" "!AA5039">
+「騎乗位って、本当に馬に乗っている感じですね」
+#
+<name "Lazlocke">
+「馬に乗れるのか？」
+#
+<name "Celes" "!AA5040">
+「ええ、早駆けは苦手でしたが……」
+#
+<name "Lazlocke">
+「それでゆっくりなのか……」
+#
+<name "Celes" "!AA5041">
+「す、すみません」
+#
+　セリスは俺の言葉に、激しく腰を動かして応えた。
+#
+<name "Lazlocke">
+「冗談だったが……いい感じだぞ」
+#
+<name "Celes" "!AA5042">
+「が、ん、頑張ります。
+　んぁん♪」
+#
+　俺はセリスの行為に身を任せながら、夜を過ごし
+　た。
+#
+<name "Celes" "!AA5043">
+「ひ、一晩中はちょっと……」
+#
+<name "Lazlocke">
+「今度は、途中で代わってやる」
+#
+<name "Celes" "!AA5044">
+「……あの、私。
+　上よりも下の方が……その、好きなんです」
+#
+<name "Lazlocke">
+「下で強引にされる方が良いんだろ」
+#
+<name "Celes" "!AA5045">
+「優しいのも好きです」
+#
+<name "Lazlocke">
+「覚えておこう」
+#
+\x78\x78

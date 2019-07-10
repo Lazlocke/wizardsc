@@ -1,0 +1,252 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :102: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :30: \x16 :103: \x15 :102: 
+:30
+\x1A\x01\x0A\x02\x00\xFB 2 \x01\x0E :4E: \x16 :3FC: \x15 :102: 
+:4E
+\x1A\x01\x0A\x02\x00\xFB 3 \x01\x0E :6C: \x16 :5B7: \x15 :102: 
+:6C
+\x1A\x01\x0A\x02\x00\xFB 4 \x01\x0E :8A: \x16 :8D5: \x15 :102: 
+:8A
+\x1A\x01\x0A\x02\x00\xFB 5 \x01\x0E :A8: \x16 :9DA: \x15 :102: 
+:A8
+\x1A\x01\x0A\x02\x00\xFB 6 \x01\x0E :C6: \x16 :ACE: \x15 :102: 
+:C6
+\x1A\x01\x0A\x02\x00\xFB 7 \x01\x0E :E4: \x16 :B83: \x15 :102: 
+:E4
+\x1A\x01\x0A\x02\x00\xFB 8 \x01\x0E :102: \x16 :D59: \x15 :102: 
+:102
+\x78
+:103
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「戦地に行くか」
+#
+<sprite "ta01c19.iph" 4 4 11>
+<name "Celes" "!AA3138">
+「はい」
+#
+<name "Lazlocke">
+「止めても聞かないだろうから、これだけは言って
+　おく」
+#
+<name "Lazlocke">
+「危なくなったら、恥を捨てて逃げろ。
+　そして、自分の事だけを考えろ。
+　他人を助けようと思うな」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "Celes" "!AA3139">
+「え……」
+#
+<name "Lazlocke">
+「お前には、目的がある。
+　忘れるな」
+#
+<sprite "ta01c20.iph" 4 4 12>
+<name "Celes" "!AA3140">
+「……はい。
+　わかりました」
+#
+<removesprite -1 11>
+<music 32>
+<background "bg017a0.iph" 11>
+<name "指揮官" "!TB0089">
+「魔法使いども！
+　用意は良いか！」
+#
+<sprite "ta01c20.iph" 4 4 11>
+<name "Celes" "!AA3147">
+「はい！」
+#
+<removesprite -1 11>
+<name "指揮官" "!TB0090">
+「よし、詠唱開始！
+　目標前方、敵部隊！」
+#
+<exit>
+:3FC
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c20.iph" 4 4 11>
+<name "Celes" "!AA3141">
+「頑張ってきます」
+#
+<name "Lazlocke">
+「油断するなよ」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3142">
+「はい。
+　大丈夫です」
+#
+<removesprite -1 11>
+<music 32>
+<background "bg017a0.iph" 11>
+<name "指揮官" "!TB0100">
+「敵だな」
+#
+<name "兵" "!QB0139">
+「はい、敵です」
+#
+<name "指揮官" "!TB0101">
+「ど、どうしよう？」
+#
+<name "兵" "!QB0140">
+「そりゃ、戦うしかないのでは？」
+#
+<name "指揮官" "!TB0102">
+「だよなぁ」
+#
+<exit>
+:5B7
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「魔法使いの部隊は後方に配置されるのが常だから、
+　一安心だが……」
+#
+<sprite "ta01c27.iph" 4 4 11>
+<name "Celes" "!AA3143">
+「狙われるとすれば、私達からなんですよね」
+#
+<name "Lazlocke">
+「そうだ。
+　少しでも魔法を知っているヤツが相手の陣営にい
+　れば、確実に狙ってくる。
+　油断するな」
+#
+<sprite "ta01c21.iph" 4 4 12>
+<name "Celes" "!AA3144">
+「はい」
+#
+<removesprite -1 11>
+<music 32>
+<background "bg017a0.iph" 11>
+<name "指揮官" "!TB0093">
+「進軍、急げっ！
+　敵は目の前だぞ！」
+#
+<name "魔法使い" "!UA0125">
+「は、はい！」
+#
+<name "兵" "!QB0136">
+「うわぁぁっ、奇襲です！
+　側面からやられました！」
+#
+<name "指揮官" "!TB0094">
+「くっ！
+　なにやっとるか！」
+#
+<name "Celes" "!AA3148">
+「隊長、ここは私が抑えます！
+　その間に態勢を整えてください！」
+#
+<name "指揮官" "!TB0095">
+「……わかった。
+　頼むぞ！」
+#
+<exit>
+:8D5
+<music 32>
+<music 10>
+<background "bg017a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA3145">
+「戦場では、自分の身は自分で守らないと……」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA3146">
+「……とりあえず、食糧確保かな。
+　配給分だけじゃ足りないし」
+#
+<removesprite -1 11>
+<exit>
+:9DA
+<background "bg017a0.iph" 11>
+<name "指揮官" "!TB0105">
+「敵襲だと！？」
+#
+<sprite "ta01c20.iph" 4 4 11>
+<name "Celes" "!AA3154">
+「ここは私が抑えます。
+　他の人は下がって態勢を整えてください」
+#
+<name "指揮官" "!TB0106">
+「……わかった。
+　頼んだぞ」
+#
+<removesprite -1 11>
+<exit>
+:ACE
+<music 32>
+<background "bg017a0.iph" 11>
+<name "指揮官" "!TB0091">
+「敵が目の前に居る！
+　さあ、どうする！」
+#
+<name "兵" "!QB0135">
+「魔法をぶっぱなす！」
+#
+<name "指揮官" "!TB0092">
+「そうだ！
+　やれぇ！」
+#
+<exit>
+:B83
+<music 32>
+<background "bg017a0.iph" 11>
+<name "兵" "!QB0137">
+「て、敵が正面を突破しました！
+　ここまで来ます！」
+#
+<name "指揮官" "!TB0096">
+「くっ……
+　魔法使いを最前線に晒すわけにはいかん。
+　引き上げる時間を稼げ！」
+#
+<name "兵" "!QB0138">
+「で、ですが……」
+#
+<name "Celes" "!AA3149">
+「私が抑えます。
+　その間に引き上げを」
+#
+<name "指揮官" "!TB0098">
+「……出来るのか？」
+#
+<name "Celes" "!AA3150">
+「出来ない事は言いません」
+#
+<name "指揮官" "!TB0099">
+「よし。
+　死ぬなよ」
+#
+<name "Celes" "!AA3151">
+「はい！」
+#
+<exit>
+:D59
+<music 32>
+<background "bg017a0.iph" 11>
+<name "指揮官" "!TB0103">
+「戦闘開始！
+　みんな、がんばれー！」
+#
+<name "兵" "!RB0146">
+「はい！」
+#
+<name "指揮官" "!TB0104">
+「怪我とかするなよー」
+#
+<name "兵" "!RB0147">
+「あはは……」
+#
+<name "ベテラン兵" "!QB0141">
+「リ、リラックスさせる為に言ってるんだよな。
+　きっと」
+#
+<name "兵" "!RB0148">
+「いえ、あれは本気じゃないかと」
+#
+<exit>
+\x78

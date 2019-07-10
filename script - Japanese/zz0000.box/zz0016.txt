@@ -1,0 +1,46 @@
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta12a25.iph" 4 4 11>
+<name "リノ" "!PA0159">
+「ふふ……俺には七つの隠し技がある。
+　覚悟するんだな」
+#
+<removesprite -1 11>
+<sprite "ta14a00.iph" 2 4 11>
+<sprite "ta12a25.iph" 6 5 11>
+<name "レッキーノ" "!RA0135">
+「俺と対戦するのは、まだ先だと思ったが……」
+#
+<sprite "ta12a29.iph" 6 5 12>
+<name "リノ" "!PA0160">
+「ふんっ。
+　次のヤツを倒せば、すぐだ」
+#
+<removesprite -1 11>
+　次の試合後。
+#
+<sprite "ta14a00.iph" 2 4 11>
+<sprite "ta12a00.iph" 6 5 11>
+<name "レッキーノ" "!RA0136">
+「隠し技、五つほど見せたな」
+#
+<sprite "ta12a30.iph" 6 5 12>
+<name "リノ" "!PA0161">
+「あ、あと二つある！
+　大丈夫だ！」
+#
+<removesprite -1 11>
+　……
+#
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a05.iph" 6 4 11>
+<name "Elle" "!CA1203">
+「……あの二人、仲良いね」
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA7182">
+「男の人が話してるだけで、勘繰るのは良くないと
+　思う」
+#
+<removesprite -1 11>
+\x2B\x78\x78

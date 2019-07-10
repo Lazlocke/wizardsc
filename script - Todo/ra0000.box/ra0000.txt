@@ -1,0 +1,136 @@
+\x2E\x22\x00\x04 1  5 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0E :2C: \x16 :C9: \x15 :C5: 
+:2C
+\x1A\x01\x0A\x22\x00\x04 2 \x01\x0E :4A: \x16 :325: \x15 :C5: 
+:4A
+\x1A\x01\x0A\x22\x00\x04 3 \x01\x0E :89: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :7D: \x16 :3F0: \x15 :C5: \x18 :89: 
+:7D
+\x16 :C9: \x15 :C5: 
+:89
+\x1A\x01\x0A\x22\x00\x04 4 \x01\x0E :A7: \x16 :522: \x15 :C5: 
+:A7
+\x1A\x01\x0A\x22\x00\x04 5 \x01\x0E :C5: \x16 :687: \x15 :C5: 
+:C5
+\x2B\xEA\x2B\x78
+:C9
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Celes" "!AA4104">
+「ううう……」
+#
+　セリスは倒れた。
+#
+<background "ev026a1.iph" 10>
+<name "Celes" "!AA4105">
+「すみません……師匠」
+#
+<name "Lazlocke">
+「気にするな。
+　ゆっくりと身体を休めろ」
+#
+<name "Celes" "!AA4106">
+「は、はい……でも」
+#
+<name "Lazlocke">
+「魔法による治療はしてやる。
+　ただ、どうやっても一ヶ月は寝てなきゃいけない」
+#
+<name "Celes" "!AA4107">
+「一ヶ月……そんなっ」
+#
+<name "Lazlocke">
+「諦めろ。
+　無茶をしても、動けるだけで修行はできない。
+　今は休んで回復するのがベストだ」
+#
+<name "Celes" "!AA4108">
+「う……あ……わかりました」
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 4 
+『セリスは一ヶ月、寝込んだ！』
+#
+<exit>
+:325
+<music 24>
+<background "ev026a1.iph" 10>
+<name "Celes" "!AA4109">
+「……すみません、師匠」
+#
+<name "Lazlocke">
+「いいから、身体を休めろ」
+#
+<name "Celes" "!AA4110">
+「は、はい……」
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 3 
+『セリスは三週間、寝込んだ！』
+#
+<exit>
+:3F0
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Elle" "!CA0260">
+「セリスの様子はどうですか？」
+#
+<name "Lazlocke">
+「しばらくは動けん」
+#
+<name "Elle" "!CA0261">
+「そう……ですか」
+#
+<name "Lazlocke">
+「心配するな。
+　絶対に元に戻してやる」
+#
+<name "Elle" "!CA0263">
+「……お願いします」
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 3 
+『セリスは三週間、寝込んだ！』
+#
+<exit>
+:522
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Celes" "!AA4148">
+「うう……」
+#
+<name "Soshiette" "!DA0651">
+「セリスさんの様子はどうですか？」
+#
+<name "Lazlocke">
+「しばらくは動けん」
+#
+<name "Soshiette" "!DA0652">
+「そうですか……」
+#
+<name "Lazlocke">
+「回復するまで、協会の仕事はしないからな」
+#
+<name "Soshiette" "!DA0653">
+「……承知しました」
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 2 
+『セリスは二週間、寝込んだ！』
+#
+<exit>
+:687
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Lazlocke">
+「大丈夫か？」
+#
+<name "Celes" "!AA4111">
+「ぁ……はい……すみません」
+#
+<name "Lazlocke">
+「謝らなくていい。
+　しばらくはのんびりしてろ」
+#
+<name "Celes" "!AA4112">
+「はい」
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 4 
+『セリスは一ヶ月、寝込んだ！』
+#
+<exit>
+\x78

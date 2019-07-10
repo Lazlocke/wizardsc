@@ -1,0 +1,66 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x15 :5A: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :5A: \x1A\x01\x0A\x02\x00\x0C 144 \x01\x15 :48: \x16 :1B1: \x15 :9C: \x18 :5A: 
+:48
+\x16 :376: \x15 :9C: \x15 :9C: 
+:5A
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :9C: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x14 :90: \x16 :9D: \x15 :9C: \x18 :9C: 
+:90
+\x16 :115: \x15 :9C: 
+:9C
+\x78
+:9D
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c09.iph" 4 4 11>
+<name "Celes" "!AA2946">
+「よし、なんとか予選突破」
+#
+<removesprite -1 11>
+<exit>
+:115
+<music 15>
+<background "bg011a0.iph" 11>
+<name "Lazlocke">
+「予選突破だな」
+#
+<sprite "ta01c15.iph" 4 4 11>
+<name "Celes" "!AA2947">
+「はい。
+　次は本選です」
+#
+<removesprite -1 11>
+<exit>
+:1B1
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c29.iph" 4 4 11>
+<name "Celes" "!AA2962">
+「よ、予選で……」
+#
+<name "Lazlocke">
+「残念だったな」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "Celes" "!AA2963">
+「予選も突破できないなんて……」
+#
+<name "Lazlocke">
+「クデュール魔法大会は厳しいからな」
+#
+<sprite "ta01c41.iph" 4 4 12>
+<name "Celes" "!AA2964">
+「う、うう……」
+#
+<removesprite -1 11>
+　セリスは、自分の弱さに涙を流した。
+#
+　こうして、セリスのクデュール魔法大会は終わっ
+　た。
+#
+<exit>
+:376
+<music 15>
+<background "bg011a0.iph" 11>
+　セリスは予選を突破できなかった。
+#
+<exit>
+\x78

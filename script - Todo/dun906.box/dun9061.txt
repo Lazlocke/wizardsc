@@ -1,0 +1,109 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :4E: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :30: \x16 :4F: \x15 :4E: 
+:30
+\x1A\x01\x0A\x02\x00\xFB 2 \x01\x15 :4E: \x16 :5B8: \x15 :4E: 
+:4E
+\x78
+:4F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA3217">
+「認定の塔に挑戦すれば、良いんですか？」
+#
+<name "Lazlocke">
+「そうだ。
+　魔法使いのランクを一気に上げられるぞ」
+#
+　魔法使いランクが上がれば、協会から様々な援助
+　が与えられる。
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA3218">
+「わかりました！
+　頑張ります！」
+#
+<name "Lazlocke">
+「一応、協会が管理している塔だから死にはしない
+　と思うが……
+　大怪我はありえる。
+　注意するように」
+#
+<sprite "ta01c90.iph" 4 4 12>
+<name "Celes" "!AA3219">
+「はい！」
+#
+<removesprite -1 11>
+<music 11>
+<background "bg009a0.iph" 11>
+<sprite "ta06a00.iph" 4 4 11>
+<name "協会長秘書" "!GA0101">
+「可能な限り上を目指してください。
+　到達した階によって、ランクを定めます」
+#
+<name "協会長秘書" "!GA0102">
+「多少、乱暴な試験と思われるかもしれません」
+#
+<name "協会長秘書" "!GA0103">
+「実際、乱暴です。
+　怪我の可能性も十分あります」
+#
+<name "協会長秘書" "!GA0104">
+「怪我をするのが嫌でしたら、お止め頂いて結構で
+　す」
+#
+<name "協会長秘書" "!GA0105">
+「ランクを得るには、こういった試験の他に、魔法
+　の研究や協会への貢献で得る方法もありますので」
+#
+<removesprite -1 11>
+<sprite "ta01c20.iph" 2 5 11>
+<sprite "ta06a00.iph" 6 4 11>
+<name "Celes" "!AA3220">
+「……いえ、挑戦します」
+#
+<name "協会長秘書" "!GA0106">
+「そうですか」
+#
+<name "協会長秘書" "!GA0107">
+「……わかりました。
+　健闘を祈ります。
+　頑張ってください」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "Celes" "!AA3221">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:5B8
+\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :64F: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA3222">
+「認定の塔に行ってきます」
+#
+<removesprite -1 11>
+\x2B
+:64F
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :6E2: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c15.iph" 4 4 11>
+<name "Celes" "!AA3223">
+「頑張ってランクアップを目指します」
+#
+<removesprite -1 11>
+\x2B
+:6E2
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :769: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c15.iph" 4 4 11>
+<name "Celes" "!AA3224">
+「認定の塔に挑戦します」
+#
+<removesprite -1 11>
+:769 + 1
+<exit>
+\x78

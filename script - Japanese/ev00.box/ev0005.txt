@@ -1,0 +1,1050 @@
+\x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :2D: \x1A\x01\x07\x04\x00 0x8401010E  :27: \x0A\x04\x00\x82\x84\x00
+:27
+\x15 :686: 
+:2D
+\x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :661: \x1A\x01\x07\x04\x05\x46\x84\x00\x01\x0E :AE: \x1A\x01\x0A\x02\x01\xA4 3 \x01\x14 :AE: \x1A\x01\x0A\x02\x01\xA5 3 \x01\x14 :AE: \x1A\x01\x0A\x02\x00\x0C 43 \x01\x15 :AE: \x1A\x01\x0A\x02\x00\x0C 45 \x01\x14 :AE: \x16 :687: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x46\x84\x01\x15 :686: 
+:AE
+\x1A\x01\x07\x04\x05\x47\x84\x00\x01\x0E :11D: \x1A\x01\x0A\x02\x01\xA4 4 \x01\x14 :11D: \x1A\x01\x0A\x02\x01\xA5 4 \x01\x14 :11D: \x1A\x01\x0A\x02\x00\x0C 52 \x01\x15 :11D: \x1A\x01\x0A\x02\x00\x0C 54 \x01\x14 :11D: \x16 :A1C: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x47\x84\x01\x15 :686: 
+:11D
+\x1A\x01\x07\x04\x00 0x8400010E  :132: \x15 :686: 
+:132
+\x1A\x01\x07\x04\x00 0x8401010E  :1E3: \x1A\x01\x07\x04\x05\x48\x84\x00\x01\x0E :1E3: \x1A\x01\x0A\x02\x01\xA4 5 \x01\x14 :180: \x1A\x01\x0A\x02\x01\xA5 5 \x01\x14 :180: \x0A\x04\x00\x82\x84\x00\x15 :661: 
+:180
+\x1A\x01\x0A\x02\x01\x9A 3 \x01\x14 :19E: \x16 :D8E: \x15 :1D1: 
+:19E
+\x1A\x01\x0A\x02\x01\x9A 4 \x01\x15 :1CB: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :1CB: \x16 :1192: \x15 :1D1: 
+:1CB
+\x16 :D8E: 
+:1D1
+\x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x48\x84\x01\x15 :661: 
+:1E3
+\x1A\x01\x07\x04\x00 0x8401010E  :385: \x1A\x01\x07\x04\x05\x56\x84\x00\x01\x0E :385: \x0A\x24\x00\x03\x84\x00\x1A\x01\x0A\x02\x00\x0C 72 \x01\x15 :21F: \x0A\x24\x00\x03\x84\x01
+:21F
+\x1A\x01\x0A\x02\x01\x9A 6 \x01\x15 :25B: \x1A\x01\x0A\x02\x00\x0C 60 \x01\x15 :25B: \x1A\x01\x0A\x02\x01\xAE 4 \x01\x15 :25B: \x0A\x24\x00\x03\x84\x01
+:25B
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :385: \x1A\x01\x0A\x02\x01\xAE 4 \x01\x15 :2A0: \x16 :2C24: \x0A\x04\x00 0x84000A04 \x00\x6E\x84\x01\x0A\x04
+#
+\x56\x84\x01\x15 :661: \x18 :385: 
+:2A0
+\x16 :30AC: \x0B\x02\x00\x0C\x02\x00\x0C 4 \xEA\x1A\x01\x0A\x02\x01\x9A 3 \x01\x14 :2D1: \x16 :377E: \x16 :36D: 
+:2D1
+\x1A\x01\x0A\x02\x01\x9A 4 \x01\x0E :2FE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :2FE: \x16 :3A34: \x16 :36D: 
+:2FE
+\x1A\x01\x0A\x02\x01\x9A 5 \x01\x0E :32B: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :32B: \x16 :3EC3: \x16 :36D: 
+:32B
+\x1A\x01\x0A\x02\x01\x9A 6 \x01\x15 :367: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :367: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :367: \x16 :427B: \x16 :36D: 
+:367
+\x16 :377E: 
+:36D
+\x0A\x04\x00 0x84000A04 \x00\x6E\x84\x01\x0A\x04
+#
+\x56\x84\x01\x15 :661: 
+:385
+\x1A\x01\x07\x04\x00 0x8401010E  :661: \x1A\x01\x07\x04\x05\x49\x84\x00\x01\x0E :3BB: \x16 :1437: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x49\x84\x01\x15 :661: 
+:3BB
+\x1A\x01\x07\x04\x05\x4A\x84\x00\x01\x0E :400: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :400: \x1A\x01\x07\x04\x00\xCD\x84\x01\x01\x0E :400: \x16 :1524: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x4A\x84\x01\x15 :661: 
+:400
+\x1A\x01\x07\x04\x05\x4B\x84\x00\x01\x0E :445: \x1A\x01\x07\x04\x00\xCC\x84\x01\x01\x0E :445: \x1A\x01\x07\x04\x00\xCD\x84\x01\x01\x0E :445: \x16 :1689: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x4B\x84\x01\x15 :661: 
+:445
+\x1A\x01\x07\x04\x05\x4C\x84\x00\x01\x0E :48A: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :48A: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :48A: \x16 :1989: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x4C\x84\x01\x15 :661: 
+:48A
+\x1A\x01\x07\x04\x05\x4D\x84\x00\x01\x0E :4B1: \x16 :1AF3: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x4D\x84\x01\x15 :661: 
+:4B1
+\x1A\x01\x07\x04\x05\x4E\x84\x00\x01\x0E :4D8: \x16 :1CBF: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x4E\x84\x01\x15 :661: 
+:4D8
+\x1A\x01\x07\x04\x05\x4F\x84\x00\x01\x0E :4FF: \x16 :1DAA: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x4F\x84\x01\x15 :661: 
+:4FF
+\x1A\x01\x07\x04\x05\x50\x84\x00\x01\x0E :526: \x16 :1E73: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x50\x84\x01\x15 :661: 
+:526
+\x1A\x01\x07\x04\x05\x51\x84\x00\x01\x0E :55C: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :55C: \x16 :1F41: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x51\x84\x01\x15 :661: 
+:55C
+\x1A\x01\x07\x04\x05\x52\x84\x00\x01\x0E :592: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :592: \x16 :2147: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x52\x84\x01\x15 :661: 
+:592
+\x1A\x01\x07\x04\x05\x53\x84\x00\x01\x0E :5C8: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :5C8: \x16 :22F0: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x53\x84\x01\x15 :661: 
+:5C8
+\x1A\x01\x07\x04\x05\x54\x84\x00\x01\x0E :61C: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :61C: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :61C: \x1A\x01\x07\x04\x00\xD9\x84\x00\x01\x0E :61C: \x16 :23F8: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x54\x84\x01\x15 :661: 
+:61C
+\x1A\x01\x07\x04\x05\x55\x84\x00\x01\x0E :661: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :661: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :661: \x16 :274A: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x55\x84\x01\x15 :661: 
+:661
+\x1A\x01\x07\x04\x00 0x8401010E  :67D: \xA5 "憂鬱" \x18 :686: 
+:67D
+\xA5 "平常心" 
+:686
+\x78
+:687
+<music 2>
+<background "bg020a0.iph" 11>
+　協会からの命令で、俺はヴィオラと共にクルーネ
+　帝国に強行偵察に来ていた。
+#
+<name "Lazlocke">
+「偵察なら、街に行くのがベストじゃないのか？」
+#
+<sprite "ta03b03.iph" 4 4 11>
+<name "Viola" "!BA0282">
+「私の顔が知られ過ぎているから、街には行けない
+　わよ。
+　私と貴方で組ませての偵察なんだから、軍の演習
+　を覗いて来いって事でしょ」
+#
+<name "Lazlocke">
+「情報部の仕事を、どうして俺達が……」
+#
+<sprite "ta03b01.iph" 4 4 12>
+<name "Viola" "!BA0283">
+「実働部隊に見せておきたいんでしょ。
+　クルーネ帝国の実状を」
+#
+<name "Lazlocke">
+「……そろそろ、ヤバイみたいだな」
+#
+<sprite "ta03b00.iph" 4 4 12>
+<name "Viola" "!BA0284">
+「そうね。
+　予想ではまだ数年先だと思ったけど……」
+#
+<name "Lazlocke">
+「面倒な事を……」
+#
+<sprite "ta03b03.iph" 4 4 12>
+<name "Viola" "!BA0285">
+「文句を言わない。
+　次の場所に行くわよ」
+#
+<name "Lazlocke">
+「わかった」
+#
+<removesprite -1 11>
+　俺とヴィオラは、偵察活動を続けた。
+#
+<exit>
+:A1C
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA3134">
+「ただいま戻りました」
+#
+<name "Lazlocke">
+「おかえり。
+　……ん？
+　頼んだ薬品。
+　買い忘れか？」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA3135">
+「いえ、お店に商品がなかったんです。
+　しばらくは入荷しないと言ってました」
+#
+<name "Lazlocke">
+「そうか……
+　あの薬品、欲しかったんだがな……」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA3136">
+「原材料を教えて頂ければ、採って来ますが……」
+#
+<name "Lazlocke">
+「……いや、良い。
+　悪かったな。
+　無駄足をさせて」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3137">
+「いえ……
+　では、夕食の準備をします」
+#
+<removesprite -1 11>
+　セリスは買物篭を持って、台所に向かった。
+#
+<name "Lazlocke">
+「……あの薬品の原材料。
+　クルーネ帝国の特産だったな」
+#
+<name "Lazlocke">
+「収穫量が落ちたのか、それとも……」
+#
+　今度、ソシエットに言って調査して貰おう。
+#
+<exit>
+:D8E
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a01.iph" 4 4 11>
+<name "Soshiette" "!DA0529">
+「緊急連絡です」
+#
+<name "Lazlocke">
+「緊急？」
+#
+<sprite "ta04a02.iph" 4 4 12>
+<name "Soshiette" "!DA0530">
+「カスト地方にて、クインズベル王国軍とクルーネ
+　帝国軍が交戦状態に入りました」
+#
+<name "Lazlocke">
+「……ついに火が付いたか。
+　指揮官は？」
+#
+<sprite "ta04a01.iph" 4 4 12>
+<name "Soshiette" "!DA0531">
+「クインズベル王国軍は、リチャード将軍。
+　クルーネ帝国軍は、マッコフ将軍です」
+#
+<name "Lazlocke">
+「双方、実力者だな。
+　長引くか？」
+#
+<sprite "ta04a02.iph" 4 4 12>
+<name "Soshiette" "!DA0532">
+「王国はそう見ています。
+　協会はクインズベル王国軍に荷担し、早期の戦争
+　終結に向けて動きます」
+#
+<name "Lazlocke">
+「そうか」
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0533">
+「ここ、ローリアの街は戦地から離れていますが、
+　戦争勃発に伴い様々な弊害が出ると思います。
+　ご注意ください」
+#
+<name "Lazlocke">
+「わかった。
+　出る必要があったら言ってくれ」
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0534">
+「承知しました」
+#
+<removesprite -1 11>
+<exit>
+:1192
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta02a32.iph" 4 4 11>
+<name "Elle" "!CA0229">
+「師匠、戦争が始まりました！」
+#
+<removesprite -1 11>
+<sprite "ta03a00.iph" 2 5 11>
+<sprite "ta02a32.iph" 6 4 11>
+<name "Viola" "!BA0286">
+「知っているわ。
+　三日前から小競り合いは始まっているんだから、
+　今さら騒がないように」
+#
+<sprite "ta02a28.iph" 6 4 12>
+<name "Elle" "!CA0230">
+「え、あ、はい。
+　でも、のんびりしてて良いんですか？」
+#
+<sprite "ta03a03.iph" 2 5 12>
+<name "Viola" "!BA0287">
+「そのうちに私の出陣もあると思うけど、今はまだ
+　様子見の時期だからのんびりするわ。
+　お茶、お願いできるかしら？」
+#
+<sprite "ta02a27.iph" 6 4 12>
+<name "Elle" "!CA0232">
+「は、はい。
+　用意します」
+#
+<removesprite -1 11>
+<exit>
+:1437
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA3155">
+「アルバイトが出来ない……」
+#
+<name "Lazlocke">
+「戦争中だからな」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA3156">
+「早く終わって欲しいです」
+#
+<removesprite -1 11>
+<exit>
+:1524
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta13a38.iph" 4 4 11>
+<name "ヘンドリク" "!QA0055">
+「戦争か……面倒な事を」
+#
+<removesprite -1 11>
+<sprite "ta13a38.iph" 2 4 11>
+<sprite "ta12a40.iph" 6 5 11>
+<name "リノ" "!PA0032">
+「だな。
+　大会も中止だし、どこかの遺跡にでも探索に行く
+　か？」
+#
+<sprite "ta13a47.iph" 2 4 12>
+<name "ヘンドリク" "!QA0056">
+「悪く無い提案だ」
+#
+<removesprite -1 11>
+<exit>
+:1689
+<music 2>
+<background "bg013a0.iph" 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :16D7: \x52 "ta10a46.iph"  4  4  11 \x18 :16F4: 
+:16D7
+\x52 "ta10b46.iph"  4  4  11 
+:16F4
+\x2B
+<name "イングウェイ" "!TA0068">
+「戦争が始まると、森が燃える」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :1762: \x52 "ta10a28.iph"  4  4  12 \x18 :177F: 
+:1762
+\x52 "ta10b28.iph"  4  4  12 
+:177F
+\x2B
+<name "イングウェイ" "!TA0069">
+「くそっ……この憤り！
+　誰にぶつければ良いのだ！」
+#
+<removesprite -1 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :182D: \x52 "ta13a48.iph"  2  4  11 \x52 "ta10a28.iph"  6  5  11 \x18 :1867: 
+:182D
+\x52 "ta13a48.iph"  2  4  11 \x52 "ta10b28.iph"  6  5  11 
+:1867
+\x2B
+<name "ヘンドリク" "!QA0057">
+「街中で叫ぶな。
+　……行くぞ」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :18D6: \x52 "ta10a13.iph"  6  5  12 \x18 :18F3: 
+:18D6
+\x52 "ta10b13.iph"  6  5  12 
+:18F3
+\x2B
+<name "イングウェイ" "!TA0070">
+「ん？
+　どこに行くんだ？」
+#
+<sprite "ta13a47.iph" 2 4 12>
+<name "ヘンドリク" "!QA0058">
+「酒場。
+　飲むぞ」
+#
+<removesprite -1 11>
+<exit>
+:1989
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta15a13.iph" 4 4 11>
+<name "プシェル" "!SA0024">
+「やあねぇ。
+　戦争なんて……
+　でも、貴方は嬉しいのかしら？」
+#
+<removesprite -1 11>
+<sprite "ta15a13.iph" 2 5 11>
+<sprite "ta14a00.iph" 6 4 11>
+<name "レッキーノ" "!RA0029">
+「……
+　戦争は俺の望む戦いではない」
+#
+<sprite "ta15a00.iph" 2 5 12>
+<name "プシェル" "!SA0025">
+「あら」
+#
+<removesprite -1 11>
+<exit>
+:1AF3
+<music 2>
+<background "bg013a0.iph" 11>
+<name "血気盛んな街人" "!QB0142">
+「義勇兵の募集をやっているぞ」
+#
+<name "考える街人" "!RB0149">
+「賃金は高いが、最前線に送られるらしいぞ」
+#
+<name "調子の良い街人" "!SB0117">
+「国を守る為だ。
+　ここで戦わなきゃどうするんだ！」
+#
+<name "怯える街人" "!TB0107">
+「でも、死にたくないし……」
+#
+<name "悩む街人" "!UA0126">
+「そうだよな」
+#
+<name "血気盛んな街人" "!QB0143">
+「うーん」
+#
+<name "考える街人" "!RB0150">
+「とりあえず、飲もう」
+#
+<name "調子の良い街人" "!SB0118">
+「おう！」
+#
+<exit>
+:1CBF
+<music 2>
+<background "bg014a0.iph" 11>
+<name "喜ぶ街人" "!RB0151">
+「戦争ばんざーい！」
+#
+<name "不謹慎だと思う街人" "!TB0108">
+「あの叫んでるの、誰だ？」
+#
+<name "事情を知る街人" "!IA0026">
+「防具専門店の店主」
+#
+<name "不謹慎だと思う街人" "!TB0109">
+「ああ、なるほど」
+#
+<exit>
+:1DAA
+<music 2>
+<background "bg014a0.iph" 11>
+<name "呆れる主婦" "!KA0037">
+「やだやだ、戦争なんてまっぴらさ」
+#
+<name "心配する主婦" "!JA0051">
+「そうだね。
+　ウチの亭主も戦地に行っちまって……
+　無事に帰ってくれば良いけど」
+#
+<exit>
+:1E73
+<music 2>
+<background "bg014a0.iph" 11>
+<name "買物中の主婦" "!IA0027">
+「前に戦争があった時は、ヴィオラって魔法使いが
+　終らせたって話だけど……」
+#
+<name "荷物運び中の主婦" "!NA0059">
+「今回もパーッと終らせて欲しいもんだね」
+#
+<exit>
+:1F41
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a17.iph" 4 4 11>
+<name "ルーン" "!EA0125">
+「戦況は？」
+#
+<removesprite -1 11>
+<sprite "ta05a17.iph" 2 5 11>
+<sprite "ta06a00.iph" 5 4 11>
+<name "協会長秘書" "!GA0084">
+「膠着しています」
+#
+<sprite "ta05a20.iph" 2 5 12>
+<name "ルーン" "!EA0126">
+「そう……民衆の様子は？」
+#
+<name "協会長秘書" "!GA0085">
+「冷静です。
+　ですが、長くは持たないと思われます」
+#
+<sprite "ta05a21.iph" 2 5 12>
+<name "ルーン" "!EA0128">
+「そうね。
+　なんとか、収穫期前に終わらせたいわ」
+#
+<name "協会長秘書" "!GA0086">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2147
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a22.iph" 4 4 11>
+<name "ルーン" "!EA0129">
+「戦況はどうなの？」
+#
+<removesprite -1 11>
+<sprite "ta05a22.iph" 2 5 11>
+<sprite "ta06a00.iph" 5 4 11>
+<name "協会長秘書" "!GA0087">
+「クインズベル王国軍が優勢です。
+　このまま行けば、年内の終結が可能かと」
+#
+<sprite "ta05a21.iph" 2 5 12>
+<name "ルーン" "!EA0130">
+「そう……
+　でも、収穫期前には終わらせたいわね」
+#
+<name "協会長秘書" "!GA0088">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:22F0
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a18.iph" 4 4 11>
+<name "ルーン" "!EA0131">
+「例の作戦を実行します。
+　各部に連絡。
+　しかるべき行動を」
+#
+<removesprite -1 11>
+<sprite "ta05a18.iph" 2 5 11>
+<sprite "ta06a00.iph" 5 4 11>
+<name "協会長秘書" "!GA0089">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:23F8
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a06.iph" 4 4 11>
+<name "ルーン" "!EA0132">
+「あら、ヴィオラ。
+　どうしたの？」
+#
+<removesprite -1 11>
+<sprite "ta03a20.iph" 2 5 11>
+<sprite "ta05a06.iph" 6 4 11>
+<name "Viola" "!BA0288">
+「戦争が長引いているようなので、様子を伺いに」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0133">
+「あら……
+　てっきり、お願い事でもあるのかと思ったのに」
+#
+<sprite "ta03a15.iph" 2 5 12>
+<name "Viola" "!BA0289">
+「……」
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "ルーン" "!EA0134">
+「そう怖い顔をしないで頂戴。
+　出陣となったら、貴女の指揮下に入るように手配
+　するわ」
+#
+<name "Viola" "!BA0290">
+「…………」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "ルーン" "!EA0136">
+「これでも、応援しているのよ」
+#
+<sprite "ta03a18.iph" 2 5 12>
+<name "Viola" "!BA0291">
+「余計なお世話です」
+#
+<sprite "ta05a11.iph" 6 4 12>
+<name "ルーン" "!EA0137">
+「あらあら」
+#
+<removesprite -1 11>
+<exit>
+:274A
+<music 11>
+<background "bg010b0.iph" 11>
+<sprite "ta15a27.iph" 4 4 11>
+<name "プシェル" "!SA9049">
+「今、この街に居る魔法使いの数は少ないわよね」
+#
+<removesprite -1 11>
+<sprite "ta15a27.iph" 2 5 11>
+<sprite "ta14a00.iph" 6 4 11>
+<name "レッキーノ" "!RA9074">
+「そうだな」
+#
+<sprite "ta15a34.iph" 2 5 12>
+<name "プシェル" "!SA9050">
+「乗っ取りを考えたら、いけそうじゃない？」
+#
+<name "レッキーノ" "!RA9075">
+「火事場泥棒は好みじゃない。
+　それに……」
+#
+<sprite "ta15a33.iph" 2 5 12>
+<name "プシェル" "!SA9051">
+「それに？」
+#
+<name "レッキーノ" "!RA9076">
+「一番の大ボス、協会長が残っている。
+　彼女とは、正面からぶつかりたい」
+#
+<sprite "ta15a21.iph" 2 5 12>
+<name "プシェル" "!SA9053">
+「そうね。
+　戦いは美しくなければ駄目よね」
+#
+<name "レッキーノ" "!RA9077">
+「ああ」
+#
+<sprite "ta15a28.iph" 2 5 12>
+<name "プシェル" "!SA9054">
+「では、お客さんも来たようだし。
+　とりあえずは大ボスの味方でいましょうか」
+#
+<name "レッキーノ" "!RA9078">
+「そうだな」
+#
+<removesprite -1 11>
+<background "bg012b0.iph" 11>
+　プシェルとレッキーノの視線の先には、複数の暗
+　殺者の姿があった。
+#
+<sprite "ta15a31.iph" 4 4 11>
+<name "プシェル" "!SA9055">
+「私達が止めなくてもどうって事は無いでしょうけ
+　ど……」
+#
+<removesprite -1 11>
+<sprite "ta15a31.iph" 2 5 11>
+<sprite "ta14a00.iph" 6 4 11>
+<name "レッキーノ" "!RA9079">
+「万が一を避ける努力をするべきだ」
+#
+<removesprite -1 11>
+<exit>
+:2C24
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0535">
+「クルーネ帝国軍が降伏しました。
+　戦争終結です」
+#
+<name "Lazlocke">
+「そうか……思ったよりも早かったな」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0536">
+「はい。
+　ベルーダ王国やリカオン王国からの説得が効いた
+　ようです」
+#
+<name "Lazlocke">
+「なんにせよ、良い事だ」
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA0537">
+「そうですね。
+　祝賀会が王都で予定されていますが、出席されま
+　すか？」
+#
+<name "Lazlocke">
+「丁重に、お断りする」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0538">
+「承知しました。
+　では、私は協会に戻ります」
+#
+<name "Lazlocke">
+「協会長に、よろしく」
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA0539">
+「はい」
+#
+<removesprite -1 11>
+　ソシエットと入れ替わり、セリスがやってくる。
+#
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA3157">
+「師匠、戦争が終ったんですか？」
+#
+<name "Lazlocke">
+「ああ、やっとな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3158">
+「一安心ですね」
+#
+<name "Lazlocke">
+「そうだな。
+　……これで、お前も修行に集中できるな」
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA3159">
+「はい！
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:30AC
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0540">
+「ご主人様。
+　協会から、出陣要請です」
+#
+<name "Lazlocke">
+「……わかった」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA3160">
+「師匠」
+#
+<name "Lazlocke">
+「セリス。
+　留守番をしていろ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA3161">
+「一緒に行くのは駄目ですか？」
+#
+<name "Lazlocke">
+「駄目だ」
+#
+<removesprite -1 11>
+　俺の返事に、セリスは不服そうな顔をする。
+#
+　しかし、俺は折れない。
+#
+<name "Lazlocke">
+「そんな顔をしても駄目だ」
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0541">
+「協会からセリスさんに出陣要請はありません。
+　一緒に来られても、同じ部隊で行動できない可能
+　性が高いです」
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0542">
+「そうなれば、余計な心配をご主人様にお掛けする
+　事になるのではありませんか？」
+#
+<removesprite -1 11>
+<sprite "ta01a27.iph" 2 5 11>
+<sprite "ta04a24.iph" 6 4 11>
+<name "Celes" "!AA3162">
+「……わかりました。
+　留守番しています」
+#
+<removesprite -1 11>
+<name "Lazlocke">
+「ソシエット、他に出るヤツは？」
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0543">
+「ヴィオラ様、メイツェル様、ヘンリエッタ様です」
+#
+<name "Lazlocke">
+「ヘンリエッタまで来るのか？」
+#
+<sprite "ta04a68.iph" 4 4 12>
+<name "Soshiette" "!DA0544">
+「はい。
+　最大戦力で、一気に終らせる計画です。
+　非公式ながら、エルザ様、キーマ様も参加されま
+　す」
+#
+<name "Lazlocke">
+「ちょっとした同窓会だな。
+　協会長は？」
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0545">
+「王都の防衛に残ります。
+　戦後に、全員で顔を見せに来るようにとの命令が
+　出ています」
+#
+<name "Lazlocke">
+「命令ね。
+　命令なら従わないとな。
+　……行くぞ」
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0546">
+「はい」
+#
+<removesprite -1 11>
+　俺は協会の要請により、出陣した。
+#
+<exit>
+:377E
+<music 23>
+<background "bg012a0.iph" 11>
+　それから一ヶ月後。
+#
+　戦争は終結した。
+#
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「あー、終った終った」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA3163">
+「師匠……」
+#
+<name "Lazlocke">
+「久しぶりだな。
+　ちゃんと修行はしていたか？」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA3164">
+「……駄目でした。
+　集中できなくて」
+#
+<name "Lazlocke">
+「そうか。
+　まあ、戦争は終ったんだ。
+　これからは修行がいくらでも出来るぞ」
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA3165">
+「はい。
+　指導、よろしくお願いします」
+#
+<name "Lazlocke">
+「わかった。
+　が、今日は休ませてくれ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3166">
+「はい♪」
+#
+<removesprite -1 11>
+<exit>
+:3A34
+<music 23>
+<background "bg012a0.iph" 11>
+　それから一ヶ月後。
+#
+　戦争は終結した。
+#
+<music 10>
+<background "bg008a0.iph" 11>
+<sprite "ta03a38.iph" 4 4 11>
+<name "Viola" "!BA0292">
+「疲れたわね」
+#
+<removesprite -1 11>
+<sprite "ta03a38.iph" 2 4 11>
+<sprite "ta02a34.iph" 6 5 11>
+<name "Elle" "!CA0233">
+「師匠！」
+#
+<sprite "ta03a01.iph" 2 4 12>
+<name "Viola" "!BA0293">
+「出迎え、ありがとう。
+　ん、どうしたの？」
+#
+<sprite "ta02a27.iph" 6 5 12>
+<name "Elle" "!CA0234">
+「いえ、師匠が無事で……」
+#
+<sprite "ta03a03.iph" 2 4 12>
+<name "Viola" "!BA0294">
+「私が死ぬと思ったの？」
+#
+<sprite "ta02a32.iph" 6 5 12>
+<name "Elle" "!CA0235">
+「そ、そうではありませんが……」
+#
+<sprite "ta03a01.iph" 2 4 12>
+<name "Viola" "!BA0295">
+「……心配してくれてありがとう。
+　でも、私の心配をする前に、腕を磨きなさい」
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0296">
+「貴女が強くなれば、私の心配をしなくても良くな
+　るでしょう」
+#
+<sprite "ta02a09.iph" 6 5 12>
+<name "Elle" "!CA0236">
+「そ、そうですね。
+　頑張ります！」
+#
+<sprite "ta03a01.iph" 2 4 12>
+<name "Viola" "!BA0297">
+「よろしい。
+　……少し横になるわ。
+　私の事は良いから、修行に励みなさい」
+#
+<sprite "ta02a10.iph" 6 5 12>
+<name "Elle" "!CA0238">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3EC3
+<music 11>
+<background "bg010a0.iph" 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0547">
+「戦争終結です。
+　ご苦労様でした」
+#
+<name "Lazlocke">
+「んー……まあ、ヴィオラとヘンリエッタが暴れた
+　だけな気がするが……」
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA0548">
+「あの二人を抑えられるのは、ご主人様しかいませ
+　ん」
+#
+<name "Lazlocke">
+「嫌な頼られ方だ」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0549">
+「なにはともあれ、ありがとうございました」
+#
+<name "Lazlocke">
+「おう」
+#
+<removesprite -1 11>
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA3167">
+「師匠」
+#
+<name "Lazlocke">
+「久しぶりだな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3168">
+「ご無事でなによりです」
+#
+<name "Lazlocke">
+「ああ、無事さを確かめる為に、一戦するか？」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA3169">
+「模擬戦ですか？」
+#
+<name "Lazlocke">
+「いや、ベッドの中」
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA3170">
+「…………はい♪」
+#
+<removesprite -1 11>
+<exit>
+:427B
+<music 23>
+<background "bg012a0.iph" 11>
+　それから一ヶ月後。
+#
+　戦争は終結した。
+#
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta06a00.iph" 4 4 11>
+<name "協会長秘書" "!GA0090">
+「ご苦労様でした」
+#
+<removesprite -1 11>
+<sprite "ta05a21.iph" 2 5 11>
+<sprite "ta06a00.iph" 6 4 11>
+<name "ルーン" "!EA0139">
+「私は大丈夫よ。
+　それより、前線に行った魔法使い達の被害は？」
+#
+<name "協会長秘書" "!GA0091">
+「軽傷の者は多数ですが、戦死はありません。
+　グレイトシックスが率いているだけありますね」
+#
+<sprite "ta05a07.iph" 2 5 12>
+<name "ルーン" "!EA0140">
+「そう……
+　ヴィオラはどうだったの？」
+#
+<name "協会長秘書" "!GA0092">
+「指揮官として、高い評価を得ているようです」
+#
+<sprite "ta05a06.iph" 2 5 12>
+<name "ルーン" "!EA0141">
+「そう……」
+#
+<name "協会長秘書" "!GA0093">
+「問題点としては、ヘンリエッタ様です」
+#
+<sprite "ta05a22.iph" 2 5 12>
+<name "ルーン" "!EA0142">
+「ヘンリエッタが？」
+#
+<name "協会長秘書" "!GA0094">
+「味方から、やり過ぎだとの苦情が……」
+#
+<sprite "ta05a24.iph" 2 5 12>
+<name "ルーン" "!EA0143">
+「あら。
+　敵に同情するぐらい、やっちゃったの？」
+#
+<name "協会長秘書" "!GA0096">
+「はい。
+　ラズロック様が居なければ、もっと酷い事になっ
+　ていたと思われます」
+#
+<sprite "ta05a21.iph" 2 5 12>
+<name "ルーン" "!EA0144">
+「ラズロックを引っ張り出したのは正解ね」
+#
+<name "協会長秘書" "!GA0097">
+「英断でした」
+#
+<sprite "ta05a24.iph" 2 5 12>
+<name "ルーン" "!EA0145">
+「まあ、しばらくは拗ねて協会に近付いてくれない
+　だろうけど……
+　こっちに戻って来るのはいつぐらいになりそう」
+#
+<name "協会長秘書" "!GA0098">
+「はい。
+　あと三日で、この街に到着する予定です。
+　出迎えの準備はどうしますか？」
+#
+<sprite "ta05a12.iph" 2 5 12>
+<name "ルーン" "!EA0147">
+「派手にお願い」
+#
+<name "協会長秘書" "!GA0099">
+「承知しました」
+#
+<removesprite -1 11>
+<exit>
+\x78

@@ -1,0 +1,1378 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x01\xF4\x84\x00\x01\x0E :27: \x16 :638: \x0A\x04\x01\xF4\x84\x01\x15 :5D0: 
+:27
+\x1A\x01\x07\x04\x01\xF5\x84\x00\x01\x0E :48: \x16 :AA2: \x0A\x04\x01\xF5\x84\x01\x15 :5D0: 
+:48
+\xE9 2000 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :75: \x15 :5C4: 
+:75
+\x1A\x01\x07\x04\x01\xF6\x84\x00\x01\x0E :B1: \x1A\x01\x07\x04\x00\xD2\x84\x00\x01\x0E :9F: \x16 :121A: \x18 :A5: 
+:9F
+\x16 :19AF: 
+:A5
+\x0A\x04\x01\xF6\x84\x01\x15 :5D0: 
+:B1
+\x1A\x01\x07\x04\x01\xF7\x84\x00\x01\x0E :D2: \x16 :219A: \x0A\x04\x01\xF7\x84\x01\x15 :5D0: 
+:D2
+\x1A\x01\x07\x04\x01\xF9\x84\x00\x01\x0E :FC: \xE6 "a0500" \x00\x16 :2DDB: \x0A\x04\x01\xF9\x84\x01\x15 :5D0: 
+:FC
+\x1A\x01\x07\x04\x01\xF8\x84\x00\x01\x0E :11D: \x16 :2701: \x0A\x04\x01\xF8\x84\x01\x15 :5D0: 
+:11D
+\x1A\x01\x07\x04\x01\xFA\x84\x00\x01\x0E :147: \xE6 "a0500" \x00\x16 :2EC5: \x0A\x04\x01\xFA\x84\x01\x15 :5D0: 
+:147
+\x1A\x01\x07\x04\x01\xFD\x84\x00\x01\x0E :171: \xE6 "a0501" \x00\x16 :3147: \x0A\x04\x01\xFD\x84\x01\x15 :5D0: 
+:171
+\x1A\x01\x07\x04\x02\x0E\x84\x00\x01\x0E :19B: \xE6 "a0506" \x00\x16 :48E6: \x0A\x04\x02\x0E\x84\x01\x15 :5D0: 
+:19B
+\x1A\x01\x07\x04\x02\x01\x84\x00\x01\x0E :1C5: \xE6 "a0502" \x00\x16 :350A: \x0A\x04\x02\x01\x84\x01\x15 :5D0: 
+:1C5
+\x1A\x01\x07\x04\x01\xFB\x84\x00\x01\x0E :1EF: \xE6 "a0500" \x00\x16 :2FC2: \x0A\x04\x01\xFB\x84\x01\x15 :5D0: 
+:1EF
+\x1A\x01\x07\x04\x01\xFE\x84\x00\x01\x0E :219: \xE6 "a0501" \x00\x16 :321B: \x0A\x04\x01\xFE\x84\x01\x15 :5D0: 
+:219
+\x1A\x01\x07\x04\x02\x02\x84\x00\x01\x0E :243: \xE6 "a0502" \x00\x16 :3676: \x0A\x04\x02\x02\x84\x01\x15 :5D0: 
+:243
+\x1A\x01\x07\x04\x02
+#
+\x84\x00\x01\x0E :26D: \xE6 "a0503" \x00\x16 :3AB9: \x0A\x04\x02\x05\x84\x01\x15 :5D0: 
+:26D
+\x1A\x01\x07\x04\x02\x0B\x84\x00\x01\x0E :297: \xE6 "a0505" \x00\x16 :45B4: \x0A\x04\x02\x0B\x84\x01\x15 :5D0: 
+:297
+\x1A\x01\x07\x04\x01\xFC\x84\x00\x01\x0E :2C1: \xE6 "a0500" \x00\x16 :3099: \x0A\x04\x01\xFC\x84\x01\x15 :5D0: 
+:2C1
+\x1A\x01\x07\x04\x01\xFF\x84\x00\x01\x0E :2EB: \xE6 "a0501" \x00\x16 :32D3: \x0A\x04\x01\xFF\x84\x01\x15 :5D0: 
+:2EB
+\x1A\x01\x07\x04\x02\x0C\x84\x00\x01\x0E :315: \xE6 "a0505" \x00\x16 :46B2: \x0A\x04\x02\x0C\x84\x01\x15 :5D0: 
+:315
+\x1A\x01\x07\x04\x02\x08\x84\x00\x01\x0E :33F: \xE6 "a0504" \x00\x16 :4156: \x0A\x04\x02\x08\x84\x01\x15 :5D0: 
+:33F
+\x1A\x01\x07\x04\x02\x0F\x84\x00\x01\x0E :369: \xE6 "a0506" \x00\x16 :4B17: \x0A\x04\x02\x0F\x84\x01\x15 :5D0: 
+:369
+\x1A\x01\x07\x04\x02\x03\x84\x00\x01\x0E :393: \xE6 "a0502" \x00\x16 :3781: \x0A\x04\x02\x03\x84\x01\x15 :5D0: 
+:393
+\x1A\x01\x07\x04\x02\x06\x84\x00\x01\x0E :3BD: \xE6 "a0503" \x00\x16 :3C33: \x0A\x04\x02\x06\x84\x01\x15 :5D0: 
+:3BD
+\x1A\x01\x07\x04\x02\x09\x84\x00\x01\x0E :3E7: \xE6 "a0504" \x00\x16 :42E3: \x0A\x04\x02\x09\x84\x01\x15 :5D0: 
+:3E7
+\x1A\x01\x07\x04\x02\x00\x84\x00\x01\x0E :411: \xE6 "a0501" \x00\x16 :3414: \x0A\x04\x02\x00\x84\x01\x15 :5D0: 
+:411
+\x1A\x01\x07\x04\x02\x04\x84\x00\x01\x0E :43B: \xE6 "a0502" \x00\x16 :38F6: \x0A\x04\x02\x04\x84\x01\x15 :5D0: 
+:43B
+\x1A\x01\x07\x04\x02\x07\x84\x00\x01\x0E :465: \xE6 "a0503" \x00\x16 :3E34: \x0A\x04\x02\x07\x84\x01\x15 :5D0: 
+:465
+\x1A\x01\x07\x04\x02\x11\x84\x00\x01\x0E :48F: \xE6 "a0507" \x00\x16 :4D2D: \x0A\x04\x02\x11\x84\x01\x15 :5D0: 
+:48F
+\x1A\x01\x07\x04\x02\x0A\x84\x00\x01\x0E :4B9: \xE6 "a0504" \x00\x16 :43F3: \x0A\x04\x02\x0A\x84\x01\x15 :5D0: 
+:4B9
+\x1A\x01\x07\x04\x02\x0D\x84\x00\x01\x0E :4E3: \xE6 "a0505" \x00\x16 :4807: \x0A\x04\x02\x0D\x84\x01\x15 :5D0: 
+:4E3
+\x1A\x01\x07\x04\x02\x10\x84\x00\x01\x0E :50D: \xE6 "a0506" \x00\x16 :4C44: \x0A\x04\x02\x10\x84\x01\x15 :5D0: 
+:50D
+\x1A\x01\x07\x04\x02\x12\x84\x00\x01\x0E :537: \xE6 "a0507" \x00\x16 :4E43: \x0A\x04\x02\x12\x84\x01\x15 :5D0: 
+:537
+\x1A\x01\x07\x04\x02\x13\x84\x00\x01\x0E :561: \xE6 "a0507" \x00\x16 :4FBC: \x0A\x04\x02\x13\x84\x01\x15 :5D0: 
+:561
+\x1A\x01\x07\x04\x02\x14\x84\x00\x01\x0E :59A: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :59A: \xE6 "a0502" \x00\x16 :5197: \x0A\x04\x02\x14\x84\x01\x15 :5D0: 
+:59A
+\x1A\x01\x07\x04\x02\x15\x84\x00\x01\x0E :5C4: \xE6 "a0502" \x00\x16 :55F2: \x0A\x04\x02\x15\x84\x01\x15 :5D0: 
+:5C4
+\x16 :5945: \x15 :5D0: 
+:5D0
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :637: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :622: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :637: 
+:622
+<background "ev008a0.iph" 11>
+\x2B
+:637
+\x78
+:638
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「師匠として、魔法の講義はしてやるが……
+　その講義の前にある程度の知識はつけて貰う」
+#
+<sprite "ta01a01.iph" 4 4 11>
+<name "Celes" "!AA1108">
+「はい」
+#
+<name "Lazlocke">
+「とりあえず、俺の渡す本を読んで、自分なりに解
+　釈して本にしろ」
+#
+<sprite "ta01a00.iph" 4 4 12>
+<name "Celes" "!AA1109">
+「本にですか？」
+#
+<name "Lazlocke">
+「そうだ。
+　自分で書くと思うと、集中力や理解力が上がるか
+　らな」
+#
+<name "Lazlocke">
+「欲しい資料や、素材があったら言うように。
+　簡単な実験なら許可する」
+#
+<sprite "ta01a02.iph" 4 4 12>
+<name "Celes" "!AA1110">
+「はい」
+#
+<name "Lazlocke">
+「後は……図書館だな」
+#
+<sprite "ta01a03.iph" 4 4 12>
+<name "Celes" "!AA1111">
+「図書館ですか？」
+#
+<name "Lazlocke">
+「ああ、協会がやってる図書館で、魔法の文献が多
+　数ある」
+#
+<sprite "ta01a00.iph" 4 4 12>
+<name "Celes" "!AA1112">
+「え？
+　でも、前に行った時は普通の図書館でしたけ
+　ど……」
+#
+<name "Lazlocke">
+「魔法の文献は一般には公開されていない。
+　許可が要るが……
+　まあ、俺から協会に言っておく。
+　必要ならその図書館も使え」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1113">
+「はい！
+　頑張ります！」
+#
+<removesprite -1 11>
+<exit>
+:AA2
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「全ての魔法は、体内の魔力に形や色、使命を与え
+　て体外へ出し、その魔力を媒体に周囲の魔力を巻
+　き込んで魔法にする」
+#
+<name "Lazlocke">
+「これを普通にやると、えらく時間が掛かる。
+　が、詠唱の基本はこれだ」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1114">
+「トークドライブと呼ばれる詠唱形態ですね」
+#
+<name "Lazlocke">
+「そうだ。
+　だが、トークドライブは時間が掛かり過ぎるし、
+　同じ魔法を行なうのにも毎回同じ手間が掛かると
+　いうので編み出されたのが次の三つ」
+#
+<name "Lazlocke">
+「スクエアドライブ。
+　ペーパードライブ。
+　キードライブ」
+#
+<name "Lazlocke">
+「スクエアドライブは、魔法陣による詠唱の固定化
+　を目指した形態だ」
+#
+<name "Lazlocke">
+「利点は複数人の魔法使いが関われる事と、魔法効
+　果の一定化が図れる事だ」
+#
+<name "Lazlocke">
+「昔は、戦争なんかにこれを利用しようとしていた
+　んだが……
+　弱点があってな」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1115">
+「弱点ですか？」
+#
+<name "Lazlocke">
+「魔法陣を作る際に効果の発動場所を決めなければ
+　いけない事だ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1116">
+「ああ、なるほど」
+#
+<name "Lazlocke">
+「相手が動く戦場では使えない。
+　拠点を攻めるのには有効かもしれないが、威力面
+　を考えると時間と手間が掛かり過ぎる」
+#
+<name "Lazlocke">
+「戦場で運用しようとしたら、その護衛も必要にな
+　るしな」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1117">
+「そうですね」
+#
+<name "Lazlocke">
+「だが、今では効果の発動場所の変更など色々と研
+　究されて使いやすくはなっているし、魔力の弱い
+　者が集まって高い威力を目指すには最適だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1118">
+「そう思います」
+#
+<name "Lazlocke">
+「では、このスクエアドライブに関しての勉強を命
+　じる」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1119">
+「え？
+　ペーパードライブとキードライブの説明は？」
+#
+<name "Lazlocke">
+「また今度だ。
+　頑張れ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1120">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:121A
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「今日はペーパードライブに関して説明しよう」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1121">
+「はい」
+#
+<name "Lazlocke">
+「ペーパードライブは、簡単に言えば先に魔法を詠
+　唱しておき、必要な時に手軽に発動させる方法だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1122">
+「便利そうですね」
+#
+<name "Lazlocke">
+「そうだな。
+　それで、先に魔法を詠唱しておく際に紙を使い、
+　発動させる時にその紙に書いた文を読むスタイル
+　からペーパードライブと呼ばれている」
+#
+<name "Lazlocke">
+「紙がポピュラーだから例にしたが、紙以外にも色
+　々な媒体がある。
+　その場合でもペーパードライブだ。
+　忘れないように」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1123">
+「はい」
+#
+<name "Lazlocke">
+「利点は、準備さえしておけば手軽に発動できる事
+　と、高い魔力を持たなくても時間を掛ければ高度
+　な魔法が使える事だな」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1124">
+「時間を掛ける事で、魔力の少なさを補うわけです
+　ね」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1125">
+「欠点はなんですか？」
+#
+<name "Lazlocke">
+「先に魔法を唱え、それを紙に留める技術がかなり
+　高度な事と、先に準備するから状況の変化に弱い
+　事だな」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1126">
+「状況の変化ですか？」
+#
+<name "Lazlocke">
+「火に弱い魔物が相手だと思って火の魔法を沢山準
+　備したら、途中で火に強い魔物に遭遇した。
+　魔法を三発用意したが、敵が四匹居た。
+　ペーパードライブの場合、そういった弱さがある」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1127">
+「なるほど」
+#
+<name "Lazlocke">
+「まあ、ペーパードライブ使いは、あらゆる状況を
+　想定しているから、滅多にそういった事はないが
+　な」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1128">
+「ですよね」
+#
+<name "Lazlocke">
+「後は……
+　書いた紙を紛失すると無駄になる事ぐらいだ。
+　では、今回はペーパードライブに関しての勉強を
+　行なうように」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1129">
+「わかりました」
+#
+<removesprite -1 11>
+<exit>
+:19AF
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「今日はペーパードライブに関して説明しよう。
+　イエルが使っている詠唱方法だ」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1130">
+「はい」
+#
+<name "Lazlocke">
+「ペーパードライブは、簡単に言えば先に魔法を詠
+　唱しておき、必要な時に手軽に発動させる方法だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1131">
+「イエルちゃんは、便利そうに使っています」
+#
+<name "Lazlocke">
+「そうだな。
+　それで、先に魔法を詠唱しておく際に紙を使い、
+　発動させる時にその紙に書いた文を読むスタイル
+　からペーパードライブと呼ばれている」
+#
+<name "Lazlocke">
+「紙がポピュラーだから例にしたが、紙以外にも色
+　々な媒体がある。
+　その場合でもペーパードライブだ。
+　忘れないように」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1132">
+「はい」
+#
+<name "Lazlocke">
+「利点は、準備さえしておけば手軽に発動できる事
+　と、高い魔力を持たなくても時間を掛ければ高度
+　な魔法が使える事だな」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1133">
+「時間を掛ける事で、魔力の少なさを補うわけです
+　ね」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1134">
+「欠点はなんですか？」
+#
+<name "Lazlocke">
+「先に魔法を唱え、それを紙に留める技術がかなり
+　高度な事と、先に準備するから状況の変化に弱い
+　事だな」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1135">
+「状況の変化ですか？」
+#
+<name "Lazlocke">
+「火に弱い魔物が相手だと思って火の魔法を沢山準
+　備したら、途中で火に強い魔物に遭遇した。
+　魔法を三発用意したが、敵が四匹居た。
+　ペーパードライブの場合、そういった弱さがある」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1136">
+「なるほど」
+#
+<name "Lazlocke">
+「まあ、ペーパードライブ使いは、あらゆる状況を
+　想定しているから、滅多にそういった事はないが
+　な」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1137">
+「ですよね。
+　イエルちゃん向きだな」
+#
+<name "Lazlocke">
+「後は……
+　書いた紙を紛失すると無駄になる事ぐらいだ。
+　では、今回はペーパードライブに関しての勉強を
+　行なうように」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1138">
+「わかりました」
+#
+<removesprite -1 11>
+<exit>
+:219A
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「さて、今回はキードライブに関してだ」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1139">
+「はい」
+#
+<name "Lazlocke">
+「キードライブは、アイテムを使って呪文の詠唱を
+　短縮する方法だ」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1140">
+「杖を振るって、えいってヤツですね」
+#
+<name "Lazlocke">
+「そうだ。
+　その場合は、杖が魔法のアイテムだな」
+#
+<name "Lazlocke">
+「凄く便利だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1141">
+「ですよね」
+#
+<name "Lazlocke">
+「だが、呪文を全て短縮できるわけではなく、トー
+　クドライブよりは短いがやはり時間は掛かる」
+#
+<name "Lazlocke">
+「弱点は、その時間が掛かる事以外にも、アイテム
+　自体の製作が難しい事だ。
+　まあ、これは他の人が作ったアイテムでも問題無
+　いという利点がある」
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA1142">
+「なるほど」
+#
+<name "Lazlocke">
+「そして、そのアイテムに魔力まで込め、消費式に
+　したのがキーブレイク」
+#
+<name "Lazlocke">
+「これは魔力を持たない素人でも、手順さえ覚えれ
+　ば使える便利なものだ」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA1143">
+「でも、高価なんですよね」
+#
+<name "Lazlocke">
+「アイテムによっては、家が買える」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA1144">
+「うわっ」
+#
+<name "Lazlocke">
+「と言う所で、今回はキードライブに関しての勉強
+　を行なうように」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1145">
+「はい。
+　わかりました」
+#
+<removesprite -1 11>
+<exit>
+:2701
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA1146">
+「師匠」
+#
+<name "Lazlocke">
+「ん？」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1148">
+「前に詠唱形態を色々と習いましたが、少し分から
+　ない所が出てきたんですが」
+#
+<name "Lazlocke">
+「なんだ？」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1149">
+「“竜殺しの剣”の文献を見つけたんですが、これっ
+　て消費式でもないし、呪文を詠唱したりもしませ
+　んが、キードライブ、キーブレイクのどちらにな
+　るんですか？」
+#
+<name "Lazlocke">
+「アイテムの中には存在しているだけで魔法になる
+　ものがある」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1150">
+「存在しているだけですか？」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<name "Lazlocke">
+「遥か昔、天界の住人や魔界の住人が作ったとされ
+　るアイテム群だ」
+#
+<name "Lazlocke">
+「製造方法などは知られていないし、手に入れたけ
+　れば天界や魔界に行った方が早いとまで言われる
+　ぐらいだ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1151">
+「伝説級のアイテムですね」
+#
+<name "Lazlocke">
+「そうだな。
+　分類的には、プレシャスと呼ばれる」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1152">
+「プレシャスですか」
+#
+<name "Lazlocke">
+「ああ。
+　まあ、地域や時代によって、神具とか、宝具とか
+　呼び方が変わってしまうがな」
+#
+<name "Lazlocke">
+「しかし、その“竜殺しの剣”は魔法と言うより、
+　呪いに近いぞ」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1153">
+「そうなんですか？」
+#
+<name "Lazlocke">
+「ああ、純血竜の血に対して反応し、その竜の力を
+　極端に抑える」
+#
+<name "Lazlocke">
+「魔法よりも、呪いだろ」
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA1154">
+「そうですね」
+#
+<name "Lazlocke">
+「では、今回はプレシャスに関して勉強を……
+　いやいや、勉強しているから質問が出たのか」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1155">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2DDB
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1156">
+「“基礎魔法理論”
+　今日はこの本を読もう」
+#
+<name "Celes" "!AA1157">
+「……」
+#
+<name "Celes" "!AA1158">
+「…………」
+#
+<name "Celes" "!AA1159">
+「………………」
+#
+<name "Celes" "!AA1160">
+「ぐー」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2EC5
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1161">
+「この“魔力と魔法の関係”は勉強になるわね」
+#
+<name "Celes" "!AA1162">
+「誰が書いたのかしら？」
+#
+<name "Celes" "!AA1163">
+「ええと、ラズロック＝アルトホーン」
+#
+<name "Celes" "!AA1164">
+「……………………師匠？」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2FC2
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1165">
+「この本と、この本はもう読んだから……
+　今日はこれにしよう」
+#
+<name "Celes" "!AA1166">
+「…………」
+#
+<name "Celes" "!AA1167">
+「…………あれ？
+　この本も読んでた」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:3099
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1168">
+「本を読み、要所をまとめる」
+#
+<name "Celes" "!AA1169">
+「簡単そうだけど……難しい。
+　頭の中でグチャグチャになっちゃう」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:3147
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1170">
+「ええと、魔法の効率化に関しての資料はどこだっ
+　たかな。
+　さっき見た記憶があるけど……」
+#
+<name "Celes" "!AA1171">
+「ええい！
+　もう一回、全部調べる！」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:321B
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1172">
+「調査調査。
+　調べ物は大変だけど、勉強になるから頑張らない
+　と……」
+#
+<name "Celes" "!AA1173">
+「あれ？
+　資料がどこかに？」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:32D3
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1174">
+「“良く解る魔法学”“魔法と倹約生活”“戦う魔
+　法使いの一生”」
+#
+<name "Celes" "!AA1175">
+「一見、無関係そうな本ですが、私の調査によって
+　関係がある事が判明しました」
+#
+<name "Lazlocke">
+「作者が同じってのなら、知ってるぞ」
+#
+<name "Celes" "!AA1176">
+「……失礼しました」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:3414
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1177">
+「師匠、本を借りに協会に行ってきます」
+#
+<name "Lazlocke">
+「調べ物か？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1178">
+「はい。
+　頑張ってきます」
+#
+<removesprite -1 11>
+<exit>
+:350A
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA1179">
+「他の魔法使いの方にお話を聞いているんですが、
+　結構喋ってくれますよね」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1180">
+「魔法使いって、秘密主義的なイメージがあったん
+　ですが……」
+#
+<name "Lazlocke">
+「誰だって、研究発表の場と、自慢する相手は欲し
+　いものだ」
+#
+<removesprite -1 11>
+<exit>
+:3676
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1181">
+「他の魔法使いの方に、お話を聞きに行ってきます」
+#
+<name "Lazlocke">
+「俺が、よろしく言っていたと伝えておいてくれ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1182">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3781
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1184">
+「他の魔法使いの方にお話を聞くのは、タメになり
+　ますね」
+#
+<name "Lazlocke">
+「ああ、経験に裏付けされた話だからな。
+　が、変な内容の時は忘却しておけよ」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1185">
+「変な内容？」
+#
+<name "Lazlocke">
+「得てして、趣味の話になったりするんだ」
+#
+<removesprite -1 11>
+<exit>
+:38F6
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1186">
+「むう……」
+#
+<name "Lazlocke">
+「どうしたんだ？
+　難しい顔をして」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA1187">
+「他の魔法使いの方にお話を聞いたんですが、師匠
+　によろしくとソシエットさんによろしくの二点以
+　外、記憶に残ってないので……」
+#
+<name "Lazlocke">
+「人選、もう少し頑張ろうな」
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA1188">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3AB9
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA1189">
+「呪文の詠唱練習と言えば、滑舌！」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA1190">
+「滑舌を良くするには、どうすれば……」
+#
+<name "Lazlocke">
+「日頃から大きく口を動かす。
+　発声を毎日行なう。
+　繰り返し練習」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA1191">
+「が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:3C33
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a16.iph" 4 4 11>
+<name "Celes" "!AA1192">
+「三匹の猫にゃおにゃおにゃお、四匹の猫にゃおにゃ
+　おにゃおにゃお、五匹の猫にゃおにゃおにゃおにゃ
+　おにゃお、六匹の猫にゃおにゃおにゃおにゃおにゃ
+　おにゃお……」
+#
+<name "Lazlocke">
+「なんだ、それは？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1193">
+「呪文の詠唱練習です。
+　記憶と滑舌に良いらしいんです」
+#
+<name "Lazlocke">
+「ほう……」
+#
+<removesprite -1 11>
+　後でやってみたが、舌を噛んでしまった。
+#
+　……むう、頑張らねば。
+#
+<exit>
+:3E34
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「セリス。
+　どこだ？」
+#
+　セリスは俺の背後に居た。
+#
+<sprite "ta01a31.iph" 4 4 11>
+　俺の服を引っ張り、存在をアピールする。
+#
+<name "Lazlocke">
+「なんだ、返事をしてくれれば……」
+#
+　そう言おうとして、セリスの様子のおかしさに気
+　付いた。
+#
+<name "Lazlocke">
+「……口を怪我したのか？」
+#
+<sprite "ta01a27.iph" 4 4 12>
+　セリスは恥ずかしそうに頷いた。
+#
+　どうやら、詠唱練習をしていたら、舌を噛んだよ
+　うだ。
+#
+<name "Lazlocke">
+「……喋れないか？」
+#
+<sprite "ta01a31.iph" 4 4 12>
+　頷くセリス。
+#
+　これはこれで可愛いかもしれない。
+#
+　うんうん。
+#
+　押し倒してしまいそうだ。
+#
+<removesprite -1 11>
+　が、さっさと治療してやる。
+#
+<name "Lazlocke">
+「練習もほどほどに……」
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA1194">
+「注意します」
+#
+<removesprite -1 11>
+<exit>
+:4156
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「瞑想は、自分の体内の魔力を確認し、使いやすく
+　する作業だ。
+　結構大事だぞ」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1195">
+「わかりました」
+#
+<removesprite -1 11>
+<name "Lazlocke">
+「と返事をして数分」
+#
+<name "Celes" "!AA1196">
+「くー……」
+#
+　目を閉じると寝るタイプか……
+#
+　キス中に寝たりするのかな？
+#
+　……
+#
+　馬鹿な事を考えながら、起こした。
+#
+<exit>
+:42E3
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1197">
+「瞑想瞑想……瞑想瞑想……」
+#
+<name "Lazlocke">
+「瞑想とか言ってる時点では、まったくできてない
+　って事だぞ」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA1198">
+「難しいんです」
+#
+<removesprite -1 11>
+<exit>
+:43F3
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1199">
+「むー……むむー……」
+#
+<removesprite -1 11>
+　セリスは瞑想する。
+#
+　静かに……
+#
+　そして、そのまま前に倒れる。
+#
+<name "Celes" "!AA1200">
+「くー……」
+#
+<name "Lazlocke">
+「そのまま寝るなら、襲うぞ」
+#
+<name "Celes" "!AA1201">
+「くー……」
+#
+　俺はセリスを起こした。
+#
+<sprite "ta01a80.iph" 4 4 11>
+<name "Celes" "!AA1202">
+「うう……襲われた……
+　しかも、凄い感じに……」
+#
+<removesprite -1 11>
+<exit>
+:45B4
+<music 10>
+<background "ev009a0.iph" 11>
+<name "Celes" "!AA1203">
+「調合ですか？」
+#
+<name "Lazlocke">
+「ああ、クデュール魔法大会を目指すお前には関係
+　が薄いから後回しにしているが、最低限の知識は
+　得ておくように」
+#
+<name "Celes" "!AA1204">
+「はい。
+　頑張ります」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:46B2
+<music 10>
+<background "ev009a0.iph" 11>
+<name "Celes" "!AA1205">
+「この薬品と、こっちの薬品を調合してみたいと思
+　います」
+#
+<name "Lazlocke">
+「やってみろ！」
+#
+<name "Celes" "!AA1206">
+「はい」
+#
+　爆発した。
+#
+<name "Celes" "!AA1207">
+「げほっごほっ……
+　師匠……」
+#
+<name "Lazlocke">
+「身体で覚えた方が早いからな」
+#
+<name "Celes" "!AA1208">
+「うう……酷い……」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:4807
+<music 26>
+<background "ev009a0.iph" 11>
+<name "Celes" "!AA1209">
+「これとこれを調合すると……」
+#
+<name "Celes" "!AA1210">
+「なぜかお菓子が出来る」
+#
+<name "Celes" "!AA1211">
+「なぜ？」
+#
+<name "Lazlocke">
+「参考にしている本が、料理の本だからだ」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:48E6
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「火に水を掛けてみろ」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA1212">
+「はい」
+#
+<name "Lazlocke">
+「どうなった？」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1213">
+「火が消えました」
+#
+<name "Lazlocke">
+「……もう少し、大きめの炎にして。
+　再挑戦」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1214">
+「はい。
+　……火は消えません」
+#
+<name "Lazlocke">
+「つまり、水は火に強いと言っても限界がある！
+　それを覚えておいて欲しい」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1215">
+「わかりました」
+#
+<removesprite -1 11>
+<exit>
+:4B17
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1216">
+「色々とやってみる事が大事だ。
+　と師匠は言ってたけど……」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA1217">
+「火に水を掛けるのは、火の変化を観察するだけじゃ
+　なくて、水の変化も観察しろって事かな？」
+#
+<removesprite -1 11>
+<exit>
+:4C44
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1218">
+「水の中で燃える炎ってできないかなぁ……」
+#
+<name "Lazlocke">
+「何事も、挑戦だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1219">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:4D2D
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA1220">
+「魔法を使う為の動作……難しい」
+#
+<name "Lazlocke">
+「魔法を効果的に発動させる為の動きだ。
+　一応、全てに意味がある」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA1221">
+「頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:4E43
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a17.iph" 4 4 11>
+<name "Celes" "!AA1222">
+「えいえいえーい♪」
+#
+<name "Lazlocke">
+「何をやっているんだ？」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1223">
+「棒を使っての魔法練習です」
+#
+<name "Lazlocke">
+「そうか……すまん。
+　遊んでいるのかと思ってしまった」
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA1224">
+「ひ、酷い」
+#
+<removesprite -1 11>
+<exit>
+:4FBC
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA1225">
+「師匠は、魔法を使う時にあまりアクションをしま
+　せんよね」
+#
+<name "Lazlocke">
+「腕や杖を動かすのは、魔法を効果的に発動する為
+　だろ。
+　ベテランになれば、それが省ける」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1226">
+「省けちゃうんですか」
+#
+<name "Lazlocke">
+「ああ、でも最初はキッチリとやった方が良いぞ」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1227">
+「わかりました」
+#
+<removesprite -1 11>
+<exit>
+:5197
+<music 26>
+<background "bg002a0.iph" 11>
+　メイア＝クルセイダ
+#
+　戦場魔法と呼ばれる高速詠唱形態を完成させ、そ
+　の後は冒険者として活躍。
+#
+　彼女の所属する冒険者チーム“完璧なる黄金”は、
+　人間界に侵攻を目論む魔王を撃退し、多くの冒険
+　者の目標となる。
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1228">
+「メイア＝クルセイダって、凄い魔法使いよね」
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a00.iph" 6 4 11>
+<name "Elle" "!CA0148">
+「そうね。
+　私達もそんな風になれるかな」
+#
+<sprite "ta01a89.iph" 2 5 12>
+<name "Celes" "!AA1229">
+「なろう！」
+#
+<sprite "ta02a04.iph" 6 4 12>
+<name "Elle" "!CA0149">
+「じゃあ、ここで本なんか読んでる場合じゃないわ
+　よね」
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA1230">
+「あはは……
+　ごめん。
+　師匠の命令で魔法練習はできないの」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0150">
+「魔力温存ね。
+　私もそうなのよ。
+　メイア＝クルセイダは魔力に困らなかったのかし
+　ら？」
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA1231">
+「この本では……困った描写が一切無い」
+#
+<sprite "ta02a07.iph" 6 4 12>
+<name "Elle" "!CA0151">
+「……天才を超えて、化け物ね」
+#
+<removesprite -1 11>
+<exit>
+:55F2
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1232">
+「師匠。
+　メイア＝クルセイダっていつぐらいの人なんです
+　か？」
+#
+<name "Lazlocke">
+「ん？
+　俺の母親かお婆ちゃんぐらいの世代だぞ」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA1233">
+「……い、意外と近い」
+#
+<name "Lazlocke">
+「戦場魔法が出来たのがここ十数年だからな。
+　それに、彼女の所属する冒険者チーム“完璧なる
+　黄金”の活躍は有名だろ」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA1234">
+「そう言えば、そうですね」
+#
+<name "Lazlocke">
+「あと、魔法使い協会の協会長。
+　メイア＝クルセイダの妹弟子だぞ」
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA1235">
+「ぶっ！」
+#
+<name "Lazlocke">
+「……大丈夫か？
+　盛大にお茶を吹いたが」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA1236">
+「は、はい……
+　すみません。
+　有名人が意外に近かったので……」
+#
+<removesprite -1 11>
+<exit>
+:5945
+\x2E\x22\x00\x01 1  12 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :59C3: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1238">
+「読書は、勉強の基本。頑張らなければ」
+#
+\x0A\x24\x00\x0F\x84\x01
+:59C3
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :5A46: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1239">
+「詠唱の練習、練習」
+#
+<removesprite -1 11>
+\x2B
+:5A46
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :5AC3: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1240">
+「瞑想、瞑想」
+#
+<removesprite -1 11>
+\x2B
+:5AC3
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :5B33: 
+<music 26>
+<background "ev009a0.iph" 11>
+<name "Celes" "!AA1241">
+「ちょっと、調合でもしてみようかなぁ」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5B33
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :5B91: 
+<music 26>
+<background "ev009a0.iph" 11>
+<name "Celes" "!AA1242">
+「実験も欠かせない」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5B91
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :5BF1: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1243">
+「調べものをしなきゃ」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5BF1
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :5C49: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1244">
+「頑張るぞー」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5C49
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :5C9F: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1245">
+「やるぞー」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5C9F
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :5CF7: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1246">
+「頑張ります」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5CF7
+\x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :5D51: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1247">
+「わかりました」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5D51
+\x1A\x01\x0A\x22\x00\x01 11 \x01\x0E :5DAB: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1248">
+「やってみます」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5DAB
+\x1A\x01\x0A\x22\x00\x01 12 \x01\x0E :5E07: 
+<music 26>
+<background "ev008a0.iph" 11>
+<name "Celes" "!AA1249">
+「頑張ってみます」
+#
+\x0A\x24\x00\x0F\x84\x01
+:5E07
+<exit>
+\x78

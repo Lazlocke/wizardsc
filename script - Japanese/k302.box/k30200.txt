@@ -1,0 +1,1116 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x03\x52\x84\x00\x01\x0E :27: \x16 :52E: \x0A\x04\x03\x52\x84\x01\x15 :47A: 
+:27
+\x1A\x01\x07\x04\x03\x53\x84\x00\x01\x0E :48: \x16 :639: \x0A\x04\x03\x53\x84\x01\x15 :47A: 
+:48
+\x1A\x01\x07\x04\x03\x54\x84\x00\x01\x0E :69: \x16 :74F: \x0A\x04\x03\x54\x84\x01\x15 :47A: 
+:69
+\x1A\x01\x07\x04\x03\x55\x84\x00\x01\x0E :8A: \x16 :8B8: \x0A\x04\x03\x55\x84\x01\x15 :47A: 
+:8A
+\x1A\x01\x07\x04\x03\x56\x84\x00\x01\x0E :AB: \x16 :A35: \x0A\x04\x03\x56\x84\x01\x15 :47A: 
+:AB
+\xE9 3002 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :D8: \x15 :46E: 
+:D8
+\x1A\x01\x07\x04\x03\x6A\x84\x00\x01\x0E :10B: \x1A\x01\x0A\x04\x01\x96 1 \x01\x0E :10B: \x16 :2A7B: \x0A\x04\x03\x6A\x84\x01\x15 :47A: 
+:10B
+\x1A\x01\x07\x04\x03\x6B\x84\x00\x01\x0E :14D: \x1A\x01\x0A\x04\x01\x96 2 \x01\x0E :14D: \x1A\x01\x07\x04\x03\x6A\x84\x01\x01\x0E :14D: \x16 :2E90: \x0A\x04\x03\x6B\x84\x01\x15 :47A: 
+:14D
+\x1A\x01\x07\x04\x03\x6C\x84\x00\x01\x0E :18F: \x1A\x01\x0A\x04\x01\x96 3 \x01\x0E :18F: \x1A\x01\x07\x04\x03\x6B\x84\x01\x01\x0E :18F: \x16 :3204: \x0A\x04\x03\x6C\x84\x01\x15 :47A: 
+:18F
+\x1A\x01\x07\x04\x03\x63\x84\x00\x01\x0E :1C2: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :1C2: \x16 :205E: \x0A\x04\x03\x63\x84\x01\x15 :47A: 
+:1C2
+\x1A\x01\x07\x04\x03\x64\x84\x00\x01\x0E :1F5: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :1F5: \x16 :217E: \x0A\x04\x03\x64\x84\x01\x15 :47A: 
+:1F5
+\x1A\x01\x07\x04\x03\x65\x84\x00\x01\x0E :228: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :228: \x16 :22E8: \x0A\x04\x03\x65\x84\x01\x15 :47A: 
+:228
+\x1A\x01\x07\x04\x03\x66\x84\x00\x01\x0E :25B: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :25B: \x16 :244E: \x0A\x04\x03\x66\x84\x01\x15 :47A: 
+:25B
+\x1A\x01\x07\x04\x03\x67\x84\x00\x01\x0E :28E: \x1A\x01\x0A\x02\x01\xA5 30 \x01\x15 :28E: \x16 :2602: \x0A\x04\x03\x67\x84\x01\x15 :47A: 
+:28E
+\x1A\x01\x07\x04\x03\x68\x84\x00\x01\x0E :2C1: \x1A\x01\x0A\x02\x01\xA5 30 \x01\x15 :2C1: \x16 :2777: \x0A\x04\x03\x68\x84\x01\x15 :47A: 
+:2C1
+\x1A\x01\x07\x04\x03\x57\x84\x00\x01\x0E :2E2: \x16 :BB4: \x0A\x04\x03\x57\x84\x01\x15 :47A: 
+:2E2
+\x1A\x01\x07\x04\x03\x58\x84\x00\x01\x0E :303: \x16 :D47: \x0A\x04\x03\x58\x84\x01\x15 :47A: 
+:303
+\x1A\x01\x07\x04\x03\x59\x84\x00\x01\x0E :324: \x16 :F8E: \x0A\x04\x03\x59\x84\x01\x15 :47A: 
+:324
+\x1A\x01\x07\x04\x03\x5A\x84\x00\x01\x0E :345: \x16 :10FB: \x0A\x04\x03\x5A\x84\x01\x15 :47A: 
+:345
+\x1A\x01\x07\x04\x03\x5B\x84\x00\x01\x0E :366: \x16 :1282: \x0A\x04\x03\x5B\x84\x01\x15 :47A: 
+:366
+\x1A\x01\x07\x04\x03\x5C\x84\x00\x01\x0E :387: \x16 :1432: \x0A\x04\x03\x5C\x84\x01\x15 :47A: 
+:387
+\x1A\x01\x07\x04\x03\x5D\x84\x00\x01\x0E :3A8: \x16 :1590: \x0A\x04\x03\x5D\x84\x01\x15 :47A: 
+:3A8
+\x1A\x01\x07\x04\x03\x5E\x84\x00\x01\x0E :3C9: \x16 :16F6: \x0A\x04\x03\x5E\x84\x01\x15 :47A: 
+:3C9
+\x1A\x01\x07\x04\x03\x5F\x84\x00\x01\x0E :3EA: \x16 :19C7: \x0A\x04\x03\x5F\x84\x01\x15 :47A: 
+:3EA
+\x1A\x01\x07\x04\x03\x60\x84\x00\x01\x0E :40B: \x16 :1B36: \x0A\x04\x03\x60\x84\x01\x15 :47A: 
+:40B
+\x1A\x01\x07\x04\x03\x61\x84\x00\x01\x0E :42C: \x16 :1CE7: \x0A\x04\x03\x61\x84\x01\x15 :47A: 
+:42C
+\x1A\x01\x07\x04\x03\x62\x84\x00\x01\x0E :44D: \x16 :1EA0: \x0A\x04\x03\x62\x84\x01\x15 :47A: 
+:44D
+\x1A\x01\x07\x04\x03\x69\x84\x00\x01\x0E :46E: \x16 :28CF: \x0A\x04\x03\x69\x84\x01\x15 :47A: 
+:46E
+\x16 :3744: \x15 :47A: 
+:47A
+<music 3>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :52D: \x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :4B8: 
+<background "ev014a0.iph" 11>
+\x2B
+:4B8
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :4DF: 
+<background "ev014b0.iph" 11>
+\x2B
+:4DF
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :506: 
+<background "ev014c0.iph" 11>
+\x2B
+:506
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :52D: 
+<background "ev014d0.iph" 11>
+\x2B
+:52D
+\x78
+:52E
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1946">
+「畑仕事のお手伝いに行けば良いんですか？」
+#
+<name "Lazlocke">
+「そうだ。
+　体力が要るぞ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1947">
+「大丈夫です。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:639
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1948">
+「師匠、裏庭の畑とか菜園の世話はしなくて良いん
+　ですか？」
+#
+<name "Lazlocke">
+「あれは俺が趣味でやっているから大丈夫だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1949">
+「はーい」
+#
+<removesprite -1 11>
+<exit>
+:74F
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :77D: 
+<background "ev014a0.iph" 11>
+\x2B
+:77D
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :7A4: 
+<background "ev014b0.iph" 11>
+\x2B
+:7A4
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :7CB: 
+<background "ev014c0.iph" 11>
+\x2B
+:7CB
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :7F2: 
+<background "ev014d0.iph" 11>
+:7F2 + 1
+<name "Celes" "!AA1950">
+「うう……腰が……」
+#
+<name "Lazlocke">
+「大丈夫か？」
+#
+<name "Celes" "!AA1951">
+「は、はい。
+　でも、畑仕事って凄い肉体労働ですね」
+#
+<name "Lazlocke">
+「大地との格闘だからな」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:8B8
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :8E6: 
+<background "ev014a0.iph" 11>
+\x2B
+:8E6
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :90D: 
+<background "ev014b0.iph" 11>
+\x2B
+:90D
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :934: 
+<background "ev014c0.iph" 11>
+\x2B
+:934
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :95B: 
+<background "ev014d0.iph" 11>
+:95B + 1
+<name "畑主" "!SB0014">
+「セリスちゃん、今日も頑張るねー」
+#
+<name "Celes" "!AA1952">
+「はい、頑張ってます♪」
+#
+<name "畑主" "!SB0015">
+「そうかそうか……
+　畑もそれに応えてくれるだろうよ」
+#
+<name "Celes" "!AA1953">
+「えへへ……」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:A35
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :A63: 
+<background "ev014a0.iph" 11>
+\x2B
+:A63
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :A8A: 
+<background "ev014b0.iph" 11>
+\x2B
+:A8A
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :AB1: 
+<background "ev014c0.iph" 11>
+\x2B
+:AB1
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :AD8: 
+<background "ev014d0.iph" 11>
+:AD8 + 1
+<name "畑主" "!SB0016">
+「セリスちゃん、水を撒くよ」
+#
+<name "Celes" "!AA1954">
+「はい、どうぞ！」
+#
+<name "畑主" "!SB0017">
+「あ、いや、水撒きもやって欲しいんだけど」
+#
+<name "Celes" "!AA1955">
+「あ、ああ、そうでした。
+　すみません」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:BB4
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :BE2: 
+<background "ev014a0.iph" 11>
+\x2B
+:BE2
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :C09: 
+<background "ev014b0.iph" 11>
+\x2B
+:C09
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :C30: 
+<background "ev014c0.iph" 11>
+\x2B
+:C30
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :C57: 
+<background "ev014d0.iph" 11>
+:C57 + 1
+<name "Celes" "!AA1956">
+「おじさん。
+　この植物ってどこを食べるんですか？」
+#
+<name "畑主" "!SB0018">
+「あー、これは茎を……
+　あれ？
+　根だったかな？」
+#
+<name "畑主" "!SB0019">
+「待て待て……んん？」
+#
+　しばらく考えた後、雑草だと判明した。
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:D47
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :D75: 
+<background "ev014a0.iph" 11>
+\x2B
+:D75
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :D9C: 
+<background "ev014b0.iph" 11>
+\x2B
+:D9C
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :DC3: 
+<background "ev014c0.iph" 11>
+\x2B
+:DC3
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :DEA: 
+<background "ev014d0.iph" 11>
+:DEA + 1
+<name "Celes" "!AA1957">
+「ぐぎぎぎぎ……」
+#
+<name "畑主" "!SB0020">
+「セリスちゃん、どうしたんだい？
+　そんなに顔を真っ赤にして」
+#
+<name "Celes" "!AA1958">
+「いえ、この雑草が抜けなくて……」
+#
+<name "畑主" "!SB0021">
+「ああ、これはコツがあってね。
+　こっちの方向から……こうして、こうすれば……
+　ほら」
+#
+<name "Celes" "!AA1959">
+「凄い！
+　魔法みたい！」
+#
+<name "畑主" "!SB0022">
+「あはは……
+　本職から言われるとは思わなかったなぁ」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:F8E
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :FBC: 
+<background "ev014a0.iph" 11>
+\x2B
+:FBC
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :FE3: 
+<background "ev014b0.iph" 11>
+\x2B
+:FE3
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :100A: 
+<background "ev014c0.iph" 11>
+\x2B
+:100A
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1031: 
+<background "ev014d0.iph" 11>
+:1031 + 1
+<name "Celes" "!AA1960">
+「この土……ミミズの量。
+　良い畑です」
+#
+<name "畑主" "!SB0023">
+「……な、なんかベテランの目だな」
+#
+<name "Celes" "!AA1961">
+「え？
+　いや、そんな事はないですよ。
+　あはは……」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:10FB
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :1129: 
+<background "ev014a0.iph" 11>
+\x2B
+:1129
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :1150: 
+<background "ev014b0.iph" 11>
+\x2B
+:1150
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :1177: 
+<background "ev014c0.iph" 11>
+\x2B
+:1177
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :119E: 
+<background "ev014d0.iph" 11>
+:119E + 1
+<name "Celes" "!AA1962">
+「収獲だー♪」
+#
+<name "畑主" "!SB0024">
+「わはは、セリスちゃんが頑張ったから良い出来だ
+　よ」
+#
+<name "Celes" "!AA1963">
+「そうですか？」
+#
+<name "畑主" "!SB0025">
+「また、来年も頼むよ」
+#
+<name "Celes" "!AA1964">
+「はい」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1282
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :12B0: 
+<background "ev014a0.iph" 11>
+\x2B
+:12B0
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :12D7: 
+<background "ev014b0.iph" 11>
+\x2B
+:12D7
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :12FE: 
+<background "ev014c0.iph" 11>
+\x2B
+:12FE
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1325: 
+<background "ev014d0.iph" 11>
+:1325 + 1
+<name "Celes" "!AA1965">
+「そういえば、この辺りの土地って誰の物なんです
+　か？」
+#
+<name "畑主" "!SB0026">
+「ここから見える所は、ワシの土地だよ」
+#
+<name "Celes" "!AA1966">
+「す、凄いですね」
+#
+<name "畑主" "!SB0027">
+「祖先が偉い人だったらしくてね。
+　ワシはそれを守ってるだけさ」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1432
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :1460: 
+<background "ev014a0.iph" 11>
+\x2B
+:1460
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :1487: 
+<background "ev014b0.iph" 11>
+\x2B
+:1487
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :14AE: 
+<background "ev014c0.iph" 11>
+\x2B
+:14AE
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :14D5: 
+<background "ev014d0.iph" 11>
+:14D5 + 1
+<name "Celes" "!AA1967">
+「畑仕事をしていると、無口になってしまう」
+#
+<name "Celes" "!AA1968">
+「集中しているって事で、ＯＫ！」
+#
+<name "Celes" "!AA1969">
+「……話し相手が居ないってのもあるけど」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1590
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :15BE: 
+<background "ev014a0.iph" 11>
+\x2B
+:15BE
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :15E5: 
+<background "ev014b0.iph" 11>
+\x2B
+:15E5
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :160C: 
+<background "ev014c0.iph" 11>
+\x2B
+:160C
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1633: 
+<background "ev014d0.iph" 11>
+:1633 + 1
+<name "畑主" "!SB0028">
+「セリスちゃん、腰強いね」
+#
+<name "Celes" "!AA1970">
+「日々、鍛えてるからだと思います」
+#
+<name "畑主" "!SB0029">
+「魔法使いってのも大変なんだね」
+#
+<name "Celes" "!AA1971">
+「ええ……」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:16F6
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :1724: 
+<background "ev014a0.iph" 11>
+\x2B
+:1724
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :174B: 
+<background "ev014b0.iph" 11>
+\x2B
+:174B
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :1772: 
+<background "ev014c0.iph" 11>
+\x2B
+:1772
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1799: 
+<background "ev014d0.iph" 11>
+:1799 + 1
+<name "畑主" "!SB0031">
+「セリスちゃん、師匠のラズロック君とは仲良くや
+　っているかね」
+#
+<name "Celes" "!AA1972">
+「ええ、何かありますか？」
+#
+<name "畑主" "!SB0032">
+「前にラズロック君を見た時は、暗かったからね。
+　ああ、前と言っても数年前だけどね」
+#
+<name "畑主" "!SB0033">
+「今の彼は、明るいから……
+　セリスちゃんのお陰かと思ってね」
+#
+<name "Celes" "!AA1973">
+「そ、そうですか？」
+#
+<name "畑主" "!SB0034">
+「ああ、感謝してるよ。
+　心配はしていたからね」
+#
+<name "Celes" "!AA1974">
+「あ、ありがとうございます」
+#
+<name "畑主" "!SB0035">
+「……
+　本当に、仲良くやっているみたいだねぇ」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:19C7
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :19F5: 
+<background "ev014a0.iph" 11>
+\x2B
+:19F5
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :1A1C: 
+<background "ev014b0.iph" 11>
+\x2B
+:1A1C
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :1A43: 
+<background "ev014c0.iph" 11>
+\x2B
+:1A43
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1A6A: 
+<background "ev014d0.iph" 11>
+:1A6A + 1
+<name "Celes" "!AA1975">
+「おじさん！
+　キツネです！」
+#
+<name "畑主" "!SB0036">
+「ちいっ！
+　捕縛っ！」
+#
+<name "Celes" "!AA1976">
+「は、はい！
+　今夜はキツネ鍋です！」
+#
+　畑仕事は、害獣との戦いでもある。
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1B36
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :1B64: 
+<background "ev014a0.iph" 11>
+\x2B
+:1B64
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :1B8B: 
+<background "ev014b0.iph" 11>
+\x2B
+:1B8B
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :1BB2: 
+<background "ev014c0.iph" 11>
+\x2B
+:1BB2
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1BD9: 
+<background "ev014d0.iph" 11>
+:1BD9 + 1
+<name "Celes" "!AA1977">
+「作物、乾いてるように見えますけど、水をやらな
+　くて良いんですか？」
+#
+<name "畑主" "!SB0037">
+「ああ、これぐらいが丁度良いんだ。
+　あんまり水をやって甘やかすと、良い作物にはな
+　らないからね」
+#
+<name "Celes" "!AA1978">
+「け、結構厳しいんですね」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1CE7
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :1D15: 
+<background "ev014a0.iph" 11>
+\x2B
+:1D15
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :1D3C: 
+<background "ev014b0.iph" 11>
+\x2B
+:1D3C
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :1D63: 
+<background "ev014c0.iph" 11>
+\x2B
+:1D63
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1D8A: 
+<background "ev014d0.iph" 11>
+:1D8A + 1
+<name "Celes" "!AA1979">
+「畑仕事って……忙しい時は忙しいけど、暇な時は
+　一気に暇になりますね」
+#
+<name "畑主" "!SB0038">
+「うん。
+　そうだな。
+　だが、油断は大敵なんだよ」
+#
+<name "Celes" "!AA1980">
+「そうなんですか？」
+#
+<name "畑主" "!SB0039">
+「ああ、暇な時は見守っている時だからね」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1EA0
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :1ECE: 
+<background "ev014a0.iph" 11>
+\x2B
+:1ECE
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :1EF5: 
+<background "ev014b0.iph" 11>
+\x2B
+:1EF5
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :1F1C: 
+<background "ev014c0.iph" 11>
+\x2B
+:1F1C
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1F43: 
+<background "ev014d0.iph" 11>
+:1F43 + 1
+<name "Celes" "!AA1981">
+「おじさん。
+　あの空き地はなんなんですか？」
+#
+<name "畑主" "!SB0040">
+「あそこは、休ませている土地だよ」
+#
+<name "Celes" "!AA1982">
+「休ませる？」
+#
+<name "畑主" "!SB0041">
+「そう。
+　毎年、畑にしてたら良い作物ができないからね」
+#
+<name "Celes" "!AA1983">
+「そうなんだ……」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:205E
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :208C: 
+<background "ev014a0.iph" 11>
+\x2B
+:208C
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :20B3: 
+<background "ev014b0.iph" 11>
+\x2B
+:20B3
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :20DA: 
+<background "ev014c0.iph" 11>
+\x2B
+:20DA
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :2101: 
+<background "ev014d0.iph" 11>
+:2101 + 1
+<name "Celes" "!AA1984">
+「寒い時期でも、畑仕事ってあるんですね」
+#
+<name "畑主" "!SB0043">
+「ああ、他の時期の為の準備だけどね」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:217E
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :21AC: 
+<background "ev014a0.iph" 11>
+\x2B
+:21AC
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :21D3: 
+<background "ev014b0.iph" 11>
+\x2B
+:21D3
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :21FA: 
+<background "ev014c0.iph" 11>
+\x2B
+:21FA
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :2221: 
+<background "ev014d0.iph" 11>
+:2221 + 1
+<name "Celes" "!AA1985">
+「せいっ！」
+#
+<name "畑主" "!SB0044">
+「おおっ！
+　大岩が……砕けた」
+#
+<name "Celes" "!AA1986">
+「え、あ、いや、脆くなってたみたいですよ。
+　ひょっとして、土の塊かも……あはは」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:22E8
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :2316: 
+<background "ev014a0.iph" 11>
+\x2B
+:2316
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :233D: 
+<background "ev014b0.iph" 11>
+\x2B
+:233D
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :2364: 
+<background "ev014c0.iph" 11>
+\x2B
+:2364
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :238B: 
+<background "ev014d0.iph" 11>
+:238B + 1
+<name "Celes" "!AA1987">
+「む、岩が……邪魔ね」
+#
+<name "畑主" "!SB0045">
+「セ、セリスちゃん、この岩を一人で除けたのか
+　い？」
+#
+<name "Celes" "!AA1988">
+「え？
+　あ、あはは……意外と軽いみたいです」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:244E
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :247C: 
+<background "ev014a0.iph" 11>
+\x2B
+:247C
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :24A3: 
+<background "ev014b0.iph" 11>
+\x2B
+:24A3
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :24CA: 
+<background "ev014c0.iph" 11>
+\x2B
+:24CA
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :24F1: 
+<background "ev014d0.iph" 11>
+:24F1 + 1
+<name "畑主" "!SB0046">
+「セリスちゃん、最近は熊が出るらしいから気を付
+　けるんだよ」
+#
+<name "Celes" "!AA1989">
+「はい、注意します」
+#
+<name "畑主" "!SB0047">
+「まあ、セリスちゃんなら返り討ちにしそうだけど」
+#
+<name "Celes" "!AA1990">
+「あはは……
+　その時は、お裾分けで持ってきます」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2602
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :2630: 
+<background "ev014a0.iph" 11>
+\x2B
+:2630
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :2657: 
+<background "ev014b0.iph" 11>
+\x2B
+:2657
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :267E: 
+<background "ev014c0.iph" 11>
+\x2B
+:267E
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :26A5: 
+<background "ev014d0.iph" 11>
+:26A5 + 1
+<name "Celes" "!AA1991">
+「魔法で一気になんとかならないものかしら？」
+#
+<name "畑主" "!SB0048">
+「セリスちゃん。
+　畑仕事は一日にしてならず。
+　楽な道などない」
+#
+<name "Celes" "!AA1992">
+「あはは。
+　頑張ります」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2777
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :27A5: 
+<background "ev014a0.iph" 11>
+\x2B
+:27A5
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :27CC: 
+<background "ev014b0.iph" 11>
+\x2B
+:27CC
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :27F3: 
+<background "ev014c0.iph" 11>
+\x2B
+:27F3
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :281A: 
+<background "ev014d0.iph" 11>
+:281A + 1
+<name "畑主" "!SB0049">
+「野菜泥棒だ！」
+#
+<name "Celes" "!AA1996">
+「えっと、どうしましょう？」
+#
+<name "畑主" "!SB0050">
+「殺さない程度にやっつけてくれるかな」
+#
+<name "Celes" "!AA1994">
+「はい」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:28CF
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :28FD: 
+<background "ev014a0.iph" 11>
+\x2B
+:28FD
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :2924: 
+<background "ev014b0.iph" 11>
+\x2B
+:2924
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :294B: 
+<background "ev014c0.iph" 11>
+\x2B
+:294B
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :2972: 
+<background "ev014d0.iph" 11>
+:2972 + 1
+<name "Celes" "!AA1995">
+「耕して、耕して……
+　ふう、かなり出来たかな」
+#
+<name "Lazlocke">
+「おーい、差し入れを持って来た。
+　休憩しないか？」
+#
+<name "Celes" "!AA1997">
+「はい。
+　でも、ここを終らせてからにします」
+#
+<name "Lazlocke">
+「頑張るなぁ。
+　感心感心」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2A7B
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :2AA9: 
+<background "ev014a0.iph" 11>
+\x2B
+:2AA9
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :2AD0: 
+<background "ev014b0.iph" 11>
+\x2B
+:2AD0
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :2AF7: 
+<background "ev014c0.iph" 11>
+\x2B
+:2AF7
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :2B1E: 
+<background "ev014d0.iph" 11>
+:2B1E + 1
+<name "Celes" "!AA1998">
+「おじさん！
+　さっき、向こうの方に猪が！」
+#
+<name "畑主" "!SB0051">
+「なにっ！
+　そ、その猪、片目が潰れてなかったかい？」
+#
+<name "Celes" "!AA1999">
+「え？
+　そう言えば……無かったような」
+#
+<name "畑主" "!SB0052">
+「ふふふ……ついに来たかジェニファー。
+　このワシの命を奪いに来たな」
+#
+<name "Celes" "!AA2000">
+「え？」
+#
+<name "畑主" "!SB0053">
+「セリスちゃん、悪いが手出し無用だ。
+　ジェニファーとは、ワシ自身の手で決着をつける」
+#
+<name "Celes" "!AA2001">
+「は、はい……」
+#
+<name "畑主" "!SB0054">
+「あそこだな。
+　覚悟しろ、ジェニファー！！」
+#
+<name "Celes" "!AA2002">
+「えっと……」
+#
+　その後、おじさんの悲鳴によって戦いが終了した
+　事をセリスは知った。
+#
+<name "畑主" "!SB0055">
+「ぬ、ぬうう……ジェニファーめ。
+　年々、強くなっておる」
+#
+<name "畑主" "!SB0056">
+「じゃが、来年。
+　来年をみておれよー！」
+#
+<name "Celes" "!AA2003">
+「が、がんばれー」
+#
+　とりあえず、応援してみたセリスだった。
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2E90
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :2EBE: 
+<background "ev014a0.iph" 11>
+\x2B
+:2EBE
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :2EE5: 
+<background "ev014b0.iph" 11>
+\x2B
+:2EE5
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :2F0C: 
+<background "ev014c0.iph" 11>
+\x2B
+:2F0C
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :2F33: 
+<background "ev014d0.iph" 11>
+:2F33 + 1
+<name "Celes" "!AA2004">
+「おじさん！
+　今年も猪が……多分、ジェニファーです」
+#
+<name "畑主" "!SB0059">
+「そうか……ふふふ。
+　勝負を楽しみにおるのはワシだけではなかったか
+　……」
+#
+<name "畑主" "!SB0061">
+「今年こそは負けるかっ！
+　ゆくぞっ！
+　うがぁぁぁぁぁぁ！」
+#
+<name "Celes" "!AA2005">
+「おじさん！」
+#
+<name "畑主" "!SB0062">
+「ば、馬鹿な……このタイミングで腰が……
+　ぬおおお……
+　くう、こうなっては仕方が無い。
+　セリスちゃん」
+#
+<name "Celes" "!AA2006">
+「は、はい！」
+#
+<name "畑主" "!SB0063">
+「向こうに、不戦敗を伝えて来てくれ」
+#
+<name "Celes" "!AA2007">
+「……え？
+　あ、あの……言葉が……」
+#
+<name "畑主" "!SB0064">
+「大丈夫。
+　ヤツは人間の言葉ぐらい理解する！」
+#
+<name "Celes" "!AA2008">
+「い、行って来ます」
+#
+　伝わったらしい。
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:3204
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :3232: 
+<background "ev014a0.iph" 11>
+\x2B
+:3232
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :3259: 
+<background "ev014b0.iph" 11>
+\x2B
+:3259
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :3280: 
+<background "ev014c0.iph" 11>
+\x2B
+:3280
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :32A7: 
+<background "ev014d0.iph" 11>
+:32A7 + 1
+<name "畑主" "!SB0065">
+「準備万端。
+　来るが良い、ジェニファー」
+#
+<name "Celes" "!AA2009">
+「おじさん！
+　ジェニファーです！」
+#
+<name "畑主" "!SB0066">
+「待っておった！
+　覚悟せい！」
+#
+<name "Celes" "!AA2010">
+「そ、それが……」
+#
+<name "畑主" "!SB0067">
+「なんじゃ？」
+#
+<name "Celes" "!AA2011">
+「こ、子連れです……」
+#
+<name "畑主" "!SB0068">
+「なにぃっ！
+　……ヤツめ、いつの間に……」
+#
+<name "Celes" "!AA2012">
+「どうします？」
+#
+<name "畑主" "!SB0069">
+「ふっ、父親になったヤツに、刃を向けられん。
+　見逃してやろう」
+#
+<name "Celes" "!AA2013">
+「え？
+　オスだったんだ」
+#
+<name "畑主" "!SB0070">
+「ああ、ヤツはオスだ。
+　ワシが子供の頃に拾い、メスだと思ってジェニファ
+　ーと名付けた」
+#
+<name "畑主" "!SB0071">
+「しかし、その名前が気に入らないのか、逃走。
+　毎年毎年、ワシの畑に現れては荒らしていく」
+#
+<name "畑主" "!SB0072">
+「そんなジェニファーが父親に……
+　きっと、ワシに子供を見せに来たのだろうなぁ。
+　ふふ、ヤツめ……泣かせおる」
+#
+<name "Celes" "!AA2014">
+「涙ぐんでる所、言い難いんですけど……
+　凄い勢いで畑が荒らされてますけど」
+#
+<name "畑主" "!SB0073">
+「……なに」
+#
+<name "Celes" "!AA2015">
+「そりゃもう、グッチャングッチャンに……」
+#
+<name "畑主" "!SB0074">
+「前言撤回……殺ってくる」
+#
+<name "Celes" "!AA2016">
+「が、頑張ってください」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:3744
+<music 3>
+\x1A\x01\x0A\x02\x01\x98 11 \x01\x14 :3772: 
+<background "ev014a0.iph" 11>
+\x2B
+:3772
+\x1A\x01\x0A\x02\x01\x98 12 \x01\x0E :3799: 
+<background "ev014b0.iph" 11>
+\x2B
+:3799
+\x1A\x01\x0A\x02\x01\x98 13 \x01\x0E :37C0: 
+<background "ev014c0.iph" 11>
+\x2B
+:37C0
+\x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :37E7: 
+<background "ev014d0.iph" 11>
+\x2B
+:37E7
+\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  9 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :3837: 
+<name "Celes" "!AA2019">
+「水撒き、水撒き♪」
+#
+:3837
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3873: 
+<name "Celes" "!AA2020">
+「雑草、取るぞー♪」
+#
+:3873
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :38B1: 
+<name "Celes" "!AA2021">
+「刈り入れが楽しみ♪」
+#
+:38B1
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :38F3: 
+<name "Celes" "!AA2022">
+「豊作になると良いなぁ♪」
+#
+:38F3
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :392D: 
+<name "Celes" "!AA2023">
+「さあ、働くぞー」
+#
+:392D
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :3975: 
+<name "Celes" "!AA2024">
+「汚れても良い格好になって……」
+#
+:3975
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :39C7: 
+<name "Celes" "!AA2025">
+「美味しい作物がたくさんできると良いなぁ」
+#
+:39C7
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :3A0B: 
+<name "Celes" "!AA2026">
+「畑仕事って、全身労働……」
+#
+:3A0B
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :3A4B: 
+<name "Celes" "!AA2027">
+「出荷作業も大仕事……」
+#
+:3A4B
+<exit>
+\x78

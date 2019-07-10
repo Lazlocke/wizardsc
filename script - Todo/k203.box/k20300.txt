@@ -1,0 +1,521 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x02\x44\x84\x00\x01\x0E :27: \x16 :34D: \x0A\x04\x02\x44\x84\x01\x15 :2E5: 
+:27
+\xE9 2003 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :54: \x15 :2D9: 
+:54
+\x1A\x01\x07\x04\x02\x45\x84\x00\x01\x0E :7E: \xE6 "a0800" \x00\x16 :5D0: \x0A\x04\x02\x45\x84\x01\x15 :2E5: 
+:7E
+\x1A\x01\x07\x04\x02\x48\x84\x00\x01\x0E :A8: \xE6 "a0801" \x00\x16 :B49: \x0A\x04\x02\x48\x84\x01\x15 :2E5: 
+:A8
+\x1A\x01\x07\x04\x02\x4B\x84\x00\x01\x0E :D2: \xE6 "a0802" \x00\x16 :10B9: \x0A\x04\x02\x4B\x84\x01\x15 :2E5: 
+:D2
+\x1A\x01\x07\x04\x02\x46\x84\x00\x01\x0E :FC: \xE6 "a0800" \x00\x16 :789: \x0A\x04\x02\x46\x84\x01\x15 :2E5: 
+:FC
+\x1A\x01\x07\x04\x02\x49\x84\x00\x01\x0E :126: \xE6 "a0801" \x00\x16 :DA6: \x0A\x04\x02\x49\x84\x01\x15 :2E5: 
+:126
+\x1A\x01\x07\x04\x02\x4C\x84\x00\x01\x0E :150: \xE6 "a0802" \x00\x16 :11BE: \x0A\x04\x02\x4C\x84\x01\x15 :2E5: 
+:150
+\x1A\x01\x07\x04\x02\x47\x84\x00\x01\x0E :17A: \xE6 "a0800" \x00\x16 :90E: \x0A\x04\x02\x47\x84\x01\x15 :2E5: 
+:17A
+\x1A\x01\x07\x04\x02\x4E\x84\x00\x01\x0E :1A4: \xE6 "a0803" \x00\x16 :1501: \x0A\x04\x02\x4E\x84\x01\x15 :2E5: 
+:1A4
+\x1A\x01\x07\x04\x02\x4A\x84\x00\x01\x0E :1CE: \xE6 "a0801" \x00\x16 :F74: \x0A\x04\x02\x4A\x84\x01\x15 :2E5: 
+:1CE
+\x1A\x01\x07\x04\x02\x4F\x84\x00\x01\x0E :1F8: \xE6 "a0803" \x00\x16 :15A7: \x0A\x04\x02\x4F\x84\x01\x15 :2E5: 
+:1F8
+\x1A\x01\x07\x04\x02\x50\x84\x00\x01\x0E :222: \xE6 "a0803" \x00\x16 :16BF: \x0A\x04\x02\x50\x84\x01\x15 :2E5: 
+:222
+\x1A\x01\x07\x04\x02\x4D\x84\x00\x01\x0E :24C: \xE6 "a0802" \x00\x16 :1339: \x0A\x04\x02\x4D\x84\x01\x15 :2E5: 
+:24C
+\x1A\x01\x07\x04\x02\x52\x84\x00\x01\x0E :26D: \x16 :1B13: \x0A\x04\x02\x52\x84\x01\x15 :2E5: 
+:26D
+\x1A\x01\x07\x04\x02\x51\x84\x00\x01\x0E :297: \xE6 "a0803" \x00\x16 :18C2: \x0A\x04\x02\x51\x84\x01\x15 :2E5: 
+:297
+\x1A\x01\x07\x04\x02\x53\x84\x00\x01\x0E :2B8: \x16 :1CB7: \x0A\x04\x02\x53\x84\x01\x15 :2E5: 
+:2B8
+\x1A\x01\x07\x04\x02\x54\x84\x00\x01\x0E :2D9: \x16 :1DEC: \x0A\x04\x02\x54\x84\x01\x15 :2E5: 
+:2D9
+\x16 :1EE7: \x15 :2E5: 
+:2E5
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :34C: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :337: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :34C: 
+:337
+<background "ev008a0.iph" 11>
+\x2B
+:34C
+\x78
+:34D
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA1344">
+「風の魔法！」
+#
+<removesprite -1 11>
+　そよそよ～……
+#
+<name "Lazlocke">
+「なかなか涼しいな」
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1345">
+「むう、もっと威力を上げないと……」
+#
+<name "Lazlocke">
+「これぐらいは出来るようにな」
+#
+<removesprite -1 11>
+　俺は軽く風の魔法を使い、セリスのスカートを捲
+　り上げた。
+#
+<sprite "ta01a67.iph" 4 4 11>
+<name "Celes" "!AA1346">
+「し、師匠！」
+#
+<name "Lazlocke">
+「街中でこういった使い方をすると、即座に協会の
+　懲罰部隊が飛んでくるから注意するように」
+#
+<sprite "ta01a66.iph" 4 4 12>
+<name "Celes" "!AA1347">
+「絶対に使いません」
+#
+<removesprite -1 11>
+<exit>
+:5D0
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1348">
+「風の刃っ！」
+#
+<removesprite -1 11>
+　セリスは風の魔法を唱えるが、微風が吹くだけに
+　終った。
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1349">
+「あれ？」
+#
+<name "Lazlocke">
+「風の強さと、勢いを細かくコントロールしないと、
+　物は切れない。
+　難しいが、練習あるのみだ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1350">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:789
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは風の魔法で、マトを切る練習をしていた。
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1351">
+「えいっ！
+　……ん、なかなかスパッと切れない……」
+#
+<name "Lazlocke">
+「風がまだ太過ぎるんだ。
+　もっと細くしてみろ」
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1352">
+「細く……うーん……」
+#
+<name "Lazlocke">
+「練習あるのみ。
+　頑張れ」
+#
+<removesprite -1 11>
+<exit>
+:90E
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは風の魔法で、マトを切る練習をしていた。
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1353">
+「えいっ、えいっ、えいっ！」
+#
+<removesprite -1 11>
+　マトは、セリスの魔法で見事に細切れにされていく。
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1354">
+「どうですか？」
+#
+<name "Lazlocke">
+「風の魔法は見え難いから、失敗が目立たないだけ
+　だ」
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA1355">
+「え？」
+#
+<name "Lazlocke">
+「三つ、外している。
+　まだまだ」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1356">
+「むう……バレてた」
+#
+<removesprite -1 11>
+<exit>
+:B49
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1357">
+「風車を回すんですか？」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1358">
+「そんなの、簡単ですよ」
+#
+<sprite "ta01d21.iph" 4 4 12>
+<name "Celes" "!AA1361">
+「えいっ！
+　……あれ？」
+#
+<name "Lazlocke">
+「手で回してみろ」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1362">
+「はい……え？
+　この重さは……」
+#
+<name "Lazlocke">
+「特別製の風車だ。
+　弱い風じゃ、動かないぞ」
+#
+<sprite "ta01d26.iph" 4 4 12>
+<name "Celes" "!AA1363">
+「む……動かしてみせます」
+#
+<name "Lazlocke">
+「よし、頑張れ」
+#
+<removesprite -1 11>
+<exit>
+:DA6
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは、風の魔法で風車を回そうとしていた。
+#
+<sprite "ta01d23.iph" 4 4 11>
+<name "Celes" "!AA1364">
+「んんん……
+　……はぁ、はぁ」
+#
+<name "Lazlocke">
+「少しだけ動いたな」
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1365">
+「むう……」
+#
+<name "Lazlocke">
+「弱い風を漠然とぶつけても動かない。
+　弱いなら弱いなりに、考えてぶつけるんだ」
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA1366">
+「は、はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:F74
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは、風の魔法で風車を回していた。
+#
+<name "Lazlocke">
+「かなり回るようになったな」
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1367">
+「はい」
+#
+<name "Lazlocke">
+「だから、さらに重い風車を用意した。
+　頑張れ」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1368">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:10B9
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「火の魔法を使うなら、火を見る。
+　水の魔法を使うなら、水を見る。
+　では、風の魔法を使うなら？」
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1369">
+「風を見るんですね」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<removesprite -1 11>
+<exit>
+:11BE
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは棒の上に立ち、風を感じようとしていた。
+#
+<name "Lazlocke">
+「おーい」
+#
+　返事が無い。
+#
+　集中しているようだ。
+#
+　俺は棒の近くまで行って、セリスを見上げた。
+#
+　風に吹かれ、運動服がはためく。
+#
+<name "Lazlocke">
+「……ここからだと、乳首が見えるな」
+#
+<name "Celes" "!AA1370">
+「え、あ、……きゃぁぁぁぁぁ」
+#
+　セリスは俺の上に落下してきた。
+#
+<exit>
+:1339
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは棒の上に立ち、風を感じようとしていた。
+#
+<name "Lazlocke">
+「どうだ？」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1371">
+「まだ自信はありませんが、かなり解って来たつも
+　りです」
+#
+<name "Lazlocke">
+「そうか。
+　頼もしいな」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1372">
+「いえ、それほどでは……きゃぁっ」
+#
+<removesprite -1 11>
+　突風に吹かれ、セリスは棒から落ちた。
+#
+<name "Lazlocke">
+「……まだまだ、みたいだな」
+#
+<exit>
+:1501
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「風の魔法で、岩を砕く。
+　難しいぞ」
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1373">
+「頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:15A7
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは風の魔法で岩を砕こうとしていた。
+#
+<sprite "ta01d23.iph" 4 4 11>
+<name "Celes" "!AA1374">
+「ぬぬぬぬ……」
+#
+<name "Lazlocke">
+「漠然と風をぶつけても、岩は砕けないぞ」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1375">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:16BF
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1376">
+「風の魔法で岩を砕く練習。
+　失敗すると変化が無いから、精神的に疲れます」
+#
+\xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x14 :1811: 
+<name "Lazlocke">
+「んー、失敗する度に、俺が怒鳴ってやろうか？」
+#
+<sprite "ta01d42.iph" 4 4 11>
+<name "Celes" "!AA1377">
+「……い、いえ。
+　頑張ります」
+#
+\x18 :18B4: 
+:1811
+<name "Lazlocke">
+「んー、失敗する度に、俺がキスしてやろうか？」
+#
+<sprite "ta01d97.iph" 4 4 11>
+<name "Celes" "!AA1378">
+「え、えっと……それはペナルティになりません」
+#
+:18B4
+<removesprite -1 11>
+<exit>
+:18C2
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは風の魔法で岩を砕いていた。
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1379">
+「えいっ、えいっ、えいっ！」
+#
+<removesprite -1 11>
+　セリスが呪文を唱える度に、岩がパリッと割れて
+　いく。
+#
+<name "Lazlocke">
+「良い感じだな」
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1380">
+「はい。
+　……悪い点はありませんか？」
+#
+<name "Lazlocke">
+「んー……できるなら、こんな感じにしてみろ」
+#
+<removesprite -1 11>
+　俺は風の魔法で、岩を砕いてみせる。
+#
+　セリスの砕いた岩よりも、粉々に。
+#
+<sprite "ta01d92.iph" 4 4 11>
+<name "Celes" "!AA1381">
+「……が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:1B13
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1382">
+「風の魔法って、威力的にどうなんですか？」
+#
+<name "Lazlocke">
+「うーん。
+　まあ、使い方次第だな」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1383">
+「使い方ですか？」
+#
+<name "Lazlocke">
+「まあ、全部の魔法に言える事だけどな。
+　練習を重ねて、便利な使い方を覚えろ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1384">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1CB7
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1385">
+「風の魔法を利用して、船を動かすとかどうでしょ
+　う？」
+#
+<name "Lazlocke">
+「そういったスケールの大きな話は、風の魔法を使
+　いこなしてからにしような」
+#
+<sprite "ta01d17.iph" 4 4 12>
+<name "Celes" "!AA1386">
+「はーい」
+#
+<removesprite -1 11>
+<exit>
+:1DEC
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a12.iph" 4 4 11>
+<name "Celes" "!AA1387">
+「風を服の中に流して、蒸れを解消してみる」
+#
+<name "Lazlocke">
+「スカートが捲れあがってるぞ」
+#
+<sprite "ta01a80.iph" 4 4 12>
+<name "Celes" "!AA1388">
+「きゃぁっ！」
+#
+<removesprite -1 11>
+<exit>
+:1EE7
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1F97: 
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1394">
+「風の魔法って、なかなか手応えが無くて難しいです」
+#
+<removesprite -1 11>
+\x2B
+:1F97
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :201A: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1395">
+「風の魔法。
+　夏場に大活躍しそうな予感です」
+#
+<removesprite -1 11>
+\x2B
+:201A
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :208E: 
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1396">
+「いつかは嵐を起こしてみせる！」
+#
+<removesprite -1 11>
+\x2B
+:208E
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :20FA: 
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1397">
+「私も風になりたい……」
+#
+<removesprite -1 11>
+:20FA + 1
+<exit>
+\x78

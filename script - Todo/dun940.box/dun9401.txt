@@ -1,0 +1,52 @@
+\x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :1E: \x16 :2B: \x15 :2A: 
+:1E
+\x16 :156: \x15 :2A: 
+:2A
+\x78
+:2B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA2767">
+「師匠。
+　巨大キノコを倒してきます！」
+#
+<name "Lazlocke">
+「頑張るように！」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA2768">
+「はいっ！
+　ついでに、山菜も採ってきます」
+#
+<name "Lazlocke">
+「頼んだぞ」
+#
+<removesprite -1 11>
+<exit>
+:156
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA2769">
+「師匠、森に行ってきます」
+#
+<name "Lazlocke">
+「森に？」
+#
+<sprite "ta01c89.iph" 4 4 12>
+<name "Celes" "!AA2770">
+「はい。
+　山菜摘みを兼ねて魔物退治に」
+#
+<name "Lazlocke">
+「わかった。
+　頑張れよ」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA2771">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+\x78

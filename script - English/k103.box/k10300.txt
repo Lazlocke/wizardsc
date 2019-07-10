@@ -1,0 +1,343 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x01\xE0\x84\x00\x01\x0E :30: \xE6 "a0300" \x00\x16 :200: \x0A\x04\x01\xE0\x84\x01\x15 :1D3: 
+:30
+\xE9 1003 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 4 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :5D: \x15 :1C7: 
+:5D
+\x1A\x01\x07\x04\x01\xE3\x84\x00\x01\x0E :87: \xE6 "a0301" \x00\x16 :658: \x0A\x04\x01\xE3\x84\x01\x15 :1D3: 
+:87
+\x1A\x01\x07\x04\x01\xE6\x84\x00\x01\x0E :B1: \xE6 "a0400" \x00\x16 :D85: \x0A\x04\x01\xE6\x84\x01\x15 :1D3: 
+:B1
+\x1A\x01\x07\x04\x01\xE1\x84\x00\x01\x0E :DB: \xE6 "a0300" \x00\x16 :331: \x0A\x04\x01\xE1\x84\x01\x15 :1D3: 
+:DB
+\x1A\x01\x07\x04\x01\xE2\x84\x00\x01\x0E :11F: \xA8 "‹|" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 5 \x01\x15 :11F: \xE6 "a0300" \x00\x16 :46C: \x0A\x04\x01\xE2\x84\x01\x15 :1D3: 
+:11F
+\x1A\x01\x07\x04\x01\xE4\x84\x00\x01\x0E :149: \xE6 "a0301" \x00\x16 :8D5: \x0A\x04\x01\xE4\x84\x01\x15 :1D3: 
+:149
+\x1A\x01\x07\x04\x01\xE5\x84\x00\x01\x0E :173: \xE6 "a0301" \x00\x16 :AF2: \x0A\x04\x01\xE5\x84\x01\x15 :1D3: 
+:173
+\x1A\x01\x07\x04\x01\xE7\x84\x00\x01\x0E :19D: \xE6 "a0400" \x00\x16 :10D9: \x0A\x04\x01\xE7\x84\x01\x15 :1D3: 
+:19D
+\x1A\x01\x07\x04\x01\xE8\x84\x00\x01\x0E :1C7: \xE6 "a0400" \x00\x16 :128C: \x0A\x04\x01\xE8\x84\x01\x15 :1D3: 
+:1C7
+\x16 :15C5: \x15 :1D3: 
+:1D3
+<music 25>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :1FF: 
+<background "ev010a0.iph" 11>
+\x2B
+:1FF
+\x78
+:200
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1045">
+"Yah!"
+#
+<removesprite -1 11>
+She tries to fire an arrow at the dummy.
+#
+It falls right in front of her.
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0350">
+"The string is too weak.
+ Tighten the bowstring."
+#
+<removesprite -1 11>
+<exit>
+:331
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1046">
+"Hya!"
+#
+She shoots one arrow after the next.
+#
+Not bad accuracy.
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"Looking good."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1047">
+"Yes. I'll try to keep it up."
+#
+<removesprite -1 11>
+<exit>
+:46C
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0351">
+"You've gotten rather good with a bow."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA1048">
+"Thank you very much."
+#
+<sprite "ta04a63.iph" 6 4 12>
+<name "Soshiette" "!DA0352">
+"From now on, in addition to practicing the
+ basics, I think you should practice moving
+ while shooting, and shooting at moving
+ targets."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA1049">
+"Yes, ma'am. 
+ I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:658
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1050">
+"Throw stones?"
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0353">
+"Yes. Is there an issue with that?"
+#
+<sprite "ta01d32.iph" 2 5 12>
+<name "Celes" "!AA1051">
+"Oh, no, um... I just mean I've been told I
+ shouldn't throw rocks since I was a little
+ girl."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0354">
+"It sounds like you were well-educated."
+#
+<sprite "ta04a19.iph" 6 4 12>
+<name "Soshiette" "!DA0355">
+"But it will not serve you well in battle.
+ Forget it immediately."
+#
+<sprite "ta01d31.iph" 2 5 12>
+<name "Celes" "!AA1052">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:8D5
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1053">
+"Hold the stone, and... throw!"
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0356">
+"Your form is correct, but release the stone
+ a little later."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA1054">
+"Yes, ma'am.
+ Hya!
+ Ah! It hit!"
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0357">
+"That's the way."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA1055">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:AF2
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0358">
+"On the battlefield, throwing stones can be a
+ very effective attack, but it is much less
+ effective in one on one combat."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0359">
+"Do you know why that is?"
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA1056">
+"Is it because you can see it coming by
+ watching their arm?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0360">
+"That's correct. It is effective on the 
+ battlefield because it is effective for and
+ against large groups.
+ Remember that."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA1057">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:D85
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0361">
+"There are many ways to throw a knife, but the
+ primary two are overhand and to flick it from
+ under your wrist."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0362">
+"The former emphasizes power and distance.
+ The latter is focused on surprise."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA1058">
+"Yes, ma'am."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0363">
+"Let me demonstrated for you.
+ Your Grace, if you'd s... huh?
+ Where did he go?"
+#
+<sprite "ta01d32.iph" 2 5 12>
+<name "Celes" "!AA1059">
+"He ran off at top speed..."
+#
+<sprite "ta04a86.iph" 6 4 12>
+<name "Soshiette" "!DA0364">
+"If I must then.
+ I'll show you on that dummy."
+#
+<sprite "ta01d92.iph" 2 5 12>
+<name "Celes" "!AA1060">
+"...Were you going to throw knives at him?"
+#
+<removesprite -1 11>
+<exit>
+:10D9
+<music 25>
+<background "bg004a0.iph" 11>
+I watch Celes stand in front of a training
+dummy.
+#
+...
+#
+Whoa. A knife slams into it from out of nowhere.
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1061">
+"Did you see it?"
+#
+<name "Lazlocke">
+"No, not at all.
+ Impressive."
+#
+<sprite "ta01d31.iph" 4 4 12>
+<name "Celes" "!AA1062">
+"Miss Soshiette says that's not good enough.
+ I need to work harder."
+#
+<removesprite -1 11>
+She continues practicing her hidden knife
+throws.
+#
+<exit>
+:128C
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta04a73.iph" 4 4 11>
+<name "Soshiette" "!DA0366">
+"Four!"
+#
+<sprite "ta04a72.iph" 4 4 12>
+<name "Soshiette" "!DA0367">
+"Two!"
+#
+<sprite "ta04a73.iph" 4 4 12>
+<name "Soshiette" "!DA0368">
+"Six!"
+#
+<removesprite -1 11>
+Every time Soshiette yells, the number of knives
+in the scarecrow increase.
+#
+<sprite "ta01d03.iph" 4 4 11>
+<name "Celes" "!AA1063">
+"How was that?"
+#
+<removesprite -1 11>
+<sprite "ta01d03.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Soshiette" "!DA0369">
+"The eventual goal is for you to throw at the
+ dummy behind me.
+ Try to aim a little closer to me."
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA1064">
+"Yes, ma'am."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0370">
+"Okay, one more time."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA1065">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:15C5
+<music 25>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1655: 
+<sprite "ta01d03.iph" 4 4 11>
+<name "Celes" "!AA1071">
+"I have to hit the target."
+#
+<removesprite -1 11>
+\x2B
+:1655
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :16D7: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1072">
+"I'll be able to attack from a distance, so
+ won't I have the advantage?"
+#
+<removesprite -1 11>
+\x2B
+:16D7
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :174B: 
+<sprite "ta01d31.iph" 4 4 11>
+<name "Celes" "!AA1073">
+"Hitting a moving target is hard..."
+#
+<removesprite -1 11>
+\x2B
+:174B
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :17AD: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1074">
+"Beginning practice!"
+#
+<removesprite -1 11>
+:17AD + 1
+<exit>
+\x78

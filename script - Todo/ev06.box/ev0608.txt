@@ -1,0 +1,587 @@
+\x1A\x01\x07\x04\x06\xEB\x84\x00\x01\x0E :45: \xDB "闇の槍" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :45: \x16 :659: \x0A\x04\x06\xEB\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:45
+\x1A\x01\x07\x04\x06\xEC\x84\x00\x01\x0E :8A: \xDB "闇の槍" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :8A: \x16 :85B: \x0A\x04\x06\xEC\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:8A
+\x1A\x01\x07\x04\x06\xED\x84\x00\x01\x0E :CF: \xDB "暗黒球" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :CF: \x16 :A3F: \x0A\x04\x06\xED\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:CF
+\x1A\x01\x07\x04\x06\xEE\x84\x00\x01\x0E :112: \xDB "漆黒" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :112: \x16 :CAD: \x0A\x04\x06\xEE\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:112
+\x1A\x01\x07\x04\x06\xEF\x84\x00\x01\x0E :155: \xDB "吸魔" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :155: \x16 :DE2: \x0A\x04\x06\xEF\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:155
+\x1A\x01\x07\x04\x06\xF0\x84\x00\x01\x0E :1A2: \xDB "絶望に震える闇" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1A2: \x16 :FD5: \x0A\x04\x06\xF0\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:1A2
+\x1A\x01\x07\x04\x06\xF1\x84\x00\x01\x0E :1F1: \xDB "世界を飲み込む闇" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1F1: \x16 :1161: \x0A\x04\x06\xF1\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:1F1
+\x1A\x01\x07\x04\x06\xF2\x84\x00\x01\x0E :23E: \xDB "闇よりも暗き闇" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :23E: \x16 :137B: \x0A\x04\x06\xF2\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:23E
+\x1A\x01\x07\x04\x06\xF3\x84\x00\x01\x0E :289: \xDB "暗黒竜の咆哮" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :289: \x16 :145B: \x0A\x04\x06\xF3\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:289
+\x1A\x01\x07\x04\x06\xF4\x84\x00\x01\x0E :2CE: \xDB "闇の盾" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2CE: \x16 :1547: \x0A\x04\x06\xF4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:2CE
+\x1A\x01\x07\x04\x06\xF5\x84\x00\x01\x0E :32E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :32E: \xDB "闇の霧" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :32E: \x16 :161B: \x0A\x04\x06\xF5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:32E
+\x1A\x01\x07\x04\x06\xF6\x84\x00\x01\x0E :375: \xDB "魔物召喚" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :375: \x16 :1722: \x0A\x04\x06\xF6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:375
+\x1A\x01\x07\x04\x06\xF7\x84\x00\x01\x0E :3BA: \xDB "光の槍" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3BA: \x16 :183A: \x0A\x04\x06\xF7\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:3BA
+\x1A\x01\x07\x04\x06\xF8\x84\x00\x01\x0E :41A: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :41A: \xDB "光の槍" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :41A: \x16 :197B: \x0A\x04\x06\xF8\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:41A
+\x1A\x01\x07\x04\x06\xF9\x84\x00\x01\x0E :467: \xDB "貫く勝利の光槍" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :467: \x16 :1AE0: \x0A\x04\x06\xF9\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:467
+\x1A\x01\x07\x04\x06\xFA\x84\x00\x01\x0E :4AE: \xDB "満たす光" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :4AE: \x16 :1C86: \x0A\x04\x06\xFA\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:4AE
+\x1A\x01\x07\x04\x06\xFB\x84\x00\x01\x0E :507: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :507: \xDB "満たす光" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :507: \x16 :201D: \x0A\x04\x06\xFB\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:507
+\x1A\x01\x07\x04\x06\xFC\x84\x00\x01\x0E :54A: \xDB "幻惑" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :54A: \x16 :20D5: \x0A\x04\x06\xFC\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:54A
+\x1A\x01\x07\x04\x06\xFD\x84\x00\x01\x0E :58D: \xDB "分身" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :58D: \x16 :22D8: \x0A\x04\x06\xFD\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:58D
+\x1A\x01\x07\x04\x06\xFE\x84\x00\x01\x0E :5D0: \xDB "拘束" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5D0: \x16 :23B3: \x0A\x04\x06\xFE\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:5D0
+\x1A\x01\x07\x04\x06\xFF\x84\x00\x01\x0E :613: \xDB "聖光" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :613: \x16 :25A0: \x0A\x04\x06\xFF\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:613
+\x1A\x01\x07\x04\x07\x00\x84\x00\x01\x0E :658: \xDB "光の盾" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :658: \x16 :2704: \x0A\x04\x07\x00\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:658
+\x78
+:659
+<music 10>
+<background "bg004a0.iph" 11>
+『闇の槍』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6270">
+「なんだか、投げ易いですね」
+#
+<name "Lazlocke">
+「闇の槍は、相手を倒そうとする意思がそのまま力
+　に変わるからな」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6271">
+「殺意をぶつけている感じですか？」
+#
+<name "Lazlocke">
+「そうだ。
+　でも、まだまだだぞ」
+#
+<name "Lazlocke">
+「呪文を唱える時、相手が誰だろうと必殺の心で投
+　げるように」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6272">
+「が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:85B
+<music 10>
+<background "bg004a0.iph" 11>
+『闇の槍』
+#
+<sprite "ta01a37.iph" 4 4 11>
+<name "Celes" "!AA6273">
+「闇で作った槍……うーん、禍々しい」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6274">
+「しかし、この禍々しさ……
+　どこかで」
+#
+<removesprite -1 11>
+<sprite "ta01a27.iph" 2 5 11>
+<sprite "ta04a22.iph" 6 4 11>
+<name "Soshiette" "!DA1182">
+「台所などに多発する、例の黒い生物では……」
+#
+<sprite "ta01a09.iph" 2 5 12>
+<name "Celes" "!AA6275">
+「それだ！」
+#
+<name "Lazlocke">
+「それだじゃない！」
+#
+<removesprite -1 11>
+<exit>
+:A3F
+<music 10>
+<background "bg004a0.iph" 11>
+『暗黒球』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6276">
+「ひっさーつ！
+　黒い玉！」
+#
+<name "Lazlocke">
+「いや、確かに黒い玉だけどな。
+　もう少し品のある言い方を希望したい」
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA6277">
+「クロマル！」
+#
+<name "Lazlocke">
+「……黒い玉で良いです」
+#
+\x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :C9F: 
+<removesprite -1 11>
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0861">
+「あ、あの……
+　ダークネスボールとか」
+#
+<name "Lazlocke">
+「……お前は良い娘だ」
+#
+<removesprite -1 11>
+　俺はイエルを抱擁した。
+#
+<sprite "ta01a26.iph" 4 4 11>
+<name "Celes" "!AA6278">
+「そこ！
+　ベタベタしない！」
+#
+:C9F
+<removesprite -1 11>
+<exit>
+:CAD
+<music 10>
+<background "bg002a0.iph" 11>
+『漆黒』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6279">
+「漆黒……夜、眠り難い時などに重宝しそうです」
+#
+<name "Lazlocke">
+「……」
+#
+<removesprite -1 11>
+　魔法をそんな事に使ってはいけないと思ったが、
+　よく考えれば俺の師匠もそんな風に使おうとして
+　いたので注意はしなかった。
+#
+<exit>
+:DE2
+<music 10>
+<background "bg002a0.iph" 11>
+『吸魔』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6280">
+「相手の魔力を奪う技ですね」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6281">
+「イメージとしては、チューな感じですか？」
+#
+<name "Lazlocke">
+「チューな感じだ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6282">
+「チュー」
+#
+<name "Lazlocke">
+「……エロいな」
+#
+<sprite "ta01a59.iph" 4 4 12>
+<name "Celes" "!AA6283">
+「し、師匠がそうしろって言ったんじゃないです
+　か！」
+#
+<removesprite -1 11>
+<exit>
+:FD5
+<music 10>
+<background "bg002a0.iph" 11>
+『絶望に震える闇』
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6284">
+「絶望に震える闇ってどんな感じの闇なんですか？」
+#
+<name "Lazlocke">
+「ニンジンの山に埋もれて、視界を遮られている状
+　態じゃないか」
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6285">
+「それは確かに絶望ですね。
+　発狂してるかもしれません」
+#
+<removesprite -1 11>
+　ニンジンが嫌いなセリスであった。
+#
+<exit>
+:1161
+<music 10>
+<background "bg002a0.iph" 11>
+『世界を飲み込む闇』
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6286">
+「世界を飲み込む闇……怖い名前の魔法ですね」
+#
+<name "Lazlocke">
+「そうだな。
+　でも、扱いを間違えると本当に世界を飲み込むか
+　らなぁ。
+　それを忘れない為の名前だろう」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6287">
+「え！
+　あ……じょ、冗談ですよね」
+#
+<name "Lazlocke">
+「注意するように」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6288">
+「冗談だって言ってください。
+　怖くて使えなくなるじゃないですか！」
+#
+<removesprite -1 11>
+<exit>
+:137B
+<music 10>
+<background "bg002a0.iph" 11>
+『闇よりも暗き闇』
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6289">
+「闇よりも暗き闇って……
+　真っ黒って事ですか？」
+#
+<name "Lazlocke">
+「詩的な表現に、疑問を持たないように」
+#
+<removesprite -1 11>
+<exit>
+:145B
+<music 10>
+<background "bg002a0.iph" 11>
+『暗黒竜の咆哮』
+#
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA6290">
+「暗黒竜の咆哮って、すごく耳に悪そうです」
+#
+<name "Lazlocke">
+「音が目的じゃない。
+　暗黒竜が叫びながら放つ攻撃って事だ」
+#
+<removesprite -1 11>
+<exit>
+:1547
+<music 10>
+<background "bg002a0.iph" 11>
+『闇の盾』
+#
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA6291">
+「闇の盾って……
+　なんだか、美味しそうですね」
+#
+<name "Lazlocke">
+「どうして、そんな感想を持つのかな」
+#
+<removesprite -1 11>
+<exit>
+:161B
+<music 10>
+<background "bg002a0.iph" 11>
+『闇の霧』
+#
+<name "Lazlocke">
+「これを覚えると、いつでもどこでもエロい事がで
+　きるようになる」
+#
+<sprite "ta01a97.iph" 4 4 11>
+<name "Celes" "!AA6292">
+「別にこれを覚えなくても、いつでもどこでもエロ
+　いじゃないですか」
+#
+<removesprite -1 11>
+<exit>
+:1722
+<music 10>
+<background "bg002a0.iph" 11>
+『魔物召喚』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6293">
+「魔物の召喚……えいっ！」
+#
+<name "Lazlocke">
+「うおっ、俺のアレが大きくなった！」
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA6294">
+「ある意味、魔物ですから成功と……」
+#
+<removesprite -1 11>
+<exit>
+:183A
+<music 10>
+<background "bg004a0.iph" 11>
+『光の槍』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6295">
+「これが光の槍……」
+#
+<removesprite -1 11>
+　セリスは光の槍を手にする。
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6296">
+「あんまり、痛そうに見えませんね」
+#
+<name "Lazlocke">
+「でも、痛いから俺に向けて投げないように」
+#
+<removesprite -1 11>
+<exit>
+:197B
+<music 10>
+<background "bg004a0.iph" 11>
+『光の槍』
+#
+<name "Lazlocke">
+「捻じ込んでやると、中で発光して凄い事になるん
+　だ」
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA6297">
+「えっと……それは本来の使い方ではないですよね」
+#
+<name "Lazlocke">
+「今度、試してやろう」
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6298">
+「……やったら、本気で貫きますよ」
+#
+<removesprite -1 11>
+<exit>
+:1AE0
+<music 10>
+<background "bg004a0.iph" 11>
+『貫く勝利の光槍』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6299">
+「貫け！
+　勝利の槍っ！」
+#
+<name "Lazlocke">
+「違う！
+　貫く勝利の光槍だ！」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6300">
+「多少のアレンジは許されるのでは？」
+#
+<name "Lazlocke">
+「それはある程度、熟練した後でだ。
+　今は基本を大事に」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6301">
+「はーい」
+#
+<removesprite -1 11>
+<exit>
+:1C86
+<music 10>
+<background "bg004a0.iph" 11>
+『満たす光』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6302">
+「満たす光！」
+#
+<name "Lazlocke">
+「強烈な光だな……もう少し、柔らかさが欲しい」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6303">
+「柔らかさですか？」
+#
+<name "Lazlocke">
+「おう。
+　例えるなら、春の日の朝の日差しのような感じで」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6304">
+「わかり難いです」
+#
+<name "Lazlocke">
+「……女性の乳房ぐらいの柔らかさで」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6305">
+「余計にわかり難くなりました」
+#
+<name "Lazlocke">
+「ここだ！
+　ここ！
+　お前のここの柔らかさが欲しいと言ってるんだ！」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6306">
+「え？」
+#
+<name "Lazlocke">
+「おっと、すまん。
+　そこは二の腕だったな。
+　ははは……
+　でも、そこぐらいの柔らかさでも可だぞ」
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6307">
+「師匠。
+　師匠殺しって罪になりましたっけ？」
+#
+<removesprite -1 11>
+<exit>
+:201D
+<music 10>
+<background "bg004a0.iph" 11>
+『満たす光』
+#
+<sprite "ta01a22.iph" 4 4 11>
+<name "Celes" "!AA6308">
+「満たす光！」
+#
+<name "Lazlocke">
+「適度な温かさ。
+　寒い日は重宝するな」
+#
+<removesprite -1 11>
+<exit>
+:20D5
+<music 10>
+<background "bg004a0.iph" 11>
+『幻惑』
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA6309">
+「幻惑、幻惑……難しい」
+#
+<name "Lazlocke">
+「できるだけ、正確にイメージするのがコツだ」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6310">
+「正確にですか……」
+#
+<name "Lazlocke">
+「例えば……こうだ」
+#
+<removesprite -1 11>
+　俺は淫らなセリスの幻惑を出した。
+#
+<sprite "ta01a80.iph" 4 4 11>
+<name "Celes" "!AA6311">
+「きゃぁー、きゃぁー、きゃぁぁぁぁー！」
+#
+<removesprite -1 11>
+　正確に出し過ぎたのか、怒ったセリスから殴られ
+　てしまった。
+#
+<exit>
+:22D8
+<music 10>
+<background "bg004a0.iph" 11>
+『分身』
+#
+<sprite "ta01a22.iph" 4 4 11>
+<name "Celes" "!AA6312">
+「分身、出来た……」
+#
+<name "Lazlocke">
+「これで、二人なのに乱交気分が味わえると……」
+#
+<removesprite -1 11>
+　セリスに腹を殴られた。
+#
+<exit>
+:23B3
+<music 10>
+<background "bg004a0.iph" 11>
+『拘束』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6313">
+「拘束っ！」
+#
+<name "Lazlocke">
+「残念、抜けられるぞ」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6314">
+「あ、本当だ……うーむ」
+#
+<name "Lazlocke">
+「縛るのは、本人の技術だからな……
+　ま、たくさん縛って覚えろ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6315">
+「はい。
+　師匠、協力をお願いします」
+#
+<name "Lazlocke">
+「わかった」
+#
+<removesprite -1 11>
+　でも、縛られるより、縛る方が好きなんだけどな。
+#
+<exit>
+:25A0
+<music 10>
+<background "bg004a0.iph" 11>
+『聖光』
+#
+<name "Lazlocke">
+「髪の毛を持って、ジッと見詰めているが……
+　別に斬る必要は無いぞ」
+#
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA6316">
+「ええっ！
+　そうなんですか？
+　てっきり、頭を丸めなければいけないのかと……」
+#
+<name "Lazlocke">
+「はぁ……誰からそんなデマを」
+#
+<removesprite -1 11>
+　……まあ、想像が出来るが。
+#
+<exit>
+:2704
+<music 10>
+<background "bg002a0.iph" 11>
+『光の盾』
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6317">
+「光の盾って、なんだか……
+　脆そうじゃないですか？」
+#
+<name "Lazlocke">
+「うーん、確かになんでも通しそうだよなぁ」
+#
+<removesprite -1 11>
+　でも、かなり硬いです。
+#
+<exit>
+\x78

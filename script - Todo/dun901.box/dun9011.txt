@@ -1,0 +1,114 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :66: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :66: \x1A\x01\x07\x04\x01\x0E\x84\x01\x01\x0E :3F: \x16 :639: \x15 :66: 
+:3F
+\x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :5A: \x16 :461: \x15 :66: 
+:5A
+\x16 :79: \x15 :66: 
+:66
+\x6E 1  "ra0200.box" \x78
+:79
+<music 32>
+<background "bg011a0.iph" 11>
+<sprite "ta01c06.iph" 4 4 11>
+<name "Celes" "!AA2935">
+「ずいぶんと、静かな感じで予選が始まるんですね」
+#
+<name "Lazlocke">
+「そうだな……
+　賑やかなのは、出場者や観客目当ての出店ぐらい
+　かな」
+#
+<sprite "ta01c20.iph" 4 4 12>
+<name "Celes" "!AA2936">
+「でも、熱気は凄いです」
+#
+<name "Lazlocke">
+「クデュール魔法大会。
+　協会の後押しもあって、数ある大会の中では一番
+　権威があるとされているからな」
+#
+<name "Lazlocke">
+「本選になれば、近隣諸国の王族も見物にやってく
+　る」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "Celes" "!AA2937">
+「その大会に……」
+#
+<name "Lazlocke">
+「まだ予選だ。
+　気負い過ぎるなよ」
+#
+<sprite "ta01c36.iph" 4 4 12>
+<name "Celes" "!AA2938">
+「は、はい」
+#
+<name "Lazlocke">
+「予選では、規定回数勝ち抜けば良い」
+#
+<sprite "ta01c06.iph" 4 4 12>
+<name "Celes" "!AA2939">
+「規定回数の勝ち抜きですか？」
+#
+<name "Lazlocke">
+「ああ、だから対戦相手に恵まれれば、本選に出ら
+　れる」
+#
+<name "Lazlocke">
+「頑張れ」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA2940">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:461
+<music 32>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「クデュール魔法大会の予選が始まったな」
+#
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA2941">
+「はい。
+　頑張ります」
+#
+<name "Lazlocke">
+「おっ、緊張してないな」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA2942">
+「はい。
+　これまでの修行を信じるだけですから」
+#
+<name "Lazlocke">
+「そうだな……」
+#
+<name "Lazlocke">
+「ま、予選だ。
+　軽く突破してこい」
+#
+<sprite "ta01c17.iph" 4 4 12>
+<name "Celes" "!AA2943">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:639
+<music 32>
+<background "bg011a0.iph" 11>
+<name "Lazlocke">
+「クデュール魔法大会の予選が始まったな」
+#
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA2944">
+「はい……
+　思ったより、緊張はしていません」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA2945">
+「不思議です」
+#
+<removesprite -1 11>
+<exit>
+\x78

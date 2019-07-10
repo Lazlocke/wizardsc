@@ -1,0 +1,74 @@
+\x0A\x04\x01\x12\x84\x01\x16 :55: \xB5 "真なる英雄の大会優勝" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :4E: \xB4 "真なる英雄の大会優勝" \x84\x01
+:4E
+\x15 :54: 
+:54
+\x78
+:55
+<music 32>
+<background "bg013a0.iph" 11>
+<sprite "ta07a12.iph" 4 4 11>
+<name "ジャッジマン" "!FA0047">
+「タイムアーップ！
+　大会、終了！」
+#
+<sprite "ta07a06.iph" 4 4 12>
+<name "ジャッジマン" "!FA0048">
+「皆様、お疲れ様でした！
+　そして、ナイスファイトをありがとう！」
+#
+<sprite "ta07a00.iph" 4 4 12>
+<name "ジャッジマン" "!FA0049">
+「さっそくですが、発表させて頂きましょう！」
+#
+<sprite "ta07a01.iph" 4 4 12>
+<name "ジャッジマン" "!FA0050">
+「今年の真なる英雄は……」
+#
+<music 23>
+<sprite "ta07a07.iph" 4 4 12>
+<name "ジャッジマン" "!FA0051">
+「セリスティーネ＝ロココ！
+　貴女だ！」
+#
+<removesprite -1 11>
+<sprite "ta01c08.iph" 4 4 11>
+<name "Celes" "!AA3079">
+「え？
+　私？」
+#
+<removesprite -1 11>
+<sprite "ta07a07.iph" 2 4 11>
+<sprite "ta01c08.iph" 6 5 11>
+<name "ジャッジマン" "!FA0052">
+「そう、貴女だ！
+　おめでとう！」
+#
+<sprite "ta01c15.iph" 6 5 12>
+<name "Celes" "!AA3080">
+「どうも……頑張りました」
+#
+<sprite "ta07a09.iph" 2 4 12>
+<name "ジャッジマン" "!FA0053">
+「賞品、賞金は後で家に送っておこう！
+　さらばだ！」
+#
+<removesprite 2 11>
+<removesprite -1 11>
+<sprite "ta01c27.iph" 4 4 11>
+<name "Celes" "!AA3081">
+「え？」
+#
+<name "Lazlocke">
+「セリス！
+　協会の警備が包囲を始めた！
+　逃げろっ！」
+#
+<sprite "ta01c37.iph" 4 4 12>
+<name "Celes" "!AA3082">
+「ええええっ！」
+#
+<removesprite -1 11>
+　こうして、大会は終了した。
+#
+<exit>
+\x78

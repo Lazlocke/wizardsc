@@ -1,0 +1,29 @@
+<music 10>
+<background "bg002a0.iph" 11>
+\x2B
+<sprite "ta01a16.iph" 4 4 11>
+<name "Celes" "!AA0233">
+"Mewô"
+#
+<removesprite -1 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0093">
+"Mew mewô"
+#
+<removesprite -1 11>
+<sprite "ta03a05.iph" 4 4 11>
+<name "Viola" "!BA0000">
+"Woofô"
+#
+<removesprite -1 11>
+<sprite "ta02a10.iph" 4 4 11>
+<name "Elle" "!CA0000">
+"Woof woofô"
+#
+<removesprite -1 11>
+...
+#
+I'm not sure what they said, but it seems like
+they've figured things out.
+#
+\x78\x78

@@ -1,0 +1,94 @@
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA1204">
+「やあ、セリス君。
+　うつむいてどうしたんだい？」
+#
+<removesprite -1 11>
+<sprite "ta01b29.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Celes" "!AA7192">
+「いや、店の借金に困っていてね。
+　支払いをどうしようか悩んでいるんだ」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA1205">
+「なんだ、簡単な事じゃないか」
+#
+<sprite "ta01b34.iph" 2 5 12>
+<name "Celes" "!AA7193">
+「ええ？
+　結構な金額なんだよ。
+　何が簡単なんだい？」
+#
+<sprite "ta02a00.iph" 6 4 12>
+<name "Elle" "!CA1206">
+「借金に困らなくなる方法さ。
+　僕は親切だから、タダで教えてあげよう」
+#
+<sprite "ta02a10.iph" 6 4 12>
+<name "Elle" "!CA1207">
+「さらに借金をするんだ」
+#
+<sprite "ta01b37.iph" 2 5 12>
+<name "Celes" "!AA7194">
+「ええっ！
+　そんなっ！
+　誰も貸してくれないよ」
+#
+<sprite "ta02a00.iph" 6 4 12>
+<name "Elle" "!CA1208">
+「いやいや、今貸してくれている人が居るだろ。
+　その人に頼むんだ」
+#
+<sprite "ta01b32.iph" 2 5 12>
+<name "Celes" "!AA7195">
+「余計に貸してくれないよ」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA1209">
+「大丈夫、貸してくれるよ」
+#
+<sprite "ta01b27.iph" 2 5 12>
+<name "Celes" "!AA7196">
+「どうしてそう思うんだい？」
+#
+<sprite "ta02a04.iph" 6 4 12>
+<name "Elle" "!CA1210">
+「万が一、君が借金の支払いをする前に倒れたらど
+　うなる？
+　借金を回収できないじゃないか」
+#
+<sprite "ta02a05.iph" 6 4 12>
+<name "Elle" "!CA1211">
+「だから、金を貸してくれないと事業がつぶれるっ
+　て言うんだ。
+　そう言えば、絶対に貸してくれるさ」
+#
+<sprite "ta01b09.iph" 2 5 12>
+<name "Celes" "!AA7197">
+「なるほど。
+　ありがとうイエル君」
+#
+<sprite "ta02a10.iph" 6 4 12>
+<name "Elle" "!CA1212">
+「はははっ、困ったらまた相談してくれたまえ」
+#
+<removesprite -1 11>
+<name "Lazlocke">
+「……見ていたが、何をやっているんだ？」
+#
+<sprite "ta01b15.iph" 4 4 11>
+<name "Celes" "!AA7198">
+「今度のバザーでやる演劇の練習です」
+#
+<name "Lazlocke">
+「子供の教育に悪そうな内容だな。
+　まあ、真実ではあるが……」
+#
+　ちなみに、この劇はリハーサルを見たバザー主催
+　者から中止の通達を受けた。
+#
+<removesprite -1 11>
+\x2B\x78\x78

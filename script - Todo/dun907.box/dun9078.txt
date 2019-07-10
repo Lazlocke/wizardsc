@@ -1,0 +1,82 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :9C: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :9C: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :42: \x16 :9D: \x15 :9C: 
+:42
+\x1A\x01\x0A\x02\x00\xFE 3 \x01\x14 :60: \x16 :1D4: \x15 :9C: 
+:60
+\x1A\x01\x0A\x02\x00\xFE 7 \x01\x14 :7E: \x16 :2A7: \x15 :9C: 
+:7E
+\x1A\x01\x0A\x02\x00\xFE 8 \x01\x15 :9C: \x16 :39B: \x15 :9C: 
+:9C
+\x78
+:9D
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「まあ、一度で登れるとは思っていなかったさ」
+#
+<sprite "ta01c32.iph" 4 4 11>
+<name "Celes" "!AA3288">
+「むう、信用されてない」
+#
+<name "Lazlocke">
+「そうじゃない。
+　難しい試練だって事だ」
+#
+<sprite "ta01c20.iph" 4 4 12>
+<name "Celes" "!AA3289">
+「……次こそは」
+#
+<removesprite -1 11>
+<exit>
+:1D4
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c21.iph" 4 4 11>
+<name "Celes" "!AA3290">
+「むう……」
+#
+<name "Lazlocke">
+「未熟を嘆け」
+#
+<sprite "ta01c26.iph" 4 4 12>
+<name "Celes" "!AA3291">
+「ううう……悔しい」
+#
+<removesprite -1 11>
+<exit>
+:2A7
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c21.iph" 4 4 11>
+<name "Celes" "!AA3292">
+「………………やるな！」
+#
+<name "Lazlocke">
+「やるなじゃない。
+　もう少し、頑張れ」
+#
+<sprite "ta01c42.iph" 4 4 12>
+<name "Celes" "!AA3293">
+「あうう……」
+#
+<removesprite -1 11>
+<exit>
+:39B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c32.iph" 4 4 11>
+<name "Celes" "!AA3294">
+「あと少しだったのに……」
+#
+<name "Lazlocke">
+「惜しかったな」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3295">
+「次こそは登りきってみせます」
+#
+<name "Lazlocke">
+「その意気だ」
+#
+<removesprite -1 11>
+<exit>
+\x78

@@ -1,0 +1,96 @@
+\x0A\x04\x01\x27\x84\x00\x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :24: \x16 :31: \x15 :30: 
+:24
+\x16 :60D: \x15 :30: 
+:30
+\x78
+:31
+<music 10>
+<background "bg001b0.iph" 11>
+　日が落ち、街が暗くなった頃。
+#
+<background "bg002b0.iph" 11>
+<name "Lazlocke">
+「幽霊の出そうな良い夜だな」
+#
+<sprite "ta01c38.iph" 4 4 11>
+<name "Celes" "!AA2715">
+「で、出たら困るんです！」
+#
+<name "Lazlocke">
+「こらこら、目的を忘れるな」
+#
+<sprite "ta01c37.iph" 4 4 12>
+<name "Celes" "!AA2716">
+「うう……」
+#
+<name "Lazlocke">
+「まあ、幽霊が居なければ帰って来て良いから」
+#
+<sprite "ta01c32.iph" 4 4 12>
+<name "Celes" "!AA2717">
+「本当ですか？」
+#
+<name "Lazlocke">
+「ああ。
+　協会からの依頼は、調査と居た場合の退治だから
+　な」
+#
+<name "Lazlocke">
+「調査して居ない場合は、そのまま帰ってきて問題
+　無い」
+#
+<sprite "ta01c36.iph" 4 4 12>
+<name "Celes" "!AA2718">
+「わ、わかりました。
+　行ってきます」
+#
+<removesprite -1 11>
+<sprite "ta01c36.iph" 2 5 11>
+<sprite "ta04a85.iph" 6 4 11>
+<name "Soshiette" "!DA0473">
+「まあ、ほぼ確実に居るのがわかっていますので、
+　協会から依頼が出るのですが……」
+#
+<sprite "ta01c37.iph" 2 5 12>
+<name "Celes" "!AA2719">
+「！！」
+#
+<name "Lazlocke">
+「どうして邪魔をする！」
+#
+<sprite "ta04a15.iph" 6 4 12>
+<name "Soshiette" "!DA0474">
+「いえ、あのままですと、簡単に調査して帰ってく
+　る可能性がありました。
+　幽霊は見つけ次第、殲滅するべきです」
+#
+<sprite "ta01c41.iph" 2 5 12>
+<name "Celes" "!AA2720">
+「み、見つけるまで、帰ってくるなと？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0475">
+「殲滅するまで、帰還は認めません」
+#
+<sprite "ta01c42.iph" 2 5 12>
+<name "Celes" "!AA2721">
+「そ、そんなぁ……」
+#
+<removesprite -1 11>
+　セリスはこの後、二十分ほど玄関前で抵抗したが
+　幽霊退治に出かけた。
+#
+<exit>
+:60D
+<music 10>
+<background "bg002b0.iph" 11>
+<sprite "ta01c91.iph" 4 4 11>
+<name "Celes" "!AA2722">
+「幽霊退治に行ってきます」
+#
+<name "Lazlocke">
+「おう、頑張れ」
+#
+<removesprite -1 11>
+<exit>
+\x78

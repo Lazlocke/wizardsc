@@ -1,0 +1,309 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x01\xEA\x84\x00\x01\x0E :30: \xE6 "a0401" \x00\x16 :1AC: \x0A\x04\x01\xEA\x84\x01\x15 :17F: 
+:30
+\xE9 1004 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 5 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :5D: \x15 :173: 
+:5D
+\x1A\x01\x07\x04\x01\xEB\x84\x00\x01\x0E :87: \xE6 "a0401" \x00\x16 :324: \x0A\x04\x01\xEB\x84\x01\x15 :17F: 
+:87
+\x1A\x01\x07\x04\x01\xEE\x84\x00\x01\x0E :CB: \xA8 "íM" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 0 \x01\x14 :CB: \xE6 "a0402" \x00\x16 :D38: \x0A\x04\x01\xEE\x84\x01\x15 :17F: 
+:CB
+\x1A\x01\x07\x04\x01\xEC\x84\x00\x01\x0E :F5: \xE6 "a0401" \x00\x16 :4F6: \x0A\x04\x01\xEC\x84\x01\x15 :17F: 
+:F5
+\x1A\x01\x07\x04\x01\xEF\x84\x00\x01\x0E :11F: \xE6 "a0402" \x00\x16 :F9B: \x0A\x04\x01\xEF\x84\x01\x15 :17F: 
+:11F
+\x1A\x01\x07\x04\x01\xED\x84\x00\x01\x0E :149: \xE6 "a0401" \x00\x16 :94A: \x0A\x04\x01\xED\x84\x01\x15 :17F: 
+:149
+\x1A\x01\x07\x04\x01\xF0\x84\x00\x01\x0E :173: \xE6 "a0402" \x00\x16 :112D: \x0A\x04\x01\xF0\x84\x01\x15 :17F: 
+:173
+\x16 :125E: \x15 :17F: 
+:17F
+<music 25>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :1AB: 
+<background "ev010a0.iph" 11>
+\x2B
+:1AB
+\x78
+:1AC
+<music 25>
+<background "bg004a0.iph" 11>
+Celes swings a whip around with reckless
+abandon.
+#
+I don't think she really knows what she's
+doing.
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0371">
+"Miss Celes, this is how you use a whip."
+#
+<removesprite -1 11>
+Soshiette takes it from her and swings it with
+an ear-splitting crack.
+#
+Something about maids and whips just feels
+right.
+#
+<exit>
+:324
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0372">
+"A whip can not only strike, but also entangle.
+ If you can take your opponent's weapon away,
+ you'll have a major advantage."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1078">
+"I see."
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0373">
+"Work hard so that you master it."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA1079">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:4F6
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA1080">
+"A whip..."
+#
+<removesprite -1 11>
+<sprite "ta01d27.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0374">
+"Is something bothering you?"
+#
+<sprite "ta01d36.iph" 2 5 12>
+<name "Celes" "!AA1081">
+"Oh, um, well..."
+#
+<sprite "ta04a02.iph" 6 4 12>
+<name "Soshiette" "!DA0378">
+"Hm?"
+#
+<sprite "ta01d74.iph" 2 5 12>
+<name "Celes" "!AA1082">
+"In one of Master's books, there was an erotic
+ technique about hitting someone with a
+ whip..."
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA0375">
+"That would be a play whip.
+ This whip is most certainly not for that."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA1083">
+"Really?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0376">
+"Yes. Being struck with this whip will cause
+ the skin to swell or tear."
+#
+<sprite "ta01d37.iph" 2 5 12>
+<name "Celes" "!AA1084">
+"I-It's a scary weapon, isn't it?"
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0377">
+"A whip is a very powerful weapon.
+ If you're skilled with it, even swordsmen won't
+ be a match for you.
+ Work hard."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA1085">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:94A
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1086">
+"Does a whip work against a sword?
+ It feels like it'd get cut..."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0379">
+"You're right. The main thing to remember about
+ a whip is that it's useless if it's cut.
+ It's especially poor against a master of the
+ blade."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA1087">
+"Yeah, huh?"
+#
+<sprite "ta04a13.iph" 6 4 12>
+<name "Soshiette" "!DA0380">
+"But that's only true of a whip in an amateur's
+ hands."
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA0381">
+"In the hands of a master, it is faster than a
+ blade and can't be stopped by anybody."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA1088">
+"..."
+#
+<sprite "ta04a19.iph" 6 4 12>
+<name "Soshiette" "!DA0382">
+"Furthermore, you can attack from a place where
+ your opponent cannot strike back. 
+ If you master the whip, no weapon will scare
+ you. Keep working hard."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA1089">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:D38
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0383">
+"Roll this barrel."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1090">
+"Yes, ma'am.
+ Roll, roll..."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"Is that some kind of training?"
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0384">
+"Barrel-handling practice and strength
+ training."
+#
+<name "Lazlocke">
+"I see.
+ ...Barrel-handling?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0386">
+"Yes."
+#
+<removesprite -1 11>
+She smiles from ear to ear.
+#
+Huh?
+#
+Barrel-handling?
+#
+<exit>
+:F9B
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1091">
+"Roll, roll, roll..."
+#
+<removesprite -1 11>
+She rolls the barrel all over.
+#
+...
+#
+.........
+#
+<name "Lazlocke">
+"Looks like fun."
+#
+<sprite "ta04a15.iph" 4 4 11>
+<name "Soshiette" "!DA0387">
+"Would you like to do it?"
+#
+<name "Lazlocke">
+"M-Maybe a little..."
+#
+<removesprite -1 11>
+Roll, roll, roll...
+#
+It is kind of fun.
+#
+<exit>
+:112D
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1094">
+"Ha... hya... ha..."
+#
+<removesprite -1 11>
+She stares at where she aimed the barrel.
+#
+<sprite "ta01d26.iph" 4 4 11>
+<name "Celes" "!AA1093">
+"Mmmm...
+ I missed a little.
+ One more time."
+#
+<removesprite -1 11>
+She's pretty hard on herself.
+#
+<exit>
+:125E
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :12FA: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1100">
+"I have to master this weapon."
+#
+<removesprite -1 11>
+\x2B
+:12FA
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1362: 
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1101">
+"This is hard to get used to..."
+#
+<removesprite -1 11>
+\x2B
+:1362
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :13C6: 
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1102">
+"I can do it!"
+#
+<removesprite -1 11>
+\x2B
+:13C6
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :142C: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1103">
+"I've got to do my best!"
+#
+<removesprite -1 11>
+\x2B
+:142C
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1490: 
+<sprite "ta01d17.iph" 4 4 11>
+<name "Celes" "!AA1104">
+"Yah!ÅÙ Hya!ÅÙ"
+#
+<removesprite -1 11>
+:1490 + 1
+<exit>
+\x78

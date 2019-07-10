@@ -1,0 +1,39 @@
+<music 25>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「セリス。
+　君にはクデュール魔法大会に出て、優勝するとい
+　う目標がある」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA7130">
+「はい」
+#
+<name "Lazlocke">
+「イエルというライバルも居る」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA7131">
+「はい」
+#
+<name "Lazlocke">
+「人が強くなる為の、目標。
+　そして競う相手が居る。
+　これは非常に恵まれている状況だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA7132">
+「はい」
+#
+<name "Lazlocke">
+「後、足りないのは何だと思う？」
+#
+<sprite "ta01a05.iph" 4 4 12>
+<name "Celes" "!AA7133">
+「……優秀な指導者？」
+#
+<name "Lazlocke">
+「……努力します」
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,493 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x01\xCC\x84\x00\x01\x0E :27: \x16 :249: \x0A\x04\x01\xCC\x84\x01\x15 :21C: 
+:27
+\x1A\x01\x07\x04\x01\xCD\x84\x00\x01\x0E :48: \x16 :507: \x0A\x04\x01\xCD\x84\x01\x15 :21C: 
+:48
+\x1A\x01\x07\x04\x01\xCE\x84\x00\x01\x0E :69: \x16 :844: \x0A\x04\x01\xCE\x84\x01\x15 :21C: 
+:69
+\xE9 1002 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 4 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :96: \x15 :210: 
+:96
+\x1A\x01\x07\x04\x01\xCF\x84\x00\x01\x0E :C0: \xE6 "a0200" \x00\x16 :B3E: \x0A\x04\x01\xCF\x84\x01\x15 :21C: 
+:C0
+\x1A\x01\x07\x04\x01\xD2\x84\x00\x01\x0E :EA: \xE6 "a0201" \x00\x16 :11C9: \x0A\x04\x01\xD2\x84\x01\x15 :21C: 
+:EA
+\x1A\x01\x07\x04\x01\xD5\x84\x00\x01\x0E :114: \xE6 "a0203" \x00\x16 :16A4: \x0A\x04\x01\xD5\x84\x01\x15 :21C: 
+:114
+\x1A\x01\x07\x04\x01\xD0\x84\x00\x01\x0E :13E: \xE6 "a0200" \x00\x16 :E63: \x0A\x04\x01\xD0\x84\x01\x15 :21C: 
+:13E
+\x1A\x01\x07\x04\x01\xD3\x84\x00\x01\x0E :168: \xE6 "a0201" \x00\x16 :136E: \x0A\x04\x01\xD3\x84\x01\x15 :21C: 
+:168
+\x1A\x01\x07\x04\x01\xD6\x84\x00\x01\x0E :192: \xE6 "a0203" \x00\x16 :18AD: \x0A\x04\x01\xD6\x84\x01\x15 :21C: 
+:192
+\x1A\x01\x07\x04\x01\xD1\x84\x00\x01\x0E :1BC: \xE6 "a0200" \x00\x16 :103A: \x0A\x04\x01\xD1\x84\x01\x15 :21C: 
+:1BC
+\x1A\x01\x07\x04\x01\xD4\x84\x00\x01\x0E :1E6: \xE6 "a0201" \x00\x16 :1522: \x0A\x04\x01\xD4\x84\x01\x15 :21C: 
+:1E6
+\x1A\x01\x07\x04\x01\xD7\x84\x00\x01\x0E :210: \xE6 "a0203" \x00\x16 :1AEF: \x0A\x04\x01\xD7\x84\x01\x15 :21C: 
+:210
+\x16 :1C0E: \x15 :21C: 
+:21C
+<music 25>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :248: 
+<background "ev010a0.iph" 11>
+\x2B
+:248
+\x78
+:249
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d00.iph" 4 4 11>
+<name "Celes" "!AA1011">
+"Weapons?"
+#
+<name "Lazlocke">
+"Yeah, even wizards use them.
+ For now, we'll practice using a variety of
+ them."
+#
+<sprite "ta01d02.iph" 4 4 12>
+<name "Celes" "!AA1012">
+"I understand."
+#
+<name "Lazlocke">
+"Soshiette will be able to help you with
+ specifics once you have the basics down."
+#
+\x1A\x01\x0A\x02\x01\x9A 5 \x01\x14 :3ED: 
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA1013">
+"Yes, sir."
+#
+\x18 :4F9: 
+:3ED
+<sprite "ta01d03.iph" 4 4 12>
+<name "Celes" "!AA1014">
+"Huh? What about you, Master?"
+#
+<name "Lazlocke">
+"I'm terrible with weapons."
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1015">
+"There's a lot of things you're bad at, aren't
+ there?"
+#
+<name "Lazlocke">
+"There are absolutely not.
+ They're just not in my wheelhouse."
+#
+:4F9
+<removesprite -1 11>
+<exit>
+:507
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0314">
+"If you learn one weapon, you will have a rough
+ understanding of all weapons."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1016">
+"Really?"
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0315">
+"Yes. The basics are the same."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0316">
+"Think of a weapon as an extension of yourself.
+ Make use of the weapon's unique properties.
+ The rest is the same as hand to hand combat."
+#
+<sprite "ta01d27.iph" 2 5 12>
+<name "Celes" "!AA1017">
+"I-It seems hard."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0317">
+"Don't worry.
+ That's what training is for."
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0318">
+"And what we've been doing is how you learn."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA1018">
+"I-I'll try."
+#
+<removesprite -1 11>
+<exit>
+:844
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0319">
+"The important thing about using a weapon is to
+ not rely on the weapon itself too much."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1019">
+"I shouldn't rely on it?'
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0320">
+"Correct. If you do, then you will be
+ especially vulnerable if it breaks."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0321">
+"What's more, your movement will become focused
+ on the weapon and allow your opponent to
+ easily predict how you'll attack."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0323">
+"Weapons are reliable, but they should not be
+ relied on.
+ Never forget that."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA1020">
+"Y-Yes, ma'am.
+ I understand."
+#
+<removesprite -1 11>
+<exit>
+:B3E
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1021">
+"Yah! Hya! Hiyah!"
+#
+<removesprite -1 11>
+She's practicing fencing against a training
+dummy.
+#
+With Soshiette teaching her.
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta04a02.iph" 4 4 11>
+<name "Soshiette" "!DA0324">
+"Is there an issue?"
+#
+<name "Lazlocke">
+"I know she's learning how to fight with a
+ sword, but it feels like you're training her 
+ to fight in actual combat."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0325">
+"It's meant to be used in actual combat."
+#
+<name "Lazlocke">
+"I know, but, well..."
+#
+<sprite "ta04a72.iph" 4 4 12>
+<name "Soshiette" "!DA0326">
+"Proper swordsmanship is all about knowledge.
+ All she needs to know is how to actually
+ fight."
+#
+<name "Lazlocke">
+"Well, don't have her spar with any nobles.
+ They're concerned with proper form."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA0327">
+"I'm training her so that nobles will be no
+ match for her."
+#
+<removesprite -1 11>
+<exit>
+:E63
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta04a15.iph" 4 4 11>
+<name "Soshiette" "!DA0328">
+"Yah!"
+#
+<removesprite -1 11>
+Soshiette's demonstrating how to use a sword.
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1022">
+"Wow..."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Soshiette" "!DA0329">
+"You have a long way to go, but I expect you to
+ put up a fight for me."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA1023">
+"I-I'll try."
+#
+<removesprite -1 11>
+<exit>
+:103A
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1024">
+"Yah!"
+#
+<removesprite -1 11>
+Her sword splits the dummy in two.
+#
+That's pretty impressive.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0331">
+"It's too early to be impressed."
+#
+<name "Lazlocke">
+"You're harsh."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0332">
+"You're simply too kind."
+#
+<removesprite -1 11>
+<exit>
+:11C9
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0333">
+"Stab the scarecrow with that stick."
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA1026">
+"Yes, ma'am."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0334">
+"You may attack wherever you want, but don't
+ aim for the face. 
+ Focus on the targets."
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA1027">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:136E
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0335">
+"Think of stabbing and pulling back as a fluid
+ series of actions."
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA1028">
+"Yes, ma'am."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA0337">
+"Do not just thrust and hold it.
+ Never let your guard down."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA1029">
+"Okay."
+#
+<removesprite -1 11>
+<exit>
+:1522
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0342">
+"All you need to do is move the weapons in a
+ complex dance. That will allow you to attack
+ while also disrupting your opponent."
+#
+<removesprite -1 11>
+<sprite "ta01d32.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1030">
+"T-That looks hard."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0339">
+"You can do it.
+ You'll get used to it."
+#
+<removesprite -1 11>
+<exit>
+:16A4
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1031">
+"Yah! Hya!"
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a65.iph" 6 4 11>
+<name "Soshiette" "!DA0340">
+"Miss Celes, when you're holding a weapon,
+ forget that you're a woman."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA1032">
+"Huh?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0341">
+"To be clear, I mean to not be shy."
+#
+<sprite "ta01d42.iph" 2 5 12>
+<name "Celes" "!AA1033">
+"I-I'm sorry.
+ I'll try."
+#
+<removesprite -1 11>
+<exit>
+:18AD
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1034">
+"Yah!"
+#
+<removesprite -1 11>
+She swings the axe down and splits the training
+dummy in half.
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0343">
+"There's enough force, but she's too light and
+ lacks the weight she needs."
+#
+<name "Lazlocke">
+"She's not big enough?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0344">
+"Yes. She must put on weight.
+ Could you surreptitiously increase how much
+ you're feeding her?"
+#
+<name "Lazlocke">
+"No way. She'd kill me if she found out."
+#
+<removesprite -1 11>
+<exit>
+:1AEF
+<music 25>
+<background "bg004a0.iph" 11>
+I watch a scarecrow be obliterated right before
+my eyes.
+#
+<name "Lazlocke">
+"With all that power, I don't need to worry 
+ about firewood, but..."
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0345">
+"It's important to use human-shaped dummies."
+#
+<removesprite -1 11>
+<exit>
+:1C0E
+<music 25>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  10 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1C9C: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1039">
+"I'll do my best."
+#
+<removesprite -1 11>
+\x2B
+:1C9C
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1D04: 
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1040">
+"Swing.ÅÙ Swing.ÅÙ"
+#
+<removesprite -1 11>
+\x2B
+:1D04
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1D72: 
+<sprite "ta01d02.iph" 4 4 11>
+<name "Celes" "!AA1041">
+"I have to get better with weapons."
+#
+<removesprite -1 11>
+\x2B
+:1D72
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1DD6: 
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1042">
+"I need to practice."
+#
+<removesprite -1 11>
+\x2B
+:1DD6
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1E38: 
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1043">
+"Training time.ÅÙ"
+#
+<removesprite -1 11>
+\x2B
+:1E38
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1E9E: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1044">
+"Beginning weapon training."
+#
+<removesprite -1 11>
+\x2B
+:1E9E
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :1F0A: 
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0346">
+"Work hard."
+#
+<removesprite -1 11>
+\x2B
+:1F0A
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :1F80: 
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0347">
+"Work hard with your weapons training."
+#
+<removesprite -1 11>
+\x2B
+:1F80
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :1FFC: 
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0348">
+"I'll join you for your weapons practice."
+#
+<removesprite -1 11>
+\x2B
+:1FFC
+\x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :2070: 
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0349">
+"Try various things."
+#
+<removesprite -1 11>
+:2070 + 1
+<exit>
+\x78

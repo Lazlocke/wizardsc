@@ -1,0 +1,511 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x02\xDA\x84\x00\x01\x0E :27: \x16 :302: \x0A\x04\x02\xDA\x84\x01\x15 :29A: 
+:27
+\xE9 2010 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :54: \x15 :28E: 
+:54
+\x1A\x01\x07\x04\x02\xDB\x84\x00\x01\x0E :7E: \xE6 "a1500" \x00\x16 :4BF: \x0A\x04\x02\xDB\x84\x01\x15 :29A: 
+:7E
+\x1A\x01\x07\x04\x02\xDE\x84\x00\x01\x0E :A8: \xE6 "a1501" \x00\x16 :83E: \x0A\x04\x02\xDE\x84\x01\x15 :29A: 
+:A8
+\x1A\x01\x07\x04\x02\xE1\x84\x00\x01\x0E :D2: \xE6 "a1502" \x00\x16 :DBD: \x0A\x04\x02\xE1\x84\x01\x15 :29A: 
+:D2
+\x1A\x01\x07\x04\x02\xDC\x84\x00\x01\x0E :FC: \xE6 "a1500" \x00\x16 :61D: \x0A\x04\x02\xDC\x84\x01\x15 :29A: 
+:FC
+\x1A\x01\x07\x04\x02\xDF\x84\x00\x01\x0E :126: \xE6 "a1501" \x00\x16 :A3C: \x0A\x04\x02\xDF\x84\x01\x15 :29A: 
+:126
+\x1A\x01\x07\x04\x02\xE2\x84\x00\x01\x0E :150: \xE6 "a1502" \x00\x16 :F37: \x0A\x04\x02\xE2\x84\x01\x15 :29A: 
+:150
+\x1A\x01\x07\x04\x02\xDD\x84\x00\x01\x0E :17A: \xE6 "a1500" \x00\x16 :71F: \x0A\x04\x02\xDD\x84\x01\x15 :29A: 
+:17A
+\x1A\x01\x07\x04\x02\xE0\x84\x00\x01\x0E :1A4: \xE6 "a1501" \x00\x16 :C08: \x0A\x04\x02\xE0\x84\x01\x15 :29A: 
+:1A4
+\x1A\x01\x07\x04\x02\xE3\x84\x00\x01\x0E :1CE: \xE6 "a1502" \x00\x16 :1113: \x0A\x04\x02\xE3\x84\x01\x15 :29A: 
+:1CE
+\x1A\x01\x07\x04\x02\xE4\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :1FE: \x16 :11F4: \x0A\x04\x02\xE4\x84\x01\x15 :29A: 
+:1FE
+\x1A\x01\x07\x04\x02\xE5\x84\x00\x01\x0E :22E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :22E: \x16 :1440: \x0A\x04\x02\xE5\x84\x01\x15 :29A: 
+:22E
+\x1A\x01\x07\x04\x02\xE6\x84\x00\x01\x0E :25E: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :25E: \x16 :1774: \x0A\x04\x02\xE6\x84\x01\x15 :29A: 
+:25E
+\x1A\x01\x07\x04\x02\xE7\x84\x00\x01\x0E :28E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :28E: \x16 :1B43: \x0A\x04\x02\xE7\x84\x01\x15 :29A: 
+:28E
+\x16 :1E9E: \x15 :29A: 
+:29A
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :301: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2EC: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :301: 
+:2EC
+<background "ev008a0.iph" 11>
+\x2B
+:301
+\x78
+:302
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「光を知りたければ、闇を。
+　闇を知りたければ、光を学べと昔から言われる」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1710">
+「二つの属性が密接な関係にあるからですね」
+#
+<name "Lazlocke">
+「そうだ。
+　表裏一体……
+　しかし、だからこそ同時に使うのは至難の技。
+　光と闇の双方に、高い熟練度が必要となる」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1711">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:4BF
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「セリス、お茶でも飲むか？」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1712">
+「はい。
+　この練習が終ったら……」
+#
+<name "Lazlocke">
+「冷めないウチにな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1713">
+「頑張ります」
+#
+<removesprite -1 11>
+　そう言いながら、お茶が冷めても練習を続けるセ
+　リスだった。
+#
+<exit>
+:61D
+<music 26>
+<background "bg002a0.iph" 11>
+　セリスは光と闇の魔法の練習をしていた。
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA1714">
+「光と闇……
+　闇と光……
+　むう……」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA1715">
+「目がチカチカしてきた」
+#
+<removesprite -1 11>
+<exit>
+:71F
+<music 10>
+<background "bg002a0.iph" 11>
+\x2B
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0421">
+「闇と光の魔法は難しいですが、魔法使いの心髄で
+　もあります。
+　頑張ってください」
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA1716">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:83E
+<music 26>
+<background "bg002a0.iph" 11>
+　セリスは光と闇の魔法の練習を、黙々としていた。
+#
+<sprite "ta04a08.iph" 4 4 11>
+<name "Soshiette" "!DA0422">
+「セリスさん。
+　休憩しませんか？」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta04a08.iph" 6 4 11>
+<name "Celes" "!AA1717">
+「休憩ですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0423">
+「はい。
+　根を詰めても、良い成果はでません。
+　適度な休憩は、効率を上げます」
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA1718">
+「わ、わかりました」
+#
+<removesprite -1 11>
+<exit>
+:A3C
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0424">
+「光の玉は、こんな感じです。
+　そして闇の玉は……」
+#
+<name "Lazlocke">
+「こうだ」
+#
+<removesprite -1 11>
+<sprite "ta01a88.iph" 4 4 11>
+<name "Celes" "!AA1726">
+「むう……頑張ります」
+#
+　……
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0425">
+「助かりました、ご主人様」
+#
+<removesprite -1 11>
+　ソシエットは、同時に光と闇の魔法を操るのが苦
+　手だ。
+#
+<name "Lazlocke">
+「見栄は大事だからな」
+#
+<exit>
+:C08
+<music 26>
+<background "bg002a0.iph" 11>
+　セリスは光と闇の魔法の練習を、黙々としていた。
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA1720">
+「むむ……難しい」
+#
+<name "Lazlocke">
+「アドバイスをしようか？」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA1721">
+「いえ、もう少し後でお願いします」
+#
+<name "Lazlocke">
+「よし、頑張れ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1722">
+「はい」
+#
+<removesprite -1 11>
+　二時間後、アドバイスを求めにやってきた。
+#
+<exit>
+:DBD
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA1723">
+「光と闇をあやつるー！」
+#
+<removesprite -1 11>
+　セリスは気合を入れて叫んだ。
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA1724">
+「あれ？」
+#
+<removesprite -1 11>
+　叫んだだけだった。
+#
+<name "Lazlocke">
+「うーん、頑張るように」
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA1725">
+「む、難しい……」
+#
+<removesprite -1 11>
+<exit>
+:F37
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1727">
+「どうですか？」
+#
+<removesprite -1 11>
+　セリスは光と闇の魔法を使い、自分をアピールし
+　ていた。
+#
+<name "Lazlocke">
+「悪くは無いが……」
+#
+<sprite "ta01a17.iph" 4 4 11>
+<name "Celes" "!AA1728">
+「これでは？」
+#
+<removesprite -1 11>
+　セリスは光に色を混ぜた。
+#
+　ピンク色だ。
+#
+<name "Lazlocke">
+「おおっ……
+　艶かしい雰囲気になるな」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1729">
+「発見です」
+#
+<removesprite -1 11>
+<exit>
+:1113
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1730">
+「暗い時は光の魔法が便利ですけど、明るい時に闇
+　の魔法が便利な事ってありますか？」
+#
+<name "Lazlocke">
+「うーん……眩しくないとか」
+#
+<removesprite -1 11>
+<exit>
+:11F4
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta05a05.iph" 4 4 11>
+<name "ルーン" "!EA0102">
+「闇と光の魔法と言えば、この私ね！」
+#
+<name "Lazlocke">
+「……帰ってください」
+#
+<sprite "ta05a23.iph" 4 4 12>
+<name "ルーン" "!EA0103">
+「ええっ！」
+#
+<name "Lazlocke">
+「協会長をこんな所で働かせたら、ソシエットを含
+　め、協会関係者から何を言われるか……」
+#
+<sprite "ta05a12.iph" 4 4 12>
+<name "ルーン" "!EA0104">
+「協会長じゃなくて、師匠って呼んで」
+#
+<name "Lazlocke">
+「はいはい。
+　師匠。
+　逃避してないで、職務に戻ってください」
+#
+<sprite "ta05a20.iph" 4 4 12>
+<name "ルーン" "!EA0105">
+「ううう……冷たい」
+#
+<removesprite -1 11>
+<exit>
+:1440
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA1731">
+「師匠。
+　闇と光の魔法は、協会長が一番だと聞いたんです
+　けど、本当ですか？」
+#
+<name "Lazlocke">
+「ああ、かなりの腕だぞ。
+　ただ……一番かと言われたら、疑問だな」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1732">
+「そうなんですか？」
+#
+<name "Lazlocke">
+「ヴィオラが居るからな。
+　他にも、何人か居る」
+#
+<name "Lazlocke">
+「でも、協会長の凄さはそこじゃない」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1733">
+「と言いますと？」
+#
+<name "Lazlocke">
+「組織運営に関しては、歴代の協会長の中では一番
+　だろうな」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1734">
+「なるほど……」
+#
+<name "Lazlocke">
+「協会長にあったら、魔法じゃなくて組織運営に関
+　して教えて貰え」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA1735">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1774
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta05a08.iph" 4 4 11>
+<name "ルーン" "!EA0107">
+「セリスに、私からは魔法じゃなくて組織運営を学
+　ぶように言ったって本当？」
+#
+<name "Lazlocke">
+「ええ」
+#
+<sprite "ta05a16.iph" 4 4 12>
+<name "ルーン" "!EA0108">
+「私は、貴方の、魔法の、師匠、なんだけど？」
+#
+<name "Lazlocke">
+「師匠の魔法の技術の凄さは、理解しています。
+　しているからこそ、教えて貰っては困るのです」
+#
+<sprite "ta05a15.iph" 4 4 12>
+<name "ルーン" "!EA0109">
+「なぜ？」
+#
+<name "Lazlocke">
+「高度過ぎる技を学んでも、使いこなすまでに時間
+　が掛かりますし、場合によっては有害になります
+　から」
+#
+<sprite "ta05a20.iph" 4 4 12>
+<name "ルーン" "!EA0110">
+「む、むう……」
+#
+<name "Lazlocke">
+「セリスを心配してくれるのは嬉しいですが、見守っ
+　てください」
+#
+<sprite "ta05a23.iph" 4 4 12>
+<name "ルーン" "!EA0111">
+「わかったわよ。
+　でも、向こうから言って来た時は構わないでしょ」
+#
+<name "Lazlocke">
+「その場合のみ、許可します」
+#
+<sprite "ta05a13.iph" 4 4 12>
+<name "ルーン" "!EA0112">
+「やったー」
+#
+<removesprite -1 11>
+<exit>
+:1B43
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0189">
+「闇と光の魔法練習……
+　なかなか、頑張っているわね」
+#
+<name "Lazlocke">
+「ああ」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0190">
+「でも、良いの？
+　魔法を始めて数年でやるには、難度が高いと思う
+　けど」
+#
+<name "Lazlocke">
+「クデュール魔法大会で優勝を狙うなら、それぐら
+　いしないとな」
+#
+<name "Lazlocke">
+「それに、お前はもっと早くにやっていたぞ」
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0191">
+「あら、そうだったかしら？」
+#
+<name "Lazlocke">
+「ああ……
+　セリスはお前ほど天才じゃないが、努力面ではお
+　前に劣らない」
+#
+<sprite "ta03a18.iph" 4 4 12>
+<name "Viola" "!BA0192">
+「へぇ……」
+#
+<name "Lazlocke">
+「睨むな」
+#
+<sprite "ta03a31.iph" 4 4 12>
+<name "Viola" "!BA0194">
+「だって……」
+#
+<removesprite -1 11>
+　俺は拗ねたヴィオラを宥めつつ、セリスの修行を
+　見守った。
+#
+<exit>
+:1E9E
+<music 10>
+<background "bg002a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1F3E: 
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA1739">
+「光と闇を同時に練習って、難しい」
+#
+<removesprite -1 11>
+\x2B
+:1F3E
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1FB6: 
+<sprite "ta01a89.iph" 4 4 11>
+<name "Celes" "!AA1740">
+「光と闇の魔法に関して、勉強します」
+#
+<removesprite -1 11>
+\x2B
+:1FB6
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :203B: 
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA1741">
+「わかりました。
+　光と闇の魔法の勉強をします」
+#
+<removesprite -1 11>
+\x2B
+:203B
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :20B9: 
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA1742">
+「光と闇って……扱い難い……けど頑張る！」
+#
+<removesprite -1 11>
+\x2B
+:20B9
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :212D: 
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA1743">
+「光と闇って反発しそうですよね」
+#
+<removesprite -1 11>
+\x2B
+:212D
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :21A3: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1744">
+「光と闇を極めれば、無敵ですよね」
+#
+<removesprite -1 11>
+:21A3 + 1
+<exit>
+\x78

@@ -1,0 +1,542 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x02\x58\x84\x00\x01\x0E :27: \x16 :323: \x0A\x04\x02\x58\x84\x01\x15 :2BB: 
+:27
+\xE9 2004 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :54: \x15 :2AF: 
+:54
+\x1A\x01\x07\x04\x02\x59\x84\x00\x01\x0E :7E: \xE6 "a0900" \x00\x16 :4B8: \x0A\x04\x02\x59\x84\x01\x15 :2BB: 
+:7E
+\x1A\x01\x07\x04\x02\x5C\x84\x00\x01\x0E :A8: \xE6 "a0901" \x00\x16 :960: \x0A\x04\x02\x5C\x84\x01\x15 :2BB: 
+:A8
+\x1A\x01\x07\x04\x02\x5F\x84\x00\x01\x0E :D2: \xE6 "a0902" \x00\x16 :EB9: \x0A\x04\x02\x5F\x84\x01\x15 :2BB: 
+:D2
+\x1A\x01\x07\x04\x02\x62\x84\x00\x01\x0E :FC: \xE6 "a0903" \x00\x16 :1556: \x0A\x04\x02\x62\x84\x01\x15 :2BB: 
+:FC
+\x1A\x01\x07\x04\x02\x5A\x84\x00\x01\x0E :126: \xE6 "a0900" \x00\x16 :62A: \x0A\x04\x02\x5A\x84\x01\x15 :2BB: 
+:126
+\x1A\x01\x07\x04\x02\x5D\x84\x00\x01\x0E :150: \xE6 "a0901" \x00\x16 :B85: \x0A\x04\x02\x5D\x84\x01\x15 :2BB: 
+:150
+\x1A\x01\x07\x04\x02\x60\x84\x00\x01\x0E :17A: \xE6 "a0902" \x00\x16 :130F: \x0A\x04\x02\x60\x84\x01\x15 :2BB: 
+:17A
+\x1A\x01\x07\x04\x02\x63\x84\x00\x01\x0E :1A4: \xE6 "a0903" \x00\x16 :1650: \x0A\x04\x02\x63\x84\x01\x15 :2BB: 
+:1A4
+\x1A\x01\x07\x04\x02\x5B\x84\x00\x01\x0E :1CE: \xE6 "a0900" \x00\x16 :730: \x0A\x04\x02\x5B\x84\x01\x15 :2BB: 
+:1CE
+\x1A\x01\x07\x04\x02\x5E\x84\x00\x01\x0E :1F8: \xE6 "a0901" \x00\x16 :CB7: \x0A\x04\x02\x5E\x84\x01\x15 :2BB: 
+:1F8
+\x1A\x01\x07\x04\x02\x61\x84\x00\x01\x0E :222: \xE6 "a0902" \x00\x16 :13F7: \x0A\x04\x02\x61\x84\x01\x15 :2BB: 
+:222
+\x1A\x01\x07\x04\x02\x64\x84\x00\x01\x0E :24C: \xE6 "a0903" \x00\x16 :1881: \x0A\x04\x02\x64\x84\x01\x15 :2BB: 
+:24C
+\x1A\x01\x07\x04\x02\x65\x84\x00\x01\x0E :26D: \x16 :1DE7: \x0A\x04\x02\x65\x84\x01\x15 :2BB: 
+:26D
+\x1A\x01\x07\x04\x02\x66\x84\x00\x01\x0E :28E: \x16 :1F8A: \x0A\x04\x02\x66\x84\x01\x15 :2BB: 
+:28E
+\x1A\x01\x07\x04\x02\x67\x84\x00\x01\x0E :2AF: \x16 :20D1: \x0A\x04\x02\x67\x84\x01\x15 :2BB: 
+:2AF
+\x16 :230A: \x15 :2BB: 
+:2BB
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :322: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :30D: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :322: 
+:30D
+<background "ev008a0.iph" 11>
+\x2B
+:322
+\x78
+:323
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「土の魔法は、広範囲の攻撃が多いが、飛んでいる
+　者には効果が無い場合が多い。
+　使う時は注意するように」
+#
+<name "Lazlocke">
+「それと、土の魔法は攻撃よりも回復や防御の方が
+　優れている。
+　メインにするには頼りないかもしれないが、覚え
+　ておいて損の無い系統だ」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1398">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:4B8
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「土の魔法の地震は、本物の地震とは違う。
+　擬似的に地面を揺らしているだけだ」
+#
+<name "Lazlocke">
+「だから、地震の魔法を使っても効果範囲外には一
+　切影響が無い。
+　何が言いたいかわかるか？」
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1399">
+「遠慮無く練習しろ……ですか？」
+#
+<name "Lazlocke">
+「その通りだ」
+#
+<removesprite -1 11>
+<exit>
+:62A
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA1400">
+「地震を起こす！
+　……うわわわわっ！」
+#
+<name "Lazlocke">
+「自分の居る場所まで揺らしてどうする」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1401">
+「す、すみません」
+#
+<removesprite -1 11>
+<exit>
+:730
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1402">
+「土の魔法の地震って、どれぐらい地下まで揺らし
+　ているんですか？」
+#
+<name "Lazlocke">
+「数センチ。
+　ベテランで、一メートルぐらいだな」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1403">
+「そうなんですか？
+　意外と狭い範囲なんですね」
+#
+<name "Lazlocke">
+「そうだな。
+　でもまあ、本物の擬似再現だし、あまり深くまで
+　効果を発揮しても意味が無いだろうから……
+　これぐらいで十分じゃないか？」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1404">
+「そうですね」
+#
+<removesprite -1 11>
+<exit>
+:960
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「土壁を生み出す練習だ。
+　地面に土を召喚し、形作る」
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1405">
+「土を召喚するんですか？」
+#
+<name "Lazlocke">
+「そうしないと、土の無い所では使えなくなる。
+　クデュール魔法大会の決勝は、石畳の特設会場だ
+　ぞ」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1406">
+「あ、そうか……」
+#
+<name "Lazlocke">
+「多少、難度は上がるが頑張るように。
+　覚えれば、どこでだって作る事ができるからな」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1407">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:B85
+<music 26>
+<background "bg004a0.iph" 11>
+　セリスは土壁を生み出す練習をしていた。
+#
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA1408">
+「んー……えい！
+　きゃぁぁぁ！」
+#
+<removesprite -1 11>
+　セリスは自分の足元に土壁を作り、土に埋もれた。
+#
+<sprite "ta01d42.iph" 4 4 11>
+<name "Celes" "!AA1409">
+「あうう……」
+#
+<removesprite -1 11>
+<exit>
+:CB7
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1410">
+「土壁を自分の足元に召喚して、高い場所に登るの
+　はどうでしょう？」
+#
+<name "Lazlocke">
+「やってみたまえ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1411">
+「はい」
+#
+<removesprite -1 11>
+　セリスは自分の召喚した土壁に埋もれた。
+#
+<name "Lazlocke">
+「土壁が出来る最中は弱い土だから、それに乗って
+　上に登ったりするのは無理だぞ」
+#
+<sprite "ta01d37.iph" 4 4 11>
+<name "Celes" "!AA1412">
+「あうう……早く言ってくれれば良いのに……」
+#
+<removesprite -1 11>
+<exit>
+:EB9
+<music 26>
+<background "bg004a0.iph" 11>
+　治癒魔法。
+#
+　魔法によって対象者本人の治癒力を刺激し、増加
+　させて治癒する方法と、魔力を生命力に変換し、
+　治癒する方法とがある。
+#
+　どちらも一長一短だが、死者を蘇らせる事は不可
+　能だ。
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1413">
+「死者蘇生はできないんですか？」
+#
+<name "Lazlocke">
+「死体を動かす事や、死体を元に別の生命を生み出
+　す事は可能かもしれないが、死んだ者を生き返ら
+　せる事はできない。
+　魔法の限界だ」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1414">
+「そうなんですか……」
+#
+<name "Lazlocke">
+「哀しみは理解するが、死んだ者を生き返らせよう
+　とする時点で、おこがましい」
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA1415">
+「でも、伝説や本では何度も、死んだ者を生き返ら
+　せたと言う事がありますが……」
+#
+<name "Lazlocke">
+「死んでいなかったか、嘘八百だ。
+　天界の住人も、魔界の住人も、竜も、死に難いだ
+　けで、死んだら生き返らない」
+#
+<name "Lazlocke">
+「それでも、生き返るなら、もう神様の領域だ。
+　魔法がどうとかじゃない。
+　よく覚えておくように」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1416">
+「わかりました」
+#
+<removesprite -1 11>
+<exit>
+:130F
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「植物に治癒魔法を使い、花を咲かせる」
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1417">
+「はい。
+　これができれば、花屋さんが大助かりですね」
+#
+<name "Lazlocke">
+「……」
+#
+<removesprite -1 11>
+<exit>
+:13F7
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1418">
+「治癒魔法って、土よりも光ってイメージがあった
+　んですけど、違うんですね」
+#
+<name "Lazlocke">
+「大地が生命を育む……と言う考えで研究されたか
+　らな」
+#
+<name "Lazlocke">
+「他にも、水や光で治癒魔法の研究はされたが、土
+　の魔法系統が一番効率が良かったんだ」
+#
+<removesprite -1 11>
+<exit>
+:1556
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「土の魔法系統には、行動を補助するものが多い。
+　土の魔法を使うなら、これらも使いこなせないと
+　勿体無いぞ」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1419">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:1650
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1420">
+「自分を……強化！
+　…………ぷはぁっ」
+#
+<name "Lazlocke">
+「土の魔法による強化か……
+　持続できないと、意味が無いぞ」
+#
+<sprite "ta01d34.iph" 4 4 12>
+<name "Celes" "!AA1421">
+「はい。
+　でも、苦しくて……」
+#
+<name "Lazlocke">
+「最終的には、それをやりながら戦うんだ」
+#
+<sprite "ta01d37.iph" 4 4 12>
+<name "Celes" "!AA1422">
+「これをしながら……戦闘」
+#
+<name "Lazlocke">
+「気を遠くしている暇は無い。
+　練習再開」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1423">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:1881
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「土の魔法！」
+#
+　俺は土の魔法を使って見せた。
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1424">
+「あの……何をしたんですか？」
+#
+<name "Lazlocke">
+「俺の腹を殴ってみろ」
+#
+<sprite "ta01d10.iph" 4 4 12>
+<name "Celes" "!AA1425">
+「え、良いんですか？」
+#
+<name "Lazlocke">
+「構わない」
+#
+<sprite "ta01d21.iph" 4 4 12>
+<name "Celes" "!AA1426">
+「では……せいっ！」
+#
+\x1A\x01\x0A\x02\x00\x8D 1000 \x01\x14 :1B09: 
+<name "Lazlocke">
+「……効いていない」
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1427">
+「え、あ……」
+#
+<name "Lazlocke">
+「魔法での肉体強化だ」
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA1428">
+「す、凄い……
+　頑張ります」
+#
+\x18 :1DD9: 
+:1B09
+<name "Lazlocke">
+「うごおおおおおおおおおおおっ！」
+#
+<removesprite -1 11>
+　俺の腹に突き刺さったセリスの拳に、俺は悶絶し
+　て転がった。
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1429">
+「だ、大丈夫ですか？」
+#
+<name "Lazlocke">
+「だ、大丈夫……大丈夫だ」
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1430">
+「膝が笑ってますけど……」
+#
+<name "Lazlocke">
+「気にするな。
+　魔法による肉体強化で、お前の殺人パンチを喰らっ
+　ても生き残る事が出来た」
+#
+<sprite "ta01d32.iph" 4 4 12>
+<name "Celes" "!AA1431">
+「殺人パンチって……」
+#
+<name "Lazlocke">
+「強化していなかったらと、青くなるが……
+　土の魔法の補助系は、役に立つ。
+　頑張れ」
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA1432">
+「確かに……すぐに立てたのは凄いと思います」
+#
+:1DD9
+<removesprite -1 11>
+<exit>
+:1DE7
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1433">
+「土の魔法って、地味ですよね」
+#
+<name "Lazlocke">
+「まあ、派手さには欠けるな。
+　しかし、派手さで魔法を使うわけじゃないだろ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1434">
+「はい。
+　実利一辺倒です」
+#
+<name "Lazlocke">
+「では、土の魔法は最適だ。
+　頑張れ」
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA1435">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1F8A
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1442">
+「治癒魔法で回復しながら、延々と訓練できません
+　か？」
+#
+<name "Lazlocke">
+「自分の治癒力を高めているだけだから、戦闘中な
+　らともかく訓練に使うのは良い方法じゃない」
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA1437">
+「なるほど」
+#
+<removesprite -1 11>
+<exit>
+:20D1
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d90.iph" 4 4 11>
+<name "Celes" "!AA1438">
+「へいへいへい……」
+#
+<name "Lazlocke">
+「なにをやっているんだ？」
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA1439">
+「土の魔法はこうすれば上達すると本に書いてあり
+　まして……」
+#
+<name "Lazlocke">
+「土に塗れてダンスか？」
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA1440">
+「土と一体化する儀式です」
+#
+<name "Lazlocke">
+「土を知るのは悪い事じゃないが……
+　すっごく古い技法で、あまり意味は無いぞ」
+#
+<sprite "ta01d10.iph" 4 4 12>
+<name "Celes" "!AA1441">
+「そ、そうなんですか？」
+#
+<removesprite -1 11>
+<exit>
+:230A
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :23BA: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1448">
+「土の魔法って、スケールが大きい感じがしますよね」
+#
+<removesprite -1 11>
+\x2B
+:23BA
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :244D: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1449">
+「土の魔法って、回復系や強化系の魔法が充実して
+　いますよね」
+#
+<removesprite -1 11>
+\x2B
+:244D
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :24C5: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1450">
+「土の魔法って渋い感じがしますよね」
+#
+<removesprite -1 11>
+\x2B
+:24C5
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :254A: 
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA1451">
+「意外と使える土の魔法。
+　頑張って練習しよう」
+#
+<removesprite -1 11>
+:254A + 1
+<exit>
+\x78

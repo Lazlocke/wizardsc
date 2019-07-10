@@ -1,0 +1,25 @@
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"This is my apprentice!"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0231">
+"P-Pleased to meet you."
+#
+<removesprite -1 11>
+<sprite "ta04a25.iph" 4 4 11>
+<name "Soshiette" "!DA0090">
+"I'm aware. How many times have we gone through
+ this now?
+ Enjoying yourself, aren't you?"
+#
+<name "Lazlocke">
+"Huh? Does it seem like it?"
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0091">
+"Quite."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,506 @@
+\x1A\x01\x07\x04\x09\xC4\x84\x00\x01\x0E :6C: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :6C: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :6C: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :6C: \x1A\x01\x0A\x02\x01\xA5 20 \x01\x15 :6C: \x16 :66D: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xC4\x84\x01\x15 :66C: 
+:6C
+\x1A\x01\x07\x04\x09\xC5\x84\x00\x01\x0E :E7: \x1A\x01\x07\x04\x09\xC4\x84\x01\x01\x0E :E7: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :E7: \x1A\x01\x0A\x02\x01\xA4 20 \x01\x15 :E7: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :E7: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :E7: \x16 :6EB: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xC5\x84\x01\x15 :66C: 
+:E7
+\x1A\x01\x07\x04\x09\xC6\x84\x00\x01\x0E :141: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :141: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :141: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :141: \x16 :757: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xC6\x84\x01\x15 :66C: 
+:141
+\x1A\x01\x07\x04\x09\xC8\x84\x00\x01\x0E :198: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :198: \x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :198: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :198: \x16 :902: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xC8\x84\x01\x15 :66C: 
+:198
+\x1A\x01\x07\x04\x09\xC9\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :1FE: \xB5 "タペストリー" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x00\x01\x0E :1FE: \x16 :DCA: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xC9\x84\x01\x15 :66C: 
+:1FE
+\x1A\x01\x07\x04\x09\xCA\x84\x00\x01\x0E :267: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :267: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :267: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :267: \x1A\x01\x07\x04\x01
+<exit>
+\x84\x01\x01\x0E :267: \x16 :FE4: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xCA\x84\x01\x15 :66C: 
+:267
+\x1A\x01\x07\x04\x09\xCB\x84\x00\x01\x0E :2DF: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :2DF: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :2DF: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :2DF: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :2DF: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :2DF: \x16 :1170: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xCB\x84\x01\x15 :66C: 
+:2DF
+\x1A\x01\x07\x04\x09\xCC\x84\x00\x01\x0E :357: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :357: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :357: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :357: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :357: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :357: \x16 :1293: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xCC\x84\x01\x15 :66C: 
+:357
+\x1A\x01\x07\x04\x09\xCD\x84\x00\x01\x0E :39C: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :39C: \x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :39C: \x16 :1463: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xCD\x84\x01\x15 :66C: 
+:39C
+\x1A\x01\x07\x04\x09\xCE\x84\x00\x01\x0E :3F3: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :3F3: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :3F3: \x1A\x01\x07\x04\x01\x16\x84\x01\x01\x0E :3F3: \x16 :1549: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xCE\x84\x01\x15 :66C: 
+:3F3
+\x1A\x01\x07\x04\x09\xCF\x84\x00\x01\x0E :46E: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :46E: \x1A\x01\x07\x44\x03\x23\x84\x01\x01\x0E :46E: \x1A\x01\x0A\x02\x00\x0C 50 \x01\x15 :46E: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :46E: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :46E: \x16 :1842: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xCF\x84\x01\x15 :66C: 
+:46E
+\x1A\x01\x07\x04\x09\xD0\x84\x00\x01\x0E :4E9: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :4E9: \x1A\x01\x07\x44\x03\x23\x84\x01\x01\x0E :4E9: \x1A\x01\x0A\x02\x00\x0C 100 \x01\x15 :4E9: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x15 :4E9: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :4E9: \x16 :1953: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xD0\x84\x01\x15 :66C: 
+:4E9
+\x1A\x01\x07\x04\x09\xD1\x84\x00\x01\x0E :54F: \x1A\x01\x07\x04\x09\xC7\x84\x01\x01\x0E :54F: \x1A\x01\x07\x44\x03\x23\x84\x01\x01\x0E :54F: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :54F: \x1A\x01\x0A\x02\x01\xA9 20 \x01\x15 :54F: \x16 :1AE1: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xD1\x84\x01\x15 :66C: 
+:54F
+\x1A\x01\x07\x04\x09\xD2\x84\x00\x01\x0E :5B5: \x1A\x01\x07\x04\x09\xC7\x84\x01\x01\x0E :5B5: \x1A\x01\x07\x44\x03\x23\x84\x01\x01\x0E :5B5: \x1A\x01\x07\x04\x00\xCB\x84\x00\x01\x0E :5B5: \x1A\x01\x0A\x02\x01\xA6 20 \x01\x15 :5B5: \x16 :1C0A: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xD2\x84\x01\x15 :66C: 
+:5B5
+\x1A\x01\x07\x04\x09\xD3\x84\x00\x01\x0E :618: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :618: \x1A\x01\x07\x04\x00\xDA\x84\x01\x01\x0E :618: \x1A\x01\x07\x04\x00\xD6\x84\x01\x01\x0E :618: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :618: \x16 :1D33: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xD3\x84\x01\x15 :66C: 
+:618
+\x1A\x01\x07\x04\x09\xD4\x84\x00\x01\x0E :66C: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :66C: \x1A\x01\x07\x04\x00\xDA\x84\x01\x01\x0E :66C: \x1A\x01\x07\x04\x00\xD6\x84\x01\x01\x0E :66C: \x16 :22A1: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xD4\x84\x01\x15 :66C: 
+:66C
+\x78
+:66D
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta05a07.iph" 4 4 11>
+<name "謎の女" "!EA0364">
+「ふふ……楽しくなってきたわね」
+#
+<removesprite -1 11>
+<exit>
+:6EB
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta05a05.iph" 4 4 11>
+<name "謎の女" "!EA0365">
+「覗き、覗き」
+#
+<removesprite -1 11>
+<exit>
+:757
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta05a05.iph" 4 4 11>
+<name "謎の女" "!EA0366">
+「様子見！」
+#
+<removesprite -1 11>
+<sprite "ta04a22.iph" 2 4 11>
+<sprite "ta05a05.iph" 6 5 11>
+<name "Soshiette" "!DA0915">
+「変態のようですが……」
+#
+<sprite "ta05a21.iph" 6 5 12>
+<name "謎の女" "!EA0367">
+「しー、見つかっちゃうじゃないの」
+#
+<removesprite -1 11>
+<exit>
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0916">
+「報告します」
+#
+<removesprite -1 11>
+<exit>
+:902
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0917">
+「イエルさん、頑張っていますね」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<sprite "ta04a63.iph" 4 4 12>
+<name "Soshiette" "!DA0918">
+「セリスさんに立ちはだかる、大きな壁となるでしょ
+　う」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<sprite "ta04a19.iph" 4 4 12>
+<name "Soshiette" "!DA0919">
+「……
+　なぜイエルさんに魔力を？」
+#
+<name "Lazlocke">
+「なんだ、怒っていたのか」
+#
+<sprite "ta04a64.iph" 4 4 12>
+<name "Soshiette" "!DA0920">
+「わざわざ、ぶつかると判っている相手にどうして
+　ですか？」
+#
+<name "Lazlocke">
+「障害は大きい方が良いだろ」
+#
+<sprite "ta04a16.iph" 4 4 12>
+<name "Soshiette" "!DA0921">
+「すでに十分、大きいと思うのですが」
+#
+<name "Lazlocke">
+「まあな。
+　気紛れと思ってくれ」
+#
+<sprite "ta04a15.iph" 4 4 12>
+<name "Soshiette" "!DA0922">
+「気紛れ……ですか」
+#
+<name "Lazlocke">
+「なんだ、その目は？」
+#
+<sprite "ta04a19.iph" 4 4 12>
+<name "Soshiette" "!DA0923">
+「本当の理由は、なんですか？」
+#
+<name "Lazlocke">
+「……ヴィオラに頼まれたからだ」
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0924">
+「相変わらず、ヴィオラ様には弱いのですね」
+#
+<name "Lazlocke">
+「アイツに強いヤツが居るのか？」
+#
+<sprite "ta04a87.iph" 4 4 12>
+<name "Soshiette" "!DA0925">
+「……はぁ」
+#
+<removesprite -1 11>
+<exit>
+:DCA
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta05a07.iph" 4 4 11>
+<name "謎の女性" "!EA0368">
+「プレゼントよ」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta05a07.iph" 6 4 11>
+<name "Celes" "!AA5690">
+「え？」
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "謎の女性" "!EA0369">
+「プレゼントよ」
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA5691">
+「あの、貴女は？」
+#
+<sprite "ta05a11.iph" 6 4 12>
+<name "謎の女性" "!EA0370">
+「気にしないでね。
+　では」
+#
+<removesprite -1 11>
+\x2B\xB5 "タペストリー" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :FE3: \xB4 "タペストリー" \x84\x01
+『セリスは家具“タペストリー”を手に入れた』
+#
+:FE3
+<exit>
+:FE4
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta05a07.iph" 4 4 11>
+<name "謎の女性" "!EA0371">
+「ふふ……やるわね」
+#
+<removesprite -1 11>
+<sprite "ta01a08.iph" 2 5 11>
+<sprite "ta05a07.iph" 6 4 11>
+<name "Celes" "!AA5692">
+「あの、貴女は？」
+#
+<sprite "ta05a11.iph" 6 4 12>
+<name "謎の女性" "!EA0372">
+「気にしちゃ駄目よ」
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA5693">
+「え？
+　あれ？
+　行っちゃった……」
+#
+<removesprite -1 11>
+<exit>
+:1170
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta05a01.iph" 4 4 11>
+<name "謎の女性" "!EA0374">
+「なるほど……」
+#
+<removesprite -1 11>
+<sprite "ta02a01.iph" 4 5 11>
+<name "Elle" "!CA0857">
+「あれ？
+　変な視線を感じたけど……」
+#
+<sprite "ta02a06.iph" 4 5 12>
+<name "Elle" "!CA0858">
+「なんだったんだろ？」
+#
+<removesprite -1 11>
+<exit>
+:1293
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5694">
+「あの人……
+　学園の関係者かな？」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a00.iph" 6 4 11>
+<name "Elle" "!CA0859">
+「誰の事？」
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA5695">
+「あそこに居る人」
+#
+<sprite "ta02a06.iph" 6 4 12>
+<name "Elle" "!CA0860">
+「ん？
+　どこ？」
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA5696">
+「……あれ？
+　居なくなった」
+#
+<removesprite -1 11>
+<exit>
+:1463
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta05a02.iph" 4 4 11>
+<name "謎の女性" "!EA0376">
+「ヴィオラも罪作りね」
+#
+<sprite "ta05a05.iph" 4 4 12>
+<name "謎の女性" "!EA0378">
+「目的の為に手段を選ばない所は、魔法使いらしい
+　けど」
+#
+<removesprite -1 11>
+<exit>
+:1549
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a03.iph" 4 4 11>
+<name "謎の女性" "!EA0379">
+「ほっ！」
+#
+<sprite "ta05a04.iph" 4 4 12>
+<name "謎の女性" "!EA0380">
+「しゃきーん！」
+#
+<sprite "ta05a05.iph" 4 4 12>
+<name "謎の女性" "!EA0381">
+「参上！」
+#
+<removesprite -1 11>
+<sprite "ta04a22.iph" 2 4 11>
+<sprite "ta05a05.iph" 6 5 11>
+<name "Soshiette" "!DA0926">
+「あの、何をしているのですか？」
+#
+<sprite "ta05a10.iph" 6 5 12>
+<name "謎の女性" "!EA0383">
+「登場の時の練習」
+#
+<sprite "ta04a24.iph" 2 4 12>
+<name "Soshiette" "!DA0927">
+「別に、すっと出ていけば良いじゃないですか」
+#
+<sprite "ta05a15.iph" 6 5 12>
+<name "謎の女性" "!EA0384">
+「こういった所に拘らずして、どこに拘るのよ」
+#
+<sprite "ta04a86.iph" 2 4 12>
+<name "Soshiette" "!DA0928">
+「いえ、別にどこにも拘らなければ良いと思います
+　が……」
+#
+<removesprite -1 11>
+<exit>
+:1842
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta05a23.iph" 4 4 11>
+<name "謎の女性" "!EA0385">
+「うわっ、ラズに思いっきり睨まれた」
+#
+<removesprite -1 11>
+<sprite "ta04a23.iph" 2 4 11>
+<sprite "ta05a23.iph" 6 5 11>
+<name "Soshiette" "!DA0929">
+「コソコソしているからですよ。
+　協会長」
+#
+<removesprite -1 11>
+<exit>
+:1953
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a12.iph" 4 4 11>
+<name "謎の女性" "!EA0386">
+「ルンルン♪」
+#
+<removesprite -1 11>
+<sprite "ta04a23.iph" 2 4 11>
+<sprite "ta05a12.iph" 6 5 11>
+<name "Soshiette" "!DA0930">
+「なにを……しているのですか？」
+#
+<sprite "ta05a40.iph" 6 5 12>
+<name "謎の女性" "!EA0387">
+「…………今、見たのは忘れなさい」
+#
+<sprite "ta04a28.iph" 2 4 12>
+<name "Soshiette" "!DA0931">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:1AE1
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta05a06.iph" 4 4 11>
+<name "謎の女性" "!EA0388">
+「楽しそう」
+#
+<removesprite -1 11>
+<sprite "ta04a10.iph" 2 4 11>
+<sprite "ta05a06.iph" 6 5 11>
+<name "Soshiette" "!DA0932">
+「参加されますか？」
+#
+<sprite "ta05a21.iph" 6 5 12>
+<name "謎の女性" "!EA0390">
+「むー……我慢」
+#
+<removesprite -1 11>
+<exit>
+:1C0A
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a01.iph" 4 4 11>
+<name "謎の女性" "!EA0392">
+「ふふ……」
+#
+<removesprite -1 11>
+<sprite "ta04a22.iph" 2 4 11>
+<sprite "ta05a01.iph" 6 5 11>
+<name "Soshiette" "!DA0933">
+「思わせぶりですね」
+#
+<sprite "ta05a12.iph" 6 5 12>
+<name "謎の女性" "!EA0393">
+「狙ってるのよ」
+#
+<removesprite -1 11>
+<exit>
+:1D33
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta04a23.iph" 4 4 11>
+<name "Soshiette" "!DA0906">
+「協会長。
+　ご主人様とヴィオラ様の仲を取り持つのには、何
+　か目的があるのですか？」
+#
+<removesprite -1 11>
+<sprite "ta04a23.iph" 2 4 11>
+<sprite "ta05a01.iph" 6 5 11>
+<name "ルーン" "!EA0332">
+「目的は、ラズの幸せよ」
+#
+<sprite "ta04a24.iph" 2 4 12>
+<name "Soshiette" "!DA0907">
+「ご主人様の幸せ……ですか？」
+#
+<sprite "ta05a04.iph" 6 5 12>
+<name "ルーン" "!EA0333">
+「そうよ。
+　珍しい、男の“魔法使いの花嫁”」
+#
+<sprite "ta05a12.iph" 6 5 12>
+<name "ルーン" "!EA0334">
+「そして、膨大な魔力を体内に取り込めて、それを
+　コントロールしきる事の出来る魔法使い中の魔法
+　使い」
+#
+<sprite "ta05a07.iph" 6 5 12>
+<name "ルーン" "!EA0335">
+「どちらも、一時代に一人居るか居ないかの人材」
+#
+<sprite "ta05a12.iph" 6 5 12>
+<name "ルーン" "!EA0338">
+「それが、私の弟子として二人が揃った事には、意
+　味があると思わない？」
+#
+<sprite "ta04a22.iph" 2 4 12>
+<name "Soshiette" "!DA0908">
+「……そうですね」
+#
+<sprite "ta05a07.iph" 6 5 12>
+<name "ルーン" "!EA0339">
+「ラズとヴィオラは双方が支え合う事ができる」
+#
+<sprite "ta05a12.iph" 6 5 12>
+<name "ルーン" "!EA0340">
+「ううん。
+　支え合って欲しい」
+#
+<sprite "ta05a20.iph" 6 5 12>
+<name "ルーン" "!EA0342">
+「そう思ったのだけど……」
+#
+<sprite "ta05a21.iph" 6 5 12>
+<name "ルーン" "!EA0343">
+「なかなか、上手くいかないものね」
+#
+<sprite "ta04a28.iph" 2 4 12>
+<name "Soshiette" "!DA0909">
+「男女の仲とは、そういうものです」
+#
+<removesprite -1 11>
+<exit>
+:22A1
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0910">
+「協会長は、ご主人様の事を……」
+#
+<removesprite -1 11>
+<sprite "ta04a22.iph" 2 4 11>
+<sprite "ta05a01.iph" 6 5 11>
+<name "ルーン" "!EA0344">
+「もちろん、好きよ」
+#
+<sprite "ta04a24.iph" 2 4 12>
+<name "Soshiette" "!DA0911">
+「では……」
+#
+<sprite "ta05a10.iph" 6 5 12>
+<name "ルーン" "!EA0345">
+「でも、添い遂げるには年の差が問題かな」
+#
+<sprite "ta05a12.iph" 6 5 12>
+<name "ルーン" "!EA0346">
+「協会を大きくしちゃった責任もあるしね」
+#
+<sprite "ta04a24.iph" 2 4 12>
+<name "Soshiette" "!DA0912">
+「協会長……」
+#
+<sprite "ta05a07.iph" 6 5 12>
+<name "ルーン" "!EA0347">
+「若い者は、若い者に任せるとするわ」
+#
+<sprite "ta04a28.iph" 2 4 12>
+<name "Soshiette" "!DA0913">
+「まだまだ、お若いですよ」
+#
+<sprite "ta05a12.iph" 6 5 12>
+<name "ルーン" "!EA0348">
+「……ありがとう」
+#
+<sprite "ta05a15.iph" 6 5 12>
+<name "ルーン" "!EA0349">
+「でも、お肌ピッチピチの貴女に言われると、腹が
+　立つかも」
+#
+<sprite "ta04a29.iph" 2 4 12>
+<name "Soshiette" "!DA0914">
+「あはは……
+　良い食事と、弛まぬ運動の成果です」
+#
+<removesprite -1 11>
+<exit>
+\x78

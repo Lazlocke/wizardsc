@@ -1,0 +1,43 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :60: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :60: \x1A\x01\x0A\x02\x01\x9A 1 \x01\x0E :42: \x16 :82: \x15 :60: 
+:42
+\x1A\x01\x0A\x02\x01\x9A 2 \x01\x0E :60: \x16 :1D1: \x15 :81: 
+:60
+\x1A\x01\x07\x04\x0A\x34\x84\x00\x01\x0E :81: \x6E 1  "ra0100.box" 
+:81
+\x78
+:82
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA3285">
+「試練の塔ですか？」
+#
+<name "Lazlocke">
+「ああ、協会が用意している訓練用の塔だ。
+　一階から登って最上階を目指す」
+#
+<name "Lazlocke">
+「良い訓練になるぞ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3286">
+「わかりました。
+　挑戦してみます」
+#
+<removesprite -1 11>
+<exit>
+:1D1
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「セリス。
+　試練の塔に挑戦してみるか？」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA3287">
+「はい！
+　行って来ます！」
+#
+<removesprite -1 11>
+<exit>
+\x78

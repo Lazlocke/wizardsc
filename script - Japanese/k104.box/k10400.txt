@@ -1,0 +1,303 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x01\xEA\x84\x00\x01\x0E :30: \xE6 "a0401" \x00\x16 :1AC: \x0A\x04\x01\xEA\x84\x01\x15 :17F: 
+:30
+\xE9 1004 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 5 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :5D: \x15 :173: 
+:5D
+\x1A\x01\x07\x04\x01\xEB\x84\x00\x01\x0E :87: \xE6 "a0401" \x00\x16 :324: \x0A\x04\x01\xEB\x84\x01\x15 :17F: 
+:87
+\x1A\x01\x07\x04\x01\xEE\x84\x00\x01\x0E :CB: \xA8 "樽" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 0 \x01\x14 :CB: \xE6 "a0402" \x00\x16 :D38: \x0A\x04\x01\xEE\x84\x01\x15 :17F: 
+:CB
+\x1A\x01\x07\x04\x01\xEC\x84\x00\x01\x0E :F5: \xE6 "a0401" \x00\x16 :4F6: \x0A\x04\x01\xEC\x84\x01\x15 :17F: 
+:F5
+\x1A\x01\x07\x04\x01\xEF\x84\x00\x01\x0E :11F: \xE6 "a0402" \x00\x16 :F9B: \x0A\x04\x01\xEF\x84\x01\x15 :17F: 
+:11F
+\x1A\x01\x07\x04\x01\xED\x84\x00\x01\x0E :149: \xE6 "a0401" \x00\x16 :94A: \x0A\x04\x01\xED\x84\x01\x15 :17F: 
+:149
+\x1A\x01\x07\x04\x01\xF0\x84\x00\x01\x0E :173: \xE6 "a0402" \x00\x16 :112D: \x0A\x04\x01\xF0\x84\x01\x15 :17F: 
+:173
+\x16 :125E: \x15 :17F: 
+:17F
+<music 25>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :1AB: 
+<background "ev010a0.iph" 11>
+\x2B
+:1AB
+\x78
+:1AC
+<music 25>
+<background "bg004a0.iph" 11>
+　セリスがムチを持って、ペチンペチンと振り回し
+　ていた。
+#
+　なかなか上手く扱えないようだ。
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0371">
+「セリスさん。
+　ムチはこう扱います」
+#
+<removesprite -1 11>
+　ソシエットはセリスからムチを借りると、ビシッ
+　ビシッと痛そうな音を立てて振り回した。
+#
+　メイド服とムチが、もの凄く似合っていた。
+#
+<exit>
+:324
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0372">
+「ムチは打撃のほかに絡め取りがあります。
+　相手の武器を奪ったりできるのは、大きな利点で
+　す」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1078">
+「そうですね」
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0373">
+「自由自在に動かせるように、頑張りましょう」
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA1079">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:4F6
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA1080">
+「ムチ……」
+#
+<removesprite -1 11>
+<sprite "ta01d27.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0374">
+「どうしました？」
+#
+<sprite "ta01d36.iph" 2 5 12>
+<name "Celes" "!AA1081">
+「あ、いえ、その……」
+#
+<sprite "ta04a02.iph" 6 4 12>
+<name "Soshiette" "!DA0378">
+「？」
+#
+<sprite "ta01d74.iph" 2 5 12>
+<name "Celes" "!AA1082">
+「師匠の持っていたエロ本に、ムチで叩くプレイが
+　あったので……」
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA0375">
+「そのムチは遊び用のムチです。
+　このムチで叩いたらプレイどころではありません」
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA1083">
+「そうなんですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0376">
+「ええ、このムチで叩かれたら、肌が腫れるのでは
+　なく裂けるのですから」
+#
+<sprite "ta01d37.iph" 2 5 12>
+<name "Celes" "!AA1084">
+「こ、怖い武器ですね」
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0377">
+「ムチはかなり威力のある武器です。
+　熟練すれば剣士とも戦えます。
+　頑張ってください」
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA1085">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:94A
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1086">
+「剣士相手に、ムチって有効なんですか？
+　なんだか斬られてしまいそうで……」
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0379">
+「そうですね。
+　ムチの特性から斬られてしまえば終わりです。
+　特に剣の達人には、ムチでの攻撃は有効的ではな
+　いでしょう」
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA1087">
+「ですよね」
+#
+<sprite "ta04a13.iph" 6 4 12>
+<name "Soshiette" "!DA0380">
+「ですが、それは素人が操るムチの場合です」
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA0381">
+「達人の操るムチは、剣よりも速く、誰にも止めら
+　れません」
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA1088">
+「……」
+#
+<sprite "ta04a19.iph" 6 4 12>
+<name "Soshiette" "!DA0382">
+「そして、ムチの長さを利用して相手の攻撃が届か
+　ない位置から一方的に攻撃できる。
+　ムチほど極めれば怖い武器はありません。
+　頑張ってください」
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA1089">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:D38
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0383">
+「この樽を転がしてください」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Celes" "!AA1090">
+「はい。
+　ころころころ……」
+#
+<removesprite -1 11>
+<name "Lazlocke">
+「あれは何の練習だ？」
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0384">
+「樽の扱い練習と、筋力トレーニングです」
+#
+<name "Lazlocke">
+「そうか。
+　……樽の取り扱い？」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0386">
+「はい」
+#
+<removesprite -1 11>
+　ソシエットは満面の笑みを浮かべ、返事をした。
+#
+　なんだろう。
+#
+　樽の取り扱いって？
+#
+<exit>
+:F9B
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1091">
+「ころころころころ……」
+#
+<removesprite -1 11>
+　セリスは樽を延々と転がしていた。
+#
+　……
+#
+　…………
+#
+<name "Lazlocke">
+「楽しそうだな」
+#
+<sprite "ta04a15.iph" 4 4 11>
+<name "Soshiette" "!DA0387">
+「ご主人様も転がしてみます？」
+#
+<name "Lazlocke">
+「す、少しだけ……」
+#
+<removesprite -1 11>
+　ころころころ……
+#
+　ちょっと、楽しかった。
+#
+<exit>
+:112D
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1094">
+「はっ、はっ、はっ……」
+#
+<removesprite -1 11>
+　セリスは樽を狙った所にピタリと転がす。
+#
+<sprite "ta01d26.iph" 4 4 11>
+<name "Celes" "!AA1093">
+「むう……
+　少しズレた……やり直し」
+#
+<removesprite -1 11>
+　かなり自分に厳しいセリスだった。
+#
+<exit>
+:125E
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :12FA: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1100">
+「この武器を使いこなさないと」
+#
+<removesprite -1 11>
+\x2B
+:12FA
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1362: 
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1101">
+「扱いが難しい……」
+#
+<removesprite -1 11>
+\x2B
+:1362
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :13C6: 
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA1102">
+「頑張るぞー！」
+#
+<removesprite -1 11>
+\x2B
+:13C6
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :142C: 
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1103">
+「頑張らなくちゃ」
+#
+<removesprite -1 11>
+\x2B
+:142C
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1490: 
+<sprite "ta01d17.iph" 4 4 11>
+<name "Celes" "!AA1104">
+「えい、やー♪」
+#
+<removesprite -1 11>
+:1490 + 1
+<exit>
+\x78

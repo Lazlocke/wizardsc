@@ -1,0 +1,1019 @@
+<music 2>
+<background "bg020a0.iph" 10>
+Every single wizard is foolhardy,
+temperamental, eccentric, and just plain
+strange.
+#
+They're twisted, inside and out.
+#
+There's no redeeming them.
+#
+I say that as fact.
+#
+I'm sure of it.
+#
+Because I'm a wizard too.
+#
+<music 11>
+<background "bg009a0.iph" 11>
+<sprite "ta00a00.iph" 4 4 11>
+My name is Lazlocke Althorn.
+#
+I'm a wizard working for the Wizard's Guild.
+#
+Like it or not, I've been a wizard since I was
+a kid. I know enough and am skilled enough to
+turn that into fulfilling Guild jobs for
+money.
+#
+Also, Loria, the town where I am, is the
+base for the Wizard's Guild.
+#
+There's no shortage of work.
+#
+<removesprite -1 11>
+But there is a shortage of money.
+#
+Magic doesn't come cheap.
+#
+You don't need anything to do the simple 
+stuff, but to create new spells, research new
+theories, or put them into practice, that you
+need money for.
+#
+You also need money to eat.
+#
+You could be able to cast the most 
+unbelievable spell imaginable, and you still
+wouldn't be able to buy a single loaf of bread
+without money.
+#
+Years ago, I combed the Guild's library for
+spells to create food, but I couldn't find
+anything.
+#
+I guess nobody ever bothered to spend the 
+effort on something that mundane.
+#
+Actually, it's probably because it's 
+impossible.
+#
+Magic can't do everything.
+#
+Fire is hot, the sky is vast, rivers flow
+downhill.
+#
+It's just the way things are.
+#
+Magic can only do so much.
+#
+But we don't have a good idea what its limits
+actually are.
+#
+It seems to do the impossible.
+#
+It seems like there's limitless potential in
+it.
+#
+That's fascinating.
+#
+Wizards are pathetic creatures enraptured by
+it.
+#
+But, well, I can cry about that as much as I
+want, and it won't do anything about my 
+hunger.
+#
+What a pain.
+#
+I should get home and make something to eat.
+#
+Better get going.
+#
+<music 2>
+<background "bg012a0.iph" 11>
+My house is pretty far from the city proper.
+#
+Normally, it's a carriage ride.
+#
+But I was worrying about money and chose to
+skip the cost.
+#
+Sigh...
+#
+It's a brand new year.
+This is pathetic.
+#
+...As I'm walking, a shrill voice catches my
+ear.
+#
+I look over and see a bunch of young women.
+#
+They're all wearing the same thing. Anybody
+living in this town would recognize it, the
+uniform of Rune Magic Academy.
+#
+Certainly quite fetching, but something's up
+here.
+#
+For a second, it looks like a fight, but 
+that's not it.
+#
+There's one girl in the middle that they're
+all standing around talking about.
+#
+And it's not nice.
+#
+Contempt would be putting it mildly.
+#
+Sheesh. Now what?
+#
+Rune Magic Academy...
+#
+It's one of the schools run by the Guild.
+#
+They bring in people who have a magical talent
+and teach them the basics of wizardry.
+#
+The Guild trains and equips the next
+generation.
+#
+But it also puts the difference of those who
+can use magic and those who can't into stark
+relief.
+#
+Students, especially those who hadn't been
+able to use magic before coming here tend to
+let it go to their heads.
+#
+A lot of them look down on people who can't
+use magic.
+#
+That's probably precisely what I'm seeing
+right now. I make my way over to deal with it.
+#
+But before I get there, they apparently lose
+interest and start walking off.
+#
+When I get there, only the girl they had
+surrounded is left.
+#
+She's just standing there.
+#
+<music 5>
+<background "ev001a0.iph" 10>
+She's covered in a dingy cloak.
+#
+Her beautiful long hair looks completely out
+of place in it.
+#
+For a second, I think she might be the daughter
+of some noble, but then I notice.
+#
+Her face is haggard and exhausted.
+#
+A noble wouldn't be like this.
+#
+But despite her clear fatigue, her eyes are
+bright and strong.
+#
+Hm...
+#
+For starters, I nod to her.
+#
+<name "Lazlocke">
+"I don't know what that was about, but I 
+ apologize for them. If you're upset, tell the
+ Guild about them. I'm sure they'll provide
+ compensation."
+#
+The Guild mainly trains and cares for wizards,
+but it also polices itself.
+#
+It has no qualms about punishing wizards who
+give the rest of us a bad name.
+#
+<name "Girl" "!AA0001">
+"..."
+#
+She tries to say something, but her voice was
+too quiet for me to hear.
+#
+<name "Lazlocke">
+"Hm? What was that?"
+#
+<name "Girl" "!AA0002">
+"Are you... a wizard?"
+#
+<name "Lazlocke">
+"Yeah, a poor one though."
+#
+Technically, I guess I am associated with the
+school.
+#
+<name "Girl" "!AA0003">
+"...Please teach me."
+#
+<name "Lazlocke">
+"Huh? What do you mean?
+ Are you lost?"
+#
+<name "Girl" "!AA0004">
+"Please teach me magic."
+#
+<name "Lazlocke">
+"Magic?"
+#
+It takes my brain a moment to catch up.
+#
+She wants me to teach her magic?
+#
+With Rune Academy right here, I never thought
+I'd hear that.
+#
+<name "Lazlocke">
+"Is this because they were picking on you?
+ You shouldn't bother. It's not as great as you
+ think it is."
+#
+She shakes her head.
+#
+...
+#
+Seems like her mind's made up.
+#
+Hm...
+#
+Well, whatever.
+#
+<name "Lazlocke">
+"If you want to learn magic, go to Rune Magic
+ Academy. It's the same place those people
+ before are from, but they're not all like
+ that."
+#
+<name "Lazlocke">
+"Tuition's expensive, but there are lots of 
+ programs for dealing with that. If you're
+ qualified, you should be able to learn pretty
+ cheaply."
+#
+Yeah, if you want to be a wizard these days,
+your best bet is with Rune.
+#
+They'll teach you the basics and if you want to
+go further, you can join the Guild and research
+whatever you want.
+#
+<name "Lazlocke">
+"They'll be some qualification checks before
+ admitting you, but as long as you can pass
+ those, you can become a wizard."
+#
+Despite saying that, I say a silent apology in
+my head.
+#
+It's just not happening.
+#
+There's multiple conditions for enrolling in
+Rune.
+#
+Two in particular above all others.
+#
+First, whether there's mana in your body.
+#
+Right now, the only way we know to use magic is
+to channel the mana inside yourself.
+#
+In short, without mana, you can't be a wizard.
+#
+There aren't many people with enough mana to be
+able to use magic.
+#
+Less than one in a hundred, I think.
+#
+And there's another big hurdle as well.
+#
+You have to be able to channel mana into your
+body.
+#
+Even if you can use the mana inside you, if you
+can't recover it, then you may as well not be
+able to use magic at all.
+#
+Most people can't easily recover their mana 
+once it's gone.
+#
+Put those together, and only maybe one in a
+thousand can be a wizard.
+#
+And then you have to factor in the intensive
+training, and only a tiny fraction of the 
+population can become wizards.
+#
+I don't think the girl before me can climb such
+a steep mountain.
+#
+<name "Lazlocke">
+"Studying to become a wizard is brutal.
+ I'm not trying to insult you, but you should
+ find something else to do."
+#
+I'm trying to be nice, but her response 
+surprises me.
+#
+<name "Girl" "!AA0005">
+"The school... expelled me."
+#
+<name "Lazlocke">
+"Huh? Expelled you?"
+#
+What?
+#
+They kicked her out?
+#
+As long as she was paying her tuition, I can't
+imagine them expelling anybody.
+#
+Or rather, if you've got the potential to be a
+wizard, I can't see them letting you go no
+matter the cost.
+#
+<name "Girl" "!AA0006">
+"They said I lack potential."
+#
+<name "Lazlocke">
+"Huh?"
+#
+This is getting more confusing.
+#
+Rune teaches magic.
+#
+It takes everyone who enters and turns them 
+into proper wizards.
+#
+That's its sole reason for existence.
+#
+They don't care how much potential you have.
+#
+<name "Lazlocke">
+"Did you cause some kind of major problem?"
+#
+I ask, but I've been around here for a few
+years now.
+#
+I haven't heard of anything all that 
+interesting happening at Rune.
+#
+<name "Girl" "!AA0007">
+"No..."
+#
+<name "Lazlocke">
+"Then why were you expelled?"
+#
+<name "Girl" "!AA0008">
+"I... don't have mana."
+#
+<name "Lazlocke">
+"Huh? Didn't they check for that before they
+ admitted you?"
+#
+Rune will let you stay as long as you keep
+paying your tuition, but they wouldn't let
+someone in who didn't have mana in the first
+place.
+#
+Like I said, you can't use magic at all without
+mana.
+#
+<name "Girl" "!AA0009">
+"The school... made a special exception.
+ They said I could stay there for a month 
+ because there was a chance being somewhere
+ with a lot of mana would change my body."
+#
+<name "Lazlocke">
+"Somewhere with a lot of mana? 
+ Well, I guess, maybe."
+#
+There are very few people with the potential to
+become wizards.
+#
+So for ages, people have been researching ways
+to let anybody, even just regular people, learn
+how to use magic.
+#
+One of the ways is to change your body's
+chemistry by long-term exposure to an area very
+concentrated with mana.
+#
+<name "Girl" "!AA0010">
+"I was allowed there for three months, but...
+ it didn't work."
+#
+<name "Lazlocke">
+"Well, the fastest I've ever heard that working
+ took six months, but being affected by mana
+ that fast drives you mad, to say nothing of
+ what would happen in just a few weeks." 
+#
+Some have succeeded in the past, but almost
+none didn't go crazy.
+#
+And the level of mana at Rune is nowhere even
+close to what it would take.
+#
+I let out a big sigh.
+#
+She asked me to teach her magic.
+#
+But if she doesn't have mana, she can't use
+magic.
+#
+Magic is execution.
+#
+She could read all the books and learn 
+everything, but still not be able to put any of
+it into practice.
+#
+<name "Lazlocke">
+"I'm not sure what your reasons are, but if you
+ don't have mana, you can't become a wizard.
+ It's like a fish dreaming about becoming a
+ bird."
+#
+<background "ev001a1.iph" 11>
+<name "Girl" "!AA0011">
+"..."
+#
+Her eyes well up and she turns away from me.
+#
+<name "Girl" "!AA0012">
+"I'm sorry. 
+ I was asking too much."
+#
+<name "Lazlocke">
+"I'm glad you understand.
+ You shouldn't stay here.
+ Go on home."
+#
+She doesn't respond.
+#
+...
+#
+<music 2>
+<background "bg014a0.iph" 11>
+I turn my back on her and head for home.
+#
+Now then, what should I have for dinner?
+#
+I still have bread, and I can reheat the soup
+I had for lunch...
+Ugh, pathetic.
+#
+Maybe I should buy something nice while I'm
+here and treat myself.
+#
+Market street's right over there.
+#
+Money, though...
+#
+That's the problem. 
+Maybe I can find something cheap.
+#
+I'm not sure how fancy a dinner I can make with
+cheap food though.
+#
+...
+#
+.........
+#
+I stop.
+#
+...
+#
+Her face flickers in my thoughts.
+#
+She was so tired.
+#
+I wonder how long she was standing there.
+#
+It must've been for days.
+#
+But why?
+#
+That street's near the Guild's main building.
+#
+So she was probably there looking for a wizard
+passing by.
+#
+...Despite being mocked by students from the 
+school that threw her out.
+#
+...
+#
+.........
+#
+Another big sigh.
+#
+I turn around and go back.
+#
+Will she still be there?
+#
+Of course she will.
+#
+She must be.
+#
+There's something driving her.
+#
+And I was right.
+#
+<music 5>
+<background "ev001a0.iph" 10>
+<name "Girl" "!AA0014">
+"Oh..."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Girl" "!AA0015">
+"..."
+#
+<name "Lazlocke">
+"You want to become a wizard?"
+#
+<name "Girl" "!AA0016">
+"Yes, sir."
+#
+<name "Lazlocke">
+"What are you prepared to give for it?"
+#
+<name "Girl" "!AA0017">
+"W-Whatever it takes."
+#
+<name "Lazlocke">
+"I see."
+#
+<name "Girl" "!AA0018">
+"..."
+#
+<name "Lazlocke">
+"...Will you be my apprentice?"
+#
+<name "Girl" "!AA0019">
+"Huh?"
+#
+<name "Lazlocke">
+"If you become by apprentice, I can provide you
+ mana and teach you how to use magic."
+#
+<name "Girl" "!AA0020">
+"R-Really!?"
+#
+I have the ability to make this mana-less girl
+a wizard.
+#
+I hate that.
+#
+It's also what makes me who I am.
+#
+It's a constant reminder of how different I am
+from regular people.
+#
+Using it, I could make her a wizard.
+#
+But it's up to her what kind of wizard she'll
+be.
+#
+<name "Girl" "!AA0021">
+"Please! I'm begging you!"
+#
+<name "Lazlocke">
+"Hold on. Don't make a rash decision."
+#
+<name "Girl" "!AA0022">
+"Huh?"
+#
+<name "Lazlocke">
+"I realize you may have been waiting here for a
+ long time, but you can't possibly believe
+ something so perfect would just fall into your
+ lap."
+#
+<name "Girl" "!AA0023">
+"..."
+#
+<name "Lazlocke">
+"There's a price to pay for being my apprentice.
+ Make your decision after I tell you the entire
+ story."
+#
+<name "Girl" "!AA0024">
+"O-Okay."
+#
+<name "Lazlocke">
+"What's your name?"
+#
+<name "Girl" "!AA0028">
+"C-Celestine."
+#
+<name "Lazlocke">
+"That's a mouthful.
+ Will Celes be okay?"
+#
+<name "Celes" "!AA0029">
+"Yes, that's what my friends call me."
+#
+<name "Lazlocke">
+"I'm Lazlocke. I can tell you what you need to
+ know as we walk. 
+ Come along."
+#
+<name "Celes" "!AA0030">
+"Yes, sir!"
+#
+<music 11>
+<background "bg020a0.iph" 11>
+But she doesn't make it very far.
+#
+She takes just a few steps, and then...
+#
+She slumps to the ground, completely wiped out.
+#
+No doubt from exhaustion and lack of sleep.
+#
+...
+#
+This is going to be a pain...
+Well, if she didn't have it in her to push 
+herself to her limits, she was never going to
+be a wizard in the first place.
+#
+<background "bg024a0.iph" 10>
+\x2B\x42
+<video "data1.dat">
+<background "bg024a0.iph" 10>
+<music 2>
+<background "bg012a0.iph" 11>
+What is magic?
+#
+Magic is the process of converting mana into
+power.
+#
+So what is mana?
+#
+Depending on the time and place, it might be
+called divinity, chi, spirit, essence, 
+malevolence, or just plain superpower.  
+Whatever you call it, it's all the same thing.
+#
+It's a power that fills the whole world.
+#
+Countless people live their lives without
+knowing anything about mana.
+#
+As long as it doesn't concentrate too much in
+any place, and nothing causes it to go haywire,
+it's totally harmless.
+#
+It's extremely rare for mana to concentrate 
+like that, so not many people know or care
+about it happening.
+#
+Magic is how you convert mana into something
+useful.
+#
+Those who use magic are what we call wizards.
+#
+Mana can be converted to flame, cause objects
+to float, and all kinds of other useful
+applications.
+#
+But in order to use magic, mana has to be taken
+into your body and captured there.
+#
+The mana inside you can be made to react with
+the mana in the world, and changed into power.
+#
+That's why the ability to store mana inside you
+determines whether or not you can use magic.
+#
+But the truth of the matter is that everybody
+can absorb and store mana inside them.
+#
+It's everywhere and all around us.
+#
+Even a completely regular person will naturally
+absorb a fair amount over their lives.
+#
+The issue is the amount.
+#
+The amount of mana a normal person will absorb
+over their entire life isn't even enough to
+start a campfire.
+#
+To use magic, you need to be able to take in far
+more mana than a regular person, and you need to
+be able to hold onto it.
+#
+Whether or not you can do it is almost entirely
+determined when you're born.
+#
+That's why they call magic an innate talent.
+#
+<music 5>
+<background "bg002a0.iph" 11>
+I carry Celes back to my house and leave her on
+a bed.
+#
+She didn't wake up until the afternoon of the
+next day.
+#
+But she was still too weak to get up.
+#
+It took her three days, including my magical
+treatment, because she was able to move again.
+#
+A full week passed before she had fully
+recovered.
+#
+<background "ev002a0.iph" 10>
+<name "Lazlocke">
+"Are you all right now?"
+#
+<name "Celes" "!AA0031">
+"Y-Yes. Thank you so much for everything.
+ Um, and for the new clothes."
+#
+<name "Lazlocke">
+"If you want to be a wizard, you need to take
+ better care of yourself."
+#
+<name "Celes" "!AA0032">
+"I-I'm sorry.
+ I'll be more careful."
+#
+She sits down on the couch in her new clothes.
+#
+<name "Lazlocke">
+"Now then, let's continue from where you
+ passed out."
+#
+I put a cup of tea down in front of her and
+take a seat.
+#
+<name "Celes" "!AA0033">
+"Y-Yes, sir."
+#
+She asked about this from bed, but I told her to
+wait.
+#
+She needed to concentrate on recovering first
+and foremost.
+#
+<name "Lazlocke">
+"I'm sure you're already aware, but this is
+ my home. I brought you here when you passed
+ out."
+#
+I live on the outskirts of Loria in the
+Queensbell Kingdom.
+#
+<name "Lazlocke">
+"I'm a wizard belonging to the Guild.
+ Lazlocke Althorn."
+#
+<background "ev002b0.iph" 10>
+<background "ev002c0.iph" 10>
+<name "Celes" "!AA0034">
+"C-Celestine.
+ It's an honor."
+#
+She stands up and bows deeply.
+#
+<name "Lazlocke">
+"No need for formalities.
+ If you become my apprentice, I can provide you
+ mana and teach you magic."
+#
+<background "ev002b0.iph" 10>
+<background "ev002a0.iph" 10>
+<name "Celes" "!AA0035">
+"Y-Yes, sir.
+ Thank you very much."
+#
+<name "Lazlocke">
+"But there's a price."
+#
+<name "Celes" "!AA0036">
+"I-I understand.
+ I'll do whatever I need to."
+#
+<name "Lazlocke">
+"I like the spirit.
+ There's just one thing."
+#
+<name "Lazlocke">
+"You will give yourself to me.
+ Do you understand what I mean?"
+#
+<name "Celes" "!AA0037">
+"Huh?"
+#
+She blushes and looks down. 
+I ignore her reaction and continue.
+#
+<name "Lazlocke">
+"I have regular need of a woman.
+ I've made due in various ways so far, but it
+ would be a great help if I had a readily
+ available one close at hand."
+#
+<name "Celes" "!AA0038">
+"R-Readily?"
+#
+<name "Lazlocke">
+"Correct. You would live in my home, stay by my
+ side, and give yourself to me when I want.
+ That is what I have to gain from taking you as
+ my apprentice."
+#
+<name "Celes" "!AA0039">
+"..."
+#
+<name "Lazlocke">
+"You do not need to respect or love me, but
+ when you're with me, you must always try your
+ best to please me. 
+ That is all I ask."
+#
+<name "Celes" "!AA0040">
+"..."
+#
+<name "Lazlocke">
+"I understand that this is not a decision that
+ a woman can make lightly."
+#
+<name "Lazlocke">
+"Take your time and think it over.
+ You may use the room until you've made your
+ decision."
+#
+<name "Celes" "!AA0041">
+"N-No, that's okay.
+ If I'm good enough for you, you can use me
+ however you want."
+#
+<name "Lazlocke">
+"That was quick."
+#
+<name "Celes" "!AA0042">
+"I... I have to become a wizard, no matter
+ what."
+#
+<name "Lazlocke">
+"May I ask why?"
+#
+<name "Celes" "!AA0043">
+"M-My full name is Celestine Rococo.
+ I'm the only daughter of the Rococo family."
+#
+Rococo?
+#
+That's a pretty famous family of wizards over
+in the Arkanes Kingdom just north of Queensbell.
+#
+I do remember hearing that the current head of
+the family died last year.
+#
+<name "Lazlocke">
+"A question of succession then?"
+#
+<name "Celes" "!AA0044">
+"Yes, but without mana, I can't be a wizard,
+ and am prohibited from succeeding my family."
+#
+<name "Lazlocke">
+"So you want to become a wizard to inherit your
+ family's estate?"
+#
+<name "Celes" "!AA0045">
+"No. That's not why."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<name "Celes" "!AA0046">
+"My father was murdered."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Celes" "!AA0047">
+"And the current head of Rococo is who was
+ behind it. I have proof."
+#
+<name "Lazlocke">
+"Take it to the Guild.
+ They'll punish him and drive him out."
+#
+<name "Celes" "!AA0048">
+"If I did that, there would be no wizards left
+ in the Rococo family and we would lose 
+ everything."
+#
+Now it's getting clearer.
+#
+<name "Celes" "!AA0051">
+"But if I become a wizard, and take it back
+ from him myself..."
+#
+I see. A story of revenge...
+#
+<name "Lazlocke">
+"All right. I understand."
+#
+<name "Celes" "!AA0052">
+"Then..."
+#
+<name "Lazlocke">
+"Yes, I can supply you with mana and teach you
+ magic."
+#
+<name "Celes" "!AA0053">
+"Thank you so much."
+#
+<name "Lazlocke">
+"But time isn't on your side."
+#
+<name "Celes" "!AA0054">
+"Huh?"
+#
+<name "Lazlocke">
+"The current head could protest a duel as
+ unjust. The Guild won't recognize your claims
+ unless you make them within the next four
+ years."
+#
+<name "Celes" "!AA0055">
+"R-Really!?"
+#
+<name "Lazlocke">
+"Yeah. I'll check into it as well."
+#
+<name "Celes" "!AA0056">
+"T-Thank you."
+#
+<name "Lazlocke">
+"Now then, no time to waste. 
+ Change into something easier to move in and go
+ jog in the backyard. You're still recovering,
+ so let's say just ten laps."
+#
+<name "Celes" "!AA0057">
+"Huh?"
+#
+<name "Lazlocke">
+"Huh, what?
+ You want to be a wizard, don't you?"
+#
+<name "Celes" "!AA0058">
+"Y-Yes, sir.
+ But..."
+#
+<name "Lazlocke">
+"You need a strong constitution to use magic.
+ Running will get you in shape.
+ Do you have an issue with that?"
+#
+<name "Celes" "!AA0059">
+"N-No, sir..."
+#
+<name "Lazlocke">
+"A little more enthusiasm."
+#
+<name "Celes" "!AA0060">
+"Y-Yes, sir!
+ I'll go run!"
+#
+<music 2>
+<background "bg001a0.iph" 11>
+She hurries to her room, changes, and goes out
+to the backyard.
+#
+<name "Lazlocke">
+"Don't forget to stretch first."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA0061">
+"Yes, sir!"
+#
+<removesprite -1 11>
+She starts very carefully stretching.
+#
+<name "Lazlocke">
+"Now then, I need to come up with a regimen."
+#
+And thus, my life with my new apprentice began.
+#
+\x78\x78

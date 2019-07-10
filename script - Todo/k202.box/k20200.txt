@@ -1,0 +1,524 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x02\x30\x84\x00\x01\x0E :30: \xE6 "a0700" \x00\x16 :37D: \x0A\x04\x02\x30\x84\x01\x15 :315: 
+:30
+\xE9 2002 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :5D: \x15 :309: 
+:5D
+\x1A\x01\x07\x04\x02\x31\x84\x00\x01\x0E :87: \xE6 "a0700" \x00\x16 :4C3: \x0A\x04\x02\x31\x84\x01\x15 :315: 
+:87
+\x1A\x01\x07\x04\x02\x34\x84\x00\x01\x0E :B1: \xE6 "a0701" \x00\x16 :94C: \x0A\x04\x02\x34\x84\x01\x15 :315: 
+:B1
+\x1A\x01\x07\x04\x02\x37\x84\x00\x01\x0E :DB: \xE6 "a0702" \x00\x16 :F0A: \x0A\x04\x02\x37\x84\x01\x15 :315: 
+:DB
+\x1A\x01\x07\x04\x02\x32\x84\x00\x01\x0E :105: \xE6 "a0700" \x00\x16 :605: \x0A\x04\x02\x32\x84\x01\x15 :315: 
+:105
+\x1A\x01\x07\x04\x02\x35\x84\x00\x01\x0E :12F: \xE6 "a0701" \x00\x16 :AD0: \x0A\x04\x02\x35\x84\x01\x15 :315: 
+:12F
+\x1A\x01\x07\x04\x02\x3A\x84\x00\x01\x0E :159: \xE6 "a0703" \x00\x16 :1311: \x0A\x04\x02\x3A\x84\x01\x15 :315: 
+:159
+\x1A\x01\x07\x04\x02\x38\x84\x00\x01\x0E :183: \xE6 "a0702" \x00\x16 :1002: \x0A\x04\x02\x38\x84\x01\x15 :315: 
+:183
+\x1A\x01\x07\x04\x02\x33\x84\x00\x01\x0E :1AD: \xE6 "a0700" \x00\x16 :779: \x0A\x04\x02\x33\x84\x01\x15 :315: 
+:1AD
+\x1A\x01\x07\x04\x02\x3D\x84\x00\x01\x0E :1CE: \x16 :1764: \x0A\x04\x02\x3D\x84\x01\x15 :315: 
+:1CE
+\x1A\x01\x07\x04\x02\x36\x84\x00\x01\x0E :1F8: \xE6 "a0701" \x00\x16 :DAE: \x0A\x04\x02\x36\x84\x01\x15 :315: 
+:1F8
+\x1A\x01\x07\x04\x02\x3B\x84\x00\x01\x0E :222: \xE6 "a0703" \x00\x16 :1453: \x0A\x04\x02\x3B\x84\x01\x15 :315: 
+:222
+\x1A\x01\x07\x04\x02\x39\x84\x00\x01\x0E :24C: \xE6 "a0702" \x00\x16 :1157: \x0A\x04\x02\x39\x84\x01\x15 :315: 
+:24C
+\x1A\x01\x07\x04\x02\x3E\x84\x00\x01\x0E :26D: \x16 :1855: \x0A\x04\x02\x3E\x84\x01\x15 :315: 
+:26D
+\x1A\x01\x07\x04\x02\x3F\x84\x00\x01\x0E :29D: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :29D: \x16 :1986: \x0A\x04\x02\x3F\x84\x01\x15 :315: 
+:29D
+\x1A\x01\x07\x04\x02\x3C\x84\x00\x01\x0E :2C7: \xE6 "a0703" \x00\x16 :1577: \x0A\x04\x02\x3C\x84\x01\x15 :315: 
+:2C7
+\x1A\x01\x07\x04\x02\x40\x84\x00\x01\x0E :2E8: \x16 :1CAC: \x0A\x04\x02\x40\x84\x01\x15 :315: 
+:2E8
+\x1A\x01\x07\x04\x02\x41\x84\x00\x01\x0E :309: \x16 :1E5F: \x0A\x04\x02\x41\x84\x01\x15 :315: 
+:309
+\x16 :2047: \x15 :315: 
+:315
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :37C: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :367: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :37C: 
+:367
+<background "ev008a0.iph" 11>
+\x2B
+:37C
+\x78
+:37D
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「いつでもどこでも、水を生み出せるように」
+#
+<sprite "ta01a89.iph" 4 4 11>
+<name "Celes" "!AA1294">
+「はい」
+#
+<name "Lazlocke">
+「火と違い、水は常に発生させ続ける必要がある。
+　持久力が大切だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1295">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:4C3
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1296">
+「えいっ！
+　……あれ？
+　出ない？」
+#
+<name "Lazlocke">
+「……いや、水蒸気が出てる」
+#
+<sprite "ta01d23.iph" 4 4 12>
+<name "Celes" "!AA1297">
+「えいいっ！」
+#
+<name "Lazlocke">
+「今度は氷だな。
+　これはこれで凄いが、水を出すように」
+#
+<removesprite -1 11>
+<exit>
+:605
+<music 26>
+<background "bg004a0.iph" 11>
+　魔力で水を出すのは、火を起こすよりも難しい。
+#
+　特に大量の水を出すには、技術が要る。
+#
+<name "Lazlocke">
+「……なかなかの水量だ」
+#
+<sprite "ta01d09.iph" 4 4 11>
+<name "Celes" "!AA1298">
+「は、はい」
+#
+<name "Lazlocke">
+「しかし、俺の頭の上に出す事は無いと思う」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1299">
+「す、すみません」
+#
+<removesprite -1 11>
+<exit>
+:779
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「水の魔法が使えれば、氷の魔法は簡単だ」
+#
+<name "Lazlocke">
+「水の温度をさらに下げれば氷になる」
+#
+<name "Lazlocke">
+「そして、水と違って持久力も要らなければ、攻撃
+　力も上がる。
+　良い事だらけだ」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1300">
+「はい」
+#
+<name "Lazlocke">
+「だが、水の魔法が使えなければ使えない。
+　基本は水の魔法だ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1301">
+「わかりました」
+#
+<removesprite -1 11>
+<exit>
+:94C
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1302">
+「水の温度を下げて氷に……あれ、凍らない？」
+#
+<name "Lazlocke">
+「少し振動を与えてみろ」
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA1303">
+「は、はい……あ、凍った」
+#
+<name "Lazlocke">
+「温度を下げるだけじゃ、冷たい水だぞ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1304">
+「わ、わかりました」
+#
+<removesprite -1 11>
+<exit>
+:AD0
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA1305">
+「氷の槍？
+　……きゃぁっ」
+#
+<name "Lazlocke">
+「水は変幻自在だからな。
+　水を変化させ、氷にして攻撃するのが水の魔法で
+　はもっともオーソドックスなスタイルだ」
+#
+<name "Lazlocke">
+「ま、物量に任せて大量の水で押し流すとかの方法
+　もあるけどな」
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA1306">
+「師匠の得意技ですか？」
+#
+<name "Lazlocke">
+「そうだが、なぜ解った？」
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA1307">
+「いえ、物量に任せてと……」
+#
+<name "Lazlocke">
+「どーせ、魔力量に任せた乱暴な攻撃しかできない
+　です」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1308">
+「す、すみません。
+　口が滑りました。
+　拗ねないでください」
+#
+<removesprite -1 11>
+<exit>
+:DAE
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1309">
+「狙いを定めて……えいっ！」
+#
+<removesprite -1 11>
+　セリスの放った氷の塊が、的に命中する。
+#
+<name "Lazlocke">
+「良い命中率だが、的に当たって砕けるような氷じゃ
+　駄目だぞ」
+#
+<sprite "ta01d31.iph" 4 4 11>
+<name "Celes" "!AA1310">
+「す、すみません。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:F0A
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA1311">
+「水の操作って難しいですね」
+#
+<name "Lazlocke">
+「ああ、だが出来ると便利だぞ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1312">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:1002
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1313">
+「右の樽から、左の樽へ……」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1314">
+「左の樽から、右の樽へ……」
+#
+<sprite "ta01d32.iph" 4 4 12>
+<name "Celes" "!AA1315">
+「あれ？
+　水が少なくなってる？」
+#
+<name "Lazlocke">
+「移動させる時に、こぼし過ぎだ」
+#
+<removesprite -1 11>
+<exit>
+:1157
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1316">
+「右の樽から左の樽へ……
+　左の樽から右の樽へ……」
+#
+<name "Lazlocke">
+「なかなか上手くなったな」
+#
+<sprite "ta01d32.iph" 4 4 12>
+<name "Celes" "!AA1317">
+「いえ、油断すると……こんな感じに」
+#
+<removesprite -1 11>
+　移動させていた水が暴れ、片方の樽を破壊した。
+#
+<name "Lazlocke">
+「……頑張るように」
+#
+<sprite "ta01d92.iph" 4 4 11>
+<name "Celes" "!AA1318">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1311
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「水の魔法で、流れる滝を操作する！
+　やってみろ！」
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1319">
+「はい！」
+#
+<sprite "ta01d24.iph" 4 4 12>
+<name "Celes" "!AA1320">
+「ぬぬぬぬ……えいいっ！
+　きゃぁぁぁぁぁぁぁ……」
+#
+<removesprite -1 11>
+　おお、セリスが川に流されていく……
+#
+<exit>
+:1453
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA1321">
+「えいい！」
+#
+<removesprite -1 11>
+　セリスは滝に対して、水の魔法を使う。
+#
+　魔法によって、流れる水の動きを操作する練習だ。
+#
+　が……
+#
+<name "Celes" "!AA1322">
+「きゃぁぁぁぁぁぁ……」
+#
+　セリスは川に流されていった。
+#
+<exit>
+:1577
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1323">
+「この滝を……止めてみせる！」
+#
+<removesprite -1 11>
+　セリスは滝に対して、水の魔法を使う。
+#
+　魔法によって、流れる水の動きを操作する練習だ。
+#
+　そして、セリスの思惑通りに滝は流れを止めた。
+#
+<sprite "ta01d09.iph" 4 4 11>
+<name "Celes" "!AA1324">
+「や、やった！」
+#
+<removesprite -1 11>
+　セリスは喜んだ。
+#
+　嬉しかったのだろう。
+#
+　だが、俺は喜ぶセリスの頭上に、止められた滝の
+　水が凄い勢いで溜まるのを見ながら逃げた。
+#
+<exit>
+:1764
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA1325">
+「水の魔法を使って、庭に水撒き……」
+#
+<name "Lazlocke">
+「普通に撒いた方が楽だろ」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA1326">
+「で、ですね」
+#
+<removesprite -1 11>
+<exit>
+:1855
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a17.iph" 4 4 11>
+<name "Celes" "!AA1327">
+「水の魔法で、お肌をピチピチに……」
+#
+<removesprite -1 11>
+<sprite "ta01a17.iph" 2 5 11>
+<sprite "ta04a26.iph" 6 4 11>
+<name "Soshiette" "!DA0394">
+「女の魔法使いなら、誰もが考える事ですが……
+　セリスさんには必要無いかと」
+#
+<removesprite -1 11>
+<exit>
+:1986
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1328">
+「水の魔法を極めると、洗濯物をあっという間に乾
+　かせるんですね」
+#
+<name "Lazlocke">
+「そうだぞ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1329">
+「では、これからは魔法で洗濯物を乾かしましょう」
+#
+<name "Lazlocke">
+「そう言って洗濯物をグチャグチャにした魔法使い
+　が居てな、やらない事になった」
+#
+<removesprite -1 11>
+<sprite "ta03a22.iph" 4 4 11>
+<name "Viola" "!BA0183">
+「ラズロック。
+　すこし、こっちに来なさい」
+#
+<removesprite -1 11>
+　俺はヴィオラにズルズルと物影に引き摺られた。
+#
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA1330">
+「洗濯物をグチャグチャにした魔法使いって……
+　ヴィオラさん？」
+#
+<removesprite -1 11>
+<sprite "ta03a38.iph" 2 4 11>
+<sprite "ta01a10.iph" 6 5 11>
+<name "Viola" "!BA0184">
+「失敗は誰にだってあるの」
+#
+<removesprite -1 11>
+<exit>
+:1CAC
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1331">
+「魔法で水が生み出せると、砂漠とかでも困りませ
+　んね」
+#
+<name "Lazlocke">
+「そうだが、水気が無い場所だと難度はあがるぞ」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA1332">
+「え？
+　そうなんですか？」
+#
+<name "Lazlocke">
+「ああ。
+　その辺りの魔力が水の形になり難いんだ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA1333">
+「あ、なるほど」
+#
+<removesprite -1 11>
+<exit>
+:1E5F
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1334">
+「師匠、見てください」
+#
+<name "Lazlocke">
+「ん？」
+#
+<removesprite -1 11>
+　セリスの左手の平から水が噴き上がった。
+#
+　綺麗な噴水のようだ。
+#
+　それを見ていると、セリスはゆっくりと両手を合
+　わせ、また開いた。
+#
+　すると、左手の平から噴き出ていた水が、右手の
+　平から噴き上がっていた。
+#
+<name "Lazlocke">
+「おおっ、宴会芸！」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1335">
+「いーえ、魔法です」
+#
+<removesprite -1 11>
+<exit>
+:2047
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :20DD: 
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA1340">
+「水を操作って、難しい」
+#
+<removesprite -1 11>
+\x2B
+:20DD
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2155: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1341">
+「水の魔法……基本は冷やす事ですね」
+#
+<removesprite -1 11>
+\x2B
+:2155
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :21CD: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1342">
+「冬場は辛く、夏場は嬉しい勉強です」
+#
+<removesprite -1 11>
+\x2B
+:21CD
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :224D: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1343">
+「水の魔法……飲み水に困る事は無くなるかな」
+#
+<removesprite -1 11>
+:224D + 1
+<exit>
+\x78

@@ -1,0 +1,278 @@
+\x1A\x01\x07\x44\x03\x57\x84\x01\x01\x0E :1B: \x16 :490: \x15 :48F: 
+:1B
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA0091">
+"Master? Is something the matter?"
+#
+<name "Lazlocke">
+"No, it's nothing.
+ Keep practicing as usual."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0092">
+"Okay.
+ Um, could I ask a favor?"
+#
+<name "Lazlocke">
+"What is it?"
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA0093">
+"Could you call it training instead of
+ practicing?
+ I feel like it'll help me feel like I'm
+ getting stronger."
+#
+<name "Lazlocke">
+"...If I feel like it."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0094">
+"Okay."
+#
+<removesprite -1 11>
+She changes into her exercise clothes and goes
+out into the yard.
+#
+...
+#
+Almost...
+#
+No, not yet.
+#
+I'm still okay.
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0039">
+"Your Grace."
+#
+<name "Lazlocke">
+"What?"
+#
+She appears out of nowhere.
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0040">
+"The Guild is on your side.
+ We can have one prepared as soon as you ask."
+#
+<name "Lazlocke">
+"There's no need for that."
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0041">
+"Understood.
+ Excuse my interruption."
+#
+<removesprite -1 11>
+\x2B
+:48F
+\x78
+:490
+<music 13>
+<background "bg001b0.iph" 11>
+<background "bg002b0.iph" 11>
+Celes is asleep in her room.
+#
+...
+#
+I can't take it.
+#
+My dick is hard.
+#
+I need a woman.
+#
+...
+#
+Should I assault her in her sleep?
+#
+No.
+#
+I leave to get away from her.
+#
+But someone's standing in front of me.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0044">
+"Your Grace."
+#
+Soshiette...
+#
+I pull her into my arms.
+#
+She doesn't resist and embraces me.
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA0045">
+"Don't rush. We'll wake Miss Celes if we do it
+ here. Come to the bed."
+#
+<removesprite -1 11>
+<music 40>
+<background "ev004a0.iph" 10>
+I've been with her for hours now.
+#
+The sun's long since gone down, but my dick
+remains deep inside her.
+#
+<background "ev004a1.iph" 10>
+<name "Soshiette" "!DA0046">
+"Mm...mm...mm..."
+#
+The way she winds her hips is fascinating and
+exquisite.
+#
+Just as I get used to her writhing, she 
+suddenly starts bouncing up and down.
+#
+It's constant stimulation all over that keeps
+me rock hard.
+#
+She's been able to make me come three times
+already.
+#
+It feels like I'm being wrung out.
+#
+<name "Soshiette" "!DA0047">
+"Ah...mm...ahhh...mmm..."
+#
+But I don't fight her.
+#
+I give myself to what she's doing and bask in
+pleasure.
+#
+<name "Soshiette" "!DA0048">
+"Ah...mm...aah...mmmmm..."
+#
+She brings me to the brink and I start to come
+again.
+#
+<name "Soshiette" "!DA0049">
+"Mm...mmm...ÅÙ"
+#
+<background "ev004a2.iph" 10>
+Spurt... Spurt... Spurt...
+#
+A long, but steady orgasm.
+#
+I keep pouring myself deep into her.
+#
+<name "Soshiette" "!DA0050">
+"Mm...ah...mm...ÅÙ"
+#
+As I finish, her walls squeeze around me like
+she's trying to milk the rest out.
+#
+<name "Soshiette" "!DA0051">
+"Mm... 
+ Are you just about finished?"
+#
+My dick's still hard, but not as much as before.
+#
+And I don't know how much more my body can
+take.
+#
+<name "Lazlocke">
+"Sorry."
+#
+<name "Soshiette" "!DA0052">
+"Pay it no mind.
+ This is what I'm with you for."
+#
+<name "Lazlocke">
+"I guess..."
+#
+<name "Soshiette" "!DA0053">
+"Is Miss Celes not enough?"
+#
+<name "Lazlocke">
+"She's not ready yet."
+#
+<name "Soshiette" "!DA0054">
+"If you need an outlet for mana, you need only
+ ask and the Guild will have one prepared."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Soshiette" "!DA0055">
+"An apprentice, a slave, whatever you desire.
+ The Guild will do whatever it can to find you
+ any manner of woman you want."
+#
+<name "Lazlocke">
+"Provided I ask, huh?"
+#
+<name "Soshiette" "!DA0056">
+"Yes."
+#
+<name "Lazlocke">
+"I hate that."
+#
+<name "Soshiette" "!DA0057">
+"..."
+#
+<name "Lazlocke">
+"...I know. Don't be mad.
+ I just need to buck at the reins a little."
+#
+<name "Lazlocke">
+"No, that's not it. I just wanted someone who
+ had nothing to do with the Guild, I think."
+#
+<name "Soshiette" "!DA0058">
+"Please don't find a second person."
+#
+<name "Lazlocke">
+"Yeah, don't worry.
+ I won't upset the head of the Guild any more
+ than I already have."
+#
+<name "Soshiette" "!DA0059">
+"Thank you."
+#
+<name "Lazlocke">
+"Anyway, one more time.
+ This time in the ass."
+#
+<name "Soshiette" "!DA0060">
+"All right, as you wish."
+#
+<name "Lazlocke">
+"It'd be nice if you were a little more
+ bashful."
+#
+<name "Soshiette" "!DA0061">
+"I've already given all of myself to you.
+ There's nothing left to be ashamed of."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Soshiette" "!DA0062">
+"Since you look displeased, let me rephrase.
+ You took me against my will.
+ Perhaps it's more accurate to say that you
+ stole it from me?"
+#
+<name "Lazlocke">
+"Sorry."
+#
+<name "Soshiette" "!DA0063">
+"Well, then...ÅÙ"
+#
+<background "ev004a3.iph" 10>
+She moves my dick into her ass like I asked and
+begins moving her hips again.
+#
+I admire her practiced movements and give 
+myself to her.
+#
+\x0A\x44\x00\x65\x84\x01\x2E\x22\x00\x01 -3000  -1000 \x0B\x02\x00\x0B\x02\x00\x0B\x22\x00\x01
+<exit>
+\x78

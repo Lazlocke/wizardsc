@@ -1,0 +1,1354 @@
+\x1A\x01\x07\x04\x06\x0F\x84\x00\x01\x0E :45: \xDB "ジャブ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :45: \x16 :97C: \x0A\x04\x06\x0F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:45
+\x1A\x01\x07\x04\x06\x10\x84\x00\x01\x0E :8A: \xDB "ジャブ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :8A: \x16 :B53: \x0A\x04\x06\x10\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:8A
+\x1A\x01\x07\x04\x06\x11\x84\x00\x01\x0E :D3: \xDB "ストレート" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :D3: \x16 :CC6: \x0A\x04\x06\x11\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:D3
+\x1A\x01\x07\x04\x06\x12\x84\x00\x01\x0E :137: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :137: \xDB "ストレート" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :137: \x16 :EE2: \x0A\x04\x06\x12\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:137
+\x1A\x01\x07\x04\x06\x13\x84\x00\x01\x0E :19B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :19B: \xDB "ストレート" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :19B: \x16 :11A3: \x0A\x04\x06\x13\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:19B
+\x1A\x01\x07\x04\x06\x14\x84\x00\x01\x0E :1E8: \xDB "ソニックブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1E8: \x16 :12F9: \x0A\x04\x06\x14\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:1E8
+\x1A\x01\x07\x04\x06\x15\x84\x00\x01\x0E :235: \xDB "ソニックブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :235: \x16 :1689: \x0A\x04\x06\x15\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:235
+\x1A\x01\x07\x04\x06\x16\x84\x00\x01\x0E :284: \xDB "フラッシュブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :284: \x16 :19E1: \x0A\x04\x06\x16\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:284
+\x1A\x01\x07\x04\x06
+<exit>
+\x84\x00\x01\x0E :2CF: \xDB "タイムブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2CF: \x16 :1F90: \x0A\x04\x06
+<exit>
+\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:2CF
+\x1A\x01\x07\x04\x06\x18\x84\x00\x01\x0E :31A: \xDB "ゴッドブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :31A: \x16 :2485: \x0A\x04\x06\x18\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:31A
+\x1A\x01\x07\x04\x06\x19\x84\x00\x01\x0E :365: \xDB "ゴッドブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :365: \x16 :2984: \x0A\x04\x06\x19\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:365
+\x1A\x01\x07\x04\x06\x1A\x84\x00\x01\x0E :3B0: \xDB "ゴッドブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :3B0: \x16 :2DF0: \x0A\x04\x06\x1A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:3B0
+\x1A\x01\x07\x04\x06\x1B\x84\x00\x01\x0E :3F9: \xDB "ローキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3F9: \x16 :3079: \x0A\x04\x06\x1B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:3F9
+\x1A\x01\x07\x04\x06\x1C\x84\x00\x01\x0E :442: \xDB "ローキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :442: \x16 :3446: \x0A\x04\x06\x1C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:442
+\x1A\x01\x07\x04\x06\x1D\x84\x00\x01\x0E :4A6: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :4A6: \xDB "ローキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4A6: \x16 :391C: \x0A\x04\x06\x1D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:4A6
+\x1A\x01\x07\x04\x06\x1E\x84\x00\x01\x0E :4EF: \xDB "ハイキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :4EF: \x16 :3B48: \x0A\x04\x06\x1E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:4EF
+\x1A\x01\x07\x04\x06\x1F\x84\x00\x01\x0E :538: \xDB "ハイキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :538: \x16 :3ED1: \x0A\x04\x06\x1F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:538
+\x1A\x01\x07\x04\x06\x20\x84\x00\x01\x0E :581: \xDB "ハイキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :581: \x16 :4310: \x0A\x04\x06\x20\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:581
+\x1A\x01\x07\x04\x06\x21\x84\x00\x01\x0E :5CA: \xDB "飛び膝蹴り" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5CA: \x16 :472C: \x0A\x04\x06\x21\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:5CA
+\x1A\x01\x07\x04\x06\x22\x84\x00\x01\x0E :613: \xDB "飛び膝蹴り" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :613: \x16 :4975: \x0A\x04\x06\x22\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:613
+\x1A\x01\x07\x04\x06\x23\x84\x00\x01\x0E :65E: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :65E: \x16 :4C2C: \x0A\x04\x06\x23\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:65E
+\x1A\x01\x07\x04\x06\x24\x84\x00\x01\x0E :6A9: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :6A9: \x16 :5003: \x0A\x04\x06\x24\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:6A9
+\x1A\x01\x07\x04\x06\x25\x84\x00\x01\x0E :6F4: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :6F4: \x16 :540C: \x0A\x04\x06\x25\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:6F4
+\x1A\x01\x07\x04\x06\x26\x84\x00\x01\x0E :73F: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :73F: \x16 :5569: \x0A\x04\x06\x26\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:73F
+\x1A\x01\x07\x04\x06\x27\x84\x00\x01\x0E :784: \xDB "裸絞め" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :784: \x16 :588D: \x0A\x04\x06\x27\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:784
+\x1A\x01\x07\x04\x06\x28\x84\x00\x01\x0E :7C9: \xDB "裸絞め" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :7C9: \x16 :59F7: \x0A\x04\x06\x28\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:7C9
+\x1A\x01\x07\x04\x06\x29\x84\x00\x01\x0E :829: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :829: \xDB "裸絞め" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :829: \x16 :5BD2: \x0A\x04\x06\x29\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:829
+\x1A\x01\x07\x04\x06\x2A\x84\x00\x01\x0E :872: \xDB "腕挫十字固" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :872: \x16 :5C95: \x0A\x04\x06\x2A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:872
+\x1A\x01\x07\x04\x06\x2B\x84\x00\x01\x0E :8D6: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :8D6: \xDB "腕挫十字固" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :8D6: \x16 :5E4C: \x0A\x04\x06\x2B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:8D6
+\x1A\x01\x07\x04\x06\x2C\x84\x00\x01\x0E :91B: \xDB "金剛体" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :91B: \x16 :5FA7: \x0A\x04\x06\x2C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:91B
+\x1A\x01\x07\x04\x06\x2D\x84\x00\x01\x0E :97B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :97B: \xDB "金剛体" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :97B: \x16 :62B6: \x0A\x04\x06\x2D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:97B
+\x78
+:97C
+<music 10>
+<background "bg004a0.iph" 11>
+『ジャブ』
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1023">
+「ジャブで相手を倒す事は難しいです。
+　ですが、相手の出鼻を挫いたり、牽制したりと、
+　戦いを有利に進める事に使えます」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1024">
+「打撃戦の要と言っても過言ではありません。
+　頑張ってマスターしてください」
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5796">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:B53
+<music 10>
+<background "bg003a0.iph" 11>
+『ジャブ』
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA5797">
+「シュッシュッ……」
+#
+<removesprite -1 11>
+　セリスは部屋の隅で腕の振りをチェックしている。
+#
+　時間を見つけてはマメにやっている。
+#
+　熱心な事だ。
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA5798">
+「シュッシュッ……あっ！」
+#
+<removesprite -1 11>
+　時々、家具を叩いて悶絶しているが。
+#
+<exit>
+:CC6
+<music 10>
+<background "bg004a0.iph" 11>
+『ストレート』
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1025">
+「相手を倒す為の打撃です」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1026">
+「狙いは的確に。
+　放つと決めたら躊躇しないように」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5799">
+「は、はい」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1027">
+「では、実践練習です。
+　掛かって来てください」
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5800">
+「……が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:EE2
+<music 2>
+<background "bg013a0.iph" 11>
+『ストレート』
+#
+<name "若い娘" "!GA0139">
+「きゃぁぁ、痴漢っ！」
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5801">
+「せいっ！」
+#
+<removesprite -1 11>
+<name "右から見ていた男" "!QB0183">
+「おお、見事なストレート……痴漢が膝から落ちた」
+#
+<name "左から見ていた男" "!RB0211">
+「そこに追撃のストレート！
+　うおお、可哀想にあの痴漢。
+　昼間に食べたのを撒き散らしながら吹っ飛ばされ
+　たぞ！」
+#
+<name "右から見ていた男" "!QB0184">
+「すげぇ！」
+#
+<name "若い娘" "!GA0140">
+「あ、ありがとうございました」
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA5802">
+「痴漢は死ぬべきです」
+#
+<name "Lazlocke">
+「…………」
+#
+<sprite "ta01a97.iph" 4 4 12>
+<name "Celes" "!AA5803">
+「し、師匠が私にする分には構いません」
+#
+<removesprite -1 11>
+<exit>
+:11A3
+<music 10>
+<background "bg002b0.iph" 11>
+『ストレート』
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA5804">
+「こう……こうかな？
+　それとも……こう」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA5805">
+「もっと捻った方が良いかな」
+#
+<removesprite -1 11>
+　セリスは打撃の練習をしていた。
+#
+　熱心なのは良いが、Ｈの後とかにされると少し怖
+　かったりする。
+#
+<exit>
+:12F9
+<music 10>
+<background "bg004a0.iph" 11>
+『ソニックブロー』
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1030">
+「ソニックブロー。
+　それは、音の速さで相手に打撃を与える技です」
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA9002">
+「音の速さですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1031">
+「はい。
+　魔力を用い、肉体を強化して使います。
+　実践例としては、このような感じです」
+#
+<removesprite -1 11>
+　ソシエットが腕を振ると、スパンッと空気が弾け
+　た音が聞こえた。
+#
+　そして、その音が聞こえた時にはすでに腕は元の
+　位置に戻っている。
+#
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA9003">
+「……」
+#
+<removesprite -1 11>
+<sprite "ta01d10.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1032">
+「少々、魔力を消費しますが、有効な打撃となりま
+　す。
+　使いこなしてください」
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA9004">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:1689
+<music 10>
+<background "bg004a0.iph" 11>
+『ソニックブロー』
+#
+<sprite "ta01d22.iph" 4 4 11>
+<name "Celes" "!AA5808">
+「ソニックブロー！」
+#
+<removesprite -1 11>
+　セリスは腕を振り、素振りを繰り返す。
+#
+　その腕が突き出される度に、空気を弾く音が心地
+　良く響く。
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1033">
+「見事です」
+#
+<removesprite -1 11>
+<sprite "ta01d15.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5809">
+「えへへ……
+　ソシエットさんのお陰です」
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1034">
+「いえ。
+　……そこまで習得したのでしたら、次の段階です」
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5810">
+「次の段階ですか？」
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1035">
+「はい。
+　ソニックブローの上位技。
+　フラッシュブローです」
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5811">
+「フラッシュブロー……ごくり」
+#
+<removesprite -1 11>
+<exit>
+:19E1
+<music 10>
+<background "bg004a0.iph" 11>
+『フラッシュブロー』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1036">
+「フラッシュブロー。
+　光の速さを超える打撃技です」
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5812">
+「光に速度があるんですか？」
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1037">
+「光の速さのイメージとして、暗い部屋で窓を開け
+　た時に入ってくる光です」
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5813">
+「す、すみません。
+　イマイチわかりません」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1038">
+「光の速さが分かり難ければ、目にも止まらぬ速さ
+　と思って頂いて結構です。
+　実例を見せます。
+　的は……そこの杭にします」
+#
+<removesprite -1 11>
+　ソシエットが腕を振るった瞬間、その腕先が見え
+　ずに打撃音が響いたと同時に、的にされた杭が砕
+　けた。
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5814">
+「え？
+　あれ？」
+#
+<removesprite -1 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1040">
+「もう一度、放ちます。
+　的はその隣の杭です」
+#
+<removesprite -1 11>
+　先ほどと同じく、ソシエットの腕が動いた瞬間に
+　見えなくなり、打撃音が響いたと同時に杭が砕け
+　散った。
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA5815">
+「……すごい」
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1041">
+「目にも止まらず、音すら置いていく打撃。
+　頑張って習得してください」
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA5816">
+「が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:1F90
+<music 10>
+<background "bg004a0.iph" 11>
+『タイムブロー』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1043">
+「タイムブロー。
+　ソニック、フラッシュの後に続く打撃技です」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5817">
+「タイムと言う事は、時の速さですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1044">
+「その通りです」
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5818">
+「あの、でも、時の速さって、あまり速そうなイメ
+　ージが無いんですが……」
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1045">
+「時の速さ。
+　東方では、刹那と呼ばれる瞬間。
+　時間を止めたかのような速度です」
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1046">
+「実践すると、こうなります」
+#
+<removesprite -1 11>
+　……
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5819">
+「え？
+　あの、何もしていないのでは？」
+#
+<removesprite -1 11>
+　セリスがそう聞いた瞬間、近くにあった杭が砕け
+　散った。
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1047">
+「音も、光も、置いていきます」
+#
+<removesprite -1 11>
+<sprite "ta01d10.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5820">
+「……」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1048">
+「頑張ってください」
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5821">
+「は、はい……」
+#
+<removesprite -1 11>
+<exit>
+:2485
+<music 10>
+<background "bg004a0.iph" 11>
+『ゴッドブロー』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1049">
+「音を超える打撃、ソニック。
+　光を超える打撃、フラッシュ。
+　時を超える打撃、タイム。
+　そして、神の打撃、ゴッド」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1050">
+「ゴッドブローは、時すら遡るとされる必中の打撃
+　技です。
+　千発放てば千発当り、万発放てば万発当ります」
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5822">
+「おおっ」
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1051">
+「ですが、この技を習得しきった者は、編み出した
+　者のみとされています」
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5823">
+「……編み出した者？
+　ソシエットさんですか？」
+#
+<sprite "ta04a72.iph" 6 4 12>
+<name "Soshiette" "!DA1052">
+「いえ、私ではありません。
+　編み出したのは、ナイト＝クルセイダ。
+　聖マイル騎士団の団長です」
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1053">
+「ですので、私も習得していません。
+　真似事止まりです」
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA5824">
+「………………」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1054">
+「ですが、諦めてはいけません。
+　練習あるのみです」
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5825">
+「そ、そうですね。
+　頑張ります！」
+#
+<removesprite -1 11>
+<exit>
+:2984
+<music 10>
+<background "bg004a0.iph" 11>
+『ゴッドブロー』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5826">
+「ソニック！
+　フラッシュ！
+　タイム！
+　ゴッド！！」
+#
+<removesprite -1 11>
+　的にされた杭が、砕け散る。
+#
+　砕け散るが、その散った杭の欠片が急に収束した
+　ような動きをする。
+#
+　そして、元の杭の形を形成する瞬間に、その場で
+　崩れた。
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA5827">
+「はぁ、はぁ……」
+#
+<removesprite -1 11>
+<sprite "ta01d32.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1055">
+「見事です」
+#
+<sprite "ta01d31.iph" 2 5 12>
+<name "Celes" "!AA5828">
+「いえ、まだまだです。
+　真のゴッドは……」
+#
+<sprite "ta04a72.iph" 6 4 12>
+<name "Soshiette" "!DA1056">
+「真のゴッド……
+　そこまで技を習得したのなら、真のゴッドまでの
+　道程の長さは理解できると思いますが」
+#
+<sprite "ta01d42.iph" 2 5 12>
+<name "Celes" "!AA5829">
+「あはは……絶望的な感じですね。
+　でも、一歩づつでも進まないと辿り着けませんか
+　ら」
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA1057">
+「……
+　頑張ってください。
+　セリスさんなら、辿り着ける気がします」
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5830">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:2DF0
+<music 10>
+<background "bg004a0.iph" 11>
+『ゴッドブロー』
+#
+<name "Lazlocke">
+「セリスはどうだ？」
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1058">
+「ゴッドに関しては、有数の使い手でしょう」
+#
+<name "Lazlocke">
+「そりゃ、凄いな。
+　ナイト＝クルセイダはその技で魔王軍を追い返し
+　たと伝えられるが……」
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA1059">
+「流石に、そこまでは無理です」
+#
+<name "Lazlocke">
+「あはは……そうか」
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1060">
+「ですが、このまま修練をすればいずれ可能になる
+　かと」
+#
+<name "Lazlocke">
+「楽しみな事だ」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1061">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3079
+<music 25>
+<background "bg004a0.iph" 11>
+『ローキック』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5831">
+「ロー、ロー、も一つロー！」
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1062">
+「執拗な脚部への攻撃。
+　見事です」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1063">
+「ローキックは地味な技ですが、かなり効果のある
+　技です。
+　その調子で、頑張ってください」
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5832">
+「はい！」
+#
+<name "Lazlocke">
+「あの……痛くてもう立てないんですが……」
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA1064">
+「甘えないでください。
+　ご主人様」
+#
+<name "Lazlocke">
+「え、えっと……
+　あの足が折れてるかもしれないんですが……」
+#
+<sprite "ta01d17.iph" 2 5 12>
+<name "Celes" "!AA5833">
+「師匠の犠牲、無駄にしません」
+#
+<name "Lazlocke">
+「そうじゃなくてだな……」
+#
+<sprite "ta04a28.iph" 6 4 12>
+<name "Soshiette" "!DA1065">
+「立たないと、顔にローが入りますよ」
+#
+<name "Lazlocke">
+「ひぃっ」
+#
+<removesprite -1 11>
+<exit>
+:3446
+<music 2>
+<background "bg015a0.iph" 11>
+『ローキック』
+#
+　セリスは暇を見つけては、街を徘徊していた。
+#
+　少し気になったので、同行させて貰ったら、セリ
+　スは治安の悪そうな場所ばかりを徘徊している事
+　に気付いた。
+#
+<name "Lazlocke">
+「どうしてなんだ？」
+#
+　と言うか、なぜ徘徊する？
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5834">
+「いえ、ソシエットさんが、何事も実践だと」
+#
+<name "Lazlocke">
+「…………ひょっとして、ナンパ待ちか？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5835">
+「それ以外にも、酔っ払いやゴロツキなど」
+#
+<name "Lazlocke">
+「…………………………来たら、どうするんだ？」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5836">
+「一言目を発する前に、ローを叩き込めとソシエッ
+　トさんが」
+#
+<name "Lazlocke">
+「あー、それは逆にこっちが通り魔じゃないかな？」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA5837">
+「私もそう思って質問したのですが……」
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA5838">
+「気にしてはいけません。
+　悪には正義の鉄槌を振り下ろしてから砂を掛け、
+　簀巻きにして川に流しても無罪です」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5839">
+「と言われまして」
+#
+<removesprite -1 11>
+　……
+#
+　俺が頭を抱えている間に、本日一人目の犠牲者が
+　出てしまった。
+#
+　とりあえず、明日からは止めるように指導した。
+#
+<exit>
+:391C
+<music 10>
+<background "bg002a0.iph" 11>
+『ローキック』
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA5840">
+「師匠♪」
+#
+<name "Lazlocke">
+「ん？
+　うおおおっ！」
+#
+<removesprite -1 11>
+　セリスの見事なローが俺の足にヒットした。
+#
+　俺は悶絶して床を転がった。
+#
+<name "Lazlocke">
+「セ、セリス君。
+　ベッドに誘ってくれるのは嬉しいが、なぜローキッ
+　クで俺の機動力を奪う？」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA5841">
+「ソシエットさんが、逃げられないようにそうしろ
+　と……」
+#
+<name "Lazlocke">
+「逃げないから、今日限りでその教えは忘れるよう
+　に」
+#
+<removesprite -1 11>
+<exit>
+:3B48
+<music 10>
+<background "bg004a0.iph" 11>
+『ハイキック』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1066">
+「ハイキックに限らず、軸足が大事です。
+　ここに体重をしっかりと乗せます」
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5842">
+「はい」
+#
+<sprite "ta04a15.iph" 6 4 12>
+<name "Soshiette" "!DA1067">
+「そして、足を回して上げるのでは無く、直線的に
+　下から膝を持ち上げます」
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA5843">
+「はい」
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1068">
+「膝がある程度上がった所で、相手の頭部……
+　首筋などを狙って足を蹴り入れます」
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5844">
+「はい」
+#
+<removesprite -1 11>
+　ビュンと、俺の頭の上を足が通り過ぎた。
+#
+<sprite "ta04a25.iph" 4 4 11>
+<name "Soshiette" "!DA1070">
+「ご主人様、避けないでください。
+　セリスさんの練習になりません」
+#
+<name "Lazlocke">
+「無茶を言うなっ！」
+#
+<removesprite -1 11>
+<exit>
+:3ED1
+<music 10>
+<background "bg004a0.iph" 11>
+『ハイキック』
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1071">
+「ハイキックのコツですか？」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a06.iph" 6 4 11>
+<name "Celes" "!AA5845">
+「はい、よろしくお願いします」
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1072">
+「わかりました。
+　では、ご主人様。
+　そこに」
+#
+<name "Lazlocke">
+「え？」
+#
+<name "Lazlocke">
+「なに？
+　嫌だぞ。
+　お前に蹴られるのは？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1073">
+「大丈夫です。
+　当てません。
+　……いきます」
+#
+<name "Lazlocke">
+「ひいっ」
+#
+<removesprite -1 11>
+　ソシエットの素早い回し蹴りが、俺の眼前を通り
+　過ぎていった。
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1074">
+「この様に、スカートで蹴っても中を見せない事で
+　す」
+#
+<removesprite -1 11>
+<sprite "ta01d15.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5846">
+「なるほど」
+#
+<name "Lazlocke">
+「それ、俺を前にやる必要あったか？
+　……あと、蹴りの風圧がすっごく怖かったんだが」
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA1075">
+「苦情は受け付けません」
+#
+<removesprite -1 11>
+<exit>
+:4310
+<music 10>
+<background "bg004a0.iph" 11>
+『ハイキック』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5847">
+「とうっ、やっ、たぁっ！」
+#
+<removesprite -1 11>
+　セリスの身体が軽快に舞い、的となった杭に的確
+　にハイキックを当てている。
+#
+　正確に、同じ場所に。
+#
+<name "Lazlocke">
+「たいしたものだ」
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA5848">
+「いえ、動いていませんから」
+#
+<name "Lazlocke">
+「……
+　そうか。
+　では、頑張るように」
+#
+<removesprite -1 11>
+　俺は嫌な予感がしてセリスから後退ろうとしたが、
+　ソシエットに邪魔された。
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1076">
+「ご主人様、どこに？」
+#
+<name "Lazlocke">
+「きょ、協会で奉仕しようかと」
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA1077">
+「それよりも、可愛いお弟子さんが動く標的をお探
+　しです」
+#
+<name "Lazlocke">
+「ま、魔法人形は？」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1078">
+「全て破壊済みで、現在修理中です。
+　では、よろしくお願いします」
+#
+<removesprite -1 11>
+　ソシエットは俺の襟首を掴んで放さず、セリスの
+　前に引っ張っていった。
+#
+　ご主人様に、拒否権は無いらしい。
+#
+<exit>
+:472C
+<music 10>
+<background "bg004a0.iph" 11>
+『飛び膝蹴り』
+#
+　飛び膝蹴り……
+#
+　飛びながら膝で相手を攻撃するワザだが……
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5849">
+「えいっ！」
+#
+<removesprite -1 11>
+　ぺきょっ……
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5850">
+「効いてますか？」
+#
+<name "Lazlocke">
+「……え、偉く鋭い膝蹴りだな。
+　鼻血が止まらん……」
+#
+　歩く時に膝を上げる動作の流れで、そのまま俺の
+　顔に膝が飛んできた。
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5851">
+「は、はい。
+　ソシエットさんに、鍛えられましたから」
+#
+<removesprite -1 11>
+　恐ろしいワザを学んだようだ……
+#
+<exit>
+:4975
+<music 2>
+<background "bg013a0.iph" 11>
+『飛び膝蹴り』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5852">
+「せいっっ！！」
+#
+<removesprite -1 11>
+　セリスの飛び膝蹴りが、曲がり角から走ってきた
+　食い逃げ犯の顔面にヒットした。
+#
+　憐れな食い逃げ犯は、そのまま逃げてきた方向に
+　吹き飛び倒れた。
+#
+　起き上がる気配は無い。
+#
+　と言うか、生きてるかな？
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5853">
+「少しタイミングがズレた……」
+#
+<name "Lazlocke">
+「今のでか？
+　俺が見た感じでは、これ以上無いタイミングで決
+　まったと思うが……」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5854">
+「綺麗に決まれば、後ろに飛ばずにその場で崩れる
+　んです」
+#
+<name "Lazlocke">
+「……むう、恐ろしい」
+#
+<removesprite -1 11>
+<exit>
+:4C2C
+<music 10>
+<background "bg004a0.iph" 11>
+『テツザンコウ』
+#
+<name "Lazlocke">
+「ソシエットにワザを教えて貰ったんだって？」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5855">
+「はい。
+　遥か東方の武術の技で、テツザンコウと言うんで
+　す」
+#
+<name "Lazlocke">
+「へー、どんなワザなんだ？」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5856">
+「…………体当たりでしょうか？」
+#
+<name "Lazlocke">
+「体当たり？
+　セリスの体重じゃ、イマイチ威力が無いんじゃな
+　いのか？」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5857">
+「そう思いますよね」
+#
+<name "Lazlocke">
+「ああ」
+#
+<sprite "ta01d90.iph" 4 4 12>
+<name "Celes" "!AA5858">
+「では、そこに立ってください」
+#
+<name "Lazlocke">
+「なんだ？
+　俺相手に試すのか？
+　構わないけど……軽くだぞ」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5859">
+「はい。
+　いきますよー」
+#
+<removesprite -1 11>
+　俺は巨大な岩にぶつかったような衝撃を受け、数
+　メートルほど後ろに飛ばされて倒れた。
+#
+<name "Lazlocke">
+「か、軽くって言ったのに……」
+#
+　俺はそのまま、気を失った。
+#
+<exit>
+:5003
+<music 10>
+<background "bg004a0.iph" 11>
+『テツザンコウ』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5860">
+「ていっ！」
+#
+<removesprite -1 11>
+　セリスは岩を相手に、テツザンコウの練習をして
+　いた。
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA1079">
+「掛け声がイマイチですね」
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a22.iph" 6 4 11>
+<name "Celes" "!AA5861">
+「そうですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1080">
+「発声も武術では大事な部分です。
+　もう少し、力の入る掛け声にしましょう」
+#
+<sprite "ta01d27.iph" 2 5 12>
+<name "Celes" "!AA5862">
+「例えば？」
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1081">
+「そうですね……」
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1082">
+「セイッ！！！！」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1083">
+「とか」
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1085">
+「ヤァッ！！！！」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1086">
+「などは如何でしょうか」
+#
+<sprite "ta01d92.iph" 2 5 12>
+<name "Celes" "!AA5863">
+「が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:540C
+<music 10>
+<background "bg004a0.iph" 11>
+『テツザンコウ』
+#
+　セリスがテツザンコウの練習をしていた。
+#
+　リズム良く、岩を砕いている。
+#
+　……
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5864">
+「あ、師匠」
+#
+<name "Lazlocke">
+「扉をぶち破って室内に突入する時は、頼りにする
+　ぞ」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5865">
+「は？」
+#
+<removesprite -1 11>
+<exit>
+:5569
+<music 10>
+<background "bg004a0.iph" 11>
+『テツザンコウ』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5866">
+「セイヤッ！」
+#
+<removesprite -1 11>
+　初動から、決まるまでの無駄の無いテツザンコウ
+　が炸裂する。
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1087">
+「見事です」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5867">
+「ソシエットさん」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1088">
+「後は、日々の繰り返しと実践がワザを研磨してく
+　れるでしょう。
+　頑張ってください」
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA5868">
+「はい。
+　ありがとうございます」
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5869">
+「そして……倒れている師匠。
+　ありがとうございます」
+#
+<removesprite -1 11>
+　テツザンコウを喰らって気を失っている俺は、返
+　事はできなかった。
+#
+<exit>
+:588D
+<music 10>
+<background "bg004a0.iph" 11>
+『裸絞め』
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA5870">
+「キメたら……こうっ」
+#
+<name "Lazlocke">
+「ん？
+　何を決めるんだ？」
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA5871">
+「首です」
+#
+<name "Lazlocke">
+「は？」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5872">
+「こんな感じに……」
+#
+<removesprite -1 11>
+　俺は気を失った。
+#
+<exit>
+:59F7
+<music 10>
+<background "bg004a0.iph" 11>
+『裸絞め』
+#
+　セリスは俺を相手に関節技の練習をしていた。
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5873">
+「どうですか？」
+#
+<name "Lazlocke">
+「く、苦しい……が、密着されるのは悪く無いとか
+　考えると耐えられたり……」
+#
+<removesprite -1 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA1089">
+「ご主人様。
+　下手に耐えると、逆に危険です。
+　セリスさん、左腕を少し捻ってください」
+#
+<removesprite -1 11>
+　セリスが左腕を捻った瞬間、俺は気を失った。
+#
+<exit>
+:5BD2
+<music 10>
+<background "bg002b0.iph" 11>
+『裸絞め』
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA5874">
+「私の技が……通用しない……」
+#
+<name "Lazlocke">
+「ベッドの上で俺に勝とうなど百年早い」
+#
+<removesprite -1 11>
+<exit>
+:5C95
+<music 10>
+<background "bg004a0.iph" 11>
+『腕挫十字固』
+#
+　セリスは、俺を相手に関節技の練習をしていた。
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5875">
+「どうですか？」
+#
+<name "Lazlocke">
+「い、痛いが……腕全体でお前の太股や腹や胸を感
+　じられて悪く無い」
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1500">
+「セリスさん。
+　折って上げてください」
+#
+<name "Lazlocke">
+「わ、悪かった」
+#
+<removesprite -1 11>
+<exit>
+:5E4C
+<music 10>
+<background "bg002a0.iph" 11>
+『腕挫十字固』
+#
+　セリスとＨな事をしていると、いつの間にか腕を
+　取られていた。
+#
+<name "Lazlocke">
+「これは？」
+#
+<sprite "ta01a52.iph" 4 4 11>
+<name "Celes" "!AA5877">
+「あはは……クセで」
+#
+<name "Lazlocke">
+「じゃあクセで返して、捻り込むぞ」
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA5878">
+「あん♪」
+#
+<removesprite -1 11>
+<exit>
+:5FA7
+<music 10>
+<background "bg004a0.iph" 11>
+『金剛体』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1090">
+「これは、肉体の訓練の他にも、集中力が必要とな
+　ります。
+　ですので、集中力の訓練です。
+　集中してください」
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5879">
+「はい」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1091">
+「ご主人様。
+　エロい目でセリスさんを見てください」
+#
+<name "Lazlocke">
+「エロい目……こんな感じか？」
+#
+<sprite "ta01d10.iph" 2 5 12>
+<name "Celes" "!AA5880">
+「ひっ」
+#
+<sprite "ta04a25.iph" 6 4 12>
+<name "Soshiette" "!DA1092">
+「セリスさん。
+　集中を乱してはいけません」
+#
+<sprite "ta01d42.iph" 2 5 12>
+<name "Celes" "!AA5881">
+「す、すみません」
+#
+<removesprite -1 11>
+　俺のエロい目って、そんなに相手をビビらせるの
+　か……
+#
+<exit>
+:62B6
+<music 10>
+<background "bg004a0.iph" 11>
+『金剛体』
+#
+<name "Lazlocke">
+「集中すると……硬く。
+　集中しないと……柔らかい」
+#
+<sprite "ta01d97.iph" 4 4 11>
+<name "Celes" "!AA5882">
+「師匠、私の胸で遊ばないでください」
+#
+<removesprite -1 11>
+<exit>
+\x78

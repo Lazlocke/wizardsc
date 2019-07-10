@@ -1,0 +1,1316 @@
+\x1A\x01\x07\x04\x04\xD8\x84\x00\x01\x0E :39: \x1A\x01\x0A\x02\x00\x0C 49 \x01\x0E :39: \x16 :CDA: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xD8\x84\x01\x15 :CD9: 
+:39
+\x1A\x01\x07\x04\x04\xD9\x84\x00\x01\x0E :90: \x1A\x01\x0A\x02\x00\x0C 97 \x01\x0E :90: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :90: \x1A\x01\x07\x44\x03\x31\x84\x01\x01\x0E :90: \x16 :DDC: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xD9\x84\x01\x15 :CD9: 
+:90
+\x1A\x01\x07\x04\x04\xDA\x84\x00\x01\x0E :C9: \x1A\x01\x0A\x02\x00\x0C 97 \x01\x0E :C9: \x16 :133B: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xDA\x84\x01\x15 :CD9: 
+:C9
+\x1A\x01\x07\x04\x04\xDB\x84\x00\x01\x0E :114: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x14 :114: \x1A\x01\x0A\x02\x00\x0C 136 \x01\x0E :114: \x16 :1564: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xDB\x84\x01\x15 :CD9: 
+:114
+\x1A\x01\x07\x04\x00\x80\x84\x00\x01\x0E :29F: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :29F: \x2E\x22\x00\x02 1  5 \x1A\x01\x0A\x02\x00\x0C 21 \x01\x14 :164: \x0A\x22\x00\x02 6 \x0A\x04\x00\x80\x84\x01
+:164
+\x1A\x01\x0A\x22\x00\x02 1 \x01\x0E :1A3: \x1A\x01\x07\x04\x04\xDC\x84\x00\x01\x0E :1A3: \x16 :1795: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xDC\x84\x01\x15 :CD9: 
+:1A3
+\x1A\x01\x0A\x22\x00\x02 2 \x01\x0E :1E2: \x1A\x01\x07\x04\x04\xDD\x84\x00\x01\x0E :1E2: \x16 :1942: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xDD\x84\x01\x15 :CD9: 
+:1E2
+\x1A\x01\x0A\x22\x00\x02 3 \x01\x0E :221: \x1A\x01\x07\x04\x04\xDE\x84\x00\x01\x0E :221: \x16 :19D6: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xDE\x84\x01\x15 :CD9: 
+:221
+\x1A\x01\x0A\x22\x00\x02 4 \x01\x0E :260: \x1A\x01\x07\x04\x04\xDF\x84\x00\x01\x0E :260: \x16 :1A9F: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xDF\x84\x01\x15 :CD9: 
+:260
+\x1A\x01\x0A\x22\x00\x02 5 \x01\x0E :29F: \x1A\x01\x07\x04\x04\xE0\x84\x00\x01\x0E :29F: \x16 :1B72: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE0\x84\x01\x15 :CD9: 
+:29F
+\x1A\x01\x07\x04\x00\x80\x84\x01\x01\x0E :4A2: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :4A2: \x2E\x22\x00\x02 1  7 \x1A\x01\x0A\x22\x00\x02 1 \x01\x0E :328: \x1A\x01\x07\x04\x04\xE1\x84\x00\x01\x0E :328: \xE9 3001 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 0 \x01\x14 :328: \x16 :1C86: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE1\x84\x01\x15 :CD9: 
+:328
+\x1A\x01\x0A\x22\x00\x02 2 \x01\x0E :367: \x1A\x01\x07\x04\x04\xE2\x84\x00\x01\x0E :367: \x16 :2013: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE2\x84\x01\x15 :CD9: 
+:367
+\x1A\x01\x0A\x22\x00\x02 3 \x01\x0E :3A6: \x1A\x01\x07\x04\x04\xE3\x84\x00\x01\x0E :3A6: \x16 :2172: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE3\x84\x01\x15 :CD9: 
+:3A6
+\x1A\x01\x0A\x22\x00\x02 4 \x01\x0E :3E5: \x1A\x01\x07\x04\x04\xE4\x84\x00\x01\x0E :3E5: \x16 :2305: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE4\x84\x01\x15 :CD9: 
+:3E5
+\x1A\x01\x0A\x22\x00\x02 5 \x01\x0E :424: \x1A\x01\x07\x04\x04\xE5\x84\x00\x01\x0E :424: \x16 :2535: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE5\x84\x01\x15 :CD9: 
+:424
+\x1A\x01\x0A\x22\x00\x02 6 \x01\x0E :463: \x1A\x01\x07\x04\x04\xE6\x84\x00\x01\x0E :463: \x16 :2603: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE6\x84\x01\x15 :CD9: 
+:463
+\x1A\x01\x0A\x22\x00\x02 7 \x01\x0E :4A2: \x1A\x01\x07\x04\x04\xE7\x84\x00\x01\x0E :4A2: \x16 :270B: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE7\x84\x01\x15 :CD9: 
+:4A2
+\x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :64B: \x1A\x01\x07\x04\x00\x80\x84\x00\x01\x0E :64B: \x2E\x22\x00\x02 1  6 \x1A\x01\x0A\x22\x00\x02 1 \x01\x0E :510: \x1A\x01\x07\x04\x04\xE8\x84\x00\x01\x0E :510: \x16 :27C0: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE8\x84\x01\x15 :CD9: 
+:510
+\x1A\x01\x0A\x22\x00\x02 2 \x01\x0E :54F: \x1A\x01\x07\x04\x04\xE9\x84\x00\x01\x0E :54F: \x16 :2A05: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xE9\x84\x01\x15 :CD9: 
+:54F
+\x1A\x01\x0A\x22\x00\x02 3 \x01\x0E :58E: \x1A\x01\x07\x04\x04\xEA\x84\x00\x01\x0E :58E: \x16 :2B87: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xEA\x84\x01\x15 :CD9: 
+:58E
+\x1A\x01\x0A\x22\x00\x02 4 \x01\x0E :5CD: \x1A\x01\x07\x04\x04\xEB\x84\x00\x01\x0E :5CD: \x16 :2C5D: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xEB\x84\x01\x15 :CD9: 
+:5CD
+\x1A\x01\x0A\x22\x00\x02 5 \x01\x0E :60C: \x1A\x01\x07\x04\x04\xEC\x84\x00\x01\x0E :60C: \x16 :2CEC: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xEC\x84\x01\x15 :CD9: 
+:60C
+\x1A\x01\x0A\x22\x00\x02 6 \x01\x0E :64B: \x1A\x01\x07\x04\x04\xED\x84\x00\x01\x0E :64B: \x16 :2E2A: \x0A\x04\x00\x80\x84\x01\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xED\x84\x01\x15 :CD9: 
+:64B
+\x1A\x01\x07\x04\x00\x80\x84\x01\x01\x0E :845: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :845: \x2E\x22\x00\x02 1  7 \x1A\x01\x0A\x22\x00\x02 1 \x01\x0E :6B9: \x1A\x01\x07\x04\x04\xEE\x84\x00\x01\x0E :6B9: \x16 :2F4F: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xEE\x84\x01\x15 :CD9: 
+:6B9
+\x1A\x01\x0A\x22\x00\x02 2 \x01\x0E :70A: \x1A\x01\x07\x04\x04\xEF\x84\x00\x01\x0E :70A: \x1A\x01\x0A\x02\x01\x94 12 \x01\x0E :70A: \x16 :317E: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xEF\x84\x01\x15 :CD9: 
+:70A
+\x1A\x01\x0A\x22\x00\x02 3 \x01\x0E :749: \x1A\x01\x07\x04\x04\xF0\x84\x00\x01\x0E :749: \x16 :3282: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF0\x84\x01\x15 :CD9: 
+:749
+\x1A\x01\x0A\x22\x00\x02 4 \x01\x0E :788: \x1A\x01\x07\x04\x04\xF1\x84\x00\x01\x0E :788: \x16 :3349: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF1\x84\x01\x15 :CD9: 
+:788
+\x1A\x01\x0A\x22\x00\x02 5 \x01\x0E :7C7: \x1A\x01\x07\x04\x04\xF2\x84\x00\x01\x0E :7C7: \x16 :34BA: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF2\x84\x01\x15 :CD9: 
+:7C7
+\x1A\x01\x0A\x22\x00\x02 6 \x01\x0E :806: \x1A\x01\x07\x04\x04\xF3\x84\x00\x01\x0E :806: \x16 :35B8: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF3\x84\x01\x15 :CD9: 
+:806
+\x1A\x01\x0A\x22\x00\x02 7 \x01\x0E :845: \x1A\x01\x07\x04\x04\xF4\x84\x00\x01\x0E :845: \x16 :369C: \x0A\x04\x00\x80\x84\x00\x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF4\x84\x01\x15 :CD9: 
+:845
+\x1A\x01\x07\x04\x04\xF7\x84\x00\x01\x0E :8FB: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :8FB: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :8FB: \x1A\x01\x07\x04\x04\xF5\x84\x00\x01\x0E :8AD: \x16 :376B: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF5\x84\x01\x15 :CD9: 
+:8AD
+\x1A\x01\x07\x04\x04\xF6\x84\x00\x01\x0E :8D4: \x16 :3A1C: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF6\x84\x01\x15 :CD9: 
+:8D4
+\x1A\x01\x07\x04\x04\xF7\x84\x00\x01\x0E :8FB: \x16 :3B1F: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF7\x84\x01\x15 :CD9: 
+:8FB
+\x1A\x01\x07\x04\x04\xF8\x84\x00\x01\x0E :963: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :963: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :963: \x1A\x01\x07\x04\x04\xF8\x84\x00\x01\x0E :963: \x16 :3BF9: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF8\x84\x01\x15 :CD9: 
+:963
+\x1A\x01\x07\x04\x04\xF9\x84\x00\x01\x0E :9BC: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :9BC: \x1A\x01\x0A\x02\x01\x98 1 \x01\x0E :9BC: \x16 :3D78: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xF9\x84\x01\x15 :CD9: 
+:9BC
+\x1A\x01\x07\x04\x04\xFC\x84\x00\x01\x0E :A93: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :A93: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :A93: \x1A\x01\x0A\x02\x01\x98 2 \x01\x0E :A93: \x1A\x01\x07\x04\x04\xFA\x84\x00\x01\x0E :A36: \x16 :3F17: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xFA\x84\x01\x15 :CD9: 
+:A36
+\x1A\x01\x07\x04\x04\xFB\x84\x00\x01\x0E :A5D: \x16 :40E9: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xFB\x84\x01\x15 :CD9: 
+:A5D
+\x1A\x01\x07\x04\x04\xFC\x84\x00\x01\x0E :A93: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :A93: \x16 :42AB: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xFC\x84\x01\x15 :CD9: 
+:A93
+\x1A\x01\x07\x04\x05\x00\x84\x00\x01\x0E :B34: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :B34: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :B34: \x1A\x01\x07\x04\x04\xFD\x84\x00\x01\x0E :B0D: \x1A\x01\x0A\x02\x01\x98 3 \x01\x0E :B0D: \x16 :4543: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xFD\x84\x01\x15 :CD9: 
+:B0D
+\x1A\x01\x07\x04\x05\x00\x84\x00\x01\x0E :B34: \x16 :50EE: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x00\x84\x01\x15 :CD9: 
+:B34
+\x1A\x01\x07\x04\x04\xFF\x84\x00\x01\x0E :C0E: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :C0E: \x1A\x01\x0A\x02\x01\x98 3 \x01\x0E :C0E: \x1A\x01\x07\x04\x04\xFE\x84\x00\x01\x0E :BC9: \x1A\x01\x07\x04\x00\xCC\x84\x01\x01\x0E :BC9: \x1A\x01\x07\x04\x00\xD1\x84\x01\x01\x0E :BC9: \x1A\x01\x07\x04\x00\xCD\x84\x01\x01\x0E :BC9: \x16 :4726: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xFE\x84\x01\x15 :CD9: 
+:BC9
+\x1A\x01\x07\x04\x04\xFF\x84\x00\x01\x0E :C0E: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :C0E: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :C0E: \x16 :4E23: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x04\xFF\x84\x01\x15 :CD9: 
+:C0E
+\x1A\x01\x07\x04\x05\x02\x84\x00\x01\x0E :CD9: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :CD9: \x2E\x22\x00\x01 1  20 \x1A\x01\x0A\x22\x00\x01 10 \x01\x15 :CD9: \x1A\x01\x0A\x02\x01\x98 4 \x01\x0E :CD9: \x1A\x01\x07\x04\x05\x01\x84\x00\x01\x0E :C85: \x16 :52CD: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x01\x84\x01\x15 :CD9: 
+:C85
+\x1A\x01\x07\x04\x05\x02\x84\x00\x01\x0E :CD9: \x1A\x01\x07\x04\x00\xCC\x84\x01\x01\x0E :CD9: \x1A\x01\x07\x04\x00\xD1\x84\x01\x01\x0E :CD9: \x1A\x01\x07\x04\x00\xCD\x84\x01\x01\x0E :CD9: \x16 :5666: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x02\x84\x01\x15 :CD9: 
+:CD9
+\x78
+:CDA
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0424">
+「新年、明けましておめでとうございます」
+#
+<name "Lazlocke">
+「おめでとう。
+　今年も一年、頑張るように」
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA0425">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:DDC
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「ハッピーニューイヤー♪」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0426">
+「おめでとうございます。
+　今年もよろしくお願いします」
+#
+<name "Lazlocke">
+「うむ。
+　さあ、酒を飲もう。
+　後でヴィオラの家にも襲撃だ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0427">
+「はい」
+#
+<removesprite -1 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0048">
+「その必要は無いわ！」
+#
+<name "Lazlocke">
+「うおっ、先に襲撃されたー」
+#
+<removesprite -1 11>
+<sprite "ta03a05.iph" 2 4 11>
+<sprite "ta02a04.iph" 6 5 11>
+<name "Viola" "!BA0133">
+「おめでとう。
+　……かなり酔ってるわね」
+#
+<name "Lazlocke">
+「いや、酔ってないぞ。
+　酔ってない。
+　だから……」
+#
+<sprite "ta03a34.iph" 2 4 12>
+<name "Viola" "!BA0134">
+「えっ」
+#
+<removesprite 2 11>
+<removesprite -1 11>
+<sprite "ta02a16.iph" 4 4 11>
+<name "Elle" "!CA0049">
+「こらぁぁっ！
+　なに、師匠を押し倒してるのよ！
+　離れなさいっ！
+　師匠も硬直してないで抵抗してください」
+#
+<name "Viola" "!BA0135">
+「あ、そ、そうね」
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta02a16.iph" 6 4 11>
+<name "Celes" "!AA0428">
+「イエルちゃん、ヴィオラさん。
+　お酒とお料理を出します。
+　どうぞ」
+#
+<sprite "ta02a20.iph" 6 4 12>
+<name "Elle" "!CA0051">
+「ありがとう。
+　あと、セリスの師匠を縛るの、手伝ってくれない」
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA0429">
+「あはは……」
+#
+<removesprite -1 11>
+　賑やかなウチに、新年初日を終えた。
+#
+\x0A\x04\x01\x04\x84\x01
+<exit>
+:133B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0430">
+「明けましておめでとうございます。
+　今年も一年、よろしくお願いします」
+#
+<name "Lazlocke">
+「ああ。
+　おめでとう」
+#
+<name "Lazlocke">
+「今年の末に始まる、クデュール魔法大会。
+　来年の今頃が本選。
+　……それを目指してこれまでやってきた」
+#
+<name "Lazlocke">
+「残り一年。
+　短いように思えるかもしれないが、これまでのセ
+　リスの成長を見れば、一年とて侮れない」
+#
+<name "Lazlocke">
+「頑張っていこう」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0431">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1564
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0131">
+「もうすぐですね」
+#
+<name "Lazlocke">
+「ああ」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0132">
+「なにか特別な事をしますか？」
+#
+<name "Lazlocke">
+「いや、いつも通りだ」
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0133">
+「それで十分ですか？」
+#
+<name "Lazlocke">
+「十の大きさの箱には、十しか入らない。
+　無理に十二や十三詰め込んでも、零れるだけだし、
+　運が悪ければ箱が壊れる」
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0134">
+「……了解しました」
+#
+<removesprite -1 11>
+<exit>
+:1795
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+「暖かくなってきたな」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0600">
+「はい。
+　そろそろ、春ですね」
+#
+<name "Lazlocke">
+「そうか……
+　じゃあ、種でも植えるか」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0601">
+「花の種ですか？」
+#
+<name "Lazlocke">
+「最終的には野菜になる」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0602">
+「……ニンジン以外なら、手伝います」
+#
+<removesprite -1 11>
+<exit>
+:1942
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0603">
+「ポカポカの季節ですね」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<removesprite -1 11>
+<exit>
+:19D6
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Celes" "!AA0604">
+「すやすや～」
+#
+<name "Lazlocke">
+「春だからって、油断しないように」
+#
+<sprite "ta01a36.iph" 4 4 11>
+<name "Celes" "!AA0605">
+「す、すみません」
+#
+<removesprite -1 11>
+<exit>
+:1A9F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0606">
+「暖かくなると、起きる時に辛くないのが良いですね」
+#
+<name "Lazlocke">
+「そうだな。
+　目覚めが良いと、気分も良くなる」
+#
+<removesprite -1 11>
+<exit>
+:1B72
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0607">
+「春ですねぇ」
+#
+<name "Lazlocke">
+「春だな」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA0608">
+「と言う事で、今日の昼食は外でなんか如何でしょ
+　う？」
+#
+<name "Lazlocke">
+「悪く無い」
+#
+<removesprite -1 11>
+<exit>
+:1C86
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「暑くなってきたな……」
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA0609">
+「はい。
+　川とか海で避暑がしたいです」
+#
+<name "Lazlocke">
+「避暑ってワケじゃないが、海でアルバイトなら出
+　来るぞ」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA0610">
+「本当ですか？」
+#
+<name "Lazlocke">
+「ああ、ローリアの街から南に一時間ほど行った所
+　にある海で、警備のバイトだ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0611">
+「警備ですか？」
+#
+<name "Lazlocke">
+「ああ、海で開放的になって馬鹿な事をするヤツが
+　居るらしい」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0612">
+「馬鹿な事？」
+#
+<name "Lazlocke">
+「あー、ナンパや押し売り、窃盗、痴漢なんかかな」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA0613">
+「馬鹿な事ですね」
+#
+<name "Lazlocke">
+「それを取り締まる仕事だ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0614">
+「わかりました。
+　考えておきます」
+#
+<removesprite -1 11>
+<exit>
+:2013
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「暑くなってきたな……」
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0615">
+「はい」
+#
+<name "Lazlocke">
+「実は、暑いのは苦手だ」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0616">
+「だから、魔法で冷やしていると？」
+#
+<name "Lazlocke">
+「魔法使いに生まれて、良かったと思える数少ない
+　事だな」
+#
+<removesprite -1 11>
+<exit>
+:2172
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA0617">
+「暑い季節です」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0618">
+「魔法で、家全体を冷やすとかできませんか？」
+#
+<name "Lazlocke">
+「昔、俺の師匠がそれをしようとして、家を氷漬け
+　にした事がある」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA0619">
+「……馬鹿な事を考えました」
+#
+<removesprite -1 11>
+<exit>
+:2305
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+「むう……暑いな」
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA0620">
+「そうですね」
+#
+<name "Lazlocke">
+「水でも撒くか？」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA0621">
+「そうですね。
+　ちょうど、ここに水が……ばしゃばしゃ。
+　撒いてみました」
+#
+<name "Lazlocke">
+「……なんだか、蒸し暑くなってないか？」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0622">
+「撒いた水が蒸発したからじゃないですか？」
+#
+<name "Lazlocke">
+「……水撒き作戦！
+　失敗！」
+#
+<removesprite -1 11>
+　打ち水は、朝方か夕方の涼しい時にしよう。
+#
+<exit>
+:2535
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA0623">
+「暑くなると、水の魔法の勉強がしたくなります」
+#
+<name "Lazlocke">
+「俺も、水の魔法の勉強をしたのは夏だったな……」
+#
+<removesprite -1 11>
+<exit>
+:2603
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「暑くなると、涼しい場所探しをしたりしないか？」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0624">
+「しますね。
+　あ、階段横は、私のポジションです」
+#
+<name "Lazlocke">
+「俺のベストポジションをすでに！」
+#
+<removesprite -1 11>
+<exit>
+:270B
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+「暑くなると、水仕事が少しだけ楽しい」
+#
+<sprite "ta01a42.iph" 4 4 11>
+<name "Celes" "!AA0625">
+「その他の仕事は地獄ですけど」
+#
+<removesprite -1 11>
+<exit>
+:27C0
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0626">
+「そろそろ、涼しくなってきましたね」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA0627">
+「海ではクラゲが大量発生したらしいですよ」
+#
+<name "Lazlocke">
+「海の季節も終わりだな」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA0628">
+「残念です」
+#
+<name "Lazlocke">
+「まあ、その分。
+　食い物が美味くなるさ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0629">
+「ですね。
+　冬に備えて、頑張って食べます」
+#
+<name "Lazlocke">
+「その前に、裏庭の畑の収獲を手伝うように」
+#
+<removesprite -1 11>
+<exit>
+:2A05
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0205">
+「そろそろ、秋の食べ物の季節です」
+#
+<name "Lazlocke">
+「それは催促か？」
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA0206">
+「事実の確認です」
+#
+<name "Lazlocke">
+「……わかった、それなりの料理を用意しよう」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0207">
+「楽しみにしております」
+#
+<removesprite -1 11>
+<exit>
+:2B87
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA0630">
+「秋ですね。
+　商店街で、食材の種類が増えてましたよ」
+#
+<name "Lazlocke">
+「そうか。
+　料理をするのが、少し楽しみだな」
+#
+<removesprite -1 11>
+<exit>
+:2C5D
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「涼しくなってきたな」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0631">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2CEC
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「涼しくなってきたな」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0632">
+「そうですね。
+　過ごしやすくなってきましたが……
+　寒い冬が来ると思うと憂鬱です」
+#
+<name "Lazlocke">
+「まだ先だ」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA0633">
+「すぐですよ」
+#
+<removesprite -1 11>
+<exit>
+:2E2A
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「秋っぽい事って、なんだろな？」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0634">
+「……食事でしょうか？」
+#
+<name "Lazlocke">
+「食事か……
+　秋の食材で、作ってみるか？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0635">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2F4F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0636">
+「急に冷えてきましたね」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<removesprite -1 11>
+　この辺りで雪が降る事は少ないが、それでもそれ
+　なりに冷え込む。
+#
+　夜、外で寝るのは危険なぐらいだ。
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0637">
+「師匠は平気なんですか？
+　いつもと変わりませんけど？」
+#
+<name "Lazlocke">
+「魔法で温かい空気を作り、それを身にまとわせて
+　いるからな」
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA0638">
+「ズ、ズルイ！
+　それ、まだ習ってません！」
+#
+<removesprite -1 11>
+<exit>
+:317E
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA0639">
+「１２月ですが、今年はまだ暖かいですね」
+#
+<name "Lazlocke">
+「そうだな。
+　だが、油断して風邪をひくなよ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0640">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3282
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0641">
+「寒い季節です。
+　魔法で、暖かく出来ると良いのに……」
+#
+<name "Lazlocke">
+「魔法も万能じゃないって事だ」
+#
+<removesprite -1 11>
+<exit>
+:3349
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0642">
+「寒い季節になると、師匠がやたらと寝る前に誘っ
+　てきます」
+#
+<name "Lazlocke">
+「寒い時は、人肌が一番」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0643">
+「……」
+#
+<name "Lazlocke">
+「ダメか？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0644">
+「さ、寒いよりは良いですね」
+#
+<removesprite -1 11>
+<exit>
+:34BA
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0645">
+「寒くなってきましたね」
+#
+<name "Lazlocke">
+「そうだな。
+　なかなかベッドから抜け出せなくて困るな」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA0646">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:35B8
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「寒くなってきたから、扉の開け閉めは素早くする
+　ように」
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0647">
+「外の空気は冷たいですからね」
+#
+<name "Lazlocke">
+「うむ」
+#
+<removesprite -1 11>
+<exit>
+:369C
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「お茶が美味しくなってきたなぁ」
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0648">
+「寒くなってきたからでしょうか」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<removesprite -1 11>
+<exit>
+:376B
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「晴れが続いたな……
+　そろそろ、本の虫干しでもするか」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0649">
+「虫干し？」
+#
+<name "Lazlocke">
+「本を日陰で干して、湿気を飛ばし、虫やカビの発
+　生を避けるんだ。
+　家でやっていなかったのか？」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0650">
+「そう言えば……時々、本を並べてたような……」
+#
+<name "Lazlocke">
+「自分でやっていなかったんだな」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA0651">
+「あはは……」
+#
+<name "Lazlocke">
+「確かに、本来はメイドの仕事だが、俺達のような
+　貧乏人は自分でやるんだ。
+　手伝うように」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0652">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3A1C
+<music 10>
+<background "bg003a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA0653">
+「夏に向けて、水着を用意しなきゃ……
+　どこに仕舞ったかな……」
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA0654">
+「あ、あったあった……うわっ！
+　カビてる！」
+#
+<removesprite -1 11>
+<exit>
+:3B1F
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0655">
+「花が綺麗……」
+#
+<name "Lazlocke">
+「セリス。
+　お茶にしよう」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0656">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3BF9
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA0657">
+「虫除けの魔法！」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0658">
+「と言っても、おまじないレベルですが……」
+#
+<name "Lazlocke">
+「いやいや、呪いのレベルになってるぞ……
+　虫の死骸が床にバラバラと……」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA0659">
+「虫に刺されるのは嫌なんです」
+#
+<removesprite -1 11>
+<exit>
+:3D78
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+「東の方の国では、今の時期には月を愛でるらしい」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0660">
+「月をですか？」
+#
+<name "Lazlocke">
+「ああ……
+　そして、風呂に入るんだっけ？
+　いや、お粥を食べるんだったかな？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0661">
+「良く解りませんが、とりあえずお団子でも食べま
+　しょう」
+#
+<name "Lazlocke">
+「おう」
+#
+<removesprite -1 11>
+<exit>
+:3F17
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0662">
+「収穫祭ですか？」
+#
+<name "Lazlocke">
+「おう、各家庭から食材を持ち寄って、みんなで料
+　理するんだ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0663">
+「楽しそうですね」
+#
+<name "Lazlocke">
+「食材のある家はな」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0664">
+「う……」
+#
+<name "Lazlocke">
+「後で、買いに行こう」
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA0665">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:40E9
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0666">
+「収穫祭ですね。
+　街に行きませんか？」
+#
+<name "Lazlocke">
+「そうだな」
+#
+<removesprite -1 11>
+　俺とセリスは収穫祭を楽しみに街に出た。
+#
+　街では、各家庭から持ち寄られた食材で料理が作
+　られ、みんなに振舞われていた。
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0667">
+「美味しいですね」
+#
+<name "Lazlocke">
+「流石、収穫祭」
+#
+　俺とセリスは、収穫祭を楽しんだ。
+#
+<removesprite -1 11>
+<exit>
+:42AB
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「収穫祭に行くか」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0668">
+「はい」
+#
+<removesprite -1 11>
+　俺とセリスは、収穫祭に出かけた。
+#
+<background "bg013a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0066">
+「こんにちは」
+#
+<removesprite -1 11>
+<sprite "ta03a05.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Viola" "!BA0152">
+「やっぱり、来たわね」
+#
+<name "Lazlocke">
+「まあ、こんなイベントだからな」
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0669">
+「みんなで楽しみましょう」
+#
+<removesprite -1 11>
+　四人で収穫祭を楽しんだ。
+#
+<sprite "ta04a23.iph" 4 4 11>
+<name "Soshiette" "!DA0209">
+「し、仕事さえなければ……」
+#
+<removesprite -1 11>
+<exit>
+:4543
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「そう言えば、年末ってどうして祝うんだろうな？」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0670">
+「今年一年に感謝してじゃないですか？」
+#
+<name "Lazlocke">
+「新年は？」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA0671">
+「新しい一年に感謝してじゃないですか？」
+#
+<name "Lazlocke">
+「感謝してばっかりだな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0672">
+「理由を付けて、騒げるじゃないですか」
+#
+<name "Lazlocke">
+「確かに」
+#
+<removesprite -1 11>
+<exit>
+:4726
+<music 2>
+<background "bg013a0.iph" 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4774: \x52 "ta10a20.iph"  4  4  11 \x18 :4791: 
+:4774
+\x52 "ta10b20.iph"  4  4  11 
+:4791
+\x2B
+<name "イングウェイ" "!TA0000">
+「イエス、イングウェイ！」
+#
+<removesprite -1 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4824: \x52 "ta13a47.iph"  2  4  11 \x52 "ta10a20.iph"  6  5  11 \x18 :485E: 
+:4824
+\x52 "ta13a47.iph"  2  4  11 \x52 "ta10b20.iph"  6  5  11 
+:485E
+\x2B
+<name "ヘンドリク" "!QA0000">
+「ヘンドリクです」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :48BE: \x52 "ta10a00.iph"  6  5  12 \x18 :48DB: 
+:48BE
+\x52 "ta10b00.iph"  6  5  12 
+:48DB
+\x2B
+<name "イングウェイ" "!TA0001">
+「さて、年末だな」
+#
+<sprite "ta13a48.iph" 2 4 12>
+<name "ヘンドリク" "!QA0001">
+「そうだが、なぜ私を呼び出したんだ？」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :499C: \x52 "ta10a31.iph"  6  5  12 \x18 :49B9: 
+:499C
+\x52 "ta10b31.iph"  6  5  12 
+:49B9
+\x2B
+<name "イングウェイ" "!TA0002">
+「年末年始は、急増のカップルが多い！」
+#
+<sprite "ta13a59.iph" 2 4 12>
+<name "ヘンドリク" "!QA0002">
+「はぁ……そうだな」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4A7C: \x52 "ta10a29.iph"  6  5  12 \x18 :4A99: 
+:4A7C
+\x52 "ta10b29.iph"  6  5  12 
+:4A99
+\x2B
+<name "イングウェイ" "!TA0003">
+「そんなカップルを、正義の矢で貫くのだ！」
+#
+<sprite "ta13a57.iph" 2 4 12>
+<name "ヘンドリク" "!QA0003">
+「おいおい」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4B58: \x52 "ta10a27.iph"  6  5  12 \x18 :4B75: 
+:4B58
+\x52 "ta10b27.iph"  6  5  12 
+:4B75
+\x2B
+<name "イングウェイ" "!TA0004">
+「真のカップルなら、矢で貫かれても愛を貫くはず
+　だ！」
+#
+<sprite "ta13a59.iph" 2 4 12>
+<name "ヘンドリク" "!QA0004">
+「まるっきり、ワケがわからん！」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4C57: \x52 "ta10a18.iph"  6  5  12 \x18 :4C74: 
+:4C57
+\x52 "ta10b18.iph"  6  5  12 
+:4C74
+\x2B
+<name "イングウェイ" "!TA0005">
+「これがお前の担当分だ」
+#
+<sprite "ta13a48.iph" 2 4 12>
+<name "ヘンドリク" "!QA0005">
+「は？
+　このリスト……軽く千組はあるが……」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4D44: \x52 "ta10a05.iph"  6  5  12 \x18 :4D61: 
+:4D44
+\x52 "ta10b05.iph"  6  5  12 
+:4D61
+\x2B
+<name "イングウェイ" "!TA0006">
+「世の中、悪が多いからなぁ」
+#
+<sprite "ta13a44.iph" 2 4 12>
+<name "ヘンドリク" "!QA0006">
+「おおいっ！」
+#
+<removesprite -1 11>
+　その後、二人はめでたく協会の警備に捕縛された。
+#
+<exit>
+:4E23
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta14a00.iph" 4 4 11>
+<name "レッキーノ" "!RA0000">
+「おい」
+#
+<removesprite -1 11>
+<sprite "ta14a00.iph" 2 4 11>
+<sprite "ta12a00.iph" 6 5 11>
+<name "リノ" "!PA0000">
+「ん？
+　なんだ？」
+#
+<name "レッキーノ" "!RA0001">
+「年末だ。
+　酒でも付き合わんか？」
+#
+<sprite "ta12a40.iph" 6 5 12>
+<name "リノ" "!PA0001">
+「悪いが、用事がある」
+#
+<name "レッキーノ" "!RA0002">
+「女か？」
+#
+<sprite "ta12a38.iph" 6 5 12>
+<name "リノ" "!PA0002">
+「そうだ」
+#
+<name "レッキーノ" "!RA0003">
+「……」
+#
+<sprite "ta12a00.iph" 6 5 12>
+<name "リノ" "!PA0003">
+「じゃあな。
+　飲み過ぎるなよ」
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta14a00.iph" 4 4 11>
+<name "レッキーノ" "!RA0004">
+「冗談だったのに……」
+#
+<removesprite -1 11>
+　レッキーノは一人寂しく、酒を飲んだ。
+#
+<exit>
+:50EE
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0673">
+「師匠、雪ですよ。
+　綺麗ですね」
+#
+<removesprite -1 11>
+　セリスに言われて、窓の外を見てみると、雪が降
+　り始めていた。
+#
+<name "Lazlocke">
+「そうだな。
+　すぐに消えてしまうと思うと、なお美しい」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0674">
+「はい」
+#
+<name "Lazlocke">
+「しかし、この寒さは駄目だと思うんだ」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA0675">
+「はい。
+　同感です」
+#
+<removesprite -1 11>
+<exit>
+:52CD
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0067">
+「最近、東の方から伝わってきた行事なんだけど、
+　この時期に女の方から男に物を贈って告白するら
+　しいのよ」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Celes" "!AA0676">
+「へー」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0068">
+「告白と言っても、“いつもありがとう”の意味が
+　強いらしいんだけどね」
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA0677">
+「なるほど」
+#
+<sprite "ta02a04.iph" 6 4 12>
+<name "Elle" "!CA0069">
+「女はそれだけなんだけど、男はその贈り物の数を
+　競うらしいのよ」
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA0678">
+「数を競うの？」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0070">
+「ええ、女性からこれだけ好かれているって」
+#
+<sprite "ta01a42.iph" 2 5 12>
+<name "Celes" "!AA0679">
+「……男って、馬鹿ね」
+#
+<sprite "ta02a10.iph" 6 4 12>
+<name "Elle" "!CA0071">
+「そうよね」
+#
+<removesprite -1 11>
+<exit>
+:5666
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0072">
+「この時期、女の方から男に物を贈って、告白する
+　らしいわよ」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Celes" "!AA0681">
+「へー」
+#
+<sprite "ta02a06.iph" 6 4 12>
+<name "Elle" "!CA0073">
+「なによ、生返事ね」
+#
+<sprite "ta01a27.iph" 2 5 12>
+<name "Celes" "!AA0682">
+「そんな場合じゃないし、告白したい相手も居ない
+　し……」
+#
+<sprite "ta02a35.iph" 6 4 12>
+<name "Elle" "!CA0074">
+「……つまんない」
+#
+<sprite "ta01a31.iph" 2 5 12>
+<name "Celes" "!AA0683">
+「ご、ごめん」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0075">
+「いいのよ。
+　私が悪かったわ」
+#
+<sprite "ta01a27.iph" 2 5 12>
+<name "Celes" "!AA0684">
+「そう？」
+#
+<sprite "ta02a11.iph" 6 4 12>
+<name "Elle" "!CA0076">
+「いじるなら、アッチだった」
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA0685">
+「へ？」
+#
+<removesprite -1 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :5A00: \x52 "ta10a18.iph"  4  4  11 \x18 :5A1D: 
+:5A00
+\x52 "ta10b18.iph"  4  4  11 
+:5A1D
+\x2B
+<name "イングウェイ" "!TA0007">
+「や、やあ、君達。
+　良い天気だね……お、お茶でもどうだい？」
+#
+<removesprite -1 11>
+\x2B\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :5AD6: \x52 "ta13a58.iph"  2  4  11 \x52 "ta10a18.iph"  6  5  11 \x18 :5B10: 
+:5AD6
+\x52 "ta13a58.iph"  2  4  11 \x52 "ta10b18.iph"  6  5  11 
+:5B10
+\x2B
+<name "ヘンドリク" "!QA0007">
+「ぐ、偶然だね」
+#
+<removesprite -1 11>
+<sprite "ta01a42.iph" 4 5 12>
+<name "Celes" "!AA0686">
+「ああ、イエルちゃんの目が面白い物を見つけた目
+　になってる……可哀想に」
+#
+<removesprite -1 11>
+<exit>
+\x78

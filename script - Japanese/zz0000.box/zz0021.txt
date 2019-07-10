@@ -1,0 +1,50 @@
+<music 3>
+<background "bg003a0.iph" 11>
+<sprite "ta02a06.iph" 4 4 11>
+<name "Elle" "!CA1213">
+「あのさ、セリス」
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a06.iph" 6 4 11>
+<name "Celes" "!AA7199">
+「はい」
+#
+<sprite "ta02a01.iph" 6 4 12>
+<name "Elle" "!CA1214">
+「あんまり言いたく無いけど……
+　魔法のスキルを覚えた時の会話」
+#
+<sprite "ta02a37.iph" 6 4 12>
+<name "Elle" "!CA1215">
+「頭が悪いのが多くない？」
+#
+<sprite "ta01a32.iph" 2 5 12>
+<name "Celes" "!AA7203">
+「………………わ、私が悪いんじゃないもん」
+#
+<sprite "ta02a35.iph" 6 4 12>
+<name "Elle" "!CA1216">
+「ないもんって……」
+#
+<sprite "ta01a34.iph" 2 5 12>
+<name "Celes" "!AA7204">
+「毎回毎回、面白い事が言えると思ったら間違いだ
+　からね」
+#
+<sprite "ta02a32.iph" 6 4 12>
+<name "Elle" "!CA1217">
+「いや、でも、芸人としては面白い事を毎回毎回言
+　うのが仕事なワケだし」
+#
+<sprite "ta01a41.iph" 2 5 12>
+<name "Celes" "!AA7205">
+「芸人じゃないもん。
+　魔法使いだもん」
+#
+<sprite "ta02a37.iph" 6 4 12>
+<name "Elle" "!CA1218">
+「あ、拗ねた」
+#
+<removesprite -1 11>
+\x2B\x78\x78

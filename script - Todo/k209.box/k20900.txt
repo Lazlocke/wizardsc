@@ -1,0 +1,432 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x02\xC6\x84\x00\x01\x0E :30: \xE6 "a1400" \x00\x16 :2B1: \x0A\x04\x02\xC6\x84\x01\x15 :249: 
+:30
+\xE9 2009 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :5D: \x15 :23D: 
+:5D
+\x1A\x01\x07\x04\x02\xC9\x84\x00\x01\x0E :87: \xE6 "a1401" \x00\x16 :6BA: \x0A\x04\x02\xC9\x84\x01\x15 :249: 
+:87
+\x1A\x01\x07\x04\x02\xCF\x84\x00\x01\x0E :B7: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :B7: \x16 :11BE: \x0A\x04\x02\xCF\x84\x01\x15 :249: 
+:B7
+\x1A\x01\x07\x04\x02\xCC\x84\x00\x01\x0E :E1: \xE6 "a1402" \x00\x16 :BB9: \x0A\x04\x02\xCC\x84\x01\x15 :249: 
+:E1
+\x1A\x01\x07\x04\x02\xC7\x84\x00\x01\x0E :10B: \xE6 "a1400" \x00\x16 :3EF: \x0A\x04\x02\xC7\x84\x01\x15 :249: 
+:10B
+\x1A\x01\x07\x04\x02\xCA\x84\x00\x01\x0E :135: \xE6 "a1401" \x00\x16 :7C9: \x0A\x04\x02\xCA\x84\x01\x15 :249: 
+:135
+\x1A\x01\x07\x04\x02\xCD\x84\x00\x01\x0E :16E: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :16E: \xE6 "a1402" \x00\x16 :D91: \x0A\x04\x02\xCD\x84\x01\x15 :249: 
+:16E
+\x1A\x01\x07\x04\x02\xC8\x84\x00\x01\x0E :198: \xE6 "a1400" \x00\x16 :559: \x0A\x04\x02\xC8\x84\x01\x15 :249: 
+:198
+\x1A\x01\x07\x04\x02\xCB\x84\x00\x01\x0E :1C2: \xE6 "a1401" \x00\x16 :90A: \x0A\x04\x02\xCB\x84\x01\x15 :249: 
+:1C2
+\x1A\x01\x07\x04\x02\xCE\x84\x00\x01\x0E :1EC: \xE6 "a1402" \x00\x16 :108D: \x0A\x04\x02\xCE\x84\x01\x15 :249: 
+:1EC
+\x1A\x01\x07\x04\x02\xD0\x84\x00\x01\x0E :20D: \x16 :14B4: \x0A\x04\x02\xD0\x84\x01\x15 :249: 
+:20D
+\x1A\x01\x07\x04\x02\xD1\x84\x00\x01\x0E :23D: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :23D: \x16 :16AF: \x0A\x04\x02\xD1\x84\x01\x15 :249: 
+:23D
+\x16 :1B5F: \x15 :249: 
+:249
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :2B0: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :29B: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :2B0: 
+:29B
+<background "ev008a0.iph" 11>
+\x2B
+:2B0
+\x78
+:2B1
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「砂を用意した」
+#
+<name "Lazlocke">
+「風車も用意した」
+#
+<name "Lazlocke">
+「何をするか、わかるな？」
+#
+<sprite "ta01d17.iph" 4 4 11>
+<name "Celes" "!AA1677">
+「……風車の力を使って、砂を粉にするとか？」
+#
+<name "Lazlocke">
+「よーし、こっちに来い。
+　凄い事をしてやる」
+#
+<removesprite -1 11>
+<exit>
+:3EF
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1678">
+「師匠。
+　火と水、闇と光はわかるんですが、風と土って関
+　係あるんですか？」
+#
+<name "Lazlocke">
+「火と水は熱量の高い低い。
+　光と闇は対極。
+　風と土は、物体の運動と停止と考える」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1679">
+「あ、なるほど。
+　納得です」
+#
+<removesprite -1 11>
+<exit>
+:559
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA1680">
+「風を操り、土を動かす。
+　土を操り、風を止める」
+#
+<sprite "ta01d32.iph" 4 4 12>
+<name "Celes" "!AA1681">
+「簡単そうに見えて、そうじゃない……」
+#
+<sprite "ta01d31.iph" 4 4 12>
+<name "Celes" "!AA1682">
+「魔法って奥が深い」
+#
+<name "Lazlocke">
+「まだまだ入り口付近だぞ」
+#
+<removesprite -1 11>
+<exit>
+:6BA
+<music 26>
+<background "bg002a0.iph" 11>
+　セリスは風と土の魔法練習をしていた。
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA1683">
+「風と土、風と土……うーん」
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA1684">
+「うわっ、砂ボコリが……
+　うう、風も土も敵だぁ！」
+#
+<removesprite -1 11>
+<exit>
+:7C9
+<music 26>
+<background "bg002a0.iph" 11>
+　セリスは風と土の魔法練習をしていた。
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0415">
+「まだまだですね」
+#
+<name "Lazlocke">
+「そうだが……
+　昔のお前も、あんな感じだったぞ」
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0416">
+「いえ、昔の私はもっと酷かったです」
+#
+<removesprite -1 11>
+<exit>
+:90A
+<music 26>
+<background "bg002a0.iph" 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA1685">
+「風の魔法っ！」
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA1686">
+「土の魔法っ！」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1687">
+「よし、良い感じ」
+#
+<sprite "ta01a18.iph" 4 4 12>
+<name "Celes" "!AA1688">
+「ご褒美にオヤツをもぐもぐ……」
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA1689">
+「よし、風の魔法っ！」
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA1690">
+「土の魔法っ！」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1691">
+「うん、良い感じ」
+#
+<sprite "ta01a18.iph" 4 4 12>
+<name "Celes" "!AA1692">
+「ご褒美にオヤツをもぐもぐ……」
+#
+<name "Lazlocke">
+「……その方法だと、太らないか？」
+#
+<removesprite -1 11>
+<exit>
+:BB9
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1693">
+「風の魔法で、岩を持ち上げるんですか？」
+#
+<name "Lazlocke">
+「ああ、風の苦手とする所を克服しつつ、土の魔法
+　の勉強をする方法だ」
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1694">
+「土の魔法の勉強になるんですか？」
+#
+<name "Lazlocke">
+「風で持ち上げる時に、土の事を知るからだ。
+　ま、やってみればわかる」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1695">
+「はい、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:D91
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA1696">
+「師匠。
+　風と土の魔法なら、誰が協会で一番なんですか？」
+#
+<name "Lazlocke">
+「なにをもって一番とするかで大きく答えが変わる
+　が、魔法の威力だけで言うならヴィオラが一番じゃ
+　ないか？」
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA1697">
+「ヴィオラさんですか」
+#
+<name "Lazlocke">
+「どうしたんだ？」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1698">
+「いえ、その人を見て何か参考にならないかと思い
+　まして……」
+#
+<name "Lazlocke">
+「うーん……
+　魔法使いってのは、特殊で変人ばかりだからな。
+　生活態度や思想から参考になる事は少ないと思う
+　ぞ」
+#
+<name "Lazlocke">
+「と言うか、参考にするな」
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA1699">
+「わ、わかりました」
+#
+<removesprite -1 11>
+<exit>
+:108D
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta01d31.iph" 4 4 11>
+<name "Celes" "!AA1700">
+「地面に横になってると、大地の息遣いと風を感じ
+　られる……
+　魔法に役立つかな」
+#
+<name "Lazlocke">
+「まあ、そのまま寝なければな」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1701">
+「あはは……寝ませんよー」
+#
+<removesprite -1 11>
+<exit>
+:11BE
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「……ん？
+　誰だ？」
+#
+<sprite "ta02a01.iph" 4 4 11>
+<name "Elle" "!CA0163">
+「え、えっと……」
+#
+<name "Lazlocke">
+「どうしたんだ？
+　隠れて……セリスなら……」
+#
+<removesprite -1 11>
+　言いかけて気付いた。
+#
+　イエルはセリスの練習風景を隠れて見ていたのだ。
+#
+<sprite "ta02a27.iph" 4 4 11>
+<name "Elle" "!CA0164">
+「あはは……
+　別に覗くつもりはなかったんですが、つい声を掛
+　けそびれて……」
+#
+<name "Lazlocke">
+「そうか。
+　じゃあ、セリスに……」
+#
+<sprite "ta02a28.iph" 4 4 12>
+<name "Elle" "!CA0165">
+「い、いえ……」
+#
+<name "Lazlocke">
+「……黙っておこう」
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0166">
+「ありがとうございます」
+#
+<removesprite -1 11>
+　そう言ってイエルは隠れた。
+#
+<name "Lazlocke">
+「……偵察は続けるんだ」
+#
+<exit>
+:14B4
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a02.iph" 4 4 11>
+<name "Soshiette" "!DA0417">
+「風と土の同時練習ですか……
+　闇と光に並び、魔法の心髄と言われる部分ですね」
+#
+<name "Lazlocke">
+「そうだな……」
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0419">
+「それを魔法を始めて僅かでやらせるとは……
+　凄いですね」
+#
+<name "Lazlocke">
+「凄いってどっちだ？
+　やらせてる俺か？
+　やってるセリスか？」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0420">
+「両方です。
+　良い師弟だと思います」
+#
+<removesprite -1 11>
+<exit>
+:16AF
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta05a01.iph" 4 4 11>
+<name "ルーン" "!EA0094">
+「頑張っているわね」
+#
+<name "Lazlocke">
+「ええ、優秀な弟子ですから。
+　……今日はどんな御用ですか？」
+#
+<sprite "ta05a12.iph" 4 4 12>
+<name "ルーン" "!EA0095">
+「弟子の弟子の様子を見に来たのよ」
+#
+<name "Lazlocke">
+「見るだけなら良いですよ。
+　どうぞ」
+#
+<sprite "ta05a15.iph" 4 4 12>
+<name "ルーン" "!EA0096">
+「えー、教えても良いじゃない。
+　ソシエットも協力してるんでしょ」
+#
+<name "Lazlocke">
+「ご自分に弟子が六人しか居ない理由、考えてくだ
+　さい」
+#
+<sprite "ta05a22.iph" 4 4 12>
+<name "ルーン" "!EA0098">
+「えっと……あれ？
+　どうして？」
+#
+<name "Lazlocke">
+「師匠は組織運営とかには、すっごく才能があると
+　思いますし、一人の魔法使いとしては非の打ち所
+　がありません」
+#
+<sprite "ta05a12.iph" 4 4 12>
+<name "ルーン" "!EA0099">
+「あら」
+#
+<name "Lazlocke">
+「でも、弟子を指導する才能は皆無だと思います。
+　六人全員、好き勝手に学んでいましたし」
+#
+<sprite "ta05a11.iph" 4 4 12>
+<name "ルーン" "!EA0100">
+「弟子の自立を促す、高度なテクニックよ」
+#
+<name "Lazlocke">
+「なるほど。
+　その高度なテクニックは大成功です。
+　ですから、セリスには手を出さないでくださいね」
+#
+<sprite "ta05a15.iph" 4 4 12>
+<name "ルーン" "!EA0101">
+「ぶーぶー」
+#
+<removesprite -1 11>
+<exit>
+:1B5F
+<music 10>
+<background "bg004a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1C05: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA1706">
+「頑張って、風と土の魔法の勉強をしよう」
+#
+<removesprite -1 11>
+\x2B
+:1C05
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1C7D: 
+<sprite "ta01a17.iph" 4 4 11>
+<name "Celes" "!AA1707">
+「よーし、風と土の魔法を勉強するぞ」
+#
+<removesprite -1 11>
+\x2B
+:1C7D
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1CF9: 
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1708">
+「風と土にどんな関係があるんだろう……」
+#
+<removesprite -1 11>
+\x2B
+:1CF9
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1D73: 
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1709">
+「風と土って、関係無さそうなのに……」
+#
+<removesprite -1 11>
+:1D73 + 1
+<exit>
+\x78

@@ -1,0 +1,169 @@
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1462">
+「こんにちは。
+　エンディングの無い女の時間です」
+#
+<sprite "ta04a12.iph" 4 4 12>
+<name "Soshiette" "!DA1463">
+「今回のゲストは、ルーン協会長です」
+#
+<removesprite -1 11>
+<sprite "ta05a01.iph" 4 4 11>
+<name "ルーン" "!EA0555">
+「ルーンです」
+#
+<removesprite -1 11>
+<sprite "ta05a01.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1464">
+「よろしくお願いします」
+#
+<sprite "ta05a07.iph" 2 5 12>
+<name "ルーン" "!EA0556">
+「はい、よろしくね」
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1465">
+「ですが……
+　エンディングの無い女の時間と言われても、何を
+　喋れと言うんでしょうか」
+#
+<sprite "ta05a20.iph" 2 5 12>
+<name "ルーン" "!EA0557">
+「そうよね。
+　暇だったーとかかな？」
+#
+<sprite "ta04a19.iph" 6 4 12>
+<name "Soshiette" "!DA1466">
+「このコーナーに居る事自体が屈辱ですし」
+#
+<sprite "ta05a21.iph" 2 5 12>
+<name "ルーン" "!EA0558">
+「まったくよね」
+#
+<sprite "ta04a26.iph" 6 4 12>
+<name "Soshiette" "!DA1468">
+「ルーン様も、乗り気じゃありませんよね」
+#
+<sprite "ta05a12.iph" 2 5 12>
+<name "ルーン" "!EA0559">
+「もちろん」
+#
+<sprite "ta04a28.iph" 6 4 12>
+<name "Soshiette" "!DA1469">
+「……帰ります？」
+#
+<sprite "ta05a17.iph" 2 5 12>
+<name "ルーン" "!EA0560">
+「そうね。
+　いいアイディアだけど……
+　せっかくのコーナーだし、ここは一つ」
+#
+<sprite "ta04a06.iph" 6 4 12>
+<name "Soshiette" "!DA1470">
+「？」
+#
+<sprite "ta05a12.iph" 2 5 12>
+<name "ルーン" "!EA0561">
+「ラズを引っ張ってきてくれるかな」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1471">
+「はっ！」
+#
+<removesprite -1 11>
+<name "Lazlocke">
+「な、なんだ？
+　急に？」
+#
+<sprite "ta05a07.iph" 4 5 11>
+<name "ルーン" "!EA0562">
+「良い仕事よ」
+#
+<removesprite -1 11>
+<sprite "ta05a07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1472">
+「ありがとうございます」
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta05a12.iph" 4 4 11>
+<name "ルーン" "!EA0563">
+「さて、ラズくん。
+　これから私とソシエットのエンディングをやって
+　くれないかな？」
+#
+<name "Lazlocke">
+「え？」
+#
+<sprite "ta05a13.iph" 4 4 12>
+<name "ルーン" "!EA0564">
+「あらあら、返事は“え？”じゃなくて、“はい”
+　でしょう」
+#
+<name "Lazlocke">
+「は、はい。
+　わかりましたから、首を絞めながら微笑むのは止
+　めてください。
+　怖いです」
+#
+<sprite "ta05a11.iph" 4 4 12>
+<name "ルーン" "!EA0565">
+「では、始め♪」
+#
+<removesprite -1 11>
+　ルーン＝なんちゃら
+#
+　まあ、平平凡凡と協会本部の上で余生を過ごす。
+#
+　俺の人生とは限りなく接点が薄い事を祈ろう。
+#
+<sprite "ta05a12.iph" 4 4 11>
+<name "ルーン" "!EA0566">
+「あらあら、ラズくん。
+　ルーン＝なんちゃらって何？
+　中身もかなり適当よね」
+#
+<sprite "ta05a13.iph" 4 4 12>
+<name "ルーン" "!EA0567">
+「死にたいのかしら？
+　死にたいのよね。
+　きっとそうよね」
+#
+<removesprite -1 11>
+<sprite "ta05a13.iph" 2 5 11>
+<sprite "ta04a26.iph" 6 4 11>
+<name "Soshiette" "!DA1473">
+「協会長、殺すのは私のエンディングの後で」
+#
+<removesprite -1 11>
+　ソシエット＝ほにゃらら
+#
+　メイドでした。
+#
+<sprite "ta04a19.iph" 4 4 11>
+<name "Soshiette" "!DA1474">
+「協会長、止めてすみませんでした。
+　殺っちゃってください」
+#
+<removesprite -1 11>
+<sprite "ta05a12.iph" 2 5 11>
+<sprite "ta04a19.iph" 6 4 11>
+<name "ルーン" "!EA0568">
+「うん♪」
+#
+<removesprite -1 11>
+　ラズロック＝いやっふー
+#
+　まあ、彼は頑張ったと思うよ。
+#
+　あの二人を相手におちょくり切ったんだから。
+#
+　コメディアンとしては尊敬できるかな。
+#
+　生き方としては愚かだと思うけど。
+#
+\x78\x78

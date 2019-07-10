@@ -1,0 +1,571 @@
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA0062">
+"I-I made lunch."
+#
+<name "Lazlocke">
+"Thank you."
+#
+<removesprite -1 11>
+Celes and I are splitting the housework, but
+we don't have assigned jobs.
+#
+Whoever's not busy has to take care of whatever
+needs to be done.
+#
+Hm...
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA0063">
+"I-I'm done eating."
+#
+<name "Lazlocke">
+"Thank you for lunch."
+#
+<sprite "ta01a29.iph" 4 4 12>
+<name "Celes" "!AA0064">
+"Master..."
+#
+She started calling me that after becoming my
+apprentice.
+#
+It was embarrassing at first, but once I got
+used to it, I kind of liked it.
+#
+It's got a nice ring to it.
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0065">
+"I-I'm sorry I'm a bad cook!"
+#
+She apologizes profusely.
+#
+She's right though.
+Nobody would call that tasty.
+#
+<name "Lazlocke">
+"Well, practice makes perfect."
+#
+<sprite "ta01a29.iph" 4 4 12>
+<name "Celes" "!AA0066">
+"I'm sorry..."
+#
+<name "Lazlocke">
+"I'll clean up.
+ Take a break, and then get back to your
+ exercises."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0067">
+"Let me clean up on my break."
+#
+<name "Lazlocke">
+"Don't worry about it. 
+ I'm at a block with my work anyway.
+ I need a change of pace."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0068">
+"Thank you."
+#
+<name "Lazlocke">
+"If you want to do something while you rest, 
+ read that book I gave you."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0069">
+"All right."
+#
+<removesprite -1 11>
+It's been a few days since we started and she's
+been dutifully following my instructions.
+#
+Well, she messes up stuff like cooking, and
+there's been times when she couldn't handle the
+regimen I set, but I haven't seen any sign of
+her trying to cut corners or slack off.
+#
+She's always doing her best to do exactly what
+I tell her to.
+#
+An apprentice like her is wasted on me.
+#
+<music 25>
+<background "ev006a0.iph" 10>
+After a short break, Celes begins jogging in
+the backyard.
+#
+I have a table set up where I can keep an eye
+on her. I lay out some books and sigh.
+#
+One of the jobs I have from the Guild is to
+review various documents.
+#
+Honestly, it's not hard work, but it is
+tedious.
+#
+Seeing how hard she's working helps me to
+buckle down and concentrate.
+#
+But as soon as I get motivated, an interruption
+appears. Out of nowhere, a woman dressed as a
+maid is standing in the room with me.
+#
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Maid" "!DA0000">
+"Quite the hard worker, isn't she?"
+#
+<name "Lazlocke">
+"I don't remember hearing a knock."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Maid" "!DA0001">
+"Pay it no mind."
+#
+<name "Lazlocke">
+"..."
+#
+I want to yell at her that I absolutely should
+care about that, but hold my tongue.
+#
+I've yelled at her before, and she never
+listens.
+#
+Her name's Soshiette.
+#
+Despite how she's dressed, she's not a maid.
+#
+She's a full-fledged wizard in the Guild.
+#
+<name "Lazlocke">
+"So, what are you here for today?"
+#
+<sprite "ta04a86.iph" 4 4 12>
+<name "Soshiette" "!DA0002">
+"Down to business already?
+ I believe it's common courtesy to offer your
+ guest a cup of tea."
+#
+<name "Lazlocke">
+"Make it yourself if you want it.
+ What are you here for?"
+#
+When she sees that I'm not in the mood, 
+she relents.
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0003">
+"I have the report on the Rococo family."
+#
+She hands me a sealed envelope.
+#
+<name "Lazlocke">
+"Oh? Thank you."
+#
+I had asked the Guild to look into what Celes
+told me.
+#
+<removesprite -1 11>
+I break the seal and open the envelope.
+#
+But there's nothing inside.
+#
+<name "Lazlocke">
+"What?"
+#
+I open it wide, but there's nothing there.
+#
+<sprite "ta04a12.iph" 4 4 11>
+<name "Soshiette" "!DA0004">
+"The report is in my head."
+#
+<name "Lazlocke">
+"..."
+#
+Instead of complaining, I throw the pointless
+envelope on the floor.
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA0005">
+"That is what's elegant."
+#
+<removesprite -1 11>
+I close my eyes and rub my forehead.
+#
+This is fine.
+I'm patient.
+#
+I can handle this.
+At least, I try to convince myself that.
+#
+She ignores me and continues talking.
+#
+Eventually she gets to the point.
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0006">
+"According to the report, Celestine is indeed
+ the former lord's daughter."
+#
+<name "Lazlocke">
+"I see."
+#
+<sprite "ta04a06.iph" 4 4 12>
+<name "Soshiette" "!DA0007">
+"There's no seal on her or anything similar?"
+#
+<name "Lazlocke">
+"Right."
+#
+I did some checks on her while she was
+recovering. There's no seals or curses on her
+that would be blocking her mana.
+#
+<name "Lazlocke">
+"Well, just being the child of a wizard doesn't
+ mean you'll be one."
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0008">
+"True."
+#
+And vice-versa, the children of regular people
+can become wizards.
+#
+That's how Soshiette and I are.
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0009">
+"Next, as for the question of Rococo
+ succession, there's only bad news.
+ It appears certain that the current lord
+ ordered the assassination of the previous one."
+#
+<name "Lazlocke">
+"Just like she said, huh?
+ Then can't she make an accusation and force a
+ duel?"
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0010">
+"No, that won't be possible."
+#
+<name "Lazlocke">
+"Why not?"
+#
+<sprite "ta04a26.iph" 4 4 12>
+<name "Soshiette" "!DA0011">
+"The current lord was brought into the family
+ precisely because the previous lord's only
+ daughter had no magical talent."
+#
+<name "Lazlocke">
+"So he was brought on as an apprentice and
+ promised to be given the lordship?"
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0013">
+"Correct."
+#
+<name "Lazlocke">
+"And what's the Guild's position?"
+#
+<sprite "ta04a23.iph" 4 4 12>
+<name "Soshiette" "!DA0014">
+"They have decided not to sanction a duel."
+#
+<name "Lazlocke">
+"..."
+#
+The Guild polices wizards, but that doesn't 
+mean everyone faces justice.
+#
+There's often times when it's better for the
+Guild itself to stay out of things.
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0015">
+"However, the situation would be different if
+ the accuser were to show talent."
+#
+<name "Lazlocke">
+"Meaning what?"
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA0016">
+"If the accuser... the previous lord's daughter
+ shows sufficient aptitude as a wizard, the
+ current lord could be forced out."
+#
+<name "Lazlocke">
+"I see. How much aptitude would she need to
+ show to convince them?"
+#
+<sprite "ta04a08.iph" 4 4 12>
+<name "Soshiette" "!DA0018">
+"Enough to win the Courdures Magic Tournament?"
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0019">
+"And it must be within three years."
+#
+<name "Lazlocke">
+"Huh?"
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA0020">
+"The statute of limitations we discussed.
+ She had four years.
+ There's just over three left."
+#
+<name "Lazlocke">
+"I want your honest opinion."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0025">
+"Yes?"
+#
+<name "Lazlocke">
+"Do you think there's any chance at all for
+ someone who hasn't cast a single spell in 
+ their life to win at Courdures in just three
+ years?"
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0026">
+"I do not."
+#
+<name "Lazlocke">
+"...Yeah."
+#
+<removesprite -1 11>
+But it's not like we have a choice.
+#
+So the only path is forward.
+#
+<name "Lazlocke">
+"Celes."
+#
+I call her over from running.
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA0070">
+"C-Coming!"
+#
+<removesprite -1 11>
+She trots straight over.
+#
+I tell her what Soshiette told me.
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA0072">
+"Win the Coudures Magic Tournament..."
+#
+<name "Lazlocke">
+"Within three years.
+ If you do that, the Guild will back your
+ claim."
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA0073">
+"I-I understand.
+ I just have to win."
+#
+<name "Lazlocke">
+"That's right, but it won't be easy."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA0074">
+"T-That's okay!"
+#
+She closes her eyes tight and steels herself.
+#
+<sprite "ta01d20.iph" 4 4 12>
+<name "Celes" "!AA0075">
+"I can do it!"
+#
+<name "Lazlocke">
+"Good answer."
+#
+I nod, pleased.
+Soshiette steps up beside me.
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA0027">
+"You're quite the spirited girl."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA0076">
+"Um, a housekeeper?
+ Was my cooking that bad?"
+#
+<name "Lazlocke">
+"Oh, she may be dressed like a maid, but she's
+ technically a wizard."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA0077">
+"Eeh!?"
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA0028">
+"I'm Soshiette.
+ Not Soshietta, not Soshaette."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0029">
+"Soshiette. I hate it when people get my name
+ wrong, so please remember it."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA0078">
+"Y-Yes, ma'am."
+#
+<name "Lazlocke">
+"She's who brought your new clothes after you
+ passed out. I think you owe her a thank you."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA0079">
+"Thank you very much."
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA0032">
+"Think nothing of it. 
+Å@His Grace begged me for help in his time of
+ need. I couldn't miss a chance to indebt him
+ to me."
+#
+<name "Lazlocke">
+"Hey. Don't make things up.
+ I did no such thing."
+#
+She just happened to be here from the Guild to
+check up on me right after I brought Celes
+home.
+#
+<sprite "ta01d27.iph" 2 5 12>
+<name "Celes" "!AA0080">
+"Um, his grace?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0033">
+"It's elegant."
+#
+<name "Lazlocke">
+"She calls me that on her own.
+ Ignore her."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA0081">
+"O-Okay."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA0034">
+"How well behaved."
+#
+<name "Lazlocke">
+"Unlike you."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0035">
+"My, my.
+ If you'll excuse me, Lady Celestine..."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA0082">
+"Huh? Oh, Celes is fine.
+ Please don't call me lady."
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA0036">
+"Miss Celes, then. I was watching, and I
+ recommend you pay more attention to how you
+ move your arms as you run. 
+ Your rhythm is often poor."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA0083">
+"Huh? Oh, um..."
+#
+She looks at me, unsure how to respond.
+#
+Soshiette's likely worth listening to.
+#
+Although I don't like her usurping my job as
+her teacher.
+#
+<name "Lazlocke">
+"Listen to her. Soshiette is only average as
+ a wizard, but in terms of physical and martial
+ arts, she's second to none."
+#
+And even if her actual spellcraft is only about
+average, she's far more capable than most
+wizards.
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0037">
+"Win the Courdures Magic Tournament.
+ It could be nice to be part of that kind of
+ miracle."
+#
+<name "Lazlocke">
+"She's my apprentice."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA0038">
+"I don't intend to take her from you.
+ If you'll excuse me for today..."
+#
+<removesprite 6 11>
+She bows and leaves as quickly as she came.
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA0084">
+"Master, can I ask a question?"
+#
+<name "Lazlocke">
+"Hm? What is it?"
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA0085">
+"Why was Soshiette dressed like a maid?"
+#
+<name "Lazlocke">
+"I've asked that question myself.
+ She says it's camouflage."
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA0086">
+"Camouflage?"
+#
+<name "Lazlocke">
+"Apparently to hide that she's a wizard."
+#
+<sprite "ta01d31.iph" 4 4 12>
+<name "Celes" "!AA0087">
+"She's unusal, isn't she?"
+#
+<name "Lazlocke">
+"Agreed.
+ Back to work, Celes."
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA0088">
+"Y-Yes, sir!"
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,125 @@
+\x2E\x22\x00\x01 1  8 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2C: \x16 :87: \x15 :86: 
+:2C
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :4A: \x16 :14D: \x15 :86: 
+:4A
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :68: \x16 :284: \x15 :86: 
+:68
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x15 :86: \x16 :441: \x15 :86: 
+:86
+\x78
+:87
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1823">
+「師匠、アルバイトに行ってきます！」
+#
+<name "Lazlocke">
+「頑張るように！」
+#
+<name "Celes" "!AA1824">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:14D
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1825">
+「師匠、頑張ってお金を稼いできます」
+#
+<name "Lazlocke">
+「頼んだぞー」
+#
+<removesprite -1 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0443">
+「……」
+#
+<name "Lazlocke">
+「なんだ？」
+#
+<name "Soshiette" "!DA0444">
+「いえ、なにも」
+#
+<removesprite -1 11>
+<exit>
+:284
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0448">
+「弟子がアルバイトに行ったのに、師匠が家でのん
+　びりとしているのはどうかと思います」
+#
+<name "Lazlocke">
+「誤解を招く発言は感心しないなぁ。
+　俺は俺で、ちゃんと仕事をしているぞ」
+#
+<name "Soshiette" "!DA0446">
+「そうでしたか、失礼しました」
+#
+<name "Lazlocke">
+「トゲがあるなぁ……
+　協会に行ってないからか？」
+#
+<name "Soshiette" "!DA0447">
+「気のせいです」
+#
+<removesprite -1 11>
+<exit>
+:441
+<music 10>
+<background "bg002a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  8 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :4CE: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1826">
+「アルバイト、行ってきます」
+#
+:4CE
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :527: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1827">
+「いってきまーす」
+#
+:527
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :57C: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1828">
+「頑張るぞー」
+#
+:57C
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :5D3: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1829">
+「頑張ります！」
+#
+:5D3
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :628: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1830">
+「やります！」
+#
+:628
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :68B: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1831">
+「さあ、頑張って働かないと」
+#
+:68B
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :6E0: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1832">
+「稼ぐぞー♪」
+#
+:6E0
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :735: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1833">
+「やるぞー♪」
+#
+:735
+<removesprite -1 11>
+<exit>
+\x78

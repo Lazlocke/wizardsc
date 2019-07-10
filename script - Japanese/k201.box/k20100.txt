@@ -1,0 +1,421 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x02\x1F\x84\x00\x01\x0E :30: \xE6 "a0601" \x00\x16 :8D7: \x0A\x04\x02\x1F\x84\x01\x15 :28E: 
+:30
+\xE9 2001 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :5D: \x15 :282: 
+:5D
+\x1A\x01\x07\x04\x02\x1C\x84\x00\x01\x0E :87: \xE6 "a0600" \x00\x16 :2F6: \x0A\x04\x02\x1C\x84\x01\x15 :28E: 
+:87
+\x1A\x01\x07\x04\x02\x22\x84\x00\x01\x0E :B1: \xE6 "a0602" \x00\x16 :D73: \x0A\x04\x02\x22\x84\x01\x15 :28E: 
+:B1
+\x1A\x01\x07\x04\x02\x20\x84\x00\x01\x0E :DB: \xE6 "a0601" \x00\x16 :B47: \x0A\x04\x02\x20\x84\x01\x15 :28E: 
+:DB
+\x1A\x01\x07\x04\x02\x1D\x84\x00\x01\x0E :105: \xE6 "a0600" \x00\x16 :4C6: \x0A\x04\x02\x1D\x84\x01\x15 :28E: 
+:105
+\x1A\x01\x07\x04\x02\x23\x84\x00\x01\x0E :12F: \xE6 "a0602" \x00\x16 :E43: \x0A\x04\x02\x23\x84\x01\x15 :28E: 
+:12F
+\x1A\x01\x07\x04\x02\x25\x84\x00\x01\x0E :159: \xE6 "a0603" \x00\x16 :1189: \x0A\x04\x02\x25\x84\x01\x15 :28E: 
+:159
+\x1A\x01\x07\x04\x02\x21\x84\x00\x01\x0E :183: \xE6 "a0601" \x00\x16 :C35: \x0A\x04\x02\x21\x84\x01\x15 :28E: 
+:183
+\x1A\x01\x07\x04\x02\x1E\x84\x00\x01\x0E :1AD: \xE6 "a0600" \x00\x16 :692: \x0A\x04\x02\x1E\x84\x01\x15 :28E: 
+:1AD
+\x1A\x01\x07\x04\x02\x24\x84\x00\x01\x0E :1E9: \x1A\x01\x0A\x02\x00\x92 1000 \x01\x15 :1E9: \xE6 "a0602" \x00\x16 :1012: \x0A\x04\x02\x24\x84\x01\x15 :28E: 
+:1E9
+\x1A\x01\x07\x04\x02\x26\x84\x00\x01\x0E :225: \x1A\x01\x0A\x02\x00\x92 500 \x01\x14 :225: \xE6 "a0603" \x00\x16 :13EF: \x0A\x04\x02\x26\x84\x01\x15 :28E: 
+:225
+\x1A\x01\x07\x04\x02\x27\x84\x00\x01\x0E :261: \x1A\x01\x0A\x02\x00\x92 1000 \x01\x15 :261: \xE6 "a0603" \x00\x16 :15DC: \x0A\x04\x02\x27\x84\x01\x15 :28E: 
+:261
+\x1A\x01\x07\x04\x02\x28\x84\x00\x01\x0E :282: \x16 :1763: \x0A\x04\x02\x28\x84\x01\x15 :28E: 
+:282
+\x16 :1857: \x15 :28E: 
+:28E
+<music 26>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :2F5: \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2E0: 
+<background "ev009a0.iph" 11>
+\x2B\x18 :2F5: 
+:2E0
+<background "ev008a0.iph" 11>
+\x2B
+:2F5
+\x78
+:2F6
+<music 26>
+<background "ev011a0.iph" 11>
+<name "Celes" "!AA1250">
+「目標を定め……えいっ！」
+#
+<name "Lazlocke">
+「惜しい」
+#
+<name "Celes" "!AA1251">
+「もう一回！」
+#
+<name "Lazlocke">
+「惜しい」
+#
+<name "Celes" "!AA1252">
+「むうう」
+#
+\x1A\x01\x0A\x02\x00\x92 2000 \x01\x14 :41A: 
+<name "Lazlocke">
+「練習あるのみだな」
+#
+<name "Celes" "!AA1253">
+「はい」
+#
+\x18 :4BF: 
+:41A
+<name "Celes" "!AA1254">
+「上手になったつもりだったんですが……」
+#
+<name "Lazlocke">
+「慢心は、腕を錆びさせるぞ」
+#
+<name "Celes" "!AA1255">
+「そうですね。
+　……頑張ります」
+#
+:4BF
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:4C6
+<music 26>
+<background "ev011a0.iph" 11>
+<name "Celes" "!AA1256">
+「えいっ！」
+#
+　セリスは練習用案山子に火の玉を叩き込んだ。
+#
+<name "Celes" "!AA1257">
+「命中、よしっ！
+　……あれ？
+　燃えてる？
+　うわっ、火事になっちゃう！」
+#
+<name "Soshiette" "!DA0388">
+「対火防御の魔法を掛けていた案山子を燃やしまし
+　たか……やりますね」
+#
+<name "Celes" "!AA1258">
+「いや、対火防御の魔法を掛けたのはあの案山子じゃ
+　なくて、その隣」
+#
+<name "Soshiette" "!DA0389">
+「ええと……前言撤回します」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:692
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「案山子には魔法防御を掛けて使用するように。
+　そうしないと、あっという間に破壊しちゃうから
+　な」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA1259">
+「はい。
+　えっと……魔法防御の魔法は……」
+#
+<removesprite -1 11>
+　セリスが本を読もうとしたので、俺はその本を取
+　り上げる。
+#
+<name "Lazlocke">
+「魔法は俺がやる。
+　俺が居ない時は、ソシエットに頼むように」
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1260">
+「は、はい」
+#
+<name "Lazlocke">
+「では、始め！」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA1261">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:8D7
+<music 26>
+<background "bg004a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0390">
+「これは、高級訓練用案山子です」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA1262">
+「高級……ですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0393">
+「はい。
+　魔法を掛けなくても、ある程度の魔法防御を備え
+　る優れものです」
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA1263">
+「おおっ！」
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA0392">
+「ちなみに、お値段は……こんな感じです」
+#
+<sprite "ta01a42.iph" 2 5 12>
+<name "Celes" "!AA1264">
+「……こ、怖くて使えないです」
+#
+<removesprite -1 11>
+<exit>
+:B47
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「爆発は、火の魔法の要だ。
+　これが出来る出来ないで、火の魔法の威力が大き
+　く変わる。
+　十分、練習するように」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1265">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:C35
+<music 26>
+<background "ev011a0.iph" 11>
+<name "Celes" "!AA1266">
+「うーん……ちえいっ！」
+#
+　セリスは呪文を唱え、気合を入れた。
+#
+　近くの岩が吹き飛んだ。
+#
+　見事な爆破だ。
+#
+<name "Celes" "!AA1267">
+「あれ？
+　狙った場所と違う……」
+#
+　……
+#
+　魔法の練習中は、近くに行かない方が良い。
+#
+　学園でも行なっている、基本だ。
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:D73
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「この鍋を火で炙ってくれ」
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1268">
+「は、はい。
+　ええと、魔法の火ですよね」
+#
+<name "Lazlocke">
+「当然」
+#
+<removesprite -1 11>
+<exit>
+:E43
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「セリス。
+　鍋」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1269">
+「はい」
+#
+<removesprite -1 11>
+　俺の声に、セリスは魔法で鍋の下に火を起こす。
+#
+<name "Lazlocke">
+「そのまま、火力を安定させろ」
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA1270">
+「はい」
+#
+<removesprite -1 11>
+　マキも無い所に同じ火力を維持するのは、それな
+　りに難しい筈だ。
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA1271">
+「頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:1012
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「火の扱いが上手くなったな」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1272">
+「そうですか？」
+#
+<name "Lazlocke">
+「ああ、火力の調節が絶妙になった。
+　その火で作った鍋の味を見てみろ。
+　絶品だ」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA1273">
+「……あ、美味しい。
+　でも、魔法で褒められている気がしない」
+#
+<removesprite -1 11>
+<exit>
+:1189
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA1274">
+「焚き火をジャンプして跳び越えるんですか？」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA1275">
+「熱いんじゃ……」
+#
+<name "Lazlocke">
+「熱いと思う。
+　あと、服も燃えるかもしれない。
+　火傷の可能性もあるな」
+#
+<sprite "ta01d27.iph" 4 4 12>
+<name "Celes" "!AA1276">
+「でも、跳び越えるんですよね」
+#
+<name "Lazlocke">
+「そうだ。
+　すでに燃えている火を、火の魔法でコントロール
+　するのはそう難しい事じゃない。
+　やってみろ」
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA1277">
+「が、頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:13EF
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「焚き火を跳び越える練習はどうだ？」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1278">
+「自分でも上達したと思います」
+#
+<name "Lazlocke">
+「そうか。
+　じゃあ、もっと火力を上げるか」
+#
+<sprite "ta01d32.iph" 4 4 12>
+<name "Celes" "!AA1279">
+「え？」
+#
+<name "Lazlocke">
+「どうした？」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA1280">
+「すみません。
+　見栄を張りました。
+　火力を上げるのは、もう少し上手くなってからに
+　してください」
+#
+<removesprite -1 11>
+<exit>
+:15DC
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+「もう跳び越えなくても、上を歩けるな」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA1282">
+「はい」
+#
+<name "Lazlocke">
+「火を残したまま、熱だけを抑える。
+　これができれば、火の魔法の大半ができるだろう。
+　……頑張ったな」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA1283">
+「いえ、まだまだです。
+　これからも頑張っていきます」
+#
+<removesprite -1 11>
+<exit>
+:1763
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA1284">
+「火って、変な魅力がありますよね」
+#
+<name "Lazlocke">
+「そうだな。
+　魅入られるなよ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1285">
+「は、はい」
+#
+<removesprite -1 11>
+<exit>
+:1857
+<music 10>
+\xE9 2001 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 20 \x01\x14 :1894: 
+<background "ev011a0.iph" 11>
+\x2B\x18 :18A9: 
+:1894
+<background "ev011b0.iph" 11>
+\x2B
+:18A9
+\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1905: 
+<name "Celes" "!AA1289">
+「火って、色々できそうですよね」
+#
+:1905
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1953: 
+<name "Celes" "!AA1290">
+「火の魔法は、オーソドックスですよね」
+#
+:1953
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :198F: 
+<name "Celes" "!AA1291">
+「基本は抑えないと」
+#
+:198F
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :19E9: 
+<name "Celes" "!AA1292">
+「火の魔法を扱ってこそ、魔法使いって感じがします」
+#
+:19E9
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1A37: 
+<name "Celes" "!AA1293">
+「夏場は辛く、冬場は嬉しい勉強ですね」
+#
+:1A37
+<exit>
+\x78

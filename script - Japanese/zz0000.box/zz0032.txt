@@ -1,0 +1,74 @@
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA7249">
+「結局、師匠ってヴィオラさんラブなのよね」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a27.iph" 6 4 11>
+<name "Elle" "!CA1375">
+「むう」
+#
+<sprite "ta01a05.iph" 2 5 12>
+<name "Celes" "!AA7250">
+「抱いて貰ってる時も、可愛いとかは言ってくれた
+　けど、好きだとかは絶対に言ってくれなかったし」
+#
+<sprite "ta02a27.iph" 6 4 12>
+<name "Elle" "!CA1376">
+「私も……抱くんじゃない。
+　犯してるって」
+#
+<sprite "ta01a31.iph" 2 5 12>
+<name "Celes" "!AA7251">
+「むう」
+#
+<sprite "ta02a23.iph" 6 4 12>
+<name "Elle" "!CA1378">
+「腹が立つから、襲いに行っちゃう？」
+#
+<sprite "ta01a32.iph" 2 5 12>
+<name "Celes" "!AA7252">
+「賛成だけど……
+　ヴィオラさんのディフェンスをどう潜り抜ける？」
+#
+<sprite "ta02a04.iph" 6 4 12>
+<name "Elle" "!CA1379">
+「正面から。
+　私達二人で掛かれば、師匠相手でも」
+#
+<sprite "ta01a20.iph" 2 5 12>
+<name "Celes" "!AA7253">
+「了解。
+　頑張ろう」
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA1381">
+「うん」
+#
+<removesprite -1 11>
+<background "bg004a0.iph" 11>
+　……
+#
+<sprite "ta01c37.iph" 4 4 11>
+<name "Celes" "!AA7254">
+「ずるい……師匠まで手伝うなんて」
+#
+<removesprite -1 11>
+<sprite "ta01c37.iph" 2 5 11>
+<sprite "ta02b32.iph" 6 4 11>
+<name "Elle" "!CA1383">
+「そのタッグは反則です」
+#
+<name "Lazlocke">
+「手伝わないと、ヴィオラが泣きそうな顔をするか
+　ら……」
+#
+<removesprite -1 11>
+<sprite "ta03a82.iph" 4 4 11>
+<name "Viola" "!BA1444">
+「べ、別に泣きそうな顔なんかしてないわよ」
+#
+<removesprite -1 11>
+\x2B\x78\x78

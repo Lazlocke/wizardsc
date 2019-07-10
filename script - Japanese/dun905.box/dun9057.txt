@@ -1,0 +1,262 @@
+\x1A\x01\x0A\x02\x00\xFE 5 \x01\x0E :1E: \x16 :97: \x15 :96: 
+:1E
+\x1A\x01\x0A\x02\x00\xFE 4 \x01\x0E :3C: \x16 :5F5: \x15 :96: 
+:3C
+\x1A\x01\x0A\x02\x00\xFE 3 \x01\x0E :5A: \x16 :987: \x15 :96: 
+:5A
+\x1A\x01\x0A\x02\x00\xFE 2 \x01\x0E :78: \x16 :CAF: \x15 :96: 
+:78
+\x1A\x01\x0A\x02\x00\xFE 1 \x01\x0E :96: \x16 :1080: \x15 :96: 
+:96
+\x78
+:97
+<background "bg011a0.iph" 11>
+<sprite "ta07a12.iph" 4 4 11>
+<name "ジャッジマン" "!FA0078">
+「けっちゃくーーーーっ！
+　優勝は、マルセイ＝ロードマン！」
+#
+<sprite "ta07a07.iph" 4 4 12>
+<name "ジャッジマン" "!FA0079">
+「今年の最優秀料理人の誕生だ！」
+#
+<removesprite -1 11>
+　湧き上がる歓声。
+#
+　それに答える優勝者。
+#
+　その横で、うなだれるセリス。
+#
+<sprite "ta03a34.iph" 4 4 11>
+<name "Viola" "!BA0275">
+「落ち込んでるわね。
+　準優勝でも、十分だと思うけど」
+#
+<name "Lazlocke">
+「最後に失敗をしたからな。
+　それを悔やんでいるんだろう」
+#
+<sprite "ta03a32.iph" 4 4 12>
+<name "Viola" "!BA0277">
+「蒸し過ぎたヤツね」
+#
+<name "Lazlocke">
+「決勝戦と言う事で、力量を超える料理を選んだ。
+　失敗は必然だろう」
+#
+<sprite "ta03a36.iph" 4 4 12>
+<name "Viola" "!BA0278">
+「そうね。
+　冷静さを欠いてしまったのかしら」
+#
+<name "Lazlocke">
+「普段通りにやっても、あのマルセイには勝てなかっ
+　ただろう。
+　僅かながら実力差がある」
+#
+<name "Lazlocke">
+「それを感じたから、手間を掛かるのにしたんだろ
+　うが……」
+#
+<sprite "ta03a32.iph" 4 4 12>
+<name "Viola" "!BA0279">
+「ま、終った事を言っても仕方が無いわよ」
+#
+<name "Lazlocke">
+「そうだな。
+　……迎えに行ってやるか」
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0280">
+「ええ、その後は残念会？」
+#
+<name "Lazlocke">
+「派手に騒いで、慰めてやるか」
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0281">
+「いいわね」
+#
+<removesprite -1 11>
+　こうして、ローリア料理大会は終了した。
+#
+<exit>
+:5F5
+<background "bg011a0.iph" 11>
+　優勝者が決まった。
+#
+　セリスは準決勝までだった。
+#
+<sprite "ta01a36.iph" 4 4 11>
+<name "Celes" "!AA3114">
+「……ベストエイトか」
+#
+<name "Lazlocke">
+「惜しかったな」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA3115">
+「師匠」
+#
+<name "Lazlocke">
+「結果はベストエイト。
+　可も無く、不可も無くと言った感じかな」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA3116">
+「……はい。
+　でも、悔しいです」
+#
+<name "Lazlocke">
+「その悔しさがあれば、次はもっと上に行ける」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA3117">
+「……はい」
+#
+<name "Lazlocke">
+「だが、来年は駄目だぞ。
+　クデュール魔法大会があるからな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3118">
+「はい」
+#
+<name "Lazlocke">
+「よし。
+　帰って残念会でもやるか。
+　優勝者の料理を作ってやろう」
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA3119">
+「うう、それはへこむかも……」
+#
+<removesprite -1 11>
+　こうして、ローリア料理大会は終了した。
+#
+<exit>
+:987
+<background "bg011a0.iph" 11>
+　優勝者が決まった。
+#
+　セリスは三回戦までだった。
+#
+<name "Lazlocke">
+「頑張ったな」
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA3120">
+「いえ、全然でした。
+　世界は広いです」
+#
+<name "Lazlocke">
+「だな。
+　まあ、店の料理人としては悪く無いが、こういっ
+　たコンテストで勝つにはまだまだ覚えないといけ
+　ない事があるな」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA3121">
+「はい」
+#
+<name "Lazlocke">
+「でも、来年はクデュール魔法大会があるからな。
+　それが終ったら、料理も集中して教えてやろう」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA3122">
+「はい。
+　お願いします」
+#
+<name "Lazlocke">
+「よし、今日は残念会だ。
+　ヴィオラやイエルを呼んで、盛大にやるぞ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3123">
+「はい」
+#
+<removesprite -1 11>
+　こうして、ローリア料理大会は終了した。
+#
+<exit>
+:CAF
+<background "bg011a0.iph" 11>
+<sprite "ta01a37.iph" 4 4 11>
+<name "Celes" "!AA3124">
+「うう……全然駄目だった……」
+#
+<name "Lazlocke">
+「それでも、ベスト３２。
+　１７位～３２位の間だろ」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA3125">
+「あまり嬉しくありません」
+#
+<name "Lazlocke">
+「そうへこむな。
+　一回戦で負けたイエルが落ち込む」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA3126">
+「え？」
+#
+<removesprite -1 11>
+<sprite "ta02a37.iph" 4 4 11>
+<name "Elle" "!CA0228">
+「いじいじ……」
+#
+<removesprite -1 11>
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA3127">
+「イエルちゃんも出てたんだ」
+#
+<name "Lazlocke">
+「今日の敗北は、明日の勝利に繋げれば良い。
+　他の人の料理、見ただろ」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA3128">
+「はい。
+　凄い料理ばかりでした」
+#
+<name "Lazlocke">
+「それを糧に、これからも頑張れ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA3129">
+「はい！
+　でも、来年はクデュール魔法大会があるので、再
+　来年に頑張ります」
+#
+<removesprite -1 11>
+　こうして、ローリア料理大会は終了した。
+#
+<exit>
+:1080
+<background "bg011a0.iph" 11>
+<sprite "ta01a41.iph" 4 4 11>
+<name "Celes" "!AA3130">
+「しくしくしく……」
+#
+　セリスは一回戦敗退だった。
+#
+<name "Lazlocke">
+「あー、勉強し直そうな」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA3131">
+「は、はい……しくしく」
+#
+<name "Lazlocke">
+「よしよし」
+#
+<removesprite -1 11>
+　こうして、ローリア料理大会は終了した。
+#
+<exit>
+　この日の夕食は、セリスの好物ばかりを揃えてやっ
+　た。
+#
+\x78

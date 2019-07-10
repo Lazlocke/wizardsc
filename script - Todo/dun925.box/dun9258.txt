@@ -1,0 +1,32 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x15 :3A: \x9F\x22\x00\x02\x1A\x01\x0A\x22\x00\x02 0 \x01\x14 :2E: \xA0 1 
+:2E
+\x16 :FD: \x15 :58: 
+:3A
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :58: \x16 :5F: \x15 :58: 
+:58
+\x0A\x04\x00\xFF\x84\x01\x78
+:5F
+<music 2>
+<background "bg015a0.iph" 11>
+<sprite "ta01c22.iph" 4 4 11>
+<name "Celes" "!AA4158">
+「召し捕った！」
+#
+<name "街の人" "!HA0158">
+「ありがとうございました」
+#
+<removesprite -1 11>
+<exit>
+:FD
+<music 2>
+<background "bg015a0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "Celes" "!AA4159">
+「し、しまった……」
+#
+<name "街の人" "!HA0159">
+「誰か、誰かぁ！」
+#
+<removesprite -1 11>
+<exit>
+\x78

@@ -1,0 +1,71 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :30: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :30: \x16 :61: \x15 :60: 
+:30
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :60: \x1A\x01\x0A\x02\x01\x02 1 \x01\x0E :60: \x16 :16B: \x15 :60: 
+:60
+\x78
+:61
+<music 10>
+<background "bg003a0.iph" 11>
+<sprite "ta01c27.iph" 4 4 11>
+<name "Celes" "!AA4049">
+「どこかで慢心してたのかな……」
+#
+<name "Celes" "!AA4050">
+「反省。
+　そして、新たに決意！」
+#
+<sprite "ta01c21.iph" 4 4 12>
+<name "Celes" "!AA4051">
+「魔王の城を絶対に攻略する！」
+#
+<removesprite -1 11>
+<exit>
+:16B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c42.iph" 4 4 11>
+<name "Celes" "!AA4078">
+「つ、疲れました……」
+#
+<name "Lazlocke">
+「ベオル王国はお前にダランドン賞を授与するらし
+　いぞ」
+#
+<sprite "ta01c32.iph" 4 4 12>
+<name "Celes" "!AA4079">
+「ダランドン賞？」
+#
+<name "Lazlocke">
+「英雄ダランドンに匹敵する者に贈られる名誉ある
+　賞らしいぞ。
+　この賞を持っていれば、ベオル王国での買物は常
+　に一割引きだ！」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "Celes" "!AA4080">
+「ベオル王国で買物する事なんかありませんけど……
+　あと、一割引きって……」
+#
+<name "Lazlocke">
+「向こうの感謝の印だ。
+　受け取っておけ」
+#
+<sprite "ta01c32.iph" 4 4 12>
+<name "Celes" "!AA4081">
+「う、受け取りますけど……」
+#
+<name "Lazlocke">
+「あと、もう少しこっちに来い」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "Celes" "!AA4082">
+「なんですか？」
+#
+<name "Lazlocke">
+「よくやった」
+#
+<removesprite -1 11>
+　俺はセリスの頭を撫でてやった。
+#
+<exit>
+\x78

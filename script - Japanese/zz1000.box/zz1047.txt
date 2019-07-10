@@ -1,0 +1,24 @@
+<music 38>
+<background "ev040a1.iph" 10>
+<name "Celes" "!AA5229">
+「悔しそうな顔ですか？」
+#
+<name "Lazlocke">
+「そうだ」
+#
+<name "Celes" "!AA5230">
+「こう……、ですか？」
+#
+<name "Lazlocke">
+「もう少し、悔しがって欲しい」
+#
+<name "Celes" "!AA5231">
+「えっと……こんな感じで？」
+#
+<name "Lazlocke">
+「……よし、合格」
+#
+<name "Celes" "!AA5232">
+「うう……これから襲われるのに、変な感じです」
+#
+\x78\x78

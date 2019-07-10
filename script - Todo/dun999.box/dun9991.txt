@@ -1,0 +1,91 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :B7: \x1A\x01\x07\x04\x00\x5A\x84\x00\x01\x0E :B7: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :3F: \x16 :B8: \x15 :B7: 
+:3F
+\x1A\x01\x0A\x02\x00\xFB 2 \x01\x0E :5D: \x16 :2B8: \x15 :B7: 
+:5D
+\x1A\x01\x0A\x02\x00\xFB 3 \x01\x0E :7B: \x16 :36E: \x15 :B7: 
+:7B
+\x1A\x01\x0A\x02\x00\xFB 4 \x01\x0E :99: \x16 :419: \x15 :B7: 
+:99
+\x1A\x01\x0A\x02\x00\xFB 5 \x01\x0E :B7: \x16 :49E: \x15 :B7: 
+:B7
+\x78
+:B8
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c08.iph" 4 4 11>
+<name "Celes" "!AA3837">
+「英雄の塔？
+　聞いた事がありません。
+　どんな塔なんですか？」
+#
+<name "Lazlocke">
+「自分の力を確かめる為の塔だ」
+#
+<sprite "ta01c06.iph" 4 4 12>
+<name "Celes" "!AA3838">
+「そんな塔があるんですか。
+　だったら、早く教えてくれても……」
+#
+<name "Lazlocke">
+「セリスの実力が上がるのを待っていた。
+　今のお前なら、大丈夫だろう。
+　挑戦するか」
+#
+<sprite "ta01c22.iph" 4 4 12>
+<name "Celes" "!AA3839">
+「はい！
+　もちろんです」
+#
+<removesprite -1 11>
+<exit>
+:2B8
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「どこまでやれるか、頑張ってみろ」
+#
+<sprite "ta01c21.iph" 4 4 11>
+<name "Celes" "!AA3840">
+「はい！
+　登りきってみせます！」
+#
+<removesprite -1 11>
+<exit>
+:36E
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「何度目の挑戦になるかな」
+#
+<sprite "ta01c22.iph" 4 4 11>
+<name "Celes" "!AA3841">
+「到達するまでは、諦めません！」
+#
+<removesprite -1 11>
+<exit>
+:419
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「頑張れ」
+#
+<sprite "ta01c20.iph" 4 4 11>
+<name "Celes" "!AA3842">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:49E
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+「登るのか」
+#
+<sprite "ta01c20.iph" 4 4 11>
+<name "Celes" "!AA3843">
+「はい。
+　そこに塔がある限り」
+#
+<removesprite -1 11>
+<exit>
+\x78

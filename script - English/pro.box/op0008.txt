@@ -1,0 +1,20 @@
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+"Sorry, but I have to go out for a while.
+ Can you take care of the house for me?
+ Well, I don't expect any visitors."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0089">
+"Okay."
+#
+<name "Lazlocke">
+"Keep up your practice as well."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0090">
+"Yes, sir!"
+#
+<removesprite -1 11>
+\x2B\x78\x78

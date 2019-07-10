@@ -1,0 +1,597 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x03\xE8\x84\x00\x01\x0E :27: \x16 :447: \x0A\x04\x03\xE8\x84\x01\x15 :41A: 
+:27
+\x1A\x01\x07\x04\x03\xE9\x84\x00\x01\x0E :48: \x16 :57C: \x0A\x04\x03\xE9\x84\x01\x15 :41A: 
+:48
+\x1A\x01\x07\x04\x03\xEA\x84\x00\x01\x0E :69: \x16 :64F: \x0A\x04\x03\xEA\x84\x01\x15 :41A: 
+:69
+\x1A\x01\x07\x04\x03\xEB\x84\x00\x01\x0E :8A: \x16 :6F0: \x0A\x04\x03\xEB\x84\x01\x15 :41A: 
+:8A
+\x1A\x01\x07\x04\x03\xEC\x84\x00\x01\x0E :AB: \x16 :8FE: \x0A\x04\x03\xEC\x84\x01\x15 :41A: 
+:AB
+\xE9 3007 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :D8: \x15 :40E: 
+:D8
+\x1A\x01\x07\x04\x03\xED\x84\x00\x01\x0E :F9: \x16 :B13: \x0A\x04\x03\xED\x84\x01\x15 :41A: 
+:F9
+\x1A\x01\x07\x04\x03\xEE\x84\x00\x01\x0E :11A: \x16 :C7A: \x0A\x04\x03\xEE\x84\x01\x15 :41A: 
+:11A
+\x1A\x01\x07\x04\x03\xEF\x84\x00\x01\x0E :13B: \x16 :D99: \x0A\x04\x03\xEF\x84\x01\x15 :41A: 
+:13B
+\x1A\x01\x07\x04\x03\xF0\x84\x00\x01\x0E :15C: \x16 :E42: \x0A\x04\x03\xF0\x84\x01\x15 :41A: 
+:15C
+\x1A\x01\x07\x04\x03\xF1\x84\x00\x01\x0E :17D: \x16 :F69: \x0A\x04\x03\xF1\x84\x01\x15 :41A: 
+:17D
+\x1A\x01\x07\x04\x03\xF2\x84\x00\x01\x0E :19E: \x16 :1101: \x0A\x04\x03\xF2\x84\x01\x15 :41A: 
+:19E
+\x1A\x01\x07\x04\x03\xF3\x84\x00\x01\x0E :1CE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :1CE: \x16 :11A1: \x0A\x04\x03\xF3\x84\x01\x15 :41A: 
+:1CE
+\x1A\x01\x07\x04\x03\xF4\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :1FE: \x16 :12F7: \x0A\x04\x03\xF4\x84\x01\x15 :41A: 
+:1FE
+\x1A\x01\x07\x04\x03\xF5\x84\x00\x01\x0E :22E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :22E: \x16 :13DB: \x0A\x04\x03\xF5\x84\x01\x15 :41A: 
+:22E
+\x1A\x01\x07\x04\x03\xF6\x84\x00\x01\x0E :25E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :25E: \x16 :1511: \x0A\x04\x03\xF6\x84\x01\x15 :41A: 
+:25E
+\x1A\x01\x07\x04\x03\xF7\x84\x00\x01\x0E :28E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :28E: \x16 :1687: \x0A\x04\x03\xF7\x84\x01\x15 :41A: 
+:28E
+\x1A\x01\x07\x04\x03\xF8\x84\x00\x01\x0E :2BE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :2BE: \x16 :191A: \x0A\x04\x03\xF8\x84\x01\x15 :41A: 
+:2BE
+\x1A\x01\x07\x04\x03\xF9\x84\x00\x01\x0E :2EE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :2EE: \x16 :1B0C: \x0A\x04\x03\xF9\x84\x01\x15 :41A: 
+:2EE
+\x1A\x01\x07\x04\x03\xFA\x84\x00\x01\x0E :31E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :31E: \x16 :1BD7: \x0A\x04\x03\xFA\x84\x01\x15 :41A: 
+:31E
+\x1A\x01\x07\x04\x03\xFB\x84\x00\x01\x0E :34E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :34E: \x16 :1DB4: \x0A\x04\x03\xFB\x84\x01\x15 :41A: 
+:34E
+\x1A\x01\x07\x04\x03\xFC\x84\x00\x01\x0E :37E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :37E: \x16 :1EDC: \x0A\x04\x03\xFC\x84\x01\x15 :41A: 
+:37E
+\x1A\x01\x07\x04\x03\xFD\x84\x00\x01\x0E :3AE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :3AE: \x16 :2005: \x0A\x04\x03\xFD\x84\x01\x15 :41A: 
+:3AE
+\x1A\x01\x07\x04\x03\xFE\x84\x00\x01\x0E :3DE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :3DE: \x16 :20C1: \x0A\x04\x03\xFE\x84\x01\x15 :41A: 
+:3DE
+\x1A\x01\x07\x04\x03\xFF\x84\x00\x01\x0E :40E: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :40E: \x16 :21F5: \x0A\x04\x03\xFF\x84\x01\x15 :41A: 
+:40E
+\x16 :2309: \x15 :41A: 
+:41A
+<music 11>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :446: 
+<background "ev019a0.iph" 11>
+\x2B
+:446
+\x78
+:447
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2237">
+「研究のお手伝いですか？」
+#
+<name "Lazlocke">
+「ああ、他の魔法使いの所に行って、アシスタント
+　だ。
+　勉強して来い」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2238">
+「はい。
+　わかりました。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:57C
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2239">
+「行ってきます」
+#
+<name "Lazlocke">
+「ああ、注意していけ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2240">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:64F
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+「先方には、話をつけてあるから安心しろ」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2241">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:6F0
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2242">
+「アルバイトに行ってきます」
+#
+<name "Lazlocke">
+「おう、注意していけよ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2243">
+「はい」
+#
+<name "Lazlocke">
+「実験台にされそうになったら、逃げろよ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA2244">
+「え？
+　そんな危ない人なんですか？
+　今日のアルバイト先」
+#
+<name "Lazlocke">
+「冗談だ。
+　安心しろ」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA2245">
+「め、目を見て言ってください！」
+#
+<removesprite -1 11>
+<exit>
+:8FE
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA2246">
+「ええと、今日は……あれ？
+　行き先、変更ですか？」
+#
+<name "Lazlocke">
+「ああ、その魔法使い。
+　ダンジョンに潜ってから、帰ってきてないらしい」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA2247">
+「ええっ？
+　大丈夫なんですか？」
+#
+<name "Lazlocke">
+「協会の救援部隊が動いてる。
+　心配するな。
+　それよりも、変更になった相手先に失礼の無いよ
+　うにな」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA2248">
+「はい。
+　頑張ってきます」
+#
+<removesprite -1 11>
+<exit>
+:B13
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2249">
+「むう、地味で面倒な仕事が多い……」
+#
+<name "魔法使い" "!IA0000">
+「アルバイトを雇ってやるような事だからね。
+　派手で楽な仕事ならアルバイトを雇ったりしない
+　わよ」
+#
+<name "Celes" "!AA2250">
+「えっと……」
+#
+<name "魔法使い" "!IA0001">
+「私もバイト。
+　コニーよ。
+　よろしくね」
+#
+<name "Celes" "!AA2251">
+「は、はい」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:C7A
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2252">
+「ええと、今日は研究室で調合実験と、経過検査っ
+　と……」
+#
+<name "コニー" "!IA0003">
+「頑張っているわね」
+#
+<name "Celes" "!AA2253">
+「あ、こんにちは」
+#
+<name "コニー" "!IA0004">
+「また、一緒ね。
+　頑張りましょう」
+#
+<name "Celes" "!AA2254">
+「はい」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:D99
+<music 11>
+<background "ev019a0.iph" 11>
+<name "コニー" "!IA0005">
+「魔法使いの生の実験を見れるのって、すごく勉強
+　になるの」
+#
+<name "Celes" "!AA2255">
+「そうね。
+　タメになるわ」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:E42
+<music 11>
+<background "ev019a0.iph" 11>
+<name "コニー" "!IA0006">
+「貴女。
+　戦闘向きの魔法にばっかり興味を持つわね」
+#
+<name "Celes" "!AA2256">
+「え？
+　そ、そうかな」
+#
+<name "コニー" "!IA0013">
+「せっかく見れるんだから、色々と興味を持った方
+　が良いわよ」
+#
+<name "Celes" "!AA2257">
+「あはは……
+　頑張ってみる」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:F69
+<music 11>
+<background "ev019a0.iph" 11>
+<name "コニー" "!IA0008">
+「私、魔法学園の生徒なの。
+　貴女は？」
+#
+<name "Celes" "!AA2258">
+「私は、魔法使いの家に住み込みで勉強中なの」
+#
+<name "コニー" "!IA0009">
+「へー、凄いじゃない。
+　最近、弟子を取ってくれる魔法使いも減ったのに」
+#
+<name "Celes" "!AA2259">
+「ぐ、偶然、運良くで……
+　まだまだ、勉強中」
+#
+<name "コニー" "!IA0010">
+「お互い、頑張りましょうね」
+#
+<name "Celes" "!AA2260">
+「うん」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1101
+<music 11>
+<background "ev019a0.iph" 11>
+<name "コニー" "!IA0012">
+「この資料、まとめろって。
+　私はここから始めるから、貴女はここからね」
+#
+<name "Celes" "!AA2261">
+「了解」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:11A1
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2262">
+「……あれ？」
+#
+<name "Viola" "!BA0195">
+「どうしたの？」
+#
+<name "Celes" "!AA2263">
+「今日のアルバイト先は、ヴィオラさんの所だって
+　知らなかったもので」
+#
+<name "Viola" "!BA0196">
+「そう……ラズロックの弟子だからって、甘やかさ
+　ないからね」
+#
+<name "Celes" "!AA2264">
+「は、はい！
+　頑張ります」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:12F7
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Elle" "!CA0172">
+「セリス。
+　今日も、師匠のお手伝い？」
+#
+<name "Celes" "!AA2265">
+「うん。
+　イエルちゃんは？」
+#
+<name "Elle" "!CA0173">
+「私も。
+　頑張ろうね」
+#
+<name "Celes" "!AA2266">
+「うん」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:13DB
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Viola" "!BA0197">
+「その薬と、こっちの薬。
+　１対９から９対１までのバリエーションで調合し
+　て、結果をレポート」
+#
+<name "Celes" "!AA2267">
+「はい」
+#
+<name "Viola" "!BA0198">
+「調合する薬の種類をドンドンと増やしていくから、
+　手早くね」
+#
+<name "Celes" "!AA2268">
+「頑張ります」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1511
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2269">
+「お手伝いに来ました」
+#
+<name "Viola" "!BA0199">
+「よく来たわね。
+　仕事、用意してるわよ」
+#
+<name "Celes" "!AA2270">
+「はい。
+　頑張ります」
+#
+<name "Elle" "!CA0174">
+「むう……
+　私も、外にお手伝いに出た方が良いのかな」
+#
+<name "Viola" "!BA0200">
+「……その前に、私の出した課題をクリアする事」
+#
+<name "Elle" "!CA0175">
+「は、はい」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1687
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2271">
+「うう、ヴィオラさんの所でのアルバイト、ツライ」
+#
+<name "Viola" "!BA0201">
+「そう？
+　ラズロックの所で弟子をやる方がツライと思うけ
+　ど？」
+#
+<name "Celes" "!AA2272">
+「そうですか？」
+#
+<name "Viola" "!BA0202">
+「ラズロックは昔、学園で教師をやっていたけど、
+　かなり厳しいって有名だったのよ」
+#
+<name "Celes" "!AA2273">
+「そ、そうなんだ……」
+#
+<name "Viola" "!BA0203">
+「まあ、その分、優秀な生徒をたくさん卒業させて
+　いたけどね」
+#
+<name "Celes" "!AA2274">
+「へ、へー……」
+#
+<name "Viola" "!BA0204">
+「さて。
+　ツライのが嫌なら、もう少し楽にしましょうか？」
+#
+<name "Celes" "!AA2275">
+「い、いえ。
+　厳しい感じでお願いします」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:191A
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2276">
+「魔法使いって、何かしら研究とかしているんです
+　か？」
+#
+<name "Viola" "!BA0205">
+「普通はそうね。
+　魔法使いとは、研究者であり、探求者でもあるわ
+　けだから」
+#
+<name "Celes" "!AA2277">
+「そっか……」
+#
+<name "Viola" "!BA0206">
+「ちなみに、研究成果によれば協会が報奨金を出し
+　てくれたり、多額で買い取ってくれる場合もある
+　わよ」
+#
+<name "Celes" "!AA2278">
+「そ、そうなんですか？」
+#
+<name "Viola" "!BA0207">
+「それを目当てに研究してる人は少ないけどね」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1B0C
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2279">
+「むう、難しい……」
+#
+<name "Viola" "!BA0208">
+「手間が掛かるなら、戻して頂戴。
+　私がやるから」
+#
+<name "Celes" "!AA2280">
+「い、いえ。
+　頑張ります」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1BD7
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2281">
+「むう……ヴィオラさん。
+　前々から凄いとは思っていたけど、身近で見ると
+　改めて凄いって感じる」
+#
+<name "Elle" "!CA0176">
+「でしょう」
+#
+<name "Celes" "!AA2282">
+「得意気なイエルちゃんが、少し憎い」
+#
+<name "Elle" "!CA0177">
+「でも、私の師匠に言わせれば、セリスの師匠も凄
+　いらしいんだけど……」
+#
+\x1A\x01\x0A\x42\x00\x63 10 \x01\x14 :1D74: 
+<name "Celes" "!AA2283">
+「全然、そんな気がしない……」
+#
+\x18 :1DAD: 
+:1D74
+<name "Celes" "!AA2284">
+「ん？
+　あの能力の事……かな？」
+#
+:1DAD
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1DB4
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2285">
+「あの……今日の仕事は？」
+#
+<name "Viola" "!BA0209">
+「もう少し、待ってなさい」
+#
+<name "Celes" "!AA2286">
+「は、はい」
+#
+<name "Elle" "!CA0178">
+「予定通りに進んでなくて、渡す仕事が無いの。
+　あまり刺激しないように」
+#
+<name "Celes" "!AA2287">
+「う、うん」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1EDC
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2288">
+「ヴィオラさんて宮廷魔法使いなのに、結構、この
+　街に居るのね」
+#
+<name "Elle" "!CA0179">
+「ええ、大事な仕事の時だけ、王都に出かけるみた
+　い」
+#
+<name "Celes" "!AA2289">
+「それが許されるだけ、凄いって事なのかな？」
+#
+<name "Elle" "!CA0180">
+「そうよ」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2005
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2290">
+「ヴィオラさんの家の書庫って、量が多い……」
+#
+<name "Elle" "!CA0181">
+「私も苦労してるの。
+　頑張ろう」
+#
+<name "Celes" "!AA2291">
+「うん」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:20C1
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2292">
+「ヴィオラさんの家って、大きいよね」
+#
+<name "Elle" "!CA0182">
+「でしょう」
+#
+<name "Celes" "!AA2293">
+「でも、イエルちゃんの実家は、もっと大きいって
+　聞いたけど……」
+#
+<name "Elle" "!CA0183">
+「その話は、師匠の前でしないように」
+#
+<name "Celes" "!AA2294">
+「う、うん」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:21F5
+<music 11>
+<background "ev019a0.iph" 11>
+<name "Celes" "!AA2295">
+「ヴィオラさん、今日は何をしましょう？」
+#
+<name "Viola" "!BA0210">
+「ローンズ＝モーダルメイザーの書いた本を、探し
+　て頂戴。
+　私の書庫に三冊。
+　協会の図書館に数冊ある筈だから」
+#
+<name "Celes" "!AA2296">
+「了解しました」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2309
+<music 11>
+<background "ev019a0.iph" 11>
+\x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :237F: 
+<name "Celes" "!AA2301">
+「魔法の研究って、気長だなぁ」
+#
+:237F
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :23CB: 
+<name "Celes" "!AA2302">
+「実験台にされたら、どうしよう……」
+#
+:23CB
+<exit>
+\x78

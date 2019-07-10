@@ -1,0 +1,681 @@
+\x1A\x01\x07\x04\x00\xC7\x84\x00\x01\x0E :15: \x15 :416: 
+:15
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x01\xA4\x84\x00\x01\x0E :3C: \x16 :495: \x0A\x04\x01\xA4\x84\x01\x15 :416: 
+:3C
+\x1A\x01\x07\x04\x01\xA5\x84\x00\x01\x0E :6F: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :6F: \x16 :7A2: \x0A\x04\x01\xA5\x84\x01\x15 :416: 
+:6F
+\x1A\x01\x07\x04\x01\xA6\x84\x00\x01\x0E :A2: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :A2: \x16 :9BE: \x0A\x04\x01\xA6\x84\x01\x15 :416: 
+:A2
+\x1A\x01\x07\x04\x01\xA7\x84\x00\x01\x0E :C3: \x16 :BD6: \x0A\x04\x01\xA7\x84\x01\x15 :416: 
+:C3
+\x1A\x01\x07\x04\x01\xB0\x84\x00\x01\x0E :FF: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :FF: \xE6 "a0004" \x00\x16 :1A18: \x0A\x04\x01\xB0\x84\x01\x15 :416: 
+:FF
+\x1A\x01\x07\x04\x01\xB3\x84\x00\x01\x0E :13B: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :13B: \xE6 "a0004" \x00\x16 :1D15: \x0A\x04\x01\xB3\x84\x01\x15 :416: 
+:13B
+\xE9 1000 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 4 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :168: \x15 :40A: 
+:168
+\x1A\x01\x07\x04\x01\xA8\x84\x00\x01\x0E :192: \xE6 "a0003" \x00\x16 :D35: \x0A\x04\x01\xA8\x84\x01\x15 :416: 
+:192
+\x1A\x01\x07\x04\x01\xA9\x84\x00\x01\x0E :1BC: \xE6 "a0000" \x00\x16 :DFC: \x0A\x04\x01\xA9\x84\x01\x15 :416: 
+:1BC
+\x1A\x01\x07\x04\x01\xAA\x84\x00\x01\x0E :1E6: \xE6 "a0001" \x00\x16 :F5D: \x0A\x04\x01\xAA\x84\x01\x15 :416: 
+:1E6
+\x1A\x01\x07\x04\x01\xAB\x84\x00\x01\x0E :210: \xE6 "a0002" \x00\x16 :112C: \x0A\x04\x01\xAB\x84\x01\x15 :416: 
+:210
+\x1A\x01\x07\x04\x01\xAC\x84\x00\x01\x0E :231: \x16 :1240: \x0A\x04\x01\xAC\x84\x01\x15 :416: 
+:231
+\x1A\x01\x07\x04\x01\xB1\x84\x00\x01\x0E :26D: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :26D: \xE6 "a0004" \x00\x16 :1B27: \x0A\x04\x01\xB1\x84\x01\x15 :416: 
+:26D
+\x1A\x01\x07\x04\x01\xB2\x84\x00\x01\x0E :2A9: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :2A9: \xE6 "a0004" \x00\x16 :1C26: \x0A\x04\x01\xB2\x84\x01\x15 :416: 
+:2A9
+\x1A\x01\x07\x04\x01\xAD\x84\x00\x01\x0E :2EA: \xA8 "ëÃóÕëùâ¡" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 70 \x01\x15 :2EA: \x16 :13D7: \x0A\x04\x01\xAD\x84\x01\x15 :416: 
+:2EA
+\x1A\x01\x07\x04\x01\xAE\x84\x00\x01\x0E :30B: \x16 :1665: \x0A\x04\x01\xAE\x84\x01\x15 :416: 
+:30B
+\x1A\x01\x07\x04\x01\xAF\x84\x00\x01\x0E :32C: \x16 :17F2: \x0A\x04\x01\xAF\x84\x01\x15 :416: 
+:32C
+\x1A\x01\x07\x04\x01\xB6\x84\x00\x01\x0E :376: \xA8 "ëÃóÕëùâ¡" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 40 \x01\x15 :376: \xE6 "a0003" \x00\x16 :2231: \x0A\x04\x01\xB6\x84\x01\x15 :416: 
+:376
+\x1A\x01\x07\x04\x01\xB4\x84\x00\x01\x0E :3C0: \xA8 "ëÃóÕëùâ¡" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 80 \x01\x15 :3C0: \xE6 "a0003" \x00\x16 :1F4F: \x0A\x04\x01\xB4\x84\x01\x15 :416: 
+:3C0
+\x1A\x01\x07\x04\x01\xB5\x84\x00\x01\x0E :40A: \xA8 "ëÃóÕëùâ¡" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 50 \x01\x15 :40A: \xE6 "a0003" \x00\x16 :1FF4: \x0A\x04\x01\xB5\x84\x01\x15 :416: 
+:40A
+\x16 :28A9: \x15 :416: 
+:416
+<music 25>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :494: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :471: \xE6 "a0004" \x00
+<background "ev007a0.iph" 11>
+\x2B\x2E\x22\x00\x01 5  10 \x18 :494: 
+:471
+<background "ev006a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  10 
+:494
+\x78
+:495
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA0901">
+"When I was at the school, all the training was
+ like this at the start."
+#
+<name "Lazlocke">
+"That's right. Indeed.
+ My training is impeccable."
+#
+<removesprite -1 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0245">
+"That's all well and good, but..."
+#
+<name "Lazlocke">
+"Aah!
+ Soshiette!?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0246">
+"I was passing by and thought I'd say hello.
+ Miss Celes, keep your eyes forward, and don't
+ overextend on your stride."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA0902">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"S-She's my apprentice."
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0247">
+"In physical prowess, I am your superior."
+#
+<removesprite -1 11>
+<exit>
+:7A2
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA0903">
+"Master, are there some of these clothes with
+ long sleeves?"
+#
+<name "Lazlocke">
+"Is something the matter?"
+#
+<sprite "ta01d31.iph" 4 4 12>
+<name "Celes" "!AA0904">
+"No, it's just cold out."
+#
+<name "Lazlocke">
+"You know, those clothes are magic.
+ They should be enchanted against cold.
+ Are you cold?"
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA0905">
+"Now that you mention it, I'm fine."
+#
+<name "Lazlocke">
+"Keep up the practice."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA0906">
+"Y-Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:9BE
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA0907">
+"Master, these clothes are magic, right?"
+#
+<name "Lazlocke">
+"Yeah, that's right."
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA0908">
+"Do they only protect against cold?"
+#
+<name "Lazlocke">
+"No, there's some protection against physical
+ impacts and spells too."
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA0909">
+"They're incredible clothes, aren't they?"
+#
+<name "Lazlocke">
+"The Guild put a lot of blood, sweat, and tears
+ into them. The problem is that they're still
+ pretty expensive."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA0910">
+"I won't let them down.
+ I'll do my best!"
+#
+<removesprite -1 11>
+<exit>
+:BD6
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"As I've told you, a wizard needs to be 
+ physically fit. More than that, they also need
+ strong. You'll need to be able to protect
+ yourself."
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA0911">
+"Yes, sir."
+#
+<name "Lazlocke">
+"Keep up the hard work."
+#
+<sprite "ta01d20.iph" 4 4 12>
+<name "Celes" "!AA0912">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:D35
+<music 25>
+<background "ev006a0.iph" 11>
+<name "Lazlocke">
+"Okay, more running today!"
+#
+<name "Celes" "!AA0913">
+"Yes, sir!"
+#
+<name "Lazlocke">
+"Not just running! 
+ All kinds of things!"
+#
+<name "Celes" "!AA0914">
+"Yes, sir!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:DFC
+<music 25>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Let's lift some weights!"
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA0915">
+"Yes, sir!"
+#
+<name "Lazlocke">
+"You don't want to start with something too
+ heavy."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA0916">
+"Then I'll just move all those over there."
+#
+<name "Lazlocke">
+"Great. Please d...
+ Wait, what?"
+#
+<removesprite -1 11>
+<exit>
+:F5D
+<music 25>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Walking on poles helps train your sense of
+ balance."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA0917">
+"Yes, sir!"
+#
+<name "Lazlocke">
+"Let me show you how it's done."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA0918">
+"Yes, sir."
+#
+<name "Lazlocke">
+"On second thought, I don't want to give you a
+ poor example to follow."
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA0919">
+"Huh?"
+#
+<removesprite -1 11>
+What if I fell and hurt myself?
+I'm too old for that.
+#
+<exit>
+:112C
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA0920">
+"Carrying things seems like it should be easy,
+ but it's actually really hard."
+#
+<name "Lazlocke">
+"But it's a good way to strengthen your body.
+ Keep it up."
+#
+<sprite "ta01d20.iph" 4 4 12>
+<name "Celes" "!AA0921">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:1240
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA0922">
+"Master, please tell me what to do."
+#
+<name "Lazlocke">
+"Mm.
+ Go ahead, Soshiette."
+#
+<removesprite -1 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA0248">
+"Yes, of course, but don't you think this
+ situation is a headache?"
+#
+<name "Lazlocke">
+"It's no such thing!
+ And I need it like this for my pride!"
+#
+<removesprite -1 11>
+<exit>
+:13D7
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Hmmm..."
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0249">
+"Is something bothering you?"
+#
+<name "Lazlocke">
+"Well, Celes keeps training and exercising...
+ What should I do if she gets in better shape
+ than me?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0251">
+"I consider it exceptionally unlikely that 
+ she'll surpass your stamina.
+ It seems a pointless concern to me."
+#
+<name "Lazlocke">
+"Hm... If you're talking about at night, then
+ you're making a mistake."
+#
+<name "Lazlocke">
+"Stamina is a completely different thing when
+ it comes to sex."
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0252">
+"Is that so?"
+#
+<name "Lazlocke">
+"Sadly, that's how men are."
+#
+<removesprite -1 11>
+<exit>
+:1665
+<music 10>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Maybe I should be getting into shape too."
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0253">
+"Indeed. If you'll let me, I'll help you."
+#
+<name "Lazlocke">
+"Oh, uh, being trained by you would kill me."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0254">
+"Miss Celes is alive and well."
+#
+<name "Lazlocke">
+"Uh, hey! Stop! Aaaahhhh!"
+#
+<removesprite -1 11>
+<exit>
+:17F2
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA0923">
+"Have I gotten stronger?"
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a62.iph" 6 4 11>
+<name "Soshiette" "!DA0255">
+"It's difficult for anybody to be able to know
+ that about themself."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA0924">
+"Really?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0256">
+"Yes, but do not denigrate the training you do
+ every day.
+ Keep up the hard work."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA0925">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:1A18
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"It's hot..."
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA0926">
+"Yes, it's rather hot."
+#
+<name "Lazlocke">
+"On a day like today, you should swim!
+ To the beach!"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA0927">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:1B27
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA0928">
+"I'd like to go swimming.
+ Please coach me."
+#
+<name "Lazlocke">
+"All right.
+ Swimming ahoy!"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0929">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:1C26
+<music 25>
+<background "ev007b0.iph" 11>
+<name "Lazlocke">
+"That's it! You're swimming well!
+ You've got it!
+ Keep your rhythm constant!
+ Yeah! Like that!"
+#
+<name "Lazlocke">
+"Don't answer me!
+ You'll drown!"
+#
+<name "Lazlocke">
+"Aaah! She's drowning!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1D15
+<music 25>
+<background "ev007b0.iph" 11>
+<name "Lazlocke">
+"You've gotten pretty fast.
+ If I relax for a moment, I'll get left in
+ your wake."
+#
+<name "Lazlocke">
+"But with my magic, I can speed through the
+ water just like a fish!"
+#
+<name "Lazlocke">
+"Sail, Bittendorf!
+ Cut through the sea!"
+#
+<name "Lazlocke">
+"That it! Such speed!
+ Such a rush!
+ Aaah, the wind feels great!"
+#
+<background "ev007c0.iph" 10>
+...And then I fell into the ocean.
+#
+<name "Celes" "!AA0930">
+"Master, I thought I told you it's dangerous
+ to stand in a boat."
+#
+<name "Lazlocke">
+"...Sorry."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1F4F
+<music 25>
+<background "ev006a0.iph" 11>
+<name "Celes" "!AA0931">
+"Running to start...
+ I couldn't do it at the start, but now I can
+ run the whole way. 
+ Have I gotten stronger?"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1FF4
+<music 25>
+<background "ev006a0.iph" 11>
+<name "Celes" "!AA0932">
+"Mph... Mph... Mph..."
+#
+<name "Lazlocke">
+"Good job! Keep it up!"
+#
+<name "Celes" "!AA0933">
+"Mph... Mph... Mph..."
+#
+<name "Lazlocke">
+"Don't slow down!"
+#
+<name "Celes" "!AA0934">
+"Mph... Mph... Mph..."
+#
+<name "Soshiette" "!DA0257">
+"Your Grace."
+#
+<name "Lazlocke">
+"What?"
+#
+<name "Soshiette" "!DA0258">
+"If you want to teach her, shouldn't you be
+ closer to her?"
+#
+<name "Lazlocke">
+"I was, but she's so fast..."
+#
+<name "Soshiette" "!DA0259">
+"...
+ Perhaps you should also be exercising."
+#
+<name "Lazlocke">
+"I-I'll think about it."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2231
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA0935">
+"I'm going out for a run."
+#
+<name "Lazlocke">
+"Got it."
+#
+<removesprite -1 11>
+Celes trots out of the room.
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA0260">
+"You Grace, don't you think you should run as
+ well?"
+#
+<name "Lazlocke">
+"Hm..."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0261">
+"Why don't you run with her?"
+#
+I really don't miss the physical training that
+I used to have to do.
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA0264">
+"You should be a fine example for her."
+#
+<name "Lazlocke">
+"I guess so.
+ I suppose I can run with her once in a while."
+#
+<removesprite -1 11>
+That was the thought when I decided to try
+going for a run with her.
+#
+<music 25>
+<background "ev006b0.iph" 10>
+<name "Celes" "!AA0936">
+"One, two, one two..."
+#
+<name "Lazlocke">
+"*huff* *huff*"
+#
+<name "Celes" "!AA0937">
+"One, two, one, two..."
+#
+<name "Lazlocke">
+"*huff* *huff*"
+#
+<name "Celes" "!AA0938">
+"One, two, one, two..."
+#
+<name "Lazlocke">
+"*huff* *huff* *wheeze*"
+#
+<name "Celes" "!AA0939">
+"Master, should we slow down?"
+#
+<name "Lazlocke">
+"N-No, don't worry about me."
+#
+<background "ev006c0.iph" 10>
+<name "Celes" "!AA0940">
+"Okay, then..."
+#
+<name "Lazlocke">
+"Aah!
+ You had already slowed down because of me!?"
+#
+I failed miserably.
+#
+<name "Soshiette" "!DA0265">
+"Your Grace, you underestimated the vitality of
+ youth."
+#
+<name "Lazlocke">
+"I'm still young."
+#
+<name "Soshiette" "!DA0266">
+"Don't worry, I couldn't keep up with her
+ either."
+#
+<name "Lazlocke">
+"That's why you made me run with her?"
+#
+<name "Soshiette" "!DA0267">
+"You should be aware of how far she's come.
+ No, I had no other reason."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:28A9
+<music 25>
+\x2B\x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :28F2: 
+<background "ev007a0.iph" 11>
+\x0A\x24\x00\x0F\x84\x01\x2B\x2E\x22\x00\x01 5  10 \x18 :291B: 
+:28F2
+<background "ev006a0.iph" 11>
+\x0A\x24\x00\x0F\x84\x01\x2B\x2E\x22\x00\x01 1  10 
+:291B
+\x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :295F: 
+<name "Celes" "!AA0946">
+"Running.ÅÙ Running.ÅÙ"
+#
+:295F
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :29A1: 
+<name "Celes" "!AA0947">
+"One, two, three, four..."
+#
+:29A1
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :29E1: 
+<name "Celes" "!AA0948">
+"Stretching.ÅÙ StretchingÅÙ"
+#
+:29E1
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2A2B: 
+<name "Celes" "!AA0949">
+"After stretching, I'll give it my all!"
+#
+:2A2B
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2A63: 
+<name "Celes" "!AA0950">
+"I can do it!"
+#
+:2A63
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :2A9B: 
+<name "Celes" "!AA0951">
+"That was a good workout."
+#
+:2A9B
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :2AD9: 
+<name "Celes" "!AA0952">
+"I'll do my best today!"
+#
+:2AD9
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :2B27: 
+<name "Soshiette" "!DA0268">
+"Train hard and work your body."
+#
+:2B27
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :2B73: 
+<name "Soshiette" "!DA0269">
+"Pay close attention to the fundamentals."
+#
+:2B73
+<exit>
+\x78
