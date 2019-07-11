@@ -50,36 +50,36 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1344">
-「風の魔法！」
+"Wind magic!"
 #
 <removesprite -1 11>
-　そよそよ～……
+*rustle*
 #
 <name "Lazlocke">
-「なかなか涼しいな」
+"Kind of a nice breeze."
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1345">
-「むう、もっと威力を上げないと……」
+"Grr. I need to increase the strength."
 #
 <name "Lazlocke">
-「これぐらいは出来るようにな」
+"You should at least be able to do this."
 #
 <removesprite -1 11>
-　俺は軽く風の魔法を使い、セリスのスカートを捲
-　り上げた。
+I cast a minor spell and blow her dress up.
 #
 <sprite "ta01a67.iph" 4 4 11>
 <name "Celes" "!AA1346">
-「し、師匠！」
+"M-Master!"
 #
 <name "Lazlocke">
-「街中でこういった使い方をすると、即座に協会の
-　懲罰部隊が飛んでくるから注意するように」
+"If you use it like that in the city, be aware
+ that the guards will come after you on the
+ spot."
 #
 <sprite "ta01a66.iph" 4 4 12>
 <name "Celes" "!AA1347">
-「絶対に使いません」
+"I'll never use it like that."
 #
 <removesprite -1 11>
 <exit>
@@ -88,83 +88,87 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1348">
-「風の刃っ！」
+"Wind blade!"
 #
 <removesprite -1 11>
-　セリスは風の魔法を唱えるが、微風が吹くだけに
-　終った。
+She casts the spell, but it only causes a light
+breeze.
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1349">
-「あれ？」
+"Huh?"
 #
 <name "Lazlocke">
-「風の強さと、勢いを細かくコントロールしないと、
-　物は切れない。
-　難しいが、練習あるのみだ」
+"If you don't control the strength and movement
+ of the wind very precisely, you won't be able
+ to cut anything.
+ It's hard, but all you need is practice."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1350">
-「はい。
-　頑張ります」
+"Yes, sir.
+ I'll keep trying."
 #
 <removesprite -1 11>
 <exit>
 :789
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは風の魔法で、マトを切る練習をしていた。
+Celes is practicing cutting a target using wind
+spells.
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1351">
-「えいっ！
-　……ん、なかなかスパッと切れない……」
+"Yah! Hmm... 
+ It's hard to make a clean cut..."
 #
 <name "Lazlocke">
-「風がまだ太過ぎるんだ。
-　もっと細くしてみろ」
+"Your wind is still too thick.
+ Try making it thinner."
 #
 <sprite "ta01d27.iph" 4 4 12>
 <name "Celes" "!AA1352">
-「細く……うーん……」
+"Thinner... 
+ Mmm..."
 #
 <name "Lazlocke">
-「練習あるのみ。
-　頑張れ」
+"You just need to keep practicing.
+ You can do it."
 #
 <removesprite -1 11>
 <exit>
 :90E
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは風の魔法で、マトを切る練習をしていた。
+Celes is practicing cutting a target using wind
+spells.
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1353">
-「えいっ、えいっ、えいっ！」
+"Yah! Yah! Yah!"
 #
 <removesprite -1 11>
-　マトは、セリスの魔法で見事に細切れにされていく。
+She shreds it into little pieces.
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1354">
-「どうですか？」
+"How was that?"
 #
 <name "Lazlocke">
-「風の魔法は見え難いから、失敗が目立たないだけ
-　だ」
+"Wind magic is hard to actually see, so you
+ don't notice all the failures."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA1355">
-「え？」
+"Huh?"
 #
 <name "Lazlocke">
-「三つ、外している。
-　まだまだ」
+"You missed three times.
+ You've still got work to do."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1356">
-「むう……バレてた」
+"Aww... You noticed."
 #
 <removesprite -1 11>
 <exit>
@@ -173,88 +177,95 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA1357">
-「風車を回すんですか？」
+"Spin that pinwheel?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1358">
-「そんなの、簡単ですよ」
+"That's easy."
 #
 <sprite "ta01d21.iph" 4 4 12>
 <name "Celes" "!AA1361">
-「えいっ！
-　……あれ？」
+"Yah!
+ ...Huh?"
 #
 <name "Lazlocke">
-「手で回してみろ」
+"Try doing it by hand."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA1362">
-「はい……え？
-　この重さは……」
+"Yes, sir.
+ ...Huh?
+ It's heavy..."
 #
 <name "Lazlocke">
-「特別製の風車だ。
-　弱い風じゃ、動かないぞ」
+"It's specially made.
+ A weak gust won't make it move."
 #
 <sprite "ta01d26.iph" 4 4 12>
 <name "Celes" "!AA1363">
-「む……動かしてみせます」
+"Grr...
+ I'm going to move it."
 #
 <name "Lazlocke">
-「よし、頑張れ」
+"All right.
+ Good luck."
 #
 <removesprite -1 11>
 <exit>
 :DA6
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは、風の魔法で風車を回そうとしていた。
+Celes is trying to spin the pinwheel with wind
+magic.
 #
 <sprite "ta01d23.iph" 4 4 11>
 <name "Celes" "!AA1364">
-「んんん……
-　……はぁ、はぁ」
+"Nnnnh...
+ *huff* huff*"
 #
 <name "Lazlocke">
-「少しだけ動いたな」
+"It moved a little."
 #
 <sprite "ta01d27.iph" 4 4 12>
 <name "Celes" "!AA1365">
-「むう……」
+"Grr..."
 #
 <name "Lazlocke">
-「弱い風を漠然とぶつけても動かない。
-　弱いなら弱いなりに、考えてぶつけるんだ」
+"It won't move unless you're not hitting it dead
+ on with a strong gust.
+ If it's too weak, think about how you're
+ striking it."
 #
 <sprite "ta01d92.iph" 4 4 12>
 <name "Celes" "!AA1366">
-「は、はい。
-　頑張ります」
+"Y-Yes, sir.
+ I'll try harder."
 #
 <removesprite -1 11>
 <exit>
 :F74
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは、風の魔法で風車を回していた。
+Celes spins the pinwheel with wind magic.
 #
 <name "Lazlocke">
-「かなり回るようになったな」
+"It's spinning pretty well."
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1367">
-「はい」
+"Yep."
 #
 <name "Lazlocke">
-「だから、さらに重い風車を用意した。
-　頑張れ」
+"That's why I got an even heavier pinwheel for
+ you.
+ Good luck."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1368">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -262,100 +273,104 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「火の魔法を使うなら、火を見る。
-　水の魔法を使うなら、水を見る。
-　では、風の魔法を使うなら？」
+"To use fire magic, you feel fire.
+ To use water magic, you feel water.
+ So what about when you use wind magic?"
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1369">
-「風を見るんですね」
+"You feel the wind, right?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <removesprite -1 11>
 <exit>
 :11BE
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは棒の上に立ち、風を感じようとしていた。
+Celes is standing on a pole, trying to feel the
+wind.
 #
 <name "Lazlocke">
-「おーい」
+"Hey."
 #
-　返事が無い。
+No response.
 #
-　集中しているようだ。
+Seems like she's concentrating.
 #
-　俺は棒の近くまで行って、セリスを見上げた。
+I step close and look up at her.
 #
-　風に吹かれ、運動服がはためく。
+Her shirt's fluttering in the wind.
 #
 <name "Lazlocke">
-「……ここからだと、乳首が見えるな」
+"I can see your nipples from here."
 #
 <name "Celes" "!AA1370">
-「え、あ、……きゃぁぁぁぁぁ」
+"Huh? Ah...
+ Eeek!"
 #
-　セリスは俺の上に落下してきた。
+She fell on me.
 #
 <exit>
 :1339
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは棒の上に立ち、風を感じようとしていた。
+Celes is standing on a pole, trying to feel the
+wind.
 #
 <name "Lazlocke">
-「どうだ？」
+"How's it going?"
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1371">
-「まだ自信はありませんが、かなり解って来たつも
-　りです」
+"I'm not sure yet, but I think I understand it
+ much better."
 #
 <name "Lazlocke">
-「そうか。
-　頼もしいな」
+"I see.
+ Sounds like you're making progress."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1372">
-「いえ、それほどでは……きゃぁっ」
+"No, I don't think I...aaah!"
 #
 <removesprite -1 11>
-　突風に吹かれ、セリスは棒から落ちた。
+A gust of wind knocks her off the pole.
 #
 <name "Lazlocke">
-「……まだまだ、みたいだな」
+"...Looks like you still have a way to go."
 #
 <exit>
 :1501
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「風の魔法で、岩を砕く。
-　難しいぞ」
+"Break this rock with wind magic.
+ It won't be easy."
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1373">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :15A7
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは風の魔法で岩を砕こうとしていた。
+Celes is trying to break rocks with wind magic.
 #
 <sprite "ta01d23.iph" 4 4 11>
 <name "Celes" "!AA1374">
-「ぬぬぬぬ……」
+"Nnnnnngh..."
 #
 <name "Lazlocke">
-「漠然と風をぶつけても、岩は砕けないぞ」
+"You won't break the rock by flailing at it 
+ with weak gusts."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1375">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -364,26 +379,29 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1376">
-「風の魔法で岩を砕く練習。
-　失敗すると変化が無いから、精神的に疲れます」
+"I have to practice breaking rocks with wind
+ magic, but it's exhausting mentally because
+ when you mess up, nothing happens at all."
 #
 \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x14 :1811: 
 <name "Lazlocke">
-「んー、失敗する度に、俺が怒鳴ってやろうか？」
+"Hmm. Want me to yell at you every time you
+ fail?"
 #
 <sprite "ta01d42.iph" 4 4 11>
 <name "Celes" "!AA1377">
-「……い、いえ。
-　頑張ります」
+"N-No.
+ I'll do my best."
 #
 \x18 :18B4: 
 :1811
 <name "Lazlocke">
-「んー、失敗する度に、俺がキスしてやろうか？」
+"Hmm. How about every time you fail, I kiss
+ you?"
 #
 <sprite "ta01d97.iph" 4 4 11>
 <name "Celes" "!AA1378">
-「え、えっと……それはペナルティになりません」
+"U-Um, that's not a penalty."
 #
 :18B4
 <removesprite -1 11>
@@ -391,35 +409,36 @@
 :18C2
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは風の魔法で岩を砕いていた。
+Celes is breaking rocks with wind magic.
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1379">
-「えいっ、えいっ、えいっ！」
+"Yah! Yah! Yah!"
 #
 <removesprite -1 11>
-　セリスが呪文を唱える度に、岩がパリッと割れて
-　いく。
+Every time she casts a spell, another crack
+appears in a rock.
 #
 <name "Lazlocke">
-「良い感じだな」
+"Looking pretty good."
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1380">
-「はい。
-　……悪い点はありませんか？」
+"Yes, sir.
+ Is there anything I'm doing wrong?"
 #
 <name "Lazlocke">
-「んー……できるなら、こんな感じにしてみろ」
+"Hmm... If you can manage it, try to do it like
+ this."
 #
 <removesprite -1 11>
-　俺は風の魔法で、岩を砕いてみせる。
+I crush a rock with a wind spell.
 #
-　セリスの砕いた岩よりも、粉々に。
+Unlike her cracks, mine shatters into dust.
 #
 <sprite "ta01d92.iph" 4 4 11>
 <name "Celes" "!AA1381">
-「……が、頑張ります」
+"I-I'll try."
 #
 <removesprite -1 11>
 <exit>
@@ -428,23 +447,24 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1382">
-「風の魔法って、威力的にどうなんですか？」
+"How strong is wind magic?"
 #
 <name "Lazlocke">
-「うーん。
-　まあ、使い方次第だな」
+"Hmm...
+ Well, that depends on how you use it."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA1383">
-「使い方ですか？」
+"How you use it?"
 #
 <name "Lazlocke">
-「まあ、全部の魔法に言える事だけどな。
-　練習を重ねて、便利な使い方を覚えろ」
+"Well, that's true for all magic though.
+ You have to practice it over and over and learn
+ the best ways to use it."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1384">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -453,16 +473,15 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1385">
-「風の魔法を利用して、船を動かすとかどうでしょ
-　う？」
+"What about using wind magic to sail a ship?"
 #
 <name "Lazlocke">
-「そういったスケールの大きな話は、風の魔法を使
-　いこなしてからにしような」
+"Let's worry about doing something on that
+ grand a scale once you've mastered it."
 #
 <sprite "ta01d17.iph" 4 4 12>
 <name "Celes" "!AA1386">
-「はーい」
+"Okay!"
 #
 <removesprite -1 11>
 <exit>
@@ -471,14 +490,15 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a12.iph" 4 4 11>
 <name "Celes" "!AA1387">
-「風を服の中に流して、蒸れを解消してみる」
+"If you blow wind through your clothes, you can
+ get rid of the stuffiness."
 #
 <name "Lazlocke">
-「スカートが捲れあがってるぞ」
+"Your skirt's being blown up."
 #
 <sprite "ta01a80.iph" 4 4 12>
 <name "Celes" "!AA1388">
-「きゃぁっ！」
+"Eek!"
 #
 <removesprite -1 11>
 <exit>
@@ -488,7 +508,8 @@
 \x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1F97: 
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1394">
-「風の魔法って、なかなか手応えが無くて難しいです」
+"It's hard to see what you're doing with wind
+ magic."
 #
 <removesprite -1 11>
 \x2B
@@ -496,8 +517,7 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :201A: 
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1395">
-「風の魔法。
-　夏場に大活躍しそうな予感です」
+"Wind magic seems perfect for the summer time."
 #
 <removesprite -1 11>
 \x2B
@@ -505,7 +525,7 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :208E: 
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1396">
-「いつかは嵐を起こしてみせる！」
+"One day, I'll be able to cause a storm!"
 #
 <removesprite -1 11>
 \x2B
@@ -513,7 +533,7 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :20FA: 
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1397">
-「私も風になりたい……」
+"I want to be the wind..."
 #
 <removesprite -1 11>
 :20FA + 1
