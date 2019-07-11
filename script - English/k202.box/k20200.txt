@@ -51,20 +51,22 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「いつでもどこでも、水を生み出せるように」
+"I want you to be able to create water any
+ time, anywhere."
 #
 <sprite "ta01a89.iph" 4 4 11>
 <name "Celes" "!AA1294">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「火と違い、水は常に発生させ続ける必要がある。
-　持久力が大切だ」
+"Unlike fire, creating water is a process that
+ must be maintained.
+ Endurance is important."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1295">
-「はい。
-　頑張ります」
+"Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -73,43 +75,46 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1296">
-「えいっ！
-　……あれ？
-　出ない？」
+"Yah!
+ ...Huh?
+ Nothing came out?"
 #
 <name "Lazlocke">
-「……いや、水蒸気が出てる」
+"No, there's steam."
 #
 <sprite "ta01d23.iph" 4 4 12>
 <name "Celes" "!AA1297">
-「えいいっ！」
+"Yaaah!"
 #
 <name "Lazlocke">
-「今度は氷だな。
-　これはこれで凄いが、水を出すように」
+"Ice this time.
+ That's impressive, but we're looking for
+ water."
 #
 <removesprite -1 11>
 <exit>
 :605
 <music 26>
 <background "bg004a0.iph" 11>
-　魔力で水を出すのは、火を起こすよりも難しい。
+It's much more difficult to create water with
+magic than it is fire.
 #
-　特に大量の水を出すには、技術が要る。
+Especially any significant quantity of water.
 #
 <name "Lazlocke">
-「……なかなかの水量だ」
+"...That's a lot of water."
 #
 <sprite "ta01d09.iph" 4 4 11>
 <name "Celes" "!AA1298">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Lazlocke">
-「しかし、俺の頭の上に出す事は無いと思う」
+"But I would prefer it to not appear over my
+ head."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1299">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
 <exit>
@@ -117,27 +122,30 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「水の魔法が使えれば、氷の魔法は簡単だ」
+"If you can use water magic, using ice magic
+ should be simple."
 #
 <name "Lazlocke">
-「水の温度をさらに下げれば氷になる」
+"Just lower the temperature of water and it
+ becomes ice."
 #
 <name "Lazlocke">
-「そして、水と違って持久力も要らなければ、攻撃
-　力も上がる。
-　良い事だらけだ」
+"You also don't need the same endurance that you
+ do for water, and it's more useful offensively.
+ There's all kinds of advantages."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1300">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「だが、水の魔法が使えなければ使えない。
-　基本は水の魔法だ」
+"But if you can't master water magic, you won't
+ be able to use it.
+ At its core, it is water magic."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1301">
-「わかりました」
+"I understand."
 #
 <removesprite -1 11>
 <exit>
@@ -146,21 +154,25 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1302">
-「水の温度を下げて氷に……あれ、凍らない？」
+"Lower the water temperature and turn it into
+ ice...
+ Huh? It didn't freeze?"
 #
 <name "Lazlocke">
-「少し振動を与えてみろ」
+"Give it a little shake."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA1303">
-「は、はい……あ、凍った」
+"Y-Yes, sir.
+ Ah, it froze."
 #
 <name "Lazlocke">
-「温度を下げるだけじゃ、冷たい水だぞ」
+"Just lowering the temperature only makes 
+ supercooled water."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1304">
-「わ、わかりました」
+"I-I understand."
 #
 <removesprite -1 11>
 <exit>
@@ -169,38 +181,39 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d10.iph" 4 4 11>
 <name "Celes" "!AA1305">
-「氷の槍？
-　……きゃぁっ」
+"An ice spear?
+ Eek!"
 #
 <name "Lazlocke">
-「水は変幻自在だからな。
-　水を変化させ、氷にして攻撃するのが水の魔法で
-　はもっともオーソドックスなスタイルだ」
+"Water can take any shape.
+ The most orthodox form of attack magic using
+ water is to turn it to ice."
 #
 <name "Lazlocke">
-「ま、物量に任せて大量の水で押し流すとかの方法
-　もあるけどな」
+"Well, you can also rely on sheer quantity and
+ crush your enemy in a flood."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA1306">
-「師匠の得意技ですか？」
+"Is that your specialty?"
 #
 <name "Lazlocke">
-「そうだが、なぜ解った？」
+"I suppose. How did you know?"
 #
 <sprite "ta01d07.iph" 4 4 12>
 <name "Celes" "!AA1307">
-「いえ、物量に任せてと……」
+"Oh, when you said quantity, I just..."
 #
 <name "Lazlocke">
-「どーせ、魔力量に任せた乱暴な攻撃しかできない
-　です」
+"Well excuse me for only being able to do
+ attacks spells that use a huge amount of
+ mana."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1308">
-「す、すみません。
-　口が滑りました。
-　拗ねないでください」
+"I-I'm sorry.
+ It was a slip of the tongue.
+ Please don't sulk."
 #
 <removesprite -1 11>
 <exit>
@@ -209,19 +222,19 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1309">
-「狙いを定めて……えいっ！」
+"Steady my aim... Yah!"
 #
 <removesprite -1 11>
-　セリスの放った氷の塊が、的に命中する。
+The chunk of ice she fires hits the target.
 #
 <name "Lazlocke">
-「良い命中率だが、的に当たって砕けるような氷じゃ
-　駄目だぞ」
+"Good accuracy, but it won't do much if the ice
+ crumbles when it hits."
 #
 <sprite "ta01d31.iph" 4 4 11>
 <name "Celes" "!AA1310">
-「す、すみません。
-　頑張ります」
+"I-I'm sorry.
+ I'll try harder."
 #
 <removesprite -1 11>
 <exit>
@@ -230,15 +243,15 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1311">
-「水の操作って難しいですね」
+"Controlling water is hard, isn't it?"
 #
 <name "Lazlocke">
-「ああ、だが出来ると便利だぞ」
+"Yeah, but there's a lot you can do with it."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1312">
-「はい。
-　頑張ります」
+"Yeah.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -247,19 +260,19 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1313">
-「右の樽から、左の樽へ……」
+"From the right barrel to the left barrel..."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA1314">
-「左の樽から、右の樽へ……」
+"From the left barrel to the right barrel..."
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1315">
-「あれ？
-　水が少なくなってる？」
+"Huh?
+ Is there less water now?"
 #
 <name "Lazlocke">
-「移動させる時に、こぼし過ぎだ」
+"You're spilling too much as you move it."
 #
 <removesprite -1 11>
 <exit>
@@ -268,25 +281,27 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA1316">
-「右の樽から左の樽へ……
-　左の樽から右の樽へ……」
+"From the right barrel to the left barrel...
+ From the left barrel to the right barrel..."
 #
 <name "Lazlocke">
-「なかなか上手くなったな」
+"You're getting pretty good."
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1317">
-「いえ、油断すると……こんな感じに」
+"No, I have to maintain my concentration,
+ or else..."
 #
 <removesprite -1 11>
-　移動させていた水が暴れ、片方の樽を破壊した。
+The water suddenly shoots out of control and
+destroys one of the barrel.
 #
 <name "Lazlocke">
-「……頑張るように」
+"Keep at it."
 #
 <sprite "ta01d92.iph" 4 4 11>
 <name "Celes" "!AA1318">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -294,20 +309,20 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「水の魔法で、流れる滝を操作する！
-　やってみろ！」
+"Control a flowing waterfall with magic!
+ Try it!"
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1319">
-「はい！」
+"Yes, sir!"
 #
 <sprite "ta01d24.iph" 4 4 12>
 <name "Celes" "!AA1320">
-「ぬぬぬぬ……えいいっ！
-　きゃぁぁぁぁぁぁぁ……」
+"Nnnnnnngh... Yah!
+ Eeeek!"
 #
 <removesprite -1 11>
-　おお、セリスが川に流されていく……
+She gets washed down the river...
 #
 <exit>
 :1453
@@ -315,19 +330,20 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1321">
-「えいい！」
+"Yaaah!"
 #
 <removesprite -1 11>
-　セリスは滝に対して、水の魔法を使う。
+Celes practices water magic on a waterfall.
 #
-　魔法によって、流れる水の動きを操作する練習だ。
+It's an exercise on controlling quickly flowing
+water with magic.
 #
-　が……
+But...
 #
 <name "Celes" "!AA1322">
-「きゃぁぁぁぁぁぁ……」
+"Eeeek!"
 #
-　セリスは川に流されていった。
+She gets washed away.
 #
 <exit>
 :1577
@@ -335,26 +351,29 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1323">
-「この滝を……止めてみせる！」
+"I will... stop this waterfall!"
 #
 <removesprite -1 11>
-　セリスは滝に対して、水の魔法を使う。
+She uses her magic against the waterfall.
 #
-　魔法によって、流れる水の動きを操作する練習だ。
+This exercise is for controlling the movement
+of quickly flowing water.
 #
-　そして、セリスの思惑通りに滝は流れを止めた。
+And the waterfall stops flowing, just like she
+declared.
 #
 <sprite "ta01d09.iph" 4 4 11>
 <name "Celes" "!AA1324">
-「や、やった！」
+"I-I did it!"
 #
 <removesprite -1 11>
-　セリスは喜んだ。
+She celebrates.
 #
-　嬉しかったのだろう。
+She must be happy.
 #
-　だが、俺は喜ぶセリスの頭上に、止められた滝の
-　水が凄い勢いで溜まるのを見ながら逃げた。
+But I, seeing the very quickly gathering water
+over her head from the stopped waterfall, beat a
+hasty retreat.
 #
 <exit>
 :1764
@@ -362,14 +381,14 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA1325">
-「水の魔法を使って、庭に水撒き……」
+"I can water the garden with water magic."
 #
 <name "Lazlocke">
-「普通に撒いた方が楽だろ」
+"It's easy to just spray out a small amount."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1326">
-「で、ですね」
+"I-It is."
 #
 <removesprite -1 11>
 <exit>
@@ -378,14 +397,14 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1327">
-「水の魔法で、お肌をピチピチに……」
+"You can use water magic to moisten your skin."
 #
 <removesprite -1 11>
 <sprite "ta01a17.iph" 2 5 11>
 <sprite "ta04a26.iph" 6 4 11>
 <name "Soshiette" "!DA0394">
-「女の魔法使いなら、誰もが考える事ですが……
-　セリスさんには必要無いかと」
+"It's something every female wizard thinks
+ about, but there's no need for you to do that."
 #
 <removesprite -1 11>
 <exit>
@@ -394,39 +413,39 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1328">
-「水の魔法を極めると、洗濯物をあっという間に乾
-　かせるんですね」
+"When you master water magic, you can dry the
+ laundry in no time."
 #
 <name "Lazlocke">
-「そうだぞ」
+"That's right."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1329">
-「では、これからは魔法で洗濯物を乾かしましょう」
+"Then I should dry the laundry with magic from
+ now on."
 #
 <name "Lazlocke">
-「そう言って洗濯物をグチャグチャにした魔法使い
-　が居てな、やらない事になった」
+"I knew a wizard who tried that and ruined
+ everyone's clothes. Let's not."
 #
 <removesprite -1 11>
 <sprite "ta03a22.iph" 4 4 11>
 <name "Viola" "!BA0183">
-「ラズロック。
-　すこし、こっちに来なさい」
+"Lazlocke, a moment of your time."
 #
 <removesprite -1 11>
-　俺はヴィオラにズルズルと物影に引き摺られた。
+Viola drags me away with her.
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA1330">
-「洗濯物をグチャグチャにした魔法使いって……
-　ヴィオラさん？」
+"A wizard who ruined everyone's clothes?
+ Was it Miss Viola?"
 #
 <removesprite -1 11>
 <sprite "ta03a38.iph" 2 4 11>
 <sprite "ta01a10.iph" 6 5 11>
 <name "Viola" "!BA0184">
-「失敗は誰にだってあるの」
+"Everyone makes mistakes."
 #
 <removesprite -1 11>
 <exit>
@@ -435,24 +454,24 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1331">
-「魔法で水が生み出せると、砂漠とかでも困りませ
-　んね」
+"If you can create water with magic, you'll be
+ fine even in a desert."
 #
 <name "Lazlocke">
-「そうだが、水気が無い場所だと難度はあがるぞ」
+"That's true, but it gets much harder in places
+ where there isn't much moisture."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1332">
-「え？
-　そうなんですか？」
+"Huh? It does?"
 #
 <name "Lazlocke">
-「ああ。
-　その辺りの魔力が水の形になり難いんだ」
+"Yeah. The mana there is more difficult to
+ form into water."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1333">
-「あ、なるほど」
+"Oh, I see."
 #
 <removesprite -1 11>
 <exit>
@@ -461,28 +480,29 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1334">
-「師匠、見てください」
+"Master, watch this."
 #
 <name "Lazlocke">
-「ん？」
+"Hm?"
 #
 <removesprite -1 11>
-　セリスの左手の平から水が噴き上がった。
+She holds her palm flat and a little spout of
+water appears from it.
 #
-　綺麗な噴水のようだ。
+A perfect little fountain.
 #
-　それを見ていると、セリスはゆっくりと両手を合
-　わせ、また開いた。
+As I watch, she puts her hands together, and
+opens them again.
 #
-　すると、左手の平から噴き出ていた水が、右手の
-　平から噴き上がっていた。
+The fountain has moved from her left hand to
+the right.
 #
 <name "Lazlocke">
-「おおっ、宴会芸！」
+"Ooh! Nice party trick!"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1335">
-「いーえ、魔法です」
+"No! It's magic."
 #
 <removesprite -1 11>
 <exit>
@@ -492,7 +512,7 @@
 \x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :20DD: 
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA1340">
-「水を操作って、難しい」
+"Controlling water is hard."
 #
 <removesprite -1 11>
 \x2B
@@ -500,7 +520,8 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2155: 
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1341">
-「水の魔法……基本は冷やす事ですね」
+"Water magic...
+ Basically, it's cooling it down."
 #
 <removesprite -1 11>
 \x2B
@@ -508,7 +529,8 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :21CD: 
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1342">
-「冬場は辛く、夏場は嬉しい勉強です」
+"This is had to study in the winter, but really
+ nice in the summer."
 #
 <removesprite -1 11>
 \x2B
@@ -516,7 +538,9 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :224D: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1343">
-「水の魔法……飲み水に困る事は無くなるかな」
+"Water magic...
+ You won't ever be troubled finding a drink,
+ will you?"
 #
 <removesprite -1 11>
 :224D + 1
