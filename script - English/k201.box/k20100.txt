@@ -41,38 +41,38 @@
 <music 26>
 <background "ev011a0.iph" 11>
 <name "Celes" "!AA1250">
-「目標を定め……えいっ！」
+"Picture the target and... yah!"
 #
 <name "Lazlocke">
-「惜しい」
+"Close."
 #
 <name "Celes" "!AA1251">
-「もう一回！」
+"Again!"
 #
 <name "Lazlocke">
-「惜しい」
+"Close."
 #
 <name "Celes" "!AA1252">
-「むうう」
+"Grrr..."
 #
 \x1A\x01\x0A\x02\x00\x92 2000 \x01\x14 :41A: 
 <name "Lazlocke">
-「練習あるのみだな」
+"You just need to practice."
 #
 <name "Celes" "!AA1253">
-「はい」
+"Yes, sir."
 #
 \x18 :4BF: 
 :41A
 <name "Celes" "!AA1254">
-「上手になったつもりだったんですが……」
+"I thought I was getting better though..."
 #
 <name "Lazlocke">
-「慢心は、腕を錆びさせるぞ」
+"Pride goeth before the fall."
 #
 <name "Celes" "!AA1255">
-「そうですね。
-　……頑張ります」
+"Yeah, you're right.
+ I'll try harder."
 #
 :4BF
 \x0A\x24\x00\x0F\x84\x01
@@ -81,26 +81,24 @@
 <music 26>
 <background "ev011a0.iph" 11>
 <name "Celes" "!AA1256">
-「えいっ！」
+"Yah!"
 #
-　セリスは練習用案山子に火の玉を叩き込んだ。
+She hammers a fireball into the dummy.
 #
 <name "Celes" "!AA1257">
-「命中、よしっ！
-　……あれ？
-　燃えてる？
-　うわっ、火事になっちゃう！」
+"A hit! I did it!
+ ...Huh? Is it smoking?
+ Aaah! It's going to catch fire!"
 #
 <name "Soshiette" "!DA0388">
-「対火防御の魔法を掛けていた案山子を燃やしまし
-　たか……やりますね」
+"You ignited a dummy with an anti-fire spell on
+ it? Impressive."
 #
 <name "Celes" "!AA1258">
-「いや、対火防御の魔法を掛けたのはあの案山子じゃ
-　なくて、その隣」
+"No, the anti-fire one is the one next to it."
 #
 <name "Soshiette" "!DA0389">
-「ええと……前言撤回します」
+"Umm... I take it back."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -108,33 +106,32 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「案山子には魔法防御を掛けて使用するように。
-　そうしないと、あっという間に破壊しちゃうから
-　な」
+"Use magic to enhance the durability of the
+ dummy. Otherwise, it's not going to last a
+ day."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1259">
-「はい。
-　えっと……魔法防御の魔法は……」
+"Yes, sir.
+ Um... The spell for magic defense is..."
 #
 <removesprite -1 11>
-　セリスが本を読もうとしたので、俺はその本を取
-　り上げる。
+She opens a book and starts reading through it.
 #
 <name "Lazlocke">
-「魔法は俺がやる。
-　俺が居ない時は、ソシエットに頼むように」
+"I'll cast the spell. When I'm not here, ask
+ Soshiette to do it."
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1260">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Lazlocke">
-「では、始め！」
+"Okay, begin!"
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA1261">
-「はい！」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
@@ -143,31 +140,30 @@
 <background "bg004a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA0390">
-「これは、高級訓練用案山子です」
+"This dummy is for advanced training."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
 <name "Celes" "!AA1262">
-「高級……ですか？」
+"Advanced?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0393">
-「はい。
-　魔法を掛けなくても、ある程度の魔法防御を備え
-　る優れものです」
+"Yes, even without additional spells, it has
+ its own innate magical resistance."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA1263">
-「おおっ！」
+"Oohh!"
 #
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA0392">
-「ちなみに、お値段は……こんな感じです」
+"By the way, the price is... you can imagine."
 #
 <sprite "ta01a42.iph" 2 5 12>
 <name "Celes" "!AA1264">
-「……こ、怖くて使えないです」
+"N-Now I'm scared to use it."
 #
 <removesprite -1 11>
 <exit>
@@ -175,14 +171,14 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「爆発は、火の魔法の要だ。
-　これが出来る出来ないで、火の魔法の威力が大き
-　く変わる。
-　十分、練習するように」
+"Explosions are the cornerstone of fire magic.
+ Whether you can do them or not will greatly
+ determine how effective your fire magic is.
+ Make sure you practice them thoroughly."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1265">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -190,23 +186,23 @@
 <music 26>
 <background "ev011a0.iph" 11>
 <name "Celes" "!AA1266">
-「うーん……ちえいっ！」
+"Mmm... Boom!"
 #
-　セリスは呪文を唱え、気合を入れた。
+She excitedly casts a spell.
 #
-　近くの岩が吹き飛んだ。
+A nearby rock explodes.
 #
-　見事な爆破だ。
+Not bad.
 #
 <name "Celes" "!AA1267">
-「あれ？
-　狙った場所と違う……」
+"Huh? That's not where I was aiming."
 #
-　……
+...
 #
-　魔法の練習中は、近くに行かない方が良い。
+Around people practicing magic, it's better to
+keep your distance.
 #
-　学園でも行なっている、基本だ。
+Especially at the school.
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -214,15 +210,15 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「この鍋を火で炙ってくれ」
+"Heat this pot for me."
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1268">
-「は、はい。
-　ええと、魔法の火ですよね」
+"Y-Yes, sir.
+ Um, with fire magic, right?"
 #
 <name "Lazlocke">
-「当然」
+"Of course."
 #
 <removesprite -1 11>
 <exit>
@@ -230,30 +226,30 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「セリス。
-　鍋」
+"Celes, pot."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1269">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
-　俺の声に、セリスは魔法で鍋の下に火を起こす。
+She creates a small fire with magic under the
+pot.
 #
 <name "Lazlocke">
-「そのまま、火力を安定させろ」
+"Now stabilize the heat."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA1270">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
-　マキも無い所に同じ火力を維持するのは、それな
-　りに難しい筈だ。
+Maintaining a constant heat without any
+kindling present can be difficult.
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA1271">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -261,21 +257,22 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「火の扱いが上手くなったな」
+"You've gotten good at handling fire."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1272">
-「そうですか？」
+"Really?"
 #
 <name "Lazlocke">
-「ああ、火力の調節が絶妙になった。
-　その火で作った鍋の味を見てみろ。
-　絶品だ」
+"Yeah, your control over the level of heat is
+ expert now. Just taste what we cooked over
+ your flame. 
+ It's a masterpiece."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA1273">
-「……あ、美味しい。
-　でも、魔法で褒められている気がしない」
+"Ah, it's delicious.
+ But I'm not sure that's the magic..."
 #
 <removesprite -1 11>
 <exit>
@@ -284,33 +281,32 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1274">
-「焚き火をジャンプして跳び越えるんですか？」
+"Jump over a campfire?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA1275">
-「熱いんじゃ……」
+"That seems hot..."
 #
 <name "Lazlocke">
-「熱いと思う。
-　あと、服も燃えるかもしれない。
-　火傷の可能性もあるな」
+"It will be hot.
+ Your clothes my catch fire.
+ You might burn yourself too."
 #
 <sprite "ta01d27.iph" 4 4 12>
 <name "Celes" "!AA1276">
-「でも、跳び越えるんですよね」
+"But I have to do it, don't I?"
 #
 <name "Lazlocke">
-「そうだ。
-　すでに燃えている火を、火の魔法でコントロール
-　するのはそう難しい事じゃない。
-　やってみろ」
+"That's right. It's not that difficult to
+ control a fire that's already burning.
+ Try it."
 #
 <sprite "ta01d92.iph" 4 4 12>
 <name "Celes" "!AA1277">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -318,29 +314,27 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「焚き火を跳び越える練習はどうだ？」
+"How's the fire jumping practice going?"
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1278">
-「自分でも上達したと思います」
+"I think I'm getting better."
 #
 <name "Lazlocke">
-「そうか。
-　じゃあ、もっと火力を上げるか」
+"I see. Then shall we make it a little hotter?"
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1279">
-「え？」
+"Huh?"
 #
 <name "Lazlocke">
-「どうした？」
+"Yes?"
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1280">
-「すみません。
-　見栄を張りました。
-　火力を上げるのは、もう少し上手くなってからに
-　してください」
+"I'm sorry. I was exaggerating.
+ Please don't make it any bigger until I get a
+ little better."
 #
 <removesprite -1 11>
 <exit>
@@ -348,21 +342,23 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「もう跳び越えなくても、上を歩けるな」
+"You don't need to jump any more, you can just
+ walk over it."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1282">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「火を残したまま、熱だけを抑える。
-　これができれば、火の魔法の大半ができるだろう。
-　……頑張ったな」
+"Let the fire burn, only suppress the heat.
+ If you can do that, you'll have mostly mastered
+ fire magic.
+ Good luck."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1283">
-「いえ、まだまだです。
-　これからも頑張っていきます」
+"No, I still have a long way to go.
+ I'll keep working hard."
 #
 <removesprite -1 11>
 <exit>
@@ -371,15 +367,15 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1284">
-「火って、変な魅力がありますよね」
+"Fire has a strange charm, doesn't it?"
 #
 <name "Lazlocke">
-「そうだな。
-　魅入られるなよ」
+"It does.
+ Don't get taken by it."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1285">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -394,27 +390,29 @@
 :18A9
 \x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1905: 
 <name "Celes" "!AA1289">
-「火って、色々できそうですよね」
+"Fire has a lot of uses, doesn't it?"
 #
 :1905
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1953: 
 <name "Celes" "!AA1290">
-「火の魔法は、オーソドックスですよね」
+"Fire magic is really orthodox."
 #
 :1953
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :198F: 
 <name "Celes" "!AA1291">
-「基本は抑えないと」
+"I have to remember the basics."
 #
 :198F
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :19E9: 
 <name "Celes" "!AA1292">
-「火の魔法を扱ってこそ、魔法使いって感じがします」
+"Doing fire magic makes me feel like a real
+ wizard."
 #
 :19E9
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1A37: 
 <name "Celes" "!AA1293">
-「夏場は辛く、冬場は嬉しい勉強ですね」
+"This is hard to study in the summer, but is
+ really nice in the winter."
 #
 :1A37
 <exit>
