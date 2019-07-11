@@ -89,61 +89,62 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「師匠として、魔法の講義はしてやるが……
-　その講義の前にある程度の知識はつけて貰う」
+"As your master, I will give you lectures on
+ magic, but I want you to have some education
+ before I start."
 #
 <sprite "ta01a01.iph" 4 4 11>
 <name "Celes" "!AA1108">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「とりあえず、俺の渡す本を読んで、自分なりに解
-　釈して本にしろ」
+"For now, read the books I assign you and
+ attempt to understand them on your own."
 #
 <sprite "ta01a00.iph" 4 4 12>
 <name "Celes" "!AA1109">
-「本にですか？」
+"The books?"
 #
 <name "Lazlocke">
-「そうだ。
-　自分で書くと思うと、集中力や理解力が上がるか
-　らな」
+"Yes. I believe that your concentration and
+ understanding will improve more if you figure
+ things out for yourself."
 #
 <name "Lazlocke">
-「欲しい資料や、素材があったら言うように。
-　簡単な実験なら許可する」
+"If there's something in particular you want,
+ let me know. I'll also permit simple
+ experiments."
 #
 <sprite "ta01a02.iph" 4 4 12>
 <name "Celes" "!AA1110">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「後は……図書館だな」
+"And there's also the matter of the library."
 #
 <sprite "ta01a03.iph" 4 4 12>
 <name "Celes" "!AA1111">
-「図書館ですか？」
+"The library?"
 #
 <name "Lazlocke">
-「ああ、協会がやってる図書館で、魔法の文献が多
-　数ある」
+"Yeah. The Guild library is full of literature
+ on magic."
 #
 <sprite "ta01a00.iph" 4 4 12>
 <name "Celes" "!AA1112">
-「え？
-　でも、前に行った時は普通の図書館でしたけ
-　ど……」
+"Huh? But it seemed like a regular library when
+ I was there before."
 #
 <name "Lazlocke">
-「魔法の文献は一般には公開されていない。
-　許可が要るが……
-　まあ、俺から協会に言っておく。
-　必要ならその図書館も使え」
+"The magic stuff isn't open to the public.
+ You'll need permission, but, well, I'll let
+ them know about you.
+ You can use the library if you need to."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1113">
-「はい！
-　頑張ります！」
+"Yes, sir!
+ I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
@@ -151,92 +152,92 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「全ての魔法は、体内の魔力に形や色、使命を与え
-　て体外へ出し、その魔力を媒体に周囲の魔力を巻
-　き込んで魔法にする」
+"All magic is shaped and molded by the mana
+ inside you. Casting a spell is the process of
+ expelling it into the mana around you and
+ turning that mana into magic."
 #
 <name "Lazlocke">
-「これを普通にやると、えらく時間が掛かる。
-　が、詠唱の基本はこれだ」
+"Doing that generally takes time, but that's
+ the basic of a spell chant."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1114">
-「トークドライブと呼ばれる詠唱形態ですね」
+"Casting magic like that is called a talk
+ drive, right?"
 #
 <name "Lazlocke">
-「そうだ。
-　だが、トークドライブは時間が掛かり過ぎるし、
-　同じ魔法を行なうのにも毎回同じ手間が掛かると
-　いうので編み出されたのが次の三つ」
+"Correct, but it takes a long time to cast a
+ spell like that, and you need to chant the
+ whole spell each time, so three other ways
+ were created."
 #
 <name "Lazlocke">
-「スクエアドライブ。
-　ペーパードライブ。
-　キードライブ」
+"Square drives, paper drives, and key drives."
 #
 <name "Lazlocke">
-「スクエアドライブは、魔法陣による詠唱の固定化
-　を目指した形態だ」
+"A square drive is a method of casting a spell
+ using a fixated magical sigil."
 #
 <name "Lazlocke">
-「利点は複数人の魔法使いが関われる事と、魔法効
-　果の一定化が図れる事だ」
+"The benefit is that multiple wizards can use
+ it, and the spell itself is extremely stable."
 #
 <name "Lazlocke">
-「昔は、戦争なんかにこれを利用しようとしていた
-　んだが……
-　弱点があってな」
+"Long ago, people attempted to use this in
+ war, but it has problems."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1115">
-「弱点ですか？」
+"Problems?"
 #
 <name "Lazlocke">
-「魔法陣を作る際に効果の発動場所を決めなければ
-　いけない事だ」
+"When you create a sigil, you need to know in
+ advance where it's going to be activated."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1116">
-「ああ、なるほど」
+"Oh, I see."
 #
 <name "Lazlocke">
-「相手が動く戦場では使えない。
-　拠点を攻めるのには有効かもしれないが、威力面
-　を考えると時間と手間が掛かり過ぎる」
+"It's useless in a battle where you don't know
+ where the enemy will be. It has some use in
+ attacking bases, but it takes too much time and
+ effort considering the final effect."
 #
 <name "Lazlocke">
-「戦場で運用しようとしたら、その護衛も必要にな
-　るしな」
+"And if you're using it in battle, you'll also
+ need to be protected."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1117">
-「そうですね」
+"I see."
 #
 <name "Lazlocke">
-「だが、今では効果の発動場所の変更など色々と研
-　究されて使いやすくはなっているし、魔力の弱い
-　者が集まって高い威力を目指すには最適だ」
+"In more recent times, it's been researched
+ thoroughly and there's a lot more freedeom in
+ their use. They're best for weaker mages to
+ pool their mana for higher level spells."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1118">
-「そう思います」
+"I think I understand."
 #
 <name "Lazlocke">
-「では、このスクエアドライブに関しての勉強を命
-　じる」
+"Okay, I want you to study this square drive
+ today."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1119">
-「え？
-　ペーパードライブとキードライブの説明は？」
+"Huh? What about paper and key drives?"
 #
 <name "Lazlocke">
-「また今度だ。
-　頑張れ」
+"Next time.
+ Get to work."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1120">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -244,90 +245,92 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「今日はペーパードライブに関して説明しよう」
+"I'll explain paper drives today."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1121">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「ペーパードライブは、簡単に言えば先に魔法を詠
-　唱しておき、必要な時に手軽に発動させる方法だ」
+"A paper drive, to put it simply, is a way of
+ casting a spell ahead of time, and then 
+ triggering it when needed."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1122">
-「便利そうですね」
+"That sounds useful."
 #
 <name "Lazlocke">
-「そうだな。
-　それで、先に魔法を詠唱しておく際に紙を使い、
-　発動させる時にその紙に書いた文を読むスタイル
-　からペーパードライブと呼ばれている」
+"It is. The spell is cast on a piece of paper,
+ which is where it gets its name. It can then
+ be read off the paper to be activated."
 #
 <name "Lazlocke">
-「紙がポピュラーだから例にしたが、紙以外にも色
-　々な媒体がある。
-　その場合でもペーパードライブだ。
-　忘れないように」
+"Paper, like in my example, is what's most
+ commonly used, but it can be inscribed onto
+ all kinds of materials. It's still referred to
+ as a paper drive though. Remember that."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1123">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「利点は、準備さえしておけば手軽に発動できる事
-　と、高い魔力を持たなくても時間を掛ければ高度
-　な魔法が使える事だな」
+"The big advantage is that you can easily cast
+ a spell as long as you prepared it ahead of
+ time. Even without high mana, you can use
+ high level spells if you take enough time."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1124">
-「時間を掛ける事で、魔力の少なさを補うわけです
-　ね」
+"So you can make up for a lack of mana by
+ channeling it in over time?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1125">
-「欠点はなんですか？」
+"What are the weaknesses of using it?"
 #
 <name "Lazlocke">
-「先に魔法を唱え、それを紙に留める技術がかなり
-　高度な事と、先に準備するから状況の変化に弱い
-　事だな」
+"It takes a lot of skill to be able to cast a
+ spell and then seal it into paper.
+ It's also a method that's problematic when
+ dealing with unexpected situations."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1126">
-「状況の変化ですか？」
+"Unexpected situations?"
 #
 <name "Lazlocke">
-「火に弱い魔物が相手だと思って火の魔法を沢山準
-　備したら、途中で火に強い魔物に遭遇した。
-　魔法を三発用意したが、敵が四匹居た。
-　ペーパードライブの場合、そういった弱さがある」
+"If you prepare a bunch of fire spells expecting
+ to fight a monster weak to them, but find a
+ monster strong against them instead. Or prepare
+ three spells, but end up needing four."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1127">
-「なるほど」
+"I see."
 #
 <name "Lazlocke">
-「まあ、ペーパードライブ使いは、あらゆる状況を
-　想定しているから、滅多にそういった事はないが
-　な」
+"Well, a paper drive wizard tries to prepare
+ for any situation he might encounter, but
+ that's close to impossible."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1128">
-「ですよね」
+"Yeah."
 #
 <name "Lazlocke">
-「後は……
-　書いた紙を紛失すると無駄になる事ぐらいだ。
-　では、今回はペーパードライブに関しての勉強を
-　行なうように」
+"Also, if you lose the paper the spell's on,
+ then the whole thing is a complete waste.
+ All right, I want you to study paper drives
+ today."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1129">
-「わかりました」
+"All right."
 #
 <removesprite -1 11>
 <exit>
@@ -335,92 +338,94 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「今日はペーパードライブに関して説明しよう。
-　イエルが使っている詠唱方法だ」
+"I'll explain paper drives today.
+ That's the method Elle uses to cast spells."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1130">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「ペーパードライブは、簡単に言えば先に魔法を詠
-　唱しておき、必要な時に手軽に発動させる方法だ」
+"A paper drive, to put it simply, is a way of
+ casting a spell ahead of time, and then 
+ triggering it when needed."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1131">
-「イエルちゃんは、便利そうに使っています」
+"That's why it's so easy for Elle to use them."
 #
 <name "Lazlocke">
-「そうだな。
-　それで、先に魔法を詠唱しておく際に紙を使い、
-　発動させる時にその紙に書いた文を読むスタイル
-　からペーパードライブと呼ばれている」
+"It is. The spell is cast on a piece of paper,
+ which is where it gets its name. It can then
+ be read off the paper to be activated."
 #
 <name "Lazlocke">
-「紙がポピュラーだから例にしたが、紙以外にも色
-　々な媒体がある。
-　その場合でもペーパードライブだ。
-　忘れないように」
+"Paper, like in my example, is what's most
+ commonly used, but it can be inscribed onto
+ all kinds of materials. It's still referred to
+ as a paper drive though. Remember that."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1132">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「利点は、準備さえしておけば手軽に発動できる事
-　と、高い魔力を持たなくても時間を掛ければ高度
-　な魔法が使える事だな」
+"The big advantage is that you can easily cast
+ a spell as long as you prepared it ahead of
+ time. Even without high mana, you can use
+ high level spells if you take enough time."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1133">
-「時間を掛ける事で、魔力の少なさを補うわけです
-　ね」
+"So you can make up for a lack of mana by
+ channeling it in over time?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1134">
-「欠点はなんですか？」
+"What are the weaknesses of using it?"
 #
 <name "Lazlocke">
-「先に魔法を唱え、それを紙に留める技術がかなり
-　高度な事と、先に準備するから状況の変化に弱い
-　事だな」
+"It takes a lot of skill to be able to cast a
+ spell and then seal it into paper.
+ It's also a method that's problematic when
+ dealing with unexpected situations."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1135">
-「状況の変化ですか？」
+"Unexpected situations?"
 #
 <name "Lazlocke">
-「火に弱い魔物が相手だと思って火の魔法を沢山準
-　備したら、途中で火に強い魔物に遭遇した。
-　魔法を三発用意したが、敵が四匹居た。
-　ペーパードライブの場合、そういった弱さがある」
+"If you prepare a bunch of fire spells expecting
+ to fight a monster weak to them, but find a
+ monster strong against them instead. Or prepare
+ three spells, but end up needing four."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1136">
-「なるほど」
+"I see."
 #
 <name "Lazlocke">
-「まあ、ペーパードライブ使いは、あらゆる状況を
-　想定しているから、滅多にそういった事はないが
-　な」
+"Well, a paper drive wizard tries to prepare
+ for any situation he might encounter, but
+ that's close to impossible."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1137">
-「ですよね。
-　イエルちゃん向きだな」
+"Yeah.
+ It seems very like Elle."
 #
 <name "Lazlocke">
-「後は……
-　書いた紙を紛失すると無駄になる事ぐらいだ。
-　では、今回はペーパードライブに関しての勉強を
-　行なうように」
+"Also, if you lose the paper the spell's on,
+ then the whole thing is a complete waste.
+ All right, I want you to study paper drives
+ today."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1138">
-「わかりました」
+"All right."
 #
 <removesprite -1 11>
 <exit>
@@ -428,72 +433,76 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「さて、今回はキードライブに関してだ」
+"All right, today we'll discuss key drives."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1139">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「キードライブは、アイテムを使って呪文の詠唱を
-　短縮する方法だ」
+"A key drive is a way to cast spells by using
+ an object to shorten the spell."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1140">
-「杖を振るって、えいってヤツですね」
+"Like waving a wand and going yah! Right?"
 #
 <name "Lazlocke">
-「そうだ。
-　その場合は、杖が魔法のアイテムだな」
+"That's right.
+ In that case, the wand is a magic object."
 #
 <name "Lazlocke">
-「凄く便利だ」
+"It's incredibly useful."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1141">
-「ですよね」
+"It sounds like it."
 #
 <name "Lazlocke">
-「だが、呪文を全て短縮できるわけではなく、トー
-　クドライブよりは短いがやはり時間は掛かる」
+"But not all spells can be shortened, and while
+ it's faster than a talk drive, it still takes
+ some time."
 #
 <name "Lazlocke">
-「弱点は、その時間が掛かる事以外にも、アイテム
-　自体の製作が難しい事だ。
-　まあ、これは他の人が作ったアイテムでも問題無
-　いという利点がある」
+"The big problem besides the time it takes is
+ that creating the object itself is very
+ difficult, but an advantage is that you can use
+ objects even other people made."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA1142">
-「なるほど」
+"I see."
 #
 <name "Lazlocke">
-「そして、そのアイテムに魔力まで込め、消費式に
-　したのがキーブレイク」
+"You can also put mana into the object,
+ although it will have limited uses.
+ We generally call that a key break type."
 #
 <name "Lazlocke">
-「これは魔力を持たない素人でも、手順さえ覚えれ
-　ば使える便利なものだ」
+"Even an unskilled person with no mana will be
+ able to cast spells with a magical object like
+ that so long as they know how to activate it."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA1143">
-「でも、高価なんですよね」
+"But they're very expensive, aren't they?"
 #
 <name "Lazlocke">
-「アイテムによっては、家が買える」
+"Depending on the item, it could cost as much
+ as a whole house."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1144">
-「うわっ」
+"Oooh..."
 #
 <name "Lazlocke">
-「と言う所で、今回はキードライブに関しての勉強
-　を行なうように」
+"Now then, I want you to study key drives this
+ time."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1145">
-「はい。
-　わかりました」
+"Yes, sir.
+ Understood."
 #
 <removesprite -1 11>
 <exit>
@@ -502,89 +511,94 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1146">
-「師匠」
+"Master."
 #
 <name "Lazlocke">
-「ん？」
+"Hm?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1148">
-「前に詠唱形態を色々と習いましたが、少し分から
-　ない所が出てきたんですが」
+"I've learned about the various ways to cast a
+ spell, but I found something that I don't
+ understand."
 #
 <name "Lazlocke">
-「なんだ？」
+"What is it?"
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1149">
-「“竜殺しの剣”の文献を見つけたんですが、これっ
-　て消費式でもないし、呪文を詠唱したりもしませ
-　んが、キードライブ、キーブレイクのどちらにな
-　るんですか？」
+"I found some papers about a Dragon Slaying
+ Sword. It doesn't consume mana and there's no
+ spell to chant. Is it a key drive or a
+ key break?"
 #
 <name "Lazlocke">
-「アイテムの中には存在しているだけで魔法になる
-　ものがある」
+"Some objects are innately magical."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1150">
-「存在しているだけですか？」
+"Innately?"
 #
 <name "Lazlocke">
-「そうだ」
+"Yes."
 #
 <name "Lazlocke">
-「遥か昔、天界の住人や魔界の住人が作ったとされ
-　るアイテム群だ」
+"It's believed that they were made long ago by
+ those in Celestia or the Netherworld."
 #
 <name "Lazlocke">
-「製造方法などは知られていないし、手に入れたけ
-　れば天界や魔界に行った方が早いとまで言われる
-　ぐらいだ」
+"There's no known way of being able to create
+ them ourselves. If you want one, it's said that
+ the best way is to go straight to Celestia or
+ the Netherworld."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1151">
-「伝説級のアイテムですね」
+"They're legendary-class items, then?"
 #
 <name "Lazlocke">
-「そうだな。
-　分類的には、プレシャスと呼ばれる」
+"That's right. Classified as precious
+ artifacts."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1152">
-「プレシャスですか」
+"Precious..."
 #
 <name "Lazlocke">
-「ああ。
-　まあ、地域や時代によって、神具とか、宝具とか
-　呼び方が変わってしまうがな」
+"Yeah, well, depending on the time and place,
+ you might see them called blessed or demonic,
+ but they're always called some kind of
+ treasure."
 #
 <name "Lazlocke">
-「しかし、その“竜殺しの剣”は魔法と言うより、
-　呪いに近いぞ」
+"But this Dragon Slayer in particular is less
+ magic and more a curse."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1153">
-「そうなんですか？」
+"It is?"
 #
 <name "Lazlocke">
-「ああ、純血竜の血に対して反応し、その竜の力を
-　極端に抑える」
+"Yeah. It reacts to the blood of a purebred
+ dragon and suppresses the dragon's power
+ immensely."
 #
 <name "Lazlocke">
-「魔法よりも、呪いだろ」
+"More a curse against them than an enhancing
+ spell for the user."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA1154">
-「そうですね」
+"I see."
 #
 <name "Lazlocke">
-「では、今回はプレシャスに関して勉強を……
-　いやいや、勉強しているから質問が出たのか」
+"Okay, today, I want you to study artif...
+ Wait, you asked because you were studying
+ them, didn't you?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1155">
-「はい」
+"Yes."
 #
 <removesprite -1 11>
 <exit>
@@ -592,20 +606,20 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1156">
-「“基礎魔法理論”
-　今日はこの本を読もう」
+"Basic Magic Theory...
+ I'll read this book today."
 #
 <name "Celes" "!AA1157">
-「……」
+"..."
 #
 <name "Celes" "!AA1158">
-「…………」
+"........."
 #
 <name "Celes" "!AA1159">
-「………………」
+".................."
 #
 <name "Celes" "!AA1160">
-「ぐー」
+"Zzz..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -613,16 +627,17 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1161">
-「この“魔力と魔法の関係”は勉強になるわね」
+"I'll read The Relationship Between Mana and
+ Magic."
 #
 <name "Celes" "!AA1162">
-「誰が書いたのかしら？」
+"I wonder who the author is."
 #
 <name "Celes" "!AA1163">
-「ええと、ラズロック＝アルトホーン」
+"Umm, Lazlocke Althorn?"
 #
 <name "Celes" "!AA1164">
-「……………………師匠？」
+"...Master?"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -630,15 +645,16 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1165">
-「この本と、この本はもう読んだから……
-　今日はこれにしよう」
+"I've already ready this book, and this one
+ too...
+ I'll ready this one today."
 #
 <name "Celes" "!AA1166">
-「…………」
+"..."
 #
 <name "Celes" "!AA1167">
-「…………あれ？
-　この本も読んでた」
+"...Huh?
+ I've read this one too."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -646,11 +662,11 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1168">
-「本を読み、要所をまとめる」
+"Read this book and summarize the key points..."
 #
 <name "Celes" "!AA1169">
-「簡単そうだけど……難しい。
-　頭の中でグチャグチャになっちゃう」
+"It looks easy, but it's really complicated.
+ It's all a mess in my head."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -658,13 +674,13 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1170">
-「ええと、魔法の効率化に関しての資料はどこだっ
-　たかな。
-　さっき見た記憶があるけど……」
+"Umm, where are the papers on improving magical
+ efficiency?
+ I know I saw them earlier..."
 #
 <name "Celes" "!AA1171">
-「ええい！
-　もう一回、全部調べる！」
+"Urgh!
+ I'll go through everything again!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -672,13 +688,13 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1172">
-「調査調査。
-　調べ物は大変だけど、勉強になるから頑張らない
-　と……」
+"Research... Research...
+ There's so much to go through, but this is for
+ knoweldge, so I've got to do my best."
 #
 <name "Celes" "!AA1173">
-「あれ？
-　資料がどこかに？」
+"Huh?
+ Where'd the papers go?"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -686,18 +702,19 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1174">
-「“良く解る魔法学”“魔法と倹約生活”“戦う魔
-　法使いの一生”」
+"Well Understood Magical Science, Frugal Living
+ With Magic, and The Life of a War Wizard."
 #
 <name "Celes" "!AA1175">
-「一見、無関係そうな本ですが、私の調査によって
-　関係がある事が判明しました」
+"They all seem completely unrelated, but my
+ research has found a connection."
 #
 <name "Lazlocke">
-「作者が同じってのなら、知ってるぞ」
+"If it's that they're all by the same author,
+ I know."
 #
 <name "Celes" "!AA1176">
-「……失礼しました」
+"...I'm sorry."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -706,15 +723,16 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1177">
-「師匠、本を借りに協会に行ってきます」
+"Master, I'm going to the Guild to borrow a
+ book."
 #
 <name "Lazlocke">
-「調べ物か？」
+"For research?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1178">
-「はい。
-　頑張ってきます」
+"Yes.
+ I'm hard at work."
 #
 <removesprite -1 11>
 <exit>
@@ -723,17 +741,17 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1179">
-「他の魔法使いの方にお話を聞いているんですが、
-　結構喋ってくれますよね」
+"I've heard a lot from other wizards.
+ They sure love to talk, don't they?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1180">
-「魔法使いって、秘密主義的なイメージがあったん
-　ですが……」
+"I had always pictured them as more
+ secretive..."
 #
 <name "Lazlocke">
-「誰だって、研究発表の場と、自慢する相手は欲し
-　いものだ」
+"Everyone wants someone they can brag to about
+ their research."
 #
 <removesprite -1 11>
 <exit>
@@ -742,14 +760,14 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1181">
-「他の魔法使いの方に、お話を聞きに行ってきます」
+"I'm going to talk to some other wizards."
 #
 <name "Lazlocke">
-「俺が、よろしく言っていたと伝えておいてくれ」
+"Tell them I said hi."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1182">
-「はい」
+"Okay."
 #
 <removesprite -1 11>
 <exit>
@@ -758,19 +776,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1184">
-「他の魔法使いの方にお話を聞くのは、タメになり
-　ますね」
+"It's helpful to talk to other wizards."
 #
 <name "Lazlocke">
-「ああ、経験に裏付けされた話だからな。
-　が、変な内容の時は忘却しておけよ」
+"Yeah, they've lived through the things they
+ love to talk about, but forget it when they
+ start to ramble about weird things."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1185">
-「変な内容？」
+"Weird things?"
 #
 <name "Lazlocke">
-「得てして、趣味の話になったりするんだ」
+"They also love to prattle about their hobbies."
 #
 <removesprite -1 11>
 <exit>
@@ -779,24 +797,25 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1186">
-「むう……」
+"Hmmmm..."
 #
 <name "Lazlocke">
-「どうしたんだ？
-　難しい顔をして」
+"What's the matter?
+ You look frustrated."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1187">
-「他の魔法使いの方にお話を聞いたんですが、師匠
-　によろしくとソシエットさんによろしくの二点以
-　外、記憶に残ってないので……」
+"I was talking to some other wizards, but other
+ than to give you and Soshiette their regards,
+ I can't remember what else they said."
 #
 <name "Lazlocke">
-「人選、もう少し頑張ろうな」
+"I think we need to pay a little more
+ attention to what's important."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA1188">
-「はい」
+"Yes, sir..."
 #
 <removesprite -1 11>
 <exit>
@@ -805,20 +824,21 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA1189">
-「呪文の詠唱練習と言えば、滑舌！」
+"Practicing reciting spell chants...
+ Elocution!"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA1190">
-「滑舌を良くするには、どうすれば……」
+"How should I improve my elocution..."
 #
 <name "Lazlocke">
-「日頃から大きく口を動かす。
-　発声を毎日行なう。
-　繰り返し練習」
+"Keep your mouth moving all day.
+ Do your vocalizations every chance you get.
+ It's an exercise in repetition."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA1191">
-「が、頑張ります」
+"I-I'll try."
 #
 <removesprite -1 11>
 <exit>
@@ -827,76 +847,74 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a16.iph" 4 4 11>
 <name "Celes" "!AA1192">
-「三匹の猫にゃおにゃおにゃお、四匹の猫にゃおにゃ
-　おにゃおにゃお、五匹の猫にゃおにゃおにゃおにゃ
-　おにゃお、六匹の猫にゃおにゃおにゃおにゃおにゃ
-　おにゃお……」
+"Three cats go mew mew mew.
+ Four cats go mew mew mew mew.
+ Five cats go mew mew mew mew mew.
+ Six cats go mew mew mew mew mew mew."
 #
 <name "Lazlocke">
-「なんだ、それは？」
+"What are you doing?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1193">
-「呪文の詠唱練習です。
-　記憶と滑舌に良いらしいんです」
+"It's a recitation exercise for spell casting.
+ They say it's good for memory and elocution."
 #
 <name "Lazlocke">
-「ほう……」
+"Oh?"
 #
 <removesprite -1 11>
-　後でやってみたが、舌を噛んでしまった。
+I tried it later, but bit my tongue.
 #
-　……むう、頑張らねば。
+Hmm, maybe I need to try a little harder.
 #
 <exit>
 :3E34
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「セリス。
-　どこだ？」
+"Celes, where are you?'
 #
-　セリスは俺の背後に居た。
+She's right behind me.
 #
 <sprite "ta01a31.iph" 4 4 11>
-　俺の服を引っ張り、存在をアピールする。
+She tugs on my clothes and begs me for help.
 #
 <name "Lazlocke">
-「なんだ、返事をしてくれれば……」
+"What? You should've answered..."
 #
-　そう言おうとして、セリスの様子のおかしさに気
-　付いた。
+Then I notice that she's acting funny.
 #
 <name "Lazlocke">
-「……口を怪我したのか？」
+"You hurt your mouth?"
 #
 <sprite "ta01a27.iph" 4 4 12>
-　セリスは恥ずかしそうに頷いた。
+She nods shamefully.
 #
-　どうやら、詠唱練習をしていたら、舌を噛んだよ
-　うだ。
+I bet she probably bit her tongue doing spell
+practice.
 #
 <name "Lazlocke">
-「……喋れないか？」
+"You can't talk?"
 #
 <sprite "ta01a31.iph" 4 4 12>
-　頷くセリス。
+She nods.
 #
-　これはこれで可愛いかもしれない。
+This is pretty cute though.
 #
-　うんうん。
+Yep, very cute.
 #
-　押し倒してしまいそうだ。
+I want to push her down right now.
 #
 <removesprite -1 11>
-　が、さっさと治療してやる。
+But I better treat her first.
 #
 <name "Lazlocke">
-「練習もほどほどに……」
+"Go easy on the practice sometimes."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA1194">
-「注意します」
+"I'll be more careful."
 #
 <removesprite -1 11>
 <exit>
@@ -904,28 +922,30 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「瞑想は、自分の体内の魔力を確認し、使いやすく
-　する作業だ。
-　結構大事だぞ」
+"Meditation helps you feel the mana inside you
+ and makes it easier to use.
+ It's very important to do."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1195">
-「わかりました」
+"I understand."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「と返事をして数分」
+"I'll give you a few minutes."
 #
 <name "Celes" "!AA1196">
-「くー……」
+".........Zzz..."
 #
-　目を閉じると寝るタイプか……
+It's like she falls asleep as soon as she
+closes her eyes.
 #
-　キス中に寝たりするのかな？
+I wonder if a kiss would wake her.
 #
-　……
+...
 #
-　馬鹿な事を考えながら、起こした。
+She woke up while I was thinking about dumb
+things.
 #
 <exit>
 :42E3
@@ -933,15 +953,16 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1197">
-「瞑想瞑想……瞑想瞑想……」
+"Meditate... Meditate...
+ Meditate... Meditate..."
 #
 <name "Lazlocke">
-「瞑想とか言ってる時点では、まったくできてない
-　って事だぞ」
+"I think if you're saying that you're meditating
+ out loud, you're doing it wrong."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA1198">
-「難しいんです」
+"It's hard."
 #
 <removesprite -1 11>
 <exit>
@@ -950,30 +971,32 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1199">
-「むー……むむー……」
+"Mm...
+ Mmmmmmmmm..."
 #
 <removesprite -1 11>
-　セリスは瞑想する。
+Celes tries to meditate.
 #
-　静かに……
+And very slowly...
 #
-　そして、そのまま前に倒れる。
+...falls forward on her face.
 #
 <name "Celes" "!AA1200">
-「くー……」
+"Zzz..."
 #
 <name "Lazlocke">
-「そのまま寝るなら、襲うぞ」
+"If you're going to sleep like that, I'm going
+ to attack you."
 #
 <name "Celes" "!AA1201">
-「くー……」
+"Zzz..."
 #
-　俺はセリスを起こした。
+I woke her up.
 #
 <sprite "ta01a80.iph" 4 4 11>
 <name "Celes" "!AA1202">
-「うう……襲われた……
-　しかも、凄い感じに……」
+"Ohhh... I got assaulted...
+ And it was feeling so good..."
 #
 <removesprite -1 11>
 <exit>
@@ -981,16 +1004,15 @@
 <music 10>
 <background "ev009a0.iph" 11>
 <name "Celes" "!AA1203">
-「調合ですか？」
+"Mixing potions?"
 #
 <name "Lazlocke">
-「ああ、クデュール魔法大会を目指すお前には関係
-　が薄いから後回しにしているが、最低限の知識は
-　得ておくように」
+"Yeah. It doesn't have much to do with winning
+ the Courdures Tournament, but you should at
+ least learn the basics."
 #
 <name "Celes" "!AA1204">
-「はい。
-　頑張ります」
+"Okay, I'll do my best."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -998,26 +1020,27 @@
 <music 10>
 <background "ev009a0.iph" 11>
 <name "Celes" "!AA1205">
-「この薬品と、こっちの薬品を調合してみたいと思
-　います」
+"It looks like I'm supposed to mix this potion
+ with this one."
 #
 <name "Lazlocke">
-「やってみろ！」
+"Try it!"
 #
 <name "Celes" "!AA1206">
-「はい」
+"Okay."
 #
-　爆発した。
+It explodes.
 #
 <name "Celes" "!AA1207">
-「げほっごほっ……
-　師匠……」
+"*cough* *cough*
+ Master..."
 #
 <name "Lazlocke">
-「身体で覚えた方が早いからな」
+"Now you'll never forget it."
 #
 <name "Celes" "!AA1208">
-「うう……酷い……」
+"Awww...
+ You're so mean..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -1025,16 +1048,16 @@
 <music 26>
 <background "ev009a0.iph" 11>
 <name "Celes" "!AA1209">
-「これとこれを調合すると……」
+"When I mix this with this..."
 #
 <name "Celes" "!AA1210">
-「なぜかお菓子が出来る」
+"Why does it turn into candy?"
 #
 <name "Celes" "!AA1211">
-「なぜ？」
+"Why!?"
 #
 <name "Lazlocke">
-「参考にしている本が、料理の本だからだ」
+"Because you're reading from a cookbook."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -1042,35 +1065,35 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「火に水を掛けてみろ」
+"Pour water on the fire."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1212">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「どうなった？」
+"What happened?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1213">
-「火が消えました」
+"The fire went out."
 #
 <name "Lazlocke">
-「……もう少し、大きめの炎にして。
-　再挑戦」
+"Make a little bigger fire and do it again."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1214">
-「はい。
-　……火は消えません」
+"Yes, sir.
+ ...The fire didn't go out."
 #
 <name "Lazlocke">
-「つまり、水は火に強いと言っても限界がある！
-　それを覚えておいて欲しい」
+"Meaning that there's a limit to how much
+ water can quench fire!
+ I want you to remember that."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1215">
-「わかりました」
+"All right."
 #
 <removesprite -1 11>
 <exit>
@@ -1079,13 +1102,14 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1216">
-「色々とやってみる事が大事だ。
-　と師匠は言ってたけど……」
+"It's important to experiment.
+ That's what Master said..."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA1217">
-「火に水を掛けるのは、火の変化を観察するだけじゃ
-　なくて、水の変化も観察しろって事かな？」
+"Instead of just observing the change in fire
+ when I pour water on it, maybe I should look
+ at what happens to the water..."
 #
 <removesprite -1 11>
 <exit>
@@ -1094,14 +1118,15 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1218">
-「水の中で燃える炎ってできないかなぁ……」
+"I wonder if there's a kind of flame that
+ will burn in water..."
 #
 <name "Lazlocke">
-「何事も、挑戦だ」
+"Challenge everything."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1219">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -1110,15 +1135,17 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA1220">
-「魔法を使う為の動作……難しい」
+"Your movements when casting a spell are...
+ hard."
 #
 <name "Lazlocke">
-「魔法を効果的に発動させる為の動きだ。
-　一応、全てに意味がある」
+"They exist to help you cast it effectively.
+ There's a meaning behind every little
+ motion."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA1221">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -1127,22 +1154,22 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1222">
-「えいえいえーい♪」
+"Yah!♪ Yah!♪ Yah!♪"
 #
 <name "Lazlocke">
-「何をやっているんだ？」
+"What are you doing?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1223">
-「棒を使っての魔法練習です」
+"Practing casting magic with a wand."
 #
 <name "Lazlocke">
-「そうか……すまん。
-　遊んでいるのかと思ってしまった」
+"Oh, sorry.
+ I thought you were just playing around."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA1224">
-「ひ、酷い」
+"T-That's so mean."
 #
 <removesprite -1 11>
 <exit>
@@ -1151,79 +1178,83 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1225">
-「師匠は、魔法を使う時にあまりアクションをしま
-　せんよね」
+"Master, you don't move much when you cast
+ spells, do you?"
 #
 <name "Lazlocke">
-「腕や杖を動かすのは、魔法を効果的に発動する為
-　だろ。
-　ベテランになれば、それが省ける」
+"You move your arms or flourish a wand to cast
+ a spell more effectively, remember?
+ Once you're an expert, you don't need to do
+ all that."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1226">
-「省けちゃうんですか」
+"You don't?"
 #
 <name "Lazlocke">
-「ああ、でも最初はキッチリとやった方が良いぞ」
+"Yeah, but it's better if you learn the right
+ way to start."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1227">
-「わかりました」
+"All right."
 #
 <removesprite -1 11>
 <exit>
 :5197
 <music 26>
 <background "bg002a0.iph" 11>
-　メイア＝クルセイダ
+Meia Crusader.
 #
-　戦場魔法と呼ばれる高速詠唱形態を完成させ、そ
-　の後は冒険者として活躍。
+The creator of high-speed chants that would
+come to be known as battlefield magicr, and 
+then led a storied life as an adventurer.
 #
-　彼女の所属する冒険者チーム“完璧なる黄金”は、
-　人間界に侵攻を目論む魔王を撃退し、多くの冒険
-　者の目標となる。
+The adventurer team she belonged to, Perfect
+Gold, repeled an overlord's invasion of the
+human world, and she was idolized by countless
+adventurers.
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1228">
-「メイア＝クルセイダって、凄い魔法使いよね」
+"Meia Crusader was an incredible wizard,
+ wasn't she?"
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
 <name "Elle" "!CA0148">
-「そうね。
-　私達もそんな風になれるかな」
+"Yeah. I wonder if we'll be like her someday."
 #
 <sprite "ta01a89.iph" 2 5 12>
 <name "Celes" "!AA1229">
-「なろう！」
+"We should!"
 #
 <sprite "ta02a04.iph" 6 4 12>
 <name "Elle" "!CA0149">
-「じゃあ、ここで本なんか読んでる場合じゃないわ
-　よね」
+"Well, we won't if we spend all our time here
+ reading books, will we?"
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA1230">
-「あはは……
-　ごめん。
-　師匠の命令で魔法練習はできないの」
+"Hahaha... Sorry.
+ Master won't let me use magic on my own."
 #
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0150">
-「魔力温存ね。
-　私もそうなのよ。
-　メイア＝クルセイダは魔力に困らなかったのかし
-　ら？」
+"You have to conserve your mana, huh?
+ Me too.
+ I guess Meia Crusader didn't have any problems
+ with mana."
 #
 <sprite "ta01a92.iph" 2 5 12>
 <name "Celes" "!AA1231">
-「この本では……困った描写が一切無い」
+"According to the book... she never had any
+ problems."
 #
 <sprite "ta02a07.iph" 6 4 12>
 <name "Elle" "!CA0151">
-「……天才を超えて、化け物ね」
+"Beyond a genius, practically a monster, huh?"
 #
 <removesprite -1 11>
 <exit>
@@ -1232,44 +1263,41 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1232">
-「師匠。
-　メイア＝クルセイダっていつぐらいの人なんです
-　か？」
+"Master, when did Meia Crusader live?"
 #
 <name "Lazlocke">
-「ん？
-　俺の母親かお婆ちゃんぐらいの世代だぞ」
+"Hm? She's from the generation of my mother or
+ grandmother."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA1233">
-「……い、意外と近い」
+"T-That's surprisingly recent."
 #
 <name "Lazlocke">
-「戦場魔法が出来たのがここ十数年だからな。
-　それに、彼女の所属する冒険者チーム“完璧なる
-　黄金”の活躍は有名だろ」
+"Battlefield magic's been around a few decades
+ now. Plus, the team of adventurers she was
+ with, Perfect Gold, is famous."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA1234">
-「そう言えば、そうですね」
+"Oh yeah, I guess so."
 #
 <name "Lazlocke">
-「あと、魔法使い協会の協会長。
-　メイア＝クルセイダの妹弟子だぞ」
+"Also, the current head of the Guild was an
+ apprentice alongside Meia Crusader."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA1235">
-「ぶっ！」
+"Phbtt!"
 #
 <name "Lazlocke">
-「……大丈夫か？
-　盛大にお茶を吹いたが」
+"Are you okay?
+ You didn't need to spit out your tea."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1236">
-「は、はい……
-　すみません。
-　有名人が意外に近かったので……」
+"Y-Yes. I'm sorry.
+ I never realized you knew someone so famous."
 #
 <removesprite -1 11>
 <exit>
@@ -1278,7 +1306,8 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1238">
-「読書は、勉強の基本。頑張らなければ」
+"Reading is the basis of studying.
+ I've got to work hard."
 #
 \x0A\x24\x00\x0F\x84\x01
 :59C3
@@ -1287,7 +1316,8 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1239">
-「詠唱の練習、練習」
+"Chanting practice...
+ Practice..."
 #
 <removesprite -1 11>
 \x2B
@@ -1297,7 +1327,8 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1240">
-「瞑想、瞑想」
+"Meditate...
+ Meditate..."
 #
 <removesprite -1 11>
 \x2B
@@ -1306,7 +1337,7 @@
 <music 26>
 <background "ev009a0.iph" 11>
 <name "Celes" "!AA1241">
-「ちょっと、調合でもしてみようかなぁ」
+"I think I'll try mixing these."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5B33
@@ -1314,7 +1345,7 @@
 <music 26>
 <background "ev009a0.iph" 11>
 <name "Celes" "!AA1242">
-「実験も欠かせない」
+"Experimentation is indispensable."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5B91
@@ -1322,7 +1353,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1243">
-「調べものをしなきゃ」
+"I've got to research this."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5BF1
@@ -1330,7 +1361,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1244">
-「頑張るぞー」
+"I'll do my best!"
 #
 \x0A\x24\x00\x0F\x84\x01
 :5C49
@@ -1338,7 +1369,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1245">
-「やるぞー」
+"I'll try."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5C9F
@@ -1346,7 +1377,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1246">
-「頑張ります」
+"I'll work hard."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5CF7
@@ -1354,7 +1385,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1247">
-「わかりました」
+"All right."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5D51
@@ -1362,7 +1393,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1248">
-「やってみます」
+"I'll try!"
 #
 \x0A\x24\x00\x0F\x84\x01
 :5DAB
@@ -1370,7 +1401,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1249">
-「頑張ってみます」
+"I'll do my best."
 #
 \x0A\x24\x00\x0F\x84\x01
 :5E07
