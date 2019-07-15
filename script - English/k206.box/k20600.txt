@@ -49,13 +49,14 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「闇の魔法は、七系統でも上位とされる。
-　相当の努力が必要だぞ」
+"Dark magic is considered the most difficult of
+ the seven types of magic.
+ It's going to require a lot of work."
 #
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA1516">
-「はい。
-　頑張ります」
+"Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -63,15 +64,16 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「闇の魔法は古くから研究されているから、様々な
-　魔法があり、また強力な物も多い」
+"Dark magic has been studied since ancient
+ times, so there are a lot of spells and a lot
+ of powerful things you can do with it."
 #
 <name "Lazlocke">
-「習得の難度は高いが、頑張るように」
+"It's hard to learn though, so work hard."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1517">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -80,26 +82,26 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1518">
-「ぬぬぬ……」
+"Nnnnngh..."
 #
 <name "Lazlocke">
-「苦労しているみたいだな」
+"Looks like you're struggling."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA1519">
-「は、はい……
-　どうしても闇のイメージが難しくて……」
+"Y-Yes, sir...
+ It's hard to imagine darkness..."
 #
 <name "Lazlocke">
-「夜の闇とかで良いんだが……」
+"Just the darkness of night works..."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA1520">
-「どうしても星空とかロウソクが邪魔をして……」
+"The stars and candles get in the way..."
 #
 <name "Lazlocke">
-「気持ちは分かる。
-　まあ、努力するように」
+"I know the feeling.
+ Well, keep at it."
 #
 <removesprite -1 11>
 <exit>
@@ -108,26 +110,29 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA1521">
-「闇……闇……闇……」
+"Darkness... Darkness... Darkness..."
 #
 <name "Lazlocke">
-「こうだ」
+"Like this."
 #
 <removesprite -1 11>
-　セリスが苦労していたので、俺は参考にと闇の玉
-　を作ってセリスの前に見せた。
+Since she's having such a rough time, I create
+a ball of darkness to show her.
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA1522">
-「うわっ、真っ黒……吸い込まれそうです」
+"Wow... It's such a deep black...
+ It feels like I'll be sucked in."
 #
 <name "Lazlocke">
-「それぐらいの闇を作って、初めて威力が出る。
-　薄い闇だと、威力は無いぞ」
+"Creating darkness like this and giving it
+ strength is the first step.
+ If it's not dark enough, there won't be any
+ power in it."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1523">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -136,27 +141,27 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1524">
-「師匠は闇の魔法を使う時、どうやって闇をイメー
-　ジしているんですか？」
+"How do you imagine darkness when you use dark
+ magic?"
 #
 <name "Lazlocke">
-「うーん……目隠しされた感じかな」
+"Hmm... Like I'm blindfolded?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1525">
-「目隠しですか……」
+"Blindfolded?"
 #
 <name "Lazlocke">
-「はい、目隠し」
+"Yeah, blindfolded."
 #
 <removesprite -1 11>
 <name "Celes" "!AA1526">
-「ああ、何も見えない」
+"Ah, I can't see a thing."
 #
 <removesprite -1 11>
 <sprite "ta04a89.iph" 4 4 11>
 <name "Soshiette" "!DA0404">
-「何をイチャついているんですか」
+"Are you two flirting?"
 #
 <removesprite -1 11>
 <exit>
@@ -165,16 +170,16 @@
 <background "bg002b0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1527">
-「暗闇の中で、歩く練習ですか？」
+"Practice walking in the dark?"
 #
 <name "Lazlocke">
-「闇の魔法を知るには、闇を知る事から始めないと
-　な」
+"To know dark magic, you must first know
+ darkness."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA1528">
-「わかりました。
-　頑張ります」
+"All right.
+ I'll try."
 #
 <removesprite -1 11>
 <exit>
@@ -183,13 +188,14 @@
 <background "bg002b0.iph" 11>
 <sprite "ta01a42.iph" 4 4 11>
 <name "Celes" "!AA1529">
-「あいたっ！
-　え、あ、方向が……うわわわっ！」
+"Ow!
+ Huh? Ah, the right way's...
+ Aaaaah!"
 #
 <removesprite -1 11>
-　闇の中で、セリスは歩く練習をしていた。
+Celes is practicing walking in the dark.
 #
-　が、怪我は絶えないようだ。
+But she's picking up a lot of bruises.
 #
 <exit>
 :CC5
@@ -197,179 +203,182 @@
 <background "bg002b0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1530">
-「闇の中でも……すいすいー」
+"In the dark...
+ Slow and steady..."
 #
 <removesprite -1 11>
-　セリスは闇の中で歩く練習をしていた。
+Celes is practicing walking in the dark.
 #
 <name "Lazlocke">
-「スイスイ歩くのは良いが、さっきから同じ場所を
-　グルグルと歩いているぞ」
+"Taking it slow is fine, but you've been
+ walking in circles for a while now."
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA1531">
-「え！」
+"Huh!?"
 #
 <removesprite -1 11>
 <exit>
 :E10
 <music 26>
 <background "bg002b0.iph" 11>
-　セリスは闇の中で歩く練習をしていた。
+Celes is practicing walking in the dark.
 #
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA1532">
-「ふっふっふっ……
-　闇の中では視覚は無用。
-　目を瞑り、心眼にて……ウワッ！
-　イタタタ……」
+"Heheheh... Sight is useless in the dark.
+ Close your eyes, see with your mind's eye...
+ Aah!
+ Owww..."
 #
 <removesprite -1 11>
-　セリスは盛大に転倒していた。
+She trips and falls.
 #
 <name "Lazlocke">
-「大丈夫か」
+"Are you okay?"
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA1533">
-「な、なんとか……」
+"I-I think so..."
 #
 <name "Lazlocke">
-「そうか。
-　それで、心眼なんてどこで身に付けたんだ」
+"I see.
+ So, where'd you pick up this stuff about a
+ mind's eye?"
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA1534">
-「ほ、本で……読んだら出来る気がして」
+"I-In a book... 
+ I read it and felt like I could do it..."
 #
 <name "Lazlocke">
-「あー、よくあるよくある」
+"Aah. You're not the first."
 #
 <removesprite -1 11>
 <exit>
 :1062
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは、自分の影を操ろうと努力していた。
+Celes is trying to control her shadow.
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA1535">
-「よっ、はっ、ほっ……」
+"Ah! Oh! Ha!"
 #
 <name "Lazlocke">
-「……魔法で操るのであって、お前自身が動いて操
-　るんじゃないぞ」
+"...Move it with magic, not by waving your arms
+ around."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA1536">
-「す、すみません。
-　つい、身体が勝手に……」
+"S-Sorry. I couldn't help myself..."
 #
 <removesprite -1 11>
 <exit>
 :11C2
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは、自分の影を操ろうと努力していた。
+Celes is trying to control her shadow.
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA1537">
-「師匠！
-　見てください！
-　ほら、犬に見えませんか！」
+"Master, watch this!
+ Look! It looks like a dog!"
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1538">
-「あと、これがカニです」
+"And here's a crab!"
 #
 <name "Lazlocke">
-「…………」
+"........."
 #
 <removesprite -1 11>
-　とりあえず、頭を撫でてやった。
+Well, I guess I can pat her head.
 #
 <exit>
 :1334
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは何かを召喚しようとしていた。
+Celes is trying to summon something.
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1539">
-「ぬぬぬぬぬぬ……えいいっ！」
+"Nnnnnnnngh... Yah!"
 #
 <name "Lazlocke">
-「……小魚だな」
+"...A minnow."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA1540">
-「今日の夕飯にしましょう」
+"We can have it for dinner tonight."
 #
 <name "Lazlocke">
-「一匹じゃ足りないぞ」
+"One's not nearly enough."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1541">
-「次こそは大物を」
+"The next one will be a big catch."
 #
 <removesprite -1 11>
 <exit>
 :14BB
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは何かを召喚しようとしていた。
+Celes is trying to summon something.
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA1542">
-「えいっ！」
+"Yah!"
 #
 <name "Lazlocke">
-「……ずいぶんと、強そうな魔物だな。
-　制御できるのか？」
+"Looks like a pretty strong monster.
+ Can you control it?"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1543">
-「すみません。
-　無理っぽいです」
+"I'm sorry.
+ I don't think there's any way."
 #
 <removesprite -1 11>
-　その後、俺とセリスは苦労しながら召喚した魔物
-　を倒した。
+And so Celes and I struggled to defeat the
+monster she summoned.
 #
 <exit>
 :1636
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは何かを召喚しようとしていた。
+Celes is trying to summon something.
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA1544">
-「えいやっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　盛大な煙と共に、巨大な物体が出現した。
+Something huge appears out of a torrent of
+smoke.
 #
 <name "Lazlocke">
-「うおっ……」
+"Whoa..."
 #
 <sprite "ta01a86.iph" 4 4 11>
 <name "Celes" "!AA1545">
-「ぁ……」
+"Ah..."
 #
 <removesprite -1 11>
-　召喚した魔物は、そのまま空に飛び上がりどこか
-　に行ってしまった。
+The summoned monster leaps into the sky and 
+flies away.
 #
 <name "Lazlocke">
-「協会に連絡して、退治して貰おう」
+"I'll contact the Guild and have them hunt it
+ down."
 #
 <sprite "ta01a37.iph" 4 4 11>
 <name "Celes" "!AA1546">
-「は、はい。
-　放置するわけにはいきませんしね」
+"Y-Yeah. I don't think we can let that roam
+ free."
 #
 <removesprite -1 11>
 <exit>
@@ -378,30 +387,30 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1547">
-「闇の魔法を操ると、なんだか魔女って感じがしま
-　すよね」
+"When I'm using dark magic, I kind of feel like
+ a witch."
 #
 <name "Lazlocke">
-「そうか？」
+"Really?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1548">
-「はい。
-　光の魔法だと聖女で、闇の魔法は魔女。
-　もしくは魔王とか悪魔」
+"Yeah. Light magic makes me feel like a saint,
+ but dark magic is more like a witch. 
+ Or maybe an overlord or a demon."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1549">
-「本では定番です」
+"They're the classics in books."
 #
 <name "Lazlocke">
-「光も闇も本質は一緒なんだがな……
-　わかりやすさを優先すると、黒い方がやっぱり悪
-　者にされるか」
+"Light and dark are the same thing at their
+ core. If it helps you to understand it, you
+ can consider the dark one to be bad people."
 #
 <name "Lazlocke">
-「とりあえず、覚えておくように。
-　闇の魔法を操った英雄はたくさん居るぞ」
+"However, make sure you understand that there
+ are no shortage of heroes who used dark magic."
 #
 <removesprite -1 11>
 <exit>
@@ -410,29 +419,31 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1550">
-「闇の魔法。
-　それはこの私の恨みの波動……」
+"Dark magic...
+ This is a wave of my resentment..."
 #
 <name "Lazlocke">
-「なんだ、それ？」
+"What are you talking about?"
 #
 <sprite "ta01a34.iph" 4 4 12>
 <name "Celes" "!AA1551">
-「えっと、とりあえず恨みを前面に出す事で闇の魔
-　法の威力を向上させようと」
+"Umm, I'm trying to strengthen my dark magic by
+ focusing on my resentment."
 #
 <name "Lazlocke">
-「…………家の事で恨んでいるヤツが居るのは知っ
-　ているが、魔法の勉強中は忘れろ。
-　変な方向に曲がるぞ」
+"...I know about your family situation and that
+ there's someone you want revenge on, but forget
+ about that while studying, or you're going to
+ get twisted up in a bad direction."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1552">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
-　まあ、魔法を勉強している元が恨みだから仕方が
-　無いと言えば仕方が無いが……
+Well, given that it's the reason she's learning
+magic at all, it's probably hard to completely
+forget.
 #
 <exit>
 :1CF4
@@ -440,43 +451,45 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1553">
-「とうっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　セリスは闇の玉を作り、放った。
+Celes creates a ball of darkness and throws it.
 #
-　それは目標を大きくそれ、外れた。
+She completely misses her target.
 #
 <sprite "ta01a05.iph" 4 4 11>
 <name "Celes" "!AA1554">
-「あ……失敗」
+"Ah... I missed."
 #
 <name "Lazlocke">
-「…………威力は十分だが、時々外しているな。
-　安定させないと、危ないぞ」
+"That was enough power, but you missed what you
+ were aiming for.
+ It's dangerous if you don't keep it under
+ control."
 #
 <sprite "ta01a29.iph" 4 4 12>
 <name "Celes" "!AA1555">
-「す、すみません」
+"I-I'm sorry."
 #
 <name "Lazlocke">
-「謝るなら、あっちに」
+"I'm not the one you should be apologizing to."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA1556">
-「え？」
+"Huh?"
 #
 <removesprite -1 11>
-　俺の指差した方向には、闇の玉が近くに落ちて地
-　面に伏せているイエルが居た。
+I point at where her dark ball landed. 
+Elle is sprawled on the ground, stunned.
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA1557">
-「イ、イエルちゃん、大丈夫！」
+"E-Elle! Are you okay!?"
 #
 <removesprite -1 11>
-　怪我は無いようだが、イエルの機嫌はしばらく悪
-　かった。
+She wasn't hurt, but she was in a bad mood for
+a while.
 #
 <exit>
 :1FF3
@@ -485,7 +498,8 @@
 \x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2087: 
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA1562">
-「闇の魔法、勉強勉強」
+"Dark magic...
+ Study, study..."
 #
 <removesprite -1 11>
 \x2B
@@ -493,8 +507,8 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :20FE: 
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1563">
-「はい。
-　闇の魔法の勉強ですね」
+"Okay.
+ Time to study dark magic."
 #
 <removesprite -1 11>
 \x2B
@@ -502,7 +516,7 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2178: 
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1564">
-「闇の魔法って、ダークな響きですよね」
+"Dark magic sounds so evil."
 #
 <removesprite -1 11>
 \x2B
@@ -510,7 +524,7 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :21EC: 
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA1565">
-「闇の魔法、使いこなしてみます」
+"I'm going to master dark magic."
 #
 <removesprite -1 11>
 :21EC + 1
