@@ -46,24 +46,24 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a89.iph" 4 4 11>
 <name "Celes" "!AA1452">
-「雷の魔法と言えば、ソシエットさんですよね」
+"When it comes to lightning magic, Miss 
+ Soshiette is the master, right?"
 #
 <name "Lazlocke">
-「そうだな。
-　他の系統はイマイチだが、雷の魔法に関してはトッ
-　プレベルだ」
+"That's right. She's not so great at the other
+ schools, but she's an expert when it comes to
+ lightning magic."
 #
 <name "Lazlocke">
-「雷の魔法に関してだけは、俺よりも頼りになるか
-　もしれないぞ」
+"Just for lightning magic, she's probably
+ better than me."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1453">
-「そうですね。
-　でも、私は師匠から教えて貰いたいです」
+"I see, but I still want to learn from you."
 #
 <name "Lazlocke">
-「……可愛いヤツ」
+"...Adorable."
 #
 <removesprite -1 11>
 <exit>
@@ -72,18 +72,18 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1454">
-「……雷の魔法って、攻撃ばかりですね」
+"Lightning magic is just for attacking, isn't
+ it?"
 #
 <name "Lazlocke">
-「そうだな。
-　その分、威力に優れている」
+"I suppose, but it's unmatched in power."
 #
 <sprite "ta01d36.iph" 4 4 12>
 <name "Celes" "!AA1455">
-「覚え難いのばかりですけど……」
+"It's hard to learn though..."
 #
 <name "Lazlocke">
-「頑張れ」
+"Good luck."
 #
 <removesprite -1 11>
 <exit>
@@ -92,42 +92,44 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1456">
-「雷の魔法は、自然の雷の擬似ですよね」
+"Lightning magic simulates actual lightning,
+ right?"
 #
 <name "Lazlocke">
-「そうだぞ」
+"That's right."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA1457">
-「じゃあ、ゴロゴロと言わないのは何故ですか？」
+"Then why doesn't it rumble?"
 #
 <name "Lazlocke">
-「雷の魔法を使うとビリビリと音がするのは分かる
-　な」
+"You want to know why you don't hear the sound
+ of thunder when you cast a lightning spell?"
 #
 <sprite "ta01d07.iph" 4 4 12>
 <name "Celes" "!AA1458">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「自然の雷も同じ。
-　雷が発生する時にビリビリと音が鳴っている」
+"The same is true for natural lightning.
+ It creates a boom when it strikes."
 #
 <name "Lazlocke">
-「そして、自然の雷は魔法よりも何百倍もスケール
-　が大きい。
-　だから、雷が近くに落ちた時は、ビリビリではな
-　く、ガラガラッと激しい音になる」
+"But the scale of natural lightning is hundreds
+ of times more than magical. If you're near it
+ when it strikes, you'll be deafened by a huge
+ boom of thunder."
 #
 <name "Lazlocke">
-「そのガラガラを遠くで聞くとゴロゴロになるんだ」
+"It's when you're off in the distance that you
+ get the distinctive rumble."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA1459">
-「そうなんですか！」
+"Oh, I see!"
 #
 <name "Lazlocke">
-「嘘じゃないぞ」
+"I'm not making it up, you know."
 #
 <removesprite -1 11>
 <exit>
@@ -136,35 +138,33 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1460">
-「雷の魔法を使う時、注意しなければいけない事は
-　なんですか？」
+"What should I be careful of when I cast
+ lightning magic?"
 #
 <name "Lazlocke">
-「雷を放った時、自分に戻って来ないようにする事
-　だ」
+"When you shoot lightning, make sure it doesn't
+ get bounced back at you."
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1461">
-「……戻って来るんですか？」
+"It can bounce back?"
 #
 <name "Lazlocke">
-「戻って来る。
-　過去、そうやって怪我をした雷使いを俺は知って
-　いる」
+"It can. I know a lightning user who hurt
+ themself pretty badly like that."
 #
 <removesprite -1 11>
 <sprite "ta04a78.iph" 4 4 11>
 <name "Soshiette" "!DA0395">
-「ご主人様。
-　少し、こちらへ……」
+"Your Grace, a moment..."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「うわぁぁぁぁぁ……」
+"Aaaahhh..."
 #
 <sprite "ta01d10.iph" 4 4 11>
 <name "Celes" "!AA1462">
-「ああ、師匠が首を掴まれて引き摺られて……」
+"Aah, she dragged him off by the neck..."
 #
 <removesprite -1 11>
 <exit>
@@ -173,62 +173,61 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA1463">
-「えいいっ！」
+"Yaaah!"
 #
 <removesprite -1 11>
-　セリスは雷撃を放ち、的にしていた案山子に命中
-　させた。
+She shoots a lightning bolt at the dummy.
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1464">
-「どうですか」
+"How was that?"
 #
-　セリスは得意気に俺を見る。
+She looks at me proudly.
 #
 <name "Lazlocke">
-「セリス。
-　次は案山子の脇を狙ってみろ」
+"Celes, try aiming to the side of it."
 #
 <sprite "ta01d07.iph" 4 4 12>
 <name "Celes" "!AA1465">
-「当てなくて良いんですか？」
+"I shouldn't hit it?"
 #
 <name "Lazlocke">
-「構わない」
+"That's fine."
 #
 <sprite "ta01d22.iph" 4 4 12>
 <name "Celes" "!AA1466">
-「では……えいいっ！
-　……あれ？」
+"Okay... Yah!
+ ...Huh?"
 #
 <removesprite -1 11>
-　セリスの放った雷撃は、案山子に命中した。
+Her lightning hits the dummy again.
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA1467">
-「え？
-　おかしいな……」
+"Huh? That's weird..."
 #
 <removesprite -1 11>
-　セリスは連発するが、案山子にしか命中しない。
+She fires a few more, but always hits the dummy.
 #
 <name "Lazlocke">
-「雷は物にぶつかって拡散しようとする性質がある。
-　だから物の脇などを通す為には熟練が必要となる」
+"A property of lightning is that it's attracted
+ to striking certain things. You need skill to
+ direct it towards the target you want to hit."
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1468">
-「むう……案山子に命中するのは雷の魔法だからで
-　すか？」
+"Grr... Is it because I hit the dummy with a
+ lightning spell?"
 #
 <name "Lazlocke">
-「案山子まで飛ばす腕は大したものだぞ。
-　腕が悪いと、案山子まで飛ばずに地面に落ちるか
-　らな」
+"It took a lot of skill just to hit the dummy
+ in the first place. If you were unskilled,
+ it would hit the ground without being directed
+ towards anything."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1469">
-「……頑張って精進します」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -237,39 +236,41 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1470">
-「腕！　足！　頭！」
+"Arm! Leg! Head!"
 #
 <removesprite -1 11>
-　セリスは雷撃を放ち、案山子に命中させる。
+Celes shoots lightning strikes at the dummy.
 #
-　かなりの精度で狙った所に当てている。
+She's hitting her called targets pretty well.
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1471">
-「どうですか」
+"How was that?"
 #
 <name "Lazlocke">
-「では、案山子の横に細い鉄の棒を置いてみよう」
+"Okay, now let's put an iron rod next to the
+ dummy."
 #
 <sprite "ta01d37.iph" 4 4 12>
 <name "Celes" "!AA1472">
-「師匠、それはズルイです。
-　雷はより細い物に、特に鉄に引っ張られます」
+"Master, that's not fair.
+ Lightning's drawn to pointy things, especially
+ iron."
 #
 <name "Lazlocke">
-「よく勉強したな」
+"You've done your reading."
 #
 <sprite "ta01d36.iph" 4 4 12>
 <name "Celes" "!AA1473">
-「はい」
+"Yep."
 #
 <name "Lazlocke">
-「でも、その雷の性質を無視させるだけの魔法にす
-　るように」
+"But you need to make your magic ignore those
+ properties of lightning."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1474">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -278,98 +279,98 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1475">
-「師匠、師匠」
+"Master! Master!"
 #
 <name "Lazlocke">
-「なんだ？」
+"What?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1476">
-「服を脱ぎながら……電撃！」
+"When I'm getting undressed... ka-zap!"
 #
 <removesprite -1 11>
-　その電撃は、凄い威力があった。
+She lets off a pretty powerful electric shock.
 #
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA1477">
-「どうですか。
-　服を脱いだ時にビリビリするのを利用してみまし
-　た」
+"How was that? I get all zappy when I'm getting
+ undressed."
 #
 <name "Lazlocke">
-「……努力は認めるが、敵と戦う時に服を脱ぎなが
-　ら戦うのか？」
+"...I'll acknowledge the result, but are you
+ really going to strip while you're fighting?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1478">
-「あ！」
+"Ah!"
 #
 <removesprite -1 11>
 <exit>
 :1533
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは案山子を相手に雷の魔法を放った。
+Celes fires a lightning bolt at the dummy.
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1479">
-「えいっ！
-　……あれ？」
+"Yah!
+ ...Huh?"
 #
 <removesprite -1 11>
-　確かに案山子に命中したのだが、案山子は何事も
-　なかったように立っていた。
+It hits the dummy, but it just sits there like
+nothing happened.
 #
 <sprite "ta01a23.iph" 4 4 11>
 <name "Celes" "!AA1480">
-「えいいいっ！
-　………………あれ？」
+"Yaahhhh!
+ .........Huh?"
 #
 <removesprite -1 11>
-　先程よりも大きな雷撃を放つが、案山子はまたも
-　何事もなかったように立っている。
+She fires an even bigger bolt, but the dummy
+remains unharmed.
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1481">
-「え？
-　あれ？」
+"Huh?
+ What?"
 #
 <name "Lazlocke">
-「セリス。
-　案山子に近付いてよく見てみろ」
+"Celes, look closer at the dummy."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA1482">
-「え？
-　細い鉄線が巻かれて……片方が地面に……」
+"Huh? 
+ An iron wire is wrapped around it... and into
+ the ground..."
 #
 <name "Lazlocke">
-「ソシエットの悪戯だな」
+"Soshiette is playing a trick on you."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA1483">
-「これで、私の雷を防いだんですか？」
+"That blocked my lightning?"
 #
 <name "Lazlocke">
-「防いだと言うよりも、逃しただな」
+"Not blocked exactly, more like missed."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA1484">
-「どこにですか？」
+"Where'd it go?"
 #
 <name "Lazlocke">
-「地面に」
+"Into the ground."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA1485">
-「……」
+"..."
 #
 <name "Lazlocke">
-「その程度で防がれる雷にするなって事だ」
+"That's enough to protect something from
+ lightning."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1486">
-「が、頑張ります」
+"I-I'll try harder."
 #
 <removesprite -1 11>
 <exit>
@@ -377,67 +378,73 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「雷の玉を作り、コントロールして貰いたいが……」
+"I want you create a ball of lightning and
+ keep it under control."
 #
 <name "Lazlocke">
-「雷は他の属性と違い、玉にする事が難しい。
-　そして、その玉をコントロールするとなると、さ
-　らに難度が上がる。
-　大変だぞ」
+"Lightning isn't like other elements.
+ It's hard to make a ball of it, and controlling
+ it is even harder.
+ This is going to be difficult."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1487">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :1B02
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは雷の玉を作り、コントロールの練習をし
-　ていた。
+Celes is practicing creating a ball of lightning
+and controlling it.
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA1488">
-「うーん……気を抜くと、すぐに小さくなっちゃう。
-　なかなか、元に戻らないし……」
+"Hmm... It gets small as soon as I relax my
+ concentration. It's hard to bring it back."
 #
 <name "Lazlocke">
-「小さくなったんじゃなくて、広がって散ったんだ。
-　だから元に戻ったりはしない」
+"It's not getting small. It's expanding and
+ scattering.
+ That's why it doesn't come back."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA1489">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「そうだ。
-　もっと雷を観察しろ……と言いたいが、雷を見る
-　機会は少ないからな」
+"Really. Study lightning more closely.
+ ...Well, I'd like to say that, but there
+ aren't too many chances to actually do that."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1490">
-「雷が落ちるのって、良い事じゃないですしね」
+"You don't want to be around when lightning
+ strikes, do you?"
 #
 <removesprite -1 11>
 <exit>
 :1D66
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは雷の玉を作り、コントロールしていた。
+Celes creates a ball of lightning and tries to
+control it.
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1491">
-「うーん、師匠やソシエットさんみたいに上手く操
-　れない……」
+"Mmmm...
+ I can't control it as well as you and
+ Soshiette."
 #
 <name "Lazlocke">
-「一朝一夕で出来るもんじゃない。
-　焦らずにジックリとやるように」
+"It's not something you learn how to do
+ overnight. Take it carefully, and don't be
+ impatient."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1492">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -446,109 +453,109 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1493">
-「二本の鉄の棒の間に電気を通すのですね」
+"Conduct electricity between the two iron
+ bars?"
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0396">
-「はい。
-　頑張ってください」
+"Yes.
+ Good luck."
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1494">
-「ぬぬぬーん……あれ？
-　簡単だと思ったけど……」
+"Nnnnnnnh... Huh?
+ I thought it'd be easy."
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 2 5 11>
 <sprite "ta04a11.iph" 6 4 11>
 <name "Soshiette" "!DA0397">
-「ちなみに、その鉄棒には雷に抵抗する魔法が掛かっ
-　ています。
-　頑張ってください」
+"By the way, the bars are enchanted to resist
+ lightning magic.
+ Good luck."
 #
 <sprite "ta01a23.iph" 2 5 12>
 <name "Celes" "!AA1495">
-「ひ、酷い……」
+"Y-You're so mean..."
 #
 <removesprite -1 11>
 <exit>
 :2123
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは雷の魔法の勉強をしていた。
+Celes is studying lightning magic.
 #
 <sprite "ta01d37.iph" 4 4 11>
 <name "Celes" "!AA1496">
-「うわわわっ！」
+"Ah! Ah! Ah!"
 #
 <name "Lazlocke">
-「どうした？」
+"What's the matter?"
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1497">
-「ま、魔法を使ったら、ビリビリと……」
+"I-I got shocked when I was casting..."
 #
 <name "Lazlocke">
-「……地面が濡れているな」
+"The ground's not wet?"
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1498">
-「え？
-　は、はい。
-　地面が乾燥していたので……」
+"Huh? T-That's right.
+ I thought the ground was dry..."
 #
 <name "Lazlocke">
-「雷は水を伝わる。
-　注意するように」
+"Lightning travels through water.
+ You need to be careful."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1499">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
-　まあ、強力な雷の魔法なら、水に流れずに全てが
-　破壊のエネルギーになるのだが……
+Well, with strong enough lightning magic, 
+everything gets electrified, with or without
+water.
 #
-　言わないでおこう。
+I keep that to myself though.
 #
 <exit>
 :23BB
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「雷の魔法。
-　例を見せよう」
+"I'll give you a demonstration of lightning
+ magic."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1500">
-「お願いします」
+"Thank you."
 #
 <name "Lazlocke">
-「ちえいっ！」
+"Take that!"
 #
 <removesprite -1 11>
-　俺は雷の魔法で、巨大な雷を落とした。
+I call down a huge lightning bolt.
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1501">
-「おおおおっ！」
+"Ooohhhh!"
 #
 <name "Lazlocke">
-「そして……雨が……」
+"And... rain."
 #
 <removesprite -1 11>
-　パラパラと降って来た。
+It begins to sprinkle.
 #
 <sprite "ta01d89.iph" 4 4 11>
 <name "Celes" "!AA1502">
-「すごい！
-　師匠は天候まで操れるんですね！」
+"Wow! You can even control the weather!"
 #
 <name "Lazlocke">
-「いや、雨は偶然。
-　屋根のある場所に行くぞ」
+"No, the rain's just a coincidence.
+ Let's find some cover."
 #
 <removesprite -1 11>
 <exit>
@@ -557,54 +564,56 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1503">
-「ソシエットさんは、雷特化だと聞きましたが、ど
-　うして雷の魔法を選んだんですか？」
+"I heard you specialized in lightning, Miss
+ Soshiette, but why'd you choose lightning
+ magic?"
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a26.iph" 6 4 11>
 <name "Soshiette" "!DA0398">
-「選んだと言うより、それ以外が駄目だったんです」
+"I didn't exactly choose it.
+ I was awful at everything else."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA1504">
-「そうなんですか？」
+"Really?"
 #
 <sprite "ta04a84.iph" 6 4 12>
 <name "Soshiette" "!DA0399">
-「ええ……魔法は駄目だと諦め、武術に傾倒してい
-　たぐらいです」
+"Yes. I was terrible at magic, gave it up, and
+ devoted myself to martial arts."
 #
 <sprite "ta04a63.iph" 6 4 12>
 <name "Soshiette" "!DA0400">
-「そんな私を、魔法使い協会の方々が色々と指導し
-　てくれまして……
-　今では立派な雷使い」
+"The Guild then took me and taught me all kinds
+ of things. Now I'm a master of lightning."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0401">
-「他の魔法もそれなりに使えるようになりました」
+"I'm able to use at least some other magic now
+ as well."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA1505">
-「よかったですね」
+"That must be nice."
 #
 <sprite "ta04a00.iph" 6 4 12>
 <name "Soshiette" "!DA0402">
-「はい。
-　ですから、私もセリスさんには期待しています」
+"It is, which is why I'm expecting the same
+ from you."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA1506">
-「あ……」
+"Ah..."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0403">
-「頑張ってください」
+"Keep up the hard work."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA1507">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
@@ -614,7 +623,8 @@
 \x2B\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2B15: 
 <sprite "ta01d37.iph" 4 4 11>
 <name "Celes" "!AA1511">
-「雷……ビリビリしたら、どうしよう」
+"Lightning...
+ What should I do if it shocks me?"
 #
 <removesprite -1 11>
 \x2B
@@ -622,7 +632,8 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2B91: 
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1512">
-「雷の魔法は扱い難いですが、頑張ります」
+"Lightning magic is hard to use, but I'll try
+ my best."
 #
 <removesprite -1 11>
 \x2B
@@ -630,8 +641,8 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2C14: 
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1513">
-「雷の魔法。
-　使いこなせるように頑張ります」
+"Lightning magic...
+ I have to work hard to master it."
 #
 <removesprite -1 11>
 \x2B
@@ -639,7 +650,8 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2C86: 
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA1514">
-「よーし、頑張って勉強するぞ」
+"Okay!
+ I've got to study hard!"
 #
 <removesprite -1 11>
 \x2B
@@ -647,8 +659,8 @@
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2D03: 
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA1515">
-「練習練習。
-　雷の魔法を練習しないと」
+"Practice... Practice...
+ I've got to practice lightning magic."
 #
 <removesprite -1 11>
 :2D03 + 1
