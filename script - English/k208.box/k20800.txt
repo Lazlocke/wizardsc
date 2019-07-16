@@ -43,12 +43,12 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「複合練習は、それなりに難度が高いから注意する
-　ように」
+"Practicing compound magic can be difficult,
+ so be very careful."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1636">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -57,19 +57,19 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1637">
-「火の魔法と、水の魔法。
-　どっちが好き？」
+"Which do you prefer between fire and water
+ magic?"
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
 <name "Elle" "!CA0158">
-「うーん……私は火の方が得意だから、火かな。
-　それがどうしたの？」
+"Hmmm... I'm good at fire, so fire, I guess.
+ Why do you ask?"
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA1638">
-「次、どっちから勉強しようかなぁって」
+"I'm thinking about which to study next."
 #
 <removesprite -1 11>
 <exit>
@@ -77,17 +77,17 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「火と水の魔法を同時に練習する事で、火と水の魔
-　法の系統の違いをより深く理解するのが目的だ」
+"I want you to practice using fire and water
+ magic simultaneously. It'll help you understand
+ the differences between them more deeply."
 #
 <name "Lazlocke">
-「片方が得意だからと、そっちばかりをやらないよ
-　うに」
+"Don't overspecialize in just one of them."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1639">
-「はい。
-　注意します」
+"Yes, sir.
+ I'll be careful."
 #
 <removesprite -1 11>
 <exit>
@@ -96,12 +96,14 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1640">
-「師匠、焚き火を作っては、水を掛けて消している
-　んですが……
-　これって、火と水の魔法に関係あるんですか？」
+"Master, I made a campfire and then doused it
+ with water.
+ Does this have something to do with water and
+ fire magic?"
 #
 <name "Lazlocke">
-「火と水を観察する事に繋がる…………筈」
+"You were supposed to observe the relationship
+ between fire and water..."
 #
 <removesprite -1 11>
 <exit>
@@ -109,52 +111,58 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「水の中で火。
-　火の中で水を生み出すのは、かなり難しい」
+"You can create fire in water, and water in
+ fire, but it's very difficult."
 #
 <name "Lazlocke">
-「そこにある魔力が、火や水になり難いからだ」
+"It's because the mana there is difficult to
+ turn into either fire or water."
 #
 <name "Lazlocke">
-「複合練習は、それを強制的に行なう練習だ。
-　上手く出来るようになれば、火や水の魔法の習得
-　に必ず役立つ。
-　頑張るように」
+"Compound pratice is the practice of forcing it
+ to happen. Once you get good at it, it'll help
+ you master new fire and water spells.
+ Good luck."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1641">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :8F1
 <music 26>
 <background "bg004a0.iph" 11>
-　セリスは水面に向かって火の魔法を唱えていた。
+Celes casts a fire spell at the surface of the
+water.
 #
-　水面や水中に火を起こす難度の高い技の練習だ。
+She's attempting the very difficult exercise of
+igniting a fire underwater.
 #
 <name "Lazlocke">
-「調子はどうだ？」
+"How's it going?"
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1642">
-「イ、イマイチです。
-　どうしても火と水が混じって、威力を半減するか、
-　反発して爆発しちゃいまして」
+"N-Not very well.
+ No matter what I do, the fire and water mix
+ together, are only half as strong, and then
+ conflict with each other and explode."
 #
 <name "Lazlocke">
-「火を意識する時、周りの水にお前の意識が引っ張
-　られているからだ」
+"That's because while you're focused on the
+ fire, your concentration is being drawn off
+ by the water around it."
 #
 <name "Lazlocke">
-「火の魔法を使う時は火。
-　水の魔法を使う時は水。
-　近くに何があっても、惑わされない事だ」
+"Focus on fire when using fire magic.
+ Focus on water when using water magic.
+ No matter what else is nearby, don't let it
+ distract you."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1643">
-「が、頑張ります」
+"I-I'll try."
 #
 <removesprite -1 11>
 <exit>
@@ -163,21 +171,21 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1645">
-「うーん……水面に向かって火の魔法。
-　でも、水に影響を与えちゃ駄目と……」
+"Mmm... Direct fire magic towards the water's
+ surface, but don't let it affect the water..."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA1646">
-「お湯にしたり、沸騰させちゃ駄目っと……」
+"Don't make it hot or let it boil..."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA1647">
-「無茶を言うなぁ……」
+"That's so impossible..."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA1648">
-「でも、それが魔法の勉強！
-　頑張ろう」
+"But that's what studying magic is all about!
+ I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
@@ -186,31 +194,33 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA1649">
-「すーはー……すーはー……
-　えいっ、えいっ！」
+"In... Out... In... Out...
+ Yah! Yah!"
 #
 <removesprite -1 11>
-　セリスは火と水の玉を作り、案山子にぶつけた。
+She creates balls of fire and water and throws
+them at the dummy.
 #
-　火の玉が先に当たり、案山子が燃えた瞬間に次の
-　水の玉が命中して鎮火する。
+The fireball hits first and ignites it just
+before the water ball douses the flames.
 #
 <name "Lazlocke">
-「悪くは無いが……双方の威力がイマイチだな」
+"Not bad, but the power's still pretty lacking."
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1650">
-「そうですね。
-　二つを生み出す事に集中し過ぎて、個々の威力が
-　落ちました」
+"I know. I'm concentrating so much on creating
+ both that each one's not as strong as they
+ should be."
 #
 <name "Lazlocke">
-「わかっているなら良し。
-　個々の威力を保ちながら、頑張るように」
+"I'm glad you already see the issue.
+ Keep it up, and work on maintaining the proper
+ strength."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1651">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -220,31 +230,28 @@
 \x2B
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0159">
-「セリス。
-　練習中？」
+"Are you practicing, Celes?"
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
 <name "Celes" "!AA1652">
-「うん。
-　火と水の魔法の練習」
+"Yeah, fire and water magic practice."
 #
 <sprite "ta02a01.iph" 6 4 12>
 <name "Elle" "!CA0160">
-「へぇー……
-　でも、集中してやった方が効率が良いんじゃない
-　の？」
+"Oh? But isn't it more effective to concentrate
+ on just one?"
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA1653">
-「そうだけど……
-　時々、すっごく学んだって感じになる時があるの」
+"Probably, but sometimes I feel like I'm
+ learning so much."
 #
 <sprite "ta02a03.iph" 6 4 12>
 <name "Elle" "!CA0161">
-「そうなの？
-　うーん、私もやってみようかしら」
+"Really?
+ Hmm, maybe I should try that too."
 #
 <removesprite -1 11>
 <exit>
@@ -253,17 +260,17 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1654">
-「火と水の魔法の練習をしていると……」
+"When I'm practicing fire and water magic..."
 #
 <name "Lazlocke">
-「していると？」
+"Yes?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1655">
-「お料理がしたくなります」
+"I start wanting to cook."
 #
 <name "Lazlocke">
-「ああ、気持ちは分かる」
+"Yeah, I know the feeling."
 #
 <removesprite -1 11>
 <exit>
@@ -271,37 +278,38 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「火！」
+"Fire!"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1656">
-「はいっ！」
+"Yes, sir!"
 #
-　セリスは火の点いたマキを持って来た。
+Celes brings some kindling that's smoldering.
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「水っ！」
+"Water!"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1657">
-「はいっ！」
+"Yes, sir!"
 #
-　セリスはコップに水を入れて、持って来た。
+Celes fills a glass with water and brings it
+over.
 #
 <name "Lazlocke">
-「…………」
+"..."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1658">
-「なにか？」
+"Yes?"
 #
 <removesprite -1 11>
-　とりあえず、押し倒してやった。
+Well, I can enjoy her at any rate.
 #
 <sprite "ta01a84.iph" 4 4 11>
 <name "Celes" "!AA1659">
-「ひ、酷い……」
+"S-So mean..."
 #
 <removesprite -1 11>
 <exit>
@@ -310,16 +318,16 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1660">
-「火と水の魔法……つまり！
-　火攻め、水攻めですね」
+"Fire and water magic... meaning...
+ fire and water attacks, right?"
 #
 <name "Lazlocke">
-「火責め、水責めか……
-　セリスはハードプレイが望みと」
+"You're into fire and water, huh?
+ Pretty hardcore fetish there."
 #
 <sprite "ta01a80.iph" 4 4 12>
 <name "Celes" "!AA1661">
-「へ、変なメモをしないでくださいっ！」
+"T-That's not what I meant!"
 #
 <removesprite -1 11>
 <exit>
@@ -328,75 +336,72 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1662">
-「ヴィオラさん。
-　火と水の魔法を見せて貰えませんか？」
+"Miss Viola, can you show me how to use fire
+ and water magic at the same time?"
 #
 <removesprite -1 11>
 <sprite "ta03a03.iph" 2 5 11>
 <sprite "ta01a07.iph" 6 4 11>
 <name "Viola" "!BA0185">
-「私が？」
+"Me?"
 #
 <sprite "ta01a07.iph" 6 4 12>
 <name "Celes" "!AA1663">
-「はい。
-　火と水の魔法なら、ヴィオラさんが一番だって師
-　匠が言ってました。
-　お願いします」
+"Yes. Master said that when it comes to fire
+ and water magic, you're the best.
+ Please."
 #
 <sprite "ta03a01.iph" 2 5 12>
 <name "Viola" "!BA0186">
-「仕方が無いわね」
+"I suppose I shouldn't disappoint then."
 #
 <removesprite -1 11>
-　ヴィオラは火と水の魔法を見せる。
+Viola casts a fire and water spell.
 #
-　一番簡単な魔法。
+A very simple one.
 #
-　しかし、その純度は簡単とは言えない。
+But such purity like this isn't easy.
 #
-　火は、炎よりも熱く。
-　水は、氷よりも冷たい。
+The fire is hotter than any flame.
+The water is colder than any ice.
 #
-　それを同時に使いこなす。
+And she's able to control both at the same
+time.
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1664">
-「すごい……」
+"Wow..."
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 2 5 11>
 <sprite "ta01a08.iph" 6 4 11>
 <name "Viola" "!BA0187">
-「ラズロックには言ってもいいけど、イエルには内
-　緒よ」
+"You can tell Lazlocke about this, but keep it
+ a secret from Elle."
 #
 <sprite "ta01a92.iph" 6 4 12>
 <name "Celes" "!AA1665">
-「わ、わかりました。
-　でも……遅いかと」
+"A-All right, but... it's too late."
 #
 <removesprite -1 11>
-　セリスの視線の先には、イエルが立っていた。
+Elle is standing in the doorway.
 #
 <sprite "ta02a21.iph" 4 4 11>
 <name "Elle" "!CA0162">
-「師匠っ！
-　わ、私がどれだけ頼んでも見せてくれなかったの
-　に！
-　ずるいです！」
+"Master! N-No matter how much I asked, you
+ never showed me!
+ No fair!"
 #
 <removesprite -1 11>
 <sprite "ta03a38.iph" 4 4 11>
 <name "Viola" "!BA0188">
-「……………………セリス。
-　なだめなさい」
+".........Celes, smooth this over."
 #
 <removesprite -1 11>
 <sprite "ta03a38.iph" 2 5 11>
 <sprite "ta01a92.iph" 6 4 11>
 <name "Celes" "!AA1666">
-「が、頑張ります」
+"I-I'll try."
 #
 <removesprite -1 11>
 <exit>
@@ -405,33 +410,33 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1667">
-「よし、火と水の魔法の勉強をするぞー！」
+"Okay, I'm going to study fire and water magic!"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1668">
-「するぞー！」
+"I am!"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「…………」
+"........."
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1669">
-「するんだー！」
+"I! Am!"
 #
 <name "Lazlocke">
-「…………早くしたらどうだ」
+"...Then get on with it already."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA1670">
-「師匠、お手本をお願いします」
+"Please show me an example, Master."
 #
 <name "Lazlocke">
-「素直にそう言え」
+"Just admit it from the start."
 #
 <removesprite -1 11>
 <exit>
@@ -441,7 +446,8 @@
 \x2B
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1676">
-「火と水って反発しそうで扱い難そうですよね」
+"Fire and water are opposites and hard to
+ control together." 
 #
 <removesprite -1 11>
 <exit>
