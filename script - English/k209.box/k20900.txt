@@ -39,21 +39,22 @@
 <music 26>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「砂を用意した」
+"I have sand."
 #
 <name "Lazlocke">
-「風車も用意した」
+"I have a windmill."
 #
 <name "Lazlocke">
-「何をするか、わかるな？」
+"Do you know what you're going to do?"
 #
 <sprite "ta01d17.iph" 4 4 11>
 <name "Celes" "!AA1677">
-「……風車の力を使って、砂を粉にするとか？」
+"Use the power of the windmill to grind the
+ sand into powder?"
 #
 <name "Lazlocke">
-「よーし、こっちに来い。
-　凄い事をしてやる」
+"Okay, come here.
+ I'll show you something incredible."
 #
 <removesprite -1 11>
 <exit>
@@ -62,19 +63,20 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1678">
-「師匠。
-　火と水、闇と光はわかるんですが、風と土って関
-　係あるんですか？」
+"Master, I understand how fire and water are
+ related, and how dark and light are related,
+ but how are wind and earth related?"
 #
 <name "Lazlocke">
-「火と水は熱量の高い低い。
-　光と闇は対極。
-　風と土は、物体の運動と停止と考える」
+"Fire and water are potential versus expressed
+ energy. Light and dark are the antithesis of
+ each other. You can think of wind and earth as
+ motion and stability."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1679">
-「あ、なるほど。
-　納得です」
+"Ah, you're right.
+ I think I see."
 #
 <removesprite -1 11>
 <exit>
@@ -83,54 +85,56 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA1680">
-「風を操り、土を動かす。
-　土を操り、風を止める」
+"Command the wind, move the earth.
+ Command the earth, stop the wind."
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1681">
-「簡単そうに見えて、そうじゃない……」
+"It looks easy, but it's not."
 #
 <sprite "ta01d31.iph" 4 4 12>
 <name "Celes" "!AA1682">
-「魔法って奥が深い」
+"Magic is deep."
 #
 <name "Lazlocke">
-「まだまだ入り口付近だぞ」
+"You're still just scratching the surface."
 #
 <removesprite -1 11>
 <exit>
 :6BA
 <music 26>
 <background "bg002a0.iph" 11>
-　セリスは風と土の魔法練習をしていた。
+Celes is practicing wind and earth magic.
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA1683">
-「風と土、風と土……うーん」
+"Wind and earth... 
+ Wind and earth...
+ Hmmm..."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA1684">
-「うわっ、砂ボコリが……
-　うう、風も土も敵だぁ！」
+"Aah! The dust cloud...
+ Ohhh...
+ Wind and earth are enemies!"
 #
 <removesprite -1 11>
 <exit>
 :7C9
 <music 26>
 <background "bg002a0.iph" 11>
-　セリスは風と土の魔法練習をしていた。
+Celes is practicing wind and earth magic.
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA0415">
-「まだまだですね」
+"She still has a long way to go, doesn't she?"
 #
 <name "Lazlocke">
-「そうだが……
-　昔のお前も、あんな感じだったぞ」
+"Yeah, but you used to be like that too."
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA0416">
-「いえ、昔の私はもっと酷かったです」
+"No, I was far worse."
 #
 <removesprite -1 11>
 <exit>
@@ -139,38 +143,40 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA1685">
-「風の魔法っ！」
+"Wind magic!"
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA1686">
-「土の魔法っ！」
+"Earth magic!"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1687">
-「よし、良い感じ」
+"Okay, looking good."
 #
 <sprite "ta01a18.iph" 4 4 12>
 <name "Celes" "!AA1688">
-「ご褒美にオヤツをもぐもぐ……」
+"Now for a snack to reward myself mph mph..."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA1689">
-「よし、風の魔法っ！」
+"Okay!
+ Wind magic!"
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA1690">
-「土の魔法っ！」
+"Earth magic!"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1691">
-「うん、良い感じ」
+"Okay, looking good."
 #
 <sprite "ta01a18.iph" 4 4 12>
 <name "Celes" "!AA1692">
-「ご褒美にオヤツをもぐもぐ……」
+"Now for a snack to reward myself mph mph..."
 #
 <name "Lazlocke">
-「……その方法だと、太らないか？」
+"...Are you sure that method won't make you
+ fat?"
 #
 <removesprite -1 11>
 <exit>
@@ -179,23 +185,25 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1693">
-「風の魔法で、岩を持ち上げるんですか？」
+"Can you pick up rocks with wind magic?"
 #
 <name "Lazlocke">
-「ああ、風の苦手とする所を克服しつつ、土の魔法
-　の勉強をする方法だ」
+"Yeah. One of the ways to overcome the
+ weaknesses of wind magic is to study earth
+ magic."
 #
 <sprite "ta01d27.iph" 4 4 12>
 <name "Celes" "!AA1694">
-「土の魔法の勉強になるんですか？」
+"By studying earth magic?"
 #
 <name "Lazlocke">
-「風で持ち上げる時に、土の事を知るからだ。
-　ま、やってみればわかる」
+"To lift with the wind, you must know the earth.
+ Well, you'll understand it once you give it a
+ try."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1695">
-「はい、頑張ります」
+"Okay, I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -204,38 +212,38 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA1696">
-「師匠。
-　風と土の魔法なら、誰が協会で一番なんですか？」
+"Master, who's the best in the Guild when it
+ comes to wind and earth magic?"
 #
 <name "Lazlocke">
-「なにをもって一番とするかで大きく答えが変わる
-　が、魔法の威力だけで言うならヴィオラが一番じゃ
-　ないか？」
+"That depends on how you define the best.
+ If we're going by just raw power, I'd probably
+ say Viola."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA1697">
-「ヴィオラさんですか」
+"Miss Viola?"
 #
 <name "Lazlocke">
-「どうしたんだ？」
+"Is there some reason you ask?"
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1698">
-「いえ、その人を見て何か参考にならないかと思い
-　まして……」
+"No, I was just thinking I could observe them
+ and try to emulate them."
 #
 <name "Lazlocke">
-「うーん……
-　魔法使いってのは、特殊で変人ばかりだからな。
-　生活態度や思想から参考になる事は少ないと思う
-　ぞ」
+"Hmm... Wizards are a bunch of eccentrics and
+ oddballs. I'm not sure there are too many that
+ you should actually be looking up to."
 #
 <name "Lazlocke">
-「と言うか、参考にするな」
+"Which is to say, don't try to emulate any of
+ us."
 #
 <sprite "ta01d92.iph" 4 4 12>
 <name "Celes" "!AA1699">
-「わ、わかりました」
+"A-All right."
 #
 <removesprite -1 11>
 <exit>
@@ -244,16 +252,17 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d31.iph" 4 4 11>
 <name "Celes" "!AA1700">
-「地面に横になってると、大地の息遣いと風を感じ
-　られる……
-　魔法に役立つかな」
+"When I lie on the ground, I can feel the breath
+ of the earth and wind.
+ I wonder if that'll help my magic."
 #
 <name "Lazlocke">
-「まあ、そのまま寝なければな」
+"Well, as long as you don't fall asleep."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1701">
-「あはは……寝ませんよー」
+"Hahaha...
+ I won't."
 #
 <removesprite -1 11>
 <exit>
@@ -261,48 +270,49 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「……ん？
-　誰だ？」
+"Hm?
+ Who's over there?"
 #
 <sprite "ta02a01.iph" 4 4 11>
 <name "Elle" "!CA0163">
-「え、えっと……」
+"U-Um..."
 #
 <name "Lazlocke">
-「どうしたんだ？
-　隠れて……セリスなら……」
+"What's up?
+ Why are you hiding?
+ If you're looking for Celes..."
 #
 <removesprite -1 11>
-　言いかけて気付いた。
+Then I notice.
 #
-　イエルはセリスの練習風景を隠れて見ていたのだ。
+She's hiding and watching Celes practice.
 #
 <sprite "ta02a27.iph" 4 4 11>
 <name "Elle" "!CA0164">
-「あはは……
-　別に覗くつもりはなかったんですが、つい声を掛
-　けそびれて……」
+"Hahaha...
+ I didn't mean to spy, but I missed my chance
+ to not interrupt her..."
 #
 <name "Lazlocke">
-「そうか。
-　じゃあ、セリスに……」
+"I see.
+ Then I can just get her attention so you..."
 #
 <sprite "ta02a28.iph" 4 4 12>
 <name "Elle" "!CA0165">
-「い、いえ……」
+"N-No..."
 #
 <name "Lazlocke">
-「……黙っておこう」
+"...I guess I won't say anything."
 #
 <sprite "ta02a09.iph" 4 4 12>
 <name "Elle" "!CA0166">
-「ありがとうございます」
+"Thank you."
 #
 <removesprite -1 11>
-　そう言ってイエルは隠れた。
+She returns to hiding.
 #
 <name "Lazlocke">
-「……偵察は続けるんだ」
+"...Back to spying, huh?"
 #
 <exit>
 :14B4
@@ -310,26 +320,28 @@
 <background "bg004a0.iph" 11>
 <sprite "ta04a02.iph" 4 4 11>
 <name "Soshiette" "!DA0417">
-「風と土の同時練習ですか……
-　闇と光に並び、魔法の心髄と言われる部分ですね」
+"Practicing using wind and earth magic at the
+ same time? That's like using both dark and
+ light, said to be the very heart of magic."
 #
 <name "Lazlocke">
-「そうだな……」
+"Indeed."
 #
 <sprite "ta04a00.iph" 4 4 12>
 <name "Soshiette" "!DA0419">
-「それを魔法を始めて僅かでやらせるとは……
-　凄いですね」
+"And being able to do it after starting with
+ such little magic...
+ It's quite incredible."
 #
 <name "Lazlocke">
-「凄いってどっちだ？
-　やらせてる俺か？
-　やってるセリスか？」
+"What's the incredible part?
+ That I can do it?
+ Or that she can?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0420">
-「両方です。
-　良い師弟だと思います」
+"Both.
+ You're a splendid master and student."
 #
 <removesprite -1 11>
 <exit>
@@ -337,60 +349,61 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta05a01.iph" 4 4 11>
-<name "ルーン" "!EA0094">
-「頑張っているわね」
+<name "Rune" "!EA0094">
+"She's working hard, isn't she?"
 #
 <name "Lazlocke">
-「ええ、優秀な弟子ですから。
-　……今日はどんな御用ですか？」
+"Yes. She's a fine apprentice.
+ ...So what can I do for you today?"
 #
 <sprite "ta05a12.iph" 4 4 12>
-<name "ルーン" "!EA0095">
-「弟子の弟子の様子を見に来たのよ」
+<name "Rune" "!EA0095">
+"I wanted to see how my apprentice's apprentice
+ was doing."
 #
 <name "Lazlocke">
-「見るだけなら良いですよ。
-　どうぞ」
+"As long as you're only here to look.
+ Go wild."
 #
 <sprite "ta05a15.iph" 4 4 12>
-<name "ルーン" "!EA0096">
-「えー、教えても良いじゃない。
-　ソシエットも協力してるんでしょ」
+<name "Rune" "!EA0096">
+"Aww. Can't I teach her?
+ You let Soshiette help."
 #
 <name "Lazlocke">
-「ご自分に弟子が六人しか居ない理由、考えてくだ
-　さい」
+"Please consider why you only have six
+ apprentices."
 #
 <sprite "ta05a22.iph" 4 4 12>
-<name "ルーン" "!EA0098">
-「えっと……あれ？
-　どうして？」
+<name "Rune" "!EA0098">
+"Um... huh?
+ Why?"
 #
 <name "Lazlocke">
-「師匠は組織運営とかには、すっごく才能があると
-　思いますし、一人の魔法使いとしては非の打ち所
-　がありません」
+"When it comes to bureaucracy, your talent is
+ second to none, and as a wizard, you don't have
+ any weaknesses to speak of."
 #
 <sprite "ta05a12.iph" 4 4 12>
-<name "ルーン" "!EA0099">
-「あら」
+<name "Rune" "!EA0099">
+"My, my."
 #
 <name "Lazlocke">
-「でも、弟子を指導する才能は皆無だと思います。
-　六人全員、好き勝手に学んでいましたし」
+"But you have no talent for teaching whatsoever.
+ All six of us learned completely on our own."
 #
 <sprite "ta05a11.iph" 4 4 12>
-<name "ルーン" "!EA0100">
-「弟子の自立を促す、高度なテクニックよ」
+<name "Rune" "!EA0100">
+"Encouraging an apprentice's independence is a
+ very advanced technique."
 #
 <name "Lazlocke">
-「なるほど。
-　その高度なテクニックは大成功です。
-　ですから、セリスには手を出さないでくださいね」
+"Uh huh. And it's been such a great success.
+ So please don't mess with Celes."
 #
 <sprite "ta05a15.iph" 4 4 12>
-<name "ルーン" "!EA0101">
-「ぶーぶー」
+<name "Rune" "!EA0101">
+"Boo. Boo!"
 #
 <removesprite -1 11>
 <exit>
@@ -400,7 +413,8 @@
 \x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1C05: 
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1706">
-「頑張って、風と土の魔法の勉強をしよう」
+"I have to work hard.
+ Time to study wind and earth magic."
 #
 <removesprite -1 11>
 \x2B
@@ -408,7 +422,7 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1C7D: 
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1707">
-「よーし、風と土の魔法を勉強するぞ」
+"Okay, time to study wind and earth magic."
 #
 <removesprite -1 11>
 \x2B
@@ -416,7 +430,8 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1CF9: 
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1708">
-「風と土にどんな関係があるんだろう……」
+"I wonder what the relationship is between the
+ wind and the earth."
 #
 <removesprite -1 11>
 \x2B
@@ -424,7 +439,8 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1D73: 
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1709">
-「風と土って、関係無さそうなのに……」
+"But wind and earth don't seem to have anything
+ to do with each other..."
 #
 <removesprite -1 11>
 :1D73 + 1
