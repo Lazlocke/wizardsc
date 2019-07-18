@@ -43,23 +43,25 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「光を知りたければ、闇を。
-　闇を知りたければ、光を学べと昔から言われる」
+"To know the light, stand in the dark.
+ To know the dark, learn from the light.
+ That's what they've said since time
+ immemorial."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1710">
-「二つの属性が密接な関係にあるからですね」
+"It's because the two are closely related, 
+ right?"
 #
 <name "Lazlocke">
-「そうだ。
-　表裏一体……
-　しかし、だからこそ同時に使うのは至難の技。
-　光と闇の双方に、高い熟練度が必要となる」
+"That's right. They're two sides of the same
+ coin, but it's extremely difficult to wield
+ them at the same time. To use both light and
+ dark requires vast expertise."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1711">
-「はい。
-　頑張ります」
+"Okay. I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -67,39 +69,38 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「セリス、お茶でも飲むか？」
+"Celes, would you like some tea?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1712">
-「はい。
-　この練習が終ったら……」
+"Please, once I'm done with this exercise."
 #
 <name "Lazlocke">
-「冷めないウチにな」
+"Don't let it get cold."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1713">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
-　そう言いながら、お茶が冷めても練習を続けるセ
-　リスだった。
+...She kept practicing even as her tea got ice
+cold.
 #
 <exit>
 :61D
 <music 26>
 <background "bg002a0.iph" 11>
-　セリスは光と闇の魔法の練習をしていた。
+Celes is practicing light and dark magic.
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA1714">
-「光と闇……
-　闇と光……
-　むう……」
+"Light and dark...
+ Dark and light...
+ Mmmm..."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA1715">
-「目がチカチカしてきた」
+"My eyes sting."
 #
 <removesprite -1 11>
 <exit>
@@ -109,43 +110,43 @@
 \x2B
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0421">
-「闇と光の魔法は難しいですが、魔法使いの心髄で
-　もあります。
-　頑張ってください」
+"Dark and light magic are difficult, but they're
+ the heart of being a wizard.
+ Good luck."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA1716">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :83E
 <music 26>
 <background "bg002a0.iph" 11>
-　セリスは光と闇の魔法の練習を、黙々としていた。
+Celes is quietly practicing light and dark
+magic.
 #
 <sprite "ta04a08.iph" 4 4 11>
 <name "Soshiette" "!DA0422">
-「セリスさん。
-　休憩しませんか？」
+"Miss Celes, why don't you take a break?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a08.iph" 6 4 11>
 <name "Celes" "!AA1717">
-「休憩ですか？」
+"A break?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0423">
-「はい。
-　根を詰めても、良い成果はでません。
-　適度な休憩は、効率を上げます」
+"Yes. If you wind yourself up too tight, you
+ will only become more frustrated.
+ A short rest will reinvigorate you."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA1718">
-「わ、わかりました」
+"A-All right."
 #
 <removesprite -1 11>
 <exit>
@@ -154,56 +155,58 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a62.iph" 4 4 11>
 <name "Soshiette" "!DA0424">
-「光の玉は、こんな感じです。
-　そして闇の玉は……」
+"A ball of light will be like this.
+ And a ball of dark will be..."
 #
 <name "Lazlocke">
-「こうだ」
+"Like this."
 #
 <removesprite -1 11>
 <sprite "ta01a88.iph" 4 4 11>
 <name "Celes" "!AA1726">
-「むう……頑張ります」
+"Mmmm...
+ I'll try."
 #
-　……
+...
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0425">
-「助かりました、ご主人様」
+"Thank you, Your Grace."
 #
 <removesprite -1 11>
-　ソシエットは、同時に光と闇の魔法を操るのが苦
-　手だ。
+Soshiette's not good at using light and dark
+magic simultaneously.
 #
 <name "Lazlocke">
-「見栄は大事だからな」
+"Looks are important."
 #
 <exit>
 :C08
 <music 26>
 <background "bg002a0.iph" 11>
-　セリスは光と闇の魔法の練習を、黙々としていた。
+Celes is quietly practicing light and dark
+magic.
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA1720">
-「むむ……難しい」
+"Grrr... This is hard."
 #
 <name "Lazlocke">
-「アドバイスをしようか？」
+"Want some advice?"
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA1721">
-「いえ、もう少し後でお願いします」
+"No, let me try like this a little longer."
 #
 <name "Lazlocke">
-「よし、頑張れ」
+"Okay. Work hard."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1722">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
-　二時間後、アドバイスを求めにやってきた。
+Two hours later, she came to me for help.
 #
 <exit>
 :DBD
@@ -211,24 +214,24 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA1723">
-「光と闇をあやつるー！」
+"I can handle light and dark!"
 #
 <removesprite -1 11>
-　セリスは気合を入れて叫んだ。
+She shouts to psyche herself up.
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA1724">
-「あれ？」
+"Huh?"
 #
 <removesprite -1 11>
-　叫んだだけだった。
+...But it's just a shout.
 #
 <name "Lazlocke">
-「うーん、頑張るように」
+"Mmhmm. Keep at it."
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA1725">
-「む、難しい……」
+"I-It's hard..."
 #
 <removesprite -1 11>
 <exit>
@@ -237,31 +240,31 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1727">
-「どうですか？」
+"How's this?"
 #
 <removesprite -1 11>
-　セリスは光と闇の魔法を使い、自分をアピールし
-　ていた。
+Celes uses a light and dark spell in hopes of
+praise.
 #
 <name "Lazlocke">
-「悪くは無いが……」
+"It's not bad..."
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1728">
-「これでは？」
+"How about this?"
 #
 <removesprite -1 11>
-　セリスは光に色を混ぜた。
+She mixes color into the light.
 #
-　ピンク色だ。
+It turns a misty pink.
 #
 <name "Lazlocke">
-「おおっ……
-　艶かしい雰囲気になるな」
+"Ooh.
+ Very bewitching."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1729">
-「発見です」
+"Eureka."
 #
 <removesprite -1 11>
 <exit>
@@ -270,11 +273,11 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1730">
-「暗い時は光の魔法が便利ですけど、明るい時に闇
-　の魔法が便利な事ってありますか？」
+"Light magic is useful when it's dark, but
+ is dark magic useful when it's bright?"
 #
 <name "Lazlocke">
-「うーん……眩しくないとか」
+"Hmmm... Maybe so you're not blinded?"
 #
 <removesprite -1 11>
 <exit>
@@ -282,32 +285,36 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta05a05.iph" 4 4 11>
-<name "ルーン" "!EA0102">
-「闇と光の魔法と言えば、この私ね！」
+<name "Rune" "!EA0102">
+"When it comes to dark and light magic, I'm who
+ you want!"
 #
 <name "Lazlocke">
-「……帰ってください」
+"...Please leave."
 #
 <sprite "ta05a23.iph" 4 4 12>
-<name "ルーン" "!EA0103">
-「ええっ！」
+<name "Rune" "!EA0103">
+"Awww!"
 #
 <name "Lazlocke">
-「協会長をこんな所で働かせたら、ソシエットを含
-　め、協会関係者から何を言われるか……」
+"What would the people in the Guild say if they
+ found out not just Soshiette, but you were
+ hanging around and doing work somewhere like
+ this?"
 #
 <sprite "ta05a12.iph" 4 4 12>
-<name "ルーン" "!EA0104">
-「協会長じゃなくて、師匠って呼んで」
+<name "Rune" "!EA0104">
+"Don't think of me as the head of the Guild,
+ but as your master."
 #
 <name "Lazlocke">
-「はいはい。
-　師匠。
-　逃避してないで、職務に戻ってください」
+"Yeah, yeah, Master.
+ Quit hiding and go back to your actual job."
 #
 <sprite "ta05a20.iph" 4 4 12>
-<name "ルーン" "!EA0105">
-「ううう……冷たい」
+<name "Rune" "!EA0105">
+"Awwww...
+ So cruel."
 #
 <removesprite -1 11>
 <exit>
@@ -316,44 +323,44 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA1731">
-「師匠。
-　闇と光の魔法は、協会長が一番だと聞いたんです
-　けど、本当ですか？」
+"Master, I heard that the head of the Guild was
+ the best when it comes to dark and light magic.
+ Is that true?"
 #
 <name "Lazlocke">
-「ああ、かなりの腕だぞ。
-　ただ……一番かと言われたら、疑問だな」
+"Yeah, she's pretty skilled, but the best?
+ I'm not sure about that."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1732">
-「そうなんですか？」
+"Why?"
 #
 <name "Lazlocke">
-「ヴィオラが居るからな。
-　他にも、何人か居る」
+"There's Viola for one.
+ There are a few others too."
 #
 <name "Lazlocke">
-「でも、協会長の凄さはそこじゃない」
+"But that's not where her expertise lies."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA1733">
-「と言いますと？」
+"What do you mean?"
 #
 <name "Lazlocke">
-「組織運営に関しては、歴代の協会長の中では一番
-　だろうな」
+"Of all the past leaders of the Guild, she's the
+ best administrator the Guild's ever seen."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA1734">
-「なるほど……」
+"I see..."
 #
 <name "Lazlocke">
-「協会長にあったら、魔法じゃなくて組織運営に関
-　して教えて貰え」
+"If you want to learn from her, have her teach
+ you administration, not magic."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1735">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -361,49 +368,52 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta05a08.iph" 4 4 11>
-<name "ルーン" "!EA0107">
-「セリスに、私からは魔法じゃなくて組織運営を学
-　ぶように言ったって本当？」
+<name "Rune" "!EA0107">
+"Is it true that you told Celes to learn
+ administration from me instead of magic?" 
 #
 <name "Lazlocke">
-「ええ」
+"Yes."
 #
 <sprite "ta05a16.iph" 4 4 12>
-<name "ルーン" "!EA0108">
-「私は、貴方の、魔法の、師匠、なんだけど？」
+<name "Rune" "!EA0108">
+"I. Am. Your. Magic. Master.
+ Am I not?"
 #
 <name "Lazlocke">
-「師匠の魔法の技術の凄さは、理解しています。
-　しているからこそ、教えて貰っては困るのです」
+"I'm well aware of the greatness of your magic.
+ Which is exactly why I don't want you teaching
+ her it."
 #
 <sprite "ta05a15.iph" 4 4 12>
-<name "ルーン" "!EA0109">
-「なぜ？」
+<name "Rune" "!EA0109">
+"Why not?"
 #
 <name "Lazlocke">
-「高度過ぎる技を学んでも、使いこなすまでに時間
-　が掛かりますし、場合によっては有害になります
-　から」
+"Even if she can learn the highly advanced
+ spells, it takes far too long to master them,
+ and in some cases, is going to cause a setback
+ in her other areas."
 #
 <sprite "ta05a20.iph" 4 4 12>
-<name "ルーン" "!EA0110">
-「む、むう……」
+<name "Rune" "!EA0110">
+"Mmmmm..."
 #
 <name "Lazlocke">
-「セリスを心配してくれるのは嬉しいですが、見守っ
-　てください」
+"Thank you for worrying about her, but please
+ just watch from the side."
 #
 <sprite "ta05a23.iph" 4 4 12>
-<name "ルーン" "!EA0111">
-「わかったわよ。
-　でも、向こうから言って来た時は構わないでしょ」
+<name "Rune" "!EA0111">
+"Very well, but you better not raise a fuss
+ when I come to look in on her."
 #
 <name "Lazlocke">
-「その場合のみ、許可します」
+"As long as that's all you do, that's fine."
 #
 <sprite "ta05a13.iph" 4 4 12>
-<name "ルーン" "!EA0112">
-「やったー」
+<name "Rune" "!EA0112">
+"Yay!"
 #
 <removesprite -1 11>
 <exit>
@@ -412,48 +422,47 @@
 <background "bg002a0.iph" 11>
 <sprite "ta03a01.iph" 4 4 11>
 <name "Viola" "!BA0189">
-「闇と光の魔法練習……
-　なかなか、頑張っているわね」
+"Practicing dark and light magic?
+ She's working hard, isn't she?"
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta03a03.iph" 4 4 12>
 <name "Viola" "!BA0190">
-「でも、良いの？
-　魔法を始めて数年でやるには、難度が高いと思う
-　けど」
+"But are you sure about that?
+ I think that kind of magic is too difficult to
+ learn in just a couple years."
 #
 <name "Lazlocke">
-「クデュール魔法大会で優勝を狙うなら、それぐら
-　いしないとな」
+"The goal's to win at Coudures.
+ She'll have to at least be able to do that."
 #
 <name "Lazlocke">
-「それに、お前はもっと早くにやっていたぞ」
+"Besides, you learned faster than that."
 #
 <sprite "ta03a00.iph" 4 4 12>
 <name "Viola" "!BA0191">
-「あら、そうだったかしら？」
+"Oh my, did I?"
 #
 <name "Lazlocke">
-「ああ……
-　セリスはお前ほど天才じゃないが、努力面ではお
-　前に劣らない」
+"Yeah. She might not be a prodigy like you,
+ but she works harder than you ever did."
 #
 <sprite "ta03a18.iph" 4 4 12>
 <name "Viola" "!BA0192">
-「へぇ……」
+"Oh?"
 #
 <name "Lazlocke">
-「睨むな」
+"Don't glare."
 #
 <sprite "ta03a31.iph" 4 4 12>
 <name "Viola" "!BA0194">
-「だって……」
+"Uh huh..."
 #
 <removesprite -1 11>
-　俺は拗ねたヴィオラを宥めつつ、セリスの修行を
-　見守った。
+We watch Celes train while I try to cheer her
+up out of her sulk.
 #
 <exit>
 :1E9E
@@ -462,7 +471,8 @@
 \x2B\x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1F3E: 
 <sprite "ta01a92.iph" 4 4 11>
 <name "Celes" "!AA1739">
-「光と闇を同時に練習って、難しい」
+"Practicing light and dark magic at the same
+ time is hard."
 #
 <removesprite -1 11>
 \x2B
@@ -470,7 +480,7 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1FB6: 
 <sprite "ta01a89.iph" 4 4 11>
 <name "Celes" "!AA1740">
-「光と闇の魔法に関して、勉強します」
+"I'm going to study light and dark magic."
 #
 <removesprite -1 11>
 \x2B
@@ -478,8 +488,8 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :203B: 
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA1741">
-「わかりました。
-　光と闇の魔法の勉強をします」
+"All right.
+ I'll study light and dark magic."
 #
 <removesprite -1 11>
 \x2B
@@ -487,7 +497,8 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :20B9: 
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA1742">
-「光と闇って……扱い難い……けど頑張る！」
+"Light and dark...
+ They're hard, but I'll do my best!"
 #
 <removesprite -1 11>
 \x2B
@@ -495,7 +506,7 @@
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :212D: 
 <sprite "ta01a92.iph" 4 4 11>
 <name "Celes" "!AA1743">
-「光と闇って反発しそうですよね」
+"Light and dark are in conflict, right?"
 #
 <removesprite -1 11>
 \x2B
@@ -503,7 +514,8 @@
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :21A3: 
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1744">
-「光と闇を極めれば、無敵ですよね」
+"If I master light and dark, I'll be 
+ unstoppable!"
 #
 <removesprite -1 11>
 :21A3 + 1
