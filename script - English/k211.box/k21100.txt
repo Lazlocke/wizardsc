@@ -42,11 +42,12 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA1745">
-「違う魔法系統を、連続して詠唱……」
+"I'm supposed to chant spells of different
+ elements all in a row..."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA1746">
-「し、舌を噛むかも……」
+"W-What if I bite my tongue..."
 #
 <removesprite -1 11>
 <exit>
@@ -55,15 +56,16 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA1747">
-「うーん、色々な魔法をそれなりに熟練していない
-　と駄目なんですよね」
+"Hmmm... You're going to have problems unless
+ you're skilled in lots of different kinds of
+ magic, aren't you?"
 #
 <name "Lazlocke">
-「そうだな」
+"That's right."
 #
 <sprite "ta01d31.iph" 4 4 12>
 <name "Celes" "!AA1748">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -72,21 +74,24 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA1749">
-「本で予習したから大丈夫だと思ったんですけど」
+"I thought I was okay because I read all about
+ it."
 #
 <sprite "ta01d32.iph" 4 4 12>
 <name "Celes" "!AA1750">
-「なかなか、上手く行きません」
+"But it's not working."
 #
 <name "Lazlocke">
-「魔法は本だけじゃ無理だからな」
+"Learning magic just from books is impossible."
 #
 <name "Lazlocke">
-「しかし、本を読んでないと無理でもある」
+"But learning without doing the reading is also
+ impossible."
 #
 <sprite "ta01d31.iph" 4 4 12>
 <name "Celes" "!AA1751">
-「むう、頑張ります」
+"Grr.
+ I'll try my best."
 #
 <removesprite -1 11>
 <exit>
@@ -95,49 +100,52 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1752">
-「私が学んでいる魔法って、クデュール魔法大会に
-　出場して勝つ為の魔法ですよね」
+"The magic I'm learning will help me compete in
+ the Courdures Tournament and win, right?"
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA1753">
-「魔法の種類って他にもたくさんありますよね」
+"But there's also all kinds of other magic too?"
 #
 <name "Lazlocke">
-「もちろんだ」
+"Of course."
 #
 <sprite "ta01d90.iph" 4 4 12>
 <name "Celes" "!AA1754">
-「……魔法って奥が深い。
-　でも、頑張ります」
+"...Magic is deep.
+ But I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
 :7D8
 <music 26>
 <background "bg002a0.iph" 11>
-　火、水、風、土、雷、闇、光。
+Fire, water, wind, earth, lightning, dark,
+light.
 #
-　七つの属性の玉を同時に作り、コントロールする。
+Create and control seven spheres of each of the
+seven elements, all at the same time.
 #
-　難度の高い練習だ。
+It's a very difficult exercise to do.
 #
 <sprite "ta01a23.iph" 4 4 11>
 <name "Celes" "!AA1755">
-「んん……」
+"Nnnh..."
 #
 <removesprite -1 11>
-　その為か、セリスも苦労しているようだ。
+Which is why she's having such a hard time of
+it.
 #
 <name "Lazlocke">
-「動きが同じになっているぞ。
-　全部、違う動きにするように」
+"You're moving them as if they're one thing.
+ You need to control each one individually."
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA1756">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -146,18 +154,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a26.iph" 4 4 11>
 <name "Celes" "!AA1757">
-「ぬぬぬぬぬぬぬぬぬぬぬぬ……」
+"Nnnnnnnnnnnnnnnnngh..."
 #
 <removesprite -1 11>
-　セリスは、七系統の魔法を同時に操ろうとしてい
-　た。
+She's trying to wield all seven elements at the
+same time.
 #
 <name "Lazlocke">
-「かなり難しいから、焦らないようにな」
+"This is very hard to do.
+ Don't rush."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA1758">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -166,17 +175,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a41.iph" 4 4 11>
 <name "Celes" "!AA1759">
-「むーん」
+"Nnngh..."
 #
 <removesprite -1 11>
-　セリスは、俺の操る七系統の魔法の玉を見て唸る。
+She groans as she tries to control seven 
+elemental spheres at once.
 #
 <name "Lazlocke">
-「言っておくが、簡単にはやってないからな」
+"I told you, this isn't easy."
 #
 <sprite "ta01a41.iph" 4 4 11>
 <name "Celes" "!AA1760">
-「そうでしょうけど……むーん」
+"I know, but...
+ Nnngh..."
 #
 <removesprite -1 11>
 <exit>
@@ -185,21 +196,23 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1761">
-「ここにある空の箱。
-　蓋を閉じまして……ワン、ツー、スリー♪」
+"Here's an empty box.
+ Close the lid...
+ One, two, three...♪"
 #
 <name "Celes" "!AA1762">
-「はい！」
+"There!"
 #
 <removesprite -1 11>
-　空の箱から花束が出てきた。
+A bouquet of flowers appears from the empty
+box.
 #
 <name "Lazlocke">
-「凄いけど、それは魔法か？」
+"That's impressive, but was it magic?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1763">
-「魔法です」
+"It's magic."
 #
 <removesprite -1 11>
 <exit>
@@ -208,18 +221,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1764">
-「ここにある大きな空の箱。
-　蓋を閉じまして……ワン、ツー、スリー♪」
+"Here's a big empty box.
+ Close the lid...
+ One, two, three...♪"
 #
 <removesprite -1 11>
-　空の箱の中から、ソシエットが出てきた。
+Soshiette appears from inside the empty box.
 #
 <name "Lazlocke">
-「凄いけど、それは魔法か？」
+"That's impressive, but was it magic?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1765">
-「魔法です」
+"It's magic."
 #
 <removesprite -1 11>
 <exit>
@@ -228,18 +242,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA1766">
-「ここにあるかなり大きな空の箱。
-　蓋を閉じまして……ワン、ツー、スリー♪」
+"Here's a really big empty box.
+ Close the lid...
+ One, two, three...♪"
 #
 <removesprite -1 11>
-　空の箱の中から、巨大な岩が出てきた。
+A boulder appears from the empty box.
 #
 <name "Lazlocke">
-「おお、凄い！」
+"Oooh! Wow!"
 #
 <sprite "ta01a18.iph" 4 4 11>
 <name "Celes" "!AA1767">
-「いえ、これは手品です」
+"No, that was just a trick."
 #
 <removesprite -1 11>
 <exit>
@@ -248,112 +263,119 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA0426">
-「ご主人様」
+"Your Grace."
 #
 <name "Lazlocke">
-「ん？」
+"Hm?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0427">
-「セリスさんの成長、嬉しいですね」
+"Isn't it nice to see how much she's grown?" 
 #
 <name "Lazlocke">
-「……そうだな。
-　まあ、少し寂しくもあるが……」
+"I guess.
+ Well, it's a little sad too."
 #
 <sprite "ta04a02.iph" 4 4 12>
 <name "Soshiette" "!DA0428">
-「寂しいですか？」
+"Sad?"
 #
 <name "Lazlocke">
-「ああ、最初の頃は何をやっても駄目だったのが、
-　それなりに出来るようになるとな……」
+"She was so helpless when she started, no matter
+ what she tried. Now she can handle herself
+ almost without me..."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0429">
-「失敗していたセリスさんが可愛かったと」
+"She was adorable when she was messing up."
 #
 <name "Lazlocke">
-「セリスには言うなよ」
+"Don't tell her that."
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA0435">
-「大丈夫です。
-　まだまだ、見られますよ」
+"Don't worry.
+ You still have a long time left to watch over
+ her."
 #
 <removesprite -1 11>
 <exit>
 :12B3
 <music 26>
 <background "bg002a0.iph" 11>
-　俺はセリスの魔法の指導をした。
+I'm teaching Celes magic.
 #
 <sprite "ta05a01.iph" 4 4 11>
-<name "ルーン" "!EA0113">
-「……ラズロック」
+<name "Rune" "!EA0113">
+"Lazlocke."
 #
 <name "Lazlocke">
-「来てたのですか？」
+"You were here?"
 #
 <sprite "ta05a12.iph" 4 4 12>
-<name "ルーン" "!EA0114">
-「ええ、見てたわよ」
+<name "Rune" "!EA0114">
+"Yes, I've been watching."
 #
 <name "Lazlocke">
-「声を掛けてくれれば良いのに」
+"You should've said something."
 #
 <sprite "ta05a11.iph" 4 4 12>
-<name "ルーン" "!EA0116">
-「そうしようと思ったんだけどね、熱心にやってた
-　から邪魔しちゃ悪いかなぁって」
+<name "Rune" "!EA0116">
+"I meant to, but you know?
+ You were so engrossed that I couldn't bring
+ myself to interrupt."
 #
 <name "Lazlocke">
-「珍しく謙虚ですね」
+"You're being unusually humble."
 #
 <sprite "ta05a10.iph" 4 4 12>
-<name "ルーン" "!EA0117">
-「いつも謙虚よ。
-　……見てて思ったけど、学園の教師に戻る気は無
-　いの？」
+<name "Rune" "!EA0117">
+"I'm always humble.
+ I believe I already know the answer, but you
+ still won't come back and teach at the school?"
 #
 <name "Lazlocke">
-「ありません」
+"I won't."
 #
 <sprite "ta05a08.iph" 4 4 12>
-<name "ルーン" "!EA0118">
-「教え子を抱く気にはなれないと？」
+<name "Rune" "!EA0118">
+"Because you don't want to sleep with a
+ student?"
 #
 <name "Lazlocke">
-「ええ」
+"Right."
 #
 <sprite "ta05a11.iph" 4 4 12>
-<name "ルーン" "!EA0121">
-「セリスは抱いてるんでしょ」
+<name "Rune" "!EA0121">
+"You're sleeping with Celes."
 #
 <name "Lazlocke">
-「抱いてから、教えてます。
-　教えてから抱いたわけじゃありません」
+"I teach her after I sleep with her.
+ I don't sleep with her after I teach her."
 #
 <sprite "ta05a22.iph" 4 4 12>
-<name "ルーン" "!EA0122">
-「もう……変な所で硬いんだから」
+<name "Rune" "!EA0122">
+"Honestly.
+ You're stubborn about the strangest things."
 #
 <name "Lazlocke">
-「いえ、硬いんじゃありません。
-　教え子を抱いて喜ぶ自分に嫌気がするだけです」
+"It's not stubbornness. 
+ I hate that I enjoy having sex with my
+ student."
 #
 <sprite "ta05a13.iph" 4 4 12>
-<name "ルーン" "!EA0123">
-「そう……
-　まあ、セリスと仲良くやってくれればこっちも安心よ」
+<name "Rune" "!EA0123">
+"I see.
+ Well, as long as you're getting along with her,
+ I don't have anything to worry about."
 #
 <name "Lazlocke">
-「心配させてすみません」
+"I'm so sorry for worrying you."
 #
 <sprite "ta05a07.iph" 4 4 12>
-<name "ルーン" "!EA0124">
-「知ってるでしょ。
-　師匠は弟子の心配をするものなのよ」
+<name "Rune" "!EA0124">
+"I know you, you know?
+ A master worries about her apprentice."
 #
 <removesprite -1 11>
 <exit>
@@ -362,25 +384,26 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA1768">
-「師匠って、なんでも無難にこなしますよね」
+"Master, as longas it's safe, I'll try
+ anything."
 #
 <name "Lazlocke">
-「そうか？」
+"Oh?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA1769">
-「ええ……何かコツでもあるんですか？」
+"Yes. Do you know any secret tricks?"
 #
 <name "Lazlocke">
-「うーん、魔力に困らないから、実践練習をこれで
-　もかってぐらい出来た事かな」
+"Hmm. Since you don't need to worry about mana,
+ you could probably do some hands-on training."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA1770">
-「やはり練習あるのみですか」
+"Still just training?"
 #
 <name "Lazlocke">
-「もちろん」
+"Of course."
 #
 <removesprite -1 11>
 <exit>
@@ -390,7 +413,7 @@
 \x2B\x2E\x22\x00\x01 1  7 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1A83: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1774">
-「あらゆる魔法の勉強をします」
+"I'm going to study every kind of magic."
 #
 <removesprite -1 11>
 \x2B
@@ -398,7 +421,8 @@
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1AF7: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1775">
-「魔法の総合勉強、がんばります」
+"I'm studying all of magic.
+ I've got to work hard."
 #
 <removesprite -1 11>
 \x2B
@@ -406,7 +430,7 @@
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1B5F: 
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA1781">
-「欲張り勉強ですね」
+"Studying never ends, does it?"
 #
 <removesprite -1 11>
 \x2B
@@ -414,7 +438,7 @@
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1BD7: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1777">
-「はい、総合的に魔法の勉強をします」
+"Okay, I'll study every kind of magic."
 #
 <removesprite -1 11>
 \x2B
@@ -422,7 +446,7 @@
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1C45: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1778">
-「全ての魔法を勉強します」
+"I'm going to study all magic."
 #
 <removesprite -1 11>
 \x2B
@@ -430,7 +454,7 @@
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1CBD: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1779">
-「バランス良く、魔法の勉強をします」
+"It's good to balance your magical studies."
 #
 <removesprite -1 11>
 \x2B
@@ -438,7 +462,7 @@
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :1D29: 
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1780">
-「魔法勉強、頑張ります」
+"I'll study magic hard."
 #
 <removesprite -1 11>
 :1D29 + 1
