@@ -130,48 +130,53 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「かなり強くなったな」
+"You've gotten pretty good."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0533">
-「そうですか？
-　えへへ……嬉しいです」
+"Really?
+ Hahaha...
+ I'm glad."
 #
 <name "Lazlocke">
-「ああ……
-　魔力を良い感じで身体の活性化に使えている」
+"Yeah. You should be confident in your ability
+ to use the mana inside you now."
 #
 <name "Lazlocke">
-「見た目からは想像もできない破壊力だろうな。
-　恐ろしい」
+"You've got a lot of power hiding in a very
+ unassume package.
+ It's kind of scary."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA0534">
-「そんな、まだまだですよ」
+"No way. I still have a long way to go."
 #
 <name "Lazlocke">
-「そうか……
-　じゃあ、俺が悶絶して倒れてるのはなぜなんだろ
-　うな？」
+"Maybe...
+ Then how did you just knock me out?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0535">
-「喋れてるから大丈夫ですよ」
+"You can still talk.
+ You're fine."
 #
 <name "Lazlocke">
-「喋れるのに、身体が全然動かないのが逆に怖いん
-　だけど……」
+"Maybe I can, but what scares me is that I'm
+ too beat up to move."
 #
 <removesprite -1 11>
-　本当にセリスは強くなった。
+She has become truly powerful.
 #
-　油断すると、一撃で沈められるぐらいに。
+If she caught me with my guard down, she could
+take me out in a single attack.
 #
-　魔法じゃない分、魔力の浪費も抑えられるだろう
-　し、これならクデュール魔法大会でも戦える。
+After a life with no magic, now that she has a
+surplus of mana, she goes kind of wild with it.
+She can certainly fight in the Coudures
+Tournament that way though.
 #
-　そう思いながら、俺は協会の医療班を呼ぶように
-　セリスに頼んだ。
+As I think about that, I ask her to call the
+Guild's trauma team.
 #
 <exit>
 :C8D
@@ -179,15 +184,15 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA0536">
-「強くなったかな……」
+"I think I'm getting stronger..."
 #
 <sprite "ta01d20.iph" 4 4 12>
 <name "Celes" "!AA0537">
-「でも、この程度じゃ……」
+"But this isn't nearly enough..."
 #
 <sprite "ta01d21.iph" 4 4 12>
 <name "Celes" "!AA0538">
-「もっと頑張らないと」
+"I have to work harder."
 #
 <removesprite -1 11>
 <exit>
@@ -195,29 +200,31 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Lazlocke">
-「ソシエット」
+"Soshiette."
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0192">
-「なんですか？」
+"Yes?"
 #
 <name "Lazlocke">
-「セリス、鍛えすぎじゃないか？
-　魔法使いと言うより、格闘家や武術家のレベルだ
-　ぞ」
+"Don't you think Celes is over-trained?
+ She's more of a martial artist or brawler than
+ a wizard now."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0199">
-「魔力を使って肉体を強化しての格闘や武術です。
-　魔法使いである事には代わりません」
+"A true martial artist uses mana to enhance
+ themselves as they fight. It doesn't prevent
+ one from being a wizard."
 #
 <name "Lazlocke">
-「そうだろうけどな……」
+"That's true, but still..."
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA0194">
-「目的は、クデュール魔法大会での優勝です。
-　この位では、足りないぐらいです」
+"Her goal is to win the Coudures Tournament.
+ Considering that, she still hasn't trained
+ enough."
 #
 <removesprite -1 11>
 <exit>
@@ -226,22 +233,22 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01b07.iph" 4 4 11>
 <name "Celes" "!AA0539">
-「師匠。
-　ここはどういう事ですか？」
+"Master, what does this mean?"
 #
 <name "Lazlocke">
-「あ、ああ……ちょっと待ってくれ」
+"O-Oh, give me a moment."
 #
 <removesprite -1 11>
-　最近、セリスは魔法に関して熱心に勉強をしてい
-　る。
+Celes has been studying hard lately.
 #
-　わからない事があれば、自分で調べるし、解釈で
-　解らない所があれば俺に聞きに来る。
+When there's something she doesn't understand,
+she looks it up, but she comes to me when even
+that's not enough.
 #
-　お陰で、俺は寝不足だ。
+Thanks to that, I haven't been getting much
+sleep.
 #
-　まあ、熱心な事は良い事だ。
+Well, I'm glad she's passionate about it.
 #
 <exit>
 :1161
@@ -249,11 +256,13 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01b27.iph" 4 4 11>
 <name "Celes" "!AA0540">
-「うう……もっと勉強しないと、全然駄目……」
+"Oohh...
+ I won't be able to handle this at all unless I
+ study more."
 #
 <sprite "ta01b32.iph" 4 4 12>
 <name "Celes" "!AA0541">
-「時間が、時間が足りない……」
+"There's just not enough time..."
 #
 <removesprite -1 11>
 <exit>
@@ -262,18 +271,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0195">
-「最近のセリスさん。
-　魔法に関して熱心ですね」
+"Celes has been quite ardent about magic lately,
+ hasn't she?"
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0196">
-「そろそろ、魔法の怖さを教える時期では？」
+"Aren't you due to teach her how scary magic
+ can be?"
 #
 <name "Lazlocke">
-「セリスは、それも解っている筈だ」
+"I'm sure she already knows."
 #
 <removesprite -1 11>
 <exit>
@@ -282,43 +292,47 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0542">
-「アルバイトに行ってきます」
+"I'm leaving for my job."
 #
 <name "Lazlocke">
-「お、おう……」
+"Y-Yeah..."
 #
 <removesprite -1 11>
-　セリスは元気にアルバイトに向かった。
+She cheerfully goes to work.
 #
-　それは悪く無い。
+That's not a bad thing.
 #
-　悪く無いが……
+It's not, but...
 #
-　目的を忘れてないだろうか。
+I feel like we've forgotten her purpose.
 #
-　クデュール魔法大会に出て、優勝する事。
+She's supposed to be training to win the
+Coudures Tournament.
 #
-　そして、協会に認められて実家を取り戻す事。
+And be accepted by the Guild to win back her
+family home.
 #
-　それなのに、ここしばらくはアルバイトばかり。
+But all she's been doing for a while is working
+regular jobs.
 #
-　アルバイトのやり過ぎではないだろうか。
+Maybe she's overdoing it.
 #
-　まあ、アルバイトもただの資金稼ぎ以外に修行に
-　なるように選んでいるが……
+Well, I did choose jobs that would help her
+train while she earns money.
 #
-　だ、大丈夫だろう。
+M-Maybe it'll be okay.
 #
-　うん、信じる事にしよう。
+Yeah, let's have faith.
 #
 <exit>
 :15D3
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「うーん、セリスにアルバイトばかりさせているな」
+"Hmm... Celes shouldn't just be working all the
+ time."
 #
-　少し、反省。
+I should rethink this.
 #
 <exit>
 :1644
@@ -326,52 +340,51 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a58.iph" 4 4 11>
 <name "Celes" "!AA0543">
-「師匠♪」
+"Master.♪"
 #
 <name "Lazlocke">
-「ん？
-　どうした？」
+"Hm? What is it?"
 #
 <sprite "ta01a50.iph" 4 4 12>
 <name "Celes" "!AA0544">
-「こんな本を見つけたんですけど……」
+"I found this book..."
 #
 <name "Lazlocke">
-「なんだ？
-　………………」
+"Yes?
+ ........."
 #
 <removesprite -1 11>
-　本の内容は、かなりハードなプレイ紹介だった。
+The book is an introduction to hardcore S&M.
 #
 <name "Lazlocke">
-「やりたいのか？」
+"You want to try this?"
 #
 <sprite "ta01a58.iph" 4 4 11>
 <name "Celes" "!AA0545">
-「師匠は、どうですか？」
+"What about you?"
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　とりあえず、やってみた。
+We tried it.
 #
 <sprite "ta01a80.iph" 4 4 11>
 <name "Celes" "!AA0546">
-「い、痛いだけでした……」
+"I-It just hurt..."
 #
 <name "Lazlocke">
-「だろうな」
+"That's what I thought."
 #
 <sprite "ta01a79.iph" 4 4 12>
 <name "Celes" "!AA0547">
-「普通のが良いです」
+"Normal is fine."
 #
 <name "Lazlocke">
-「わかった」
+"All right."
 #
 <removesprite -1 11>
-　俺はいつも通り、セリスの相手をした。
+I spend some time normally with her.
 #
 <exit>
 :1950
@@ -379,21 +392,23 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a75.iph" 4 4 11>
 <name "Celes" "!AA0548">
-「むう……これか……それとも……こっちかな……」
+"Hmm...
+ This?
+ Or... like this?"
 #
 <removesprite -1 11>
-　セリスは熱心に本を読んでいた。
+Celes is reading eagerly.
 #
-　良い事だと思っていた。
+My first thought was that I was proud of her.
 #
-　その本の内容を見るまでは。
+Then I saw the title of the book.
 #
-“夜の生活を革命するテクニック本”
+Techniques to Revolutionize Your Night Life.
 #
 <name "Lazlocke">
-「……」
+"..."
 #
-　見なかった事にした。
+I saw nothing.
 #
 <exit>
 :1A98
@@ -401,82 +416,81 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a58.iph" 4 4 11>
 <name "Celes" "!AA0549">
-「師匠♪」
+"Master.♪"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「うおっ」
+"Whoa."
 #
-　び、ビックリした……
+S-She surprised me.
 #
 <name "Lazlocke">
-「きゅ、急に耳を噛まないで欲しいな」
+"D-Don't bite my ear out of nowhere."
 #
 <sprite "ta01a60.iph" 4 4 11>
 <name "Celes" "!AA0550">
-「師匠♪」
+"Master.♪"
 #
 <removesprite -1 11>
-　だ、駄目だ……目がトロンとしている。
+I-It's useless.
+Her eyes are totally glazed over.
 #
-　エロモードのセリスだ。
+She's in complete sex mode.
 #
 <name "Lazlocke">
-「しゅ、修行。
-　頑張ろうな」
+"Y-You should practice.
+ Work hard."
 #
 <sprite "ta01a58.iph" 4 4 11>
 <name "Celes" "!AA0551">
-「はい♪」
+"Yes, sir.♪"
 #
 <name "Lazlocke">
-「そう返事をしながら、どうして俺の股間を弄って
-　るのかな？」
+"You say that, so why are you playing with my
+ dick?"
 #
 <sprite "ta01a49.iph" 4 4 12>
 <name "Celes" "!AA0552">
-「嫌いですか？」
+"You don't like it?"
 #
 <name "Lazlocke">
-「えっとだな」
+"Well..."
 #
 <removesprite -1 11>
-　……
+...
 #
-　これはセリスの欲求不満か？
+Maybe she's frustrated.
 #
-　確かにこれまでセリス相手にエロい事を多くして
-　いたが、最近はやっていない。
+I did have sex with her a lot for a long time,
+but haven't been doing it recently.
 #
-　では、やはり欲求不満だろう。
+So it probably is frustration.
 #
-　なら、解決策も……
+Which means I know the fix.
 #
-　俺はセリスをベッドに連れていって、欲求不満を
-　解消した。
+I take her to bed and deal with her frustration.
 #
 <background "bg024a0.iph" 10>
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0553">
-「おはようございます。
-　師匠」
+"Good morning, Master."
 #
 <name "Lazlocke">
-「よし、元に戻ったな」
+"Good, you're back to normal."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0554">
-「はい？」
+"What?"
 #
 <name "Lazlocke">
-「いや、良いんだ」
+"No, it's nothing."
 #
 <removesprite -1 11>
-　エロは控えつつ、適度に相手してやろう。
+Everything in moderation.
 #
-　そう思う俺だった。
+That's my motto.
 #
 <exit>
 :1F8A
@@ -484,24 +498,25 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a72.iph" 4 4 11>
 <name "Celes" "!AA0555">
-「最近、相手してくれません」
+"You haven't been with me lately."
 #
 <name "Lazlocke">
 「え？」
 #
 <removesprite -1 11>
 <background "bg003a0.iph" 11>
-　俺がなんの事だと聞き返すと、セリスは俺の手を
-　取ってベッドのある場所に連れて来た。
+Before I can ask her what she's talking about,
+she takes me by the hand and brings me to the
+bed.
 #
 <sprite "ta01a72.iph" 4 4 11>
 <name "Celes" "!AA0556">
-「最近、相手してくれません」
+"You haven't been with me lately."
 #
 <removesprite -1 11>
-　……
+...
 #
-　とりあえず、セリスを押し倒した。
+Well, anyway, I push her down.
 #
 <exit>
 :211B
@@ -509,23 +524,22 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a70.iph" 4 4 11>
 <name "Celes" "!AA0557">
-「師匠……そろそろ、その、魔力を頂けますか？」
+"Master, can't I, um... have mana soon?"
 #
 <name "Lazlocke">
-「ん？
-　そうだな……」
+"Hm? Let's see..."
 #
-　確かにセリスの魔力は少ない。
+She certainly is low on mana.
 #
 <sprite "ta01a74.iph" 4 4 12>
 <name "Celes" "!AA0558">
-「お願いします」
+"Please."
 #
 <name "Lazlocke">
-「わかった」
+"All right."
 #
 <removesprite -1 11>
-　俺はセリスを押し倒した。
+I push her down.
 #
 <exit>
 :2275
@@ -533,35 +547,35 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a52.iph" 4 4 11>
 <name "Celes" "!AA0559">
-「師匠、エロい事をしましょう」
+"Master, let's have sex."
 #
 <name "Lazlocke">
-「魔力は十分だろ」
+"You have enough mana."
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA0560">
-「いえ、性的な方向で」
+"No, for sex's sake."
 #
 <name "Lazlocke">
-「欲求不満か？」
+"You're unsatisfied?"
 #
 <sprite "ta01a60.iph" 4 4 12>
 <name "Celes" "!AA0561">
-「不満です」
+"I am."
 #
 <name "Lazlocke">
-「エロエロだな」
+"Sexy girl."
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA0562">
-「こんな身体にしたのは師匠です。
-　責任を取ってください」
+"You're the one who made me like this.
+ Please take responsibility for it."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　とりあえず、セリスを押し倒した。
+Anyway, I push her down.
 #
 <exit>
 :2495
@@ -569,19 +583,18 @@
 <background "bg004a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0197">
-「セリスさん。
-　実践、頑張っていますね」
+"She's training hard, isn't she?"
 #
 <name "Lazlocke">
-「そうだな。
-　感心するぐらいだ」
+"Yeah, I'm proud of her."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0200">
-「ですが、危険も大きいですから注意してください」
+"However, it's also quite dangerous.
+ Please take care."
 #
 <name "Lazlocke">
-「わかっている」
+"I know."
 #
 <removesprite -1 11>
 <exit>
@@ -590,19 +603,19 @@
 <background "bg004a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0201">
-「セリスさん。
-　実践のやり過ぎではありませんか？」
+"Don't you think she's training too hard?"
 #
 <name "Lazlocke">
-「効率を考えると、実践が一番良いんだ」
+"I believe we're training in the most efficient
+ way."
 #
 <sprite "ta04a24.iph" 4 4 12>
 <name "Soshiette" "!DA0208">
-「悪い事ではありませんが……
-　危険も大きいですよ」
+"That may not be bad, but it may also be quite
+ dangerous."
 #
 <name "Lazlocke">
-「ああ、注意はする」
+"Yeah, I'll be careful."
 #
 <removesprite -1 11>
 <exit>
@@ -611,21 +624,19 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0203">
-「セリスさん。
-　大会とかによく出ていますね」
+"She did well at the tournament."
 #
 <name "Lazlocke">
-「ああ。
-　良い感じだろ」
+"Yeah. It's a good feeling."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0204">
-「はい。
-　ですが、あまり大会に慣れすぎるのも心配です」
+"Yes, but I'm worried she'll get too used to
+ the tournament setting."
 #
 <name "Lazlocke">
-「実戦とは違うからな。
-　まあ、その辺りも注意しながら指導していくさ」
+"It is different from actual combat.
+ Well, we'll keep that in mind and be careful."
 #
 <removesprite -1 11>
 <exit>
@@ -634,10 +645,11 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA0563">
-「ええと、今度の大会はいつだったかな」
+"Umm... When's the next tournament?"
 #
 <removesprite -1 11>
-　大会への出場が楽しくなってきたセリスだった。
+She's having a lot of fun competing against
+other people.
 #
 <exit>
 :2984
@@ -645,12 +657,12 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA0564">
-「大会……
-　もっともっと勝ちたい！」
+"A tournament...
+ I want to win even more!"
 #
 <removesprite -1 11>
-　大会への出場が、さらに楽しくなってきたセリス
-　だった。
+She's certainly enjoying participating in these
+tournaments.
 #
 <exit>
 :2A48
@@ -658,14 +670,15 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0565">
-「良い感じね」
+"That felt good."
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA0566">
-「さて、次はどの塔にしようかな」
+"Okay, which tower should I visit next?"
 #
 <removesprite -1 11>
-　塔に挑戦する事に、楽しさを覚えたセリスだった。
+She's learning how much fun it is to conquer
+the towers.
 #
 <exit>
 :2B3D
@@ -673,22 +686,22 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0567">
-「うーん」
+"Hmmm..."
 #
 <removesprite -1 11>
-　セリスは悩んでいた。
+She's worried about something.
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA0568">
-「次は、どの塔に挑戦しようかしら」
+"Which tower should I challenge next?"
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA0569">
-「同じ塔でも、楽しいのよねぇ」
+"Even doing the same one again could be fun."
 #
 <removesprite -1 11>
-　塔に挑戦する事に、さらに楽しさを覚えたセリス
-　だった。
+She's having even more fun than usual conquering
+the towers.
 #
 <exit>
 :2CB5
@@ -696,11 +709,12 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0570">
-「最近、遊んでばかり……良いのかな」
+"I've just been resting lately...
+ Is that okay?"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0571">
-「少し不安になっちゃう……」
+"I'm starting to get nervous about it..."
 #
 <removesprite -1 11>
 <exit>
@@ -709,13 +723,14 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0572">
-「最近、休んでばかり……良いのかな」
+"Lately I've just been resting...
+ Is that okay?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0573">
-「師匠の事だから、なにか考えがあるのよね。
-　うん。
-　信じてついていこう」
+"He must have some reason for it.
+ Yeah.
+ I'll trust that he knows best."
 #
 <removesprite -1 11>
 <exit>
@@ -723,40 +738,40 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「うーん……」
+"Hmm..."
 #
-　俺は少し悩んでいた。
+I'm a little concerned.
 #
-　何に悩んでいるか？
+About what?
 #
-　それはセリスだ。
+Well, Celes.
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA0574">
-「す、すみません。
-　寝坊しました」
+"I-I'm sorry.
+ I overslept."
 #
 <removesprite -1 11>
-　最近のセリスはダレている。
+She's gotten lazy lately.
 #
-　まあ、娯楽や休憩ばかりで緊張しろと言う方が無
-　茶かもしれない。
+Well, maybe that's because I've been having her
+do nothing but rest and have fun lately.
 #
-　少し、反省。
+I may need to rethink things.
 #
 <exit>
 :2FF2
 <music 10>
 <background "bg004a0.iph" 11>
 <name "Celes" "!AA0575">
-「すやすやー……」
+"Zzzzz..."
 #
-　思いっきり、ダレている。
+She's fast asleep and it's almost noon.
 #
-　まあ、娯楽や休憩ばかりで緊張しろと言う方が無
-　茶かもしれない。
+Well, maybe that's because I've been having her
+do nothing but rest and have fun lately.
 #
-　少し、反省。
+I may need to rethink things.
 #
 <exit>
 :30AE
@@ -764,94 +779,101 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA0576">
-「師匠、お金がいっぱいあります」
+"Master, we have a lot of money."
 #
 <name "Lazlocke">
-「あるな」
+"We do."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0578">
-「どう、運用しましょう？」
+"What are you going to do with it?"
 #
 <name "Lazlocke">
-「…………お、俺に運用させるな。
-　できるなら、貧乏やってない」
+"D-Don't let me manage it.
+ If you do, we'll end up poor."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0580">
-「そ、そうですね」
+"Y-Yeah."
 #
 <name "Lazlocke">
-「素直に納得されても悲しいが……」
+"I'm not sure I like that you just accepted
+ that..."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0581">
-「とりあえず、土地の購入を検討しましょう。
-　世の中、最後は土地です」
+"Anyway, we should think about investing in
+ land. Land is everything in this world."
 #
 <name "Lazlocke">
-「しかし……土地なんか、腐るほどあるだろう。
-　捨て値で売られてるぞ」
+"But there's more land than anybody knows what
+ to do with. They're practically giving it
+ away."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0582">
-「だからです。
-　人は増え続けます。
-　人が増えれば、土地が必要になります」
+"That's all the more reason why.
+ The population will keep growing, and more
+ people means they need more land."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0583">
-「私の計算では、五百年後には土地は金よりも高価
-　になります」
+"By my calculation, within 500 years, land will
+ be more valuable than gold."
 #
 <name "Lazlocke">
-「かなり長期的な運用計画だな」
+"That's a pretty long term plan."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0584">
-「長期になればなるほど、運用は堅実なんです」
+"The longer your plan is, the more reliable it
+ is."
 #
 <name "Lazlocke">
-「その前に国が滅びなければ良いが……」
+"Assuming the kingdom survives that long."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA0585">
-「国が滅びても、その土地の所有権は主張できます。
-　力尽くで来るなら迎え撃ちましょう」
+"Even if it falls, you can still insist on your
+ property rights. If someone attacks, you fight
+ back at full force."
 #
 <name "Lazlocke">
-「ご、五百年、生きる気か？」
+"Y-You plan on still being around 500 years
+ from now?"
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA0586">
-「生き延びて見せます」
+"I'll survive."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　その後、俺とセリスは真剣に土地購入プランを練っ
-　た。
+After that, we seriously drew out a land 
+purchase plan.
 #
 <background "bg020a0.iph" 11>
-　翌朝、冷静になって赤面した。
+The next morning, we sobered up and were
+embarrassed.
 #
 <background "bg002a0.iph" 11>
 <sprite "ta01a97.iph" 4 4 11>
 <name "Celes" "!AA0587">
-「さ、流石に五百年はないですよね」
+"F-Five hundred years is too long, isn't it?"
 #
 <name "Lazlocke">
-「だな」
+"Yeah."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0588">
-「う、運用はもう少し後で考えましょう。
-　とりあえずは、クデュール魔法大会です」
+"L-Let's think about what to do with the money
+ later. For now, we should concentrate on 
+ winning the Coudures Tournament."
 #
 <name "Lazlocke">
-「お、おう！
-　頑張れ！」
+"Y-Yeah!
+ Good luck!"
 #
 <removesprite -1 11>
 <exit>
@@ -859,18 +881,18 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「お金があるな」
+"We've got a lot of money."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0589">
-「はい」
+"Yeah."
 #
 <name "Lazlocke">
-「……大事にしよう」
+"Let's take good care of it."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0590">
-「はい」
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -879,23 +901,23 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA0899">
-「師匠……」
+"Master..."
 #
 <name "Lazlocke">
-「セリス……」
+"Celes..."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA0900">
-「お金がありませんね」
+"We're out of money."
 #
 <name "Lazlocke">
-「ああ……」
+"Yeah..."
 #
 <removesprite -1 11>
-　お金が無いのは色々と困る。
+Being poor brings a lot of problems.
 #
-　セリスにはアルバイトをして貰って……
-　俺は、俺で頑張らないと。
+Celes has her jobs, but...
+I've got to work harder too.
 #
 <exit>
 :3A18
@@ -903,25 +925,25 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA0591">
-「師匠、魔力が身体をみなぎります」
+"Master, my body is full of mana."
 #
 <name "Lazlocke">
-「手に入れた魔力なんだから、惜しまずに使えば良
-　いのに……」
+"Now that you have it, you should use it without
+ regret."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA0592">
-「あはは……
-　勿体無くて……」
+"Hahaha...
+ It kind of seems like a waste."
 #
 <name "Lazlocke">
-「……使う事にも慣れろ
-　補充はいくらでもしてやる」
+"Use it and get used to it, and then I'll give
+ you more."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0593">
-「は、はい。
-　頑張ってみます」
+"Y-Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -929,61 +951,63 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「うーむ」
+"Hmmm..."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0594">
-「なんですか？」
+"Yes?"
 #
 <name "Lazlocke">
-「いや、お前が俺よりも高位だから……
-　なにをどう教えようかと思って」
+"Oh, it's just that you're a higher rank than
+ me now. I was wondering how I should be
+ teaching you."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0595">
-「いつも通りにお願いします」
+"The same as usual, please."
 #
 <name "Lazlocke">
-「しかしだな……」
+"But, you know..."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0596">
-「私の師匠は師匠だけです。
-　これからもよろしくお願いします」
+"My master is my master.
+ That's all.
+ Please keep taking care of me."
 #
 <name "Lazlocke">
-「そうか……わかった。
-　これからも、よろしくな」
+"I see. All right.
+ I look forward to continuing working with you."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0597">
-「はい」
+"Yep."
 #
 <removesprite -1 11>
 <exit>
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「一等魔法使い。
-　セリスは高みに到達してしまったなぁ」
+"You're a first class wizard.
+ You've reached the highest rank possible."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0598">
-「ランクなんて飾りですよ」
+"Rank is just a decoration."
 #
 <name "Lazlocke">
-「確かにそうだが……」
+"That's true..."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0599">
-「どんなランクだって、私は私です」
+"Whatever rank I am, I'm me."
 #
 <removesprite -1 11>
-　そういって、セリスは俺に抱きついてきた。
+She clings to me.
 #
-　確かに、変わらない。
+That part of her hasn't changed at all.
 #
-　そんなセリスの頭を、俺は優しく撫でた。
+I gently pat her head.
 #
 <exit>
 \x78

@@ -98,15 +98,15 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0424">
-「新年、明けましておめでとうございます」
+"Happy New Year!"
 #
 <name "Lazlocke">
-「おめでとう。
-　今年も一年、頑張るように」
+"Happy New Year.
+ Keep up the hard work all this year too."
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA0425">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -114,77 +114,78 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「ハッピーニューイヤー♪」
+"Happy New Year!♪"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0426">
-「おめでとうございます。
-　今年もよろしくお願いします」
+"Happy New Year.
+ Please keep watching over me for this year
+ too."
 #
 <name "Lazlocke">
-「うむ。
-　さあ、酒を飲もう。
-　後でヴィオラの家にも襲撃だ」
+"Mmhmm.
+ Now, let's have a drink.
+ After that, we'll raid Viola's place."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0427">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <sprite "ta02a04.iph" 4 4 11>
 <name "Elle" "!CA0048">
-「その必要は無いわ！」
+"There's no need for that!"
 #
 <name "Lazlocke">
-「うおっ、先に襲撃されたー」
+"Aah! We were struck first!"
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 2 4 11>
 <sprite "ta02a04.iph" 6 5 11>
 <name "Viola" "!BA0133">
-「おめでとう。
-　……かなり酔ってるわね」
+"Happy New Year.
+ Pretty drunk already, are we?"
 #
 <name "Lazlocke">
-「いや、酔ってないぞ。
-　酔ってない。
-　だから……」
+"Nah, I'm not drunk.
+ I'm not.
+ So..."
 #
 <sprite "ta03a34.iph" 2 4 12>
 <name "Viola" "!BA0134">
-「えっ」
+"Eh?"
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta02a16.iph" 4 4 11>
 <name "Elle" "!CA0049">
-「こらぁぁっ！
-　なに、師匠を押し倒してるのよ！
-　離れなさいっ！
-　師匠も硬直してないで抵抗してください」
+"Hey! Don't go pushing my master down!
+ Get off her! And Master, don't just let him
+ do it! Stop him!"
 #
 <name "Viola" "!BA0135">
-「あ、そ、そうね」
+"Oh, I-I suppose."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta02a16.iph" 6 4 11>
 <name "Celes" "!AA0428">
-「イエルちゃん、ヴィオラさん。
-　お酒とお料理を出します。
-　どうぞ」
+"Elle, Miss Viola, I'll bring out drinks and
+ food.
+　Help yourselves."
 #
 <sprite "ta02a20.iph" 6 4 12>
 <name "Elle" "!CA0051">
-「ありがとう。
-　あと、セリスの師匠を縛るの、手伝ってくれない」
+"Thank you. 
+ And then can you help me tie your master up?"
 #
 <sprite "ta01a92.iph" 2 5 12>
 <name "Celes" "!AA0429">
-「あはは……」
+"Hahaha..."
 #
 <removesprite -1 11>
-　賑やかなウチに、新年初日を終えた。
+We welcome the first day of the new year with
+a lively party.
 #
 \x0A\x04\x01\x04\x84\x01
 <exit>
@@ -193,29 +194,30 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0430">
-「明けましておめでとうございます。
-　今年も一年、よろしくお願いします」
+"Happy New Year!
+ I'm looking forward to spending another year
+ with you."
 #
 <name "Lazlocke">
-「ああ。
-　おめでとう」
+"Yeah. Happy New Year."
 #
 <name "Lazlocke">
-「今年の末に始まる、クデュール魔法大会。
-　来年の今頃が本選。
-　……それを目指してこれまでやってきた」
+"The Coudures Tournament begins at the end of
+ the year. This year's will be your final
+ chance. It'll be the culmination of everything
+ you've learned."
 #
 <name "Lazlocke">
-「残り一年。
-　短いように思えるかもしれないが、これまでのセ
-　リスの成長を見れば、一年とて侮れない」
+"One year left. That may not seem like much,
+ but you've already come really far, so don't
+ underestimate how much further you can go."
 #
 <name "Lazlocke">
-「頑張っていこう」
+"Keep up the hard work."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0431">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -224,30 +226,30 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0131">
-「もうすぐですね」
+"It's nearly time."
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0132">
-「なにか特別な事をしますか？」
+"Are you going to do anything special?"
 #
 <name "Lazlocke">
-「いや、いつも通りだ」
+"No, same as usual."
 #
 <sprite "ta04a24.iph" 4 4 12>
 <name "Soshiette" "!DA0133">
-「それで十分ですか？」
+"Will that be enough?"
 #
 <name "Lazlocke">
-「十の大きさの箱には、十しか入らない。
-　無理に十二や十三詰め込んでも、零れるだけだし、
-　運が悪ければ箱が壊れる」
+"A box can only hold so much.
+ You can try to pack extra in, but it'll just
+ spill out. In the worst case, you'll break it."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0134">
-「……了解しました」
+"...I understand."
 #
 <removesprite -1 11>
 <exit>
@@ -255,27 +257,26 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <name "Lazlocke">
-「暖かくなってきたな」
+"It's gotten warm."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0600">
-「はい。
-　そろそろ、春ですね」
+"Yes. It'll be spring soon."
 #
 <name "Lazlocke">
-「そうか……
-　じゃあ、種でも植えるか」
+"Yeah.
+ Then how about we plant some seeds?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0601">
-「花の種ですか？」
+"Flowers?"
 #
 <name "Lazlocke">
-「最終的には野菜になる」
+"Something that'll be vegetables."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0602">
-「……ニンジン以外なら、手伝います」
+"...I'll help as long as it's not carrots."
 #
 <removesprite -1 11>
 <exit>
@@ -284,10 +285,10 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0603">
-「ポカポカの季節ですね」
+"It's the warm season now."
 #
 <name "Lazlocke">
-「そうだな」
+"It is."
 #
 <removesprite -1 11>
 <exit>
@@ -295,14 +296,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Celes" "!AA0604">
-「すやすや～」
+"So drowsy..."
 #
 <name "Lazlocke">
-「春だからって、油断しないように」
+"Just because it's spring, that's no excuse for
+ slacking off."
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA0605">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
 <exit>
@@ -311,11 +313,12 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0606">
-「暖かくなると、起きる時に辛くないのが良いですね」
+"Now that it's sunny, it's nice to get up when
+ it's warm out."
 #
 <name "Lazlocke">
-「そうだな。
-　目覚めが良いと、気分も良くなる」
+"Yeah.
+ It just feels good when you wake up."
 #
 <removesprite -1 11>
 <exit>
@@ -324,18 +327,17 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0607">
-「春ですねぇ」
+"It's spring."
 #
 <name "Lazlocke">
-「春だな」
+"It really is."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0608">
-「と言う事で、今日の昼食は外でなんか如何でしょ
-　う？」
+"So how about we eat lunch outside?"
 #
 <name "Lazlocke">
-「悪く無い」
+"That doesn't sound bad."
 #
 <removesprite -1 11>
 <exit>
@@ -343,51 +345,52 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「暑くなってきたな……」
+"It's getting hot..."
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA0609">
-「はい。
-　川とか海で避暑がしたいです」
+"Yeah. I'd like to visit a river or the beach
+ during the summer."
 #
 <name "Lazlocke">
-「避暑ってワケじゃないが、海でアルバイトなら出
-　来るぞ」
+"I don't know if I'd approve a vacation, but
+ you could take a job at the beach."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0610">
-「本当ですか？」
+"Really?"
 #
 <name "Lazlocke">
-「ああ、ローリアの街から南に一時間ほど行った所
-　にある海で、警備のバイトだ」
+"Yeah. There's a guard job I know of at the
+ beach about an hour south of Loria."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0611">
-「警備ですか？」
+"Guard?"
 #
 <name "Lazlocke">
-「ああ、海で開放的になって馬鹿な事をするヤツが
-　居るらしい」
+"Yeah. The beach is full of people up to all
+ kinds of mischief."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0612">
-「馬鹿な事？」
+"Mischief?"
 #
 <name "Lazlocke">
-「あー、ナンパや押し売り、窃盗、痴漢なんかかな」
+"Uhh, playboys, hawkers, pickpockets, and
+ perverts, I guess."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA0613">
-「馬鹿な事ですね」
+"Certainly mischief."
 #
 <name "Lazlocke">
-「それを取り締まる仕事だ」
+"Someone needs to keep an eye on things."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0614">
-「わかりました。
-　考えておきます」
+"I understand.
+ I'll keep it in mind."
 #
 <removesprite -1 11>
 <exit>
@@ -395,22 +398,22 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「暑くなってきたな……」
+"It's getting hot..."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0615">
-「はい」
+"Yeah."
 #
 <name "Lazlocke">
-「実は、暑いのは苦手だ」
+"Actually, I can't stand the heat."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0616">
-「だから、魔法で冷やしていると？」
+"Then why don't we cool off with magic?"
 #
 <name "Lazlocke">
-「魔法使いに生まれて、良かったと思える数少ない
-　事だな」
+"That's one of the few reasons I'm glad I was
+ born a wizard."
 #
 <removesprite -1 11>
 <exit>
@@ -419,22 +422,22 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA0617">
-「暑い季節です」
+"It's the hot season."
 #
 <name "Lazlocke">
-「そうだな」
+"It is."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0618">
-「魔法で、家全体を冷やすとかできませんか？」
+"Can we cool the whole house with magic?"
 #
 <name "Lazlocke">
-「昔、俺の師匠がそれをしようとして、家を氷漬け
-　にした事がある」
+"Years ago, my master tried to do that, and
+ ended up freezing the entire house."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA0619">
-「……馬鹿な事を考えました」
+"...I shouldn't have said anything."
 #
 <removesprite -1 11>
 <exit>
@@ -442,34 +445,35 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <name "Lazlocke">
-「むう……暑いな」
+"Grr... It's hot."
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA0620">
-「そうですね」
+"It is."
 #
 <name "Lazlocke">
-「水でも撒くか？」
+"Can you scatter some water?"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0621">
-「そうですね。
-　ちょうど、ここに水が……ばしゃばしゃ。
-　撒いてみました」
+"All right.
+ One second, there's a bucket here.
+ Splish, splash.
+ All done."
 #
 <name "Lazlocke">
-「……なんだか、蒸し暑くなってないか？」
+"...Doesn't it feel steamy now?"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0622">
-「撒いた水が蒸発したからじゃないですか？」
+"Because the water's evaporating?"
 #
 <name "Lazlocke">
-「……水撒き作戦！
-　失敗！」
+"Operation water failed!"
 #
 <removesprite -1 11>
-　打ち水は、朝方か夕方の涼しい時にしよう。
+Remember, do it early in the morning or in the
+evening when it's cool to avoid a sauna.
 #
 <exit>
 :2535
@@ -477,10 +481,12 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA0623">
-「暑くなると、水の魔法の勉強がしたくなります」
+"When it's hot out, I feel like studying water
+ magic."
 #
 <name "Lazlocke">
-「俺も、水の魔法の勉強をしたのは夏だったな……」
+"Me too. I also studied water magic in the
+ summer."
 #
 <removesprite -1 11>
 <exit>
@@ -488,15 +494,16 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「暑くなると、涼しい場所探しをしたりしないか？」
+"When it's hot out, isn't it nice to find a
+ cool place?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0624">
-「しますね。
-　あ、階段横は、私のポジションです」
+"It is.
+ Ah, next to the stairs is my spot!"
 #
 <name "Lazlocke">
-「俺のベストポジションをすでに！」
+"I was here first!"
 #
 <removesprite -1 11>
 <exit>
@@ -504,11 +511,12 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <name "Lazlocke">
-「暑くなると、水仕事が少しだけ楽しい」
+"When it's hot out, it's kind of nice to do the
+ dishes."
 #
 <sprite "ta01a42.iph" 4 4 11>
 <name "Celes" "!AA0625">
-「その他の仕事は地獄ですけど」
+"But all the other chores are hell."
 #
 <removesprite -1 11>
 <exit>
@@ -517,33 +525,35 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0626">
-「そろそろ、涼しくなってきましたね」
+"It's getting cooler."
 #
 <name "Lazlocke">
-「そうだな」
+"Yeah."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA0627">
-「海ではクラゲが大量発生したらしいですよ」
+"There are lots of jellyfish in the sea right
+ now."
 #
 <name "Lazlocke">
-「海の季節も終わりだな」
+"Beach season's over."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0628">
-「残念です」
+"Too bad."
 #
 <name "Lazlocke">
-「まあ、その分。
-　食い物が美味くなるさ」
+"Well, so it goes.
+ Food will be getting better though."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0629">
-「ですね。
-　冬に備えて、頑張って食べます」
+"Yeah.
+ Let's eat lots and get ready for winter."
 #
 <name "Lazlocke">
-「その前に、裏庭の畑の収獲を手伝うように」
+"Before that, help me harvest the backyard
+ field."
 #
 <removesprite -1 11>
 <exit>
@@ -552,21 +562,21 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0205">
-「そろそろ、秋の食べ物の季節です」
+"It's almost harvest season."
 #
 <name "Lazlocke">
-「それは催促か？」
+"Is that a reminder?"
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA0206">
-「事実の確認です」
+"It's a statement of fact."
 #
 <name "Lazlocke">
-「……わかった、それなりの料理を用意しよう」
+"...Fine. I'll make something."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0207">
-「楽しみにしております」
+"I'm looking forward to it."
 #
 <removesprite -1 11>
 <exit>
@@ -575,12 +585,12 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA0630">
-「秋ですね。
-　商店街で、食材の種類が増えてましたよ」
+"It's really autumn.
+ The market is full of different foods."
 #
 <name "Lazlocke">
-「そうか。
-　料理をするのが、少し楽しみだな」
+"Yeah.
+ I'm looking forward to cooking."
 #
 <removesprite -1 11>
 <exit>
@@ -588,11 +598,11 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「涼しくなってきたな」
+"It's getting chilly."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0631">
-「はい」
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -600,20 +610,20 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「涼しくなってきたな」
+"It's getting cold out."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0632">
-「そうですね。
-　過ごしやすくなってきましたが……
-　寒い冬が来ると思うと憂鬱です」
+"Yeah. There's fewer chores to do, but I always
+ feel a little down when I feel about cold
+ winter coming."
 #
 <name "Lazlocke">
-「まだ先だ」
+"It's not here yet."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA0633">
-「すぐですよ」
+"But it will be soon."
 #
 <removesprite -1 11>
 <exit>
@@ -621,19 +631,20 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「秋っぽい事って、なんだろな？」
+"What do you think of when it comes to fall?"
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0634">
-「……食事でしょうか？」
+"...The food, I guess?"
 #
 <name "Lazlocke">
-「食事か……
-　秋の食材で、作ってみるか？」
+"Food, huh?
+ How about making something with the fall
+ harvest?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0635">
-「はい」
+"All right."
 #
 <removesprite -1 11>
 <exit>
@@ -642,30 +653,30 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0636">
-「急に冷えてきましたね」
+"It got cold all of a sudden."
 #
 <name "Lazlocke">
-「そうだな」
+"Yeah."
 #
 <removesprite -1 11>
-　この辺りで雪が降る事は少ないが、それでもそれ
-　なりに冷え込む。
+It doesn't snow much around here, but it still
+gets pretty cold.
 #
-　夜、外で寝るのは危険なぐらいだ。
+It's dangerous to sleep outside at night.
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0637">
-「師匠は平気なんですか？
-　いつもと変わりませんけど？」
+"You seem okay though.
+ At least, you seem the same as usual."
 #
 <name "Lazlocke">
-「魔法で温かい空気を作り、それを身にまとわせて
-　いるからな」
+"I'm using magic to create warm air and am
+ surrounding my body with it."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA0638">
-「ズ、ズルイ！
-　それ、まだ習ってません！」
+"N-No fair!
+ You haven't taught me that yet!"
 #
 <removesprite -1 11>
 <exit>
@@ -674,15 +685,14 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0639">
-「１２月ですが、今年はまだ暖かいですね」
+"December's warm this year."
 #
 <name "Lazlocke">
-「そうだな。
-　だが、油断して風邪をひくなよ」
+"Yeah, but don't get careless and get sick."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0640">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -691,11 +701,11 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0641">
-「寒い季節です。
-　魔法で、暖かく出来ると良いのに……」
+"It's the cold season.
+ I wish I could use magic to stay warm..."
 #
 <name "Lazlocke">
-「魔法も万能じゃないって事だ」
+"Magic isn't the answer to everything."
 #
 <removesprite -1 11>
 <exit>
@@ -704,22 +714,23 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0642">
-「寒い季節になると、師匠がやたらと寝る前に誘っ
-　てきます」
+"Since it got cold, you've been grabbing me
+ before bed a lot more."
 #
 <name "Lazlocke">
-「寒い時は、人肌が一番」
+"Nothing feels better when it's cold out than
+ someone else's warmth."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0643">
-「……」
+"..."
 #
 <name "Lazlocke">
 「ダメか？」
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0644">
-「さ、寒いよりは良いですね」
+"I-It's better than being cold."
 #
 <removesprite -1 11>
 <exit>
@@ -728,15 +739,15 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0645">
-「寒くなってきましたね」
+"It's gotten cold."
 #
 <name "Lazlocke">
-「そうだな。
-　なかなかベッドから抜け出せなくて困るな」
+"Yeah. It can be hard dragging yourself out of
+ bed in this weather."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA0646">
-「はい」
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -744,15 +755,15 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「寒くなってきたから、扉の開け閉めは素早くする
-　ように」
+"It's cold out, so keep the door closed as much
+ as possible."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0647">
-「外の空気は冷たいですからね」
+"To not let the cold air in?"
 #
 <name "Lazlocke">
-「うむ」
+"Mmhmm."
 #
 <removesprite -1 11>
 <exit>
@@ -760,14 +771,14 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「お茶が美味しくなってきたなぁ」
+"Tea's gotten much tastier lately."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0648">
-「寒くなってきたからでしょうか」
+"Because it's the cold season?"
 #
 <name "Lazlocke">
-「そうだな」
+"Probably."
 #
 <removesprite -1 11>
 <exit>
@@ -775,37 +786,39 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「晴れが続いたな……
-　そろそろ、本の虫干しでもするか」
+"Another sunny day...
+ Maybe it's time to air out the books."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0649">
-「虫干し？」
+"Air out the books?"
 #
 <name "Lazlocke">
-「本を日陰で干して、湿気を飛ばし、虫やカビの発
-　生を避けるんだ。
-　家でやっていなかったのか？」
+"Getting them out of the darkness keeps the
+ moisture at bay and helps prevent insects and
+ mold from damaging them.
+ You didn't do that at your house?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0650">
-「そう言えば……時々、本を並べてたような……」
+"Now that you mention it, sometimes we did
+ put them out on display..."
 #
 <name "Lazlocke">
-「自分でやっていなかったんだな」
+"But you didn't do it yourself?"
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA0651">
-「あはは……」
+"Hahaha..."
 #
 <name "Lazlocke">
-「確かに、本来はメイドの仕事だが、俺達のような
-　貧乏人は自分でやるんだ。
-　手伝うように」
+"I guess it'd be the maid's job for nobles, but
+ we poor folk have to do it ourselves.
+ Help me out."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0652">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -814,13 +827,14 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA0653">
-「夏に向けて、水着を用意しなきゃ……
-　どこに仕舞ったかな……」
+"I have to get my bathing suit ready for
+ summer...
+ Where'd it go?"
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA0654">
-「あ、あったあった……うわっ！
-　カビてる！」
+"H-Here it is... Aaah!
+ It's moldy!"
 #
 <removesprite -1 11>
 <exit>
@@ -829,15 +843,14 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0655">
-「花が綺麗……」
+"The flowers are so pretty..."
 #
 <name "Lazlocke">
-「セリス。
-　お茶にしよう」
+"Celes, let's have some tea."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0656">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -846,19 +859,19 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA0657">
-「虫除けの魔法！」
+"Bug away spell!"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0658">
-「と言っても、おまじないレベルですが……」
+"...But it's just a good luck charm."
 #
 <name "Lazlocke">
-「いやいや、呪いのレベルになってるぞ……
-　虫の死骸が床にバラバラと……」
+"No, no. I think that's a curse.
+ Look at all the dead bugs on the ground."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA0659">
-「虫に刺されるのは嫌なんです」
+"...I really don't like being bitten by bugs."
 #
 <removesprite -1 11>
 <exit>
@@ -866,24 +879,24 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <name "Lazlocke">
-「東の方の国では、今の時期には月を愛でるらしい」
+"In the eastern countries, this is the time of
+ the year when they admire the moon."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0660">
-「月をですか？」
+"The moon?"
 #
 <name "Lazlocke">
-「ああ……
-　そして、風呂に入るんだっけ？
-　いや、お粥を食べるんだったかな？」
+"Yeah, and take baths, I think?
+ Wait, or was it eat rice porridge?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0661">
-「良く解りませんが、とりあえずお団子でも食べま
-　しょう」
+"I'm not sure I understand, but how about we
+ have some dumplings?"
 #
 <name "Lazlocke">
-「おう」
+"Sure."
 #
 <removesprite -1 11>
 <exit>
@@ -892,29 +905,29 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0662">
-「収穫祭ですか？」
+"The harvest festival?"
 #
 <name "Lazlocke">
-「おう、各家庭から食材を持ち寄って、みんなで料
-　理するんだ」
+"Yeah. Everyone brings food and cooks it
+ together."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0663">
-「楽しそうですね」
+"That sounds like fun."
 #
 <name "Lazlocke">
-「食材のある家はな」
+"...If we had something to cook."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0664">
-「う……」
+"Ohh..."
 #
 <name "Lazlocke">
-「後で、買いに行こう」
+"Let's go shopping later."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA0665">
-「はい」
+"Okay."
 #
 <removesprite -1 11>
 <exit>
@@ -923,26 +936,27 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0666">
-「収穫祭ですね。
-　街に行きませんか？」
+"Today's the harvest festival.
+ Want to go into town?"
 #
 <name "Lazlocke">
-「そうだな」
+"Sure."
 #
 <removesprite -1 11>
-　俺とセリスは収穫祭を楽しみに街に出た。
+Celes and I visit the town to enjoy the
+festival.
 #
-　街では、各家庭から持ち寄られた食材で料理が作
-　られ、みんなに振舞われていた。
+In Loria, everyone brings something to cook
+and shares it with everyone else.
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0667">
-「美味しいですね」
+"It's delicious."
 #
 <name "Lazlocke">
-「流石、収穫祭」
+"It's a festival after all."
 #
-　俺とセリスは、収穫祭を楽しんだ。
+We both enjoy ourselves.
 #
 <removesprite -1 11>
 <exit>
@@ -950,40 +964,40 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「収穫祭に行くか」
+"Want to go to the harvest festival?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0668">
-「はい」
+"Okay."
 #
 <removesprite -1 11>
-　俺とセリスは、収穫祭に出かけた。
+We go into the city.
 #
 <background "bg013a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
 <name "Elle" "!CA0066">
-「こんにちは」
+"Hello."
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
 <name "Viola" "!BA0152">
-「やっぱり、来たわね」
+"I knew you'd come."
 #
 <name "Lazlocke">
-「まあ、こんなイベントだからな」
+"Well, it's a festival."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0669">
-「みんなで楽しみましょう」
+"Let's all enjoy ourselves."
 #
 <removesprite -1 11>
-　四人で収穫祭を楽しんだ。
+The four of us attend the festival.
 #
 <sprite "ta04a23.iph" 4 4 11>
 <name "Soshiette" "!DA0209">
-「し、仕事さえなければ……」
+"I-If only I didn't have to work..."
 #
 <removesprite -1 11>
 <exit>
@@ -991,28 +1005,29 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「そう言えば、年末ってどうして祝うんだろうな？」
+"You know, why do we celebrate the end of the
+ year?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0670">
-「今年一年に感謝してじゃないですか？」
+"To give thanks for the past year?"
 #
 <name "Lazlocke">
-「新年は？」
+"And what about the new year?"
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA0671">
-「新しい一年に感謝してじゃないですか？」
+"To give thanks for a new year?"
 #
 <name "Lazlocke">
-「感謝してばっかりだな」
+"Seems like a lot of giving thanks."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0672">
-「理由を付けて、騒げるじゃないですか」
+"Do we really need a good reason to celebrate?"
 #
 <name "Lazlocke">
-「確かに」
+"I suppose not."
 #
 <removesprite -1 11>
 <exit>
@@ -1024,8 +1039,8 @@
 \x52 "ta10b20.iph"  4  4  11 
 :4791
 \x2B
-<name "イングウェイ" "!TA0000">
-「イエス、イングウェイ！」
+<name "Ingway" "!TA0000">
+"Yes! Ingway!"
 #
 <removesprite -1 11>
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4824: \x52 "ta13a47.iph"  2  4  11 \x52 "ta10a20.iph"  6  5  11 \x18 :485E: 
@@ -1033,132 +1048,134 @@
 \x52 "ta13a47.iph"  2  4  11 \x52 "ta10b20.iph"  6  5  11 
 :485E
 \x2B
-<name "ヘンドリク" "!QA0000">
-「ヘンドリクです」
+<name "Hendrick" "!QA0000">
+"Hendrick."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :48BE: \x52 "ta10a00.iph"  6  5  12 \x18 :48DB: 
 :48BE
 \x52 "ta10b00.iph"  6  5  12 
 :48DB
 \x2B
-<name "イングウェイ" "!TA0001">
-「さて、年末だな」
+<name "Ingway" "!TA0001">
+"Now then, it's the end of the year."
 #
 <sprite "ta13a48.iph" 2 4 12>
-<name "ヘンドリク" "!QA0001">
-「そうだが、なぜ私を呼び出したんだ？」
+<name "Hendrick" "!QA0001">
+"Indeed, but why did you call for me?"
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :499C: \x52 "ta10a31.iph"  6  5  12 \x18 :49B9: 
 :499C
 \x52 "ta10b31.iph"  6  5  12 
 :49B9
 \x2B
-<name "イングウェイ" "!TA0002">
-「年末年始は、急増のカップルが多い！」
+<name "Ingway" "!TA0002">
+"During the new year holiday, the number of
+ couples explodes!"
 #
 <sprite "ta13a59.iph" 2 4 12>
-<name "ヘンドリク" "!QA0002">
-「はぁ……そうだな」
+<name "Hendrick" "!QA0002">
+"Um... Yes."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4A7C: \x52 "ta10a29.iph"  6  5  12 \x18 :4A99: 
 :4A7C
 \x52 "ta10b29.iph"  6  5  12 
 :4A99
 \x2B
-<name "イングウェイ" "!TA0003">
-「そんなカップルを、正義の矢で貫くのだ！」
+<name "Ingway" "!TA0003">
+"Those couples must be pierced with the arrows
+ of justice!"
 #
 <sprite "ta13a57.iph" 2 4 12>
-<name "ヘンドリク" "!QA0003">
-「おいおい」
+<name "Hendrick" "!QA0003">
+"Hold on."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4B58: \x52 "ta10a27.iph"  6  5  12 \x18 :4B75: 
 :4B58
 \x52 "ta10b27.iph"  6  5  12 
 :4B75
 \x2B
-<name "イングウェイ" "!TA0004">
-「真のカップルなら、矢で貫かれても愛を貫くはず
-　だ！」
+<name "Ingway" "!TA0004">
+"If their love is true, it will carry on even
+ despite the arrows of misfortune!"
 #
 <sprite "ta13a59.iph" 2 4 12>
-<name "ヘンドリク" "!QA0004">
-「まるっきり、ワケがわからん！」
+<name "Hendrick" "!QA0004">
+"I don't understand this logic at all!"
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4C57: \x52 "ta10a18.iph"  6  5  12 \x18 :4C74: 
 :4C57
 \x52 "ta10b18.iph"  6  5  12 
 :4C74
 \x2B
-<name "イングウェイ" "!TA0005">
-「これがお前の担当分だ」
+<name "Ingway" "!TA0005">
+"This is your share of our duty."
 #
 <sprite "ta13a48.iph" 2 4 12>
-<name "ヘンドリク" "!QA0005">
-「は？
-　このリスト……軽く千組はあるが……」
+<name "Hendrick" "!QA0005">
+"Huh?
+ This list has... a thousand couples..."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :4D44: \x52 "ta10a05.iph"  6  5  12 \x18 :4D61: 
 :4D44
 \x52 "ta10b05.iph"  6  5  12 
 :4D61
 \x2B
-<name "イングウェイ" "!TA0006">
-「世の中、悪が多いからなぁ」
+<name "Ingway" "!TA0006">
+"The world is full of sin."
 #
 <sprite "ta13a44.iph" 2 4 12>
-<name "ヘンドリク" "!QA0006">
-「おおいっ！」
+<name "Hendrick" "!QA0006">
+"Hey!"
 #
 <removesprite -1 11>
-　その後、二人はめでたく協会の警備に捕縛された。
+Thankfully, the two of them were arrested by
+the Guild soon after.
 #
 <exit>
 :4E23
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0000">
-「おい」
+<name "Recchino" "!RA0000">
+"Hey."
 #
 <removesprite -1 11>
 <sprite "ta14a00.iph" 2 4 11>
 <sprite "ta12a00.iph" 6 5 11>
-<name "リノ" "!PA0000">
-「ん？
-　なんだ？」
+<name "Reno" "!PA0000">
+"Hm? What?"
 #
-<name "レッキーノ" "!RA0001">
-「年末だ。
-　酒でも付き合わんか？」
+<name "Recchino" "!RA0001">
+"It's the end of the year.
+ Want to go drinking?"
 #
 <sprite "ta12a40.iph" 6 5 12>
-<name "リノ" "!PA0001">
-「悪いが、用事がある」
+<name "Reno" "!PA0001">
+"Sorry, but I'm busy."
 #
-<name "レッキーノ" "!RA0002">
-「女か？」
+<name "Recchino" "!RA0002">
+"A girl?"
 #
 <sprite "ta12a38.iph" 6 5 12>
-<name "リノ" "!PA0002">
-「そうだ」
+<name "Reno" "!PA0002">
+"That's right."
 #
-<name "レッキーノ" "!RA0003">
-「……」
+<name "Recchino" "!RA0003">
+"..."
 #
 <sprite "ta12a00.iph" 6 5 12>
-<name "リノ" "!PA0003">
-「じゃあな。
-　飲み過ぎるなよ」
+<name "Reno" "!PA0003">
+"See ya.
+ Don't drink too much."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0004">
-「冗談だったのに……」
+<name "Recchino" "!RA0004">
+"I was only joking..."
 #
 <removesprite -1 11>
-　レッキーノは一人寂しく、酒を飲んだ。
+Recchino drinks sadly by himself.
 #
 <exit>
 :50EE
@@ -1166,28 +1183,27 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0673">
-「師匠、雪ですよ。
-　綺麗ですね」
+"It's snowing, Master.
+ It's so pretty."
 #
 <removesprite -1 11>
-　セリスに言われて、窓の外を見てみると、雪が降
-　り始めていた。
+I look out the window. 
+Like she said, it's started to snow.
 #
 <name "Lazlocke">
-「そうだな。
-　すぐに消えてしまうと思うと、なお美しい」
+"Yeah. It's especially beautiful when you think
+ about how fleeting it is."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0674">
-「はい」
+"Yeah."
 #
 <name "Lazlocke">
-「しかし、この寒さは駄目だと思うんだ」
+"But I still think that the cold is awful."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0675">
-「はい。
-　同感です」
+"Yes, I agree."
 #
 <removesprite -1 11>
 <exit>
@@ -1196,45 +1212,46 @@
 <background "bg013a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
 <name "Elle" "!CA0067">
-「最近、東の方から伝わってきた行事なんだけど、
-　この時期に女の方から男に物を贈って告白するら
-　しいのよ」
+"I heard about a holiday that happens in the
+ east the other day. Apparently this is the
+ time when a woman gives a present to a man
+ and tells him how she feels."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
 <name "Celes" "!AA0676">
-「へー」
+"Ooh."
 #
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0068">
-「告白と言っても、“いつもありがとう”の意味が
-　強いらしいんだけどね」
+"I say how she feels, but even just a regular
+ thank you seems to carry a lot of weight."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA0677">
-「なるほど」
+"I see."
 #
 <sprite "ta02a04.iph" 6 4 12>
 <name "Elle" "!CA0069">
-「女はそれだけなんだけど、男はその贈り物の数を
-　競うらしいのよ」
+"That's it for the girls, but apparently the
+ men compete over how many presents they get."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0678">
-「数を競うの？」
+"How many?"
 #
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0070">
-「ええ、女性からこれだけ好かれているって」
+"Yeah. Like that's how many girls like them."
 #
 <sprite "ta01a42.iph" 2 5 12>
 <name "Celes" "!AA0679">
-「……男って、馬鹿ね」
+"...Men are dumb."
 #
 <sprite "ta02a10.iph" 6 4 12>
 <name "Elle" "!CA0071">
-「そうよね」
+"They are."
 #
 <removesprite -1 11>
 <exit>
@@ -1243,48 +1260,50 @@
 <background "bg013a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
 <name "Elle" "!CA0072">
-「この時期、女の方から男に物を贈って、告白する
-　らしいわよ」
+"It's the time of year when a woman's supposed
+ to give a man a gift and tell them how she
+ feels."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
 <name "Celes" "!AA0681">
-「へー」
+"Oh?"
 #
 <sprite "ta02a06.iph" 6 4 12>
 <name "Elle" "!CA0073">
-「なによ、生返事ね」
+"What was that?
+ That wasn't even a response."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA0682">
-「そんな場合じゃないし、告白したい相手も居ない
-　し……」
+"I didn't mean it like that.
+ There's just nobody I have to say anything to."
 #
 <sprite "ta02a35.iph" 6 4 12>
 <name "Elle" "!CA0074">
-「……つまんない」
+"Boring."
 #
 <sprite "ta01a31.iph" 2 5 12>
 <name "Celes" "!AA0683">
-「ご、ごめん」
+"S-Sorry."
 #
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0075">
-「いいのよ。
-　私が悪かったわ」
+"It's fine.
+ It was my fault."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA0684">
-「そう？」
+"Oh?"
 #
 <sprite "ta02a11.iph" 6 4 12>
 <name "Elle" "!CA0076">
-「いじるなら、アッチだった」
+"The one worth picking on is him."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0685">
-「へ？」
+"Huh?"
 #
 <removesprite -1 11>
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :5A00: \x52 "ta10a18.iph"  4  4  11 \x18 :5A1D: 
@@ -1292,9 +1311,10 @@
 \x52 "ta10b18.iph"  4  4  11 
 :5A1D
 \x2B
-<name "イングウェイ" "!TA0007">
-「や、やあ、君達。
-　良い天気だね……お、お茶でもどうだい？」
+<name "Ingway" "!TA0007">
+"H-Hey, girls.
+ What a nice day.
+ W-Would you like to have some tea?"
 #
 <removesprite -1 11>
 \x2B\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :5AD6: \x52 "ta13a58.iph"  2  4  11 \x52 "ta10a18.iph"  6  5  11 \x18 :5B10: 
@@ -1302,14 +1322,15 @@
 \x52 "ta13a58.iph"  2  4  11 \x52 "ta10b18.iph"  6  5  11 
 :5B10
 \x2B
-<name "ヘンドリク" "!QA0007">
-「ぐ、偶然だね」
+<name "Hendrick" "!QA0007">
+"W-What a coincidence finding you here."
 #
 <removesprite -1 11>
 <sprite "ta01a42.iph" 4 5 12>
 <name "Celes" "!AA0686">
-「ああ、イエルちゃんの目が面白い物を見つけた目
-　になってる……可哀想に」
+"Ah, Elle's eyes suddenly lit up like she found
+ something fun to play with...
+ Poor boys..."
 #
 <removesprite -1 11>
 <exit>
