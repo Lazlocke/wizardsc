@@ -106,48 +106,48 @@
 :687
 <music 2>
 <background "bg020a0.iph" 11>
-　協会からの命令で、俺はヴィオラと共にクルーネ
-　帝国に強行偵察に来ていた。
+Under orders from the Guild, Viola and I have
+gone to the Krun Empire to gather information.
 #
 <name "Lazlocke">
-「偵察なら、街に行くのがベストじゃないのか？」
+"If we're here for recon, shouldn't we be in
+ the city?"
 #
 <sprite "ta03b03.iph" 4 4 11>
 <name "Viola" "!BA0282">
-「私の顔が知られ過ぎているから、街には行けない
-　わよ。
-　私と貴方で組ませての偵察なんだから、軍の演習
-　を覗いて来いって事でしょ」
+"I'm too well known for us to go there.
+ Since they sent you and me, we should be 
+ looking at what their army is doing anyway."
 #
 <name "Lazlocke">
-「情報部の仕事を、どうして俺達が……」
+"Since when were we spies?"
 #
 <sprite "ta03b01.iph" 4 4 12>
 <name "Viola" "!BA0283">
-「実働部隊に見せておきたいんでしょ。
-　クルーネ帝国の実状を」
+"You want to see the actual troops, right?
+ That's the real Krun Empire."
 #
 <name "Lazlocke">
-「……そろそろ、ヤバイみたいだな」
+"...Looks like things are coming to a head."
 #
 <sprite "ta03b00.iph" 4 4 12>
 <name "Viola" "!BA0284">
-「そうね。
-　予想ではまだ数年先だと思ったけど……」
+"Yeah. I had thought it was still a few years
+ off."
 #
 <name "Lazlocke">
-「面倒な事を……」
+"This isn't good."
 #
 <sprite "ta03b03.iph" 4 4 12>
 <name "Viola" "!BA0285">
-「文句を言わない。
-　次の場所に行くわよ」
+"Don't whine.
+ Let's go to the next place."
 #
 <name "Lazlocke">
-「わかった」
+"All right."
 #
 <removesprite -1 11>
-　俺とヴィオラは、偵察活動を続けた。
+Viola and I continue our reconnaissance.
 #
 <exit>
 :A1C
@@ -155,48 +155,48 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA3134">
-「ただいま戻りました」
+"I'm back."
 #
 <name "Lazlocke">
-「おかえり。
-　……ん？
-　頼んだ薬品。
-　買い忘れか？」
+"Welcome home.
+ ...Hm?
+ Did you forget to buy the chemicals I asked
+ you for?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3135">
-「いえ、お店に商品がなかったんです。
-　しばらくは入荷しないと言ってました」
+"No. There weren't any at the store.
+ They said they wouldn't have more for a while."
 #
 <name "Lazlocke">
-「そうか……
-　あの薬品、欲しかったんだがな……」
+"I see.
+ I wanted that stuff..."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA3136">
-「原材料を教えて頂ければ、採って来ますが……」
+"If you can tell me what I need to make it, I
+ can find those for you."
 #
 <name "Lazlocke">
-「……いや、良い。
-　悪かったな。
-　無駄足をさせて」
+"No, it's fine.
+ Sorry for sending you on a wild goose chase."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3137">
-「いえ……
-　では、夕食の準備をします」
+"It's fine.
+ I'll go get dinner ready."
 #
 <removesprite -1 11>
-　セリスは買物篭を持って、台所に向かった。
+Celes hurries off to the kitchen.
 #
 <name "Lazlocke">
-「……あの薬品の原材料。
-　クルーネ帝国の特産だったな」
+"...What you need to make them can only be
+ found in the Krun Empire."
 #
 <name "Lazlocke">
-「収穫量が落ちたのか、それとも……」
+"Was it a bad harvest this year, or..."
 #
-　今度、ソシエットに言って調査して貰おう。
+I'll have to ask Soshiette about it.
 #
 <exit>
 :D8E
@@ -204,51 +204,51 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a01.iph" 4 4 11>
 <name "Soshiette" "!DA0529">
-「緊急連絡です」
+"Emergency message."
 #
 <name "Lazlocke">
-「緊急？」
+"Emergency?"
 #
 <sprite "ta04a02.iph" 4 4 12>
 <name "Soshiette" "!DA0530">
-「カスト地方にて、クインズベル王国軍とクルーネ
-　帝国軍が交戦状態に入りました」
+"Hostilities have broken out between the
+ Queensbell and Krun armies in the Kast region."
 #
 <name "Lazlocke">
-「……ついに火が付いたか。
-　指揮官は？」
+"So it finally broke out then?
+ Who's in command there?"
 #
 <sprite "ta04a01.iph" 4 4 12>
 <name "Soshiette" "!DA0531">
-「クインズベル王国軍は、リチャード将軍。
-　クルーネ帝国軍は、マッコフ将軍です」
+"General Richard for Queensbell.
+ General McCoff for Krun."
 #
 <name "Lazlocke">
-「双方、実力者だな。
-　長引くか？」
+"They're both VIPs.
+ Think it'll go for long?"
 #
 <sprite "ta04a02.iph" 4 4 12>
 <name "Soshiette" "!DA0532">
-「王国はそう見ています。
-　協会はクインズベル王国軍に荷担し、早期の戦争
-　終結に向けて動きます」
+"Queensbell thinks so. 
+ The Guild is assisting their army in hopes of
+ bringing a quick end to the war."
 #
 <name "Lazlocke">
-「そうか」
+"I see."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0533">
-「ここ、ローリアの街は戦地から離れていますが、
-　戦争勃発に伴い様々な弊害が出ると思います。
-　ご注意ください」
+"Here in Loria, we're far from the battlefield,
+ but there will be consequences due to the war.
+ Please be careful."
 #
 <name "Lazlocke">
-「わかった。
-　出る必要があったら言ってくれ」
+"I know.
+ Let me know if you need my help."
 #
 <sprite "ta04a00.iph" 4 4 12>
 <name "Soshiette" "!DA0534">
-「承知しました」
+"Understood."
 #
 <removesprite -1 11>
 <exit>
@@ -257,31 +257,31 @@
 <background "bg008a0.iph" 11>
 <sprite "ta02a32.iph" 4 4 11>
 <name "Elle" "!CA0229">
-「師匠、戦争が始まりました！」
+"Master! War broke out!"
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta02a32.iph" 6 4 11>
 <name "Viola" "!BA0286">
-「知っているわ。
-　三日前から小競り合いは始まっているんだから、
-　今さら騒がないように」
+"I know. The skirmishes started three days ago.
+ It's a little late to be shouting about it."
 #
 <sprite "ta02a28.iph" 6 4 12>
 <name "Elle" "!CA0230">
-「え、あ、はい。
-　でも、のんびりしてて良いんですか？」
+"Huh? Oh, yes, ma'am.
+ But is it okay to be so nonchalant about it?"
 #
 <sprite "ta03a03.iph" 2 5 12>
 <name "Viola" "!BA0287">
-「そのうちに私の出陣もあると思うけど、今はまだ
-　様子見の時期だからのんびりするわ。
-　お茶、お願いできるかしら？」
+"I expect the time will come when I'll have to
+ be a part of it, but right now is the time to
+ wait and conserve our strength.
+ Could I trouble you for some tea?"
 #
 <sprite "ta02a27.iph" 6 4 12>
 <name "Elle" "!CA0232">
-「は、はい。
-　用意します」
+"Y-Yes, ma'am.
+ Right away."
 #
 <removesprite -1 11>
 <exit>
@@ -290,14 +290,14 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA3155">
-「アルバイトが出来ない……」
+"I can't work right now..."
 #
 <name "Lazlocke">
-「戦争中だからな」
+"Because of the war, right?"
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA3156">
-「早く終わって欲しいです」
+"I hope it ends soon."
 #
 <removesprite -1 11>
 <exit>
@@ -305,20 +305,20 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta13a38.iph" 4 4 11>
-<name "ヘンドリク" "!QA0055">
-「戦争か……面倒な事を」
+<name "Hendrik" "!QA0055">
+"War? What a pain."
 #
 <removesprite -1 11>
 <sprite "ta13a38.iph" 2 4 11>
 <sprite "ta12a40.iph" 6 5 11>
-<name "リノ" "!PA0032">
-「だな。
-　大会も中止だし、どこかの遺跡にでも探索に行く
-　か？」
+<name "Reno" "!PA0032">
+"Seriously.
+ Since the tournaments are canceled, how about
+ exploring some ruins?"
 #
 <sprite "ta13a47.iph" 2 4 12>
-<name "ヘンドリク" "!QA0056">
-「悪く無い提案だ」
+<name "Recchino" "!QA0056">
+"Not a bad idea.'
 #
 <removesprite -1 11>
 <exit>
@@ -330,17 +330,17 @@
 \x52 "ta10b46.iph"  4  4  11 
 :16F4
 \x2B
-<name "イングウェイ" "!TA0068">
-「戦争が始まると、森が燃える」
+<name "Ingway" "!TA0068">
+"When war breaks out, the forest burns."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :1762: \x52 "ta10a28.iph"  4  4  12 \x18 :177F: 
 :1762
 \x52 "ta10b28.iph"  4  4  12 
 :177F
 \x2B
-<name "イングウェイ" "!TA0069">
-「くそっ……この憤り！
-　誰にぶつければ良いのだ！」
+<name "Ingway" "!TA0069">
+"Damn...
+ Who do I make pay for this resentment!?"
 #
 <removesprite -1 11>
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :182D: \x52 "ta13a48.iph"  2  4  11 \x52 "ta10a28.iph"  6  5  11 \x18 :1867: 
@@ -348,23 +348,23 @@
 \x52 "ta13a48.iph"  2  4  11 \x52 "ta10b28.iph"  6  5  11 
 :1867
 \x2B
-<name "ヘンドリク" "!QA0057">
-「街中で叫ぶな。
-　……行くぞ」
+<name "Hendrik" "!QA0057">
+"Don't shout in the city.
+ Let's go."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :18D6: \x52 "ta10a13.iph"  6  5  12 \x18 :18F3: 
 :18D6
 \x52 "ta10b13.iph"  6  5  12 
 :18F3
 \x2B
-<name "イングウェイ" "!TA0070">
-「ん？
-　どこに行くんだ？」
+<name "Ingway" "!TA0070">
+"Hm?
+ Where are you going?"
 #
 <sprite "ta13a47.iph" 2 4 12>
-<name "ヘンドリク" "!QA0058">
-「酒場。
-　飲むぞ」
+<name "Hendrik" "!QA0058">
+"The bar.
+ To drink."
 #
 <removesprite -1 11>
 <exit>
@@ -372,120 +372,120 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta15a13.iph" 4 4 11>
-<name "プシェル" "!SA0024">
-「やあねぇ。
-　戦争なんて……
-　でも、貴方は嬉しいのかしら？」
+<name "Puschel" "!SA0024">
+"Hello there.
+ War is awful, but I expect you're happy about
+ it?"
 #
 <removesprite -1 11>
 <sprite "ta15a13.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA0029">
-「……
-　戦争は俺の望む戦いではない」
+<name "Recchino" "!RA0029">
+"...War is not the kind of battle I seek."
 #
 <sprite "ta15a00.iph" 2 5 12>
-<name "プシェル" "!SA0025">
-「あら」
+<name "Puschel" "!SA0025">
+"Oh?"
 #
 <removesprite -1 11>
 <exit>
 :1AF3
 <music 2>
 <background "bg013a0.iph" 11>
-<name "血気盛んな街人" "!QB0142">
-「義勇兵の募集をやっているぞ」
+<name "Pasionate Man" "!QB0142">
+"We're recruiting soldiers!"
 #
-<name "考える街人" "!RB0149">
-「賃金は高いが、最前線に送られるらしいぞ」
+<name "Thoughtful Man" "!RB0149">
+"The pay's good, but it sounds like we'd be
+ sent to the front lines."
 #
-<name "調子の良い街人" "!SB0117">
-「国を守る為だ。
-　ここで戦わなきゃどうするんだ！」
+<name "Excited Man" "!SB0117">
+"It's to protect our kingdom!
+ We have to fight here and now!"
 #
-<name "怯える街人" "!TB0107">
-「でも、死にたくないし……」
+<name "Scared Man" "!TB0107">
+"But I don't want to die..."
 #
-<name "悩む街人" "!UA0126">
-「そうだよな」
+<name "Worried Man" "!UA0126">
+"Yeah..."
 #
-<name "血気盛んな街人" "!QB0143">
-「うーん」
+<name "Pasionate Man" "!QB0143">
+"Hmm..."
 #
-<name "考える街人" "!RB0150">
-「とりあえず、飲もう」
+<name "Thoughtful Man" "!RB0150">
+"Anyway, let's drink."
 #
-<name "調子の良い街人" "!SB0118">
-「おう！」
+<name "Excited man" "!SB0118">
+"Yeah!"
 #
 <exit>
 :1CBF
 <music 2>
 <background "bg014a0.iph" 11>
-<name "喜ぶ街人" "!RB0151">
-「戦争ばんざーい！」
+<name "Happy Man" "!RB0151">
+"Cheers for the war!"
 #
-<name "不謹慎だと思う街人" "!TB0108">
-「あの叫んでるの、誰だ？」
+<name "Annoyed Man" "!TB0108">
+"Who's that shouting?"
 #
-<name "事情を知る街人" "!IA0026">
-「防具専門店の店主」
+<name "Knowledgable Man" "!IA0026">
+"A merchant who specializes in armor."
 #
-<name "不謹慎だと思う街人" "!TB0109">
-「ああ、なるほど」
+<name "Annoyed Man" "!TB0109">
+"Oh, I see."
 #
 <exit>
 :1DAA
 <music 2>
 <background "bg014a0.iph" 11>
-<name "呆れる主婦" "!KA0037">
-「やだやだ、戦争なんてまっぴらさ」
+<name "Disgusted Woman" "!KA0037">
+"I hate it.
+ War is the worst."
 #
-<name "心配する主婦" "!JA0051">
-「そうだね。
-　ウチの亭主も戦地に行っちまって……
-　無事に帰ってくれば良いけど」
+<name "Worried Woman" "!JA0051">
+"Yeah. My husband was sent to the battlefield...
+ I pray he comes back okay."
 #
 <exit>
 :1E73
 <music 2>
 <background "bg014a0.iph" 11>
-<name "買物中の主婦" "!IA0027">
-「前に戦争があった時は、ヴィオラって魔法使いが
-　終らせたって話だけど……」
+<name "Shopping Woman" "!IA0027">
+"I heard that the last war ended because of a
+ woman named Viola."
 #
-<name "荷物運び中の主婦" "!NA0059">
-「今回もパーッと終らせて欲しいもんだね」
+<name "Browsing Woman" "!NA0059">
+"I hope it ends quickly this time too."
 #
 <exit>
 :1F41
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a17.iph" 4 4 11>
-<name "ルーン" "!EA0125">
-「戦況は？」
+<name "Rune" "!EA0125">
+"How goes the war?"
 #
 <removesprite -1 11>
 <sprite "ta05a17.iph" 2 5 11>
 <sprite "ta06a00.iph" 5 4 11>
-<name "協会長秘書" "!GA0084">
-「膠着しています」
+<name "Guild Secretary" "!GA0084">
+"It's at a stalemate."
 #
 <sprite "ta05a20.iph" 2 5 12>
-<name "ルーン" "!EA0126">
-「そう……民衆の様子は？」
+<name "Rune" "!EA0126">
+"I see.
+ How are the citizens?"
 #
-<name "協会長秘書" "!GA0085">
-「冷静です。
-　ですが、長くは持たないと思われます」
+<name "Guild Secretary" "!GA0085">
+"They're still calm, but I don't think that will
+ last for long."
 #
 <sprite "ta05a21.iph" 2 5 12>
-<name "ルーン" "!EA0128">
-「そうね。
-　なんとか、収穫期前に終わらせたいわ」
+<name "Rune" "!EA0128">
+"I see. I hope it finishes before the harvest."
 #
-<name "協会長秘書" "!GA0086">
-「はい」
+<name "Guild Secretary" "!GA0086">
+"Me too."
 #
 <removesprite -1 11>
 <exit>
@@ -493,23 +493,24 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a22.iph" 4 4 11>
-<name "ルーン" "!EA0129">
-「戦況はどうなの？」
+<name "Rune" "!EA0129">
+"How's the war going?"
 #
 <removesprite -1 11>
 <sprite "ta05a22.iph" 2 5 11>
 <sprite "ta06a00.iph" 5 4 11>
-<name "協会長秘書" "!GA0087">
-「クインズベル王国軍が優勢です。
-　このまま行けば、年内の終結が可能かと」
+<name "Guild Secretary" "!GA0087">
+"Queensbell's army is clearly superior.
+ If things continue as they have, it should be
+ over by the end of the year."
 #
 <sprite "ta05a21.iph" 2 5 12>
-<name "ルーン" "!EA0130">
-「そう……
-　でも、収穫期前には終わらせたいわね」
+<name "Rune" "!EA0130">
+"I see, but I'd prefer if it was finished before
+ the harvest."
 #
-<name "協会長秘書" "!GA0088">
-「はい」
+<name "Guild Secretary" "!GA0088">
+"Me too."
 #
 <removesprite -1 11>
 <exit>
@@ -517,16 +518,16 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a18.iph" 4 4 11>
-<name "ルーン" "!EA0131">
-「例の作戦を実行します。
-　各部に連絡。
-　しかるべき行動を」
+<name "Rune" "!EA0131">
+"Carry out the plan we discussed.
+ Contact each group, and take the appropriate
+ actions."
 #
 <removesprite -1 11>
 <sprite "ta05a18.iph" 2 5 11>
 <sprite "ta06a00.iph" 5 4 11>
-<name "協会長秘書" "!GA0089">
-「はい」
+<name "Guild Secretary" "!GA0089">
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
@@ -534,45 +535,46 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a06.iph" 4 4 11>
-<name "ルーン" "!EA0132">
-「あら、ヴィオラ。
-　どうしたの？」
+<name "Rune" "!EA0132">
+"Oh, Viola? 
+ What can I do for you?"
 #
 <removesprite -1 11>
 <sprite "ta03a20.iph" 2 5 11>
 <sprite "ta05a06.iph" 6 4 11>
 <name "Viola" "!BA0288">
-「戦争が長引いているようなので、様子を伺いに」
+"The war's been dragging on.
+ I'd like to know why."
 #
 <sprite "ta05a12.iph" 6 4 12>
-<name "ルーン" "!EA0133">
-「あら……
-　てっきり、お願い事でもあるのかと思ったのに」
+<name "Rune" "!EA0133">
+"Oh...
+ And here I thought you'd be asking a favor."
 #
 <sprite "ta03a15.iph" 2 5 12>
 <name "Viola" "!BA0289">
-「……」
+"..."
 #
 <sprite "ta05a07.iph" 6 4 12>
-<name "ルーン" "!EA0134">
-「そう怖い顔をしないで頂戴。
-　出陣となったら、貴女の指揮下に入るように手配
-　するわ」
+<name "Rune" "!EA0134">
+"Don't glare like that.
+ If you join the battle, I'll make sure you have
+ the proper personel under your command."
 #
 <name "Viola" "!BA0290">
-「…………」
+"..."
 #
 <sprite "ta05a12.iph" 6 4 12>
-<name "ルーン" "!EA0136">
-「これでも、応援しているのよ」
+<name "Rune" "!EA0136">
+"I'm still rooting for you."
 #
 <sprite "ta03a18.iph" 2 5 12>
 <name "Viola" "!BA0291">
-「余計なお世話です」
+"Mind your own business."
 #
 <sprite "ta05a11.iph" 6 4 12>
-<name "ルーン" "!EA0137">
-「あらあら」
+<name "Rune" "!EA0137">
+"My, my."
 #
 <removesprite -1 11>
 <exit>
@@ -580,62 +582,65 @@
 <music 11>
 <background "bg010b0.iph" 11>
 <sprite "ta15a27.iph" 4 4 11>
-<name "プシェル" "!SA9049">
-「今、この街に居る魔法使いの数は少ないわよね」
+<name "Puschel" "!SA9049">
+"There aren't many wizards in the city right
+ now."
 #
 <removesprite -1 11>
 <sprite "ta15a27.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA9074">
-「そうだな」
+<name "Recchino" "!RA9074">
+"There aren't."
 #
 <sprite "ta15a34.iph" 2 5 12>
-<name "プシェル" "!SA9050">
-「乗っ取りを考えたら、いけそうじゃない？」
+<name "Puschel" "!SA9050">
+"If you were thinking about a revolt, wouldn't
+ now be the time?"
 #
-<name "レッキーノ" "!RA9075">
-「火事場泥棒は好みじゃない。
-　それに……」
+<name "Recchino" "!RA9075">
+"I'm not a common looter.
+ Besides..."
 #
 <sprite "ta15a33.iph" 2 5 12>
-<name "プシェル" "!SA9051">
-「それに？」
+<name "Puschel" "!SA9051">
+"Besides?"
 #
-<name "レッキーノ" "!RA9076">
-「一番の大ボス、協会長が残っている。
-　彼女とは、正面からぶつかりたい」
+<name "Recchino" "!RA9076">
+"The biggest, strongest boss, the head of the
+ Guild, is still here.
+ I would want to face her head on."
 #
 <sprite "ta15a21.iph" 2 5 12>
-<name "プシェル" "!SA9053">
-「そうね。
-　戦いは美しくなければ駄目よね」
+<name "Puschel" "!SA9053">
+"Indeed.
+ Battles should be beautiful."
 #
-<name "レッキーノ" "!RA9077">
-「ああ」
+<name "Recchino" "!RA9077">
+"Yeah."
 #
 <sprite "ta15a28.iph" 2 5 12>
-<name "プシェル" "!SA9054">
-「では、お客さんも来たようだし。
-　とりあえずは大ボスの味方でいましょうか」
+<name "Puschel" "!SA9054">
+"Well then, it looks like we have guests.
+ I suppose we're still allies of the big boss?"
 #
-<name "レッキーノ" "!RA9078">
-「そうだな」
+<name "Recchino" "!RA9078">
+"Yeah."
 #
 <removesprite -1 11>
 <background "bg012b0.iph" 11>
-　プシェルとレッキーノの視線の先には、複数の暗
-　殺者の姿があった。
+The two of them turn to face the assassins.
 #
 <sprite "ta15a31.iph" 4 4 11>
-<name "プシェル" "!SA9055">
-「私達が止めなくてもどうって事は無いでしょうけ
-　ど……」
+<name "Puschel" "!SA9055">
+"There's no reason we need to be the ones to
+ stop them."
 #
 <removesprite -1 11>
 <sprite "ta15a31.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA9079">
-「万が一を避ける努力をするべきだ」
+<name "Recchino" "!RA9079">
+"But we should endevor to avoid a spark becoming
+ an inferno."
 #
 <removesprite -1 11>
 <exit>
@@ -644,64 +649,64 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0535">
-「クルーネ帝国軍が降伏しました。
-　戦争終結です」
+"The Krun army has surrendered.
+ The war's over."
 #
 <name "Lazlocke">
-「そうか……思ったよりも早かったな」
+"Oh. That was quicker than I expected."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0536">
-「はい。
-　ベルーダ王国やリカオン王国からの説得が効いた
-　ようです」
+"Yes. Apparently the Bellder and Lycaon Kingdoms
+ interceded."
 #
 <name "Lazlocke">
-「なんにせよ、良い事だ」
+"However it happened, I'm glad."
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA0537">
-「そうですね。
-　祝賀会が王都で予定されていますが、出席されま
-　すか？」
+"As am I. 
+ There's a celebration scheduled in the capital.
+ Were you planning on going?"
 #
 <name "Lazlocke">
-「丁重に、お断りする」
+"I'll politely decline."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0538">
-「承知しました。
-　では、私は協会に戻ります」
+"I understand.
+ I must return to the Guild."
 #
 <name "Lazlocke">
-「協会長に、よろしく」
+"Tell the head I said hi."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA0539">
-「はい」
+"Of course."
 #
 <removesprite -1 11>
-　ソシエットと入れ替わり、セリスがやってくる。
+Soshiette leaves and Celes comes in.
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA3157">
-「師匠、戦争が終ったんですか？」
+"Master, is the war over?"
 #
 <name "Lazlocke">
-「ああ、やっとな」
+"Yeah, finally."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3158">
-「一安心ですね」
+"What a relief."
 #
 <name "Lazlocke">
-「そうだな。
-　……これで、お前も修行に集中できるな」
+"Agreed.
+ Now you can concentrate on your training
+ again."
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA3159">
-「はい！
-　頑張ります」
+"Yep!
+ I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
@@ -710,200 +715,198 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0540">
-「ご主人様。
-　協会から、出陣要請です」
+"Your Grace, the Guild is requesting you join
+ the battle."
 #
 <name "Lazlocke">
-「……わかった」
+"...Understood."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3160">
-「師匠」
+"Master."
 #
 <name "Lazlocke">
-「セリス。
-　留守番をしていろ」
+"Celes, you stay here."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3161">
-「一緒に行くのは駄目ですか？」
+"I can't come with you?"
 #
 <name "Lazlocke">
-「駄目だ」
+"No."
 #
 <removesprite -1 11>
-　俺の返事に、セリスは不服そうな顔をする。
+She doesn't look happy about that.
 #
-　しかし、俺は折れない。
+But I'm not budging.
 #
 <name "Lazlocke">
-「そんな顔をしても駄目だ」
+"Make whatever face you want, I'm not changing
+ my mind."
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0541">
-「協会からセリスさんに出陣要請はありません。
-　一緒に来られても、同じ部隊で行動できない可能
-　性が高いです」
+"The Guild isn't requesting you fight, Miss
+ Celes, and even if you could go, it's unlikely
+ you'd be able to participate in the same unit."
 #
 <sprite "ta04a24.iph" 4 4 12>
 <name "Soshiette" "!DA0542">
-「そうなれば、余計な心配をご主人様にお掛けする
-　事になるのではありませんか？」
+"If you did go, don't you think all that would
+ happen is you'd cause him extra worry?"
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta04a24.iph" 6 4 11>
 <name "Celes" "!AA3162">
-「……わかりました。
-　留守番しています」
+"...I understand.
+ I'll stay at home."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「ソシエット、他に出るヤツは？」
+"Soshiette, who else is being sent?"
 #
 <sprite "ta04a62.iph" 4 4 11>
 <name "Soshiette" "!DA0543">
-「ヴィオラ様、メイツェル様、ヘンリエッタ様です」
+"Viola, Mayzel, and Henrietta."
 #
 <name "Lazlocke">
-「ヘンリエッタまで来るのか？」
+"Even Henrietta's going?"
 #
 <sprite "ta04a68.iph" 4 4 12>
 <name "Soshiette" "!DA0544">
-「はい。
-　最大戦力で、一気に終らせる計画です。
-　非公式ながら、エルザ様、キーマ様も参加されま
-　す」
+"Yes. They want to end the war as quickly as
+ possible using overwhelming force.
+ Unofficially, Elsa and Keima are also
+ participating."
 #
 <name "Lazlocke">
-「ちょっとした同窓会だな。
-　協会長は？」
+"Sounds like a class reunion.
+ What about the head of the class?"
 #
 <sprite "ta04a62.iph" 4 4 12>
 <name "Soshiette" "!DA0545">
-「王都の防衛に残ります。
-　戦後に、全員で顔を見せに来るようにとの命令が
-　出ています」
+"She's staying in the capital to protect it.
+ After the war, you, and all the others, are
+ ordered to report back."
 #
 <name "Lazlocke">
-「命令ね。
-　命令なら従わないとな。
-　……行くぞ」
+"Ordered, huh?
+ If it's an order, I don't have much choice.
+ I'll go."
 #
 <sprite "ta04a00.iph" 4 4 12>
 <name "Soshiette" "!DA0546">
-「はい」
+"I understand."
 #
 <removesprite -1 11>
-　俺は協会の要請により、出陣した。
+I leave for battle at the behest of the Guild.
 #
 <exit>
 :377E
 <music 23>
 <background "bg012a0.iph" 11>
-　それから一ヶ月後。
+It's been a month.
 #
-　戦争は終結した。
+The war's over.
 #
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「あー、終った終った」
+"Aaah... Finally done."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3163">
-「師匠……」
+"Master..."
 #
 <name "Lazlocke">
-「久しぶりだな。
-　ちゃんと修行はしていたか？」
+"Long time, no see.
+ Have you been keeping up with your training?"
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA3164">
-「……駄目でした。
-　集中できなくて」
+"...I couldn't.
+ I couldn't concentrate."
 #
 <name "Lazlocke">
-「そうか。
-　まあ、戦争は終ったんだ。
-　これからは修行がいくらでも出来るぞ」
+"I see. Well, the war's over now.
+ You can train however you want again."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA3165">
-「はい。
-　指導、よろしくお願いします」
+"Yeah. I'm glad you're back teaching me again."
 #
 <name "Lazlocke">
-「わかった。
-　が、今日は休ませてくれ」
+"I know, but please let me rest today."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3166">
-「はい♪」
+"Yes, sir!♪"
 #
 <removesprite -1 11>
 <exit>
 :3A34
 <music 23>
 <background "bg012a0.iph" 11>
-　それから一ヶ月後。
+It's been a month.
 #
-　戦争は終結した。
+The war's over.
 #
 <music 10>
 <background "bg008a0.iph" 11>
 <sprite "ta03a38.iph" 4 4 11>
 <name "Viola" "!BA0292">
-「疲れたわね」
+"I'm exhausted."
 #
 <removesprite -1 11>
 <sprite "ta03a38.iph" 2 4 11>
 <sprite "ta02a34.iph" 6 5 11>
 <name "Elle" "!CA0233">
-「師匠！」
+"Master!"
 #
 <sprite "ta03a01.iph" 2 4 12>
 <name "Viola" "!BA0293">
-「出迎え、ありがとう。
-　ん、どうしたの？」
+"Thank you for meeting us.
+ Hm? Is something the matter?"
 #
 <sprite "ta02a27.iph" 6 5 12>
 <name "Elle" "!CA0234">
-「いえ、師匠が無事で……」
+"No, I'm just glad you're okay..."
 #
 <sprite "ta03a03.iph" 2 4 12>
 <name "Viola" "!BA0294">
-「私が死ぬと思ったの？」
+"You were worried I'd die?"
 #
 <sprite "ta02a32.iph" 6 5 12>
 <name "Elle" "!CA0235">
-「そ、そうではありませんが……」
+"I-I wasn't..."
 #
 <sprite "ta03a01.iph" 2 4 12>
 <name "Viola" "!BA0295">
-「……心配してくれてありがとう。
-　でも、私の心配をする前に、腕を磨きなさい」
+"...Thank you for your concern, but you should
+ spend your time improving, not worrying about
+ me."
 #
 <sprite "ta03a06.iph" 2 4 12>
 <name "Viola" "!BA0296">
-「貴女が強くなれば、私の心配をしなくても良くな
-　るでしょう」
+"Once you become stronger, there won't be any
+ need for you to worry about me."
 #
 <sprite "ta02a09.iph" 6 5 12>
 <name "Elle" "!CA0236">
-「そ、そうですね。
-　頑張ります！」
+"Y-You're right.
+ I'll do my best!"
 #
 <sprite "ta03a01.iph" 2 4 12>
 <name "Viola" "!BA0297">
-「よろしい。
-　……少し横になるわ。
-　私の事は良いから、修行に励みなさい」
+"That's better.
+ I need to lay down for a while.
+ I'm fine. Train hard."
 #
 <sprite "ta02a10.iph" 6 5 12>
 <name "Elle" "!CA0238">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
@@ -912,138 +915,142 @@
 <background "bg010a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0547">
-「戦争終結です。
-　ご苦労様でした」
+"The war's over.
+ Thank you for your assistance."
 #
 <name "Lazlocke">
-「んー……まあ、ヴィオラとヘンリエッタが暴れた
-　だけな気がするが……」
+"Hmm...
+ Well, I feel like it was kind of just Viola and
+ Henrietta rampaging through everything..."
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA0548">
-「あの二人を抑えられるのは、ご主人様しかいませ
-　ん」
+"You're the only one who can rein them in."
 #
 <name "Lazlocke">
-「嫌な頼られ方だ」
+"I despise that."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0549">
-「なにはともあれ、ありがとうございました」
+"Regardless, thank you."
 #
 <name "Lazlocke">
-「おう」
+"Yeah."
 #
 <removesprite -1 11>
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3167">
-「師匠」
+"Master."
 #
 <name "Lazlocke">
-「久しぶりだな」
+"Long time, no see."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3168">
-「ご無事でなによりです」
+"I'm so glad you're okay."
 #
 <name "Lazlocke">
-「ああ、無事さを確かめる為に、一戦するか？」
+"Yeah. How about we go a round to make sure of
+ that?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3169">
-「模擬戦ですか？」
+"You mean spar?"
 #
 <name "Lazlocke">
-「いや、ベッドの中」
+"No, in bed."
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA3170">
-「…………はい♪」
+"...Yes, sir!♪"
 #
 <removesprite -1 11>
 <exit>
 :427B
 <music 23>
 <background "bg012a0.iph" 11>
-　それから一ヶ月後。
+It's been a month.
 #
-　戦争は終結した。
+The war's over.
 #
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta06a00.iph" 4 4 11>
-<name "協会長秘書" "!GA0090">
-「ご苦労様でした」
+<name "Guild Secretary" "!GA0090">
+"Thank you for everything."
 #
 <removesprite -1 11>
 <sprite "ta05a21.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "ルーン" "!EA0139">
-「私は大丈夫よ。
-　それより、前線に行った魔法使い達の被害は？」
+<name "Rune" "!EA0139">
+"I'm fine.
+ More importantly, were any of the wizards on
+ the front lines hurt?"
 #
-<name "協会長秘書" "!GA0091">
-「軽傷の者は多数ですが、戦死はありません。
-　グレイトシックスが率いているだけありますね」
+<name "Guild Secretary" "!GA0091">
+"Many have minor injuries, but nobody was
+ killed. It's thanks to the Great Six's 
+ command."
 #
 <sprite "ta05a07.iph" 2 5 12>
-<name "ルーン" "!EA0140">
-「そう……
-　ヴィオラはどうだったの？」
+<name "Rune" "!EA0140">
+"I see.
+ How's Viola?"
 #
-<name "協会長秘書" "!GA0092">
-「指揮官として、高い評価を得ているようです」
+<name "Guild Secretary" "!GA0092">
+"She's greatly esteemed for her command."
 #
 <sprite "ta05a06.iph" 2 5 12>
-<name "ルーン" "!EA0141">
-「そう……」
+<name "Rune" "!EA0141">
+"I see."
 #
-<name "協会長秘書" "!GA0093">
-「問題点としては、ヘンリエッタ様です」
+<name "Guild Secretary" "!GA0093">
+"The problem is Henrietta."
 #
 <sprite "ta05a22.iph" 2 5 12>
-<name "ルーン" "!EA0142">
-「ヘンリエッタが？」
+<name "Rune" "!EA0142">
+"Henrietta?"
 #
-<name "協会長秘書" "!GA0094">
-「味方から、やり過ぎだとの苦情が……」
+<name "Guild Secretary" "!GA0094">
+"Our allies complained that she went too far."
 #
 <sprite "ta05a24.iph" 2 5 12>
-<name "ルーン" "!EA0143">
-「あら。
-　敵に同情するぐらい、やっちゃったの？」
+<name "Rune" "!EA0143">
+"Oh, my. It was bad enough for them to
+ sympathize with the enemy?"
 #
-<name "協会長秘書" "!GA0096">
-「はい。
-　ラズロック様が居なければ、もっと酷い事になっ
-　ていたと思われます」
+<name "Guild Secretary" "!GA0096">
+"Yes. If Lazlocke hadn't been there, it sounds
+ like it would have been even worse."
 #
 <sprite "ta05a21.iph" 2 5 12>
-<name "ルーン" "!EA0144">
-「ラズロックを引っ張り出したのは正解ね」
+<name "Rune" "!EA0144">
+"Then it was the right decision dragging him
+ in, wasn't it?"
 #
-<name "協会長秘書" "!GA0097">
-「英断でした」
+<name "Guild Secretary" "!GA0097">
+"Very wise, ma'am."
 #
 <sprite "ta05a24.iph" 2 5 12>
-<name "ルーン" "!EA0145">
-「まあ、しばらくは拗ねて協会に近付いてくれない
-　だろうけど……
-　こっちに戻って来るのはいつぐらいになりそう」
+<name "Rune" "!EA0145">
+"Well, he'll pout for a while, and want to stay
+ away from the Guild though...
+ I wonder when he'll make his way back."
 #
-<name "協会長秘書" "!GA0098">
-「はい。
-　あと三日で、この街に到着する予定です。
-　出迎えの準備はどうしますか？」
+<name "Guild Secretary" "!GA0098">
+"Yes, ma'am.
+ They're due to return to the city in three
+ days time. I assume we should prepare for
+ their arrival?"
 #
 <sprite "ta05a12.iph" 2 5 12>
-<name "ルーン" "!EA0147">
-「派手にお願い」
+<name "Rune" "!EA0147">
+"Make it extravagant."
 #
-<name "協会長秘書" "!GA0099">
-「承知しました」
+<name "Guild Secretary" "!GA0099">
+"Understood."
 #
 <removesprite -1 11>
 <exit>
