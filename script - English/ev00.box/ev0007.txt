@@ -1,0 +1,996 @@
+\x1A\x01\x07\x04\x05\x78\x84\x00\x01\x0E :39: \x1A\x01\x0A\x02\x01\xA5 1 \x01\x15 :39: \x16 :350: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x78\x84\x01\x15 :34F: 
+:39
+\x1A\x01\x07\x04\x05\x79\x84\x00\x01\x0E :72: \x1A\x01\x0A\x02\x01\xA4 3 \x01\x15 :72: \x16 :8C3: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x79\x84\x01\x15 :34F: 
+:72
+\x1A\x01\x07\x04\x05\x7A\x84\x00\x01\x0E :AB: \x1A\x01\x0A\x02\x01\xA5 3 \x01\x15 :AB: \x16 :BAB: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x7A\x84\x01\x15 :34F: 
+:AB
+\x1A\x01\x07\x04\x05\x7B\x84\x00\x01\x0E :F2: \xA8 "魔法知識" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 2 \x01\x15 :F2: \x16 :DB6: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x7B\x84\x01\x15 :34F: 
+:F2
+\x1A\x01\x07\x04\x05\x7C\x84\x00\x01\x0E :139: \xA8 "魔法知識" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 4 \x01\x15 :139: \x16 :1C78: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x7C\x84\x01\x15 :34F: 
+:139
+\x1A\x01\x07\x04\x05\x7D\x84\x00\x01\x0E :180: \xA8 "魔法知識" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :180: \x16 :1FB3: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x7D\x84\x01\x15 :34F: 
+:180
+\x1A\x01\x07\x04\x05\x7E\x84\x00\x01\x0E :1C7: \xA8 "魔法知識" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 10 \x01\x15 :1C7: \x16 :22FE: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x7E\x84\x01\x15 :34F: 
+:1C7
+\x1A\x01\x07\x04\x05\x7F\x84\x00\x01\x0E :229: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 3 \x01\x15 :229: \xA8 "魔力増加" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x15 :229: \x16 :2A8B: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x7F\x84\x01\x15 :34F: 
+:229
+\x1A\x01\x07\x04\x05\x80\x84\x00\x01\x0E :262: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :262: \x16 :3391: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x80\x84\x01\x15 :34F: 
+:262
+\x1A\x01\x07\x04\x05\x81\x84\x00\x01\x0E :29B: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :29B: \x16 :36C1: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x81\x84\x01\x15 :34F: 
+:29B
+\x1A\x01\x07\x04\x05 0x8400010E  :2D4: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :2D4: \x16 :3CFC: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x82\x84\x01\x15 :34F: 
+:2D4
+\x1A\x01\x07\x04\x05\x83\x84\x00\x01\x0E :30D: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :30D: \x16 :42AE: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x83\x84\x01\x15 :34F: 
+:30D
+\x1A\x01\x07\x04\x05\x84\x84\x00\x01\x0E :34F: \xE9 2000 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 1 \x01\x15 :34F: \x16 :4610: \x0A\x04\x00\x6E\x84\x01\x0A\x04
+#
+\x84\x84\x01\x15 :34F: 
+:34F
+\x78
+:350
+<music 10>
+<background "bg002a0.iph" 11>
+There are seven kinds of magic.
+Fire, water, wind, earth, lightning, dark, and
+light.
+#
+<name "Lazlocke">
+"Each element has its strengths and weaknesses.
+ For now, I'll just cover the basics."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0234">
+"Yes, sir."
+#
+<removesprite -1 11>
+Fire specialized in attack, or rather, you
+could say all it can do is attack.
+It can be strong in wide areas, but it's hard
+to hit a moving target with it.
+#
+However, there's been lots of research in it,
+and it's generally easy to learn fire spells.
+#
+Water magic is well balanced between offense
+and defense. Water magical attacks are
+particularly effective against isolated
+enemies.
+#
+Wind spells encompass a large range of effects,
+just like you'd picture the caprice of wind.
+#
+But they're almost all fairly weak.
+#
+Earth magic is more dedicated to immobilizing
+or disabling your opponent than attacking.
+It's good for enhancing yourself, as well as
+healing.
+#
+Lightning magic is exclusively offensive.
+#
+There are tons of spells that attack straight
+from the wizard to their target.
+#
+It's an element that excels for attacking, but
+it consumes a lot of mana, and its spells can
+be difficult to learn.
+#
+Dark magic has a lot of spells focused on 
+damaging the enemy through their mana.
+#
+Light magic's problem is that its spells take a
+long time to cast, but they're strong and wide
+ranging. There are also spells for sealing your
+opponent and countering what they can do.
+#
+<name "Lazlocke">
+"Well, there are exceptions to most of that,
+ but you should remember the basics."
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA0235">
+"I understand."
+#
+<removesprite -1 11>
+<exit>
+:8C3
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Celes, what kind of fighting style were you
+ thinking about using?"
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0236">
+"Fighting style?"
+#
+<name "Lazlocke">
+"Yeah. Like just magic?
+ Or with weapons?
+ Or martial arts?"
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0237">
+"Honestly, I'm not sure.
+ Do you have a recommendation?"
+#
+<name "Lazlocke">
+"Hmm... To be blunt, you're not really geared
+ towards anything in particular."
+#
+<name "Lazlocke">
+"I think you can do whatever you want."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0238">
+"Then I'll leave it to you.
+ I'll work hard to do whatever you say."
+#
+<name "Lazlocke">
+"I see. All right.
+ I'll think it over."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA0239">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:BAB
+<music 10>
+<background "bg002a0.iph" 11>
+I need to think about what kind of magic I want
+to teach Celes.
+#
+Fire magic is focused on attack.
+#
+Water magic is the easiest to use at length.
+#
+Wind magic values speed.
+#
+Earth magic is good for healing, but is bad
+for ranged fights.
+#
+Lightning magic are direct attacks easy to hit
+with.
+#
+Dark and light magic have all kinds of uses.
+#
+<name "Lazlocke">
+"If I don't want to overwhelm her, I should have
+ her learn fire and water magic, with some
+ support from earth.
+ Maybe lightning if we have time."
+#
+<name "Lazlocke">
+"But what may be most effective overall is
+ specializing in a single element."
+#
+<name "Lazlocke">
+"Hmm...
+ This is complicated."
+#
+<exit>
+:DB6
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0240">
+"Master."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0241">
+"What kind of organization is the Wizards
+ Guild?"
+#
+<name "Lazlocke">
+"Huh?"
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0242">
+"Um, I mean I know it generally...
+ But I don't know exactly what it does."
+#
+<name "Lazlocke">
+"Ah, well, they don't advertise that much.
+ Okay, I'll tell you."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0243">
+"Thank you."
+#
+I clear my throat and look her dead in the eyes.
+#
+<name "Lazlocke">
+"It's the place where bad wizards go.
+ Stay far away from it."
+#
+<removesprite -1 11>
+Something slams into my head.
+#
+Not from Celes.
+#
+An intruder.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0094">
+"The problem is that we have people spreading
+ lies."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA0244">
+"Miss Soshiette."
+#
+<sprite "ta04a63.iph" 6 4 12>
+<name "Soshiette" "!DA0095">
+"The Wizards Guild shelters and raises wizards,
+ as well as polices them."
+#
+<removesprite -1 11>
+She butts in and takes over the explanation.
+#
+<sprite "ta04a67.iph" 4 4 11>
+<name "Soshiette" "!DA0096">
+"First of all, the Guild is made up of
+ administrators, liaisons, and members."
+#
+<sprite "ta04a66.iph" 4 4 12>
+<name "Soshiette" "!DA0097">
+"Administrators handle Guild business.
+ Liaisons are responsible for communication
+ across the Guild. Members are simply those who
+ the Guild has sanctioned to act."
+#
+<removesprite -1 11>
+<sprite "ta01a08.iph" 2 5 11>
+<sprite "ta04a66.iph" 6 4 11>
+<name "Celes" "!AA0245">
+"Sanctioned to act?"
+#
+<sprite "ta04a63.iph" 6 4 12>
+<name "Soshiette" "!DA0098">
+"Yes. They follow the rules set down by the
+ Guild."
+#
+<sprite "ta04a66.iph" 6 4 12>
+<name "Soshiette" "!DA0099">
+"Furthermore, the administrators each have their
+ own field. Management, Diplomacy, Military,
+ Research, Development, Finance, Personnel,
+ Intelligence, and Preservation."
+#
+<sprite "ta04a63.iph" 6 4 12>
+<name "Soshiette" "!DA0100">
+"For example, the Education group builds and
+ runs schools for learning magic, while 
+ Preservation arrests lawbreaking wizards."
+#
+<removesprite -1 11>
+Management is focused on keeping the Guild
+running smoothly, while Diplomacy maintains
+relations with governments and VIPs.
+#
+Military is concerned with military applications
+of magic, and Research handles, well, research.
+#
+Finance watches the Guild's purse strings,
+Personnel is Guild internal affairs, and
+Intelligence handles information gathering.
+#
+<sprite "ta01a07.iph" 4 5 11>
+<name "Celes" "!AA0246">
+"Do you belong to one of those groups?"
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta04a63.iph" 6 4 11>
+<name "Soshiette" "!DA0101">
+"I'm part of Conservation, but also currently
+ serving as a liaison."
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA0247">
+"Oh, I see."
+#
+She nods and looks my way.
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA0248">
+"And you're...?"
+#
+<name "Lazlocke">
+"I'm just a regular Guild member."
+#
+<sprite "ta04a65.iph" 6 4 12>
+<name "Soshiette" "!DA0102">
+"While true, you're in front of your darling
+ apprentice.
+ Why not brag about your actual position?"
+#
+<name "Lazlocke">
+"I'm not going to be an administrator."
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA0249">
+"Huh?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0103">
+"He means to say that he has standing
+ invitations from both Education and
+ Intelligence."
+#
+<name "Lazlocke">
+"But I've turned them down already.
+ I'm just a member. Nobody should want anything
+ to do with running the Guild."
+#
+<sprite "ta01a07.iph" 2 5 12>
+<name "Celes" "!AA0250">
+"I-I see."
+#
+<sprite "ta04a07.iph" 6 4 12>
+<name "Soshiette" "!DA0104">
+"Please don't say that.
+ Someday in the future, when Miss Celes has
+ become an admirable wizard, I expect to invite
+ her to join Preservation with me."
+#
+<name "Lazlocke">
+"You're already planning on throwing my
+ apprentice into the darkness!?"
+#
+<sprite "ta04a19.iph" 6 4 12>
+<name "Soshiette" "!DA0105">
+"How rude.
+ Do you have a death wish?"
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA0251">
+"Now, now..."
+#
+<removesprite -1 11>
+Afterward, I gave her a detailed and accurate
+lecture on the Guild.
+#
+<exit>
+:1C78
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0252">
+"Master, how big an organization is the Wizards
+ Guild?"
+#
+<name "Lazlocke">
+"That's a hard question to answer.
+ Well, I guess you'd say it's pretty big."
+#
+<removesprite -1 11>
+It's active in not just Queensbell, but the
+surrounding countries. Furthermore, it has
+branches in a few beyond that, and even some in
+countries we're not all that friendly with.
+#
+<name "Lazlocke">
+"It's really spread like wildfire over the last
+ couple decades."
+#
+The Wizards Guild primarily tries to preserve
+existing organizations when it can.
+#
+So as long as the headquarters stays strong,
+it can expand its power and influence by
+incorporating existing groups into itself.
+#
+Of course, in the early going, there were a lot
+who resisted. Many of them were dismantled by
+force.
+#
+After that, because of their open support for
+the royal families in each kingdom, the Guild
+was able to enjoy significant influence.
+#
+<name "Lazlocke">
+"Well, it's an organization you definitely
+ don't want to have as your enemy."
+#
+<exit>
+:1FB3
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0253">
+"Master, the Wizards Guild is good, right?"
+#
+<name "Lazlocke">
+"I guess. It's useful for wizards, and since the
+ Guild was established, there's been a huge
+ decline in magical crimes."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA0254">
+"There has?"
+#
+<name "Lazlocke">
+"Yeah. Abuse of magic used to be an awful
+ thing."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0255">
+"I can't believe someone would use magic to do
+ bad things. That's horrible."
+#
+<name "Lazlocke">
+"Yeah, but regular people were cruel too.
+ Just using magic at all was an excuse to
+ discriminate and attack you."
+#
+<name "Lazlocke">
+"Well, that came from fear due to an ignorance
+ of magic. Thanks to the Guild, magic is moving
+ in a much better direction."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0256">
+"The Guild's incredible."
+#
+<name "Lazlocke">
+"I guess."
+#
+<removesprite -1 11>
+<exit>
+:22FE
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0257">
+"Um, Master..."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0258">
+"Um, I heard a bad rumor about the Guild in 
+ town."
+#
+<name "Lazlocke">
+"A bad rumor?
+ What was it?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0259">
+"Um, that a wizard who went against the Guild
+ was forced to surrender...
+ Like, completely and entirely...
+ Would that really happen?"
+#
+She has a rosier image of the Guild and doesn't
+think it's possible.
+I feel bad.
+#
+<name "Lazlocke">
+"Unfortunately, it's likely true."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0260">
+"Huh?"
+#
+<name "Lazlocke">
+"If there are wizards who refuse to join the
+ Guild, it makes people question why the Guild
+ exists. Non-participants might be overlooked,
+ but those against it will be squelched."
+#
+And in some cases, non-participants will be
+too.
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0261">
+"O-Oh, I see..."
+#
+<name "Lazlocke">
+"Well, it doesn't have anything to do with you.
+ Don't worry about it."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0262">
+"But..."
+#
+<name "Lazlocke">
+"If you can't ignore it, be practical.
+ Opposing the Guild is being against its 
+ philosophy and ideals. There's no discussion
+ that will resolve that."
+#
+<name "Lazlocke">
+"Leaving someone like that to develop and expand
+ their influence can cause all kinds of damage,
+ even more when action becomes necessary."
+#
+Anybody who would seriously be a threat to the
+Guild would be a wizard themselves.
+#
+Meaning that they're a potential threat on 
+multiple levels.
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA0263">
+"I-I understand."
+#
+<removesprite -1 11>
+She doesn't seem fully convinced, but she
+nodded, so I think a little got through.
+#
+You could say that the Guild is righteous...
+#
+But I think it's best if you don't push things.
+#
+Thinking about it always seems to incite
+Soshiette's ire anyway.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0106">
+"You called?"
+#
+<name "Lazlocke">
+"Whoa!"
+#
+<removesprite -1 11>
+<exit>
+:2A8B
+<music 10>
+<background "bg004a0.iph" 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0107">
+"There are aptitudes in magic."
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA0264">
+"Aptitudes?"
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA0108">
+"Yes. You know of the seven elements?"
+#
+<sprite "ta01a09.iph" 2 5 12>
+<name "Celes" "!AA0265">
+"Y-Yes. Fire, water, wind, earth, lightning,
+ dark, and light."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0109">
+"It varies from person to person how easy or
+ difficult each element is for them to handle."
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA0266">
+"It does?"
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA0110">
+"Yes. You should think about your own aptitude
+ when you consider what magic to learn."
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA0267">
+"I see.
+ ...But how do you find that out?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0112">
+"That's what this is for.
+ It's a crystal for determining magical
+ aptitude."
+#
+<sprite "ta01a10.iph" 2 5 12>
+<name "Celes" "!AA0268">
+"...This feels like it's taken a suspicious
+ turn all of a sudden."
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA0113">
+"Don't worry about it.
+ Put your hand on the crystal.
+ The color of the crystal will change."
+#
+<sprite "ta01a07.iph" 2 5 12>
+<name "Celes" "!AA0269">
+"So the color shows your aptitude?
+ All right."
+#
+<sprite "ta04a06.iph" 6 4 12>
+<name "Soshiette" "!DA0114">
+"........."
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA0270">
+"It's a mix of a colors...
+ It feels weird.
+ What does that mean?"
+#
+<sprite "ta04a07.iph" 6 4 12>
+<name "Soshiette" "!DA0115">
+"...You have an aptitude for all the elements."
+#
+<sprite "ta01a09.iph" 2 5 12>
+<name "Celes" "!AA0271">
+"Really?"
+#
+<sprite "ta04a23.iph" 6 4 12>
+<name "Soshiette" "!DA0116">
+"Yes, but this is..."
+#
+<name "Lazlocke">
+"Aptitude is something for people who were born
+ with a lot of mana."
+#
+<sprite "ta04a24.iph" 6 4 12>
+<name "Soshiette" "!DA0117">
+"Your Grace."
+#
+<name "Lazlocke">
+"Celes, who grew up without any mana, isn't
+ biased towards any element. I was also very
+ careful when I gave her mana to not push her
+ towards any."
+#
+<sprite "ta04a28.iph" 6 4 12>
+<name "Soshiette" "!DA0118">
+"I see."
+#
+<name "Lazlocke">
+"Which is to say that I want you to learn magic
+ without worrying about which element you're
+ best suited for."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA0272">
+"Y-Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:3391
+<music 2>
+<background "bg012a0.iph" 11>
+The city of Loria.
+#
+In the center of the city is Aria Tower, where
+the Guild makes its headquarters.
+The city is roughly divided into five areas,
+central, north, south, east, and west.
+#
+The central area is where all the governing
+offices are, as well as the homes for the
+people who work there.
+#
+Also known as the rich district.
+#
+There's not a big difference between the other
+four. All of them have a little bit of 
+everything.
+#
+If you had to generalize them though, the south
+is mostly commercial, the north is mostly
+agricultural, the east has the most parks, and
+the west has restaurants and bars.
+#
+I guess that's accurate enough.
+#
+My house is a bit south from the southern
+section, not quite part of the town proper.
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0273">
+"When you eat in the city, you want to go to
+ the west or the south."
+#
+<name "Lazlocke">
+"Yeah. Central's good too, but the prices take
+ a big jump."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA0274">
+"Then let's go to a nearby south area."
+#
+<name "Lazlocke">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:36C1
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0275">
+"Master, what's an association?"
+#
+<name "Lazlocke">
+"A group of individuals with a common purpose."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0276">
+"Is that different from an organization?"
+#
+<name "Lazlocke">
+"An organization is a group with distinct roles.
+ So long as they follow the organizational
+ decisions, the members might and reasons people
+ are a part of it can vary a lot."
+#
+<name "Lazlocke">
+"In an association, on the other hand, there's
+ hardly any ranks or leaders.
+ They're united for the same reason."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA0277">
+"Which is better?"
+#
+<name "Lazlocke">
+"Hmm... I think considering diversity and
+ adaptability, an organization is probably
+ superior."
+#
+<name "Lazlocke">
+"But associations have advantages too."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0278">
+"They do?"
+#
+<name "Lazlocke">
+"Yeah. Since it's a group of individuals with a
+ common purpose, the resolve and direction
+ remains even if only one person's left.
+ It can be hard to fully stop them."
+#
+<name "Lazlocke">
+"In comparison, an organization can be thrown
+ into turmoil if it loses its leaders because
+ everyone who belongs to it is in it for
+ different reasons."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA0279">
+"The Wizards Guild is an organization then?"
+#
+<name "Lazlocke">
+"Yeah. There would be a world of trouble if
+ something happened to its leader."
+ 
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA0280">
+"I-I see.
+ That's a little scary."
+#
+<name "Lazlocke">
+"Hmm, well, there are precautions in place.
+ I wouldn't worry about it."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0281">
+"Precautions?"
+#
+<name "Lazlocke">
+"Yeah. Everyone knows they have their weaknesses
+ and does what they can to mitigate them.
+ Organizations are no different."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0282">
+"I see."
+#
+<removesprite -1 11>
+<exit>
+:3CFC
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+"We're going to the school."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0283">
+"The school?"
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA0284">
+"Um, I don't have any good memories of it..."
+#
+<name "Lazlocke">
+"Hmm... Don't worry about it."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA0285">
+"You say that, but I still do."
+#
+<name "Lazlocke">
+"What do you plan on doing when you run into
+ its students at tournaments?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0286">
+"Huh?"
+#
+<name "Lazlocke">
+"If you're that traumatized, are you going to
+ run away?
+ I assume not."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA0287">
+"Y-Yes, sir.
+ I won't run."
+#
+<name "Lazlocke">
+"Then don't hide from the school."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA0288">
+"Yes, sir."
+#
+<name "Lazlocke">
+"And... when the time comes, bring what you
+ remember to your duels."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA0289">
+"Huh?"
+#
+<name "Lazlocke">
+"If you're lucky, they won't think you'll be
+ able to use magic, and even if they know you
+ can, they definitely won't think you're better
+ than them."
+#
+<name "Lazlocke">
+"Seize that opening.
+ Teach them a lesson."
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA0290">
+"Y-Yes, sir."
+#
+<removesprite -1 11>
+Celes and I go to the school.
+#
+...And make our way home.
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA0291">
+"T-That was easier than I thought it'd be."
+#
+<name "Lazlocke">
+"Then no problem, yeah?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0292">
+"Yes."
+#
+<removesprite -1 11>
+<exit>
+:42AE
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA0293">
+"Master, I just realized that your door doesn't
+ have a lock."
+#
+<name "Lazlocke">
+"Hm, yeah. The doors on this house open and
+ close by magic."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0294">
+"Magic?"
+#
+<name "Lazlocke">
+"There's writing above the entrance. 
+ Anybody whose name is written there can open
+ the door.
+ I wrote your name when I brought you here."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA0295">
+"Now that you mention it..."
+#
+<name "Lazlocke">
+"That's why the house doesn't have locks or
+ keys."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA0296">
+"I see."
+#
+<name "Lazlocke">
+"Well, it's only the front door that opens and
+ closes with magic. The back door and windows
+ are normal."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA0297">
+"There doesn't seem much reason to do them."
+#
+<name "Lazlocke">
+"The real advantage is that the door opens on
+ its own."
+#
+<removesprite -1 11>
+<exit>
+:4610
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"So you wear glasses when you're studying?"
+#
+<sprite "ta01b07.iph" 4 4 11>
+<name "Celes" "!AA0298">
+"Yes. My eyes aren't that bad, but they help me
+ concentrate."
+#
+<name "Lazlocke">
+"I see."
+#
+<sprite "ta01b06.iph" 4 4 12>
+<name "Celes" "!AA0299">
+"Um, should I not wear them?"
+#
+<name "Lazlocke">
+"No, it's fine.
+ You just have a more adult vibe with them on."
+#
+<sprite "ta01b15.iph" 4 4 12>
+<name "Celes" "!AA0300">
+"Ahaha...
+ An adult, huh?"
+#
+<name "Lazlocke">
+"But only wear them when you're studying.
+ They could be dangerous when you're
+ exercising."
+#
+<sprite "ta01b09.iph" 4 4 12>
+<name "Celes" "!AA0301">
+"Yes, sir.
+ I understand."
+#
+<removesprite -1 11>
+<exit>
+\x78

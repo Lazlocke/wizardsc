@@ -51,7 +51,7 @@
 #
 <name "Lazlocke">
 "That's right. She's not so great at the other
- schools, but she's an expert when it comes to
+ elements, but she's an expert when it comes to
  lightning magic."
 #
 <name "Lazlocke">
