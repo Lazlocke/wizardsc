@@ -86,82 +86,86 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA0135">
-「おはようございます」
+"Good morning."
 #
 <name "Lazlocke">
-「おはよう」
+"Morning."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0432">
-「おはようございます」
+"Good morning."
 #
 <name "Lazlocke">
-「で、どうして朝から居るんだ？」
+"So, what are you doing here so early?"
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0136">
-「朝食をご用意に」
+"Making breakfast."
 #
 <removesprite -1 11>
 <sprite "ta01a09.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA0433">
-「あ、師匠。
-　用意されてますよ。
-　美味しそうです」
+"Ah, Master.
+ It's all finished.
+ It looks delicious."
 #
 <name "Lazlocke">
-「見た目に騙されるな。
-　ソシエットの料理はイマイチだ」
+"Don't be fooled by apperances.
+ Her cooking is terrible."
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA0137">
-「失礼ですね。
-　簡単な料理なら大丈夫です」
+"How rude.
+ I'm fine with simple dishes."
 #
 <name "Lazlocke">
-「そうか。
-　じゃあ、頂きます」
+"Uh huh.
+ Let's dig in then."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA0434">
-「頂きます」
+"Let's eat."
 #
 <removesprite -1 11>
-　モグモグ……ご馳走様。
+Mmm...
+Well, it's food.
 #
 <name "Lazlocke">
-「……それで、どうして朝から居るんだ？」
+"...And, what are you doing here in the first
+ place?"
 #
 <sprite "ta04a23.iph" 4 4 11>
 <name "Soshiette" "!DA0138">
-「食べるだけ食べておいて、それは酷いです」
+"This is the time for eating.
+ You're being impolite."
 #
 <name "Lazlocke">
-「いや、まあ、理由は聞いておかないと」
+"Oh, well, I need to know why."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a23.iph" 6 4 11>
 <name "Celes" "!AA0435">
-「そう思います」
+"I think it's a fair question."
 #
 <sprite "ta04a65.iph" 6 4 12>
 <name "Soshiette" "!DA0139">
-「セ、セリスさんまで……」
+"E-Even you..."
 #
 <name "Lazlocke">
-「冗談はその辺りにして、理由は？」
+"Enough joking around.
+ Out with it."
 #
 <sprite "ta04a23.iph" 6 4 12>
 <name "Soshiette" "!DA0140">
-「特になんでもありません」
+"No reason in particular."
 #
 <removesprite -1 11>
-　後日、協会の仕事で失敗し、逃げて来ていた事が
-　判明した。
+Later, I found out she had messed up a job for
+the Guild and was trying to hide.
 #
 <exit>
 :C68
@@ -169,230 +173,231 @@
 <background "bg008a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0052">
-「おはようございます！
-　すみません、寝坊して……」
+"Good morning!
+ Sorry, I overslept..."
 #
 <name "Lazlocke">
-「おう、おはよう」
+"Hey. Morning."
 #
 <sprite "ta02a06.iph" 4 4 12>
 <name "Elle" "!CA0053">
-「……あれ？」
+"...Huh?"
 #
 <name "Lazlocke">
-「どうした？」
+"What?"
 #
 <sprite "ta02a27.iph" 4 4 12>
 <name "Elle" "!CA0054">
-「いえ……どうしてセリスの師匠がここに？
-　あと、私の師匠は？」
+"Um, what are you doing here?
+ Where's my master?"
 #
 <name "Lazlocke">
-「ああ、まだ寝てる」
+"Ah, she's still in bed."
 #
 <sprite "ta02a28.iph" 4 4 12>
 <name "Elle" "!CA0055">
-「…………寝てる？」
+"...In bed?"
 #
 <name "Lazlocke">
-「ああ、寝かせておいてやれ」
+"Yeah. Let her sleep."
 #
 <sprite "ta02a74.iph" 4 4 12>
 <name "Elle" "!CA0056">
-「は、はぁ……え？
-　と言う事は……」
+"U-Um... huh?
+ You mean..."
 #
 <name "Lazlocke">
-「言っておくが、ヴィオラは俺の魔力は必要としな
-　いぞ」
+"You know, Viola doesn't need any mana from me."
 #
 <sprite "ta02a73.iph" 4 4 12>
 <name "Elle" "!CA0057">
-「そ、そうですよね。
-　あははは……勘違いしちゃいました」
+"Y-Yeah, you're right.
+ Hahahaha...
+ I guess I misunderstood."
 #
 <name "Lazlocke">
-「普通に一夜を共にしただけだ」
+"We just had a normal night together."
 #
 <sprite "ta02a76.iph" 4 4 12>
 <name "Elle" "!CA0058">
-「ぶっ」
+"Phbtt!"
 #
 <name "Lazlocke">
-「なんだ？
-　そんなに変か？」
+"What?
+ Is it that strange?"
 #
 <sprite "ta02a67.iph" 4 4 12>
 <name "Elle" "!CA0059">
-「え、あ、変と言うか……
-　私の師匠が……え？」
+"Huh? Oh, I mean, strange isn't...
+ I mean, my master... huh?"
 #
 <removesprite -1 11>
-　イエルが困惑している所に、ヴィオラがやってき
-　た。
+As she struggles to get her thoughts together,
+Viola comes in.
 #
 <sprite "ta03a03.iph" 4 4 11>
 <name "Viola" "!BA0136">
-「……おはよう」
+"...Morning."
 #
 <name "Lazlocke">
-「遅かったな」
+"Late riser."
 #
 <sprite "ta03a00.iph" 4 4 12>
 <name "Viola" "!BA0137">
-「貴方が早いのよ。
-　イエルもおはよう」
+"You're an early bird.
+ Morning to you too, Elle."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 4 11>
 <sprite "ta02a35.iph" 6 5 11>
 <name "Elle" "!CA0060">
-「お、おはようございます」
+"G-Good morning."
 #
 <sprite "ta03a03.iph" 2 4 12>
 <name "Viola" "!BA0141">
-「朝食、私の分はある？」
+"Is there breakfast for me?"
 #
 <name "Lazlocke">
-「ああ、お前の家のメイドが頑張った」
+"Yeah, your maid gave it her best."
 #
 <sprite "ta03a01.iph" 2 4 12>
 <name "Viola" "!BA0142">
-「そう」
+"I see."
 #
 <sprite "ta02a09.iph" 6 5 12>
 <name "Elle" "!CA0061">
-（……あれ？
-　いつも通りだ？
-　……さっきのは冗談なのかな？）
+(...Huh?
+ Normal?
+ Was he just joking around?)
 #
 <sprite "ta02a10.iph" 6 5 12>
 <name "Elle" "!CA0062">
-（そうよね。
-　あの師匠が、セリスの師匠となんて……
-　でも、うーん……）
+(That must be it.
+ I can't believe she'd be with Celes's master...
+ But...
+ Hmmmm...)
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta03a03.iph" 4 4 11>
 <name "Viola" "!BA0143">
-「ラズロックは、この後は？」
+"What are you plans for the day, Lazlocke?"
 #
 <name "Lazlocke">
-「ああ、家に帰る。
-　セリスが待っているしな」
+"I've got to get home.
+ Can't keep Celes waiting."
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0144">
-「そう……
-　次はいつ来るの？」
+"I see...
+ When will I see you again?"
 #
 <name "Lazlocke">
-「いつ来ると言われてもな……
-　まあ、気が向いたら」
+"Not sure when I'll come by...
+ Well, I'll stop in if I feel like it."
 #
 <sprite "ta03a15.iph" 4 4 12>
 <name "Viola" "!BA0145">
-「……」
+"..."
 #
 <name "Lazlocke">
-「会いたければ、いつでも会えるだろ」
+"If you want to see me, I can always make time."
 #
 <sprite "ta03a18.iph" 4 4 12>
 <name "Viola" "!BA0146">
-「別に会いたいわけじゃないわよ」
+"I have no particular desire to see you."
 #
 <name "Lazlocke">
-「そうか」
+"Uh huh."
 #
 <sprite "ta03a16.iph" 4 4 12>
 <name "Viola" "!BA0147">
-「そうよ」
+"That's right."
 #
 <name "Lazlocke">
-「可愛くないな」
+"Not very adorable."
 #
 <sprite "ta03a17.iph" 4 4 12>
 <name "Viola" "!BA0148">
-「ぷいっ」
+"Hmph!"
 #
 <name "Lazlocke">
-「昨日はあんなに可愛かった……うおおっ！
-　し、室内で攻撃魔法は止めよう」
+"You were much cuter last ni...aaah!
+ N-No matter magic indoors!"
 #
 <sprite "ta03a75.iph" 4 4 12>
 <name "Viola" "!BA0149">
-「くだらない事を言わないように」
+"Then don't run your mouth like an idiot."
 #
 <name "Lazlocke">
-「はいはい」
+"Yeah, yeah."
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
 <name "Elle" "!CA0063">
-（………………………………なに、この空気。
-　私、邪魔者？）
+(...What's with this atmosphere?
+ Am I getting in their way?)
 #
 <removesprite -1 11>
 <exit>
 :181A
 <music 10>
 <background "bg001a0.iph" 11>
-　ヴィオラとイエルが来たので、少し豪華な料理を
-　する事になった。
+Since Viola and Elle came over, we're having a
+more luxurious dinner than usual.
 #
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「食材は十分。
-　セリス、手伝え」
+"We've got plenty of food.
+ Celes, help out."
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA0436">
-「はい。
-　わかりました」
+"Yes, sir.
+ I understand."
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 4 4 11>
 <name "Viola" "!BA0150">
-「メインは肉料理ね。
-　……サイドは私がやるわ。
-　前に教わった料理があるの」
+"Meat for the main dish, hm?
+ ...I'll handle the side.
+ There's a recipe I learned."
 #
 <name "Lazlocke">
-「それは楽しみだな」
+"I'm looking forward to it."
 #
 <removesprite -1 11>
 <sprite "ta03a05.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
 <name "Elle" "!CA0064">
-「師匠、お手伝いします」
+"Master, let me help."
 #
 <sprite "ta03a06.iph" 2 4 12>
 <name "Viola" "!BA0151">
-「ありがとう。
-　それじゃあ、卵を割って溶いて頂戴」
+"Thank you.
+ All right, then, crack those eggs and scramble
+ them."
 #
 <sprite "ta02a09.iph" 6 5 12>
 <name "Elle" "!CA0065">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <sprite "ta04a65.iph" 4 4 11>
 <name "Soshiette" "!DA0141">
-「………………
-　お客様から、注文を聞いてきます」
+"...Your guest would like to make a request."
 #
 <name "Lazlocke">
-「料理を手伝おうとしないのは賢明だが、残念なが
-　らお客は居ない。
-　出来た皿を運んでくれ」
+"Too many cooks spoil the broth, and sad to say,
+ but this isn't a restaurant.
+ You can carry things out as they finish."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0142">
-「わかりました」
+"Very well."
 #
 <removesprite -1 11>
-　出来た料理は、美味しく頂いた。
+Dinner was delicious.
 #
 <exit>
 :1C52
@@ -400,122 +405,127 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0437">
-「師匠。
-　魔法使いの花嫁に関してなんですが……」
+"Master, I had a question about wizard's
+ brides."
 #
 <name "Lazlocke">
-「なんだ？」
+"Yes?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0438">
-「師匠は、定期的に魔力を吐き出す必要があるじゃ
-　ないですか」
+"You need to expel mana regularly, right?"
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0439">
-「その、女性の場合もそうなんですか？」
+"Um, isn't that true for women too?"
 #
 <name "Lazlocke">
-「いや、女性は必要無い。
-　月一で出しているからな」
+"No, women don't need to do that.
+ They let it out monthly."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0441">
-「月一？
-　……………………あ、あー！」
+"Monthly?
+ .........Oh. Oh!"
 #
-　セリスは顔を真っ赤にしながら、理解した。
+She blushes when she figures it out.
 #
-　魔法使いの花嫁は、生理によって魔力の大半を体
-　外に排出する。
+A female wizard's bride drains most of the mana
+out of her during her period.
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA0442">
-「あはは……
-　それでも魔力が出せるんですね」
+"Hahaha...
+ But they can still give mana, huh?"
 #
 <name "Lazlocke">
-「そうみたいだな」
+"Apparently."
 #
-　俺の場合は、男なので生理が無く、排出手段が無
-　いので女性との性交が必要となるわけだ。
+Being a man, I don't have a period.
+Without any way to normally expel anything from
+my body, I need to have sex with a woman.
 #
 <sprite "ta01a75.iph" 4 4 12>
 <name "Celes" "!AA0443">
-「その、それが可能だったら、師匠も……その一人
-　で……えっと……」
+"Um, then if you could, couldn't you, um, I mean
+ by yourself... um..."
 #
 <name "Lazlocke">
-「一人でやっても魔力は出るが、即座に回収してし
-　まうから意味がなかった。
-　どうやら、受け取り手が居ないと難しいらしい」
+"I could put out mana on my own, but there's no
+ point because I'd just reabsorb it right away.
+ It's just too hard without having someone to
+ actually put it into."
 #
 <sprite "ta01a74.iph" 4 4 12>
 <name "Celes" "!AA0444">
-「実験済みなんですか？」
+"You've tried?"
 #
 <name "Lazlocke">
-「ああ、使いこなす為にも、よく知らないと駄目だ
-　からな」
+"Yeah, but I'm not even sure how one would go
+ about figuring out how to do it right, so it
+ seemed like a non-starter."
 #
 <sprite "ta01a97.iph" 4 4 12>
 <name "Celes" "!AA0445">
-「そ、そうですね」
+"I-I see."
 #
 <name "Lazlocke">
-「ちなみに、射精しなくても身体を触れ合わせてい
-　るだけでも魔力を出す事は可能だ」
+"By the way, it is possible to transfer mana
+ just through physical contact, even if I don't
+ come."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0446">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「だが、微々たるものでな。
-　俺が集める魔力量と変わりない」
+"But barely any, and it won't make a dent in
+ the amount of mana that accumulates inside me."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0447">
-「でも、ずっと手を繋いでいれば魔力を出せるんで
-　すよね」
+"But you could give me mana by holding my hand
+ for a long time, right?"
 #
 <name "Lazlocke">
-「あー……手じゃ駄目だった」
+"Aah, it doesn't work by hand."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0449">
-「？」
+"Huh?"
 #
 <name "Lazlocke">
-「キスだ」
+"By mouth."
 #
 <sprite "ta01a79.iph" 4 4 12>
 <name "Celes" "!AA0448">
-「………………………………」
+"........."
 #
 <removesprite -1 11>
-　セリスは面白いぐらいに表情を色々と変えた。
+Her expression is a mix of curiosity and
+something else.
 #
 <name "Lazlocke">
-「試してみるか？
-　ちなみに三十分以上はしないと駄目だぞ」
+"Want to try it?
+ Just so you know, it'd take being connected
+ for at least half an hour."
 #
 <sprite "ta01a97.iph" 4 4 11>
 <name "Celes" "!AA0450">
-「あ、あはは……」
+"H-Hahaha..."
 #
 <removesprite -1 11>
-　セリスは拒まなかった。
+She's not saying no.
 #
-　が、その最中で、ムラッとしたので押し倒してし
-　まった。
+But in the middle of it, desire overwhelmed me
+and I forced her down.
 #
 <sprite "ta01a80.iph" 4 4 11>
 <name "Celes" "!AA0451">
-「た、試しになりませんでした……」
+"T-The experiment failed..."
 #
 <removesprite -1 11>
 <exit>
@@ -523,57 +533,59 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「クデュール魔法大会は元々、魔法技術を競う為に
-　出来た大会なのだが、今ではなんでもありの戦闘
-　大会だ」
+"Coudures was originally a tournament started to
+ test the participants' magical skills.
+ Now it's combat tournament."
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0452">
-「なんでもありですか？」
+"Did something happen?"
 #
 <name "Lazlocke">
-「一応、観客に被害が及ばないように最低限のルー
-　ルは決まっているけどな」
+"Mostly, they put rules in place to at the very
+ least prevent harm from coming to the
+ audience."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0453">
-「……」
+"..."
 #
 <name "Lazlocke">
-「ここ最近では、一番権威のある大会として認識さ
-　れているから、各国から様々な者達が参加する」
+"Recently, it's been seen as the most presigious
+ tournament in the region, so people come from
+ all around to participate in it."
 #
 <name "Lazlocke">
-「魔法使い協会からも、十数人の魔法使いが参加す
-　るはずだ。
-　ライバルは多いぞ」
+"There'll be dozens of wizards from the Guild.
+ You'll have lots of rivals."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA0454">
-「が、頑張ります！」
+"I-I'll do my best!"
 #
 <name "Lazlocke">
-「ああ、頑張れ。
-　……それでだ。
-　今後の教育方針だが、とりあえずこの大会で勝ち
-　抜けるように鍛える」
+"Yeah. Work hard.
+ ...Another thing to mention, I'm concerned
+ about your overall education, but for now, I
+ want to prioritize on winning the tournament."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA0455">
-「はい！」
+"Yes, sir!"
 #
 <name "Lazlocke">
-「その為に、薬学や占星術は後回しにして、実戦的
-　な技術を重視していく」
+"That's why we're going to put off things like
+ pharmacology and astrology, and focus on
+ practical combat instead."
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA0456">
-「わかりました。
-　よろしくお願いします」
+"I understand.
+ Thank you very much."
 #
 <name "Lazlocke">
-「よし。
-　それじゃあ、今日のメニューだが……」
+"Okay.
+ Now then, for today's schedule..."
 #
 <removesprite -1 11>
 <exit>
@@ -582,61 +594,61 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0457">
-「うーん……
-　協会で働くなら、やっぱり“保守”じゃないです
-　か？」
+"Hmm...
+ If I joined the Guild, it feels like I'd want
+ to be in Preservation."
 #
 <name "Lazlocke">
-「……そうなのか？」
+"...Oh?"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0458">
-「はい。
-　不正を働く魔法使いを取り締まる。
-　良いお仕事だと思います」
+"Yeah. They police wizards who are up to no
+ good. I think that's a good job."
 #
 <name "Lazlocke">
-「取り締まりねぇ……
-　ほぼ、暗殺だぞ」
+"Police, huh?
+ They're more like assassins."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA0459">
-「そうなんですか！」
+"Is that true!?"
 #
 <name "Lazlocke">
-「取り締まられるような魔法使い相手じゃ、戦闘は
-　避けられないだろ。
-　だったら、奇襲で一気にケリをつける」
+"If you're trying to punish a wizard, it's
+ almost impossible to avoid some kind of fight.
+ And if a fight's inevitable, it's better to
+ hit them when they're not expecting it."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA0460">
-「う……確かに。
-　でも、それが市民の為なら」
+"Ohh... I guess you're right.
+ But it's for the people."
 #
 <name "Lazlocke">
-「“保守”は市民を守るんじゃなくて、協会を守る
-　だけだ」
+"Preservation's job isn't protecting the people.
+ It's protecting the Guild."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0461">
-「……」
+"..."
 #
 <removesprite -1 11>
 <sprite "ta04a19.iph" 4 4 11>
 <name "Soshiette" "!DA0143">
-「ご主人様。
-　私が所属する部門に不満があるのでしたら、私に
-　直接言ってください」
+"Your Grace, if you're unhappy with my 
+ department, I'd appreciate it if you brought
+ those complaints to me directly."
 #
 <name "Lazlocke">
-「ほらみろ。
-　この接敵術。
-　見事なもの……いたたたたたたたたた！」
+"See? Look at that.
+ This is how they work.
+ They lurk in the shadows and...owwwwww!"
 #
 <sprite "ta04a83.iph" 4 4 12>
 <name "Soshiette" "!DA0145">
-「協会を守る事が、市民を守る事にもなるのです。
-　純粋な魔法使いを惑わさないようにお願いします」
+"Protecting the Guild also protects the people.
+ Do not confuse an idealistic wizard."
 #
 <removesprite -1 11>
 <exit>
@@ -645,25 +657,25 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0462">
-「ソシエットさん。
-　魔法使い協会に派閥とかは無いんですか？」
+"Miss Soshiette, are there different factions
+ within the Guild?"
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
 <name "Soshiette" "!DA0146">
-「昔はありましたが、今は協会長の下にほぼ一枚岩
-　の状態です」
+"There used to be, years ago, but almost
+ everyone is united under the current head."
 #
 <sprite "ta01a09.iph" 2 5 12>
 <name "Celes" "!AA0463">
-「そうなんですか？
-　協会長って凄いんですね」
+"Really?
+ They must be incredible."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0147">
-「はい。
-　凄いんですよ」
+"Yes.
+ She certainly is."
 #
 <removesprite -1 11>
 <exit>
@@ -672,61 +684,62 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0464">
-「前に協会に派閥は無いと聞きましたが、人が集ま
-　ればどうしてもできるんじゃないですか？」
+"You said that there weren't really factions in
+ the Guild, but don't they always happen when
+ groups of people come together?"
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta04a02.iph" 6 4 11>
 <name "Soshiette" "!DA0148">
-「そうですね……
-　協会で言うなら、部門がそれにあたるかも知れま
-　せん」
+"I suppose.
+ You could say that the different divisions are
+ like them."
 #
 <sprite "ta04a62.iph" 6 4 12>
 <name "Soshiette" "!DA0154">
-「“軍事”と“情報”が予算面で対立したり、仕事
-　面では縄張りを争ったりなど」
+"Military and Intelligence directly fight over
+ the budget as well as who should be in charge
+ of what."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0150">
-「ですが、やはり派閥はありません」
+"But there really aren't factions."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0465">
-「……どうしてですか？」
+"...Why not?"
 #
 <sprite "ta04a00.iph" 6 4 12>
 <name "Soshiette" "!DA0151">
-「それは現在の協会長とその六人のお弟子さん達が、
-　協会内で強い権力を持ちながらも固い結束を保っ
-　ているからです」
+"The current head of the Guild has six
+ apprentices. They all have significant
+ influence within the Guild, and they have a
+ very tight bond."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA0466">
-「固い結束ですか……」
+"A tight bond?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0152">
-「はい。
-　ちなみに、協会長の六人のお弟子さん達は、その
-　優秀さからグレイトシックスと呼ばれたりしてい
-　ます」
+"Yes. By the way, those six apprentices are
+ known by the moniker of the Great Six."
 #
 <sprite "ta01a09.iph" 2 5 12>
 <name "Celes" "!AA0467">
-「へー……かっこいいですね」
+"Oooh... They sound cool."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA0155">
-「そうですね。
-　ですので、協会に関わるならこの六人を敵に回し
-　てはいけませんよ」
+"Indeed. So if you want to have anything to do
+ with the Guild, you should avoid antagonizing
+ those people."
 #
 <sprite "ta01a92.iph" 2 5 12>
 <name "Celes" "!AA0468">
-「は、はい。
-　注意します」
+"O-Okay.
+ I'll be careful."
 #
 <removesprite -1 11>
 <exit>
@@ -735,84 +748,86 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0469">
-「師匠。
-　グレイトシックスって知ってますか？」
+"Master, do you know the Great Six?"
 #
 <name "Lazlocke">
-「ああ、知ってるぞ」
+"Yeah, I do."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0470">
-「どんな人達なんですか？」
+"What are they like?"
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA0472">
-「い、言い難いなら別に良いです」
+"I-It's okay if it's hard to talk about."
 #
 <name "Lazlocke">
-「いや、そうじゃなくてだな……うーん」
+"No, that's not the problem.
+ Hmm..."
 #
 <removesprite -1 11>
 <sprite "ta01a92.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA0156">
-「セリスさん」
+"Miss Celes."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0473">
-「ソシエットさん」
+"Miss Soshiette?"
 #
 <sprite "ta04a63.iph" 6 4 12>
 <name "Soshiette" "!DA0157">
-「グレイトシックス筆頭は、目の前に居ます」
+"The first of the Great Six is right in front
+ of you."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA0474">
-「ソシエットさんですか？」
+"You?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0158">
-「いえ、こちらです」
+"No, over there."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0475">
-「………………………………………………師匠？」
+".........Master?"
 #
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA0164">
-「はい」
+"Yes."
 #
 <sprite "ta01a11.iph" 2 5 12>
 <name "Celes" "!AA0476">
-「えええええええええええええええっ！」
+"Eeeeeeeeeeeehhhhhh!?"
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA0160">
-「ちなみに、ヴィオラ様もグレイトシックスの一人
-　です」
+"By the way, Miss Viola is also one of the
+ Great Six."
 #
 <sprite "ta01a10.iph" 2 5 12>
 <name "Celes" "!AA0477">
-「そ、そうなんですか？」
+"S-She is?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0161">
-「はい。
-　協会長自慢の方々です」
+"Yes. They're the pride of the head of the
+ Guild."
 #
 <name "Lazlocke">
-「自慢されてもな……
-　ん？
-　どうしたセリス？」
+"The pride, huh?
+ Hm?
+ What is it, Celes?"
 #
 <sprite "ta01a36.iph" 2 5 12>
 <name "Celes" "!AA0478">
-「し、師匠って……実はすごかったんだ」
+"M-Master, you're... actually an incredible
+ person."
 #
-　…………
+.........
 #
 <removesprite -1 11>
 <exit>
@@ -821,129 +836,136 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0479">
-「師匠。
-　グレイトシックスには、師匠とヴィオラさん以外
-　にどんな方々が居るんですか？」
+"Master, what are the Great Six other than you
+ and Viola like?"
 #
 <name "Lazlocke">
-「んー……
-　ヘンリエッタ、エルザ、メイツェル、キーマの四
-　人だ」
+"Hmm...
+ The other four are Henrietta, Elsa, Mayzel,
+ and Keima."
 #
 <removesprite -1 11>
-　ヘンリエッタ＝ベベルズ
+Henrietta Bevels.
 #
 <name "Lazlocke">
-「ヘンリエッタは、協会研究部の元長だ。
-　今は結婚して主婦をしている」
+"Henrietta used to be the head of the Guild's
+ research group, but she's a married housewife
+ now."
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0480">
-「主婦ですか……」
+"A housewife?"
 #
 <name "Lazlocke">
-「ヴィオラ以上に実践向きで破壊魔だったんだが、
-　結婚してから一気に大人しくなった」
+"She was even more of a powderkeg than Viola,
+ and prone to explosions, but she settled down
+ a lot once she got married."
 #
 <name "Lazlocke">
-「ヘンリエッタを知る連中は、全員が猫を被ってい
-　ると声を揃えて近付かない。
-　まあ、いつか暴発するだろうともっぱらの噂だ」
+"Anybody who knows her knows to walk on
+ eggshells around her and keep problems far
+ away. Well, I'm sure we'll hear rumors about
+ her blowing up again eventually."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA0481">
-「あはは……」
+"Hahaha..."
 #
 <removesprite -1 11>
-　エルザ＝ベベルズ
+Elsa Bevels.
 #
 <name "Lazlocke">
-「エルザはヘンリエッタの妹だ。
-　ベルーダ王国で宮廷魔法使いをしている」
+"Elsa is Henrietta's younger sister.
+ She's a court wizard in Beluda Kingdom."
 #
 <name "Lazlocke">
-「ヘンリエッタとは違って、実践よりも研究の方が
-　得意だったな」
+"Unlike Henrietta, she was better at research
+ than execution."
 #
-　メイツェル＝ラグ
-#
-<name "Lazlocke">
-「メイツェルは協会でガルンズ大陸北部方面支部長
-　をやっている」
+Mayzel Lag.
 #
 <name "Lazlocke">
-「軍団指揮に、情報戦が得意と言う変な魔法使いだ」
+"Mayzel is the head of the Guild's northern
+ Garns continent branch."
 #
 <name "Lazlocke">
-「コイツを敵にまわすと、陰湿な報復が待っている
-　から、ヴィオラと違う意味で敵にまわしちゃいけ
-　ない」
-#
-　キーマ＝ルスト
+"He's a strange wizard who's good at information
+ war and military command."
 #
 <name "Lazlocke">
-「キーマはリカオン王国の宮廷魔法使いだ」
+"Making him your enemy will have you jumping at
+ every shadow. He's as bad an enemy to have as
+ Viola, but in a completely different way."
+#
+Keima Rust.
 #
 <name "Lazlocke">
-「派手さは無いが、実力ある魔法使いだ。
-　状況によれば、ヴィオラと対等以上の戦いが出来る」
+"Keima is a court wizard for the Lycaon
+ Kingdom."
+#
+<name "Lazlocke">
+"She's not flashy, but she is a powerful wizard.
+ On a good day, she's more than a match for
+ Viola."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA0482">
-「凄い人ばっかりですね」
+"They all sound like incredible people."
 #
 <name "Lazlocke">
-「だな」
+"Yeah."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0483">
-「師匠は、その人達の筆頭なんですよね」
+"And you're the first ranked of them all."
 #
 <name "Lazlocke">
-「俺は一番最初に弟子になったから、筆頭なだけだ。
-　実力じゃない」
+"I'm first because I was the first she took as
+ an apprentice. It's not a rank of ability."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0484">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「ああ、魔法で勝てるのは……
-　メイツェルぐらいかな」
+"Yeah, in terms of magic, the only one I could
+ match with is... I guess probably Mayzel."
 #
 <name "Lazlocke">
-「しかし、ヤツはそれを補って余りある才能を他で
-　発揮してる。
-　俺が勝てるヤツはいないな」
+"But he's got talents in other fields that more
+ than make up for it.
+ There's none of them that I could win against."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA0485">
-「そんな事は無いと思います」
+"I don't think that's true."
 #
 <name "Lazlocke">
-「庇ってくれるのは嬉しいがな、事実だ」
+"Thank you for sparing my feelings, but it's an
+ undeniable fact."
 #
 <name "Lazlocke">
-「あと、グレイトシックスって名前は、他の連中が
-　勝手に言ってるだけだからな。
-　俺達が名乗った覚えは無いんで、あまり言わない
-　ように」
+"Also, the Great Six moniker is something other
+ people say. I don't remember any of us ever
+ calling ourselves that, and we prefer not to
+ use it."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA0486">
-「ええっ！
-　そうなんですか？」
+"Eeeh!?
+ Really?"
 #
 <name "Lazlocke">
-「ああ、敵も多いしな。
-　変にバレて勝負を挑まれるのも面倒だ」
+"Yeah, we've got lots of enemies.
+ It's a pain to be called out and challenged to
+ duels."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0487">
-「むう……わかりました」
+"Hmmm... I understand."
 #
 <name "Lazlocke">
-「よろしい」
+"Good."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x00\xFD\x84\x01
@@ -953,117 +975,120 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0488">
-「師匠。
-　前にソシエットさんから、協会内に派閥は無いと
-　聞いたんですけど……」
+"Master, Miss Soshiette told me that there
+ weren't any factions in the Guild, but..."
 #
 <name "Lazlocke">
-「派閥か……
-　まあ、全員が同じ派閥なら、無いと同じだな。
-　それがどうかしたのか？」
+"Factions, huh?
+ Well, if everyone's on the same side, it's the
+ same as there not being any others.
+ Something about it?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0489">
-「いえ、その……噂なんですが……」
+"No, um... I heard a rumor..."
 #
 <name "Lazlocke">
-「？」
+"Hm?"
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0490">
-「協会内部で、その結社があるって」
+"That there's a society inside the Guild."
 #
 <name "Lazlocke">
-「結社が？」
+"A society?"
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA0491">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「俺は聞いた事が無いが……
-　どんな結社なんだ？」
+"I haven't heard anything like that.
+ What kind of society?"
 #
-　場合によっては、ソシエットに報告して……
+Depending on what it is, I may need to report
+this to Soshiette.
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0492">
-「目的はわかりませんが“黄金の薔薇”と言うらし
-　いんですが」
+"I don't know why it eists, but apparently it's
+ called the Golden Rose."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0493">
-「あの……」
+"Um..."
 #
 <name "Lazlocke">
-「ええとだな……」
+"Uh, well..."
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Soshiette" "!DA0165">
-「それは、ご主人様に抱かれた女性による結社です」
+"That's a society of the women who have been
+ with His Grace."
 #
 <sprite "ta01a32.iph" 2 5 12>
 <name "Celes" "!AA0494">
-「え……」
+"Huh?"
 #
 <sprite "ta04a13.iph" 6 4 12>
 <name "Soshiette" "!DA0166">
-「目的はご主人様の保護と寵愛を受ける事。
-　参加条件は、ご主人様に抱かれる事」
+"It's purpose is to safeguard his life and his
+ love. The condition for being a member
+ is to have been with him."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0167">
-「協会内の最大勢力です」
+"It is the primary force within the Guild."
 #
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA0168">
-「ちなみに、セリスさんもそこに所属している事に
-　なっています」
+"By the way, Miss Celes, you are also a member."
 #
 <sprite "ta01a37.iph" 2 5 12>
 <name "Celes" "!AA0495">
-「ええっ！
-　い、いつの間に！」
+"Eeeh!?
+ S-Since when!?"
 #
 <sprite "ta04a24.iph" 6 4 12>
 <name "Soshiette" "!DA0169">
-「毎月、社報が届いていると思いますが……」
+"I thought you had received the monthly
+ newsletter..."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA0496">
-「え……社報……
-　ひょっとして、月初めに届く師匠の先月の動きが
-　詳細に書かれたあれですか？」
+"Huh? Newsletter?
+ You mean that thing that comes at the start of
+ the month with everything he did?"
 #
 <name "Lazlocke">
-「待て！
-　そんなものが届いているのか！」
+"Hold on!
+ You have something like that!?"
 #
 <sprite "ta01a29.iph" 2 5 12>
 <name "Celes" "!AA0497">
-「え、ええ……てっきり、師匠からの遠まわしな活
-　動報告かと……」
+"Y-Yes... It was certainly a thorough report
+ of everything you did..."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0170">
-「とりあえず、セリスさん。
-　結社の存在は極秘です。
-　誰にも喋らないように」
+"In any case, Miss Celes, the existence of our
+ group is strictly confidential.
+ Don't talk to anybody about it."
 #
 <sprite "ta01a31.iph" 2 5 12>
 <name "Celes" "!AA0498">
-「は、はい……」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
-　俺にも喋らなかったのはどうなんだろう……
+Not even me, huh?
 #
 \x0A\x44\x01\x02\x84\x01
 <exit>
@@ -1072,63 +1097,67 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0499">
-「師匠はクデュール魔法大会に詳しいんですか？」
+"How much do you know about the Courudures
+ Magical Tournament?"
 #
 <name "Lazlocke">
-「クデュール魔法大会は、魔法使い協会が主催だか
-　らな。
-　人並みには知っていると思うぞ」
+"Coudures is sponsored by the Guild.
+ I think I know as much about it as anybody
+ else does."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0500">
-「どんな人が参加するんですか？」
+"What kind of people participate in it?"
 #
 <name "Lazlocke">
-「どんな人って……腕に自信があるヤツとか記念参
-　加とか名前を売りたいヤツとか……」
+"What kind, huh?
+ Some have skills, some are in it for the
+ experience of doing it, some are trying to 
+ make a name for themselves."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA0501">
-「有名人とか居ます？」
+"Anybody famous?"
 #
 <name "Lazlocke">
-「あー、有名人か……
-　どちらかと言えば有名人を作る大会だが、ここ最
-　近はヴィオラやソシエットが猛威を振るっている
-　からなぁ……」
+"Oh, famous people? If anything, it's more of
+ a tournament that makes you famous, since
+ Viola and Soshiette have been participating
+ in it for the last few years."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0507">
-「…………え？」
+"...Huh?"
 #
 <name "Lazlocke">
-「ん？
-　どうした？」
+"Hm?
+ What?"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0503">
-「え、いや、その……
-　クデュール魔法大会って、ヴィオラさんやソシエッ
-　トさんも出るんですか？」
+"Oh, um, I mean...
+ Miss Viola and Soshiette will be in the
+ Coudures Tournament?"
 #
 <name "Lazlocke">
-「ああ、協会からの要請で強制参加だ。
-　俺も時々、要請されるし、協会長もたまに出たり
-　するぞ」
+"Yeah. The Guild kind of forces them to.
+ Sometimes they also ask me to, and even the
+ head of the Guild sometimes participates."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA0504">
-「……クデュール魔法大会って、凄い大会なんです
-　ね」
+"...The Coudures Tournament sounds
+ unbelievable."
 #
 <name "Lazlocke">
-「ああ、だから三年少しで優勝なんて奇跡だなんだ
-　とソシエットが褒めていたんじゃないか」
+"Yeah. That's why Soshiette said it's
+ practically impossible to win it after training
+ for only three years."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA0505">
-「あ、あははは……
-　勉強してきます」
+"H-Hahahaha...
+ I better study harder."
 #
 <removesprite -1 11>
 <exit>
@@ -1137,187 +1166,190 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0506">
-「師匠の魔力を与える力ですが……
-　男性には無理なんですか？」
+"You have the ability to give people mana,
+ but you can't do it with another man?"
 #
 <name "Lazlocke">
-「ああ、無理だぞ」
+"Yeah. It's impossible."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA0508">
-「試したんですか？」
+"Have you tried?"
 #
 <name "Lazlocke">
-「……………………」
+"........."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0509">
-「す、すみません。
-　すごく渋い顔をさせてしまって……」
+"I-I'm sorry.
+ That's a very pale face..."
 #
 <name "Lazlocke">
-「…………………………」
+".................."
 #
 <sprite "ta01a29.iph" 4 4 12>
 <name "Celes" "!AA0510">
-「あの、師匠？」
+"Um, Master?"
 #
 <name "Lazlocke">
-「……………………」
+"..........................."
 #
 <removesprite -1 11>
 <sprite "ta01a29.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
 <name "Soshiette" "!DA0171">
-「セリスさん。
-　しばらく放置しましょう」
+"Miss Celes, leave him be for a while."
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA0172">
-「ご主人様の触れてはいけない部分に触れてしまい
-　ましたので」
+"You've touched a part of him that should be
+ left untouched."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA0511">
-「そ、そうなんですか？」
+"R-Really?"
 #
 <sprite "ta04a86.iph" 6 4 12>
 <name "Soshiette" "!DA0173">
-「ええ……
-　実は昔、協会の方でも男性に魔力を渡せないかと
-　実験がありました」
+"Yes. In fact, a long time ago, the Guild
+ performed an experiment to see if he was able
+ to pass mana to another man."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA0512">
-「実験ですか？」
+"An experiment?"
 #
 <sprite "ta04a84.iph" 6 4 12>
 <name "Soshiette" "!DA0174">
-「はい」
+"Yes."
 #
 <sprite "ta04a85.iph" 6 4 12>
 <name "Soshiette" "!DA0175">
-「それが、死ぬほどご主人様が嫌がりまして」
+"He was vehemently against it."
 #
 <sprite "ta01a36.iph" 2 5 12>
 <name "Celes" "!AA0513">
-「で、でしょうね……」
+"I-I can imagine."
 #
 <sprite "ta04a65.iph" 6 4 12>
 <name "Soshiette" "!DA0176">
-「なんとか説得して……」
+"So he had to be convinced somehow."
 #
 <name "Lazlocke">
-「嘘を吐くなぁぁっ！
-　殴って縛って吊るしたクセにぃぃっ！」
+"Liar!
+ You beat me! You tied me up!
+ You hung me from the ceiling!"
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0177">
-「黙ってください」
+"Be quiet."
 #
 <name "Lazlocke">
-「げふぅぅぅっ！」
+"Gwagh!"
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA0514">
-「ああっ！
-　見事なボディがあんなにも深々と……」
+"Aah!
+ What a perfect body blow..."
 #
 <sprite "ta04a62.iph" 6 4 12>
 <name "Soshiette" "!DA0179">
-「話を続けます」
+"Let us continue."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0515">
-「は、はぁ……」
+"U-Um..."
 #
 <sprite "ta04a84.iph" 6 4 12>
 <name "Soshiette" "!DA0190">
-「あまりにも嫌がるので、それならばと、できるだ
-　け女の子に見える男の子を用意しまして」
+"Since he was so opposed to it, a boy who looked
+ as much like a girl as possible was found."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA0516">
-「女の子に見える男の子ですか」
+"A boy who looked like a girl?"
 #
 <sprite "ta04a89.iph" 6 4 12>
 <name "Soshiette" "!DA0181">
-「はい。
-　そして、女装させて接近させたのです」
+"Yes. He was disguised as a woman and approached
+ him."
 #
 <sprite "ta01a09.iph" 2 5 12>
 <name "Celes" "!AA0517">
-「ど、どうなったんですか？」
+"W-What happened?"
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA0182">
-「最初はご主人様も諦めたようでした」
+"At first, it seemed like he had resigned
+ himself to it."
 #
 <sprite "ta01a12.iph" 2 5 12>
 <name "Celes" "!AA0518">
-「ほ、ほう……」
+"O-Oh?"
 #
 <sprite "ta04a93.iph" 6 4 12>
 <name "Soshiette" "!DA0183">
-「束の間の会話、手と手が触れあい、頬を赤らめる
-　ご主人様と男の子……」
+"They talked for a while, physical contact,
+ both were blushing..."
 #
 <sprite "ta01a68.iph" 2 5 12>
 <name "Celes" "!AA0519">
-「ご、ごくり」
+"*gulp*"
 #
 <sprite "ta04a56.iph" 6 4 12>
 <name "Soshiette" "!DA0184">
-「突如、ご主人様を押し倒した男の子……」
+"All of a sudden, the boy pushed him down."
 #
 <sprite "ta01a65.iph" 2 5 12>
 <name "Celes" "!AA0520">
-「ご主人様が受けですか！」
+"He was on bottom!?"
 #
 <sprite "ta04a46.iph" 6 4 12>
 <name "Soshiette" "!DA0185">
-「はい。
-　それで、誰もが成功を確信したのですが……」
+"Yes. So everyone was convinced that it was
+ going to be a success, but..."
 #
 <sprite "ta04a23.iph" 6 4 12>
 <name "Soshiette" "!DA0187">
-「男の子が服を脱ぎ……股間部のアレが見えた時。
-　想像を越える動きで、男の子を吹き飛ばし、協会
-　施設を破壊しながら逃走をしまして……」
+"When the boy undressed, and he saw what was
+ between his legs, he acted beyond all 
+ expectations, blasted the boy off him, and
+ escaped, leaving destruction in his wake."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA0521">
-「失敗と……」
+"Then it failed..."
 #
 <sprite "ta04a86.iph" 6 4 12>
 <name "Soshiette" "!DA0191">
-「残念ながら。
-　その後、被害の甚大さから実験は無期限中止とな
-　りました」
+"Unfortunately, yes.
+ Afterwards, the experiment was permanently
+ tabled due to the extensive damage."
 #
 <name "Lazlocke">
-「うう……
-　あの恐怖は忘れられない」
+"Oohh...
+ It still haunts me."
 #
 <sprite "ta01a90.iph" 2 5 12>
 <name "Celes" "!AA0522">
-「とりあえず、今の話で言える事は一つ」
+"Anyway, there's one thing I can say from that
+ story."
 #
 <sprite "ta01a05.iph" 2 5 12>
 <name "Celes" "!AA0523">
-「師匠の根性無し」
+"You're kind of a coward."
 #
 <name "Lazlocke">
-「まて！
-　その非難はおかしいだろ！」
+"Hold on!
+ That's all wrong!"
 #
 <sprite "ta04a84.iph" 6 4 12>
 <name "Soshiette" "!DA0189">
-「いえ、妥当です」
+"No, it's accurate."
 #
 <removesprite -1 11>
 <exit>
@@ -1325,75 +1357,78 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「最近、沈んでいるな……」
+"You've seemed down lately."
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA0524">
-「そ、そうですか？」
+"I-I have?"
 #
 <name "Lazlocke">
-「……隠すなら、バレないようにな」
+"There's no point trying to hide it anymore."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0525">
-「すみません」
+"I'm sorry."
 #
 <name "Lazlocke">
-「それで、何かあったのか？」
+"So, did something happen?"
 #
 <sprite "ta01a29.iph" 4 4 12>
 <name "Celes" "!AA0526">
-「……魔法学園の生徒に、実力も無いのに調子に乗っ
-　てるって」
+"The sduents at the school say that I don't
+ have any talent but I'm full of myself."
 #
 <name "Lazlocke">
-「実力が無いのか？」
+"You don't have any talent?"
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA0527">
-「自分じゃ、良くわからなくて……」
+"I don't know if I can judge myself..."
 #
 <name "Lazlocke">
-「調子に乗ってたのか？」
+"And you're full of yourself?"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0528">
-「そのつもりは無くても、そう思われたのかも……」
+"Even if I don't mean to be, maybe it seems
+ that way..."
 #
 <name "Lazlocke">
-「……ソシエットに相談するか」
+"Have you talked to Soshiette?"
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA0529">
-「…………………………ぼ、暴力で解決するのは良
-　くないと思うんです」
+"...I-I don't think this is the kind of thing
+ that should be solved with violence."
 #
 <name "Lazlocke">
-「なるほど。
-　じゃあ、後は……
-　多少、ヒガまれたぐらいでグラつかない実力を付
-　ける事だな」
+"I see.
+ Then... it sounds like you're once bitten,
+ twice shy, so you'll need to just build up
+ your strength."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA0530">
-「……グラつかない実力？」
+"...Once bitten, twice shy?"
 #
 <name "Lazlocke">
-「そうだ。
-　練習に練習を重ね、調子に乗るぐらいの実力を付
-　けろ」
+"That's right.
+ Practice, practice, and keep practicing until
+ you know that you're genuinely good."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA0531">
-「……そうですね。
-　はい、その通りです」
+"Yeah, okay.
+ Yes. You're right."
 #
 <name "Lazlocke">
-「くだらない事で落ち込んでないで、練習だ」
+"Don't let dumb stuff get you down.
+ Keep practicing."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0532">
-「はい、頑張ります！」
+"Yes.
+ I'll work hard!"
 #
 <removesprite -1 11>
 <exit>
@@ -1402,97 +1437,98 @@
 <background "bg004a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA0687">
-「……ソシエットさん」
+"Miss Soshiette?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA0210">
-「なんですか？」
+"Yes?"
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA0688">
-「どうして師匠の事をご主人様って呼ぶんですか？
-　前に様式美だとは聞いたのですが……その」
+"Why do you call Lazlocke Your Grace?
+ You said before it was a matter of elegance,
+ but, um..."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA0211">
-「信じられませんか？」
+"You don't believe that?"
 #
 <sprite "ta01a36.iph" 2 5 12>
 <name "Celes" "!AA0689">
-「正直……」
+"Honestly?"
 #
 <sprite "ta04a85.iph" 6 4 12>
 <name "Soshiette" "!DA0220">
-「メイド服を着ているのは、相手を油断させる為で
-　した」
+"I dress like a maid to make people let their
+ guards down."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA0690">
-「油断ですか？」
+"Let their guards down?"
 #
 <sprite "ta04a00.iph" 6 4 12>
 <name "Soshiette" "!DA0213">
-「ええ。
-　この格好をしていると、大抵の方が近くまで寄せ
-　てくれます」
+"Yes. When you look like this, most of the time,
+ people will let you close to them without a
+ second thought."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0221">
-「ですが、ご主人様と相手を呼んだのは、ラズロッ
-　ク様だけです」
+"But Lazlocke is the only one I call that."
 #
 <sprite "ta01a07.iph" 2 5 12>
 <name "Celes" "!AA0691">
-「尊敬ですか？」
+"Out of respect?"
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA0215">
-「いえ、畏怖です」
+"No, fear."
 #
 <sprite "ta01a32.iph" 2 5 12>
 <name "Celes" "!AA0696">
-「畏怖？
-　その、師匠からは、失礼ながら……」
+"Fear?
+ Um, of him? That seems rude..."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA0216">
-「畏怖です」
+"Fear."
 #
 <sprite "ta04a23.iph" 6 4 12>
 <name "Soshiette" "!DA0217">
-「ご主人様と呼んで、私が服従している事を伝え続
-　けなければ、怖いからです」
+"Fear that if I do not keep calling him that,
+ he will forget that I am the submissive one."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA0693">
-「師匠が……怖い？」
+"You're... scared of him?"
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA0219">
-「はい」
+"Yes."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA0222">
-「でも……大丈夫です。
-　今のご主人様は怖くありません」
+"But don't worry.
+ I'm not scared of how he is now."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0223">
-「セリスさんのお陰かもしれません」
+"It may be because of you."
 #
 <sprite "ta01a31.iph" 2 5 12>
 <name "Celes" "!AA0694">
-「あはは……」
+"Hahaha..."
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA0224">
-「ですが今の話、ご主人様には内密でお願いします」
+"But please keep what I've said a secret from
+ him."
 #
 <sprite "ta01a92.iph" 2 5 12>
 <name "Celes" "!AA0695">
-「わ、わかりました」
+"O-Okay."
 #
 <removesprite -1 11>
 <exit>
@@ -1501,24 +1537,23 @@
 <background "bg004a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0225">
-「遠くに行きたいのでしたら、飛行の魔法を覚える
-　事をお薦めします」
+"If you want to travel great distances, I
+ recommend learning flying magic."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA0698">
-「飛行の魔法ですか……」
+"Flying magic?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0226">
-「はい。
-　風の魔法の一つです。
-　考えてみてください」
+"Yes. It's a wind spell.
+ Think about it."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA0699">
-「わかりました」
+"All right."
 #
 <removesprite -1 11>
 \x2B\x0A\x04\x00\x64\x84\x01
@@ -1526,102 +1561,105 @@
 :726E
 <music 6>
 <background "bg007a0.iph" 11>
-　俺はヴィオラ邸に足を運んだ。
+I visit Viola's mansion.
 #
 <background "bg008a0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
 <name "Viola" "!BA0153">
-「どうしたの？」
+"What is it?"
 #
 <name "Lazlocke">
-「ちょっと教えて欲しい事があってな。
-　あと、見せて欲しい資料と」
+"I needed a quick lesson, and I wanted you to 
+ show me some stuff."
 #
 <sprite "ta03a00.iph" 4 4 12>
 <name "Viola" "!BA0154">
-「……」
+"..."
 #
 <name "Lazlocke">
-「なんだ、変な顔をして」
+"What's that look for?"
 #
 <sprite "ta03a03.iph" 4 4 12>
 <name "Viola" "!BA0155">
-「あ、いや……
-　何かあったっけ？」
+"Ah, it's just...
+ Is something the matter?"
 #
 <name "Lazlocke">
-「何かって何だ？」
+"Something like what?"
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0157">
-「いや、貴方が私に教えを請いに来るなんて珍しい
-　から」
+"I mean, it's rare for you to come to me to ask
+ to be taught."
 #
 <name "Lazlocke">
-「苛めるなよ」
+"Don't pick on me."
 #
 <sprite "ta03a05.iph" 4 4 12>
 <name "Viola" "!BA0158">
-「それで、理由は？」
+"So then why?"
 #
 <name "Lazlocke">
-「セリスにそろそろ本格的に教えようと思って再勉
-　強したんだが……
-　結構忘れているもんだと慌ててな」
+"I was going to teach Celes comprehensively on
+ this, and was refreshing my memory... but I've
+ pretty much forgotten all of it and I'm kind of
+ at a loss."
 #
 <sprite "ta03a02.iph" 4 4 12>
 <name "Viola" "!BA0159">
-「……変な苦労を背負い込むぐらいなら、学園に放
-　り込めば良いのに」
+"If you're going to burden yourself with
+ unexpected problems, you should just toss her
+ back to the school."
 #
 <name "Lazlocke">
-「面倒を見始めたからな。
-　途中で放り出せないだろ」
+"I just took her in.
+ I can't throw her back out."
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0160">
-「……そうね。
-　私の授業料は高いわよ」
+"...I suppose not.
+ My lessons don't come cheap."
 #
 <name "Lazlocke">
-「一応、手土産は持参しているぞ」
+"I brought presents."
 #
 <sprite "ta03a06.iph" 4 4 12>
 <name "Viola" "!BA0161">
-「良い心掛けね」
+"Good attitude."
 #
 <removesprite -1 11>
-　数時間後。
+A few hours later...
 #
 <sprite "ta03a05.iph" 4 4 11>
 <name "Viola" "!BA0162">
-「待って、もう少しで思い出すから……
-　うーん……ええっと……」
+"Wait, I almost remember it...
+ Umm... Uh..."
 #
-　ヴィオラはかなり苦戦していた。
+Viola's struggling quite a bit.
 #
 <name "Lazlocke">
-「俺達、どちらかと言えば実践派だからなぁ」
+"We're both more practice than theory, huh?"
 #
 <sprite "ta03a37.iph" 4 4 12>
 <name "Viola" "!BA0163">
-「違うの。
-　ド忘れ！
-　あるでしょ」
+"No.
+ I just forgot this!
+ There it is, right?"
 #
 <name "Lazlocke">
-「ああ、だから俺は聞きに来たんだが……」
+"Maybe? I came here to have you teach me..."
 #
 <sprite "ta03a34.iph" 4 4 12>
 <name "Viola" "!BA0164">
-「習った筈なのに……くぅ～」
+"I know I learned this...
+ Grrr..."
 #
 <name "Lazlocke">
-「俺も習った筈なんだよなぁ～」
+"I should've learned it too."
 #
 <removesprite -1 11>
-　俺とヴィオラが調子を取り戻すのに、数日掛かっ
-　た。
+It took us several days to get everything
+figured out.
 #
 <exit>
 :7990
@@ -1629,73 +1667,72 @@
 <background "bg008a0.iph" 11>
 <sprite "ta02a01.iph" 4 4 11>
 <name "Elle" "!CA0102">
-「あれ？
-　師匠、机の上の香水ビン、二つありますけど……
-　どっちですか？」
+"Huh? Master, there are two perfume bottles
+ on your desk.
+ Which did you want?"
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta02a01.iph" 6 4 11>
 <name "Viola" "!BA0165">
-「今日は城の方へ行くから、大きい方」
+"I'm going to the castle today, so the big one."
 #
 <sprite "ta02a00.iph" 6 4 12>
 <name "Elle" "!CA0103">
-「こっちですね」
+"Here you are."
 #
 <sprite "ta03a01.iph" 2 5 12>
 <name "Viola" "!BA0166">
-「ありがとう」
+"Thank you."
 #
 <sprite "ta02a06.iph" 6 4 12>
 <name "Elle" "!CA0104">
-「あの……聞いて良いですか？」
+"Um, can I ask a question?"
 #
 <sprite "ta03a03.iph" 2 5 12>
 <name "Viola" "!BA0167">
-「どうしたの？」
+"What is it?"
 #
 <sprite "ta02a00.iph" 6 4 12>
 <name "Elle" "!CA0105">
-「その……
-　机の上にあったもう片方の香水、大事にしてます
-　よね」
+"Um... The other perfume on the desk is really
+ important to you, isn't it?"
 #
 <sprite "ta03a00.iph" 2 5 12>
 <name "Viola" "!BA0168">
-「そう？」
+"Is it?"
 #
 <sprite "ta02a01.iph" 6 4 12>
 <name "Elle" "!CA0106">
-「ええ、その大きい方とは偉く扱いが違うと言うか
-　……
-　大きいのは放り出しているのに、小さい方はちゃ
-　んと飾ってありましたから」
+"Yeah. Like, you treat it really differently
+ from the big one. The big one you just toss
+ wherever, but the little one is always neatly
+ put in its place."
 #
 <sprite "ta03a01.iph" 2 5 12>
 <name "Viola" "!BA0169">
-「……気のせいよ。
-　ほら、馬車が来たわ。
-　もう少しだけ待たせて頂戴」
+"You're imagining things.
+ Look, the wagon's here.
+ Give me just a moment."
 #
 <sprite "ta02a27.iph" 6 4 12>
 <name "Elle" "!CA0107">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta03a01.iph" 4 4 11>
 <name "Viola" "!BA0170">
-「……大事に……」
+"...It's important..."
 #
 <removesprite -1 11>
 <background "bg007a0.iph" 11>
 <sprite "ta02a35.iph" 4 4 11>
 <name "Elle" "!CA0108">
-「……あの小さい方って、セリスの家に行く時につ
-　けてるのよねぇ。
-　なぜかしら？」
+"...She always uses the little one when she goes
+ to Celes's house.
+ I wonder why."
 #
 <removesprite -1 11>
 <exit>
@@ -1703,97 +1740,102 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「おう、ヴィオラ。
-　今日も綺麗だな」
+"Hey, Viola.
+ You look beautiful again today."
 #
 <sprite "ta03a01.iph" 4 4 11>
 <name "Viola" "!BA0171">
-「ありがとう。
-　喉が渇いているわ。
-　冷たいモノ、あるかしら？」
+"Thank you.
+ I'm thirsty.
+ Is there anything cold to drink?"
 #
 <name "Lazlocke">
-「酒しかないぞ」
+"Only alcohol."
 #
 <sprite "ta03a06.iph" 4 4 12>
 <name "Viola" "!BA0172">
-「それで良いわ。
-　今日は仕事、終ったし」
+"That's fine.
+ I'm done with work for the day."
 #
 <name "Lazlocke">
-「わかった。
-　ああ、そうだ。
-　酒の前に……」
+"All right.
+ Ah, that's it.
+ Before we drink..."
 #
-　俺は小箱をヴィオラに差し出す。
+I give her a little box.
 #
 <sprite "ta03a03.iph" 4 4 12>
 <name "Viola" "!BA0173">
-「なに？」
+"What's this?"
 #
 <name "Lazlocke">
-「遠くに行ってる時、お土産を良く貰うからな。
-　お返しだ」
+"You always bring back presents for me when you
+ go on trips.
+ I'm returning the favor."
 #
 <sprite "ta03a00.iph" 4 4 12>
 <name "Viola" "!BA0174">
-「……前にくれた香水と同じに見えるけど」
+"...It looks like the same perfume you gave me
+ before."
 #
 <name "Lazlocke">
-「つけてくれているみたいだし、似合ってるぞ」
+"It smells like you're wearing it.
+ It suits you."
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0175">
-「……香水に罪は無いわね。
-　もらってあげるわ」
+"...It's a flawless perfume.
+ I accept."
 #
 <name "Lazlocke">
-「そりゃどうも」
+"You're welcome."
 #
 <sprite "ta03a06.iph" 4 4 12>
 <name "Viola" "!BA0176">
-「お酒」
+"Drink."
 #
 <name "Lazlocke">
-「はいはい」
+"Yeah, yeah."
 #
 <removesprite -1 11>
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0109">
-「師匠、お帰りなさい。
-　……偉く機嫌が良いですね。
-　なにか良い事でもありました？」
+"Welcome home, Master.
+ You look like you're in a good mood.
+ Did something happen?"
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
 <name "Viola" "!BA0177">
-「そうでもないわよ」
+"Not at all."
 #
 <sprite "ta02a01.iph" 6 5 12>
 <name "Elle" "!CA0110">
-「そうですか？」
+"Really?"
 #
 <sprite "ta03a06.iph" 2 4 12>
 <name "Viola" "!BA0178">
-「ええ。
-　それより、貴女の調子はどうなの？」
+"Yes.
+ What about yourself?
+ How are you progressing?"
 #
 <sprite "ta02a09.iph" 6 5 12>
 <name "Elle" "!CA0111">
-「あはは……頑張ってます」
+"Hahaha...
+ I'm working hard."
 #
 <sprite "ta03a06.iph" 2 4 12>
 <name "Viola" "!BA0179">
-「明日、仕事は夕方からだから、それまで見てあげ
-　るわ」
+"Tomorrow, I'll be out with work all day.
+ I can help you until then."
 #
 <sprite "ta02a04.iph" 6 5 12>
 <name "Elle" "!CA0112">
-「は、はい！
-　よろしくお願いします」
+"Y-Yes, ma'am!
+ Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -1801,74 +1843,74 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「ケーキ、作ったぞ？
-　食べるか？」
+"I baked a cake.
+ Want to try it?"
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0415">
-「え、本当ですか？」
+"Huh? Really?"
 #
 <name "Lazlocke">
-「ああ、シンプルなヤツだけどな」
+"Yeah, well, just a simple one."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA0416">
-「十分です。
-　うわっ……甘い香り」
+"There's no need to be fancy.
+ Ooh, it smells sweet."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA0417">
-「それにフルーツ？
-　干してないフルーツですよね。
-　これ……」
+"Is that fruit?
+ But it's not dried.
+ This is..."
 #
 <name "Lazlocke">
-「ああ、最近の流行だぞ。
-　日持ちはしないが、なかなか良いだろ」
+"Yeah, it's a recent trend.
+ It won't keep, but it tastes pretty good."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0418">
-「はい♪
-　でも、今日は何かの記念日ですか？
-　ケーキを焼くなんて、年末か記念日ぐらいですよ
-　ね」
+"Yes.♪
+ But is today an anniversary or something?
+ Baking cakes is more like an anniversary or
+ end of the year kind of thing."
 #
 <name "Lazlocke">
-「いや、ただのアルバイトだ」
+"No, but a job I took."
 #
 <removesprite -1 11>
-　材料代を貰い、ケーキを作るアルバイト。
+A job I accepted making cakes.
 #
-　今、セリスが食べているのは試作品だ。
+Celes is eating the prototype cake.
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA0419">
-「誰からの依頼なんですか？」
+"Who are you working for?"
 #
 <name "Lazlocke">
-「協会幹部。
-　俺の料理には、それなりにファンが居るんだぞ」
+"A Guild VIP.
+ A fan of my cooking."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0420">
-「この味ならわかります」
+"From the taste, I can see why."
 #
 <name "Lazlocke">
-「味に問題が無ければ、量産する。
-　しばらくは台所を占領するぞ」
+"If it tastes good, then it's time for mass
+ production. I'll be taking over the kitchen
+ for a while."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA0421">
-「わかりました。
-　えっと、私は手伝わなくて良いんですか？」
+"Okay.
+ Um, you don't need me to help?"
 #
 <name "Lazlocke">
-「人の楽しみを取らないように」
+"Don't try to steal my fun."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA0423">
-「はい。
-　では、勉強してます」
+"Yes, sir. I'll go study."
 #
 <removesprite -1 11>
 <exit>
