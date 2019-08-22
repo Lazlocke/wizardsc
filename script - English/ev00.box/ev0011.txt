@@ -115,124 +115,122 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta07a04.iph" 4 4 11>
-<name "ジャッジマン" "!FA0097">
-「やあ、ジャッジマンだよ」
+<name "Judgeman" "!FA0097">
+"Hey!
+ It's Judgeman!"
 #
 <name "Lazlocke">
-「うおぉっ！
-　ビックリした！
-　……誰も対決していないぞ」
+"Whoa!
+ You scared me.
+ ...Nobody's having a showdown here."
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0098">
-「いえいえ、今日は賞品をお持ちしたんですよ」
+<name "Judgeman" "!FA0098">
+"No, no.
+ Today I come bearing a trophy."
 #
 <name "Lazlocke">
-「賞品？」
+"A trophy?"
 #
 <sprite "ta07a06.iph" 4 4 12>
-<name "ジャッジマン" "!FA0099">
-「はい。
-　バンカスター武術大会の上位入賞賞品です」
+<name "Judgeman" "!FA0099">
+"Yes. The trophy for achieving a high rank in 
+ the Bancaster Martial Arts Tournament."
 #
 <name "Lazlocke">
-「上位入賞？
-　優勝じゃなく？」
+"A high rank?
+ Not for winning?"
 #
 <sprite "ta07a13.iph" 4 4 12>
-<name "ジャッジマン" "!FA0100">
-「はい。
-　上位者に贈られるものです。
-　では、セリスさん。
-　そこに立ってください」
+<name "Judgeman" "!FA0100">
+"Yes. It's a gift for all who rank well.
+ Now then, Miss Celes, please stand there."
 #
 <removesprite -1 11>
 <sprite "ta07a13.iph" 2 4 11>
 <sprite "ta01a06.iph" 6 5 11>
 <name "Celes" "!AA4816">
-「はい」
+"Okay."
 #
 <sprite "ta07a07.iph" 2 4 12>
-<name "ジャッジマン" "!FA0101">
-「ぱーんぱーぱーぱーぱー♪
-　ぱらららぱっぱっぱー♪」
+<name "Judgeman" "!FA0101">
+"Bumbadadadada.♪
+ Badabadabada.♪"
 #
 <sprite "ta07a00.iph" 2 4 12>
-<name "ジャッジマン" "!FA0102">
-「貴殿はバンカスター武術大会において優れた成績
-　を修め、これを賞します。
-　クインズベル王国歴四十六年。
-　セリスティーネ＝ロココ」
+<name "Judgeman" "!FA0102">
+"In honor of your achievements in the Bancaster
+ Martial Arts Tournament, you are awarded this.
+ In the 46th year of the Queensbell Kingdom.
+ Celestine Rococo."
 #
 <sprite "ta01a15.iph" 6 5 12>
 <name "Celes" "!AA4817">
-「あ、ありがとうございます」
+"T-Thank you very much."
 #
 <name "Lazlocke">
-「表彰式はやっただろ？」
+"So it's just a commendation ceremony?"
 #
 <sprite "ta07a05.iph" 2 4 12>
-<name "ジャッジマン" "!FA0103">
-「形式美です」
+<name "Judgeman" "!FA0103">
+"It is elegance."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta07a01.iph" 2 4 12>
-<name "ジャッジマン" "!FA0104">
-「では、副賞です」
+<name "Judgeman" "!FA0104">
+"Now for your other prize."
 #
 <sprite "ta01a06.iph" 6 5 12>
 <name "Celes" "!AA4818">
-「手紙？」
+"A letter?"
 #
 <sprite "ta07a00.iph" 2 4 12>
-<name "ジャッジマン" "!FA0105">
-「開いてみてください」
+<name "Judgeman" "!FA0105">
+"Please open it."
 #
-　ジャッジマンの勧めに従い、セリスは手紙を開い
-　た。
+Celes opens the envelope.
 #
 <sprite "ta01a08.iph" 6 5 12>
 <name "Celes" "!AA4819">
-「……温泉地への宿泊招待券」
+"...It's an invitation to a hot spring inn."
 #
 <sprite "ta07a07.iph" 2 4 12>
-<name "ジャッジマン" "!FA0106">
-「はい！
-　魔法による転送サービス付きです！
-　どうぞ、お楽しみください！」
+<name "Judgeman" "!FA0106">
+"Yes! It comes with a transport service by
+ magic!
+ Go on! Enjoy yourself!"
 #
 <removesprite -1 11>
-　ジャッジマンはそう言って、去っていった。
+And then he leaves.
 #
 <name "Lazlocke">
-「……嵐のようだな」
+"...He's almost like a sudden storm."
 #
 <sprite "ta01a89.iph" 4 4 11>
 <name "Celes" "!AA4820">
-「そうですね。
-　……それで、師匠。
-　どうしましょう？」
+"Yeah.
+ So, Master, what should we do?"
 #
 <name "Lazlocke">
-「どうすると言われてもな……
-　有効期限とかはあるか？」
+"What? Well...
+ Is there an expiration date?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4821">
-「あ、はい。
-　今年中になってますね。
-　人数は……三人まで。
-　宿泊、料理、その他、すべて無料のようです」
+"Ah, yes.
+ The end of the year.
+ I can bring... three people.
+ Room, food, and stuff are all paid for."
 #
 <name "Lazlocke">
-「無料か……
-　じゃあ、適当な時期に行くか」
+"No cost, huh?
+ Then we should go when we've got time."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA4822">
-「はい♪」
+"Okay!♪"
 #
 <removesprite -1 11>
 <exit>
@@ -241,59 +239,62 @@
 <background "bg002a0.iph" 11>
 <sprite "ta03a01.iph" 4 4 11>
 <name "Viola" "!BA0318">
-「こんにちは」
+"Hello."
 #
 <name "Lazlocke">
-「なんだ、お茶でも飲みに来たのか？」
+"Hm? Here for tea?"
 #
 <sprite "ta03a05.iph" 4 4 12>
 <name "Viola" "!BA0319">
-「そうね……熱いのを貰おうかしら。
-　セリスは頑張っているの？」
+"Indeed. Something warm, perhaps?
+ Is Celes hard at work?"
 #
 <name "Lazlocke">
-「ん？
-　ああ、熱心にやっている」
+"Hm? 
+ Yeah, she's at it."
 #
 <sprite "ta03a03.iph" 4 4 12>
 <name "Viola" "!BA0320">
-「そう……
-　じゃあ、そろそろ試練の塔に？」
+"I see.
+ Then will she be going to the Tower of Trials
+ soon?"
 #
 <name "Lazlocke">
-「考えてはいる……が、まだ不安でな」
+"I'm considering it, but I'm not sure she's
+ ready."
 #
 <sprite "ta03a00.iph" 4 4 12>
 <name "Viola" "!BA0321">
-「へぇ」
+"Oh?"
 #
 <name "Lazlocke">
-「なんだ？」
+"What?"
 #
 <sprite "ta03a06.iph" 4 4 12>
 <name "Viola" "!BA0322">
-「んー、師匠をしてるのねって」
+"Hmm...
+ Her master would know best."
 #
 <name "Lazlocke">
-「冷やかすなよ。
-　柄じゃないのはわかっている」
+"Don't be catty.
+ I just don't know if she can handle it."
 #
 <sprite "ta03a05.iph" 4 4 12>
 <name "Viola" "!BA0323">
-「そんな事ないわよ。
-　昔はたくさんの弟子が居たでしょ」
+"Hardly.
+ A lot of apprentices used to go there."
 #
 <name "Lazlocke">
-「弟子じゃない。
-　生徒だ」
+"Students, not apprentices."
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0324">
-「似たようなものよ。
-　……大事にし過ぎて、腐らせないようにね」
+"What's the difference?
+ If you keep her locked up all the time, she'll
+ never spread her wings."
 #
 <name "Lazlocke">
-「ご忠告、どうも」
+"Thank you for the advice."
 #
 <removesprite -1 11>
 <exit>
@@ -301,36 +302,37 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「ソシエット君。
-　試練の塔の様子は？」
+"Soshiette, what's the Tower of Trials like
+ lately?"
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA0588">
-「最近は誰も使っておりません」
+"Nobody goes there anymore."
 #
 <name "Lazlocke">
-「そうか……」
+"I see..."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA0589">
-「挑戦させるのですか？」
+"You're going to have her try it?"
 #
 <name "Lazlocke">
-「ああ、考えている」
+"Yeah, I was thinking about it."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0590">
-「悪くない意見です」
+"It's not a bad idea."
 #
 <removesprite -1 11>
 <exit>
 :1C32
 <music 10>
 <background "bg002a0.iph" 11>
-　セリスは頑張っている。
+Celes is working hard.
 #
 <name "Lazlocke">
-「……そろそろ、試練の塔かな」
+"...She might be about ready for the Tower of
+ Trials."
 #
 <exit>
 :1C9B
@@ -338,50 +340,52 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3312">
-「魔法の塔ってなんですか？」
+"What's the Tower of Magic?"
 #
 <name "Lazlocke">
-「ん？
-　どこで聞いたんだ？」
+"Hm? Where'd you hear about it?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3313">
-「ヴィオラさんに。
-　何かあるんですか？」
+"Viola.
+ Is there something sepcial about it?"
 #
 <name "Lazlocke">
-「いや……まあ、試練の塔の強化版みたいなもんだ」
+"No. Well, it's like a stronger version of the
+ Tower of Trials."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3314">
-「試練の塔の強化版ですか？」
+"A stronger version?"
 #
 <name "Lazlocke">
-「ああ……だが、ほとんど知られていない。
-　名前の魔法の塔だって、本来は栄光と友情と黄色
-　い薔薇の塔と言うんだが、誰もそう呼ばない」
+"Yeah. Its actual name is the Tower of Glory,
+ Camaraderie, and Yellow Rose, but nobody calls
+ it that.
+ Hardly anybody's familiar with it now."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA3315">
-「どうしてなんですか？」
+"Why's that?"
 #
 <name "Lazlocke">
-「場所が悪いのが一点。
-　一時、その塔の最上階を守る者が凶悪だった事が
-　もう一点かな」
+"The first problem is that it's in a crappy
+ place. The next one is that the person guarding
+ the top floor is terrifying."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3316">
-「凶悪……」
+"Terrifying..."
 #
 <name "Lazlocke">
-「今はその凶悪なのは居ないから安心して良い。
-　挑戦してみるなら、場所を教えるぞ」
+"Don't worry. That fiend's not there right now.
+ If you want to try it, I can tell you where it
+ is."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA3317">
-「はい。
-　頑張ってみたいと思います」
+"Okay. I want to push myself as far as I can
+ go."
 #
 <removesprite -1 11>
 <exit>
@@ -389,32 +393,32 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「魔法の塔……
-　正式名称は栄光と友情と黄色い薔薇の塔。
-　協会に敵対していた組織の所有物だったが、協会
-　が接収した」
+"The Tower of Magic... Its official name is the
+ Tower of Glory, Camaraderie, and Yellow Rose.
+ It belonged to a group hostile to the Guild
+ until the Guild took it over."
 #
 <name "Lazlocke">
-「以後、協会の倉庫と実践の場として活用される事
-　になったんだが……
-　協会の実力を知らしめる為に、塔の上層部に強い
-　魔法使いを配置した」
+"Since then, it's been used as a Guild warehouse
+ and practice range. A strong wizard was set at
+ the top of the tower to demonstrate the
+ strength of the Guild."
 #
 <name "Lazlocke">
-「それが仇になり、誰もその塔に近付かなくなった
-　んだ」
+"That backfired though, and everyone avoided
+ the tower."
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA3318">
-「そうなんですか……
-　その強い魔法使いって、ヴィオラさんですか？」
+"I see...
+ Was that strong wizard Viola?"
 #
 <name "Lazlocke">
-「だったら、塔が壊れている」
+"If it was, the tower would be rubble."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA3319">
-「あはは……」
+"Hahaha..."
 #
 <removesprite -1 11>
 <exit>
@@ -423,74 +427,78 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3320">
-「師匠、魔法の塔には昔、凄い魔法使いが居たって
-　話を聞いたんですが……」
+"Master, I heard that there used to be an
+ incredible wizard at the Tower of Magic."
 #
 <name "Lazlocke">
-「凄い魔法使い？
-　誰に聞いたんだ？」
+"An incredible wizard?
+ Who told you that?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA3321">
-「ヴィオラさんにです」
+"Viola."
 #
 <name "Lazlocke">
-「なるほど……
-　凄い魔法使いじゃなくて、凶悪な魔法使いだ」
+"I see.
+ I don't know if I'd say incredible.
+ More like terrifying."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3322">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「うむ。
-　塔に挑戦して来る者があれば、手加減無用で蹴散
-　らし、気分が乗れば自分から最下層に降りてくる」
+"Mmhmm. When someone challenged the tower, they
+ would go after them without holding anything
+ back, even going down to the bottom floor if
+ they felt like it."
 #
 <name "Lazlocke">
-「話によれば、一階に居た事もあったそうだ。
-　凶悪だろ」
+"From what I heard, they had set up camp on the
+ first floor.
+ Terrifying, right?"
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA3323">
-「一階に……ひ、酷いですね。
-　誰なんですか？」
+"On the first floor?
+ T-That's awful.
+ Who is it?"
 #
 <name "Lazlocke">
-「……お前に武術を教えているヤツだ」
+"...The woman teaching you how to fight."
 #
 <sprite "ta01a11.iph" 4 4 12>
 <name "Celes" "!AA3324">
-「……え？
-　ええええええええええええええええええええええ
-　ええええええええええええええええええええええ
-　ええええええええええええええええええええっ！」
+"...Eh?
+ Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeehhhhhhhhhhhhh?"
 #
 <name "Lazlocke">
-「あれが、一階に居る事があるって考えてみろ。
-　誰が挑戦する」
+"Think about running into her on the first 
+ floor.
+ Who'd want any part of that?"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA3325">
-「で、ですね……」
+"Y-Yeah..."
 #
 <name "Lazlocke">
-「しばらくして、誰も魔法の塔に近付かなくなった。
-　でもって、ソシエットは解任。
-　後任は決まらないままだが、塔には魔物や何かが
-　色々と残って勝手にしている筈だ」
+"It didn't take long until everyone steered
+ clear, but then Soshiette was dismissed from
+ it, and nobody was picked to replace her, so
+ I'm sure monsters have set up shop in there."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA3326">
-「そ、そんな塔なんですね」
+"S-So that's the kind of tower it is."
 #
 <name "Lazlocke">
-「そんな塔だ。
-　挑戦するなら、場所を教えよう」
+"That's right.
+ If you want to try it, I can tell you where it
+ is."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA3327">
-「か、考えます」
+"I-I'll think about it."
 #
 <removesprite -1 11>
 <exit>
@@ -499,58 +507,59 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3365">
-「祝福の塔ですか？」
+"The Tower of Blessings?"
 #
 <name "Lazlocke">
-「そう、祝福の塔」
+"Yeah. The Tower of Blessings."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA3366">
-「なんだか、良さそうな感じの塔ですね」
+"That kind of seems like a nice tower."
 #
 <name "Lazlocke">
-「んー……そうでもないぞ」
+"Hmm... Not really."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3367">
-「そうなんですか？」
+"Why not?"
 #
 <name "Lazlocke">
-「ああ、結構な強さの魔物とか居るらしいぞ」
+"Well, I believe it's full of some pretty strong
+ monsters."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3368">
-「魔物が居るんですか？
-　祝福って名前なのに」
+"There's monsters there?
+ But it has blessings in its name."
 #
 <name "Lazlocke">
-「その名前は、塔を造った者が、この塔を登りきっ
-　たら祝福してやろうと言ったのが由来らしい。
-　本当の名前は別にあるらしいが、誰も知らないら
-　しい」
+"It's called that because the person who built
+ it said it would be a blessing if you actually
+ made it to the top. I believe it has an actual
+ name, but nobody knows what it is." 
 #
 <name "Lazlocke">
-「古い文献を読んでも、すでに祝福の塔ってなって
-　いるしな」
+"Even in old documents, it's always referred to
+ as the Tower of Blessings."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3369">
-「そうなんですか」
+"Really?"
 #
 <name "Lazlocke">
-「ああ……そんな古い塔だから、住んでいる魔物も
-　強いぞ」
+"Yeah. Since it's such an old tower, the
+ monsters in it will be pretty strong."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA3370">
-「強いんですか」
+"Strong?"
 #
 <name "Lazlocke">
-「……嬉しそうだな」
+"...You seem happy about that."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3371">
-「あはは……」
+"Hahaha..."
 #
 <removesprite -1 11>
 <exit>
@@ -559,25 +568,26 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA3372">
-「師匠！
-　祝福の塔に関して教えてください！」
+"Master!
+ Please tell me where the Tower of Blessings
+ is!"
 #
 <name "Lazlocke">
-「祝福の塔とは！」
+"The Tower of Blessings!"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA3373">
-「祝福の塔とは？」
+"The Tower of Blessings?"
 #
 <name "Lazlocke">
-「……調べる時間をください」
+"...Give me some time to look it up."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA3374">
-「明日までですよ」
+"You have until tomorrow."
 #
 <name "Lazlocke">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -585,19 +595,20 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「祝福の塔！
-　行ってみるかー！」
+"The Tower of Blessings!
+ Want to go!?"
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA3375">
-「おー！」
+"Yay!"
 #
 <name "Lazlocke">
-「……祝福の塔の事、知ってるのか？」
+"...Do you know anything about the Tower of
+ Blessings?"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA3376">
-「いえ……ノリで返事をしました」
+"No. I was just responding to your energy."
 #
 <removesprite -1 11>
 <exit>
@@ -606,32 +617,32 @@
 <background "bg008a0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
 <name "Viola" "!BA0329">
-「祝福の塔……ね」
+"The Tower of Blessings, huh?"
 #
 <name "Lazlocke">
-「ああ、前に行った事があるって聞いたのを思い出
-　してな。
-　知っている事があったら、教えて欲しい」
+"Yeah. If memory serves, you've been there.
+ If you know anything, could you share it?"
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0330">
-「弟子の為に？」
+"For your apprentice?"
 #
 <name "Lazlocke">
-「俺の為なら、自分で行って調べる」
+"If it was for me, I'd go there and figure it
+ out on my own."
 #
 <sprite "ta03a06.iph" 4 4 12>
 <name "Viola" "!BA0331">
-「なるほど。
-　……いいけど、高くつくわよ」
+"Indeed.
+ Very well, but it'll cost you."
 #
 <name "Lazlocke">
-「わかっている。
-　できるだけの事はするさ」
+"I know.
+ I'll do what I can."
 #
 <sprite "ta03a01.iph" 4 4 12>
 <name "Viola" "!BA0333">
-「そう、期待しているわ」
+"Good. I'm looking forward to it."
 #
 <removesprite -1 11>
 <exit>
@@ -643,9 +654,9 @@
 \x52 "ta10b20.iph"  4  4  11 
 :3300
 \x2B
-<name "イングウェイ" "!TA0071">
-「やあ、セリス君。
-　祝福の塔について知ってるかい？」
+<name "Ingway" "!TA0071">
+"Hey, Celes.
+ Do you know about the Tower of Blessings?"
 #
 <removesprite -1 11>
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :33B0: \x52 "ta01a06.iph"  2  5  11 \x52 "ta10a20.iph"  6  4  11 \x18 :33EA: 
@@ -654,36 +665,37 @@
 :33EA
 \x2B
 <name "Celes" "!AA3377">
-「祝福の塔？」
+"The Tower of Blessings?"
 #
 \x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :3441: \x52 "ta10a09.iph"  6  4  12 \x18 :345E: 
 :3441
 \x52 "ta10b09.iph"  6  4  12 
 :345E
 \x2B
-<name "イングウェイ" "!TA0072">
-「ああ、この国のどこかにあるって話を聞いたんだ
-　が、わからなくて……
-　色々な人に聞いて回っている」
+<name "Ingway" "!TA0072">
+"Yeah, I heard it was somewhere in this kingdom,
+ but I don't know where.
+ I've been asking around."
 #
 <sprite "ta01a32.iph" 2 5 12>
 <name "Celes" "!AA3378">
-「すみません、知りません」
+"I'm sorry.
+ I don't know."
 #
 \x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :3564: \x52 "ta10a45.iph"  6  4  12 \x18 :3581: 
 :3564
 \x52 "ta10b45.iph"  6  4  12 
 :3581
 \x2B
-<name "イングウェイ" "!TA0073">
-「そうか。
-　悪かったね」
+<name "Ingway" "!TA0073">
+"I see.
+ Thanks anyway."
 #
 <removesprite -1 11>
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA3379">
-「……祝福の塔か。
-　師匠に聞いてみよっ」
+"The Tower of Blessings, huh?
+ I should ask my master."
 #
 <removesprite -1 11>
 <exit>
@@ -691,19 +703,21 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「絶望の塔は、その名の通りに絶望の塔だ」
+"The Tower of Despair, as the name suggests, is
+ a tower of despair."
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA3421">
-「絶望するんですか？」
+"It causes despair?"
 #
 <name "Lazlocke">
-「そうだ。
-　腕に自信がある者が挑み、そして絶望させられる」
+"That's right.
+ People confident in their skills challenge it,
+ and leave in despair."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA3422">
-「ごくり……」
+"*gulp*"
 #
 <removesprite -1 11>
 <exit>
@@ -711,27 +725,29 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「絶望の塔……
-　協会でも要注意施設なんだが……」
+"The Tower of Despair?
+ It's a place that the Guild is very particular
+ about."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA3423">
-「そこに挑戦したいです」
+"I want to challenge it."
 #
 <name "Lazlocke">
-「まったく、誰から聞いてきたんだか……」
+"Honestly. Who told you about it?"
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA3424">
-「魔法関係で調べものをしていれば、自然に」
+"It's only natural I'd find out about it 
+ researching magical stuff."
 #
 <name "Lazlocke">
-「……わかった。
-　考えておく」
+"...All right.
+ I'll think about it."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3425">
-「お願いします」
+"Please."
 #
 <removesprite -1 11>
 <exit>
@@ -740,18 +756,18 @@
 <background "bg003a0.iph" 11>
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA3426">
-「んー……
-　本を読んでいると、時々出てくるこの名前……」
+"Hmm...
+ This name keeps coming up in the books I read."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA3427">
-「挑む者を絶望させる、絶望の塔……
-　調べたら、そんなに遠くじゃない場所にあるみた
-　いだし……」
+"A tower that brings despair, the Tower of
+ Despair. From what I can tell, it doesn't seem
+ like it's very far away."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA3428">
-「今度、師匠に聞いてみようかな」
+"Maybe I should ask my master about it."
 #
 <removesprite -1 11>
 <exit>
@@ -760,29 +776,28 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3500">
-「師匠、魔王の塔ならわかるんですが、王魔の塔っ
-　てなんですか？」
+"Master, I know what the Tower of Overlords is,
+ but what's the Tower of the Underlord?"
 #
 <name "Lazlocke">
-「んー……
-　王様が魔物になったって噂があってな。
-　その魔物になった王様が作った塔だから、王魔の
-　塔と呼ばれた筈だ」
+"Hmm... I heard it comes from a lord who became
+ a demon. It's basically the same thing as an
+ Overlord, but called something different."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3501">
-「魔物になった王様が居るんですか？」
+"There was a king who became a demon?"
 #
 <name "Lazlocke">
-「遥か昔にな」
+"Long ago."
 #
 <name "Lazlocke">
-「確か、細かい話があったと思うが……
-　どうだったかな」
+"I'm sure there was a whole legend about it,
+ but I don't know what it was."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3502">
-「今度、調べておきますね」
+"I should check it out later."
 #
 <removesprite -1 11>
 <exit>
@@ -791,41 +806,39 @@
 <background "bg013a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3503">
-「王魔の塔？」
+"The Tower of the Underlord?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
 <name "Elle" "!CA0253">
-「そう。
-　王魔の塔」
+"Yeah, the Tower of the Underlord."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA3504">
-「王魔の塔って何？」
+"What's the Tower of the Underlord?"
 #
 <sprite "ta02a35.iph" 6 4 12>
 <name "Elle" "!CA0254">
-「さあ……」
+"Not sure."
 #
 <sprite "ta01a36.iph" 2 5 12>
 <name "Celes" "!AA3505">
-「なぜ、話題に？」
+"Why'd you bring it up?"
 #
 <sprite "ta02a32.iph" 6 4 12>
 <name "Elle" "!CA0255">
-「西の方から来た行商が、そんな話をしていたから。
-　セリスなら知ってるんじゃないかなと思って」
+"A peddler from the west was telling me about
+ it. I thought you might know something."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA3506">
-「へー……
-　でも、知らない」
+"Oh? But I've never heard of it."
 #
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0256">
-「よね。
-　今度、師匠に聞いてみるわ」
+"Guess not.
+ I'll ask my master later."
 #
 <removesprite -1 11>
 <exit>
@@ -834,29 +847,31 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a24.iph" 4 4 11>
 <name "Soshiette" "!DA0602">
-「最近、王魔の塔が物騒になっているようです」
+"The Tower of the Underlord has gotten dangerous
+ recently."
 #
 <name "Lazlocke">
-「ほう……」
+"Oh?"
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0603">
-「そこで、その調査にセリスさんを行かせて欲しい
-　との協会の依頼です」
+"Which is why the Guild is making a formal
+ request that Miss Celes go investigate."
 #
 <name "Lazlocke">
-「調査という名の掃除だろ」
+"By investigate, you mean clean up."
 #
 <sprite "ta04a26.iph" 4 4 12>
 <name "Soshiette" "!DA0604">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「……わかった考えておく」
+"...All right.
+ I'll consider it."
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA0605">
-「よろしくお願いします」
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -865,39 +880,43 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3571">
-「師匠、最上の塔って知ってますか？」
+"Master, do you know about the Tower of
+ Greatness?"
 #
 <name "Lazlocke">
-「ああ、知ってるぞ」
+"Yeah, I do."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3572">
-「どんな塔なんですか？」
+"What kind of Tower is it?"
 #
 <name "Lazlocke">
-「数多の竜とそれを率いる古代竜が住む塔。
-　それが最上の塔だ」
+"A tower with a ton of dragons, including an
+ ancient one.
+ That's what makes it so great."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3573">
-「竜……ですか」
+"Dragons?"
 #
 <name "Lazlocke">
-「そうだ。
-　しかも下等な竜じゃない、遥か昔に天界や魔界と
-　対等に戦ったと言われる竜だ」
+"That's right. And not lesser dragons.
+ The kind of dragons that went to war with 
+ Celestia and the Netherworld ages ago."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA3575">
-「そ、それがなぜ塔に？」
+"W-What are they doing in that tower?"
 #
 <name "Lazlocke">
-「なんでも昔の契約とからしい。
-　その契約で塔に挑戦する者を阻むと……厳しいぞ」
+"Apparently some kind of ancient covenant.
+ They're bound to stop anybody who tries to
+ enter that tower.
+ It's quite dangerous."
 #
 <sprite "ta01a19.iph" 4 4 12>
 <name "Celes" "!AA3576">
-「ごくり……」
+"*gulp*"
 #
 <removesprite -1 11>
 <exit>
@@ -906,48 +925,49 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA3577">
-「最上の塔には、古代竜が居るって本当ですか？」
+"Is it true that there's an ancient dragon in
+ the Tower of Greatness?"
 #
 <name "Lazlocke">
-「ああ、居るぞ」
+"Yeah, there is."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA3578">
-「居るんですか……
-　お、温厚ですか？」
+"So it's true...
+ I-Is it nice?"
 #
 <name "Lazlocke">
-「そうだな。
-　どちらかと言えば温厚だ。
-　雄だしな」
+"I guess.
+ You could call it it nice enough.
+ It's a male."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3579">
-「雄なんですか？」
+"A male?"
 #
 <name "Lazlocke">
-「ああ、気の弱い感じの竜だったぞ」
+"Yeah. A more timid kind of dragon."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3580">
-「へぇ」
+"Oh?"
 #
 <name "Lazlocke">
-「どうしたんだ？
-　急にそんな事を聞いて」
+"What's up?
+ Why are you asking about that?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3581">
-「あはは……
-　本で読みまして、近くにあるみたいなので挑戦し
-　てみようかなって」
+"Hahaha...
+ I read about it, and since it was nearby, I was
+ thinking about trying it."
 #
 <name "Lazlocke">
-「挑戦するのは構わないが、死ぬなよ」
+"I don't mind, but don't get yourself killed."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA3582">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -955,50 +975,52 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「神魔の塔。
-　天界と魔界が手を結んだ時があり、その際に結束
-　の証として造られたのが神魔の塔だ」
+"The Tower of Dusk Light. There was a time when
+ Celestia was allied with the Netherworld.
+ The Tower of Dusk Light was created as proof
+ of their alliance."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3649">
-「手を結んだんですか？」
+"They were allies?"
 #
 <name "Lazlocke">
-「ああ。
-　天界と魔界の抗争に、竜族が横槍をいれて天界と
-　魔界を脅かしたんだ。
-　それに対抗する為にな」
+"Yeah. The dragons began a war with Celestia and
+ the Netherworld, and were a threat to both.
+ They united to oppose them."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3650">
-「へー」
+"Oh?"
 #
 <name "Lazlocke">
-「それ以降、天界と魔界の間に大きな争いは無いら
-　しいが、小競り合いは山程あるらしい」
+"Since then, there haven't been any major wars
+ between those powers, but there have been
+ plenty of smaller skirmishes."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA3651">
-「あはは……」
+"Hahaha..."
 #
 <name "Lazlocke">
-「そんなワケだから、神魔の塔はお飾りで放置状態
-　だな」
+"Which is to say that the tower has been left
+ completely unmanaged."
 #
 <name "Lazlocke">
-「でも、天界と魔界の住人や関係生物がゴッソリと
-　居るって話だ」
+"But I've heard rumors that you can find both
+ angels and demons inside it."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3652">
-「そうなんですか」
+"I see."
 #
 <name "Lazlocke">
-「ああ、魔法の練習場所にしては厳しいぞ」
+"Yeah. It's a very difficult place to practice
+ magic."
 #
 <sprite "ta01a19.iph" 4 4 12>
 <name "Celes" "!AA3653">
-「ごくり……」
+"*gulp*"
 #
 <removesprite -1 11>
 <exit>
@@ -1006,21 +1028,23 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「神魔の塔に行きたいか」
+"You want to go to the Tower of Dusk Light?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA3655">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「どこで調べたか知らないが、無茶な事を……」
+"I don't know where you heard about it, but
+ that's pretty reckless."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3656">
-「でも、自分の腕を試したいんです」
+"But I want to test my skills."
 #
 <name "Lazlocke">
-「わかった……考えておく」
+"All right.
+ I'll consider it."
 #
 <removesprite -1 11>
 <exit>
@@ -1028,10 +1052,10 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「神魔の塔か……」
+"The Tower of Dusk Light, huh?"
 #
 <name "Lazlocke">
-「多少、無茶かもしれないが……」
+"It might be a little reckless though..."
 #
 <exit>
 :4DCE
@@ -1039,36 +1063,36 @@
 <background "bg013a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3657">
-「天界と魔界の住人が作った塔？」
+"A tower created by angels and devils?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a01.iph" 6 4 11>
 <name "Elle" "!CA0257">
-「ええ、師匠に聞いたんだけど、そんな塔があるん
-　だって」
+"Yes. My master told me a tower like that
+ exists."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA3658">
-「へぇ……凄そうな感じね」
+"Oh? That sounds incredible."
 #
 <sprite "ta02a32.iph" 6 4 12>
 <name "Elle" "!CA0258">
-「でしょう。
-　でも、師匠は挑戦させてくれないのよ」
+"I know, right?
+ But she won't let me challenge it."
 #
 <sprite "ta01a10.iph" 2 5 12>
 <name "Celes" "!AA3659">
-「それだけ危険って事？」
+"It's that dangerous?"
 #
 <sprite "ta02a35.iph" 6 4 12>
 <name "Elle" "!CA0259">
-「じゃないかな。
-　むう……」
+"Seems like it must be.
+ Hmm..."
 #
 <sprite "ta01a31.iph" 2 5 12>
 <name "Celes" "!AA3660">
-「私の師匠に聞いてみようかな」
+"Maybe I should ask my master."
 #
 <removesprite -1 11>
 <exit>
@@ -1077,94 +1101,96 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0611">
-「お届け物です」
+"Delivery."
 #
 <name "Lazlocke">
-「なんだ？」
+"What is it?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0612">
-「挑戦札です」
+"A letter of challenge."
 #
 <name "Lazlocke">
-「……セリスにか？」
+"...For Celes?"
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA0613">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「少し早くないか？」
+"Isn't it a little soon?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0614">
-「協会も、ご主人様の弟子に興味があるんですよ」
+"The Guild is also interested in your
+ apprentice."
 #
 <name "Lazlocke">
-「大した事は無いと言っておいてくれ」
+"Tell them it's not that big a deal."
 #
 <sprite "ta04a06.iph" 4 4 12>
 <name "Soshiette" "!DA0615">
-「努力はしますが、手遅れかと思います」
+"I'll try, but I think it's too late for that."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA0616">
-「では、確かにお渡ししました」
+"Now then, delivery complete."
 #
 <name "Lazlocke">
-「確かに預かった」
+"Acknowledged."
 #
 <removesprite -1 11>
-　協会の封印がされた手紙を一通。
+It's an envelope with the Guild's seal on it.
 #
 <name "Lazlocke">
-「……ソシエット。
-　セリスはどこまでやれると思う？」
+"Soshiette, how far do you think she's going to
+ be able to go?"
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0617">
-「最終的には、頂上まで」
+"Eventually, to the top."
 #
 <name "Lazlocke">
-「……俺と同じ意見だ」
+"...I feel the same way."
 #
 <removesprite -1 11>
 \x2B\xB2 "挑戦札" \x00
-『セリスは“挑戦札”を入手した』
+--Celes has obtained the Challenge Invitation--
 #
 <exit>
 :54A8
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「そろそろ、詠唱の塔かな」
+"I think it's about time for the Tower of
+ Arias."
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0618">
-「……準備しますか？」
+"...You believe she's ready?"
 #
 <name "Lazlocke">
-「そうだな」
+"I do."
 #
 <sprite "ta04a63.iph" 4 4 12>
 <name "Soshiette" "!DA0619">
-「個人的には、まだ早いと思いますが」
+"Personally, I think it's still too early."
 #
 <name "Lazlocke">
-「なに、やられながらも上に登るさ」
+"Come on. If she wants to get promoted, she's
+ going to have to go there."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0620">
-「……
-　承知しました。
-　準備致します」
+"...Understood.
+ I'll make the preparations."
 #
 <removesprite -1 11>
 \x2B\xB2 "挑戦札" \x00
-『セリスは“挑戦札”を入手した』
+--Celes has obtained the Challenge Invitation--
 #
 <exit>
 :568F
@@ -1172,132 +1198,136 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3204">
-「昇進試験？」
+"A promotion exam?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA0550">
-「はい。
-　そろそろ、受けてみては如何でしょうか？」
+"Yes.
+ Why don't you consider taking it soon?"
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA3205">
-「あの、それって何ですか？」
+"Um, what is it?"
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA0551">
-「……」
+"..."
 #
 <removesprite -1 11>
-　ソシエットは、笑顔のまま俺を一睨みしてから、
-　セリスに説明する。
+Soshiette's smile freezes for a moment and her
+eyes flicker angrily towards me before she
+continues.
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0552">
-「魔法使い協会は、魔法使いにランクをつけていま
-　す」
+"The Wizard's Guild ranks all its wizards."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA3207">
-「ランク？」
+"Ranks?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0553">
-「はい。
-　等と級でそれぞれ十段階。
-　合計二十段階あります」
+"Yes. Each class is divided into ten ranks,
+ so twenty ranks in total."
 #
 <removesprite -1 11>
-　一等魔法使いが一番上で、下になればなるほど数
-　が増える。
+The First Class Archwizards are at the top
+of the pack, and as you go down, the number at
+each rank increases.
 #
-　そして十等魔法使いの下に一級魔法使い。
+A Tenth Class Archwizard is superior to a
+First Class Wizard.
 #
-　一級魔法使いの下に二級魔法使いと、また数が増
-　えていく。
+And as you go down that list, the numbers jump
+even more.
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0555">
-「腕試しとして、その試験を受けてみるのは如何で
-　しょうか？」
+"Why don't you take the test to measure your
+ skills?"
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA3208">
-「ランクを取ると、何か良い事があるんですか？」
+"Is there some benefit to gaining a rank?"
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA0556">
-「ランクに応じた資料の謁見や、仕事の斡旋をして
-　貰えます」
+"A higher rank affords you additional materials
+ and available jobs."
 #
 <sprite "ta01a89.iph" 2 5 12>
 <name "Celes" "!AA3209">
-「あ、なるほど。
-　それなら……」
+"Oh, I see.
+ In that case..."
 #
-　セリスが俺の顔を窺う。
+She looks to me.
 #
 <name "Lazlocke">
-「ああ、受けて良いぞ」
+"Yeah, you can take it."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA3210">
-「は、はい！」
+"Y-Yes, sir!"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0557">
-「ご主人様の許可が出ましたので、手続きは私が」
+"Since you have his permission, I will make
+ the arrangements."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA0558">
-「時間が空いた時にでも、協会に来てください」
+"When you have some spare time, please come to
+ the Guild."
 #
 <sprite "ta01a07.iph" 2 5 12>
 <name "Celes" "!AA3211">
-「わかりました。
-　よろしくお願いします」
+"All right.
+ Thank you very much."
 #
 <removesprite -1 11>
-　ソシエットは、満足して部屋から出ていった。
+Soshiette leaves, satisfied.
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3212">
-「あの、師匠？」
+"Um, Master?"
 #
 <name "Lazlocke">
-「なんだ？」
+"Yes?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA3213">
-「師匠のランクはいくつなんですか？」
+"What's your rank?"
 #
 <name "Lazlocke">
-「俺は五等魔法使いだ」
+"I'm a Fifth Class Archwizard."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA3214">
-「……」
+"..."
 #
 <name "Lazlocke">
-「あはは、凄いか凄くないか分からないんだろ」
+"Hahaha. You can't tell if you should be
+ impressed or disappointed, right?"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA3215">
-「す、すみません」
+"I-I'm sorry."
 #
 <name "Lazlocke">
-「いいさ、気にするな。
-　こんなものは飾りだ」
+"It's fine. Don't worry about it.
+ This stuff is mostly just decoration."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA3216">
-「はぁ……」
+"Um..."
 #
 <removesprite -1 11>
 <exit>
@@ -1306,84 +1336,86 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3884">
-「地下迷宮ですか？」
+"A dungeon?'
 #
 <name "Lazlocke">
-「ああ、それなりに有名な場所でな。
-　冒険者達が日々、潜っているような場所だ」
+"Yeah, that's what everybody calls it.
+ The kind of place where adventurers journey
+ into every day."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3885">
-「冒険者達が日々潜って、なお深遠に辿り着かない
-　場所って事ですよね」
+"Adventurers go in every day, and it's still
+ not fully explored, right?"
 #
 <name "Lazlocke">
-「そうだな。
-　一人でどこまで潜れるか頑張ってみるか？」
+"Right.
+ Let's see what you can do going into it by
+ yourself."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA3886">
-「一人で……ですか？」
+"By... myself?"
 #
 <name "Lazlocke">
-「誰かに守られながら潜っても、なかなか成長しな
-　いからな。
-　なに、下に行く塔だと思えば良い」
+"You're not going to improve if you're being
+ protected by someone else.
+ Just think about it like a tower that goes
+ down."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA3887">
-「……はい」
+"...Yes, sir."
 #
 <name "Lazlocke">
-「行けると思ったら、挑戦してみろ」
+"When you think you're ready, go to it."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA3888">
-「わかりました。
-　考えておきます」
+"All right.
+ I'll keep it in mind."
 #
 <removesprite -1 11>
-　セリスはそう言って、自分の修行に戻った。
+Celes returns to her training.
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0631">
-「少し、早いのではありませんか？」
+"Don't you think it's a little early?"
 #
 <name "Lazlocke">
-「クデュール優勝を狙うなら、これぐらいはできな
-　いと困る」
+"If she wants to win at Coudures, she's going 
+ to have to be able to handle this."
 #
 <sprite "ta04a24.iph" 4 4 12>
 <name "Soshiette" "!DA0632">
-「そうかもしれませんが……」
+"I suppose..."
 #
 <name "Lazlocke">
-「お前なら一人で潜れる。
-　ヴィオラも。
-　そんな連中が出る大会で優勝しようとするんだ。
-　多少の危険は覚悟の上だ」
+"You can do it on your own. So can Viola.
+ She's trying to win a tournament against people
+ like you. We need to take a few risks."
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA0633">
-「多少ではないと思いますが……
-　わかりました」
+"This is well beyond a few...
+ But I understand."
 #
 <name "Lazlocke">
-「納得したら、お茶でも入れてくれ。
-　喉が渇いた」
+"If that's settled, please make some tea.
+ I'm thirsty."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0634">
-「私、これでも協会や軍、学園などの訓練中では、
-　鬼教官とか言われるのですが、その私がここでは
-　心配役になっています」
+"Within the Guild and the army's training camps,
+ I am known as the hellspawn instructor.
+ I'm worried about what my position here is."
 #
 <name "Lazlocke">
-「不満か？」
+"You're unhappy?"
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA0635">
-「いえ、心地良いです」
+"No, I'm quite comfortable."
 #
 <removesprite -1 11>
 <exit>
@@ -1392,106 +1424,106 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3950">
-「大地下迷宮ですか？」
+"The Labyrinth?
 #
 <name "Lazlocke">
-「ああ、正式な名前がある筈だが、誰もがそう呼ん
-　でいる。
-　クインズベル王国にある地下迷宮よりも、巨大で
-　住み着いている魔物の強さもケタ違いらしい」
+"Yeah. It has an official name, but that's what
+ everyone calls it. It's more dangerous than any
+ of the dungeons under Queensbell, filled with
+ giant and dangerous monsters."
 #
 <name "Lazlocke">
-「遠方にあるんだが、飛行魔法が使えるならそれ程
-　難しくは無い場所にある。
-　行ってみるか？」
+"It's far away, but that's not an obstacle with
+ flying magic.
+ Want to go?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3951">
-「そこも、一人でですよね」
+"I'll be by myself there too, right?"
 #
 <name "Lazlocke">
-「もちろん。
-　今、その大地下迷宮に関する資料を、ソシエット
-　に集めて貰っている。
-　行く気があるなら、目を通しておけ」
+"Of course. Soshiette's there now collecting
+ information on it.
+ If you want to go, look over her report first."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA3952">
-「わかりました。
-　ソシエットさんには、急ぐようにお願いして貰え
-　ますか？」
+"All right.
+ Can you ask her to hurry up?"
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0640">
-「それには及びません。
-　ご用意できました」
+"There's no need for that.
+ I'm finished."
 #
 <name "Lazlocke">
-「仕事が早いな」
+"That was quick."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0641">
-「メイドですので。
-　セリスさん、予想よりもかなりハードな場所です。
-　ご注意ください」
+"I am a maid.
+ Miss Celes, it's significantly more dangerous
+ than expected.
+ Please be careful."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA3953">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
-　セリスはソシエットから、大地下迷宮の資料を受
-　け取った。
+Celes received information on the Labyrinth
+from Soshiette.
 #
 <name "Lazlocke">
-「そう言えば、ソシエット」
+"That reminds me, Soshiette."
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA0642">
-「なんですか？」
+"Yes?"
 #
 <name "Lazlocke">
-「大地下迷宮の正式名称はなんだ？
-　調べたんなら、わかるだろ？」
+"What's the actual name of the Labyrinth?
+ If you researched it, you should know, right?"
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0643">
-「それが、調査した所、二百年ぐらい前から大地下
-　迷宮と呼ばれていまして……その前にどう呼ばれ
-　ていたかは不明です」
+"From what I could find, it's been called the
+ Labyrinth for at least two hundred years.
+ It's uncertain what it was called before that."
 #
 <name "Lazlocke">
-「不明か……むう、気になるな」
+"Uncertain, huh?
+ Hmmm, now I'm curious."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
 <name "Celes" "!AA3954">
-「ダイ＝チカ＝メイキュで良いじゃないですか？」
+"What's wrong with the The Great Labyrinth?"
 #
 <name "Lazlocke">
-「うーん、気になるな」
+"Hmm... I'm really curious."
 #
 <removesprite -1 11>
-　セリスの提案を、俺はガン無視した。
+I ignore Celes.
 #
 <sprite "ta01a97.iph" 4 4 11>
 <name "Celes" "!AA3955">
-「い、行ったついでに、調べておきます」
+"I-I'll go there and investigate."
 #
 <removesprite -1 11>
-　セリスは少し赤面しながら、発言を訂正した。
+She corrects herself.
 #
 <name "Lazlocke">
-「そうか。
-　頼んだぞ」
+"I see.
+ I'm counting on you."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA3956">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -1500,74 +1532,75 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA4017">
-「師匠。
-　噂を聞きました？」
+"Master, have you heard the rumors?"
 #
 <name "Lazlocke">
-「どの噂だ？」
+"Which ones?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA4018">
-「魔王が現れて、城を構えたって話です」
+"They say an Overlord shows up and set up a
+ castle."
 #
 <name "Lazlocke">
-「ああ、ベオル王国に出たらしいな」
+"Yeah, I heard it was in the Beol Kingdom."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA4019">
-「事実なんですか？」
+"Is it true?"
 #
 <name "Lazlocke">
-「ああ……協会でも確認している」
+"Yeah. The Guild's confirmed it."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA4020">
-「魔王ですか……
-　周りの街や村が大変でしょうね」
+"An Overlord...
+ The nearby towns and villages could be in
+ danger."
 #
 <name "Lazlocke">
-「そうだな。
-　近々、協会に討伐依頼が出るだろうから、そうなっ
-　たらセリスに退治を任せよう」
+"Yeah. I'm sure there'll be a request to deal
+ with it posted by the Guild soon.
+ When it does, I hope you'll take care of it."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA4021">
-「え？
-　私がですか？」
+"Huh?
+ Me?"
 #
 <name "Lazlocke">
-「どうせ、魔王と言っても、魔界から弾き出された
-　魔族なだけだ。
-　良い練習相手じゃないか」
+"An Overlord is just a demon that came from the
+ Netherworld.
+ They'll be a good opponent for you."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA4022">
-「そ、そうですか。
-　良い練習相手ですか」
+"I-I see.
+ A good opponent, huh?"
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
 <name "Soshiette" "!DA0646">
-「協会に討伐依頼が出るという事は、ベオル王国の
-　正規軍が敗北したという事なのですが……」
+"The fact that the Guild is posting a request
+ to exterminate it means that it has defeated
+ the Beol Kingdom's army."
 #
 <name "Lazlocke">
-「ソシエットが来たって事は……」
+"So you're going then..."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0647">
-「魔王の城の件です。
-　討伐依頼がでました」
+"The issue is the Overlord's castle.
+ That's what the request is to deal with."
 #
 <name "Lazlocke">
-「セリス。
-　出番だぞ」
+"Celes, you're up."
 #
 <removesprite -1 11>
 <sprite "ta01a92.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
 <name "Celes" "!AA4023">
-「こ、心の準備が……」
+"L-Let me prepare myself..."
 #
 <removesprite -1 11>
 <exit>
@@ -1576,84 +1609,86 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3050">
-「真なる英雄の大会？」
+"The Tournament of True Heroes?"
 #
 <name "Lazlocke">
-「クインズベル魔法大会の優勝者のみで行なわれる、
-　非合法大会だな。
-　その案内状が、セリス宛に届いている」
+"It's an unsanctioned tournament.
+ Only winners of the Queensbell Tournament are
+ allowed to participate.
+ Your invitation arrived."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA3052">
-「非合法ですか？」
+"Unsanctioned?"
 #
 <name "Lazlocke">
-「ああ……
-　決まった会場で戦うんじゃなく、街中で出会った
-　者同士が戦うファイトスタイルだからな」
+"Yeah. There's not a set location.
+ It's just a kind of thing where everyone
+ brawls downtown."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3053">
-「街中での魔法は……」
+"But using magic in the city is..."
 #
 <name "Lazlocke">
-「厳罰。
-　捕まった場合は失格だし、大会は庇ってもくれな
-　い」
+"Extremely illegal.
+ You're disqualified if you're caught, and the
+ tournament won't protect you."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA3054">
-「うわ……」
+"Whoa..."
 #
 <name "Lazlocke">
-「決まっているのは制限時間のみ。
-　その間に最も多く戦い、勝利し続けた者が優勝と
-　なる」
+"The only rule is the time limit.
+ During it, everyone just fights like crazy,
+ and whoever wins the most is declared
+ champion."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA3055">
-「壮絶ですね」
+"That sounds epic."
 #
 <name "Lazlocke">
-「いや、ヌルくなったぞ。
-　昔は参加者が一人になるまで戦うデスマッチだっ
-　たからな」
+"No, it's usually boring.
+ It used to be that it was a fight to the death
+ until only one person was left standing."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA3056">
-「逃げ回る人が多かったんじゃないですか？」
+"Weren't there a bunch of people running
+ around though?"
 #
 <name "Lazlocke">
-「そんなヤツは最初っから参加しない。
-　一般人に被害が出始めたからだ」
+"Those kinds of people weren't part of it.
+ They didn't want to hurt innocent bystanders."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA3057">
-「そ、そうなんですか……」
+"I-I see."
 #
 <name "Lazlocke">
-「それで、しばらく大会は行なわれてなかったんだ
-　が……今年はやるみたいだな。
-　参加してみるか？」
+"Anyway, it wasn't been held for a while, but
+ I guess they're doing it this year.
+ Are you going to participate?"
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA3058">
-「参加して良いんですか？」
+"Do you think I should?"
 #
 <name "Lazlocke">
-「ああ。
-　捕まっても助けないがな」
+"Yeah, but I won't save you if you get caught."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA3059">
-「……」
+"..."
 #
 <name "Lazlocke">
-「まあ、考えておけ」
+"Well, think it over."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA3060">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -1661,22 +1696,23 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「真なる英雄の大会の参加状が来たぞ」
+"An invitation to the Tournament of True Heroes
+ came for you."
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA3061">
-「ありがとうございます。
-　ですが……」
+"Thank you, but..."
 #
 <name "Lazlocke">
-「ん？」
+"Hm?"
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA3062">
-「考えてみれば、恥ずかしい大会名ですよね」
+"When you think about it, it's a pretty
+ embarrassing name for a tournament."
 #
 <name "Lazlocke">
-「……確かに」
+"...Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -1684,49 +1720,51 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「ずいぶんと料理の腕が上がったな」
+"You've gotten to be a pretty good cook."
 #
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA3099">
-「これも師匠の教えの成果です」
+"Thanks to your teaching."
 #
 <name "Lazlocke">
-「いやいや、しかし本当に上手くなった。
-　これならローリア料理大会でも上位にいけるぞ」
+"No, no. You're genuinely good.
+ I think you might even be able to place in the
+ Loria Cookoff."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA3100">
-「ローリア料理大会？」
+"The Loria Cookoff?"
 #
 <name "Lazlocke">
-「今週、行なわれる大会でな。
-　誰が優秀な料理人かを決める大会だ」
+"It's a tournament this week for cooks to
+ compete."
 #
 <name "Lazlocke">
-「主な参加者は、街の料理人達や腕自慢の主婦」
+"The main participants are city cooks and
+ housewives who want to show off."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA3101">
-「強敵揃いですね」
+"Those are formidible enemies."
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA3102">
-「ですが……それでこそ燃えると言うもの。
-　私の力を万民に示すチャンスです！
-　そして、優勝賞品も頂きです」
+"But that just gets me fired up.
+ I want to show everyone my power!
+ And take home the grand prize!"
 #
 <name "Lazlocke">
-「おおっ……頼もしい！」
+"Yeah! That's the spirit!"
 #
 <name "Lazlocke">
-「しかし、魔法使いとしてはどうなんだろう」
+"But what about being a wizard?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA3103">
-「細かい事を気にしてはいけません」
+"Don't worry about the little stuff."
 #
 <removesprite -1 11>
 <exit>
@@ -1735,29 +1773,31 @@
 <background "bg013a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA2971">
-「なんだか、競技場の方が賑やかですね」
+"The stadium seems livlier than usual."
 #
 <name "Lazlocke">
-「ああ、今日はバンカスター武術大会があるからな」
+"Yeah. It's the Bancaster Martial Arts 
+ Tournament today."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA2972">
-「バンカスター？」
+"Bancaster?"
 #
 <name "Lazlocke">
-「ああ、四年に一度の大会だ。
-　盛り上がっているぞ」
+"Yeah. It's a tournament that happens once
+ every four years.
+ It's quite exciting."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA2973">
-「そうみたいですね」
+"It sounds like it."
 #
 <name "Lazlocke">
-「なんだったら、観に行っても良いぞ」
+"If you want, you can go watch."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2974">
-「いえ、修行に励みます」
+"No, I need to keep training hard."
 #
 <removesprite -1 11>
 <exit>
@@ -1766,63 +1806,62 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0495">
-「ご主人様」
+"Your Grace."
 #
 <name "Lazlocke">
-「ん？
-　どうした？」
+"Hm? What is it?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0496">
-「バンカスター武術大会の開催をお知らせに来まし
-　た」
+"I'm here to tell you about the upcoming
+ Bancaster Martial Arts Tournament."
 #
 <name "Lazlocke">
-「ん？
-　バンカスターに、俺が関係するのか？」
+"Hm? Does that have something to do with me?"
 #
-　バンカスター武術大会は、クインズベル王国を中
-　心とした多数の王国が協力している武術大会で、
-　四年に一度行なわれる。
+The Bancaster Tournament is a martial arts
+competition that happens in Queensbell once
+every four years.
 #
-　出るとしたらセリスだが、この大会の予選は一年
-　前から各地で行なわれていて、それには参加して
-　いない。
+It'd be nice to send Celes, but the qualifying
+matches have been held all over for the last
+year, and she wasn't in any of them, so she 
+can't participate.
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA0497">
-「セリスさんに、参加要望があります」
+"There's a request for Celes to participate."
 #
 <name "Lazlocke">
-「予選はどうするんだ？」
+"What about the qualifiers?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0498">
-「協会の推薦枠です」
+"She's being sponsored by the Guild."
 #
 <name "Lazlocke">
-「……セリスはそこまで協会に目を付けられている
-　のか？」
+"...They've already got their eyes on her that
+ much?"
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA0499">
-「多少、私の圧力もあります」
+"I may have exerted some pressure myself."
 #
 <name "Lazlocke">
-「お前なぁ……」
+"You little..."
 #
 <sprite "ta04a06.iph" 4 4 12>
 <name "Soshiette" "!DA0500">
-「ご主人様の弟子というのも、大きいです」
+"Your apprentice is growing up."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0501">
-「参加は強制ではありません。
-　セリスさんに、よろしくご説明ください。
-　それでは、失礼します」
+"Her participation is not mandatory.
+ Please explain it to her.
+ Now then, if you'll excuse me."
 #
 <removesprite -1 11>
 <exit>
@@ -1830,37 +1869,39 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「そう言えば、そろそろバンカスター武術大会の時
-　期だな」
+"That reminds me, it's almost time for the
+ Bancaster Martial Arts Tournament."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA2976">
-「バンカスター武術大会？」
+"The Bancaster Martial Arts Tournament?"
 #
 <name "Lazlocke">
-「四年に一度、行なわれる魔法有りの武術大会だ」
+"It's a martial arts with magic tournament
+ that comes once every four years."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA2977">
-「四年に一度ですか」
+"Once every four years?"
 #
 <name "Lazlocke">
-「そうだ。
-　……クデュール魔法大会の練習に、出てみるか？」
+"That's right.
+ You could attend it as practice for Coudures."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA2978">
-「れ、練習って……
-　クデュール魔法大会よりも激しそうですが……」
+"A-As practice...
+ But it seems even more intense than the
+ Coudures Tournament..."
 #
 <name "Lazlocke">
-「確かにな。
-　だからこその練習だ」
+"It probably is.
+ Which is why it'll be practice."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA2979">
-「そ、そうですね……
-　考えておきます」
+"I-I see.
+ I'll think about it."
 #
 <removesprite -1 11>
 <exit>
@@ -1869,20 +1910,21 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA2983">
-「今日はバンカスター武術大会の開催日ですね」
+"Today's the day of the Bancaster Martial Arts
+ Tournament."
 #
 <name "Lazlocke">
-「そうだな。
-　それで、参加はどうするんだ？」
+"That's right.
+ So, are you going to do it?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2984">
-「師匠にお任せします。
-　今の私を見て、参加できるかどうか決めてくださ
-　い」
+"I'll leave that to you.
+ Look at me, and decide whether I should
+ participate."
 #
 <name "Lazlocke">
-「わかった」
+"All right."
 #
 <removesprite -1 11>
 <exit>
@@ -1890,12 +1932,12 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「もうすぐ、クデュールだ。
-　体調は大丈夫か？」
+"It's almost time for Coudures.
+ Are you feeling well?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA2923">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -1904,31 +1946,32 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA2924">
-「もうすぐ……」
+"It's almost time..."
 #
 <removesprite -1 11>
-　セリスは目標に向け、決意を改めた。
+Celes steels herself towards her goal.
 #
 <exit>
 :8CD1
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「もうすぐ、クデュールだ。
-　体調は大丈夫か？」
+"It's almost time for Coudures.
+ Are you feeling well?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA2925">
-「はい。
-　万全です」
+"Yes, sir.
+ I'm in perfect shape."
 #
 <name "Lazlocke">
-「おお、なんだか余裕を感じるな」
+"Ooh. You sound confident."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA2926">
-「余裕じゃなくて、覚悟です。
-　これまでやった事を信じて、戦い抜くだけです」
+"I'm not confident. I'm ready.
+ All that's left is to have faith in what I've
+ done to now and fight."
 #
 <removesprite -1 11>
 <exit>
@@ -1937,49 +1980,49 @@
 <background "bg011a0.iph" 11>
 <sprite "ta01c06.iph" 4 4 11>
 <name "Celes" "!AA2927">
-「さて、予選に出るには……」
+"Okay, time for the qualifiers..."
 #
 <removesprite -1 11>
 <sprite "ta07a00.iph" 2 4 11>
 <sprite "ta01c06.iph" 6 5 11>
-<name "ジャッジマン" "!FA0007">
-「セリスさん」
+<name "Judgeman" "!FA0007">
+"Miss Celes."
 #
 <sprite "ta01c08.iph" 6 5 12>
 <name "Celes" "!AA2928">
-「あ、ジャッジマン」
+"Ah, Judgeman."
 #
 <sprite "ta07a06.iph" 2 4 12>
-<name "ジャッジマン" "!FA0008">
-「はい。
-　セリスさんは、クデュール魔法大会の予選免除と
-　なりました。
-　本選からご出場ください」
+<name "Judgeman" "!FA0008">
+"Yes. Miss Celes, you are exempt from needing
+ to qualify for the Coudures Tournament.
+ You will advance straight to the finals."
 #
 <sprite "ta01c06.iph" 6 5 12>
 <name "Celes" "!AA2929">
-「え？
-　免除？
-　どうしてですか？」
+"Huh?
+ I'm exempt?
+ Why?"
 #
 <sprite "ta07a04.iph" 2 4 12>
-<name "ジャッジマン" "!FA0009">
-「協会本部からの推薦です。
-　予選をするまでも無い実力を保証されましたので」
+<name "Judgeman" "!FA0009">
+"Recommendation from Guild HQ.
+ They have made an assurance of your skills
+ without the need for any qualification
+ matches."
 #
 <sprite "ta01c08.iph" 6 5 12>
 <name "Celes" "!AA2930">
-「協会が……」
+"The Guild..."
 #
 <sprite "ta07a00.iph" 2 4 12>
-<name "ジャッジマン" "!FA0010">
-「はい。
-　では、伝えましたよ。
-　一月の本選でお会いしましょう」
+<name "Judgeman" "!FA0010">
+"Yes. Now then, the message is delivered.
+ I shall see you in the finals in January."
 #
 <sprite "ta01c15.iph" 6 5 12>
 <name "Celes" "!AA2931">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -1988,38 +2031,36 @@
 <background "bg002a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0491">
-「セリスさん。
-　良い知らせです」
+"Miss Celes, I have good news."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA2932">
-「良い知らせですか？」
+"Good news?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0492">
-「はい。
-　クデュール魔法大会の予選が免除となりました」
+"Yes. You're exempted from the qualification
+ rounds of the Coudures Tournament."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA2933">
-「免除ですか？」
+"I'm exempted?"
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA0493">
-「はい。
-　これまでのセリスさんの実績から、協会が働きか
-　けたようです」
+"Yes. Apparently the Guild has kept a close
+ eye on what you've achieved so far."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0494">
-「本選は一月から始まります。
-　頑張ってください」
+"The final rounds begin in January.
+ Good luck."
 #
 <sprite "ta01a90.iph" 2 5 12>
 <name "Celes" "!AA2934">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
@@ -2027,21 +2068,24 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-「クインズベル魔法大会は、協会が主催している大
-　会の一つだ」
+"The Queensbell Tournament is one of the 
+ tournaments sponsored by the Guild."
 #
 <name "Lazlocke">
-「月に一回あるから、良い感じで腕試しが出来る。
-　気が向いたら、参加してみろ」
+"It occurs once a month, so it's a good chance
+ for you to try out your skills.
+ You should try to participate once you feel
+ ready."
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA3007">
-「はい。
-　わかりました！」
+"Yes, sir.
+ Understood!"
 #
 <removesprite -1 11>
-『クインズベル魔法大会は、十二月と一月以外の各
-　月の一週目に開催されます』
+The Queensbell Tournament is held on the first
+week of every month aside from December and
+January.
 #
 <exit>
 \x78
