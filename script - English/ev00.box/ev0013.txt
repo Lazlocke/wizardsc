@@ -1,0 +1,1936 @@
+\x1A\x01\x07\x04\x09\xF7\x84\x00\x01\x0E :36: \x1A\x01\x07\x04\x01\x15\x84\x01\x01\x0E :36: \x16 :2BE: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xF7\x84\x01\x15 :2BD: 
+:36
+\x1A\x01\x07\x04\x09\xF8\x84\x00\x01\x0E :7B: \x1A\x01\x07\x04\x09\xF7\x84\x01\x01\x0E :7B: \x1A\x01\x07\x04\x01
+<exit>
+\x84\x01\x01\x0E :7B: \x16 :484: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xF8\x84\x01\x15 :2BD: 
+:7B
+\x1A\x01\x07\x04\x09\xF9\x84\x00\x01\x0E :C0: \x1A\x01\x07\x04\x09\xF8\x84\x01\x01\x0E :C0: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :C0: \x16 :8C8: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xF9\x84\x01\x15 :2BD: 
+:C0
+\x1A\x01\x07\x04\x09\xFA\x84\x00\x01\x0E :105: \x1A\x01\x07\x04\x09\xF9\x84\x01\x01\x0E :105: \x1A\x01\x07\x04\x01\x16\x84\x01\x01\x0E :105: \x16 :1685: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xFA\x84\x01\x15 :2BD: 
+:105
+\x1A\x01\x07\x04\x09\xFB\x84\x00\x01\x0E :148: \x1A\x01\x07\x04\x09\xFA\x84\x01\x01\x0E :148: \x16 :20BF: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x00\xD8\x84\x01\x0A\x02\x01\xB8\x02\x00\x0C\x0A\x04\x09\xFB\x84\x01\x15 :2BD: 
+:148
+\x1A\x01\x07\x04\x09\xFC\x84\x00\x01\x0E :193: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :193: \x1A\x01\x0A\x02\x01\xA5 20 \x01\x15 :193: \x16 :6C2D: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xFC\x84\x01\x15 :2BD: 
+:193
+\x1A\x01\x07\x04\x09\xFD\x84\x00\x01\x0E :1DE: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :1DE: \x1A\x01\x0A\x02\x01\xA7 10 \x01\x15 :1DE: \x16 :6EC8: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xFD\x84\x01\x15 :2BD: 
+:1DE
+\x1A\x01\x07\x04\x09\xFE\x84\x00\x01\x0E :251: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x15 :251: \x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :251: \x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :251: \x0B\x22\x00\x03\x02\x01\xB8 3 \x1A\x01\x08\x02\x00\x0C\x22\x00\x03\x01\x15 :251: \x16 :6FD2: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xFE\x84\x01\x15 :2BD: 
+:251
+\x1A\x01\x07\x04\x09\xFF\x84\x00\x01\x0E :287: \x1A\x01\x07\x04\x01\x18\x84\x01\x01\x0E :287: \x16 :73A4: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x09\xFF\x84\x01\x15 :2BD: 
+:287
+\x1A\x01\x07\x04\x0A\x00\x84\x00\x01\x0E :2BD: \x1A\x01\x07\x04\x01\x19\x84\x01\x01\x0E :2BD: \x16 :7450: \x0A\x04\x00\x6E\x84\x01\x0A\x04\x0A\x00\x84\x01\x15 :2BD: 
+:2BD
+\x78
+:2BE
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta02a01.iph" 4 4 11>
+<name "Elle" "!CA0540">
+"You've gotten incredible lately, Celes."
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a01.iph" 6 4 11>
+<name "Celes" "!AA9000">
+"I have?"
+#
+<sprite "ta02a06.iph" 6 4 12>
+<name "Elle" "!CA0541">
+"Yeah."
+#
+<sprite "ta01a07.iph" 2 5 12>
+<name "Celes" "!AA9001">
+"I'm just training my hardest."
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0542">
+"...I see.
+ I have to work hard too."
+#
+<removesprite -1 11>
+<exit>
+:484
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0591">
+"...Is something the matter?
+ You seem out of form lately."
+#
+<removesprite -1 11>
+<sprite "ta03a03.iph" 2 4 11>
+<sprite "ta02a28.iph" 6 5 11>
+<name "Elle" "!CA0543">
+"N-No, it's nothing."
+#
+<sprite "ta03a15.iph" 2 4 12>
+<name "Viola" "!BA0592">
+"If there was nothing, I wouldn't have asked you
+ in the first place."
+#
+<sprite "ta02a27.iph" 6 5 12>
+<name "Elle" "!CA0544">
+"You're right...
+ Um, recently, I feel like Celes is outpacing
+ me..."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0593">
+"If she's better than you, then all you can do
+ is make up the gap through effort."
+#
+<sprite "ta02a35.iph" 6 5 12>
+<name "Elle" "!CA0545">
+"I-I know that, but with how much mana I have,
+ there's only so much I can practice..."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0594">
+"And when you're distracted, that makes things
+ worse, correct?"
+#
+<sprite "ta02a27.iph" 6 5 12>
+<name "Elle" "!CA0546">
+"...Yeah."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0595">
+"You have to do as much as you can do.
+ If that's still not good enough, I'll think of
+ something else."
+#
+<sprite "ta02a28.iph" 6 5 12>
+<name "Elle" "!CA0547">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:8C8
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta03a19.iph" 4 4 11>
+<name "Viola" "!BA0596">
+"You have to do as much as you can do.
+ I believe I've already told you that."
+#
+<removesprite -1 11>
+<sprite "ta03a19.iph" 2 4 11>
+<sprite "ta02a32.iph" 6 5 11>
+<name "Elle" "!CA0548">
+"It's not enough.
+ I don't... see any way I can beat Celes."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0597">
+"You just give up if you lack the same talent?"
+#
+<sprite "ta02a16.iph" 6 5 12>
+<name "Elle" "!CA0549">
+"I don't care if I'm not as gifted as her!"
+#
+<sprite "ta02a27.iph" 6 5 12>
+<name "Elle" "!CA0550">
+"But... I hate that I can't make up the
+ difference through effort."
+#
+<sprite "ta03a15.iph" 2 4 12>
+<name "Viola" "!BA0598">
+"Elle, what does effort mean to you?"
+#
+<sprite "ta02a28.iph" 6 5 12>
+<name "Elle" "!CA0551">
+"Huh?"
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0599">
+"Elle, what is your goal?"
+#
+<sprite "ta02a32.iph" 6 5 12>
+<name "Elle" "!CA0552">
+"T-To become a court wizard."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0600">
+"The effort you're putting in to do that is
+ what?"
+#
+<sprite "ta02a35.iph" 6 5 12>
+<name "Elle" "!CA0553">
+"Hone my magical skills.
+ Studying and practicing."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0601">
+"And the price you're paying is?"
+#
+<sprite "ta02a28.iph" 6 5 12>
+<name "Elle" "!CA0554">
+"........."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0602">
+"Mostly, it's time, isn't it?"
+#
+<sprite "ta02a30.iph" 6 5 12>
+<name "Elle" "!CA0555">
+"...Is that not enough?"
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0603">
+"It's fine.
+ It's perfectly okay."
+#
+<sprite "ta03a17.iph" 2 4 12>
+<name "Viola" "!BA0604">
+"But you only get so much back in return.
+ That's all."
+#
+<sprite "ta02a28.iph" 6 5 12>
+<name "Elle" "!CA0556">
+"..."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0605">
+"Elle, when a wizard thinks about true effort,
+ they don't think about studying through the
+ night, gathering knowledge, or mastering
+ magic."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0606">
+"When a wizard thinks of effort, they think 
+ about setting a goal, sacrificing whatever they
+ need to achieve that goal, and using whatever
+ means are necessary."
+#
+<sprite "ta03a17.iph" 2 4 12>
+<name "Viola" "!BA0607">
+"Celes's goal is to regain her family home.
+ That's why she's attempting to win the Coudures
+ Tournament."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0608">
+"Do you think that she, a girl with no mana,
+ made no sacrifices to achieve her ambition?"
+#
+<sprite "ta02a35.iph" 6 5 12>
+<name "Elle" "!CA0558">
+"..."
+#
+<sprite "ta03a15.iph" 2 4 12>
+<name "Viola" "!BA0609">
+"She paid many prices to obtain mana."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0616">
+"And one or two of those things are now gone
+ forever, but in return, she's being taught by
+ Lazlocke and Soshiette."
+#
+<sprite "ta03a17.iph" 2 4 12>
+<name "Viola" "!BA0611">
+"Think about it carefully.
+ Afterwards, if you still want to beat Celes,
+ I can help you."
+#
+<sprite "ta02a28.iph" 6 5 12>
+<name "Elle" "!CA0559">
+"..."
+#
+<sprite "ta03a16.iph" 2 4 12>
+<name "Viola" "!BA0612">
+"One more thing."
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0613">
+"If you want to be a court wizard, the quickest
+ way would be to kill me. My enemies would
+ happilly make you a court wizard if you brought
+ them my head."
+#
+<sprite "ta02a35.iph" 6 5 12>
+<name "Elle" "!CA0560">
+"I-I could never..."
+#
+<sprite "ta03a15.iph" 2 4 12>
+<name "Viola" "!BA0614">
+"...I'm just teasing you.
+ You don't need to look like you're going to
+ cry."
+#
+<sprite "ta02a28.iph" 6 5 12>
+<name "Elle" "!CA0561">
+"I-I'm sorry."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0615">
+"But think it over carefully."
+#
+<sprite "ta02a30.iph" 6 5 12>
+<name "Elle" "!CA0562">
+"...Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:1685
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0563">
+"Master..."
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 4 11>
+<sprite "ta02a00.iph" 6 5 11>
+<name "Viola" "!BA0617">
+"Yes?"
+#
+<sprite "ta02a01.iph" 6 5 12>
+<name "Elle" "!CA0564">
+"How did... Celes get mana?"
+#
+<sprite "ta03a02.iph" 2 4 12>
+<name "Viola" "!BA0618">
+"What are you going to do if I answer that?"
+#
+<sprite "ta02a27.iph" 6 5 12>
+<name "Elle" "!CA0565">
+"If someone gave her mana, then they could give
+ it to me too."
+#
+<sprite "ta03a15.iph" 2 4 12>
+<name "Viola" "!BA0619">
+"Your guess is correct, but it doesn't come
+ cheap."
+#
+<sprite "ta02a32.iph" 6 5 12>
+<name "Elle" "!CA0566">
+"I don't care."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0620">
+"For example, what if you had to drink someone's
+ life-blood to obtain mana?"
+#
+<sprite "ta02a14.iph" 6 5 12>
+<name "Elle" "!CA0567">
+"If that would give me mana, I'd do it."
+#
+<sprite "ta03a18.iph" 2 4 12>
+<name "Viola" "!BA0621">
+"What are you going to do with this mana?"
+#
+<sprite "ta02a14.iph" 6 5 12>
+<name "Elle" "!CA0577">
+"My weakness is that I have less mana than an
+ average wizard. If I could increase my mana,
+ I'd be able to use more and different kinds
+ of magic."
+#
+<sprite "ta03a15.iph" 2 4 12>
+<name "Viola" "!BA0622">
+"So you'd be more powerful.
+ And then what would you do?"
+#
+<sprite "ta02a13.iph" 6 5 12>
+<name "Elle" "!CA0578">
+"I'd participate in Coudures, defeat Celes, and
+ then, Master, I'd defeat Viola."
+#
+<sprite "ta03a16.iph" 2 4 12>
+<name "Viola" "!BA0623">
+"Bold dream, but Celes has nothing to do with
+ your goals, does she?"
+#
+<sprite "ta02a16.iph" 6 5 12>
+<name "Elle" "!CA0572">
+"My dream is to become a court wizard who is
+ unrivaled by any other. For that, I need to
+ not only be able to surpass her, but surpass
+ you too."
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0624">
+"Indeed."
+#
+<sprite "ta02a35.iph" 6 5 12>
+<name "Elle" "!CA0573">
+"I apologize for my audacity."
+#
+<sprite "ta03a05.iph" 2 4 12>
+<name "Viola" "!BA0625">
+"There's no need for that.
+ I have no interest in an apprentice who doesn't
+ seek to surpass her master."
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0626">
+"I do not want history to record that Elle
+ Bluetact was the apprentice of Viola Entra,
+ but that Viola Entra was the master of Elle
+ Bluetact."
+#
+<sprite "ta02a27.iph" 6 5 12>
+<name "Elle" "!CA0574">
+"Master..."
+#
+<sprite "ta03a16.iph" 2 4 12>
+<name "Viola" "!BA0627">
+"...So you want mana, do you?"
+#
+<sprite "ta02a15.iph" 6 5 12>
+<name "Elle" "!CA0575">
+"Yes, ma'am."
+#
+<sprite "ta03a19.iph" 2 4 12>
+<name "Viola" "!BA0628">
+"Then you're prepared to pay for it?"
+#
+<sprite "ta02a16.iph" 6 5 12>
+<name "Elle" "!CA0576">
+"Yes, ma'am."
+#
+<sprite "ta03a16.iph" 2 4 12>
+<name "Viola" "!BA0629">
+"Very well."
+#
+<removesprite -1 11>
+<exit>
+:20BF
+<music 6>
+<background "bg007a0.iph" 11>
+Viola's called me to her home.
+#
+<background "bg008a0.iph" 11>
+<name "Lazlocke">
+"Nobody greeted me at the door.
+ Is everyone else gone?"
+#
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0630">
+"Yes. It's just myself and Elle today."
+#
+<removesprite -1 11>
+She takes me into the parlor.
+#
+Tea's prepared and waiting.
+#
+<name "Lazlocke">
+"I see. Is Elle studying?
+ Seems like she's been working hard."
+#
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0631">
+"Yes."
+#
+<removesprite -1 11>
+She takes a seat as she answers me.
+#
+I sit down too.
+#
+<name "Lazlocke">
+"So what did you need?
+ It's rare for you to ask me to come."
+#
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0632">
+"Is it?
+ I believe I used to call for you all the time."
+#
+<name "Lazlocke">
+"Did you?"
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0633">
+"Yes, I did.
+ Please bring me that book. 
+ Please tell me where to find those herbs.
+ Things like that."
+#
+<name "Lazlocke">
+"That's less being invited over, more being
+ ordered around."
+#
+<removesprite -1 11>
+And that definitely wasn't the right tone.
+#
+Not please bring me that book.
+More bring me that book, and if you're late,
+I'm going to use you as a guinea pig.
+#
+<sprite "ta03a06.iph" 4 4 11>
+<name "Viola" "!BA0634">
+"Don't worry about the details."
+#
+<name "Lazlocke">
+"Yeah, yeah.
+ So, what am I doing here?
+ Not to reminisce about the old days, I assume."
+#
+<sprite "ta03a07.iph" 4 4 12>
+<name "Viola" "!BA0635">
+"Indeed."
+#
+<removesprite -1 11>
+She straightens her posture and looks me in the
+eyes.
+#
+<music 8>
+<sprite "ta03a16.iph" 4 4 11>
+<name "Viola" "!BA0637">
+"I want you to give Elle mana."
+#
+<name "Lazlocke">
+"...That kind of thing has to go through the
+ Guild."
+#
+<sprite "ta03a18.iph" 4 4 12>
+<name "Viola" "!BA0638">
+"I have the authority to sanction it."
+#
+<name "Lazlocke">
+"I admit that you have the authority to approve
+ doing it, but you know..."
+#
+She interrupts my objection.
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0639">
+"I've already told Elle everything."
+#
+<name "Lazlocke">
+"........."
+#
+<sprite "ta03a02.iph" 4 4 12>
+<name "Viola" "!BA0640">
+"There's no going back on this.
+ Your only decision now is whether to be with
+ her or to forsake her."
+#
+<removesprite -1 11>
+Now that she knows about my power, the Guild is
+going to keep a very close eye on her.
+#
+In the worst case, they'll disappear her.
+#
+If I don't sleep with her, that's the most
+likely thing that's going to happen.
+#
+If I do, then the people who know about my
+power will protect her.
+#
+Like they're protecting Celes now.
+#
+<name "Lazlocke">
+"...I don't have the luxury to protect someone
+ else's apprentice."
+#
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0641">
+"Are you mad?"
+#
+<name "Lazlocke">
+"Should I not be mad?"
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0642">
+"Somewhat, I suppose, but I did consider there
+ was a chance you wouldn't be."
+#
+<name "Lazlocke">
+"Viola."
+#
+<sprite "ta03a16.iph" 4 4 12>
+<name "Viola" "!BA0643">
+"Honestly, how you feel doesn't matter to me.
+ It doesn't matter if you're mad or not.
+ I am only asking."
+#
+She rings a bell.
+Elle enters the room.
+#
+<removesprite -1 11>
+<sprite "ta02a01.iph" 4 4 11>
+<name "Elle" "!CA0579">
+"..."
+#
+She must've been waiting just outside the door.
+#
+<removesprite -1 11>
+<sprite "ta03a16.iph" 4 4 11>
+<name "Viola" "!BA0644">
+"I'm going to the back room, but if you would
+ prefer for me to watch, I can stay."
+#
+<name "Lazlocke">
+".........Leave."
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0645">
+"Very well.
+ Thank you."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"..."
+#
+<sprite "ta02a01.iph" 4 4 11>
+<name "Elle" "!CA0580">
+"..."
+#
+<removesprite -1 11>
+I don't look at Elle.
+#
+Honestly, I'm still at a loss.
+#
+I haven't made up my mind yet.
+#
+She breaks the silence.
+#
+<music 5>
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0581">
+"I'm sorry. 
+ I know I'm making an unreasonable request."
+#
+<name "Lazlocke">
+"Did Viola talk you into this?
+ If you want mana, you have to have sex with
+ me."
+#
+<sprite "ta02a01.iph" 4 4 12>
+<name "Elle" "!CA0582">
+"No, I wanted this all on my own.
+ I want mana."
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0583">
+"So even finding out that I need to have sex
+ with a man didn't shake my resolve."
+#
+<name "Lazlocke">
+"Not at all?"
+#
+<sprite "ta02a28.iph" 4 4 12>
+<name "Elle" "!CA0584">
+"I-I was a little worried, but I have a goal.
+ For that sake..."
+#
+<name "Lazlocke">
+"You might fall in love with someone one day.
+ When that time comes, you could regret this."
+#
+<sprite "ta02a27.iph" 4 4 12>
+<name "Elle" "!CA0585">
+"I don't know what the future may bring, but
+ me, right now, I need mana."
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0586">
+"If you need to have sex with me for that,
+ please have sex with me."
+#
+<name "Lazlocke">
+"...I see.
+ You are a wizard."
+#
+<removesprite -1 11>
+She's just a wizard who wants my mana.
+#
+It doesn't matter that she's Celes's friend, or
+Viola's apprentice.
+#
+<name "Lazlocke">
+"You keep saying you want mana, but it isn't a
+ way to replenish your mana. It's a way to
+ supply you with mine."
+#
+I'm sure Viola knew it'd play out like this.
+#
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0587">
+"Y-Yes, sir.
+ Please."
+#
+<name "Lazlocke">
+"Fine.
+ Stand in front of that wall and lift your
+ skirt."
+#
+<sprite "ta02a01.iph" 4 4 12>
+<name "Elle" "!CA0588">
+"Huh?"
+#
+<name "Lazlocke">
+"Now."
+#
+<sprite "ta02a03.iph" 4 4 12>
+<name "Elle" "!CA0589">
+"Y-Yes, sir."
+#
+<removesprite -1 11>
+<music 35>
+<background "ev056a0.iph" 10>
+She stands next to the wall like I told her to.
+#
+She nervously raises her skirt and exposes her
+underwear underneath it.
+#
+<name "Elle" "!CA0590">
+"Like... this?"
+#
+I stand up and slowly walk over to her.
+#
+<name "Lazlocke">
+"I need to correct a misunderstanding you have.
+ I'm not going to have sex with you."
+#
+<name "Elle" "!CA0591">
+"Huh?"
+#
+<name "Lazlocke">
+"I'm going to fuck you."
+#
+<name "Elle" "!CA0592">
+"..."
+#
+<name "Lazlocke">
+"Just stay still."
+#
+I lean down and bring my face close to her.
+#
+The pleasant scent of shampoo tickles my nose.
+#
+Apparently she bathed just before I arrived.
+#
+Meaning that she prepared herself for this.
+#
+I reach out and touch her.
+#
+<name "Elle" "!CA0593">
+"Nh!"
+#
+Her whole body stiffens.
+#
+Her legs freeze and her fidgeting stops.
+#
+<name "Lazlocke">
+"Elle..."
+#
+<name "Elle" "!CA0594">
+"Y-Yes?"
+#
+Her voice is trembling.
+#
+She's extremely nervous.
+#
+<name "Lazlocke">
+"How do you want me to fuck you?
+ I can take your virginity fast and make it
+ quick, but that will hurt more than if we draw
+ this out."
+#
+<name "Elle" "!CA0595">
+"...I-I don't want to... think about either.
+ So... you decide."
+#
+<name "Lazlocke">
+"All right."
+#
+I push my finger against her, still through her
+underwear, and try to push inside her.
+#
+<name "Elle" "!CA0596">
+"Nnnh!"
+#
+She nearly lowers her skirt for a moment, but
+keeps holding it up.
+#
+I keep movin my finger, stimulating her.
+#
+<name "Elle" "!CA0597">
+"Nh...ah...ah..."
+#
+A stain of her juices starts to spread
+surprisingly fast.
+#
+<name "Lazlocke">
+"That's quick.
+ Have you done this before?"
+#
+<name "Elle" "!CA0598">
+"Ah...nh..."
+#
+<name "Lazlocke">
+"Answer me."
+#
+<name "Elle" "!CA0599">
+"I-I've done it... by myself..."
+#
+<name "Lazlocke">
+"Ever with a man?"
+#
+<name "Elle" "!CA0600">
+"N-Never..."
+#
+<name "Lazlocke">
+"Did you do it recently?"
+#
+<name "Elle" "!CA0601">
+"Nh...ah..."
+#
+<name "Lazlocke">
+"When was the last time you did it?"
+#
+<name "Elle" "!CA0602">
+"When I was in the bath earlier today..."
+#
+<name "Lazlocke">
+"Were you imagining having sex with me?"
+#
+<name "Elle" "!CA0603">
+"...Yes."
+#
+<name "Lazlocke">
+"Then I'm sorry.
+ It won't be like you imagined."
+#
+I pull her underwear down.
+#
+<background "ev056b1.iph" 10>
+<name "Elle" "!CA0604">
+"Ah!"
+#
+Her juices spill out from inside her down to her
+lowered panties.
+#
+<name "Lazlocke">
+"I'm sorry, but I can't be your lover.
+ I'm just a tool for providing you mana."
+#
+I reach my tongue out to her entrance.
+#
+<name "Elle" "!CA0605">
+"Ah...nnnnh..."
+#
+My tongue slips into her overflowing pussy.
+#
+<name "Elle" "!CA0606">
+"Ah...ah...ah...aaahhh..."
+#
+Her juices flood out even more.
+#
+I violate her with my tongue, exploring every
+inch inside her.
+#
+I lick every one of her folds, one by one.
+The small bean covered by her lips starts to
+swell and show itself.
+#
+<name "Elle" "!CA0607">
+"Aah! Ah! Ahh!"
+#
+Each time I stimulate it, her whole body
+trembles and convulses.
+#
+<name "Elle" "!CA0608">
+"Ah! Aah! Ahh! Aaah!"
+#
+I focus my attention on that small bean, sucking
+on it and even putting it between my teeth.
+#
+<background "ev056b0.iph" 10>
+<name "Elle" "!CA0609">
+"Nnnnhhh!"
+#
+She squirms uncontrollably and weakly tries to
+move my head away, but holds tight to her skirt
+and stays in place.
+#
+I'm impressed.
+#
+I move away from her slightly.
+#
+The smell of her shampoo and her aroused musk
+fills my nose.
+#
+Her pussy is stick with her liquids and my
+saliva.
+#
+Her small bean is sticking out from above her
+hole.
+#
+All of it seems to be tempting me.
+#
+My dick is hard and demanding.
+#
+I push her against the wall and stand up.
+#
+<background "ev057a0.iph" 10>
+<name "Elle" "!CA0610">
+"Huh? Ah!"
+#
+I lift her up so her feet are off the ground and
+pin her in that unstable position.
+#
+I pres my engorged dick against her entrance and
+then thrust up.
+#
+<name "Elle" "!CA0611">
+"Ah!!!"
+#
+My dick slides into her, wrenching her open as
+I push into her pussy.
+#
+But I hit an obstacle almost immediately.
+#
+Her hymen.
+#
+I consider enjoying the feeling of it for a
+moment, but then thrust hard and quickly break
+through it.
+#
+<background "ev057a1.iph" 10>
+<name "Elle" "!CA0612">
+"Nnnngh!"
+#
+And break into the deepest part of her, where
+nobody's been before me.
+#
+<name "Elle" "!CA0613">
+"Nnnngh!!!!"
+#
+She writhes in pain and goes rigid.
+#
+<name "Elle" "!CA0614">
+"Nnh! Nnngh!
+ Nnnnhhh!"
+#
+Tears fill her eyes.
+#
+<name "Elle" "!CA0615">
+"Ah! Ah! Aah!"
+#
+After stabbing into her, I stop moving.
+#
+I'm not holding back to help her endure the
+pain.
+#
+If I was holding back, I wouldn't have thrust
+in like that.
+#
+I'm intoxicated by the feeling of dominating 
+her and the tightness of her insides.
+Right now, I'm thinking about what to do next.
+#
+<name "Elle" "!CA0616">
+"Ah...ah...ah..."
+#
+So as the initial pain starts to subside, I 
+being moving my hips.
+#
+<name "Elle" "!CA0617">
+"Aaaah!"
+#
+Her mouth opens wide in pain.
+#
+<name "Elle" "!CA0618">
+"Ah! Aaah!
+ D-Don't... move..."
+#
+She begs me, but I ignore her.
+#
+<name "Elle" "!CA0619">
+"Nnnngh!"
+#
+I start pounding in a rhythm, listening to her
+sexy screams.
+#
+<name "Elle" "!CA0620">
+"Nnnngh!"
+#
+Little by little, I pin her harder against the
+wall.
+#
+I want to thrust harder, but even coated by her
+juices, her pussy is still resisting my dick.
+#
+It's hard to move when she's this tight.
+#
+It's frustrating, but I keep rubbing my dick in
+her, little by little.
+#
+As I do that, moans start to mix in with her
+screams.
+#
+<name "Elle" "!CA0621">
+"Ngh...ah...ah...ahh...nnh...ah...ahh...
+ Ah...aaah...ah...ahh...ah...ah...
+ Ah...nnh...nh...ah...aaah...ah!"
+#
+Her pussy also leaks more of her juices out as
+she accepts a man for the first time, helping me
+move easier.
+#
+I let her drop slightly as I thrust up.
+#
+<name "Elle" "!CA0622">
+"Nnngh!"
+#
+Twice.
+Three times.
+#
+<name "Elle" "!CA0623">
+"Ngh!
+ Nnnngh!
+ Nnnnnngggh!"
+#
+Her pussy squeezes hard and tight, plreasuring
+my dick in its soft warmth.
+#
+I keep thrusting, and finally feel that I'm
+almost about to come.
+#
+<name "Elle" "!CA0624">
+"Aaah! Ah! Ahhhhhh!"
+#
+My movements grow more intense, little by
+little, but she keeps taking it.
+#
+And I can finally come.
+#
+I bury my dick deep in her pussy and slam her
+against the wall.
+#
+<name "Elle" "!CA0625">
+"Ah! Ah!"
+#
+I think she understands what's happening when
+I stop.
+#
+She knows from how I grab her tight.
+#
+And then I shudder and release my semen into
+her.
+#
+It fills her and pours into her womb.
+#
+<background "ev057a2.iph" 10>
+<name "Elle" "!CA0626">
+"Nnngh!
+ Nnnh!"
+#
+She desperately tries to endure it, but my
+ejaculation keeps going.
+#
+<name "Elle" "!CA0627">
+"Ah...ah...ah...
+ Ohhh..."
+#
+My dick keeps throbbing and shoot semen into
+her.
+#
+<name "Elle" "!CA0628">
+"Ah...ah...ahh...aaah!
+ Aahhhh!"
+#
+I pour every last drop into her pussy.
+#
+<name "Elle" "!CA0629">
+"Ah...ah...ahhh..."
+#
+　俺の射精が終った事を感じ、イエルは俺の顔を見て尋ねる。
+#
+<name "Elle" "!CA0630">
+"I-Is it... over?"
+#
+<name "Lazlocke">
+"..."
+#
+Instead of answering, I thrust again.
+#
+<name "Elle" "!CA0631">
+"Aah!"
+#
+My dick's still hard inside her.
+#
+<name "Elle" "!CA0632">
+"Aah...ah...nnh!"
+#
+She steels herself as she figures out that I'm
+not done.
+#
+I pick her up with my dick still inside her and
+carry her to change where we're doing it.
+#
+<name "Elle" "!CA0633">
+"Nnnnnh!"
+#
+The vibration must hurt a lot as she gasps with
+each step.
+#
+<background "ev058a0.iph" 10>
+I carry her to her room, put her down on her
+bed, and continue from behind.
+#
+<background "ev058a1.iph" 10>
+<name "Elle" "!CA0634">
+"Ah!"
+#
+Unlike before, I hang over her and thrust with
+my whole body, slamming my dick into her hard.
+#
+<name "Elle" "!CA0635">
+"Aah! Aaah! Aaaahhh!"
+#
+After coming once in her, her pussy's stretched
+open much more and it's a lot easier to move.
+#
+<name "Elle" "!CA0636">
+"Aaah! Ah! Aaah! Ahhhhh!'
+#
+My dick continues rampaging through her
+squeezing walls.
+#
+<name "Elle" "!CA0637">
+"Ah! Ah! Aaah! Ah! Aaah! Ahh!
+ Ahh! Ah! Aah! Ahh! Aaah!"
+#
+Right, left, up, down. 
+I just thrust all over and around her.
+#
+I even slow down and speed up to keep her from
+getting used to it.
+#
+<name "Elle" "!CA0638">
+"Aaah! Ah! Aaah! Ah! Ah! Ngh!
+ Aaah! Ah! Ah! Aaah! Nnnnnnngh!"
+#
+I grab her by the hips and concentrate on 
+nothing but my dick inside her.
+#
+<name "Elle" "!CA0639">
+"Aaah! Ah! Ah! Ah! Aaaaah! Ahhhhh!
+ Ahh! Ah! Ah! Aaah! Ah! Ah! Aahhh!"
+#
+The sound of my hips slamming against her ass
+fills the room.
+#
+The air is thick with the wet sounds coming
+from her pussy.
+#
+<name "Elle" "!CA0640">
+"Ah! Ah! Aah! Aaah! Aaah!"
+#
+And her gasps.
+#
+I indulge in her body as I violate her.
+#
+<background "ev058a2.iph" 10>
+<name "Elle" "!CA0641">
+"Ah! Aah! Ah! Ngh! Aah! Ngh
+ Ah! Aaah!
+ Aaaaaaaahhhh!"
+#
+And come again.
+#
+My dick floods her pussy, the same as the
+first time.
+#
+<name "Elle" "!CA0642">
+"Ah...ah...aah..."
+#
+It keeps pouring into her.
+#
+<name "Elle" "!CA0643">
+"Aaah...ah..."
+#
+And as soon as I finish, I start moving again
+to come for a third time.
+#
+<name "Elle" "!CA0644">
+"Aaah! Ah! Ah! Aaah
+ Ah...ah... Ah...ah...
+ Aaaaaahhhhhh!!!"
+#
+As I continue plunging into her, her whole body
+shudders and convulses as she orgasms while
+gushing a torrent of her own juices.
+#
+<background "ev058a3.iph" 10>
+<name "Elle" "!CA0645">
+"Ah...ahh...ahhh..."
+#
+And then she falls onto the bed and stops 
+moving.
+#
+It looks like she's passed out.
+#
+I keep thrusting without mercy for her and come for
+a third time in her pussy.
+#
+\x0A\x44\x00\xB9\x84\x01\x1A\x01\x07\x44\x03\x2A\x84\x01\x01\x0E :5FB6: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :5FB6: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x0E :5F61: \x0A\x22\x00\x01 5 
+:5F61
+\x1A\x01\x0A\x02\x01\x9A 4 \x01\x0E :5F7C: \x0A\x22\x00\x01 3 
+:5F7C
+\x1A\x01\x0A\x02\x01\x9A 5 \x01\x15 :5F97: \x0A\x22\x00\x01 1 
+:5F97
+\xE9 6003 \x22\x00\x02\x1A\x01\x08\x22\x00\x02\x22\x00\x01\x01\x15 :5FB6: \x15 :757E: 
+:5FB6
+After coming for the fourth time, I pull my
+dick out of her.
+#
+The blood from her hymen and my semen pour out.
+#
+As I look down at her, I put my dick against her
+ass.
+#
+Her first night is far from over.
+#
+\xEE -50 
+<background "bg024a0.iph" 10>
+<music 6>
+<background "bg006a0.iph" 11>
+<sprite "ta02a27.iph" 4 4 11>
+<name "Elle" "!CA0646">
+"G-Good morning."
+#
+<name "Lazlocke">
+"Yeah, morning."
+#
+<sprite "ta02a28.iph" 4 4 12>
+<name "Elle" "!CA0647">
+"Um... Where's my master?"
+#
+<name "Lazlocke">
+"I assume she's probably still asleep.
+ She emptied a whole wine bottle."
+#
+<sprite "ta02a27.iph" 4 4 12>
+<name "Elle" "!CA0648">
+"Oh, I see..."
+#
+<removesprite -1 11>
+She thinks for a moment before turning to
+face me directly.
+#
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0649">
+"A-About yesterday... um, thank you."
+#
+<name "Lazlocke">
+"If you want to thank someone, thank Viola.
+ She's paying for it."
+#
+<sprite "ta02a03.iph" 4 4 12>
+<name "Elle" "!CA0650">
+"But..."
+#
+<name "Lazlocke">
+"Besides, we're not done yet."
+#
+<sprite "ta02a01.iph" 4 4 12>
+<name "Elle" "!CA0651">
+"Huh?"
+#
+<name "Lazlocke">
+"That's not the end of it.
+ If you want to increase your mana more
+ permanently, we'll need to do it repeatedly."
+#
+<sprite "ta02a06.iph" 4 4 12>
+<name "Elle" "!CA0652">
+"Huh..."
+#
+<name "Lazlocke">
+"I'll take care of that while fucking you.
+ Understand?"
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0653">
+"Y-Yes, sir.
+ Thank you."
+#
+<name "Lazlocke">
+"I should also mention that there are rules 
+ for being with me.
+ You need to remember them."
+#
+<sprite "ta02a01.iph" 4 4 12>
+<name "Elle" "!CA0654">
+"Yes, sir.
+ What are they?"
+#
+<name "Lazlocke">
+"Don't be with any men besides me."
+#
+<name "Lazlocke">
+"When a woman has sex with a man, it has an
+ effect on the mana inside them. If you have
+ sex with other men, it becomes much harder 
+ for me to synchronize with you."
+#
+<sprite "ta02a02.iph" 4 4 12>
+<name "Elle" "!CA0655">
+"Yes, sir."
+#
+<name "Lazlocke">
+"Also, I'm the jealous type.
+ If you want some other man, go have sex with
+ him instead."
+#
+<sprite "ta02a01.iph" 4 4 12>
+<name "Elle" "!CA0656">
+"I-I understand."
+#
+<name "Lazlocke">
+"Next, never mention any of this in public."
+#
+<sprite "ta02a06.iph" 4 4 12>
+<name "Elle" "!CA0657">
+"Because it's a secret?"
+#
+<name "Lazlocke">
+"That's right. The issue isn't use having sex
+ as just a man and woman, it's that my ability
+ to transfer mana is top secret. Viola can tell
+ you what you need to know later."
+#
+<sprite "ta02a02.iph" 4 4 12>
+<name "Elle" "!CA0658">
+"Understood."
+#
+<name "Lazlocke">
+"Finally, no more masturbating."
+#
+<sprite "ta02a40.iph" 4 4 12>
+<name "Elle" "!CA0659">
+"Ah..."
+#
+Her whole face turns red.
+#
+<name "Lazlocke">
+"It's fine if you fantasize about me, but don't
+ satisfy yourself. Let the frustration build up.
+ That will make it easier to transfer mana to
+ you."
+#
+<sprite "ta02a39.iph" 4 4 12>
+<name "Elle" "!CA0661">
+"Y-Yes, sir."
+#
+<name "Lazlocke">
+"Okay, how about breakfast?"
+#
+<removesprite -1 11>
+It's already been prepared by the maids and is
+waiting on the table.
+#
+<name "Lazlocke">
+"Go wake up Viola."
+#
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0662">
+"Yes, sir."
+#
+<removesprite -1 11>
+I eat breakfast with them and then go home.
+#
+I expected Celes to be mad since I didn't come
+home last night, but apparently Viola sent a
+message.
+#
+She had everything planned out.
+#
+Still, Viola meddled to get me to have sex with
+Elle...
+#
+Sigh...
+#
+Well, what's done is done.
+#
+:6C2C
+<exit>
+:6C2D
+<music 2>
+<background "bg013a0.iph" 11>
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0805">
+"Your master's pretty cool, isn't he?"
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a00.iph" 6 4 11>
+<name "Celes" "!AA5678">
+"Hahaha..."
+#
+<sprite "ta02a27.iph" 6 4 12>
+<name "Elle" "!CA0806">
+"It's not like I was complimenting you."
+#
+<sprite "ta01a09.iph" 2 5 12>
+<name "Celes" "!AA5679">
+"I know that, but it still makes me happy."
+#
+<sprite "ta02a04.iph" 6 4 12>
+<name "Elle" "!CA0807">
+"Oh, then I guess I know what you mean."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA5680">
+"Viola is amazing too."
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0808">
+"Obviously."
+#
+<removesprite -1 11>
+<exit>
+:6EC8
+<music 6>
+<background "bg006a0.iph" 11>
+<sprite "ta02a28.iph" 4 4 11>
+<name "Elle" "!CA0809">
+"Celes is getting stronger."
+#
+<sprite "ta02a35.iph" 4 4 12>
+<name "Elle" "!CA0810">
+"I..."
+#
+<sprite "ta02a30.iph" 4 4 12>
+<name "Elle" "!CA0811">
+"I have to work harder."
+#
+<removesprite -1 11>
+<exit>
+:6FD2
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta02a28.iph" 4 4 11>
+<name "Elle" "!CA0812">
+"Um, are you, um, with Viola..."
+#
+<name "Lazlocke">
+"I'm having sex with her."
+#
+<sprite "ta02a32.iph" 4 4 12>
+<name "Elle" "!CA0813">
+"For... mana?"
+#
+<name "Lazlocke">
+"No, just... payment, I guess."
+#
+<sprite "ta02a35.iph" 4 4 12>
+<name "Elle" "!CA0814">
+"Payment?"
+#
+<name "Lazlocke">
+"Yeah. Payment for giving you mana."
+#
+<sprite "ta02a28.iph" 4 4 12>
+<name "Elle" "!CA0816">
+"She's doing that for me?"
+#
+<name "Lazlocke">
+"So you know, it was her suggestion.
+ Don't worry. I'm not forcing her to do
+ anything."
+#
+<sprite "ta02a14.iph" 4 4 12>
+<name "Elle" "!CA0817">
+"Is that the truth?"
+#
+<name "Lazlocke">
+"Yeah. Besides, she's not the kind of woman to
+ let anybody force her to do anything."
+#
+<sprite "ta02a37.iph" 4 4 12>
+<name "Elle" "!CA0818">
+"...That's true."
+#
+<name "Lazlocke">
+"Also, it was kind of like this even before you
+ were in the picture.
+ Don't worry about it."
+#
+<sprite "ta02a27.iph" 4 4 12>
+<name "Elle" "!CA0819">
+"...All right."
+#
+<removesprite -1 11>
+<exit>
+:73A4
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0820">
+"...I have to work hard for Viola too."
+#
+<removesprite -1 11>
+Elle reaffirms her determination.
+#
+<exit>
+:7450
+<music 32>
+<background "bg016a0.iph" 11>
+<sprite "ta02a01.iph" 4 4 11>
+<name "Elle" "!CA0821">
+"Whew...
+ But fighting only weaklings won't get me
+ anywhere..."
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0822">
+"..."
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA0823">
+"I can't lose!
+ I've got to work harder!"
+#
+<removesprite -1 11>
+<exit>
+:757E
+<music 9>
+<background "bg008b0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0687">
+"You're done."
+#
+<name "Lazlocke">
+"For today.
+ I'll have to keep doing for a while, and
+ increase her mana gradually."
+#
+<removesprite -1 11>
+This isn't replenishing her own mana, and I 
+can't give her too much more than she's used to
+without putting her in danger.
+#
+It needs to be done over time, and I can 
+increase it little by little.
+#
+<sprite "ta03a00.iph" 4 4 11>
+<name "Viola" "!BA0688">
+"I see.
+ How was it?"
+#
+<name "Lazlocke">
+"Same as usual."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0689">
+"That's hardly an answer."
+#
+<name "Lazlocke">
+"Sorry. I'm not in the mood for chit chat.
+ Let me borrow your bath and then I can go
+ home."
+#
+<sprite "ta03a03.iph" 4 4 12>
+<name "Viola" "!BA0690">
+"...I haven't paid for it yet."
+#
+<name "Lazlocke">
+"There's no need for that."
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0691">
+"I feel awkward just taking mana from you."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0692">
+"At the very least, take as much mana as you
+ gave her."
+#
+<removesprite -1 11>
+She steps close to me.
+#
+The smell of wine hits me in the face.
+#
+Now that I take a better look, her face is
+flushed.
+#
+<name "Lazlocke">
+"Are you drunk?
+ Go to bed."
+#
+<sprite "ta03c15.iph" 4 4 11>
+<name "Viola" "!BA0693">
+"I haven't had enough to get drunk."
+#
+<removesprite -1 11>
+Her legs are steady.
+#
+She doesn't look tipsy.
+#
+But every time she breathes, I'm choked by the
+thick scent of wine. She's definitely very
+drunk.
+#
+I've seen her drink before. She can handle
+herself. She's not the kind to get plastered
+after a couple sips.
+#
+<name "Lazlocke">
+"Let me take you to your room."
+#
+<sprite "ta03c22.iph" 4 4 11>
+<name "Viola" "!BA0694">
+"...But I want you to take home as much mana
+ as you gave Elle."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I give a small sigh and pull her into my arms.
+#
+<name "Lazlocke">
+"All right."
+#
+<name "Lazlocke">
+"I don't need your mana, but I'll take a payment
+ for having sex with her."
+#
+<music 36>
+<background "ev068a0.iph" 10>
+Viola sits back on the desk, removes her skirt,
+and opens her legs.
+#
+I reach out to touch her, but before I do, I
+notice that her underwear is already wet.
+#
+<name "Lazlocke">
+"...Were you peeping on us when I was with her?"
+#
+<name "Viola" "!BA0695">
+"I-I would never..."
+#
+<name "Lazlocke">
+"Be honest."
+#
+I touch her through her damp underwear.
+#
+<name "Viola" "!BA0696">
+"J-Just your voices..."
+#
+<name "Lazlocke">
+"Did you play with yourself?"
+#
+<name "Viola" "!BA0697">
+"Nh... I-I did not."
+#
+She blushes bright red as she answers.
+#
+It's probably the truth.
+#
+She can't lie about this kind of thing.
+#
+I slide my finger into her panties and into
+her.
+#
+<name "Viola" "!BA0698">
+"Ah..."
+#
+Her pussy's already slimy with her love juices.
+#
+I could already easily put it in.
+#
+<name "Lazlocke">
+"Has any man besides me ever touched you here?"
+#
+<name "Viola" "!BA0699">
+"...No."
+#
+<name "Lazlocke">
+"I'm the only one?"
+#
+<name "Viola" "!BA0700">
+"...Only you."
+#
+I pull her underwear down.
+#
+<background "ev068b0.iph" 10>
+<name "Viola" "!BA0701">
+"Ah..."
+#
+And bring my face close to her.
+#
+The scent of an aroused woman tickles my nose.
+#
+Even though I was just with Elle, my dick
+expands, desiring another woman.
+#
+I reach out with my tongue and slip it into
+her.
+#
+<name "Viola" "!BA0703">
+"Mm...ah...ah...ah..."
+#
+I move my tongue around, making loud slurping
+sounds.
+#
+It's been a while since I smelled, felt, and
+tasted her.
+#
+How many years has it been like this?
+#
+No, it doesn't matter.
+#
+<name "Viola" "!BA0704">
+"Ah...ah...ah..."
+#
+I violate her all through her insides with my
+tongue.
+#
+<name "Viola" "!BA0705">
+"Ah...aah...ah...aah...ah...ahh...ah..."
+#
+Her legs close and block me.
+#
+I force them open and keep going.
+#
+<name "Viola" "!BA0706">
+"Ah! Nh!
+ Ah! Ah! Nnh..."
+#
+Her whole body shudders.
+She was only able to bear it a little bit 
+before coming.
+#
+<background "ev068b1.iph" 10>
+<name "Viola" "!BA0707">
+"Aaaaaahhhhh!!!"
+#
+She gushes all over my face with her juices and
+urine.
+#
+<name "Viola" "!BA0708">
+"Ah...ah...ah...ahhh...
+ Ahhhh...aaahhh..."
+#
+She holds my head as she gasps for breath.
+#
+I stand up with her fingers in my hair.
+#
+<name "Viola" "!BA0709">
+"Ah..."
+#
+I take my swollen dick out of my pants and hold
+it in front of her.
+#
+<name "Viola" "!BA0710">
+"Ah...ah..."
+#
+Her breath catches in her throat when she sees
+it.
+#
+I bring it to her entrance.
+#
+And then I slide it into her.
+#
+Just from feeling her warmth, liquid starts to
+seep out of my dick.
+#
+I endure it and slowly push into her.
+#
+<background "ev068c0.iph" 10>
+<name "Viola" "!BA0711">
+"Ah...aaaaahhhhhh..."
+#
+My dick gradually slides in.
+#
+Little by little, the distance between us
+shrinks.
+#
+And finally, I'm completely buried inside her.
+#
+All the way in.
+#
+She's holding me down to the base.
+#
+My dick... inside her.
+#
+I can't bear that thought for another second
+and pull her close as I start to come.
+#
+<background "ev068c1.iph" 10>
+<name "Viola" "!BA0712">
+"Ah...ah...aaah...
+ Mmmmmm!"
+#
+I close her lips with a kiss.
+#
+We stay like that, locked together, until I
+stop coming.
+#
+<background "ev068c2.iph" 10>
+<name "Viola" "!BA0713">
+"Mmm...ah...mm...ah...ah..."
+#
+<name "Lazlocke">
+"Viola."
+#
+<name "Viola" "!BA0714">
+"Ah... Wh...mmmm!"
+#
+I hang over her and continue taking her.
+#
+<background "ev069a0.iph" 10>
+<name "Viola" "!BA0715">
+"Ah...ah...ahhh..."
+#
+<name "Lazlocke">
+"..."
+#
+I kiss her.
+#
+Again, and again.
+#
+Our tongues entwine.
+#
+<name "Viola" "!BA0716">
+"Ah...mmmm..."
+#
+<name "Lazlocke">
+"Viola..."
+#
+My dick's still inside her.
+#
+I come over and over again, never taking it out
+of her.
+#
+Her pussy and womb are overflowing with my
+semen.
+#
+Just thinking about that makes me love her all
+the more.
+#
+My dick never gets tired of her.
+#
+But it's almost dawn.
+#
+I try to pull out to finish, but she wraps her
+legs around me and stops me.
+#
+<background "ev069a2.iph" 10>
+<name "Viola" "!BA0717">
+"Ah..."
+#
+She wants another kiss.
+#
+<name "Lazlocke">
+"..."
+#
+I answer her request.
+#
+And I thrust against as we kiss and hold each
+other.
+#
+<name "Viola" "!BA0718">
+"Mm...mm...ah...aah...aahhhh..."
+#
+And as we hold each other, I pour my semen into
+her again.
+#
+<background "ev069a3.iph" 10>
+<name "Viola" "!BA0719">
+"Ah...ahh...ah..."
+#
+I don't want to let her go.
+#
+I don't want to go.
+#
+I hate to do it, but I pull my dick out of her.
+#
+<background "ev069a4.iph" 10>
+<name "Viola" "!BA0720">
+"Ah..."
+#
+<name "Lazlocke">
+"It's time to sober up.
+ The wine must be wearing off."
+#
+<name "Viola" "!BA0721">
+"Ah...mmm..."
+#
+<name "Lazlocke">
+"..."
+#
+I hold her close.
+#
+<name "Viola" "!BA0722">
+"Mm..."
+#
+After a while, she finally comes back to her
+senses.
+#
+She's blushing up to her ears.
+#
+<name "Lazlocke">
+"Honestly...
+ I thought we were getting better than this..."
+#
+I never wanted my relationship with her to be
+like this.
+#
+<background "ev069a1.iph" 10>
+<name "Viola" "!BA0723">
+"Hmph."
+#
+<name "Lazlocke">
+"But there's not much difference doing it once
+ and doing it over and over again."
+#
+<name "Lazlocke">
+"From now on, I'll expect payment from you
+ after I'm with Elle."
+#
+She blushes.
+#
+<name "Lazlocke">
+"It's too late to be shy.
+ I know every inch of you."
+#
+<name "Viola" "!BA0724">
+"Grr..."
+#
+<name "Lazlocke">
+"Please give me more of those lovely moans you
+ just did."
+#
+<name "Viola" "!BA0725">
+"T-There's nothing lovely about it."
+#
+<name "Lazlocke">
+"Viola."
+#
+<name "Viola" "!BA0726">
+"What?"
+#
+<name "Lazlocke">
+"...One more time."
+#
+<name "Viola" "!BA0727">
+"Huh?"
+#
+I push my dick back into her.
+#
+<background "ev069a4.iph" 10>
+<name "Viola" "!BA0728">
+"Ah! Aah! Ahh! Aaaaah!"
+#
+After I finish, she collapses in bed and falls
+fast asleep.
+#
+I leave her in peace.
+#
+But I do borrow the bath quickly.
+#
+The morning sun is so bright.
+#
+It's dawn.
+#
+\x0A\x44\x00\xC2\x84\x01\x0A\x04\x00\xD9\x84\x01\xEE -40 \x15 :6C2C: \x78

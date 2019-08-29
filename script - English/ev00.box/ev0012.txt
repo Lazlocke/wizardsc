@@ -37,8 +37,9 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta05a07.iph" 4 4 11>
-<name "謎の女" "!EA0364">
-「ふふ……楽しくなってきたわね」
+<name "Mystery Woman" "!EA0364">
+"Heheh...
+ This is going to be fun."
 #
 <removesprite -1 11>
 <exit>
@@ -46,8 +47,8 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta05a05.iph" 4 4 11>
-<name "謎の女" "!EA0365">
-「覗き、覗き」
+<name "Mystery Woman" "!EA0365">
+"Sneaky, sneaky..."
 #
 <removesprite -1 11>
 <exit>
@@ -55,18 +56,19 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta05a05.iph" 4 4 11>
-<name "謎の女" "!EA0366">
-「様子見！」
+<name "Mystery Woman" "!EA0366">
+"Wait and see!"
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a05.iph" 6 5 11>
 <name "Soshiette" "!DA0915">
-「変態のようですが……」
+"You're acting like a pervert."
 #
 <sprite "ta05a21.iph" 6 5 12>
-<name "謎の女" "!EA0367">
-「しー、見つかっちゃうじゃないの」
+<name "Mystery Woman" "!EA0367">
+"Shh.
+ I don't want to be found."
 #
 <removesprite -1 11>
 <exit>
@@ -74,7 +76,7 @@
 <background "bg018a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0916">
-「報告します」
+"Reporting."
 #
 <removesprite -1 11>
 <exit>
@@ -83,67 +85,67 @@
 <background "bg004a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0917">
-「イエルさん、頑張っていますね」
+"Miss Elle is hard at work."
 #
 <name "Lazlocke">
-「そうだな」
+"Yeah."
 #
 <sprite "ta04a63.iph" 4 4 12>
 <name "Soshiette" "!DA0918">
-「セリスさんに立ちはだかる、大きな壁となるでしょ
-　う」
+"She's going to be a significant wall before
+ Celes."
 #
 <name "Lazlocke">
-「そうだな」
+"Yeah."
 #
 <sprite "ta04a19.iph" 4 4 12>
 <name "Soshiette" "!DA0919">
-「……
-　なぜイエルさんに魔力を？」
+"...Why are you giving her mana?"
 #
 <name "Lazlocke">
-「なんだ、怒っていたのか」
+"What? Are you mad?"
 #
 <sprite "ta04a64.iph" 4 4 12>
 <name "Soshiette" "!DA0920">
-「わざわざ、ぶつかると判っている相手にどうして
-　ですか？」
+"Why are you going out of your way to help
+ someone you know she'll have to defeat?"
 #
 <name "Lazlocke">
-「障害は大きい方が良いだろ」
+"The greater the challenge, the more sweet the
+ success."
 #
 <sprite "ta04a16.iph" 4 4 12>
 <name "Soshiette" "!DA0921">
-「すでに十分、大きいと思うのですが」
+"I think the challenge is already great enough."
 #
 <name "Lazlocke">
-「まあな。
-　気紛れと思ってくれ」
+"I guess.
+ Then call it a flight of fancy."
 #
 <sprite "ta04a15.iph" 4 4 12>
 <name "Soshiette" "!DA0922">
-「気紛れ……ですか」
+"Fancy, is it?"
 #
 <name "Lazlocke">
-「なんだ、その目は？」
+"What's that look for?"
 #
 <sprite "ta04a19.iph" 4 4 12>
 <name "Soshiette" "!DA0923">
-「本当の理由は、なんですか？」
+"What's the real reason?"
 #
 <name "Lazlocke">
-「……ヴィオラに頼まれたからだ」
+"...Viola asked me to do it."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA0924">
-「相変わらず、ヴィオラ様には弱いのですね」
+"As ever, you can't say no to her."
 #
 <name "Lazlocke">
-「アイツに強いヤツが居るのか？」
+"Is there anybody who can?"
 #
 <sprite "ta04a87.iph" 4 4 12>
 <name "Soshiette" "!DA0925">
-「……はぁ」
+"..."
 #
 <removesprite -1 11>
 <exit>
@@ -151,31 +153,31 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta05a07.iph" 4 4 11>
-<name "謎の女性" "!EA0368">
-「プレゼントよ」
+<name "Mystery Woman" "!EA0368">
+"A present for you."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
 <name "Celes" "!AA5690">
-「え？」
+"Huh?"
 #
 <sprite "ta05a12.iph" 6 4 12>
-<name "謎の女性" "!EA0369">
-「プレゼントよ」
+<name "Mystery Woman" "!EA0369">
+"A present."
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA5691">
-「あの、貴女は？」
+"Um, who are you?"
 #
 <sprite "ta05a11.iph" 6 4 12>
-<name "謎の女性" "!EA0370">
-「気にしないでね。
-　では」
+<name "Mystery Woman" "!EA0370">
+"Don't worry about it.
+ Bye bye."
 #
 <removesprite -1 11>
 \x2B\xB5 "タペストリー" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :FE3: \xB4 "タペストリー" \x84\x01
-『セリスは家具“タペストリー”を手に入れた』
+--Celes obtained Tapestry furniture--
 #
 :FE3
 <exit>
@@ -183,24 +185,25 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta05a07.iph" 4 4 11>
-<name "謎の女性" "!EA0371">
-「ふふ……やるわね」
+<name "Mystery Woman" "!EA0371">
+"Heheh...
+ Pretty good."
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta05a07.iph" 6 4 11>
 <name "Celes" "!AA5692">
-「あの、貴女は？」
+"Um, who are you?"
 #
 <sprite "ta05a11.iph" 6 4 12>
-<name "謎の女性" "!EA0372">
-「気にしちゃ駄目よ」
+<name "Mystery Woman" "!EA0372">
+"Don't worry about it."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA5693">
-「え？
-　あれ？
-　行っちゃった……」
+"Huh?
+ Wha?
+ She disappeared..."
 #
 <removesprite -1 11>
 <exit>
@@ -208,18 +211,18 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta05a01.iph" 4 4 11>
-<name "謎の女性" "!EA0374">
-「なるほど……」
+<name "Mystery Woman" "!EA0374">
+"I see..."
 #
 <removesprite -1 11>
 <sprite "ta02a01.iph" 4 5 11>
 <name "Elle" "!CA0857">
-「あれ？
-　変な視線を感じたけど……」
+"Huh?
+ I just felt like someone was watching me."
 #
 <sprite "ta02a06.iph" 4 5 12>
 <name "Elle" "!CA0858">
-「なんだったんだろ？」
+"I wonder what it was."
 #
 <removesprite -1 11>
 <exit>
@@ -228,28 +231,27 @@
 <background "bg013a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA5694">
-「あの人……
-　学園の関係者かな？」
+"Is that woman with the school?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
 <name "Elle" "!CA0859">
-「誰の事？」
+"What woman?"
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA5695">
-「あそこに居る人」
+"That one over there."
 #
 <sprite "ta02a06.iph" 6 4 12>
 <name "Elle" "!CA0860">
-「ん？
-　どこ？」
+"Hm?
+ Where?"
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA5696">
-「……あれ？
-　居なくなった」
+"...Huh?
+ She's gone."
 #
 <removesprite -1 11>
 <exit>
@@ -257,13 +259,13 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta05a02.iph" 4 4 11>
-<name "謎の女性" "!EA0376">
-「ヴィオラも罪作りね」
+<name "Mystery Woman" "!EA0376">
+"Viola's misbehaving now too."
 #
 <sprite "ta05a05.iph" 4 4 12>
-<name "謎の女性" "!EA0378">
-「目的の為に手段を選ばない所は、魔法使いらしい
-　けど」
+<name "Mystery Woman" "!EA0378">
+"But mistaking the means for the end is
+ certainly wizard-like."
 #
 <removesprite -1 11>
 <exit>
@@ -271,39 +273,40 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a03.iph" 4 4 11>
-<name "謎の女性" "!EA0379">
-「ほっ！」
+<name "Mystery Woman" "!EA0379">
+"Hya!"
 #
 <sprite "ta05a04.iph" 4 4 12>
-<name "謎の女性" "!EA0380">
-「しゃきーん！」
+<name "Mystery Woman" "!EA0380">
+"Tadah!"
 #
 <sprite "ta05a05.iph" 4 4 12>
-<name "謎の女性" "!EA0381">
-「参上！」
+<name "Mystery Woman" "!EA0381">
+"Here I am!"
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a05.iph" 6 5 11>
 <name "Soshiette" "!DA0926">
-「あの、何をしているのですか？」
+"Um, what are you doing?"
 #
 <sprite "ta05a10.iph" 6 5 12>
-<name "謎の女性" "!EA0383">
-「登場の時の練習」
+<name "Mystery Woman" "!EA0383">
+"Practicing my entrance."
 #
 <sprite "ta04a24.iph" 2 4 12>
 <name "Soshiette" "!DA0927">
-「別に、すっと出ていけば良いじゃないですか」
+"I think it's okay if you just show up."
 #
 <sprite "ta05a15.iph" 6 5 12>
-<name "謎の女性" "!EA0384">
-「こういった所に拘らずして、どこに拘るのよ」
+<name "Mystery Woman" "!EA0384">
+"There's a time and a place when you need to
+ be concerned about this kind of thing."
 #
 <sprite "ta04a86.iph" 2 4 12>
 <name "Soshiette" "!DA0928">
-「いえ、別にどこにも拘らなければ良いと思います
-　が……」
+"No, I don't think anybody's concerned with
+ that."
 #
 <removesprite -1 11>
 <exit>
@@ -311,15 +314,15 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta05a23.iph" 4 4 11>
-<name "謎の女性" "!EA0385">
-「うわっ、ラズに思いっきり睨まれた」
+<name "Mystery Woman" "!EA0385">
+"Whoa. Laz was glaring daggers at me."
 #
 <removesprite -1 11>
 <sprite "ta04a23.iph" 2 4 11>
 <sprite "ta05a23.iph" 6 5 11>
 <name "Soshiette" "!DA0929">
-「コソコソしているからですよ。
-　協会長」
+"Because you're sneaking around, Guild
+ President."
 #
 <removesprite -1 11>
 <exit>
@@ -327,22 +330,22 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a12.iph" 4 4 11>
-<name "謎の女性" "!EA0386">
-「ルンルン♪」
+<name "Mystery Woman" "!EA0386">
+"Rune.♪ Rune.♪"
 #
 <removesprite -1 11>
 <sprite "ta04a23.iph" 2 4 11>
 <sprite "ta05a12.iph" 6 5 11>
 <name "Soshiette" "!DA0930">
-「なにを……しているのですか？」
+"What... are you doing?"
 #
 <sprite "ta05a40.iph" 6 5 12>
-<name "謎の女性" "!EA0387">
-「…………今、見たのは忘れなさい」
+<name "Mystery Woman" "!EA0387">
+"...Forget what you just saw."
 #
 <sprite "ta04a28.iph" 2 4 12>
 <name "Soshiette" "!DA0931">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
@@ -350,18 +353,18 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta05a06.iph" 4 4 11>
-<name "謎の女性" "!EA0388">
-「楽しそう」
+<name "Mystery Woman" "!EA0388">
+"This'll be fun."
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 2 4 11>
 <sprite "ta05a06.iph" 6 5 11>
 <name "Soshiette" "!DA0932">
-「参加されますか？」
+"Are you going to participate?"
 #
 <sprite "ta05a21.iph" 6 5 12>
-<name "謎の女性" "!EA0390">
-「むー……我慢」
+<name "Mystery Woman" "!EA0390">
+"Hmm... I don't think so."
 #
 <removesprite -1 11>
 <exit>
@@ -369,18 +372,18 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta05a01.iph" 4 4 11>
-<name "謎の女性" "!EA0392">
-「ふふ……」
+<name "Mystery Woman" "!EA0392">
+"Heheheh..."
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a01.iph" 6 5 11>
 <name "Soshiette" "!DA0933">
-「思わせぶりですね」
+"That seemed meaningful."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "謎の女性" "!EA0393">
-「狙ってるのよ」
+<name "Mystery Woman" "!EA0393">
+"I've got my eyes on her."
 #
 <removesprite -1 11>
 <exit>
@@ -389,64 +392,62 @@
 <background "bg018a0.iph" 11>
 <sprite "ta04a23.iph" 4 4 11>
 <name "Soshiette" "!DA0906">
-「協会長。
-　ご主人様とヴィオラ様の仲を取り持つのには、何
-　か目的があるのですか？」
+"President, is there some reason that you're
+ meddling in His Grace and Viola's
+ relationship?"
 #
 <removesprite -1 11>
 <sprite "ta04a23.iph" 2 4 11>
 <sprite "ta05a01.iph" 6 5 11>
-<name "ルーン" "!EA0332">
-「目的は、ラズの幸せよ」
+<name "Rune" "!EA0332">
+"For Laz's happiness."
 #
 <sprite "ta04a24.iph" 2 4 12>
 <name "Soshiette" "!DA0907">
-「ご主人様の幸せ……ですか？」
+"For his... happiness?"
 #
 <sprite "ta05a04.iph" 6 5 12>
-<name "ルーン" "!EA0333">
-「そうよ。
-　珍しい、男の“魔法使いの花嫁”」
+<name "Rune" "!EA0333">
+"That's right. A male wizard's bride is a
+ possibly unique existence."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "ルーン" "!EA0334">
-「そして、膨大な魔力を体内に取り込めて、それを
-　コントロールしきる事の出来る魔法使い中の魔法
-　使い」
+<name "Rune" "!EA0334">
+"And she's able to both handle a massive amount
+ of mana inside her, and control it."
 #
 <sprite "ta05a07.iph" 6 5 12>
-<name "ルーン" "!EA0335">
-「どちらも、一時代に一人居るか居ないかの人材」
+<name "Rune" "!EA0335">
+"Both of them are ones in a million."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "ルーン" "!EA0338">
-「それが、私の弟子として二人が揃った事には、意
-　味があると思わない？」
+<name "Rune" "!EA0338">
+"Don't you think there's some greater reason why
+ they both ended up as my apprentices?"
 #
 <sprite "ta04a22.iph" 2 4 12>
 <name "Soshiette" "!DA0908">
-「……そうですね」
+"...I suppose."
 #
 <sprite "ta05a07.iph" 6 5 12>
-<name "ルーン" "!EA0339">
-「ラズとヴィオラは双方が支え合う事ができる」
+<name "Rune" "!EA0339">
+"Laz and Viola can both be there for the other."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "ルーン" "!EA0340">
-「ううん。
-　支え合って欲しい」
+<name "Rune" "!EA0340">
+"No, I want them to be."
 #
 <sprite "ta05a20.iph" 6 5 12>
-<name "ルーン" "!EA0342">
-「そう思ったのだけど……」
+<name "Rune" "!EA0342">
+"That's what I was thinking at least..."
 #
 <sprite "ta05a21.iph" 6 5 12>
-<name "ルーン" "!EA0343">
-「なかなか、上手くいかないものね」
+<name "Rune" "!EA0343">
+"It's not going very well though."
 #
 <sprite "ta04a28.iph" 2 4 12>
 <name "Soshiette" "!DA0909">
-「男女の仲とは、そういうものです」
+"That's how relationships are."
 #
 <removesprite -1 11>
 <exit>
@@ -455,51 +456,53 @@
 <background "bg018a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0910">
-「協会長は、ご主人様の事を……」
+"President, what are your feelings towards His
+ Grace?"
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 2 4 11>
 <sprite "ta05a01.iph" 6 5 11>
-<name "ルーン" "!EA0344">
-「もちろん、好きよ」
+<name "Rune" "!EA0344">
+"I love him, of course."
 #
 <sprite "ta04a24.iph" 2 4 12>
 <name "Soshiette" "!DA0911">
-「では……」
+"Then..."
 #
 <sprite "ta05a10.iph" 6 5 12>
-<name "ルーン" "!EA0345">
-「でも、添い遂げるには年の差が問題かな」
+<name "Rune" "!EA0345">
+"But we were just born too many years apart."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "ルーン" "!EA0346">
-「協会を大きくしちゃった責任もあるしね」
+<name "Rune" "!EA0346">
+"I have a responsibility to see to the Guild's
+ growth as well."
 #
 <sprite "ta04a24.iph" 2 4 12>
 <name "Soshiette" "!DA0912">
-「協会長……」
+"President..."
 #
 <sprite "ta05a07.iph" 6 5 12>
-<name "ルーン" "!EA0347">
-「若い者は、若い者に任せるとするわ」
+<name "Rune" "!EA0347">
+"Leave youth to the young."
 #
 <sprite "ta04a28.iph" 2 4 12>
 <name "Soshiette" "!DA0913">
-「まだまだ、お若いですよ」
+"You're still young."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "ルーン" "!EA0348">
-「……ありがとう」
+<name "Rune" "!EA0348">
+"...Thank you."
 #
 <sprite "ta05a15.iph" 6 5 12>
-<name "ルーン" "!EA0349">
-「でも、お肌ピッチピチの貴女に言われると、腹が
-　立つかも」
+<name "Rune" "!EA0349">
+"But if you say one word about my skin, I may
+ get mad."
 #
 <sprite "ta04a29.iph" 2 4 12>
 <name "Soshiette" "!DA0914">
-「あはは……
-　良い食事と、弛まぬ運動の成果です」
+"Hahaha...
+ A good diet will keep your face flush."
 #
 <removesprite -1 11>
 <exit>
