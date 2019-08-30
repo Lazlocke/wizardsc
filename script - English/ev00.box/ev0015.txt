@@ -28,135 +28,138 @@
 <background "bg004a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0078">
-「あら、運動してたの？」
+"Oh? Were you exercising?"
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
 <name "Celes" "!AA0700">
-「うん。
-　魔法使いは体力だって、師匠が」
+"Yeah. My master says that a wizard needs to be
+ fit."
 #
 <sprite "ta02a06.iph" 6 4 12>
 <name "Elle" "!CA0079">
-「へー」
+"Oh?"
 #
 <sprite "ta01d09.iph" 2 5 12>
 <name "Celes" "!AA0701">
-「イエルちゃんもやってみる？」
+"Do you want to try it?"
 #
 <sprite "ta02a00.iph" 6 4 12>
 <name "Elle" "!CA0080">
-「そうね……」
+"I guess."
 #
 <removesprite -1 11>
 <music 25>
 <background "ev053a0.iph" 10>
-　セリスとイエルが二人して障害物走をしていた。
+Celes and Elle are running the obstacle course
+together.
 #
-　セリスが先行し、泥沼を越える。
+Celes is ahead and gets through the marsh.
 #
-　イエルは後方で、地面に張ったロープで戸惑って
-　いるようだ。
+Elle is behind her, still struggling with the
+ropes across the ground.
 #
-　まずまず、セリスが有利と。
+Generally, Celes has the advantage.
 #
-　それは良い。
+Good.
 #
-　それは良いんだ。
+I mean, that part's good.
 #
-　二人とも頑張っている。
+That they're both trying hard.
 #
-　素晴らしい事だと思う。
+That's great.
 #
-　しかし……
+It's just...
 #
 <name "Soshiette" "!DA0227">
-「なにか問題でも？」
+"Is there an issue?"
 #
 <name "Lazlocke">
-「なにか問題でもと言われるとだな……」
+"Where would I begin?"
 #
-　二人が走っているコースには、かなり本格的な障
-　害物が置かれている。
+The obstacle course they're running is full of
+actual obstacles.
 #
-　スタート直後に、二メートルの垂直壁登り。
+A six foot sheer wall right after the start.
 #
-　その後、一抱えもある岩を一定距離運び、空中に
-　吊られた梯子を手で進んでいく。
+And then a rock carrying track, followed by 
+having to cross hand over hand using a ladder
+hung in the air.
 #
-　そして地面に張られたロープエリアをくぐって進
-　み、連続して配置された泥沼を連続ジャンプして
-　越える。
+Then through ropes spread over the ground, and
+jumping over a marsh.
 #
-　その先には起伏の激しい道があり、さらには砂地
-　がある。
+Then steep hills, followed by a sandy area.
 #
-　そうして、足に徹底して負担を掛けたあと、細い
-　橋をバランスを取らせて歩かせる。
+And after putting on weighted boots, they have
+to walk across a narrow plank.
 #
-　なかなか意地悪だ。
+This is all cruel.
 #
-　そうした後に、今度は三メートルの垂直壁登りが
-　五枚連続して配置されている。
+After all that, five ten foot walls are set up
+in a row.
 #
-　ゴールさせる気は無いみたいだ。
+It's like they're not supposed to reach the
+finish line.
 #
-　その後は、ゴールまでの直線。
+It's a straight shot to the end after that.
 #
-　走れば良いのだろうが……予想だが、落とし穴が
-　絶対にある。
+At least, it looks like you can just run, but
+I'd bet anything that there are pitfalls hidden
+there.
 #
-　それはともかく、何が問題かと言うと……
+Aside from all that, there's another big
+problem.
 #
 <name "Lazlocke">
-「いつ、庭をこんな風に？」
+"When did you turn the yard into this?"
 #
 <name "Soshiette" "!DA0228">
-「つい先程。
-　競争しようと言う話になったので、協力致しまし
-　た」
+"Earlier.
+ They said they wanted to compete, so I helped
+ them."
 #
 <name "Lazlocke">
-「ほう。
-　一人で作ったのか？」
+"Oh?
+ You did all this on your own?"
 #
 <name "Soshiette" "!DA0229">
-「協会の軍事部の者が何人か協力してくれました」
+"Some people from Guild Military helped."
 #
 <name "Lazlocke">
-「そうか……
-　あとでそのリストをくれ」
+"I see.
+ I'll want a list of their names later."
 #
 <name "Soshiette" "!DA0230">
-「お褒めの言葉ですか？」
+"To thank them?"
 #
 <name "Lazlocke">
-「そう思うか？」
+"Do you think so?"
 #
 <name "Soshiette" "!DA0231">
-「はい。
-　弟子の教育の為にここまでやってくれてありがと
-　う。
-　みたいな感じになるかと」
+"Yes.
+ A thank you for helping in your apprentices'
+ education.
+ Don't you agree?"
 #
 <name "Lazlocke">
-「…………ソシエット君。
-　ご褒美をあげるから、部屋に行こうか」
+"...Soshiette, let's go to my room so I can
+ thank you properly."
 #
 <name "Soshiette" "!DA0232">
-「えっと……」
+"Um..."
 #
 <name "Lazlocke">
-「わーいと喜んで良いぞ」
+"I expect jubilation."
 #
 <name "Soshiette" "!DA0233">
-「わーい」
+"Yay."
 #
-　俺はソシエットを抱え、部屋に向かおうとした。
+I forcefully drag her inside.
 #
-　その背後で、落とし穴に落ちたセリスとイエルの
-　悲鳴が上がった。
+Out in the yard, Celes yelps as she falls into
+a pit.
 #
 \x0A\x44\x00\xA3\x84\x01
 <exit>
@@ -164,18 +167,19 @@
 <music 25>
 <background "ev053a0.iph" 10>
 <name "Celes" "!AA0702">
-「ジャーンプ！」
+"Jump!"
 #
 <name "Elle" "!CA0081">
-「むきー、ロープが……」
+"Urgh! The stupid rope..."
 #
-　二人は熱心に障害物走を楽しんでいた。
+The two of them are excitedly enjoying the
+obstacle course.
 #
 <name "Lazlocke">
-「……後で庭、元に戻せよ」
+"...Put the yard back the way it was."
 #
 <name "Soshiette" "!DA0234">
-「頑張ります」
+"I'll do my best."
 #
 \x0A\x44\x00\xA4\x84\x01
 <exit>
@@ -183,45 +187,47 @@
 <music 2>
 <background "bg004a0.iph" 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA9000">
-「ん……修行か。
-　感心だな」
+<name "Recchino" "!RA9000">
+"Hm. Training?
+ Impressive."
 #
 <removesprite -1 11>
 <sprite "ta01d36.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
 <name "Celes" "!AA9079">
-「でも、今日はなんだか上手くいかなくて……」
+"But it's not going well today."
 #
-<name "レッキーノ" "!RA9001">
-「ん……見ていたが、左肩が変ではないか」
+<name "Recchino" "!RA9001">
+"Hm... From what I see, there's something wrong
+ with your left shoulder."
 #
 <sprite "ta01d31.iph" 2 5 12>
 <name "Celes" "!AA9080">
-「そう言えば、寝起きに捻ったかも」
+"Now that you mention it, I think I slept on it
+ wrong."
 #
-<name "レッキーノ" "!RA9002">
-「見せてみろ」
+<name "Recchino" "!RA9002">
+"Show me."
 #
 <sprite "ta01d27.iph" 2 5 12>
 <name "Celes" "!AA9081">
-「え……」
+"Huh?"
 #
-　レッキーノは、手をセリスの左肩に当てる。
+He puts his hand on her shoulder.
 #
 <sprite "ta01d09.iph" 2 5 12>
 <name "Celes" "!AA9082">
-「あれ……なんだか、軽くなった気が……
-　治癒魔法？」
+"Huh? It feels lighter now.
+ Did you use healing magic?"
 #
-<name "レッキーノ" "!RA9003">
-「似たようなものだ。
-　修行に励むように」
+<name "Recchino" "!RA9003">
+"Something like that.
+ Train hard."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA9083">
-「あ、はい。
-　えっと……ありがとう」
+"Ah, yeah.
+ Um, thank you."
 #
 <removesprite -1 11>
 <exit>
@@ -243,345 +249,353 @@
 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :125B: 
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA9084">
-「結婚か……」
+"Marriage?"
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA9085">
-「ううん、そんな事を考えている場合じゃない」
+"No, now's not the time to be thinking about
+ that."
 #
 <sprite "ta01a19.iph" 4 4 12>
 <name "Celes" "!AA9086">
-「私は家を……」
+"I have to get my home back..."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA9087">
-「……でも」
+"But..."
 #
 :125B
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1387: 
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA9088">
-「師匠と結婚か……」
+"Marrying Master..."
 #
 <sprite "ta01a29.iph" 4 4 12>
 <name "Celes" "!AA9089">
-「ありえない」
+"No way."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA9090">
-「うん」
+"Yeah."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA9091">
-「それよりも修行、修行っと」
+"Anyway, I've got to keep training."
 #
 :1387
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1401: 
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA9092">
-「クデュール魔法大会。
-　それが終ったら私は……」
+"The Coudures Tournament.
+ After it's over, I'll..."
 #
 :1401
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA9093">
-「あれ？」
+"Huh?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA9004">
-「奇遇だな。
-　こんな場所で」
+<name "Recchino" "!RA9004">
+"What a coincidence meeting you here."
 #
 <sprite "ta01a07.iph" 2 5 12>
 <name "Celes" "!AA9094">
-「こんにちは」
+"Hello."
 #
-<name "レッキーノ" "!RA9005">
-「……奇遇ついでに一勝負、どうだ？」
+<name "Recchino" "!RA9005">
+"...Since we're here, how about a match?"
 #
 <sprite "ta01a08.iph" 2 5 12>
 <name "Celes" "!AA9095">
-「え？」
+"Huh?"
 #
-<name "レッキーノ" "!RA9006">
-「安心しろ。
-　こっちは寸止めしてやる」
+<name "Recchino" "!RA9006">
+"Don't worry.
+ I'll hold back."
 #
-<name "レッキーノ" "!RA9007">
-「お前は全力で魔法でも何でも使え」
+<name "Recchino" "!RA9007">
+"You should use your full magical power."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA9096">
-「え？
-　え？」
+"Huh?
+ Huh?"
 #
-<name "レッキーノ" "!RA9018">
-「いくぞ」
+<name "Recchino" "!RA9018">
+"Here I come."
 #
 <sprite "ta01a20.iph" 2 5 12>
 <name "Celes" "!AA9097">
-「むっ」
+"Rr..."
 #
 <removesprite -1 11>
-　数分後
+A few minutes later...
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA9098">
-「あれ」
+"Huh?"
 #
 <removesprite -1 11>
 <sprite "ta01a32.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA9009">
-「俺の勝ちだな」
+<name "Recchino" "!RA9009">
+"I win."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA9099">
-「……どうして」
+"...How?"
 #
-<name "レッキーノ" "!RA9010">
-「実力的には、お前の方が上だ」
+<name "Recchino" "!RA9010">
+"You are more skilled than me."
 #
-<name "レッキーノ" "!RA9011">
-「だが、迷いがある相手に俺は負けん」
+<name "Recchino" "!RA9011">
+"But I will not be defeated by someone who is
+ wavering."
 #
 <sprite "ta01a32.iph" 2 5 12>
 <name "Celes" "!AA9100">
-「……迷い」
+"...Wavering..."
 #
-<name "レッキーノ" "!RA9012">
-「悩みでも抱えているのか？」
+<name "Recchino" "!RA9012">
+"Is something on your mind?"
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA9101">
-「……え、あ、うん」
+"Huh?
+ Oh, yes."
 #
-<name "レッキーノ" "!RA9014">
-「悩むのは悪い事ではない。
-　だが、一晩悩んで答えが出ないなら、諦めろ」
+<name "Recchino" "!RA9014">
+"It's not a bad thing to worry, but if you spend
+ the night worrying, and the answer doesn't 
+ come, put it behind you."
 #
 <sprite "ta01a32.iph" 2 5 12>
 <name "Celes" "!AA9102">
-「諦めろって、そんな……」
+"Put it behind me?
+ I couldn't..."
 #
-<name "レッキーノ" "!RA9015">
-「答えが出せないのも、一つの結論だ」
+<name "Recchino" "!RA9015">
+"One possible answer is that there aren't any
+ answers."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA9103">
-「ぁ……」
+"Ah..."
 #
-<name "レッキーノ" "!RA9016">
-「後はなるようになる」
+<name "Recchino" "!RA9016">
+"After that, let come what may."
 #
 <sprite "ta01a92.iph" 2 5 12>
 <name "Celes" "!AA9104">
-「そうかも」
+"I see."
 #
-<name "レッキーノ" "!RA9017">
-「…………柄にも無い事を言った。
-　忘れてくれ。
-　さらばだ」
+<name "Recchino" "!RA9017">
+"...I said something not like me.
+ Forget it.
+ Good bye."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA9105">
-「……ありがとう」
+"...Thank you."
 #
 <removesprite -1 11>
 <exit>
 :1B4F
 <music 26>
 <background "ev054a0.iph" 10>
-　山崩し、魔法使いバージョン。
+King of the hill, wizard style.
 #
-　土で作った小さな山の頂上に旗を差し、交互に山
-　を削り、上の旗を落とした方が負けなのは、普通
-　の山崩しと同じだ。
+Normally, a little flag is put in a pile of
+sand. The players take turns removing sand, and
+whoever knocks over the flag loses.
 #
-　だが、魔法使いバージョンは、その崩し方に魔法
-　を使わなければいけない。
+But for wizards, you need to use magic to move
+the sand.
 #
-　子供の魔法使いが良くやる遊びだが、微妙な魔力
-　コントロールを必要とする為、難度は高い。
+It's a good game for young wizards since it's
+rather difficult, requiring precise control of
+your mana.
 #
-　子供の遊びと侮ってはいけない。
+Don't underestimate it just because it's a game
+for children.
 #
 <background "ev054a1.iph" 10>
 <name "Elle" "!CA0082">
-「ぬ……やるわね」
+"Grr... You're good.
 #
 <name "Celes" "!AA0703">
-「えへへ……イエルちゃんの番よ」
+"Hahaha...
+ It's your turn."
 #
 <name "Elle" "!CA0083">
-「ふふふ……見てなさい。
-　コントロールなら自信があるのよ」
+"Heheheh. Watch this.
+ I'm quite confident in my control."
 #
 <name "Celes" "!AA0704">
-「あ、ああ……」
+"O-Oh..."
 #
 <name "Elle" "!CA0084">
-「ふっ。
-　どうよ」
+"Hmph.
+ How's that?"
 #
 <name "Celes" "!AA0705">
-「ぬぬぬ……」
+"Grrr..."
 #
-　山の見た目は変わらないが、確実にイエルは山を
-　崩した。
+The pile looks the same, but she definitely
+changed it.
 #
-　山の内部の土を刳り抜いたのだ。
+She hollowed it from the inside out.
 #
 <name "Celes" "!AA0706">
-「ふぅ……」
+"..."
 #
-　セリスは大きく深呼吸した。
+Celes takes a deep breath.
 #
-　そして、バッとポーズを決める。
+And then she strikes a pose.
 #
 <name "Celes" "!AA0708">
-「見事。
-　それでこそ、生涯のライバル」
+"Impressive.
+ I'd expect no less from my true rival."
 #
-　さらにポーズを変えて……
+Then she switches to a different pose.
 #
 <name "Celes" "!AA0709">
-「しかし、私には通用しない！」
+"But it won't work on me!"
 #
-　セリスは魔法で、山の裾を削った。
+She uses magic to shave off the edges of the
+pile.
 #
 <name "Elle" "!CA0085">
-「そんなっ！
-　内部が空洞になった山の裾を削るなんて……
-　自殺行為！」
+"No way!
+ Cutting off the edges of a hollow mountain...
+ That's suicide!"
 #
 <name "Celes" "!AA0710">
-「そう思うでしょうが……」
+"I know you'd think so, but..."
 #
 <name "Elle" "!CA0086">
-「崩れない！
-　なぜ！」
+"It's not collapsing!
+ How!?"
 #
 <name "Elle" "!CA0087">
-「はっ！」
+"Ah!"
 #
 <name "Elle" "!CA0088">
-「まさか！」
+"No way!"
 #
 <name "Elle" "!CA0089">
-「砂の一粒一粒を組み合わせて、絶妙のバランスを
-　取っている！」
+"Every single grain of sand is put together in
+ perfect balance!"
 #
 <name "Celes" "!AA0711">
-「そう、その通り！」
+"Yes, that's right!"
 #
 <name "Celes" "!AA0712">
-「強いて言えば、山裾に砂のレンガ壁を作ったよう
-　なもの！」
+"It's like having a brick wall of sand around
+ the edge of the mountain!"
 #
 <name "Celes" "!AA0713">
-「崩れたりはしない！
-　さあ、イエルちゃんの番よ」
+"It won't collapse!
+ Go on, it's your turn!"
 #
 <name "Elle" "!CA0090">
-「ぬっ……」
+"Grr..."
 #
 <name "Elle" "!CA0091">
-「ふう……」
+"..."
 #
 <name "Elle" "!CA0093">
-「見事と言いたいけど……
-　甘いわね」
+"I would say I'm impressed, but you left an
+ opening."
 #
 <name "Celes" "!AA0714">
-「え？」
+"Huh?"
 #
 <name "Elle" "!CA0094">
-「これで、どう！」
+"How about this!?"
 #
 <name "Celes" "!AA0715">
-「ああっ！
-　私の作った砂のレンガを……
-　蜂の巣状に！」
+"Aah!
+ The sand brick I made...
+ It's like a beehive!"
 #
 <name "Elle" "!CA0095">
-「この形、強度……知らない事はないわね」
+"This shape, the strength...
+ There's nothing that gets past me!"
 #
 <name "Celes" "!AA0716">
-「しまった……
-　私の番の時にそうしていれば……」
+"Oh no...
+ If I do that on my turn..."
 #
 <name "Elle" "!CA0097">
-「さあ、セリスの番よ」
+"Go on, it's your turn."
 #
 <name "Celes" "!AA0717">
-「ぬぬ……」
+"Grrr..."
 #
 <name "Celes" "!AA0718">
-「これ以上は……無理」
+"There's... nothing more I can do."
 #
 <name "Celes" "!AA0719">
-「とでも言うと思った？」
+"Is that what you thought I'd say?"
 #
 <name "Elle" "!CA0098">
-「え？」
+"Huh?"
 #
 <name "Celes" "!AA0720">
-「その手はすでに読んでいた！
-　だから、もう一回削れるだけの量を……
-　イエルちゃんが空洞にした場所に放り込んでおい
-　たのよ！」
+"I knew you'd do that!
+ Which is why I can shave down one more time!
+ In the place where you made a cave!"
 #
 <name "Elle" "!CA0099">
-「なにっ！」
+"What!?"
 #
 <name "Celes" "!AA0721">
-「くらえっ！」
+"Take this!"
 #
 <background "ev054a2.iph" 10>
-　セリスが誇らしげに言った後、山が崩れて旗が倒
-　れた。
+But the pile collapses and the flag falls.
 #
 <name "Celes" "!AA0722">
-「え？
-　ど、どうして……」
+"Huh?
+ W-Why?"
 #
-　セリスは信じられないと驚愕する。
+She looks at it in complete astonishment.
 #
-　魔法のミスをしたわけではないようだ。
+She didn't mess up with the spell she cast.
 #
 <name "Elle" "!CA0100">
-「ふふふふふ……
-　崩れた山をよく見なさい」
+"Heheheh...
+ Look carefully at where it collapsed."
 #
 <name "Celes" "!AA0723">
-「え？」
+"Huh?"
 #
 <name "Celes" "!AA0724">
-「……ああああっ！
-　これは！」
+"Aaah!
+ Right there!"
 #
-　ミミズだ。
+A worm.
 #
-　ミミズが居た！
+There's a worm!
 #
 <name "Celes" "!AA0725">
-「いつの間に！」
+"When did that get there!?"
 #
 <name "Elle" "!CA0101">
-「山の中の土を抜いた時、替わりに一匹放り込んで
-　おいたのよ」
+"When I took the sand out of the mountain, I
+ left that in."
 #
 <name "Celes" "!AA0726">
-「し、しまったぁぁ！」
+"O-Oh no!"
 #
-　山崩し……
+King of the hill...
 #
-　子供の遊びと侮ってはいけない。
+Don't underestimate children's games.
 #
 \x0A\x44\x00\xA5\x84\x01
 <exit>
@@ -589,45 +603,47 @@
 <music 26>
 <background "ev054a0.iph" 10>
 <name "Celes" "!AA0727">
-「すみません。
-　師匠、もう少し下がって貰えますか」
+"I'm sorry.
+ Master, can you please step back a little
+ further?"
 #
 <name "Lazlocke">
-「え？」
+"Huh?"
 #
 <name "Celes" "!AA0728">
-「その、師匠の力で魔力が動きますから……」
+"Um, your power is affecting our mana..."
 #
 <name "Lazlocke">
-「あ、ああ、悪かった」
+"O-Oh, sorry."
 #
-　二人は真剣に山崩しをしていた。
+The two of them are engrossed in a game of king
+of the hill.
 #
-　もちろん、普通の山崩しではなく、魔法によって
-　山を削る山崩しだ。
+Of course, not a normal game, but one using 
+their mana.
 #
-　ちなみに、俺は超苦手だ。
+I'm terrible at it.
 #
-　俺の力の所為で、細かいコントロールが苦手だか
-　らだ。
+My power makes me extremely bad at precise
+control.
 #
-　だから、ああいった遊びができる二人が少し羨ま
-　しい。
+So I'm a little jealous of them.
 #
 <name "Soshiette" "!DA0235">
-「ご主人様」
+"Your Grace."
 #
 <name "Lazlocke">
-「ん？」
+"Hm?"
 #
 <name "Soshiette" "!DA0236">
-「同志っ！」
+"Comrade!"
 #
-　俺とソシエットは、セリスとイエルから離れた場
-　所で山崩しをやってみた。
+Soshiette and I play king of the hill away from
+them.
 #
-　双方、一回目で山を崩してしまったので、魔法を
-　使わずにやったら、なかなか楽しかった。
+We both knock over the mountain on the first
+turn, so we switch to playing it normally and
+still have a lot of fun.
 #
 \x0A\x44\x00\xA6\x84\x01
 <exit>
