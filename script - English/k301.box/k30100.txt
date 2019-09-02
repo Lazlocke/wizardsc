@@ -97,14 +97,14 @@
 <background "ev013b0.iph" 11>
 :5EE + 1
 <name "Celes" "!AA1891">
-「監視員のアルバイト。
-　頑張ります」
+"The job is being a lifeguard.
+ I'll do my best."
 #
 <name "Lazlocke">
-「海の平和は任せた！」
+"Keep the peace of the beach!"
 #
 <name "Celes" "!AA1892">
-「はい！」
+"Yes, sir!"
 #
 <exit>
 :674
@@ -115,19 +115,19 @@
 <background "ev013b0.iph" 11>
 :6B6 + 1
 <name "Celes" "!AA1893">
-「……日焼けが怖い」
+"I'm scared of getting a sunburn."
 #
 <name "Lazlocke">
-「魔法だ！」
+"Use magic!"
 #
 <name "Celes" "!AA1894">
-「そんな魔法があるんですか？」
+"Is there a spell for that?"
 #
 <name "Lazlocke">
-「現在、研究開発中だ」
+"I'm working on it."
 #
 <name "Celes" "!AA1895">
-「なんだかな……」
+"What the heck..."
 #
 <exit>
 :783
@@ -137,39 +137,42 @@
 :7B0
 <background "ev013b0.iph" 11>
 :7C5 + 1
-<name "監視員リオニス" "!GA0001">
-「セリス隊長、あそこに不審な人が」
+<name "Lifeguard Leonis" "!GA0001">
+"Captain Celes, there's someone suspicious
+ over there!"
 #
 <name "Celes" "!AA1896">
-「どうして私が隊長？」
+"Why am I captain?"
 #
-<name "監視員リオニス" "!GA0002">
-「そりゃ、魔法使いですから」
+<name "Lifeguard Leonis" "!GA0002">
+"Cause you're a wizard."
 #
 <name "Celes" "!AA1897">
-「はぁ……一応だけど」
+"Sigh...
+ I'll leave it for now."
 #
-<name "監視員リオニス" "!GA0003">
-「力がある人が隊長、それで良いじゃないですか」
+<name "Lifeguard Leonis" "!GA0003">
+"The strongest one is the captain, so what's
+ the big deal?"
 #
 <name "Celes" "!AA1898">
-「う、うん」
+"O-Okay."
 #
-<name "監視員リオニス" "!GA0004">
-「それで……あの不審者はどうします？」
+<name "Lifeguard Leonis" "!GA0004">
+"So... what's that suspicious guy doing?"
 #
 <name "Celes" "!AA1899">
-「……女の人ばかり見てるわね。
-　注意しましょう」
+"...Just looking at girls.
+ Let's warn him."
 #
-<name "監視員リオニス" "!GA0005">
-「了解！」
+<name "Lifeguard Leonis" "!GA0005">
+"Roger!"
 #
 <name "Celes" "!AA1900">
-「ぼ、暴力は無しでね」
+"N-No violence though, okay?"
 #
-<name "監視員リオニス" "!GA0006">
-「ええ～」
+<name "Lifeguard Leonis" "!GA0006">
+"Awww!"
 #
 <exit>
 :A0F
@@ -179,15 +182,14 @@
 :A3C
 <background "ev013b0.iph" 11>
 :A51 + 1
-<name "監視員モニカ" "!HA0002">
-「セリス隊長。
-　暇ですね」
+<name "Lifeguard Monica" "!HA0002">
+"Captain Celes, there's not much to do."
 #
 <name "Celes" "!AA1901">
-「監視を怠らない」
+"Don't forget to keep a look out."
 #
-<name "監視員モニカ" "!HA0003">
-「はーい」
+<name "Lifeguard Monica" "!HA0003">
+"Yeeeep!"
 #
 <exit>
 :AD9
@@ -197,17 +199,17 @@
 :B06
 <background "ev013b0.iph" 11>
 :B1B + 1
-<name "監視員リオニス" "!GA0007">
-「隊長、痴漢です！
-　殲滅します！」
+<name "Lifeguard Leonis" "!GA0007">
+"Captain! A pervert!
+ Exterminate him!"
 #
 <name "Celes" "!AA1902">
-「します？
-　すでにボコボコになった足元の彼は？」
+"Did you already do it?
+ It looks like he can barely walk."
 #
-<name "監視員リオニス" "!GA0009">
-「隊長、痴漢です！
-　殲滅しました！」
+<name "Lifeguard Leonis" "!GA0009">
+"Captain, he's a pervert!
+ Exerminate him!"
 #
 <exit>
 :BED
@@ -217,28 +219,29 @@
 :C1A
 <background "ev013b0.iph" 11>
 :C2F + 1
-<name "監視員モニカ" "!HA0004">
-「隊長、この私達が着てる服ってなんですか？」
+<name "Lifeguard Monica" "!HA0004">
+"Captain, what're these jackets we have to
+ wear?"
 #
 <name "Celes" "!AA1903">
-「監視員である事を証明する制服みたいなものかな」
+"It's like a uniform showing that we're 
+ lifeguards."
 #
-<name "監視員モニカ" "!HA0005">
-「へー。
-　背中にキング・シースネークと書かれているのは
-　なんなんですか？」
+<name "Lifeguard Monica" "!HA0005">
+"Eeeh? Why's King Sea Snake written on the
+ back?"
 #
 <name "Celes" "!AA1904">
-「監視員の部隊名」
+"That's the name of the lifeguard group."
 #
-<name "監視員モニカ" "!HA0006">
-「部隊名があるんですね」
+<name "Lifeguard Monica" "!HA0006">
+"So there's a name, huh?"
 #
 <name "Celes" "!AA1905">
-「士気向上の為だって」
+"For morale."
 #
-<name "監視員モニカ" "!HA0007">
-「へー」
+<name "Lifeguard Monica" "!HA0007">
+"Eeh?"
 #
 <exit>
 :DD6
@@ -248,31 +251,34 @@
 :E03
 <background "ev013b0.iph" 11>
 :E18 + 1
-<name "監視員リオニス" "!GA0010">
-「隊長。
-　今日は日が強いですね」
+<name "Lifeguard Leonis" "!GA0010">
+"Captain, the sun's hot today."
 #
 <name "Celes" "!AA1906">
-「そうね」
+"Yeah."
 #
-<name "監視員リオニス" "!GA0011">
-「でも、日焼けすると健康的だって言われるかも」
+<name "Lifeguard Leonis" "!GA0011">
+"But they say a tan's good for you."
 #
-<name "監視員モニカ" "!HA0008">
-「畑で働けば、嫌でも日焼けするわよ」
+<name "Lifeguard Monica" "!HA0008">
+"You can't help getting a tan if you're working
+ in a field."
 #
-<name "監視員リオニス" "!GA0012">
-「水着で畑仕事をする気はないわよ」
+<name "Lifeguard Leonis" "!GA0012">
+"I'm not going to work in a field in a bathing
+ suit."
 #
 <name "Celes" "!AA1907">
-「水着で畑仕事……なんだかエロい」
+"Field work in a bathing suit...
+ That sounds kind of sexy."
 #
-<name "監視員リオニス" "!GA0014">
-「隊長？」
+<name "Lifeguard Leonis" "!GA0014">
+"Captain?"
 #
 <name "Celes" "!AA1908">
-「え？
-　あはは……なんでもない」
+"Huh?
+ Ahaha...
+ It's nothing."
 #
 <exit>
 :FDF
@@ -282,28 +288,28 @@
 :100C
 <background "ev013b0.iph" 11>
 :1021 + 1
-<name "監視員リオニス" "!GA0016">
-「ああ！
-　隊長、ナンパです！」
+<name "Lifeguard Leonis" "!GA0016">
+"Aah!
+ Captain, a beach Lothario!"
 #
 <name "Celes" "!AA1909">
-「撲滅」
+"Exterminate him!"
 #
-<name "監視員リオニス" "!GA0017">
-「はい！」
+<name "Lifeguard Leonis" "!GA0017">
+"Yes, ma'am!"
 #
 <name "Celes" "!AA1910">
-「また一つ、海の平和を守った……」
+"Another threat to the beach removed."
 #
-<name "監視員モニカ" "!HA0009">
-「ああ、隊長！
-　ミイラ取りがミイラになってます！」
+<name "Lifeguard Monica" "!HA0009">
+"Aah, Captain!
+ She's trying to sneak off with him!"
 #
 <name "Celes" "!AA1911">
-「……二人とも、撲滅するように」
+"...Exterminate them both."
 #
-<name "監視員モニカ" "!HA0010">
-「はい！」
+<name "Lifeguard Monica" "!HA0010">
+"Yes, ma'am!"
 #
 <exit>
 :118C
@@ -313,14 +319,14 @@
 :11B9
 <background "ev013b0.iph" 11>
 :11CE + 1
-<name "監視員リオニス" "!GA0018">
-「盗難事件発生！」
+<name "Lifeguard Leonis" "!GA0018">
+"Robbery!"
 #
 <name "Celes" "!AA1912">
-「捕まえて！」
+"Catch him!"
 #
-<name "監視員モニカ" "!HA0011">
-「はいっ！」
+<name "Lifeguard Monica" "!HA0011">
+"Yes, ma'am!"
 #
 <exit>
 :124B
@@ -330,15 +336,15 @@
 :1278
 <background "ev013b0.iph" 11>
 :128D + 1
-<name "監視員リオニス" "!GA0019">
-「浜で火遊びしてる馬鹿を発見。
-　どうしましょう？」
+<name "Lifeguard Leonis" "!GA0019">
+"I see a fool playing with fire on the beach.
+ What should we do?"
 #
 <name "Celes" "!AA1913">
-「海へ叩き込むように」
+"Drive him into the sea!"
 #
-<name "監視員リオニス" "!GA0020">
-「はっ！」
+<name "Lifeguard Leonis" "!GA0020">
+"Ma'am!"
 #
 <exit>
 :1335
@@ -348,15 +354,17 @@
 :1362
 <background "ev013b0.iph" 11>
 :1377 + 1
-<name "売り子" "!UA0039">
-「いらんかねー、いらんかねー」
+<name "Vendor" "!UA0039">
+"Come and get it!
+ Come and get it!"
 #
-<name "監視員リオニス" "!GA0021">
-「あ、こら！
-　販売許可は取ってるの？」
+<name "Lifeguard Leonis" "!GA0021">
+"Ah! Hey!
+ Do you have permission to sell here?"
 #
-<name "売り子" "!UA0040">
-「ひぃ、警備隊だー」
+<name "Vendor" "!UA0040">
+"Aiee!
+ The guards!"
 #
 <exit>
 :141D
@@ -366,39 +374,40 @@
 :144A
 <background "ev013b0.iph" 11>
 :145F + 1
-<name "監視員モニカ" "!HA0012">
-「隊長、倒れている人が居ます！」
+<name "Lifeguard Monica" "!HA0012">
+"Captain! Someone passed out!"
 #
 <name "Celes" "!AA1914">
-「病状は？」
+"How is she?"
 #
-<name "監視員モニカ" "!HA0013">
-「日に当たり過ぎたみたいですね」
+<name "Lifeguard Monica" "!HA0013">
+"It looks like she got too much sun."
 #
 <name "Celes" "!AA1915">
-「日陰に連れて行って、冷やすように。
-　それと医者に連絡」
+"Bring her to the shade and cool her off.
+ Then call a doctor."
 #
-<name "監視員モニカ" "!HA0014">
-「はい。
-　でも、周りにこれだけ水があるんだから、入れば
-　良いのに……」
+<name "Lifeguard Monica" "!HA0014">
+"Yes, ma'am.
+ But there's water everywhere.
+ All she had to do was go in..."
 #
 <name "Celes" "!AA1916">
-「そうよね」
+"Yeah."
 #
-<name "監視員リオニス" "!GA0022">
-「この水着じゃ無理ですよ。
-　海に入ったら、絶対に取れる」
+<name "Lifeguard Leonis" "!GA0022">
+"She couldn't in that swimsuit.
+ If she went in the ocean, it'd definitely come
+ off."
 #
 <name "Celes" "!AA1917">
-「実用性ゼロの水着に何の意味が……」
+"What's the point of a useless bathing suit?"
 #
-<name "監視員リオニス" "!GA0023">
-「そこは女の見栄でしょう」
+<name "Lifeguard Leonis" "!GA0023">
+"Probably to make her look pretty."
 #
-<name "監視員モニカ" "!HA0015">
-「倒れてちゃ、意味ないけどね」
+<name "Lifeguard Monica" "!HA0015">
+"It's not owrth it if you pass out though."
 #
 <exit>
 :16DA
@@ -408,14 +417,14 @@
 :1707
 <background "ev013b0.iph" 11>
 :171C + 1
-<name "監視員モニカ" "!HA0016">
-「あの水着、素敵ですね」
+<name "Lifeguard Monica" "!HA0016">
+"That swimsuit's so great."
 #
-<name "監視員リオニス" "!GA0024">
-「アンタには似合わないわよ」
+<name "Lifeguard Leonis" "!GA0024">
+"It'd look awful on you."
 #
-<name "監視員モニカ" "!HA0018">
-「ぶー」
+<name "Lifeguard Monica" "!HA0018">
+"Boo."
 #
 <exit>
 :17AF
@@ -425,38 +434,40 @@
 :17DC
 <background "ev013b0.iph" 11>
 :17F1 + 1
-<name "監視員リオニス" "!GA0025">
-「あれ、溺れてるのかな？」
+<name "Lifeguard Leonis" "!GA0025">
+"Huh? Is he drowning?"
 #
-<name "監視員モニカ" "!HA0019">
-「どこ？」
+<name "Lifeguard Monica" "!HA0019">
+"Where?"
 #
-<name "監視員リオニス" "!GA0026">
-「視線まっすぐ」
+<name "Lifeguard Leonis" "!GA0026">
+"Straight ahead."
 #
-<name "監視員モニカ" "!HA0020">
-「ああ、男の人が行ったわ。
-　ふざけてたみたいね」
+<name "Lifeguard Monica" "!HA0020">
+"Oh, that guy?
+ You've got to be kidding me."
 #
-<name "監視員リオニス" "!GA0027">
-「海の中でイチャツクのはムカつきますよね」
+<name "Lifeguard Leonis" "!GA0027">
+"It pisses me off they come to the beach just to
+ hit on you."
 #
-<name "監視員モニカ" "!HA0021">
-「同感」
+<name "Lifeguard Monica" "!HA0021">
+"Agreed."
 #
 <name "Celes" "!AA1918">
-「でも、溺れたら助けるのよ」
+"But if they're drowning, you have to save
+ them."
 #
-<name "監視員リオニス" "!GA0028">
-「それはもちろん」
+<name "Lifeguard Leonis" "!GA0028">
+"Of course."
 #
 <name "Celes" "!AA1920">
-「じゃあ、出動。
-　あの二人、溺れてるみたいだから」
+"Then get going.
+ It looks like those two are drowning."
 #
-<name "監視員モニカ" "!HA0023">
-「え？
-　あ、本当だ」
+<name "Lifeguard Monica" "!HA0023">
+"Huh?
+ Oh, you're right."
 #
 <exit>
 :1A19
@@ -466,11 +477,12 @@
 :1A46
 <background "ev013b0.iph" 11>
 :1A5B + 1
-<name "監視員モニカ" "!HA0024">
-「太陽のバカヤロー」
+<name "Lifeguard Monica" "!HA0024">
+"Stupid sun."
 #
-<name "監視員リオニス" "!GA0029">
-「モテないからってヒガまない、ヒガまない」
+<name "Lifeguard Leonis" "!GA0029">
+"Don't get jealous just cause people like it
+ more than you."
 #
 <exit>
 :1AD4
@@ -480,13 +492,14 @@
 :1B01
 <background "ev013b0.iph" 11>
 :1B16 + 1
-<name "監視員リオニス" "!GA0030">
-「青い海なんか、大嫌いだー！
-　うぷっ、ごぼぼぼぼぼ……」
+<name "Lifeguard Leonis" "!GA0030">
+"I hate the ocean!
+ Gwa...
+ Blurble..."
 #
-<name "監視員モニカ" "!HA0025">
-「ああ、波にさらわれて悲しいぐらいに翻弄されて
-　る……」
+<name "Lifeguard Monica" "!HA0025">
+"Yeah. It sucks getting tossed around and
+ carried off by the waves."
 #
 <exit>
 :1BC7
@@ -496,11 +509,12 @@
 :1BF4
 <background "ev013b0.iph" 11>
 :1C09 + 1
-<name "監視員モニカ" "!HA0026">
-「隊長の邪魔にならないように、頑張ろう」
+<name "Lifeguard Monica" "!HA0026">
+"Let's do our best to stay out of the captain's
+ way."
 #
-<name "監視員リオニス" "!GA0031">
-「うん」
+<name "Lifeguard Leonis" "!GA0031">
+"Yep."
 #
 <exit>
 :1C74
@@ -510,12 +524,13 @@
 :1CA1
 <background "ev013b0.iph" 11>
 :1CB6 + 1
-<name "監視員リオニス" "!GA0032">
-「うう……仕事じゃなく、デートで来たかった」
+<name "Lifeguard Leonis" "!GA0032">
+"Aww... I wanted to come here on a date, not for
+ work."
 #
-<name "監視員モニカ" "!HA0027">
-「はっはっはっ。
-　夢みたいな事を」
+<name "Lifeguard Monica" "!HA0027">
+"Hahaha!
+ Sounds like a dream."
 #
 <exit>
 :1D42
@@ -525,15 +540,15 @@
 :1D6F
 <background "ev013b0.iph" 11>
 :1D84 + 1
-<name "監視員モニカ" "!HA0028">
-「うー、いないかなー」
+<name "Lifeguard Monica" "!HA0028">
+"Awww. None here."
 #
-<name "監視員リオニス" "!GA0033">
-「よしよし、ちゃんと仕事をしているな」
+<name "Lifeguard Leonis" "!GA0033">
+"There, there.
+ Just do your job right."
 #
-<name "監視員モニカ" "!HA0029">
-「いないかなー……
-　良い男」
+<name "Lifeguard Monica" "!HA0029">
+"There's no good men anywhere..."
 #
 <exit>
 :1E36
@@ -543,18 +558,18 @@
 :1E63
 <background "ev013b0.iph" 11>
 :1E78 + 1
-<name "監視員モニカ" "!HA0030">
-「痴漢発生！
-　逃走中！」
+<name "Lifeguard Monica" "!HA0030">
+"Pervert detected!
+ He's on the run!"
 #
-<name "監視員リオニス" "!GA0034">
-「捕まえて殺せっ！」
+<name "Lifeguard Leonis" "!GA0034">
+"Catch and kill!"
 #
-<name "監視員モニカ" "!HA0031">
-「了解！」
+<name "Lifeguard Monica" "!HA0031">
+"Roger!"
 #
 <name "Celes" "!AA1921">
-「隊長、私なのに……」
+"I thought I was the captain..."
 #
 <exit>
 :1F34
@@ -564,28 +579,28 @@
 :1F61
 <background "ev013b0.iph" 11>
 :1F76 + 1
-<name "監視員リオニス" "!GA0035">
-「お腹、減ったね」
+<name "Lifeguard Leonis" "!GA0035">
+"I'm hungry."
 #
-<name "監視員モニカ" "!HA0032">
-「食材なら、海に入ればいくらでもあるでしょ」
+<name "Lifeguard Monica" "!HA0032">
+"There's plenty of food in the sea."
 #
-<name "監視員リオニス" "!GA0036">
-「入る？」
+<name "Lifeguard Leonis" "!GA0036">
+"Should I go in?"
 #
-<name "監視員モニカ" "!HA0033">
-「任せた」
+<name "Lifeguard Monica" "!HA0033">
+"Please."
 #
-<name "監視員リオニス" "!GA0037">
-「仕方が無い。
-　火は任せたからね」
+<name "Lifeguard Leonis" "!GA0037">
+"If I must.
+ You make the fire."
 #
-<name "監視員モニカ" "!HA0034">
-「了解」
+<name "Lifeguard Monica" "!HA0034">
+"Roger that."
 #
 <name "Celes" "!AA1922">
-「了解じゃない。
-　仕事中よ」
+"Roger nothing.
+ You're at work."
 #
 <exit>
 :20D9
@@ -595,11 +610,11 @@
 :2106
 <background "ev013b0.iph" 11>
 :211B + 1
-<name "監視員リオニス" "!GA0038">
-「漁師さんから、魚を貰ったわよ」
+<name "Lifeguard Leonis" "!GA0038">
+"I got a fish from that fisherman."
 #
-<name "監視員モニカ" "!HA0035">
-「わーい、後で食べましょう」
+<name "Lifeguard Monica" "!HA0035">
+"Yay! Let's eat it later."
 #
 <exit>
 :2192
@@ -609,12 +624,12 @@
 :21BF
 <background "ev013b0.iph" 11>
 :21D4 + 1
-<name "監視員リオニス" "!GA0039">
-「ゴミ発見。
-　処理します」
+<name "Lifeguard Leonis" "!GA0039">
+"Trash found.
+ Cleaning up."
 #
-<name "監視員モニカ" "!HA0036">
-「海を汚すなんて許せない」
+<name "Lifeguard Monica" "!HA0036">
+"Polluting the ocean is unforgivable."
 #
 <exit>
 :2246
@@ -624,15 +639,16 @@
 :2273
 <background "ev013b0.iph" 11>
 :2288 + 1
-<name "監視員リオニス" "!GA0040">
-「ゴミを捨ててる馬鹿を注意しながら殴打している
-　人が居ますが、どうします？」
+<name "Lifeguard Leonis" "!GA0040">
+"That guy's beating up that idiot for throwing
+ trash in the ocean.
+ What should we do?"
 #
 <name "Celes" "!AA1923">
-「もうちょっと待ってから、遅れて介入するように」
+"Wait just a little longer before stopping him."
 #
-<name "監視員リオニス" "!GA0041">
-「了解」
+<name "Lifeguard Leonis" "!GA0041">
+"Roger that."
 #
 <exit>
 :2362
@@ -642,11 +658,13 @@
 :238F
 <background "ev013b0.iph" 11>
 :23A4 + 1
-<name "監視員リオニス" "!GA0044">
-「事故が多発しているので、注意してくださーい」
+<name "Lifeguard Leonis" "!GA0044">
+"Lots of accidents happen, so please be
+ careful!"
 #
-<name "監視員モニカ" "!HA0037">
-「天気が悪くなったら、すぐに海から出てください」
+<name "Lifeguard Monica" "!HA0037">
+"If a storm comes in, get out of the sea right
+ away"
 #
 <exit>
 :243D
@@ -656,23 +674,24 @@
 :246A
 <background "ev013b0.iph" 11>
 :247F + 1
-<name "監視員リオニス" "!GA0045">
-「隊長」
+<name "Lifeguard Leonis" "!GA0045">
+"Captain."
 #
 <name "Celes" "!AA1924">
-「なに？」
+"Yes?"
 #
-<name "監視員リオニス" "!GA0046">
-「黙々と見回るだけって、退屈です」
+<name "Lifeguard Leonis" "!GA0046">
+"Just sitting here watching is so boring."
 #
 <name "Celes" "!AA1925">
-「期待されても、何もできないけど」
+"I know you want something to do, but there's
+ nothing to do."
 #
-<name "監視員リオニス" "!GA0047">
-「頑張れ隊長」
+<name "Lifeguard Leonis" "!GA0047">
+"You can do it, Captain!"
 #
 <name "Celes" "!AA1926">
-「いや、そう言われても……」
+"Er, but I just said..."
 #
 <exit>
 :259C
@@ -682,21 +701,20 @@
 :25C9
 <background "ev013b0.iph" 11>
 :25DE + 1
-<name "監視員リオニス" "!GA0048">
-「これだけ見回っているのに……」
+<name "Lifeguard Leonis" "!GA0048">
+"There's nothing going on but patrolling..."
 #
-<name "監視員モニカ" "!HA0038">
-「見回っているのに？」
+<name "Lifeguard Monica" "!HA0038">
+"But that's what patrolling is?"
 #
-<name "監視員リオニス" "!GA0049">
-「誰も、私に声を掛けない……」
+<name "Lifeguard Leonis" "!GA0049">
+"Nobody's hitting on me..."
 #
-<name "監視員モニカ" "!HA0039">
-「まあ、流石に取り締まっている人間をナンパしよ
-　うとはしないんじゃないかな」
+<name "Lifeguard Monica" "!HA0039">
+"Well, who would to hit on the security?"
 #
-<name "監視員リオニス" "!GA0050">
-「根性のあるヤツを望む」
+<name "Lifeguard Leonis" "!GA0050">
+"I want a guy with spirit."
 #
 <exit>
 :272C
@@ -706,30 +724,32 @@
 :2759
 <background "ev013b0.iph" 11>
 :276E + 1
-<name "監視員モニカ" "!HA0040">
-「衣服が……下着まで……事件かな？」
+<name "Lifeguard Monica" "!HA0040">
+"Clothes... Underwear too...
+ Did something happen?"
 #
-<name "監視員リオニス" "!GA0055">
-「ここで着替えて、泳いでいるとか？」
+<name "Lifeguard Leonis" "!GA0055">
+"Maybe they changed out of their clothes here
+ to go swimming?"
 #
-<name "監視員モニカ" "!HA0041">
-「水着もある」
+<name "Lifeguard Monica" "!HA0041">
+"There's a bathing suit too though."
 #
-<name "監視員リオニス" "!GA0052">
-「あれ？
-　どういう事だろう」
+<name "Lifeguard Leonis" "!GA0052">
+"Huh?
+ What does this mean?"
 #
 <name "Celes" "!AA1927">
-「あー、ごほん」
+"Um, ahem."
 #
-<name "監視員リオニス" "!GA0053">
-「隊長、何かわかりました？」
+<name "Lifeguard Leonis" "!GA0053">
+"Captain, do you know what happened?"
 #
 <name "Celes" "!AA1928">
-「そこの岩陰で、よろしくやってる」
+"They're doing it over by those rocks."
 #
-<name "監視員モニカ" "!HA0042">
-「取り締まってきます」
+<name "Lifeguard Monica" "!HA0042">
+"I'll deal with them."
 #
 <exit>
 :2922
@@ -739,20 +759,20 @@
 :294F
 <background "ev013b0.iph" 11>
 :2964 + 1
-<name "リノ" "!PA0018">
-「俺……」
+<name "Reno" "!PA0018">
+"I..."
 #
-<name "リノ" "!PA0019">
-「泳げないんだよな」
+<name "Reno" "!PA0019">
+"I can't swim."
 #
-<name "イングウェイ" "!TA0048">
-「じゃあ、なんで来たんだ？」
+<name "Ingway" "!TA0048">
+"Then why'd you come here?"
 #
-<name "リノ" "!PA0020">
-「……海に向かって叫ぶ為かな」
+<name "Reno" "!PA0020">
+"...To yell at the ocean?"
 #
-<name "イングウェイ" "!TA0049">
-「好きなだけ叫べ」
+<name "Ingway" "!TA0049">
+"Yell your heart out."
 #
 <exit>
 :2A43
@@ -762,23 +782,24 @@
 :2A70
 <background "ev013b0.iph" 11>
 :2A85 + 1
-<name "イングウェイ" "!TA0050">
-「海って涼しいから好きだ」
+<name "Ingway" "!TA0050">
+"I like the beach because it's cool."
 #
-<name "ヘンドリク" "!QA0042">
-「そうか」
+<name "Hendrick" "!QA0042">
+"Uh huh."
 #
-<name "イングウェイ" "!TA0051">
-「海に潜れば、海草と言う緑にも出会えるしな」
+<name "Ingway" "!TA0051">
+"And you can find seaweed when you dive into
+ the ocean."
 #
-<name "ヘンドリク" "!QA0043">
-「そうか」
+<name "Hendrick" "!QA0043">
+"Uh huh."
 #
-<name "イングウェイ" "!TA0052">
-「……どうでも良いって感じだな」
+<name "Ingway" "!TA0052">
+"...Why does it feel like you don't care?"
 #
-<name "ヘンドリク" "!QA0044">
-「正直、どうでも良い」
+<name "Hendrick" "!QA0044">
+"Honestly? Because I don't."
 #
 <exit>
 :2BB8
@@ -788,30 +809,31 @@
 :2BE5
 <background "ev013b0.iph" 11>
 :2BFA + 1
-<name "レッキーノ" "!RA0017">
-「海は良い……」
+<name "Recchino" "!RA0017">
+"The beach is nice..."
 #
-<name "監視員リオニス" "!GA0056">
-「あの……」
+<name "Lifeguard Leonis" "!GA0056">
+"Um..."
 #
-<name "レッキーノ" "!RA0018">
-「海は良い……」
+<name "Recchino" "!RA0018">
+"The beach is nice..."
 #
-<name "監視員リオニス" "!GA0057">
-「そこ、危ないですよ」
+<name "Lifeguard Leonis" "!GA0057">
+"It's dangerous to stand there."
 #
-<name "レッキーノ" "!RA0019">
-「海は良い……」
+<name "Recchino" "!RA0019">
+"The beach is nice..."
 #
-<name "監視員リオニス" "!GA0058">
-「大きな波がきたら、危ないですよ」
+<name "Lifeguard Leonis" "!GA0058">
+"If a big wave comes, you'll be in trouble."
 #
-<name "レッキーノ" "!RA0020">
-「海は良……うぷっ！
-　あぁぁぁぁぁぁぁぁぁぁぁぁ……」
+<name "Recchino" "!RA0020">
+"The beach is ni...gwaph!
+ Aaaaahhhhh..."
 #
-<name "監視員リオニス" "!GA0060">
-「ああ、潮に翻弄される枯れ木のように……」
+<name "Lifeguard Leonis" "!GA0060">
+"Aah... He's getting tossed about like a branch
+ in the tide..."
 #
 <exit>
 :2DB2
@@ -822,45 +844,47 @@
 <background "ev013b0.iph" 11>
 :2DF4 + 1
 <name "Lazlocke">
-「セリス」
+"Celes."
 #
 <name "Celes" "!AA1929">
-「師匠」
+"Master."
 #
 <name "Lazlocke">
-「なかなかな隊長っぷりだな」
+"You seem very captainy."
 #
 <name "Celes" "!AA1930">
-「そ、そうですか。
-　師匠はどうしてここに？」
+"D-Do I?
+ What are you doing here?"
 #
 <name "Lazlocke">
-「協会の仕事でな。
-　向こうにソシエットも居る」
+"On a job for the Guild.
+ Soshiette's over there."
 #
 <name "Celes" "!AA1931">
-「あ、本当だ。
-　メイド服が目立つ……」
+"Ah, she is.
+ The maid uniform stands out."
 #
 <name "Lazlocke">
-「俺は仕事に行くから、後で飯でも食おう。
-　頑張れよ」
+"I've got work to do, but let's have lunch
+ later.
+ Work hard."
 #
 <name "Celes" "!AA1932">
-「はい」
+"Yes, sir."
 #
-<name "監視員リオニス" "!GA0061">
-「隊長、いまの人、誰ですか？」
+<name "Lifeguard Leonis" "!GA0061">
+"Captain, who was that?"
 #
-<name "監視員モニカ" "!HA0043">
-「ひょっとして、隊長の恋人ですか？」
+<name "Lifeguard Monica" "!HA0043">
+"Was he your boyfriend?"
 #
 <name "Celes" "!AA1933">
-「魔法の師匠よ。
-　くだらない事、言ってないで仕事、仕事」
+"He's my magic teacher.
+ Don't gossip.
+ Get to work."
 #
-<name "監視員リオニス" "!GA0062">
-「はーい」
+<name "Lifeguard Leonis" "!GA0062">
+"Yeeeep."
 #
 <exit>
 :3080
@@ -870,23 +894,24 @@
 :30AD
 <background "ev013b0.iph" 11>
 :30C2 + 1
-<name "監視員リオニス" "!GA0063">
-「はいはーい、ナンパは禁止です」
+<name "Lifeguard Leonis" "!GA0063">
+"Yeah, yeah, no hitting on girls."
 #
-<name "監視員モニカ" "!HA0044">
-「抵抗しないで、解散解散」
+<name "Lifeguard Monica" "!HA0044">
+"Don't resist.
+ Everyone disperse."
 #
-<name "監視員リオニス" "!GA0064">
-「あれ？
-　抵抗する気？」
+<name "Lifeguard Leonis" "!GA0064">
+"Oh?
+ You're going to resist?"
 #
-<name "監視員モニカ" "!HA0045">
-「ふふふ……馬鹿な男ね。
-　隊長、お願いします」
+<name "Lifeguard Monica" "!HA0045">
+"Heheheh. Foolish man.
+ Captain, if you would."
 #
 <name "Celes" "!AA1934">
-「え？
-　私？」
+"Huh?
+ Me?"
 #
 <exit>
 :31E4
@@ -896,14 +921,15 @@
 :3211
 <background "ev013b0.iph" 11>
 :3226 + 1
-<name "監視員モニカ" "!HA0046">
-「あー、またナンパですよ」
+<name "Lifeguard Monica" "!HA0046">
+"Ugh. Another Lothario."
 #
-<name "監視員リオニス" "!GA0065">
-「注意しましょう」
+<name "Lifeguard Leonis" "!GA0065">
+"Be careful."
 #
-<name "監視員モニカ" "!HA0047">
-「抵抗されたら、隊長にお任せします」
+<name "Lifeguard Monica" "!HA0047">
+"If he resists, I'll have the captain take care
+ of him."
 #
 <exit>
 :32CD
@@ -916,42 +942,42 @@
 :330F
 \x2E\x22\x00\x01 1  8 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :335B: 
 <name "Celes" "!AA1938">
-「今日も平和が一番♪」
+"Another fantastic peaceful day.♪"
 #
 :335B
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :339B: 
 <name "Celes" "!AA1939">
-「波はちょっと荒いかな」
+"The waves are a little rough."
 #
 :339B
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :33DB: 
 <name "Celes" "!AA1940">
-「今日の波は良い感じね」
+"The waves today seem nice."
 #
 :33DB
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :3415: 
 <name "Celes" "!AA1941">
-「さて、監視開始」
+"Okay, lifeguarding started."
 #
 :3415
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :3453: 
 <name "Celes" "!AA1942">
-「ゴミも拾わないとね」
+"We've got to pick up the trash."
 #
 :3453
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :3493: 
 <name "Celes" "!AA1943">
-「浜の安全は私が守る！」
+"I will keep the beach safe!"
 #
 :3493
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :34D3: 
 <name "Celes" "!AA1944">
-「今日も頑張りましょう」
+"Let's do our best today!"
 #
 :34D3
 \x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :350F: 
 <name "Celes" "!AA1945">
-「日焼けが怖いかも」
+"I'm scared of getting a sunburn."
 #
 :350F
 <exit>

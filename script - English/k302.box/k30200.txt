@@ -79,16 +79,16 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1946">
-「畑仕事のお手伝いに行けば良いんですか？」
+"I have to help with the field work?"
 #
 <name "Lazlocke">
-「そうだ。
-　体力が要るぞ」
+"That's right.
+ You'll need to be strong."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1947">
-「大丈夫です。
-　頑張ります」
+"Don't worry about me.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -97,15 +97,16 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA1948">
-「師匠、裏庭の畑とか菜園の世話はしなくて良いん
-　ですか？」
+"Master, don't I need to take care of the field
+ in the backyard and the vegetable garden?"
 #
 <name "Lazlocke">
-「あれは俺が趣味でやっているから大丈夫だ」
+"I do those for fun.
+ Don't worry about them."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA1949">
-「はーい」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
@@ -127,17 +128,16 @@
 <background "ev014d0.iph" 11>
 :7F2 + 1
 <name "Celes" "!AA1950">
-「うう……腰が……」
+"Owww... My back..."
 #
 <name "Lazlocke">
-「大丈夫か？」
+"Are you okay?"
 #
 <name "Celes" "!AA1951">
-「は、はい。
-　でも、畑仕事って凄い肉体労働ですね」
+"Y-Yeah, but field work is so hard, isn't it?"
 #
 <name "Lazlocke">
-「大地との格闘だからな」
+"It's a battle against the earth itself."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -158,18 +158,18 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :95B: 
 <background "ev014d0.iph" 11>
 :95B + 1
-<name "畑主" "!SB0014">
-「セリスちゃん、今日も頑張るねー」
+<name "Farmer" "!SB0014">
+"Work hard again today, Celes."
 #
 <name "Celes" "!AA1952">
-「はい、頑張ってます♪」
+"Yep. I'll do my best!♪"
 #
-<name "畑主" "!SB0015">
-「そうかそうか……
-　畑もそれに応えてくれるだろうよ」
+<name "Farmer" "!SB0015">
+"I see, I see.
+ The field will like that."
 #
 <name "Celes" "!AA1953">
-「えへへ……」
+"Hahaha..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -190,18 +190,18 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :AD8: 
 <background "ev014d0.iph" 11>
 :AD8 + 1
-<name "畑主" "!SB0016">
-「セリスちゃん、水を撒くよ」
+<name "Farmer" "!SB0016">
+"Celes, watering time."
 #
 <name "Celes" "!AA1954">
-「はい、どうぞ！」
+"Okay! Go ahead!"
 #
-<name "畑主" "!SB0017">
-「あ、いや、水撒きもやって欲しいんだけど」
+<name "Farmer" "!SB0017">
+"Oh, I meant I want you to do it too."
 #
 <name "Celes" "!AA1955">
-「あ、ああ、そうでした。
-　すみません」
+"O-Oh, I see.
+ Sorry."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -223,18 +223,19 @@
 <background "ev014d0.iph" 11>
 :C57 + 1
 <name "Celes" "!AA1956">
-「おじさん。
-　この植物ってどこを食べるんですか？」
+"Sir, what part of this plant do you eat?"
 #
-<name "畑主" "!SB0018">
-「あー、これは茎を……
-　あれ？
-　根だったかな？」
+<name "Farmer" "!SB0018">
+"Oh, that's the stalk...
+ Wait...
+ Was it the root?"
 #
-<name "畑主" "!SB0019">
-「待て待て……んん？」
+<name "Farmer" "!SB0019">
+"Hold on.
+ Hmmm..."
 #
-　しばらく考えた後、雑草だと判明した。
+After thinking for a while, it ended up being a
+weed.
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -256,27 +257,28 @@
 <background "ev014d0.iph" 11>
 :DEA + 1
 <name "Celes" "!AA1957">
-「ぐぎぎぎぎ……」
+"Nrrrrrrgh!"
 #
-<name "畑主" "!SB0020">
-「セリスちゃん、どうしたんだい？
-　そんなに顔を真っ赤にして」
+<name "Farmer" "!SB0020">
+"Are you okay, Celes?
+ Your face is so red."
 #
 <name "Celes" "!AA1958">
-「いえ、この雑草が抜けなくて……」
+"Oh, this weed won't come out."
 #
-<name "畑主" "!SB0021">
-「ああ、これはコツがあってね。
-　こっちの方向から……こうして、こうすれば……
-　ほら」
+<name "Farmer" "!SB0021">
+"Oh, there's a trick to it.
+ If you go from this direction, and then do
+ this...
+ See?"
 #
 <name "Celes" "!AA1959">
-「凄い！
-　魔法みたい！」
+"Wow!
+ It's like magic!"
 #
-<name "畑主" "!SB0022">
-「あはは……
-　本職から言われるとは思わなかったなぁ」
+<name "Farmer" "!SB0022">
+"Hahaha...
+ I never thought I'd hear that from a wizard."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -298,16 +300,15 @@
 <background "ev014d0.iph" 11>
 :1031 + 1
 <name "Celes" "!AA1960">
-「この土……ミミズの量。
-　良い畑です」
+"This soil... is full of worms.
+ It's a good field."
 #
-<name "畑主" "!SB0023">
-「……な、なんかベテランの目だな」
+<name "Farmer" "!SB0023">
+"Y-You've got expert eyes for this."
 #
 <name "Celes" "!AA1961">
-「え？
-　いや、そんな事はないですよ。
-　あはは……」
+"Huh? Oh, not at all.
+ Hahaha..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -329,20 +330,20 @@
 <background "ev014d0.iph" 11>
 :119E + 1
 <name "Celes" "!AA1962">
-「収獲だー♪」
+"Harvest time!♪"
 #
-<name "畑主" "!SB0024">
-「わはは、セリスちゃんが頑張ったから良い出来だ
-　よ」
+<name "Farmer" "!SB0024">
+"Wahaha!
+ All's good because of how hard you worked!"
 #
 <name "Celes" "!AA1963">
-「そうですか？」
+"Really?"
 #
-<name "畑主" "!SB0025">
-「また、来年も頼むよ」
+<name "Farmer" "!SB0025">
+"I hope to see you again next year."
 #
 <name "Celes" "!AA1964">
-「はい」
+"Yes, sir."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -364,18 +365,18 @@
 <background "ev014d0.iph" 11>
 :1325 + 1
 <name "Celes" "!AA1965">
-「そういえば、この辺りの土地って誰の物なんです
-　か？」
+"By the way, who owns the land around here?"
 #
-<name "畑主" "!SB0026">
-「ここから見える所は、ワシの土地だよ」
+<name "Farmer" "!SB0026">
+"Everything you can see from here belongs to
+ me."
 #
 <name "Celes" "!AA1966">
-「す、凄いですね」
+"W-Wow."
 #
-<name "畑主" "!SB0027">
-「祖先が偉い人だったらしくてね。
-　ワシはそれを守ってるだけさ」
+<name "Farmer" "!SB0027">
+"My ancestor was some kind of great person.
+ I'm just keeping it going."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -397,13 +398,13 @@
 <background "ev014d0.iph" 11>
 :14D5 + 1
 <name "Celes" "!AA1967">
-「畑仕事をしていると、無口になってしまう」
+"It's so quiet when I'm working in the field."
 #
 <name "Celes" "!AA1968">
-「集中しているって事で、ＯＫ！」
+"So it's all about the concentration!"
 #
 <name "Celes" "!AA1969">
-「……話し相手が居ないってのもあるけど」
+"...But there's also nobody to talk to."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -424,17 +425,17 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1633: 
 <background "ev014d0.iph" 11>
 :1633 + 1
-<name "畑主" "!SB0028">
-「セリスちゃん、腰強いね」
+<name "Farmer" "!SB0028">
+"You've got a strong back, Celes."
 #
 <name "Celes" "!AA1970">
-「日々、鍛えてるからだと思います」
+"I think it's because I exercise every day."
 #
-<name "畑主" "!SB0029">
-「魔法使いってのも大変なんだね」
+<name "Farmer" "!SB0029">
+"It's tough being a wizard, huh?"
 #
 <name "Celes" "!AA1971">
-「ええ……」
+"Yeah..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -455,34 +456,34 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :1799: 
 <background "ev014d0.iph" 11>
 :1799 + 1
-<name "畑主" "!SB0031">
-「セリスちゃん、師匠のラズロック君とは仲良くや
-　っているかね」
+<name "Farmer" "!SB0031">
+"Celes, are you getting along well with Master
+ Lazlocke?"
 #
 <name "Celes" "!AA1972">
-「ええ、何かありますか？」
+"Yes. Why do you ask?"
 #
-<name "畑主" "!SB0032">
-「前にラズロック君を見た時は、暗かったからね。
-　ああ、前と言っても数年前だけどね」
+<name "Farmer" "!SB0032">
+"When I knew him in the past, he always had such
+ a dark look.
+ Oh, but that was years ago."
 #
-<name "畑主" "!SB0033">
-「今の彼は、明るいから……
-　セリスちゃんのお陰かと思ってね」
+<name "Farmer" "!SB0033">
+"These days, he's positively cheerful.
+ I think it's thanks to you."
 #
 <name "Celes" "!AA1973">
-「そ、そうですか？」
+"R-Really?"
 #
-<name "畑主" "!SB0034">
-「ああ、感謝してるよ。
-　心配はしていたからね」
+<name "Farmer" "!SB0034">
+"Yeah, I'm grateful.
+ I was worried about him."
 #
 <name "Celes" "!AA1974">
-「あ、ありがとうございます」
+"T-Thank you."
 #
-<name "畑主" "!SB0035">
-「……
-　本当に、仲良くやっているみたいだねぇ」
+<name "Farmer" "!SB0035">
+"...It really does seem like you're close."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -504,18 +505,19 @@
 <background "ev014d0.iph" 11>
 :1A6A + 1
 <name "Celes" "!AA1975">
-「おじさん！
-　キツネです！」
+"Mister!
+ A fox!"
 #
-<name "畑主" "!SB0036">
-「ちいっ！
-　捕縛っ！」
+<name "Farmer" "!SB0036">
+"Tch!
+ Catch it!"
 #
 <name "Celes" "!AA1976">
-「は、はい！
-　今夜はキツネ鍋です！」
+"Y-Yes, sir!
+ Tonight we eat fox!"
 #
-　畑仕事は、害獣との戦いでもある。
+Field work is also a battle against harmful
+animals.
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -537,16 +539,16 @@
 <background "ev014d0.iph" 11>
 :1BD9 + 1
 <name "Celes" "!AA1977">
-「作物、乾いてるように見えますけど、水をやらな
-　くて良いんですか？」
+"The crops look dry.
+ Are you sure I don't need to water them?"
 #
-<name "畑主" "!SB0037">
-「ああ、これぐらいが丁度良いんだ。
-　あんまり水をやって甘やかすと、良い作物にはな
-　らないからね」
+<name "Farmer" "!SB0037">
+"Yeah. They're fine like this.
+ If you spoil them with too much water, it won't
+ be a good harvest."
 #
 <name "Celes" "!AA1978">
-「け、結構厳しいんですね」
+"T-That's pretty cruel."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -568,19 +570,20 @@
 <background "ev014d0.iph" 11>
 :1D8A + 1
 <name "Celes" "!AA1979">
-「畑仕事って……忙しい時は忙しいけど、暇な時は
-　一気に暇になりますね」
+"Field work's like... when you're busy, you're
+ really busy, but when there's nothing to do,
+ there's really nothing to do."
 #
-<name "畑主" "!SB0038">
-「うん。
-　そうだな。
-　だが、油断は大敵なんだよ」
+<name "Farmer" "!SB0038">
+"Yeah, that's right, but carelessness can be a
+ formidable enemy."
 #
 <name "Celes" "!AA1980">
-「そうなんですか？」
+"Really?"
 #
-<name "畑主" "!SB0039">
-「ああ、暇な時は見守っている時だからね」
+<name "Farmer" "!SB0039">
+"Yeah, that's why I use my extra time to
+ patrol."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -602,21 +605,20 @@
 <background "ev014d0.iph" 11>
 :1F43 + 1
 <name "Celes" "!AA1981">
-「おじさん。
-　あの空き地はなんなんですか？」
+"Mister, what's that empty field?"
 #
-<name "畑主" "!SB0040">
-「あそこは、休ませている土地だよ」
+<name "Farmer" "!SB0040">
+"That's land that's laying fallow."
 #
 <name "Celes" "!AA1982">
-「休ませる？」
+"Laying fallow?"
 #
-<name "畑主" "!SB0041">
-「そう。
-　毎年、畑にしてたら良い作物ができないからね」
+<name "Farmer" "!SB0041">
+"Yeah. You shouldn't make a field grow every
+ single year."
 #
 <name "Celes" "!AA1983">
-「そうなんだ……」
+"I see..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -638,10 +640,11 @@
 <background "ev014d0.iph" 11>
 :2101 + 1
 <name "Celes" "!AA1984">
-「寒い時期でも、畑仕事ってあるんですね」
+"Even when it's cold, there's still field work
+ to do."
 #
-<name "畑主" "!SB0043">
-「ああ、他の時期の為の準備だけどね」
+<name "Farmer" "!SB0043">
+"Yeah, getting ready for the rest of the year."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -663,15 +666,17 @@
 <background "ev014d0.iph" 11>
 :2221 + 1
 <name "Celes" "!AA1985">
-「せいっ！」
+"Hya!"
 #
-<name "畑主" "!SB0044">
-「おおっ！
-　大岩が……砕けた」
+<name "Farmer" "!SB0044">
+"Ooh!
+ That big wrong... broke."
 #
 <name "Celes" "!AA1986">
-「え、あ、いや、脆くなってたみたいですよ。
-　ひょっとして、土の塊かも……あはは」
+"Huh? Oh, I mean, it looked like it was coming
+ apart already.
+　I think it was just a bunch of dirt...
+ Hahaha..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -693,15 +698,16 @@
 <background "ev014d0.iph" 11>
 :238B + 1
 <name "Celes" "!AA1987">
-「む、岩が……邪魔ね」
+"T-That rock's... in the way, isn't it?"
 #
-<name "畑主" "!SB0045">
-「セ、セリスちゃん、この岩を一人で除けたのか
-　い？」
+<name "Farmer" "!SB0045">
+"C-Celes? You're going to carry that big rock
+ by yourself?"
 #
 <name "Celes" "!AA1988">
-「え？
-　あ、あはは……意外と軽いみたいです」
+"Huh?
+ H-Hahaha...
+ It's surprisingly light."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -722,19 +728,20 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :24F1: 
 <background "ev014d0.iph" 11>
 :24F1 + 1
-<name "畑主" "!SB0046">
-「セリスちゃん、最近は熊が出るらしいから気を付
-　けるんだよ」
+<name "Farmer" "!SB0046">
+"Celes, I heard there are bears in the area
+ recently, so be careful."
 #
 <name "Celes" "!AA1989">
-「はい、注意します」
+"Okay, I'll be careful."
 #
-<name "畑主" "!SB0047">
-「まあ、セリスちゃんなら返り討ちにしそうだけど」
+<name "Farmer" "!SB0047">
+"Well, if they pick a fight with you, they'll
+ deserve what they get."
 #
 <name "Celes" "!AA1990">
-「あはは……
-　その時は、お裾分けで持ってきます」
+"Hahaha...
+ If that happens, we can share the meat."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -756,16 +763,16 @@
 <background "ev014d0.iph" 11>
 :26A5 + 1
 <name "Celes" "!AA1991">
-「魔法で一気になんとかならないものかしら？」
+"I wonder if there's a spell to let you get all
+ of this done at once."
 #
-<name "畑主" "!SB0048">
-「セリスちゃん。
-　畑仕事は一日にしてならず。
-　楽な道などない」
+<name "Farmer" "!SB0048">
+"Celes, field work can't be done in a day.
+ There are no shortcuts."
 #
 <name "Celes" "!AA1992">
-「あはは。
-　頑張ります」
+"Hahaha.
+ I'll work hard."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -786,17 +793,17 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :281A: 
 <background "ev014d0.iph" 11>
 :281A + 1
-<name "畑主" "!SB0049">
-「野菜泥棒だ！」
+<name "Farmer" "!SB0049">
+"Crop thief!"
 #
 <name "Celes" "!AA1996">
-「えっと、どうしましょう？」
+"Um, what should I do?"
 #
-<name "畑主" "!SB0050">
-「殺さない程度にやっつけてくれるかな」
+<name "Farmer" "!SB0050">
+"Attack, but don't kill, I guess?"
 #
 <name "Celes" "!AA1994">
-「はい」
+"Yes, sir!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -818,20 +825,19 @@
 <background "ev014d0.iph" 11>
 :2972 + 1
 <name "Celes" "!AA1995">
-「耕して、耕して……
-　ふう、かなり出来たかな」
+"Plow... plow...
+ Whew. I think I've done a lot."
 #
 <name "Lazlocke">
-「おーい、差し入れを持って来た。
-　休憩しないか？」
+"Hey, I brought a present.
+ How about a break?"
 #
 <name "Celes" "!AA1997">
-「はい。
-　でも、ここを終らせてからにします」
+"Okay, but let me finish this first."
 #
 <name "Lazlocke">
-「頑張るなぁ。
-　感心感心」
+"Working hard, huh?
+ Very admirable."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -853,53 +859,52 @@
 <background "ev014d0.iph" 11>
 :2B1E + 1
 <name "Celes" "!AA1998">
-「おじさん！
-　さっき、向こうの方に猪が！」
+"Mister, there's a wild pig over there!"
 #
-<name "畑主" "!SB0051">
-「なにっ！
-　そ、その猪、片目が潰れてなかったかい？」
+<name "Farmer" "!SB0051">
+"What!?
+ T-That pig, is it missing an eye?"
 #
 <name "Celes" "!AA1999">
-「え？
-　そう言えば……無かったような」
+"Huh?
+ Now that you meantion it... it is."
 #
-<name "畑主" "!SB0052">
-「ふふふ……ついに来たかジェニファー。
-　このワシの命を奪いに来たな」
+<name "Farmer" "!SB0052">
+"Hehehe... So you're finally here, Jennifer.
+ You came to take my life."
 #
 <name "Celes" "!AA2000">
-「え？」
+"Huh?"
 #
-<name "畑主" "!SB0053">
-「セリスちゃん、悪いが手出し無用だ。
-　ジェニファーとは、ワシ自身の手で決着をつける」
+<name "Farmer" "!SB0053">
+"Celes, I'm sorry, but stay out of this.
+ I have to settle this with Jennifer by myself."
 #
 <name "Celes" "!AA2001">
-「は、はい……」
+"Y-Yes, sir."
 #
-<name "畑主" "!SB0054">
-「あそこだな。
-　覚悟しろ、ジェニファー！！」
+<name "Farmer" "!SB0054">
+"There you are!
+ Prepare yourself, Jennifer!"
 #
 <name "Celes" "!AA2002">
-「えっと……」
+"Uh..."
 #
-　その後、おじさんの悲鳴によって戦いが終了した
-　事をセリスは知った。
+Celes would learn that the battle was over by
+his screams.
 #
-<name "畑主" "!SB0055">
-「ぬ、ぬうう……ジェニファーめ。
-　年々、強くなっておる」
+<name "Farmer" "!SB0055">
+"N-Nrgh... Damn you, Jennifer!
+ Every year, you get stronger!"
 #
-<name "畑主" "!SB0056">
-「じゃが、来年。
-　来年をみておれよー！」
+<name "Farmer" "!SB0056">
+"But next year...
+ We'll see what happens next year!"
 #
 <name "Celes" "!AA2003">
-「が、がんばれー」
+"G-Good luck."
 #
-　とりあえず、応援してみたセリスだった。
+At least she can cheer him on.
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -921,46 +926,48 @@
 <background "ev014d0.iph" 11>
 :2F33 + 1
 <name "Celes" "!AA2004">
-「おじさん！
-　今年も猪が……多分、ジェニファーです」
+"Mister!
+ Another wild pig came this year.
+ Maybe it's Jennifer."
 #
-<name "畑主" "!SB0059">
-「そうか……ふふふ。
-　勝負を楽しみにおるのはワシだけではなかったか
-　……」
+<name "Farmer" "!SB0059">
+"I see...
+ Heheheh...
+ So I wasn't the only one looking forward to 
+ this battle."
 #
-<name "畑主" "!SB0061">
-「今年こそは負けるかっ！
-　ゆくぞっ！
-　うがぁぁぁぁぁぁ！」
+<name "Farmer" "!SB0061">
+"You think I'll lose again this year!?
+ Bring it on!
+ Raaaaagh!"
 #
 <name "Celes" "!AA2005">
-「おじさん！」
+"Mister!"
 #
-<name "畑主" "!SB0062">
-「ば、馬鹿な……このタイミングで腰が……
-　ぬおおお……
-　くう、こうなっては仕方が無い。
-　セリスちゃん」
+<name "Farmer" "!SB0062">
+"N-No way! Why did my back give out now!?
+ Nnrrrrgh...
+ Tch. There's no help for it.
+ Celes."
 #
 <name "Celes" "!AA2006">
-「は、はい！」
+"Y-Yes!?"
 #
-<name "畑主" "!SB0063">
-「向こうに、不戦敗を伝えて来てくれ」
+<name "Farmer" "!SB0063">
+"Tell Jennifer I forfeit."
 #
 <name "Celes" "!AA2007">
-「……え？
-　あ、あの……言葉が……」
+"Huh?
+ U-Um, but I don't speak pig..."
 #
-<name "畑主" "!SB0064">
-「大丈夫。
-　ヤツは人間の言葉ぐらい理解する！」
+<name "Farmer" "!SB0064">
+"Don't worry.
+ It understands human language!"
 #
 <name "Celes" "!AA2008">
-「い、行って来ます」
+"I-I'll try."
 #
-　伝わったらしい。
+The message got through.
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -981,71 +988,75 @@
 \x1A\x01\x0A\x02\x01\x98 14 \x01\x15 :32A7: 
 <background "ev014d0.iph" 11>
 :32A7 + 1
-<name "畑主" "!SB0065">
-「準備万端。
-　来るが良い、ジェニファー」
+<name "Farmer" "!SB0065">
+"I'm ready!
+ Bring it on, Jennifer!"
 #
 <name "Celes" "!AA2009">
-「おじさん！
-　ジェニファーです！」
+"Mister!
+ It's Jennifer!"
 #
-<name "畑主" "!SB0066">
-「待っておった！
-　覚悟せい！」
+<name "Farmer" "!SB0066">
+"I've been waiting!
+ Prepare yourself!"
 #
 <name "Celes" "!AA2010">
-「そ、それが……」
+"T-That's a..."
 #
-<name "畑主" "!SB0067">
-「なんじゃ？」
+<name "Farmer" "!SB0067">
+"What?"
 #
 <name "Celes" "!AA2011">
-「こ、子連れです……」
+"I-It has a baby..."
 #
-<name "畑主" "!SB0068">
-「なにぃっ！
-　……ヤツめ、いつの間に……」
+<name "Farmer" "!SB0068">
+"What!?
+ When did..."
 #
 <name "Celes" "!AA2012">
-「どうします？」
+"What should we do?"
 #
-<name "畑主" "!SB0069">
-「ふっ、父親になったヤツに、刃を向けられん。
-　見逃してやろう」
+<name "Farmer" "!SB0069">
+"Hmph. I won't raise my blade at a father.
+ He can go this time."
 #
 <name "Celes" "!AA2013">
-「え？
-　オスだったんだ」
+"Huh?
+ Jennifer's a male?"
 #
-<name "畑主" "!SB0070">
-「ああ、ヤツはオスだ。
-　ワシが子供の頃に拾い、メスだと思ってジェニファ
-　ーと名付けた」
+<name "Farmer" "!SB0070">
+"Yeah, he's a male all right.
+ I found him when I was a kid and named him
+ Jennifer thinking he was a girl."
 #
-<name "畑主" "!SB0071">
-「しかし、その名前が気に入らないのか、逃走。
-　毎年毎年、ワシの畑に現れては荒らしていく」
+<name "Farmer" "!SB0071">
+"But he hated the name and ran off.
+ Every year since then, he came to my fields
+ to rampage through them."
 #
-<name "畑主" "!SB0072">
-「そんなジェニファーが父親に……
-　きっと、ワシに子供を見せに来たのだろうなぁ。
-　ふふ、ヤツめ……泣かせおる」
+<name "Farmer" "!SB0072">
+"But now Jennifer's a father...
+ He must have come this time to show me his
+ child. Heheh... bastard. 
+ I'm gonna cry."
 #
 <name "Celes" "!AA2014">
-「涙ぐんでる所、言い難いんですけど……
-　凄い勢いで畑が荒らされてますけど」
+"It's difficult to bring this up when you're
+ so emotional, but he's rampaging through your
+ fields at full force."
 #
-<name "畑主" "!SB0073">
-「……なに」
+<name "Farmer" "!SB0073">
+"...What?"
 #
 <name "Celes" "!AA2015">
-「そりゃもう、グッチャングッチャンに……」
+"They're already pretty trampled..."
 #
-<name "畑主" "!SB0074">
-「前言撤回……殺ってくる」
+<name "Farmer" "!SB0074">
+"I take it all back.
+ I'll kill him!"
 #
 <name "Celes" "!AA2016">
-「が、頑張ってください」
+"D-Do your best."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -1069,47 +1080,47 @@
 :37E7
 \x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  9 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :3837: 
 <name "Celes" "!AA2019">
-「水撒き、水撒き♪」
+"Watering, watering.♪"
 #
 :3837
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3873: 
 <name "Celes" "!AA2020">
-「雑草、取るぞー♪」
+"Weed pulled!♪"
 #
 :3873
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :38B1: 
 <name "Celes" "!AA2021">
-「刈り入れが楽しみ♪」
+"I'm looking forward to the harvest.♪"
 #
 :38B1
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :38F3: 
 <name "Celes" "!AA2022">
-「豊作になると良いなぁ♪」
+"I hope there's a good harvest.♪"
 #
 :38F3
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :392D: 
 <name "Celes" "!AA2023">
-「さあ、働くぞー」
+"Okay, let's get to work!"
 #
 :392D
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :3975: 
 <name "Celes" "!AA2024">
-「汚れても良い格好になって……」
+"It's okay if you get a little dirty."
 #
 :3975
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :39C7: 
 <name "Celes" "!AA2025">
-「美味しい作物がたくさんできると良いなぁ」
+"I hope we end up with a lot of tasty crops."
 #
 :39C7
 \x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :3A0B: 
 <name "Celes" "!AA2026">
-「畑仕事って、全身労働……」
+"Field work is a full body workout."
 #
 :3A0B
 \x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :3A4B: 
 <name "Celes" "!AA2027">
-「出荷作業も大仕事……」
+"Shipping is a lot of work too."
 #
 :3A4B
 <exit>

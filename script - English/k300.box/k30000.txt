@@ -1,0 +1,986 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x03\x02\x84\x00\x01\x0E :27: \x16 :4CB: \x0A\x04\x03\x02\x84\x01\x15 :49E: 
+:27
+\x1A\x01\x07\x04\x03\x03\x84\x00\x01\x0E :48: \x16 :621: \x0A\x04\x03\x03\x84\x01\x15 :49E: 
+:48
+\x1A\x01\x07\x04\x03\x04\x84\x00\x01\x0E :69: \x16 :744: \x0A\x04\x03\x04\x84\x01\x15 :49E: 
+:69
+\x1A\x01\x07\x04\x03
+#
+\x84\x00\x01\x0E :8A: \x16 :914: \x0A\x04\x03\x05\x84\x01\x15 :49E: 
+:8A
+\xE9 3000 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :B7: \x15 :492: 
+:B7
+\x1A\x01\x07\x04\x03\x0A\x84\x00\x01\x0E :EA: \x1A\x01\x0A\x02\x00\x8E 1000 \x01\x15 :EA: \x16 :DA1: \x0A\x04\x03\x0A\x84\x01\x15 :49E: 
+:EA
+\x1A\x01\x07\x04\x03\x0B\x84\x00\x01\x0E :11D: \x1A\x01\x0A\x02\x00\x8E 1000 \x01\x15 :11D: \x16 :EB1: \x0A\x04\x03\x0B\x84\x01\x15 :49E: 
+:11D
+\x1A\x01\x07\x04\x03\x1E\x84\x00\x01\x0E :15C: \x1A\x01\x07\x04\x00\xCC\x84\x01\x01\x0E :15C: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :15C: \x16 :29E1: \x0A\x04\x03\x1E\x84\x01\x15 :49E: 
+:15C
+\x1A\x01\x07\x04\x03\x1F\x84\x00\x01\x0E :18C: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :18C: \x16 :2B1A: \x0A\x04\x03\x1F\x84\x01\x15 :49E: 
+:18C
+\x1A\x01\x07\x04\x03\x20\x84\x00\x01\x0E :1AD: \x16 :2EE3: \x0A\x04\x03\x20\x84\x01\x15 :49E: 
+:1AD
+\x1A\x01\x07\x04\x03\x06\x84\x00\x01\x0E :1CE: \x16 :A84: \x0A\x04\x03\x06\x84\x01\x15 :49E: 
+:1CE
+\x1A\x01\x07\x04\x03\x07\x84\x00\x01\x0E :1EF: \x16 :B58: \x0A\x04\x03\x07\x84\x01\x15 :49E: 
+:1EF
+\x1A\x01\x07\x04\x03\x09\x84\x00\x01\x0E :210: \x16 :CB6: \x0A\x04\x03\x09\x84\x01\x15 :49E: 
+:210
+\x1A\x01\x07\x04\x03\x08\x84\x00\x01\x0E :231: \x16 :BFF: \x0A\x04\x03\x08\x84\x01\x15 :49E: 
+:231
+\x1A\x01\x07\x04\x03\x0C\x84\x00\x01\x0E :252: \x16 :F89: \x0A\x04\x03\x0C\x84\x01\x15 :49E: 
+:252
+\x1A\x01\x07\x04\x03\x0D\x84\x00\x01\x0E :273: \x16 :104E: \x0A\x04\x03\x0D\x84\x01\x15 :49E: 
+:273
+\x1A\x01\x07\x04\x03\x0E\x84\x00\x01\x0E :294: \x16 :1381: \x0A\x04\x03\x0E\x84\x01\x15 :49E: 
+:294
+\x1A\x01\x07\x04\x03\x0F\x84\x00\x01\x0E :2B5: \x16 :1469: \x0A\x04\x03\x0F\x84\x01\x15 :49E: 
+:2B5
+\x1A\x01\x07\x04\x03\x10\x84\x00\x01\x0E :2D6: \x16 :15BF: \x0A\x04\x03\x10\x84\x01\x15 :49E: 
+:2D6
+\x1A\x01\x07\x04\x03\x11\x84\x00\x01\x0E :2F7: \x16 :16C2: \x0A\x04\x03\x11\x84\x01\x15 :49E: 
+:2F7
+\x1A\x01\x07\x04\x03\x12\x84\x00\x01\x0E :318: \x16 :17CC: \x0A\x04\x03\x12\x84\x01\x15 :49E: 
+:318
+\x1A\x01\x07\x04\x03\x13\x84\x00\x01\x0E :339: \x16 :18FD: \x0A\x04\x03\x13\x84\x01\x15 :49E: 
+:339
+\x1A\x01\x07\x04\x03\x14\x84\x00\x01\x0E :35A: \x16 :1C9C: \x0A\x04\x03\x14\x84\x01\x15 :49E: 
+:35A
+\x1A\x01\x07\x04\x03\x15\x84\x00\x01\x0E :37B: \x16 :1DEF: \x0A\x04\x03\x15\x84\x01\x15 :49E: 
+:37B
+\x1A\x01\x07\x04\x03\x16\x84\x00\x01\x0E :39C: \x16 :1EEC: \x0A\x04\x03\x16\x84\x01\x15 :49E: 
+:39C
+\x1A\x01\x07\x04\x03
+<exit>
+\x84\x00\x01\x0E :3BD: \x16 :20E0: \x0A\x04\x03\x17\x84\x01\x15 :49E: 
+:3BD
+\x1A\x01\x07\x04\x03\x18\x84\x00\x01\x0E :3DE: \x16 :2249: \x0A\x04\x03\x18\x84\x01\x15 :49E: 
+:3DE
+\x1A\x01\x07\x04\x03\x19\x84\x00\x01\x0E :3FF: \x16 :23A7: \x0A\x04\x03\x19\x84\x01\x15 :49E: 
+:3FF
+\x1A\x01\x07\x04\x03\x1A\x84\x00\x01\x0E :420: \x16 :2428: \x0A\x04\x03\x1A\x84\x01\x15 :49E: 
+:420
+\x1A\x01\x07\x04\x03\x1B\x84\x00\x01\x0E :441: \x16 :25ED: \x0A\x04\x03\x1B\x84\x01\x15 :49E: 
+:441
+\x1A\x01\x07\x04\x03\x1C\x84\x00\x01\x0E :462: \x16 :27A7: \x0A\x04\x03\x1C\x84\x01\x15 :49E: 
+:462
+\x1A\x01\x07\x04\x03\x1D\x84\x00\x01\x0E :492: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :492: \x16 :2913: \x0A\x04\x03\x1D\x84\x01\x15 :49E: 
+:492
+\x16 :38A6: \x15 :49E: 
+:49E
+<music 30>
+\x2B\x1A\x01\x07\x24\x00\x0F\x84\x00\x01\x0E :4CA: 
+<background "ev012a0.iph" 11>
+\x2B
+:4CA
+\x78
+:4CB
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Manager" "!UA0000">
+"Celes, you're responsible for our guests."
+#
+<name "Manager" "!UA0001">
+"Take their orders and tell the kitchen, then
+ when the kitchen's ready, bring them their
+ food and drinks." 
+#
+<name "Manager" "!UA0002">
+"It may sound easy, but it can be hard in a lot
+ of ways.
+ Do your best."
+#
+<name "Celes" "!AA1836">
+"Yes, sir.
+ I understand."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:621
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!SB0000">
+"Hey, this food is great."
+#
+<name "Celes" "!AA1837">
+"Thank you very much."
+#
+<name "Guest" "!SB0001">
+"What's the name of this place?
+ I'll tell other people about it."
+#
+<name "Celes" "!AA1838">
+"The Hawkwing Arbor.
+ I hope we see you again."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:744
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!RB0000">
+"Um, this salad, this steak...
+ And a cask of beer."
+#
+<name "Celes" "!AA1839">
+"The casks come in large, medium, or small.
+ Which would you like?"
+#
+<name "Guest" "!RB0001">
+"How big's the large?"
+#
+<name "Celes" "!AA1840">
+"That big."
+#
+<name "Guest" "!RB0002">
+"...The one that's the size of a whole person?"
+#
+<name "Celes" "!AA1841">
+"That's a medium.
+ The one behind it that's the size of a horse."
+#
+<name "Guest" "!RB0003">
+"...I'll have a small, please."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:914
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!RB0004">
+"Celes, is my order not ready yet?"
+#
+<name "Celes" "!AA1842">
+"I'm sorry.
+ I'll get right to it."
+#
+<name "Other Guest" "!SB0002">
+"I'm waiting too."
+#
+<name "Celes" "!AA1843">
+"Coming!
+ I'll be right there.
+ Sir, is it still not ready?"
+#
+<name "Manager" "!UA0004">
+"Sorry. Hang in there a little longer.
+ We just caught the cook who ran off."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:A84
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Elise" "!MA0000">
+"T-There's so many guests...
+ The lunch rush is so hard..."
+#
+<name "Celes" "!AA1844">
+"But isn't it better than having nothing to 
+ do?"
+#
+<name "Waitress Elise" "!MA0001">
+"Ohh... I just want to enjoy myself..."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:B58
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!SB0003">
+"Ah, Celes.
+ Looks like you're hard at work again today."
+#
+<name "Celes" "!AA1845">
+"Yes, so please order a lot."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:BFF
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!SB0004">
+"What should I have today?"
+#
+<name "Celes" "!AA1846">
+"I recommend the seaweed plate here."
+#
+<name "Guest" "!SB0005">
+"Okay, I'll have that."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:CB6
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Manager" "!UA0005">
+"Celes, order from management."
+#
+<name "Celes" "!AA1847">
+"What is it?"
+#
+<name "Manager" "!UA0007">
+"We're overstocked on seaweed.
+ Recommend the seaweed dishes to our guests."
+#
+<name "Celes" "!AA1848">
+"Understood."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:DA1
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!RB0006">
+"Beer.
+ Bring beer.
+ ...Please."
+#
+<name "Celes" "!AA1849">
+"Okay, understood."
+#
+<name "Manager" "!UA0009">
+"Celes, could you please stop carrying your
+ weapons while you work?"
+#
+<name "Celes" "!AA1850">
+"No. If I did, someone will probably say 
+ something that irritates me."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:EB1
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!RB0007">
+"Heheheh...
+ Nice ass.
+ ...Whoa!"
+#
+<name "Celes" "!AA1851">
+"What was that?"
+#
+<name "Manager" "!UA0010">
+"Celes, please stop swinging your weapon
+ around."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:F89
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Manager" "!UA0013">
+「お客だー」
+#
+<name "Waitress Muma" "!NA0000">
+「いえー！」
+#
+<name "Manager" "!UA0014">
+「いや、そうじゃなくて接客」
+#
+<name "Waitress Muma" "!NA0001">
+「そうでした」
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:104E
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Celes" "!AA1852">
+"Sir! Egg in egg, order up!"
+#
+<name "Manager" "!UA0015">
+"Got it!"
+#
+<name "Waitress Elise" "!MA0004">
+"S-Someone was brave enough to order the egg in
+ egg..."
+#
+<name "Waitress Muma" "!NA0002">
+"I've never heard of that.
+ Is it that special?"
+#
+<name "Waitress Elise" "!MA0005">
+"The egg in egg is a traditional dish from the
+ north where you put small eggs in one big egg."
+#
+<name "Waitress Muma" "!NA0003">
+"That sounds pretty norma... Whoa!
+ What the heck!?
+ It's huge!"
+#
+<name "Waitress Elise" "!MA0014">
+"It's a huge egg, about the size of a little 
+ kid, but the size isn't the problem, it's 
+ eating it."
+#
+<name "Waitress Muma" "!NA0004">
+"Is it bad?"
+#
+<name "Waitress Elise" "!MA0007">
+"No, it's just a normal egg.
+ But when it's that big..."
+#
+<name "Waitress Muma" "!NA0006">
+"Ooh... I'm getting heartburn just thinking
+ about it."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1381
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Muma" "!NA0008">
+"Table five, three guests.♪
+ Looks like they're going to start out ordering
+ beer."
+#
+<name "Manager" "!UA0016">
+"Give them the leftover stock."
+#
+<name "Waitress Muma" "!NA0009">
+"You've got good business sense."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1469
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Muma" "!NA0014">
+"Table two, adventurer party. Six people.♪
+ They're going to want food and drink."
+#
+<name "Manager" "!UA0017">
+"A successful adventure then?"
+#
+<name "Waitress Muma" "!NA0015">
+"They look loaded."
+#
+<name "Manager" "!UA0018">
+"Okay, then bring out the top shelf stuff."
+#
+<name "Waitress Muma" "!NA0016">
+"Yes, sir!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:15BF
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Muma" "!NA0018">
+"That guest just keeps staring at my butt."
+#
+<name "Waitress Elise" "!MA0008">
+"You do have a big one."
+#
+<name "Waitress Muma" "!NA0019">
+"Switch with me."
+#
+<name "Waitress Elise" "!MA0009">
+"If I go, he'll just stare at my chest."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:16C2
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Muma" "!NA0020">
+"There's a lot of guests today."
+#
+<name "Waitress Elise" "!MA0010">
+"Work without complaining."
+#
+<name "Waitress Muma" "!NA0021">
+"Yeah, yeah.
+ I'll take a page from Celes and do my best."
+#
+<name "Waitress Elise" "!MA0011">
+"Take a page from me!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:17CC
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Celes" "!AA1853">
+"Order up!"
+#
+<name "Waitress Elise" "!MA0012">
+"Got it!
+ It'll be ready soon!"
+#
+<name "Waitress Muma" "!NA0022">
+"I hit that guest."
+#
+<name "Waitress Elise" "!MA0013">
+"Got it.
+ I'll dock your pay."
+#
+<name "Waitress Muma" "!NA0023">
+"N-No way..."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:18FD
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Muma" "!NA0024">
+"Hey, hey. 
+ Did you hear?"
+#
+<name "Waitress Elise" "!MA0015">
+"About what?"
+#
+<name "Waitress Muma" "!NA0025">
+"In restaurants in the west, they don't pay
+ the waitresses."
+#
+<name "Waitress Elise" "!MA0017">
+"Eeh!? Then how do they get by?
+ Do they give them stuff for working?"
+#
+<name "Waitress Muma" "!NA0026">
+"No. They don't get paid by the restaurant.
+ They get tips from the customers.
+ Those tips are how they get paid."
+#
+<name "Waitress Elise" "!MA0018">
+"Oh, I see."
+#
+<name "Waitress Muma" "!NA0027">
+"Doesn't it feel like that way would motivate
+ the waitresses too?"
+#
+<name "Waitress Elise" "!MA0019">
+"Yeah. Maybe we should talk to the boss."
+#
+<name "Manager" "!UA0019">
+"That's a bad way to run a business.
+ It discriminates between guests with extra
+ money to throw around and those who don't."
+#
+<name "Waitress Muma" "!NA0263">
+"Boo."
+#
+<name "Manager" "!UA0020">
+"Also, you'll have a hard time with it in this
+ kingdom since tipping isn't normal here."
+#
+<name "Waitress Elise" "!MA0021">
+"Y-You're right..."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1C9C
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Elise" "!MA0022">
+"Huh?
+ Sir, there's no beer in stock."
+#
+<name "Manager" "!UA0021">
+"Huh? That's weird.
+ There should still be some left."
+#
+<name "Waitress Muma" "!NA0028">
+"You must've just sold too much.
+ ...Hic..."
+#
+<name "Waitress Elise" "!MA0023">
+"Hey..."
+#
+<name "Manager" "!UA0022">
+"It's clear what happened."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1DEF
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Waitress Muma" "!NA0029">
+"Zzz..."
+#
+<name "Waitress Elise" "!MA0024">
+"Hey! It's busy!
+ Quit sleeping!"
+#
+<name "Waitress Muma" "!NA0030">
+"I'm sleeping now to work later."
+#
+<name "Waitress Elise" "!MA0025">
+"Sleep at your home!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1EEC
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!SB0006">
+"I've got tons of cash today.
+ Keep the beer coming."
+#
+<name "Waitress Muma" "!NA0031">
+"Yes, sir!
+ Understood!"
+#
+<name "Guest" "!SB0007">
+"Yeah. Good answer."
+#
+<name "Waitress Muma" "!NA0032">
+"Yes, sir.
+ Could I share a drink with you?"
+#
+<name "Guest" "!SB0008">
+"Yeah! Great!"
+#
+<name "Waitress Elise" "!MA0026">
+"I'm sorry, but not while she's on the clock."
+#
+<name "Waitress Muma" "!NA0033">
+"Eeeeh!?"
+#
+<name "Waitress Elise" "!MA0027">
+"Don't give me that!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:20E0
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!QB0000">
+"This place has a lot of high level waitresses."
+#
+<name "Pervert Guest" "!RB0008">
+"Yeah. I come here just to hit on the
+ waitresses."
+#
+<name "Guest" "!QB0001">
+"Especially that one with the big tits."
+#
+<name "Pervert Guest" "!RB0009">
+"Yeah."
+#
+<name "Waitress Muma" "!NA0034">
+"Sirs, don't talk about that where we can hear
+ you."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2249
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Young Guest" "!QB0002">
+"It's pretty crowded."
+#
+<name "Trendy Guest" "!RB0010">
+"It's a popular place lately."
+#
+<name "Young Guest" "!QB0003">
+"Oh? But there's no seats.
+ What should we do?"
+#
+<name "Trendy Guest" "!RB0011">
+"Wait, of course."
+#
+<name "Young Guest" "!QB0004">
+"...I can't say no to that."
+#
+<name "Trendy Guest" "!RB0012">
+"Of course not."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:23A7
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!QB0005">
+"Tonight we drink!"
+#
+<name "Companion" "!RB0013">
+"Yeah! It's a night to celebrate!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2428
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Bearded Man" "!RB0014">
+"My wife won't come back..."
+#
+<name "Laughing Man" "!QB0006">
+"Wahahaha!
+ Cause you cheated on her!"
+#
+<name "Bearded Man" "!RB0015">
+"Cheated?
+ All I did was stop by that place!"
+#
+<name "Laughing Man" "!QB0007">
+"A woman can't forgive that."
+#
+<name "Bearded Man" "!RB0016">
+"Grr...
+ But how'd she find out?"
+#
+<name "Laughing Man" "!QB0008">
+"Wahahaha!
+ I told her!"
+#
+<name "Bearded Man" "!RB0017">
+"Damn you!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:25ED
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Manager" "!UA0023">
+"Celes, what happened to the other two?"
+#
+<name "Celes" "!AA1854">
+"I think they said they were going out to get
+ fish."
+#
+<name "Manager" "!UA0025">
+"That was first thing in the morning.
+ It shouldn't take long if they just buy it 
+ from the usual shops."
+#
+<name "Celes" "!AA1855">
+"Um, they had fishing poles."
+#
+<name "Manager" "!UA0026">
+"...I think I know what they're up to."
+#
+<name "Celes" "!AA1856">
+"Me too."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:27A7
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Guest" "!QB0009">
+"Hmm... What should I order?"
+#
+<name "Waitress Muma" "!NA0035">
+"I recommend this one."
+#
+<name "Guest" "!QB0010">
+"I-I see. Then maybe I'll have that."
+#
+<name "Waitress Elise" "!MA0028">
+"Ah, I like this one."
+#
+<name "Guest" "!QB0011">
+"R-Really?
+ Umm..."
+#
+<name "Manager" "!UA0027">
+"Hey! Quit playing with the customers!"
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2913
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Soldier" "!SB0009">
+"Hmm... What's Celes doing waiting tables 
+ somewhere like this?"
+#
+<name "Wizard" "!QB0012">
+"It's not like you can eat a tournament medal."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:29E1
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Ingway" "!TA0046">
+"Hey! Bring the beer!
+ Aah! Not that one!
+ The other one!"
+#
+<name "Celes" "!AA1857">
+"I'm sorry.
+ I'll bring it right away."
+#
+<name "Ingway" "!TA0047">
+"Mmmm. Now to drink away the day's problems."
+#
+<name "Onlooker" "!SB0010">
+"Hey. That's way too depressing."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2B1A
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Elle" "!CA0167">
+"Celes, I came here to eat."
+#
+<name "Celes" "!AA1858">
+"Elle!"
+#
+<name "Elle" "!CA0168">
+"Let's start with a drink.
+ Then whatever is good, please."
+#
+<name "Celes" "!AA1859">
+"Okay.
+ I won't be able to talk much, but go ahead and
+ take it easy."
+#
+<name "Elle" "!CA0169">
+"All right."
+#
+<name "Manager" "!UA0028">
+"Celes! Celes!"
+#
+<name "Celes" "!AA1860">
+"Sir? What's the matter?"
+#
+<name "Manager" "!UA0029">
+"Y-You know that girl?"
+#
+<name "Celes" "!AA1861">
+"That girl?
+ Oh, you mean Elle?"
+#
+<name "Manager" "!UA0030">
+"Yeah, Elle Bluetact.
+ She's the only daughter of this place's main
+ investor."
+#
+<name "Celes" "!AA1862">
+"Really?"
+#
+<name "Manager" "!UA0031">
+"Yeah, so don't be rude to her.
+ And could you introduce me?"
+#
+<name "Celes" "!AA1863">
+"I-I don't know what to say..."
+#
+<name "Elle" "!CA0171">
+"Celes, is the food still not ready?"
+#
+<name "Manager" "!UA0032">
+"Eep! Hurry up and make it!
+ Let me take over!"
+#
+<name "Celes" "!AA1864">
+"Take over?
+ It's tough running a business."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2EE3
+<music 30>
+<background "ev012a0.iph" 11>
+<name "Soldier" "!QB0013">
+"Beer over here, please!"
+#
+<name "Celes" "!AA1865">
+"Coming!"
+#
+<name "Wizard" "!RB0018">
+"Beer here too!
+ And something to eat!"
+#
+<name "Celes" "!AA1866">
+"Coming!
+ Sir, aren't there any other waitresses here
+ today?"
+#
+<name "Manager" "!UA0033">
+"Sorry. They're supposed to be here though..."
+#
+<name "Celes" "!AA1867">
+"Grr...
+ I'll just have to work hard then."
+#
+<name "Soldier" "!QB0014">
+"Still waiting on that beer!"
+#
+<name "Wizard" "!RB0019">
+"Been waiting forever!"
+#
+<background "ev012b0.iph" 10>
+<name "Celes" "!AA1868">
+"Yes! Right awa... Ah!"
+#
+<name "Manager" "!UA0034">
+"Ah..."
+#
+<name "Soldier" "!QB0015">
+"Ohhh..."
+#
+<name "Wizard" "!RB0020">
+"Nice one."
+#
+<name "Celes" "!AA1869">
+"I'm sorry!
+ Are you okay?"
+#
+<name "Unhappy Man" "!SB0011">
+"Do you think I'm okay?"
+#
+<name "Celes" "!AA1870">
+"N-No?"
+#
+<name "Unhappy Man" "!SB0012">
+"What are you going to pay me to make up for
+ th...agh!"
+#
+<name "Waitress Muma" "!NA0036">
+"Hey! Who do you think you are trying to coerce
+ our Celes!?"
+#
+<name "Celes" "!AA1871">
+"Oh, um, I don't think he was..."
+#
+<name "Waitress Elise" "!MA0029">
+"Anyway, have another!"
+#
+<name "Unhappy Man" "!SB0013">
+"Gwargh!"
+#
+<name "Waitress Muma" "!NA0037">
+"He's still moving. 
+ Aim properly."
+#
+<name "Waitress Elise" "!MA0030">
+"Like this?"
+#
+<name "Waitress Muma" "!NA0038">
+"There we go. He's not moving anymore.
+ So, what happened?"
+#
+<name "Manager" "!UA0035">
+"It's great you're protecting Celes, but it
+ happened because you're so late."
+#
+<name "Waitress Muma" "!NA0039">
+"Huh?"
+#
+<name "Celes" "!AA1872">
+"Hahaha...
+ A-Anyway, what should we do with this poor
+ man?"
+#
+<name "Manager" "!UA0036">
+"He's a jackass if he was mad about an innocent
+ mistake.
+ Drag him into the alley."
+#
+<name "Celes" "!AA1873">
+"...Y-Yes, sir."
+#
+<name "Manager" "!UA0038">
+"We need to have a talk about you being late,
+ but I need you to get to work!
+ Customers are waiting!"
+#
+<name "Waitress Muma" "!NA0040">
+"Y-Yes, sir!"
+#
+<name "Waitress Elise" "!MA0031">
+"We'll do our best!"
+#
+<music 10>
+<background "bg002b0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA1874">
+"And that's what happened..."
+#
+<name "Lazlocke">
+"I feel really bad for that guy."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1875">
+"Yeah. I apologized to him later."
+#
+<name "Lazlocke">
+"Was that the end of it?"
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA1876">
+"Yeah. He said he didn't want any more part of
+ any of it."
+#
+<name "Lazlocke">
+"I can see that.
+ Well, nice that they were looking out for you."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA1877">
+"Yeah."
+#
+<name "Lazlocke">
+"But they were late."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA1878">
+"Hahaha..."
+#
+<removesprite -1 11>
+\x2B\x0A\x24\x00\x0F\x84\x00
+<exit>
+:38A6
+<music 30>
+<background "ev012a0.iph" 11>
+\x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  10 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :3918: 
+<name "Celes" "!AA1881">
+"Order up!♪"
+#
+:3918
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3958: 
+<name "Celes" "!AA1882">
+"Welcome!♪"
+#
+:3958
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :39AA: 
+<name "Celes" "!AA1883">
+"How about you pair this with that?"
+#
+:39AA
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :39EA: 
+<name "Celes" "!AA1884">
+"I'll work hard again today."
+#
+:39EA
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :3A2C: 
+<name "Celes" "!AA1885">
+"Please wait just a moment!♪"
+#
+:3A2C
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :3A66: 
+<name "Celes" "!AA1886">
+"With pleasure!♪"
+#
+:3A66
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :3AAE: 
+<name "Celes" "!AA1887">
+"I think I really like the uniforms here!♪"
+#
+:3AAE
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :3AF4: 
+<name "Celes" "!AA1888">
+"Yes! Coming right away!"
+#
+:3AF4
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :3B38: 
+<name "Celes" "!AA1889">
+"Beer?
+ All right."
+#
+:3B38
+\x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :3B84: 
+<name "Celes" "!AA1890">
+"What should I do if there are a lot of rude
+ guests?"
+#
+:3B84
+<exit>
+\x78
