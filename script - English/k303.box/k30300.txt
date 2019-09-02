@@ -1,0 +1,807 @@
+\x1A\x01\x07\x04\x03\x70\x84\x00\x01\x0E :21: \x16 :4CF: \x0A\x04\x03\x70\x84\x01\x15 :4CE: 
+:21
+\x1A\x01\x07\x04\x03\x71\x84\x00\x01\x0E :42: \x16 :5A6: \x0A\x04\x03\x71\x84\x01\x15 :4CE: 
+:42
+\x1A\x01\x07\x04\x03\x72\x84\x00\x01\x0E :63: \x16 :718: \x0A\x04\x03\x72\x84\x01\x15 :4CE: 
+:63
+\x1A\x01\x07\x04\x03\x73\x84\x00\x01\x0E :84: \x16 :7DD: \x0A\x04\x03\x73\x84\x01\x15 :4CE: 
+:84
+\x2E\x22\x00\x02 1  100 \x1A\x01\x0A\x22\x00\x02 20 \x01\x14 :F9: \x0A\x04\x00\x46\x84\x01
+<music 20>
+\x2B\x2E\x22\x00\x02 1  3 \x8C 918 \x22\x00\x02\x84\x01
+<music 32>
+<background "ev015a0.iph" 11>
+\x2B\x0B\x02\x01\xBD\x02\x01\xBD 1 \x15 :4CE: 
+:F9
+\xE9 3003 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :126: \x15 :4C2: 
+:126
+\x1A\x01\x07\x04\x03\x86\x84\x00\x01\x0E :159: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :159: \x16 :237D: \x0A\x04\x03\x86\x84\x01\x15 :4CE: 
+:159
+\x1A\x01\x07\x04\x03\x87\x84\x00\x01\x0E :194: \xA8 "Œ•" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 8 \x01\x15 :194: \x16 :2542: \x0A\x04\x03\x87\x84\x01\x15 :4CE: 
+:194
+\x1A\x01\x07\x04\x03\x88\x84\x00\x01\x0E :1C7: \x1A\x01\x0A\x02\x00\x8D 1000 \x01\x15 :1C7: \x16 :2623: \x0A\x04\x03\x88\x84\x01\x15 :4CE: 
+:1C7
+\x1A\x01\x07\x04\x03\x89\x84\x00\x01\x0E :1FA: \x1A\x01\x0A\x02\x00\x8D 1000 \x01\x15 :1FA: \x16 :2769: \x0A\x04\x03\x89\x84\x01\x15 :4CE: 
+:1FA
+\x1A\x01\x07\x04\x03\x8A\x84\x00\x01\x0E :22D: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :22D: \x16 :27FA: \x0A\x04\x03\x8A\x84\x01\x15 :4CE: 
+:22D
+\x1A\x01\x07\x04\x03\x8B\x84\x00\x01\x0E :270: \xA8 "Ž¡–ü‚Ì–‚–@" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 5 \x01\x15 :270: \x16 :28AE: \x0A\x04\x03\x8B\x84\x01\x15 :4CE: 
+:270
+\x1A\x01\x07\x04\x03\x74\x84\x00\x01\x0E :291: \x16 :A14: \x0A\x04\x03\x74\x84\x01\x15 :4CE: 
+:291
+\x1A\x01\x07\x04\x03\x75\x84\x00\x01\x0E :2B2: \x16 :BA3: \x0A\x04\x03\x75\x84\x01\x15 :4CE: 
+:2B2
+\x1A\x01\x07\x04\x03\x76\x84\x00\x01\x0E :2D3: \x16 :D0E: \x0A\x04\x03\x76\x84\x01\x15 :4CE: 
+:2D3
+\x1A\x01\x07\x04\x03\x77\x84\x00\x01\x0E :2F4: \x16 :D6B: \x0A\x04\x03\x77\x84\x01\x15 :4CE: 
+:2F4
+\x1A\x01\x07\x04\x03\x78\x84\x00\x01\x0E :315: \x16 :F60: \x0A\x04\x03\x78\x84\x01\x15 :4CE: 
+:315
+\x1A\x01\x07\x04\x03\x79\x84\x00\x01\x0E :336: \x16 :1017: \x0A\x04\x03\x79\x84\x01\x15 :4CE: 
+:336
+\x1A\x01\x07\x04\x03\x7A\x84\x00\x01\x0E :357: \x16 :1095: \x0A\x04\x03\x7A\x84\x01\x15 :4CE: 
+:357
+\x1A\x01\x07\x04\x03\x7B\x84\x00\x01\x0E :378: \x16 :11BC: \x0A\x04\x03\x7B\x84\x01\x15 :4CE: 
+:378
+\x1A\x01\x07\x04\x03\x7C\x84\x00\x01\x0E :399: \x16 :1354: \x0A\x04\x03\x7C\x84\x01\x15 :4CE: 
+:399
+\x1A\x01\x07\x04\x03\x7D\x84\x00\x01\x0E :3BA: \x16 :1578: \x0A\x04\x03\x7D\x84\x01\x15 :4CE: 
+:3BA
+\x1A\x01\x07\x04\x03\x7E\x84\x00\x01\x0E :3DB: \x16 :1698: \x0A\x04\x03\x7E\x84\x01\x15 :4CE: 
+:3DB
+\x1A\x01\x07\x04\x03\x7F\x84\x00\x01\x0E :3FC: \x16 :172F: \x0A\x04\x03\x7F\x84\x01\x15 :4CE: 
+:3FC
+\x1A\x01\x07\x04\x03\x80\x84\x00\x01\x0E :41D: \x16 :183F: \x0A\x04\x03\x80\x84\x01\x15 :4CE: 
+:41D
+\x1A\x01\x07\x04\x03\x81\x84\x00\x01\x0E :43E: \x16 :199A: \x0A\x04\x03\x81\x84\x01\x15 :4CE: 
+:43E
+\x1A\x01\x07\x04\x03 0x8400010E  :45F: \x16 :1C91: \x0A\x04\x03\x82\x84\x01\x15 :4CE: 
+:45F
+\x1A\x01\x07\x04\x03\x83\x84\x00\x01\x0E :480: \x16 :1DED: \x0A\x04\x03\x83\x84\x01\x15 :4CE: 
+:480
+\x1A\x01\x07\x04\x03\x84\x84\x00\x01\x0E :4A1: \x16 :1EEB: \x0A\x04\x03\x84\x84\x01\x15 :4CE: 
+:4A1
+\x1A\x01\x07\x04\x03\x85\x84\x00\x01\x0E :4C2: \x16 :1FCF: \x0A\x04\x03\x85\x84\x01\x15 :4CE: 
+:4C2
+\x16 :2957: \x15 :4CE: 
+:4CE
+\x78
+:4CF
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0016">
+"This adventure is easy, but don't be
+ careless."
+#
+<name "Fencer" "!RB0021">
+"Roger."
+#
+<name "Warrior" "!QB0017">
+"Especially you, newbie.
+ I'm counting on you."
+#
+<name "Celes" "!AA2028">
+"Y-Yes, sir.
+ I'll do my best."
+#
+<exit>
+:5A6
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Celes" "!AA2029">
+"Excuse me, Commander.
+ Can I ask something?"
+#
+<name "Warrior" "!QB0018">
+"Call me leader."
+#
+<name "Celes" "!AA2030">
+"Can I ask a question, Leader?"
+#
+<name "Warrior" "!QB0019">
+"What is it?"
+#
+<name "Celes" "!AA2031">
+"Where are we going?"
+#
+<name "Warrior" "!QB0020">
+"...T-Take unimportant stuff to the subleader."
+#
+<exit>
+:718
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0021">
+"Okay! Let's charge in!
+ Everyone gets an equal share of the treasure
+ we find!
+ Fight hard!"
+#
+<name "Fencer" "!RB0022">
+"Yeah!"
+#
+<name "Celes" "!AA2032">
+"I'll do my best!"
+#
+<exit>
+:7DD
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Fencer" "!RB0023">
+"Gulp...
+ W-We're about to go somewhere even the local
+ villagers stay away from.
+ Better be ready!"
+#
+<name "Celes" "!AA2033">
+"Yes, sir!"
+#
+<name "Fencer" "!RB0024">
+"...Will we really be okay!?"
+#
+<name "Celes" "!AA2034">
+"Yes! We'll be okay!"
+#
+<name "Fencer" "!RB0025">
+"Oh, it's Celes, right?"
+#
+<name "Celes" "!AA2035">
+"Yes?"
+#
+<name "Fencer" "!RB0026">
+"Read the atmosphere!"
+#
+<name "Celes" "!AA2036">
+"O-Okay, but..."
+#
+<name "Warrior" "!QB0022">
+"Don't cause problems by saying unreasonable
+ things.
+ Come on. Let's go."
+#
+<name "Fencer" "!RB0027">
+"E-Eeh!?
+ We really are going?"
+#
+<exit>
+:A14
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0023">
+"I hope we find treasure."
+#
+<name "Celes" "!AA2037">
+"Yeah."
+#
+<name "Warrior" "!QB0024">
+"I wonder if we will."
+#
+<name "Celes" "!AA2038">
+"Let's pray we find some."
+#
+<name "Warrior" "!QB0025">
+"...Can't you find it with magic?"
+#
+<name "Celes" "!AA2039">
+"If there was a useful spell like that,
+ everything would already be taken."
+#
+<name "Warrior" "!QB0026">
+"I-I guess so.
+ Hahaha..."
+#
+<exit>
+:BA3
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0027">
+"Let's go!"
+#
+<name "Fencer" "!RB0031">
+"Yeah!"
+#
+<name "Warrior" "!QB0028">
+"Kill the monsters we find!"
+#
+<name "Fencer" "!RB0032">
+"Yeah!"
+#
+<name "Warrior" "!QB0029">
+"Steal every last piece of treasure!"
+#
+<name "Fencer" "!RB0033">
+"Yeah!"
+#
+<name "Warrior" "!QB0030">
+"And you can lead the way to glory!"
+#
+<name "Fencer" "!RB0034">
+"Eeeh!?"
+#
+<exit>
+:D0E
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0031">
+"Go!"
+#
+<name "Fencer" "!RB0035">
+"Yeah!"
+#
+<exit>
+:D6B
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0032">
+"Proceed carefully."
+#
+<name "Celes" "!AA2040">
+"Yes, sir."
+#
+<name "Fencer" "!RB0036">
+"Don't get careless."
+#
+<name "Celes" "!AA2041">
+"Yes, sir."
+#
+<name "Warrior" "!QB0033">
+"And I hope you can help us however you can."
+#
+<name "Celes" "!AA2042">
+"Then charge in recklessly, and fight hard 
+ through everything that comes." 
+#
+<name "Fencer" "!RB0037">
+"Don't be like that...
+ Aaah! A s-snake!
+ Oh crap! Oh crap!"
+#
+<name "Warrior" "!QB0034">
+"It's coming this way!"
+#
+<name "Celes" "!AA2043">
+"Sigh...
+ If I must..."
+#
+<exit>
+:F60
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0035">
+"Do you still have healing magic left?"
+#
+<name "Healer" "!MA0032">
+"Yes. I can keep going."
+#
+<name "Warrior" "!QB0036">
+"All right.
+ Let's go."
+#
+<name "Healer" "!MA0033">
+"Yep."
+#
+<exit>
+:1017
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Fencer" "!RB0038">
+"I-It go my arm!"
+#
+<name "Healer" "!MA0034">
+"Don't whine.
+ It's just a scratch."
+#
+<exit>
+:1095
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Fencer" "!RB0039">
+"Wizards go in the back!"
+#
+<name "Celes" "!AA2044">
+"Yes, sir!"
+#
+<name "Fencer" "!RB0040">
+"...Maybe I should become a wizard too."
+#
+<name "Warrior" "!QB0037">
+"That's fine, but if you do, go join some other
+ party. We don't need two of them."
+#
+<name "Fencer" "!RB0041">
+"Eeeh!?"
+#
+<exit>
+:11BC
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Fencer" "!RB0042">
+"E-Enemies!"
+#
+<name "Celes" "!AA2045">
+"No, it's just a tree."
+#
+<name "Fencer" "!RB0043">
+"O-Oh...
+ Hahaha..."
+#
+<name "Fencer" "!RB0044">
+"T-This time there's enemies!"
+#
+<name "Celes" "!AA2046">
+"Sorry.
+ That's a rock."
+#
+<name "Fencer" "!RB0045">
+"H-Hahaha..."
+#
+<name "Celes" "!AA2047">
+"You're too skittish.
+ Please try to calm down."
+#
+<name "Fencer" "!RB0046">
+"I-I'll try."
+#
+<exit>
+:1354
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0038">
+"Alpha Two!"
+#
+<name "Brawler" "!SB0076">
+"Clear!"
+#
+<name "Warrior" "!QB0039">
+"Alpha Three!"
+#
+<name "Celes" "!AA2078">
+"Clear!"
+#
+<name "Warrior" "!QB0040">
+"Okay.
+ Stay alert and advance!"
+#
+<name "Brawler" "!SB0077">
+"Roger.
+ Alpha Two, advancing."
+#
+<name "Celes" "!AA2079">
+"Alpha Three, advancing.
+ Um, nobody's listening.
+ Can we not use code names?"
+#
+<name "Warrior" "!QB0041">
+"Eh? But isn't it fun?"
+#
+<name "Brawler" "!SB0078">
+"It fires me up."
+#
+<name "Celes" "!AA2050">
+"...A-All right.
+ Go ahead."
+#
+<exit>
+:1578
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Brawler" "!SB0079">
+"Hmmm...
+ That part-time wizard, can't we make her a
+ regular?"
+#
+<name "Warrior" "!QB0042">
+"That might be hard.
+ If we make her a regular, there'll be no place
+ for our injured wizard to come back to."
+#
+<name "Brawler" "!SB0080">
+"I-I see..."
+#
+<exit>
+:1698
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0043">
+"Agh! They got me!"
+#
+<name "Healer" "!MA0035">
+"Cover me!
+ I'll heal him!"
+#
+<name "Brawler" "!SB0081">
+"On it!"
+#
+<exit>
+:172F
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0044">
+"A treasure chest."
+#
+<name "Brawler" "!SB0082">
+"Yeah."
+#
+<name "Healer" "!MA0036">
+"But it's so obviously trapped.
+ Is anybody really going to fall for that?"
+#
+<name "Fencer" "!RB0047">
+"Aaaaahhhh..."
+#
+<name "Warrior" "!QB0045">
+"Someone like him?"
+#
+<exit>
+:183F
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Healer" "!MA0037">
+"Isn't this a rare herb?"
+#
+<name "Fencer" "!RB0048">
+"Isn't that just a weed?"
+#
+<name "Healer" "!MA0038">
+"Umm, I'm not sure, so let's just take it back
+ with us.
+ Please gather it all up."
+#
+<name "Fencer" "!RB0049">
+"Uh?
+ All of it?"
+#
+<name "Healer" "!MA0040">
+"Just fill the bag."
+#
+<name "Fencer" "!RB0050">
+"I-I'll try."
+#
+<exit>
+:199A
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0047">
+"This door won't open..."
+#
+<name "Healer" "!MA0041">
+"It doesn't push, pull, or slide sideways.
+ Then maybe there's an open and close switch
+ somewhere else?"
+#
+<name "Warrior" "!QB0048">
+"No, I made a map. We've searched everywhere.
+ There's only this door."
+#
+<name "Fencer" "!RB0051">
+"I don't see any kind of devices..."
+#
+<name "Celes" "!AA2051">
+"Um..."
+#
+<name "Warrior" "!QB0049">
+"I know!
+ There's a password!"
+#
+<name "Healer" "!MA0042">
+"I see!
+ So what's the password?"
+#
+<name "Warrior" "!QB0050">
+"We need to figure that out."
+#
+<name "Celes" "!AA2052">
+"Umm..."
+#
+<name "Fencer" "!RB0052">
+"Okay! Let's just say every word from start to
+ finish!"
+#
+<name "Warrior" "!QB0051">
+"Yeah!"
+#
+<name "Celes" "!AA2053">
+"You just need to lift the door up..."
+#
+<exit>
+:1C91
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Fencer" "!RB0053">
+"After this adventure, why don't we get
+ married?"
+#
+<name "Healer" "!MA0043">
+"No way."
+#
+<name "Fencer" "!RB0054">
+"That was quick."
+#
+<name "Healer" "!MA0045">
+"You say it every adventure we go on."
+#
+<name "Fencer" "!RB0055">
+"I'll say it in town next time.
+ Like, when we're done shopping, why don't we
+ get married?"
+#
+<name "Healer" "!MA0046">
+"I told you already no."
+#
+<exit>
+:1DED
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0052">
+"Monster defeated!"
+#
+<name "Fencer" "!RB0056">
+"Okay, let's keep knocking 'em down!"
+#
+<name "Warrior" "!QB0053">
+"Uh, it's a dead end.
+ We have to turn back."
+#
+<name "Fencer" "!RB0057">
+"Awww... Just when I was getting fired up."
+#
+<exit>
+:1EEB
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0054">
+"How's that!?
+ Did you see that!?"
+#
+<name "Fencer" "!RB0058">
+"That's how strong we are!"
+#
+<name "Warrior" "!QB0055">
+"Okay. We've got what to say when we win down
+ pat."
+#
+<name "Fencer" "!RB0059">
+"Now we just need to win the next time we find
+ an enemy."
+#
+<exit>
+:1FCF
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Healer" "!MA0047">
+"Isn't it about time to eat?"
+#
+<name "Fencer" "!RB0060">
+"Yeah.
+ We'll need a fire."
+#
+<name "Celes" "!AA2054">
+"Oh, if you do, I can..."
+#
+<name "Warrior" "!QB0056">
+"No, no. I don't want to waste our valuable
+ wizard's mana.
+ Use it wisely.
+ We'll make the fire."
+#
+<name "Celes" "!AA2055">
+"A-All right."
+#
+<name "Fencer" "!RB0061">
+"Come on. Once you're a seasoned adventurer
+ like us, you'll be able to get a fire going in
+ no time."
+#
+<name "Warrior" "!QB0057">
+"Yeah. This is orthodox. 
+ Just rub sticks together and watch the fire
+ come out."
+#
+One hour later...
+#
+<name "Fencer" "!RB0064">
+"........."
+#
+<name "Warrior" "!QB0058">
+".................."
+#
+<name "Healer" "!MA0048">
+"Men, is the fire still not ready yet?"
+#
+<name "Fencer" "!RB0065">
+"Agh..."
+#
+<name "Warrior" "!QB0059">
+"Ngh..."
+#
+<name "Healer" "!MA0050">
+"Crying won't start a fire."
+#
+<name "Celes" "!AA2056">
+"Ohh... The stamina and pride of our valuable
+ fighters was all wasted..."
+#
+<exit>
+:237D
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0060">
+"Celes, you're a wizard, right?"
+#
+<name "Celes" "!AA2057">
+"Yes, that's right."
+#
+<name "Warrior" "!QB0061">
+"I see...
+ Can I ask a question?"
+#
+<name "Celes" "!AA2058">
+"What is it?"
+#
+<name "Warrior" "!QB0062">
+"When we run into a monster, you hit it, right?
+ Or use a weapon?"
+#
+<name "Celes" "!AA2059">
+"Yes."
+#
+<name "Warrior" "!QB0063">
+"...Again, you're a wizard, right?"
+#
+<name "Celes" "!AA2060">
+"Yes. I'm a wizard."
+#
+<exit>
+:2542
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Celes" "!AA2061">
+"Hya!"
+#
+<name "Warrior" "!QB0064">
+"Magnificent..."
+#
+<name "Healer" "!MA0051">
+"Yes. She's an impressive swordsman."
+#
+<name "Warrior" "!QB0065">
+"No, she's a wizard."
+#
+<name "Healer" "!MA0052">
+"Eeeh!?"
+#
+<exit>
+:2623
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Celes" "!AA2062">
+"Yah!"
+#
+<name "Healer" "!MA0053">
+"Huh?"
+#
+<name "Fencer" "!RB0066">
+"What is it?"
+#
+<name "Healer" "!MA0054">
+"I thought I just saw that wizard girl punch
+ out a monster."
+#
+<name "Fencer" "!RB0067">
+"Wizards these days brawl."
+#
+<name "Healer" "!MA0055">
+"I-I see."
+#
+<exit>
+:2769
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Fencer" "!RB0068">
+"I've been thinking...
+ Wouldn't it be better for you to be on the
+ front line?"
+#
+<name "Celes" "!AA2063">
+"No, a wizard belongs in the back."
+#
+<exit>
+:27FA
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Warrior" "!QB0066">
+"Yah! Yah! Yah!"
+#
+<name "Celes" "!AA2064">
+"Hyah!"
+#
+<name "Warrior" "!QB0067">
+".........S-She's on another level.
+ I'm gonna get depressed..."
+#
+<exit>
+:28AE
+<music 32>
+<background "ev015a0.iph" 11>
+<name "Healer" "!MA0056">
+"Do you want me to heal you?"
+#
+<name "Celes" "!AA2065">
+"No, I can do it myself."
+#
+<name "Healer" "!MA0057">
+"Ohhh... I don't have any purpose..."
+#
+<exit>
+:2957
+<music 32>
+<background "ev015a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  13 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :29B5: 
+<name "Celes" "!AA2069">
+"A monster!"
+#
+:29B5
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :29FD: 
+<name "Celes" "!AA2070">
+"I'm looking forward to this adventure."
+#
+:29FD
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2A45: 
+<name "Celes" "!AA2071">
+"A treasure map?
+ This should be fun."
+#
+:2A45
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2A87: 
+<name "Celes" "!AA2072">
+"This adventure should be fun."
+#
+:2A87
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2AC7: 
+<name "Celes" "!AA2073">
+"Let's do our best."
+#
+:2AC7
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :2B07: 
+<name "Celes" "!AA2074">
+"Leave the magic to me."
+#
+:2B07
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :2B3D: 
+<name "Celes" "!AA2075">
+"Be careful."
+#
+:2B3D
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :2B87: 
+<name "Celes" "!AA2076">
+"I have to be ready to use magic at any moment."
+#
+:2B87
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :2BCB: 
+<name "Celes" "!AA2077">
+"Absolutely no carelessness.
+ I've got to do my best."
+#
+:2BCB
+\x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :2BFB: 
+<name "Warrior" "!QB0068">
+"To adventure!"
+#
+:2BFB
+\x1A\x01\x0A\x22\x00\x01 11 \x01\x0E :2C2F: 
+<name "Warrior" "!QB0069">
+"Let's go!"
+#
+:2C2F
+\x1A\x01\x0A\x22\x00\x01 12 \x01\x0E :2C67: 
+<name "Warrior" "!QB0070">
+"Don't let your guard down!"
+#
+:2C67
+\x1A\x01\x0A\x22\x00\x01 13 \x01\x0E :2CA7: 
+<name "Warrior" "!QB0071">
+"Celes, fight!"
+#
+:2CA7
+<exit>
+\x78
