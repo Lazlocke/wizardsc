@@ -55,460 +55,462 @@
 :5A4
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2080">
-「今日は厨房で働くんですね」
+"I'm working in the kitchen today?"
 #
-<name "店長" "!UA0041">
-「ああ、頼んだよ」
+<name "Manager" "!UA0041">
+"Yeah, please."
 #
 <exit>
 :612
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2081">
-「よろしくお願いします」
+"I'm looking forward to working with you."
 #
-<name "店長" "!UA0042">
-「ああ、頼んだよ。
-　レシピはそこにあるからね」
+<name "Manager" "!UA0042">
+"Yeah, thanks.
+ The recipe is right there."
 #
 <name "Celes" "!AA2082">
-「わかりました。
-　頑張ります！」
+"All right.
+ I'll do my best!"
 #
 <exit>
 :6D4
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0043">
-「セリス君。
-　評判が良いよ。
-　この調子で、どんどんやってね」
+<name "Manager" "!UA0043">
+"Celes, they're enjoying it.
+ Keep it coming, just like that."
 #
 <name "Celes" "!AA2083">
-「はい♪」
+"Yes, sir!♪"
 #
 <exit>
 :760
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0046">
-「セリス君。
-　その……君の料理は独特だね」
+<name "Manager" "!UA0046">
+"Celes, um, your cooking is unique, huh?"
 #
 <name "Celes" "!AA2085">
-「それは褒め言葉ですか？」
+"Is that a compliment?"
 #
-<name "店長" "!UA0047">
-「いや、違う」
+<name "Manager" "!UA0047">
+"No, it's not."
 #
 <exit>
 :809
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0048">
-「セリス君。
-　……評判が悪い。
-　料理、中止」
+<name "Manager" "!UA0048">
+"Celes, they hate it.
+ Stop cooking."
 #
 <name "Celes" "!AA2086">
-「そんなぁ～」
+"No way!"
 #
 <exit>
 :889
 <background "ev087a0.iph" 11>
-<name "従業員ムーマ" "!NA0041">
-「お客がドンドン増えてきたぁ～」
+<name "Waitress Muma" "!NA0041">
+"One guest after another keeps coming in."
 #
-<name "従業員エリス" "!MA0059">
-「パニックにならず、確実に対処」
+<name "Waitress Elise" "!MA0059">
+"Don't panic.
+ Just deal with it."
 #
-<name "従業員ムーマ" "!NA0042">
-「そ、そうね……
-　厨房は大丈夫かな」
+<name "Waitress Muma" "!NA0042">
+"Y-Yeah...
+ Is the kitchen going to be okay?"
 #
 <name "Celes" "!AA2087">
-「し、死ぬ……」
+"I-I'm gonna die..."
 #
 <exit>
 :980
 <background "ev087a0.iph" 11>
-<name "従業員ムーマ" "!NA0043">
-「オーダー入ったよ」
+<name "Waitress Muma" "!NA0043">
+"Order in."
 #
 <name "Celes" "!AA2088">
-「はーい。
-　急いで用意しまーす」
+"Yep!
+ Be ready in just a minute!"
 #
 <exit>
 :9FF
 <background "ev087a0.iph" 11>
-<name "従業員エリス" "!MA0060">
-「ごめん、オーダーミスしちゃった」
+<name "Waitress Elise" "!MA0060">
+"Sorry, I made a mistake in the order."
 #
 <name "Celes" "!AA2089">
-「仕方がありません。
-　まかないにしましょう」
+"It happens.
+ I'll just remake it."
 #
-<name "従業員エリス" "!MA0061">
-「ごめんね」
+<name "Waitress Elise" "!MA0061">
+"Sorry."
 #
 <exit>
 :AC0
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2090">
-「今日もお料理、頑張らなくっちゃ♪」
+"I'm going to cook my heart out today!♪"
 #
 <name "Celes" "!AA2091">
-「ええと……火は強火……
-　強くない。
-　油、油……」
+"Um... Fire's set high...
+ But it's not very hot.
+ Where's the oil..."
 #
-<name "店長" "!UA0049">
-「セリス君。
-　火に油を注ぐのは止めようね」
+<name "Manager" "!UA0049">
+"Celes, please don't pour oil on the fire."
 #
 <exit>
 :B9F
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2092">
-「私の料理で、客を唸らせてみせる！」
+"My cooking will make the customers ooh and
+ aah!"
 #
-<name "店長" "!UA0050">
-「セリス君！
-　お客が悶絶して倒れてるよ！」
+<name "Manager" "!UA0050">
+"Celes, they're passing out unconscious!"
 #
 <name "Celes" "!AA2093">
-「……あれ？」
+"...Huh?"
 #
 <exit>
 :C54
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2094">
-「お料理、お料理、楽しいなぁ♪」
+"Cooking.♪ Cooking.♪
+ So much fun.♪"
 #
-<name "店長" "!UA0051">
-「これで味さえよければ、文句無しなのに……」
+<name "Manager" "!UA0051">
+"As long as it tastes good, that's fine..."
 #
 <exit>
 :CE0
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2095">
-「優秀な料理人は、食材から作る料理を考える。
-　今日の食材では……この料理しかない！」
+"An excellent cook considers every individual
+ ingredient in each dish.
+ With what we have today... it has to be this!"
 #
-<name "店長" "!UA0052">
-「あ、いや……
-　注文通りに作ってくれないと困るんだけど」
+<name "Manager" "!UA0052">
+"Oh, um...
+ I really need you to just make what was
+ ordered."
 #
 <exit>
 :DB2
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0053">
-「セリス君。
-　私の経験的にだね。
-　紫色は危険色だと思う。
-　特に食事では」
+<name "Manager" "!UA0053">
+"Celes, I've learned a lot, and I consider 
+ purple to be a dangerous color, especially in
+ food."
 #
 <name "Celes" "!AA2096">
-「葡萄やワインは毒物だと言うのですか！」
+"Are you saying grapes and wine are poisonous!?"
 #
-<name "店長" "!UA0054">
-「じゃあ、食べてみてよ」
+<name "Manager" "!UA0054">
+"Well, eat that then."
 #
 <name "Celes" "!AA2097">
-「……」
+"..."
 #
-<name "店長" "!UA0055">
-「ほら、ほら」
+<name "Manager" "!UA0055">
+"Go on."
 #
 <name "Celes" "!AA2098">
-「うう、すみませんでした……」
+"Ohhh...
+ I'm sorry."
 #
 <exit>
 :F0B
 <background "ev087a0.iph" 11>
 <name "Lazlocke">
-「セリス。
-　様子を見に来たぞ」
+"I came by to check up on Celes."
 #
-<name "店長" "!UA0056">
-「……アンタがセリス君の師匠か？」
-#
-<name "Lazlocke">
-「え？
-　あ、はい」
-#
-<name "店長" "!UA0057">
-「そうか。
-　じゃあ、これを食べてみろ」
+<name "Manager" "!UA0056">
+"...Are you her master?"
 #
 <name "Lazlocke">
-「……これは？」
+"Huh?
+ Oh, yes."
 #
-<name "店長" "!UA0058">
-「セリス君の料理だ」
-#
-<name "Lazlocke">
-「消し炭じゃなくて？」
-#
-<name "店長" "!UA0059">
-「そうだ」
+<name "Manager" "!UA0057">
+"I see.
+ Then please eat this."
 #
 <name "Lazlocke">
-「………………家でも、料理の勉強をさせます」
+"...What is it?"
 #
-<name "店長" "!UA0060">
-「よろしく頼む」
+<name "Manager" "!UA0058">
+"Some of her cooking."
+#
+<name "Lazlocke">
+"Isn't that charcoal?"
+#
+<name "Manager" "!UA0059">
+"It is."
+#
+<name "Lazlocke">
+"...I'll add cooking to the thinks she needs to
+ study."
+#
+<name "Manager" "!UA0060">
+"Thank you."
 #
 <exit>
 :10E0
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0061">
-「セリス君、料理が上手だね」
+<name "Manager" "!UA0061">
+"Celes, you're a good cook, huh?"
 #
 <name "Celes" "!AA2099">
-「え、そうですか？」
+"Huh? Am I?"
 #
-<name "店長" "!UA0062">
-「ああ、お客の評判も上々さ。
-　これからも頑張ってね」
+<name "Manager" "!UA0062">
+"Yeah. The guests are happy with you.
+ Keep up the hard work."
 #
 <name "Celes" "!AA2100">
-「はい♪」
+"Yes, sir!♪"
 #
 <exit>
 :11BB
 <background "ev087a0.iph" 11>
-<name "従業員ムーマ" "!NA0048">
-「この料理なら、私でも勝てると思う」
+<name "Waitress Muma" "!NA0048">
+"If that's what's being cooked, I think I could
+ win."
 #
-<name "従業員エリス" "!MA0062">
-「私も」
+<name "Waitress Elise" "!MA0062">
+"Me too."
 #
-<name "店長" "!UA0063">
-「だったら、厨房に入ってみるか？」
+<name "Manager" "!UA0063">
+"Then why don't you join the kitchen?"
 #
-<name "従業員ムーマ" "!NA0050">
-「すみません。
-　見栄を張りました」
+<name "Waitress Muma" "!NA0050">
+"Sorry.
+ I was just bragging."
 #
-<name "従業員エリス" "!MA0063">
-「私もです」
+<name "Waitress Elise" "!MA0063">
+"Me too."
 #
 <exit>
 :12D4
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0064">
-「セリス君。
-　オーダー入ったよ。
-　頑張ってね」
+<name "Manager" "!UA0064">
+"Celes, order in.
+ Work hard."
 #
 <name "Celes" "!AA2101">
-「お任せください、オーナー。
-　この私の料理で、全てのお客を満足させてみせま
-　しょう」
+"Leave it to me, owner.
+ I'll satisfy all our guests with my cooking."
 #
-<name "店長" "!UA0067">
-「おおっ、流石評判シェフ！」
+<name "Manager" "!UA0067">
+"Yeah! 
+ I'd expect no less from our star chef!"
 #
 <exit>
 :13D2
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0068">
-「セリス君、料理が上手だね」
+<name "Manager" "!UA0068">
+"Celes, you're a good cook, huh?"
 #
 <name "Celes" "!AA2102">
-「それほどでも……」
+"Not really..."
 #
-<name "店長" "!UA0069">
-「いやいや、上手だよ」
+<name "Manager" "!UA0069">
+"No, no.
+ You've got skill."
 #
 <name "Celes" "!AA2103">
-「あはは……
-　ありがとうございます。
-　でも、褒められると調子に乗って失敗しちゃうの
-　で、ほどほどにお願いします」
+"Hahaha...
+ Thank you, but I get cocky when people praise
+ me and start messing up, so please only do it
+ a little."
 #
 <exit>
 :14FB
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2104">
-「店長、私の料理の評判はどうですか？」
+"Sir, what are they saying about my cooking?"
 #
-<name "店長" "!UA0070">
-「いいよー。
-　時々、厨房から流れてくる笑い声に不気味がられ
-　ているけど」
+<name "Manager" "!UA0070">
+"It's good, but the laughing sometimes coming
+ from the kitchen is creepy."
 #
 <name "Celes" "!AA2105">
-「あはは……
-　集中していると、笑っちゃうんですよね」
+"Hahaha...
+ Sometimes I just laugh when I'm focused."
 #
 <exit>
 :15FC
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0072">
-「セリス君、今日の新作。
-　評判だよ」
+<name "Manager" "!UA0072">
+"Celes, that new dish today is a hit."
 #
 <name "Celes" "!AA2106">
-「えへへ、師匠が教えてくれたんです」
+"Hahaha.
+ My master taught me that one."
 #
-<name "店長" "!UA0073">
-「そうか。
-　セリス君の師匠、さぞや立派な料理人なんだろう
-　ねぇ」
+<name "Manager" "!UA0073">
+"I see.
+ Your master must be a splendid cook."
 #
 <name "Celes" "!AA2107">
-「あ、あはは……」
+"H-Hahaha..."
 #
 <exit>
 :1709
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0074">
-「セリス君、一つの食材でコースを作れるかい？」
+<name "Manager" "!UA0074">
+"Celes, can you make a whole meal from a single
+ food?"
 #
 <name "Celes" "!AA2109">
-「……それは挑戦ですね」
+"...That sounds like a challenge."
 #
-<name "店長" "!UA0076">
-「い、いや、そういうワケじゃないけど……」
+<name "Manager" "!UA0076">
+"N-No, that's not what I meant..."
 #
 <name "Celes" "!AA2110">
-「煮る、蒸す、焼く、揚げる、そして生を極めた私
-　に不可能はありません。
-　お任せください」
+"There's nothing I can't boil, steam, bake, fry
+ or serve raw.
+ Leave it to me!"
 #
-<name "店長" "!UA0077">
-「じゃあ……はい」
+<name "Manager" "!UA0077">
+"Then... here."
 #
 <name "Celes" "!AA2111">
-「………………ニンジン？」
+".........Carrots?"
 #
-<name "店長" "!UA0078">
-「ああ、間違って大量に仕入れちゃってさ。
-　頼んだよ。
-　メニューに書いてくるから」
+<name "Manager" "!UA0078">
+"Yeah. We're hugely overstocked due to a
+ mistake.
+ I'm counting on you.
+ I'll write up the menu."
 #
 <name "Celes" "!AA2112">
-「…………ガ、ガンバリマス」
+".......I-I'll try."
 #
 <exit>
 :1933
 <background "ev087a0.iph" 11>
-<name "驚愕するお客" "!TB0000">
-「な、なんだ、この料理は……」
+<name "Surprised Man" "!TB0000">
+"W-What is this dish?"
 #
-<name "店長" "!UA0079">
-「お客様。
-　当店の料理に何か不都合でもありましたか？」
+<name "Manager" "!UA0079">
+"Sir, is there a problem with your food?"
 #
-<name "驚愕するお客" "!TB0001">
-「いや、違う。
-　美味いんだ。
-　こんな料理、食べた事が無い！
-　絶賛だ！」
+<name "Surprised Man" "!TB0001">
+"No. Not at all.
+ It's delicious.
+ I've never had anything like it!
+ It's incredible!"
 #
-<name "店長" "!UA0080">
-「ありがとうございます」
+<name "Manager" "!UA0080">
+"Thank you very much."
 #
 <exit>
 :1A67
 <background "ev087a0.iph" 11>
-<name "店長" "!UA0081">
-「セリス君。
-　評判良いよ、この調子でドンドン作ってね」
+<name "Manager" "!UA0081">
+"Celes, it's a hit.
+ Keep it coming."
 #
 <name "Celes" "!AA2113">
-「はい。
-　頑張ります」
+"Yes, sir.
+ I'll do my best."
 #
 <exit>
 :1AF9
 <background "ev087a0.iph" 11>
 <name "Celes" "!AA2114">
-「試食をお願いします」
+"Please have a taste."
 #
-<name "店長" "!UA0082">
-「むう、美味い……」
+<name "Manager" "!UA0082">
+"Mm. Delicious."
 #
-<name "従業員エリス" "!MA0064">
-「美味しい……」
+<name "Waitress Elise" "!MA0064">
+"It's delicious."
 #
-<name "従業員ムーマ" "!NA0051">
-「おかわりー」
+<name "Waitress Muma" "!NA0051">
+"More!"
 #
 <name "Celes" "!AA2115">
-「評判は上々っと」
+"It's going to be pretty popular."
 #
 <exit>
 :1BE1
 <background "ev087a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  14 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1C56: 
 <name "Celes" "!AA2119">
-「料理って……魔法に通じるモノがあるかも」
+"Cooking...
+ I wonder if it can help me learn magic
+ somehow."
 #
 :1C56
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1C92: 
 <name "Celes" "!AA2120">
-「料理、頑張るぞ！」
+"I'm going to cook my heart out!"
 #
 :1C92
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1CEF: 
 <name "Celes" "!AA2121">
-「名コック、セリス！
-　そう呼ばれる日がいつか……」
+"Chef Celes!
+ Maybe one day I'll be called that..."
 #
 :1CEF
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1D2B: 
 <name "Celes" "!AA2122">
-「料理って楽しい♪」
+"Cooking's fun.♪"
 #
 :1D2B
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1D79: 
 <name "Celes" "!AA2123">
-「私の料理で、皆が喜んでくれれば……」
+"I hope everyone likes my cooking."
 #
 :1D79
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1DAF: 
 <name "Celes" "!AA2124">
-「頑張ります」
+"I'll do my best."
 #
 :1DAF
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :1DF1: 
-<name "店長" "!UA0083">
-「セリス君、注文が入ったよ」
+<name "Manager" "!UA0083">
+"Celes, order in."
 #
 :1DF1
 \x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :1E35: 
-<name "店長" "!UA0084">
-「セリス君、今日も頑張ってね」
+<name "Manager" "!UA0084">
+"Celes, work hard today, all right?"
 #
 :1E35
 \x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :1E7B: 
-<name "店長" "!UA0085">
-「セリス君、注文が溜まってるよ」
+<name "Manager" "!UA0085">
+"Celes, orders are piling up."
 #
 :1E7B
 \x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :1EC1: 
-<name "店長" "!UA0086">
-「セリス君、オーダーが入ったよ」
+<name "Manager" "!UA0086">
+"Celes, order's come in."
 #
 :1EC1
 \x1A\x01\x0A\x22\x00\x01 11 \x01\x0E :1F07: 
-<name "従業員エリス" "!MA0065">
-「オーダーが入ったわよ」
+<name "Waitress Elise" "!MA0065">
+"Order in."
 #
 :1F07
 \x1A\x01\x0A\x22\x00\x01 12 \x01\x0E :1F43: 
-<name "従業員エリス" "!MA0066">
-「運びまーす」
+<name "Waitress Elise" "!MA0066">
+"Coming up!"
 #
 :1F43
 \x1A\x01\x0A\x22\x00\x01 13 \x01\x0E :1F8B: 
-<name "従業員ムーマ" "!NA0052">
-「オーダーが入りましたぁ」
+<name "Waitress Muma" "!NA0052">
+"Order in!"
 #
 :1F8B
 \x1A\x01\x0A\x22\x00\x01 14 \x01\x0E :1FC5: 
-<name "従業員ムーマ" "!NA0053">
-「運ぶよー」
+<name "Waitress Muma" "!NA0053">
+"Coming up!"
 #
 :1FC5
 <exit>
