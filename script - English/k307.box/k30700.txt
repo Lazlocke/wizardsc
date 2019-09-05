@@ -61,18 +61,18 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA2237">
-「研究のお手伝いですか？」
+"Help with research?"
 #
 <name "Lazlocke">
-「ああ、他の魔法使いの所に行って、アシスタント
-　だ。
-　勉強して来い」
+"Yeah. Go to another wizard and be their 
+ assistant.
+ Think of it as another way to study."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2238">
-「はい。
-　わかりました。
-　頑張ります」
+"Yes, sir. 
+ I understand.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -81,14 +81,14 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA2239">
-「行ってきます」
+"I'm off."
 #
 <name "Lazlocke">
-「ああ、注意していけ」
+"Yeah. Take care.'
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2240">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -96,11 +96,12 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <name "Lazlocke">
-「先方には、話をつけてあるから安心しろ」
+"I've talked to them about you, so don't worry
+ about it."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA2241">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -109,31 +110,30 @@
 <background "bg001a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA2242">
-「アルバイトに行ってきます」
+"I'm off to my job."
 #
 <name "Lazlocke">
-「おう、注意していけよ」
+"Yeah. Take care."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2243">
-「はい」
+"Yes, sir."
 #
 <name "Lazlocke">
-「実験台にされそうになったら、逃げろよ」
+"If they try to use you as a guinea pig, run."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA2244">
-「え？
-　そんな危ない人なんですか？
-　今日のアルバイト先」
+"Huh?
+ Is the person I'm working for today dangerous?"
 #
 <name "Lazlocke">
-「冗談だ。
-　安心しろ」
+"It was just a joke.
+ Don't worry."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA2245">
-「め、目を見て言ってください！」
+"L-Look me in the eyes when you say that!"
 #
 <removesprite -1 11>
 <exit>
@@ -142,28 +142,28 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA2246">
-「ええと、今日は……あれ？
-　行き先、変更ですか？」
+"Umm, today's... huh?
+ Am I going somewhere different?"
 #
 <name "Lazlocke">
-「ああ、その魔法使い。
-　ダンジョンに潜ってから、帰ってきてないらしい」
+"Yeah, that wizard went MIA after going into
+ some dungeon."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA2247">
-「ええっ？
-　大丈夫なんですか？」
+"Eeh?
+ Is he okay?"
 #
 <name "Lazlocke">
-「協会の救援部隊が動いてる。
-　心配するな。
-　それよりも、変更になった相手先に失礼の無いよ
-　うにな」
+"The Guild's already sent a rescue team.
+ Don't worry about him.
+　More importantly, don't be rude to his
+ replacement."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA2248">
-「はい。
-　頑張ってきます」
+"Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -171,23 +171,24 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2249">
-「むう、地味で面倒な仕事が多い……」
+"Ugh... There's some many mundane, annoying
+ chores to do."
 #
-<name "魔法使い" "!IA0000">
-「アルバイトを雇ってやるような事だからね。
-　派手で楽な仕事ならアルバイトを雇ったりしない
-　わよ」
+<name "Wizard" "!IA0000">
+"That's why they hired someone else to do them.
+ If they were flashy and easy, they would've
+ done the work themselves."
 #
 <name "Celes" "!AA2250">
-「えっと……」
+"Umm..."
 #
-<name "魔法使い" "!IA0001">
-「私もバイト。
-　コニーよ。
-　よろしくね」
+<name "Wizard" "!IA0001">
+"I was hired too.
+ It's Connie.
+ Pleased to meet you."
 #
 <name "Celes" "!AA2251">
-「は、はい」
+"O-Okay."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -195,93 +196,94 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2252">
-「ええと、今日は研究室で調合実験と、経過検査っ
-　と……」
+"Umm... Today I'm supposed to inspect how the
+ experiments in the lab are going..."
 #
-<name "コニー" "!IA0003">
-「頑張っているわね」
+<name "Connie" "!IA0003">
+"Hard at work, huh?"
 #
 <name "Celes" "!AA2253">
-「あ、こんにちは」
+"Oh, hello."
 #
-<name "コニー" "!IA0004">
-「また、一緒ね。
-　頑張りましょう」
+<name "Connie" "!IA0004">
+"Looks like it's both of us again.
+ Let's work hard."
 #
 <name "Celes" "!AA2254">
-「はい」
+"Okay."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :D99
 <music 11>
 <background "ev019a0.iph" 11>
-<name "コニー" "!IA0005">
-「魔法使いの生の実験を見れるのって、すごく勉強
-　になるの」
+<name "Connie" "!IA0005">
+"You can learn a lot from seeing a wizard's
+ experiments in progress."
 #
 <name "Celes" "!AA2255">
-「そうね。
-　タメになるわ」
+"Yeah.
+ It's a good learning experience."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :E42
 <music 11>
 <background "ev019a0.iph" 11>
-<name "コニー" "!IA0006">
-「貴女。
-　戦闘向きの魔法にばっかり興味を持つわね」
+<name "Connie" "!IA0006">
+"You're only interested in combat magic, huh?"
 #
 <name "Celes" "!AA2256">
-「え？
-　そ、そうかな」
+"Huh?
+ I-I guess."
 #
-<name "コニー" "!IA0013">
-「せっかく見れるんだから、色々と興味を持った方
-　が良いわよ」
+<name "Connie" "!IA0013">
+"It's rare you get to see this, so you should be
+ interested in all kinds of things."
 #
 <name "Celes" "!AA2257">
-「あはは……
-　頑張ってみる」
+"Hahaha...
+ I'll try."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :F69
 <music 11>
 <background "ev019a0.iph" 11>
-<name "コニー" "!IA0008">
-「私、魔法学園の生徒なの。
-　貴女は？」
+<name "Connie" "!IA0008">
+"I'm a student at the magic school.
+ How about you?"
 #
 <name "Celes" "!AA2258">
-「私は、魔法使いの家に住み込みで勉強中なの」
+"I'm studying by living in a wizard's house."
 #
-<name "コニー" "!IA0009">
-「へー、凄いじゃない。
-　最近、弟子を取ってくれる魔法使いも減ったのに」
+<name "Connie" "!IA0009">
+"Oh? That's great.
+ These days, hardly any wizards take apprentices
+ anymore."
 #
 <name "Celes" "!AA2259">
-「ぐ、偶然、運良くで……
-　まだまだ、勉強中」
+"I-It was just luck...
+ I'm still studying."
 #
-<name "コニー" "!IA0010">
-「お互い、頑張りましょうね」
+<name "Connie" "!IA0010">
+"Let's both work hard."
 #
 <name "Celes" "!AA2260">
-「うん」
+"Yeah."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :1101
 <music 11>
 <background "ev019a0.iph" 11>
-<name "コニー" "!IA0012">
-「この資料、まとめろって。
-　私はここから始めるから、貴女はここからね」
+<name "Connie" "!IA0012">
+"We need to summarize these documents.
+ I'll start with these.
+ You do those."
 #
 <name "Celes" "!AA2261">
-「了解」
+"All right."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -289,22 +291,21 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2262">
-「……あれ？」
+"...Huh?"
 #
 <name "Viola" "!BA0195">
-「どうしたの？」
+"What is it?"
 #
 <name "Celes" "!AA2263">
-「今日のアルバイト先は、ヴィオラさんの所だって
-　知らなかったもので」
+"I didn't realize my work today was with you."
 #
 <name "Viola" "!BA0196">
-「そう……ラズロックの弟子だからって、甘やかさ
-　ないからね」
+"Indeed. Don't expect me to go easy on you just
+ because you're Lazlocke's apprentice."
 #
 <name "Celes" "!AA2264">
-「は、はい！
-　頑張ります」
+"Y-Yes, ma'am!
+ I'll do my best."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -312,19 +313,17 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Elle" "!CA0172">
-「セリス。
-　今日も、師匠のお手伝い？」
+"Celes, are you helping my master today?"
 #
 <name "Celes" "!AA2265">
-「うん。
-　イエルちゃんは？」
+"Yeah. What about you?"
 #
 <name "Elle" "!CA0173">
-「私も。
-　頑張ろうね」
+"Me too.
+ Let's do our best."
 #
 <name "Celes" "!AA2266">
-「うん」
+"Yeah."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -332,19 +331,19 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Viola" "!BA0197">
-「その薬と、こっちの薬。
-　１対９から９対１までのバリエーションで調合し
-　て、結果をレポート」
+"This potion and this potion.
+ Mix them at one to nine, and nine to one, and
+ report the results."
 #
 <name "Celes" "!AA2267">
-「はい」
+"Yes, ma'am."
 #
 <name "Viola" "!BA0198">
-「調合する薬の種類をドンドンと増やしていくから、
-　手早くね」
+"This kind of mixed potions reacts very quickly,
+ so don't waste time."
 #
 <name "Celes" "!AA2268">
-「頑張ります」
+"I'll do my best."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -352,25 +351,27 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2269">
-「お手伝いに来ました」
+"I'm here to help."
 #
 <name "Viola" "!BA0199">
-「よく来たわね。
-　仕事、用意してるわよ」
+"Good timing.
+ I have a job for you."
 #
 <name "Celes" "!AA2270">
-「はい。
-　頑張ります」
+"Yes, ma'am.
+ I'll do my best."
 #
 <name "Elle" "!CA0174">
-「むう……
-　私も、外にお手伝いに出た方が良いのかな」
+"Grr...
+ Maybe I should find somewhere else to help 
+ too."
 #
 <name "Viola" "!BA0200">
-「……その前に、私の出した課題をクリアする事」
+"Before you do that, finish cleaning up the
+ mess you made."
 #
 <name "Elle" "!CA0175">
-「は、はい」
+"Y-Yes, ma'am."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -378,37 +379,37 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2271">
-「うう、ヴィオラさんの所でのアルバイト、ツライ」
+"Ohhh... Working at Viola's place is so
+ stressful."
 #
 <name "Viola" "!BA0201">
-「そう？
-　ラズロックの所で弟子をやる方がツライと思うけ
-　ど？」
+"Is it? 
+ I would think it's harder just being Lazlocke's
+ apprentice."
 #
 <name "Celes" "!AA2272">
-「そうですか？」
+"Really?"
 #
 <name "Viola" "!BA0202">
-「ラズロックは昔、学園で教師をやっていたけど、
-　かなり厳しいって有名だったのよ」
+"He used to teach at the school.
+ He was infamous for how strict he was."
 #
 <name "Celes" "!AA2273">
-「そ、そうなんだ……」
+"I-I see..."
 #
 <name "Viola" "!BA0203">
-「まあ、その分、優秀な生徒をたくさん卒業させて
-　いたけどね」
+"Well, thanks to that, he produced a number of
+ excellent students."
 #
 <name "Celes" "!AA2274">
-「へ、へー……」
+"O-Oohh..."
 #
 <name "Viola" "!BA0204">
-「さて。
-　ツライのが嫌なら、もう少し楽にしましょうか？」
+"Now then, if it's so hard for you, perhaps I
+ should arrange something easier."
 #
 <name "Celes" "!AA2275">
-「い、いえ。
-　厳しい感じでお願いします」
+"N-No. Please be tough on me."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -416,27 +417,27 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2276">
-「魔法使いって、何かしら研究とかしているんです
-　か？」
+"Wizards all seem to do research, don't they?"
 #
 <name "Viola" "!BA0205">
-「普通はそうね。
-　魔法使いとは、研究者であり、探求者でもあるわ
-　けだから」
+"That's normal.
+ Being a wizard means beings a researcher, and
+ a seeker."
 #
 <name "Celes" "!AA2277">
-「そっか……」
+"Oh..."
 #
 <name "Viola" "!BA0206">
-「ちなみに、研究成果によれば協会が報奨金を出し
-　てくれたり、多額で買い取ってくれる場合もある
-　わよ」
+"What's more, the Guild pays a reward based on
+ the results of your research.
+ They may even buy it off you for quite a bit."
 #
 <name "Celes" "!AA2278">
-「そ、そうなんですか？」
+"R-Really?"
 #
 <name "Viola" "!BA0207">
-「それを目当てに研究してる人は少ないけどね」
+"It's not like there are a bunch of people who
+ study this stuff though."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -444,15 +445,16 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2279">
-「むう、難しい……」
+"Grr...
+ This is complicated."
 #
 <name "Viola" "!BA0208">
-「手間が掛かるなら、戻して頂戴。
-　私がやるから」
+"If it's going to take too long, give it back to
+ me. I'll do it myself."
 #
 <name "Celes" "!AA2280">
-「い、いえ。
-　頑張ります」
+"N-No.
+ I'll try harder."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -460,29 +462,30 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2281">
-「むう……ヴィオラさん。
-　前々から凄いとは思っていたけど、身近で見ると
-　改めて凄いって感じる」
+"Hmmm... I looked up to Miss Viola before, but
+ being right next to her, I feel in awe all
+ over again."
 #
 <name "Elle" "!CA0176">
-「でしょう」
+"Right?"
 #
 <name "Celes" "!AA2282">
-「得意気なイエルちゃんが、少し憎い」
+"I hate you a little for how proud you are of
+ that."
 #
 <name "Elle" "!CA0177">
-「でも、私の師匠に言わせれば、セリスの師匠も凄
-　いらしいんだけど……」
+"But if you ask my master, she'd say that your
+ master is incredible too."
 #
 \x1A\x01\x0A\x42\x00\x63 10 \x01\x14 :1D74: 
 <name "Celes" "!AA2283">
-「全然、そんな気がしない……」
+"I really don't see that..."
 #
 \x18 :1DAD: 
 :1D74
 <name "Celes" "!AA2284">
-「ん？
-　あの能力の事……かな？」
+"Hm?
+ Because of his power, maybe?"
 #
 :1DAD
 \x0A\x24\x00\x0F\x84\x01
@@ -491,20 +494,21 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2285">
-「あの……今日の仕事は？」
+"Um, what's my job for today?"
 #
 <name "Viola" "!BA0209">
-「もう少し、待ってなさい」
+"Give me a minute."
 #
 <name "Celes" "!AA2286">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <name "Elle" "!CA0178">
-「予定通りに進んでなくて、渡す仕事が無いの。
-　あまり刺激しないように」
+"We're behind schedule.
+ She doesn't have anything for you yet.
+ Please try not to bother her."
 #
 <name "Celes" "!AA2287">
-「う、うん」
+"O-Okay."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -512,18 +516,19 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2288">
-「ヴィオラさんて宮廷魔法使いなのに、結構、この
-　街に居るのね」
+"Miss Viola's a court magician, right? 
+ But she's always here in the city."
 #
 <name "Elle" "!CA0179">
-「ええ、大事な仕事の時だけ、王都に出かけるみた
-　い」
+"Yes. She only goes to the capital for 
+ important jobs."
 #
 <name "Celes" "!AA2289">
-「それが許されるだけ、凄いって事なのかな？」
+"I wonder if she's allowed to do that because
+ of how amazing she is."
 #
 <name "Elle" "!CA0180">
-「そうよ」
+"That's right."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -531,14 +536,14 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2290">
-「ヴィオラさんの家の書庫って、量が多い……」
+"There's so many books in Miss Viola's house."
 #
 <name "Elle" "!CA0181">
-「私も苦労してるの。
-　頑張ろう」
+"It's hard for me too.
+ Let's do our best."
 #
 <name "Celes" "!AA2291">
-「うん」
+"Yep."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -546,20 +551,20 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2292">
-「ヴィオラさんの家って、大きいよね」
+"Miss Viola's house is so big."
 #
 <name "Elle" "!CA0182">
-「でしょう」
+"Tell me about it."
 #
 <name "Celes" "!AA2293">
-「でも、イエルちゃんの実家は、もっと大きいって
-　聞いたけど……」
+"But I heard that your family's home is even
+ bigger."
 #
 <name "Elle" "!CA0183">
-「その話は、師匠の前でしないように」
+"Don't talk about that in front of my master."
 #
 <name "Celes" "!AA2294">
-「う、うん」
+"O-Okay."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -567,16 +572,15 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2295">
-「ヴィオラさん、今日は何をしましょう？」
+"Miss Viola, what should I do today?"
 #
 <name "Viola" "!BA0210">
-「ローンズ＝モーダルメイザーの書いた本を、探し
-　て頂戴。
-　私の書庫に三冊。
-　協会の図書館に数冊ある筈だから」
+"Find me the books written by Lanz Modalmeiser.
+ There's three in my library, and the Guild's
+ library should have a few more."
 #
 <name "Celes" "!AA2296">
-「了解しました」
+"Roger."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -585,12 +589,13 @@
 <background "ev019a0.iph" 11>
 \x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :237F: 
 <name "Celes" "!AA2301">
-「魔法の研究って、気長だなぁ」
+"Magic research is relaxing, huh?"
 #
 :237F
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :23CB: 
 <name "Celes" "!AA2302">
-「実験台にされたら、どうしよう……」
+"What should I do if they try to use me as a
+ guinea pig?"
 #
 :23CB
 <exit>

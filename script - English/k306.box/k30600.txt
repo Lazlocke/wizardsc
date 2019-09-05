@@ -59,47 +59,49 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA2169">
-「大会での売り子ですか？」
+"Be a salesgirl at the stadium?"
 #
 <name "Lazlocke">
-「そうだ。
-　お金が入って、タダで試合が見れる」
+"That's right.
+ It pays decently, and you can watch the
+ matches for free."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA2170">
-「おおっ」
+"Oooh!"
 #
 <name "Lazlocke">
-「試合を楽しむんじゃないぞ。
-　観察する事を忘れないように」
+"You're not there to enjoy yourself.
+ Remember to observe properly."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2171">
-「了解です」
+"Roger!"
 #
 <removesprite -1 11>
 <exit>
 :520
 <music 15>
 <background "ev017a0.iph" 11>
-<name "観戦するお客" "!RB0104">
-「姉ちゃん、一杯頼む！」
+<name "Excited Fan" "!RB0104">
+"Lady, one cup!"
 #
 <name "Celes" "!AA2172">
-「はーい」
+"Coming!"
 #
-<name "応援するお客" "!QB0110">
-「こっちにも一杯！」
+<name "Cheering Fan" "!QB0110">
+"One here too!"
 #
 <name "Celes" "!AA2173">
-「はーい、すぐに」
+"Coming! Right away!"
 #
-<name "飲むお客" "!SB0104">
-「こっちは三杯頼むぞ」
+<name "Drinking Fan" "!SB0104">
+"Three cups here, please!"
 #
 <name "Celes" "!AA2174">
-「は、はーい！
-　忙しくて、試合を見る暇が無い……」
+"C-Coming!
+ I'm so busy, I don't have any time to watch
+ the match."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -107,25 +109,26 @@
 <music 15>
 <background "ev017a1.iph" 11>
 <name "Celes" "!AA2175">
-「いけー、やれー、そこだー！」
+"Go! Get 'em!
+ Right there!"
 #
 <background "ev017a2.iph" 10>
 <name "Celes" "!AA2176">
-「逃げてー！
-　ああっ、やられたぁ！」
+"Run away!
+ Awww, they got him!"
 #
-<name "お客" "!RB0105">
-「残念だったな」
+<name "Fan" "!RB0105">
+"Too bad."
 #
 <name "Celes" "!AA2177">
-「うん」
+"Yeah."
 #
-<name "お客" "!RB0106">
-「残念な所、悪いが一杯くれないか。
-　さっきからずーっと、頼んでいるんだぞ」
+<name "Fan" "!RB0106">
+"As bad as it is, could you give me my drink?
+ I've been asking you this whole time."
 #
 <name "Celes" "!AA2178">
-「す、すみません」
+"I-I'm sorry."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -133,75 +136,79 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2180">
-「お酒でーす。
-　一杯７Ｂ、如何ですかー？」
+"Get your beer!
+ One cup's 7Ｂ!
+ How about it!?"
 #
-<name "値切るお客" "!TB0020">
-「もう少し、安くならんか？」
+<name "Cheapskate Fan" "!TB0020">
+"Can't you lower the price a little?"
 #
 <name "Celes" "!AA2181">
-「無理でーす」
+"No way."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :89C
 <music 15>
 <background "ev017a0.iph" 11>
-<name "お客" "!TB0021">
-「一杯くれー」
+<name "Fan" "!TB0021">
+"Gimme a cup!"
 #
 <name "Celes" "!AA2182">
-「はーい」
+"Coming!"
 #
 <name "Celes" "!AA2183">
-「うーん、最初は売れないと思ったけど、意外と売
-　れるなぁ」
+"Hmm. I thought it'd be hard to sell at first,
+ but it's surprisingly easy."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :954
 <music 15>
 <background "ev017a0.iph" 11>
-<name "お客" "!TB0022">
-「お、姉ちゃん。
-　見事な仕事っぷりだな」
+<name "Fan" "!TB0022">
+"Oh, lady.
+ You're doing a great job out here."
 #
 <name "Celes" "!AA2184">
-「いえいえ……７Ｂです」
+"No, no. 
+ That'll be 7Ｂ."
 #
-<name "お客" "!TB0023">
-「褒めたから、安くしてくれ」
+<name "Fan" "!TB0023">
+"Don't I get a discount for the compliment?"
 #
 <name "Celes" "!AA2185">
-「良い男がそんな事を言っちゃ駄目ですよ」
+"A truly good man wouldn't ask something like
+ that."
 #
-<name "お客" "!TB0024">
-「む……仕方が無い」
+<name "Fan" "!TB0024">
+"Grr... You leave me no choice."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :A7A
 <music 15>
 <background "ev017a0.iph" 11>
-<name "ルザ" "!JA0000">
-「セリス、頑張っているね」
+<name "Ruza" "!JA0000">
+"You've been working hard, huh, Celes?"
 #
 <name "Celes" "!AA2186">
-「あ、先輩。
-　はい、頑張って売ってます」
+"Ah, ma'am.
+ Yes. I'm trying my best to sell."
 #
-<name "ルザ" "!JA0001">
-「よしよし、じゃあ先輩からプレゼント」
+<name "Ruza" "!JA0001">
+"Good girl.
+ Here, a present."
 #
 <name "Celes" "!AA2187">
-「パンとハムとチーズ？」
+"Bread, ham, and cheese?"
 #
-<name "ルザ" "!JA0002">
-「余りモノだけどね。
-　それで食事にして頂戴」
+<name "Ruza" "!JA0002">
+"It's left over.
+ Go ahead and make it your lunch."
 #
 <name "Celes" "!AA2188">
-「はい」
+"Yes, ma'am."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -209,21 +216,21 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2189">
-「すみません。
-　樽のチェンジをお願いします」
+"Excuse me.
+ I need a new cask."
 #
-<name "ルザ" "!JA0003">
-「もう無くなったの？」
+<name "Ruza" "!JA0003">
+"Out already?"
 #
 <name "Celes" "!AA2190">
-「ええ、よく売れます」
+"Yes. It's selling well."
 #
-<name "ルザ" "!JA0004">
-「よし、援軍を派遣するわ。
-　それまで頑張ってね」
+<name "Ruza" "!JA0004">
+"Okay, I'll send backup.
+ Hang in there until they're there."
 #
 <name "Celes" "!AA2191">
-「はい」
+"Okay."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -231,33 +238,33 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2192">
-「まいどー、ありがとうございます。
-　はい、一杯７Ｂです。
-　ありがとうございます」
+"Thank you very much!
+ Here, one cup is 7Ｂ.
+ Thank you very much!"
 #
-<name "ルザ" "!JA0005">
-「良い売れ行きね」
+<name "Ruza" "!JA0005">
+"Looks like it's selling."
 #
 <name "Celes" "!AA2193">
-「はい。
-　試合も盛り上がってますしね」
+"Yep.
+ The match is exciting too."
 #
-<name "ルザ" "!JA0006">
-「この調子で、頑張るように」
+<name "Ruza" "!JA0006">
+"Keep up the hard work."
 #
 <name "Celes" "!AA2194">
-「はーい」
+"Yep!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :E3C
 <music 15>
 <background "ev017a0.iph" 11>
-<name "ルザ" "!JA0007">
-「売るぞー！」
+<name "Ruza" "!JA0007">
+"Go sell!"
 #
 <name "Celes" "!AA2195">
-「おー！」
+"Yeah!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -265,20 +272,20 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2196">
-「売るぞー！」
+"Go sell!"
 #
-<name "ルザ" "!JA0008">
-「おー！」
+<name "Ruza" "!JA0008">
+"Yeah!"
 #
 <name "Celes" "!AA2197">
-「あれ？
-　先輩？」
+"Huh?
+ You're doing it too?"
 #
-<name "ルザ" "!JA0009">
-「今月、厳しくてさ……」
+<name "Ruza" "!JA0009">
+"It's been a tough month."
 #
 <name "Celes" "!AA2198">
-「が、頑張りましょう」
+"L-Let's do our best."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -286,13 +293,13 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2199">
-「うーん、今日のお客は渋いなぁ……」
+"Hmm... The fans today are all grumpy..."
 #
-<name "ルザ" "!JA0010">
-「なかなか売れないの？」
+<name "Ruza" "!JA0010">
+"Having a hard time selling?"
 #
 <name "Celes" "!AA2200">
-「はい」
+"Yeah."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -300,15 +307,15 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2201">
-「勝負が接戦の時は、よく売れる！」
+"When the match is close, it sells well."
 #
-<name "ルザ" "!JA0011">
-「そうなの！
-　だから、試合は長引けー、粘れーと祈りながら観
-　戦するように」
+<name "Ruza" "!JA0011">
+"That's right!
+ So pray for the match to drag on and be a
+ close one!"
 #
 <name "Celes" "!AA2202">
-「は、はい」
+"O-Okay."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -316,13 +323,13 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2203">
-「完売っ！
-　やったー！」
+"Sold out!
+ I did it!"
 #
-<name "ルザ" "!JA0012">
-「……し、仕入れミスった。
-　くそー。
-　もう少し、多く仕入れるんだった」
+<name "Ruza" "!JA0012">
+"...D-Damn. Messed up the stocking.
+ Damn it.
+ I wish I had stocked a little more."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -330,29 +337,30 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2204">
-「お酒の他に、食べ物も一緒に売るのはどうでしょ
-　う？」
+"Why don't we sell food along with the beer?"
 #
-<name "ルザ" "!JA0013">
-「持てるなら、頑張って♪」
+<name "Ruza" "!JA0013">
+"If you can carry all that, go for it.♪"
 #
 <name "Celes" "!AA2205">
-「持つだけなら、な、なんとか……」
+"If I just need to hold it, I-I think I can
+ manage..."
 #
-<name "ルザ" "!JA0014">
-「シミュレーション。
-　すみませーん。
-　一杯、もらえますか？」
+<name "Ruza" "!JA0014">
+"Let's try then.
+ Excuse me, can I have a cup?"
 #
 <name "Celes" "!AA2206">
-「はーい。
-　今すぐー……あれ？」
+"Coming up.
+ Right aw...huh?"
 #
-<name "ルザ" "!JA0015">
-「ほれほれ、どうやってお酒をお客様に渡すんだ？」
+<name "Ruza" "!JA0015">
+"See? How are you going to pour a drink for your
+ customers?"
 #
 <name "Celes" "!AA2207">
-「うう、浅はかでした」
+"Ohhh...
+ I didn't think it through."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -360,14 +368,14 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2208">
-「軽やかに、客席を駆け上がり！」
+"Trot right up through the seats!"
 #
-<name "下の階のお客" "!TB0025">
-「すみませーん。
-　貰えますかー」
+<name "Downstairs Fan" "!TB0025">
+"Excuse me!
+ Can I have a cup?"
 #
 <name "Celes" "!AA2209">
-「軽やかに、駆け下りる」
+"Trot right back down."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -375,36 +383,37 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2210">
-「試合を見てると、身体を動かしたくなっちゃう」
+"Watching a match really makes me want to get
+ out there and fight myself."
 #
-<name "ルザ" "!JA0016">
-「じゃあ、頑張って売ろうね」
+<name "Ruza" "!JA0016">
+"Then let's sell like crazy."
 #
 <name "Celes" "!AA2211">
-「はい」
+"Yep."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :1517
 <music 15>
 <background "ev017a0.iph" 11>
-<name "お客" "!TB0026">
-「姉ちゃん。
-　投票所はどこかな？」
+<name "Fan" "!TB0026">
+"Hey, lady, where's the betting booth?"
 #
 <name "Celes" "!AA2212">
-「はい、向こうになります」
+"It's over there."
 #
-<name "お客" "!TB0027">
-「ありがとよ。
-　ちなみに、次の試合。
-　どっちが勝つと思う？」
+<name "Fan" "!TB0027">
+"Thank you.
+ By the way, who do you think's gonna win the
+ next match?"
 #
 <name "Celes" "!AA2213">
-「責任取らなくて良いなら、答えますよ」
+"I'll only answer if you don't blame me if I'm
+ wrong."
 #
-<name "お客" "!TB0028">
-「わはは……」
+<name "Fan" "!TB0028">
+"Hahaha..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -412,15 +421,15 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2214">
-「あの人……強い」
+"That guy's strong."
 #
-<name "お客" "!TB0029">
-「姉ちゃん。
-　雰囲気出してるとこ悪いけど、一杯もらえる？」
+<name "Fan" "!TB0029">
+"Lady, sorry to interrupt the mood, but can I
+ get a drink?"
 #
 <name "Celes" "!AA2215">
-「はーい。
-　ありがとうございます」
+"Here you are.
+ Thank you very much."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -428,10 +437,10 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2216">
-「あ、イエルちゃんが出てる……」
+"Oh. Elle's in the ring..."
 #
 <name "Celes" "!AA2217">
-「頑張れー！」
+"You can do it!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -440,78 +449,79 @@
 <background "bg002a0.iph" 11>
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA2218">
-「師匠、闘技場で働いていて気付いた事があるんで
-　す」
+"Master, I noticed something while I was working
+ at the stadium."
 #
 <name "Lazlocke">
-「ん？
-　なにをだ？」
+"Hm?
+ What is it?"
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA2219">
-「試合中にですね」
+"During matches, you know?
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA2220">
-「なにぃっ！」
+"What!?"
 #
 <sprite "ta01a00.iph" 4 4 12>
 <name "Celes" "!AA2221">
-「とか」
+"Or..."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA2222">
-「ば、馬鹿なっ……」
+"N-No way!"
 #
 <sprite "ta01a02.iph" 4 4 12>
 <name "Celes" "!AA2223">
-「とか言った人は負けます。
-　私はそれらのセリフを言わないようにしようと思
-　います」
+"The ones who say that always lose.
+ I'm going to try to never say those things."
 #
 <name "Lazlocke">
-「あー、そうだな」
+"Uh, I see."
 #
-　相手の行動に驚かない心構え、準備は大切だ。
+It's important to be prepared so you're not
+caught offguard by your opponents.
 #
 <name "Lazlocke">
-「良い心掛けだ」
+"That's a good attitude."
 #
 <removesprite -1 11>
-　俺はセリスの頭を撫でてやった。
+I pat her on the head.
 #
 <name "Lazlocke">
-「それで、具体的には何をしているんだ？」
+"So what exactly are you going to do?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA2224">
-「それらのセリフを言ったら、５Ｂを貯金する事に
-　しました！」
+"Every time I say those things, I'll put 5Ｂ in
+ a jar!"
 #
 <name "Lazlocke">
-「…………」
+"..."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA2225">
-「自分でも少し厳しいと思うのですが、これぐらい
-　しなければ！」
+"It's a little harsh on myself, but I have to
+ do it!"
 #
 <name "Lazlocke">
-「…………」
+"........."
 #
 <removesprite -1 11>
-　俺に頭を撫でられながら得意げに言うセリスの未
-　来が、少しだけ心配になった。
+She looked so proud of herself, and was beaming
+when I patted her on the head.
+Now I'm just worried about her future.
 #
 <exit>
 :1C60
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2226">
-「うーん、寒くても暑くても、お酒は売れるなぁ」
+"Hmmm... Whether it's hot or cold, beer sells."
 #
-<name "ルザ" "!JA0017">
-「ありがたい話です」
+<name "Ruza" "!JA0017">
+"I'm grateful for that."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -519,14 +529,15 @@
 <music 15>
 <background "ev017a0.iph" 11>
 <name "Celes" "!AA2227">
-「寒いこの時期、試合観戦にお酒は欠かせません！
-　一杯７Ｂで温まりましょう」
+"When it's cold, beer's a vital part of watching
+ a match!
+ Warm up with a cup for just 7Ｂ!"
 #
-<name "お客" "!TB0030">
-「おう、買うぞ」
+<name "Fan" "!TB0030">
+"Yo. I'll have one!"
 #
 <name "Celes" "!AA2228">
-「まいど♪」
+"Thank you!♪"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -535,47 +546,49 @@
 <background "ev017a0.iph" 11>
 \x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  9 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1E3D: 
 <name "Celes" "!AA2232">
-「お金を貰って見学できるなんて、シアワセ」
+"I can't believe I get paid to watch.
+ This is happiness."
 #
 :1E3D
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1E81: 
 <name "Celes" "!AA2233">
-「ドリンクいりませんかー♪」
+"Need a drink?♪"
 #
 :1E81
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1EBF: 
 <name "Celes" "!AA2234">
-「冷え冷えですよー♪」
+"Cool and refreshing!♪"
 #
 :1EBF
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1F01: 
 <name "Celes" "!AA2235">
-「魔法で冷やしてますよー」
+"I can chill it with magic."
 #
 :1F01
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1F47: 
 <name "Celes" "!AA2236">
-「売り子をしながら大会観察♪」
+"Watch matches and sell to the crowd!♪"
 #
 :1F47
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1F81: 
-<name "お客" "!TB0031">
-「おーい、酒くれー」
+<name "Fan" "!TB0031">
+"Hey! Gimme a drink!"
 #
 :1F81
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :1FB9: 
-<name "お客" "!TB0032">
-「酒、貰えるかな」
+<name "Fan" "!TB0032">
+"Can I get a beer?"
 #
 :1FB9
 \x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :1FEF: 
-<name "お客" "!TB0033">
-「酒だ、酒だー」
+<name "Fan" "!TB0033">
+"Beer! Beer!"
 #
 :1FEF
 \x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :2037: 
-<name "お客" "!TB0034">
-「勝負を見ながらの酒。至福だねぇ」
+<name "Fan" "!TB0034">
+"Beer and a game.
+ This is bliss."
 #
 :2037
 <exit>

@@ -1,0 +1,775 @@
+\x1A\x01\x07\x04\x03\xB2\x84\x01\x01\x0E :35: \x2E\x22\x00\x02 1  100 \x1A\x01\x0A\x22\x00\x02 20 \x01\x14 :35: \x15 :12A: 
+:35
+<music 13>
+\x2B\x1A\x01\x07\x04\x03\xAC\x84\x00\x01\x0E :5E: \x16 :560: \x0A\x04\x03\xAC\x84\x01\x15 :557: 
+:5E
+\x1A\x01\x07\x04\x03\xAD\x84\x00\x01\x0E :7F: \x16 :7A1: \x0A\x04\x03\xAD\x84\x01\x15 :557: 
+:7F
+\x1A\x01\x07\x04\x03\xAE\x84\x00\x01\x0E :A0: \x16 :9A1: \x0A\x04\x03\xAE\x84\x01\x15 :557: 
+:A0
+\x1A\x01\x07\x04\x03\xAF\x84\x00\x01\x0E :C1: \x16 :B2D: \x0A\x04\x03\xAF\x84\x01\x15 :557: 
+:C1
+\x1A\x01\x07\x04\x03\xB0\x84\x00\x01\x0E :E2: \x16 :E64: \x0A\x04\x03\xB0\x84\x01\x15 :557: 
+:E2
+\x1A\x01\x07\x04\x03\xB1\x84\x00\x01\x0E :103: \x16 :EC2: \x0A\x04\x03\xB1\x84\x01\x15 :557: 
+:103
+\x1A\x01\x07\x04\x03\xB2\x84\x00\x01\x0E :124: \x16 :1020: \x0A\x04\x03\xB2\x84\x01\x15 :557: 
+:124
+\x15 :17F: 
+:12A
+\x0A\x04\x00\x46\x84\x01
+<music 18>
+\x2B\x2E\x22\x00\x02 1  3 \x8C 927 \x22\x00\x02\x84\x01
+<music 13>
+<background "ev018a1.iph" 11>
+\x2B\x0B\x02\x01\xBD\x02\x01\xBD 1 \x15 :557: 
+:17F
+\xE9 3005 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :1AC: \x15 :54B: 
+:1AC
+\x1A\x01\x07\x04\x03\xC2\x84\x00\x01\x0E :1DF: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :1DF: \x16 :2313: \x0A\x04\x03\xC2\x84\x01\x15 :557: 
+:1DF
+\x1A\x01\x07\x04\x03\xC3\x84\x00\x01\x0E :212: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :212: \x16 :2457: \x0A\x04\x03\xC3\x84\x01\x15 :557: 
+:212
+\x1A\x01\x07\x04\x03\xC4\x84\x00\x01\x0E :245: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :245: \x16 :251C: \x0A\x04\x03\xC4\x84\x01\x15 :557: 
+:245
+\x1A\x01\x07\x04\x03\xC5\x84\x00\x01\x0E :278: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :278: \x16 :25A8: \x0A\x04\x03\xC5\x84\x01\x15 :557: 
+:278
+\x1A\x01\x07\x04\x03\xC6\x84\x00\x01\x0E :2AB: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :2AB: \x16 :2620: \x0A\x04\x03\xC6\x84\x01\x15 :557: 
+:2AB
+\x1A\x01\x07\x04\x03\xC7\x84\x00\x01\x0E :2DB: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :2DB: \x16 :269A: \x0A\x04\x03\xC7\x84\x01\x15 :557: 
+:2DB
+\x1A\x01\x07\x04\x03\xC8\x84\x00\x01\x0E :30B: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :30B: \x16 :2739: \x0A\x04\x03\xC8\x84\x01\x15 :557: 
+:30B
+\x1A\x01\x07\x04\x03\xC9\x84\x00\x01\x0E :33B: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :33B: \x16 :28AD: \x0A\x04\x03\xC9\x84\x01\x15 :557: 
+:33B
+\x1A\x01\x07\x04\x03\xB3\x84\x00\x01\x0E :35C: \x16 :10F6: \x0A\x04\x03\xB3\x84\x01\x15 :557: 
+:35C
+\x1A\x01\x07\x04\x03\xB4\x84\x00\x01\x0E :37D: \x16 :11BA: \x0A\x04\x03\xB4\x84\x01\x15 :557: 
+:37D
+\x1A\x01\x07\x04\x03\xB5\x84\x00\x01\x0E :39E: \x16 :12DA: \x0A\x04\x03\xB5\x84\x01\x15 :557: 
+:39E
+\x1A\x01\x07\x04\x03\xB6\x84\x00\x01\x0E :3BF: \x16 :13FC: \x0A\x04\x03\xB6\x84\x01\x15 :557: 
+:3BF
+\x1A\x01\x07\x04\x03\xB7\x84\x00\x01\x0E :3E0: \x16 :15CF: \x0A\x04\x03\xB7\x84\x01\x15 :557: 
+:3E0
+\x1A\x01\x07\x04\x03\xB8\x84\x00\x01\x0E :401: \x16 :168D: \x0A\x04\x03\xB8\x84\x01\x15 :557: 
+:401
+\x1A\x01\x07\x04\x03\xB9\x84\x00\x01\x0E :422: \x16 :16F5: \x0A\x04\x03\xB9\x84\x01\x15 :557: 
+:422
+\x1A\x01\x07\x04\x03\xBA\x84\x00\x01\x0E :443: \x16 :1836: \x0A\x04\x03\xBA\x84\x01\x15 :557: 
+:443
+\x1A\x01\x07\x04\x03\xBB\x84\x00\x01\x0E :464: \x16 :18D9: \x0A\x04\x03\xBB\x84\x01\x15 :557: 
+:464
+\x1A\x01\x07\x04\x03\xBC\x84\x00\x01\x0E :485: \x16 :196A: \x0A\x04\x03\xBC\x84\x01\x15 :557: 
+:485
+\x1A\x01\x07\x04\x03\xBD\x84\x00\x01\x0E :4A6: \x16 :1B3C: \x0A\x04\x03\xBD\x84\x01\x15 :557: 
+:4A6
+\x1A\x01\x07\x04\x03\xBE\x84\x00\x01\x0E :4C7: \x16 :1D7A: \x0A\x04\x03\xBE\x84\x01\x15 :557: 
+:4C7
+\x1A\x01\x07\x04\x03\xBF\x84\x00\x01\x0E :4E8: \x16 :1FA3: \x0A\x04\x03\xBF\x84\x01\x15 :557: 
+:4E8
+\x1A\x01\x07\x04\x03\xC0\x84\x00\x01\x0E :509: \x16 :2118: \x0A\x04\x03\xC0\x84\x01\x15 :557: 
+:509
+\x1A\x01\x07\x04\x03\xC1\x84\x00\x01\x0E :52A: \x16 :2221: \x0A\x04\x03\xC1\x84\x01\x15 :557: 
+:52A
+\x1A\x01\x07\x04\x03\xE3\x84\x00\x01\x0E :54B: \x16 :2AD5: \x0A\x04\x03\xE3\x84\x01\x15 :557: 
+:54B
+\x16 :2B5B: \x15 :557: 
+:557
+<music 13>
+\x2B\x78
+:560
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0072">
+"This is Celes.
+ Starting today, she's one of us.
+ Everyone play nice."
+#
+<name "Celes" "!AA2125">
+"It's a pleasure to meet you."
+#
+<name "Guard" "!RB0069">
+"Yeah.
+ Guard duty's tough work, but do your best."
+#
+<name "Celes" "!AA2126">
+"Yes, sir."
+#
+<name "Guard Captain" "!QB0074">
+"If you have a question, ask me or one of your
+ seniors."
+#
+<name "Celes" "!AA2127">
+"Understood.
+ Then can I do that right away?"
+#
+<name "Guard Captain" "!QB0075">
+"What is it?"
+#
+<name "Celes" "!AA2128">
+"How much can I beat up a suspect?"
+#
+<name "Guard Captain" "!QB0076">
+"Don't kill them."
+#
+<name "Celes" "!AA2129">
+"Understood."
+#
+<exit>
+:7A1
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0077">
+"The duty of a guard is to safeguard the city."
+#
+<name "Celes" "!AA2130">
+"Yes, sir."
+#
+<name "Guard Captain" "!QB0079">
+"Furthermore, make sure you guard the
+ houses."
+#
+<name "Celes" "!AA2131">
+"By the houses, you mean guard all of them,
+ right?"
+#
+<name "Guard Captain" "!QB0080">
+"Of course. Most of them are paying us to guard
+ them."
+#
+<name "Guard Captain" "!QB0081">
+"There's the give and take, but the ones that
+ pay the most are also the ones that are
+ targeted by the most thieves."
+#
+<name "Celes" "!AA2132">
+"I see."
+#
+<exit>
+:9A1
+<background "ev018a1.iph" 11>
+<name "Celes" "!AA2133">
+"Where I'm from, there's a thieves guild, and 
+ it policed people. There's no guild like that
+ in this city?"
+#
+<name "Guard Captain" "!QB0082">
+"The Wizard's Guild has all the clout here.
+ Apparently they drove out the thieves guild
+ a long time ago."
+#
+<name "Celes" "!AA2134">
+"Oh, really?"
+#
+<name "Guard Captain" "!QB0083">
+"But I have heard that they got absorbed by the
+ Guild and are still active too."
+#
+<exit>
+:B2D
+<background "ev018a1.iph" 11>
+<name "Celes" "!AA2135">
+"This city has a lot of stay dogs and cats,
+ doesn't it?"
+#
+<name "Guard" "!RB0075">
+"Does it?
+ I've never been anywhere else."
+#
+<name "Guard Captain" "!QB0084">
+"The dogs prevent crime.
+ The cats take care of the rats.
+ Don't bother them."
+#
+<name "Celes" "!AA2136">
+"I see.
+ They're useful out in the field too."
+#
+<name "Guard" "!RB0071">
+"Well, they poop and pee a ton."
+#
+<name "Celes" "!AA2137">
+"Oh? Now that you mention it...
+ There's so many stray animals, but the city
+ is so clean."
+#
+<name "Guard Captain" "!QB0085">
+"There's people who specialize in dealing with
+ that. Haven't you seen them around dawn?"
+#
+<name "Celes" "!AA2138">
+"Now that you mention it..."
+#
+<name "Guard" "!RB0072">
+"The city is protected thanks to the work of
+ many people, including us."
+#
+<name "Guard Captain" "!QB0086">
+"That's right, so work hard, and don't cut
+ corners."
+#
+<name "Celes" "!AA2139">
+"Yes, sir."
+#
+<exit>
+:E64
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0073">
+"Work hard again today."
+#
+<name "Celes" "!AA2140">
+"Yes, sir."
+#
+<exit>
+:EC2
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0074">
+"There's been a lot of thieves recently.
+ If you find one, you can beat him up."
+#
+<name "Celes" "!AA2141">
+"Huh?
+ Isn't this the kind of thing where you say I'm
+ supposed to be careful?"
+#
+<name "Guard" "!RB0076">
+"Hahaha!
+ I wouldn't say something so stupid.
+ I feel bad for any thieves that run into you."
+#
+<name "Celes" "!AA2142">
+"Was that a compliment?"
+#
+<exit>
+:1020
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0077">
+"We keep the city safe."
+#
+<name "Celes" "!AA2143">
+"Yeah!"
+#
+<name "Guard" "!RB0078">
+"So try not to scare the citizens."
+#
+<name "Celes" "!AA2144">
+"...I'll try!"
+#
+<exit>
+:10F6
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0079">
+"Celes, I accept that it's great to catch a
+ thief, but when you're jumping around from
+ building to building like a thief, everyone
+ thinks you're suspicious."
+#
+<name "Celes" "!AA2145">
+"I-I'll be more careful."
+#
+<exit>
+:11BA
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0087">
+"A bounty for every suspect and thief you catch.
+ Do your best!"
+#
+<name "Celes" "!AA2146">
+"Yes, sir!
+ Leave it to me!
+ I'll catch all the thieves!"
+#
+<name "Guard Captain" "!QB0088">
+"Oh, um, that's too eager a look in your eyes.
+ I'm scared."
+#
+<exit>
+:12DA
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0089">
+"Celes, I can't approve of how much you act on
+ your own."
+#
+<name "Celes" "!AA2147">
+"Um, it's easier by myself."
+#
+<name "Guard" "!RB0080">
+"And nobody will steal your bounties when you're
+ on your own, huh?"
+#
+<name "Celes" "!AA2148">
+"Hahaha...
+ Not at all."
+#
+<exit>
+:13FC
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0090">
+"Hey, look at that."
+#
+<name "Guard" "!RB0081">
+"Oh?
+ Which one?"
+#
+<name "Guard Captain" "!QB0091">
+"Over there.
+ That white-ish person."
+#
+<name "Guard" "!RB0082">
+"Umm, I don't get it."
+#
+<name "Guard Captain" "!QB0092">
+"Oh, you can't see them?
+ Then it must be a ghost."
+#
+<name "Guard" "!RB0083">
+"...Bye bye."
+#
+<name "Guard Captain" "!QB0093">
+"If you can't see it, there's no reason to run!"
+#
+<name "Guard" "!RB0084">
+"It's a hundred times scarier because I can't
+ see it!"
+#
+<exit>
+:15CF
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0094">
+"Hmmm.
+ This is a problem."
+#
+<name "Guard" "!RB0085">
+"What is it?"
+#
+<name "Guard Captain" "!QB0095">
+"There's a ghost over there."
+#
+<name "Guard" "!RB0086">
+"Bye bye!"
+#
+<exit>
+:168D
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0096">
+"Come on!
+ Let's guard!"
+#
+<name "Guard" "!RB0087">
+"Yeah!"
+#
+<exit>
+:16F5
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0089">
+"Celes has become quite the famous guard in the
+ city."
+#
+<name "Guard Captain" "!QB0097">
+"Yeah.
+ The thieves she catches curse that she ever
+ became a guard."
+#
+<name "Guard Captain" "!QB0098">
+"There's been a bunch of complaints about her
+ overdoing it though."
+#
+<name "Guard" "!RB0090">
+"Hahaha..."
+#
+<exit>
+:1836
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0099">
+"Wow.
+ After Celes patrols, you don't see a single
+ thief for a few days."
+#
+<name "Guard" "!RB0091">
+"Hmmm...
+ Kind of like a goddess of guards."
+#
+<exit>
+:18D9
+<background "ev018a1.iph" 11>
+<name "Celes" "!AA2149">
+"Anybody suspicious around here?"
+#
+<name "Thief" "!TB0002">
+"Hmm? Who's there?
+ Not just some guard...
+ I better give up for today."
+#
+<exit>
+:196A
+<background "ev018a1.iph" 11>
+<name "Celes" "!AA2150">
+"Patrol.ÅÙ Patrol.ÅÙ"
+#
+<name "Seasoned Thief" "!TB0003">
+"If you see that girl, give up the job."
+#
+<name "Rookie Thief" "!SB0088">
+"Is she that good?"
+#
+<name "Seasoned Thief" "!TB0004">
+"Don't underestimate her because she's a woman.
+ She's caught dozens of thieves."
+#
+<name "Rookie Thief" "!SB0089">
+"Seriously?"
+#
+<name "Seasoned Thief" "!TB0005">
+"Yeah. You're lucky if she takes you in unhurt.
+ If you're not lucky, you'll be nursing broken
+ arms and legs."
+#
+<name "Rookie Thief" "!SB0090">
+"But you're caught either way?"
+#
+<exit>
+:1B3C
+<background "ev018a1.iph" 11>
+<name "Rookie Thief" "!SB0091">
+"Special move - cat's meow."
+#
+<name "Rookie Thief" "!SB0092">
+"Meeeewwww..."
+#
+<name "Seasoned Thief" "!TB0006">
+"Ooh! Nicely done!"
+#
+<name "Rookie Thief" "!SB0093">
+"Heheheh...
+ That should trick that girl."
+#
+<name "Celes" "!AA2151">
+"Mew..."
+#
+<name "Rookie Thief" "!SB0095">
+"Whoa. That scared me.
+ A-An actual cat..."
+#
+<name "Seasoned Thief" "!TB0007">
+"Come on. What are you so surprised for?"
+#
+<name "Rookie Thief" "!SB0096">
+"Oh, it just meowed out of nowhere.
+ Wait, huh?"
+#
+<name "Celes" "!AA2152">
+"Good evening, suspicious people."
+#
+<name "Rookie Thief" "!SB0097">
+"Aaaaaaaah!"
+#
+<exit>
+:1D7A
+<background "ev018a1.iph" 11>
+<name "Seasoned Thief" "!TB0008">
+"Hale and hearty!
+ It's thief number 1!"
+#
+<name "Rookie Thief" "!SB0098">
+"Passionate about volunteer work!
+ It's thief number 2!"
+#
+<name "Guard Captain" "!QB0100">
+"Lately, his wife hasn't been coming home.
+ It's guard number 1!"
+#
+<name "Guard" "!RB0092">
+"Apparently his sister has a boyfriend.
+ It's guard number 2!"
+#
+<name "Celes" "!AA2153">
+"S-She's studying magic hard.
+ It's guard number 3!"
+#
+<name "Seasoned Thief" "!TB0009">
+"Urgh. There's too many enemies.
+ Run away!"
+#
+<name "Rookie Thief" "!SB0099">
+"Yes, sir!"
+#
+<name "Guard Captain" "!QB0101">
+"No escape!
+ After them!"
+#
+<name "Guard" "!RB0093">
+"Yeah!"
+#
+<exit>
+:1FA3
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0094">
+"Drunk found!"
+#
+<name "Guard Captain" "!QB0102">
+"Wake him up!"
+#
+<name "Guard" "!RB0095">
+"Thief found!"
+#
+<name "Guard Captain" "!QB0103">
+"Capture him!"
+#
+<name "Guard" "!RB0096">
+"Whew...
+ What a busy night."
+#
+<name "Guard Captain" "!QB0104">
+"What do you have to say for yourself being
+ late on such a busy night?"
+#
+<name "Guard" "!RB0097">
+"Hahaha...
+ Ah! Another drunk found!"
+#
+<exit>
+:2118
+<background "ev018a1.iph" 11>
+<name "Thief" "!TB0010">
+"Tch. We've been spotted.
+ Let's get out of here!"
+#
+<name "Thief" "!TB0011">
+"...Huh?
+ Partner?
+ Hey. Where'd you go?"
+#
+<name "Thief" "!TB0012">
+"...H-He already ran away!?"
+#
+<name "Guard" "!RB0098">
+"Capture him!"
+#
+<name "Thief" "!TB0013">
+"Aiiieeee!"
+#
+<exit>
+:2221
+<background "ev018a1.iph" 11>
+<name "Thief" "!TB0014">
+"L-Let me go!"
+#
+<name "Celes" "!AA2154">
+"No excuses!"
+#
+<name "Thief" "!TB0015">
+"Gwah!"
+#
+<name "Guard Captain" "!QB0105">
+"N-No mercy, huh?"
+#
+<name "Guard" "!RB0099">
+"I'm never going to become a thief."
+#
+<exit>
+:2313
+<background "ev018a1.iph" 11>
+<name "Rookie Thief" "!SB0102">
+"When it's hot out, work's easy because of all
+ the people sleeping with their windows open."
+#
+<name "Seasoned Thief" "!TB0017">
+"Yeah, but don't be careless."
+#
+<name "Rookie Thief" "!SB0101">
+"Right. When you find a house like that, there's
+ definitely gonna be guards watching it."
+#
+<name "Seasoned Thief" "!TB0018">
+"It's a complicated balance."
+#
+<exit>
+:2457
+<background "ev018a1.iph" 11>
+<name "Guard" "!RB0100">
+"In summer, it's great that the night's cooler."
+#
+<name "Guard Captain" "!QB0106">
+"Yeah, but there's a lot of fools.
+ Drunks."
+#
+<name "Guard" "!RB0101">
+"Wake up."
+#
+<exit>
+:251C
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0108">
+"Hey! You'll die if you fall asleep here!"
+#
+<name "Guard" "!RB0102">
+"Even though it's cold, it's so easy to sleep."
+#
+<exit>
+:25A8
+<background "ev018a1.iph" 11>
+<name "Guard Captain" "!QB0109">
+"Even when it's cold, no rest for the guard!"
+#
+<name "Guard" "!RB0103">
+"...I want to go to sleep."
+#
+<exit>
+:2620
+<background "ev018a1.iph" 11>
+<name "Seasoned Thief" "!TB0019">
+"Even when it's cold, no rest for thieves!"
+#
+<name "Rookie Thief" "!SB0103">
+"...I want to go to sleep."
+#
+<exit>
+:269A
+<background "ev018a0.iph" 11>
+<name "Celes" "!AA9117">
+"Patrol... Patrol...
+ Who's there!?"
+#
+<name "Recchino" "!RA9066">
+"On patrol, huh?
+ Admirable."
+#
+<name "Celes" "!AA9118">
+"Good evening."
+#
+<exit>
+:2739
+<background "ev018a0.iph" 11>
+<name "Celes" "!AA9119">
+"Is someone suspicious there...
+ Who's there!?"
+#
+<name "Puschel" "!SA9007">
+"Oh my.
+ Good evening."
+#
+<name "Celes" "!AA9120">
+"G-Good evening."
+#
+<name "Puschel" "!SA9008">
+"Working as a guard?
+ Keep up the hard work."
+#
+<name "Celes" "!AA9121">
+"I-It's nothing."
+#
+<name "Puschel" "!SA9009">
+"I'm on my way to see my beloved man.
+ Bye bye."
+#
+<name "Celes" "!AA9123">
+"...In a way, that was someone suspicious."
+#
+<exit>
+:28AD
+<background "ev018a0.iph" 11>
+<name "Celes" "!AA9124">
+"...Who's there!?"
+#
+<name "Elle" "!CA9086">
+"Me.
+ Keep working hard."
+#
+<name "Celes" "!AA9125">
+"Elle.
+ What's up?"
+#
+<name "Elle" "!CA9113">
+"Just out a little late because of some work for
+ my master.
+ I'm on my way home."
+#
+<name "Celes" "!AA9126">
+"It's dangerous for a girl to be out by herself
+ at this time of night."
+#
+<name "Elle" "!CA9088">
+"Hahaha...
+ You're one to talk, working as a guard."
+#
+<name "Celes" "!AA9127">
+"Ohh..."
+#
+<name "Elle" "!CA9089">
+"Well, thank you for your concern.
+ I'll hurry home."
+#
+<name "Celes" "!AA9128">
+"Okay."
+#
+<exit>
+:2AD5
+<background "ev018a0.iph" 11>
+<name "Celes" "!AA9129">
+"Ah, someone's sleep.
+ Ugh, he's drunk."
+#
+<name "Celes" "!AA9130">
+"Don't sleep somewhere like this."
+#
+<exit>
+:2B5B
+\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2B96: 
+<background "ev018a1.iph" 11>
+\x2B\x18 :2BAB: 
+:2B96
+<background "ev018a0.iph" 11>
+\x2B
+:2BAB
+\x2E\x22\x00\x01 1  10 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2BEB: 
+<name "Celes" "!AA2159">
+"Tally ho!"
+#
+:2BEB
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2C21: 
+<name "Celes" "!AA2160">
+"Crime prevention!"
+#
+:2C21
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2C5B: 
+<name "Celes" "!AA2161">
+"Patrol, patrol..."
+#
+:2C5B
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2C99: 
+<name "Celes" "!AA2162">
+"Nobody around here?"
+#
+:2C99
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2CCF: 
+<name "Celes" "!AA2163">
+"Peace is the best."
+#
+:2CCF
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :2D05: 
+<name "Celes" "!AA2164">
+"...Who's there!?"
+#
+:2D05
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :2D3D: 
+<name "Celes" "!AA2165">
+"...A dog?"
+#
+:2D3D
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :2D75: 
+<name "Celes" "!AA2166">
+"...A cat?"
+#
+:2D75
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :2DC1: 
+<name "Celes" "!AA2167">
+"There's been so many thieves lately.
+ I need to be careful."
+#
+:2DC1
+\x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :2E01: 
+<name "Celes" "!AA2168">
+"I won't overlook anything suspicious!"
+#
+:2E01
+<exit>
+\x78
