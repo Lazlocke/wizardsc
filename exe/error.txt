@@ -1,10 +1,13 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 88 msecs
+Parsing summary: 103 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 581 msecs
+BARF 1 bytes @ $00056986 - WARNME
+BARF 1 bytes @ $00040008 - WARNME
+BARF 1 bytes @ $00050013 - WARNME
+Insertion summary: 638 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -4582,4 +4585,4 @@ Insertion - 0 error(s), 0 warning(s)
 | General Pointers Written: 285
 +------------------------------------------------------------------------------
 
-Execution time: 995 msecs
+Execution time: 758 msecs
