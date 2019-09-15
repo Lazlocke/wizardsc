@@ -1,0 +1,1179 @@
+\x1A\x01\x07\x04\x07\x27\x84\x00\x01\x0E :43: \xDB "料理" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :43: \x16 :97F: \x0A\x04\x07\x27\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:43
+\x1A\x01\x07\x04\x07\x28\x84\x00\x01\x0E :86: \xDB "料理" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :86: \x16 :B00: \x0A\x04\x07\x28\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:86
+\x1A\x01\x07\x04\x07\x29\x84\x00\x01\x0E :C9: \xDB "料理" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :C9: \x16 :BE2: \x0A\x04\x07\x29\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:C9
+\x1A\x01\x07\x04\x07\x2A\x84\x00\x01\x0E :10C: \xDB "料理" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :10C: \x16 :CCA: \x0A\x04\x07\x2A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:10C
+\x1A\x01\x07\x04\x07\x2B\x84\x00\x01\x0E :14F: \xDB "料理" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :14F: \x16 :ECA: \x0A\x04\x07\x2B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:14F
+\x1A\x01\x07\x04\x07\x2C\x84\x00\x01\x0E :192: \xDB "掃除" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :192: \x16 :10A4: \x0A\x04\x07\x2C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:192
+\x1A\x01\x07\x04\x07\x2D\x84\x00\x01\x0E :1D5: \xDB "掃除" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :1D5: \x16 :1335: \x0A\x04\x07\x2D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:1D5
+\x1A\x01\x07\x04\x07\x2E\x84\x00\x01\x0E :218: \xDB "掃除" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :218: \x16 :14B0: \x0A\x04\x07\x2E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:218
+\x1A\x01\x07\x04\x07\x2F\x84\x00\x01\x0E :25B: \xDB "掃除" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :25B: \x16 :173A: \x0A\x04\x07\x2F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:25B
+\x1A\x01\x07\x04\x07\x30\x84\x00\x01\x0E :29E: \xDB "洗濯" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :29E: \x16 :1899: \x0A\x04\x07\x30\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:29E
+\x1A\x01\x07\x04\x07\x31\x84\x00\x01\x0E :2E1: \xDB "洗濯" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :2E1: \x16 :1A76: \x0A\x04\x07\x31\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:2E1
+\x1A\x01\x07\x04\x07\x32\x84\x00\x01\x0E :33F: \xDB "洗濯" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :33F: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :33F: \x16 :1C91: \x0A\x04\x07\x32\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:33F
+\x1A\x01\x07\x04\x07\x33\x84\x00\x01\x0E :39D: \xDB "洗濯" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :39D: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :39D: \x16 :1FEF: \x0A\x04\x07\x33\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:39D
+\x1A\x01\x07\x04\x07\x34\x84\x00\x01\x0E :3FB: \xDB "洗濯" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :3FB: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :3FB: \x16 :2142: \x0A\x04\x07\x34\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:3FB
+\x1A\x01\x07\x04\x07\x35\x84\x00\x01\x0E :43E: \xDB "買物" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :43E: \x16 :22DB: \x0A\x04\x07\x35\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:43E
+\x1A\x01\x07\x04\x07\x36\x84\x00\x01\x0E :481: \xDB "買物" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :481: \x16 :2401: \x0A\x04\x07\x36\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:481
+\x1A\x01\x07\x04\x07\x37\x84\x00\x01\x0E :4C4: \xDB "買物" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4C4: \x16 :259D: \x0A\x04\x07\x37\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:4C4
+\x1A\x01\x07\x04\x07\x38\x84\x00\x01\x0E :507: \xDB "買物" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :507: \x16 :27EF: \x0A\x04\x07\x38\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:507
+\x1A\x01\x07\x04\x07\x39\x84\x00\x01\x0E :54A: \xDB "買物" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :54A: \x16 :2B69: \x0A\x04\x07\x39\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:54A
+\x1A\x01\x07\x04\x07\x3A\x84\x00\x01\x0E :58D: \xDB "買物" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :58D: \x16 :3039: \x0A\x04\x07\x3A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:58D
+\x1A\x01\x07\x04\x07\x3B\x84\x00\x01\x0E :5D0: \xDB "音楽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5D0: \x16 :31C2: \x0A\x04\x07\x3B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:5D0
+\x1A\x01\x07\x04\x07\x3C\x84\x00\x01\x0E :613: \xDB "音楽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :613: \x16 :32B6: \x0A\x04\x07\x3C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:613
+\x1A\x01\x07\x04\x07\x3D\x84\x00\x01\x0E :656: \xDB "音楽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :656: \x16 :342A: \x0A\x04\x07\x3D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:656
+\x1A\x01\x07\x04\x07\x3E\x84\x00\x01\x0E :699: \xDB "音楽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :699: \x16 :3591: \x0A\x04\x07\x3E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:699
+\x1A\x01\x07\x04\x07\x3F\x84\x00\x01\x0E :6DE: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :6DE: \x16 :386A: \x0A\x04\x07\x3F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:6DE
+\x1A\x01\x07\x04\x07\x40\x84\x00\x01\x0E :73E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :73E: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :73E: \x16 :39D6: \x0A\x04\x07\x40\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:73E
+\x1A\x01\x07\x04\x07\x41\x84\x00\x01\x0E :79E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :79E: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :79E: \x16 :3BF7: \x0A\x04\x07\x41\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:79E
+\x1A\x01\x07\x04\x07\x42\x84\x00\x01\x0E :7FE: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :7FE: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :7FE: \x16 :3F12: \x0A\x04\x07\x42\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:7FE
+\x1A\x01\x07\x04\x07\x43\x84\x00\x01\x0E :85E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :85E: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :85E: \x16 :410A: \x0A\x04\x07\x43\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:85E
+\x1A\x01\x07\x04\x07\x44\x84\x00\x01\x0E :8BE: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :8BE: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :8BE: \x16 :43A0: \x0A\x04\x07\x44\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:8BE
+\x1A\x01\x07\x04\x07\x45\x84\x00\x01\x0E :91E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :91E: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :91E: \x16 :4565: \x0A\x04\x07\x45\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:91E
+\x1A\x01\x07\x04\x07\x46\x84\x00\x01\x0E :97E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :97E: \xDB "Ｈ知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :97E: \x16 :4703: \x0A\x04\x07\x46\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+:97E
+\x78
+:97F
+<music 10>
+<background "bg002a0.iph" 11>
+『料理』
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6387">
+「……こうすれば」
+#
+<name "Lazlocke">
+「おお、美味い」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6388">
+「なんとか、本通りに作れるようになりました」
+#
+<name "Lazlocke">
+「次は、本を見ないで作れるようにしないとな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6389">
+「頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:B00
+<music 10>
+<background "bg002a0.iph" 11>
+『料理』
+#
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA6390">
+「どうですか！」
+#
+<name "Lazlocke">
+「おおっ……美味い」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6391">
+「えへん！」
+#
+<removesprite -1 11>
+<exit>
+:BE2
+<music 10>
+<background "bg002a0.iph" 11>
+『料理』
+#
+<sprite "ta01a14.iph" 4 4 11>
+<name "Celes" "!AA6392">
+「料理は愛情！」
+#
+<removesprite -1 11>
+　セリスは何かを悟ったかのように、料理の腕を上
+　げていた。
+#
+　食卓が華やかになっていくのは良いなぁ。
+#
+<exit>
+:CCA
+<music 10>
+<background "bg002a0.iph" 11>
+『料理』
+#
+<sprite "ta01a22.iph" 4 4 11>
+<name "Celes" "!AA6393">
+「師匠、勝負です！」
+#
+　そう言って、セリスは料理を並べた。
+#
+<name "Lazlocke">
+「良いだろう」
+#
+<removesprite -1 11>
+　俺はナイフとフォークで、セリスの料理に向かっ
+　た。
+#
+　……
+#
+<name "Lazlocke">
+「ご馳走様でした」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6394">
+「……どうですか？」
+#
+<name "Lazlocke">
+「……八十点。
+　上手くなったな」
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA6395">
+「やったぁっ♪」
+#
+<removesprite -1 11>
+<exit>
+:ECA
+<music 10>
+<background "bg002a0.iph" 11>
+『料理』
+#
+<name "Lazlocke">
+「味付け、少し変えたか？」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6396">
+「はい。
+　私の家の味付けで……
+　駄目ですか？」
+#
+<name "Lazlocke">
+「いや、これもこれでありだな」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6397">
+「今度から、それにしても良いですか？」
+#
+<name "Lazlocke">
+「うーん……前の味も好きだからな。
+　半々にしよう」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6398">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:10A4
+<music 10>
+<background "bg002a0.iph" 11>
+『掃除』
+#
+<name "Lazlocke">
+「掃除が上手くなったな」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6399">
+「はい。
+　頑張っていますから」
+#
+<name "Lazlocke">
+「そうか……
+　最初の頃は酷かったからなぁ……」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6400">
+「あはは……
+　家でやってなかったものですから」
+#
+<name "Lazlocke">
+「辛いか？」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6401">
+「いえ。
+　部屋が綺麗になるのは嬉しいですし、弟子として
+　当たり前です」
+#
+<name "Lazlocke">
+「そうか。
+　なら、俺よりも掃除は上手くなろうな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6402">
+「はい。
+　頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:1335
+<music 10>
+<background "bg002a0.iph" 11>
+『掃除』
+#
+　セリスは壷を磨いていた。
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA6403">
+「むう……まだ汚れている」
+#
+<removesprite -1 11>
+　セリスは延々と壷を磨いていた。
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA6404">
+「曇りが気になる……」
+#
+<removesprite -1 11>
+　セリスは壷を抱えながら、寝ていた。
+#
+<name "Celes" "!AA6405">
+「うう、ヨダレがとれない……」
+#
+<exit>
+:14B0
+<music 10>
+<background "bg002a0.iph" 11>
+『掃除』
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6406">
+「ここの汚れが凄く気になります」
+#
+　セリスは部屋の角を指差した。
+#
+　そこには確かに黒々とした汚れがあった。
+#
+<name "Lazlocke">
+「んー……
+　この汚れは無理じゃないか？
+　かなり前からずっとあるぞ」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6407">
+「やってみせます」
+#
+<removesprite -1 11>
+　セリスはそう言って、掃除に取り掛かった。
+#
+　数日の格闘後、そこの汚れは綺麗になっていた。
+#
+<name "Lazlocke">
+「おおっ！」
+#
+　部屋の角が無くなっていた。
+#
+<name "Lazlocke">
+「修理しておくように」
+#
+<sprite "ta01a42.iph" 4 4 11>
+<name "Celes" "!AA6408">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:173A
+<music 10>
+<background "bg002a0.iph" 11>
+『掃除』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1203">
+「部屋が綺麗ですね」
+#
+<name "Lazlocke">
+「ああ、セリスが掃除した」
+#
+<sprite "ta04a06.iph" 4 4 12>
+<name "Soshiette" "!DA1204">
+「……この腕前、魔法大会で負けても就職口には困
+　らないかと」
+#
+<name "Lazlocke">
+「その通りだが、セリスの前で言うなよ」
+#
+<removesprite -1 11>
+<exit>
+:1899
+<music 10>
+<background "bg001a0.iph" 11>
+『洗濯』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6409">
+「ごしごし……」
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6410">
+「ごしごしー」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6411">
+「ごっしごっし♪」
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6412">
+「よし、綺麗になったー♪」
+#
+<name "Lazlocke">
+「服を一枚洗うのに、一日掛けてればな」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6413">
+「つ、次はもう少し急ぎます」
+#
+<removesprite -1 11>
+<exit>
+:1A76
+<music 10>
+<background "bg001a0.iph" 11>
+『洗濯』
+#
+<sprite "ta01a02.iph" 4 4 11>
+<name "Celes" "!AA6414">
+「洗濯は、天気を見てからです！」
+#
+<name "Lazlocke">
+「確かに」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6415">
+「前は洗濯後に雨が降って大変でした」
+#
+<name "Lazlocke">
+「魔法で乾燥させようとして、燃やしちゃったのは
+　良い思い出だな」
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6416">
+「あはは」
+#
+<name "Lazlocke">
+「主に俺の服が燃えたんだよな……」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6417">
+「あの時は、すみませんでした」
+#
+<removesprite -1 11>
+<exit>
+:1C91
+<music 10>
+<background "bg001a0.iph" 11>
+『洗濯』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6418">
+「はっ、とう！
+　とりゃぁっ！」
+#
+<name "Lazlocke">
+「おお、洗濯物が……
+　まるで踊るように畳まれていく」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6419">
+「どうですか？」
+#
+<name "Lazlocke">
+「いや、慣れたもんだな」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6420">
+「毎日、洗濯していますから」
+#
+<name "Lazlocke">
+「そうか……悪かったな。
+　サボリ気味で」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6421">
+「いえいえ、師匠には料理や掃除で頑張って貰って
+　いますし、それに……」
+#
+<name "Lazlocke">
+「それに？」
+#
+<sprite "ta01a97.iph" 4 4 12>
+<name "Celes" "!AA6423">
+「あはは……
+　エッチな汁のついたシーツや服の洗濯をさせるの
+　はその……」
+#
+<name "Lazlocke">
+「…………これからも、頼んだ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6424">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1FEF
+<music 10>
+<background "bg001a0.iph" 11>
+『洗濯』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6425">
+「うーん、綺麗な服は良いですね」
+#
+<name "Lazlocke">
+「そうだな。
+　洗濯したては気持ち良い」
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA6426">
+「特に……Ｈの後ですと」
+#
+<name "Lazlocke">
+「………………まさか、洗濯中に襲いに来るとは」
+#
+<removesprite -1 11>
+<exit>
+:2142
+<music 10>
+<background "bg001a0.iph" 11>
+『洗濯』
+#
+<sprite "ta01a50.iph" 4 4 11>
+<name "Celes" "!AA6427">
+「師匠……エッチな事をしましょう」
+#
+<name "Lazlocke">
+「え？
+　しかし、服が汚れるし……」
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA6428">
+「すぐに洗濯しますよ。
+　着替えもほら」
+#
+<name "Lazlocke">
+「……」
+#
+<sprite "ta01a60.iph" 4 4 12>
+<name "Celes" "!AA6429">
+「ほらほら♪」
+#
+<removesprite -1 11>
+　意思が弱いなぁ、俺。
+#
+<exit>
+:22DB
+<music 10>
+<background "bg002a0.iph" 11>
+『買物』
+#
+<name "Lazlocke">
+「最近、生活費が安くなってるな……」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6430">
+「値切り、頑張ってますから」
+#
+<name "Lazlocke">
+「そうか……俺も頑張ろう」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6431">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2401
+<music 10>
+<background "bg014a0.iph" 11>
+『買物』
+#
+<name "Lazlocke">
+「セリス。
+　ここの店で買物するんじゃないのか？」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6432">
+「向こうの通りでも同じ商品を売っているので、そ
+　ちらの値段を見てからどっちで買うか決めます」
+#
+<name "Lazlocke">
+「なるほど」
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA6433">
+「では、行きましょう」
+#
+<name "Lazlocke">
+「……頑張ります」
+#
+<removesprite -1 11>
+<exit>
+:259D
+<music 10>
+<background "bg014a0.iph" 11>
+『買物』
+#
+<name "Lazlocke">
+「セリス、何をやっているんだ？」
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6434">
+「師匠。
+　今は勝負中です。
+　少し待ってください」
+#
+<name "Lazlocke">
+「勝負中？」
+#
+<removesprite -1 11>
+　俺は少し離れて、セリスを見守った。
+#
+　特に勝負しているようには見えないが……
+#
+　あ、店主が出てきた。
+#
+　泣きながら、商品を渡している。
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA6435">
+「勝ちました」
+#
+<name "Lazlocke">
+「……………………」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6436">
+「あ、ちゃんとお金は払っていますよ」
+#
+<removesprite -1 11>
+<exit>
+:27EF
+<music 10>
+<background "bg014a0.iph" 11>
+『買物』
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6437">
+「一個、３０Ｂ。
+　三個セットで、８５Ｂ。
+　五個セットで、１４０Ｂ」
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6442">
+「七個欲しいから……
+　五個セットと、二個を買って……
+　２００Ｂ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6439">
+「三個セットを二つと、一個でも……
+　２００Ｂ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6440">
+「見事な値段設定です」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6443">
+「しかし……
+　五個セットと、三個セットを買って八個にします。
+　これで２２５Ｂ」
+#
+<name "Lazlocke">
+「一個多いじゃないか」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6441">
+「はい。
+　これを持って、この店先で２９Ｂで売ります。
+　そうすると、手元には七個と１９６Ｂに！」
+#
+<name "アルバイト店員" "!RB0213">
+「お嬢ちゃん、値引してやるから……
+　やめてくれ」
+#
+<removesprite -1 11>
+<exit>
+:2B69
+<music 10>
+<background "bg014a0.iph" 11>
+『買物』
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6444">
+「せやから、その値段じゃ買えんゆーとるやろ。
+　もっと勉強しい」
+#
+<name "アルバイト店員" "!RB0214">
+「そう言われても、これは一点モノで……」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6445">
+「どこが一点モンや。
+　前に見た時、三つ並べとったで」
+#
+<name "アルバイト店員" "!RB0215">
+「うっ」
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA6447">
+「ほら、はよ値段決め。
+　こっちは傷有りやわかって買うゆーてんねんから」
+#
+<name "アルバイト店員" "!RB0216">
+「わ、わかったよ……じゃあ、これで？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6448">
+「あはは……
+　冗談が好きやなぁ」
+#
+<name "アルバイト店員" "!RB0217">
+「……こう？」
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA6449">
+「繰り返しギャグは二度までやで」
+#
+<name "アルバイト店員" "!RB0218">
+「ううう……」
+#
+<removesprite -1 11>
+　セリスの値引きは凄い。
+#
+　が……
+#
+<name "Lazlocke">
+「その喋り方はなんだ？」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6450">
+「商人と交渉するにはこの喋り方だと、ソシエット
+　さんに教えて頂きまして」
+#
+<name "Lazlocke">
+「まあ、わかったから……相手が泣くまでやるなよ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6451">
+「え？
+　泣いてからが本番じゃないんですか？」
+#
+<removesprite -1 11>
+<exit>
+:3039
+<music 10>
+<background "bg014a0.iph" 11>
+『買物』
+#
+<name "アルバイト店員" "!RB0219">
+「ひぃっ！
+　悪魔だ！
+　悪魔が来たぁぁ！」
+#
+　……
+#
+<name "Lazlocke">
+「セリス君」
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6452">
+「なんですか？」
+#
+<name "Lazlocke">
+「君を見ると店主達が慌てて店を閉めるのはなぜだ
+　ろうね」
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6453">
+「少し、やりすぎました」
+#
+<removesprite -1 11>
+<exit>
+:31C2
+<music 10>
+<background "bg002a0.iph" 11>
+『音楽』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6454">
+「歌は心です。
+　下手でも、聞いて貰う人の為に歌えば良いんです」
+#
+<name "Lazlocke">
+「…………上手なヤツの言い分だ」
+#
+<removesprite -1 11>
+　俺は歌が苦手だ。
+#
+<exit>
+:32B6
+<music 10>
+<background "bg002a0.iph" 11>
+『音楽』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6455">
+「見てください」
+#
+<name "Lazlocke">
+「どうしたんだ？
+　そのお金は？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6456">
+「街で歌って、稼ぎました。
+　家計の足しにしてください」
+#
+<name "Lazlocke">
+「……俺には一生できない芸だ」
+#
+<removesprite -1 11>
+『１０Ｂの収入を得た』
+#
+\x0B\x02\x00\x0A\x02\x00\x0A 10 
+<exit>
+:342A
+<music 10>
+<background "bg002a0.iph" 11>
+『音楽』
+#
+<name "Lazlocke">
+「セリス。
+　近所の教会で歌って欲しいって言われてるぞ」
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6457">
+「あ、はい。
+　そうなんです。
+　断わっているんですけど……」
+#
+<name "Lazlocke">
+「喜ばれるなら、たまに応えてやれ」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6458">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3591
+<music 10>
+<background "bg002a0.iph" 11>
+『音楽』
+#
+<name "Lazlocke">
+「おーい、セリス。
+　お前を尋ねに来たヤツが居るぞ」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6459">
+「誰ですか？」
+#
+<name "Lazlocke">
+「さあ？
+　なんでも、歌が良かったとか、感動したとか……」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6460">
+「ああ、すみません。
+　居ないって言って貰えますか？」
+#
+<name "Lazlocke">
+「？
+　知り合いじゃないのか？」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA6461">
+「知り合いと言うほどではないんですけど……
+　歌で世界を回ろうと誘って来る人で……
+　私には魔法使いの道があるからと断わっているん
+　ですけど、しつこくて」
+#
+<name "Lazlocke">
+「……」
+#
+<removesprite -1 11>
+　セリスは俺の知らない所で、有名人になっている
+　ようだ。
+#
+<exit>
+:386A
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a70.iph" 4 4 11>
+<name "Celes" "!AA6462">
+「これは……でも……しかし……」
+#
+<name "Lazlocke">
+「どうした？」
+#
+<sprite "ta01a80.iph" 4 4 12>
+<name "Celes" "!AA6463">
+「うわぁぁぁっ！」
+#
+<removesprite -1 11>
+　セリスは慌てて逃げた。
+#
+　なんだ？
+#
+　何かの本を読んでいたようだが……
+#
+　変な知識を得たんじゃないだろうな。
+#
+<exit>
+:39D6
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a50.iph" 4 4 11>
+<name "Celes" "!AA6464">
+「師匠」
+#
+<name "Lazlocke">
+「なんだ？」
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA6465">
+「ごほん……
+　お兄ちゃん」
+#
+<name "Lazlocke">
+「うおっ！」
+#
+<sprite "ta01a59.iph" 4 4 12>
+<name "Celes" "!AA6466">
+「おにいちゃぁーーーーーん♪」
+#
+<name "Lazlocke">
+「うわあああああっ！」
+#
+<removesprite -1 11>
+　俺は押し倒された。
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA6467">
+「これが妹萌えです」
+#
+<name "Lazlocke">
+「誰だ。
+　変な事を教えたのは！」
+#
+<removesprite -1 11>
+<exit>
+:3BF7
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA6468">
+「姉萌え……
+　師匠の名前はラズロックだから……
+　うーん……」
+#
+<removesprite -1 11>
+　セリスは悩んだ。
+#
+　そして、結論を出した。
+#
+<sprite "ta01a13.iph" 4 4 11>
+<name "Celes" "!AA6469">
+「ラズ君。
+　今日はどうしたのかな？
+　元気無いぞ♪」
+#
+<removesprite -1 11>
+　……
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6470">
+「駄目ですか？」
+#
+<name "Lazlocke">
+「あー、駄目じゃないけどな。
+　うん。
+　えっとだな……ラズ君は止めろ」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6471">
+「そんなぁ……ラズ君。
+　お姉ちゃんの事が嫌いになったの？」
+#
+<name "Lazlocke">
+「…………」
+#
+<removesprite -1 11>
+　一晩楽しんだ後、姉萌えは封印した。
+#
+<sprite "ta01a37.iph" 4 4 11>
+<name "Celes" "!AA6472">
+「そんなぁ～」
+#
+<removesprite -1 11>
+<exit>
+:3F12
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6473">
+「ここが、マイナスになるので、結果がこうなるの
+　です。
+　わかりましたか？」
+#
+<name "Lazlocke">
+「セリス君」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6474">
+「あ、は、はい」
+#
+<name "Lazlocke">
+「君に教師萌えは無理だ」
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA6475">
+「え？
+　そんなぁ！
+　ちびっこ先生なら可能だと言われたのに！」
+#
+<name "Lazlocke">
+「誰だ！
+　そんな事を言ったのは！」
+#
+<removesprite -1 11>
+<exit>
+:410A
+<music 10>
+<background "bg015a0.iph" 11>
+『Ｈ知識』
+#
+<name "Lazlocke">
+「セリス。
+　どうした？
+　何かあるのか？」
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6476">
+「いえ、野良犬が……」
+#
+<name "Lazlocke">
+「飼えないぞ」
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6477">
+「いえ、そうではなく……」
+#
+<name "Lazlocke">
+「？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6478">
+「犬プレイの参考に……」
+#
+<name "Lazlocke">
+「時々思うが……
+　お前にその知識を与えているのは誰だ？」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6479">
+「主に師匠の書庫ですが……」
+#
+<name "Lazlocke">
+「………………」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6480">
+「わん♪」
+#
+<removesprite -1 11>
+<exit>
+:43A0
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6481">
+「師匠。
+　最近、思うのですが……」
+#
+<name "Lazlocke">
+「なにをだ？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6482">
+「エロって、奥が深いですよね」
+#
+<name "Lazlocke">
+「…………」
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6483">
+「なんですか、その目は？」
+#
+<name "Lazlocke">
+「いや、女の子がそんな事を口走っちゃ駄目だなと
+　思っただけだ」
+#
+<removesprite -1 11>
+<exit>
+:4565
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA6484">
+「下着は重要なポイント！
+　下着で色気アップ！」
+#
+<name "Lazlocke">
+「……」
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA6485">
+「明日はこれにしようかなぁ～♪」
+#
+<name "Lazlocke">
+「どうせ脱ぐのに……」
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6486">
+「師匠」
+#
+<removesprite -1 11>
+　三日に渡って下着の大事さを訴えられた。
+#
+<exit>
+:4703
+<music 10>
+<background "bg002a0.iph" 11>
+『Ｈ知識』
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6487">
+「師匠。
+　師匠は女性のどの部分に興奮しますか？」
+#
+<name "Lazlocke">
+「は？」
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6488">
+「その、胸とか、お尻とか、うなじとか……」
+#
+<name "Lazlocke">
+「うーん……」
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6489">
+「悩みますか？」
+#
+<name "Lazlocke">
+「一応、どんな相手でも役に立つよう訓練されたか
+　らなぁ……」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6490">
+「ええ！
+　そうなんですか？」
+#
+<name "Lazlocke">
+「ああ……しかし、強いてどこで興奮するかと言わ
+　れると……」
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA6491">
+「と？」
+#
+<name "Lazlocke">
+「ぶっちゃけ穴だな」
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6492">
+「……………………………………師匠、直接的過ぎ
+　ます」
+#
+<name "Lazlocke">
+「いや、男として穴を見ると興奮するのは正しい反
+　応の筈だ」
+#
+<name "Lazlocke">
+「だから……穴に近い尻も良いな。
+　いや、太股……腰も捨て難い。
+　まてまて、口も良い……
+　首筋も悪く無いし……胸は至宝だしなぁ」
+#
+<name "Lazlocke">
+「いやいや、胸が無くてもそれなりに楽しんでいる
+　から、胸のあるなしは大事じゃないのか？
+　そうじゃない。その胸のあるなしによって女の悩
+　む姿が……わかった！」
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6493">
+「なにをですか？
+　師匠がエロい事は十分わかりましたが」
+#
+<name "Lazlocke">
+「女の心の在り方が萌える！」
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6494">
+「は？」
+#
+<name "Lazlocke">
+「つまりだ……男を知らない女が、初めて異性に触
+　れた時の戸惑いとか……気丈な女が、身分の低い
+　者に触れられる屈辱とか……」
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6495">
+「師匠……
+　口を開く度に身を切ってますよ」
+#
+<name "Lazlocke">
+「そうか？」
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6496">
+「あと、女性のどこの部分に興奮するかと言う質問
+　ですので」
+#
+<name "Lazlocke">
+「…………やっぱり、穴があれば文句無い」
+#
+<removesprite -1 11>
+<exit>
+\x78

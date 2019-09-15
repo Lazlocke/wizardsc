@@ -1,0 +1,372 @@
+\x1A\x01\x07\x04\x06\x7D\x84\x00\x01\x0E :47: \xDB "投ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :32A: \x0A\x04\x06\x7D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:47
+\x1A\x01\x07\x04\x06\x7E\x84\x00\x01\x0E :8E: \xDB "投ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :8E: \x16 :5AB: \x0A\x04\x06\x7E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:8E
+\x1A\x01\x07\x04\x06\x7F\x84\x00\x01\x0E :D5: \xDB "投ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :D5: \x16 :7C7: \x0A\x04\x06\x7F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:D5
+\x1A\x01\x07\x04\x06\x80\x84\x00\x01\x0E :11C: \xDB "飛ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :11C: \x16 :9FA: \x0A\x04\x06\x80\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:11C
+\x1A\x01\x07\x04\x06\x81\x84\x00\x01\x0E :17A: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :17A: \xDB "ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :17A: \x16 :E4E: \x0A\x04\x06\x81\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:17A
+\x1A\x01\x07\x04\x06 0x8400010E  :1D8: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :1D8: \xDB "ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :1D8: \x16 :1005: \x0A\x04\x06 0x84010A04 \x00\x6F\x84\x01\x15 :329: 
+:1D8
+\x1A\x01\x07\x04\x06\x83\x84\x00\x01\x0E :21F: \xDB "大蛇ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :21F: \x16 :11B6: \x0A\x04\x06\x83\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:21F
+\x1A\x01\x07\x04\x06\x84\x84\x00\x01\x0E :266: \xDB "暴蛇ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :266: \x16 :12C5: \x0A\x04\x06\x84\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:266
+\x1A\x01\x07\x04\x06\x85\x84\x00\x01\x0E :2A7: \xDB "樽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2A7: \x16 :148A: \x0A\x04\x06\x85\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:2A7
+\x1A\x01\x07\x04\x06\x86\x84\x00\x01\x0E :2E8: \xDB "樽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :2E8: \x16 :1621: \x0A\x04\x06\x86\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:2E8
+\x1A\x01\x07\x04\x06\x87\x84\x00\x01\x0E :329: \xDB "樽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :329: \x16 :17D4: \x0A\x04\x06\x87\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:329
+\x78
+:32A
+<music 10>
+<background "bg004a0.iph" 11>
+『投ナイフ』
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6018">
+「ナイフを上手く投げれるようになりました！」
+#
+<name "Lazlocke">
+「よし、見せてみろ！」
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA6020">
+「はい！
+　あの的を目掛けて……えいっ！」
+#
+<name "Lazlocke">
+「おお、見事に命中だ！」
+#
+<sprite "ta01d18.iph" 4 4 12>
+<name "Celes" "!AA6021">
+「でしょう」
+#
+<name "Lazlocke">
+「しかし、もう少し離れて投げる事はできないのか
+　な？」
+#
+<removesprite -1 11>
+　的からは、一メートルぐらいしか離れていなかっ
+　た。
+#
+<sprite "ta01d42.iph" 4 4 11>
+<name "Celes" "!AA6022">
+「あはは……
+　頑張って練習していきます」
+#
+<removesprite -1 11>
+<exit>
+:5AB
+<music 10>
+<background "bg004a0.iph" 11>
+『投ナイフ』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA6023">
+「とう、えいっ、やっ！」
+#
+<removesprite -1 11>
+　セリスの投げるナイフが、連続して的に命中する。
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6024">
+「……命中率は、まあまあかな。
+　でも、まだ頑張らないと」
+#
+<name "Lazlocke">
+「いや、いまでも十分凄いと思うが。
+　一メートルぐらいしか投げられなかった時の事を
+　思うと……」
+#
+<sprite "ta01d36.iph" 4 4 12>
+<name "Celes" "!AA6025">
+「師匠。
+　恥ずかしい過去を思い出すのは止めてください」
+#
+<removesprite -1 11>
+<exit>
+:7C7
+<music 10>
+<background "bg004a0.iph" 11>
+『投ナイフ』
+#
+<name "Lazlocke">
+「うーむ、接近戦でのナイフ捌き。
+　遠距離での投げナイフ。
+　隙が無いな」
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1145">
+「はい。
+　あらゆる間合いに対応できるように考えています」
+#
+<name "Lazlocke">
+「問題は威力か」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1146">
+「はい。
+　ですが、それも数と他の技とのコンビネーション
+　でなんとかします」
+#
+<name "Lazlocke">
+「わかった。
+　引き続き、頼む」
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1147">
+「承知しました」
+#
+<removesprite -1 11>
+<exit>
+:9FA
+<music 10>
+<background "bg004a0.iph" 11>
+『飛ナイフ』
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1148">
+「投げたナイフは、一直線にしか進みません」
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1153">
+「ですので、無闇に投げてはいけません。
+　ここぞという場面で投げましょう」
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA6029">
+「はい」
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1150">
+「そして、こんな技もあります」
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA6030">
+「え？」
+#
+<removesprite -1 11>
+　ソシエットはナイフを投げた。
+#
+　一直線に目標に向かったが、途中で方向を変えて
+　曲がった。
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA6031">
+「え？
+　え？」
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1151">
+「ナイフの形状や投げ方によって、途中で予測不能
+　な動きをさせる事は不可能ではありません」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1152">
+「かならず、一直線に飛んでくると思い込まないよ
+　うに」
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA6032">
+「は、はい。
+　わかりました」
+#
+<removesprite -1 11>
+<exit>
+:E4E
+<music 10>
+<background "bg004a0.iph" 11>
+『ムチ』
+#
+<name "Lazlocke">
+「ムチの扱い方を覚えたのか……そうか……」
+#
+<sprite "ta01d49.iph" 4 4 11>
+<name "Celes" "!AA6033">
+「あの、師匠。
+　別に夜の行為で使ったりはしませんよ」
+#
+<name "Lazlocke">
+「え？
+　そうなのか？」
+#
+<sprite "ta01d51.iph" 4 4 12>
+<name "Celes" "!AA6034">
+「つ、使った方が良いですか？
+　本気でやると、皮がめくれますが……」
+#
+<name "Lazlocke">
+「つ、使わない方向でお願いします」
+#
+<removesprite -1 11>
+<exit>
+:1005
+<music 10>
+<background "bg004a0.iph" 11>
+『ムチ』
+#
+　セリスがムチを奮い、良い音をさせていた。
+#
+<name "Lazlocke">
+「うーん」
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA6035">
+「あの、なにか？」
+#
+<name "Lazlocke">
+「ムチのビシッバシッて音、痛そうに聞こえる反面、
+　エロくも聞こえるなぁと」
+#
+<sprite "ta01d58.iph" 4 4 12>
+<name "Celes" "!AA6036">
+「……エロいのが好きでしたら、叩きましょうか？」
+#
+<name "Lazlocke">
+「いえ、遠慮します」
+#
+<removesprite -1 11>
+<exit>
+:11B6
+<music 10>
+<background "bg004a0.iph" 11>
+『大蛇ムチ』
+#
+　大蛇ムチ……
+#
+　大蛇……
+#
+　ムチ……
+#
+<sprite "ta01d96.iph" 4 4 11>
+<name "Celes" "!AA6037">
+「師匠。
+　エロい事を考えていたら、改めてください」
+#
+<removesprite -1 11>
+　セリスが怖い顔でムチを持っていたので、俺は頷
+　いた。
+#
+<exit>
+:12C5
+<music 10>
+<background "bg004a0.iph" 11>
+『暴蛇ムチ』
+#
+　暴蛇ムチ……
+#
+　暴れる蛇のムチ……
+#
+　ムチ……
+#
+　ビシバシ……
+#
+<sprite "ta01d58.iph" 4 4 11>
+<name "Celes" "!AA6038">
+「師匠。
+　エロい事を考えてますね？」
+#
+<name "Lazlocke">
+「い、いや、そんな事は……」
+#
+<sprite "ta01d60.iph" 4 4 12>
+<name "Celes" "!AA6039">
+「嘘を吐いたら、ムチが飛びますよ。
+　ええ、暴れる蛇のように……」
+#
+<name "Lazlocke">
+「すみません。
+　エロい事を考えていました」
+#
+<removesprite -1 11>
+<exit>
+:148A
+<music 10>
+<background "bg004a0.iph" 11>
+『樽』
+#
+<name "Lazlocke">
+「樽か……」
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6040">
+「樽です」
+#
+<name "Lazlocke">
+「樽か……」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6041">
+「樽です」
+#
+<removesprite -1 11>
+　なぜに、この娘は樽なんかの扱いが上手いのだろ
+　うか……
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA6042">
+「うーん……このフィット感……絶妙です」
+#
+<removesprite -1 11>
+<exit>
+:1621
+<music 10>
+<background "bg004a0.iph" 11>
+『樽』
+#
+<sprite "ta01d24.iph" 4 4 11>
+<name "Celes" "!AA6043">
+「とりゃぁぁっ！」
+#
+<name "Lazlocke">
+「おお、樽で相手を薙ぎ払っていく……」
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6044">
+「どうですか！」
+#
+<name "Lazlocke">
+「凄いが……坂道が弱点だな。
+　かなり向こうの方まで転がったぞ。
+　取りに行くのか？」
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA6045">
+「それは言わないでください」
+#
+<removesprite -1 11>
+<exit>
+:17D4
+<music 10>
+<background "bg004a0.iph" 11>
+『樽』
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA6046">
+「タルクラッシャー！
+　……いやいや」
+#
+<sprite "ta01d22.iph" 4 4 12>
+<name "Celes" "!AA6047">
+「デストロイヤータルー！
+　……いやいや」
+#
+<sprite "ta01d24.iph" 4 4 12>
+<name "Celes" "!AA6048">
+「タルの香草焼きワインソテー！
+　……ああ、なんか方向性を見失ってる」
+#
+<removesprite -1 11>
+　セリスはタルを使った攻撃の技名を考えたが、結
+　局は良いアイディアは出なかった。
+#
+<exit>
+\x78

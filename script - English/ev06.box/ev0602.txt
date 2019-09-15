@@ -68,1286 +68,1314 @@
 :97C
 <music 10>
 <background "bg004a0.iph" 11>
-『ジャブ』
+-- Jab --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1023">
-「ジャブで相手を倒す事は難しいです。
-　ですが、相手の出鼻を挫いたり、牽制したりと、
-　戦いを有利に進める事に使えます」
+"It's difficult to win a fight with a jab, but
+ it can knock the wind out of them, allow you 
+ to take control of the fight, and push the
+ battle to a more advantageous situation."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1024">
-「打撃戦の要と言っても過言ではありません。
-　頑張ってマスターしてください」
+"It's no exaggeration to say that it's a
+ cornerstone of brawling.
+ Work hard to master it."
 #
 <removesprite -1 11>
 <sprite "ta01d20.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5796">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :B53
 <music 10>
 <background "bg003a0.iph" 11>
-『ジャブ』
+-- Jab --
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA5797">
-「シュッシュッ……」
+"Sha...
+ Sha..."
 #
 <removesprite -1 11>
-　セリスは部屋の隅で腕の振りをチェックしている。
+Celes shadowboxes in the corner of the room.
 #
-　時間を見つけてはマメにやっている。
+She's been doing that whenever she has some
+spare time.
 #
-　熱心な事だ。
+She's very enthusiastic about it.
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA5798">
-「シュッシュッ……あっ！」
+"Sha...
+ Sha...
+ Ah!"
 #
 <removesprite -1 11>
-　時々、家具を叩いて悶絶しているが。
+But sometimes accidentally smacks something and
+suffers for it.
 #
 <exit>
 :CC6
 <music 10>
 <background "bg004a0.iph" 11>
-『ストレート』
+-- Straight Punch --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1025">
-「相手を倒す為の打撃です」
+"This is a blow for knocking out your opponent."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1026">
-「狙いは的確に。
-　放つと決めたら躊躇しないように」
+"Your aim must be precise.
+ When you decide to attack, don't hold back."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5799">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1027">
-「では、実践練習です。
-　掛かって来てください」
+"Now then, let's put it into practice.
+ Do come at me."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5800">
-「……が、頑張ります」
+"...I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :EE2
 <music 2>
 <background "bg013a0.iph" 11>
-『ストレート』
+-- Straight Punch --
 #
-<name "若い娘" "!GA0139">
-「きゃぁぁ、痴漢っ！」
+<name "Girl" "!GA0139">
+"Eek!
+ A molester!"
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA5801">
-「せいっ！」
+"Hya!"
 #
 <removesprite -1 11>
-<name "右から見ていた男" "!QB0183">
-「おお、見事なストレート……痴漢が膝から落ちた」
+<name "Onlooker" "!QB0183">
+"Ooh! Splendid straight punch!
+ That pervert fell to his knees."
 #
-<name "左から見ていた男" "!RB0211">
-「そこに追撃のストレート！
-　うおお、可哀想にあの痴漢。
-　昼間に食べたのを撒き散らしながら吹っ飛ばされ
-　たぞ！」
+<name "Other Onlooker" "!RB0211">
+"And a followup to the punch!
+ Ooh... That poor pervert.
+ He got launched into the sun!"
 #
-<name "右から見ていた男" "!QB0184">
-「すげぇ！」
+<name "Onlooker" "!QB0184">
+"Wow!"
 #
-<name "若い娘" "!GA0140">
-「あ、ありがとうございました」
+<name "Girl" "!GA0140">
+"T-Thank you very much."
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA5802">
-「痴漢は死ぬべきです」
+"Perverts should die."
 #
 <name "Lazlocke">
-「…………」
+"..."
 #
 <sprite "ta01a97.iph" 4 4 12>
 <name "Celes" "!AA5803">
-「し、師匠が私にする分には構いません」
+"I-I don't mean what you do to me."
 #
 <removesprite -1 11>
 <exit>
 :11A3
 <music 10>
 <background "bg002b0.iph" 11>
-『ストレート』
+-- Straight Punch --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA5804">
-「こう……こうかな？
-　それとも……こう」
+"Like... this?
+ Or... like this?"
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA5805">
-「もっと捻った方が良いかな」
+"Should I twist more?"
 #
 <removesprite -1 11>
-　セリスは打撃の練習をしていた。
+Celes is practicing punching.
 #
-　熱心なのは良いが、Ｈの後とかにされると少し怖
-　かったりする。
+I'm glad she's enthusiastic, but a little 
+scared when she does it after sex.
 #
 <exit>
 :12F9
 <music 10>
 <background "bg004a0.iph" 11>
-『ソニックブロー』
+-- Sonic Blow --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1030">
-「ソニックブロー。
-　それは、音の速さで相手に打撃を与える技です」
+"A sonic blow is a technique for striking your
+ opponent at the speed of sound."
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
 <name "Celes" "!AA9002">
-「音の速さですか？」
+"The speed of sound?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1031">
-「はい。
-　魔力を用い、肉体を強化して使います。
-　実践例としては、このような感じです」
+"Yes. Use mana to enhance your body.
+ Practically speaking, it will be like this."
 #
 <removesprite -1 11>
-　ソシエットが腕を振ると、スパンッと空気が弾け
-　た音が聞こえた。
+Soshiette punches the air, creating a tiny
+sonic boom.
 #
-　そして、その音が聞こえた時にはすでに腕は元の
-　位置に戻っている。
+Her arm's already back to where it started by
+the time the sound comes.
 #
 <sprite "ta01d10.iph" 4 4 11>
 <name "Celes" "!AA9003">
-「……」
+"..."
 #
 <removesprite -1 11>
 <sprite "ta01d10.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Soshiette" "!DA1032">
-「少々、魔力を消費しますが、有効な打撃となりま
-　す。
-　使いこなしてください」
+"It consumes a little mana, but it's a very
+ effective punch.
+ Please try to master it."
 #
 <sprite "ta01d21.iph" 2 5 12>
 <name "Celes" "!AA9004">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :1689
 <music 10>
 <background "bg004a0.iph" 11>
-『ソニックブロー』
+-- Sonic Blow --
 #
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA5808">
-「ソニックブロー！」
+"Sonic blow!"
 #
 <removesprite -1 11>
-　セリスは腕を振り、素振りを繰り返す。
+Celes punches the air over and over.
 #
-　その腕が突き出される度に、空気を弾く音が心地
-　良く響く。
+Each punch creates a pleasant-sounding crack in
+the air.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1033">
-「見事です」
+"Excellent."
 #
 <removesprite -1 11>
 <sprite "ta01d15.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5809">
-「えへへ……
-　ソシエットさんのお陰です」
+"Ahaha...
+ It's thanks to you."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1034">
-「いえ。
-　……そこまで習得したのでしたら、次の段階です」
+"Hardly. If you've mastered that level, then 
+ it's time to move to the next stage."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA5810">
-「次の段階ですか？」
+"The next stage?"
 #
 <sprite "ta04a08.iph" 6 4 12>
 <name "Soshiette" "!DA1035">
-「はい。
-　ソニックブローの上位技。
-　フラッシュブローです」
+"Yes. A higher caliber of the sonic blow, the
+ flash blow."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5811">
-「フラッシュブロー……ごくり」
+"Flash blow?
+ *gulp*"
 #
 <removesprite -1 11>
 <exit>
 :19E1
 <music 10>
 <background "bg004a0.iph" 11>
-『フラッシュブロー』
+-- Flash Blow --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1036">
-「フラッシュブロー。
-　光の速さを超える打撃技です」
+"A flash blow is a technique for punching at
+ faster than the speed of light."
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5812">
-「光に速度があるんですか？」
+"Light has a speed?"
 #
 <sprite "ta04a08.iph" 6 4 12>
 <name "Soshiette" "!DA1037">
-「光の速さのイメージとして、暗い部屋で窓を開け
-　た時に入ってくる光です」
+"If you want to imagine the speed of light,
+ open a window in a dark room and watch how
+ fast light comes in."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA5813">
-「す、すみません。
-　イマイチわかりません」
+"I-I'm sorry.
+ I don't understand at all."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1038">
-「光の速さが分かり難ければ、目にも止まらぬ速さ
-　と思って頂いて結構です。
-　実例を見せます。
-　的は……そこの杭にします」
+"If it's hard for you to understand the speed of
+ light, just assume it's too fast for your eyes
+ to follow. Let me show you an example.
+ The target will be that stake over there."
 #
 <removesprite -1 11>
-　ソシエットが腕を振るった瞬間、その腕先が見え
-　ずに打撃音が響いたと同時に、的にされた杭が砕
-　けた。
+Soshiette's arm shimmers for a split second, 
+but doesn't seem to move. At the same time, the
+stake she pointed to breaks.
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5814">
-「え？
-　あれ？」
+"Huh?
+ What?"
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1040">
-「もう一度、放ちます。
-　的はその隣の杭です」
+"I'll do it again.
+ This time the stake next to that one."
 #
 <removesprite -1 11>
-　先ほどと同じく、ソシエットの腕が動いた瞬間に
-　見えなくなり、打撃音が響いたと同時に杭が砕け
-　散った。
+Again, her arm shimmers and the stake cracks
+apart with an impact.
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA5815">
-「……すごい」
+"Wow..."
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Soshiette" "!DA1041">
-「目にも止まらず、音すら置いていく打撃。
-　頑張って習得してください」
+"It's a punch that the eyes can't follow, to
+ say nothing of sound.
+ Please work hard to learn it."
 #
 <sprite "ta01d21.iph" 2 5 12>
 <name "Celes" "!AA5816">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :1F90
 <music 10>
 <background "bg004a0.iph" 11>
-『タイムブロー』
+-- Chrono Blow --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1043">
-「タイムブロー。
-　ソニック、フラッシュの後に続く打撃技です」
+"A chrono blow is a punch in the same vein as a
+ sonic blow, but even faster than a flash blow."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5817">
-「タイムと言う事は、時の速さですか？」
+"So it moves at the speed of time?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1044">
-「その通りです」
+"That's right."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA5818">
-「あの、でも、時の速さって、あまり速そうなイメ
-　ージが無いんですが……」
+"Um, but I can't even imagine something that can
+ move as fast as the speed of time."
 #
 <sprite "ta04a08.iph" 6 4 12>
 <name "Soshiette" "!DA1045">
-「時の速さ。
-　東方では、刹那と呼ばれる瞬間。
-　時間を止めたかのような速度です」
+"The speed of time...
+ In the east, they call it the moment between
+ moments.
+ It's like a speed where time stops."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1046">
-「実践すると、こうなります」
+"In execution, it looks like this."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5819">
-「え？
-　あの、何もしていないのでは？」
+"Huh?
+ Um, nothing happened?"
 #
 <removesprite -1 11>
-　セリスがそう聞いた瞬間、近くにあった杭が砕け
-　散った。
+As soon as she says that, the stake next to her
+bursts.
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1047">
-「音も、光も、置いていきます」
+"Sound and light lag to catch up."
 #
 <removesprite -1 11>
 <sprite "ta01d10.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5820">
-「……」
+"..."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1048">
-「頑張ってください」
+"Good luck."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5821">
-「は、はい……」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :2485
 <music 10>
 <background "bg004a0.iph" 11>
-『ゴッドブロー』
+-- God Blow --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1049">
-「音を超える打撃、ソニック。
-　光を超える打撃、フラッシュ。
-　時を超える打撃、タイム。
-　そして、神の打撃、ゴッド」
+"A punch that surpasses sound, sonic.
+ A punch that surpasses light, flash.
+ A punch that surpasses time, chrono.
+ And the punch of a god."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1050">
-「ゴッドブローは、時すら遡るとされる必中の打撃
-　技です。
-　千発放てば千発当り、万発放てば万発当ります」
+"The god blow is a punching technique that dates
+ back to the dawn of time. To strike a thousand,
+ you must throw a thousand punches. To strike
+ ten thousand, you must throw then thousand."
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5822">
-「おおっ」
+"Oooh."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1051">
-「ですが、この技を習得しきった者は、編み出した
-　者のみとされています」
+"However, the only person who has mastered this
+ technique is the one who created it."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA5823">
-「……編み出した者？
-　ソシエットさんですか？」
+"The one who created it?
+ Was it you?"
 #
 <sprite "ta04a72.iph" 6 4 12>
 <name "Soshiette" "!DA1052">
-「いえ、私ではありません。
-　編み出したのは、ナイト＝クルセイダ。
-　聖マイル騎士団の団長です」
+"No, it's not me.
+ The one who created it was Knight Crusader,
+ the commander of the order of the St. Mile
+ holy order."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1053">
-「ですので、私も習得していません。
-　真似事止まりです」
+"Which is to say that I haven't mastered it
+ myself.
+ I can only perform an imitation of it."
 #
 <sprite "ta01d08.iph" 2 5 12>
 <name "Celes" "!AA5824">
-「………………」
+"..."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1054">
-「ですが、諦めてはいけません。
-　練習あるのみです」
+"But don't give up.
+ You just need to practice."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5825">
-「そ、そうですね。
-　頑張ります！」
+"A-All right.
+ I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
 :2984
 <music 10>
 <background "bg004a0.iph" 11>
-『ゴッドブロー』
+-- God Blow --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5826">
-「ソニック！
-　フラッシュ！
-　タイム！
-　ゴッド！！」
+"Sonic!
+ Flash!
+ Chrono!
+ God!"
 #
 <removesprite -1 11>
-　的にされた杭が、砕け散る。
+The stake is impacted by multiple blows and
+splinters.
 #
-　砕け散るが、その散った杭の欠片が急に収束した
-　ような動きをする。
+But the fragments stay for a moment in the
+original shape.
 #
-　そして、元の杭の形を形成する瞬間に、その場で
-　崩れた。
+And then falls into a pile of splinters all at
+once.
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA5827">
-「はぁ、はぁ……」
+"*huff* *huff*"
 #
 <removesprite -1 11>
 <sprite "ta01d32.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA1055">
-「見事です」
+"Excellent."
 #
 <sprite "ta01d31.iph" 2 5 12>
 <name "Celes" "!AA5828">
-「いえ、まだまだです。
-　真のゴッドは……」
+"No, I still have a long way to go to reach
+ the level of a real god..."
 #
 <sprite "ta04a72.iph" 6 4 12>
 <name "Soshiette" "!DA1056">
-「真のゴッド……
-　そこまで技を習得したのなら、真のゴッドまでの
-　道程の長さは理解できると思いますが」
+"A real god...
+ If you've mastered the skill this far, then
+ you should comprehend how far from a real god
+ you are."
 #
 <sprite "ta01d42.iph" 2 5 12>
 <name "Celes" "!AA5829">
-「あはは……絶望的な感じですね。
-　でも、一歩づつでも進まないと辿り着けませんか
-　ら」
+"Hahaha... It does feel kind of hopeless, but
+ you won't get anywhere unless you take the
+ first step."
 #
 <sprite "ta04a62.iph" 6 4 12>
 <name "Soshiette" "!DA1057">
-「……
-　頑張ってください。
-　セリスさんなら、辿り着ける気がします」
+"...Work hard.
+ I feel like you could reach it."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5830">
-「はい！」
+"Yes, ma'am!"
 #
 <removesprite -1 11>
 <exit>
 :2DF0
 <music 10>
 <background "bg004a0.iph" 11>
-『ゴッドブロー』
+-- God Blow --
 #
 <name "Lazlocke">
-「セリスはどうだ？」
+"How's she doing?"
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1058">
-「ゴッドに関しては、有数の使い手でしょう」
+"She's likely one of the foremost masters of the
+ god blow."
 #
 <name "Lazlocke">
-「そりゃ、凄いな。
-　ナイト＝クルセイダはその技で魔王軍を追い返し
-　たと伝えられるが……」
+"That's incredible.
+ I heard that Knight Crusader used that skill to
+ drive off an overlord's army."
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA1059">
-「流石に、そこまでは無理です」
+"Regardless, she's nowhere near that level."
 #
 <name "Lazlocke">
-「あはは……そうか」
+"Hahaha... I guess."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA1060">
-「ですが、このまま修練をすればいずれ可能になる
-　かと」
+"However, if she keeps training, it could be
+ possible one day."
 #
 <name "Lazlocke">
-「楽しみな事だ」
+"I'm looking forward to it."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1061">
-「はい」
+"Indeed."
 #
 <removesprite -1 11>
 <exit>
 :3079
 <music 25>
 <background "bg004a0.iph" 11>
-『ローキック』
+-- Low Kick --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5831">
-「ロー、ロー、も一つロー！」
+"Low! Low! One more! Low!"
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA1062">
-「執拗な脚部への攻撃。
-　見事です」
+"A relentless attack on the legs.
+ Excellent."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1063">
-「ローキックは地味な技ですが、かなり効果のある
-　技です。
-　その調子で、頑張ってください」
+"The low kick is a simple skill, but a 
+ considerably effective one.
+ Keep it up and work hard."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5832">
-「はい！」
+"Yes, ma'am!"
 #
 <name "Lazlocke">
-「あの……痛くてもう立てないんですが……」
+"Um... 
+ It hurts too much for me to keep standing..."
 #
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA1064">
-「甘えないでください。
-　ご主人様」
+"Please don't be a baby, Your Grace."
 #
 <name "Lazlocke">
-「え、えっと……
-　あの足が折れてるかもしれないんですが……」
+"U-Um, I think my leg might be broken."
 #
 <sprite "ta01d17.iph" 2 5 12>
 <name "Celes" "!AA5833">
-「師匠の犠牲、無駄にしません」
+"I won't let your sacrifice be in vain."
 #
 <name "Lazlocke">
-「そうじゃなくてだな……」
+"That's not the problem..."
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA1065">
-「立たないと、顔にローが入りますよ」
+"If you don't stay on your feet, she'll be
+ kicking you in the face."
 #
 <name "Lazlocke">
-「ひぃっ」
+"Aiee!"
 #
 <removesprite -1 11>
 <exit>
 :3446
 <music 2>
 <background "bg015a0.iph" 11>
-『ローキック』
+-- Low Kick --
 #
-　セリスは暇を見つけては、街を徘徊していた。
+Celes is spending her spare time wandering 
+around the city.
 #
-　少し気になったので、同行させて貰ったら、セリ
-　スは治安の悪そうな場所ばかりを徘徊している事
-　に気付いた。
+I was a little worried about that, so I came
+with her. The first thing I noticed is that
+she's wandering around in places that seem a
+little dangerous.
 #
 <name "Lazlocke">
-「どうしてなんだ？」
+"Is something the matter?"
 #
-　と言うか、なぜ徘徊する？
+Or rather, why are you hanging around here?
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA5834">
-「いえ、ソシエットさんが、何事も実践だと」
+"No. Miss Soshiette said to put everything into
+ practice."
 #
 <name "Lazlocke">
-「…………ひょっとして、ナンパ待ちか？」
+"...Are you waiting for someone to try to hit
+ on you?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA5835">
-「それ以外にも、酔っ払いやゴロツキなど」
+"Or a drunk, or a thug."
 #
 <name "Lazlocke">
-「…………………………来たら、どうするんだ？」
+"...And what are you going to do when you find
+ one?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA5836">
-「一言目を発する前に、ローを叩き込めとソシエッ
-　トさんが」
+"Miss Soshiette said to hit them with a low kick
+ before they can say a single word."
 #
 <name "Lazlocke">
-「あー、それは逆にこっちが通り魔じゃないかな？」
+"Um, doesn't that make you a menace?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA5837">
-「私もそう思って質問したのですが……」
+"I wondered about that too and asked her."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA5838">
-「気にしてはいけません。
-　悪には正義の鉄槌を振り下ろしてから砂を掛け、
-　簀巻きにして川に流しても無罪です」
+"Don't worry about that.
+ Swing the iron hammer of justice down on 
+ evildoers. The innocent have nothing to fear
+ from justice."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA5839">
-「と言われまして」
+"...That's what she said."
 #
 <removesprite -1 11>
-　……
+...
 #
-　俺が頭を抱えている間に、本日一人目の犠牲者が
-　出てしまった。
+As I'm wondering what to do, her first victim
+appears.
 #
-　とりあえず、明日からは止めるように指導した。
+...I'll have a long talk with her about this
+tomorrow.
 #
 <exit>
 :391C
 <music 10>
 <background "bg002a0.iph" 11>
-『ローキック』
+-- Low Kick --
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA5840">
-「師匠♪」
+"Master!♪"
 #
 <name "Lazlocke">
-「ん？
-　うおおおっ！」
+"Hm?
+ Whoa!"
 #
 <removesprite -1 11>
-　セリスの見事なローが俺の足にヒットした。
+Celes knocks me off my feet with a perfect low
+kick.
 #
-　俺は悶絶して床を転がった。
+I clutch my leg in pain on the floor.
 #
 <name "Lazlocke">
-「セ、セリス君。
-　ベッドに誘ってくれるのは嬉しいが、なぜローキッ
-　クで俺の機動力を奪う？」
+"C-Celes, I like being called to bed, but why
+ did you kick me?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA5841">
-「ソシエットさんが、逃げられないようにそうしろ
-　と……」
+"Miss Soshiette said to do that so people 
+ couldn't get away."
 #
 <name "Lazlocke">
-「逃げないから、今日限りでその教えは忘れるよう
-　に」
+"I'm not going anywhere. 
+ Let's forget those lessons for the moment."
 #
 <removesprite -1 11>
 <exit>
 :3B48
 <music 10>
 <background "bg004a0.iph" 11>
-『ハイキック』
+-- High Kick --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1066">
-「ハイキックに限らず、軸足が大事です。
-　ここに体重をしっかりと乗せます」
+"For a high kick, as with many techniques, you
+ must pay close attention to your pivot leg.
+ Place your weight firmly here."
 #
 <removesprite -1 11>
 <sprite "ta01d20.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5842">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a15.iph" 6 4 12>
 <name "Soshiette" "!DA1067">
-「そして、足を回して上げるのでは無く、直線的に
-　下から膝を持ち上げます」
+"Then rotate your leg and raise it while lifting
+ your knee in a straight line."
 #
 <sprite "ta01d21.iph" 2 5 12>
 <name "Celes" "!AA5843">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a16.iph" 6 4 12>
 <name "Soshiette" "!DA1068">
-「膝がある程度上がった所で、相手の頭部……
-　首筋などを狙って足を蹴り入れます」
+"Once your knee is raised, focus on the 
+ opponent's head and aim your foot towards 
+ their neck."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5844">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
-　ビュンと、俺の頭の上を足が通り過ぎた。
+Her foot whizzes past my head.
 #
 <sprite "ta04a25.iph" 4 4 11>
 <name "Soshiette" "!DA1070">
-「ご主人様、避けないでください。
-　セリスさんの練習になりません」
+"Your Grace, please don't dodge.
+ That will spoil her training."
 #
 <name "Lazlocke">
-「無茶を言うなっ！」
+"Don't be ridiculous!"
 #
 <removesprite -1 11>
 <exit>
 :3ED1
 <music 10>
 <background "bg004a0.iph" 11>
-『ハイキック』
+-- High Kick --
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1071">
-「ハイキックのコツですか？」
+"The trick behind high kicks?"
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a06.iph" 6 4 11>
 <name "Celes" "!AA5845">
-「はい、よろしくお願いします」
+"Yes, please."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1072">
-「わかりました。
-　では、ご主人様。
-　そこに」
+"All right.
+ Your Grace.
+ Stand there."
 #
 <name "Lazlocke">
-「え？」
+"Huh?"
 #
 <name "Lazlocke">
-「なに？
-　嫌だぞ。
-　お前に蹴られるのは？」
+"What?
+ No.
+ I don't want to be kicked."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1073">
-「大丈夫です。
-　当てません。
-　……いきます」
+"Don't worry.
+ I won't hit you.
+ Here goes."
 #
 <name "Lazlocke">
-「ひいっ」
+"Aiee!"
 #
 <removesprite -1 11>
-　ソシエットの素早い回し蹴りが、俺の眼前を通り
-　過ぎていった。
+Her foot flashes right in front of my face.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1074">
-「この様に、スカートで蹴っても中を見せない事で
-　す」
+"Like that, you can kick even with a skirt
+ without exposing yourself."
 #
 <removesprite -1 11>
 <sprite "ta01d15.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5846">
-「なるほど」
+"I see."
 #
 <name "Lazlocke">
-「それ、俺を前にやる必要あったか？
-　……あと、蹴りの風圧がすっごく怖かったんだが」
+"Was that really necessary to do using me?
+ I could feel that. You could've taken my head
+ off."
 #
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA1075">
-「苦情は受け付けません」
+"Complaints not accepted."
 #
 <removesprite -1 11>
 <exit>
 :4310
 <music 10>
 <background "bg004a0.iph" 11>
-『ハイキック』
+-- High Kick --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5847">
-「とうっ、やっ、たぁっ！」
+"Hya! Yah! Hiyah!"
 #
 <removesprite -1 11>
-　セリスの身体が軽快に舞い、的となった杭に的確
-　にハイキックを当てている。
+Celes nimbly moves and kicks the stake 
+perfectly.
 #
-　正確に、同じ場所に。
+In the exact same spot each time.
 #
 <name "Lazlocke">
-「たいしたものだ」
+"Very impressive."
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA5848">
-「いえ、動いていませんから」
+"No. It's not a moving target."
 #
 <name "Lazlocke">
-「……
-　そうか。
-　では、頑張るように」
+"...I see.
+ Well, keep it up."
 #
 <removesprite -1 11>
-　俺は嫌な予感がしてセリスから後退ろうとしたが、
-　ソシエットに邪魔された。
+I have a bad feeling about what comes next and
+try to beat a hasty retreat, but Soshiette stops
+me.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1076">
-「ご主人様、どこに？」
+"Your Grace, where are you going?"
 #
 <name "Lazlocke">
-「きょ、協会で奉仕しようかと」
+"I-I thought I'd go to the Guild."
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA1077">
-「それよりも、可愛いお弟子さんが動く標的をお探
-　しです」
+"But your precious apprentice needs a moving
+ target."
 #
 <name "Lazlocke">
-「ま、魔法人形は？」
+"W-What about a magic golem?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1078">
-「全て破壊済みで、現在修理中です。
-　では、よろしくお願いします」
+"They're all broken right now and in repairs.
+ So thank you very much, if you would."
 #
 <removesprite -1 11>
-　ソシエットは俺の襟首を掴んで放さず、セリスの
-　前に引っ張っていった。
+She grabs me by the scruff of the neck and drags
+me in front of Celes.
 #
-　ご主人様に、拒否権は無いらしい。
+Apparently, despite being the master, I have no
+right to refuse.
 #
 <exit>
 :472C
 <music 10>
 <background "bg004a0.iph" 11>
-『飛び膝蹴り』
+-- Flying Knee --
 #
-　飛び膝蹴り……
+A flying knee kick...
 #
-　飛びながら膝で相手を攻撃するワザだが……
+It's a move to strike your opponent with your
+knee while in the air.
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5849">
-「えいっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　ぺきょっ……
+*crack*
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA5850">
-「効いてますか？」
+"Did it work?"
 #
 <name "Lazlocke">
-「……え、偉く鋭い膝蹴りだな。
-　鼻血が止まらん……」
+"...V-Very good knee kick.
+ My nose won't stop bleeding..."
 #
-　歩く時に膝を上げる動作の流れで、そのまま俺の
-　顔に膝が飛んできた。
+Her knee shot up almost from a walking movement
+right to my face.
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5851">
-「は、はい。
-　ソシエットさんに、鍛えられましたから」
+"O-Okay. Miss Soshiette told me to practice
+ like this."
 #
 <removesprite -1 11>
-　恐ろしいワザを学んだようだ……
+This is a terrifying skill.
 #
 <exit>
 :4975
 <music 2>
 <background "bg013a0.iph" 11>
-『飛び膝蹴り』
+-- Flying Kick --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5852">
-「せいっっ！！」
+"Yah!"
 #
 <removesprite -1 11>
-　セリスの飛び膝蹴りが、曲がり角から走ってきた
-　食い逃げ犯の顔面にヒットした。
+Celes's flying kick slams into the purse 
+snatcher right as he rounds the corner.
 #
-　憐れな食い逃げ犯は、そのまま逃げてきた方向に
-　吹き飛び倒れた。
+He goes flying the way he came, staggers a
+couple steps, and then collapses in a heap.
 #
-　起き上がる気配は無い。
+He doesn't even try to get up.
 #
-　と言うか、生きてるかな？
+Actually... is he even still alive?
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA5853">
-「少しタイミングがズレた……」
+"My timing was a little off."
 #
 <name "Lazlocke">
-「今のでか？
-　俺が見た感じでは、これ以上無いタイミングで決
-　まったと思うが……」
+"With that?
+ From what I saw, I don't think your timing
+ needs any more work."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5854">
-「綺麗に決まれば、後ろに飛ばずにその場で崩れる
-　んです」
+"If I had done it perfectly, he would've fallen
+ on the spot without staggering away."
 #
 <name "Lazlocke">
-「……むう、恐ろしい」
+"Hmm...
+ Terrifying."
 #
 <removesprite -1 11>
 <exit>
 :4C2C
 <music 10>
 <background "bg004a0.iph" 11>
-『テツザンコウ』
+-- Tetsuzankou --
 #
 <name "Lazlocke">
-「ソシエットにワザを教えて貰ったんだって？」
+"Soshiette taught you a new move?"
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5855">
-「はい。
-　遥か東方の武術の技で、テツザンコウと言うんで
-　す」
+"Yes. It's a martial arts move from the east
+ called tetsuzankou."
 #
 <name "Lazlocke">
-「へー、どんなワザなんだ？」
+"Oh? What kind of move is it?"
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA5856">
-「…………体当たりでしょうか？」
+"...Like a tackle, I guess?"
 #
 <name "Lazlocke">
-「体当たり？
-　セリスの体重じゃ、イマイチ威力が無いんじゃな
-　いのか？」
+"A tackle?
+ Do you weigh enough for that to work?"
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5857">
-「そう思いますよね」
+"You wonder that?"
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta01d90.iph" 4 4 12>
 <name "Celes" "!AA5858">
-「では、そこに立ってください」
+"Okay, please stand right there."
 #
 <name "Lazlocke">
-「なんだ？
-　俺相手に試すのか？
-　構わないけど……軽くだぞ」
+"What?
+ Going to try it on me?
+ I don't mind, just go easy."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5859">
-「はい。
-　いきますよー」
+"Yes, sir.
+ Here I come."
 #
 <removesprite -1 11>
-　俺は巨大な岩にぶつかったような衝撃を受け、数
-　メートルほど後ろに飛ばされて倒れた。
+It's like being struck with a boulder.
+I stagger backwards a few feet before falling
+over.
 #
 <name "Lazlocke">
-「か、軽くって言ったのに……」
+"I-I said go easy..."
 #
-　俺はそのまま、気を失った。
+And then I pass out.
 #
 <exit>
 :5003
 <music 10>
 <background "bg004a0.iph" 11>
-『テツザンコウ』
+-- Tetsuzankou --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5860">
-「ていっ！」
+"Hya!"
 #
 <removesprite -1 11>
-　セリスは岩を相手に、テツザンコウの練習をして
-　いた。
+Celes is practicing her body blow technique
+on a rock.
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA1079">
-「掛け声がイマイチですね」
+"Your shout is lacking."
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
 <name "Celes" "!AA5861">
-「そうですか？」
+"It is?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1080">
-「発声も武術では大事な部分です。
-　もう少し、力の入る掛け声にしましょう」
+"Vocalization is an important part of martial
+ arts. Try to shout a little more forcefully."
 #
 <sprite "ta01d27.iph" 2 5 12>
 <name "Celes" "!AA5862">
-「例えば？」
+"Can you show me?"
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1081">
-「そうですね……」
+"Let's see..."
 #
 <sprite "ta04a16.iph" 6 4 12>
 <name "Soshiette" "!DA1082">
-「セイッ！！！！」
+"Hya!!!!"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1083">
-「とか」
+"Or..."
 #
 <sprite "ta04a16.iph" 6 4 12>
 <name "Soshiette" "!DA1085">
-「ヤァッ！！！！」
+"Yaaaaahhhh!!!"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1086">
-「などは如何でしょうか」
+"How was that?"
 #
 <sprite "ta01d92.iph" 2 5 12>
 <name "Celes" "!AA5863">
-「が、頑張ります」
+"I-I'll try."
 #
 <removesprite -1 11>
 <exit>
 :540C
 <music 10>
 <background "bg004a0.iph" 11>
-『テツザンコウ』
+-- Tetsuzankou --
 #
-　セリスがテツザンコウの練習をしていた。
+Celes is practicing again.
 #
-　リズム良く、岩を砕いている。
+Her rhythm's good.
+She's putting real dents in that boulder.
 #
-　……
+...
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5864">
-「あ、師匠」
+"Oh, Master."
 #
 <name "Lazlocke">
-「扉をぶち破って室内に突入する時は、頼りにする
-　ぞ」
+"I'll be counting on you if I ever need 
+ someone to break down a door."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA5865">
-「は？」
+"Huh?"
 #
 <removesprite -1 11>
 <exit>
 :5569
 <music 10>
 <background "bg004a0.iph" 11>
-『テツザンコウ』
+-- Tetsuzankou --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5866">
-「セイヤッ！」
+"Hiyaah!"
 #
 <removesprite -1 11>
-　初動から、決まるまでの無駄の無いテツザンコウ
-　が炸裂する。
+She slams her body into it perfectly and an
+explosive thud rocks the air.
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1087">
-「見事です」
+"Splendid."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5867">
-「ソシエットさん」
+"Miss Soshiette."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1088">
-「後は、日々の繰り返しと実践がワザを研磨してく
-　れるでしょう。
-　頑張ってください」
+"Now practice it every day and hone that
+ skill.
+ Work hard."
 #
 <sprite "ta01d09.iph" 2 5 12>
 <name "Celes" "!AA5868">
-「はい。
-　ありがとうございます」
+"Yes, ma'am.
+ Thank you very much."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5869">
-「そして……倒れている師匠。
-　ありがとうございます」
+"And... Thank you too, master, even though
+ you're unconscious."
 #
 <removesprite -1 11>
-　テツザンコウを喰らって気を失っている俺は、返
-　事はできなかった。
+After being hit with her tetsuzankou, all I 
+can do is lie there.
 #
 <exit>
 :588D
 <music 10>
 <background "bg004a0.iph" 11>
-『裸絞め』
+-- Sleeper Hold --
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA5870">
-「キメたら……こうっ」
+"Lock in... like this?"
 #
 <name "Lazlocke">
-「ん？
-　何を決めるんだ？」
+"Hm?
+ What are you locking?"
 #
 <sprite "ta01d07.iph" 4 4 12>
 <name "Celes" "!AA5871">
-「首です」
+"Your neck."
 #
 <name "Lazlocke">
-「は？」
+"Huh?"
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5872">
-「こんな感じに……」
+"And then it goes like..."
 #
 <removesprite -1 11>
-　俺は気を失った。
+I pass out.
 #
 <exit>
 :59F7
 <music 10>
 <background "bg004a0.iph" 11>
-『裸絞め』
+-- Sleeper Hold --
 #
-　セリスは俺を相手に関節技の練習をしていた。
+Celes is practicing her submission techniques
+on me.
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5873">
-「どうですか？」
+"How's this?"
 #
 <name "Lazlocke">
-「く、苦しい……が、密着されるのは悪く無いとか
-　考えると耐えられたり……」
+"I-It hurts, but... I can take it having you
+ wrapped around me like this..."
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
 <name "Soshiette" "!DA1089">
-「ご主人様。
-　下手に耐えると、逆に危険です。
-　セリスさん、左腕を少し捻ってください」
+"Your Grace, enduring it needlessly can put you
+ in greater risk.
+ Miss Celes, twist his left arm just a little."
 #
 <removesprite -1 11>
-　セリスが左腕を捻った瞬間、俺は気を失った。
+As soon as she does, I pass out.
 #
 <exit>
 :5BD2
 <music 10>
 <background "bg002b0.iph" 11>
-『裸絞め』
+-- Sleeper Hold --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA5874">
-「私の技が……通用しない……」
+"My technique... did nothing..."
 #
 <name "Lazlocke">
-「ベッドの上で俺に勝とうなど百年早い」
+"It's a hundred years too soon for you to beat
+ me in bed."
 #
 <removesprite -1 11>
 <exit>
 :5C95
 <music 10>
 <background "bg004a0.iph" 11>
-『腕挫十字固』
+-- Arm Bar --
 #
-　セリスは、俺を相手に関節技の練習をしていた。
+Celes is practicing her submission techniques
+on me.
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5875">
-「どうですか？」
+"How's this?"
 #
 <name "Lazlocke">
-「い、痛いが……腕全体でお前の太股や腹や胸を感
-　じられて悪く無い」
+"I-It hurts, but it's not bad since I can feel
+ your thighs, stomach, and chest all against my
+ arm."
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Soshiette" "!DA1500">
-「セリスさん。
-　折って上げてください」
+"Miss Celes, break it."
 #
 <name "Lazlocke">
-「わ、悪かった」
+"I-I'm sorry."
 #
 <removesprite -1 11>
 <exit>
 :5E4C
 <music 10>
 <background "bg002a0.iph" 11>
-『腕挫十字固』
+-- Arm Bar --
 #
-　セリスとＨな事をしていると、いつの間にか腕を
-　取られていた。
+While we were in the middle of sex, Celes
+suddenly put me in an arm bar.
 #
 <name "Lazlocke">
-「これは？」
+"What are you doing?"
 #
 <sprite "ta01a52.iph" 4 4 11>
 <name "Celes" "!AA5877">
-「あはは……クセで」
+"Ahaha... Just teasing."
 #
 <name "Lazlocke">
-「じゃあクセで返して、捻り込むぞ」
+"If you're teasing, then let me go."
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA5878">
-「あん♪」
+"Aah!♪"
 #
 <removesprite -1 11>
 <exit>
 :5FA7
 <music 10>
 <background "bg004a0.iph" 11>
-『金剛体』
+-- Steadfast --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1090">
-「これは、肉体の訓練の他にも、集中力が必要とな
-　ります。
-　ですので、集中力の訓練です。
-　集中してください」
+"In addition to physical training, you also 
+ need to sharpen your concentration.
+ This is an exercise for concentration.
+ Concentration on it."
 #
 <removesprite -1 11>
 <sprite "ta01d20.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5879">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1091">
-「ご主人様。
-　エロい目でセリスさんを見てください」
+"Your Grace, please leer at her."
 #
 <name "Lazlocke">
-「エロい目……こんな感じか？」
+"Leer?
+ Like... this?"
 #
 <sprite "ta01d10.iph" 2 5 12>
 <name "Celes" "!AA5880">
-「ひっ」
+"Eek!"
 #
 <sprite "ta04a25.iph" 6 4 12>
 <name "Soshiette" "!DA1092">
-「セリスさん。
-　集中を乱してはいけません」
+"Miss Celes, don't let your concentration be
+ disrupted."
 #
 <sprite "ta01d42.iph" 2 5 12>
 <name "Celes" "!AA5881">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
-　俺のエロい目って、そんなに相手をビビらせるの
-　か……
+Why does me leering at her scare her so much?
 #
 <exit>
 :62B6
 <music 10>
 <background "bg004a0.iph" 11>
-『金剛体』
+-- Steadfast --
 #
 <name "Lazlocke">
-「集中すると……硬く。
-　集中しないと……柔らかい」
+"When you concentrate... hard.
+ When you don't concentrate... soft."
 #
 <sprite "ta01d97.iph" 4 4 11>
 <name "Celes" "!AA5882">
-「師匠、私の胸で遊ばないでください」
+"Master, please stop playing with my chest."
 #
 <removesprite -1 11>
 <exit>

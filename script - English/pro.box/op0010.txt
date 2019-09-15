@@ -992,10 +992,10 @@ I was born a man with that kind of body.
 "So that's why..."
 #
 <name "Lazlocke">
-"Just so you know, now that you have some
- mana, you don't need to be with me any 
- further. You'll be able to restore the mana
- you have now to a limited degree."
+"Just so you know, now that you have some mana,
+ you don't need to be with me any further.
+ You'll be able to restore the mana you have
+ now to a limited degree."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA0201">

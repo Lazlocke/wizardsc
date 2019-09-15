@@ -90,717 +90,744 @@
 :89C
 <music 10>
 <background "bg004a0.iph" 11>
-『戦闘速度』
+-- Speed --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0987">
-「体捌きを良くし、無駄を削ります」
+"Refine your movements.
+ Eliminate the unnecessary."
 #
 <sprite "ta04a08.iph" 4 4 12>
 <name "Soshiette" "!DA0988">
-「無駄が減った分、別の行動ができます。
-　手数が増えると言う事です」
+"The less you waste, the more you're able to
+ act.
+ Which is to say, you'll be able to attack
+ additional times."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0989">
-「相手が一度動く間に、こちらは二度、三度と動き
-　ます。
-　それは戦闘でどれだけ有利かは言わなくてもわか
-　りますね」
+"You'll be able to move two or three times for
+ each single time your opponent does.
+ I shouldn't even have to explain what an
+ advantage that is in battle."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a08.iph" 6 4 11>
 <name "Celes" "!AA5746">
-「はい！」
+"Yes, ma'am!"
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA0990">
-「セリスさんを見る限り、前に比べて無駄が減りま
-　したが、まだまだです。
-　精進してください」
+"From what I've seen of you, you're moving more
+ efficiently than before, but you still have a
+ long way to go.
+ Please concentrate on that."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5747">
-「は、はい！
-　頑張ります！」
+"Y-Yes, ma'am!
+ I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
 :BB6
 <music 10>
 <background "bg004a0.iph" 11>
-『戦闘速度』
+-- Speed --
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0991">
-「無駄を削った動きは、芸術の域に達します。
-　見た目を重視するつもりはありませんが、その域
-　に達するように頑張ってください」
+"Moving without waste is almost a kind of art.
+ I don't want to focus on appearances over
+ effect, but please work harder so you can reach
+ that level."
 #
 <name "Lazlocke">
-「気を失っている相手に言っても、無駄だぞ。
-　もう少し、手を抜け」
+"There's no point lecturing someone you've
+ knocked out cold.
+ Please try to hold back a little more."
 #
 <removesprite -1 11>
 <exit>
 :CFE
 <music 10>
 <background "bg002a0.iph" 11>
-『戦闘速度』
+-- Speed --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA5748">
-「素早く脱衣……そしてベッドに……」
+"Undress instantly and straight into bed..."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「む、無駄が無いが……少し寂しい」
+"I-I guess there's no wasted movement there,
+ but it's kind of depressing..."
 #
 <exit>
 :DC5
 <music 10>
 <background "bg002a0.iph" 11>
-『戦闘速度』
+-- Speed --
 #
 <name "Lazlocke">
-「うおおおっ、セ、セリスの腰の動きが……
-　速過ぎる！」
+"Aaaah! Your hips are moving... way too fast!"
 #
 <sprite "ta01a51.iph" 4 4 11>
 <name "Celes" "!AA5749">
-「駄目ですか？」
+"Is that bad?"
 #
 <name "Lazlocke">
-「気持ちは良い……
-　でも、もう少しだけゆっくりめで」
+"It feels good but... just a little slower,
+ please."
 #
 <removesprite -1 11>
 <exit>
 :ED8
 <music 10>
 <background "bg004a0.iph" 11>
-『体力回復』
+-- Recovery -- 
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5750">
-「魔力を上手く使う事で、体力を回復させる……
-　こんな感じですか？」
+"By channeling mana correctly, you can restore
+ your strength...
+ Is that what you mean?"
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
 <name "Soshiette" "!DA0992">
-「そうですね。
-　いい感じです」
+"That's right.
+ That's the correct approach."
 #
 <sprite "ta01d07.iph" 2 5 12>
 <name "Celes" "!AA5751">
-「良かった」
+"Oh, good."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0993">
-「ですが、まだまだです。
-　もう少し回復速度を高めましょう」
+"But you've still got a long way to go.
+ Let's try to increase your recovery speed a
+ little more."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA5752">
-「はい！
-　……え？
-　あれ？
-　どうして構えているんですか？」
+"Yes, ma'am!
+ ...Huh?
+　Wha?
+ Why are you raising your fists?"
 #
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA0994">
-「体力がほぼ回復したようですので、回復する為の
-　ダメージを負わねばなりません」
+"You're at nearly full strength.
+ You'll need to take damage to recover from."
 #
 <sprite "ta01d37.iph" 2 5 12>
 <name "Celes" "!AA5753">
-「え、あ……い、痛いのは……」
+"Huh? Oh...
+ T-That'll hurt..."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0995">
-「痛みを感じる前に倒します」
+"I'll knock you out before you feel any pain."
 #
 <sprite "ta01d38.iph" 2 5 12>
 <name "Celes" "!AA5754">
-「ちが……きゃぁぁぁぁっ！」
+"That's n...
+ Aaaaah!"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「本末転倒だなぁ」
+"I think there's a fundamental problem here."
 #
 <exit>
 :12E5
 <music 10>
 <background "bg004a0.iph" 11>
-『体力回復』
+-- Recovery --
 #
 <name "Lazlocke">
-「回復が早くなったな」
+"You're recovering quickly, huh?"
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5755">
-「はい。
-　ソシエットさんに倒されても、数分で気を取り戻
-　すようになりました」
+"Yes, sir. Even after Miss Soshiette knocks me
+ out, I wake up after only a few minutes."
 #
 <name "Lazlocke">
-「前は一時間ぐらい寝てたもんな」
+"You were out for an hour before."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5756">
-「あはは……」
+"Hahaha..."
 #
 <removesprite -1 11>
 <exit>
 :1443
 <music 10>
 <background "bg004a0.iph" 11>
-『体力回復』
+-- Recovery --
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA5757">
-「師匠の体力って、魔力によって強化されているん
-　ですね」
+"Your physical endurance is enhanced with mana,
+ right?"
 #
 <name "Lazlocke">
-「強制的にな。
-　だから、魔力が溜まっている時の俺との行為は大
-　変だぞ」
+"Whether I like it or not.
+ That's why it's so intense with me when my
+ mana builds up."
 #
 <sprite "ta01d97.iph" 4 4 12>
 <name "Celes" "!AA5758">
-「そ、それ以上に頑張って体力を回復させます」
+"I-I'll do my best to keep up with your
+ endurance."
 #
 <removesprite -1 11>
 <exit>
 :15AC
 <music 10>
 <background "bg004a0.iph" 11>
-『体力増加』
+-- Constitution --
 #
 <name "Lazlocke">
-「魔法使いでも体力は必要だからな。
-　頑張って体力を付けていけ」
+"Even wizards need to take care of their bodies.
+ Work hard and build up your fitness."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5759">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :1676
 <music 10>
 <background "bg004a0.iph" 11>
-『体力増加』
+-- Constitution --
 #
 <name "Lazlocke">
-「魔法使いでも体力は必要だからな。
-　頑張って体力を付けていけ」
+"Even wizards need to take care of their bodies.
+ Work hard and build up your fitness."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5760">
-「だから、師匠も体力があるんですね」
+"That's why you're in shape too, right?"
 #
 <name "Lazlocke">
-「人並みにはな」
+"Well, as much as anybody else."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA5761">
-「え……
-　あのＨの回数は化け物だとソシエットさんが言っ
-　てましたけど」
+"Huh?
+ Miss Soshiette said that only monsters have
+ sex as much as you do."
 #
 <name "Lazlocke">
-「聞き流しておくように」
+"Ignore her."
 #
 <removesprite -1 11>
 <exit>
 :1829
 <music 10>
 <background "bg004a0.iph" 11>
-『体力増加』
+-- Constitution --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5762">
-「体力が付いたかな……」
+"Is my stamina improving?"
 #
 <name "Lazlocke">
-「試してやろうか？」
+"Shall we find out?"
 #
 <sprite "ta01d92.iph" 4 4 12>
 <name "Celes" "!AA5763">
-「えっと……どういった方法で？」
+"Um... How?"
 #
 <name "Lazlocke">
-「ベッドの上で」
+"In bed."
 #
 <removesprite -1 11>
 <exit>
 :194D
 <music 10>
 <background "bg004a0.iph" 11>
-『体力増加』
+-- Constitution --
 #
 <name "Lazlocke">
-「……前に比べて、体力が付いたな」
+"Your stamina has improved compared to before."
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5766">
-「そうですか？
-　自分では分らないんですが……」
+"Really?
+ It's hard to tell about myself."
 #
 <name "Lazlocke">
-「いやいや、付いている」
+"No, no. You're definitely better."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5767">
-「えへへ……
-　そうですか」
+"Hahaha...
+ I see."
 #
 <removesprite -1 11>
-　うむ。
+Mmhmm.
 #
-　Ｈしている時とか、明らかに体力が付いているん
-　だよなぁ。
+She can go a lot more rounds having sex now
+before passing out.
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA5768">
-「……あれ？
-　なにか変な事、考えませんでした？」
+"...Huh?
+ Did you just think something strange?"
 #
 <name "Lazlocke">
-「気のせいだよ」
+"You're imagining things."
 #
 <removesprite -1 11>
 <exit>
 :1B81
 <music 10>
 <background "bg004a0.iph" 11>
-『移動力増加』
+-- Agility --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0996">
-「移動に関して、上達が見えます」
+"I can see that your agility is improving."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5769">
-「ありがとうございます！」
+"Thank you very much!"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0997">
-「これからも頑張るように」
+"Keep up the hard work."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5770">
-「はい！」
+"Yes, ma'am!"
 #
 <removesprite -1 11>
 <exit>
 :1D20
 <music 10>
 <background "bg002a0.iph" 11>
-『移動力増加』
+-- Agility --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA5771">
-「お茶です！」
+"Tea!"
 #
 <name "Lazlocke">
-「ありがとう」
+"Thank you."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA5772">
-「お茶請けです」
+"Cookies."
 #
 <name "Lazlocke">
-「あ、ああ……
-　ありがとう」
+"O-Oh.
+ Thanks."
 #
 <removesprite -1 11>
-　うーむ、なにやらセリスの移動力が上がったよう
-　な……
+Hmm...
+Has she gotten quicker on her feet?
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA0998">
-「気配りが良くなっただけでは？」
+"Perhaps only her attentiveness has improved."
 #
 <removesprite -1 11>
 <exit>
 :1ED8
 <music 10>
 <background "bg004a0.iph" 11>
-『戦闘防御』
+-- Defense --
 #
 <name "Lazlocke">
-「セリス。
-　防御が上手くなったな」
+"Celes, you've gotten good at defense."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5773">
-「えへへ……そうですか？」
+"Hahaha...
+ Really?"
 #
 <name "Lazlocke">
-「ああ……
-　ソシエットに殴られ続けた甲斐があったな」
+"Yeah.
+ Getting beat up by Soshiette all the time is
+ paying off."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5774">
-「あはは……師匠。
-　殴られ続けたんじゃなくて、ぶちのめされ続けた
-　んですよ」
+"Hahaha... 
+ Master, I wasn't being beaten up.
+ I was being pummeled."
 #
 <name "Lazlocke">
-「そ、そうか……大変だな」
+"I-I see.
+ That sounds rough."
 #
 <sprite "ta01d36.iph" 4 4 12>
 <name "Celes" "!AA5775">
-「ええ……本当に、防御が上手くならないと死にま
-　すから……」
+"It was. 
+ If I hadn't gotten better at defense, I
+ would've died."
 #
 <removesprite -1 11>
 <exit>
 :2108
 <music 10>
 <background "bg004a0.iph" 11>
-『戦闘防御』
+-- Defense --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA0999">
-「戦闘に関して、防御が上達しています」
+"Her defense is improving as far as combat
+ goes."
 #
 <name "Lazlocke">
-「そうか、良い事だな」
+"I see.
+ That's good."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA1000">
-「私としては、当たらないのが一番なのですが……」
+"Personally, I think it's best not to be hit at
+ all."
 #
 <name "Lazlocke">
-「全員が全員、お前みたいに動けるわけじゃないか
-　らな」
+"Not everybody can move like you do."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1001">
-「……そんな事はありません。
-　命じて頂ければ、ご主人様を私以上に動けるよう
-　にして見せますよ」
+"...That's not true at all.
+ Just give me the order, and I'll show you that
+ you can move faster than me."
 #
 <name "Lazlocke">
-「あはは……
-　できなかったら死ぬんだろ」
+"Hahaha...
+ And if I can't, I'll die, right?"
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA1002">
-「もちろんです」
+"Of course."
 #
 <name "Lazlocke">
-「……そこで倒れてるセリス。
-　死んでないだろうな」
+"...Speaking of which, Celes isn't moving.
+ She's not dead, right?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1003">
-「大丈夫です。
-　まだ、息はあります」
+"She's fine.
+ She's still breathing."
 #
 <removesprite -1 11>
 <exit>
 :2447
 <music 10>
 <background "bg004a0.iph" 11>
-『反射防御』
+-- Reflex --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1008">
-「敵の連続攻撃を、反射的に避ける技術です」
+"This is a technique for avoiding a barrage of
+ enemy attacks on pure reflex."
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
 <name "Celes" "!AA5776">
-「反射的にですか？」
+"Reflex?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1009">
-「そうです。
-　頭で考えるよりも先に、身体が反応して避けるの
-　です」
+"That's right.
+ Your body will react to dodge even before you
+ process it with your head."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5777">
-「便利そうですね」
+"That sounds useful."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1006">
-「便利ですので、覚えましょう」
+"It's very useful.
+ Learn it well."
 #
 <sprite "ta01d07.iph" 2 5 12>
 <name "Celes" "!AA5778">
-「はい。
-　でも、覚えるのは難しいんじゃないですか？」
+"Yes, ma'am.
+ But isn't it hard to learn?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1007">
-「簡単です。
-　身体に教え込むだけで良いんですから」
+"It's easy.
+ You just need to drive it into your body."
 #
 <sprite "ta01d36.iph" 2 5 12>
 <name "Celes" "!AA5779">
-「え……」
+"Huh?"
 #
 <removesprite -1 11>
 <exit>
 :278E
 <music 10>
 <background "bg004a0.iph" 11>
-『反射防御』
+-- Reflex --
 #
 <name "Lazlocke">
-「……
-　何度も見ているが、スカートを捲くるのを防御す
-　るヤツか？」
+"I've seen you do this multiple times, but isn't
+ this a move just for keeping people from
+ flipping up your skirt?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA5780">
-「いえ、スカートを捲くられた後、伸びてくる腕を
-　回避する技術です」
+"No. It's a move for protecting yourself from
+ what comes at you after your skirt flips up."
 #
 <removesprite -1 11>
 <exit>
 :289C
 <music 10>
 <background "bg004a0.iph" 11>
-『スタン防御』
+-- Grit --
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA1010">
-「攻撃された時、こちらの攻撃が止まってしまうの
-　は仕方が無い事です」
+"When you're attacked, whether you like it or
+ not, your own attacks can be interrupted."
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA1011">
-「ですが、止まると不利になるのは説明するまでも
-　ありません」
+"I hope I don't have to explain that you'll be
+ at a disadvantage if that happens."
 #
 <sprite "ta04a63.iph" 4 4 12>
 <name "Soshiette" "!DA1012">
-「これから教える技術は、その止まる時間を少しで
-　も減らす技術です。
-　頑張ってください」
+"I'm going to teach you techniques for reducing
+ the amount of time you're stunned.
+ Work hard to master them."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a63.iph" 6 4 11>
 <name "Celes" "!AA5781">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :2ACB
 <music 10>
 <background "bg002b0.iph" 11>
-『スタン防御』
+-- Grit --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA5782">
-「攻撃されても動きを止めない！
-　つまり、射精されても動きを止めないと……」
+"Don't stop moving, even when you're hit!
+ In other words, if you don't stop moving even
+ when you come..."
 #
 <name "Lazlocke">
-「射精中は、止まっていてくれた方が良いなぁ」
+"It's better to stop when you come."
 #
 <removesprite -1 11>
 <exit>
 :2BC7
 <music 10>
 <background "bg004a0.iph" 11>
-『バック防御』
+-- Rigid --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1013">
-「攻撃されても、後ろに下がらない。
-　これはとても大事な事です」
+"You won't be knocked back even when you're
+ struck.
+ That's a very important thing."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5783">
-「相手に、距離の主導権を奪われない為ですね」
+"Because your opponent won't be able to put
+ distance between you and him, right?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1014">
-「その通りです。
-　技術を伝えますので、覚えてください」
+"That's correct.
+ I'll tell you how to do it.
+ Please learn it well."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5784">
-「はい」
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :2DB6
 <music 10>
 <background "bg004a0.iph" 11>
-『バック防御』
+-- Rigid --
 #
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1015">
-「叩かれても……」
+"When you're struck..."
 #
 <removesprite -1 11>
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA5785">
-「前へ！」
+"Forward!"
 #
 <removesprite -1 11>
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1016">
-「叩かれても……」
+"When you're struck..."
 #
 <removesprite -1 11>
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA5786">
-「前へ！」
+"Forward!"
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1017">
-「見事です」
+"Excellent."
 #
 <removesprite -1 11>
 <sprite "ta01d42.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5787">
-「でも、痛いのには変わりありません……イタタ」
+"But it still hurts...
+ Owww..."
 #
 <exit>
 :2FFA
 <music 10>
 <background "bg004a0.iph" 11>
-『バック防御』
+-- Rigid --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5788">
-「叩かれても、叩かれても……後ろに下がらない！」
+"Even if I'm hit...
+ Even if I'm hit...
+ Don't give an inch!"
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a63.iph" 6 4 11>
 <name "Soshiette" "!DA1018">
-「見事な防御です！」
+"Splendid defense!"
 #
 <sprite "ta01d22.iph" 2 5 12>
 <name "Celes" "!AA5789">
-「そして前に！」
+"And forward!"
 #
 <name "Lazlocke">
-「パワフルだなぁ……」
+"Quite powerful..."
 #
 <removesprite -1 11>
 <exit>
 :317E
 <music 10>
 <background "bg004a0.iph" 11>
-『バック防御』
+-- Rigid --
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01d79.iph" 4 4 11>
 <name "Celes" "!AA5790">
-「あの、師匠の思っているのとは違いますから」
+"Um, it's not what you think it is."
 #
 <removesprite -1 11>
 <exit>
 :3235
 <music 10>
 <background "bg004a0.iph" 11>
-『必殺防御』
+-- Guts --
 #
 <name "Lazlocke">
-「攻撃には、弱点を突いてくる技がある。
-　必殺と言うヤツだ」
+"There are techniques for striking your weak
+ points.
+ So called killer attacks."
 #
 <name "Lazlocke">
-「必殺防御は、それを防御する為の技術だ。
-　頑張って覚えろ」
+"There's a way to protect yourself against 
+ those killer attacks.
+ Work hard and learn it."
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5791">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :334A
 <music 10>
 <background "bg004a0.iph" 11>
-『必殺防御』
+-- Guts --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1019">
-「必殺防御は、覚えて損の無いスキルです」
+"This is a skill that it will pay to learn."
 #
 <removesprite -1 11>
 <sprite "ta01d15.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5792">
-「はい。
-　頑張って覚えます」
+"Yes, ma'am.
+ I'll do my best to learn it."
 #
 <removesprite -1 11>
 <exit>
 :3462
 <music 10>
 <background "bg004a0.iph" 11>
-『必殺防御』
+-- Guts --
 #
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1020">
-「せいっ！」
+"Hyah!"
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 4 5 11>
 <name "Celes" "!AA5793">
-「やっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　ソシエットの攻撃をセリスは受け止めた。
+Celes takes Soshiette's attack.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1021">
-「一撃で倒すつもりの攻撃でしたが、防がれるとは
-　思いませんでした。
-　見事な防御です」
+"I intended to knock you out with a single blow.
+ I didn't expect you to be able to block it.
+ Excellent defense."
 #
 <removesprite -1 11>
 <sprite "ta01d09.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5794">
-「あ、ありがとうございます」
+"T-Thank you very much."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1022">
-「この調子で、精進してください」
+"Please continue improving as you have."
 #
 <removesprite -1 11>
 <exit>
 :36CB
 <music 10>
 <background "bg004a0.iph" 11>
-『必殺防御』
+-- Guts --
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01d97.iph" 4 4 11>
 <name "Celes" "!AA5795">
-「師匠、別にエッチ中の必殺技まで防御しませんよ」
+"Master, I won't defend against your special sex
+ attacks."
 #
-　エッチ中の必殺技ってなんだろう？
+...What's a special sex attack?
 #
 <removesprite -1 11>
 <exit>
