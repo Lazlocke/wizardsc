@@ -84,1126 +84,1143 @@
 :BE5
 <music 10>
 <background "bg004a0.iph" 11>
-『剣』
+-- Blades --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1093">
-「剣術。
-　剣を扱う術です。
-　これをセリスさんに覚えて貰います」
+"Swordsmanship.
+ The art of handling a blade.
+ That is what you will be learning."
 #
 <removesprite -1 11>
 <sprite "ta01d21.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5883">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1094">
-「これは、自衛の為と、戦いで勝利する為です。
-　最終的には私以上になってください」
+"This is for self-defense and victory in battle.
+ I expect you to eventually surpass me."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5884">
-「は、はい。
-　わかりました」
+"Y-Yes, ma'am.
+ I understand."
 #
 <removesprite -1 11>
-　セリスは剣の扱いをソシエットから伝授された。
+Celes has started learning the way of the sword
+from Soshiette. 
 #
 <exit>
 :E0E
 <music 25>
 <background "bg004a0.iph" 11>
-『剣』
+-- Blades --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5885">
-「せいっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　セリスは剣を振るい、藁を巻いた木を斬る。
+Celes swings a sword and cuts into the tree
+padded with straw.
 #
-　が、木の半分ぐらいで剣は止まっていた。
+But the blade gets stuck partway through the
+trunk.
 #
 <sprite "ta01d36.iph" 4 4 11>
 <name "Celes" "!AA5886">
-「…………今のは無かった事にして」
+"...Forget what just happened."
 #
 <removesprite -1 11>
-　セリスは剣の練習を続けた。
+Celes keeps practicing.
 #
 <exit>
 :F61
 <music 10>
 <background "bg004a0.iph" 11>
-『剣』
+-- Blades --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5887">
-「自分で言うのもなんですが、剣技はそれなりに上
-　手くなったと思います」
+"It's just my opinion, but I think I've gotten
+ pretty good with swords."
 #
 <name "Lazlocke">
-「本当に自分で言うもんじゃないな」
+"That's definitely your own opinion."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5888">
-「あはは……」
+"Hahaha..."
 #
 <name "Lazlocke">
-「でも、上達したのは認める」
+"But I must admit you've made progress."
 #
 <sprite "ta01d17.iph" 4 4 12>
 <name "Celes" "!AA5889">
-「褒められたー♪」
+"That's high priase.♪"
 #
 <removesprite -1 11>
 <exit>
 :10FF
 <music 10>
 <background "bg004a0.iph" 11>
-『斬剣』
+-- Slash --
 #
 <name "Lazlocke">
-「剣技の練習相手、俺だと力不足だな」
+"I'm not going to be fitting opponent for you to
+ practice sword fighting against."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5890">
-「そんな事はないですよ」
+"Not at all."
 #
 <name "Lazlocke">
-「気を遣うな。
-　……なんとか、剣の腕が良いヤツを用意してやる」
+"Give me a break.
+ ...I'll find someone practiced for you to spar
+ with."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5891">
-「ありがとうございます」
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
 :1258
 <music 10>
 <background "bg004a0.iph" 11>
-『斬剣』
+-- Slash --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5892">
-「とうっ！」
+"Yah!"
 #
 <name "Lazlocke">
-「おお、一刀両断！」
+"Ooh! Two in one strike!"
 #
 <name "Lazlocke">
-「でも、ダイコンを切るのにそんなに気合を入れな
-　くても……」
+"But why are you getting so worked up over
+ cutting radishes?"
 #
 <removesprite -1 11>
 <exit>
 :1346
 <music 10>
 <background "bg004a0.iph" 11>
-『斬剣』
+-- Slash --
 #
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA5893">
-「せいやー！」
+"Hiyah!"
 #
 <removesprite -1 11>
-　セリスは剣を振るい、手紙の封を切り飛ばす。
+Celes swings her sword and cuts the seal on the
+envelope.
 #
 <name "Lazlocke">
-「薄い手紙の一部を切る技術は凄いが……
-　技術の無駄使いのように思えて仕方が無い」
+"It takes a lot of skill to cut so precisely,
+ but I can't help thinking that you're wasting
+ your skills."
 #
 <exit>
 :1454
 <music 10>
 <background "bg004a0.iph" 11>
-『断剣』
+-- Hard Slash --
 #
 <name "Lazlocke">
-「セリス。
-　この丸太を薄く斬れるか？」
+"Celes, can you cut this log thin?"
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5894">
-「お任せください」
+"Leave it to me."
 #
 <removesprite -1 11>
-　セリスは、スパンスパンと木を縦に斬っていった。
+She slices it lengthwise.
 #
-　見事だ。
+Perfect.
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5895">
-「師匠。
-　こんな感じで良いですか？」
+"Master, is that good?"
 #
 <name "Lazlocke">
-「ああ、これで屋根の修理ができる」
+"Yeah, I can use this to fix the roof."
 #
 <sprite "ta01d41.iph" 4 4 12>
 <name "Celes" "!AA5896">
-「師匠……
-　私の剣技をそんな風に求めるのは止めてくれませ
-　んか……」
+"Master, can you please stop asking to use my
+ swordsmanship like that?"
 #
 <removesprite -1 11>
 <exit>
 :166A
 <music 10>
 <background "bg004a0.iph" 11>
-『断剣』
+-- Hard Slash --
 #
 <sprite "ta01d17.iph" 4 4 11>
 <name "Celes" "!AA5897">
-「なんでも斬れるぞー！」
+"I can cut anything!"
 #
 <name "Lazlocke">
-「おー！」
+"Yeah!"
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5898">
-「斬れるぞー！」
+"I can cut it!"
 #
 <name "Lazlocke">
-「おー！」
+"Yeah!"
 #
 <sprite "ta01d17.iph" 4 4 12>
 <name "Celes" "!AA5899">
-「いえー！」
+"Yay!"
 #
 <name "Lazlocke">
-「じゃあ、ニンジンを斬ってみろ」
+"Then cut these carrots!"
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA5900">
-「……斬った後は、どうするので？」
+"...What are you going to do after that?"
 #
 <name "Lazlocke">
-「食材を無駄にはしない。
-　美味しく頂こう」
+"No wasting food.
+ They'll be delicious."
 #
 <sprite "ta01d41.iph" 4 4 12>
 <name "Celes" "!AA5901">
-「うう……」
+"Oohh..."
 #
 <removesprite -1 11>
-　セリスはニンジンが苦手だった。
+She hates carrots.
 #
 <exit>
 :18D8
 <music 10>
 <background "bg004a0.iph" 11>
-『秘剣紅桜』
+-- Crimson Blossom --
 #
 <name "Lazlocke">
-「秘剣紅桜……
-　一応は使えている。
-　しかし、まだ形だけである事を忘れないように」
+"Crimson Blossom...
+ For now, you can use it, but don't forget that
+ you're only learning the style."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5902">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Soshiette" "!DA1095">
-「形だけでも、使えている事が凄いと思います」
+"Even if you're just learning the style, being
+ able to use it at all is impressive."
 #
 <name "Lazlocke">
-「気を引き締めているんだから、余計な事を言わな
-　い」
+"I'm trying to brace myself for this.
+ Don't make things worse."
 #
 <removesprite -1 11>
 <exit>
 :1A8E
 <music 10>
 <background "bg004a0.iph" 11>
-『秘剣紅桜』
+-- Crimson Blossom --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1096">
-「伝説の英雄が使った技です。
-　相手の噴き出す血が、桜の花が散るように見える
-　事からこの名前が付けられたのです」
+"This technique was used by a hero of legend.
+ The blood that gushes from his opponent looked
+ like a crimson blossom, which is where it got
+ its name."
 #
 <removesprite -1 11>
 <sprite "ta01d32.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5903">
-「こ、怖い技ですね」
+"T-That's a scary move."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1097">
-「はい。
-　ですので、使う際には心構えを忘れずに」
+"It is, so when you use it, be prepared for the
+ consequences."
 #
 <removesprite -1 11>
 <exit>
 :1C53
 <music 10>
 <background "bg004a0.iph" 11>
-『棒』
+-- Staves --
 #
 <name "Lazlocke">
-「魔法使いが杖を持つのは、魔法を使いやすくする
-　為と、杖型の魔法アイテムが多数存在するからだ」
+"Many wizards use staves to make it easier to
+ use magic.
+ The reason is because there are so many stick
+ shaped magical items."
 #
 <name "Lazlocke">
-「つまり、魔法使いは杖を持つ機会が多い」
+"In other words, a wizard with a staff has a lot
+ of options."
 #
 <name "Lazlocke">
-「それを武器とできれば、魔法が使えない時などに
-　とても役に立つ」
+"If you can use it as a weapon, that'll be very
+ useful at the times when you can't use magic."
 #
 <name "Lazlocke">
-「そこで、棒術だ。
-　杖の扱いと棒の扱いには共通点が多い。
-　色々と学び取るように」
+"So you'll be learning how to fight with a
+ staff. Staves and wands have a lot of
+ similarities. Learn everything you can about
+ them."
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5904">
-「はい！」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
 :1E30
 <music 10>
 <background "bg004a0.iph" 11>
-『棒』
+-- Staves --
 #
 <name "Lazlocke">
-「なかなか、棒の扱いが様になっているな」
+"You've gotten pretty good with a staff."
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA5905">
-「いえ、まだまだです。
-　これぐらいでは……」
+"No, I still have a long way to go.
+ This is nothing..."
 #
 <name "Lazlocke">
-「そうなのか？」
+"Really?"
 #
 <sprite "ta01d20.iph" 4 4 12>
 <name "Celes" "!AA5906">
-「はい。
-　素人には勝てますが、少しでも棒術を使う人には
-　通じません」
+"Yeah. I can beat an amateur, but I'd be no
+ match for anybody with even a little staff
+ training."
 #
 <removesprite -1 11>
-　セリスはそう言って、練習を続けた。
+She continues practicing.
 #
 <exit>
 :1FCB
 <music 10>
 <background "bg004a0.iph" 11>
-『打ち棒』
+-- Strike --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5907">
-「棒で打つのは、基本動作の一つ。
-　これぐらいは完璧にしないと……」
+"Striking with a staff is one of the fundamental
+ movements.
+ I have to get this down perfectly.
 #
 <name "Lazlocke">
-「そう言いながら、もう何十時間も棒を振るってい
-　るが……」
+"You say that, but you've been swinging that
+ staff for hours."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA5908">
-「え、そうですか？
-　あ……本当だ」
+"Huh? I have?
+ Oh, you're right."
 #
 <name "Lazlocke">
-「今日は休んで、明日にしろ」
+"Take a break.
+ Pick it up again tomorrow."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5909">
-「は、はい。
-　じゃあ、あと少しだけやってから」
+"Y-Yes, sir.
+ After just a little more."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
 <exit>
 :21D4
 <music 10>
 <background "bg004a0.iph" 11>
-『打ち棒』
+-- Strike --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5910">
-「とうっ、たあっ、やあっ！」
+"Yah! Hya! Yah!"
 #
 <name "Lazlocke">
-「……美味そうなピザが出来そうだな」
+"...Seems like you could make an amazing pizza."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5911">
-「ええ、棒の使い方が上手くなりましたから」
+"Yes. I've gotten very good with a staff."
 #
 <removesprite -1 11>
-　それは良い事なのだろうか。
+Is that a good thing?
 #
 <exit>
 :2312
 <music 10>
 <background "bg004a0.iph" 11>
-『突き棒』
+-- Thrust --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5912">
-「棒をただ前に出すのではなく、その際に回転を入
-　れます。
-　そうする事で、威力があがるそうです」
+"Don't just thrust the staff out, rotate it too.
+ When you do that, it feels more powerful."
 #
 <name "Lazlocke">
-「それを俺に説明すると言う事は……
-　あれの際にそうして欲しいと言う要望か？」
+"If you're telling me that... is that your way
+ of asking me to try doing that?"
 #
 <sprite "ta01d97.iph" 4 4 12>
 <name "Celes" "!AA5913">
-「ち、違います！」
+"N-No!"
 #
 <removesprite -1 11>
 <exit>
 :248B
 <music 25>
 <background "bg004a0.iph" 11>
-『突き棒』
+-- Thrust --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5914">
-「せいっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　セリスの放った突きが、鋭く的を貫いた。
+Celes's thrust pierces the dummy.
 #
 <name "Lazlocke">
-「恐ろしい威力だ」
+"That's some power."
 #
 <sprite "ta01d17.iph" 4 4 11>
 <name "Celes" "!AA5915">
-「あはは……
-　でも、師匠の突きの方が威力があります」
+"Hahaha... but your thrusts are strong too."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　実践してやった。
+I've had a lot of practice.
 #
 <exit>
 :25FD
 <music 10>
 <background "bg004a0.iph" 11>
-『斬り棒』
+-- Slicing Staff --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5916">
-「棒で斬る！」
+"Cut with a staff!"
 #
 <name "Lazlocke">
-「叩いているワケじゃないんだよな」
+"Sure it's not just hitting it?"
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5917">
-「叩いているように見えますけど、斬っています」
+"It looks like you're hitting it, but you cut
+ it."
 #
 <name "Lazlocke">
-「では、このダイコンを……」
+"Then this radish..."
 #
 <sprite "ta01d20.iph" 4 4 12>
 <name "Celes" "!AA5918">
-「……わかりました。
-　師匠。
-　ダイコンの端を持っていてください」
+"...All right.
+ Master, hold it up."
 #
 <name "Lazlocke">
-「こうか？」
+"Like this?"
 #
 <sprite "ta01d90.iph" 4 4 12>
 <name "Celes" "!AA5919">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「さっきから、俺の手ばっかり見てないか？」
+"Is it just me, or are you aiming at my hand?"
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5920">
-「気のせいです」
+"You're imagining things."
 #
 <name "Lazlocke">
-「やっぱり、俺の手ばっかり見てないか？」
+"You're definitely focused completely on my
+ hand."
 #
 <sprite "ta01d20.iph" 4 4 12>
 <name "Celes" "!AA5921">
-「気のせいです。
-　いきますよ」
+"You're imagining things.
+ Here goes."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　俺は頭を下げて謝った。
+I apologized before I got hurt.
 #
 <exit>
 :295A
 <music 10>
 <background "bg004a0.iph" 11>
-『斬り棒』
+-- Slicing Staff --
 #
 <name "Lazlocke">
-「むう、棒で斬るのか……」
+"Hmm. Cutting with a staff, huh?"
 #
 <sprite "ta01d97.iph" 4 4 11>
 <name "Celes" "!AA5922">
-「あの、師匠。
-　アレでペシペシするのは止めてくれませんか？」
+"Um, Master, can you please stop tapping that
+ thing on your hand?"
 #
 <name "Lazlocke">
-「ちなみに、アレとはゴボウの事だ」
+"That thing is a burdock root."
 #
 <removesprite -1 11>
 <exit>
 :2A66
 <music 10>
 <background "bg004a0.iph" 11>
-『斧』
+-- Axes --
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1098">
-「斧の扱い方ですか？」
+"How to use an ax?"
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a06.iph" 6 4 11>
 <name "Celes" "!AA5923">
-「はい。
-　是非、斧の扱い方を教えてください」
+"Yes. Please teach me how to use an ax."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1099">
-「それは構いませんが……
-　どうして斧なのですか？」
+"I don't mind, but why an ax?"
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5924">
-「わかりません。
-　……なにかが囁きました」
+"I'm not sure.
+ Something about them called to me."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1100">
-「そうですか……
-　まあ、武器との出会いはそんなものかもしれませ
-　ん」
+"I see.
+ Well, you'll likely come across them."
 #
 <sprite "ta01d07.iph" 2 5 12>
 <name "Celes" "!AA5925">
-「では……」
+"Then..."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1101">
-「はい。
-　斧の使い方をお教えしましょう」
+"Very well.
+ I'll teach you how to use an ax."
 #
 <sprite "ta01d17.iph" 2 5 12>
 <name "Celes" "!AA5926">
-「よろしくお願いします」
+"Thank you very much."
 #
 <removesprite -1 11>
-　セリスはソシエットから斧の使い方を学んだ。
+Celes started learning how to fight with an ax
+from Soshiette.
 #
 <exit>
 :2DEB
 <music 10>
 <background "bg004a0.iph" 11>
-『斧』
+-- Axes --
 #
-　セリスは斧を振るい、木を切っていた。
+Celes swings an ax and cuts into a tree.
 #
-<name "感心する男" "!QB0185">
-「圧倒的なパワー！」
+<name "Impressed Man" "!QB0185">
+"What overwhelming power!"
 #
-<name "驚く男" "!RB0212">
-「正確な打撃！」
+<name "Surprised Man" "!RB0212">
+"What a perfect blow!"
 #
-<name "感嘆する男" "!SB0214">
-「すげぇ斧使いだ！」
+<name "Admiring Man" "!SB0214">
+"An amazing ax wielder!"
 #
-<name "結論を言う男" "!TB0176">
-「あの女の子、タダ者じゃねぇ！」
+<name "Concluding Man" "!TB0176">
+"That girl's no regular person!"
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA5927">
-「えっと……」
+"Um..."
 #
 <removesprite -1 11>
-　セリスは逃亡した。
+Celes escaped.
 #
 <name "Lazlocke">
-「なぜ逃げる？」
+"What are you running for?"
 #
 <sprite "ta01d92.iph" 4 4 11>
 <name "Celes" "!AA5928">
-「は、恥ずかしくて……」
+"I-It's embarrassing..."
 #
 <removesprite -1 11>
 <exit>
 :2FDE
 <music 10>
 <background "bg004a0.iph" 11>
-『斧』
+-- Axes --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5929">
-「斧の使い方が上手くなったからかしら、マキ割り
-　が楽になったわね」
+"Since I got good with axes, cutting firewood 
+ has gotten much easier."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5930">
-「この調子で、ドンドンとやっていきましょう」
+"I can race through it so easily!"
 #
 <name "Lazlocke">
-「斧の使い方が上手くなったからか、色々と大雑把
-　になった気がするのは俺だけだろうか」
+"Have you gotten better with an ax, or are you
+ just being that much more reckless?"
 #
 <removesprite -1 11>
 <exit>
 :3156
 <music 10>
 <background "bg004a0.iph" 11>
-『震える斧』
+-- Quake Ax --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1105">
-「微妙な振動を与えた斧による攻撃ではなく、相手
-　が震えるほど恐ろしい斧による攻撃です」
+"This is not a technique that causes the ax to
+ cause a quake. It's a technique with an ax so
+ terrifying that it makes the opponent quake."
 #
 <sprite "ta04a28.iph" 4 4 12>
 <name "Soshiette" "!DA1103">
-「ですので、腕を震わせる練習をしても無駄です」
+"So stop pretending like there'll be an
+ earthquake as you practice it."
 #
 <removesprite -1 11>
 <sprite "ta01d36.iph" 2 5 11>
 <sprite "ta04a29.iph" 6 4 11>
 <name "Celes" "!AA5931">
-「えっと……」
+"Um..."
 #
 <sprite "ta04a28.iph" 6 4 12>
 <name "Soshiette" "!DA1104">
-「悲しそうな目をされても困ります」
+"Puppy dog eyes will not help."
 #
 <removesprite -1 11>
 <exit>
 :3350
 <music 10>
 <background "bg004a0.iph" 11>
-『震える斧』
+-- Quake Ax --
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5932">
-「震える斧……」
+"Quake ax..."
 #
 <name "Lazlocke">
-「セリス君。
-　俺のアレで練習するのは止めてくれないかな。
-　微妙な振動が、良い感じで危ない」
+"Celes, please stop practicing that when you're
+ with me. 
+ The vibration feels dangerously good."
 #
 <removesprite -1 11>
 <exit>
 :3441
 <music 10>
 <background "bg004a0.iph" 11>
-『猛る斧』
+-- Raging Ax --
 #
 <sprite "ta01d24.iph" 4 4 11>
 <name "Celes" "!AA5933">
-「うおおおおおおっ！」
+"Yaaaaaahhh!!!"
 #
 <name "Lazlocke">
-「……何を叫んでいるんだ？」
+"...What's with all the shouting?"
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA5934">
-「いえ、この技。
-　叫ばないと威力が出ないみたいで……」
+"Oh, it's for a skill.
+ If I don't shout, there's no power behind it."
 #
 <name "Lazlocke">
-「不便な技だな」
+"That seems like an inconvenient skill."
 #
 <sprite "ta01d31.iph" 4 4 12>
 <name "Celes" "!AA5935">
-「まったくです」
+"Seriously."
 #
 <removesprite -1 11>
 <exit>
 :35C7
 <music 10>
 <background "bg004a0.iph" 11>
-『猛る斧』
+-- Raging Ax --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5936">
-「猛る斧……」
+"Raging ax..."
 #
 <name "Lazlocke">
-「セリス君。
-　俺のアレで練習するのは止めてくれないかな」
+"Celes, please don't practice that when you're
+ with me."
 #
 <sprite "ta01d58.iph" 4 4 12>
 <name "Celes" "!AA5937">
-「猛る感じが……」
+"This raging feeling..."
 #
 <name "Lazlocke">
-「猛っているけど、止めてくれ」
+"I'm sure there's a lot, but please no."
 #
 <removesprite -1 11>
 <exit>
 :3706
 <music 10>
 <background "bg004a0.iph" 11>
-『暴れる斧』
+-- Berserker Ax --
 #
 <sprite "ta01d09.iph" 4 4 11>
 <name "Celes" "!AA5938">
-「見た目は暴れていますが、それは正確に操っての
-　結果です」
+"It looks berserk, but it's actually precise
+ control."
 #
 <name "Lazlocke">
-「なるほど。
-　だから、俺の前髪を削って飛んだ斧も、ミスでは
-　なく、操った結果と……」
+"I see. So that ax that cut off my bangs wasn't
+ you messing up, but an example of your precise
+ control?"
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA5939">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
 <exit>
 :3865
 <music 10>
 <background "bg004a0.iph" 11>
-『暴れる斧』
+-- Berserker Ax --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5940">
-「暴れる斧……」
+"Berserker ax..."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5941">
-「重たい斧を、巧みに操って……」
+"Skillfully manipulating a heavy ax..."
 #
 <name "Lazlocke">
-「セ、セリス君。
-　その、私のアレで練習するのは止めてくれないか
-　な」
+"C-Celes, um, please stop practicing that when
+ you're with me."
 #
 <name "Lazlocke">
-「変な感じになるから」
+"It's getting kind of weird."
 #
 <removesprite -1 11>
 <exit>
 :39BD
 <music 10>
 <background "bg004a0.iph" 11>
-『ハンマー』
+-- Hammers --
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA5942">
-「ハンマーですか？」
+"A hammer?"
 #
 <removesprite -1 11>
 <sprite "ta01d08.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA1107">
-「はい。
-　単純な質量兵器です。
-　当てれば、それがそのままダメージとなるので、
-　小細工はいりません」
+"Yes. A simple weapon based on mass.
+ So long as you hit, it will cause damage.
+ No extra tricks required."
 #
 <sprite "ta01d09.iph" 2 5 12>
 <name "Celes" "!AA5943">
-「おおっ」
+"Oooh!"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1108">
-「セリスさん向きとは言いませんが、お勧めです」
+"I'm not sure it's best for you, but I did want
+ to suggest it."
 #
 <sprite "ta01d15.iph" 2 5 12>
 <name "Celes" "!AA5944">
-「わかりました。
-　マスターしてみせます」
+"Understood.
+ I will master it."
 #
 <removesprite -1 11>
-　セリスは、ハンマーの使い方を覚えた。
+Celes started learning how to fight with
+hammers.
 #
 <exit>
 :3C3D
 <music 10>
 <background "bg004a0.iph" 11>
-『ハンマー』
+-- Hammers --
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA5945">
-「相手を叩き潰す。
-　……悪く無い」
+"Crush your opponent.
+ ...It's not bad."
 #
 <name "Lazlocke">
-「……お、女の子の持つ武器じゃないと思うなぁ。
-　ハンマーは」
+"A-A hammer's not a very girly weapon."
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5946">
-「あはは……
-　魔法による肉体強化もしてますから」
+"Hahaha...
+ I'm enhancing my strength with magic."
 #
 <removesprite -1 11>
 <exit>
 :3D8A
 <music 10>
 <background "bg004a0.iph" 11>
-『ハンマー』
+-- Hammers --
 #
 <name "Lazlocke">
-「屋根の修理をやらせて、すまないな」
+"Sorry, but can you fix the roof?"
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5947">
-「いえ、ハンマーの扱いなら任せてください」
+"It's fine.
+ Leave the hammer work to me."
 #
 <removesprite -1 11>
 <exit>
 :3E59
 <music 10>
 <background "bg004a0.iph" 11>
-『ハンマー』
+-- Hammers --
 #
 <name "Lazlocke">
-「うーん……セリスがハンマーを使いこなしている
-　のを見ると……」
+"Hmm... When I watch Celes learning how to use a
+ hammer..."
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1109">
-「見ると？」
+"What about it?"
 #
 <name "Lazlocke">
-「あのハンマーがいつか、俺の頭を直撃するのでは
-　ないかと、不安になる」
+"I start getting scared that hammer will one day
+ be striking my head."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA1110">
-「……不安があるなら、優しくしてあげれば良いの
-　では？」
+"If you're worried, shouldn't you be nicer to
+ her?"
 #
 <name "Lazlocke">
-「優しくしてるつもりだがなぁ」
+"I want to be."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1112">
-「ベッドの上でもですか？」
+"In bed too?"
 #
 <name "Lazlocke">
-「む……うーん」
+"Mm... hmmm..."
 #
 <removesprite -1 11>
 <exit>
 :40A1
 <music 10>
 <background "bg004a0.iph" 11>
-『回転ハンマー』
+-- Spinning Hammer --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1113">
-「セリスさんに、新しい技を伝授しましょう」
+"Miss Celes, I want to teach you a new skill."
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5948">
-「どんな技ですか？」
+"What skill?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1114">
-「回転ハンマー」
+"Spinning hammer."
 #
 <sprite "ta01d08.iph" 2 5 12>
 <name "Celes" "!AA5949">
-「回転……ハンマー？」
+"Spinning... hammer?"
 #
 <sprite "ta04a08.iph" 6 4 12>
 <name "Soshiette" "!DA1115">
-「はい。
-　遠心力を最大限に利用し、威力を増した攻撃です」
+"Yes. It's an attack using centrifugal force to
+ increase its power."
 #
 <sprite "ta01d09.iph" 2 5 12>
 <name "Celes" "!AA5950">
-「おおっ」
+"Oooh!"
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1116">
-「しかし、その分、扱いは難しくなります。
-　覚えますか？」
+"But it becomes much harder to control.
+ Do you want to learn it?"
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5951">
-「もちろんです」
+"Of course!"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1117">
-「良い返事です」
+"Good answer."
 #
 <removesprite -1 11>
-　ソシエットは、セリスに回転ハンマーを教えた。
+Soshiette taught Celes the new move.
 #
-　どうでも良いが、もう少し良い名前はなかったの
-　だろうか。
+That's all well and good, but isn't there a
+better name for it?
 #
 <exit>
 :4470
 <music 10>
 <background "bg004a0.iph" 11>
-『回転ハンマー』
+-- Spinning Hammer --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5952">
-「遠心力って凄いですよね」
+"Centrifugal force is incredible."
 #
 <name "Lazlocke">
-「そうだな。
-　しかし、なかなか認識し難いのが難点だな」
+"It is, but it can be hard to see its
+ weakness."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5953">
-「バケツに水を入れて、グルグルと回すと解りやす
-　いですよ」
+"It's easy to see when you pour water in a 
+ bucket and swirl it around."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
 <exit>
 :45D4
 <music 10>
 <background "bg004a0.iph" 11>
-『回転ハンマー』
+-- Spinning Hammer --
 #
 <name "Lazlocke">
-「回転ハンマー……遠心力」
+"Spinning hammer...
+ Centrifugal force..."
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1118">
-「……新しいエロ技でも考えているのですか？」
+"Thinking about a new sex move?"
 #
 <name "Lazlocke">
-「失礼な」
+"How rude."
 #
 <sprite "ta04a15.iph" 4 4 12>
 <name "Soshiette" "!DA1119">
-「では、何をお考えで」
+"Then what are you thinking about?"
 #
 <name "Lazlocke">
-「……せ、生活に役立つ遠心力の使い方などを」
+"...H-How to use centrifugal force in my daily
+ life."
 #
 <removesprite -1 11>
 <exit>
 :474C
 <music 10>
 <background "bg004a0.iph" 11>
-『突貫ハンマー』
+-- Crash Hammer --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1120">
-「ハンマーは基本的に打撃です」
+"Using a hammer is at its core, a striking
+ attack."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1121">
-「その考えを改め、ハンマーで撃ち抜くと考えてく
-　ださい」
+"Think about that and crash through it with your
+ hammer."
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5954">
-「えっと、どう違うんですか？」
+"Um, how is it different?"
 #
 <sprite "ta04a08.iph" 6 4 12>
 <name "Soshiette" "!DA1122">
-「打撃は当てて止まります。
-　撃ち抜くは、当てて止めません」
+"A striking blow stops on impact.
+ Crashing through it does not stop on impact."
 #
 <sprite "ta01d37.iph" 2 5 12>
 <name "Celes" "!AA5955">
-「うわ……」
+"Oohh..."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1123">
-「心してこれから教える技を覚えてください」
+"Please be careful as you learn this skill."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5956">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
-　セリスは、ソシエットから突貫ハンマーを教えて
-　貰った。
+Celes learned how to use a new skill from
+Soshiette.
 #
 <exit>
 :4A6B
 <music 10>
 <background "bg004a0.iph" 11>
-『突貫ハンマー』
+-- Crash Hammer --
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA5957">
-「突貫ハンマー……
-　この技は、大工作業には向きません」
+"Crash hammer...
+ This skill is useless for carpentry."
 #
 <removesprite -1 11>
 <sprite "ta01d32.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
 <name "Soshiette" "!DA1124">
-「当たり前です」
+"Of course."
 #
 <removesprite -1 11>
 <exit>
 :4B89
 <music 10>
 <background "bg004a0.iph" 11>
-『爆砕ハンマー』
+-- Blast Hammer --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5958">
-「爆砕ですか？」
+"Blast?"
 #
 <removesprite -1 11>
 <sprite "ta01d06.iph" 2 5 11>
 <sprite "ta04a00.iph" 6 4 11>
 <name "Soshiette" "!DA1125">
-「はい。
-　ハンマーで殴り、打撃地点を爆砕するのです」
+"Yes. Strike with your hammer and explode from
+ the point of impact."
 #
 <sprite "ta01d08.iph" 2 5 12>
 <name "Celes" "!AA5959">
-「えっと、ハンマーに仕込みでもするんですか？」
+"Um, is this actually hammer training?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1126">
-「いえ、技です」
+"No, it's a technique."
 #
 <sprite "ta01d06.iph" 2 5 12>
 <name "Celes" "!AA5960">
-「ただのハンマーで爆砕ですか？」
+"Isn't it just exploding with a hammer?"
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1127">
-「そうです。
-　覚えてください」
+"Yes.
+ Learn it."
 #
 <sprite "ta01d20.iph" 2 5 12>
 <name "Celes" "!AA5961">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
-　セリスは、ソシエットから爆砕ハンマーを伝授さ
-　れた。
+Celes learned a new skill from Soshiette.
 #
 <exit>
 :4E7E
 <music 10>
 <background "bg001a0.iph" 11>
-『爆砕ハンマー』
+-- Blast Hammer --
 #
-　セリスは、屋根の修理をしていた。
+Celes is repairing the roof.
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5962">
-「トントン……トントン……
-　うわっ！」
+"Tap tap... Tap tap...
+ Aaah!"
 #
 <name "Lazlocke">
-「どうした？」
+"What happened?"
 #
 <sprite "ta01d10.iph" 4 4 12>
 <name "Celes" "!AA5963">
-「ば、爆砕しました」
+"I-It blew up."
 #
 <name "Lazlocke">
-「……爆砕したんじゃなくて、爆砕させたんだ」
+"...It didn't blew up.
+ It exploded."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA5964">
-「あはは……すみません」
+"Hahaha...
+ I'm sorry."
 #
 <name "Lazlocke">
-「屋根の大穴。
-　夜までに直すように」
+"There's a huge hole in the roof now.
+ Fix it by tonight."
 #
 <sprite "ta01d92.iph" 4 4 12>
 <name "Celes" "!AA5965">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :50B0
 <music 10>
 <background "bg004a0.iph" 11>
-『武器防御』
+-- Weapon Defense --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5968">
-「武器の事を知れば、自然とそれが防御に繋がるわ
-　けですよね」
+"The more you know about weapons, the better
+ you'll be able to protect yourself against
+ them."
 #
 <name "Lazlocke">
-「そうだな。
-　だが、何事も過信はしないように」
+"That's right, but don't let it go to your
+ head."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5969">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :51DE
 <music 10>
 <background "bg004a0.iph" 11>
-『武器防御』
+-- Weapon Defense --
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1128">
-「セリスさんの武器に対する防御は、鉄壁ですね」
+"Her defense against weapons is impregnable,
+ isn't it?"
 #
 <name "Lazlocke">
-「そうだが、だが下手に褒めて油断させるなよ」
+"That may be, but don't puff up her ego and
+ make her cocky."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1129">
-「了解しました」
+"Understood."
 #
 <removesprite -1 11>
 <exit>
 :5306
 <music 10>
 <background "bg004a0.iph" 11>
-『武器防御』
+-- Weapon Defense --
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01d92.iph" 4 4 11>
 <name "Celes" "!AA5970">
-「あの、エロい道具に対する防御ではありませんよ」
+"Um, it's not a defense against sex things."
 #
 <removesprite -1 11>
-　セリスは、俺が持つエロ道具に対して意見を述べ
-　た。
+Celes shares her opinion on my sex tools.
 #
-　そんなに心配そうにしていただろうか。
+Is she that concerned about them?
 #
-　あと、そんなに道具には頼らないが……
+Also, I don't even use toys that much.
 #
 <exit>
 \x78
