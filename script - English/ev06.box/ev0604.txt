@@ -30,579 +30,594 @@
 :3C5
 <music 25>
 <background "bg004a0.iph" 11>
-『指弾』
+-- Finger Shot --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1131">
-「指弾は、指で小石などを弾き、相手にダメージを
-　与える技です。
-　これを伝授しましょう」
+"A finger shot is the art of launching a small
+ stone from your hand to damage your opponent.
+ I will be teaching you how to do it."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA5971">
-「よろしくお願いします」
+"Thank you very much."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1132">
-「まず、適度な小石を探します」
+"First, find a small stone."
 #
 <sprite "ta01d89.iph" 2 5 12>
 <name "Celes" "!AA5972">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a04.iph" 6 4 12>
 <name "Soshiette" "!DA1133">
-「次にこう握ります。
-　親指の爪の上に、小石を乗せる感じです」
+"Next, hold it like this.
+ Rest it on your thumbnail, like balancing a
+ pebble."
 #
 <sprite "ta01d07.iph" 2 5 12>
 <name "Celes" "!AA5973">
-「は、はい」
+"Y-Yes, ma'am."
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1134">
-「そして……こうです」
+"And then... like this."
 #
 <removesprite -1 11>
-　ソシエットの弾いた小石は、目標とした木の的に
-　めり込んだ。
+Soshiette flicks her thumb and the pebble embeds
+in the tree she was aiming at.
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5974">
-「えいっ」
+"Yah!"
 #
 <removesprite -1 11>
-　セリスの弾いた小石は、セリスの足元に落ちた。
+The stone falls at her feet.
 #
 <sprite "ta01d27.iph" 4 4 11>
 <name "Celes" "!AA5975">
-「……す、すみません」
+"...I-I'm sorry."
 #
 <removesprite -1 11>
 <sprite "ta01d27.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Soshiette" "!DA1135">
-「いえ、大丈夫です。
-　この私に掛かれば、三日でマスターさせてみせま
-　す」
+"No, it's fine.
+ I stake my reputation on you being able to
+ master it within three days."
 #
 <sprite "ta01d09.iph" 2 5 12>
 <name "Celes" "!AA5976">
-「本当ですか？」
+"Really?"
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1136">
-「はい。
-　マスターできなければ、その指を切り落とします
-　ので、頑張りましょう」
+"Yes. If you can't, I'll cut off that finger.
+ Do your best."
 #
 <sprite "ta01d10.iph" 2 5 12>
 <name "Celes" "!AA5977">
-「……え？」
+"...Huh?"
 #
 <removesprite -1 11>
-　セリスは、なんとか指弾を習得した。
+Celes managed to learn it somehow.
 #
 <sprite "ta01d37.iph" 4 4 11>
 <name "Celes" "!AA5978">
-「ソ、ソシエットさん、本気だった……」
+"M-Miss Soshiette was serious..."
 #
 <removesprite -1 11>
 <exit>
 :A26
 <music 10>
 <background "bg004a0.iph" 11>
-『指弾』
+-- Finger Shot --
 #
 <name "Lazlocke">
-「指弾か……」
+"Finger shot, huh?"
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1137">
-「はい。
-　セリスさんは、なかなか優秀な使い手になりまし
-　た」
+"Yes. She's become quite the expert with it."
 #
 <name "Lazlocke">
-「そうだが……
-　指弾は暗器の類だろう。
-　殺し屋にする気は無いぞ」
+"Indeed. It's kind of an underhanded move
+ though. I don't want to turn her into a
+ killer."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1138">
-「もちろんです。
-　教えている技は、自衛と大会で勝ち上がる為です」
+"Of course not.
+ The skills I'm teaching her are for self-defense
+ and winning the tournament."
 #
 <name "Lazlocke">
-「それさえ忘れてなければ良い」
+"Just don't forget it."
 #
 <removesprite -1 11>
 <exit>
 :BFB
 <music 25>
 <background "bg004a0.iph" 11>
-『連撃指弾』
+-- Finger Barrage --
 #
-　セリスは握り拳を作り、親指の付け根を木の幹に
-　当てた。
+Celes makes a fist and rests the base of her
+thumb against the tree trunk.
 #
 <name "Lazlocke">
-「？」
+"Hm?"
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5979">
-「はっ」
+"Hya!"
 #
 <removesprite -1 11>
-　セリスは指弾を放った。
+She releases a finger shot.
 #
-　弾は無い。
+There's no bullet.
 #
-　空撃ちだ。
+It's a blank shot.
 #
-　が、その弾を撃ち出す威力がそのまま木の幹を貫
-　いている。
+But the power to fire a stone goes straight into
+the tree.
 #
-　そして当たった音は一つに聞こえたが、一発しか
-　放たなかったんじゃない。
+The thudding impact echoes lightly in the air.
 #
-　連続して七回は放っている。
+She fires seven times in quick succession.
 #
-　そして、その的になった木の幹は大きく抉れてい
-　た。
+And a gouge grows steadily in the tree.
 #
-　人の腹だと思うと、ゾッとする。
+It makes me a little sick thinking about that
+impacting a human's stomach.
 #
 <name "Lazlocke">
-「連続指弾の威力は理解した。
-　指は大丈夫か？」
+"It's easy to see how powerful consecutive
+ finger shots are.
+ Are your fingers okay?"
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5980">
-「鍛えてますから」
+"I've trained them."
 #
 <removesprite -1 11>
-　うーむ、ソシエットはセリスに恐ろしい技を伝授
-　してしまったのではなかろうか。
+Hmm. I think Soshiette might have taught her
+something really horrifying.
 #
 <exit>
 :F00
 <music 10>
 <background "bg004a0.iph" 11>
-『憤激指弾』
+-- Finger Cannon --
 #
 <name "Lazlocke">
-「指弾なんてやってて、よく爪を割らないな」
+"You don't break your nails doing those finger
+ shots, huh?"
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5981">
-「あはは……最初の頃は良く割ってました。
-　でも、慣れたら大丈夫です」
+"Hahaha...
+ I totally did when I was starting out, but I'm
+ okay now that I'm used to it."
 #
 <name "Lazlocke">
-「慣れたらか……」
+"Used to it, huh?"
 #
 <sprite "ta01d09.iph" 4 4 12>
 <name "Celes" "!AA5982">
-「はい。
-　慣れると、コインとかでも弾けるんですよ。
-　小石とか探すのが面倒な時に便利です」
+"Yes. Once you're used to it, you can shoot
+ coins too. It's useful when you don't want to
+ bother looking for pebbles."
 #
 <name "Lazlocke">
-「……どんどん、暗殺仕様になるな」
+"...Really seems more and more like this is
+ geared for assassinations."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA5983">
-「はい？」
+"Sir?"
 #
 <name "Lazlocke">
-「いや、気にしないで修行を続けてくれ」
+"No, forget it.
+ Just keep practicing."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA5984">
-「はい！」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
 :1193
 <music 25>
 <background "bg004a0.iph" 11>
-『手裏剣』
+-- Shuriken --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5985">
-「やっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　セリスの放った手裏剣は、連続して的に命中する。
+Celes throws a series of spiked metal blades
+into the target.
 #
-　綺麗に全て真ん中とは行かないが、なかなか筋が
-　良い。
+They don't all hit the bullseye, but it's a
+decent grouping.
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5986">
-「とうっ！」
+"Yah!"
 #
 <removesprite -1 11>
-　そう思ったが、セリスの投げた手裏剣が俺の耳を
-　掠めたので考えを改めた。
+...Except that the one she just threw grazed my
+ear.
 #
 <sprite "ta01d10.iph" 4 4 11>
 <name "Celes" "!AA5987">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
 <exit>
 :136C
 <music 25>
 <background "bg004a0.iph" 11>
-『手裏剣』
+-- Shuriken --
 #
-　セリスの手裏剣の腕はメキメキと上達している。
+Her skills have improved considerably.
 #
-　正直に言えば、感心しているぐらいだ。
+To be honest, I'm pretty impressed.
 #
-　狙った場所に百発百中。
+She always hits her target.
 #
-　セリス相手に戦う場合、本気で間合いに注意しな
-　ければとか考えてしまう。
+Anybody fighting against her better seriously
+be on guard if she puts any distance between
+them.
 #
-　それぐらいの腕前になっている。
+It's a perfect skill for her.
 #
-　恐ろしい。
+She's terrifying.
 #
-　が、それは置いておいて……
+But that aside...
 #
 <name "Lazlocke">
-「セリス。
-　食べ物を投げるなと言っているだろう」
+"Celes, I told you already, no throwing food."
 #
 <sprite "ta01d10.iph" 4 4 11>
 <name "Celes" "!AA5988">
-「す、すみません」
+"I-I'm sorry."
 #
 <removesprite -1 11>
-　手裏剣が上手くなってから、なんでも投げるクセ
-　がついてしまって困る。
+After getting good with knives, she's taken to
+throwing anything and everything that she can
+get her hands on.
 #
-　ソシエットの教え方にも、色々と問題があるな。
+There are a lot of problems in the way Soshiette
+teaches.
 #
 <exit>
 :15CA
 <music 25>
 <background "bg004a0.iph" 11>
-『乱れ手裏剣』
+-- Chaos Blade --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1139">
-「多数の手裏剣を多方向に同時に投げる技です」
+"This is a skill for throwing dozens of knives
+ in multiple directions all at once."
 #
 <sprite "ta04a08.iph" 4 4 12>
 <name "Soshiette" "!DA1140">
-「この技は敵を倒すよりも、敵を牽制する方に良く
-　使われます」
+"This isn't a skill for defeating an enemy, but
+ to keep them at bay."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a08.iph" 6 4 11>
 <name "Celes" "!AA5989">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a15.iph" 6 4 12>
 <name "Soshiette" "!DA1141">
-「では、そこの小さくて黒く、素早い生物に向けて
-　放ってください。
-　こちらに近づけないように」
+"Now then, see that little black rattish
+ creature? Aim at that.
+ Don't let it come anywhere near you."
 #
 <sprite "ta01d10.iph" 2 5 12>
 <name "Celes" "!AA5990">
-「え？
-　きゃぁぁぁぁっ！」
+"Huh?
+ Eeeeek!"
 #
 <removesprite -1 11>
 <exit>
 :1836
 <music 25>
 <background "bg004a0.iph" 11>
-『大車輪手裏剣』
+-- Chakram --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1142">
-「手裏剣を回転させます。
-　棒状の手裏剣はこう。
-　円状の手裏剣はこう回転させます」
+"A shuriken spins. A cylindrical shuriken spins
+ differently, and a circular one rotates at the
+ edge even faster."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1143">
-「これで、威力が増します」
+"That increases the cutting power."
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Celes" "!AA5991">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a15.iph" 6 4 12>
 <name "Soshiette" "!DA1144">
-「では、その手裏剣でそこの壁に居る小さくて黒く、
-　素早い生物を狙ってください。
-　こちらに近づけないように」
+"Take this knife and aim at that small, black
+ rattish creature by the wall.
+ Don't let it get close to you."
 #
 <sprite "ta01d10.iph" 2 5 12>
 <name "Celes" "!AA5992">
-「え？
-　きゃぁぁっ！
-　と、飛んだぁっ！」
+"Huh?
+ Eeeek!
+ T-Take this!"
 #
 <removesprite -1 11>
 <exit>
 :1AC8
 <music 10>
 <background "bg004a0.iph" 11>
-『弓』
+-- Archery --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5994">
-「弓……」
+"A bow..."
 #
 <name "Lazlocke">
-「どうだ？」
+"How's it going?"
 #
 <sprite "ta01d09.iph" 4 4 12>
 <name "Celes" "!AA5995">
-「なんとか、的には当たるようになりました」
+"I'm able to hit the target now, I think."
 #
 <name "Lazlocke">
-「おお、やるな。
-　俺はどうやっても的には当たらなかったのに……」
+"Ooh, well done.
+ I couldn't ever hit anything."
 #
 <sprite "ta01d08.iph" 4 4 12>
 <name "Celes" "!AA5996">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「そうなんだ。
-　やってみせよう」
+"That's right.
+ Let me show you."
 #
 <sprite "ta01d06.iph" 4 4 12>
 <name "Celes" "!AA5997">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「あ、そこに居ると危ないぞ」
+"Oh, it's dangerous to stand there."
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA5998">
-「え？」
+"Huh?"
 #
 <name "Lazlocke">
-「俺が射る場合の安全地帯は、的の前だ」
+"The safe zone when I shoot is in front of the
+ target."
 #
 <sprite "ta01d92.iph" 4 4 12>
 <name "Celes" "!AA5999">
-「……すっごく、怖いんですけど」
+"...That's super scary though."
 #
 <name "Lazlocke">
-「大丈夫だ。
-　すぐにわかる」
+"Don't worry.
+ You'll see."
 #
 <removesprite -1 11>
-　俺は弓を引き、矢を放った。
+I draw back the bow and fire.
 #
-　矢は見事に俺の後方に飛んでいった。
+The arrow shoots straight behind me.
 #
 <sprite "ta01d05.iph" 4 4 11>
 <name "Celes" "!AA6000">
-「……呪いのレベルですね」
+"...That's at the level of a curse."
 #
 <name "Lazlocke">
-「だろう。
-　ソシエットには、敵に捕らわれて味方を射るよう
-　に言われた時とかに有効ですね、と言われたぐら
-　いだ」
+"Right?
+ Soshiette said it'd be a good trick if I was
+ ever captured by the enemy and told to shoot
+ at our allies."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA6001">
-「その状況の時なら、役に立ちますね」
+"That is a situation where it'd be useful."
 #
 <name "Lazlocke">
-「おう」
+"Right."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA6002">
-「ですが、もう触らないでください。
-　すっごく怖いですから」
+"But please don't touch any more bows.
+ It's super scary."
 #
 <name "Lazlocke">
-「お、おう」
+"R-Right."
 #
 <removesprite -1 11>
 <exit>
 :2032
 <music 10>
 <background "bg004a0.iph" 11>
-『弓』
+-- Archery --
 #
 <name "Lazlocke">
-「プレゼントだ」
+"A gift."
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA6003">
-「なんですか？」
+"What is it?"
 #
 <name "Lazlocke">
-「胸当てだ。
-　女性が弓を使うなら、必須だろ」
+"A breastplate.
+ It's a must-have for any woman using a bow."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA6005">
-「ありがとうございます。
-　今の胸当ては擦れてしまってて……」
+"Thank you very much.
+ The one I have now is worn out."
 #
 <name "Lazlocke">
-「まあ、自分の胸を削らないようにな」
+"Well, we can't have you hurting your chest."
 #
 <sprite "ta01d17.iph" 4 4 12>
 <name "Celes" "!AA6006">
-「あはは……注意します」
+"Hahaha...
+ I'll be careful."
 #
 <removesprite -1 11>
 <exit>
 :2205
 <music 25>
 <background "bg004a0.iph" 11>
-『弓』
+-- Archery --
 #
-　セリスは弓の稽古をしていた。
+Celes practices her archery.
 #
 <name "Lazlocke">
-「百発百中だな」
+"Only bullseyes, huh?"
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA6007">
-「はい。
-　ですが、千矢放てば、一矢は外してしまいます。
-　その一矢が生死を分けると思えば、まだまだ鍛錬
-　は欠かせません」
+"Yes, but even if I fire a thousand arrows, one
+ still might miss. If a single arrow is the
+ difference between life and death, I still have
+ a long way to go."
 #
 <name "Lazlocke">
-「良い心掛けだ」
+"Good attitude."
 #
 <removesprite -1 11>
 <exit>
 :2353
 <music 10>
 <background "bg004a0.iph" 11>
-『激動弓』
+-- Arrow Storm --
 #
-　セリスが激動弓なる技を覚えた。
+Celes learns a new archery skill.
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA6008">
-「その技で獲物を狩ると、凄い事になるんですよね」
+"It would be incredible to hunt with this
+ skill."
 #
 <name "Lazlocke">
-「そうだな。
-　ミンチ肉ばっかりになってしまう」
+"Yeah, because you'd only be bringing back
+ mincemeat."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA6009">
-「不便かも」
+"Not very useful then, I guess."
 #
 <name "Lazlocke">
-「いや、攻撃手段としては有効だと思う」
+"No, it's a good way to attack."
 #
 <removesprite -1 11>
 <exit>
 :24D0
 <music 10>
 <background "bg004a0.iph" 11>
-『断罪弓』
+-- Headhunter --
 #
 <name "Lazlocke">
-「断罪弓……仰々しい名前だな」
+"Headhunter...
+ Quite the name, isn't it?"
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA6010">
-「なんでも、罪人の罪を許すかどうかを試す技だっ
-　たらしいんですよ」
+"Apparently it's a skill to test out whether a
+ criminal's sin can be pardoned."
 #
 <name "Lazlocke">
-「へー。
-　でも、どうやって試すんだ？」
+"Oh?
+ But how do you test that."
 #
 <sprite "ta01d15.iph" 4 4 12>
 <name "Celes" "!AA6011">
-「まずはこのリンゴを頭の上に……あれ？」
+"First, you put on apple on your head, then...
+ Huh?"
 #
 <removesprite -1 11>
-　凄く嫌な予感がしたので、俺は逃げた。
+I flee before my bad feeling becomes real pain.
 #
 <exit>
 :2674
 <music 10>
 <background "bg004a0.iph" 11>
-『崩壊弓』
+-- Siege Arrow --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA6012">
-「城すらも一矢で崩壊させると伝えられる伝説の弓
-　技です」
+"This is a legendary archery skill that's said
+ to be able to bring down an entire castle with
+ a single arrow."
 #
 <name "Lazlocke">
-「ほう……では、これを攻撃したまえ」
+"Oh?
+ Then let's see you attack this."
 #
 <removesprite -1 11>
-　俺は立ち上がり、自分の座っていた岩を指差す。
+I stand up and point at the rock I was sitting
+on.
 #
 <sprite "ta01d91.iph" 4 4 11>
 <name "Celes" "!AA6013">
-「ふふふ……師匠。
-　舐めてますね」
+"Heheheh...
+ Master, you underestimate me."
 #
 <removesprite -1 11>
-　セリスは自信満々に弓を構え、放った。
+She raises her bow, full of confidence, and
+fires.
 #
-　矢は一直線に俺が指差した岩に命中した。
+The arrow hits the rock.
 #
-　と思われた瞬間、岩をすり抜けて後ろに飛んでいっ
-　た。
+And passes straight through it, emerging on the
+other side, without harming it.
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA6014">
-「え？」
+"Huh?"
 #
 <name "Lazlocke">
-「崩壊弓、破れたり！」
+"Siege arrow has been defeated!"
 #
 <sprite "ta01d10.iph" 4 4 12>
 <name "Celes" "!AA6015">
-「げ、幻覚の魔法ですか？」
+"A-An illusion spell!?"
 #
 <name "Lazlocke">
-「うむ。
-　どんな凄い技を覚えても、当たらなければ意味が
-　無い事を教えようと思ってな」
+"Mmhmm. 
+ No matter what kind of skill you learn, it only
+ matters if you can hit your target."
 #
 <sprite "ta01d36.iph" 4 4 12>
 <name "Celes" "!AA6016">
-「そうですか。
-　ありがとうございます。
-　ですが、私の記憶が正しければ、先程まであの岩
-　に座っていたのでは？」
+"I see. Thank you.
+ But if I remember right, weren't you sitting on
+ that rock just a minute ago?"
 #
 <name "Lazlocke">
-「座った振りをして、中腰だったんだ。
-　辛かった……」
+"I was squatting, just pretending to sit.
+ My legs hurt..."
 #
 <sprite "ta01d42.iph" 4 4 12>
 <name "Celes" "!AA6017">
-「私を騙す為に、そこまで……」
+"You went that far just to trick me..."
 #
 <removesprite -1 11>
 <exit>
