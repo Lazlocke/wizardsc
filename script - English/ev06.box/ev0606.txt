@@ -50,888 +50,913 @@
 :707
 <music 10>
 <background "bg002a0.iph" 11>
-『魔法知識』
+-- Magic Theory --
 #
 <sprite "ta01b20.iph" 4 4 11>
 <name "Celes" "!AA6049">
-「魔法の知識を高めれば、必然的に戦いが有利にな
-　る」
+"If I know more about magic, I'll have the 
+ advantage in fights."
 #
 <name "Lazlocke">
-「その通りだ。
-　だから、頑張って覚えるように」
+"That's right, so work hard to learn it all."
 #
 <sprite "ta01b27.iph" 4 4 12>
 <name "Celes" "!AA6050">
-「はい。
-　でも……かなりの量ですよね」
+"Yes, sir.
+ But... there's so much."
 #
 <name "Lazlocke">
-「気合だ！」
+"Get fired up!"
 #
 <sprite "ta01b20.iph" 4 4 12>
 <name "Celes" "!AA6051">
-「頑張ります！」
+"I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
 :8B1
 <music 10>
 <background "bg002a0.iph" 11>
-『魔法知識』
+-- Magic Theory --
 #
 <sprite "ta01b27.iph" 4 4 11>
 <name "Celes" "!AA6052">
-「魔法の知識、魔法の知識……」
+"Magic theory...
+ Magic theory..."
 #
 <sprite "ta01b70.iph" 4 4 12>
 <name "Celes" "!AA6053">
-「うーん、エロい知識は山のようにあるのに……」
+"Hmm... There's so much written about sex
+ though..."
 #
 <sprite "ta01b42.iph" 4 4 12>
 <name "Celes" "!AA6054">
-「ああ、駄目。
-　雑念が入っちゃった」
+"Oh, oh no.
+ Now I'm daydreaming."
 #
 <removesprite -1 11>
 <exit>
 :9FD
 <music 10>
 <background "bg002a0.iph" 11>
-『魔法回復』
+-- Mana Recovery --
 #
 <sprite "ta01b32.iph" 4 4 11>
 <name "Celes" "!AA6059">
-「魔力回復……
-　うーん……難しい」
+"Mana recovery...
+ Hmm... This is hard."
 #
 <sprite "ta01b27.iph" 4 4 12>
 <name "Celes" "!AA6056">
-「師匠が相手してくれれば、すぐなのに……」
+"If I'm with you, it happens right away though."
 #
 <name "Lazlocke">
-「戦闘中にやるわけにはいかないだろ」
+"That's not an option in the middle of a fight."
 #
 <sprite "ta01b32.iph" 4 4 12>
 <name "Celes" "!AA6057">
-「そうですけど……」
+"I guess not..."
 #
 <name "Lazlocke">
-「頑張るように」
+"Work hard."
 #
 <sprite "ta01b31.iph" 4 4 12>
 <name "Celes" "!AA6058">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :BCE
 <music 26>
 <background "bg004a0.iph" 11>
-『魔力増加』
+-- Mana Capacity --
 #
 <name "Lazlocke">
-「腹の中に球体があるようにイメージし、その球体
-　を回転させるように魔力を動かす」
+"Picture a sphere inside your stomach.
+ Manipulate your mana and rotate that sphere."
 #
 <sprite "ta01a23.iph" 4 4 11>
 <name "Celes" "!AA6060">
-「うう……」
+"Nnh..."
 #
 <name "Lazlocke">
-「そうだ。
-　一定の速度を保て」
+"That's it.
+ Keep the speed steady."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6061">
-「ううう……」
+"Nnnnnnh..."
 #
 <name "Lazlocke">
-「速度が乱れた。
-　回転も乱れているぞ。
-　その回転によって、魔力を取り込むんだ。
-　リズム良く回せ」
+"The speed's messed up.
+ So is the rotation.
+ Take in mana as you rotate it.
+ Keep a constant rhythm."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6062">
-「ううぁっ……ぁっ……はぁ、はぁ、はぁぁぁ……」
+"Nnnnh...ah...
+ Ahhh...ahhh...ahhh..."
 #
 <name "Lazlocke">
-「こら、休むな。
-　無駄になるぞ」
+"Hey, no slacking off.
+ That's not going to help."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6063">
-「す、すみません」
+"I-I'm sorry."
 #
 <name "Lazlocke">
-「自力で魔力を増やす為の訓練だろ。
-　頑張れ」
+"This training is to help you increase how much
+ mana you have without my help.
+ You need to work hard."
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA6064">
-「は、はい！
-　やります！」
+"Y-Yes, sir!
+ I can do it!"
 #
 <removesprite -1 11>
 <exit>
 :F13
 <music 10>
 <background "bg004a0.iph" 11>
-『魔力増加』
+-- Mana Capacity --
 #
 <name "Lazlocke">
-「魔力を増やす訓練か……」
+"Training to increase her mana, huh?"
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1154">
-「ご主人様と一夜を共にすれば早いと思いますが？」
+"Wouldn't spending just one night with you be
+ much faster?"
 #
 <name "Lazlocke">
-「それじゃあ、独り立ち出来ないだろ」
+"Then she'll never learn to do it on her own."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1155">
-「先を見ているんですね」
+"Seems like that's a future concern."
 #
 <name "Lazlocke">
-「まあな」
+"Maybe."
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6065">
-「うぎゃっ、……失敗」
+"Ugh... It didn't work."
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
 <name "Soshiette" "!DA1156">
-「先は長そうですね」
+"A far off future concern."
 #
 <name "Lazlocke">
-「そう言うな」
+"Don't say that."
 #
 <removesprite -1 11>
 <exit>
 :1155
 <music 10>
 <background "bg002a0.iph" 11>
-『詠唱速度』
+-- Chanting Speed --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6066">
-「師匠！
-　詠唱速度を速くするには、どうしたら良いでしょ
-　うか？」
+"Master, what can I do to improve my spell 
+ casting speed?"
 #
 <name "Lazlocke">
-「それは魔法に対する理解だ！」
+"Improve your understanding of magic!"
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA6067">
-「理解ですか？」
+"My understanding?"
 #
 <name "Lazlocke">
-「そうだ。
-　理解すれば、要所を抑え無駄を捨てられる」
+"That's right. 
+ Once you know what's important, you can ignore
+ what you don't need."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6068">
-「無駄があるなら、最初っから無駄を省いた呪文に
-　すれば良いのでは？」
+"If there's stuff I don't need, shouldn't I be
+ learning only the important parts of the spell
+ in the first place?"
 #
 <name "Lazlocke">
-「初心者には必要な部分なんだ。
-　だが、ベテランになれば不要となる。
-　理解を深め、そこを削っていく事で詠唱速度は速
-　くなるぞ」
+"They're necessary for beginners, but once you
+ master the spell, you won't need them.
+ The deeper your understanding of magic, the
+ faster you'll be able to cast spells."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6069">
-「なるほど」
+"I see."
 #
 <name "Lazlocke">
-「後は、速く言うとか……
-　独自の魔法形態を生み出すとか……」
+"Once you can cast them quickly, the next step
+ is to create your own unique version of each
+ spell."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA6070">
-「は、速く言う方向で頑張ります」
+"I-I'll work on my speed for now."
 #
 <removesprite -1 11>
 <exit>
 :14C2
 <music 10>
 <background "bg002a0.iph" 11>
-『詠唱速度』
+-- Casting Speed --
 #
 <name "Lazlocke">
-「詠唱速度を速める為には！
-　なによりも発声練習だ！」
+"To speed up your casting speed, you need vocal
+ practice!"
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA6071">
-「はい！」
+"Yes, sir!"
 #
 <name "Lazlocke">
-「では、俺の後に続いて言うように」
+"Now repeat after me!"
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA6072">
-「はい！」
+"Yes, sir!"
 #
 <name "Lazlocke">
-「師匠、司書室、司書、失笑」
+"She sells seashells by the sea shore!"
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA6073">
-「私傷、史書ひつ、ひしょ、必勝？」
+"She shells sea sells by the she sore?"
 #
 <name "Lazlocke">
-「もう一回！」
+"Again!"
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA6074">
-「ひしょう、ひしょひつ、ひしょ、ひっひょう！」
+"Sea sells she sells by the sea store!"
 #
 <removesprite -1 11>
 <exit>
 :16FF
 <music 10>
 <background "bg002a0.iph" 11>
-『詠唱速度』
+-- Casting Speed --
 #
 <name "Lazlocke">
-「詠唱速度を速める練習ー……開始！」
+"Your training to increase casting speed begins
+ now!"
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA6078">
-「はい！」
+"Yes, sir!"
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA6108">
-「王様、追う様、往々にして面白可笑しい、お菓子
-　を貰って、悶々……うっ！
-　……舌噛んだぁ」
+"Silly Sally swiftly shooed seven silly shpbt...
+ Nnh! I bit my tongue..."
 #
 <removesprite -1 11>
 <exit>
 :1843
 <music 10>
 <background "bg002a0.iph" 11>
-『詠唱速度』
+-- Casting Speed --
 #
-　セリスが、魔法を連続して使用する練習をしてい
-　た。
+Celes is practicing casting speels in quick
+succession.
 #
-　なかなかの速さだ。
+She's gotten pretty fast.
 #
 <name "Lazlocke">
-「良い感じだな」
+"Looking good."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA6079">
-「いえ、もう少し速くしないと……」
+"No, I have to get a little faster."
 #
 <name "Lazlocke">
-「……頑張れ」
+"Good luck."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6080">
-「はい！」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
 :19A8
 <music 10>
 <background "bg004a0.iph" 11>
-『詠唱速度』
+-- Casting Speed --
 #
 <name "Lazlocke">
-「詠唱速度の大切さを教える」
+"Let me teach you the importance of casting
+ speed."
 #
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA6081">
-「はい！」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「ソシエット君。
-　相手をしてくれるかな」
+"Soshiette, could you be my opponent?"
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1157">
-「わかりました」
+"Very well."
 #
 <name "Lazlocke">
-「お互いの頭の上にリンゴを置き、それを魔法で吹
-　き飛ばす。
-　セリス君。
-　合図を頼む」
+"We'll both put an apple on our heads and knock
+ the other's off with magic.
+ Celes, give the signal to start."
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6082">
-「は、はい。
-　えっと、コインを投げますね。
-　地面についたら開始という事で」
+"Y-Yes, sir.
+ Um, I'll toss a coin.
+ Start when it hits the ground."
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1158">
-「承知しました」
+"Understood."
 #
 <name "Lazlocke">
-「ＯＫだ」
+"Okay."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6083">
-「では……えいっ」
+"Then... yah!"
 #
 <removesprite -1 11>
-　セリスがコインを投げた瞬間、ソシエットが俺の
-　頭の上のリンゴに目掛けて突進してきた。
+The moment she lets go of the coin, Soshiette
+rushes towards me, aiming for the apple.
 #
-　ソシエットの手がリンゴを砕くその一瞬先に、ソ
-　シエットの頭の上のリンゴが焼きリンゴになった。
+Just before she crushes the apple on my head,
+the one on hers is fried by a fire bolt.
 #
 <sprite "ta04a15.iph" 4 4 11>
 <name "Soshiette" "!DA1159">
-「くっ」
+"Ngh!"
 #
 <name "Lazlocke">
-「はっはっはっ……
-　どうだ。
-　今のが詠唱速度の大切さだ」
+"Hahaha!
+ How's that?
+ See how important casting speed is?"
 #
 <name "Lazlocke">
-「リンゴが命だとすれば、あと一瞬遅ければ死んで
-　いたと言う事だ」
+"If the apples represented our lives, that means
+ I was a moment from death." 
 #
 <removesprite -1 11>
 <sprite "ta01a32.iph" 2 5 11>
 <sprite "ta04a15.iph" 6 4 11>
 <name "Celes" "!AA6084">
-「あの……コイン、落ちる前だったんですけど……
-　あと、ソシエットさん、魔法を使ってない……」
+"Um, you didn't wait for the coin to fall...
+ And she didn't cast a spell..."
 #
 <name "Lazlocke">
-「ソシエットがそんなの守るわけないだろ」
+"I knew she wouldn't follow the rules."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1160">
-「物事は奇襲のように始めるのです」
+"Victory goes to those who strike first."
 #
 <sprite "ta01a92.iph" 2 5 12>
 <name "Celes" "!AA6085">
-「は、はぁ……」
+"Um..."
 #
 <name "Lazlocke">
-「とりあえず……読み勝ち！
-　ＹＥＳ！」
+"Anyway, another win for knowledge!
+ Yes!"
 #
 <sprite "ta04a16.iph" 6 4 12>
 <name "Soshiette" "!DA1161">
-「ご主人様、もう一度お願いします」
+"Your Grace, I want a rematch."
 #
 <name "Lazlocke">
-「勝負に二度目は無い。
-　セリス、練習するように」
+"There are no second chances in combat.
+ Celes, get practicing."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA6086">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta04a19.iph" 4 4 11>
 <name "Soshiette" "!DA1162">
-「ご主人様、もう一度」
+"Your Grace, a rematch."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「さらばだっ！」
+"Farewell!"
 #
 <sprite "ta04a20.iph" 4 4 11>
 <name "Soshiette" "!DA1163">
-「勝ち逃げですか」
+"Quitting while you're ahead?"
 #
 <removesprite -1 11>
-　その日、寝るまでソシエットは俺に再戦を申し込
-　み続けた。
+She spent the rest of the day pestering me for
+another try.
 #
 <exit>
 :2230
 <music 10>
 <background "bg002a0.iph" 11>
-『同系の心』
+-- Synergy --
 #
 <name "Lazlocke">
-「同じ系統の魔法を使う場合な、少し良いテクニッ
-　クがあるんだ」
+"There are some tricks you can learn when you're
+ casting multiple spells of the same school."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6087">
-「テクニックですか？」
+"Tricks?"
 #
 <name "Lazlocke">
-「例えば、火の魔法だが……
-　ほら、こことここが似てるだろ」
+"Like fire magic, for example...
+ Look. This and this are similar, right?"
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6088">
-「本当だ」
+"You're right."
 #
 <name "Lazlocke">
-「ここを上手く使えば、連続で詠唱も可能と言うわ
-　けだ」
+"Once you can cast this one well, you'll be able
+ to go straight into this one."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6089">
-「あ、なるほど」
+"Ah, I get it."
 #
 <name "Lazlocke">
-「他にも色々とある。
-　全部、教えても良いが……自分で探した方が覚え
-　られる。
-　頑張るように」
+"There's all kinds of other things too.
+ I can teach you all of them, but you'll learn
+ them better if you find them yourself.
+ Work hard."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6090">
-「はい！」
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
 :24DC
 <music 10>
 <background "bg002a0.iph" 11>
-『同系の心』
+-- Synergy --
 #
 <name "Lazlocke">
-「同じ系統で特化するのも良いが、他の系統も忘れ
-　るなよ」
+"Specializing in a single element is fine, but
+ don't neglect other ones."
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6091">
-「はい。
-　一つの系統だけだと、その系統に耐性を持つ相手
-　に不利だからですね」
+"Yes, sir. 
+ It's because if I only know one element, I'll
+ be at a disadvantage against an opponent strong
+ against that element, right?"
 #
 <name "Lazlocke">
-「その通りだ」
+"That's right."
 #
 <removesprite -1 11>
 <exit>
 :260A
 <music 10>
 <background "bg002a0.iph" 11>
-『異系の交わり』
+-- Symbiosis --
 #
 <sprite "ta01b06.iph" 4 4 11>
 <name "Celes" "!AA6092">
-「あれ？
-　……この魔法と、この魔法。
-　系統が違うのに似てる部分がある……」
+"Huh?
+ This spell and this spell...
+ They're in different elements, but these parts
+ look the same."
 #
 <sprite "ta01b09.iph" 4 4 12>
 <name "Celes" "!AA6093">
-「ここを上手く使えば……
-　おお、連続して唱えられる！」
+"If I use this right...
+ Ooh! I can cast this one right after!"
 #
 <name "Lazlocke">
-「厳密には、続けて唱える場合のロスが減るだけな
-　んだけどな」
+"More accurately, what you're doing is
+ decreasing the loss in speed when casting
+ successive spells."
 #
 <sprite "ta01b07.iph" 4 4 12>
 <name "Celes" "!AA6094">
-「師匠」
+"Master?"
 #
 <name "Lazlocke">
-「違う系統でも似た部分があり、そこを繋げる事で
-　連続詠唱時のロスが減る」
+"Even in different elements, there may be
+ similarities which you can use to decrease the
+ loss in speed when changing spells."
 #
 <name "Lazlocke">
-「テクニックの一つだ」
+"That's one of the tricks."
 #
 <sprite "ta01b08.iph" 4 4 12>
 <name "Celes" "!AA6097">
-「知っていたなら、教えてくれれば良いじゃないで
-　すか」
+"If you know them, can't you just teach me?"
 #
 <name "Lazlocke">
-「教えても身につかん。
-　自分で探すんだ」
+"You won't really learn if I just tell you.
+ Find them on your own."
 #
 <sprite "ta01b31.iph" 4 4 12>
 <name "Celes" "!AA6098">
-「むう……」
+"Grr..."
 #
 <removesprite -1 11>
 <exit>
 :293A
 <music 10>
 <background "bg002a0.iph" 11>
-『異系の交わり』
+-- Symbiosis --
 #
 <name "Lazlocke">
-「違う系統の魔法の勉強をしているようだが、器用
-　貧乏にならないようにな」
+"Looks like you're studying multiple elements.
+ Just be careful you don't dabble in everything
+ without mastering anything."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6099">
-「はい。
-　複数の系統を使いこなしても、一つ一つの威力が
-　弱ければ意味がないですからね。
-　注意します」
+"Yes, sir.
+ Even if I can use multiple elements, if I'm
+ weak in each one, there's no point.
+ I'll be careful."
 #
 <removesprite -1 11>
 <exit>
 :2A77
 <music 10>
 <background "bg002a0.iph" 11>
-『魔法防御』
+-- Magic Defense --
 #
 <name "Lazlocke">
-「魔力で身体を覆い、魔法による効果を鈍らせる」
+"Surround yourself with mana to blunt the
+ effects of magic."
 #
 <name "Lazlocke">
-「簡単に言えば、そんな感じだな」
+"That's putting it simply, but it's what you
+ should aim for."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6100">
-「魔力で身体を覆うんですか？」
+"Suround myself with mana?"
 #
 <name "Lazlocke">
-「まあ、慣れればダメージを受ける場所だけでも構
-　わないんだが……」
+"Well, once you're used to it, you can
+ concentrate more on places that you'll actually
+ get hurt."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6101">
-「む、難しいですね」
+"I-It's hard."
 #
 <name "Lazlocke">
-「しかし、魔法使い相手に戦う場合は、かなり有利
-　になる」
+"But it'll give you a big leg up when fighting
+ other wizards."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6102">
-「是非、覚えた方が良いと言う事ですね」
+"Then it's definitely something I should learn,
+ isn't it?"
 #
 <name "Lazlocke">
-「相手の魔法が出る前に倒すか、相手の魔法を避け
-　るか出来れば必要無いと言えば必要無いぞ」
+"If you aim to beat them before they can get a
+ spell off, then you won't need to learn how to
+ protect yourself."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6103">
-「あはは……
-　頑張ります」
+"Hahaha...
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :2D7D
 <music 10>
 <background "bg004a0.iph" 11>
-『魔法防御』
+-- Magic Defense --
 #
 <name "Lazlocke">
-「魔法は、発動してその周囲の魔力を変化させる」
+"Use magic to charge the mana around you."
 #
 <name "Lazlocke">
-「魔法防御は、自分の周囲の魔力の変化を抑える事
-　にある」
+"Magical defense is the art of suppressing
+ changes in mana around yourself."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6104">
-「魔力が変化しなければ、威力が落ちると言う事で
-　すね」
+"If the mana is suppressed, then the power of
+ the spell decreases. 
+ Right?"
 #
 <name "Lazlocke">
-「そうだ。
-　しかし、相手が魔法を発動させる場所を見極めて、
-　そこの魔力に先んじて変化するなと命じるのは難
-　度が高い」
+"That's right, but you need to be able to
+ quickly figure out where they're going to 
+ activate the mana so you can suppress it before
+ they do. That can be very hard."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6105">
-「難度が高いと言うか……不可能に近いのでは？」
+"You say very hard...
+ But it's more like impossible."
 #
 <name "Lazlocke">
-「そうだな。
-　だから、自分の身体を魔力で覆い、その部分だけ
-　に集中する」
+"Indeed. That's why you should surround your 
+ body with mana and concentrate just on that."
 #
 <name "Lazlocke">
-「魔法が向かって来る際、その周囲の魔力も巻き込
-　むが、巻き込まれない魔力はそのまま抵抗となっ
-　て威力を抑えると言うワケだ。
-　理解したか？」
+"When a spell is cast, it'll draw from the 
+ nearby mana, but the mana around you will
+ be resistant and lower the strength. 
+ Do you understand?"
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6106">
-「なんとなくですが……」
+"I think so..."
 #
 <name "Lazlocke">
-「まあ、理解は後で良い。
-　とりあえずは理屈を知り、そして実践する事だ」
+"Well, you can figure it all out later.
+ For now, you know the why, so let's put it into
+ practice."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6107">
-「わかりました。
-　頑張ります」
+"Okay.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :31A7
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／火』
+-- Fire Proof --
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6109">
-「火の魔法に対して、抵抗力が増えました」
+"I've increased my resistance to fire magic."
 #
 <name "Lazlocke">
-「では、試してみよう。
-　そうだな……火力はこれぐらいかな？」
+"Okay, let's try it out.
+ Hm, how about this level of heat?"
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA6110">
-「…………え？」
+"...Huh?"
 #
 <name "Lazlocke">
-「どうした？」
+"What's the matter?"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6111">
-「あ、いや、まだ、その……
-　もう少し、弱めで……お願いします」
+"Oh, um, I mean, well...
+ A little weaker... please."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
 <exit>
 :3388
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／火』
+-- Fire Proof --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6112">
-「心頭滅却すれば、火もまた涼し」
+"Clear your mind, and even fire will be cool."
 #
 <name "Lazlocke">
-「東方の諺だな」
+"A proverb from the East, right?"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6113">
-「はい。
-　火の魔法防御に関して、ピッタリな言葉だと思いま
-　して」
+"Yeah. I think it's a good saying for resisting
+ fire magic."
 #
 <name "Lazlocke">
-「ひょっとして……我慢すれば、火も大丈夫とかって
-　思ってるのか？」
+"You mean... If you can endure it, you're okay
+ being set on fire?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6114">
-「はい」
+"Yeah."
 #
 <name "Lazlocke">
-「意味が違うぞ」
+"I don't think that's what it means."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6115">
-「え？
-　そうなんですか？」
+"Huh?
+ It's not?"
 #
 <name "Lazlocke">
-「その諺は、どんな困難も乗り越えてしまえば、無
-　いも同然と言う意味だぞ」
+"The proverb means that with a clear head, you
+ can overcome any difficulty.
+ It's not meant to be taken literally."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6116">
-「…………」
+"..."
 #
 <name "Lazlocke">
-「主に、困難に立ち向かう時に使う」
+"Think of it when you're facing a challenge."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6117">
-「……………………」
+"........."
 #
 <name "Lazlocke">
-「今、まさに困難にぶつかってるな」
+"A challenge like right now."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6118">
-「し、心頭滅却すれば、火もまた涼し」
+"C-Clear your mind, and even fire will be cool."
 #
 <removesprite -1 11>
 <exit>
 :3768
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／水』
+-- Water Proof --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6119">
-「水の防御……
-　つまり、濡れても平気な服を着れば良いんですね」
+"Water defense...
+ Basically, you should wear clothes that you're
+ okay to get wet in."
 #
 <name "Lazlocke">
-「わかった。
-　じゃあ、水着でそこに立て」
+"All right.
+ Then let's have you practice in your bathing
+ suit."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6120">
-「すみません。
-　ちょっとした悪ふざけです」
+"I'm sorry. 
+ I was just joking around."
 #
 <removesprite -1 11>
 <exit>
 :38BB
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／風』
+-- Wind Proof --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6121">
-「風属性の魔法の攻撃から、身を守る……」
+"To protect yourself against magical wind
+ attacks..."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6122">
-「前傾姿勢で、風に対して押されないように頑張る
-　……とか？」
+"Lean forward so you don't get pushed by the
+ wind?
+ Like this?"
 #
 <name "Lazlocke">
-「自分の周りに風をまとわせて、威力を軽減するん
-　だ」
+"Surround yourself with wind, to decrease the 
+ strength instead."
 #
 <removesprite -1 11>
 <exit>
 :3A13
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／土』
+-- Earth Proof --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6123">
-「土属性の魔法の攻撃から、身を守る……」
+"To protect yourself from magical earth
+ attacks..."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6124">
-「タイミング良く、ジャンプするとか？」
+"Like timing it right and jumping?"
 #
 <name "Lazlocke">
-「よし、やってみせろ」
+"Okay. Let's see you try that."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6125">
-「すみませんでした」
+"Please no."
 #
 <removesprite -1 11>
 <exit>
 :3B7A
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／雷』
+-- Lightning Proof --
 #
 <name "Lazlocke">
-「雷系統の魔法を防御するコツは……
-　受け流す感じだな」
+"There's a trick to protecting yourself from
+ lightning magic.
+ It's like redirecting it."
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6126">
-「受け流す事ですか」
+"Redirecting it?"
 #
 <name "Lazlocke">
-「うむ。
-　雷は意外と操作しやすいからな」
+"Mmhmm.
+ Lightning is surprisingly easy to control."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6127">
-「でも、強力な雷の魔法は……」
+"But strong lightning magic..."
 #
 <name "Lazlocke">
-「当然、受け流すのも難しい。
-　練習あるのみだ」
+"Of course, that's harder to redirect.
+ That's what practice is for."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6128">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :3D66
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／闇』
+-- Dark Proof --
 #
 <name "Lazlocke">
-「闇属性の攻撃に対する防御は簡単だ。
-　明るくしている事だ」
+"Protecting against dark attacks is easy.
+ It's to be bright."
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6129">
-「えっと……光の魔法ですか？」
+"Um... like light magic?"
 #
 <name "Lazlocke">
-「いや、光の魔法を使う必要は無い。
-　闇の魔法は、相手の心の闇を増幅するからな」
+"No. There's no need for light magic.
+ Dark magic amplifies the darkness in the
+ target's heart."
 #
 <name "Lazlocke">
-「その対象となる自分の闇を小さくする為、明るく
-　いくわけだ」
+"To reduce the darkness inside you that it works
+ on, be bright."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6130">
-「その理屈ですと、底抜けに明るい人には闇系統の
-　魔法が効かないんですか？」
+"Does that mean that dark magic won't work on
+ someone who's super cheerful?"
 #
 <name "Lazlocke">
-「どんな人間でも、闇はある。
-　だから、闇の魔法を完全に防ぐ事は不可能だ」
+"There's darkness in everybody, so it's not 
+ possible to totally block dark magic."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6131">
-「むう……」
+"Hmm..."
 #
 <name "Lazlocke">
-「でも、威力は減らす事ができる。
-　頑張るように」
+"But you can reduce its effect.
+ With effort."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6132">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :409C
 <music 10>
 <background "bg004a0.iph" 11>
-『属性防御／光』
+-- Light Proof --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6133">
-「光属性の魔法の攻撃に対する防御は簡単ですよね」
+"Protecting yourself against light magic is
+ easy, right?"
 #
 <name "Lazlocke">
-「そうか？」
+"Is it?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6134">
-「はい、タイミング良く、目を瞑れば良いんですよ」
+"Yes. With the right timing, you just need to
+ close your eyes."
 #
 <name "Lazlocke">
-「……………………………………極意を掴んだな。
-　もう、教える事は無い」
+".........You've discovered the secret.
+ There's nothing left to teach you."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6135">
-「すみません。
-　冗談です。
-　だから、ちゃんと教えてください」
+"I'm sorry.
+ I was just kidding.
+ Please teach me the real way."
 #
 <removesprite -1 11>
 <exit>
