@@ -102,1389 +102,1419 @@
 :DD1
 <music 10>
 <background "bg004a0.iph" 11>
-『炎の矢』
+-- Flame Dart --
 #
 <name "Lazlocke">
-「火の魔法はお湯を沸かしたり、料理に使ったりと
-　生活に役立つ」
+"Fire magic can be useful for everyday life,
+ like for boiling water or baking."
 #
 <sprite "ta01a42.iph" 4 4 11>
 <name "Celes" "!AA6136">
-「……魔力の無駄使いです」
+"That's such a waste of mana."
 #
 <removesprite -1 11>
 <exit>
 :EAB
 <music 10>
 <background "bg004a0.iph" 11>
-『炸裂する炎』
+-- Fire Ball --
 #
 <name "Lazlocke">
-「炸裂する炎を上手く使えば、夜道を歩くのも怖く
-　ない」
+"If you're good with fire balls, you can walk
+ through the night without fear."
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6137">
-「使っている方は怖くないかもしれませんが、見て
-　いる方は恐怖だと思いますよ」
+"While you might not be afraid, anybody you
+ come across will be."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA6138">
-「炎が爆発しながら移動してるんですから」
+"Cause there will be fire balls flying 
+ everywhere you go."
 #
 <removesprite -1 11>
 <exit>
 :1013
 <music 26>
 <background "bg004a0.iph" 11>
-『爆裂する炎』
+-- Fire Burst --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6139">
-「爆裂する炎っ！」
+"Fire burst!"
 #
 <removesprite -1 11>
-　セリスは練習を続けていたが、なかなか上手くい
-　かないようだ。
+Celes has been practicing, but she's having a
+hard time of it.
 #
-　そこにソシエットがやってきて……
+Now Soshiette's trying to help.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1164">
-「別に火の魔法なんて出来なくても死にません」
+"It's not like it'll kill you to not learn fire
+ magic."
 #
 <name "Lazlocke">
-「うおいっ！」
+"Hey!"
 #
 <removesprite -1 11>
 <exit>
 :1193
 <music 26>
 <background "bg004a0.iph" 11>
-『焼き尽くす炎』
+-- Incinerate --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6140">
-「焼き尽くすー！」
+"Incinerate!"
 #
 <name "Lazlocke">
-「で、この丸コゲの料理が出来たと」
+"When you're cooking, just use the bellows."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6141">
-「すみません」
+"Sorry."
 #
 <removesprite -1 11>
 <exit>
 :128F
 <music 10>
 <background "bg004a0.iph" 11>
-『炎の陣』
+-- Fire Ring --
 #
 <name "Lazlocke">
-「自分の周囲を、炎の兵が守ってくれる感じだ」
+"It feels like I'm protected by a team of fire
+ soldiers."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6142">
-「なんだか、ファンタジックですね」
+"It sounds kind of fantastic."
 #
 <name "Lazlocke">
-「わはは……
-　魔法は常にファンタジックだ」
+"Hahaha!
+ Magic is always fantastic!"
 #
 <removesprite -1 11>
 <exit>
 :139B
 <music 10>
 <background "bg004a0.iph" 11>
-『炎の蛇』
+-- Flame Snake --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6143">
-「うーん、可愛くない」
+"Aww. It's not very cute."
 #
 <name "Lazlocke">
-「まあ、可愛い可愛くないの要素を入れる必要が無
-　いと思うが……」
+"Well, I'm not sure cuteness should really be
+ any part of this."
 #
 <removesprite -1 11>
 <exit>
 :1473
 <music 10>
 <background "bg004a0.iph" 11>
-『炎の壁』
+-- Fire Wall --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6144">
-「炎の壁を見てると、火事で燃えている家を想像し
-　てしまいます」
+"Looking at a wall of fire makes me think of a
+ house bursting into flame."
 #
 <name "Lazlocke">
-「火事は怖いな」
+"Fire can be scary."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6145">
-「はい。
-　火の用心です」
+"Yeah. Beware of fire."
 #
 <name "Lazlocke">
-「火の魔法を使いながら言われてもなぁ……」
+"So she says while practicing fire magic..."
 #
 <removesprite -1 11>
 <exit>
 :15CF
 <music 10>
 <background "bg004a0.iph" 11>
-『水弾』
+-- Aqua Shot --
 #
 <name "Lazlocke">
-「この魔法は、威力が弱いと本当に役立たずだから
-　な。
-　頑張って威力を上げるように」
+"This spell is completely useless if it's too
+ weak. Work hard to muster up the power you
+ need."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6146">
-「は、はい。
-　頑張ります」
+"Y-Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :16C1
 <music 10>
 <background "bg004a0.iph" 11>
-『水弾』
+-- Aqua Shot --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6147">
-「水をぶつけても、痛くないんじゃないですか？」
+"Does it really hurt to be hit with water?"
 #
 <name "Lazlocke">
-「ほう」
+"Oh?"
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA6148">
-「あ、いえ、別に実践で喰らいたいわけじゃありま
-　せん」
+"Oh, please no.
+ I don't want to practice getting hit by it."
 #
 <name "Lazlocke">
-「そうか、残念だ」
+"I see.
+ Too bad."
 #
 <removesprite -1 11>
 <exit>
 :1806
 <music 10>
 <background "bg004a0.iph" 11>
-『水弾』
+-- Aqua Shot --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6149">
-「水の硬さって解り難いですよね」
+"Water density is hard to understand."
 #
 <name "Lazlocke">
-「雨の日に走った時、顔に当たる痛さとか」
+"It's like the sting you feel on a rainy day of
+ the droplets hitting your face."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6150">
-「とても、解り難いです」
+"That's even harder to understand."
 #
 <removesprite -1 11>
 <exit>
 :1918
 <music 10>
 <background "bg002a0.iph" 11>
-『流れる水』
+-- Aqua Stream --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6151">
-「寒い地方では、流れる水も凍るそうですよ」
+"In cold lands, even flowing water can freeze."
 #
 <name "Lazlocke">
-「へー」
+"Oh?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6152">
-「それだけなんですけどね」
+"Um, that's all?"
 #
 <removesprite -1 11>
 <exit>
 :1A1A
 <music 10>
 <background "bg002a0.iph" 11>
-『凍てつく氷』
+-- Frozen Ice --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6153">
-「水が凍ると、大きくなりますよね」
+"Water gets bigger when it freezes."
 #
 <name "Lazlocke">
-「そうだな」
+"Indeed."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6154">
-「でも、溶かすと減るんですよね。
-　増えた分は、どこへ行ったんでしょうか？」
+"But then there's less of it when it melts.
+ Where does the extra water go?"
 #
 <name "Lazlocke">
-「元に戻っているだけだろ」
+"It just goes back to how it was before."
 #
 <removesprite -1 11>
 <exit>
 :1B79
 <music 10>
 <background "bg002a0.iph" 11>
-『激動の大河』
+-- Aqua Flood --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6155">
-「大河が激動したら、色々な人に迷惑が掛かります
-　よね」
+"When a big river floods, it causes a lot of
+ problems for lots of people, right?"
 #
 <name "Lazlocke">
-「そうだな」
+"That's right."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6156">
-「あの、それがどうしたって感じで答えられても困
-　るんですが……」
+"Um, I'm not sure how to respond when you 
+ answer like that."
 #
 <name "Lazlocke">
-「そう言われても俺が困る」
+"I don't have a good response either."
 #
 <removesprite -1 11>
 <exit>
 :1CE5
 <music 10>
 <background "bg002a0.iph" 11>
-『砕け散る氷河』
+-- Glaciar Smash --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6157">
-「師匠。
-　質問なんですが、私達の服って魔法である程度の
-　防寒防暖仕様になっているじゃないですか？」
+"Master, I have a question.
+ Our clothes are magic, keep us warm, and 
+ protect us from the cold, right?"
 #
 <name "Lazlocke">
-「ああ、そうだぞ」
+"Yes. That's right."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6158">
-「これで、水や火の魔法の威力を減らす事は出来な
-　いんですか？」
+"Then won't they reduce the strength of water 
+ and fire magic?"
 #
 <name "Lazlocke">
-「ジワリとくる寒さや暑さは防ぐが、ガツンとくる
-　寒さや暑さは防げないんだ」
+"They insulate us against gradual changes in
+ temperature. They can't block sudden changes."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6159">
-「と言いますと……」
+"Meaning..."
 #
 <name "Lazlocke">
-「火で例えるなら……直火は無理」
+"With fire, for example... don't put them
+ against an open flame."
 #
 <removesprite -1 11>
 <exit>
 :1F34
 <music 10>
 <background "bg002a0.iph" 11>
-『歓喜の雨』
+-- Blessed Rain --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6162">
-「日照り続きで泣きそうになっている畑仕事の人達
-　を喜ばせる雨ですか？」
+"Do they call it blessed rain because it makes
+ the field workers happy during a drought?"
 #
 <name "Lazlocke">
-「えっとだな」
+"Uh, well..."
 #
 <removesprite -1 11>
-　俺はセリスを正座させ、細かく説明してやった。
+I sit her down and set her straight.
 #
 <exit>
 :203E
 <music 10>
 <background "bg002a0.iph" 11>
-『嘆きの泉』
+-- Wailing Well --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6161">
-「嘆きの泉と言えば……
-　どこかの観光名所でしたっけ？」
+"I've heard of the wailing well.
+ Isn't it a tourist attraction somewhere?"
 #
 <name "Lazlocke">
-「いや、まったく違うから」
+"No, this is completely different."
 #
 <removesprite -1 11>
 <exit>
 :2112
 <music 10>
 <background "bg004a0.iph" 11>
-『氷の壁』
+-- Ice Wall --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6163">
-「氷の壁っ！
-　……出来た！」
+"Ice wall!
+ I did it!"
 #
 <name "Lazlocke">
-「出来たが……小さいな。
-　姿が隠れてないぞ」
+"You did, but it's kind of small.
+ That won't protect you."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6164">
-「これから頑張って大きくしていきます」
+"I'll try harder to make it bigger."
 #
 <removesprite -1 11>
 <exit>
 :223A
 <music 10>
 <background "bg004a0.iph" 11>
-『氷の壁』
+-- Ice Wall --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6165">
-「氷の壁っ！」
+"Ice wall!"
 #
 <sprite "ta01a18.iph" 4 4 12>
 <name "Celes" "!AA6166">
-「……うーん、冷たくて気持ち良い」
+"Mmm. It's so nice and cold."
 #
 <name "Lazlocke">
-「夏場は重宝するなぁ」
+"It's useful in the summer."
 #
 <removesprite -1 11>
 <exit>
 :2334
 <music 10>
 <background "bg004a0.iph" 11>
-『切り裂く風』
+-- Air Cutter --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6167">
-「風で物が裂けるなんて、不思議ですね」
+"It's curious how the wind can cut things."
 #
 <name "Lazlocke">
-「そうでもないぞ。
-　自然にも時々、発生していてだな。
-　ええと……シックルウィーゼルだったかな？」
+"Not really.
+ It happens naturally sometimes.
+ Um, sickle weasels I think they're called?"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6168">
-「良く解りません」
+"I have no idea what you're talking about."
 #
 <name "Lazlocke">
-「すまん。
-　俺も勉強不足だ。
-　だが、風が物を裂くのは珍しくないと覚えておこ
-　う」
+"Sorry.
+ I haven't studied it either, but do remember
+ that it's not uncommon for wind to shear
+ things."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6169">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :2532
 <music 10>
 <background "bg004a0.iph" 11>
-『追跡する風』
+-- Air Chaser --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6170">
-「これって、逃げた方向に不幸がやって来るってヤ
-　ツですか？」
+"Is this like misfortune that chases you from
+ the path you left behind?"
 #
 <name "Lazlocke">
-「違う。
-　あと、ちゃんと魔法で追いかけるから」
+"No. It chases you because of magic."
 #
 <removesprite -1 11>
 <exit>
 :2625
 <music 10>
 <background "bg004a0.iph" 11>
-『弾ける風』
+-- Air Shot --
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA6171">
-「パッチンパッチン♪」
+"Ding.♪ Ding.♪"
 #
 <name "Lazlocke">
-「楽しそうだな」
+"You seem like you're enjoying yourself."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6172">
-「はい。
-　風の魔法って、楽器が無くても音楽を奏でられる
-　んですね」
+"Yep.
+ With wind magic, you can play music even
+ without an instrument."
 #
 <name "Lazlocke">
-「本来の使い方とは違うがな……」
+"That's not what this spell is used for..."
 #
 <removesprite -1 11>
-　音階を作るのも技術が必要だから、見逃そう。
+It takes skill to play a tune though, so I can
+overlook this.
 #
 <exit>
 :27AB
 <music 10>
 <background "bg001a0.iph" 11>
-『荒れ狂う風』
+-- Raging Wind --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6173">
-「師匠」
+"Master."
 #
 <name "Lazlocke">
-「なんだ？」
+"Yes?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6174">
-「荒れ狂う風って、竜巻みたいなものですよね」
+"The raging wind spell is like a tornado,
+ right?"
 #
 <name "Lazlocke">
-「そうだな」
+"That's right."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6175">
-「じゃあ、あそこにある竜巻は師匠の魔法ですか？」
+"Then is that tornado over there your spell?"
 #
 <name "Lazlocke">
-「使った覚えは無いな」
+"I didn't cast it."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「あれ？
-　セリス？」
+"Huh?
+ Celes?"
 #
 <name "Celes" "!AA6177">
-「師匠、逃げてー」
+"Master!
+ Run away!"
 #
-　セリスは振り返りもせず、声だけを置いて一目散
-　に逃げた。
+She yells back at me without even turning
+around.
 #
-　後で怒ろう。
+I'll be mad at her later.
 #
-　そう心に決めながら、俺は目の前の竜巻から逃走
-　を開始した。
+Right now, I need to get the hell away from the
+tornado right in front of me.
 #
 <exit>
 :2A35
 <music 10>
 <background "bg002a0.iph" 11>
-『嵐』
+-- Tempest --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6178">
-「嵐、嵐、嵐、嵐、嵐、嵐、嵐！」
+"Tempesttempesttempesttempesttempesttempest
+ tempest!"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6179">
-「さて、私は嵐を何回言ったでしょうか？」
+"Okay, how many times did I say tempest?"
 #
 <name "Lazlocke">
-「七回」
+"Seven."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6180">
-「もう、どうして当てるんですか……」
+"Geez. How can you tell?"
 #
 <removesprite -1 11>
 <sprite "ta04a87.iph" 4 4 11>
 <name "Soshiette" "!DA1165">
-「空気を読んでません」
+"An innate inability to read the air."
 #
 <name "Lazlocke">
-「え、俺、怒られるの？」
+"Huh? Are you mad at me?"
 #
 <removesprite -1 11>
 <exit>
 :2C13
 <music 10>
 <background "bg002a0.iph" 11>
-『嵐』
+-- Tempest --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6181">
-「嵐、嵐、嵐、嵐、嵐、嵐！
-　さて、私は嵐を何回言ったでしょうか？」
+"Tempesttempesttempesttempesttempesttempest!
+ Okay, how many times did I say tempest?"
 #
 <removesprite -1 11>
-　……
+...
 #
-　正解は六回だが……
+The correct answer is six.
 #
-　前に正解を言って、空気を読んでないと怒られた。
+But they said I couldn't read the air and got
+mad when I said the correct answer last time.
 #
-　俺は学習できる男だ。
+I'm a man who can learn.
 #
 <name "Lazlocke">
-「七回」
+"Seven times."
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA6182">
-「残念！
-　六回でした！」
+"Too bad!
+ It was six!"
 #
 <name "Lazlocke">
-「し、しまった！」
+"D-Dang!"
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1166">
-「では、罰ゲームです。
-　魔法の実験台になってください」
+"Well then, a punishment for the loser.
+ You'll be the subject of a magical experiment."
 #
 <name "Lazlocke">
-「おいっ！
-　空気を読んだ結果がこれか！」
+"Hey!
+ This is what I get for reading the air?"
 #
 <sprite "ta04a11.iph" 4 4 12>
 <name "Soshiette" "!DA1167">
-「罰ゲームは罰ゲームです」
+"A loser is a loser."
 #
 <removesprite -1 11>
 <sprite "ta01a17.iph" 2 5 11>
 <sprite "ta04a11.iph" 6 4 11>
 <name "Celes" "!AA6183">
-「ささ、こちらに」
+"Come on. Over here."
 #
 <removesprite -1 11>
-　俺は魔法の実験台として、有効に活用された。
+I get used as a target, thoroughly.
 #
-　酷い……
+They're horrible...
 #
 <exit>
 :2F88
 <music 10>
 <background "bg002a0.iph" 11>
-『重き風』
+-- Air Press --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6186">
-「風が重くなっても、大した事は無いと思います」
+"It doesn't seem like that big a deal for air
+ to become heavy."
 #
 <name "Lazlocke">
-「風の力を馬鹿にしてはいけない。
-　使い方次第では、人ぐらい潰せてしまうぞ」
+"Don't look down on the strength of air.
+ If you use it well, you can crush someone with
+ it."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6187">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「ああ。
-　俺は無理だが……
-　ヴィオラならやれるかもしれないな」
+"Yeah. I can't do it, but I think Viola might be
+ able to."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6188">
-「…………風も馬鹿にできませんね」
+"...I better not underestimate air, huh?"
 #
 <name "Lazlocke">
-「うむ」
+"Mmhmm."
 #
 <removesprite -1 11>
 <exit>
 :3192
 <music 10>
 <background "bg002a0.iph" 11>
-『重き風』
+-- Wind Press --
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA6189">
-「重き風……
-　ダイエット中の人に掛けると、すっごくダメージ
-　がありそうですよね」
+"Wind press...
+ You could do a lot of damage if you use it on
+ someone who's trying to diet."
 #
 <name "Lazlocke">
-「多分、その相手からの反撃はすごい一撃になるか
-　ら止めておきなさい」
+"I think the counterattack you'd suffer would be
+ ten times the damage you did.
+ Let's not."
 #
 <removesprite -1 11>
 <exit>
 :32AE
 <music 10>
 <background "bg004a0.iph" 11>
-『背中を押す風』
+-- Tailwind --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6193">
-「背中を押す風」
+"Tailwind!"
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA6194">
-「凄い速さで走れるっ！」
+"I can run super fast!"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「おおっ…………あ、あー……
-　すっごい勢いで転んだ」
+"Ooh... O-Oh...
+ And fall down super hard."
 #
 <name "Lazlocke">
-「大丈夫か？」
+"Are you okay?"
 #
 <sprite "ta01a42.iph" 4 4 11>
 <name "Celes" "!AA6195">
-「うう、痛かったです」
+"Oww.
+ It hurts."
 #
 <removesprite -1 11>
 <exit>
 :343F
 <music 10>
 <background "bg004a0.iph" 11>
-『飛行』
+-- Flight --
 #
-　セリスは飛ぶ練習をしていた。
+Celes is practicing flying.
 #
 <music 26>
 <background "ev027a0.iph" 10>
 <name "Celes" "!AA6196">
-「こ、こんな感じですか？」
+"L-Like this?"
 #
 <name "Lazlocke">
-「よし、浮いている。
-　良い感じだぞ」
+"Okay, you're floating.
+ That looks good."
 #
 <name "Celes" "!AA6197">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Lazlocke">
-「そのまま、意識を集中して高度を上げろ」
+"Now concentrate and try to rise higher."
 #
 <name "Celes" "!AA6198">
-「頑張ります」
+"I'll try."
 #
 <background "ev027a1.iph" 10>
-　セリスの身体が少しづつ上昇していく。
+She rises up, little by little.
 #
-　そして、ある程度まで上がった所で落ちてきた。
+And then falls right back down.
 #
 <background "ev027a0.iph" 10>
 <name "Celes" "!AA6199">
-「……げ、限界です」
+"...T-That's all I can do."
 #
 <name "Lazlocke">
-「まあ、まだこんなものかな。
-　降りて良いぞ」
+"Well, you've got a ways to go.
+ You can come down."
 #
 <name "Celes" "!AA6200">
-「は、はい。
-　あの……ホウキとか絨毯は使わせてくれないんで
-　すか？」
+"Y-Yes, sir."
+ Um, can't I use like a broom or a carpet to
+ fly?"
 #
 <name "Lazlocke">
-「それは、もう少し上手くなってからだ」
+"Maybe after you've gotten a little better."
 #
 <name "Celes" "!AA6201">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「道具に魔法を掛けて空を飛ぶのと、自分が空を飛
-　ぶではどちらが難度が高いと思うんだ？」
+"Which sounds harder? Using magic on yourself
+ to fly, or using magic on an external object
+ and flying with that?"
 #
 <name "Celes" "!AA6202">
-「…………道具に魔法を掛ける方が難しそうです」
+"...Using magic on an object sounds harder."
 #
 <name "Lazlocke">
-「だろう」
+"Right?"
 #
 <name "Lazlocke">
-「まあ、素で飛んでると格好が悪いとか、女の子は
-　スカートの中を見られるとかの理由で、道具を使
-　い始めるんだけどな」
+"Well, flying on your own can have issues too.
+ For girls, people can see up your skirts.
+ That's how using things to help you fly got
+ started."
 #
 <name "Celes" "!AA6203">
-「そうなんですか」
+"Oh, really?"
 #
 <name "Lazlocke">
-「そうなんだ。
-　普通に飛んで移動しているとき、結構、ポーズと
-　かに困るんだ」
+"Yeah. Even just flying normally, it's stressful
+ to stay in one pose."
 #
 <name "Celes" "!AA6204">
-「はぁ、そうですか」
+"Oh, I see."
 #
 <name "Lazlocke">
-「ともかく、今は自力で飛ぶ練習あるのみ。
-　寝てても空を飛べるように頑張れ」
+"Anyway, keep practicing making just your body
+ fly. Try to be able to fly even in your sleep."
 #
 <name "Celes" "!AA6205">
-「が、頑張ります」
+"I-I'll do my best."
 #
 <name "Lazlocke">
-「あ、あと、注意だが……
-　この魔法は詠唱に時間が掛かるから、戦闘中は使
-　えない」
+"Oh, and word of warning.
+ It takes a while to cast this spell, so you
+ can't use it in battle."
 #
 <name "Lazlocke">
-「それと、主要な場所には飛行封じがあるから、気
-　を付けろ」
+"And important places will have seals against
+ flying magic, so be careful of that."
 #
 <name "Celes" "!AA6206">
-「主要な場所って、どこですか？」
+"Important places?
+ Like where?"
 #
 <name "Lazlocke">
-「色々あるが……城とか塔だな。
-　存在が飛行封じになっているから、飛んで近付こ
-　うとすると落ちるぞ」
+"Lots. Castles and towers, for example.
+ You can't fly near them, so if you get close,
+ you'll fall."
 #
 <name "Celes" "!AA6207">
-「き、気をつけます」
+"I-I'll be careful."
 #
 <name "Lazlocke">
-「それがいい。
-　まあ、この魔法は移動用と割り切る事だ」
+"Good plan.
+ Well, it's a useful spell for traveling."
 #
 <name "Celes" "!AA6208">
-「はい」
+"Yep."
 #
-【セリスの行動範囲が広がった】
+-- Celes's range of activities has expanded --
 #
 <exit>
 :3BF0
 <music 26>
 <background "bg004a0.iph" 11>
-『飛行』
+-- Flight --
 #
 <background "ev027a1.iph" 10>
 <name "Celes" "!AA6209">
-「上がりまーす」
+"Up I go!"
 #
 <background "ev027a0.iph" 10>
 <name "Celes" "!AA6210">
-「下がりまーす」
+"Down I come."
 #
 <name "Lazlocke">
-「おお、自由自在だな」
+"Ooh. You've mastered it."
 #
 <name "Celes" "!AA6211">
-「はい。
-　なんだかこの魔法とは、相性が良いみたいです」
+"Yep. I feel like I just have a knack for it."
 #
 <name "Lazlocke">
-「いやいや、相性だけでこの魔法をそこまで使いこ
-　なせたりしないぞ。
-　ベテラン魔法使いでも、使えないヤツも居るぐら
-　いなのに」
+"No way. You can't master flying magic just by
+ having a knack for it.
+ Even some expert wizards can't use it."
 #
 <name "Celes" "!AA6212">
-「そうなんですか？」
+"Really?"
 #
 <name "Lazlocke">
-「ああ、大したものだ」
+"Yeah. It's impressive."
 #
 <name "Celes" "!AA6213">
-「えへへ……
-　でも、この魔法、戦闘中とかに使えないんですよ
-　ね」
+"Hahaha...
+ But you can't use the spell while fighting,
+ right?"
 #
 <name "Lazlocke">
-「発動に時間が掛かるからな」
+"It takes too long to cast."
 #
 <name "Celes" "!AA6214">
-「一気に塔とかに登れちゃうかなと思ったんですけ
-　ど……」
+"I was hoping I could rocket straight up a
+ tower."
 #
 <name "Lazlocke">
-「飛行封じがあるからな」
+"That's why flying magic is sealed."
 #
 <name "Celes" "!AA6215">
-「街中で飛ぶ事は禁止ですし……」
+"And flying over the city is forbidden."
 #
 <name "Lazlocke">
-「協会がそう言ってるからな」
+"Guild rules."
 #
 <name "Celes" "!AA6216">
-「残念です」
+"It's a shame."
 #
-【セリスの行動範囲が広がった】
+-- Celes's range of activities has expanded --
 #
 <exit>
 :3F9C
 <music 10>
 <background "bg004a0.iph" 11>
-『襲う土の槍』
+-- Stalagmite --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6217">
-「地面からニョキニョキと土の槍が伸びますね」
+"This makes rock spears come shooting up from
+ the ground?"
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6218">
-「タケノコみたいです」
+"Like bamboo."
 #
 <name "Lazlocke">
-「思っても、口にしないように」
+"You can think that, but don't say it."
 #
 <removesprite -1 11>
 <exit>
 :40CE
 <music 10>
 <background "bg004a0.iph" 11>
-『震える大地』
+-- Rock Shaker --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6219">
-「震える大地って、要は地震の事ですよね」
+"Rock shaker is basically an earthquake, right?"
 #
 <name "Lazlocke">
-「そうだな」
+"That's right."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6220">
-「なぜ、素直に地震と言わないんですか？」
+"Why don't they just call it earthquake?"
 #
 <name "Lazlocke">
-「そりゃ、唱えた時の格好良さじゃないか」
+"Why don't you try hearing how each sounds?"
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA6221">
-「地震っ！」
+"Earthquake!"
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA6222">
-「震える大地っ！」
+"Rock shaker!"
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6223">
-「……む、確かに」
+"Hmm. You have a point."
 #
 <removesprite -1 11>
 <exit>
 :42EB
 <music 10>
 <background "bg004a0.iph" 11>
-『暴れる大地』
+-- Rock Rage --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6225">
-「この暴れる大地を上手く使えば、子供が喜ぶ遊具
-　を作れそうですよね」
+"I bet if you master this spell, you could use
+ it to make a fun playground thing for kids."
 #
 <name "Lazlocke">
-「前にやった事があるが、泣き叫んだぞ」
+"I've tried that.
+ They cried."
 #
 <removesprite -1 11>
 <exit>
 :43DB
 <music 10>
 <background "bg004a0.iph" 11>
-『遮る土の壁』
+-- Earth Wall --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6226">
-「遮る土の壁っ！」
+"Earth wall!"
 #
 <name "Lazlocke">
-「なかなか見事だな」
+"Pretty impressive."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6227">
-「はい。
-　ところで師匠」
+"Yep.
+ By the way, Master..."
 #
 <name "Lazlocke">
-「なんだ？」
+"Yes?"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6228">
-「この魔法で家を建てるのは無理ですか？」
+"Is it really not possible to use this spell
+ to build a house?"
 #
 <name "Lazlocke">
-「無理だ」
+"Not possible."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6229">
-「……残念」
+"...Too bad."
 #
 <removesprite -1 11>
 <exit>
 :45AC
 <music 10>
 <background "bg004a0.iph" 11>
-『繋ぎとめる泥』
+-- Mud Bind --
 #
 <name "Lazlocke">
-「相手の足元を崩し、動きを鈍らせる魔法だ」
+"This spell grabs your opponent's feet and
+ slows them down."
 #
 <name "Lazlocke">
-「飛んでいる相手には効かないので、注意するよう
-　に」
+"It won't work against flyers.
+ Remember that."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6230">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :46AC
 <music 10>
 <background "bg004a0.iph" 11>
-『繋ぎとめる泥』
+-- Mud Bind --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6231">
-「若い男が一人、また一人と街に出掛けていきます。
-　村には年老いた者ばかり」
+"One after another, every young person left the
+ village. Only old people were going to be
+ left."
 #
 <sprite "ta01a34.iph" 4 4 12>
 <name "Celes" "!AA6232">
-「このままでは村はおしまいだ。
-　なんとかしなきゃ」
+"If that kept up, it'd be the end of the
+ village.
+ They had to do something."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6233">
-「年老いた者達が考えに考え抜いた魔法。
-　それが……繋ぎとめる泥」
+"The old people came up with a spell.
+ That's... where mud bind comes from."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6234">
-「と言う結論を出してみました」
+"That's the moral of the story."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
 <exit>
 :48BB
 <music 10>
 <background "bg004a0.iph" 11>
-『溺れる泥の沼』
+-- Drowning Marsh --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6235">
-「泥で溺れると、本当に大変ですよ」
+"Being trapped in a marsh is very dangerous."
 #
 <name "Lazlocke">
-「前に溺れた事があるのか？」
+"You speak from experience?"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6236">
-「はい。
-　生死の境を思いっきり、彷徨いました。
-　泥の沼は恐ろしいです。
-　それを魔法で……」
+"Yeah. I felt like I was trapped on the border
+ between life and death.
+ Marsh mud is terrifying.
+ And there's a spell for it..."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6237">
-「ああ、魔法って恐ろしい」
+"Ooh... Magic is so scary."
 #
 <removesprite -1 11>
 <exit>
 :4A65
 <music 10>
 <background "bg004a0.iph" 11>
-『肉体強化』
+-- Body Enhance --
 #
 <name "Lazlocke">
-「魔法によって肉体を一時的に強化し、戦闘を優位
-　に進める」
+"Temporarily enhance your body with magic and
+ seize the advantage in battle."
 #
 <sprite "ta01a97.iph" 4 4 11>
 <name "Celes" "!AA6238">
-「エッチな行為の時もですか？」
+"And during sex too?"
 #
 <name "Lazlocke">
-「つ、使った事は無いぞ」
+"I-I've never done that."
 #
 <removesprite -1 11>
 <exit>
 :4B6B
 <music 10>
 <background "bg004a0.iph" 11>
-『魔力強化』
+-- Magic Enahnce --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6239">
-「魔力を活用して魔力を高める……」
+"Use mana to empower your mana..."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6240">
-「なんだか変な感じですね」
+"It feels kind of weird."
 #
 <name "Lazlocke">
-「自分の体内にある魔力を整え、魔法として使いや
-　すくすると思えば良い」
+"Just think about it like preparing the mana
+ inside you to be easier to use."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6241">
-「なるほど」
+"I see."
 #
 <removesprite -1 11>
 <exit>
 :4CE7
 <music 10>
 <background "bg004a0.iph" 11>
-『治癒の魔法』
+-- Healing Magic --
 #
 <name "Lazlocke">
-「治癒のイメージは、時間を進める感じだと覚える
-　ように」
+"When you think about healing magic, think about
+ time advancing."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6244">
-「はい。
-　だから、時間を進めても治らない症状には効かな
-　いんですね」
+"Okay. So it won't work for things that won't
+ heal over time?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <sprite "ta01a61.iph" 4 4 12>
 <name "Celes" "!AA6243">
-「でも、エロい行為の体力回復には使えると……」
+"But it can be used to recover from sex..."
 #
 <name "Lazlocke">
-「行為中は良いが、後でかなり疲れるのでやらない
-　ように」
+"It works in the moment, but you'll be really
+ worn out later if you do."
 #
 <removesprite -1 11>
 <exit>
 :4EBB
 <music 10>
 <background "bg004a0.iph" 11>
-『治癒の魔法』
+-- Healing Magic --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6245">
-「治癒の魔法を使いこなせば、街の人とかすっごく
-　助かるんじゃないですか？」
+"If I can master healing magic, wouldn't I be
+ able to help tons of people in the city?"
 #
 <name "Lazlocke">
-「万能ではないがな。
-　一応、協会がそういった組織を作って頑張ってい
-　る」
+"It's not all powerful.
+ Also, the Guild's already working on creating
+ an organization for that."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6246">
-「おお」
+"Ooh."
 #
 <name "Lazlocke">
-「数少ない有益な事業だ」
+"One of its very few samaritan purposes."
 #
 <removesprite -1 11>
 <exit>
 :5040
 <music 10>
 <background "bg004a0.iph" 11>
-『再生の魔法』
+-- Regeneration --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6247">
-「再生と言うと、トカゲの切れた尻尾がまた生える
-　みたいな感じ……」
+"Regeneration is like a lizard's tail regrowing
+ after it's cut off..."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6248">
-「つまり、腕を落とした場合はその腕が生えると？」
+"So would you grow a new arm if it's cut off?"
 #
 <name "Lazlocke">
-「それは無理だ」
+"Not possible."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6249">
-「そうなんですか？」
+"It's not?"
 #
 <name "Lazlocke">
-「魔法でも限界はある。
-　落とされた腕を戻したいなら、その落とされた腕
-　が必要となる」
+"Magic has its limits.
+ If you want your severed arm back, you'll need
+ a severed arm."
 #
 <name "Lazlocke">
-「そうしてくっついたとしても、元通りの働きをす
-　る事は難しい」
+"And even if you get it stuck back on, it's
+ probably not going to be as good as before."
 #
 <name "Lazlocke">
-「魔法は便利に思えるかもしれないが、その限界を
-　間違えないように」
+"Magic may seem all powerful, but don't forget
+ that it has its limits."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6250">
-「わかりました」
+"All right."
 #
 <removesprite -1 11>
 <exit>
 :5321
 <music 10>
 <background "bg004a0.iph" 11>
-『雷撃』
+-- Shock --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1168">
-「はい！
-　はいです！
-　ご主人様！」
+"Yes!
+ Over here!
+ Your Grace!"
 #
 <name "Lazlocke">
-「どうしたんだ？」
+"What is it?"
 #
 <sprite "ta04a07.iph" 4 4 12>
 <name "Soshiette" "!DA1169">
-「雷系の魔法ならこの私にお任せ願えませんか！」
+"If it's lightning magic, can you please leave
+ it to me!?"
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1170">
-「是非、是非に！」
+"Please!
+ Please!"
 #
 <name "Lazlocke">
-「そこまで言っても駄目だ！」
+"That's all the more reason not to!"
 #
 <sprite "ta04a23.iph" 4 4 12>
 <name "Soshiette" "!DA1171">
-「何故ですか！」
+"Why not!?"
 #
 <name "Lazlocke">
-「魔法もお前に任せ始めたら、俺の立場が危なくな
-　るだろう！」
+"If I start leaving the magic to you, where
+ does that leave me!?"
 #
 <sprite "ta04a25.iph" 4 4 12>
 <name "Soshiette" "!DA1173">
-「ご主人様にはエッチな事をして魔力を与えると言
-　う大事な使命があるじゃないですか！」
+"You have the very important job of giving her
+ mana by having sex!"
 #
 <name "Lazlocke">
-「うおいっ！
-　機密事項を叫ぶな！」
+"Aaaah!
+ Don't shout top secret things!"
 #
 <removesprite -1 11>
 <exit>
 :561D
 <music 10>
 <background "bg004a0.iph" 11>
-『雷撃』
+-- Shock --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6251">
-「うわっ、ビ、ビリッとしました」
+"Aaah. I-It's shocking."
 #
 <name "Lazlocke">
-「まあ、そういった魔法だからな……」
+"Well, that's the kind of spell it is."
 #
 <name "Lazlocke">
-「ちなみに、低威力でエロ行為に使うとだな……」
+"By the way, at low power, you can use it during
+ sex."
 #
 <sprite "ta01a19.iph" 4 4 12>
 <name "Celes" "!AA6252">
-「凄い威力、ちゃんと使いこなさないと」
+"I've got to master it to use it at full
+ strength."
 #
 <name "Lazlocke">
-「無視された……」
+"...Totally ignored..."
 #
 <removesprite -1 11>
 <exit>
 :579D
 <music 10>
 <background "bg004a0.iph" 11>
-『雷球』
+-- Lightning Ball --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6253">
-「雷の玉……室内の明かりみたいな感じですか？」
+"Lightning ball...
+ It looks like of like a lamp, doesn't it?"
 #
 <name "Lazlocke">
-「あれは光系の魔法」
+"Those are light magic."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6254">
-「どう違うんですか？」
+"There's a difference?"
 #
 <name "Lazlocke">
-「………………………………………………」
+".................."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6255">
-「どう違うんですか？」
+"There's a difference?"
 #
 <name "Lazlocke">
-「……あ、あれだ。
-　ほら、雷系はビリッて音がするじゃないか」
+"...Y-Yes.
+ You know how lightning has a peculiar sound?"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6256">
-「な、なるほど」
+"O-Oh, I see."
 #
 <removesprite -1 11>
-　あ、危なかった。
+T-That could've been dangerous.
 #
 <exit>
 :59D8
 <music 10>
 <background "bg004a0.iph" 11>
-『雷電』
+-- Lightning --
 #
 <name "Lazlocke">
-「雷も電も共に、稲妻、カミナリの事だ」
+"Whether you call it lightning or electricity,
+ it's electrical."
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6257">
-「ビリビリがいっぱいって感じですね」
+"They all sound full of zappiness."
 #
 <name "Lazlocke">
-「まあ、それなりの年齢の女性が、雷をビリビリと
-　表現するのはどうなんだろう、と言う話は置いて
-　おいて、ビリビリがいっぱいなんだ」
+"Well, I think once you're at a certain age,
+ you tend to think of it more as crackling
+ than zappy, but yes, it's very full of 
+ zappiness."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6258">
-「良いじゃないですか。
-　ビリビリで。
-　可愛いと思います」
+"Either way seems fine.
+ Zappy.
+ I think it's cute."
 #
 <removesprite -1 11>
 <exit>
 :5BAA
 <music 10>
 <background "bg004a0.iph" 11>
-『雷王』
+-- Thor's Hammer --
 #
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1175">
-「雷の王様のような感じで！」
+"Feel like the lord of lightning!"
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6259">
-「ビリビリビリ……」
+"Zappy zappy..."
 #
 <removesprite -1 11>
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1176">
-「もっと格調高く！
-　動きもシャープに！」
+"Bigger! Mightier!
+ And move sharper!"
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6260">
-「ビリビリビリーン」
+"Zappy! Zappy!"
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Soshiette" "!DA1179">
-「素晴らしい。
-　その調子です」
+"Splendid.
+ That's the way."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「ビリビリと口で言いながら、変なダンスをする意
-　味ってなんだ？」
+"What was the point of that weird dance and
+ saying zappy out loud?"
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA1178">
-「何事も、形から入るんです」
+"Form calls function."
 #
 <removesprite -1 11>
 <exit>
 :5E89
 <music 10>
 <background "bg004a0.iph" 11>
-『雷帝』
+-- Zeus's Rage --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6263">
-「ビリッてしたぁ……」
+"I got shocked..."
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
 <name "Soshiette" "!DA1180">
-「雷系の魔法の宿命です」
+"That's the fate of lightning magic users."
 #
 <sprite "ta01a48.iph" 2 5 12>
 <name "Celes" "!AA6262">
-「でも、なんだか気持ちが良いかも……」
+"But it kinda felt good..."
 #
 <sprite "ta04a29.iph" 6 4 12>
 <name "Soshiette" "!DA1181">
-「それは危険な方向です。
-　戻って来てください」
+"That is a dangerous path.
+ Please come back."
 #
 <removesprite -1 11>
 <exit>
 :6049
 <music 10>
 <background "bg004a0.iph" 11>
-『雷龍』
+-- Lightning Dragon --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6264">
-「召喚魔法じゃないですよね」
+"It's not a summoning spell, right?"
 #
 <name "Lazlocke">
-「ああ、雷龍の如き威力で名付けられた」
+"Yeah. It's named for having the power of a
+ lightning dragon."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6265">
-「前から思っていましたが、魔法の名前って誰が付
-　けたんですか？」
+"I've been wondering.
+ Who comes up with the spell names?"
 #
 <name "Lazlocke">
-「最初に編み出した魔法使いだろうな」
+"Probably the first wizards who used them."
 #
 <name "Lazlocke">
-「まあ、一つの魔法でも複数の呼び方があるから、
-　呼びやすいように言えば良いんじゃないか？」
+"Well, there's multiple different names for a
+ lot of spells, even if they're identical.
+ Just call it whatever feels right."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6266">
-「考えておきます」
+"I'll think about it."
 #
 <removesprite -1 11>
 <exit>
 :626C
 <music 10>
 <background "bg004a0.iph" 11>
-『雷歩』
+-- Flash Step --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6267">
-「雷のような速さで……歩く！」
+"At lightning speed... walk!"
 #
 <name "Lazlocke">
-「良い感じだな」
+"Sounds good."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6268">
-「はい。
-　これで、街の中での移動も楽になるかと」
+"Yeah.
+ This'll make it easier to move around the
+ city, right?"
 #
 <name "Lazlocke">
-「なるほど。
-　しかし、持久力のある魔法じゃないから、街中で
-　の移動には向いていないと思うぞ」
+"Indeed, but it's not a spell that increases
+ your stamina, so I'm not sure it's great for
+ city travel."
 #
 <name "Lazlocke">
-「あと、街中で楽に移動したいからなんて理由で魔
-　法を使ったら、協会から何を言われるか……」
+"Also, I'm pretty sure the Guild would have
+ something to say if someone wanted to use 
+ magic to flit here and there around the city."
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA6269">
-「バレなければ良いと、ソシエットさんが……」
+"Soshiette said it's fine as long as they don't
+ find out."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　とりあえず、セリスとソシエットを怒っておいた。
+I yell at both of them later.
 #
 <exit>
 :6511
 <music 10>
 <background "bg004a0.iph" 11>
-『雷歩』
+-- Flash Step --
 #
 <name "Lazlocke">
-「うーん……」
+"Hmmm..."
 #
-　ソシエットとセリスが模擬戦をやっているが、お
-　互いが高度な雷歩を使っているので、まるっきり
-　見えない。
+Soshiette and Celes are sparring, but they're
+both using flash step at a high level, so I
+can't really see anything that's going on.
 #
 <name "Lazlocke">
-「うーん……スローにする魔法を掛けてやろうか」
+"Hmmm... Maybe I should cast a spell to slow
+ them down."
 #
 <exit>
 \x78
