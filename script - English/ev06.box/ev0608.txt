@@ -46,101 +46,104 @@
 :659
 <music 10>
 <background "bg004a0.iph" 11>
-『闇の槍』
+-- Dark Spear --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6270">
-「なんだか、投げ易いですね」
+"It kind of feels easy to throw."
 #
 <name "Lazlocke">
-「闇の槍は、相手を倒そうとする意思がそのまま力
-　に変わるからな」
+"Dark spear turns your desire to defeat your
+ enemy into power."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6271">
-「殺意をぶつけている感じですか？」
+"So it's like throwing your hatred at them?"
 #
 <name "Lazlocke">
-「そうだ。
-　でも、まだまだだぞ」
+"That's right, but that's only half of it."
 #
 <name "Lazlocke">
-「呪文を唱える時、相手が誰だろうと必殺の心で投
-　げるように」
+"When you cast this spell, you have to channel
+ in hatred, no matter who you're fighting
+ against."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA6272">
-「が、頑張ります」
+"I-I'll try."
 #
 <removesprite -1 11>
 <exit>
 :85B
 <music 10>
 <background "bg004a0.iph" 11>
-『闇の槍』
+-- Dark Spear --
 #
 <sprite "ta01a37.iph" 4 4 11>
 <name "Celes" "!AA6273">
-「闇で作った槍……うーん、禍々しい」
+"A spear made of darkness...
+ Hmmm, it feels so sinister."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6274">
-「しかし、この禍々しさ……
-　どこかで」
+"But this sinisterness...
+ Where have I felt it before?"
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
 <name "Soshiette" "!DA1182">
-「台所などに多発する、例の黒い生物では……」
+"It's often in the kitchen.
+ The black bits that appear, for example."
 #
 <sprite "ta01a09.iph" 2 5 12>
 <name "Celes" "!AA6275">
-「それだ！」
+"That's it!"
 #
 <name "Lazlocke">
-「それだじゃない！」
+"No it's not!"
 #
 <removesprite -1 11>
 <exit>
 :A3F
 <music 10>
 <background "bg004a0.iph" 11>
-『暗黒球』
+-- Dark Sphere --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6276">
-「ひっさーつ！
-　黒い玉！」
+"Finishing move!
+ Dark sphere!"
 #
 <name "Lazlocke">
-「いや、確かに黒い玉だけどな。
-　もう少し品のある言い方を希望したい」
+"Well, it's certainly a dark sphere.
+ I think you can come up with a better line
+ though."
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA6277">
-「クロマル！」
+"Black ball!"
 #
 <name "Lazlocke">
-「……黒い玉で良いです」
+"...Dark sphere will be fine."
 #
 \x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :C9F: 
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0861">
-「あ、あの……
-　ダークネスボールとか」
+"U-Um...
+ What about darkness ball?"
 #
 <name "Lazlocke">
-「……お前は良い娘だ」
+"...You're a good girl."
 #
 <removesprite -1 11>
-　俺はイエルを抱擁した。
+I pull her into my arms.
 #
 <sprite "ta01a26.iph" 4 4 11>
 <name "Celes" "!AA6278">
-「そこ！
-　ベタベタしない！」
+"Hey!
+ No making out!"
 #
 :C9F
 <removesprite -1 11>
@@ -148,440 +151,455 @@
 :CAD
 <music 10>
 <background "bg002a0.iph" 11>
-『漆黒』
+-- Pitch Black --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6279">
-「漆黒……夜、眠り難い時などに重宝しそうです」
+"Pitch black...
+ I think it'd be useful at night when it's hard
+ to sleep."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　魔法をそんな事に使ってはいけないと思ったが、
-　よく考えれば俺の師匠もそんな風に使おうとして
-　いたので注意はしなかった。
+I used to think that you shouldn't use magic
+like that, but since my own master has done just
+that, I'm not sure what to say.
 #
 <exit>
 :DE2
 <music 10>
 <background "bg002a0.iph" 11>
-『吸魔』
+-- Drain Essence --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6280">
-「相手の魔力を奪う技ですね」
+"This is a move for stealing your opponent's
+ mana?"
 #
 <name "Lazlocke">
-「そうだ」
+"That's right."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6281">
-「イメージとしては、チューな感じですか？」
+"For an image, kind of like sucking it up?"
 #
 <name "Lazlocke">
-「チューな感じだ」
+"It's like sucking."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6282">
-「チュー」
+"*suck*"
 #
 <name "Lazlocke">
-「……エロいな」
+"...Sexy."
 #
 <sprite "ta01a59.iph" 4 4 12>
 <name "Celes" "!AA6283">
-「し、師匠がそうしろって言ったんじゃないです
-　か！」
+"Y-You're the one who made me do it!"
 #
 <removesprite -1 11>
 <exit>
 :FD5
 <music 10>
 <background "bg002a0.iph" 11>
-『絶望に震える闇』
+-- Dark Despair --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6284">
-「絶望に震える闇ってどんな感じの闇なんですか？」
+"What should dark despair feel like?"
 #
 <name "Lazlocke">
-「ニンジンの山に埋もれて、視界を遮られている状
-　態じゃないか」
+"Think about it like being buried in a mountain
+ of carrots, unable to see any way out."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6285">
-「それは確かに絶望ですね。
-　発狂してるかもしれません」
+"That would certainly make me despair.
+ I'd probably go crazy."
 #
 <removesprite -1 11>
-　ニンジンが嫌いなセリスであった。
+She really hates carrots.
 #
 <exit>
 :1161
 <music 10>
 <background "bg002a0.iph" 11>
-『世界を飲み込む闇』
+-- Dark Void --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6286">
-「世界を飲み込む闇……怖い名前の魔法ですね」
+"Dark void... 
+ What a scary sounding spell."
 #
 <name "Lazlocke">
-「そうだな。
-　でも、扱いを間違えると本当に世界を飲み込むか
-　らなぁ。
-　それを忘れない為の名前だろう」
+"It is, but if you don't control it right, it
+ really might create an all-consuming void.
+ That's why it has such a striking name."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA6287">
-「え！
-　あ……じょ、冗談ですよね」
+"Eeeh!?
+ Oh... Y-You're joking."
 #
 <name "Lazlocke">
-「注意するように」
+"Be very careful with it."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6288">
-「冗談だって言ってください。
-　怖くて使えなくなるじゃないですか！」
+"Please say that was a joke.
+ I'm too scared to use it now!"
 #
 <removesprite -1 11>
 <exit>
 :137B
 <music 10>
 <background "bg002a0.iph" 11>
-『闇よりも暗き闇』
+-- Dark Darkness --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6289">
-「闇よりも暗き闇って……
-　真っ黒って事ですか？」
+"Dark darkness...
+ Like, completely, totally black?"
 #
 <name "Lazlocke">
-「詩的な表現に、疑問を持たないように」
+"Don't look too deep into poetic naming."
 #
 <removesprite -1 11>
 <exit>
 :145B
 <music 10>
 <background "bg002a0.iph" 11>
-『暗黒竜の咆哮』
+-- Dark Roar --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6290">
-「暗黒竜の咆哮って、すごく耳に悪そうです」
+"The roar of a dark dragon?
+ That seems really bad for your ears."
 #
 <name "Lazlocke">
-「音が目的じゃない。
-　暗黒竜が叫びながら放つ攻撃って事だ」
+"It's not about the sound.
+ It's the attack that a dark dragon emits when
+ it roars."
 #
 <removesprite -1 11>
 <exit>
 :1547
 <music 10>
 <background "bg002a0.iph" 11>
-『闇の盾』
+-- Dark Shield --
 #
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA6291">
-「闇の盾って……
-　なんだか、美味しそうですね」
+"Dark shield...
+ It kinda looks yummy."
 #
 <name "Lazlocke">
-「どうして、そんな感想を持つのかな」
+"Why on earth do you think that?"
 #
 <removesprite -1 11>
 <exit>
 :161B
 <music 10>
 <background "bg002a0.iph" 11>
-『闇の霧』
+-- Dark Mist --
 #
 <name "Lazlocke">
-「これを覚えると、いつでもどこでもエロい事がで
-　きるようになる」
+"Once you learn this, you can have sex anytime,
+ anywhere."
 #
 <sprite "ta01a97.iph" 4 4 11>
 <name "Celes" "!AA6292">
-「別にこれを覚えなくても、いつでもどこでもエロ
-　いじゃないですか」
+"Can't you have sex anytime and anywhere even
+ without learning it?"
 #
 <removesprite -1 11>
 <exit>
 :1722
 <music 10>
 <background "bg002a0.iph" 11>
-『魔物召喚』
+-- Demon Call --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6293">
-「魔物の召喚……えいっ！」
+"Demon call...
+ Yah!"
 #
 <name "Lazlocke">
-「うおっ、俺のアレが大きくなった！」
+"Ooh! I'm getting hard!"
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA6294">
-「ある意味、魔物ですから成功と……」
+"In a way, that's a demon, so I guess it
+ worked..."
 #
 <removesprite -1 11>
 <exit>
 :183A
 <music 10>
 <background "bg004a0.iph" 11>
-『光の槍』
+-- Light Spear --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6295">
-「これが光の槍……」
+"This is a light spear..."
 #
 <removesprite -1 11>
-　セリスは光の槍を手にする。
+Celes holds up a spear of light.
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6296">
-「あんまり、痛そうに見えませんね」
+"It doesn't look like it'll hurt that much."
 #
 <name "Lazlocke">
-「でも、痛いから俺に向けて投げないように」
+"But it will, so please don't throw it at me."
 #
 <removesprite -1 11>
 <exit>
 :197B
 <music 10>
 <background "bg004a0.iph" 11>
-『光の槍』
+-- Light Spear --
 #
 <name "Lazlocke">
-「捻じ込んでやると、中で発光して凄い事になるん
-　だ」
+"If you stick that inside you, you'll glow from
+ inside. It's pretty cool looking."
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA6297">
-「えっと……それは本来の使い方ではないですよね」
+"Um, but that's not how you're supposed to use
+ it."
 #
 <name "Lazlocke">
-「今度、試してやろう」
+"Let's try it next time."
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA6298">
-「……やったら、本気で貫きますよ」
+"...If you do, I will stab you."
 #
 <removesprite -1 11>
 <exit>
 :1AE0
 <music 10>
 <background "bg004a0.iph" 11>
-『貫く勝利の光槍』
+-- Glorious Spear --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6299">
-「貫け！
-　勝利の槍っ！」
+"Pierce!
+ Spear of glory!"
 #
 <name "Lazlocke">
-「違う！
-　貫く勝利の光槍だ！」
+"Wrong!
+ It's supposed to be glorious spear!"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6300">
-「多少のアレンジは許されるのでは？」
+"Can't I rearrange it a little?"
 #
 <name "Lazlocke">
-「それはある程度、熟練した後でだ。
-　今は基本を大事に」
+"Maybe after you've mastered it.
+ Right now, get the basics down."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6301">
-「はーい」
+"Yes, siiiir."
 #
 <removesprite -1 11>
 <exit>
 :1C86
 <music 10>
 <background "bg004a0.iph" 11>
-『満たす光』
+-- Effusive Light --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6302">
-「満たす光！」
+"Effusive light!"
 #
 <name "Lazlocke">
-「強烈な光だな……もう少し、柔らかさが欲しい」
+"That's pretty blinding.
+ Try a little softer."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6303">
-「柔らかさですか？」
+"Softer?"
 #
 <name "Lazlocke">
-「おう。
-　例えるなら、春の日の朝の日差しのような感じで」
+"Yeah. Like the morning sun on a spring day."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA6304">
-「わかり難いです」
+"I don't get it."
 #
 <name "Lazlocke">
-「……女性の乳房ぐらいの柔らかさで」
+"...Soft as a woman's breast."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6305">
-「余計にわかり難くなりました」
+"I really don't get it."
 #
 <name "Lazlocke">
-「ここだ！
-　ここ！
-　お前のここの柔らかさが欲しいと言ってるんだ！」
+"Here!
+ Like this!
+ Like your softness right here!"
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6306">
-「え？」
+"Huh?"
 #
 <name "Lazlocke">
-「おっと、すまん。
-　そこは二の腕だったな。
-　ははは……
-　でも、そこぐらいの柔らかさでも可だぞ」
+"Oops, sorry. That's the top of your arm, huh?
+ Hahaha...
+ But it's fine if it's as soft as that too."
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA6307">
-「師匠。
-　師匠殺しって罪になりましたっけ？」
+"Master, are you trying to make me kill you?"
 #
 <removesprite -1 11>
 <exit>
 :201D
 <music 10>
 <background "bg004a0.iph" 11>
-『満たす光』
+-- Effusive Light --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6308">
-「満たす光！」
+"Effusive light!"
 #
 <name "Lazlocke">
-「適度な温かさ。
-　寒い日は重宝するな」
+"Nice and warm.
+ It's handy on cold days."
 #
 <removesprite -1 11>
 <exit>
 :20D5
 <music 10>
 <background "bg004a0.iph" 11>
-『幻惑』
+-- Glamour --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6309">
-「幻惑、幻惑……難しい」
+"Glamour... Glamour...
+ This is hard."
 #
 <name "Lazlocke">
-「できるだけ、正確にイメージするのがコツだ」
+"The trick is to picture it as clearly as you
+ can."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6310">
-「正確にですか……」
+"Clearly?"
 #
 <name "Lazlocke">
-「例えば……こうだ」
+"Like... this."
 #
 <removesprite -1 11>
-　俺は淫らなセリスの幻惑を出した。
+I create an illusion of a scantily-dressed
+Celes.
 #
 <sprite "ta01a80.iph" 4 4 11>
 <name "Celes" "!AA6311">
-「きゃぁー、きゃぁー、きゃぁぁぁぁー！」
+"Eek! Eek!
+ Eeeeeeek!"
 #
 <removesprite -1 11>
-　正確に出し過ぎたのか、怒ったセリスから殴られ
-　てしまった。
+Maybe it was too accurate.
+I got hit.
 #
 <exit>
 :22D8
 <music 10>
 <background "bg004a0.iph" 11>
-『分身』
+-- Duplicate --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6312">
-「分身、出来た……」
+"I can cast duplicate now."
 #
 <name "Lazlocke">
-「これで、二人なのに乱交気分が味わえると……」
+"Now we can have a threesome even when there's
+ just two of us."
 #
 <removesprite -1 11>
-　セリスに腹を殴られた。
+She hit me.
 #
 <exit>
 :23B3
 <music 10>
 <background "bg004a0.iph" 11>
-『拘束』
+-- Bind --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6313">
-「拘束っ！」
+"Bind!"
 #
 <name "Lazlocke">
-「残念、抜けられるぞ」
+"Sorry, but I can get out."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6314">
-「あ、本当だ……うーむ」
+"Oh, you're right.
+ Grrrr..."
 #
 <name "Lazlocke">
-「縛るのは、本人の技術だからな……
-　ま、たくさん縛って覚えろ」
+"Binding requires knowledge on how to do it in
+ the first place.
+ Well, practice tieing people up and learn how
+ to do it right."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6315">
-「はい。
-　師匠、協力をお願いします」
+"Yes, sir.
+ Master, please be my subject."
 #
 <name "Lazlocke">
-「わかった」
+"All right."
 #
 <removesprite -1 11>
-　でも、縛られるより、縛る方が好きなんだけどな。
+But it's way more fun to tie someone up than to
+be tied up.
 #
 <exit>
 :25A0
 <music 10>
 <background "bg004a0.iph" 11>
-『聖光』
+-- Holy Light --
 #
 <name "Lazlocke">
-「髪の毛を持って、ジッと見詰めているが……
-　別に斬る必要は無いぞ」
+"You don't need to keep fussing with your hair.
+ There's no need to cut it."
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6316">
-「ええっ！
-　そうなんですか？
-　てっきり、頭を丸めなければいけないのかと……」
+"Eeeh!? Really?
+ I was sure I'd have to shave my head..."
 #
 <name "Lazlocke">
-「はぁ……誰からそんなデマを」
+"Sigh...
+ Who's telling you this nonsense?"
 #
 <removesprite -1 11>
-　……まあ、想像が出来るが。
+...I think I can already guess.
 #
 <exit>
 :2704
 <music 10>
 <background "bg002a0.iph" 11>
-『光の盾』
+-- Light Shield --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6317">
-「光の盾って、なんだか……
-　脆そうじゃないですか？」
+"A light shield's kind of, just...
+ Doesn't it seem fragile?"
 #
 <name "Lazlocke">
-「うーん、確かになんでも通しそうだよなぁ」
+"Hmm. It does look like it'll let anything
+ through."
 #
 <removesprite -1 11>
-　でも、かなり硬いです。
+But it's pretty solid.
 #
 <exit>
 \x78
