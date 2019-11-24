@@ -54,855 +54,882 @@
 :718
 <music 10>
 <background "bg002a0.iph" 11>
-『探索』
+-- Search --
 #
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA6318">
-「……ここです！」
+"...Here!"
 #
 <name "Lazlocke">
-「無いぞ」
+"Nope."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA6319">
-「じゃあ、こっちです！」
+"Then here!"
 #
 <name "Lazlocke">
-「無いぞ」
+"Nope."
 #
 <sprite "ta01a23.iph" 4 4 12>
 <name "Celes" "!AA6320">
-「こっちかも！」
+"Maybe here!"
 #
 <removesprite -1 11>
-　部屋で小物を無くしたのだが、なかなか見つから
-　なかった。
+The lost trinket remained unfound.
 #
 <exit>
 :8A0
 <music 10>
 <background "bg002a0.iph" 11>
-『探索』
+-- Search --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6321">
-「無くした小物は……
-　こっちです！」
+"The thing you lost... is here!"
 #
 <removesprite -1 11>
-　セリスは水晶球を前にそう言った。
+She says while looking into a crystal ball.
 #
 <name "Lazlocke">
-「それは探索技術じゃなくて……占いじゃないかな」
+"This isn't search magic.
+ It's fortune telling."
 #
 <exit>
 :99A
 <music 10>
 <background "bg002a0.iph" 11>
-『探索』
+-- Search --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6322">
-「物を探す時のコツは、視点の変更です」
+"The trick when you're looking for things is to
+ change your perspective."
 #
 <name "Lazlocke">
-「視点変更？」
+"Change your perspective?"
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6323">
-「はい。
-　人間、どうしても自分の目線で物を探しますが、
-　同じ場所を何度探しても意味はありません。
-　目線を変える事で、短時間の捜索が可能なのです」
+"Yeah. People will scour everything in their
+ sight, so by changing your line of sight, you
+ can search much faster."
 #
 <name "Lazlocke">
-「つまり、しゃがんだり、背伸びしたりしろと」
+"In other words, kneel or stretch?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6324">
-「ぶっちゃけると、そうです」
+"To put it bluntly, yes."
 #
 <name "Lazlocke">
-「簡単なコツだな」
+"That's a pretty simple trick."
 #
 <removesprite -1 11>
 <exit>
 :BCC
 <music 10>
 <background "bg002a0.iph" 11>
-『謎解き』
+-- Demystify --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6325">
-「むう……
-　犯人は、被害者の友人、トム！」
+"Hmmmmm...
+ The culprit is the victim's friend, Tom!"
 #
 <name "Lazlocke">
-「推理物の本……
-　最初の数ページで推理するのは侮辱じゃないか？」
+"A mystery novel, huh?
+ Aren't you taking it a little too easily by
+ guessing after only reading the first few
+ pages?"
 #
 <sprite "ta01a25.iph" 4 4 12>
 <name "Celes" "!AA6326">
-「いえ、間違いありません！」
+"No. There's no doubt!"
 #
 <removesprite -1 11>
-　読んでみた。
+I read the book.
 #
-　……
+...
 #
 <name "Lazlocke">
-「違ったぞ」
+"You were wrong."
 #
 <sprite "ta01a23.iph" 4 4 11>
 <name "Celes" "!AA6327">
-「ば、馬鹿なっ！」
+"I-Impossible!"
 #
 <name "Lazlocke">
-「謎解きは……
-　謎に出会ってからにしないか？
-　犯人がどうやって殺したとか、どうやってあの場
-　所に行ったとか……」
+"The spell is more for uncovering the details
+ once find an actual mystery.
+ Like how the victim was killed, or how the
+ body got there."
 #
 <removesprite -1 11>
 <exit>
 :E25
 <music 10>
 <background "bg002a0.iph" 11>
-『謎解き』
+-- Demystify --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6328">
-「こうやって、こうして……こうすれば……」
+"Do this, and then that, and then if you do
+ this..."
 #
 <name "Lazlocke">
-「おお、あの難解なパズルを一瞬で……」
+"Ooh! You solved that difficult puzzle right
+ away."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6329">
-「私に掛かればこの程度、楽勝です」
+"This is child's play to me."
 #
 <removesprite -1 11>
-　そう誇るセリスの背中に、解答書なるものがある
-　事を俺は知っていた。
+But I know that the answer was written in the
+back of the book.
 #
 <exit>
 :F96
 <music 10>
 <background "bg002a0.iph" 11>
-『謎解き』
+-- Demystify --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6330">
-「むう……難しい」
+"Hmmm... 
+ This is hard."
 #
 <removesprite -1 11>
-　セリスが異国のパズルを前に、悩んでいた。
+She's struggling with a puzzle from another
+country.
 #
 <name "Lazlocke">
-「セリスがパズルで悩むなんて、珍しいな」
+"You don't unusually have much trouble with
+ puzzles."
 #
 <sprite "ta01a92.iph" 4 4 11>
 <name "Celes" "!AA6331">
-「いえ、そうじゃないんです。
-　このパズル。
-　どうなれば正解なのか、わからなくて……」
+"No, it's not that.
+ I don't know how to tell if this puzzle's
+ right or not."
 #
 <name "Lazlocke">
-「ああ、なるほど。
-　ルールがわからないか……よくある。
-　よくある。
-　だから、俺に聞かないように」
+"Ah, I see.
+ You don't know the rules.
+ I get it. Happens all the time.
+ Don't look at me though."
 #
 <removesprite -1 11>
 <exit>
 :1194
 <music 10>
 <background "bg002a0.iph" 11>
-『魔物の知識』
+-- Monsterology --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6332">
-「この絵の魔物は、夜行性で動きが速いですが、火
-　に弱いと言う弱点があるので、夜道では火を持っ
-　て歩けば大丈夫です」
+"The monster illustrated here is nocturnal and
+ quick, but it's weak to fire, so you'll be okay
+ if you walk at night with a torch."
 #
 <name "Lazlocke">
-「なるほど」
+"Indeed."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6333">
-「こちらの絵の魔物も夜行性です。
-　普段は温厚で動きは鈍いのですが、火を見ると興
-　奮して襲ってきます」
+"The monster illustrated here is nocturnal.
+ It's normally docile and slow, but it gets
+ excited when it sees fire and attacks."
 #
 <name "Lazlocke">
-「なるほど。
-　その二種類の魔物が居る場所ではどうすれば良い
-　んだ？」
+"Indeed.
+ What should you do if you're somewhere both of
+ these monsters live?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6334">
-「夜に、そんな場所に行かない事です」
+"Don't go out at night there."
 #
 <name "Lazlocke">
-「正論だな」
+"Correct answer."
 #
 <removesprite -1 11>
 <exit>
 :140D
 <music 10>
 <background "bg002a0.iph" 11>
-『魔物の知識』
+-- Monsterology --
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA6335">
-「魔物の生態を知れば知るほど、不思議ですね」
+"The more I find out about the biology of 
+ monsters, the stranger it gets."
 #
 <name "Lazlocke">
-「そうなのか？」
+"Oh?"
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6336">
-「はい。
-　正直、この世界に適した生物とは思えません」
+"Yeah.
+ Honestly, it's hard for me to believe these
+ creatures really exist in this world."
 #
 <name "Lazlocke">
-「なるほど……
-　魔物は、遥か昔に魔界や天界からやってきた生物
-　だと言う説がある」
+"I see. Some people have theorized that monsters
+ are creatures that came from the Netherworld or
+ Celestia ages ago."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6337">
-「はい。
-　もっと研究していきたいと思います」
+"Yeah. I want to keep studying."
 #
 <name "Lazlocke">
-「まあ、根を詰めないようにな」
+"Well, keep at it."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6338">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :1677
 <music 10>
 <background "bg002a0.iph" 11>
-『魔物の知識』
+-- Monsterology --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6339">
-「同じ魔物でも、動きや行動パターンが違う場合が
-　ありますよね」
+"Even when it's the same species of monster,
+ each one might move and act differently."
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6340">
-「どうしてなんですかね？」
+"Why is that?"
 #
 <name "Lazlocke">
-「人間でも、同じ風に対処しないだろ。
-　その個性じゃないか？
-　本質は変わってないわけだし」
+"It's the same as why every human isn't the
+ same. Individuality in all things, even if the
+ core remains the same."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6341">
-「なるほど……個性と言う事ですね。
-　興味深い……
-　もっと研究しないと」
+"I see... Individuality, huh?
+ Very interesting.
+ I have to study more."
 #
 <removesprite -1 11>
 <exit>
 :1883
 <music 10>
 <background "bg014a0.iph" 11>
-『魔物の知識』
+-- Monsterology --
 #
-　セリスの魔物に関する知識は、かなり深い。
+Celes's monster knowledge is pretty extensive.
 #
-<name "近所の子供" "!IA0052">
-「なーなー、この魔物、知ってる？」
+<name "Neighborhood Kid" "!IA0052">
+"Hey, hey. Do you know what this monster is?"
 #
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA6342">
-「これはアンギヌウス＝ヘリクサス。
-　通称ベトよ」
+"That's an Angnus Harix.
+ AKA a beto."
 #
-<name "近所の子供" "!IA0053">
-「へー、ねーちゃんスゲェな」
+<name "Neighborhood Kid" "!IA0053">
+"Oooh. You're awesome."
 #
 <removesprite -1 11>
-　近所の子供達の間で、魔物博士として有名になり
-　つつある。
+Among the nearby kids, she's known as Dr.
+Monster.
 #
 <exit>
 :1A08
 <music 10>
 <background "bg002a0.iph" 11>
-『罠知識』
+-- Trapology --
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA1183">
-「大会には罠がありませんが、塔などには良くあり
-　ます」
+"There aren't any traps in tournaments, but
+ towers are full of them."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA1184">
-「無駄に戦わない為にも、良く覚えてください」
+"Study well so you don't waste your energy for
+ nothing."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA6343">
-「はい」
+"Yes, ma'am."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1187">
-「では、こちらに用意した道を進んでください」
+"Now then, please proceed on the path I've 
+ prepared."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA6344">
-「え？」
+"Huh?"
 #
 <sprite "ta04a09.iph" 6 4 12>
 <name "Soshiette" "!DA1188">
-「何事も、身を持って覚えるのが一番です」
+"It's best to learn by experience."
 #
 <sprite "ta01a42.iph" 2 5 12>
 <name "Celes" "!AA6345">
-「……が、頑張ります」
+"...I-I'll do my best."
 #
 <removesprite -1 11>
-　セリスはボロボロになりながらも、罠に関する知
-　識を深めた。
+Celes learned, but suffered for her knowledge.
 #
 <exit>
 :1D0E
 <music 10>
 <background "bg014a0.iph" 11>
-『罠知識』
+-- Trapology --
 #
 <name "Lazlocke">
-「……セリス君」
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6346">
-「はい。
-　なんですか？」
+"Yes? What is it?"
 #
 <name "Lazlocke">
-「どうして、俺の背中について歩く」
+"Why are you walking behind me?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6347">
-「安全だからです」
+"It's safer."
 #
 <name "Lazlocke">
-「……罠対策か？」
+"...Because of traps?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6348">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「師匠を犠牲にする事に、心を痛める事は？」
+"You don't feel any guilt for using your master
+ as bait?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6349">
-「師匠なら躱すと信じています」
+"I have faith you'll dodge them."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　とりあえず、セリスを背後から引き摺り出して怒っ
-　ておいた。
+I drag her in front of me and scold her.
 #
 <exit>
 :1F80
 <music 10>
 <background "bg002a0.iph" 11>
-『罠知識』
+-- Trapology --
 #
 <name "Lazlocke">
-「どうした、セリス。
-　挙動不審だぞ？」
+"What are you doing, Celes?
+ You're acting fishy."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6350">
-「そうですか？」
+"Am I?"
 #
 <name "Lazlocke">
-「ああ、扉の前には立たないし、開け方も変だ。
-　なぜ、しゃがみながら扉を開ける？」
+"Yeah. You're not standing in front of the door,
+ and you're opening it weirdly.
+ And why are you crouching as you open it?"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6351">
-「罠の大半は、人の高さを計算しています。
-　特に致命傷を狙うなら首の高さです」
+"Most traps are set for a person's height, and
+ particularly aim for the neck for a fatal
+ blow."
 #
 <name "Lazlocke">
-「家の玄関に、罠を仕掛ける馬鹿が居るか？」
+"Would anybody be dumb enough to trap the
+ entrance to their own house?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6352">
-「人の心理の裏を突くのが罠です」
+"Traps prey upon the gaps in human expectation."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　ソシエットの教育が行き過ぎているようだ。
+I think Soshiette's lessons have gone too far.
 #
-　今度、注意しておこう。
+I'll have to keep a closer eye on them.
 #
 <exit>
 :2216
 <music 10>
 <background "bg002a0.iph" 11>
-『罠知識』
+-- Trapology --
 #
 <name "Lazlocke">
-「ソシエット君」
+"Soshiette."
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1189">
-「なんですか？」
+"Yes?"
 #
 <name "Lazlocke">
-「セリスに罠に関する知識を教えたね」
+"You've been teaching Celes about traps?"
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA1190">
-「はい」
+"Yes."
 #
 <name "Lazlocke">
-「やりすぎだ。
-　人間不信のレベルにまでなっているじゃないか」
+"You're overdoing it.
+ It's reached the level where she's paranoid 
+ about everyone."
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA1191">
-「罠とは、人の悪意と悪戯を見抜く力です。
-　極めようとすれば、そうなってしまう事も避けら
-　れないと思います」
+"Seeing through traps is seeing through the
+ trickery and devilry of people. 
+ That's unavoidable if you want to truly become
+ a master."
 #
 <name "Lazlocke">
-「言い訳はわかったから、セリスを部屋から出すよ
-　うに。
-　ずーっと引き篭もってる」
+"I don't care why.
+ Just get her out of her room.
+ She's refused to come out for days."
 #
 <sprite "ta04a22.iph" 4 4 12>
 <name "Soshiette" "!DA1192">
-「努力します」
+"I'll try."
 #
 <removesprite -1 11>
 <exit>
 :24D9
 <music 10>
 <background "bg002a0.iph" 11>
-『毒知識』
+-- Toxicology --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6353">
-「これは……毒です」
+"This is... poison."
 #
 <name "Lazlocke">
-「こっちは？」
+"What about this one?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6354">
-「大丈夫です」
+"That's fine."
 #
 <removesprite -1 11>
-　セリスの毒知識はなかなか役に立つ。
+Her knowledge of poisons is very useful.
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA6355">
-「でも、倉庫の食材の安全確認に使われるとは思っ
-　ていませんでした」
+"But I didn't expect it to be used to check
+ whether food in storage was still okay."
 #
 <removesprite -1 11>
 <exit>
 :266C
 <music 10>
 <background "bg002a0.iph" 11>
-『毒知識』
+-- Toxicology --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6356">
-「うーん、うーん」
+"Hmm...
+ Hmmmmm..."
 #
 <removesprite -1 11>
-　セリスは二つのコップを前に、悩んでいた。
+Celes is glancing back and forth between two
+glasses.
 #
 <name "Lazlocke">
-「何を悩んでいるんだ？」
+"What are you pondering?"
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6357">
-「このコップの中身、両方とも美味しいジュースな
-　んですが、どちらかに毒が入っているんです。
-　それで、困っているんです」
+"Both of the have delicious juice, but one of 
+ them has poison in it.
+ That's what has me stumped."
 #
 <name "Lazlocke">
-「両方、捨てろ」
+"Throw them both out."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6358">
-「ええ！
-　片方は美味しいジュースなんですよ」
+"Eeeh!?
+ But one of them is delicious juice."
 #
 <name "Lazlocke">
-「この場合は、両方共入っていると考えるんだ」
+"Then I'd guess the poison's in both."
 #
 <sprite "ta01a41.iph" 4 4 12>
 <name "Celes" "!AA6359">
-「むうう……」
+"Hmmm..."
 #
 <removesprite -1 11>
 <exit>
 :2908
 <music 10>
 <background "bg002a0.iph" 11>
-『毒知識』
+-- Toxicology --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1193">
-「毒草や毒キノコに関しては、経験しかありません」
+"For poisonous plants and mushrooms, there's no
+ subtitute for experience."
 #
 <removesprite -1 11>
 <sprite "ta01a10.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA6360">
-「まさか、食べて覚えるんですか？」
+"No way!
+ I have to learn by eating them?"
 #
 <sprite "ta04a26.iph" 6 4 12>
 <name "Soshiette" "!DA1194">
-「そうしたかったのですが、ご主人様に止められま
-　した」
+"That was my intention, but His Grace has said
+ no."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA6361">
-「師匠。
-　ありがとうございます」
+"Master, thank you."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1195">
-「仕方が無いので、図鑑で覚えてください」
+"Since there's no other way, you'll have to
+ memorize this encyclopedia instead."
 #
 <sprite "ta01a17.iph" 2 5 12>
 <name "Celes" "!AA6362">
-「師匠。
-　本当にありがとうございます」
+"Master, thank you so, so much."
 #
 <removesprite -1 11>
 <exit>
 :2BB2
 <music 10>
 <background "bg002a0.iph" 11>
-『毒知識』
+-- Toxicology --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6363">
-「……ば、馬鹿な」
+"...N-No way!"
 #
 <name "Lazlocke">
-「どうした？」
+"What?"
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6364">
-「自分の作った料理から、毒反応が……」
+"The dinner I made is posionous..."
 #
 <name "Lazlocke">
-「…………精進するように」
+"...Keep studying."
 #
 <removesprite -1 11>
 <exit>
 :2CD8
 <music 10>
 <background "bg002a0.iph" 11>
-『大会の知識』
+-- Gamesmanship --
 #
 <name "Lazlocke">
-「大会で勝ち抜くテクニック、その一」
+"I'll tell you the first trick to winning a
+ tournament."
 #
 <name "Lazlocke">
-「相手の力量を見極める」
+"Know thy enemy."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6365">
-「相手の力量ですか？」
+"Know my opponent?"
 #
 <name "Lazlocke">
-「そうだ。
-　敵を知り、己を知れば百戦危うからず。
-　初戦は仕方が無いが、それ以外は相手も戦ってい
-　る」
+"That's right. If you know your enemy, and know
+ yourself, you'll never be in danger.
+ You won't be able to do that for the first
+ round, but the others will be fighting too."
 #
 <name "Lazlocke">
-「ちゃんと観察するように」
+"Observe them closely."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6366">
-「はい。
-　わかりました」
+"Yes, sir.
+ I understand."
 #
 <removesprite -1 11>
 <exit>
 :2EBA
 <music 10>
 <background "bg002a0.iph" 11>
-『大会の知識』
+-- Gamesmanship --
 #
 <name "Lazlocke">
-「大会で勝ち抜くテクニック、その二」
+"Let's talk about the second trick to winning a
+ tournament."
 #
 <name "Lazlocke">
-「体力を温存する」
+"Conserve your strength."
 #
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA6368">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Lazlocke">
-「どうやって体力を温存するかと言うとだな……
-　雑魚相手には、全力で速攻だ！」
+"As for how to do that...
+ Against weak opponents, strike fast with all
+ your might and finish them in one shot!"
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA6369">
-「全力で速攻ですか？」
+"Strike fast with all my might?"
 #
 <name "Lazlocke">
-「早く倒せば、試合は早く終わる。
-　それは体力温存に繋がる」
+"Beat them quick, and the match will be quick.
+ You'll be able to conserve your strength."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6370">
-「なるほど。
-　師匠の夜の行為と一緒ですね」
+"I see.
+ It's just like you do at night."
 #
 <name "Lazlocke">
-「……セリス君。
-　いま、壮絶な毒を吐いたね」
+"...Celes, that was a very dirty blow."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA6371">
-「え？」
+"Huh?"
 #
 <removesprite -1 11>
-　俺はセリスを押し倒し、徹底的に弄ってやった。
+I push her down and punish her thoroughly.
 #
 <sprite "ta01a80.iph" 4 4 11>
 <name "Celes" "!AA6372">
-「あ、あうう……し、死ぬ……」
+"O-Oohh...
+ I-I'm gonna die..."
 #
 <removesprite -1 11>
 <exit>
 :31FE
 <music 10>
 <background "bg002a0.iph" 11>
-『大会の知識』
+-- Gamesmanship --
 #
 <name "Lazlocke">
-「大会で勝ち抜くテクニック、その三」
+"There's a third trick to winning a tournament."
 #
 <name "Lazlocke">
-「技の温存」
+"Hide your skills."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6373">
-「技を温存するんですか？」
+"Hide my skills?"
 #
 <name "Lazlocke">
-「そうだ。
-　序盤でこちらの技を全て見せてしまうと、相手に
-　対策される可能性がある」
+"If you show off everything you can do in the
+ first round, your opponents will be ready for
+ it."
 #
 <name "Lazlocke">
-「まあ、魔法などは即座に対応できないから大丈夫
-　だとは思うが、用心に越した事は無い」
+"Well, it's probably not a big deal since you
+ can't just negate magic, but there's no such
+ thing as being too careful."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6374">
-「わかりました。
-　技を出し惜しみするんですね」
+"I understand.
+ I'll try to keep a trump card."
 #
 <name "Lazlocke">
-「そうだ。
-　しかし、相手が強い場合は遠慮はいらないぞ」
+"Right, but if your opponent is tough, you
+ shouldn't hold back."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6375">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :349E
 <music 10>
 <background "bg002a0.iph" 11>
-『大会の知識』
+-- Gamesmanship --
 #
 <name "Lazlocke">
-「大会で勝ち抜くテクニック、その四」
+"Let's talk about the fourth trick for winning a
+ tournament."
 #
 <name "Lazlocke">
-「審判を味方にする！」
+"Befriend the judges!"
 #
 <name "Lazlocke">
-「なんだが……ジャッジマンは実に公平だ」
+"Except... Judgeman is impartial to a fault.
 #
 <name "Lazlocke">
-「ジャッジマンじゃない時に考えるように」
+"But think about when it's not Judgeman."
 #
 <sprite "ta01a20.iph" 4 4 11>
 <name "Celes" "!AA6376">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Lazlocke">
-「味方にする方法としては、直接的にコビを売る方
-　法と、礼儀正しくし、審判の判定には逆らいませ
-　んと服従する方法がある」
+"There's two ways to get the judge on your
+ side, befriending them directly, or being 
+ polite and deferential no matter what call
+ they make.
 #
 <name "Lazlocke">
-「相手を見て、方法を変えるように」
+"You'll have to tailor your methods depending
+ on the judge."
 #
 <sprite "ta01a21.iph" 4 4 12>
 <name "Celes" "!AA6377">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :36EC
 <music 10>
 <background "bg002a0.iph" 11>
-『戦術』
+-- Tactics --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6378">
-「師匠。
-　戦術を学ぶ為に、一局、お相手をお願いします」
+"Master, please be my opponent to help me study
+ tactics."
 #
 <name "Lazlocke">
-「チェスか……良いだろう」
+"Chess?
+ All right."
 #
 <removesprite -1 11>
-　数分後。
+A few minutes later...
 #
 <name "Lazlocke">
-「……ば、馬鹿な」
+"...N-No way."
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6379">
-「あ、あはは……ぐ、偶然ですよ」
+"H-Hahaha... 
+ I-I just got lucky."
 #
 <removesprite -1 11>
 <sprite "ta04a63.iph" 4 4 11>
 <name "Soshiette" "!DA1196">
-「いえ、偶然ではありません。
-　戦術面で、見事でした」
+"No, that wasn't luck.
+ Your tactics were splendid."
 #
 <name "Lazlocke">
-「ソシエット……」
+"Soshiette..."
 #
 <sprite "ta04a04.iph" 4 4 12>
 <name "Soshiette" "!DA1197">
-「席を替わってください。
-　次は私がお相手しましょう」
+"Switch with me.
+ I'll be your next opponent."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
 <name "Celes" "!AA6380">
-「お、お願いします」
+"T-Thank you."
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA1198">
-「私は、そこの負け犬とは違いますよ」
+"I will not be the disgrace you just faced."
 #
 <removesprite -1 11>
-　言い返せない自分が憎い。
+I hate that I have no comeback.
 #
 <exit>
 :3A4D
 <music 10>
 <background "bg002a0.iph" 11>
-『戦術』
+-- Tactics --
 #
-　セリスは、ソシエットに昔の戦いを教わっていた。
+Celes is learning about old battles from 
+Soshiette.
 #
 <sprite "ta04a63.iph" 4 4 11>
 <name "Soshiette" "!DA1199">
-「東軍と西軍の動き、どう思いますか？」
+"What do you think about the movements of the
+eastern and western forces?"
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta04a63.iph" 6 4 11>
 <name "Celes" "!AA6381">
-「西軍が圧倒的に有利です。
-　負ける事が考えられません」
+"The west army has an overwhelming advantage.
+ I can't imagine they'd lose."
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1200">
-「ですが、これは西軍が負けるのです」
+"But the west army was defeated."
 #
 <sprite "ta01a10.iph" 2 5 12>
 <name "Celes" "!AA6382">
-「そんな馬鹿な。
-　どうしてですか？」
+"I don't believe it.
+ What happened?"
 #
 <sprite "ta04a87.iph" 6 4 12>
 <name "Soshiette" "!DA1201">
-「裏切りです」
+"They were betrayed."
 #
 <sprite "ta01a32.iph" 2 5 12>
 <name "Celes" "!AA6383">
-「この局面で裏切るなんて……
-　裏切ったのは馬鹿ですか？」
+"Betrayed at this stage?
+ Did an idiot turn traitor?"
 #
 <sprite "ta04a22.iph" 6 4 12>
 <name "Soshiette" "!DA1202">
-「馬鹿なんでしょう。
-　では、個々の戦いに関して説明します。
-　まず、緒戦はこことこの部隊が激突しました」
+"It was an idiot.
+ So let's discuss the individual battles.
+ First, the battle began when this unit
+ engaged."
 #
 <removesprite -1 11>
-　ソシエットの講義は続いた。
+Soshiette continues her lecture.
 #
-　俺は横で寝ていた。
+I keep napping.
 #
 <exit>
 :3DFA
 <music 10>
 <background "bg002a0.iph" 11>
-『戦術』
+-- Tactics --
 #
 <name "Lazlocke">
-「戦術か……」
+"Tactics...
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6384">
-「あの、師匠。
-　別に体のどこから責めるかの授業ではありません
-　よ」
+"Um, Master, this isn't the kind of lesson where
+ you attack physically."
 #
 <name "Lazlocke">
-「俺、そんなにエロそうな顔をしていたか？」
+"Did I look like that much of a lecher?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6385">
-「は、はい」
+"Y-Yes."
 #
 <name "Lazlocke">
-「…………」
+"........."
 #
 <removesprite -1 11>
-　とりあえず、セリスを襲っておいた。
+Anyway, I go after her.
 #
 <sprite "ta01a79.iph" 4 4 11>
 <name "Celes" "!AA6386">
-「うう……見事な力押し……」
+"Ohhh...
+ What an assault..."
 #
 <removesprite -1 11>
 <exit>
