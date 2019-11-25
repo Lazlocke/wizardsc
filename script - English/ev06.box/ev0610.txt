@@ -66,1113 +66,1129 @@
 :97F
 <music 10>
 <background "bg002a0.iph" 11>
-『料理』
+-- Cooking --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6387">
-「……こうすれば」
+"...Now if I do this..."
 #
 <name "Lazlocke">
-「おお、美味い」
+"Ooh. Delicious."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6388">
-「なんとか、本通りに作れるようになりました」
+"Somehow, I managed to follow the recipe
+ perfectly."
 #
 <name "Lazlocke">
-「次は、本を見ないで作れるようにしないとな」
+"Next you have to be able to cook without
+ a book."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6389">
-「頑張ります」
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :B00
 <music 10>
 <background "bg002a0.iph" 11>
-『料理』
+-- Cooking --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6390">
-「どうですか！」
+"How's this!?"
 #
 <name "Lazlocke">
-「おおっ……美味い」
+"Ooh! Delicious!"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6391">
-「えへん！」
+"Heheh!"
 #
 <removesprite -1 11>
 <exit>
 :BE2
 <music 10>
 <background "bg002a0.iph" 11>
-『料理』
+-- Cooking --
 #
 <sprite "ta01a14.iph" 4 4 11>
 <name "Celes" "!AA6392">
-「料理は愛情！」
+"Cooking is love!"
 #
 <removesprite -1 11>
-　セリスは何かを悟ったかのように、料理の腕を上
-　げていた。
+Celes's culinary skills have improved, as if 
+she's had some kind of epiphany.
 #
-　食卓が華やかになっていくのは良いなぁ。
+It's great to have luxurious meals.
 #
 <exit>
 :CCA
 <music 10>
 <background "bg002a0.iph" 11>
-『料理』
+-- Cooking --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6393">
-「師匠、勝負です！」
+"Master, I challenge you!"
 #
-　そう言って、セリスは料理を並べた。
+She sets out an array of dishes.
 #
 <name "Lazlocke">
-「良いだろう」
+"All right."
 #
 <removesprite -1 11>
-　俺はナイフとフォークで、セリスの料理に向かっ
-　た。
+I face her food with knife and fork.
 #
-　……
+...
 #
 <name "Lazlocke">
-「ご馳走様でした」
+"Thank you for the meal."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6394">
-「……どうですか？」
+"How was it?"
 #
 <name "Lazlocke">
-「……八十点。
-　上手くなったな」
+"I'll give you 80 points.
+ You're getting better."
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA6395">
-「やったぁっ♪」
+"Yay!♪"
 #
 <removesprite -1 11>
 <exit>
 :ECA
 <music 10>
 <background "bg002a0.iph" 11>
-『料理』
+-- Cooking --
 #
 <name "Lazlocke">
-「味付け、少し変えたか？」
+"Did you tweak the seasoning?"
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6396">
-「はい。
-　私の家の味付けで……
-　駄目ですか？」
+"I did. 
+ It's seasoning from my home.
+ Is it bad?"
 #
 <name "Lazlocke">
-「いや、これもこれでありだな」
+"No, it's just different."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6397">
-「今度から、それにしても良いですか？」
+"Should I keep using it?"
 #
 <name "Lazlocke">
-「うーん……前の味も好きだからな。
-　半々にしよう」
+"Hmmm... I liked the way it tasted before too.
+ Let's say half the time."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6398">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :10A4
 <music 10>
 <background "bg002a0.iph" 11>
-『掃除』
+-- Cleaning --
 #
 <name "Lazlocke">
-「掃除が上手くなったな」
+"You've gotten good at cleaning up."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6399">
-「はい。
-　頑張っていますから」
+"Yep, cause I'm working hard."
 #
 <name "Lazlocke">
-「そうか……
-　最初の頃は酷かったからなぁ……」
+"I see.
+ You were so bad at the start though."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA6400">
-「あはは……
-　家でやってなかったものですから」
+"Hahaha...
+ I never did it at home."
 #
 <name "Lazlocke">
-「辛いか？」
+"Has it been hard?"
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6401">
-「いえ。
-　部屋が綺麗になるのは嬉しいですし、弟子として
-　当たり前です」
+"No. It makes me happy when a room's clean, and
+ I think it's an apprentice's natural duty."
 #
 <name "Lazlocke">
-「そうか。
-　なら、俺よりも掃除は上手くなろうな」
+"I see.
+ Then you should try to get better at cleaning
+ than me."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6402">
-「はい。
-　頑張ります」
+"Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :1335
 <music 10>
 <background "bg002a0.iph" 11>
-『掃除』
+-- Cleaning --
 #
-　セリスは壷を磨いていた。
+Celes is polishing a pot.
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA6403">
-「むう……まだ汚れている」
+"Grrr...
+ It's still dirty."
 #
 <removesprite -1 11>
-　セリスは延々と壷を磨いていた。
+She polishes and polishes and polishes.
 #
 <sprite "ta01a31.iph" 4 4 11>
 <name "Celes" "!AA6404">
-「曇りが気になる……」
+"I'm worried about all those clouds..."
 #
 <removesprite -1 11>
-　セリスは壷を抱えながら、寝ていた。
+She falls asleep still holding it.
 #
 <name "Celes" "!AA6405">
-「うう、ヨダレがとれない……」
+"Ohhh...
+ My drool won't come off..."
 #
 <exit>
 :14B0
 <music 10>
 <background "bg002a0.iph" 11>
-『掃除』
+-- Cleaning --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6406">
-「ここの汚れが凄く気になります」
+"I'm concerned about the mark here."
 #
-　セリスは部屋の角を指差した。
+She points at the corner of the room.
 #
-　そこには確かに黒々とした汚れがあった。
+There's a black stain there.
 #
 <name "Lazlocke">
-「んー……
-　この汚れは無理じゃないか？
-　かなり前からずっとあるぞ」
+"Hmm...
+ I don't think that's coming out.
+ It's been there forever."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA6407">
-「やってみせます」
+"I'll show it."
 #
 <removesprite -1 11>
-　セリスはそう言って、掃除に取り掛かった。
+She starts cleaning.
 #
-　数日の格闘後、そこの汚れは綺麗になっていた。
-#
-<name "Lazlocke">
-「おおっ！」
-#
-　部屋の角が無くなっていた。
+After several days of struggle, the stain is
+completely gone.
 #
 <name "Lazlocke">
-「修理しておくように」
+"Ohhh!"
+#
+More accurately, the whole corner of the room
+is gone.
+#
+<name "Lazlocke">
+"Fix it."
 #
 <sprite "ta01a42.iph" 4 4 11>
 <name "Celes" "!AA6408">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :173A
 <music 10>
 <background "bg002a0.iph" 11>
-『掃除』
+-- Cleaning --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1203">
-「部屋が綺麗ですね」
+"The room is quite clean."
 #
 <name "Lazlocke">
-「ああ、セリスが掃除した」
+"Yeah, Celes did it."
 #
 <sprite "ta04a06.iph" 4 4 12>
 <name "Soshiette" "!DA1204">
-「……この腕前、魔法大会で負けても就職口には困
-　らないかと」
+"With her skills, she should have no trouble
+ finding a job even if she loses at the 
+ tournament."
 #
 <name "Lazlocke">
-「その通りだが、セリスの前で言うなよ」
+"True, but don't tell her that."
 #
 <removesprite -1 11>
 <exit>
 :1899
 <music 10>
 <background "bg001a0.iph" 11>
-『洗濯』
+-- Laundry --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6409">
-「ごしごし……」
+"Wash, wash..."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA6410">
-「ごしごしー」
+"Wash, wash..."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6411">
-「ごっしごっし♪」
+"Wash, wash...♪"
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA6412">
-「よし、綺麗になったー♪」
+"Okay, all clean!♪"
 #
 <name "Lazlocke">
-「服を一枚洗うのに、一日掛けてればな」
+"Don't spend all day washing just one thing."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6413">
-「つ、次はもう少し急ぎます」
+"I-I'll do the next one a little quicker."
 #
 <removesprite -1 11>
 <exit>
 :1A76
 <music 10>
 <background "bg001a0.iph" 11>
-『洗濯』
+-- Laundry --
 #
 <sprite "ta01a02.iph" 4 4 11>
 <name "Celes" "!AA6414">
-「洗濯は、天気を見てからです！」
+"Do the laundry after you check the weather!"
 #
 <name "Lazlocke">
-「確かに」
+"That's right."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6415">
-「前は洗濯後に雨が降って大変でした」
+"Last time, it rained after I did the laundry
+ and it was so bad."
 #
 <name "Lazlocke">
-「魔法で乾燥させようとして、燃やしちゃったのは
-　良い思い出だな」
+"You tried to dry it out with magic.
+ That's something I won't soon forget."
 #
 <sprite "ta01a36.iph" 4 4 12>
 <name "Celes" "!AA6416">
-「あはは」
+"Hahaha..."
 #
 <name "Lazlocke">
-「主に俺の服が燃えたんだよな……」
+"You roasted most of my clothes."
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6417">
-「あの時は、すみませんでした」
+"I said I was sorry."
 #
 <removesprite -1 11>
 <exit>
 :1C91
 <music 10>
 <background "bg001a0.iph" 11>
-『洗濯』
+-- Laundry --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6418">
-「はっ、とう！
-　とりゃぁっ！」
+"Hya! Yah!
+ Hiyah!"
 #
 <name "Lazlocke">
-「おお、洗濯物が……
-　まるで踊るように畳まれていく」
+"Ooh! The laundry's...
+ It folded up like a dance."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6419">
-「どうですか？」
+"How was that?"
 #
 <name "Lazlocke">
-「いや、慣れたもんだな」
+"Wow. You're a master."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6420">
-「毎日、洗濯していますから」
+"Because I do the laundry every day."
 #
 <name "Lazlocke">
-「そうか……悪かったな。
-　サボリ気味で」
+"You do? Sorry about that.
+ I've been slacking off."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6421">
-「いえいえ、師匠には料理や掃除で頑張って貰って
-　いますし、それに……」
+"No, no. You work hard cooking and cleaning.
+ And also..."
 #
 <name "Lazlocke">
-「それに？」
+"Also?"
 #
 <sprite "ta01a97.iph" 4 4 12>
 <name "Celes" "!AA6423">
-「あはは……
-　エッチな汁のついたシーツや服の洗濯をさせるの
-　はその……」
+"Hahaha...
+　It's cleaning up the sheets and clothes that
+ are covered in the fluids from sex..."
 #
 <name "Lazlocke">
-「…………これからも、頼んだ」
+"...Please keep it up."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6424">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :1FEF
 <music 10>
 <background "bg001a0.iph" 11>
-『洗濯』
+-- Laundry --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6425">
-「うーん、綺麗な服は良いですね」
+"Mmm.
+ Clean clothes are so nice."
 #
 <name "Lazlocke">
-「そうだな。
-　洗濯したては気持ち良い」
+"They are.
+ It feels nice after cleaning up."
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA6426">
-「特に……Ｈの後ですと」
+"Especially... after sex."
 #
 <name "Lazlocke">
-「………………まさか、洗濯中に襲いに来るとは」
+"...You're gonna make me want to go after you
+ while you're doing the laundry."
 #
 <removesprite -1 11>
 <exit>
 :2142
 <music 10>
 <background "bg001a0.iph" 11>
-『洗濯』
+-- Laundry --
 #
 <sprite "ta01a50.iph" 4 4 11>
 <name "Celes" "!AA6427">
-「師匠……エッチな事をしましょう」
+"Master, let's have sex."
 #
 <name "Lazlocke">
-「え？
-　しかし、服が汚れるし……」
+"Huh? But our clothes will get dirty."
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA6428">
-「すぐに洗濯しますよ。
-　着替えもほら」
+"I'll wash them right away.
+ Look, I already have a change ready."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01a60.iph" 4 4 12>
 <name "Celes" "!AA6429">
-「ほらほら♪」
+"Come on.♪"
 #
 <removesprite -1 11>
-　意思が弱いなぁ、俺。
+My will is weak.
 #
 <exit>
 :22DB
 <music 10>
 <background "bg002a0.iph" 11>
-『買物』
+-- Haggling --
 #
 <name "Lazlocke">
-「最近、生活費が安くなってるな……」
+"It feels like we're spending less money in our
+ day to day lives."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6430">
-「値切り、頑張ってますから」
+"I've gotten better at haggling."
 #
 <name "Lazlocke">
-「そうか……俺も頑張ろう」
+"I see. I should work on that too."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6431">
-「はい」
+"Yep."
 #
 <removesprite -1 11>
 <exit>
 :2401
 <music 10>
 <background "bg014a0.iph" 11>
-『買物』
+-- Haggling --
 #
 <name "Lazlocke">
-「セリス。
-　ここの店で買物するんじゃないのか？」
+"Celes, isn't this store one of the ones you 
+ visit?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6432">
-「向こうの通りでも同じ商品を売っているので、そ
-　ちらの値段を見てからどっちで買うか決めます」
+"They sell the same things here as the place
+ further down the street. Let's check the other
+ price before we decide where to buy."
 #
 <name "Lazlocke">
-「なるほど」
+"I see."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA6433">
-「では、行きましょう」
+"Okay, let's go."
 #
 <name "Lazlocke">
-「……頑張ります」
+"...I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :259D
 <music 10>
 <background "bg014a0.iph" 11>
-『買物』
+-- Haggling --
 #
 <name "Lazlocke">
-「セリス、何をやっているんだ？」
+"Celes, what are you doing?"
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6434">
-「師匠。
-　今は勝負中です。
-　少し待ってください」
+"Master, this is a battle.
+ Please give me a moment."
 #
 <name "Lazlocke">
-「勝負中？」
+"A battle?"
 #
 <removesprite -1 11>
-　俺は少し離れて、セリスを見守った。
+I step back and watch her.
 #
-　特に勝負しているようには見えないが……
+It doesn't look like much of a battle.
 #
-　あ、店主が出てきた。
+Ah, the shopkeeper came out.
 #
-　泣きながら、商品を渡している。
+He hands it over with tears in his eyes.
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6435">
-「勝ちました」
+"Victory."
 #
 <name "Lazlocke">
-「……………………」
+"........."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6436">
-「あ、ちゃんとお金は払っていますよ」
+"Oh, I paid a fair price."
 #
 <removesprite -1 11>
 <exit>
 :27EF
 <music 10>
 <background "bg014a0.iph" 11>
-『買物』
+-- Haggling --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6437">
-「一個、３０Ｂ。
-　三個セットで、８５Ｂ。
-　五個セットで、１４０Ｂ」
+"One for 30Ｂ.
+ Three for 85Ｂ.
+ Five for 140Ｂ."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA6442">
-「七個欲しいから……
-　五個セットと、二個を買って……
-　２００Ｂ」
+"I want seven, so...
+ I could take a five and then two extra...
+　200Ｂ."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6439">
-「三個セットを二つと、一個でも……
-　２００Ｂ」
+"Or I could get two sets of three and one...
+　200Ｂ."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6440">
-「見事な値段設定です」
+"Their price selection is flawless."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA6443">
-「しかし……
-　五個セットと、三個セットを買って八個にします。
-　これで２２５Ｂ」
+"However... I could get a set of five plus a set
+ of three.
+ That's 225Ｂ."
 #
 <name "Lazlocke">
-「一個多いじゃないか」
+"Isn't that one extra?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6441">
-「はい。
-　これを持って、この店先で２９Ｂで売ります。
-　そうすると、手元には七個と１９６Ｂに！」
+"Yes, but I can take it and sell it for 29Ｂ
+ right in front of the store.
+ Then I'll have seven and it'll only cost 196Ｂ!"
 #
-<name "アルバイト店員" "!RB0213">
-「お嬢ちゃん、値引してやるから……
-　やめてくれ」
+<name "Part Timer" "!RB0213">
+"Ma'am, I'll give you a discount.
+ Please don't do that."
 #
 <removesprite -1 11>
 <exit>
 :2B69
 <music 10>
 <background "bg014a0.iph" 11>
-『買物』
+-- Haggling --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6444">
-「せやから、その値段じゃ買えんゆーとるやろ。
-　もっと勉強しい」
+"No way will anybody buy it at that price.
+ Keep studying."
 #
-<name "アルバイト店員" "!RB0214">
-「そう言われても、これは一点モノで……」
+<name "Part Timer" "!RB0214">
+"You say that, but each one..."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA6445">
-「どこが一点モンや。
-　前に見た時、三つ並べとったで」
+"Where can you buy just one?
+ Last time I saw this, I had to get three."
 #
-<name "アルバイト店員" "!RB0215">
-「うっ」
+<name "Part Timer" "!RB0215">
+"Ohh..."
 #
 <sprite "ta01a22.iph" 4 4 12>
 <name "Celes" "!AA6447">
-「ほら、はよ値段決め。
-　こっちは傷有りやわかって買うゆーてんねんから」
+"And look at the price here.
+ You expect people to buy it even with the
+ scratches all over it?"
 #
-<name "アルバイト店員" "!RB0216">
-「わ、わかったよ……じゃあ、これで？」
+<name "Part Timer" "!RB0216">
+"A-All right.
+ How about... this?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6448">
-「あはは……
-　冗談が好きやなぁ」
+"Hahaha...
+ I love a good joke."
 #
-<name "アルバイト店員" "!RB0217">
-「……こう？」
+<name "Part Timer" "!RB0217">
+"...This?"
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA6449">
-「繰り返しギャグは二度までやで」
+"I hate hearing the same joke twice."
 #
-<name "アルバイト店員" "!RB0218">
-「ううう……」
+<name "Part Timer" "!RB0218">
+"Ohhh..."
 #
 <removesprite -1 11>
-　セリスの値引きは凄い。
+She gets a tremendous discount.
 #
-　が……
+But...
 #
 <name "Lazlocke">
-「その喋り方はなんだ？」
+"Who taught you to talk like that?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6450">
-「商人と交渉するにはこの喋り方だと、ソシエット
-　さんに教えて頂きまして」
+"Soshiette says that's how you're supposed to
+ talk to merchants."
 #
 <name "Lazlocke">
-「まあ、わかったから……相手が泣くまでやるなよ」
+"Well, I get it, but you should stop before they
+ start crying."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6451">
-「え？
-　泣いてからが本番じゃないんですか？」
+"Huh?
+ Isn't it all just an act until they're in
+ tears?"
 #
 <removesprite -1 11>
 <exit>
 :3039
 <music 10>
 <background "bg014a0.iph" 11>
-『買物』
+-- Haggling --
 #
-<name "アルバイト店員" "!RB0219">
-「ひぃっ！
-　悪魔だ！
-　悪魔が来たぁぁ！」
+<name "Part Timer" "!RB0219">
+"Aiee!
+ The devil!
+ The devil's here!"
 #
-　……
+...
 #
 <name "Lazlocke">
-「セリス君」
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6452">
-「なんですか？」
+"Yes?"
 #
 <name "Lazlocke">
-「君を見ると店主達が慌てて店を閉めるのはなぜだ
-　ろうね」
+"Why do all the stores close up in a panic when
+ they see you coming?"
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6453">
-「少し、やりすぎました」
+"I may have overdone it a little."
 #
 <removesprite -1 11>
 <exit>
 :31C2
 <music 10>
 <background "bg002a0.iph" 11>
-『音楽』
+-- Music --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6454">
-「歌は心です。
-　下手でも、聞いて貰う人の為に歌えば良いんです」
+"Songs come from the heart.
+ Even if you lack talent, you can still sing for
+ others."
 #
 <name "Lazlocke">
-「…………上手なヤツの言い分だ」
+"...Says the one with talent."
 #
 <removesprite -1 11>
-　俺は歌が苦手だ。
+I am not a good singer.
 #
 <exit>
 :32B6
 <music 10>
 <background "bg002a0.iph" 11>
-『音楽』
+-- Music --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6455">
-「見てください」
+"Look at this."
 #
 <name "Lazlocke">
-「どうしたんだ？
-　そのお金は？」
+"What did you do?
+ Where'd that money come from?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6456">
-「街で歌って、稼ぎました。
-　家計の足しにしてください」
+"I earned it singing in town.
+ Add it to our house budget."
 #
 <name "Lazlocke">
-「……俺には一生できない芸だ」
+"...That's something I could never do."
 #
 <removesprite -1 11>
-『１０Ｂの収入を得た』
+-- 10Ｂ obtained --
 #
 \x0B\x02\x00\x0A\x02\x00\x0A 10 
 <exit>
 :342A
 <music 10>
 <background "bg002a0.iph" 11>
-『音楽』
+-- Music --
 #
 <name "Lazlocke">
-「セリス。
-　近所の教会で歌って欲しいって言われてるぞ」
+"Celes, I'm told the church nearby wants you to
+ sing."
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6457">
-「あ、はい。
-　そうなんです。
-　断わっているんですけど……」
+"Oh, yes. That's right.
+ But I said no..."
 #
 <name "Lazlocke">
-「喜ばれるなら、たまに応えてやれ」
+"If you want to, you should do every now and
+ then."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6458">
-「はい」
+"Okay."
 #
 <removesprite -1 11>
 <exit>
 :3591
 <music 10>
 <background "bg002a0.iph" 11>
-『音楽』
+-- Music --
 #
 <name "Lazlocke">
-「おーい、セリス。
-　お前を尋ねに来たヤツが居るぞ」
+"Hey, Celes.
+ There's someone here for you."
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6459">
-「誰ですか？」
+"Who is it?"
 #
 <name "Lazlocke">
-「さあ？
-　なんでも、歌が良かったとか、感動したとか……」
+"How should I know?
+ I think it's a fan of one of your songs."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6460">
-「ああ、すみません。
-　居ないって言って貰えますか？」
+"Oh, I'm sorry.
+ Can you tell him I'm not in?"
 #
 <name "Lazlocke">
-「？
-　知り合いじゃないのか？」
+"Hm?
+ Don't you know him?"
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6461">
-「知り合いと言うほどではないんですけど……
-　歌で世界を回ろうと誘って来る人で……
-　私には魔法使いの道があるからと断わっているん
-　ですけど、しつこくて」
+"It's not that I don't know him...
+ He wants me to travel the world, singing...
+ I said no because I'm walking the path of a
+ wizard, but he's insistent."
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <removesprite -1 11>
-　セリスは俺の知らない所で、有名人になっている
-　ようだ。
+Apparently she's become a celebrity unbeknownst
+to me.
 #
 <exit>
 :386A
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a70.iph" 4 4 11>
 <name "Celes" "!AA6462">
-「これは……でも……しかし……」
+"This is... but... however..."
 #
 <name "Lazlocke">
-「どうした？」
+"What are you doing?"
 #
 <sprite "ta01a80.iph" 4 4 12>
 <name "Celes" "!AA6463">
-「うわぁぁぁっ！」
+"Aaaaahhhh!"
 #
 <removesprite -1 11>
-　セリスは慌てて逃げた。
+She scrambles away from me.
 #
-　なんだ？
+What was that about?
 #
-　何かの本を読んでいたようだが……
+I think she was reading a book.
 #
-　変な知識を得たんじゃないだろうな。
+I wonder what strange thing she's gotten into
+her head.
 #
 <exit>
 :39D6
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a50.iph" 4 4 11>
 <name "Celes" "!AA6464">
-「師匠」
+"Master."
 #
 <name "Lazlocke">
-「なんだ？」
+"Yes?"
 #
 <sprite "ta01a58.iph" 4 4 12>
 <name "Celes" "!AA6465">
-「ごほん……
-　お兄ちゃん」
+"Ahem...
+ Onii-chan!"
 #
 <name "Lazlocke">
-「うおっ！」
+"Aah!"
 #
 <sprite "ta01a59.iph" 4 4 12>
 <name "Celes" "!AA6466">
-「おにいちゃぁーーーーーん♪」
+"Onii-chaaaaan!♪"
 #
 <name "Lazlocke">
-「うわあああああっ！」
+"Aaaahhhh!"
 #
 <removesprite -1 11>
-　俺は押し倒された。
+I got tackled.
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6467">
-「これが妹萌えです」
+"This is little sister appeal."
 #
 <name "Lazlocke">
-「誰だ。
-　変な事を教えたのは！」
+"Who taught you this strange business!?"
 #
 <removesprite -1 11>
 <exit>
 :3BF7
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6468">
-「姉萌え……
-　師匠の名前はラズロックだから……
-　うーん……」
+"Big sister appeal...
+ His name's Lazlocke...
+ Hmmm..."
 #
 <removesprite -1 11>
-　セリスは悩んだ。
+Celes thinks.
 #
-　そして、結論を出した。
+And comes to a conclusion.
 #
 <sprite "ta01a13.iph" 4 4 11>
 <name "Celes" "!AA6469">
-「ラズ君。
-　今日はどうしたのかな？
-　元気無いぞ♪」
+"Laz, what are you up to today?
+ You seem down.♪"
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6470">
-「駄目ですか？」
+"Doesn't work?"
 #
 <name "Lazlocke">
-「あー、駄目じゃないけどな。
-　うん。
-　えっとだな……ラズ君は止めろ」
+"Umm, it's not exactly that.
+ Yeah.
+ Well, it's just... don't call me Laz."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6471">
-「そんなぁ……ラズ君。
-　お姉ちゃんの事が嫌いになったの？」
+"No fair, Laz.
+ Do you hate your big sister?"
 #
 <name "Lazlocke">
-「…………」
+"..."
 #
 <removesprite -1 11>
-　一晩楽しんだ後、姉萌えは封印した。
+After one night of enjoyment, the big sister
+play is retired.
 #
 <sprite "ta01a37.iph" 4 4 11>
 <name "Celes" "!AA6472">
-「そんなぁ～」
+"No fair!"
 #
 <removesprite -1 11>
 <exit>
 :3F12
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6473">
-「ここが、マイナスになるので、結果がこうなるの
-　です。
-　わかりましたか？」
+"This is a negative. 
+ The result's this.
+ Do you understand now?"
 #
 <name "Lazlocke">
-「セリス君」
+"Celes."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6474">
-「あ、は、はい」
+"Ah, y-yes?"
 #
 <name "Lazlocke">
-「君に教師萌えは無理だ」
+"Teacher roleplaying won't work for you."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA6475">
-「え？
-　そんなぁ！
-　ちびっこ先生なら可能だと言われたのに！」
+"Huh?
+ No way!
+ I was told I'd be the perfect little teacher!"
 #
 <name "Lazlocke">
-「誰だ！
-　そんな事を言ったのは！」
+"Who!?
+ Who told you that!?"
 #
 <removesprite -1 11>
 <exit>
 :410A
 <music 10>
 <background "bg015a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <name "Lazlocke">
-「セリス。
-　どうした？
-　何かあるのか？」
+"Celes, what are you doing?
+ Is something the matter?"
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6476">
-「いえ、野良犬が……」
+"No, it's just a stray dog..."
 #
 <name "Lazlocke">
-「飼えないぞ」
+"You can't keep it."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA6477">
-「いえ、そうではなく……」
+"No, not like that..."
 #
 <name "Lazlocke">
-「？」
+"Hm?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6478">
-「犬プレイの参考に……」
+"As reference for doggy play..."
 #
 <name "Lazlocke">
-「時々思うが……
-　お前にその知識を与えているのは誰だ？」
+"I've been wondering...
+ Where are you getting these thoughts?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6479">
-「主に師匠の書庫ですが……」
+"Mostly from your library."
 #
 <name "Lazlocke">
-「………………」
+"..."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6480">
-「わん♪」
+"Woof!♪"
 #
 <removesprite -1 11>
 <exit>
 :43A0
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6481">
-「師匠。
-　最近、思うのですが……」
+"Master, I've been thinking lately."
 #
 <name "Lazlocke">
-「なにをだ？」
+"About what?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6482">
-「エロって、奥が深いですよね」
+"There's a lot to sex, isn't there?"
 #
 <name "Lazlocke">
-「…………」
+"..."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6483">
-「なんですか、その目は？」
+"What's that look?"
 #
 <name "Lazlocke">
-「いや、女の子がそんな事を口走っちゃ駄目だなと
-　思っただけだ」
+"Oh, just something I never thought I'd hear a
+ girl say out loud."
 #
 <removesprite -1 11>
 <exit>
 :4565
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6484">
-「下着は重要なポイント！
-　下着で色気アップ！」
+"Underwear is critical!
+ Improve your sexiness with underwear!"
 #
 <name "Lazlocke">
-「……」
+"..."
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA6485">
-「明日はこれにしようかなぁ～♪」
+"I think I'll use these tomorrow.♪"
 #
 <name "Lazlocke">
-「どうせ脱ぐのに……」
+"It's just coming off anyway..."
 #
 <sprite "ta01a20.iph" 4 4 12>
 <name "Celes" "!AA6486">
-「師匠」
+"Master."
 #
 <removesprite -1 11>
-　三日に渡って下着の大事さを訴えられた。
+I spent the next three days learning the
+importance of underwear.
 #
 <exit>
 :4703
 <music 10>
 <background "bg002a0.iph" 11>
-『Ｈ知識』
+-- Sexuality --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6487">
-「師匠。
-　師匠は女性のどの部分に興奮しますか？」
+"Master, which part of the woman gets you most
+ excited?"
 #
 <name "Lazlocke">
-「は？」
+"Huh?"
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA6488">
-「その、胸とか、お尻とか、うなじとか……」
+"Um, like, the breasts, or the butt, or the
+ back of the neck..."
 #
 <name "Lazlocke">
-「うーん……」
+"Hmmm..."
 #
 <sprite "ta01a27.iph" 4 4 12>
 <name "Celes" "!AA6489">
-「悩みますか？」
+"You're not sure?"
 #
 <name "Lazlocke">
-「一応、どんな相手でも役に立つよう訓練されたか
-　らなぁ……」
+"I think I'm practiced enough to be able to
+ find any woman sexy in their own way..."
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6490">
-「ええ！
-　そうなんですか？」
+"Eeeh!?
+ Really?"
 #
 <name "Lazlocke">
-「ああ……しかし、強いてどこで興奮するかと言わ
-　れると……」
+"Yeah, but if I was forced what to pick turns
+ me on..."
 #
 <sprite "ta01a31.iph" 4 4 12>
 <name "Celes" "!AA6491">
-「と？」
+"Yes?"
 #
 <name "Lazlocke">
-「ぶっちゃけ穴だな」
+"To be blunt, the hole."
 #
 <sprite "ta01a37.iph" 4 4 12>
 <name "Celes" "!AA6492">
-「……………………………………師匠、直接的過ぎ
-　ます」
+".........Master, that's too blunt."
 #
 <name "Lazlocke">
-「いや、男として穴を見ると興奮するのは正しい反
-　応の筈だ」
+"No. As a man, getting turned on when you see
+ the hole is the correct response."
 #
 <name "Lazlocke">
-「だから……穴に近い尻も良いな。
-　いや、太股……腰も捨て難い。
-　まてまて、口も良い……
-　首筋も悪く無いし……胸は至宝だしなぁ」
+"So... the butt hole is good.
+ No, you can't ignore the thighs, or the hips.
+ Wait, the mouth's great too.
+ The neck's nice... Boobs are a treasure too."
 #
 <name "Lazlocke">
-「いやいや、胸が無くてもそれなりに楽しんでいる
-　から、胸のあるなしは大事じゃないのか？
-　そうじゃない。その胸のあるなしによって女の悩
-　む姿が……わかった！」
+"Well, I can enjoy it even without boobs, but
+ isn't it great when they're there?
+ But seeing a woman squirm because she's not
+ sure about her boobs... I know that well!"
 #
 <sprite "ta01a42.iph" 4 4 12>
 <name "Celes" "!AA6493">
-「なにをですか？
-　師匠がエロい事は十分わかりましたが」
+"What is wrong with you?
+ I get it already. 
+ You're a sex fiend."
 #
 <name "Lazlocke">
-「女の心の在り方が萌える！」
+"A woman's heart should be in bloom!"
 #
 <sprite "ta01a32.iph" 4 4 12>
 <name "Celes" "!AA6494">
-「は？」
+"Huh?"
 #
 <name "Lazlocke">
-「つまりだ……男を知らない女が、初めて異性に触
-　れた時の戸惑いとか……気丈な女が、身分の低い
-　者に触れられる屈辱とか……」
+"Meaning... a woman who doesn't know the touch
+ of a man, unsure of her first time...
+ A noble woman, disgraced to be touched by a
+ commoner..."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA6495">
-「師匠……
-　口を開く度に身を切ってますよ」
+"Master...
+ I will cut you for every further word you
+ say."
 #
 <name "Lazlocke">
-「そうか？」
+"Oh?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA6496">
-「あと、女性のどこの部分に興奮するかと言う質問
-　ですので」
+"And the question was about which part of a
+ woman turns you on."
 #
 <name "Lazlocke">
-「…………やっぱり、穴があれば文句無い」
+"...As long as there's a hole, I don't have any
+ problems."
 #
 <removesprite -1 11>
 <exit>
