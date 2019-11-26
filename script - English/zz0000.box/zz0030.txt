@@ -1,0 +1,79 @@
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a06.iph" 4 4 11>
+<name "ヴィオラ" "!BA1439">
+「やった、やった、やった♪」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "セリス" "!AA7243">
+「テンション高いなぁ」
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a27.iph" 6 4 11>
+<name "イエル" "!CA1365">
+「まあ、意中の人とのゴールインだからね」
+#
+<sprite "ta01a21.iph" 2 5 12>
+<name "セリス" "!AA7244">
+「でも、私も弟子として師匠とＨしたいです。
+　ヴィオラさんの独り占めはズルイです」
+#
+<sprite "ta02a04.iph" 6 4 12>
+<name "イエル" "!CA1367">
+「あ、私も私も」
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "ヴィオラ" "!BA1440">
+「ちゃーんと考えているわよ。
+　はい、スケジュール」
+#
+<removesprite -1 11>
+<sprite "ta02a09.iph" 4 4 11>
+<name "イエル" "!CA1369">
+「すでにスケジュール割をしているなんて、流石です」
+#
+<removesprite -1 11>
+<sprite "ta01a24.iph" 2 5 11>
+<sprite "ta02a09.iph" 6 4 11>
+<name "セリス" "!AA7245">
+「ちょっと待ってください。
+　なんですか、これは！」
+#
+<sprite "ta02a06.iph" 6 4 12>
+<name "イエル" "!CA1370">
+「え？」
+#
+<sprite "ta01a23.iph" 2 5 12>
+<name "セリス" "!AA7246">
+「私達の担当日は、年に一回じゃないですか」
+#
+<sprite "ta02a21.iph" 6 4 12>
+<name "イエル" "!CA1371">
+「あ、本当だ！
+　流石にズルイですよ」
+#
+<removesprite -1 11>
+<sprite "ta03a20.iph" 4 4 11>
+<name "ヴィオラ" "!BA1441">
+「本来なら、一瞬だって許す気は無いんだけど」
+#
+<removesprite -1 11>
+<sprite "ta02a37.iph" 4 4 11>
+<name "イエル" "!CA1372">
+「こ、こわっ」
+#
+<removesprite -1 11>
+<sprite "ta01a36.iph" 2 5 11>
+<sprite "ta02a37.iph" 6 4 11>
+<name "セリス" "!AA7247">
+「あの迫力……本気だ」
+#
+<removesprite -1 11>
+　まあ、なにはともあれ……
+#
+　本人の意思はまるっきり無視なんだね。
+#
+\x78\x78

@@ -1,0 +1,161 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :10E: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :10E: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :42: \x16 :16F: \x15 :16E: 
+:42
+\x1A\x01\x07\x04\x07\xDA\x84\x00\x01\x0E :75: \x1A\x01\x0A\x02\x00\xFE 30 \x01\x15 :75: \x16 :287: \x0A\x04\x07\xDA\x84\x01\x15 :16E: 
+:75
+\x1A\x01\x07\x04\x07\xDB\x84\x00\x01\x0E :A8: \x1A\x01\x0A\x02\x00\xFB 3 \x01\x15 :A8: \x16 :3FE: \x0A\x04\x07\xDB\x84\x01\x15 :16E: 
+:A8
+\x1A\x01\x07\x04\x07\xDC\x84\x00\x01\x0E :DB: \x1A\x01\x0A\x02\x00\xFB 4 \x01\x15 :DB: \x16 :4B5: \x0A\x04\x07\xDC\x84\x01\x15 :16E: 
+:DB
+\x1A\x01\x07\x04\x07\xDD\x84\x00\x01\x0E :10E: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :10E: \x16 :544: \x0A\x04\x07\xDD\x84\x01\x15 :16E: 
+:10E
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :16E: \x1A\x01\x0A\x02\x01\x02 1 \x01\x0E :16E: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :150: \x16 :690: \x15 :16E: 
+:150
+\x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :16E: \x16 :839: \x15 :16E: 
+:16E
+\x78
+:16F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c31.iph" 4 4 11>
+<name "セリス" "!AA3390">
+「祝福の塔って名前なのに、全然祝福されない……」
+#
+<name "ラズロック">
+「違う意味で祝福されてるからな……
+　大丈夫か？」
+#
+<sprite "ta01c92.iph" 4 4 12>
+<name "セリス" "!AA3391">
+「な、なんとか」
+#
+<removesprite -1 11>
+<exit>
+:287
+<music 10>
+<background "bg002a0.iph" 11>
+<name "ラズロック">
+「失敗したか……」
+#
+<sprite "ta01c32.iph" 4 4 11>
+<name "セリス" "!AA3392">
+「も、もう少しだったんです」
+#
+<name "ラズロック">
+「悔しそうだな」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "セリス" "!AA3393">
+「悔しいです」
+#
+<name "ラズロック">
+「だったら、何をすれば良いか解るな」
+#
+<sprite "ta01c20.iph" 4 4 12>
+<name "セリス" "!AA3394">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:3FE
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c32.iph" 4 4 11>
+<name "セリス" "!AA3395">
+「悔しい……」
+#
+<sprite "ta01c21.iph" 4 4 12>
+<name "セリス" "!AA3396">
+「で、でも……頑張る」
+#
+<removesprite -1 11>
+<exit>
+:4B5
+<music 10>
+<background "bg002a0.iph" 11>
+<name "ラズロック">
+「残念だったな」
+#
+<sprite "ta01c21.iph" 4 4 11>
+<name "セリス" "!AA3397">
+「次こそは！」
+#
+<removesprite -1 11>
+<exit>
+:544
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA3398">
+「ぬう……手強い。
+　しかし、私は負けない……
+　必ず戻って来て、征服してみせる！」
+#
+<name "ラズロック">
+「芝居掛かっているな。
+　どこのセリフだ？」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3399">
+「戦記物にあった戦術家のセリフです」
+#
+<removesprite -1 11>
+<exit>
+:690
+<music 10>
+<background "bg002a0.iph" 11>
+<name "ラズロック">
+「祝福の塔の守護者？」
+#
+<sprite "ta01c09.iph" 4 4 11>
+<name "セリス" "!AA3411">
+「はい。
+　頂上に到達した私を祝福してくれました」
+#
+<name "ラズロック">
+「本当に居たのか……」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3412">
+「はい。
+　姿は見えませんでしたが、声はハッキリと」
+#
+<name "ラズロック">
+「よかったな」
+#
+<sprite "ta01c17.iph" 4 4 12>
+<name "セリス" "!AA3413">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:839
+<music 10>
+<background "bg002a0.iph" 11>
+<name "ラズロック">
+「祝福の塔の守護者、オルナローザ」
+#
+<sprite "ta01c06.iph" 4 4 11>
+<name "セリス" "!AA3414">
+「あの声の主ですか？」
+#
+<name "ラズロック">
+「そうだ。
+　古代の魔法使い。
+　祝福の塔を造った本人だな」
+#
+<sprite "ta01c08.iph" 4 4 12>
+<name "セリス" "!AA3415">
+「そうなんですか……」
+#
+<name "ラズロック">
+「今度会えたら、名前を言ってやれ。
+　ビックリするから」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3416">
+「あはは……
+　そうですね」
+#
+<removesprite -1 11>
+<exit>
+\x78
