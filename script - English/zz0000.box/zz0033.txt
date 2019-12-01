@@ -1,0 +1,78 @@
+<music 25>
+<background "bg004a0.iph" 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "セリス" "!AA7255">
+「へいへい、ピッチ、リーリーリー」
+#
+<removesprite -1 11>
+<sprite "ta02a16.iph" 4 4 11>
+<name "イエル" "!CA1384">
+「牽制っ！」
+#
+<removesprite -1 11>
+<sprite "ta07a06.iph" 4 4 11>
+<name "ジャッジマン" "!FA0378">
+「セーフ！」
+#
+<removesprite -1 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "セリス" "!AA7256">
+「へいへい、リーリーリー」
+#
+<removesprite -1 11>
+<sprite "ta02a16.iph" 4 4 11>
+<name "イエル" "!CA1385">
+「牽制っ！」
+#
+<removesprite -1 11>
+<sprite "ta07a06.iph" 4 4 11>
+<name "ジャッジマン" "!FA0379">
+「セーフ！」
+#
+<removesprite -1 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "セリス" "!AA7257">
+「へいへいへいへい、リーリーリー」
+#
+<removesprite -1 11>
+<sprite "ta02a32.iph" 4 4 11>
+<name "イエル" "!CA1386">
+「暴投っ！」
+#
+<removesprite -1 11>
+<sprite "ta01a22.iph" 4 4 11>
+<name "セリス" "!AA7259">
+「ダッシュ＆二塁ゲット！」
+#
+<removesprite -1 11>
+<sprite "ta02a37.iph" 4 4 11>
+<name "イエル" "!CA1387">
+「しまった」
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "セリス" "!AA7260">
+「一点先取ね。
+　じゃあ、交替」
+#
+<removesprite -1 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "イエル" "!CA1388">
+「うん。
+　リーリーリー……」
+#
+<removesprite -1 11>
+<name "ラズロック">
+「……何をやっているんだ？」
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "セリス" "!AA7261">
+「ベースボールです」
+#
+<name "ラズロック">
+「そうか……
+　俺はベースボールの事を良く知らないが、きっと
+　牽制のみで成立するゲームじゃないと思うぞ」
+#
+<removesprite -1 11>
+\x2B\x78\x78

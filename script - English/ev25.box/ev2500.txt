@@ -1,0 +1,131 @@
+\x0B\x02\x01\xA8\x02\x01\xA8 1 \x1A\x01\x07\x04\x07\x4E\x84\x00\x01\x0E :45: \x1A\x01\x0A\x02\x00\x18 5000 \x01\x0E :45: \x16 :105: \x0A\x04\x07\x4E\x84\x01\x0A\x04\x00\xF5\x84\x01\x15 :FC: 
+:45
+\x1A\x01\x07\x04\x07\x4F\x84\x00\x01\x0E :78: \x1A\x01\x0A\x02\x00\x18 5001 \x01\x0E :78: \x16 :528: \x0A\x04\x07\x4F\x84\x01\x15 :FC: 
+:78
+\x1A\x01\x0A\x02\x01\xA8 10 \x01\x0E :90: \x0A\x04\x00\xF6\x84\x01
+:90
+\x1A\x01\x07\x04\x07\x50\x84\x00\x01\x0E :C9: \x1A\x01\x0A\x02\x00\x18 5002 \x01\x0E :C9: \x16 :657: \x0A\x04\x07\x50\x84\x01\x0A\x04\x00\xF7\x84\x01\x15 :FC: 
+:C9
+\x1A\x01\x07\x04\x07\x51\x84\x00\x01\x0E :FC: \x1A\x01\x0A\x02\x00\x18 5003 \x01\x0E :FC: \x16 :76E: \x0A\x04\x07\x51\x84\x01\x15 :FC: 
+:FC
+<music 29>
+\x2B\x78
+:105
+<background "bg004a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4191">
+"Fight monsters?"
+#
+<name "Lazlocke">
+"Yeah, but not a real fight.
+ It's a magical simulation that takes place in
+ your head."
+#
+<name "Lazlocke">
+"Since it's all in your head, it won't take
+ much time, and you won't be injured.
+ You don't need to worry about using up your
+ mana either."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4192">
+"That sounds convenient."
+#
+<name "Lazlocke">
+"But unfortunately, you can't learn from it
+ either."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA4193">
+"Really?
+ Can't I learn even from training that takes
+ place in my head?"
+#
+<name "Lazlocke">
+"You forget it."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA4194">
+"Huh?"
+#
+<name "Lazlocke">
+"You forget it almost right away.
+ It's basically like a dream."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA4195">
+"Really?"
+#
+<name "Lazlocke">
+"Yeah, but you can learn other things from doing
+ it. It's not a waste of time.
+ Anyway, just give it a try."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4196">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:528
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Let's have you practice mock fights against
+ other people."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4197">
+"Like her?"
+#
+<name "Lazlocke">
+"Yeah. I'll find suitable opponents for you.
+ They shouldn't be that strong.
+ Good luck."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4198">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:657
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"This time, I'm going to bring out a bunch of
+ monsters."
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA4199">
+"A bunch?"
+#
+<name "Lazlocke">
+"Yeah, but don't worry.
+ It won't be too many."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA4200">
+"Thank you."
+#
+<removesprite -1 11>
+<exit>
+:76E
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Increase the number of your opponents?"
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA4201">
+"Yes. I want to find out what I can do against
+ a large number of enemies."
+#
+<name "Lazlocke">
+"All right.
+ Do your best."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA4202">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+\x78

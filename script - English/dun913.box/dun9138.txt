@@ -1,0 +1,78 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :123: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :123: \x1A\x01\x07\x04\x08\x0C\x84\x00\x01\x0E :57: \x1A\x01\x0A\x02\x00\xFE 10 \x01\x14 :57: \x16 :136: \x0A\x04\x08\x0C\x84\x01\x15 :135: 
+:57
+\x1A\x01\x07\x04\x08\x0D\x84\x00\x01\x0E :8A: \x1A\x01\x0A\x02\x00\xFE 40 \x01\x14 :8A: \x16 :20A: \x0A\x04\x08\x0D\x84\x01\x15 :135: 
+:8A
+\x1A\x01\x07\x04\x08\x0E\x84\x00\x01\x0E :BD: \x1A\x01\x0A\x02\x00\xFE 60 \x01\x14 :BD: \x16 :2A4: \x0A\x04\x08\x0E\x84\x01\x15 :135: 
+:BD
+\x1A\x01\x07\x04\x08\x0F\x84\x00\x01\x0E :F0: \x1A\x01\x0A\x02\x00\xFE 80 \x01\x14 :F0: \x16 :3A3: \x0A\x04\x08\x0F\x84\x01\x15 :135: 
+:F0
+\x1A\x01\x07\x04\x08\x10\x84\x00\x01\x0E :123: \x1A\x01\x0A\x02\x00\xFE 81 \x01\x15 :123: \x16 :441: \x0A\x04\x08\x10\x84\x01\x15 :135: 
+:123
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :135: 
+:135
+\x78
+:136
+<background "bg002a0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA3667">
+「は、話になりませんでした……」
+#
+<name "ラズロック">
+「まあまあ、気を落とすな。
+　ここまで来ると、登れるヤツの方が珍しいんだ」
+#
+<removesprite -1 11>
+<exit>
+:20A
+<background "bg002a0.iph" 11>
+<sprite "ta01c42.iph" 4 4 11>
+<name "セリス" "!AA3668">
+「む……
+　さ、先は長そうです」
+#
+<name "ラズロック">
+「無茶をするな」
+#
+<removesprite -1 11>
+<exit>
+:2A4
+<background "bg002a0.iph" 11>
+<name "ラズロック">
+「なにか、感想は？」
+#
+<sprite "ta01c36.iph" 4 4 11>
+<name "セリス" "!AA3669">
+「い、良い汗をかきました」
+#
+<name "ラズロック">
+「冷や汗もあるだろ」
+#
+<sprite "ta01c42.iph" 4 4 12>
+<name "セリス" "!AA3670">
+「……はい」
+#
+<removesprite -1 11>
+<exit>
+:3A3
+<background "bg002a0.iph" 11>
+<name "ラズロック">
+「大丈夫か？」
+#
+<sprite "ta01c42.iph" 4 4 11>
+<name "セリス" "!AA3671">
+「な、なんとか……まだ……生きてます」
+#
+<removesprite -1 11>
+<exit>
+:441
+<background "bg002a0.iph" 11>
+<sprite "ta01c20.iph" 4 4 11>
+<name "セリス" "!AA3672">
+「あ、あと少し……な感じがします……」
+#
+<name "ラズロック">
+「よしよし」
+#
+<removesprite -1 11>
+<exit>
+\x78
