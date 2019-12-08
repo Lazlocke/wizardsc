@@ -95,18 +95,19 @@
 :9D3
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4210">
-「こっちが良いかなぁ～、それともこっちかも……
-　うーん、悩む」
+<name "Celes" "!AA4210">
+"This is one good?
+ Or maybe this one...
+ Hmm... I'm not sure."
 #
-<name "ラズロック">
-「時間が無くなるぞ」
+<name "Lazlocke">
+"You're wasting time."
 #
-<name "セリス" "!AA4211">
-「え、あ、い、急ぎます」
+<name "Celes" "!AA4211">
+"Huh? Oh, I-I'll hurry up."
 #
-　そう確かに聞いたのに、買物が終ったのはかなり
-　後だった。
+So she said, but we were out shopping for hours
+after that.
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -114,16 +115,16 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA4212">
-「師匠、買物に行きませんか？」
+<name "Celes" "!AA4212">
+"Master, would you like to come shopping?"
 #
-<name "ラズロック">
-「……そうだな。
-　食材の購入も兼ねて、行くか」
+<name "Lazlocke">
+"All right.
+ We can pick up food too."
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "セリス" "!AA4213">
-「はい」
+<name "Celes" "!AA4213">
+"Okay."
 #
 <removesprite -1 11>
 <exit>
@@ -131,34 +132,33 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA4214">
-「師匠。
-　買物にコツってありますか？」
+<name "Celes" "!AA4214">
+"Master, do you have any tips for shopping?"
 #
-<name "ラズロック">
-「必要な物を買って、不必要な物を買わない」
+<name "Lazlocke">
+"Buy what you need.
+ Don't buy what you don't."
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "セリス" "!AA4215">
-「む、難しそうな極意ですね」
+<name "Celes" "!AA4215">
+"T-That's a pretty hard tip."
 #
 <removesprite -1 11>
 <exit>
 :CF2
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「セリス。
-　なんだったら、家具とかを買って部屋を明るくす
-　るのはどうだ？」
+<name "Lazlocke">
+"Celes, how about buying this furniture and
+ brightening up the room?"
 #
-<name "ラズロック">
-「良い部屋だと、自然と勉強にも身が入るぞ」
+<name "Lazlocke">
+"A nice room is good for the body and the mind."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA4216">
-「そうですね。
-　考えます」
+<name "Celes" "!AA4216">
+"All right.
+ I'll think about it."
 #
 <removesprite -1 11>
 <exit>
@@ -166,72 +166,72 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA4217">
-「師匠。
-　武器と防具。
-　どちらから先に買ったら良いでしょう？」
+<name "Celes" "!AA4217">
+"Master, what should I buy first, weapons or
+ armor?"
 #
-<name "ラズロック">
-「ケースによるが……
-　俺は防具から揃えるな」
+<name "Lazlocke">
+"That depends, but I always go with the armor."
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "セリス" "!AA4218">
-「どうしてですか？」
+<name "Celes" "!AA4218">
+"Why?"
 #
-<name "ラズロック">
-「痛いのが嫌だから」
+<name "Lazlocke">
+"I hate getting hurt."
 #
 <sprite "ta01a89.iph" 4 4 12>
-<name "セリス" "!AA4219">
-「なるほど」
+<name "Celes" "!AA4219">
+"I see."
 #
-<name "ラズロック">
-「殴られる前に殴るの精神で、先に武器を買うのも
-　悪く無いと思うぞ」
+<name "Lazlocke">
+"If your thought is hit them before they can
+ hit you, though, it might not be a bad idea to
+ buy weapons first."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA4220">
-「考えます」
+<name "Celes" "!AA4220">
+"I'll think about it."
 #
 <removesprite -1 11>
 <exit>
 :1037
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4221">
-「あれ？
-　新商品？」
+<name "Celes" "!AA4221">
+"Huh?
+ New items?"
 #
-<name "店員" "!SB0164">
-「ああ、新しいのが入ったよ。
-　見ていってくれ」
+<name "Merchant" "!SB0164">
+"Yeah. We've got some new stuff.
+ Have a look."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :10CC
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4222">
-「あ、新商品だ」
+<name "Celes" "!AA4222">
+"Oh, new items."
 #
-<name "店員" "!SB0165">
-「おう、見てってくれよ」
+<name "Merchant" "!SB0165">
+"Yeah. 
+ Take a look."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :1141
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4223">
-「私が売った商品。
-　四倍の値段で売られている……」
+<name "Celes" "!AA4223">
+"I sold them this.
+ They're selling it for four times as much..."
 #
-<name "ラズロック">
-「商売とはそういう物だ」
+<name "Lazlocke">
+"That's how business for you."
 #
-<name "セリス" "!AA4224">
-「むう……」
+<name "Celes" "!AA4224">
+"Grr..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -239,44 +239,44 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA0275">
-「セリス。
-　お出掛け？」
+<name "Elle" "!CA0275">
+"Celes.
+ You're out and about?"
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "セリス" "!AA4225">
-「うん。
-　お買物」
+<name "Celes" "!AA4225">
+"Yeah. I'm shopping."
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "イエル" "!CA0276">
-「へー、良いわね」
+<name "Elle" "!CA0276">
+"Oh? Good for you."
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "セリス" "!AA4226">
-「イエルちゃんは？」
+<name "Celes" "!AA4226">
+"What about you?"
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "イエル" "!CA0277">
-「修行。
-　この街に隠された猫の像を探さなきゃいけないの。
-　どこかで見た？」
+<name "Elle" "!CA0277">
+"Training.
+ I have to find a cat statue hidden in town.
+ Have you seen one anywhere?"
 #
 <sprite "ta01a07.iph" 2 5 12>
-<name "セリス" "!AA4227">
-「そう言えば、パン屋さんの横の路地に……」
+<name "Celes" "!AA4227">
+"Now that you mention it, I did see something in
+ the alley next to the bakery."
 #
 <sprite "ta02a01.iph" 6 4 12>
-<name "イエル" "!CA0278">
-「パン屋って、ウィットニーさんの所？
-　ありがとう。
-　行ってみるわ」
+<name "Elle" "!CA0278">
+"The bakery? You mean Whitney's place?
+ Thank you.
+ I'm off."
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "セリス" "!AA4228">
-「頑張ってね」
+<name "Celes" "!AA4228">
+"Good luck."
 #
 <removesprite -1 11>
 <exit>
@@ -284,35 +284,35 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA0279">
-「セリス。
-　お買物？」
+<name "Elle" "!CA0279">
+"Out shopping, Celes?"
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "セリス" "!AA4229">
-「うん。
-　イエルちゃんは？」
+<name "Celes" "!AA4229">
+"Yeah.
+ You?"
 #
 <sprite "ta02a27.iph" 6 4 12>
-<name "イエル" "!CA0280">
-「……買い出し。
-　師匠の家のメイドの半分が風邪で倒れちゃって」
+<name "Elle" "!CA0280">
+"...Stocking up.
+ Half the maids at my master's house have come
+ down with the flu."
 #
 <sprite "ta01a08.iph" 2 5 12>
-<name "セリス" "!AA4230">
-「大丈夫なの？」
+<name "Celes" "!AA4230">
+"Are you going to be okay?"
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "イエル" "!CA0281">
-「問題無いわ。
-　セリスも風邪には気を付けてね」
+<name "Elle" "!CA0281">
+"I'll be fine.
+ You should take care you don't get sick."
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "セリス" "!AA4231">
-「うん。
-　イエルちゃんもね」
+<name "Celes" "!AA4231">
+"Yeah.
+ You too."
 #
 <removesprite -1 11>
 <exit>
@@ -324,8 +324,8 @@
 \x52 "ta10b09.iph"  4  4  11 
 :17EF
 \x2B
-<name "イングウェイ" "!TA0077">
-「買物か？」
+<name "Ingway" "!TA0077">
+"Out shopping?"
 #
 <removesprite -1 11>
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :1874: \x52 "ta01a07.iph"  2  5  11 \x52 "ta10a09.iph"  6  4  11 \x18 :18AE: 
@@ -333,33 +333,33 @@
 \x52 "ta01a07.iph"  2  5  11 \x52 "ta10b09.iph"  6  4  11 
 :18AE
 \x2B
-<name "セリス" "!AA4232">
-「うん」
+<name "Celes" "!AA4232">
+"Yeah."
 #
 \x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :18FF: \x52 "ta10a11.iph"  6  4  11 \x18 :191C: 
 :18FF
 \x52 "ta10b11.iph"  6  4  11 
 :191C
 \x2B
-<name "イングウェイ" "!TA0078">
-「時間があるなら、食べないか？」
+<name "Ingway" "!TA0078">
+"If you've got time, want to eat this with me?"
 #
 <sprite "ta01a06.iph" 2 5 11>
-<name "セリス" "!AA4233">
-「？」
+<name "Celes" "!AA4233">
+"Hm?"
 #
 \x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :19C6: \x52 "ta10a18.iph"  6  4  11 \x18 :19E3: 
 :19C6
 \x52 "ta10b18.iph"  6  4  11 
 :19E3
 \x2B
-<name "イングウェイ" "!TA0079">
-「ミウの実だ。
-　森に戻った時に持って来たんだ」
+<name "Ingway" "!TA0079">
+"It's a meeu fruit.
+ I brought it back from the forest."
 #
 <sprite "ta01a15.iph" 2 5 11>
-<name "セリス" "!AA4234">
-「ありがとう」
+<name "Celes" "!AA4234">
+"Thank you."
 #
 <removesprite -1 11>
 <exit>
@@ -367,42 +367,41 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta12a00.iph" 4 4 11>
-<name "リノ" "!PA0033">
-「よう」
+<name "Reno" "!PA0033">
+"Hey."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta12a00.iph" 6 4 11>
-<name "セリス" "!AA4235">
-「こんにちは」
+<name "Celes" "!AA4235">
+"Hello."
 #
 <sprite "ta12a02.iph" 6 4 12>
-<name "リノ" "!PA0034">
-「買物か？」
+<name "Reno" "!PA0034">
+"Shopping?"
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "セリス" "!AA4236">
-「ええ」
+<name "Celes" "!AA4236">
+"Yes."
 #
 <sprite "ta12a07.iph" 6 4 12>
-<name "リノ" "!PA0035">
-「そうか。
-　……時間があるなら、ちょっと手伝ってくれない
-　か？」
+<name "Reno" "!PA0035">
+"I see.
+ If you have time, could I ask for your help?"
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "セリス" "!AA4237">
-「手伝う？」
+<name "Celes" "!AA4237">
+"My help?"
 #
 <sprite "ta12a00.iph" 6 4 12>
-<name "リノ" "!PA0165">
-「あの店で、一人三個までの商品がある。
-　六個欲しいんだ。
-　行くぞ」
+<name "Reno" "!PA0165">
+"That shop limits purchases to three per person.
+ I want six.
+ Let's go."
 #
 <sprite "ta01a92.iph" 2 5 12>
-<name "セリス" "!AA4238">
-「ああ、手伝うって言ってないのに……」
+<name "Celes" "!AA4238">
+"Ah, I didn't say I'd help..."
 #
 <removesprite -1 11>
 <exit>
@@ -410,306 +409,315 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta15a00.iph" 4 4 11>
-<name "プシェル" "!SA0026">
-「あら、お買物？」
+<name "Puschel" "!SA0026">
+"Oh my. Out shopping?"
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta15a00.iph" 6 4 11>
-<name "セリス" "!AA4239">
-「ええ……」
+<name "Celes" "!AA4239">
+"Yes..."
 #
 <sprite "ta15a24.iph" 6 4 12>
-<name "プシェル" "!SA0027">
-「良いわね。
-　私なんか、これから学園で講義しないといけない
-　から大変よ」
+<name "Puschel" "!SA0027">
+"Good for you.
+ I have to give a lecture at the school, so I've
+ got my hands full."
 #
 <sprite "ta15a13.iph" 6 4 12>
-<name "プシェル" "!SA0028">
-「前日から準備しているのに、私の講義を理解でき
-　る生徒なんて一握りも良いとこ」
+<name "Puschel" "!SA0028">
+"I've been getting ready since yesterday.
+ There's only a handful of students who can 
+ understand my lectures."
 #
 <sprite "ta15a12.iph" 6 4 12>
-<name "プシェル" "!SA0029">
-「はぁ～……
-　講義、受けに来る？
-　理解者は一人でも多い方が良いから、特別に女で
-　ある事には目をつぶるわ」
+<name "Puschel" "!SA0029">
+"Sigh... Could I ask you to attend? I prefer
+ that they're accessible to everyone, but I
+ have a blind spot when it comes to girls."
 #
 <sprite "ta01a89.iph" 2 5 12>
-<name "セリス" "!AA4240">
-「……興味あります」
+<name "Celes" "!AA4240">
+"...I am curious."
 #
 <sprite "ta15a00.iph" 6 4 12>
-<name "プシェル" "!SA0030">
-「じゃあ、変装してついてきなさい」
+<name "Puschel" "!SA0030">
+"Okay. Find a disguise and come with me."
 #
 <sprite "ta01a15.iph" 2 5 12>
-<name "セリス" "!AA4241">
-「はい」
+<name "Celes" "!AA4241">
+"All right."
 #
 <removesprite -1 11>
-　買物中、セリスはプシェルの講義を受けに学園に
-　潜り込んだ。
+Celes paused her shopping trip to sneak into a
+school lecture with Puschel.
 #
-　その後、買物に戻ったようだ。
+...And then went right back to shopping
+afterwards.
 #
 <exit>
 :2133
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4242">
-「あれ、今日はなんだか店が綺麗……」
+<name "Celes" "!AA4242">
+"Oh? The store seems so pretty today."
 #
-<name "店員" "!SB0166">
-「実は、武器屋品評会ってのがあってな」
+<name "Merchant" "!SB0166">
+"Well, you see, there's a weapon shop
+ competition going on."
 #
-<name "セリス" "!AA4243">
-「武器屋品評会？」
+<name "Celes" "!AA4243">
+"A weapon shop competition?"
 #
-<name "店員" "!SB0167">
-「そう、武器屋品評会。
-　この街で一番、優れた武器を取り扱っている店を
-　決める大会さ」
+<name "Merchant" "!SB0167">
+"Yeah, a weapon shop competition.
+ It's a contest to find the city's best weapon
+ shop."
 #
-<name "セリス" "!AA4244">
-「へー。
-　それで綺麗に」
+<name "Celes" "!AA4244">
+"Oh?
+ So that's why it's all so tidy."
 #
-<name "店員" "!SB0168">
-「まあな」
+<name "Merchant" "!SB0168">
+"Yep."
 #
-<name "セリス" "!AA4245">
-「でも……あまり、品評会の最中って感じがしない
-　けど？」
+<name "Celes" "!AA4245">
+"But... it doesn't feel like I'm in the middle
+ of a competition."
 #
-<name "店員" "!SB0169">
-「審査員は、客に扮して来るのさ。
-　普段の応対を見る為にな」
+<name "Merchant" "!SB0169">
+"The judges pretend to be customers to see how
+ we treat regular people."
 #
-<name "セリス" "!AA4246">
-「なるほど」
+<name "Celes" "!AA4246">
+"I see."
 #
-<name "店員" "!SB0170">
-「まあ、そう言うワケで……
-　できるだけ協力してくれ」
+<name "Merchant" "!SB0170">
+"Well, so that's why...
+ Please lend me a hand here."
 #
-<name "セリス" "!AA4247">
-「協力？」
+<name "Celes" "!AA4247">
+"A hand?"
 #
-<name "店員" "!SB0171">
-「大きな声で、ウチの商品は良いなぁと」
+<name "Merchant" "!SB0171">
+"Talk really loudly about how good our stuff
+ is."
 #
-<name "セリス" "!AA4248">
-「この店、品揃えが良いわねぇ。
-　あ、欲しかった武器だ。
-　ラッキー♪」
+<name "Celes" "!AA4248">
+"There's such a great select in this store!
+ Ah! That's the weapon I wanted!
+ Lucky!♪"
 #
-<name "店員" "!SB0172">
-「お菓子をやろう」
+<name "Merchant" "!SB0172">
+"How about a pastry?"
 #
-<name "セリス" "!AA4249">
-「半額」
+<name "Celes" "!AA4249">
+"Half price."
 #
-<name "店員" "!SB0173">
-「こ、今回だけだぞ……」
+<name "Merchant" "!SB0173">
+"J-Just this once."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :24E8
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4250">
-「武器屋品評会、結果はどうだったの？」
+<name "Celes" "!AA4250">
+"How'd the weapon shop competition turn out?"
 #
-<name "店員" "!SB0174">
-「……聞かないでくれ」
+<name "Merchant" "!SB0174">
+"...Don't ask."
 #
-<name "セリス" "!AA4251">
-「じゃあ、優勝した店に買いに行ってきます」
+<name "Celes" "!AA4251">
+"Then I'll go shop at the winning store."
 #
-<name "店員" "!SB0175">
-「待って！
-　六位です。
-　これからも頑張るから、常連を止めないで」
+<name "Merchant" "!SB0175">
+"Wait!
+ We came in sixth.
+ Please keep coming.
+ We're trying to improve!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :260B
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4252">
-「店が綺麗になってる……
-　武器屋品評会が始まったのね」
+<name "Celes" "!AA4252">
+"The store looks so tidy.
+ The weapon shop competition must have started."
 #
-<name "店員" "!SB0176">
-「そういう判断の仕方は止めて欲しいなぁ」
+<name "Merchant" "!SB0176">
+"Please stop assuming that."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :26B9
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4253">
-「結果はどうでした？」
+<name "Celes" "!AA4253">
+"How'd it turn out?"
 #
-<name "店員" "!SB0177">
-「わはは……
-　相変わらず」
+<name "Merchant" "!SB0177">
+"Hahaha...
+ Same as usual."
 #
-<name "セリス" "!AA4254">
-「残念でしたね」
+<name "Celes" "!AA4254">
+"Too bad."
 #
-<name "店員" "!SB0178">
-「うん、だからたくさん買ってくれると嬉しい」
+<name "Merchant" "!SB0178">
+"Yeah, so it'd cheer me up if you bought a lot."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :279F
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4255">
-「店が綺麗に……」
+<name "Celes" "!AA4255">
+"The store's so pretty..."
 #
-<name "店員" "!SB0179">
-「武器屋品評会、開催さ！」
+<name "Merchant" "!SB0179">
+"The weapon shop competition is on!"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2818
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4256">
-「あ、ニコニコしてる」
+<name "Celes" "!AA4256">
+"Oh, you're smiling."
 #
-<name "店員" "!SB0180">
-「え？
-　そう？
-　そんな事、ないけどなぁ」
+<name "Merchant" "!SB0180">
+"Oh?
+ Am I?
+ No, not at all."
 #
-<name "セリス" "!AA4257">
-「……何位だったの？」
+<name "Celes" "!AA4257">
+"...What place did you get?"
 #
-<name "店員" "!SB0181">
-「何位だって？
-　いやぁ、自慢するほどじゃあないけど……
-　三位」
+<name "Merchant" "!SB0181">
+"What place, you ask?
+ Oh, I don't mean to brag or anything...
+ Third place."
 #
-<name "店員" "!SB0182">
-「三位だよ。
-　三位。
-　今度、看板に三位って書こうかなぁ」
+<name "Merchant" "!SB0182">
+"Third place. Third!
+ I think I'll write that we got third on our
+ sign."
 #
-<name "セリス" "!AA4258">
-「……そうしたら、もう来ないでおこう」
+<name "Celes" "!AA4258">
+"...Then I'm going to stop shopping here."
 #
-<name "店員" "!SB0183">
-「浮かれて、すみませんでした」
+<name "Merchant" "!SB0183">
+"I'm sorry.
+ I'm just on cloud nine."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :29ED
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0184">
-「おっ、良いタイミングで来たな。
-　今日は半額セールだぜ」
+<name "Merchant" "!SB0184">
+"Oh. Your timing is perfect.
+ We're having a half-price sale today."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2A5F
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0185">
-「半額セールだ。
-　たっぷり買っていってくれ」
+<name "Merchant" "!SB0185">
+"Today's a half-price sale
+ Make sure you buy a lot."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2AC5
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0186">
-「今日は半額セールだ。
-　どーんと買物していってくれ」
+<name "Merchant" "!SB0186">
+"Today everything's half off.
+ Shop your heart out."
 #
-<name "セリス" "!AA4259">
-「はい。
-　でも、お値段じゃなくて、商品と相談します。
-　半額でも、必要のない物にお金は出せません」
+<name "Celes" "!AA4259">
+"Yeah, but I'm interested in the products, not
+ the price. Even if it's half off, I can't spend
+ money on frivolous things."
 #
-<name "店員" "!SB0187">
-「き、厳しいなぁ……」
+<name "Merchant" "!SB0187">
+"Y-You're heartless..."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2BD9
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0188">
-「半額セール開催中だよ」
+<name "Merchant" "!SB0188">
+"We're having a half-off sale."
 #
-<name "セリス" "!AA4260">
-「ラッキーです」
+<name "Celes" "!AA4260">
+"How lucky."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2C4E
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0189">
-「半額セールは年に一度。
-　一定期間しか行なっていないんだよ」
+<name "Merchant" "!SB0189">
+"Our half-price sale is once a year.
+ It's limited time only."
 #
-<name "セリス" "!AA4261">
-「そうだったんですか……
-　ええと、いつだったかなぁ？」
+<name "Celes" "!AA4261">
+"Oh, is it?
+ Um... when was it again?"
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2D13
 <music 31>
 <background "ev029a0.iph" 11>
-<name "セリス" "!AA4262">
-「なんですか？
-　この値段？」
+<name "Celes" "!AA4262">
+"What's going on?
+ Why is this so expensive?"
 #
-<name "店員" "!SB0190">
-「すまない。
-　戦争が始まって、商品価格が高騰したんだ。
-　武器とかは国や貴族が優先的に買っていくしよ」
+<name "Merchant" "!SB0190">
+"I'm sorry. Since the war began, the price of
+ goods has skyrocketed.
+ The kingdom and nobility are buying up all the
+ weaponry."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2DE9
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0191">
-「戦争で、商品の値段が上がって仕方がない」
+<name "Merchant" "!SB0191">
+"The war's caused the price of supplies to go
+ up."
 #
-<name "セリス" "!AA4263">
-「逆に言えば高く買い取ってくれるって事ですよね」
+<name "Celes" "!AA4263">
+"But on the other hand, that lets you sell
+ things for a lot, right?"
 #
-<name "店員" "!SB0192">
-「ああ、高く買い取らせて貰うよ。
-　ダンジョンとかで何か手に入れたら売りに来てよ」
+<name "Merchant" "!SB0192">
+"Yeah, I'll give you top coin.
+ If you find something in a dungeon, bring it to
+ me."
 #
-<name "セリス" "!AA4264">
-「そうですね。
-　そうします」
+<name "Celes" "!AA4264">
+"All right.
+ I will."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
 :2F2C
 <music 31>
 <background "ev029a0.iph" 11>
-<name "店員" "!SB0193">
-「武器を扱っていてなんだが、戦争は嫌だね。
-　早く終わってくれないかな」
+<name "Merchant" "!SB0193">
+"I know I deal in weapons, but I hate war.
+ I hope it's over soon."
 #
-<name "セリス" "!AA4265">
-「同感です」
+<name "Celes" "!AA4265">
+"Me too."
 #
 \x0A\x24\x00\x0F\x84\x01
 <exit>
@@ -717,13 +725,13 @@
 <music 31>
 <background "ev029a0.iph" 11>
 \x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :303C: 
-<name "セリス" "!AA4373">
-「何を買おうかな……」
+<name "Celes" "!AA4373">
+"What should I buy?"
 #
 :303C
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3070: 
-<name "セリス" "!AA4374">
-「お買物♪」
+<name "Celes" "!AA4374">
+"Shopping time!♪"
 #
 :3070
 <exit>
