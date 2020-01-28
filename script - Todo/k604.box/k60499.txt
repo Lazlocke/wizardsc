@@ -180,46 +180,45 @@
 :19D8
 <music 12>
 <background "bg013a0.iph" 11>
-<name "喜ぶ住人" "!QB0179">
-「祭じゃ祭じゃ♪
-　わはははははは♪」
+<name "Celebrating Man" "!QB0179">
+"Festival time!♪
+ Hahahahahaha!♪"
 #
-<name "踊る住人" "!RB0208">
-「踊れ踊れ♪」
+<name "Dancing Man" "!RB0208">
+"Dance! Dance!♪"
 #
-<name "笑う住人" "!SB0212">
-「うわはははは♪」
-#
-<name "Lazlocke">
-「あー、あれは駄目な部分だ。
-　こっちの華やかな部分を見ろ」
-#
-<name "微笑む娘" "!GA0127">
-「みてみて、あの子。
-　可愛いわねぇ」
-#
-<name "歓喜する娘" "!HA0160">
-「そうねぇ、あ……きゃぁぁっ！
-　しょ、少年同士の抱擁なんて……」
-#
-<name "興奮する娘" "!IA0049">
-「は、鼻血が……」
+<name "Laughing Man" "!SB0212">
+"Hahahahaha!♪"
 #
 <name "Lazlocke">
-「えっと……こっちは、こっちで変か……」
+"Aah, this place is no good.
+ Look at all the decorations over there."
+#
+<name "Smiling Girl" "!GA0127">
+"Look at that kid!
+ So cute!"
+#
+<name "Party Girl" "!HA0160">
+"Yeah... Ah! Eeeek!
+ T-Those boys are hugging..."
+#
+<name "Excited Girl" "!IA0049">
+"M-My nose..."
+#
+<name "Lazlocke">
+"Um... Maybe here isn't so good..."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4469">
-「師匠。
-　お店とか回っても良いですか？」
+"Master, can we go see all the shops?"
 #
 <name "Lazlocke">
-「年に一度のお祭りだ。
-　楽しめ」
+"The festival only comes once a year.
+ Let's enjoy it."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA4470">
-「はい♪」
+"Yes, sir!♪"
 #
 <removesprite -1 11>
 <exit>
@@ -228,331 +227,336 @@
 <background "bg008a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0291">
-「そう言えば、今日は王国祭。
-　お祭ですね」
+"Come to think of it, the royal fair is today.
+ It's festival time."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
 <name "Viola" "!BA0373">
-「そうね」
+"Indeed."
 #
 <sprite "ta02a01.iph" 6 5 12>
 <name "Elle" "!CA0292">
-「師匠はお祭に行く予定なんかは……」
+"Were you planning on going to the festival?"
 #
 <sprite "ta03a08.iph" 2 4 12>
 <name "Viola" "!BA0374">
-「行かないと、何か失うのかしら？」
+"Would I miss out on anything if I didn't?"
 #
 <sprite "ta02a00.iph" 6 5 12>
 <name "Elle" "!CA0293">
-「い、いえ、別に……」
+"N-No, not really..."
 #
 <sprite "ta03a11.iph" 2 4 12>
 <name "Viola" "!BA0375">
-「くだらない事に興味を持たないで、修行に励みな
-　さい。
-　私は奥の部屋で資料をまとめています。
-　邪魔しないように」
+"Don't be distracted by frivolous things.
+ Focus on your studies.
+ I'll be gathering documents in the back room.
+ Don't bother me."
 #
 <sprite "ta02a01.iph" 6 5 12>
 <name "Elle" "!CA0294">
-「は、はい……頑張ってください……」
+"Y-Yes, ma'am...
+ Good luck..."
 #
 <removesprite -1 11>
-　数分後、ヴィオラ邸の呼び鈴が鳴らされた。
+A few minutes after that, the doorbell rings.
 #
 <sprite "ta02a00.iph" 4 4 11>
 <name "Elle" "!CA0295">
-「誰ですか？」
+"Who is it?"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「俺だ」
+"Me."
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4471">
-「私です」
+"And me."
 #
 <removesprite -1 11>
 <sprite "ta02a01.iph" 4 4 11>
 <name "Elle" "!CA0296">
-「……」
+"..."
 #
 <name "Lazlocke">
-「なにをぼーっとしている。
-　祭りに行くぞ」
+"What are you waiting for?
+ Let's go to the festival."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a01.iph" 6 4 11>
 <name "Celes" "!AA4472">
-「一緒に行かない？」
+"Are you coming?"
 #
 <sprite "ta02a14.iph" 6 4 12>
 <name "Elle" "!CA0298">
-「ごほん。
-　何を言っているのです。
-　我々魔法使いは、お祭りになど現を抜かさず、修
-　行に励むべきではありませんか」
+"Ahem. What are you talking about?
+ We wizards should not be distracted by silly
+ festivals. Shouldn't you be training?"
 #
 <name "Lazlocke">
-「一日ぐらい休んでも大丈夫だって」
+"It's okay to take a day off."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA4473">
-「うんうん」
+"Yep, yep."
 #
 <sprite "ta02a07.iph" 6 4 12>
 <name "Elle" "!CA0300">
-「くっ、この駄目師弟コンビ……」
+"S-Stupid master apprentice pair..."
 #
 <name "Lazlocke">
-「抵抗するなよ。
-　本当は行きたいくせに」
+"Don't fight it.
+ You actually want to go, don't you?"
 #
 <sprite "ta02a35.iph" 6 4 12>
 <name "Elle" "!CA0301">
-「む、むう……でも、師匠が……」
+"M-Mmm...
+ But my master..."
 #
 <name "Lazlocke">
-「そう言えば、ヴィオラはどこだ？
-　家に居ると思ったが……」
+"Speaking of her, where is she?
+ I thought she was home."
 #
 <sprite "ta02a28.iph" 6 4 12>
 <name "Elle" "!CA0302">
-「奥の部屋で何かの資料をまとめているけど……」
+"She's putting together some documents in the
+ back room."
 #
 <name "Lazlocke">
-「そうか。
-　じゃあ、呼んで来い。
-　四人で行こうぜ」
+"I see. Then call her.
+ We'll all go."
 #
 <sprite "ta02a32.iph" 6 4 12>
 <name "Elle" "!CA0303">
-「無茶言わないでください。
-　怒鳴られちゃうじゃない」
+"Don't be ridiculous.
+ And quit shouting."
 #
 <sprite "ta01a07.iph" 2 5 12>
 <name "Celes" "!AA4474">
-「じゃあ、どうするの？」
+"Then what should we do?"
 #
 <sprite "ta02a38.iph" 6 4 12>
 <name "Elle" "!CA0304">
-「コッソリと三人で……」
+"Let's just the three of us sneak o..."
 #
 <removesprite -1 11>
 <sprite "ta03a15.iph" 4 4 11>
 <name "Viola" "!BA0378">
-「……」
+"..."
 #
 <removesprite -1 11>
 <sprite "ta03a15.iph" 2 5 11>
 <sprite "ta02a32.iph" 6 4 11>
 <name "Elle" "!CA0305">
-「うわぁぁぁぁぁぁっ、し、師匠。
-　違うんです。
-　ごめんなさい。
-　私はまるっきりお祭りには興味ありません！」
+"Aaaaaah! M-Master...
+ It's not what you think.
+ I'm sorry.
+ I have no interest in the festival whatsoever!"
 #
 <sprite "ta03a18.iph" 2 5 12>
 <name "Viola" "!BA0376">
-「あら、そう。
-　じゃあ、貴女は留守番かしら」
+"Oh? I see.
+ Then I suppose you can watch the house."
 #
 <sprite "ta02a35.iph" 6 4 12>
 <name "Elle" "!CA0306">
-「え？」
+"Huh?"
 #
 <sprite "ta03a06.iph" 2 5 12>
 <name "Viola" "!BA0377">
-「すぐに支度するわ。
-　待っていて頂戴」
+"I'll get ready right away.
+ Give me a moment."
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「おう」
+"Okay."
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
 <name "Elle" "!CA0307">
-「え、え……えええええ！」
+"E-Eh?
+ Eeeeehhhh!?"
 #
 <name "Lazlocke">
-「お前も急いで準備しろ。
-　本気で置いてかれるぞ」
+"You should hurry up and get ready too.
+ She'll definitely leave you behind."
 #
 <sprite "ta02a37.iph" 4 4 12>
 <name "Elle" "!CA0308">
-「わ、わかったけど……
-　師匠、その心変わりは酷過ぎます！」
+"O-Okay, but...
+ Master, you change your mind way too fast!"
 #
 <removesprite -1 11>
 <music 12>
 <background "ev030a0.iph" 10>
 <name "Celes" "!AA4475">
-「あの小物、可愛い！」
+"That little toy is so cute!"
 #
 <name "Elle" "!CA0309">
-「こっちの方が良いじゃない！
-　あ、これも。
-　こっちも良いわ」
+"This one's better!
+ Ah, this one too.
+ This one's nice too."
 #
 <name "Celes" "!AA4476">
-「それ買う！
-　買っちゃう！」
+"I'll buy that!
+ I'm gonna buy it!"
 #
 <name "Elle" "!CA0310">
-「駄目よ。
-　私が買うの。
-　貴女はそっちにしなさい」
+"Nope.
+ I'm buying it.
+ You should take that one."
 #
 <name "Celes" "!AA4477">
-「えええ！」
+"Eeeeh!?"
 #
-　賑やかだ。
+We're certainly enjoying ourselves.
 #
 <name "Celes" "!AA4478">
-「もしゃもしゃもしゃ……」
+"Mphmphmph..."
 #
 <name "Elle" "!CA0311">
-「美味しい」
+"Yum."
 #
 <name "Celes" "!AA4479">
-「もしゃもしゃもしゃ……」
+"Mphmphmphmph..."
 #
 <name "Elle" "!CA0316">
-「いける！」
+"Let's go!"
 #
-　セリスとイエルは、並ぶ出店を丁寧に一軒一軒見
-　て回るつもりのようだ。
+Celes and Elle are making sure to visit every
+single stall.
 #
 <name "Lazlocke">
-「さて、大人は大人同士。
-　楽しむか」
+"Well, kids will be kids.
+ Having fun?"
 #
 <name "Viola" "!BA0379">
-「あら、どちらかと言えば貴方はあっち側だと思う
-　けど」
+"Oh? I expected that you'd be with them."
 #
 <name "Lazlocke">
-「なんだよ。
-　付き合ってやるって言ってるのに」
+"Oh come on.
+ I did ask you out."
 #
 <name "Viola" "!BA0380">
-「それはどうも。
-　じゃあ、あの小物店を見に行きたいんだけど」
+"Why yes, you did.
+ Then I want to browse that accessory store."
 #
 <name "Lazlocke">
-「仰せのままに」
+"As you wish."
 #
 <exit>
 :2C7E
 <music 12>
 <background "bg013a0.iph" 11>
-　王国祭。
+The royal fair.
 #
 <background "ev030a0.iph" 10>
 <name "Celes" "!AA4480">
-「うわー、うわー♪」
+"Oooh!♪ Aaah!♪"
 #
 <name "Elle" "!CA0313">
-「あ、あそこで凄い事してる！
-　気がする！」
+"Ah! Something crazy's going on over there!
+ I can feel it!"
 #
 <name "Celes" "!AA4481">
-「いってみよー」
+"Let's go!"
 #
 <name "Viola" "!BA0381">
-「元気ね」
+"We're in high spirits."
 #
 <name "Lazlocke">
-「ああ」
+"Yeah."
 #
 <name "Viola" "!BA0382">
-「あの二人がセットでいれば問題は無いわ。
-　少し、休みましょう」
+"They should be fine as long as they're together.
+ Let's take a break."
 #
 <name "Lazlocke">
-「わかった。
-　そこのカフェで良いか？」
+"All right.
+ How about that cafe?"
 #
 <name "Viola" "!BA0383">
-「構わないわ。
-　のんびりしましょう」
+"That's fine.
+ Let's just relax."
 #
 <name "Lazlocke">
-「そうだな」
+"Yeah."
 #
-　俺とヴィオラはのんびりと王国祭を過ごし、セリ
-　スとイエルは……
+Viola and I leisurely enjoy the festival.
+Celes and Elle, on the other hand...
 #
 <name "Elle" "!CA0314">
-「ふう、堪能堪能」
+"Whew...
+ I had so much fun."
 #
 <name "Celes" "!AA4482">
-「満足♪」
+"So much.♪"
 #
-　全開で王国祭を楽しんだようだった。
+They enjoyed themselves to their fullest.
 #
 <exit>
 :2F35
 <music 12>
 <background "bg013a0.iph" 11>
-　王国祭。
+The royal fair.
 #
 <background "ev030a0.iph" 10>
 <name "Lazlocke">
-「今年も盛況だな」
+"It's a busy one this year."
 #
 <name "Viola" "!BA0384">
-「そうね」
+"It is."
 #
 <name "Lazlocke">
-「弟子達は弟子達で楽しんでいるようだし、俺達は
-　俺達で楽しむか」
+"Our apprentices are enjoying themselves with the
+ other apprentices.
+ Shall we?"
 #
 <name "Viola" "!BA0385">
-「エスコートは任せるわ」
+"You are my escort."
 #
 <name "Lazlocke">
-「それじゃあ……お嬢様。
-　あちらでお茶など如何ですか？」
+"Well, then, milady.
+ Would you care to sample the tea over there?"
 #
 <name "Viola" "!BA0386">
-「お受けしましょう」
+"I accept."
 #
 <exit>
 :30B9
 <music 12>
 <background "bg013a0.iph" 11>
-　王国祭。
+The royal fair.
 #
 <background "ev030a0.iph" 10>
 <name "Viola" "!BA0388">
-「みんな、のんきなものね」
+"Everyone's so carefree."
 #
 <name "Lazlocke">
-「気持ちはわかるが、今日ぐらいは構わないんじゃ
-　ないか？」
+"I know the feeling, but isn't it okay to be
+ carefree just for today?"
 #
 <name "Viola" "!BA0389">
-「……そうね。
-　八つ当たりをしても仕方が無いわね」
+"...I suppose.
+ Being in a foul mood wouldn't help anything."
 #
 <name "Lazlocke">
-「そうそう、楽しく遊ぼうぜ」
+"That's right.
+ Let's enjoy ourselves."
 #
 <name "Viola" "!BA0390">
-「むう……」
+"Mm..."
 #
 <name "Lazlocke">
-「ほら、行くぞ。
-　二人が待ってる」
+"Come on, let's go.
+ Those two are waiting."
 #
 <name "Viola" "!BA0391">
-「わかったから、押さないで頂戴」
+"All right, already.
+ Don't push me."
 #
 <exit>
 :3288
@@ -560,336 +564,350 @@
 <background "bg013a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4483">
-「昼間のイモ投げの痕跡が、アチコチに残ってるわ
-　ね」
+"There's still traces left of the afternoon
+ potato fight."
 #
 <removesprite -1 11>
 <sprite "ta01a07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
 <name "Elle" "!CA0317">
-「この辺りは、南側商店街軍と、西側商店街軍の激
-　戦区だからね」
+"That's because this is where the southern mall
+ army faced the western mall army."
 #
 <sprite "ta01a06.iph" 2 5 12>
 <name "Celes" "!AA4484">
-「へ、へー……激戦区だったんだ」
+"O-Oohh...
+ A fiercely contested area."
 #
 <sprite "ta02a01.iph" 6 4 12>
 <name "Elle" "!CA0318">
-「ええ、西側は卑劣にも東側と合同して南側を攻撃
-　してきたの」
+"Yeah.
+ The west had a secret alliance with the east and
+ attacked the south."
 #
 <sprite "ta02a02.iph" 6 4 12>
 <name "Elle" "!CA0319">
-「でも、東側が北側の攻撃を受け、撤退を開始した
-　後に南側の大攻勢が始まったわ」
+"But the east was attacked by the north and had
+ started to retreat, which is when the big attack
+ on the south started."
 #
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0320">
-「怯える西側商店街軍兵にイモをぶつけては倒し、
-　ぶつけては倒し……ふふふ」
+"I threw potatoes against the terrified west mall
+ soldiers and took them out...
+ Heheheh..."
 #
 <sprite "ta01a34.iph" 2 5 12>
 <name "Celes" "!AA4485">
-「イ、イエルちゃん。
-　顔面は反則だよ」
+"E-Elle, it's against the rules to aim at the
+ head."
 #
 <sprite "ta02a12.iph" 6 4 12>
 <name "Elle" "!CA0321">
-「私は、顔以外を狙っているわよ」
+"I wasn't aiming at his head."
 #
 <sprite "ta01a27.iph" 2 5 12>
 <name "Celes" "!AA4486">
-「そ、そうなんだ……」
+"I-I guess..."
 #
 <sprite "ta02a16.iph" 6 4 12>
 <name "Elle" "!CA0322">
-「それよりも、劣勢に陥った西側は卑劣にもイモを
-　蒸かして投げてくるという恐ろしい攻撃をしてき
-　たのよ。
-　許せないわね」
+"Anyway, the west was completely outnumbered and
+ cowardly started throwing baked potatoes.
+ They deserved what they got."
 #
 <sprite "ta01a37.iph" 2 5 12>
 <name "Celes" "!AA4487">
-「ア、アツアツだね」
+"T-That must have been hot."
 #
 <sprite "ta02a20.iph" 6 4 12>
 <name "Elle" "!CA0324">
-「火傷する者続出よ。
-　卑劣な西側め……次あったら、許さない。
-　魔法使用さえ許してくれれば、一掃してくれるの
-　に……」
+"People kept getting burnt.
+ That dastardly west... Next time, they'll pay.
+ If they let us use magic though, I could've
+ wiped them all out..."
 #
 <sprite "ta01a42.iph" 2 5 12>
 <name "Celes" "!AA4488">
-「お、お祭での喧嘩は、お祭の日だけでおさめよう
-　ね」
+"L-Let's leave the fighting just for festival
+ day."
 #
 <removesprite -1 11>
 <exit>
 :38A6
 <music 12>
 <background "bg014a0.iph" 11>
-　街の商店街が賑やかだった。
+The shopping area is bustling right now.
 #
 <name "Lazlocke">
-「……そう言えば南通り商店祭か」
+"That reminds me, isn't today the south street
+ shop fair?"
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA4489">
-「商店祭ですか？」
+"Shop fair?"
 #
 <name "Lazlocke">
-「ああ、街の南側の大通りに店を出している連中が
-　合同で行なうお祭だ。
-　王国祭に比べれば小規模だが、それでも盛り上が
-　るぞ」
+"Yeah, it's a festival thrown by all the shop 
+ owners with places on the main street in the 
+ south. It's smaller than the royal fair, but
+ still plenty fun."
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA4490">
-「そうなんですか」
+"Oh, I see."
 #
 <name "Lazlocke">
-「ああ、特にメインイベントとして、秘密イベント
-　があってな」
+"Oh, and especially the main event, or should I
+ say, the secret event."
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA4491">
-「メインイベントの秘密イベントですか？」
+"The main event is a secret?"
 #
 <name "Lazlocke">
-「ああ、声の大きさを競ったり、度胸試しをしたり、
-　その時々で内容は変わるんだ。
-　だから秘密イベント」
+"Yeah, one year, they competed over who could be
+ the loudest. Another year, it was who was the
+ boldest. It's constantly changing.
+ Hence, secret."
 #
 <sprite "ta01a06.iph" 4 4 12>
 <name "Celes" "!AA4492">
-「へー……」
+"Oohh..."
 #
 <name "Lazlocke">
-「しかし、賞金は良いんだぞ」
+"But there's a big prize."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA4493">
-「賞金ですか」
+"A prize?"
 #
 <name "Lazlocke">
-「まあ、金額も毎年違うんだが……今年はどうだっ
-　たかな？」
+"Well, how much also varies each year.
+ I wonder how much it is this year."
 #
 <sprite "ta01a09.iph" 4 4 12>
 <name "Celes" "!AA4494">
-「あ、あそこに五百Ｂって書いてあります」
+"Oh, it's written over there that it's 500Ｂ."
 #
 <name "Lazlocke">
-「去年は二千Ｂだったのに……
-　今年は寄付金が集まらなかったな」
+"It was 2,000Ｂ last year...
+ Guess the donations were light this year."
 #
 <sprite "ta01a90.iph" 4 4 12>
 <name "Celes" "!AA4495">
-「あはは……」
+"Hahaha..."
 #
 <name "Lazlocke">
-「まあ、少し覗いていくか。
-　色々と店も出ているだろうしな」
+"Well, how about we have a look?
+ All the shops should be out in force."
 #
 <sprite "ta01a07.iph" 4 4 12>
 <name "Celes" "!AA4496">
-「はい♪」
+"Okay.♪"
 #
 <removesprite -1 11>
-　俺達は、祭を楽しんだ。
+We enjoy the festival.
 #
 <exit>
 :3E0D
 <music 12>
 <background "bg014a0.iph" 11>
 <name "Lazlocke">
-「……賞金五万Ｂ。
-　去年は五百Ｂだったのに……」
+"...The prize is 50,000Ｂ.
+ It was only 500Ｂ last year.
 #
-　南通り商店祭。
+It's the south street shop festival.
 #
-　街の南側の大通りに店を出している者達が合同で
-　行なっているお祭で、街中の者達が南通りに集まっ
-　ていると言っても良い程だ。
+It's a festival thrown by all the stores on the
+main street in the southern district.
+It attracts people here from all over the city.
 #
-　そのメインとなるのが飛び入り歓迎の秘密イベン
-　ト。
+The big draw is that the main event is a secret.
 #
-　イベント内容は歌唱大会、大声大会、高飛び大会
-　など、その時々で変わり、コンテストだったりレ
-　ースだったりするが、公平性を保つ為に開催直前
-　まで内容は秘密にされている。
+It changes every year. Sometimes it's a singing
+competition, a yelling competition, a high jump
+meet. Whatever it is, it's always kept a secret
+until just before the festival to keep it fair.
 #
-　それに、セリスとイエル、ヴィオラ、ソシエット
-　と五人で参加する事になった。
+Celes, Elle, Viola, Soshiette and I are all
+participating.
 #
 <sprite "ta03a31.iph" 4 4 11>
 <name "Viola" "!BA0392">
-「まったく、どうして私が……」
+"Honestly.
+ Why must I do this?"
 #
 <removesprite -1 11>
 <sprite "ta03a31.iph" 2 5 11>
 <sprite "ta02a09.iph" 6 4 11>
 <name "Elle" "!CA0325">
-「そう言わないでください、師匠。
-　今年は五人一組らしいので」
+"Please don't say that, Master.
+ This year, it has to be teams of five."
 #
 <removesprite -1 11>
-　内容は秘密にされているのだが、今回の参加条件
-　は五人一組とされていた。
+The competition's still a secret, but to be a
+part of it, you have to have a team of five.
 #
-　何をさせるのか……
+I wonder what they're going to make us do.
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4497">
-「あ、イベント内容が発表された見たいですよ」
+"Ah, I want to see them announce the event."
 #
 <removesprite -1 11>
-　大声で、イベント実行委員が内容を叫んでいる。
+An event coordinator is shouting out the rules.
 #
-　それを聞いて、俺は沈黙した。
+I listen intently.
 #
 <sprite "ta04a02.iph" 4 4 11>
 <name "Soshiette" "!DA0694">
-「人間転がし……ですか？」
+"People rolling?"
 #
 <removesprite -1 11>
-　一人の人間を樽に放り込み、残りの四人で運ぶレ
-　ース競技との事だ。
+One person is tossed in a barrel, and the other
+four have to get it across the finish line.
 #
-　……
+...
 #
-　運ぶレース。
+It's a race, basically.
 #
-　人の入った樽を運ぶレース。
+A race to move a barrel with someone in it.
 #
-　俺は身の危険を感じ、音もなく消えようとした。
+I feel danger closing in and try to disappear.
 #
-　が、ソシエットとヴィオラに阻まれた。
+But my escape is cut off by Soshiette and Viola.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0695">
-「ご主人様。
-　どこに行くのですか？」
+"Your Grace, where you do think you're going?"
 #
 <removesprite -1 11>
 <sprite "ta03a07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
 <name "Viola" "!BA0393">
-「まさか、逃げようとしたわけじゃないでしょうね」
+"You couldn't have been trying to escape, could
+ you?"
 #
 <removesprite -1 11>
 <name "Lazlocke">
-「あはは……
-　ヴィオラは乗り気じゃなかったよな」
+"Hahaha...
+ You're not interested in this, right?"
 #
 <sprite "ta03a06.iph" 4 4 11>
 <name "Viola" "!BA0394">
-「参加する以上、勝利を目指すわよ」
+"If I'm a part of this, I intend to win."
 #
 <name "Lazlocke">
-「……た、樽の中に入るのはクジで決めないか？」
+"...S-Shouldn't we draw straws for who goes in 
+ the barrel?"
 #
 <sprite "ta03a07.iph" 4 4 12>
 <name "Viola" "!BA0395">
-「まさか、女の子にあんな樽の中に入れと言う気？」
+"Surely you don't intend to force a girl into one
+ of those barrels."
 #
 <removesprite -1 11>
-　誰が女の子だと言いかけたが、止めた。
+Before I can fire back that at least two of them
+definitely can't be called girls anymore, I stop
+myself.
 #
-　まだ死にたくない。
+I don't want die just yet.
 #
-　だが、このままでは死ぬのではないか？
+But the way things are going, I might die anyway.
 #
-　絶対に、樽を転がすに違いない。
+I'm definitely ending up in the barrel.
 #
-　樽の中に入れられて転がされるなど……
+And they're going to roll it...
 #
-　いや、まて！
+No, wait!
 #
-　距離だ！
+What about the distance!?
 #
-　そうだ！
+That's it!
 #
-　距離さえ短ければ……
+If it's just a short distance...
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4498">
-「コースは商店街のある大通りを、南から北までだ
-　そうです」
+"The course is apparently from the southern end 
+ of the main street to the northern end."
 #
 <removesprite -1 11>
-　タップリと五百メートルはある。
+That's at least a third of a mile.
 #
-　三メートルで一回転としても、百六十回転以上……
+Ten feet per rotation, so at least 170
+rotations...
 #
-　……ふう、死んだな。
+...Well, I'm dead.
 #
 <music 4>
 <background "ev088a0.iph" 10>
 <name "Lazlocke">
-「ぎゃぁぁぁぁぁぁぁぁぁ……！」
+"Aaaaaggggghhhhh!"
 #
-　俺は絶叫と共に、樽の中でシェイクされ続けた。
+I scream as I crash around in the barrel.
 #
-　死をこれほど身近に感じた事は無い。
-#
-<name "Lazlocke">
-「うぎゃぁぁぁぁっ、い、いてぇっ！
-　ハネるのは、あ、あうううっ！」
-#
-　だが、俺は頑張った。
+I've never been this close to death.
 #
 <name "Lazlocke">
-「ひいいいいいいいっ！」
+"Aaaaagh! T-That hurt!
+ What's goi... Ah!
+ Aaaaah!"
 #
-　頑張りまくった。
+But I did my best.
 #
-　レースが対決方式のトーナメントと分かった時は、
-　少し絶望したが……
+<name "Lazlocke">
+"Aiiiiieeeee!!!"
 #
-　最終的には、ベスト十六で終った。
+It's all I could do.
+#
+When the race turned out to be no-holds-barred,
+I despaired a little, but...
+#
+We ended up in the top sixteen.
 #
 <music 12>
 <background "bg014a0.iph" 11>
 <name "Lazlocke">
-「絶対、軽いセリスを入れて、四人で持ち運んだ方
-　が速かったと思うんだが……」
+"I still say it would've been faster to put
+ someone light like Celes in the barrel and then
+ just carry it..."
 #
 <sprite "ta03a06.iph" 4 4 11>
 <name "Viola" "!BA0396">
-「そんな事ないわよ」
+"Hardly."
 #
 <removesprite -1 11>
-　対戦相手がそうしているのを見て、俺は何度か提
-　案したが却下された。
+When I saw opponents getting ready to do just
+that, I made the suggestion, multiple times, but
+I was voted down.
 #
-　意地になって、俺を転がしている感じだった。
+They were intent on rolling me.
 #
-“人間転がし”というタイトルに騙されたのを、認
-　めたくないのだろう。
+Probably didn't want to admit that they were
+fooled by the title of the event being people
+rolling.
 #
-　だから負けたのだが……
+That's why we lost.
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA4499">
-「楽しかったですね」
+"That was so much fun."
 #
 <name "Lazlocke">
-「んー……まあな」
+"Mmm... If you say so."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA4500">
-「また、来年も参加しましょうね」
+"Let's do it again next year."
 #
 <name "Lazlocke">
-「競技内容を聞いてから、考えさせてくれ」
+"I'll decide after finding out what it is."
 #
 <sprite "ta01a17.iph" 4 4 12>
 <name "Celes" "!AA4501">
-「あはは……」
+"Hahaha..."
 #
 <removesprite -1 11>
 \x2B\xB5 "南通り商店祭参加記念" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :4D03: \xB4 "南通り商店祭参加記念" \x84\x01
@@ -899,28 +917,28 @@
 <music 12>
 <background "bg014a0.iph" 11>
 <sprite "ta10b02.iph" 4 4 11>
-<name "イングウェイ" "!TA0080">
-「イエス、イングウェイ！」
+<name "Ingway" "!TA0080">
+"Yes! Ingway!"
 #
 <removesprite -1 11>
 <sprite "ta13a47.iph" 4 4 11>
-<name "ヘンドリク" "!QA0059">
-「ヘンドリクです」
+<name "Hendrik" "!QA0059">
+"Hendrik."
 #
 <removesprite -1 11>
 <sprite "ta15a00.iph" 4 4 11>
-<name "プシェル" "!SA0031">
-「プシェルよ」
+<name "Puschel" "!SA0031">
+"Puschel."
 #
 <removesprite -1 11>
 <sprite "ta12a05.iph" 4 4 11>
-<name "リノ" "!PA0163">
-「リノだ」
+<name "Reno" "!PA0163">
+"Reno."
 #
 <removesprite -1 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0030">
-「レッキーノ……」
+<name "Recchino" "!RA0030">
+"Recchino..."
 #
 <removesprite -1 11>
 <sprite "ta12a00.iph" 0 4 11>
@@ -928,262 +946,270 @@
 <sprite "ta10b00.iph" 4 6 11>
 <sprite "ta13a47.iph" 6 1 11>
 <sprite "ta15a00.iph" 8 2 11>
-<name "イングウェイ" "!TA0081">
-「五人揃って！」
+<name "Ingway" "!TA0081">
+"All are assembled!"
 #
 <sprite "ta12a05.iph" 0 4 12>
 <sprite "ta10b02.iph" 4 6 12>
 <sprite "ta13a50.iph" 6 1 12>
 <sprite "ta15a04.iph" 8 2 12>
-<name "ヘンドリク" "!QA0060">
-「ローリアファイブ！」
+<name "Hendrik" "!QA0060">
+"The Loria Five!"
 #
 <sprite "ta12a00.iph" 0 4 12>
 <sprite "ta10b00.iph" 4 6 12>
 <sprite "ta13a47.iph" 6 1 12>
 <sprite "ta15a00.iph" 8 2 12>
-<name "プシェル" "!SA0032">
-「久々の活動ね」
+<name "Puschel" "!SA0032">
+"It's been a while."
 #
-<name "レッキーノ" "!RA0031">
-「うむ。
-　しかし、あの二人はどうした？」
+<name "Recchino" "!RA0031">
+"Mmhmm.
+ But what about those two?"
 #
 <sprite "ta12a02.iph" 0 4 12>
-<name "リノ" "!PA0038">
-「今年の商店祭は、五人組で参加だから呼んでない
-　んだって」
+<name "Reno" "!PA0038">
+"This year's ship fair calls for a five man
+ team, so they weren't summoned."
 #
 <sprite "ta12a00.iph" 0 4 12>
 <sprite "ta13a58.iph" 6 1 12>
-<name "ヘンドリク" "!QA0061">
-「仕方がありませんね」
+<name "Hendrik" "!QA0061">
+"I guess there's no helping it."
 #
 <sprite "ta15a21.iph" 8 2 12>
-<name "プシェル" "!SA0034">
-「今年の競技は何かしら？
-　美人コンテストなら、私一人で十分なんだけど♪」
+<name "Puschel" "!SA0034">
+"What do you think this year's contest will be?
+ If it's a beauty pageant, I can win that single
+ handedly.♪"
 #
 <sprite "ta12a30.iph" 0 4 12>
-<name "リノ" "!PA0039">
-「はいはい。
-　あと、尻触るな」
+<name "Reno" "!PA0039">
+"Yeah, yeah.
+ And quit touching my ass."
 #
 <sprite "ta12a00.iph" 0 4 12>
 <sprite "ta10b05.iph" 4 6 12>
-<name "イングウェイ" "!TA0082">
-「発表されたみたいだな」
+<name "Ingway" "!TA0082">
+"Looks like they're announcing it."
 #
 <sprite "ta13a48.iph" 6 1 12>
-<name "ヘンドリク" "!QA0062">
-「人間転がし？」
+<name "Hendrik" "!QA0062">
+"People rolling?"
 #
-<name "レッキーノ" "!RA0032">
-「樽に一人が入り、残りの四人で転がすレースか」
+<name "Recchino" "!RA0032">
+"A race where one man gets in the barrel and the
+ other four roll it, huh?"
 #
 <sprite "ta15a26.iph" 8 2 12>
-<name "プシェル" "!SA0035">
-「転がす樽は軽い方が良いわよね」
+<name "Puschel" "!SA0035">
+"It's best if we keep the barrel light."
 #
 <sprite "ta12a30.iph" 0 4 12>
-<name "リノ" "!PA0040">
-「お、俺を見るな！」
+<name "Reno" "!PA0040">
+"D-Don't look at me!"
 #
-<name "レッキーノ" "!RA0033">
-「異論は無い」
+<name "Recchino" "!RA0033">
+"No arguments here."
 #
 <sprite "ta13a58.iph" 6 1 12>
-<name "ヘンドリク" "!QA0063">
-「そうだね」
+<name "Hendrik" "!QA0063">
+"Indeed."
 #
 <sprite "ta10b18.iph" 4 6 12>
-<name "イングウェイ" "!TA0083">
-「よし、名誉ある樽の中は、君に譲ろう！」
+<name "Ingway" "!TA0083">
+"Okay! I give you the honor of being in the
+ barrel!"
 #
 <sprite "ta12a29.iph" 0 4 12>
-<name "リノ" "!PA0041">
-「拒否する！」
+<name "Reno" "!PA0041">
+"No way!"
 #
 <sprite "ta13a59.iph" 6 1 12>
-<name "ヘンドリク" "!QA0064">
-「今年の賞金は五万Ｂか……
-　一人当たり一万Ｂだね」
+<name "Hendrik" "!QA0064">
+"This year's prize is 50,000Ｂ, huh?
+ That's 10,000Ｂ each."
 #
 <sprite "ta12a40.iph" 0 4 12>
-<name "リノ" "!PA0042">
-「……………………仕方が無い。
-　身体的特徴は、活かそう」
+<name "Reno" "!PA0042">
+".........If I must then.
+ I shall use my physical gifts."
 #
 <sprite "ta10b02.iph" 4 6 12>
-<name "イングウェイ" "!TA0084">
-「よし！
-　優勝するぞ！」
+<name "Ingway" "!TA0084">
+"Okay!
+ Let's take the gold medal!"
 #
 <sprite "ta13a47.iph" 6 1 12>
-<name "ヘンドリク" "!QA0065">
-「ローリア、ファイッ！」
+<name "Hendrik" "!QA0065">
+"Loria Fi!"
 #
 <sprite "ta10b00.iph" 4 6 12>
-<name "イングウェイ" "!TA0085">
-「……
-　今のはファイブとファイトが掛かっていたのか？」
+<name "Ingway" "!TA0085">
+"...Was that supposed to be five or fight?"
 #
 <sprite "ta13a57.iph" 6 1 12>
-<name "ヘンドリク" "!QA0066">
-「気にしてはいけない」
+<name "Hendrik" "!QA0066">
+"Don't worry about it."
 #
 <removesprite -1 11>
-　大会が始まった。
+The race begins.
 #
 <music 4>
 <background "ev088a0.iph" 10>
 <name "Lazlocke">
-「ぎゃぁぁぁぁぁぁぁぁっ……！」
+"Aaaaaggggghhhhh!"
 #
-　街中に悲鳴が響く。
+Screams echo through the city.
 #
-<name "レッキーノ" "!RA0036">
-「どりゃぁぁぁぁぁっ！」
+<name "Recchino" "!RA0036">
+"Yaaahhhh!"
 #
-<name "ヘンドリク" "!QA0067">
-「右コーナーだ！
-　イング！」
+<name "Hendrik" "!QA0067">
+"Right corner!
+ Ing!"
 #
-<name "イングウェイ" "!TA0086">
-「オーライ！
-　次、左だぞ！」
+<name "Ingway" "!TA0086">
+"All right!
+ Next, left!"
 #
-<name "プシェル" "!SA0037">
-「任せて♪」
+<name "Puschel" "!SA0037">
+"Leave it to me!♪"
 #
 <music 12>
 <background "bg014a0.iph" 11>
-　チーム、ローリアファイブは絶妙のチームワーク
-　で、トーナメントを勝ち上がっていった。
+The Loria Five's teamwork was perfect, and they
+finish the race.
 #
 <sprite "ta12a37.iph" 4 4 11>
-<name "リノ" "!PA0043">
-「し、死ぬ……死ぬ……死ぬ……死んだ……」
+<name "Reno" "!PA0043">
+"I-I'm gonna die... I'm gonna die...
+ I think I died..."
 #
 <removesprite -1 11>
-　一人を犠牲にしながら……
+One sacrifice.
 #
 <sprite "ta13a47.iph" 4 4 11>
-<name "ヘンドリク" "!QA0068">
-「良いところまで行ったのですが、惜しかったです
-　ね」
+<name "Hendrik" "!QA0068">
+"We placed well, but it's too bad."
 #
 <removesprite -1 11>
 <sprite "ta10b19.iph" 4 4 11>
-<name "イングウェイ" "!TA0087">
-「むう……敵も手強かった」
+<name "Ingway" "!TA0087">
+"Grr...
+ Our opponents were fierce."
 #
 <removesprite -1 11>
 <sprite "ta10b19.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA0037">
-「ヤツらとは好敵手になれそうな気がする」
+<name "Recchino" "!RA0037">
+"They are worthy rivals."
 #
 <sprite "ta15a22.iph" 4 6 11>
-<name "プシェル" "!SA0038">
-「そうね。
-　筋肉の美しい男達だったわ」
+<name "Puschel" "!SA0038">
+"Yep.
+ Such beautiful muscley men."
 #
 <removesprite -1 11>
 <sprite "ta12a37.iph" 4 4 11>
-<name "リノ" "!PA0044">
-「死んだ……死んだ……あうう……」
+<name "Reno" "!PA0044">
+"I died...
+ I must've died...
+ Ooohhh..."
 #
 <removesprite -1 11>
 <sprite "ta13a38.iph" 4 4 11>
-<name "ヘンドリク" "!QA0069">
-「気絶したぞ」
+<name "Hendrik" "!QA0069">
+"He passed out."
 #
 <removesprite -1 11>
 <sprite "ta10b26.iph" 2 5 11>
 <sprite "ta13a38.iph" 6 4 11>
-<name "イングウェイ" "!TA0088">
-「まあ、そうだな」
+<name "Ingway" "!TA0088">
+"Well, yes."
 #
 <removesprite -1 11>
 <sprite "ta15a13.iph" 4 4 11>
-<name "プシェル" "!SA0039">
-「一応、回復魔法は使ったんだけどね」
+<name "Puschel" "!SA0039">
+"I suppose I could cast a healing spell."
 #
 <removesprite -1 11>
 <sprite "ta15a13.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA0039">
-「あの尻を触るヤツか？」
+<name "Recchino" "!RA0039">
+"Is that why you're touching his ass?"
 #
 <sprite "ta15a22.iph" 2 5 12>
-<name "プシェル" "!SA0041">
-「あれは趣味」
+<name "Puschel" "!SA0041">
+"That's just for fun."
 #
 <removesprite -1 11>
 <sprite "ta13a59.iph" 4 4 11>
-<name "ヘンドリク" "!QA0070">
-「むう、恐ろしい」
+<name "Hendrik" "!QA0070">
+"Mm... Terrifying."
 #
 <removesprite -1 11>
 <sprite "ta10b02.iph" 4 4 11>
-<name "イングウェイ" "!TA0091">
-「よし、残念会だ！
-　近くの酒場を予約してある。
-　行くぞ！」
+<name "Ingway" "!TA0091">
+"Okay! Consolation party!
+ I've booked a nearby bar.
+ Let's go!"
 #
 <removesprite -1 11>
 <sprite "ta10b02.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
-<name "レッキーノ" "!RA0040">
-「おう」
+<name "Recchino" "!RA0040">
+"Yeah."
 #
 <sprite "ta15a01.iph" 4 6 11>
-<name "プシェル" "!SA0042">
-「良い男は居るかしら？」
+<name "Puschel" "!SA0042">
+"Will there be a lovely man there, I wonder?"
 #
 <removesprite -1 11>
 <sprite "ta13a58.iph" 4 4 11>
-<name "ヘンドリク" "!QA0073">
-「リノはどうする？」
+<name "Hendrik" "!QA0073">
+"What about Reno?"
 #
 <removesprite -1 11>
 <sprite "ta10b18.iph" 2 5 11>
 <sprite "ta13a58.iph" 6 4 11>
-<name "イングウェイ" "!TA0092">
-「背負っていこう」
+<name "Ingway" "!TA0092">
+"Someone carry him."
 #
 <removesprite -1 11>
 <sprite "ta15a00.iph" 4 4 11>
-<name "プシェル" "!SA0043">
-「立候補するわ。
-　背負いながら、お尻が触り放題だなんて……
-　シ・ア・ワ・セ♪」
+<name "Puschel" "!SA0043">
+"I'll do it.
+ While he's on my back, I can spend the whole
+ time touching his butt.
+　Aaaah...♪ Happiness...♪"
 #
 <removesprite -1 11>
 <sprite "ta15a00.iph" 2 5 11>
 <sprite "ta13a38.iph" 6 4 11>
-<name "ヘンドリク" "!QA0074">
-「いや、代わろう。
-　それを許したら、起きた時に殺されかねん」
+<name "Hendrik" "!QA0074">
+"No, I'll do it.
+ If we let you do it, he might kill you when he
+ wakes up."
 #
 <removesprite -1 11>
 <sprite "ta10b20.iph" 4 4 11>
-<name "イングウェイ" "!TA0093">
-「よし、しゅっぱーつ！」
+<name "Ingway" "!TA0093">
+"All right!
+ Onward!"
 #
 <removesprite -1 11>
-　五人は、仲良く明け方まで酒場で騒いだらしい。
+The five celebrate at the bar until dawn.
 #
 <sprite "ta01a36.iph" 4 4 11>
 <name "Celes" "!AA4502">
-「……関わらなくて、良かった」
+"...I'm glad I wasn't involved."
 #
 <removesprite -1 11>
 <sprite "ta01a36.iph" 2 5 11>
 <sprite "ta02a34.iph" 6 4 11>
 <name "Elle" "!CA0326">
-「そうね」
+"Seriously."
 #
 <removesprite -1 11>
 <exit>
@@ -1411,45 +1437,45 @@
 <music 12>
 <background "bg014a0.iph" 11>
 <sprite "ta12a41.iph" 4 4 11>
-<name "リノ" "!PA0045">
+<name "Reno" "!PA0045">
 「いやだぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁっ！」
 #
 <removesprite -1 11>
 <sprite "ta15a25.iph" 4 4 11>
-<name "プシェル" "!SA0046">
+<name "Puschel" "!SA0046">
 「待ってぇぇぇぇぇぇぇぇぇっ♪」
 #
 <removesprite -1 11>
 <sprite "ta10b36.iph" 4 4 11>
-<name "イングウェイ" "!TA0094">
+<name "Ingway" "!TA0094">
 「全力で逃げているな」
 #
 <removesprite -1 11>
 <sprite "ta10b36.iph" 2 5 11>
 <sprite "ta13a58.iph" 6 4 11>
-<name "ヘンドリク" "!QA0075">
+<name "Hendrik" "!QA0075">
 「だろうな」
 #
 <sprite "ta10b38.iph" 2 5 11>
-<name "イングウェイ" "!TA0095">
+<name "Ingway" "!TA0095">
 「まさか、あんな内容とは……」
 #
 <removesprite -1 11>
 　長くキスをした組が優勝。
 #
 <sprite "ta13a60.iph" 4 4 11>
-<name "ヘンドリク" "!QA0076">
+<name "Hendrik" "!QA0076">
 「どこの馬鹿が考えたんだ？」
 #
 <removesprite -1 11>
 <sprite "ta10b45.iph" 2 5 11>
 <sprite "ta13a60.iph" 6 4 11>
-<name "イングウェイ" "!TA0096">
+<name "Ingway" "!TA0096">
 「さあ？
 　……帰るか」
 #
 <sprite "ta13a58.iph" 6 4 12>
-<name "ヘンドリク" "!QA0077">
+<name "Hendrik" "!QA0077">
 「今日だけは、お前の良識に感謝しよう」
 #
 <removesprite -1 11>
@@ -1614,56 +1640,56 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta13a48.iph" 4 4 11>
-<name "ヘンドリク" "!QA0078">
+<name "Hendrik" "!QA0078">
 「ギャンブル大会か……変わった大会もあるもんだ」
 #
 <removesprite -1 11>
 <sprite "ta13a48.iph" 2 4 11>
 <sprite "ta12a00.iph" 6 5 11>
-<name "リノ" "!PA0046">
+<name "Reno" "!PA0046">
 「で、調子は？」
 #
 <sprite "ta13a58.iph" 2 4 12>
-<name "ヘンドリク" "!QA0079">
+<name "Hendrik" "!QA0079">
 「あっという間に持っていかれた」
 #
 <sprite "ta12a40.iph" 6 5 12>
-<name "リノ" "!PA0047">
+<name "Reno" "!PA0047">
 「俺も……
 　この大会中は、誰も信じられなくなるな」
 #
 <removesprite -1 11>
 <sprite "ta15a00.iph" 4 4 11>
-<name "プシェル" "!SA0047">
+<name "Puschel" "!SA0047">
 「イカサマ無しが希望なら、店に入った方が良いわ
 　よ」
 #
 <removesprite -1 11>
 <sprite "ta15a00.iph" 2 4 11>
 <sprite "ta12a41.iph" 6 5 11>
-<name "リノ" "!PA0049">
+<name "Reno" "!PA0049">
 「げっ」
 #
 <sprite "ta15a27.iph" 2 4 12>
-<name "プシェル" "!SA0048">
+<name "Puschel" "!SA0048">
 「逃げなくても良いわよ。
 　今日はちょっかいを出さないから」
 #
 <removesprite -1 11>
 <sprite "ta13a48.iph" 4 4 11>
-<name "ヘンドリク" "!QA0080">
+<name "Hendrik" "!QA0080">
 「珍しいな」
 #
 <removesprite -1 11>
 <sprite "ta15a23.iph" 4 4 11>
-<name "プシェル" "!SA0049">
+<name "Puschel" "!SA0049">
 「その代わりじゃないんだけど……
 　アレをなんとかしてちょうだい」
 #
 <removesprite -1 11>
 <sprite "ta15a23.iph" 2 4 11>
 <sprite "ta12a43.iph" 6 5 11>
-<name "リノ" "!PA0050">
+<name "Reno" "!PA0050">
 「アレ？」
 #
 <removesprite -1 11>
@@ -1671,27 +1697,27 @@
 　抱えてうずくまっていた。
 #
 <sprite "ta13a59.iph" 4 4 11>
-<name "ヘンドリク" "!QA0081">
+<name "Hendrik" "!QA0081">
 「……どうしたんだ？」
 #
 <removesprite -1 11>
 <sprite "ta15a27.iph" 4 4 11>
-<name "プシェル" "!SA0050">
+<name "Puschel" "!SA0050">
 「なんでも、すっごく小さい子に負けたらしいわ」
 #
 <removesprite -1 11>
 <sprite "ta12a37.iph" 4 4 11>
-<name "リノ" "!PA0051">
+<name "Reno" "!PA0051">
 「あー、それで落ち込んでるのか……」
 #
 <removesprite -1 11>
 <sprite "ta13a58.iph" 2 4 11>
 <sprite "ta12a37.iph" 6 5 11>
-<name "ヘンドリク" "!QA0082">
+<name "Hendrik" "!QA0082">
 「慰めてやるか」
 #
 <sprite "ta12a38.iph" 6 5 12>
-<name "リノ" "!PA0052">
+<name "Reno" "!PA0052">
 「お、おう」
 #
 <removesprite -1 11>
@@ -1950,47 +1976,47 @@
 <music 2>
 <background "bg014a0.iph" 11>
 <sprite "ta12a00.iph" 4 4 11>
-<name "リノ" "!PA0053">
+<name "Reno" "!PA0053">
 「大酒飲みコンテストだが……」
 #
 <removesprite -1 11>
 <sprite "ta13a49.iph" 2 4 11>
 <sprite "ta12a00.iph" 6 5 11>
-<name "ヘンドリク" "!QA0083">
+<name "Hendrik" "!QA0083">
 「ん？」
 #
 <sprite "ta12a05.iph" 6 5 12>
-<name "リノ" "!PA0054">
+<name "Reno" "!PA0054">
 「お前が出れば優勝じゃないか？」
 #
 <sprite "ta13a48.iph" 2 4 12>
-<name "ヘンドリク" "!QA0084">
+<name "Hendrik" "!QA0084">
 「ん？
 　そうか？」
 #
 <sprite "ta12a02.iph" 6 5 12>
-<name "リノ" "!PA0055">
+<name "Reno" "!PA0055">
 「ああ、さっきから見てるがメチャクチャ飲んでる
 　じゃないか。
 　それなのに、顔色を変えてない」
 #
 <sprite "ta13a57.iph" 2 4 12>
-<name "ヘンドリク" "!QA0085">
+<name "Hendrik" "!QA0085">
 「うーむ、それほど強いとは思わないんだがな」
 #
 <sprite "ta12a09.iph" 6 5 12>
-<name "リノ" "!PA0056">
+<name "Reno" "!PA0056">
 「とりあえず、出てみろって」
 #
 <sprite "ta13a58.iph" 2 4 12>
-<name "ヘンドリク" "!QA0086">
+<name "Hendrik" "!QA0086">
 「そうだな……一度、チャレンジしてみるか」
 #
 <removesprite -1 11>
 　見事に優勝したヘンドリクだった。
 #
 <sprite "ta13a58.iph" 4 4 11>
-<name "ヘンドリク" "!QA0087">
+<name "Hendrik" "!QA0087">
 「他の人が弱かったんだろうな」
 #
 <name "見ていた男" "!UA0240">
@@ -2007,14 +2033,14 @@
 　大酒飲みコンテスト
 #
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0041">
+<name "Recchino" "!RA0041">
 「ぐびぐびぐびぐび……」
 #
 <name "おだてる女" "!GA0131">
 「きゃぁっ♪
 　すてきー、もう一杯♪」
 #
-<name "レッキーノ" "!RA0042">
+<name "Recchino" "!RA0042">
 「ぐびぐびぐびぐびぐ……ばたっ」
 #
 <removesprite -1 11>
@@ -4337,29 +4363,29 @@
 #
 <removesprite -1 11>
 <sprite "ta10b00.iph" 4 4 11>
-<name "イングウェイ" "!TA0097">
+<name "Ingway" "!TA0097">
 「うむ。
 　やるな！」
 #
 <removesprite -1 11>
 <sprite "ta13a47.iph" 4 4 11>
-<name "ヘンドリク" "!QA0088">
+<name "Hendrik" "!QA0088">
 「おめでとうございます」
 #
 <removesprite -1 11>
 <sprite "ta15a25.iph" 4 4 11>
-<name "プシェル" "!SA0051">
+<name "Puschel" "!SA0051">
 「おめでとう。
 　お呼ばれしちゃった」
 #
 <removesprite -1 11>
 <sprite "ta12a07.iph" 4 4 11>
-<name "リノ" "!PA0058">
+<name "Reno" "!PA0058">
 「まあ、こう言う日は素直に祝ってやるぜ」
 #
 <removesprite -1 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0043">
+<name "Recchino" "!RA0043">
 「めでたい」
 #
 <removesprite -1 11>
@@ -4499,17 +4525,17 @@
 #
 <removesprite -1 11>
 <sprite "ta10b00.iph" 4 4 11>
-<name "イングウェイ" "!TA0098">
+<name "Ingway" "!TA0098">
 「やったな！」
 #
 <removesprite -1 11>
 <sprite "ta13a47.iph" 4 4 11>
-<name "ヘンドリク" "!QA0089">
+<name "Hendrik" "!QA0089">
 「おめでとうございます」
 #
 <removesprite -1 11>
 <sprite "ta15a00.iph" 4 4 11>
-<name "プシェル" "!SA0052">
+<name "Puschel" "!SA0052">
 「プレゼントよ」
 #
 <removesprite -1 11>
@@ -4519,7 +4545,7 @@
 #
 <removesprite -1 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0044">
+<name "Recchino" "!RA0044">
 「めでたい」
 #
 <removesprite -1 11>
