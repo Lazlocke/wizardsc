@@ -1,18 +1,19 @@
 \x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :5A: \xBE\x00
-<name "セリス" "!AA3801">
-「毒を解毒する準備は万全よ」
+<name "Celes" "!AA3801">
+"I've already got the antidote to that poison
+ ready."
 #
 \x15 :F8: 
 :5A
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :AA: \xBE\x00
-<name "セリス" "!AA3802">
-「この私に、毒なんか効かないわ」
+<name "Celes" "!AA3802">
+"That poison won't work on me."
 #
 \x15 :F8: 
 :AA
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :F8: \xBE\x00
-<name "セリス" "!AA3803">
-「この程度の毒なら、大丈夫ね」
+<name "Celes" "!AA3803">
+"Poison that weak won't hurt me."
 #
 \x15 :F8: 
 :F8

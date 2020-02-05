@@ -1,13 +1,14 @@
 \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :66: \xBE "体力得る" 
-<name "セリス" "!AA3757">
-「あ、体力が……助かるわ」
+<name "Celes" "!AA3757">
+"Ah, my strength...
+ What a relief."
 #
 \x99 50  0 
 :66
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :D1: \xBE "体力得る" 
-<name "セリス" "!AA3759">
-「うわっ、力がみなぎってく……
-　助かるわ」
+<name "Celes" "!AA3759">
+"Ooh. I'm full of power.
+ That's great!"
 #
 \x99 50  0 
 :D1

@@ -8,20 +8,20 @@
 :188
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「セリス。
-　行く前に相手をしていけ」
+<name "Lazlocke">
+"Celes, be with me before you go."
 #
 <sprite "ta01c08.iph" 4 4 11>
-<name "セリス" "!AA4094">
-「え？」
+<name "Celes" "!AA4094">
+"Huh?"
 #
-<name "ラズロック">
-「少しでも魔力は多い方が良いだろ」
+<name "Lazlocke">
+"It'd be better if you had a little more mana,
+ right?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA4095">
-「すみません」
+<name "Celes" "!AA4095">
+"Thank you."
 #
 <removesprite -1 11>
 <exit>
@@ -29,87 +29,87 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA4096">
-「師匠、出かける前に少し魔力を頂けますか？」
+<name "Celes" "!AA4096">
+"Master, can I have some mana before I go?"
 #
-<name "ラズロック">
-「ん……そうだな。
-　わかった」
+<name "Lazlocke">
+"Hm... All right."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA4097">
-「ありがとうございます」
+<name "Celes" "!AA4097">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
 :3A9
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「挑戦するに当たって、これを渡しておく」
+<name "Lazlocke">
+"If you're trying that, you should take this."
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA4098">
-「なんですか？」
+<name "Celes" "!AA4098">
+"What is it?"
 #
-<name "ラズロック">
-「脱出用のアイテムだ」
+<name "Lazlocke">
+"An item for escaping."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA4099">
-「脱出用……」
+<name "Celes" "!AA4099">
+"For escaping?"
 #
-<name "ラズロック">
-「お前の命が危ないと思ったら勝手に発動し、安全
-　な場所まで移動させる」
+<name "Lazlocke">
+"It'll activate on its own if your life is in
+ danger and teleport you somewhere safe."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA4100">
-「凄い……」
+<name "Celes" "!AA4100">
+"Wow..."
 #
-<name "ラズロック">
-「ああ、確かに凄い。
-　しかし、魔法のアイテムと言っても万能じゃない。
-　死ぬ可能性もあるし、大怪我も負うだろう」
+<name "Lazlocke">
+"Yes, very wow, but even if it's magic, it's not
+ flawless. You could still be severely hurt or
+ even die."
 #
-<name "ラズロック">
-「危ないと思ったら、自分から使うように」
+<name "Lazlocke">
+"If you think you're in danger, activate it on
+ your own."
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "セリス" "!AA4101">
-「は、はい。
-　わかりました。
-　それから……大事にします」
+<name "Celes" "!AA4101">
+"Y-Yes, sir.
+ I understand.
+ I'll take good care of it."
 #
-<name "ラズロック">
-「そんなアイテムよりも、命を大事にしろ」
+<name "Lazlocke">
+"Worry about yourself, not it."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA4103">
-「はい！」
+<name "Celes" "!AA4103">
+"Yes, sir!"
 #
 <removesprite -1 11>
-　セリスは出かけた。
+Celes left.
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "ソシエット" "!DA0648">
-「ご主人様」
+<name "Soshiette" "!DA0648">
+"Your Grace."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta04a02.iph" 4 4 12>
-<name "ソシエット" "!DA0649">
-「あの脱出用のアイテム。
-　協会の秘宝なのですが……」
+<name "Soshiette" "!DA0649">
+"That escape item...
+ It's one of the Guild's artifacts."
 #
-<name "ラズロック">
-「わかっている。
-　ちゃんと協会に貢献して返す」
+<name "Lazlocke">
+"I'm aware.
+ I know to pay my dues for borrowing it."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0650">
-「よろしくお願いします」
+<name "Soshiette" "!DA0650">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>

@@ -1,21 +1,21 @@
 \x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :52: 
-<name "セリス" "!AA3830">
-「少し、腕試しをしてきます」
+<name "Celes" "!AA3830">
+"I'm ready to give it a try."
 #
 :52
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :9C: 
-<name "セリス" "!AA3831">
-「どこまでやれるか、試してきます」
+<name "Celes" "!AA3831">
+"Let's see how good I've gotten."
 #
 :9C
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :D4: 
-<name "セリス" "!AA3832">
-「行ってきます」
+<name "Celes" "!AA3832">
+"Time to go."
 #
 :D4
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :10C: 
-<name "セリス" "!AA3833">
-「登ってきます」
+<name "Celes" "!AA3833">
+"Let's climb."
 #
 :10C
 \x78

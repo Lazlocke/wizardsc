@@ -1,24 +1,24 @@
 \x2E\x22\x00\x01 1  7 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :6B: \x16 :1DDE: \xBE "宝箱開ける" 
-<name "セリス" "!AA3808">
-「アイテム、ゲット♪」
+<name "Celes" "!AA3808">
+"Item found!♪"
 #
 \x16 :7D3: \x15 :7D2: 
 :6B
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :C8: \x16 :1DDE: \xBE "宝箱開ける" 
-<name "セリス" "!AA3810">
-「あ、なにか入ってる」
+<name "Celes" "!AA3810">
+"Ah, something's inside."
 #
 \x16 :7D3: \x15 :7D2: 
 :C8
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :14B: \x16 :1DDE: \xBE "宝箱開ける" 
-<name "セリス" "!AA3809">
-「お金だ！」
+<name "Celes" "!AA3809">
+"Treasure!"
 #
 \x2E\x22\x00\x05 10  500 \x0B\x02\x00\x0A\x02\x00\x0A\x22\x00\x05\x3C "「&CL005&Ｂ」を手に入れた。" \x15 :7D2: 
 :14B
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :49C: \x16 :1F2C: \xBE "宝箱魔物" 
-<name "セリス" "!AA3813">
-「わ、罠……」
+<name "Celes" "!AA3813">
+"A-A trap..."
 #
 \x1A\x01\x0A\x02\x03\x1B 1 \x01\x0E :1E6: \x95 "ダークマン00"  4  -1 \x84\x01\x24\x00\x00\x95 "ダークマン00"  5  -1 \x84\x01\x24\x00\x00\x15 :7D2: 
 :1E6
@@ -33,21 +33,21 @@
 \x95 "ベト00"  2  -1 \x84\x01\x24\x00\x00\x95 "ベト01"  3  -1 \x84\x01\x24\x00\x00\x95 "ダークマン00"  4  -1 \x84\x01\x24\x00\x00\x95 "ダークマン00"  5  -1 \x84\x01\x24\x00\x00\x95 "ズンバラ00"  6  -1 \x84\x01\x24\x00\x00\x95 "ズンバラ00"  7  -1 \x84\x01\x24\x00\x00\x15 :7D2: 
 :49C
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :4E9: \x16 :2072: \xBE "宝箱空" 
-<name "セリス" "!AA3814">
-「あ……カラだ」
+<name "Celes" "!AA3814">
+"Oh... it's empty."
 #
 \x15 :7D2: 
 :4E9
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :538: \x16 :2072: \xBE "宝箱空" 
-<name "セリス" "!AA3815">
-「……なにもない」
+<name "Celes" "!AA3815">
+"...Nothing."
 #
 \x15 :7D2: 
 :538
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :7D2: \x16 :1F2C: \xBE "宝箱魔物" 
-<name "セリス" "!AA3812">
-「て、敵っ！
-　宝箱の中に隠れているなんて！」
+<name "Celes" "!AA3812">
+"E-Enemy!
+ I can't believe it was hiding in the chest!"
 #
 \x1A\x01\x0A\x02\x03\x1B 1 \x01\x0E :600: \x95 "ベト00"  4  -1 \x84\x01\x24\x00\x00\x95 "ベト01"  5  -1 \x84\x01\x24\x00\x00\x95 "ベト02"  6  -1 \x84\x01\x24\x00\x00\x15 :7D2: 
 :600
@@ -272,70 +272,70 @@
 <exit>
 :1DDE
 \x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1E3C: \xBE "宝箱開ける" 
-<name "セリス" "!AA3804">
-「宝箱発見♪
-　ラッキー」
+<name "Celes" "!AA3804">
+"Chest found.♪
+ Lucky!"
 #
 :1E3C
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1E8B: \xBE "宝箱開ける" 
-<name "セリス" "!AA3805">
-「アイテム、ゲットかな♪」
+<name "Celes" "!AA3805">
+"I hope I find an item.♪"
 #
 :1E8B
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1EDC: \xBE "宝箱開ける" 
-<name "セリス" "!AA3806">
-「アイテムだと良いけど……」
+<name "Celes" "!AA3806">
+"I hope there's an item."
 #
 :1EDC
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1F2B: \xBE "宝箱開ける" 
-<name "セリス" "!AA3807">
-「何が入っているのかな♪」
+<name "Celes" "!AA3807">
+"What's inside?♪"
 #
 :1F2B
 <exit>
 :1F2C
 \x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1F88: \xBE "宝箱魔物" 
-<name "セリス" "!AA3804">
-「宝箱発見♪
-　ラッキー」
+<name "Celes" "!AA3804">
+"Chest found!♪
+ Lucky!"
 #
 :1F88
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1FD5: \xBE "宝箱魔物" 
-<name "セリス" "!AA3805">
-「アイテム、ゲットかな♪」
+<name "Celes" "!AA3805">
+"I hope I find an item.♪"
 #
 :1FD5
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2024: \xBE "宝箱魔物" 
-<name "セリス" "!AA3806">
-「アイテムだと良いけど……」
+<name "Celes" "!AA3806">
+"I hope there's an item."
 #
 :2024
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2071: \xBE "宝箱魔物" 
-<name "セリス" "!AA3807">
-「何が入っているのかな♪」
+<name "Celes" "!AA3807">
+"What's inside?♪"
 #
 :2071
 <exit>
 :2072
 \x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :20CC: \xBE "宝箱空" 
-<name "セリス" "!AA3804">
-「宝箱発見♪
-　ラッキー」
+<name "Celes" "!AA3804">
+"Chest found!♪
+ Lucky!"
 #
 :20CC
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2117: \xBE "宝箱空" 
-<name "セリス" "!AA3805">
-「アイテム、ゲットかな♪」
+<name "Celes" "!AA3805">
+"I hope I find an item.♪"
 #
 :2117
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2164: \xBE "宝箱空" 
-<name "セリス" "!AA3806">
-「アイテムだと良いけど……」
+<name "Celes" "!AA3806">
+"I hope there's an item."
 #
 :2164
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :21AF: \xBE "宝箱空" 
-<name "セリス" "!AA3807">
-「何が入っているのかな♪」
+<name "Celes" "!AA3807">
+"What's inside?♪"
 #
 :21AF
 <exit>

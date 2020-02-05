@@ -1,55 +1,58 @@
 \x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :C6: \xBE\x00
-<name "セリス" "!AA3786">
-「あれ？
-　あれれ？」
+<name "Celes" "!AA3786">
+"Huh?
+ ...Huh?"
 #
-<name "セリス" "!AA3787">
-「同じ場所？」
+<name "Celes" "!AA3787">
+"I'm back where I was before?"
 #
-　セリスは引き返した。
+Celes turned back.
 #
 \x2E\x22\x00\x01 1  3 \x0C\x02\x00\xFF\x02\x00\xFE\x22\x00\x01\x1A\x01\x0A\x02\x00\xFF 0 \x01\x14 :C0: \x0A\x02\x00\xFF 1 
 :C0
 \x15 :360: 
 :C6
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :189: \xBE\x00
-<name "セリス" "!AA3788">
-「ま、また、同じ場所？」
+<name "Celes" "!AA3788">
+"T-The same place again?"
 #
-<name "セリス" "!AA3789">
-「むう……進むしかない」
+<name "Celes" "!AA3789">
+"Grr...
+ I've got to keep going."
 #
-　セリスは引き返した。
+Celes turned back.
 #
 \x2E\x22\x00\x01 1  3 \x0C\x02\x00\xFF\x02\x00\xFE\x22\x00\x01\x1A\x01\x0A\x02\x00\xFF 0 \x01\x14 :183: \x0A\x02\x00\xFF 1 
 :183
 \x15 :360: 
 :189
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :248: \xBE\x00
-<name "セリス" "!AA3790">
-「見覚えが……進んでない」
+<name "Celes" "!AA3790">
+"I remember this place...
+ This isn't the right direction."
 #
-<name "セリス" "!AA3791">
-「迷わされたかな」
+<name "Celes" "!AA3791">
+"Did I get lost?"
 #
-　セリスは引き返した。
+Celes turned back.
 #
 \x2E\x22\x00\x01 1  3 \x0C\x02\x00\xFF\x02\x00\xFE\x22\x00\x01\x1A\x01\x0A\x02\x00\xFF 0 \x01\x14 :242: \x0A\x02\x00\xFF 1 
 :242
 \x15 :360: 
 :248
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :360: \xBE\x00
-<name "セリス" "!AA3992">
-「…………認めたくないけど、同じ場所をグルグル
-　回っているのかしら？」
+<name "Celes" "!AA3992">
+"...I hate to admit it, but I think I'm going
+ around in circles."
 #
-<name "セリス" "!AA3993">
-「回っている……」
+<name "Celes" "!AA3993">
+"I'm all turned around..."
 #
-<name "セリス" "!AA3994">
-「むう、迷わされた」
+<name "Celes" "!AA3994">
+"Ugh.
+ I must've gotten lost."
 #
-　セリスは引き返した。
+Celes turned back.
 #
 \x2E\x22\x00\x01 1  3 \x0C\x02\x00\xFF\x02\x00\xFE\x22\x00\x01\x1A\x01\x0A\x02\x00\xFF 0 \x01\x14 :35A: \x0A\x02\x00\xFF 1 
 :35A

@@ -1,6 +1,6 @@
 \xBE "魔力得る" 
-<name "セリス" "!AA3758">
-「え……あっ……なに？
-　気持ち良い……」
+<name "Celes" "!AA3758">
+"Huh? Oh... what?
+ That feels nice."
 #
 \x99 0  25 \x78\x78

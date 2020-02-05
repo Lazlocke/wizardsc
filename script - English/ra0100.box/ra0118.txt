@@ -10,44 +10,48 @@
 :B1
 \x78
 :B2
-<name "女神" "!IA0031">
-「祝福あれ」
+<name "Goddess" "!IA0031">
+"Blessings upon you."
 #
-<name "セリス" "!AA3401">
-「あれ……力がみなぎる」
+<name "Celes" "!AA3401">
+"Huh?
+ I'm full of strength."
 #
 <exit>
 :101
-<name "女神" "!IA0032">
-「祝福あれ」
+<name "Goddess" "!IA0032">
+"Blessings upon you."
 #
-<name "セリス" "!AA3402">
-「怪我が……治っていく」
+<name "Celes" "!AA3402">
+"My wounds have healed?"
 #
 <exit>
 :150
-<name "セリス" "!AA3403">
-「魔力が……あっ、ふぁ……」
+<name "Celes" "!AA3403">
+"My mana...
+ Oooh... 
+ Ahhh..."
 #
-<name "セリス" "!AA3404">
-「もう。
-　急に魔力が入ってくると、変な事を思い出すじゃ
-　ない」
+<name "Celes" "!AA3404">
+"Geez.
+　My mind goes weird places when mana suddenly
+ flows into me."
 #
 <exit>
 :1DD
-<name "セリス" "!AA3405">
-「むぁ……ん……魔力が……増える」
+<name "Celes" "!AA3405">
+"Mmm...mmm...
+ My mana's recovered."
 #
 <exit>
 :216
-<name "女神" "!IA0028">
-「この塔に挑む、貴女に祝福を」
+<name "Goddess" "!IA0028">
+"Blessings upon you, challenger of this tower."
 #
-<name "セリス" "!AA3400">
-「え？
-　誰？
-　……空耳？」
+<name "Celes" "!AA3400">
+"Huh?
+ Who's there?
+ ...Was I hearing things?"
 #
 <exit>
 \x78
