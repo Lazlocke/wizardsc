@@ -1,29 +1,30 @@
-<name "イエル" "!CA0936">
-「良い舞台ね。
-　私達に相応しいわ」
+<name "Elle" "!CA0936">
+"This is a good stage.
+ It's worthy of us."
 #
-<name "セリス" "!AA6639">
-「あはは……少しハデかも」
+<name "Celes" "!AA6639">
+"Hahaha...
+ Maybe a little loud for me."
 #
-<name "イエル" "!CA0937">
-「そんな事、ないわよ」
+<name "Elle" "!CA0937">
+"Not at all."
 #
-<name "セリス" "!AA6640">
-「そうかな……」
+<name "Celes" "!AA6640">
+"I guess..."
 #
-<name "イエル" "!CA0938">
-「ええ、これぐらいハデじゃないと……
-　私達の勝負と吊り合わないわ」
+<name "Elle" "!CA0938">
+"Yeah, if it wasn't this showy, it wouldn't be 
+ suitable for our fight."
 #
-<name "セリス" "!AA6641">
-「そっか」
+<name "Celes" "!AA6641">
+"Okay."
 #
-<name "イエル" "!CA0939">
-「じゃあ、観客を待たせるのも悪いし、そろそろ始
-　めましょうか」
+<name "Elle" "!CA0939">
+"Well, we shouldn't keep the audience waiting.
+ Shall we?"
 #
-<name "セリス" "!AA6642">
-「……うん。
-　行くよ」
+<name "Celes" "!AA6642">
+"...Yeah.
+ Let's go."
 #
 \x78\x78

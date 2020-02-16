@@ -1,60 +1,58 @@
 \x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :95: 
-<name "ヴィオラ" "!BA1089">
-「ラズロックがどこまで育てたか……
-　見せて貰うわ」
+<name "Viola" "!BA1089">
+"Show me how far Lazlocke's brought you."
 #
-<name "セリス" "!AA6643">
-「が、頑張ります」
+<name "Celes" "!AA6643">
+"I-I'll do my best."
 #
 :95
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :109: 
-<name "セリス" "!AA6644">
-「よろしくお願いします」
+<name "Celes" "!AA6644">
+"Thank you for this match."
 #
-<name "ヴィオラ" "!BA1090">
-「お手柔らかにお願いするわ」
+<name "Viola" "!BA1090">
+"Take it easy on me."
 #
 :109
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :17B: 
-<name "ヴィオラ" "!BA1091">
-「私は負けるわけにはいかないの」
+<name "Viola" "!BA1091">
+"I can't afford to lose."
 #
-<name "セリス" "!AA6645">
-「……行きます！」
+<name "Celes" "!AA6645">
+"...Here I come!"
 #
 :17B
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1F9: 
-<name "ヴィオラ" "!BA1092">
-「……死ぬ覚悟は出来てるのかしら？」
+<name "Viola" "!BA1092">
+"...Are you ready to die?"
 #
-<name "セリス" "!AA6646">
-「死ぬつもりはありません」
+<name "Celes" "!AA6646">
+"I'm not going to die here!"
 #
 :1F9
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :290: 
-<name "ヴィオラ" "!BA1093">
-「……貴女を倒しても、ラズロックは私を怒ったり
-　しないかしら？」
+<name "Viola" "!BA1093">
+"...Would Lazlocke be mad if I beat you?"
 #
-<name "セリス" "!AA6647">
-「遠慮無く、どうぞ」
+<name "Celes" "!AA6647">
+"Please don't hold back."
 #
 :290
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :391: 
-<name "ヴィオラ" "!BA1094">
-「貴女の想いは知っているけど、負けてあげるわけ
-　にはいかないの」
+<name "Viola" "!BA1094">
+"I know your ambition, but I won't let you beat
+ me."
 #
-<name "セリス" "!AA6648">
-「わかっています。
-　想いは自分の力で」
+<name "Celes" "!AA6648">
+"I know.
+ I want the same thing."
 #
-<name "ヴィオラ" "!BA1095">
-「良い覚悟ね。
-　……勝負よ」
+<name "Viola" "!BA1095">
+"Good answer.
+ Let's fight."
 #
-<name "セリス" "!AA6649">
-「はい」
+<name "Celes" "!AA6649">
+"Yes."
 #
 :391
 \x78\x78

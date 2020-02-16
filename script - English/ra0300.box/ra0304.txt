@@ -1,19 +1,21 @@
 \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :A2: 
-<name "レッキーノ" "!RA0045">
-「貴様と戦える日を、楽しみにしていたぞ」
+<name "Recchino" "!RA0045">
+"I've been looking forward to the day when I get
+ to fight you."
 #
-<name "セリス" "!AA6681">
-「が、ガッカリさせないように、頑張ります」
+<name "Celes" "!AA6681">
+"I-I'll do my best not to disappoint you."
 #
 :A2
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :14A: 
-<name "レッキーノ" "!RA0046">
-「真に強き者との戦い。
-　それこそが我が生き甲斐。
-　我が生涯！」
+<name "Recchino" "!RA0046">
+"Fighting against a truly strong opponent is what
+ I live for.
+ It's my reason for being!"
 #
-<name "セリス" "!AA6682">
-「す、凄い迫力……でも、負けない」
+<name "Celes" "!AA6682">
+"W-What force...
+ But I won't lose!"
 #
 :14A
 \x78\x78

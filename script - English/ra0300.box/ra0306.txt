@@ -1,46 +1,49 @@
 \x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :CF: 
-<name "イングウェイ" "!TA0099">
-「やあ、可愛いレディ♪
-　こんな所で会うとは奇遇だね」
+<name "Ingway" "!TA0099">
+"Hey, pretty lady.♪
+ Fancy meeting you here."
 #
-<name "セリス" "!AA6669">
-「よろしくお願いします」
+<name "Celes" "!AA6669">
+"Let's have a good fight."
 #
-<name "イングウェイ" "!TA0100">
-「はい、頑張ろう」
+<name "Ingway" "!TA0100">
+"Yes, let's do our best."
 #
 :CF
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :147: 
-<name "セリス" "!AA6670">
-「遠慮無く、行きます」
+<name "Celes" "!AA6670">
+"No holding back.
+ Here I come."
 #
-<name "イングウェイ" "!TA0101">
-「どーんと、かかってきたまえ」
+<name "Ingway" "!TA0101">
+"Come on.
+ Bring it on."
 #
 :147
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :282: 
-<name "イングウェイ" "!TA0102">
-「全ての森の為に……参る」
+<name "Ingway" "!TA0102">
+"For all the forests...
+ Here goes."
 #
-<name "セリス" "!AA6671">
-「はい」
+<name "Celes" "!AA6671">
+"Okay."
 #
-<name "イングウェイ" "!TA0104">
-「ああ、ちょっと待った。
-　今の僕、カッコ良かったから覚えておく。
-　全ての森の為に……参る。
-　良いなぁ、イングウェイ語録に載せなきゃ」
+<name "Ingway" "!TA0104">
+"Oh, hold on.
+ I just sounded cool, I want to remember this.
+ For all the forests, here goes.
+ Nice. That goes right in the Ingway book."
 #
-<name "セリス" "!AA6672">
-「……い、行きますよ」
+<name "Celes" "!AA6672">
+"...H-Here I come?"
 #
 :282
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2F8: 
-<name "イングウェイ" "!TA0105">
-「僕に声援をくれる全ての人の為に……」
+<name "Ingway" "!TA0105">
+"For everyone cheering me on..."
 #
-<name "セリス" "!AA6673">
-「行きます」
+<name "Celes" "!AA6673">
+"Here I come."
 #
 :2F8
 \x78\x78

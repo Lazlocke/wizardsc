@@ -1,62 +1,62 @@
 \x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :B8: 
-<name "セリス" "!AA6650">
-「ソシエットさんが相手……やり難い」
+<name "Celes" "!AA6650">
+"I'm against you?
+ This won't be easy."
 #
-<name "ソシエット" "!DA1226">
-「遠慮無く、掛かって来て下さい」
+<name "Soshiette" "!DA1226">
+"Don't hold back.
+ Bring everything you've got."
 #
-<name "セリス" "!AA6651">
-「は、はい！」
+<name "Celes" "!AA6651">
+"Y-Yes, ma'am!"
 #
 :B8
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :180: 
-<name "セリス" "!AA6652">
-「ソシエットさん。
-　て、手加減をお願いします」
+<name "Celes" "!AA6652">
+"Miss Soshiette? 
+ P-Please go easy on me."
 #
-<name "ソシエット" "!DA1227">
-「残念ながら……
-　全力全開が私のモットーです」
+<name "Soshiette" "!DA1227">
+"Unfortunately...
+ All out is my motto."
 #
-<name "セリス" "!AA6653">
-「ひぃぃぃっ」
+<name "Celes" "!AA6653">
+"Eep!"
 #
 :180
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :201: 
-<name "ソシエット" "!DA1228">
-「参ります」
+<name "Soshiette" "!DA1228">
+"Here I come."
 #
-<name "セリス" "!AA6654">
-「は、はい。
-　頑張ってソシエットさんに勝ちます」
+<name "Celes" "!AA6654">
+"Y-Yes, ma'am.
+ I'll try my best to beat you."
 #
 :201
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :25F: 
-<name "セリス" "!AA6655">
-「いきます！」
+<name "Celes" "!AA6655">
+"Here I come!"
 #
-<name "ソシエット" "!DA1229">
-「……どうぞ」
+<name "Soshiette" "!DA1229">
+"...Please do."
 #
 :25F
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2FB: 
-<name "ソシエット" "!DA1230">
-「……セリスさん。
-　少し、本気でいきます」
+<name "Soshiette" "!DA1230">
+"Celes, I'll be taking this a little seriously."
 #
-<name "セリス" "!AA6656">
-「……どうぞ。
-　負けるつもりはありません」
+<name "Celes" "!AA6656">
+"...Please do.
+ I'm not going to lose."
 #
 :2FB
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :387: 
-<name "ソシエット" "!DA1231">
-「普段の勉強の成果。
-　見せて貰います」
+<name "Soshiette" "!DA1231">
+"Show me the fruits of your daily training."
 #
-<name "セリス" "!AA6657">
-「わかりました。
-　頑張ります」
+<name "Celes" "!AA6657">
+"All right.
+ I'll do my best."
 #
 :387
 \x78\x78

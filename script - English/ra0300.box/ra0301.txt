@@ -1,34 +1,34 @@
 \x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :9C: 
-<name "イエル" "!CA0928">
-「セリスが相手ね……
-　でも、手加減はしないわよ」
+<name "Elle" "!CA0928">
+"Up against you, huh?
+ But I won't hold back."
 #
-<name "セリス" "!AA6631">
-「うん。
-　私も全力で行く」
+<name "Celes" "!AA6631">
+"Yep.
+ I'm going full power too!"
 #
 :9C
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :174: 
-<name "イエル" "!CA0929">
-「セリスとこんな場所で戦う事になるなんてね」
+<name "Elle" "!CA0929">
+"I can't believe I have to fight you here."
 #
-<name "セリス" "!AA6632">
-「私も驚いてる」
+<name "Celes" "!AA6632">
+"I'm surprised too."
 #
-<name "イエル" "!CA0930">
-「どっちが勝っても恨みっこ無しだからね」
+<name "Elle" "!CA0930">
+"No matter who wins, no holding it against them,
+ okay?"
 #
-<name "セリス" "!AA6633">
-「うん！」
+<name "Celes" "!AA6633">
+"Yep!"
 #
 :174
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1F5: 
-<name "セリス" "!AA6634">
-「イエルちゃん。
-　いくよ」
+<name "Celes" "!AA6634">
+"Elle, here I come."
 #
-<name "イエル" "!CA0931">
-「負けてあげたりなんかはしないからね」
+<name "Elle" "!CA0931">
+"I'm not about to lose to you."
 #
 :1F5
 \x78\x78

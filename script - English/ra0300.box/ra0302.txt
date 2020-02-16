@@ -1,26 +1,26 @@
 \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :C7: 
-<name "ヘンドリク" "!QA0090">
-「さあ、始めようか、お嬢さん」
+<name "Hendrik" "!QA0090">
+"Okay, let's begin, missy."
 #
-<name "セリス" "!AA6676">
-「全力で、いきます」
+<name "Celes" "!AA6676">
+"Here I come, full power."
 #
-<name "ヘンドリク" "!QA0091">
-「うん、その方が良い。
-　やり易いからね」
+<name "Hendrik" "!QA0091">
+"Yep. That's good.
+ That'll make this simple."
 #
 :C7
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :195: 
-<name "ヘンドリク" "!QA0094">
-「できれば、一撃で終らせたいところだが……
-　君相手には無理のようだね」
+<name "Hendrik" "!QA0094">
+"If possible, I want to end this in one attack,
+ but I don't think I can do that against you."
 #
-<name "セリス" "!AA6748">
-「……」
+<name "Celes" "!AA6748">
+"..."
 #
-<name "ヘンドリク" "!QA0095">
-「うむ。
-　全力で行かせて貰う」
+<name "Hendrik" "!QA0095">
+"Mmhmm.
+ I'll take you on with all my strength then."
 #
 :195
 \x78\x78

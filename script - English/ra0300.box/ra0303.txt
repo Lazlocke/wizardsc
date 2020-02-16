@@ -1,33 +1,33 @@
 \x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :191: 
-<name "リノ" "!PA0063">
-「なかなかやるじゃないか……
-　それなりにテメェを応援しているよ……」
+<name "Reno" "!PA0063">
+"You're not bad...
+ I'll root for you in my own way..."
 #
-<name "セリス" "!AA6677">
-「あ、ありがとうございます」
+<name "Celes" "!AA6677">
+"T-Thank you very much."
 #
-<name "リノ" "!PA0060">
-「だが、一言だけ言わせてくれるかな」
+<name "Reno" "!PA0060">
+"But let me say one thing."
 #
-<name "セリス" "!AA6678">
-「はい？」
+<name "Celes" "!AA6678">
+"Yes?"
 #
-<name "リノ" "!PA0061">
-「その帽子は止めた方が良い」
+<name "Reno" "!PA0061">
+"You should get rid of the hat."
 #
-<name "セリス" "!AA6679">
-「え？」
+<name "Celes" "!AA6679">
+"Huh?"
 #
-<name "リノ" "!PA0062">
-「背が低いのを帽子で誤魔化すのは邪道だ！」
+<name "Reno" "!PA0062">
+"It's wrong to hide how short you are with a hat!"
 #
 :191
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x15 :1E5: 
-<name "リノ" "!PA0064">
-「行くぞ！」
+<name "Reno" "!PA0064">
+"Here I come!"
 #
-<name "セリス" "!AA6680">
-「どうぞ！」
+<name "Celes" "!AA6680">
+"Please do!"
 #
 :1E5
 \x78\x78

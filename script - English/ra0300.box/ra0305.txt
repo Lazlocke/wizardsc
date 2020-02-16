@@ -1,27 +1,29 @@
 \x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :DC: 
-<name "プシェル" "!SA0053">
-「むう……」
+<name "Puschel" "!SA0053">
+"Hmm..."
 #
-<name "セリス" "!AA6674">
-「むう……強そう。
-　隙が無い……」
+<name "Celes" "!AA6674">
+"Hmmmm... You seem strong.
+ There's no openings..."
 #
-<name "プシェル" "!SA0054">
-「あの観客席の男……私の好み♪
-　終ったら、ナンパしに行こうかしら」
+<name "Puschel" "!SA0054">
+"I prefer... that man in the audience.♪
+ Once this over, I think it's time to pick him
+ up."
 #
 :DC
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1B2: 
-<name "プシェル" "!SA0055">
-「女には興味が無いの。
-　早く終わらせるから、協力しなさい」
+<name "Puschel" "!SA0055">
+"I'm not interested in girls.
+ I'd appreciate it if you helped me finish this
+ quickly."
 #
-<name "セリス" "!AA6675">
-「いいですよ。
-　貴方を倒して、終らせます」
+<name "Celes" "!AA6675">
+"All right.
+ I'll beat you and end this."
 #
-<name "プシェル" "!SA0056">
-「……言うじゃない」
+<name "Puschel" "!SA0056">
+"...You don't say."
 #
 :1B2
 \x78\x78
