@@ -11,14 +11,14 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1823">
-「師匠、アルバイトに行ってきます！」
+<name "Celes" "!AA1823">
+"Master, I'm off to my job!"
 #
-<name "ラズロック">
-「頑張るように！」
+<name "Lazlocke">
+"Work hard!"
 #
-<name "セリス" "!AA1824">
-「はい！」
+<name "Celes" "!AA1824">
+"Yep!"
 #
 <removesprite -1 11>
 <exit>
@@ -26,22 +26,23 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1825">
-「師匠、頑張ってお金を稼いできます」
+<name "Celes" "!AA1825">
+"Master, I'm off to work hard and bring home the
+ money."
 #
-<name "ラズロック">
-「頼んだぞー」
+<name "Lazlocke">
+"Thank you!"
 #
 <removesprite -1 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0443">
-「……」
+<name "Soshiette" "!DA0443">
+"..."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What?"
 #
-<name "ソシエット" "!DA0444">
-「いえ、なにも」
+<name "Soshiette" "!DA0444">
+"Nothing."
 #
 <removesprite -1 11>
 <exit>
@@ -49,23 +50,26 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0448">
-「弟子がアルバイトに行ったのに、師匠が家でのん
-　びりとしているのはどうかと思います」
+<name "Soshiette" "!DA0448">
+"Is it really okay for a master to send his
+ apprentice off to work while he lazes about at
+ home?"
 #
-<name "ラズロック">
-「誤解を招く発言は感心しないなぁ。
-　俺は俺で、ちゃんと仕事をしているぞ」
+<name "Lazlocke">
+"You're not going to sway me by twisting the
+ situation.
+ I'm working too."
 #
-<name "ソシエット" "!DA0446">
-「そうでしたか、失礼しました」
+<name "Soshiette" "!DA0446">
+"Oh, are you?
+ Then pardon me."
 #
-<name "ラズロック">
-「トゲがあるなぁ……
-　協会に行ってないからか？」
+<name "Lazlocke">
+"I can hear the venom dripping...
+ Is this because I haven't been to the Guild?"
 #
-<name "ソシエット" "!DA0447">
-「気のせいです」
+<name "Soshiette" "!DA0447">
+"You're imagining things."
 #
 <removesprite -1 11>
 <exit>
@@ -74,50 +78,50 @@
 <background "bg002a0.iph" 11>
 \x2B\x2E\x22\x00\x01 1  8 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :4CE: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1826">
-「アルバイト、行ってきます」
+<name "Celes" "!AA1826">
+"I'm back from work."
 #
 :4CE
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :527: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1827">
-「いってきまーす」
+<name "Celes" "!AA1827">
+"I'm off!"
 #
 :527
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :57C: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1828">
-「頑張るぞー」
+<name "Celes" "!AA1828">
+"Time to do my best!"
 #
 :57C
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :5D3: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1829">
-「頑張ります！」
+<name "Celes" "!AA1829">
+"Let's work hard!"
 #
 :5D3
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :628: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1830">
-「やります！」
+<name "Celes" "!AA1830">
+"I can do it!"
 #
 :628
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :68B: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1831">
-「さあ、頑張って働かないと」
+<name "Celes" "!AA1831">
+"Okay, I've got to work hard!"
 #
 :68B
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :6E0: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1832">
-「稼ぐぞー♪」
+<name "Celes" "!AA1832">
+"Let's make some money!♪"
 #
 :6E0
 \x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :735: 
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA1833">
-「やるぞー♪」
+<name "Celes" "!AA1833">
+"I've got this!♪"
 #
 :735
 <removesprite -1 11>
