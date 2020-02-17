@@ -190,7 +190,7 @@ problems with it.
 <sprite "ta02a09.iph" 4 4 12>
 <name "Elle" "!CA0446">
 "Yes. It was when she was appointed as a court
- wizard after the war against the Bazul Kingdom
+ wizard after the war against the Bazur Kingdom
  ended."
 #
 <sprite "ta02a04.iph" 4 4 12>

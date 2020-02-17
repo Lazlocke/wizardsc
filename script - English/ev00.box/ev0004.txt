@@ -412,7 +412,7 @@ bow, he's gone.
 <sprite "ta13a59.iph" 6 4 12>
 <name "Hendrik" "!QA0012">
 "Am I wrong?
- That's what they say in the Bazour Kingdom."
+ That's what they say in the Bazur Kingdom."
 #
 <sprite "ta01a91.iph" 2 5 12>
 <name "Celes" "!AA0776">
@@ -469,7 +469,7 @@ bow, he's gone.
 "Really?"
 #
 <name "Lazlocke">
-"He was recruited by Bazour after graduating."
+"He was recruited by Bazur after graduating."
 #
 <sprite "ta01a10.iph" 4 4 12>
 <name "Celes" "!AA0782">
@@ -526,7 +526,7 @@ bow, he's gone.
 #
 <name "Lazlocke">
 "Yeah. He's a graduate from Rune Academy.
- The Bazour Academy had him recruited even
+ The Bazur Academy had him recruited even
  before he graduated."
 #
 <sprite "ta01a08.iph" 4 4 12>

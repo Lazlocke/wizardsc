@@ -386,7 +386,7 @@ after that.
 #
 <sprite "ta13a47.iph" 6 4 12>
 <name "Hendrik" "!QA0021">
-"Someone named Irlam from Bazel."
+"Someone named Irlam from Bazur."
 #
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA0791">
@@ -426,7 +426,7 @@ after that.
 <sprite "ta04a25.iph" 6 4 12>
 <name "Soshiette" "!DA0241">
 "I'm hesitant to tell you this, but Lord Irlam
- is the minister of the Bazel Kingdom."
+ is the minister of the Bazur Kingdom."
 #
 <sprite "ta01a10.iph" 2 5 12>
 <name "Celes" "!AA0795">
