@@ -21,52 +21,50 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0934">
-「協会からのお願いがあります」
+<name "Soshiette" "!DA0934">
+"You have a request from the Guild."
 #
-<name "ラズロック">
-「……断わる」
+<name "Lazlocke">
+"...Tell them no."
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0935">
-「そうなると、弟子を取り上げる事も視野に入れな
-　ければならなくなります」
+<name "Soshiette" "!DA0935">
+"Then perhaps they will not be able to continue
+ to overlook that you took an apprentice."
 #
-<name "ラズロック">
-「話が飛躍するなぁ」
+<name "Lazlocke">
+"That's escalating fast."
 #
 <sprite "ta04a66.iph" 4 4 12>
-<name "ソシエット" "!DA0936">
-「話をちゃんと聞いてくれないからです」
+<name "Soshiette" "!DA0936">
+"You're not listening to me anyway."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0937">
-「そろそろ、協会も困っています。
-　お願いします」
+<name "Soshiette" "!DA0937">
+"The Guild's patience won't last forever.
+ Please."
 #
 <removesprite -1 11>
-　俺は大きく溜息を吐く。
+I let out a big sigh.
 #
-　協会からのお願いと言うのは、別に会費を払えと
-　か、魔法は周囲の安全を確認してから使いましょ
-　うとかじゃない。
+The request from the Guild isn't about paying my
+dues, using magic more safely.
 #
-　俺の“魔法使いの花嫁”である力を必要としてい
-　るだけだ。
+They just want my ability as a wizard's bride.
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "ソシエット" "!DA0938">
-「ご満足して頂くだけの、報酬はご用意いたします」
+<name "Soshiette" "!DA0938">
+"We will have payment ready to satisfy you."
 #
-<name "ラズロック">
-「……考えておく」
+<name "Lazlocke">
+"...I'll think about it."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0940">
-「できるだけ、お早くお願いします」
+<name "Soshiette" "!DA0940">
+"Please be as quick as you can."
 #
 <removesprite -1 11>
 <exit>
@@ -74,76 +72,79 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0941">
-「ご主人様、そろそろ協会の仕事をお願いしたいの
-　ですが……」
+<name "Soshiette" "!DA0941">
+"Your Grace, could you please take on the Guild's
+ request soon?"
 #
-<name "ラズロック">
-「ああ？
-　ちゃんとやってるぞ。
-　協会の仕事」
+<name "Lazlocke">
+"Oh? I thought I already was working on a job for
+ the Guild."
 #
 <removesprite -1 11>
-　協会からの依頼で、魔導書の解析中だ。
+I'm decyphering a grimoire for them.
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0942">
-「冗談は止めてください」
+<name "Soshiette" "!DA0942">
+"Please don't joke like that."
 #
-<name "ラズロック">
-「わかってるさ。
-　能力を使う方だろ。
-　気が向いたら、行ってやる」
+<name "Lazlocke">
+"Fine.
+ You want my ability, right?
+ I'll go when I'm ready."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0943">
-「本当ですか？」
+<name "Soshiette" "!DA0943">
+"Will you really?"
 #
-<name "ラズロック">
-「お前相手に嘘を言っても怖いだけだろ」
+<name "Lazlocke">
+"I'm too scared to lie to someone like you."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0966">
-「理由には不服ですが、承知しました。
-　お待ちしております」
+<name "Soshiette" "!DA0966">
+"I'm not happy about that reasoning, but I 
+ understand.
+ We're looking forward to seeing you."
 #
-<name "ラズロック">
-「おう、気長に待ってろ」
+<name "Lazlocke">
+"Yeah.
+ Wait patiently."
 #
 <removesprite -1 11>
 <exit>
 :96E
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「おはよう、ソシエット君」
+<name "Lazlocke">
+"Good morning, Soshiette."
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0945">
-「おはようございます。
-　ご主人様」
+<name "Soshiette" "!DA0945">
+"Good morning, Your Grace."
 #
-<name "ラズロック">
-「寝ている間中、協会へ行こうと囁かれたような気
-　持ちの良い朝だな」
+<name "Lazlocke">
+"Did I wake up to somebody whispering that I
+ should go to the Guild?"
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0946">
-「その通りだと思います」
+<name "Soshiette" "!DA0946">
+"That seems correct."
 #
-<name "ラズロック">
-「じゃあ、もう一度、寝るから起こさないように」
+<name "Lazlocke">
+"Then I'm going back to bed, and don't wake me
+ up again."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0947">
-「はい」
+<name "Soshiette" "!DA0947">
+"Of course."
 #
-<name "ラズロック">
-「…………ぐー」
+<name "Lazlocke">
+".........Zzz..."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0948">
-「協会へ行こう、協会へ行こう、協会へ行こう……」
+<name "Soshiette" "!DA0948">
+"Let's go to the Guild...
+ Let's go to the Guild...
+ Let's go to the Guild..."
 #
 <removesprite -1 11>
 <exit>
@@ -151,22 +152,22 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0949">
-「ご主人様」
+<name "Soshiette" "!DA0949">
+"Your Grace."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0950">
-「そろそろ、泣きます」
+<name "Soshiette" "!DA0950">
+"You're going to make me cry."
 #
-<name "ラズロック">
-「…………わかった、協会の仕事だな」
+<name "Lazlocke">
+"...Fine. The Guild job, right?"
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0951">
-「よろしくお願いします」
+<name "Soshiette" "!DA0951">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -175,327 +176,327 @@
 <background "bg009a0.iph" 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0952">
-「ようこそ、ご主人様。
-　依頼のお引き受け、ありがとうございます」
+<name "Soshiette" "!DA0952">
+"Welcome, Your Grace.
+ Thank you for accepting this request."
 #
 <removesprite -1 11>
-　そう言いながら、ソシエットが深々と頭を下げる。
+She bows deeply.
 #
-　協会に来るのが予定よりも三十分程遅れたが、文
-　句を言ってこない。
+I arrived half an hour late, but she's not
+complaining.
 #
-　俺が来ただけ、マシという事だろうか。
+Probably happy I showed up at all.
 #
-　そうかもしれない。
+Definitely that.
 #
-　これまで、何度か逃げてるしな。
+I've cut out multiple times already.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0953">
-「さっそくですが……」
+<name "Soshiette" "!DA0953">
+"If we can begin right away..."
 #
-<name "ラズロック">
-「わかっている。
-　相手は？」
-#
-<sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0954">
-「クレリア＝ノルザック。
-　ルーン魔法学園の生徒です」
-#
-<name "ラズロック">
-「聞いた名だな」
-#
-<sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0955">
-「学園代表生徒です」
-#
-<name "ラズロック">
-「ああ、それでか」
+<name "Lazlocke">
+"Fine.
+ Who is it?"
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0956">
-「いつもの場所で、準備を終えております」
+<name "Soshiette" "!DA0954">
+"Cleria Nolzak.
+ A student of Rune Academy."
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"I've heard the name."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0957">
-「では、よろしくお願いします」
+<name "Soshiette" "!DA0955">
+"She's on the student council."
+#
+<name "Lazlocke">
+"Ah, that's right."
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0956">
+"She's preparing in the usual place."
+#
+<name "Lazlocke">
+"Fine."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0957">
+"Well then, thank you very much."
 #
 <removesprite -1 11>
-　俺は了解と手を振り、足を進めた。
+I wave in understanding and leave her behind.
 #
-　場所は、協会本部の地下。
+I'm going under the Guild headquarters.
 #
-　人気の少ない場所に隠された扉を三枚くぐり、協
-　会関係者でも数名しかしらない部屋にたどり着く。
+I have to pass through three hidden doors in out
+of the way places to finally reach a room that
+only a select few in the Guild even know about.
 #
-　部屋にはベッドが一つと、それを包み隠すように
-　幾重にも張られたカーテン。
+There's a bed in the room, with a curtain around
+it.
 #
-　扉付近に置かれているテーブルの上の手紙を読み
-　ながら俺は衣服を脱ぎ、全裸になった状態でカー
-　テンを捲っていく。
+I undress while reading the letter left on the
+table by the door, and once I'm naked, I open
+the curtain.
 #
-　すると、誘淫の効果を発揮する香が俺の鼻を擽る。
+The smell of the aphrodisiac incense tickles my
+nose.
 #
-　それは、カーテンを捲るたびに大きくなり、俺の
-　股間のモノを無理矢理に膨張させていく。
+My dick starts to harden knowing what's behind
+the curtain.
 #
-　そして、カーテンの中にあるベッドに辿り着いた。
+And what's in the bed is revealed.
 #
-　そこには、目隠しをされた全裸の女性、クレリア
-　が待っていた。
+A woman is waiting there, blindfolded and
+completely naked.
 #
 <music 35>
 <background "ev077a0.iph" 10>
-<name "クレリア" "!GB0000">
-「ふぅぁぁっ！」
+<name "Cleria" "!GB0000">
+"Aaah!"
 #
-　俺はベッドの上に居たクレリアに襲い掛かるよう
-　に、貪りついた。
+I immediately attack her.
 #
-　放り出されている胸を掴み、首筋を舐め、そして、
-　陰部への強引な挿入。
+I grab her exposed breasts, lick the scruff of
+her neck, and force my dick into her.
 #
-　香が焚かれた部屋に長く居たのだろう、クレリア
-　の陰部は俺のモノを受け入れる態勢が出来ていた。
+She's been in this room with that incense burning
+for a long time, and her pussy is ready for me.
 #
-　これだけの香に晒されながら、自慰に耽っていな
-　かったのを感心するぐらいだ。
+I'm surprised that she didn't masturbate at all
+while being subjected to this.
 #
-　だが、その理由もすぐにわかった。
+But I think I know why.
 #
 <background "ev077a1.iph" 10>
-　処女だ。
+She's a virgin.
 #
-　こういった行為に縁が無かったのだろう。
+It probably didn't even occur to her.
 #
-　行為の甘さを知らねば、誘惑にもならない。
+If you don't know how good it feels, you don't
+feel any temptation to do it.
 #
-<name "クレリア" "!GB0001">
-「ぐぎぎぁ……ぁ……い、痛い……
-　ひっ……く……ぁ……やめ……やめて……」
+<name "Cleria" "!GB0001">
+"Nngh... ah... I-It hurts...
+ Ah...agh...ah...
+ Stop... Stop..."
 #
-　俺はクレリアの声を無視し、己が欲望を消化する
-　為に肉体を求めた。
+I ignore her and use her body to satisfy my own
+desire.
 #
-　クレリアはそれに抵抗するが、逃げ切れない。
+She resists, but she can't get away.
 #
-　目隠しされている上に、腕力は俺の方が強いから
-　だ。
+She's blindfolded, and I'm stronger than her.
 #
-　俺は強引に押し捕まえ、クレリアの陰部に挿入し
-　たモノを喜ばせる為に腰を動かす。
+I forcibly pin her down and push my dick into 
+purely for my own pleasure.
 #
-<name "クレリア" "!GB0002">
-「ひぃぁっ！
-　っ！
-　くぅぁっ！！！」
+<name "Cleria" "!GB0002">
+"Aah! Ngh!
+ Aah!"
 #
-　逃がさない。
+There's no escape for her.
 #
-　初めて男を受け入れた膣内を、俺のモノが強引に
-　動き回る。
+My dick forcefully goes in and out of her virgin
+pussy.
 #
-　相当な苦痛の筈だ。
+It probably hurts quite a bit.
 #
-<name "クレリア" "!GB0003">
-「ひぅぁううっ、うぁ、うあああっ！」
+<name "Cleria" "!GB0003">
+"Aaah! Aah! Ahhh!"
 #
-　だが、俺は彼女を気遣ったりはしない。
+But I'm not thinking of her.
 #
-　自分の快楽の為に根元まで捻じ込み、掻き回す。
+I bury myself in her to the base, twisting and
+stirring inside her for my own pleasure.
 #
-<name "クレリア" "!GB0004">
-「くぅぁ……ぁっ……あっ、ぁぁぁぁぁあっ！
-　ぁぁぁ！
-　ひっ、ひ……くぅぁ……ぁっ！！
-　ううぁぁぁぁっっ！！」
+<name "Cleria" "!GB0004">
+"Ngh...ah...ah...aaaah!
+ Aaah!
+ Ah! Ah! Ah! Ah!
+ Aaaahhhh!!!"
 #
-　クレリア＝ノルザック
+Cleria Nolzak.
 #
-　ルーン魔法学園の学園代表。
+One of the top students of Rune Academy.
 #
-　部屋に入った所で置かれていた手紙には、彼女が
-　なぜ魔力を求めるか書かれていた。
+The letter I read when I entered the room said
+why she wanted mana.
 #
-　曰く、自分の限界を感じた為。
+It's because she believes she's reached her limit.
 #
-　上を目指すには、今の魔力では足りない為。
+She lacks the mana to reach any further.
 #
-　そして、ノルザック家の栄光の為。
+And for the greater glory of the Nolzak family.
 #
-　魔力を欲した。
+She wants mana.
 #
-　その対価は、八万Ｂという大金とその身。
+The price she paid is 80,000Ｂ and her body.
 #
-　俺が遠慮する事は何も無い。
+There's no reason for me to hold back.
 #
-　俺は狭いクレリアの膣内で、モノを喜ばせながら
-　腰を動かし続けた。
+I keep moving my hips, pleasuring my dick inside
+her tight pussy.
 #
-<name "クレリア" "!GB0005">
-「ひっ、ひあっ、ひあうううううっ！」
+<name "Cleria" "!GB0005">
+"Ah! Aah! Aaaahhh!"
 #
-　クレリアは痛みに声を上げながら、俺の行為を受
-　け止める。
+She cries out in pain from what I'm doing to her.
 #
 <background "ev077a2.iph" 10>
-<name "クレリア" "!GB0006">
-「あ、あ、あうう、うぁ、うぁうううう……
-　ふぅぁん、ん、んぁ、んんぬぁぁっ」
+<name "Cleria" "!GB0006">
+"Ah! Ah! Aah! Ahh! Aaaaah...
+ Aaah! Nngh! Aah! Aaah!"
 #
-　そして、クレリアの声に変化が出てきた。
+A change starts to come to her voice.
 #
-　焚かれた香によって、痛みが快楽に変換され始め
-　たのだろう。
+The burning incense is turning her pain to 
+pleasure.
 #
-<name "クレリア" "!GB0007">
-「くぅぁ……ぁっ……あっ、ぁぁぁぁぁあっ！
-　ぁぁぁ！
-　ひっ、ひ……くぅぁ……ぁっ！！
-　ううぁぁぁぁっっ！！」
+<name "Cleria" "!GB0007">
+"Ngh...ah...ah...ahhhhhh!
+ Ah! Aaah...ah...ah!
+ Aaaaaah!"
 #
-　俺の腰の動きに合わせてあげていた悲鳴に、艶が
-　混じり始めた。
+Intoxication starts to mix in with her screams in
+time with my thrusts.
 #
 <background "ev077a3.iph" 10>
-<name "クレリア" "!GB0008">
-「ぁ、ぁっ、ぁぁぁううっ、うぁ、うぁぁぁ……
-　あう、あ、へ、変……あ、何？
-　あぁぁぁぁぁぁぁぁっ！」
+<name "Cleria" "!GB0008">
+"Ah! Ah! Aaah! Aaah! Aaaahh...
+ Aaah...aah... I-It feels... ah... strange...
+ Aaaaaah!"
 #
-<name "クレリア" "!GB0009">
-「あぁあ、ぁ、ひ、ぁ、あ、ぁぁ？
-　うあぁぁぁぁ、ぁっ、ぁぁぁぁ……
-　ひぁ、ひぁう……うあ？
-　なに？　なに？　え、あ……うあ？」
+<name "Cleria" "!GB0009">
+"Aaaah! Ah! Ah! Ah! Ah! Aaah!
+ Aaaaah! Ah! Aaaah...
+ Aah! Aah! Aah!
+ What? What? Huh? Ah...ah..."
 #
-　これまでに経験した事の無い感覚に、クレリアが
-　混乱する。
+She's confused by the sensations she's never felt
+before.
 #
-　目隠しをされた暗闇の中、その恐怖は倍増してい
-　るだろう。
+She must be twice as scared with this happening to
+her in darkness.
 #
-　俺はそれを知りながら、クレリアの膣内に大量の
-　精液を流し込んだ。
+Knowing that, I flood her pussy with semen.
 #
 <background "ev077a4.iph" 10>
-<name "クレリア" "!GB0010">
-「ふぅぁ、あ、あ、え、あ？
-　うぁ……ぁ……あ、あああああああ！」
+<name "Cleria" "!GB0010">
+"Aaah! Ah! Ah! Huh? Ah...
+ Aah...ah...ah! Aaaahhhhh!"
 #
-　ドクンッドクンッとモノを脈打たせながら、クレ
-　リアの膣奥に精液をぶつけるように放つ。
+My dick throbs as my semen pours into her.
 #
 <background "ev077a5.iph" 10>
-<name "クレリア" "!GB0011">
-「ぁ……うぁ……あう……あ、あ、なにぃ、
-　ぁぁ、う、あ、あん♪」
+<name "Cleria" "!GB0011">
+"Ah...aah...ah...ah...ah...
+ What?
+ Aah...ah...ah...ah!♪"
 #
-　自分でも感心するぐらい長い射精だった。
+Even I'm impressed by how long I'm coming.
 #
-　その射精が終ると同時に、俺は腰の動きを再開す
-　る。
+As soon as I finish, I start moving again.
 #
-　先程とは違い、クレリアの膣の出入り口付近で、
-　モノを小刻みに擦り付けるように。
+Not like like time though. 
+Now I'm moving shallowly, rubbing my dick at the
+entrance to her pussy.
 #
-<name "クレリア" "!GB0012">
-「ぁ、ぁ、ぁ、ぁぁぁぁぁぁぁぁぁぁっ！」
+<name "Cleria" "!GB0012">
+"Ah! Ah! Ah! Aaaaaaahhhh!"
 #
-　クレリアを喜ばせる為に、俺はモノを動かした。
+I move my dick for her pleasure.
 #
-　時々、クレリアの胸を揉み、乳首を摘まむ。
+Occasionally, I rub her breasts and pinch her
+nipples.
 #
-　尻や太股を撫でまわし、時には舌を這わせた。
+I also stroke her butt and thighs, and run my
+tongue over her face.
 #
-<name "クレリア" "!GB0013">
-「ふぁ、ふぁぁふぁうううううううっ！」
+<name "Cleria" "!GB0013">
+"Aaah! Aaaaaahhhhhh!!!"
 #
-　そして、俺の二度目の射精と同時に、クレリアは
-　達した。
+As I start to come for the second time, she
+climaxes.
 #
-　全身を痙攣させながら、陰部から大量の潮を吹き
-　散らかした。
+Her whole body shudders and a gush of liquid comes
+out of her.
 #
-　その姿に満足しながら、俺は三度目の射精に向け
-　て腰を動かす。
+I'm satisfied seeing that, and start moving to
+come a third time.
 #
-　そして、三度目の射精は、クレリアの口を開かせ
-　てその中に流し込んだ。
+For the third one, I do it in her mouth.
 #
-<name "クレリア" "!GB0014">
-「げふぉっ、ごほっ、ごほぁ……」
+<name "Cleria" "!GB0014">
+"Agh...
+ *cough* *cough*"
 #
-　殆ど吐き出されたが、気にしない。
+She spits it out, but I don't care.
 #
-　射精を終えると、また膣内にモノを捻じ込み腰を
-　振る。
+After coming, I stick it back in her pussy.
 #
-　そのまま、四度目の射精を膣内で行なった。
+That's where I come for the fourth time.
 #
-<name "クレリア" "!GB0015">
-「うううぁぁぁぁ……」
+<name "Cleria" "!GB0015">
+"Aaahh..."
 #
-　五度目は後ろの穴だと、強引に捻じ込んでやった。
+For the fifth time, I'm going to do it in her ass.
 #
-<name "クレリア" "!GB0016">
-「ひぐぐぐぁぁぁぁ……！」
+<name "Cleria" "!GB0016">
+"Aaaaghhhh!"
 #
-　香の効果か、後ろの穴への挿入は多少狭かったが
-　問題無く挿入できた。
+Maybe it's because of the incense, but even though
+it's a little tight, I can put it in easily.
 #
-　そして、そのままモノを動かして五度目の射精を
-　行なった。
+And start moving to come again.
 #
-<name "クレリア" "!GB0017">
-「ぁ……うぁぅぁぁぁ……」
+<name "Cleria" "!GB0017">
+"Ah...aaah..."
 #
-　初めての男性体験が目隠しをされ、前も後ろも口
-　も汚される。
+Her first time with a man is blindfolded, and he
+violated her front, back, and mouth.
 #
-　その陵辱の中、クレリアは両手が自由な事にも関
-　わらず、目隠しを取ろうとはしなかった。
+But despite being violated so thoroughly, she
+never tries to take off the blindfold.
 #
-　目隠しを取ったら、魔力を与えないとでも言われ
-　たのだろう。
+She's been told that if she did, she wouldn't
+receive any mana.
 #
-　そこまでして魔力が欲しいのだろう。
+That's how badly she wants mana.
 #
-　見た感じ、クレリアの魔力は平均に少しだけ足り
-　ない程度だ。
+I could tell right away that she doesn't have as
+much mana as most wizards.
 #
-　逆を言えば、これぐらいの魔力でも十分に魔法使
-　いになれる。
+On one hand, it's enough to become at least a
+passable wizard.
 #
-　しかし、魔力は多いに越した事は無い。
+But it's not enough mana to be a remarkable one.
 #
-　俺のように多過ぎると問題だが、平均以上の魔力
-　は利益しかない。
+For someone like me, too much mana is a problem,
+but for virtually everybody else, the more mana
+you have, the better.
 #
-　単純に考えても、魔法の実践練習量が大きく変化
-　する。
+Put simply, the more mana you have, the more magic
+you can do, in quantity and quality.
 #
-　だから魔力を求める。
+So she wants mana.
 #
-　どんな事をしても。
+No matter what it costs her.
 #
-　どんな事をされても。
+No matter what happens to her.
 #
-　……魔法使いは、欲深い。
+...Wizards are avaricious.
 #
-　そういう意味では、クレリアは立派な魔法使いだ。
+In that sense, she's an exemplary wizard.
 #
-<name "クレリア" "!GB0018">
-「ふぁ……ぁ……ぁう……ぅぁぁ……」
+<name "Cleria" "!GB0018">
+"Aah...ah...aah...ahhh..."
 #
-　俺はクレリアの肉体を楽しみながら、精液と魔力
-　を流し込み続けた。
+I continue pouring semen and mana into her while
+savoring her body.
 #
 <music 11>
 <background "bg010b0.iph" 11>
@@ -504,852 +505,879 @@
 :28D4
 <music 37>
 <background "ev078a0.iph" 10>
-　俺は協会に来ていた。
+I've come to the Guild.
 #
-　魔力を吐き出す為に。
+To expel mana.
 #
-　そして、用意された数人の娘達。
+Into the girls prepared for me.
 #
-<name "メル" "!MB0000">
-「あん、んぁ、んぁぁん。
-　ぅはぁ……あっ、あ、あ、ああああっ！」
+<name "Mel" "!MB0000">
+"Aah! Aah! Aah...
+ Aaah...ah...ah! Ah! Aaaah!"
 #
-<name "マーシャ" "!JB0000">
-「ふぁ、あ、あん、ぬぁ……わ、私に……
-　もっと、あ、あん、んぁ……そこは……」
+<name "Marcia" "!JB0000">
+"Aah...ah...ah...mmm... 
+ T-Touch me... there... ah...ah... more..."
 #
-<name "トリス" "!KB0000">
-「あぁぁぁぁぁ、ひ、ひぁ、ひぁっ、
-　駄目ぇぇ……あううう……」
+<name "Tris" "!KB0000">
+"Aaaaah! Ah! Aah! Aah!
+ Don't! Ooohhh..."
 #
-　この娘達は、魔法学園で用意された特別生徒。
+These girls have been specially prepared by the
+school.
 #
-　協会の未来を担う人材。
+They're the talent who will lead the Guild in the
+future.
 #
-　俺から魔力を得る事を理解し、身体を差し出して
-　いる者達。
+They know that they can receive mana from me, and
+are giving themselves willingly.
 #
-　その者達は互いの手足を鎖で繋がれ、それぞれに
-　壁から伸びる鎖で首を繋がれていた。
+Their hands and feet are bound, and their necks
+are chained to the wall.
 #
-　俺との行為の意味を知っているので、勝手に求め
-　たり、俺に危害を加えない為にされている処置だ。
+They know what I'll do.
+They know why I'll do it.
+This is to make sure nobody gets hurt.
 #
-　そして、娘達に今の立場を知らしめる為に。
+And to make sure they know their position.
 #
-　俺に支配されているのだと教える為の鎖だ。
+They're under my control.
 #
-　もちろん、俺を興奮させる意味もある。
+Of course, it excites me too.
 #
-　緊縛された娘達の剥き出しの肌や陰部に、俺の股
-　間のモノは膨張し続け、娘達の膣内で激しく動き
-　続けている。
+I move my swollen dick violently in their pussies,
+one after another.
 #
-<name "メル" "!MB0001">
-「ふぁ、ぁ、ぁぁぁぁ……ひ、ひぅ……
-　む、胸を、あ、あうう……ぁぁん」
+<name "Mel" "!MB0001">
+"Aaah! Ah! Aaaaah.... 
+ Ah! Aaah...
+ M-My chest...
+ Ah! Aah...aah!"
 #
-<name "マーシャ" "!JB0001">
-「ぁぁん、わ、私にも……あう、つ、突いてくださ
-　い、指だけじゃぁ嫌ですぅ」
+<name "Marcia" "!JB0001">
+"Aaah! M-Me too... Aah...
+ S-Stick it in me too...
+ Not just your fingers..."
 #
-<name "トリス" "!KB0001">
-「あ、あん、んぁ、ぁぁぁ……
-　ふぁ、も、もう止めて……ぁぁぁぅ……」
+<name "Tris" "!KB0001">
+"Ah! Aah! Ah! Aaaah...
+ Aah! I-I can't take anymore...
+ Oohhh..."
 #
-　俺は娘達の言葉を無視し、ただ自由に欲望を吐き
-　出し続ける。
+I ignore them and continue venting my desire using
+their bodies.
 #
-　前の穴、後ろの穴、口。
+Front, back, and mouths.
 #
-　背中や髪の毛にまで精液を放ち、塗り込める。
+I plaster their bodies with my semen, even their
+hair.
 #
-　俺の物であると示すように。
+To show that they're mine.
 #
-　俺の匂いを徹底して擦り付ける。
+I soak them in my smell.
 #
-<name "メル" "!MB0002">
-「うぁぁぁ、あ、ぁぅ……ぅぁ……」
+<name "Mel" "!MB0002">
+"Aaah...ah...aah...ahh..."
 #
-<name "マーシャ" "!JB0002">
-「突いて、突いてぇ、あぁ、もう我慢できないの、
-　ふぁ、あ、ぁぁぁぁぁ……」
+<name "Marcia" "!JB0002">
+"Stick it in me! Stick it in!
+ Aaah! I can't take it anymore!
+ Aah! Ah! Aaaah..."
 #
-<name "トリス" "!KB0002">
-「あうう、も、もう駄目です、あ、あう、うぁぁ、
-　あぁぁぁ……こ、これ以上やったら、死んじゃ、
-　……ああううん！」
+<name "Tris" "!KB0002">
+"Aaah... N-No more... Ah...ahh...aah...
+ Aaah... I-If you don't stop, I'll die...
+ Aaaah!!!"
 #
 <background "ev078a1.iph" 10>
-　特に、今日初めてこの宴に参加した娘の膣内を、
-　俺は犯し続けている。
+I especially keep coming in the pussy of the girl
+who's never done this before, over and over.
 #
-　容赦などしない。
+I show her no mercy.
 #
-　徹底して犯し、魔力を与える。
+I fuck them, and I give them mana.
 #
-　それだけだ。
+That's all there is.
 #
-　その為に、俺は理性を飛ばし……
+I don't even think about it anymore.
 #
-　この狂った場所で、娘達を犯し続ける。
+I just keep fucking them in this senseless,
+thoughtless room.
 #
 <background "ev078a2.iph" 10>
-<name "トリス" "!KB0003">
-「ぁ、ぁ、ぁぁぁぁぁぁぁ！」
+<name "Tris" "!KB0003">
+"Ah! Ah! Aaaaahhhh!!!"
 #
-　何度も何度も。
+Over, and over, and over.
 #
-　射精を繰り返し、精液と魔力を吐き出す。
+I keep coming, letting out semen and mana.
 #
-<name "マーシャ" "!JB0003">
-「わ、私にも、あ、あ、挿れて……
-　挿れてくださいぃ、あぁぁぁ、こんなの酷過ぎま
-　すぅ……ぁぁ」
+<name "Marcia" "!JB0003">
+"P-Put it in...ah...ah... me too...
+ Please put it in...
+ Aaah... You're being so cruel...
+ Aaah..."
 #
-<name "メル" "!MB0003">
-「ふぁふぁ、あぁぁぁ、うぁ、うぁぁ……
-　もっと強く、ぁ、ぁ、ぁぁぁ……」
+<name "Mel" "!MB0003">
+"Aaaah...aaah...aah...ahh...
+ Do it harder...
+ Ah...aah..."
 #
-　そして、俺の欲望を求める娘達。
+And the girls want it too.
 #
-　俺にモノを突き入れて貰おうと、必死で尻を振っ
-　て要求してくる。
+She shakes her butt desperately, begging for me
+to put my dick in her.
 #
-　俺は仕方が無いとモノを乱暴に抜き、求めている
-　女の尻を掴んで膣内に乱暴に突き入れた。
+I pull out of the girl I'm fucking, grab her by
+the butt, and stab it wildly into her.
 #
-<name "マーシャ" "!JB0004">
-「ひぁぁううううっ♪」
+<name "Marcia" "!JB0004">
+"Aaaaaahhhh!♪"
 #
-　女は歓喜の悲鳴をあげながら自分で腰を動かし、
-　俺のモノを喜ばせようとする。
+She cries out in delight and presses her butt
+back against me, trying to please my dick.
 #
-<name "ラズロック">
-「……良い具合だぞ。
-　マーシャ」
+<name "Lazlocke">
+"...You feel good, Marcia."
 #
-<name "マーシャ" "!JB0005">
-「ぁ、な、名前を……
-　ふぁ、ぁ、う、嬉しいです……」
+<name "Marcia" "!JB0005">
+"Ah... Y-You...ahh...ah... k-know my name...
+ I'm so glad..."
 #
-<name "ラズロック">
-「覚えもするさ。
-　一番の淫乱娘だからな」
+<name "Lazlocke">
+"I remembered it because you're the dirtiest
+ girl."
 #
-<name "マーシャ" "!JB0006">
-「ぁ、ぁ、は、はい。
-　私は淫乱娘です。
-　だ、だから……」
+<name "Marcia" "!JB0006">
+"Ah...ah... Y-Yes.
+ I'm a dirty girl.
+ S-So..."
 #
-<name "ラズロック">
-「ああ、強く犯して欲しいんだろ」
+<name "Lazlocke">
+"Yeah, you want me to fuck you hard."
 #
-<name "マーシャ" "!JB0007">
-「ああん、んぁ、んはぁ、んあああ、あ、あん、ぁ、
-　ぁん、ぁぁぁ、ひぅ、そ、そんな、あう……ぁっ、
-　ぁぁぁぁぁぁっ！」
+<name "Marcia" "!JB0007">
+"Aaah! Aah! Aah! Aaah! Ah! Aah!
+ Ah! Aah! Aaah! Ah! N-No...
+ Aah! Ah! Aaaaaaahhhhhhh!!!"
 #
-<name "メル" "!MB0004">
-「マ、マーシャだけズルイです。
-　私にも……」
+<name "Mel" "!MB0004">
+"N-Not just her.
+ Do me to..."
 #
-<name "ラズロック">
-「マーシャで出した後はお前に挿れてやる。
-　待ってろ」
+<name "Lazlocke">
+"I'll put it in you after her.
+ Wait your turn."
 #
-　そう言って、俺はメルの尻を叩く。
+I slap Mel's butt.
 #
-<name "メル" "!MB0005">
-「はううっ♪」
+<name "Mel" "!MB0005">
+"Aaahhh!♪"
 #
-<name "ラズロック">
-「トリス。
-　その後でまたお前だ。
-　息を整えておけ」
+<name "Lazlocke">
+"Tris, after her will be you again.
+ Pull yourself together."
 #
-<name "トリス" "!KB0004">
-「は、はい……」
+<name "Tris" "!KB0004">
+"Y-Yes, sir..."
 #
-　これまでに何度も開かれた宴。
+This feast has happened many times.
 #
-　何度もメンバーを入れ替え、開かれ続けた宴。
+The girls are replaced, but it continues.
 #
-　俺の為に。
+For my sake.
 #
-　娘達の為に。
+And for them.
 #
-<name "メル" "!MB0006">
-「ぁぁぁぁ……ん♪
-　んぁぁ、ぁぁぁぁ……」
+<name "Mel" "!MB0006">
+"Aaah...mmm...♪
+ Mmmm...aaaah..."
 #
-<name "マーシャ" "!JB0008">
-「ふぁぁぁぁぁ……
-　も、もっと、ぁ、ぁぁ……」
+<name "Marcia" "!JB0008">
+"Aaaaahhh...
+ M-More... 
+ Ah...aah..."
 #
-<name "トリス" "!KB0005">
-「も、もう……駄目ぇ……ぁぅぅ……」
+<name "Tris" "!KB0005">
+"N-No... No more...
+ Oohhh..."
 #
-　宴は長々と続けられる。
+The feast continues until long into the night.
 #
-<name "トリス" "!KB0006">
-「ぁ……ぅぁ……ぁ……」
+<name "Tris" "!KB0006">
+"Ah...aah...ah..."
 #
-<name "マーシャ" "!JB0009">
-「ぁ……ぁぁ……」
+<name "Marcia" "!JB0009">
+"Ah...aah..."
 #
-<name "メル" "!MB0007">
-「ふぁ……ぁ……」
+<name "Mel" "!MB0007">
+"Aaah...ah..."
 #
 <background "ev078a3.iph" 10>
-　全ての女達に大量の精液と魔力を流し込み、終る
-　まで。
+I pour a flood of semen and mana into all of them
+until it's all gone.
 #
 <music 11>
 <background "bg010a0.iph" 11>
-<name "マーシャ" "!JB0010">
-「最近、ラズロック様から声を掛けて貰えるよね」
+<name "Marcia" "!JB0010">
+"Lately, Mr. Lazlocke's been talking to us."
 #
-<name "メル" "!MB0008">
-「うん。
-　前は黙って襲うだけだったけど」
+<name "Mel" "!MB0008">
+"Yeah, before, he'd just silently attack you."
 #
-<name "マーシャ" "!JB0011">
-「私、淫乱娘って言われちゃった」
+<name "Marcia" "!JB0011">
+"He called me a dirty girl."
 #
-<name "メル" "!MB0009">
-「いいなぁ」
+<name "Mel" "!MB0009">
+"You're so lucky."
 #
-<name "マーシャ" "!JB0012">
-「っと、ここまで。
-　部屋を出たらここでの事は秘密」
+<name "Marcia" "!JB0012">
+"Oh, that's enough.
+ We have to keep it a secret after we leave."
 #
-<name "メル" "!MB0010">
-「うん……学園に戻りましょう。
-　トリス、大丈夫？」
+<name "Mel" "!MB0010">
+"Yeah, let's go back to the school.
+ Tris, are you okay?"
 #
-<name "トリス" "!KB0007">
-「ぁ……あるけなひ……」
+<name "Tris" "!KB0007">
+"I-I can't stand up..."
 #
-<name "マーシャ" "!JB0013">
-「ああ、初めての時はそうよね。
-　私の時もそうだったわ」
+<name "Marcia" "!JB0013">
+"Oh, it was your first time, right?
+ It was like that for me too."
 #
-<name "メル" "!MB0012">
-「……仕方が無い。
-　もう一泊してから帰ろうか」
+<name "Mel" "!MB0012">
+"...No pushing yourself.
+ We'll stay the night here before going back."
 #
-<name "トリス" "!KB0008">
-「ぃ、ぃぃん……でふか？」
+<name "Tris" "!KB0008">
+"A-Are you sure?"
 #
-<name "マーシャ" "!JB0014">
-「ええ、正直。
-　私も腰が痛いし……」
+<name "Marcia" "!JB0014">
+"Yeah, definitely.
+ My butt hurts too..."
 #
-<name "メル" "!MB0023">
-「あはは……私も」
+<name "Mel" "!MB0023">
+"Hahaha...
+ Mine too."
 #
 \x0A\x44\x00\xCF\x84\x01
 <exit>
 :3B92
 <music 40>
 <background "ev079a0.iph" 10>
-　俺の目の前には、全裸で拘束された魔法使いが居
-　た。
+A wizard is before me, bound and stark naked.
 #
-　拘束は魔法による束縛。
+Her restraints are magical.
 #
-　立ったまま床から数センチ浮かされ、身体の動き
-　を封じられている。
+She's suspended in the air, keeping her from 
+being able to move.
 #
-　空中固定と、身体の束縛。
+She's held up, and completely helpless.
 #
-　その他にも、体内魔力の不活性化や、この部屋に
-　おける魔力の排除などの魔法が、かなりのレベル
-　で多重に発動し続けている。
+On top of that, the mana inside her and the mana
+in the room is being constantly suppressed.
+The spells to do so are being activated over and
+over.
 #
-　それなりの魔法使いが、数人で掛かったのだろう。
+It's taking a few wizards to keep this setup
+running.
 #
-　それだけ、この束縛されている魔法使いが危険な
-　相手という事だ。
+Which just shows how dangerous this bound wizard
+is.
 #
-　マーコルネール＝マーコルネール
+Macornel Makolner.
 #
-　マーコルネール家は、古き魔法使いの一族として
-　有名であり、そのファミリーネームを名にする現
-　在の当主は歴代でも指折りの魔法使いと言われる。
+The Makolner family is a famous clan of wizards
+going back centuries. The current head of the
+family is said to be the finest wizards the family
+has seen in generations.
 #
-<name "マーコルネール" "!PB0000">
-「俺は協会に屈したりしねぇ。
-　出直して来い」
+<name "Macornel" "!PB0000">
+"I won't give in to the Guild.
+ Leave me alone."
 #
-　資料によれば今日で拘束十七日目。
+According to the report, this is the seventeenth
+day of her imprisonment.
 #
-　殺さない為に、それなりの料理を用意して世話係
-　が食べさせているが、束縛された状態で長時間耐
-　えるのはなかなかの精神力と言える。
+They've been feeding her and forcing her to eat
+to keep her alive, but she's got a lot of 
+willpower to have been able to endure this for
+as long as she has.
 #
-　だから、俺が呼ばれたのだろう。
+Which is why I've been called in.
 #
-　さっさと終らせようと、俺はマーコルネールに近
-　付く。
+I approach her to get this done quickly.
 #
-<name "ラズロック">
-「……最終勧告だ。
-　君が行なっていた魔法研究の資料を協会に提出し、
-　今後は協会の活動に参加するように」
+<name "Lazlocke">
+"...This is your final offer.
+ Submit the research you were working on to the
+ Guild, and assist the Guild from now on."
 #
-<name "マーコルネール" "!PB0001">
-「断わる」
+<name "Macornel" "!PB0001">
+"I refuse."
 #
-<name "ラズロック">
-「……判断が早いな」
+<name "Lazlocke">
+"...That may be a hasty decision."
 #
-<name "マーコルネール" "!PB0002">
-「けっ。
-　どうせ、俺を殺せやしねぇだろ。
-　研究結果が狙いだからな」
+<name "Macornel" "!PB0002">
+"Hmph.
+ Anyway, you can't kill me.
+ You're after my research."
 #
-<name "マーコルネール" "!PB0003">
-「殺せねぇからこうやって生かしてる。
-　俺を束縛する為に、どれだけの魔法使いが手間を
-　掛けてるんだ？
-　笑わせるぜ」
+<name "Macornel" "!PB0003">
+"I'm still alive because you need me alive.
+ How many wizards are you using to keep me
+ imprisoned here?
+ What a joke."
 #
-<name "ラズロック">
-「笑えるか……そうか」
+<name "Lazlocke">
+"A joke, huh?
+ I see."
 #
-　俺は手を伸ばし、マーコルネールの陰部を乱暴に
-　弄る。
+I reach out and violently touch her pussy.
 #
 <background "ev079a1.iph" 10>
-<name "マーコルネール" "!PB0004">
-「くっ！
-　うぁっ！
-　ぐぁっ……な、なにを！」
+<name "Macornel" "!PB0004">
+"Ngh!
+ Ah! Agh!
+ W-What are you doing!?"
 #
-<name "ラズロック">
-「感覚を数倍にしてある。
-　楽しめ」
+<name "Lazlocke">
+"Your sensations have been enhanced multiple times
+ over.
+ Enjoy it."
 #
-<name "マーコルネール" "!PB0005">
-「あ、あっ、あぁぁぁぁっ！
-　ちくしょうっ！
-　これぐらいで、屈すると思うなよっ！」
+<name "Macornel" "!PB0005">
+"Ah! Ah! Aaaah!
+ Damn it!
+ Don't think this is enough to beat me!"
 #
-<name "ラズロック">
-「魔法使いがこれぐらいで屈するわけないだろ。
-　何を言ってるんだ？」
+<name "Lazlocke">
+"No wizard would give in to just that.
+ What are you even talking about?"
 #
-<name "マーコルネール" "!PB0006">
-「ぐあああああああああああっ！！」
+<name "Macornel" "!PB0006">
+"Aaaaaaaaaagh!!!"
 #
-<name "ラズロック">
-「帰りに食材を買って帰らないと、晩飯に困る事に
-　なるんだ。
-　さっさと終らせるぞ」
+<name "Lazlocke">
+"I still need to go shopping for dinner before
+ I go home.
+ Let's make this quick."
 #
-<name "マーコルネール" "!PB0007">
-「あ、な、ひっ、あ、ああああああああっ！」
+<name "Macornel" "!PB0007">
+"Ah! W-What?
+ Ah! Aaaaaaahhhh!!!"
 #
-　俺はマーコルネールの股間に顔を近づけ、その陰
-　部に唾液を擦り付けるように舌を動かした。
+I bring my face to her pussy and use my tongue
+to rub my saliva over her entrance.
 #
-<name "マーコルネール" "!PB0008">
-「うぁあああううううっ！！！！」
+<name "Macornel" "!PB0008">
+"Aaaaaaahhhh!!!"
 #
-　魔法により、感覚を数倍にされている所為か、マ
-　ーコルネールの陰部からあっという間に大量の愛
-　液が零れてきた。
+Because of the magic enhancing what she's feeling,
+almost instantly, love juice pours out of her.
 #
-<name "マーコルネール" "!PB0009">
-「あ、あっ、あはっ……ああああっ！
-　うあぁ、あぁぁ、あぁぁぁぁっ……
-　ちく、ちくしょ……こ、このや……
-　ああぁぁ……ううぁぁぁああっ！」
+<name "Macornel" "!PB0009">
+"Ah...ah...aah...aaah!
+ Aah! Aaah! Aaaaahh...
+ D-Damn it... Y-You bastard...
+ Aaaaah...aaaaaah!!!"
 #
-　その愛液が太股を伝って床にボタボタとだらしな
-　く落ちるまで刺激し続け、俺は自分のモノをズボ
-　ンから取り出した。
+I keep stimulating her until her juices are 
+running down her thighs and onto the floor, then
+I take my dick out of my pants.
 #
-　それなりに膨張はしていて、挿入は可能そうだ。
+It's hard enough.
+I can put it in her.
 #
-<name "ラズロック">
-「男を知らなくて良かったな。
-　知っていたら俺にまわってこなくて、複数人掛か
-　りだったぞ」
+<name "Lazlocke">
+"It's lucky you've never been with a man.
+ If you had, this would've taken twice as many 
+ people."
 #
-　俺はそう言いながら、モノ先をマーコルネールの
-　陰部に押し当てた。
+As I say that, I press myself against her
+entrance.
 #
-<name "マーコルネール" "!PB0010">
-「ぁ……あぁ……くっ」
+<name "Macornel" "!PB0010">
+"Ah...aah...ngh..."
 #
-<name "ラズロック">
-「まあ、その分、残酷なんだが……」
+<name "Lazlocke">
+"Well, this is still cruel enough..."
 #
-　モノ先が膣口に当たると、俺はそのままゆっくり
-　と捻り込んだ。
+I slowly push my dick into her.
 #
 <background "ev079a2.iph" 10>
-<name "マーコルネール" "!PB0011">
-「っっっっ！！！！」
+<name "Macornel" "!PB0011">
+"Nnnnnhhhhhh!!!"
 #
-　狭い膣内を強引に掻き分けながら、俺のモノは侵
-　入を続ける。
+My dick forces its way into her narrow pussy.
 #
-<name "マーコルネール" "!PB0012">
-「ふぅぁっ、ぁっ、ぁぁっ！」
+<name "Macornel" "!PB0012">
+"Aaah! Ah! Aaahh!"
 #
-　大量に流していた愛液の潤滑油があるとはいえ、
-　強引な俺のモノの侵入に、マーコルネールは苦痛
-　に悶えた。
+Even despite all her love juices lubricating her,
+she writhes in pain from my dick wrenching her
+open.
 #
-<name "マーコルネール" "!PB0013">
-「あっ、あっ、ああああああっ！」
+<name "Macornel" "!PB0013">
+"Ah! Aah! Aaaaaaahhhh!!!"
 #
-　さらには、マーコルネールの感覚が数倍に感度を
-　上げられている。
+It's also that all her sensations are being
+enhanced right now.
 #
-　その苦痛は気を失ってもおかしく無いレベルだろ
-　う。
+This much pain is probably enough to make most
+people faint.
 #
-<name "マーコルネール" "!PB0014">
-「ぁ、ぁぐっ、ぐぁあああああっ！」
+<name "Macornel" "!PB0014">
+"Ah! Agh!
+ Aaaaggghhhhh!!!"
 #
-　俺のモノ先はマーコルネールの処女膜を破り、膣
-　奥の壁に当たっていた。
+I break through her hymen and reach the back of
+her pussy.
 #
-<name "マーコルネール" "!PB0015">
-「くぅぁ、あぁっ！！！」
+<name "Macornel" "!PB0015">
+"Ngh!!!
+ Aaaah!!!"
 #
-　だが、そのまま膣奥の壁を押しながら、俺はモノ
-　を根元まで捻じ込んだ。
+But I keep pushing deeper into her until I'm
+completely buried inside her.
 #
-<name "マーコルネール" "!PB0016">
-「ぁっ、ぁっ、あぁっ、ひぃぁっ、ぁぁ……
-　ううう……ぐぁ……ああ」
+<name "Macornel" "!PB0016">
+"Ah...ah...ah...aah...aaah...
+ Nnnh...agh...aahh..."
 #
-　ヌルヌルとした愛液に塗れたマーコルネールの膣
-　壁の窮屈過ぎる締め付けに、俺のモノは歓喜した
-　ようにさらに膨張した。
+My dick gets bigger and harder as it slides
+through her walls, coated in her slick juices.
 #
-<name "マーコルネール" "!PB0017">
-「ぁ……ぁっ、ぁぁっ……ぐあ……ぁぁう」
+<name "Macornel" "!PB0017">
+"Ah...aah...agh...aah..."
 #
-　マーコルネールは俺のモノを膣内に納めたまま、
-　苦痛に耐えた。
+She bears the pain of my dick in her pussy as
+best she can.
 #
-<name "マーコルネール" "!PB0018">
-「ぁうっ……ひぁ、ぁ……う……
-　こ、この程度で……残酷か！
-　笑わせるなっ！」
+<name "Macornel" "!PB0018">
+"Aah...ah...ah...ah...
+ T-This is... your cruelty!?
+ Don't make me laugh!"
 #
-<name "ラズロック">
-「その事じゃないんだが……
-　まあ、いずれ解る」
+<name "Lazlocke">
+"This isn't what I meant.
+ Well, you'll see soon enough."
 #
-　俺はモノを少し抜き、グイッと押し込んだ。
+I pull my dick back and then push it back in.
 #
-<name "マーコルネール" "!PB0019">
-「っ！！」
+<name "Macornel" "!PB0019">
+"Ngh!"
 #
-　マーコルネールは、声も上がらなかった。
+She gasps voicelessly.
 #
-　それを俺は繰り返す。
+I do it again.
 #
-<name "マーコルネール" "!PB0020">
-「っ！
-　っ！！」
+<name "Macornel" "!PB0020">
+"Nh!
+ Nnhh!!!"
 #
-　乱暴に、自分のモノを刺激する為だけに。
+Violently.
+Just to stimulate my dick.
 #
-　腰を動かし、モノをマーコルネールの膣内に擦り
-　続けた。
+I keep moving my hips, rubbing myself inside her.
 #
-<name "マーコルネール" "!PB0021">
-「ぁっ、ぁうううっ！！」
+<name "Macornel" "!PB0021">
+"Aah! Aaah!!!"
 #
-　俺のモノが動く度に、マーコルネールは口からヨ
-　ダレと悲鳴を垂れ流すが、抵抗はできない。
+She screams and spits every time I move, but she
+can't resist.
 #
-　ただ、俺の前に身体を差し出すだけだ。
+All she can do is dangle before me.
 #
-<name "マーコルネール" "!PB0022">
-「ぁぁぁっ、ひぁ、あうううっ、うぁぁあああっ！」
+<name "Macornel" "!PB0022">
+"Aaaah! Aah!
+ Aahhhh! Aaaaahhhh!"
 #
-　そのマーコルネールの色っぽくない悲鳴を聞きな
-　がら、俺は淡々と腰を動かし自分の快楽を突き進
-　んだ。
+I thrust for my pleasure, listening to her
+tortured screams.
 #
-<name "マーコルネール" "!PB0023">
-「ぁ、ぁ、ああっ、ひっ、ああうう……
-　やぁ、あ、ぁぁ、やめぇ、あうううう……！！」
+<name "Macornel" "!PB0023">
+"Ah! Ah! Aaah! Ah! Aaah!
+ Aah! Ah! Aaah! Stop! Aaaahhh!!!"
 #
-　その間、快楽には程遠い苦痛と、男に犯される屈
-　辱に延々とマーコルネールは耐えていた。
+She's helpless to do anything but endure the
+disgrace of being violated.
 #
-<name "マーコルネール" "!PB0024">
-「うぁぁぁ……あぁぁううっ！！」
+<name "Macornel" "!PB0024">
+"Aaah...
+ Aaaahhhhhh!!!"
 #
-　気を失う事も出来ない。
+She can't pass out.
 #
-　失っても、さらなる苦痛で起こされる。
+If she did, that would only make it hurt more.
 #
-<name "マーコルネール" "!PB0025">
-「うううぁぐぁぁっ！」
+<name "Macornel" "!PB0025">
+"Aaaaaagh!!!"
 #
-　マーコルネールにとっては永遠に続くと思われた
-　苦痛は、不意に止められる。
+The pain that seems like it will go on forever
+for her suddenly stops.
 #
-<name "マーコルネール" "!PB0026">
-「ぁっ、ぁっ、ぁっ……」
+<name "Macornel" "!PB0026">
+"Ah...ah...ah..."
 #
-　マーコルネールが終ったのかと思った瞬間、俺は
-　射精を開始した。
+As she wonders if it's over, I begin to come.
 #
-　ドクンッドクンッと脈打つ度に、マーコルネール
-　の膣内を汚していく。
+My dick spurts and stains the inside of her
+pussy.
 #
 <background "ev079a3.iph" 10>
-<name "マーコルネール" "!PB0027">
-「ぁ……ぁ……」
+<name "Macornel" "!PB0027">
+"Ah...ah..."
 #
-　俺の精液がマーコルネールの膣内に溢れ、子宮を
-　目指すとマーコルネールの全身が痙攣したように
-　震えた。
+My semen floods her pussy and her whole body
+convulses as it beats against her womb.
 #
-<name "マーコルネール" "!PB0028">
-「ぁ……ああ……うぁああぁぁぁぁぁぁぁっ！！
-　こ、殺してやる！
-　殺してやるっ！」
+<name "Macornel" "!PB0028">
+"Ah...aahh...aaaahhhhh!!!
+ I-I'll kill you!
+ I'm going to kill you!"
 #
-　俺の射精を受けながら、マーコルネールは俺を睨
-　みつけて吼えた。
+She glares at me and rages as I come inside her.
 #
-　それを俺は平然と無視する。
+I placidly ignore her.
 #
-<name "ラズロック">
-「息が荒くなると、色っぽく見えるな。
-　錯覚かな？」
+<name "Lazlocke">
+"You're pretty sexy when you're gasping for
+ breath.
+ Or am I seeing things?"
 #
-<name "マーコルネール" "!PB0029">
-「ぜ、絶対に！
-　殺してやるからなっ！」
+<name "Macornel" "!PB0029">
+"I-I swear I'll kill you!"
 #
-<name "ラズロック">
-「元気なのはわかったから、もう少し頑張って……
-　そうだな、小便を垂れ流すぐらい喘げ」
+<name "Lazlocke">
+"Since you've still got so much energy, hang in
+ there a little longer.
+ Yeah, I'm going to do this until you piss
+ yourself."
 #
-　俺はマーコルネールが小便を垂れ流すまで犯し続
-　けた。
+I keep fucking her until she can't control
+herself.
 #
 <background "bg024a0.iph" 10>
 <background "ev079a0.iph" 10>
-<name "ラズロック">
-「……気がついたか？」
+<name "Lazlocke">
+"...You awake yet?"
 #
-<name "マーコルネール" "!PB0030">
-「ぁ……ぁぁ……う……うぁ？」
+<name "Macornel" "!PB0030">
+"Ah...aah...ah...
+ Huh?"
 #
-<name "ラズロック">
-「身体の感覚は戻してやった」
+<name "Lazlocke">
+"I've removed the spell on your body."
 #
-<name "マーコルネール" "!PB0031">
-「ぁ……」
+<name "Macornel" "!PB0031">
+"Ah..."
 #
-<name "ラズロック">
-「拘束は解いてやれないが、体内魔力の不活性化は
-　解いている。
-　調子はどうだ？」
+<name "Lazlocke">
+"I can't remove the restraints, but I released
+ the spell binding the mana inside you.
+ How are you feeling?"
 #
-<name "マーコルネール" "!PB0032">
-「な……なぜ……」
+<name "Macornel" "!PB0032">
+"W-Why?"
 #
-<name "ラズロック">
-「もう用済みだからだ」
+<name "Lazlocke">
+"Because there's no need for it anymore."
 #
-<name "マーコルネール" "!PB0033">
-「……ぁ……なに？」
+<name "Macornel" "!PB0033">
+"...W-What?"
 #
-<name "ラズロック">
-「用済みだと言ったんだ。
-　お前が研究していた魔法の情報は頂いたからな」
+<name "Lazlocke">
+"I told you already, there's no need.
+ I have the magical research you were doing."
 #
-<name "マーコルネール" "!PB0034">
-「ば、馬鹿な……あれしきで俺が口を……」
+<name "Macornel" "!PB0034">
+"T-That's impossible...
+ I didn't say anything..."
 #
-<name "ラズロック">
-「口で語れる内容なのか？
-　これは？」
+<name "Lazlocke">
+"You didn't say anything?
+ What about this?"
 #
-　俺は幾つかの図式を空中に描き、マーコルネール
-　に見せてやった。
+I magically sketch a diagram in the air in front
+of her.
 #
-<name "マーコルネール" "!PB0035">
-「！」
+<name "Macornel" "!PB0035">
+"Ah!"
 #
-　その図式は、マーコルネールの研究していた魔法
-　の成果。
+The diagram is part of the magic she's been
+researching.
 #
-　肝となるべき部分。
+This should be the key part of it.
 #
-　それは、マーコルネール家が何代も重ねて積み上
-　げたものだ。
+It's probably something her family's been cooking
+up and working on for generations.
 #
-<name "マーコルネール" "!PB0036">
-「それをどこで！
-　どうやって！」
+<name "Macornel" "!PB0036">
+"Where did you get that!?
+ How!?"
 #
-<name "ラズロック">
-「……お前はどうやっても、口を割ったりはしない
-　だろう。
-　自己暗示ぐらい、しているだろうからな」
+<name "Lazlocke">
+"...I knew you'd never tell me.
+ Probably some kind of self-hypnosis."
 #
-<name "マーコルネール" "!PB0037">
-「……」
+<name "Macornel" "!PB0037">
+"..."
 #
-<name "ラズロック">
-「だから、お前の魔力に教えて貰った」
+<name "Lazlocke">
+"So I had your mana tell me."
 #
-<name "マーコルネール" "!PB0038">
-「魔力……」
+<name "Macornel" "!PB0038">
+"My mana?"
 #
-<name "ラズロック">
-「そうだ」
+<name "Lazlocke">
+"That's right."
 #
-<name "ラズロック">
-「お前の体内に宿る魔力は、お前が行なった魔法を
-　覚えている。
-　特に何代も重ねた魔法は明確にな」
+<name "Lazlocke">
+"The mana inside you remembers the magic you've
+ done, and the magic that's been passed on for
+ generations is especially clear."
 #
-<name "マーコルネール" "!PB0039">
-「そんな事が……」
+<name "Macornel" "!PB0039">
+"That's not possible..."
 #
-<name "ラズロック">
-「協会がここ十数年で勢力を拡大した事に、疑問を
-　持った事はないか？」
+<name "Lazlocke">
+"Haven't you ever wondered how the Guild has
+ accumulated so much power over the last decade
+ or so?"
 #
-<name "マーコルネール" "!PB0040">
-「ぁ……」
+<name "Macornel" "!PB0040">
+"Ah..."
 #
-<name "ラズロック">
-「そうだ。
-　この方法で、魔法を奪っていった」
+<name "Lazlocke">
+"That's right.
+ They take magic like this."
 #
-<name "マーコルネール" "!PB0041">
-「あ、ありえ……ありえない」
+<name "Macornel" "!PB0041">
+"T-That's... impossible."
 #
-<name "ラズロック">
-「目の前にあるのはなんだ？」
+<name "Lazlocke">
+"What is this before you?"
 #
-　俺は空中に描いた図式をマーコルネールの前に持っ
-　ていく。
+I bring the diagram right to her.
 #
-<name "マーコルネール" "!PB0042">
-「ぁ……ぁぁ……」
+<name "Macornel" "!PB0042">
+"Ah...aah..."
 #
-<name "ラズロック">
-「そして、お前はこの図式を忘れていく。
-　よく見ろ。
-　詳しく知っている筈なのに、意味がわからない所
-　がないか？」
+<name "Lazlocke">
+"And you're going to forget what this is.
+ Take a good look at it.
+ You should know it perfectly, but aren't pieces
+ of it already starting to get hazy?"
 #
-<name "マーコルネール" "!PB0043">
-「ぁ……ぁ……」
+<name "Macornel" "!PB0043">
+"Ah...ah..."
 #
-<name "ラズロック">
-「そのわからない所が、少しづつ増えていないか？」
+<name "Lazlocke">
+"The more you look at it, the more you realize
+ you're forgetting it."
 #
-<name "マーコルネール" "!PB0044">
-「ば……馬鹿な……」
+<name "Macornel" "!PB0044">
+"I-Impossible..."
 #
-<name "ラズロック">
-「お前の魔力から魔法を教えて貰うのは便利だが、
-　弱点もあってな。
-　元の持ち主からその魔法を奪うんだ」
+<name "Lazlocke">
+"It's useful to take magic from mana, but the
+ problem with it is that it takes the magic away
+ from who originally had it."
 #
-<name "マーコルネール" "!PB0045">
-「……そんな……」
+<name "Macornel" "!PB0045">
+"No..."
 #
-<name "ラズロック">
-「まあ、また何代と重ねて再勉強してくれ」
+<name "Lazlocke">
+"Well, you can always study it again.
+ It should only take a few more generations."
 #
-<name "マーコルネール" "!PB0046">
-「あああああああああああああああああああっ！」
+<name "Macornel" "!PB0046">
+"Aaaaaaaaaaahhhhhhhh!!!!!!"
 #
-<name "ラズロック">
-「俺は残酷だと言った筈だぞ」
+<name "Lazlocke">
+"I warned you it was cruel."
 #
-<name "マーコルネール" "!PB0047">
-「ひっ、いや、いやだ。
-　いやだぁぁぁぁぁぁぁぁぁぁぁっ！
-　返せ、返して……返せよぉっ！！」
+<name "Macornel" "!PB0047">
+"N-No! No!
+ Noooooooooo!!!!!
+ Give it back! Give it back!
+ Give it back!!!"
 #
-<name "ラズロック">
-「お断りする」
+<name "Lazlocke">
+"I refuse."
 #
-　実の所、魔力から魔法を読んだのは事実だが、元
-　の持ち主から魔法を奪うのは嘘だ。
+In fact, while it's true that I can read magic
+from mana, I lied when I said that doing that
+would steal it from her.
 #
-　人が覚えた知識や経験を、魔力を失った程度で無
-　くしていれば、魔法使いの大半が魔法を使う度に
-　勉強をやり直さなければいけなくなる。
+If losing your mana took the knowledge and
+experience needed to cast it, then almost every
+wizard would have to start from scratch every
+time they cast a spell.
 #
-　マーコルネールの陥った状況は、魔力を急激に奪
-　われた事による記憶混乱。
+Her memory of it is messed up because the mana
+was forcibly and quickly drained out of her.
 #
-　それに加え、俺がマーコルネールの魔法を奪った
-　と錯覚させる為に見せつけた図式による動揺。
+What's more, she's panicking because of that
+diagram I showed her from stealing her mana and
+not thinking straight.
 #
-　俺はマーコルネールの魔法を読んだが、そこに注
-　釈もなければ説明もない。
+I can read it from her mana, but there's no
+explanations or notes that come with it.
 #
-　ただ、あるがままに魔力の覚えていた図式や動き
-　を再現できるだけだ。
+All I can do is reproduce the diagram and spell
+the way it's recorded in her mana.
 #
-　あの図式が何を意味しているかは、実はさっぱり
-　わからない。
+I have no idea whatsoever what it means or what
+it's for.
 #
-　今後、長い時間を掛けて研究しなければいけない
-　だろう。
+It'd take a very long time to research that and
+figure it out.
 #
-　そんな面倒な事は、俺も協会も望まない。
+That's a hassle neither the Guild nor I want.
 #
-<name "マーコルネール" "!PB0048">
-「お願い、……お願いだ。
-　なんでもするから……
-　ぁぁぁぁ……」
+<name "Macornel" "!PB0048">
+"Please... Please...
+ I'll do anything...
+ Aaahh..."
 #
-<name "ラズロック">
-「……俺の言う事を聞くか？」
+<name "Lazlocke">
+"...You'll listen to me?"
 #
-<name "マーコルネール" "!PB0049">
-「き、聞く。
-　なんでも聞く」
+<name "Macornel" "!PB0049">
+"I-I'm listening.
+ Anything you ask."
 #
-<name "ラズロック">
-「協会の活動に協力するか？」
+<name "Lazlocke">
+"You'll join the Guild?"
 #
-<name "マーコルネール" "!PB0050">
-「する！
-　するから！」
+<name "Macornel" "!PB0050">
+"I will!
+ I will!"
 #
-　俺はマーコルネールの拘束を解いた。
+I release her restraints.
 #
-<name "マーコルネール" "!PB0051">
-「ぁ……」
+<name "Macornel" "!PB0051">
+"Ah..."
 #
-<name "ラズロック">
-「返すには、もう一度抱く必要があるが……」
+<name "Lazlocke">
+"I'll need to have sex with you again to give
+ it back."
 #
-　マーコルネールは俺の言葉の意味を理解すると、
-　恥じらいながらも寝転び、俺に見せつけるよう
-　に足をゆっくりと広げた。
+When she realizes what I said, she lays down
+shamefully and slowly opens her legs.
 #
-　なかなか素直な事だ。
+Very well behaved now.
 #
-　俺は必死なマーコルネールを散々焦らしながら、
-　明け方までその身体を弄ってやった。
+I play with the desperate woman until dawn comes.
 #
 <music 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0958">
-「お見事です」
+<name "Soshiette" "!DA0958">
+"Well done."
 #
-<name "ラズロック">
-「慣れた方法だからな」
+<name "Lazlocke">
+"I'm used to it."
 #
 <removesprite -1 11>
-　一部の魔法使いが独占していた秘術を、この方法
-　で暴き、傘下に組み込んできた。
+This is the secret method that the Guild has
+used to force wizards into the fold.
 #
-　相手が女じゃなければ駄目なのが欠点だが、それ
-　でも十や二十じゃない魔法使いを落とした。
+It only works on women, but at least a dozen
+have been dealt with this way so far.
 #
-　協会がここ十数年で飛躍的に勢力を拡大した一因
-　であるのは確かな事実だ。
+It's definitely one of the big reasons why the
+Guild has been able to explosively expand its
+influence in recent years.
 #
 <sprite "ta04a02.iph" 4 4 11>
-<name "ソシエット" "!DA0959">
-「……質問があります」
+<name "Soshiette" "!DA0959">
+"...I have a question."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What is it?"
 #
 <sprite "ta04a03.iph" 4 4 12>
-<name "ソシエット" "!DA0960">
-「本当に魔法を消してしまう事もできたと思います
-　が、なぜそうしなかったのですか？」
+<name "Soshiette" "!DA0960">
+"I believe you could have actually gotten rid
+ of that magic.
+ Why didn't you?"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ラズロック">
-「………………面倒な事は嫌いだからな。
-　マーコルネールが協力すれば、一番早いだろ」
+<name "Lazlocke">
+"...I don't like trouble.
+ It's better if she cooperates."
 #
 <sprite "ta04a02.iph" 4 4 11>
-<name "ソシエット" "!DA0967">
-「そうですが、彼女は反抗心が強いです。
-　今は大人しくなっていますが、後々暴れる可能性
-　もあります」
+<name "Soshiette" "!DA0967">
+"That may be, but she has a rebellious spirit.
+ She may behave now, but it's possible she'll
+ rebel again in the future."
 #
 <sprite "ta04a01.iph" 4 4 12>
-<name "ソシエット" "!DA0962">
-「彼女の場合は、魔法を奪ってから放逐するのが正
-　解だと思います」
+<name "Soshiette" "!DA0962">
+"In her case, I think that taking her magic and
+ expelling it would have been the correct 
+ approach."
 #
-<name "ラズロック">
-「反抗と言うが、別に彼女が悪いわけじゃない。
-　悪は俺達だ」
+<name "Lazlocke">
+"She may be rebellious, but she didn't do anything
+ wrong.
+ We're the bad guys here."
 #
-<name "ラズロック">
-「魔法使い全体の為と言って彼女が守っていた伝統、
-　知識、技術の提供を一方的に強要し、断われば捕
-　まえて奪う」
+<name "Lazlocke">
+"We're taking the knowledge and traditions they
+ created and forcing her to share them with every
+ other wizard, and if they say no, forcing them
+ to do it, and stealing it if they resist."
 #
-<name "ラズロック">
-「そこらの盗賊や山賊よりもタチが悪い。
-　それに反抗するのは正常じゃないか」
+<name "Lazlocke">
+"We're worse than bandits.
+ Of course they resist."
 #
 <sprite "ta04a15.iph" 4 4 12>
-<name "ソシエット" "!DA0963">
-「ご主人様」
+<name "Soshiette" "!DA0963">
+"Your Grace."
 #
-<name "ラズロック">
-「怒るな。
-　俺は協会の盗賊で、お前は協会の殺し屋。
-　事実だろ？」
+<name "Lazlocke">
+"Don't be mad at me.
+ I'm the Guild's thief.
+ You're the Guild's killer.
+ It's the truth, yeah?"
 #
-<name "ラズロック">
-「だから、俺は協会を裏切ったりはしない。
-　今さらな……」
+<name "Lazlocke">
+"So I won't betray the Guild.
+ Not anymore..."
 #
 <removesprite -1 11>
-　そう、今さらだ。
+Yeah, not anymore.
 #
-　散々、悪事を働いて、心が痛むからと止めるには
-　遅すぎる。
+I've done too much harm to stop now, and sinned
+too much to start atoning.
 #
-<name "ラズロック">
-「生きてる限り、最後まで付き合うさ」
+<name "Lazlocke">
+"I'll stay with the Guild as long as I live.
 #
 <sprite "ta04a24.iph" 4 4 11>
-<name "ソシエット" "!DA0964">
-「……反抗的な言動はできるだけ避けてください。
-　誤解は不幸しか生みません」
+<name "Soshiette" "!DA0964">
+"...Please try to avoid seditious behavior or
+ speech.
+ Misunderstandings only lead to misfortune."
 #
-<name "ラズロック">
-「気を付ける事にしよう。
-　……マーコルネールに逆らう兆しがあったら言っ
-　てくれ。
-　なんとかするから」
+<name "Lazlocke">
+"Of course I'll be careful.
+ ...Tell me if she ever starts acting up.
+ I'll handle it."
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "ソシエット" "!DA0965">
-「承知しました」
+<name "Soshiette" "!DA0965">
+"As you wish."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x00\xD0\x84\x01
@@ -1357,600 +1385,607 @@
 :6D60
 <music 11>
 <background "bg010a0.iph" 11>
-　俺は協会へ足を運んだ。
+I've come to the Guild.
 #
-　いつもの、依頼だ。
+It's the usual request.
 #
-<name "ラズロック">
-「今回は魔力を奪うのか？」
+<name "Lazlocke">
+"I'm taking away mana this time?"
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "ソシエット" "!DA0968">
-「はい」
+<name "Soshiette" "!DA0968">
+"Yes."
 #
-<name "ラズロック">
-「わかった。
-　相手は？」
+<name "Lazlocke">
+"All right.
+ Where are they?"
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0969">
-「天覧の間です」
+<name "Soshiette" "!DA0969">
+"The royal hideaway."
 #
 <removesprite -1 11>
-　ソシエットにそう言われながら、資料を手渡され
-　た。
+She hands me the report.
 #
-　さっさと部屋に向かおうとしたが、俺はその資料
-　を見て動きを止めた。
+I was going to go right there, but I stop when
+I read it.
 #
-<name "ラズロック">
-「この資料、名前だけしか書いてないぞ」
+<name "Lazlocke">
+"There's nothing here but a name."
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0970">
-「女性です。
-　ご安心ください」
+<name "Soshiette" "!DA0970">
+"It's a woman.
+ Don't worry about that."
 #
-<name "ラズロック">
-「それはそうだろうけど……
-　ルィンス？
-　聞き覚えがあるような、ないような……」
+<name "Lazlocke">
+"Okay, fine, but... Lynth?
+ I feel like I know that name..."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0971">
-「クルーネ帝国、第三皇女です」
+<name "Soshiette" "!DA0971">
+"She's the third princess of the Krun Empire."
 #
-<name "ラズロック">
-「皇女……それで、天覧の間か」
+<name "Lazlocke">
+"A princess?
+ So that's why she's in the royal hideaway?"
 #
 <removesprite -1 11>
-　天覧の間は、協会内部に作られた王侯貴族などの
-　お偉いさん達を匿う為の宿泊部屋だ。
+That place is a room set up by the Guild in order
+to hide nobility and astocrats when they visit
+the Guild.
 #
-<name "ラズロック">
-「人質に手を出して良いのか？」
+<name "Lazlocke">
+"Am I really allowed to do anything to a hostage?"
 #
-　クルーネ帝国は、最近まで戦争をしていた相手だ。
+We've been at war with Krun until recently.
 #
-　人質である事は簡単に推測できる。
+It's obvious that she's a prisoner of war.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0972">
-「人質ですが、問題ありません。
-　よろしくお願いします」
+<name "Soshiette" "!DA0972">
+"She is a hostage, but that won't be an issue.
+ Thank you for your assistance."
 #
 <removesprite -1 11>
 <music 39>
 <background "ev080a0.iph" 10>
-　天覧の間の奥にあるベッドに向かうと、そこは淫
-　らな格好で拘束された皇女が居た。
+I go to the bed in the royal suites where the
+princess is waiting, restrained and clearly
+fuming.
 #
-　皇女は口を塞がれ、手を後ろで縛られている。
+Her mouth is gagged, and her hands are tied
+behind her back.
 #
-　そして、その両足は広げたまま固定され、皇女の
-　大切な部分が露わになっていた。
+Her legs are bound open, exposing her pussy.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺の姿を見ると、皇女の瞳には反抗する光が見え
-　た。
+When she sees me, her eyes light up with anger.
 #
-　クルーネ帝国人の特徴である獣耳、そして尻尾が
-　戦闘態勢になる。
+She has the animal ears and tail that are
+characteristic of the Krun people.
+They're perked up, showing she's ready to fight.
 #
-<name "ラズロック">
-「なるほど……」
+<name "Lazlocke">
+"I see..."
 #
-　俺はゆっくりと服を脱ぎ、全裸になって皇女に近
-　付いた。
+I slowly undress and then stand in front of her.
 #
-　皇女は露骨に敵意を見せるが、拘束されているの
-　でどうしようもない。
+She's glaring daggers, but she's helpless while
+bound.
 #
-　そんな皇女の腰に俺は腕を回し、引き寄せた。
+I put my arm around her waist and pull her to me.
 #
-<name "ルィンス" "!NB0000">
-「うううっ！」
+<name "Lynth" "!NB0000">
+"Nnnnh!"
 #
-　そのまま、皇女の胸を強く揉む。
+And then grab her breasts.
 #
-<name "ルィンス" "!NB0001">
-「ふううっ！！」
+<name "Lynth" "!NB0001">
+"Mmmmph!"
 #
-　皇女は抵抗しようと暴れ、口を塞いでいる拘束具
-　に牙が当たる。
+She thrashes and tries to resist, but her fangs
+only close on the gag in her mouth.
 #
-<name "ラズロック">
-「暴れると、牙が折れるぞ」
+<name "Lazlocke">
+"If you struggle, you could break a fang."
 #
-<name "ルィンス" "!NB0002">
-「うううううっ！」
+<name "Lynth" "!NB0002">
+"Nnnnnngh!"
 #
-　皇女の目が俺を睨みつける。
+Her glare fixes on me.
 #
-　普通なら、抱く事どころか、近づく事すらできな
-　い存在である筈の皇女。
+Normally, someone like me wouldn't be able to get
+anywhere near a princess like her, let alone have
+sex with her.
 #
-　それも、プライドの高い事で有名なクルーネ帝国
-　の皇女。
+What's more, the princesses of Krun are known for
+their pride.
 #
-　それが今、目の前にいる。
+And this one is right in front of me.
 #
-　露わな格好で拘束されて。
+Restrained and completely exposed.
 #
-<name "ルィンス" "!NB0003">
-「ふうううっ！」
+<name "Lynth" "!NB0003">
+"Mmmmmgh!"
 #
-　知らず知らずに、皇女の胸を揉む手に力が入って
-　いたようだ。
+I ignore her anger and squeeze her breast hard.
 #
-　皇女の綺麗な形の胸がみっともなく潰れている。
+The beautiful shape of her breasts collapses
+messily in my grasp.
 #
-　俺はその弾力を名残惜しみながら手を離し、皇女
-　を見た。
+I let go and look down at her.
 #
-<name "ルィンス" "!NB0004">
-「ううっ！」
+<name "Lynth" "!NB0004">
+"Nnh!"
 #
-　皇女は俺の腕の中で逃れようとする。
+She tries to escape from my touch.
 #
-　だが、拘束具と俺の腕が皇女を逃さない。
+But she's helpless while bound in place.
 #
-<name "ルィンス" "!NB0005">
-「ふうううっ！」
+<name "Lynth" "!NB0005">
+"Mmmmgh!"
 #
-　皇女の口が塞がれているので、俺は皇女の耳に軽
-　いキスをし、そしてそのまま噛み付いた。
+Because her mouth is blocked, I give her ear a
+light kiss, and then nibble on it.
 #
-<name "ルィンス" "!NB0006">
-「むぅぅぅぅっ！」
+<name "Lynth" "!NB0006">
+"Mmmmmmgh!"
 #
-　俺は皇女に覆い被さった。
+I get up on the bed with her.
 #
-<name "ルィンス" "!NB0007">
-「むぅっ！」
+<name "Lynth" "!NB0007">
+"Mmmgh!"
 #
-　皇女は抵抗できない。
+She can't escape.
 #
-　それを知りながら、俺は強引に事を進めていく。
+Knowing that, I get nice and close to her.
 #
-　皇女の露わになっている股間に顔を近づけ、舌を
-　伸ばして陰部を愛撫する。
+I bring my face down to her pussy and run my
+tongue along her entrance.
 #
 <background "ev080a1.iph" 10>
-<name "ルィンス" "!NB0008">
-「むふっ！
-　むふぅぅぅっ！」
+<name "Lynth" "!NB0008">
+"Mmmmgh!
+ Mmmmmmgh!"
 #
-　俺はピチャピチャと音を立てながら皇女の陰部に
-　唾液を塗りたくり、花弁を強引に開かせる。
+I slurp at her pussy, covering it with my saliva,
+and forcibly opening her with my tongue.
 #
-　そして、徐々に大きくなりつつある自分のモノを
-　その花弁に擦り付ける。
+Then I rub my swelling dick against her nub.
 #
-<name "ルィンス" "!NB0009">
-「むぅぅっ！」
+<name "Lynth" "!NB0009">
+"Mmgh!"
 #
-　そして、そのまま一気に俺のモノを皇女の花弁に
-　押し付け、膣内への侵入を試みる。
+I push my dick against her and try to enter.
 #
-　二度、三度と繰り返し、そして四度目にモノ先が
-　グリッと膣口にハマッた。
+Twice, three times...
+Finally on the fourth time, I start to sink into
+her pussy.
 #
-　そこから、ゆっくりとモノ先を捻りながら膣奥を
-　目指して強引に侵入していく。
+From there, I just keep pushing forward, forcibly
+plunging into her depths.
 #
-<name "ルィンス" "!NB0010">
-「むむむむむっ！！」
+<name "Lynth" "!NB0010">
+"Mmmmmgh!"
 #
-　男を知らない皇女は初めての苦痛に悶えるが、俺
-　は動きを止めない。
+She writhes in pain from accepting a man for the
+first time, but I don't stop.
 #
-　拘束されて動けない皇女を相手にモノを大きくさ
-　せ、強引に捻じ込んでいる。
+Knowing she's helpless and can't move just makes
+my dick harder, and I forcibly pierce her with it.
 #
-　自己嫌悪はある。
+I hate myself for that.
 #
-　あるが、それ以上に興奮が俺を支配している。
+But it arouses me more.
 #
-　その興奮は、俺をさらに暴走させる。
+The arousal makes me lose control.
 #
-　グリグリとモノ先を捻じ込み、根元まで咥え込ま
-　せる。
+I bury my dick all the way in her to the base.
 #
-　そして、そのまま腰を動かし。
+And then I start moving.
 #
-　激しく皇女の膣内を暴れ回った。
+I violently pound her pussy.
 #
-　何度も何度も。
+Over and over again.
 #
-　皇女は苦痛の悲鳴を上げた。
+She tries to scream in pain.
 #
-　その悲鳴を耳にしながら、俺は自分の欲望を吐き
-　出そうと腰を動かし続けた。
+Her gasps just excite me further and I continue
+to indulge my lust.
 #
 <background "ev080a2.iph" 10>
-<name "ルィンス" "!NB0011">
-「うっ、ううっ、うううううっ！」
+<name "Lynth" "!NB0011">
+"Nngh! Nnnngh! Nnnnnngh!"
 #
-　そして、皇女の膣内に大量の精液を吐き出す。
+And I flood her pussy with my semen.
 #
-　ドクンドクンドクンドクンと。
+It keeps shooting out.
 #
-　射精を終え。
+I finally finish coming.
 #
-　俺は荒い息を自覚する。
+I'm gasping for breath.
 #
-　そして、俺以上に荒い息の皇女。
+But her breathing is even more ragged than mine.
 #
-<name "ルィンス" "!NB0012">
-「う、うぁ、ううう……」
+<name "Lynth" "!NB0012">
+"Ngh...ngh...nnngh..."
 #
-　しかし、その目は俺を睨み殺そうとしている。
+But she's still staring daggers at me.
 #
-　良い目だ。
+It's a good look for her.
 #
-　俺は皇女に抱きつき、また腰を動かした。
+I lift her up by the hips and start moving again.
 #
-　射精を続ける為に。
+To come again.
 #
-　激しく。
+Violently.
 #
-　乱暴に。
+Wildly.
 #
-　クルーネ帝国の王族には魔法使いの資質があり、
-　魔力に溢れている。
+The royal family of Krun are particularly strong
+wizards, overflowing with mana.
 #
-　その魔力を奪う。
+I will take that from her.
 #
-　その目的を忘れ、俺はただ獣のように目の前の皇
-　女を貪った。
+But I barely think about that, and just attack
+her like an animal.
 #
-<name "ルィンス" "!NB0013">
-「ううううっ、うううあううっ！
-　ふぅ、ふぅうううう……」
+<name "Lynth" "!NB0013">
+"Nnnngh! Nnnngh!
+ Nngh! Nnnnnngh..."
 #
-　三度目の射精を終えた時に、俺はやっと動きを止
-　めた。
+After I come for a third time, I finally stop.
 #
-<name "ルィンス" "!NB0014">
-「ぅぅ……ぅ……」
+<name "Lynth" "!NB0014">
+"..."
 #
-　俺の陵辱を受けている最中、皇女は何度か気を失っ
-　たが、その後に続く苦痛で強引に起こされ続けた。
+She passed out several times while I was raping
+her, but the pain always woke her back up.
 #
-　その目には涙が浮かんでいるが、まだ俺に屈服す
-　る気は無いようだ。
+Tears are in her eyes, but she definitely hasn't
+surrendered.
 #
-　俺は皇女の膣内にモノを納めたまま、皇女の頭を
-　抱き寄せ、顔を近づけた。
+I take her head and bring her face to look me
+straight in the eyes, my dick still buried inside
+her.
 #
-<name "ラズロック">
-「良い目だ。
-　俺を許さない、殺してやる。
-　……そういう目だな」
+<name "Lazlocke">
+"That's the right look.
+ You want me to pay.
+ You want to kill me.
+ That's what I see in your eyes."
 #
-<name "ルィンス" "!NB0015">
-「ううっ！」
+<name "Lynth" "!NB0015">
+"Nngh!"
 #
-<name "ラズロック">
-「だが……残念な質問だ。
-　なぜ、目隠しをしていないか解るか？」
+<name "Lazlocke">
+"But... I have an unfortunate question for you.
+ Why do you think you haven't been blindfolded?"
 #
-<name "ルィンス" "!NB0016">
-「……うう」
+<name "Lynth" "!NB0016">
+"..."
 #
-　皇女は怯えたように首をすくめた。
+She shakes her head in sudden fear.
 #
-<name "ラズロック">
-「そうだ。
-　お前が解放される事が無い事を示している」
+<name "Lazlocke">
+"That's right.
+ It means that you will never be free."
 #
-<name "ルィンス" "!NB0017">
-「ぅ……」
+<name "Lynth" "!NB0017">
+"..."
 #
-<name "ラズロック">
-「俺はお前を犯し。
-　お前の持つ魔力を奪い続けるだけだ」
+<name "Lazlocke">
+"I will keep fucking you.
+ I will just keep taking away your mana."
 #
-　俺は皇女の膣内に入ったままのモノをグリッと捻っ
-　た。
+I thrust hard into her pussy again.
 #
-<name "ルィンス" "!NB0018">
-「うううっ！」
+<name "Lynth" "!NB0018">
+"Nnnnngh!"
 #
-　そして、俺はゆっくりと皇女から魔力を奪う。
+And slowly take all of her mana away.
 #
-<name "ルィンス" "!NB0019">
-「ふぅぁぁぁぁぁぁぁぁっ！」
+<name "Lynth" "!NB0019">
+"Nnnnnnnnngh!"
 #
-　俺の魔力奪取によって、皇女は眠るように気を失っ
-　て倒れた。
+Once her mana is drained, she passes out,
+completely unconscious.
 #
-<name "ラズロック">
-「襲っている方が言うのもなんだが、早く屈服した
-　方が楽だぞ。
-　こんな拘束具も外してやれるしな」
+<name "Lazlocke">
+"...It would be much easier for both of us if
+ you just gave in though.
+ We'd at least be able to take off all these
+ ropes."
 #
-　その倒れた皇女の耳に優しく囁きながら、俺は膣
-　内からモノを抜き出した。
+I whisper in her ear as I pull my dick out of
+her.
 #
 <music 11>
 <background "bg010b0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0973">
-「ご苦労様でした」
+<name "Soshiette" "!DA0973">
+"Well done."
 #
-<name "ラズロック">
-「……丁重にな」
+<name "Lazlocke">
+"...Stow it."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0974">
-「承知しております。
-　それと……」
+<name "Soshiette" "!DA0974">
+"Understood.
+ Now then..."
 #
 <removesprite -1 11>
-　ソシエットの視線の先に、数人の女性が立ってい
-　た。
+Several women are standing in front of her.
 #
-　全員、俺から魔力を得た事のある連中だ。
+They're all supposed to receive mana from me.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0975">
-「奪った分の魔力。
-　あの方々に」
+<name "Soshiette" "!DA0975">
+"Give the mana you've taken to them."
 #
-<name "ラズロック">
-「休ませてくれないのか？」
+<name "Lazlocke">
+"Don't I get a break?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0976">
-「ご主人様の体調を考えてです」
+<name "Soshiette" "!DA0976">
+"I'm worried about your health."
 #
 <removesprite -1 11>
-　俺の中に魔力が溜まり過ぎると、俺の体調や精神
-　に都合が悪い。
+Having too much mana inside me poisons my body
+and mind.
 #
-　……
+...
 #
-<name "ラズロック">
-「わかった。
-　……しかし、皇女の事を考えれば連中を楽しませ
-　てやる気にはならないぞ」
+<name "Lazlocke">
+"Fine, but after what I did with the princess,
+ I'm not in the mood to make this pleasant for
+ anybody."
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0977">
-「ご主人様の思うままに」
+<name "Soshiette" "!DA0977">
+"As you wish."
 #
 <removesprite -1 11>
-　俺はソシエットの用意した女達と共に、別室へ向
-　かった。
+I go to another room with the women she prepared.
 #
 \x0A\x44\x00\xD1\x84\x01
 <exit>
 :8908
 <music 35>
 <background "ev081a0.iph" 10>
-<name "ルィンス" "!NB0020">
-「あ、あん、んぁ、んはぁん」
+<name "Lynth" "!NB0020">
+"Ah! Aah! Ahh! Aah!"
 #
-　俺はクルーネ帝国の皇女を抱いていた。
+I'm having sex with the princess of the Krun
+Empire.
 #
-　人質にされ、俺に魔力を奪われるだけの存在。
+She's a prisoner, and my only relationship with
+her is taking her mana.
 #
-　その哀れな相手に俺はモノを大きくし、乱暴に突
-　き動かす。
+I violently thrust my dick into this pitiable
+girl.
 #
-　これまでに、何度も相手をしてきた。
+I've done this to her many times now.
 #
-　その中で、皇女は俺に従順を示してきた。
+Eventually, she submitted to me.
 #
-　苦痛から逃れる為か、諦めかはわからない。
+I'm not sure whether she's actually given up,
+or is just trying to find a way to cope with the
+pain.
 #
-　だが、その従順によって拘束具は少しづつ外され
-　今では全ての拘束具が外されている。
+But little by little, as she stopped resisting,
+her restraints were removed, and right now,
+there's nothing binding her.
 #
-　全ての拘束具を外した時に反抗するかと思ったが、
-　それもなかった。
+I thought she'd attack once everything was taken
+off, but she didn't.
 #
-　今、身に付けられているのは唯一、魔法の効果も
-　何も無いタダの首輪のみ。
+Right now, the only thing she has is a regular
+collar that doesn't have any magical effect at
+all.
 #
-<name "ラズロック">
-「ずいぶんと大人しくなったな」
+<name "Lazlocke">
+"You've become pretty docile."
 #
-<name "ルィンス" "!NB0022">
-「あ、あん、んぁ……んん」
+<name "Lynth" "!NB0022">
+"Ah...ah...mmm...mmm..."
 #
-　皇女は俺の言葉に返事をしない。
+She doesn't respond.
 #
-　反抗しているのではなく、俺との行為に集中して
-　いるからだ。
+Not because she's resisting, but because she's
+focused on having sex.
 #
-<name "ラズロック">
-「出すぞ」
+<name "Lazlocke">
+"I'm going to come."
 #
-　聞いていない事を知りながらも、俺は腰の動きを
-　速め、皇女の膣内で射精を行なった。
+I know she's not listening, but I move faster to
+come inside her pussy.
 #
 <background "ev081a2.iph" 10>
-<name "ルィンス" "!NB0023">
-「あ、あ、あ、あう、うんんんんんんん♪」
+<name "Lynth" "!NB0023">
+"Ah! Ah! Ah! Aah! Aahhhhhhh!!!♪"
 #
-　皇女は俺の射精を受け、少し遅れてから達した。
+She comes right after me.
 #
-　陰部からビュッビュッと潮を噴いてベッドを汚す。
+A gush of her fluid floods out of her and stains
+the bed.
 #
-<name "ルィンス" "!NB0024">
-「あ、あぅ……ぁぁ……ぁ……」
+<name "Lynth" "!NB0024">
+"Ah...aaah...aahhh...ah..."
 #
-　しかし、皇女は気にせず、自ら腰を動かして俺を
-　さらに求める。
+But she doesn't care about that, and rocks her
+hips, wanting more.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺は仕方が無いと、さらに腰を動かして皇女の膣
-　内を掻き回す。
+I don't have much choice.
+I move my hips and stir up her pussy.
 #
-<name "ルィンス" "!NB0026">
-「あぁぁうううぁぁ、ん、んぁ、んぁあん、ふぁ、
-　ふぁぁぁ、あう、うぁ、ぁ、も、ふぁ、ふぁぁ」
+<name "Lynth" "!NB0026">
+"Aaaaahhh! Mm! Mmm! Mmm! Aaah!
+ Aaah! Aaah! Aahhh! I...
+ Aaah! Aaahhh!"
 #
-　皇女は身体を四つん這いのまま固定させ、俺の射
-　精を延々と求め続けた。
+She holds herself on all fours and begs me to
+come over and over.
 #
-　俺が一息吐けたのは、五度目の射精を終えた時だ。
+I finally get a break after coming for the fifth
+time.
 #
 <background "ev081a1.iph" 10>
-<name "ルィンス" "!NB0027">
-「……ぁう」
+<name "Lynth" "!NB0027">
+"..."
 #
-　皇女は、疲れた俺を気遣ってか頬を舐めてくる。
+She fusses over my tired body and licks me on the
+cheek.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　そして、俺の頬から首筋に舌を這わして、俺の首
-　筋を甘く噛んだ。
+She runs her tongue from my cheek to my neck and
+lovingly nibbles on it.
 #
-<name "ラズロック">
-「強く噛んで、俺を殺したらどうだ？」
+<name "Lazlocke">
+"If you seriously bit me there, you could kill
+ me, you know."
 #
-<name "ルィンス" "!NB0028">
-「ふぁ……ぁ……ん」
+<name "Lynth" "!NB0028">
+"Ah...ah...mmm..."
 #
-　皇女はなぜと言うような目で俺を見る。
+She looks at me in confusion.
 #
-<name "ラズロック">
-「俺が憎くないのか？」
+<name "Lazlocke">
+"Don't you hate me?"
 #
-　俺の質問に、皇女は首を横に振る。
+She shakes her head.
 #
-<name "ルィンス" "!NB0029">
-「前は……憎かったです。
-　でも、今は……」
+<name "Lynth" "!NB0029">
+"Before... I hated you.
+ But now..."
 #
-　皇女は自分の首につけられた首輪を指差す。
+She taps the collar on her neck.
 #
-<name "ルィンス" "!NB0030">
-「貴方は、私の主人です」
+<name "Lynth" "!NB0030">
+"I belong to you."
 #
-　そう言って、皇女は自分の頬を俺の頬に擦りつけ
-　てくる。
+She rubs her cheek on mine.
 #
-　皇女が従順を示し始めたのも、俺がこの首輪を付
-　けてやってからだった。
+She started acting like this after I put that
+collar on her.
 #
-　……
+...
 #
-<name "ラズロック">
-「俺はお前が好きだから抱いているワケじゃない。
-　お前から魔力を奪っているだけだ」
+<name "Lazlocke">
+"I'm not with you because I love you.
+ I'm just stealing your mana."
 #
-<name "ルィンス" "!NB0033">
-「構いません。
-　この身は全て、貴方の為に……」
+<name "Lynth" "!NB0033">
+"I don't care.
+ All of me belong to you..."
 #
-<name "ラズロック">
-「無駄な忠節だぞ」
+<name "Lazlocke">
+"Your loyalty is wasted."
 #
-<name "ルィンス" "!NB0034">
-「私が勝手にやっているだけです。
-　お気になさりませんように」
+<name "Lynth" "!NB0034">
+"I made up my mind on my own.
+ Don't worry about it."
 #
-　獣人族。
+She's from a race of beast people.
 #
-　敵に対しては獰猛強暴。
+Ferocious to their enemies.
 #
-　しかし、今の俺の目の前に居るのは……
+But what's right in front of me is something else
+entirely.
 #
-<name "ラズロック">
-「……もう一回、やるぞ。
-　相手しろ」
+<name "Lazlocke">
+"...Be with me one more time."
 #
-<name "ルィンス" "!NB0037">
-「はい♪」
+<name "Lynth" "!NB0037">
+"Okay.♪"
 #
 <music 11>
 <background "bg010b0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0978">
-「ご苦労様でした」
+<name "Soshiette" "!DA0978">
+"Thank you very much."
 #
-<name "ラズロック">
-「……俺が居ない時の皇女の様子は？」
-#
-<sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0979">
-「大人しく過ごしています」
-#
-　ある程度、従順を示した段階で、監禁は変わらな
-　いが少しづつ皇女に活動の自由が与えられている。
-#
-<name "ラズロック">
-「……反抗の兆しは？」
-#
-<sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0980">
-「ありません。
-　演技の可能性も低いかと」
-#
-<name "ラズロック">
-「……それで、処遇は？」
-#
-<sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0981">
-「このまま、ある程度の自由を与え、協会の活動に
-　協力して頂く方向で検討されています」
-#
-<name "ラズロック">
-「協会の活動？
-　クルーネ帝国の切り崩しに使うのか？」
-#
-<sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0982">
-「いえ、一人の魔法使いとしてです。
-　魔法の才能がある獣人族は貴重ですし、魔力量は
-　十分ですので」
-#
-<name "ラズロック">
-「……俺の要望が通るのか？」
+<name "Lazlocke">
+"...What's she like when I'm not here?"
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0983">
-「はい。
-　後はご本人の意思ですが、ご主人様が言えば問題
-　は無いかと」
+<name "Soshiette" "!DA0979">
+"Well behaved."
 #
-<name "ラズロック">
-「わかった。
-　俺から説明しよう」
+As she's stopped resisting, the Guild's been
+giving her a little more freedom, but she's still
+a prisoner.
 #
-<sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0984">
-「お手数をお掛けします」
-#
-<name "ラズロック">
-「生活の面倒はみてやれよ。
-　お姫様だからな」
+<name "Lazlocke">
+"...Any signs of resistance?"
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0985">
-「承知しております」
+<name "Soshiette" "!DA0980">
+"None.
+ I believe the odds she's faking it are low too."
+#
+<name "Lazlocke">
+"...What's going to happen to her?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0981">
+"She'll be given some freedom.
+ She's being considered for assistance with Guild
+ activities."
+#
+<name "Lazlocke">
+"Assistance?
+ Going to use her to take down Krun?"
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0982">
+"No, just as a regular wizard.
+ Demihumans with magical talent are rare, and
+ she has more than enough mana for it."
+#
+<name "Lazlocke">
+"...My request was approved?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0983">
+"Yes. The rest is up to her, but if you tell her
+ to, I don't anticipate any issues."
+#
+<name "Lazlocke">
+"All right.
+ I'll explain it to her."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0984">
+"I'm sorry for troubling you."
+#
+<name "Lazlocke">
+"My whole life is trouble.
+ Besides, she's a princess."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0985">
+"I understand."
 #
 <removesprite -1 11>
-　数日後、皇女ルィンスの監禁が解かれた。
+A few days later, Princess Lynth was released.
 #
-　しばらくは監視付きだが、監禁中に比べれば不便
-　は無いだろう。
+She'd be watched for a while, but it's less of
+a hassle than managing a prisoner.
 #
-　後、本人の希望によって、ルーン魔法学園への入
-　学が決まった。
+Soon after, she decided to enter Rune Academy,
+by her own will.
 #
-　対外的には、魔法を勉強する為にクインズベル王
-　国に留まっている事になる。
+Publicly, it was announced that she decided to
+stay in Queensbell to study magic.
 #
 \x0A\x44\x00\xD2\x84\x01
 <exit>
