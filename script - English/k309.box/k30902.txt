@@ -16,862 +16,889 @@
 :2AD
 <music 10>
 <background "bg002a0.iph" 11>
-　魔物には魔物の生活がある。
+Demons lead demonic lives.
 #
-　それを覗き見る事を趣味とする魔法使いもいる。
+Some wizards observe them as a hobby.
 #
-　良いか悪いかは置いておいて、俺にはそんな趣味
-　は無い事だけを先に伝えておこう。
+Whether or not that's a good thing, I assure you
+that I'm not that interested in it.
 #
-　だが、仕事で手伝う事はある。
+But there are jobs for helping the people who
+are.
 #
-　魔物の居そうな場所に、無数の“目”を飛ばし、
-　水晶に映し出す。
+They set up watchers where demons are likely to
+be and project the images there into a crystal
+ball.
 #
-　当然、役に立つ映像なんか、そうそう出ない。
+Obviously, it's rare to see anything useful.
 #
-　取捨選択をし、まとめ上げる。
+So the work is going through all information and
+putting together what is.
 #
-　魔物の生態観察記録と呼ばれる、面倒な仕事だが、
-　マニアが多いのかなかなか金にはなる。
+It's an obnoxious job usually called natural demon 
+surveying, but there are a lot of people obsessed
+with it.
 #
-　そして、金に困る俺は、どんな仕事だろうがキッ
-　チリとやってみせる。
+And since I'm poor, I have to take whatever jobs
+I can get.
 #
 <exit>
 :4D6
 <music 8>
 <background "bg024a0.iph" 11>
-<name "銀狐" "!HC0001">
-「ふふ……」
+<name "Silver Fox" "!HC0001">
+"Heheheh..."
 #
-<name "白ヘビ様" "!ID0000">
-「……だ、誰ですか？
-　それにここは？」
+<name "White Snake" "!ID0000">
+"W-Who's there?
+ And where am I?"
 #
-<name "銀狐" "!HC0002">
-「私は銀狐。
-　ここは、適当な洞窟の中かな」
+<name "Silver Fox" "!HC0002">
+"I am the Silver Fox.
+ This is just a convenient cave, I suppose."
 #
-<name "白ヘビ様" "!ID0001">
-「どうして私を捕えたのですか？」
+<name "White Snake" "!ID0001">
+"Why have you captured me?"
 #
-<name "銀狐" "!HC0003">
-「どうしてって……そりゃ、決まってるだろ」
+<name "Silver Fox" "!HC0003">
+"Why?
+ Isn't it obvious?"
 #
-<name "白ヘビ様" "!ID0002">
-「え？
-　え？」
+<name "White Snake" "!ID0002">
+"Huh?
+ Huh?"
 #
-<name "銀狐" "!HC0004">
-「女の子が大好きだからさ。
-　ふふ……楽しませて貰うよ」
+<name "Silver Fox" "!HC0004">
+"Because I love little girls.
+ Heheheh...
+ Entertain me."
 #
-<name "白ヘビ様" "!ID0003">
-「え……」
+<name "White Snake" "!ID0003">
+"Huh?"
 #
 <music 39>
 <background "ev114a0.iph" 10>
-　銀狐の尻から生える無数の尻尾が触手に変化し、
-　それが白ヘビ様の周囲を取り巻いた。
+The tails growing from her back turn into 
+tentacles and descend on the girl.
 #
-　そう思った瞬間、白ヘビ様は無数の触手に絡め取
-　られていた。
+A moment later, she's wrapped in dozens of
+tentacles.
 #
-<name "白ヘビ様" "!ID0004">
-「あ、は、はな、あうっ！」
+<name "White Snake" "!ID0004">
+"Ah! Aah! Aah! Aah!"
 #
-　白ヘビ様を取り巻いていた数匹の白ヘビが抵抗す
-　るが、あっという間に白ヘビ様から引き離され、
-　放り出される。
+She fights off a few of them by summoning snakes,
+but they're quickly thrown away from her.
 #
-　その放り出された白ヘビを、銀狐は束にして持つ。
+She's wrapped up and bound in seconds.
 #
-<name "銀狐" "!HC0005">
-「っと……この白ヘビ、どうしてやろうかな」
+<name "Silver Fox" "!HC0005">
+"Now... 
+ What should I do with this little white snake?"
 #
-<name "白ヘビ様" "!ID0005">
-「ぁ、や、止めて、手を出さないで」
+<name "White Snake" "!ID0005">
+"Ah! D-Don't!
+ Don't touch me!"
 #
-<name "銀狐" "!HC0006">
-「お願いするなら、それなりの言い方があると思う
-　けど」
+<name "Silver Fox" "!HC0006">
+"If you have a request, that's not how you ask."
 #
-<name "白ヘビ様" "!ID0006">
-「お、お願い……します」
+<name "White Snake" "!ID0006">
+"P-Please..."
 #
-<name "銀狐" "!HC0007">
-「素直ね。
-　ま、別に食べても美味しそうじゃないから、どう
-　もしないわよ」
+<name "Silver Fox" "!HC0007">
+"Good girl.
+ Well, you don't look tasty enough to eat, so I
+ won't be doing that."
 #
-<name "白ヘビ様" "!ID0007">
-「ほ……」
+<name "White Snake" "!ID0007">
+"Ah..."
 #
-<name "銀狐" "!HC0008">
-「でも、貴女は……美味しそうよね」
+<name "Silver Fox" "!HC0008">
+"But... you do look delicious."
 #
-　銀狐は、触手に変えた尻尾を操る。
+She brandishes her tentacle tails.
 #
-<name "白ヘビ様" "!ID0008">
-「あ、あ、いや、あ、なに、ふぁ」
+<name "White Snake" "!ID0008">
+"Ah! Ah! No!
+ Ah! What are... ah!"
 #
-<name "銀狐" "!HC0009">
-「ふふ、いい声を聞かせて頂戴」
+<name "Silver Fox" "!HC0009">
+"Heheheh.
+ Give me a good cry."
 #
-　白ヘビ様を絡め取っている触手が個々に意識を持っ
-　たように動き、白ヘビ様の各部を弄り始める。
+The tentacles wrapped around her start to move 
+and play with her body.
 #
 <background "ev114a1.iph" 10>
-<name "白ヘビ様" "!ID0009">
-「ぁっ、ぁぁっ、ふぁ、あっ、あああああ」
+<name "White Snake" "!ID0009">
+"Ah! Aaah! Ah! Aaaaahhh!"
 #
-<name "銀狐" "!HC0010">
-「あー、良い感じ。
-　ん、そう、その調子で……」
+<name "Silver Fox" "!HC0010">
+"Aaah. That's nice.
+ Mmm... Yes, that's the way..."
 #
-　二本の触手が白ヘビ様の陰部にある前後の穴に潜
-　り込んだ。
+Two of her tentacles slide inside the girl.
 #
-<name "白ヘビ様" "!ID0010">
-「いや、あ、いや、いやぁぁぁぁぁっ！」
+<name "White Snake" "!ID0010">
+"No! Ah!
+ No! Nooooooo!!!"
 #
-　そして、白ヘビ様の膣内と腸内で暴れ回る。
+They thrash and rage inside her.
 #
-<name "白ヘビ様" "!ID0011">
-「ふぎぃっ、ぃぁ、ぁっ、ぁぁぁぁぁぁ！」
+<name "White Snake" "!ID0011">
+"Aaaagh! Ah! Aaaaahhhh!"
 #
-　その触手の動きは容赦無く、白ヘビ様を刺激して
-　いく。
+The tentacles are merciless.
 #
-　陰部や陰部の中はもちろん、胸、腹、口、腕、足
-　と容赦が無い。
+They crawl all over her breasts, stomach, mouth,
+arms, legs, pussy, and ass.
 #
-<name "白ヘビ様" "!ID0012">
-「あ、あっ、ああっ、うぁっ、あうぐ、うぐぅっ、
-　うぐぁっ、ぁっ、むぁぁぁぁぁぁっ」
+<name "White Snake" "!ID0012">
+"Ah! Ah! Aah! Ahh! Agh! Aggh!
+ Aagh! Ah! Aaaah!"
 #
-<name "銀狐" "!HC0011">
-「ふふ……
-　そろそろ、気持ち良くなってきたかしら？」
+<name "Silver Fox" "!HC0011">
+"Heheh...
+ Starting to feel good, is it?"
 #
-<name "白ヘビ様" "!ID0013">
-「むぁ、むぁ、むむぅっ、むぅぁっ、ぁぁっ！」
+<name "White Snake" "!ID0013">
+"Mmmgh! Mmgh! Mmph! Aaah!"
 #
-<name "銀狐" "!HC0013">
-「返事をする余裕も無い感じかな？
-　じゃあ、気にせずに……」
+<name "Silver Fox" "!HC0013">
+"Does it feel too good to answer?
+ Then don't you worry..."
 #
-　銀狐は、数本の触手をさらに白ヘビ様の膣内へと
-　潜り込ませる。
+She slides her tentacles deeper inside the girl.
 #
-<name "白ヘビ様" "!ID0014">
-「ふぐぐぐっ！」
+<name "White Snake" "!ID0014">
+"Mmmmmgh!"
 #
-<name "銀狐" "!HC0014">
-「ふふ……お腹が膨らんじゃって……
-　気持ち良さそうね」
+<name "Silver Fox" "!HC0014">
+"Heheh... Your stomach's swelling so much...
+ You seem to be enjoying it."
 #
-<name "白ヘビ様" "!ID0015">
-「ふぐっ、ふぐーーーーっ！」
+<name "White Snake" "!ID0015">
+"Mmmgh!
+ Mmmmmgggghhhhh!"
 #
-<name "銀狐" "!HC0015">
-「ああ、良いわ。
-　その表情。
-　こっちも、気持ち良くなって来ちゃった……」
+<name "Silver Fox" "!HC0015">
+"Aah, wonderful.
+ That's the look.
+ I'm enjoying this too..."
 #
-<name "白ヘビ様" "!ID0016">
-「むあっ、あっ、あうっ、うあっ」
+<name "White Snake" "!ID0016">
+"Mmgh! Ah! Aah! Ahh!"
 #
-<name "銀狐" "!HC0016">
-「ん……ふふ……ふぁ……ん」
+<name "Silver Fox" "!HC0016">
+"Mm... Heheheh...
+ Ahh...mmm..."
 #
-　白ヘビ様の膣内に侵入している触手の動きが、先
-　程よりも明らかに速く、激しく動く。
+The tentacles inside her pussy thrash harder and
+faster than before.
 #
-　その動きが白ヘビ様を刺激し続け、そして……
+They keep relentlessly stimulating the girl 
+until...
 #
 <background "ev114a2.iph" 10>
-<name "白ヘビ様" "!ID0017">
-「うあっ、あっ、あっ、あああああああああっ！」
+<name "White Snake" "!ID0017">
+"Aah! Ah! Ah!
+ Aaaaaaaaaahhhhhhh!!!"
 #
-　白ヘビ様は大きく身体を震わせて達し、果てた。
+Her whole body shakes and she comes.
 #
-<name "白ヘビ様" "!ID0018">
-「ぁ……うぁ……」
+<name "White Snake" "!ID0018">
+"Ah...aah..."
 #
-<name "銀狐" "!HC0017">
-「ん……んん……んんんっ」
+<name "Silver Fox" "!HC0017">
+"Mm...mmm...mmmmm..."
 #
-　そして、それに遅れるように銀狐が小さく身体を
-　震わせて、達した。
+Just after her, the woman trembles and she has a
+small orgasm.
 #
-<name "銀狐" "!HC0018">
-「んぁ……ふふ……まあ、こんなものかな」
+<name "Silver Fox" "!HC0018">
+"Mm... Heheh...
+ Well, now what?"
 #
 <background "bg024a0.iph" 11>
-　銀狐は触手を戻し、捕まえていた白ヘビを白ヘビ
-　様の元に返した。
+She withdraws her tentacles and releases the
+captured snakes.
 #
-<name "銀狐" "!HC0019">
-「良かったわよ。
-　また、お願いするわね」
+<name "Silver Fox" "!HC0019">
+"That was excellent.
+ I hope we get to play again."
 #
-　銀狐はそう言って、気を失っている白ヘビ様を置
-　いて、洞窟から出ていった。
+She drops the unconscious girl on the ground and
+leaves the cave.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「珍しいな。
-　異種間の魔物同士での行為か……
-　しかも同性」
+<name "Lazlocke">
+"Curious.
+ Sex between different kinds of demons?
+ Both girls too."
 #
-<name "ラズロック">
-「むう……」
+<name "Lazlocke">
+"Hmm..."
 #
-<name "ラズロック">
-「まあ、人間も色々なタイプがあるしな……
-　メモメモ」
+<name "Lazlocke">
+"Well, there are all kinds of people too.
+ Better make a note."
 #
 \x0A\x44\x00\xDE\x84\x01
 <exit>
 :13A1
 <music 8>
 <background "bg024a0.iph" 11>
-<name "冥土さん" "!JE0000">
-「ん……ぁ……」
+<name "Hell Maid" "!JE0000">
+"Mm...ah..."
 #
-　冥土さんは、大きな屋敷の廊下で、ホウキを持ち
-　ながら掃除をしていた。
+A maid is cleaning in a large mansion.
 #
-　その掃除には、一部の隙もない。
+She's being very meticulous.
 #
-　完璧な掃除だ。
+She doesn't miss a spot.
 #
-<name "冥土さん" "!JE0001">
-「ぁ、ぁ……」
+<name "Hell Maid" "!JE0001">
+"Ah...ah..."
 #
-　だが、その冥土さんのお尻には、奇妙な触手生物
-　が張り付いていた。
+But there's a strange tentacle creature attached
+to her butt.
 #
 <music 39>
 <background "ev115a0.iph" 10>
-<name "冥土さん" "!JE0002">
-「ぁ、ぁ……うぁ……」
+<name "Hell Maid" "!JE0002">
+"Ah...ah...aah..."
 #
-　冥土さんはスカートを捲くられ、下着をずらされ
-　た状態で触手を下半身に絡み付かれている。
+It rolls up her skirt, wraps around her hips,
+and pushes her underwear out of the way.
 #
-<name "冥土さん" "!JE0003">
-「ん……んぁ……」
+<name "Hell Maid" "!JE0003">
+"Mm...mmm..."
 #
-　触手生物は、冥土さんの尻の位置に身体を固定し、
-　自由になる複数の触手を動かして冥土さんの陰部
-　を弄っている。
+The creature sticks faster to her and plays with
+her pussy.
 #
-　何本かは確実に膣内に侵入しているだろう。
+I'm pretty sure some of the tentacles are inside
+her.
 #
-　それなのに、冥土さんは掃除の手を休めない。
+But she doesn't stop cleaning.
 #
-　気付いていない筈が無い。
+She must know it's there.
 #
-<name "冥土さん" "!JE0004">
-「ぅぁ、ぁ、は……ぁぅ……」
+<name "Hell Maid" "!JE0004">
+"Aah...ah...aah...aah..."
 #
-　触手が蠢く度に冥土さんは荒い息を吐いている。
+She gasps every time the tentacles wriggle.
 #
-　のんびりしたような外見でも、流石に気付かない
-　筈は無いと思うが……
+No matter how impassive she looks, there's no way
+she can be ignoring it.
 #
-<name "冥土さん" "!JE0005">
-「ぁ、ぁ、んぁ……ん、んん」
+<name "Hell Maid" "!JE0005">
+"Ah...ah...mmm...mmm..."
 #
-　振り解けないのか、それとも振り解かないのか？
+Can't she just shake it off her?
+Or force it off of her?
 #
-　どちらにせよ、それでも完璧に掃除を続ける姿に
-　は感動を覚える。
+Whatever's going on, I'm impressed by how
+thoroughly she's cleaning.
 #
-<name "冥土さん" "!JE0006">
-「ん……ふぁ……ん……」
+<name "Hell Maid" "!JE0006">
+"Mm...ahh...mmm..."
 #
-　しかし、それでも限界があるのか時々、ホウキの
-　動きに乱れがでる。
+But there are limits to what she can take.
+Every now and then, she sweeps a little off
+balance.
 #
-　激しく触手生物が動いた時だ。
+It's whenever the tentacles writhe.
 #
-　どういったリズムなのか、触手の動きはランダム
-　だ。
+They seem to be moving completely randomly.
 #
-　静かに動いているかと思えば、急に暴れ出す。
+Just when it looks like they're calming down, 
+they thrash.
 #
-　そのタイミングは不定期で、しかもその暴れてい
-　る時間もランダムだ。
+There's no rhyme or reason to it, just random
+movement.
 #
-　責められている冥土さんには、辛い仕打ちだろう。
+It's probably especially tortuous for the maid.
 #
-<name "冥土さん" "!JE0007">
-「ぁ、ぁ、ぁぁ、うぁっ……ぁっ」
+<name "Hell Maid" "!JE0007">
+"Ah...ah...aah...ah..."
 #
-　冥土さんに限界が来た。
+She finally can't take any more.
 #
 <background "ev115a1.iph" 10>
-<name "冥土さん" "!JE0008">
-「ぁぁぁぁぁぁぁぁぁぁぁぁっ！！」
+<name "Hell Maid" "!JE0008">
+"Aaaaaaahhhhhh!!!"
 #
-　完全に掃除の手を止め、下半身を震わせて達する。
+She completely stops cleaning and trembles as she
+comes.
 #
-　冥土さんの足元には、ポタポタと愛液が零される。
+Her juices spill down her thighs.
 #
-　と、そのまま小便も漏らし始めた。
+And she starts to pee herself as well.
 #
-<name "冥土さん" "!JE0009">
-「ぁ……ぁ……ぁは……ぁっ、あっ、ああっ」
+<name "Hell Maid" "!JE0009">
+"Ah...ah...aah...ah...ah...ahhh..."
 #
-　そして、自分の作った池に膝をついて崩れ落ちた。
+She collapses to her knees in the puddle she just
+made.
 #
-　だが、触手生物は、冥土さんを余韻に浸らす気は
-　無いようだ。
+But the creature doesn't stop wriggling.
 #
-　激しく蠢いて冥土さんを責め続ける。
+It keeps writhing and tormenting her.
 #
-<name "冥土さん" "!JE0010">
-「ぅ、ぁ……あ、あ、くっ」
+<name "Hell Maid" "!JE0010">
+"Ah...ah...ah...ah...ah..."
 #
-　しかし、冥土さんは足を震わせながらも立ち上がっ
-　た。
+She stands up on unsteady feet.
 #
-　そして、自分の身体の汚れと、尻に張り付いてい
-　る触手生物を無視し、掃除を続けた。
+She wipes the dirt off her skirt, tries to ignore
+the creature, and goes back to cleaning.
 #
-　触手生物は、そんな冥土さんの陰部を徹底的に弄
-　り続ける。
+It just keeps playing with her.
 #
-　そこに、一人の魔物が姿を現した。
+Another demon appears.
 #
-<name "銀狐" "!HC0020">
-「ふふ……やっているわね」
+<name "Silver Fox" "!HC0020">
+"Heheh.
+ Well done."
 #
-<name "冥土さん" "!JE0011">
-「ぁ……ぁ……」
+<name "Hell Maid" "!JE0011">
+"Ah...ah..."
 #
-<name "銀狐" "!HC0021">
-「お掃除、ご苦労様。
-　私の触手、気に入ってるみたいね」
+<name "Silver Fox" "!HC0021">
+"Thank you for the cleaning.
+ It looks like you're enjoying my tentacles."
 #
-<name "冥土さん" "!JE0012">
-「ぁう、は、外して……」
+<name "Hell Maid" "!JE0012">
+"Aah...
+ T-Take it off..."
 #
-<name "銀狐" "!HC0022">
-「あら、外して良いの？」
+<name "Silver Fox" "!HC0022">
+"Oh? Should I do that?"
 #
-　銀狐の質問と同時に、触手生物は激しく動き出す。
+As she asks, the creature writhes intensely.
 #
-<name "冥土さん" "!JE0013">
-「うぁぁぁぁぁっ」
+<name "Hell Maid" "!JE0013">
+"Aaaah!"
 #
-<name "銀狐" "!HC0023">
-「ふふ、冗談よ」
+<name "Silver Fox" "!HC0023">
+"Heheh. Just kidding."
 #
 <background "bg024a0.iph" 11>
-　銀狐が指を動かすと、触手生物はあっさりと冥土
-　さんの尻から離れた。
+She waves her finger and the creature detaches 
+from the maid.
 #
-　そして、触手を動かして銀狐の足元に来るとその
-　まま身体を登った。
+It climbs up the woman's leg and onto her butt.
 #
-　銀狐の尻を襲うのかと思ったが、そこで触手生物
-　は銀狐の尻尾へと変化した。
+Instead of attacking her, it transforms into one
+of her tails.
 #
-　いや、変化を解いたと言うべきか。
+Well, maybe I should say it transforms back.
 #
-<name "銀狐" "!HC0024">
-「う、ん……ふふ。
-　ずいぶんと頑張ったようね」
+<name "Silver Fox" "!HC0024">
+"Mm...mm... Heheh...
+ You did very admirably."
 #
-<name "冥土さん" "!JE0014">
-「こ、これで……
-　ご主人様を解放してくれるのですね」
+<name "Hell Maid" "!JE0014">
+"N-Now... will you release my mistress?"
 #
-<name "銀狐" "!HC0025">
-「貴女の女主人は、もう解放しているわ」
+<name "Silver Fox" "!HC0025">
+"She's already been freed."
 #
-<name "銀狐" "!HC0026">
-「ほら、この尻尾。
-　貴女の女主人をさっきまで犯してたのよ」
+<name "Silver Fox" "!HC0026">
+"See? This tail here is the one that was violating
+ your mistress just a short while ago." 
 #
-<name "冥土さん" "!JE0016">
-「くっ……」
+<name "Hell Maid" "!JE0016">
+"Ngh..."
 #
-<name "銀狐" "!HC0027">
-「そう怖い顔をしないで頂戴。
-　また、苛めたくなっちゃうから」
+<name "Silver Fox" "!HC0027">
+"Don't give me such a scary look.
+ You're going to make me want to play with you
+ again."
 #
-<name "冥土さん" "!JE0017">
-「…………」
+<name "Hell Maid" "!JE0017">
+"..."
 #
-<name "銀狐" "!HC0028">
-「ふふ……約束は守るわ。
-　しばらくは来ないから、安心して女主人と乳繰り
-　合ってなさい」
+<name "Silver Fox" "!HC0028">
+"Heheh... I'll keep my word.
+ I won't be back for a while.
+ You can enjoy your tryst with your mistress in
+ peace."
 #
-<name "冥土さん" "!JE0018">
-「ぶ、無礼な」
+<name "Hell Maid" "!JE0018">
+"H-How rude."
 #
-<name "銀狐" "!HC0030">
-「私の触手が欲しくなったら、声を掛けて頂戴。
-　貴女達なら大歓迎だから」
+<name "Silver Fox" "!HC0030">
+"Come see me if you find yourself missing my
+ tentacles.
+ You're both always welcome."
 #
-　銀狐はそう言って、冥土さんの前から立ち去った。
+She says that and vanishes.
 #
 \x0A\x44\x00\xDF\x84\x01
 <exit>
 :224D
 <music 8>
 <background "bg024a0.iph" 11>
-　トウフ君と呼ばれる魔物は、追い詰められていた。
+The demon called Tofu is trapped.
 #
-　相手は銀狐。
+By the Silver Fox.
 #
-　その戦闘力の差は圧倒的だった。
+She's no match for her.
 #
-<name "銀狐" "!HC0031">
-「ふふ。
-　ごめんね」
+<name "Silver Fox" "!HC0031">
+"Heheh.
+ Too bad."
 #
-　銀狐の攻撃で、トウフ君は崩された。
+The girl is completely overwhelmed by her attack.
 #
 <music 39>
 <background "ev116a0.iph" 10>
-<name "トウフ君" "!KC0000">
-「あ、な、なにを……うぁ……」
+<name "Tofu" "!KC0000">
+"Ah...
+ W-What are...
+ Aaah..."
 #
-　倒されたトウフ君の中に入っていた水着ちゃんを
-　引き摺り出した銀狐は、自分の膝の上に乗せて愛
-　撫する。
+Silver Fox forces her into a bathing suit, then
+puts her on her lap and starts caressing her.
 #
-<name "銀狐" "!HC0032">
-「ふふ……楽しませて貰うわよ」
+<name "Silver Fox" "!HC0032">
+"Heheh...
+ Entertain me."
 #
-<name "トウフ君" "!KC0001">
-「あ、ひゃ、うぁ、ぁっ、ぁぁん、そんな所を触っ
-　ちゃ……だ、駄目、あ、んぁ」
+<name "Tofu" "!KC0001">
+"Ah! Aah! Ah! Ah! Aaah!
+ Don't touch me the...
+ S-Stop!
+ Ah! Aaah!"
 #
-<name "銀狐" "!HC0033">
-「駄目って言っても、ここは濡れ始めてるわよ」
+<name "Silver Fox" "!HC0033">
+"You say stop, but you're getting wet."
 #
-　銀狐の指が、水着ちゃんの陰部の中に潜り込み、
-　そして掻き回す。
+Her fingers slide into her crotch and stir her
+up.
 #
-<name "銀狐" "!HC0034">
-「ほら、もうこんなに……気持ち良いでしょ？」
+<name "Silver Fox" "!HC0034">
+"See? So wet already...
+ You like it, don't you?"
 #
-<name "トウフ君" "!KC0002">
-「ぁ、ぁ……ちが、違う……
-　こんなの、気持ち良くない」
+<name "Tofu" "!KC0002">
+"Ah...ah... N-No...
+ I don't like it at all!"
 #
-<name "銀狐" "!HC0035">
-「そう。
-　じゃあ、気持ち良くなるまで頑張ってあげるわ」
+<name "Silver Fox" "!HC0035">
+"I see.
+ Then I better work harder until you do."
 #
-　銀狐は、水着ちゃんの首筋を舐めながら胸を揉み、
-　そして陰部を刺激し続けた。
+She massages the girl's chest while licking her
+neck and continuing to tease her pussy.
 #
-<name "トウフ君" "!KC0003">
-「え、あ、あっ、うぁ、あ、ふぁ、ふぁ、だ、だめ、
-　ぁっ、ぁぁっ、ぁぁぁぁぁぁぁぁぁっ！」
+<name "Tofu" "!KC0003">
+"Huh? Ah! Ah! Ahh! Ah! Aah! D-Don't!
+ Ah! Aah! Aaaaahhhh!"
 #
-<name "銀狐" "!HC0036">
-「駄目じゃないでしょ。
-　ここを、こんなに大きくしちゃって……」
+<name "Silver Fox" "!HC0036">
+"Don't say no.
+ You're so swollen here..."
 #
-　銀狐は、水着ちゃんの陰部の中に隠れる小さなマ
-　メを摘まんで弄る。
+She pinches and toys with the little bean above
+her entrance.
 #
-<name "トウフ君" "!KC0004">
-「ひうっ！」
+<name "Tofu" "!KC0004">
+"Aah!"
 #
-<name "銀狐" "!HC0037">
-「乳首もコリコリと硬いわ」
+<name "Silver Fox" "!HC0037">
+"Your nipples are so stiff too."
 #
-　水着ちゃんの乳首を口に含み、舌で刺激し続けた。
+She sucks her nipples into her mouth and plays
+with them with her tongue.
 #
-<name "トウフ君" "!KC0005">
-「ぁう、うぁ、や、やめてぇ……」
+<name "Tofu" "!KC0005">
+"Aah! Ah! S-Stop it..."
 #
-<name "銀狐" "!HC0038">
-「だーめ」
+<name "Silver Fox" "!HC0038">
+"Nope."
 #
-　銀狐は、水着ちゃんの乳首を噛み、そのまま引っ
-　張る。
+She bites her nipple and pulls on it.
 #
-<name "トウフ君" "!KC0006">
-「うぁぁっ、ぁっ、ひ、ひぁぅ」
+<name "Tofu" "!KC0006">
+"Aaah! Ah!
+ Ah! Aaah!"
 #
-<name "銀狐" "!HC0039">
-「ふふ……
-　トウフは味気なくて嫌いなんだけど、中の貴女は
-　美味しいかな」
+<name "Silver Fox" "!HC0039">
+"Heheh...
+ I hate tasteless tofu, but perhaps the girl
+ inside is delicious."
 #
-　銀狐は、自分の指を水着ちゃんの陰部の中に潜り
-　込ませ、膣口を探しだす。
+She slides her fingers into the bathing suit and
+searches for her pussy directly.
 #
-<name "トウフ君" "!KC0007">
-「ふぁっ」
+<name "Tofu" "!KC0007">
+"Aah!"
 #
-　そして、その見つけた膣口に指を二本、突き入れ
-　て掻き回した。
+Two fingers find her entrance, slip inside her,
+and begin stirring.
 #
-<name "トウフ君" "!KC0008">
-「ぁ、ぁ、ぁ、ぁっ、ぁぁぁっ！」
+<name "Tofu" "!KC0008">
+"Ah! Ah! Ah! Ah! Aaah!"
 #
-<name "銀狐" "!HC0040">
-「では、頂きます」
+<name "Silver Fox" "!HC0040">
+"Now, time to enjoy."
 #
 <background "ev116a1.iph" 10>
-<name "トウフ君" "!KC0009">
-「ぁぁぁぁぁぁぁぁん！」
+<name "Tofu" "!KC0009">
+"Aaaaaahhhh!"
 #
-　水着ちゃんは、身体を震わせて達し果てた。
+She climaxes with a huge convulsion.
 #
-<name "銀狐" "!HC0041">
-「あら、もう達しちゃったのかしら？」
+<name "Silver Fox" "!HC0041">
+"Oh? You came already?"
 #
-<name "銀狐" "!HC0043">
-「ふふ……これからだって言うのに」
+<name "Silver Fox" "!HC0043">
+"Heheh... But we're just getting started."
 #
-　銀狐は自分の尻尾を無数の触手に変え、水着ちゃ
-　んの身体を捕えた。
+Her tails transform into tentacles and wrap around
+the girl.
 #
-　そして、数本の触手が水着ちゃんの穴という穴へ
-　の侵入を開始した。
+Several of them begin to slide into her bathing
+suit.
 #
 \x0A\x44\x00\xE0\x84\x01
 <exit>
 :2B89
 <music 5>
 <background "bg024a0.iph" 11>
-　森の奥のそのまた奥に、隠れるようにある泉。
+A spring in hidden deepn in a forest.
 #
-　そこは、様々な魔物が集う場所だった。
+It's a place where various demons congregate.
 #
 <background "ev117a0.iph" 10>
-<name "ホーンちゃん" "!MC0000">
-「で、どうなの？」
+<name "Miss Horn" "!MC0000">
+"So, how is it going?"
 #
-　ホーンちゃんは泉に膝まで入り、立ちながら身体
-　を洗う。
+She enters the spring and washes herself.
 #
-<name "銀狐" "!HC0098">
-「どうなのって？」
+<name "Silver Fox" "!HC0098">
+"How is what going?"
 #
-　泉の辺に腰を降ろす銀狐。
+She's sitting by the spring.
 #
-　双方共、裸だ。
+Both of them are naked.
 #
-<name "ホーンちゃん" "!MC0001">
-「例の件」
+<name "Miss Horn" "!MC0001">
+"You know what I mean."
 #
-<name "銀狐" "!HC0099">
-「それなり……かな」
+<name "Silver Fox" "!HC0099">
+"Well enough, I suppose."
 #
-<name "ホーンちゃん" "!MC0002">
-「そう、私が協力できれば良かったんだけど……」
+<name "Miss Horn" "!MC0002">
+"I see. I wish I could help you."
 #
-<name "銀狐" "!HC0100">
-「いいわよ。
-　私の問題だし」
+<name "Silver Fox" "!HC0100">
+"It's fine.
+ This is my problem."
 #
-<name "ホーンちゃん" "!MC0003">
-「……そうね。
-　少し、寂しくもあるけど」
+<name "Miss Horn" "!MC0003">
+"...I suppose, but it does make me feel a little
+ lonesome."
 #
-<name "銀狐" "!HC0101">
-「悪いわね」
+<name "Silver Fox" "!HC0101">
+"I'm sorry."
 #
-<name "ホーンちゃん" "!MC0004">
-「心にも無い事、言わないで欲しいわね。
-　私の事なんかどうでも良いくせに」
+<name "Miss Horn" "!MC0004">
+"Don't say things you don't believe.
+ You don't care a thing about me."
 #
-<name "銀狐" "!HC0102">
-「ふふ……そんな事、無いわよ」
+<name "Silver Fox" "!HC0102">
+"Heheh...
+ That's not true."
 #
-<name "ホーンちゃん" "!MC0005">
-「相変わらず、嘘吐きね」
+<name "Miss Horn" "!MC0005">
+"Same liar as ever."
 #
-<name "銀狐" "!HC0103">
-「嘘じゃないわよ。
-　貴女は大事な親友。
-　……背中と尻尾、洗ってくれないかしら？」
+<name "Silver Fox" "!HC0103">
+"I'm not lying.
+ You're my precious best friend.
+ Could you wash my back and tail?"
 #
-<name "ホーンちゃん" "!MC0006">
-「はいはい。
-　相変わらずの親友使いの荒さね」
+<name "Miss Horn" "!MC0006">
+"Yeah, yeah.
+ Abusing your best friend as always."
 #
-　ホーンちゃんは、銀狐の背中と尻尾を丁寧に洗っ
-　ていく。
+She carefully cleans her back and tail.
 #
-<name "ホーンちゃん" "!MC0008">
-「見惚れるぐらい、綺麗な尻尾ね」
+<name "Miss Horn" "!MC0008">
+"Your tails always look so beautiful."
 #
-<name "銀狐" "!HC0104">
-「ありがとう」
+<name "Silver Fox" "!HC0104">
+"Thank you."
 #
-<name "ホーンちゃん" "!MC0009">
-「でも、一番綺麗な時に比べれば、ツヤが悪いわよ」
+<name "Miss Horn" "!MC0009">
+"But they've lost the sheen that they used to 
+ have."
 #
-<name "銀狐" "!HC0105">
-「む……」
+<name "Silver Fox" "!HC0105">
+"Grr..."
 #
-<name "ホーンちゃん" "!MC0010">
-「使い過ぎね。
-　ま、私が止めても聞かないんでしょうけど」
+<name "Miss Horn" "!MC0010">
+"You've used them too much.
+ Well, I know you won't listen to me if I told
+ you to stop."
 #
-<name "ホーンちゃん" "!MC0011">
-「一言だけ」
+<name "Miss Horn" "!MC0011">
+"Just one thing."
 #
-<name "銀狐" "!HC0106">
-「なに？」
+<name "Silver Fox" "!HC0106">
+"What is it?"
 #
-<name "ホーンちゃん" "!MC0012">
-「焦らない事よ」
+<name "Miss Horn" "!MC0012">
+"Don't rush."
 #
-<name "銀狐" "!HC0107">
-「……わかってるわよ」
+<name "Silver Fox" "!HC0107">
+"...I know."
 #
-　その後、二人は黙々と身体を洗い続けた。
+The two bathe in silence after that.
 #
 \x0A\x44\x00\xE1\x84\x01
 <exit>
 :31BA
 <music 39>
 <background "ev118a0.iph" 10>
-<name "銀狐" "!HC0054">
-「なかなか、てこずらせてくれたわね」
+<name "Silver Fox" "!HC0054">
+"You did not make this easy for me."
 #
-　銀狐は怒りを露わにして、触手を乱暴に動かす。
+She angrily brandishes her tentacles.
 #
-<name "レイリン" "!NC0000">
-「うううっ！」
+<name "Lillim" "!NC0000">
+"Aaah!"
 #
-　レイリンはその触手によって、身体のあらゆる部
-　分が犯される。
+The girl is violated in every oriface by them.
 #
-<name "銀狐" "!HC0055">
-「余計な傷を負ったわ……許さない」
+<name "Silver Fox" "!HC0055">
+"You wounded me needlessly...
+ You will pay for that."
 #
-<name "レイリン" "!NC0001">
-「きゅ、急に襲っておいて……なにを……
-　うぐぅっ！」
+<name "Lillim" "!NC0001">
+"Y-You attacked me out of nowhere!
+ What are you...
+ Mmgh!"
 #
-<name "銀狐" "!HC0056">
-「もう少しだったのに……この……」
+<name "Silver Fox" "!HC0056">
+"I was almost there...
+ You little..."
 #
-　銀狐はさらに怒りを露わにした。
+Her anger grows.
 #
-　それに呼応するように、触手はさらに動きを活性
-　化させる。
+The tentacles become even more agitated.
 #
-<name "レイリン" "!NC0002">
-「うひっ、ひっ、ひぁっ、ひう、ぐっ、ぐぐぐぅっ」
+<name "Lillim" "!NC0002">
+"Ngh! Ah! Aah! Aggh!
+ Aaaagh!"
 #
-　レイリンの身体を捕えている触手は、ズリズリと
-　動いてレイリンの胸や尻、足や腕などを愛撫する。
+They writhe and squirm all over the girl's chest,
+butt, arms, and legs.
 #
-　膣内や腸内、口内に侵入した触手は、さらに奥へ
-　の侵入を目指して蠢き続けた。
+The tentacles plunge into her pussy, ass, and 
+mouth, wriggling the whole time.
 #
 <background "ev118a1.iph" 10>
-<name "レイリン" "!NC0003">
-「ぐぅぁぁぁぁっ、あぎっ……ぁ、ぁぁぁっ！」
+<name "Lillim" "!NC0003">
+"Mmmmmgh! Aagh!
+ Ah! Aaaah!"
 #
-　レイリンは抵抗をするが逃れられず、五分もすれ
-　ばレイリンは呆けた目で触手にされるがままにさ
-　れ始めた。
+She thrashes, but can't escape.
+In a few minutes, her eyes glaze over and she
+stops moving.
 #
-<name "レイリン" "!NC0004">
-「ぁ……ぁぁ……」
+<name "Lillim" "!NC0004">
+"Ah...aah..."
 #
-　レイリンは強制的に何度も果てさせられている。
+She's been forced to come repeatedly.
 #
-　その陰部からは大量の愛液と小便を吐き出し、触
-　手や床を汚している。
+Her liquids cover the tentacles and the floor.
 #
-<name "銀狐" "!HC0057">
-「ああ、いけないいけない」
+<name "Silver Fox" "!HC0057">
+"Aah, that's no good."
 #
-<name "銀狐" "!HC0058">
-「大丈夫？」
+<name "Silver Fox" "!HC0058">
+"Are you okay?"
 #
-<name "銀狐" "!HC0059">
-「壊れてない？」
+<name "Silver Fox" "!HC0059">
+"You're not broken?"
 #
-<name "レイリン" "!NC0005">
-「ぁ……」
+<name "Lillim" "!NC0005">
+"Ah..."
 #
-<name "銀狐" "!HC0060">
-「生きてるわね」
+<name "Silver Fox" "!HC0060">
+"You're alive."
 #
-<name "レイリン" "!NC0006">
-「ぅぁ……ぁ……」
+<name "Lillim" "!NC0006">
+"Aah...ah..."
 #
-<name "銀狐" "!HC0061">
-「つい、カッとなっちゃったわ。
-　ごめんなさい」
+<name "Silver Fox" "!HC0061">
+"I accidentally lost my control.
+ I'm sorry."
 #
-　銀狐は謝るが、触手の動きを止めようとはしない。
+She apologizes, but the tentacles keep moving.
 #
-<name "銀狐" "!HC0062">
-「そんな風に乱暴にしたら、すぐに終っちゃうわよ
-　ね」
+<name "Silver Fox" "!HC0062">
+"If I'm too rough, it'll be over too soon."
 #
-<name "銀狐" "!HC0063">
-「ジックリやらないと……」
+<name "Silver Fox" "!HC0063">
+"We need to take this nice and slow..."
 #
-<name "レイリン" "!NC0007">
-「ぁ……ゆ、ゆるし……ぁぅ……」
+<name "Lillim" "!NC0007">
+"Ah... F-Forgive me...
+ Aah..."
 #
-<name "銀狐" "!HC0064">
-「ふふ……
-　安心して、殺したりはしないから」
+<name "Silver Fox" "!HC0064">
+"Heheh...
+ Don't worry.
+ I'm not going to kill you."
 #
-　銀狐はそう言って、レイリンの頬にキスをした。
+She kisses her on the cheek.
 #
 <background "bg024a0.iph" 11>
-　レイリンが解放されたのは、これから数日後だっ
-　た。
+The girl was released several days later.
 #
 \x0A\x44\x00\xE2\x84\x01
 <exit>
 :3915
 <music 5>
 <background "ev117a0.iph" 10>
-<name "ホーンちゃん" "!MC0038">
-「ずいぶんと弱ってるわね」
+<name "Miss Horn" "!MC0038">
+"You've become quite weak."
 #
-<name "銀狐" "!HC0108">
-「そんな事は無いと思うけど……」
+<name "Silver Fox" "!HC0108">
+"I hardly think so."
 #
-<name "ホーンちゃん" "!MC0039">
-「自慢の毛ヅヤがボロボロよ」
+<name "Miss Horn" "!MC0039">
+"The hair you're so proud of is in tatters."
 #
-<name "ホーンちゃん" "!MC0040">
-「集まらない分は、自分の力を削ったのね」
+<name "Miss Horn" "!MC0040">
+"You gave your own power to make up for what you
+ couldn't take."
 #
-<name "銀狐" "!HC0109">
-「ふふ……もう少しなの」
+<name "Silver Fox" "!HC0109">
+"Heheh... I'm almost there."
 #
-<name "ホーンちゃん" "!MC0041">
-「……知ってるわ。
-　だから、来たのよ」
+<name "Miss Horn" "!MC0041">
+"...I know.
+ That's why I'm here."
 #
-<name "銀狐" "!HC0110">
-「……」
+<name "Silver Fox" "!HC0110">
+"..."
 #
-<name "ホーンちゃん" "!MC0042">
-「これでも、応援してるのよ」
+<name "Miss Horn" "!MC0042">
+"Even now, I'm still here for you."
 #
-<name "銀狐" "!HC0111">
-「でも、貴女から取ったら」
+<name "Silver Fox" "!HC0111">
+"But if I take it from you..."
 #
-<name "ホーンちゃん" "!MC0043">
-「少し眠るだけ。
-　死にはしないわ」
+<name "Miss Horn" "!MC0043">
+"It'll just be a little nap.
+ It won't kill me."
 #
-<name "ホーンちゃん" "!MC0045">
-「だから、貴女の誓いも破れない」
+<name "Miss Horn" "!MC0045">
+"You won't be breaking your promise."
 #
-<name "銀狐" "!HC0112">
-「……」
+<name "Silver Fox" "!HC0112">
+"..."
 #
-<name "ホーンちゃん" "!MC0046">
-「協力させて頂戴」
+<name "Miss Horn" "!MC0046">
+"Let me help you."
 #
-<name "銀狐" "!HC0113">
-「……本当に良いの？」
+<name "Silver Fox" "!HC0113">
+"...Are you sure?"
 #
-<name "ホーンちゃん" "!MC0047">
-「気にしないで」
+<name "Miss Horn" "!MC0047">
+"I'm fine."
 #
-<name "銀狐" "!HC0114">
-「……ありがとう」
+<name "Silver Fox" "!HC0114">
+"...Thank you."
 #
 \x2B\x42
 <background "bg024a0.iph" 11>
-　銀狐は、尻尾を変化させた触手でホーンちゃんを
-　襲った。
+Her tails transform into tentacles and she
+attacks.
 #
-　そして数週間後。
+A few weeks later...
 #
 <music 37>
 <background "ev119a0.iph" 10>
-　銀狐は、男の胸元に飛び込んだ。
+She leaps into the man's arms.
 #
-　銀狐の目には涙が溢れている。
+Tears are pouring from her eyes.
 #
-<name "銀狐" "!HC0072">
-「会いたかった」
+<name "Silver Fox" "!HC0072">
+"I missed you."
 #
-　銀狐は、男を抱き締める。
+She hugs him tight.
 #
-　男はとある村に住む青年。
+It's a young man from a small village.
 #
-　幼い時に銀狐と出会い、そして共に生きていた青
-　年。
+They met when he was young and they lived 
+together.
 #
-　しかし、若くして病魔に倒れた。
+But he fell sick.
 #
-　その彼を助ける為に、銀狐は体内に取り込み、そ
-　してその生命を繋ぎ止める為に他の魔物を襲い続
-　けた。
+To save his life, she took him inside her, and to
+keep him alive, she attacked other demons.
 #
-　だが、他の魔物を殺して助けたと知ったら悲しむ
-　だろうと、殺さずに奪い続けた。
+But she knew that it would make him sad if she 
+were to take a life to prolong his, so she stole
+their strength without killing them.
 #
-　男から奪えば手っ取り早かったが、銀狐は青年以
-　外に身体を許す気はなかった。
+It would have been quick if she had taken the
+strength from a man, but she had no intention of
+giving her body to any man but the one before her.
 #
-　だから、時間が掛かった。
+So it took time.
 #
-　青年が倒れてからすでに百年の時が経過している。
+It's been a hundred years since the man fell ill.
 #
-　しかし、銀狐の前には病魔に倒れる前の青年が立っ
-　ていた。
+But here he is now, standing before her once
+again.
 #
-<name "銀狐" "!HC0073">
-「本当に、会いたかった……」
+<name "Silver Fox" "!HC0073">
+"I missed you so much..."
 #
-　これから先、数多の困難が待ち受けるだろう。
+There will be many trials ahead.
 #
-　だが、銀狐は青年と共に歩んでいく。
+But she will face them with him.
 #
-　傍に居てくれる。
+With him by her side.
 #
-　それだけで、銀狐は無敵なのだから。
+That alone will make her strong enough to face
+anything.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-　魔物にも、色々とあるんだな……
+There are a lot of different kinds of demons,
+huh?
 #
-　メモメモ。
+Better write it all down.
 #
 <music 5>
 <background "bg024a0.iph" 11>
-　ちなみに、ホーンちゃんは三年後に復活した。
+By the way, Miss Horn woke up three years later.
 #
-<name "ホーンちゃん" "!MC0048">
-「幸せにやってると良いけど……」
+<name "Miss Horn" "!MC0048">
+"I hoped it'd work out for you..."
 #
-　そう言ったホーンちゃんの横に、復活を待ってい
-　た銀狐が居た。
+Her friend was waiting nearby for her to awaken.
 #
-<name "銀狐" "!HC0074">
-「えへへ……子供、子供」
+<name "Silver Fox" "!HC0074">
+"Heheheh...
+ We have a child."
 #
-　自慢する為に。
+She brags.
 #
-<name "ホーンちゃん" "!MC0049">
-「………………私も男を見つけよう」
+<name "Miss Horn" "!MC0049">
+".........I need to find a man too."
 #
 \x0A\x44\x00\xE3\x84\x01
 <exit>
