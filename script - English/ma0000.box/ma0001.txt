@@ -10,279 +10,286 @@
 :139
 <music 15>
 <background "bg011a0.iph" 11>
-<name "ラズロック">
-「イエルも順調だな」
+<name "Lazlocke">
+"Seems like Elle's doing well too."
 #
 <sprite "ta03a34.iph" 4 4 11>
-<name "ヴィオラ" "!BA0646">
-「ここまではね。
-　次はもう……」
+<name "Viola" "!BA0646">
+"So far.
+ But she's already..."
 #
-<name "ラズロック">
-「その為に来た」
+<name "Lazlocke">
+"That's what I'm here for."
 #
 <sprite "ta03a32.iph" 4 4 12>
-<name "ヴィオラ" "!BA0647">
-「……見張っているわ」
+<name "Viola" "!BA0647">
+"...I'll keep watch."
 #
-<name "ラズロック">
-「頼む」
+<name "Lazlocke">
+"Thanks."
 #
 <removesprite -1 11>
-　俺は控え室にいるイエルの元に向かった。
+I go to Elle in the waiting room.
 #
 <music 36>
 <background "ev060a0.iph" 10>
-<name "イエル" "!CA0706">
-「え、あ、あっ」
+<name "Elle" "!CA0706">
+"Huh? Ah! Ah..."
 #
-　俺はイエルを背後から抱き締め、短いスカートの
-　中へと手を伸ばした。
+I hug her from behind and reach into her short
+skirt.
 #
-<name "イエル" "!CA0707">
-「ぁっ、ぇ、なっ」
+<name "Elle" "!CA0707">
+"Ah...ah...
+ Wha?"
 #
-　そして、下着に手を掛けてずらし、露わになった
-　イエルの陰部に、俺は早々にモノを突き入れた。
+I move her underwear out of the way and 
+immediately stick my dick inside her.
 #
-<name "イエル" "!CA0708">
-「ひぁっ！」
+<name "Elle" "!CA0708">
+"Aah!"
 #
-　グリグリとモノ先を捻りながら濡れていない膣内
-　を突き進ませ、モノを根元まで潜り込ませる。
+It's hard to push in because she's not wet at all,
+but I push my dick all the way in her to the base.
 #
-<name "イエル" "!CA0709">
-「ぁ、ぁっ、ふぁ、あうっ」
+<name "Elle" "!CA0709">
+"Ah...ah...ahhh...ah..."
 #
-　モノが根元まで潜り込むと、俺は動きを止めてイ
-　エルの耳を噛んだ。
+Once I'm buried inside her, I stop and bite her
+ear.
 #
-<name "イエル" "!CA0710">
-「ううぁ……なんですか？
-　急に……うぁ……ん」
+<name "Elle" "!CA0710">
+"Ooh... What are you doing?
+ This is so sudden...
+ Aah...nnh..."
 #
-　抗議するイエルの耳を弄りながら、俺は囁く。
+I whisper as I toy with her ear.
 #
-<name "ラズロック">
-「先程の試合、苦戦したな」
+<name "Lazlocke">
+"You struggled in that last match, didn't you?"
 #
-<name "イエル" "!CA0711">
-「ぇ、ぁ、は、はい」
+<name "Elle" "!CA0711">
+"Huh? Ah... Y-Yes..."
 #
-<name "ラズロック">
-「持っていた魔法書だけじゃ対処できず、シャウト
-　ショットを使ったな」
+<name "Lazlocke">
+"You wouldn't have been able to win with just 
+ your grimoire, so you used a shout shot."
 #
-<name "イエル" "!CA0712">
-「は、はい……」
+<name "Elle" "!CA0712">
+"Y-Yes..."
 #
-<name "ラズロック">
-「ペーパードライブと、シャウトショットの併用。
-　悪くない戦術だが……」
+<name "Lazlocke">
+"A shout shot combined with a paper drive.
+ It's not a bad strategy."
 #
-<name "ラズロック">
-「それをやるには、お前の魔力は少ない」
+<name "Lazlocke">
+"But you don't have enough mana to pull that off."
 #
-<name "イエル" "!CA0713">
-「ぅ……」
+<name "Elle" "!CA0713">
+"..."
 #
-<name "ラズロック">
-「今のままで、次にいけるのか？」
+<name "Lazlocke">
+"You don't have anything left for the next match,
+ do you?"
 #
-<name "イエル" "!CA0714">
-「…………無理……です」
+<name "Elle" "!CA0714">
+"...No..."
 #
-<name "ラズロック">
-「諦めるか」
+<name "Lazlocke">
+"Are you going to give up?"
 #
-<name "イエル" "!CA0715">
-「……いえ」
+<name "Elle" "!CA0715">
+"...No."
 #
-<name "ラズロック">
-「ならば、お前は今、どうすれば良い？」
+<name "Lazlocke">
+"Then what should you do?"
 #
-<name "イエル" "!CA0716">
-「……お、お願いします」
+<name "Elle" "!CA0716">
+"...P-Please..."
 #
-<name "ラズロック">
-「なにをだ？」
+<name "Lazlocke">
+"Please what?"
 #
-<name "イエル" "!CA0717">
-「私を犯して、魔力をください」
+<name "Elle" "!CA0717">
+"Violate me, and give me mana."
 #
-<name "ラズロック">
-「よく言えた」
+<name "Lazlocke">
+"Well said."
 #
-　俺は腰を激しく振り、イエルの膣内を掻き回した。
+I intensely swing my hips and stir up her pussy.
 #
 <background "ev060a1.iph" 10>
-<name "イエル" "!CA0718">
-「ううううっ！」
+<name "Elle" "!CA0718">
+"Nnnngh!"
 #
-　挿入時は濡れていなかった膣内だったが、根元ま
-　でモノを咥え込んでいる間に濡らしたらしい。
+She wasn't wet at all when I put it in, but she's
+gotten much wetter while it's been inside her.
 #
-<name "ラズロック">
-「こんな場所で無理矢理されても濡らすとは、いや
-　らしい身体だ」
+<name "Lazlocke">
+"Getting wet even here and even when you weren't
+ expecting it.
+ What a slutty girl."
 #
-<name "イエル" "!CA0719">
-「うぁ、ぁ、ぁっ、ふぁ、そ、それは……
-　ぁ、ラズ、ロック、様が……ふぁ」
+<name "Elle" "!CA0719">
+"Aah...ah...ah...ahhh..
+ I-It's... ah... b-because of you...
+ Ahh..."
 #
-<name "ラズロック">
-「俺がお前をそうしたのか？」
+<name "Lazlocke">
+"It's my fault?"
 #
-<name "イエル" "!CA0720">
-「ふぁ、ぁ、は、はい」
+<name "Elle" "!CA0720">
+"Aah...ah...
+ Y-Yes..."
 #
-<name "ラズロック">
-「お前のその身体は俺の為にいやらしくなってくれ
-　たのか？」
+<name "Lazlocke">
+"Your became slutty for me?"
 #
-<name "イエル" "!CA0721">
-「ふぁ、は、はい、そ、そうです。
-　ぁぁぁっ、私は貴方の為に、あ、い、いやらしく、
-　な、なりました」
+<name "Elle" "!CA0721">
+"Aah... Y-Yes, t-that's right.
+ Aaah... I-I became... ah... s-slutty f-for 
+ you..."
 #
-<name "ラズロック">
-「よし」
+<name "Lazlocke">
+"Good."
 #
-　俺はイエルを抱き締めながら、そのイエルの膣内
-　を荒々しく掻き回した。
+I hold her tight and violate her pussy.
 #
-<name "イエル" "!CA0722">
-「ふぁ、ふぁっ、ぁっ、うぁ、うぁっ」
+<name "Elle" "!CA0722">
+"Aaah! Aah! Ah! Aah! Aah!"
 #
-　場所がいつもと違うからか、イエルの興奮が激し
-　かった。
+She's more turned on than usual because we're
+doing it somewhere different.
 #
-<name "イエル" "!CA0723">
-「ぁっ、ぁっ、ぁぁぁっ、うぁ、ぁ……
-　………………ぅぅぅっ！」
+<name "Elle" "!CA0723">
+"Ah! Ah! Aaah! Aaahhh...
+ ...Nnnh!"
 #
-　イエルは膣内の俺のモノを強く締め上げながら、
-　身体を小さく震わせた。
+She squeezes tight on my dick and shudders.
 #
-<name "ラズロック">
-「なんだ、達したのか？」
+<name "Lazlocke">
+"Did you just come?"
 #
-<name "イエル" "!CA0724">
-「ぁ、ぅぁ、す、少し……」
+<name "Elle" "!CA0724">
+"Ah...ah....
+ A-A little..."
 #
-<name "ラズロック">
-「なら、もう少し大きな声を出せ」
+<name "Lazlocke">
+"Then you should be a little louder."
 #
-<name "イエル" "!CA0725">
-「でも、こ、ここじゃ……」
+<name "Elle" "!CA0725">
+"But t-this is..."
 #
-<name "ラズロック">
-「気にするな。
-　試合の歓声に紛れる」
+<name "Lazlocke">
+"Don't worry about it.
+ Nobody will hear you over the crowd."
 #
-<name "イエル" "!CA0726">
-「ぁ、ぁ、ん、んぁ、ふっ……は、はい」
+<name "Elle" "!CA0726">
+"Ah...ah...mmm...ahh...
+ Y-Yes, sir..."
 #
-　俺はイエルに大きな声を上げさせようと、腰を
-　動かし続けた。
+I keep moving my hips, trying to get her to cry
+out.
 #
-<name "イエル" "!CA0727">
-「ふぁ、ふぁ、ぁ、ぁ、ぁうぅっ」
+<name "Elle" "!CA0727">
+"Aah...ahhh...ah...ah...ahh!"
 #
-　小さく達してから、余韻が納まる前の行為に、
-　イエルは大きく達しようとしていた。
+Continuing after her small orgasm without giving
+her any time to rest is building up to a much
+bigger one.
 #
-　それを察した俺は、モノをグイッと動かし、イ
-　エルの喜ぶ場所を目掛けて深く突いてやった。
+Knowing that, I move faster and thrust deeply at
+a place where I know she loves it.
 #
 <background "ev060a2.iph" 10>
-<name "イエル" "!CA0728">
-「ぁっ、ぁっ…………ああああああああっ♪」
+<name "Elle" "!CA0728">
+"Ah...ah...
+ Aaaaaaaahhh!!!♪"
 #
-　大きな声で達するイエルに満足しながら、俺は
-　そのまま腰を動かし続け、イエルの膣内に精液
-　と魔力を流し込んだ。
+Satisfied with her loud climax, I keep thrusting
+and pour semen and mana into her.
 #
 <music 15>
 <background "bg011a0.iph" 11>
-<name "ラズロック">
-「どうだ？」
+<name "Lazlocke">
+"How's that?"
 #
 <sprite "ta02b74.iph" 4 4 11>
-<name "イエル" "!CA0729">
-「魔力は……その、かなり回復しました」
+<name "Elle" "!CA0729">
+"My mana's... um, recovered a lot."
 #
-<name "ラズロック">
-「そうか。
-　もう少し、時間があればな」
+<name "Lazlocke">
+"I see. 
+ I wish we had a little more time."
 #
 <sprite "ta02b48.iph" 4 4 12>
-<name "イエル" "!CA0730">
-「いえ、十分です。
-　ありがとうございます」
+<name "Elle" "!CA0730">
+"No, it's enough.
+ Thank you."
 #
-<name "ラズロック">
-「……犯しただけだ。
-　気にするな」
+<name "Lazlocke">
+"...I just fucked you.
+ Don't mention it."
 #
 <sprite "ta02b39.iph" 4 4 12>
-<name "イエル" "!CA0731">
-「わかりました。
-　それじゃあ、頑張ってきます」
+<name "Elle" "!CA0731">
+"I understand.
+ All right, I'll do my best."
 #
-<name "ラズロック">
-「ああ、……負けるなよ」
+<name "Lazlocke">
+"Yeah, don't lose."
 #
 <sprite "ta02b43.iph" 4 4 12>
-<name "イエル" "!CA0732">
-「はい」
+<name "Elle" "!CA0732">
+"Yes, sir."
 #
 <removesprite -1 11>
 \x2B\x1A\x01\x07\x04\x00\xD9\x84\x01\x01\x0E :14C7: 
 <sprite "ta03a01.iph" 4 4 11>
-<name "ヴィオラ" "!BA0648">
-「お疲れさま」
+<name "Viola" "!BA0648">
+"Thank you."
 #
-<name "ラズロック">
-「……労われるような事じゃない」
+<name "Lazlocke">
+"...It's not something I like being thanked for."
 #
 <removesprite -1 11>
-　イエルにも言ったが、犯しただけだ。
+Like I told Elle, all I did was fuck her.
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0649">
-「そう？」
+<name "Viola" "!BA0649">
+"Oh?"
 #
-<name "ラズロック">
-「ああ……それより」
+<name "Lazlocke">
+"Yeah...
+ But more importantly..."
 #
-　俺はヴィオラの腰に腕を回し、個室に連れ込もう
-　とする。
+I put my arm around her waist.
 #
 <sprite "ta03a03.iph" 4 4 12>
-<name "ヴィオラ" "!BA0650">
-「どうしたの？」
+<name "Viola" "!BA0650">
+"What are you doing?"
 #
-<name "ラズロック">
-「イエルとは一回だけだったからな。
-　残りを引き受けてくれ」
+<name "Lazlocke">
+"I only did it with her once.
+ Take care of the rest."
 #
 <sprite "ta03a31.iph" 4 4 12>
-<name "ヴィオラ" "!BA0653">
-「もう……」
+<name "Viola" "!BA0653">
+"Honestly..."
 #
-<name "ラズロック">
-「嫌か？」
+<name "Lazlocke">
+"Is that a no?"
 #
 <sprite "ta03a36.iph" 4 4 12>
-<name "ヴィオラ" "!BA0654">
-「……嫌と言っても、やるんでしょ」
+<name "Viola" "!BA0654">
+"...You'd do it anyway even if I said no, wouldn't
+ you?"
 #
-<name "ラズロック">
-「ああ」
+<name "Lazlocke">
+"Yeah."
 #
 <removesprite -1 11>
-　俺はヴィオラと個室でイチャついた。
+Viola and I make love in the waiting room.
 #
 \x0A\x44\x00\xFF\x84\x01
 :14C7
@@ -292,240 +299,238 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta02b15.iph" 4 4 11>
-<name "イエル" "!CA0733">
-「……ラズロック様。
-　お願いします」
+<name "Elle" "!CA0733">
+"...Lazlocke, please."
 #
 <removesprite -1 11>
-　俺は返事をせず、そのままイエルを背後から抱き
-　締めた。
+I hug her from behind without answering her.
 #
 <music 36>
 <background "ev060a2.iph" 10>
-　俺はイエルの膣内にモノを突き入れ、掻き回し続
-　けていた。
+I thrust my dick into her pussy and keep stirring
+it.
 #
-<name "イエル" "!CA0734">
-「ぁ、ん、んぁ、あん……」
+<name "Elle" "!CA0734">
+"Ah...mmm...mmm...aah..."
 #
-　すでに一回目の射精を終え、二回目の射精も間近
-　だった。
+I've already come once, and I'm close to the
+second time.
 #
-<name "ラズロック">
-「出すぞ」
+<name "Lazlocke">
+"I'm going to come."
 #
-<name "イエル" "!CA0735">
-「ふぁ、ぁ」
+<name "Elle" "!CA0735">
+"Aah! Ah!"
 #
-<name "ラズロック">
-「出すぞ」
+<name "Lazlocke">
+"I'm going to come."
 #
-<name "イエル" "!CA0736">
-「ぁ、ぁ、ぁぁぁ、お、お願い、します」
+<name "Elle" "!CA0736">
+"Ah! Ah! Aaah! P-Please do it!"
 #
-　俺はイエルの声に応じたように、モノを震わせて
-　大量の精液をイエルの膣内に流し込んだ。
+I thrust deep into her pussy and flood it with
+semen.
 #
-<name "イエル" "!CA0737">
-「ふぁ、ぁ、……ぁぁぁぁぁっ」
+<name "Elle" "!CA0737">
+"Ah...ah...aaaahhhh!"
 #
-　イエルの膣内は俺の射精に反応し、ギュッと膣内
-　を締め上げてくる。
+Her pussy responds and clamps down hard.
 #
-<name "イエル" "!CA0738">
-「ぁ、ぁぁ、うぁ、んんん」
+<name "Elle" "!CA0738">
+"Ah! Aaah! Ahh! Mmmmm!"
 #
-　そのイエルの締め付けで、俺は最後の一滴まで搾
-　り取られた。
+Her squeezing milks every last drop out of me.
 #
-<name "イエル" "!CA0739">
-「ぁ……ぁ……ぁぁ……」
+<name "Elle" "!CA0739">
+"Ah...ah...aahh..."
 #
-<name "ラズロック">
-「……大会中だからな。
-　あまり無理はできないか」
+<name "Lazlocke">
+"...It's the middle of a tournament.
+ We shouldn't overdo it."
 #
-　俺はイエルの体力を考え、これぐらいにしようと
-　モノを引き抜こうとした。
+I'm concerned about wearing her out and try to
+pull out of her.
 #
-<name "イエル" "!CA0740">
-「ぁ」
+<name "Elle" "!CA0740">
+"Ah..."
 #
-　しかし、それをイエルに阻まれた。
+But she stops me.
 #
-<name "イエル" "!CA0741">
-「ぅ、ぁ……も、もう少し……お願いします」
+<name "Elle" "!CA0741">
+"Ah...ah...
+ A-A little more...
+ Please..."
 #
-<name "ラズロック">
-「もうすぐ、試合だろ」
+<name "Lazlocke">
+"You've got a match soon."
 #
-<name "イエル" "!CA0742">
-「もう一回ぐらいなら……」
+<name "Elle" "!CA0742">
+"There's time for one more..."
 #
-<name "ラズロック">
-「それは、魔力が欲しいのか？
-　それともエロい事をして欲しいだけか？」
+<name "Lazlocke">
+"Do you want mana?
+ Or do you just want to have sex?"
 #
-<name "イエル" "!CA0743">
-「ぁ、りょ、両方です」
+<name "Elle" "!CA0743">
+"Ah...
+ B-Both."
 #
-　俺はわかったとモノを再度、イエルの膣奥に捻じ
-　込む。
+I push my dick back into her pussy.
 #
-<name "イエル" "!CA0744">
-「ぁんんっ！」
+<name "Elle" "!CA0744">
+"Aaaahhh!"
 #
-<name "ラズロック">
-「今は魔力を受け取る事に集中しろ」
+<name "Lazlocke">
+"Concentrate on receiving mana right now."
 #
-<name "イエル" "!CA0745">
-「ぁ、は、はい」
+<name "Elle" "!CA0745">
+"Ah...
+ Y-Yes, sir."
 #
-<name "ラズロック">
-「大会が終ったら、可愛がってやる」
+<name "Lazlocke">
+"I'll love you all you want after the tournament."
 #
-<name "イエル" "!CA0746">
-「はい♪」
+<name "Elle" "!CA0746">
+"Yes, sir.♪"
 #
 <background "ev060a3.iph" 10>
-　イエルは、俺から大量の精液と魔力を受け取り、
-　そして大会へと戻っていった。
+After receiving a lot of mana and semen from me,
+Elle returns to the tournament.
 #
 \x0A\x44\x00\xC1\x84\x01
 <exit>
 :1BDF
 <music 15>
 <background "bg011a0.iph" 11>
-　大会に出場する選手達の中には、出場前の緊迫し
-　た空気に耐え切れずに周囲にちょっかいを掛け、
-　喧嘩を始める者達も少なくない。
+It's tense among the competitors during a 
+tournament. Many people can't take the pressure
+and it's not unusual for fights to break out.
 #
 <removesprite -1 11>
 <sprite "ta10a30.iph" 4 4 11>
-<name "イングウェイ" "!TA0056">
-「おい、貴様っ！」
+<name "Ingway" "!TA0056">
+"Hey, you!"
 #
 <removesprite -1 11>
 <sprite "ta13a47.iph" 2 4 11>
 <sprite "ta10a30.iph" 6 5 11>
-<name "ヘンドリク" "!QA0045">
-「なんだね君は？」
+<name "Hendrik" "!QA0045">
+"What do you want?"
 #
 <sprite "ta10a28.iph" 6 5 12>
-<name "イングウェイ" "!TA0057">
-「僕の名前はイングウェイ。
-　貴様に一言、言いたい！」
+<name "Ingway" "!TA0057">
+"My name is Ingway.
+ I need to have a word with you!"
 #
 <sprite "ta13a56.iph" 2 4 12>
-<name "ヘンドリク" "!QA0046">
-「なにかな？」
+<name "Hendrik" "!QA0046">
+"What?"
 #
 <sprite "ta10a35.iph" 6 5 12>
-<name "イングウェイ" "!TA0063">
-「僕とキャラが被ってるんだよ！」
+<name "Ingway" "!TA0063">
+"You're too much like me!"
 #
 <sprite "ta13a59.iph" 2 4 12>
-<name "ヘンドリク" "!QA0047">
-「……………………………………
-　どこがだい？
-　少し考えたが、わからないのだが」
+<name "Hendrik" "!QA0047">
+".........
+ In what way?
+ I'm trying to think, but I don't see it."
 #
 <sprite "ta10a29.iph" 6 5 12>
-<name "イングウェイ" "!TA0059">
-「美形を売りにしている所だ！」
+<name "Ingway" "!TA0059">
+"There's only room for one pretty boy!"
 #
 <sprite "ta13a57.iph" 2 4 12>
-<name "ヘンドリク" "!QA0048">
-「…………ああ！
-　特殊な方の」
+<name "Hendrik" "!QA0048">
+"...Ooh!
+ In that we're both special."
 #
 <sprite "ta10a35.iph" 6 5 12>
-<name "イングウェイ" "!TA0060">
-「特殊とか言うなっ！」
+<name "Ingway" "!TA0060">
+"Don't call me special!"
 #
 <sprite "ta13a56.iph" 2 4 12>
-<name "ヘンドリク" "!QA0049">
-「そう言われても……
-　まあ、なんにせよ、住み分けはできると思うよ。
-　君と私では価値観が違うようだし」
+<name "Hendrik" "!QA0049">
+"You say that, but...
+ Well, anyway, I think we can coexist.
+ You and I are completely different."
 #
 <sprite "ta10a33.iph" 6 5 12>
-<name "イングウェイ" "!TA0061">
-「こ、殺す……」
+<name "Ingway" "!TA0061">
+"I-I'll kill you..."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「おー、ヒートアップしてるな」
+<name "Lazlocke">
+"Oooh, looks like it's heating up."
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA2904">
-「師匠」
+<name "Celes" "!AA2904">
+"Master."
 #
-<name "ラズロック">
-「あの二人、対戦したらどっちが勝つと思う？」
+<name "Lazlocke">
+"They could fight. Do you think you can beat
+ them?"
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA2905">
-「え？
-　ええと……
-　どっちが勝っても、私の敵ではありません」
+<name "Celes" "!AA2905">
+"Huh? Umm...
+ Whichever wins, they're no match for me."
 #
-<name "ラズロック">
-「おお、強気だな」
+<name "Lazlocke">
+"Ooh. We're confident."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA2906">
-「大会では、それぐらいでなければ」
+<name "Celes" "!AA2906">
+"In a tournament, you have to be."
 #
-<name "ラズロック">
-「その通りだ。
-　頑張れ」
+<name "Lazlocke">
+"That's right.
+ Good luck."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA2907">
-「はい！」
+<name "Celes" "!AA2907">
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
 :2305
 <music 15>
 <background "bg011a0.iph" 11>
-　大会会場の待合室にて。
+In the waiting room at the tournament...
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :2370: \x52 "ta10a02.iph"  4  4  11 \x18 :238D: 
 :2370
 \x52 "ta10b02.iph"  4  4  11 
 :238D
 \x2B
-<name "イングウェイ" "!TA0053">
-「ふふふ……
-　このルダールの森で採取した鉱石から削り出した
-　矢尻を使えば、この僕の勝利に間違いは無い」
+<name "Ingway" "!TA0053">
+"Heheheh...
+ With this arrowhead made of ore from the Ludar
+ Forest, my victory is assured!"
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :2449: \x52 "ta10a18.iph"  4  4  12 \x18 :2466: 
 :2449
 \x52 "ta10b18.iph"  4  4  12 
 :2466
 \x2B
-<name "イングウェイ" "!TA0054">
-「おお、美しい……この矢尻……
-　吸い込まれそうだ。
-　流石、僕の勝利を約束してくれるもの……」
+<name "Ingway" "!TA0054">
+"Ooh, this arrowhead is so beautiful...
+ It's like it's drawing me to it.
+ Yes, this will definitely bring me victory..."
 #
 \x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :2518: \x52 "ta10a12.iph"  4  4  12 \x18 :2535: 
 :2518
 \x52 "ta10b12.iph"  4  4  12 
 :2535
 \x2B
-<name "イングウェイ" "!TA0055">
-「うわぁぁぁ、さ、刺さった！
-　刺さったぁ！
-　痛いぃぃっ！」
+<name "Ingway" "!TA0055">
+"Aaah! I-It poked me!
+ It's stuck!
+ Owwwwwww!!!"
 #
 <removesprite -1 11>
-<name "ラズロック">
-「……なにやっているんだ。
-　アイツは……」
+<name "Lazlocke">
+"...What is that idiot doing?"
 #
 <exit>
 \x78
