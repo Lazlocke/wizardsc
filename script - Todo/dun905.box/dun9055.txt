@@ -7,12 +7,12 @@
 \x41 23 
 <background "bg011a0.iph" 11>
 <sprite "ta07a12.iph" 4 4 11>
-<name "ジャッジマン" "!FA0076">
+<name "Judgeman" "!FA0076">
 「けっちゃくーーーーっ！
 　優勝は、セリスティーネ＝ロココ！」
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0077">
+<name "Judgeman" "!FA0077">
 「今年の最優秀料理人の誕生だ！」
 #
 <removesprite -1 11>
