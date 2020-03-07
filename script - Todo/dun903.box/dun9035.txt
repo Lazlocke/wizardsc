@@ -13,14 +13,14 @@
 :B3
 \x41 23 
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0033">
+<name "Judgeman" "!FA0033">
 「優勝！
 　セリス！」
 #
 <name "Celes" "!AA3034">
 「や、やった……」
 #
-<name "ジャッジマン" "!FA0034">
+<name "Judgeman" "!FA0034">
 「おめでとう。
 　見事だ」
 #
@@ -60,7 +60,7 @@
 :362
 <music 23>
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0035">
+<name "Judgeman" "!FA0035">
 「優勝だ。
 　おめでとう」
 #
@@ -85,14 +85,14 @@
 :4DC
 \x41 23 
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0036">
+<name "Judgeman" "!FA0036">
 「優勝、おめでとう。
 　……もう、常連だな」
 #
 <name "Celes" "!AA3043">
 「慢心せずに、頑張ります」
 #
-<name "ジャッジマン" "!FA0037">
+<name "Judgeman" "!FA0037">
 「また、ここで会おう」
 #
 <name "Celes" "!AA3044">

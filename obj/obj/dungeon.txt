@@ -1,0 +1,320 @@
+//entry 0 -----------------------
+バンカスター武術大会
+mapt000.iph
+dmap000.iph
+dun900.obj
+bg011c0.iph
+cut0002a.iph
+dun900.box
+//entry 1 -----------------------
+クデュール魔法大会予選
+mapt001.iph
+dmap001.iph
+dun901.obj
+bg011c0.iph
+cut0002a.iph
+dun901.box
+//entry 2 -----------------------
+クデュール魔法大会
+mapt002.iph
+dmap002.iph
+dun902.obj
+bg011c0.iph
+cut0002a.iph
+dun902.box
+//entry 3 -----------------------
+クインズベル魔法大会
+mapt003.iph
+dmap003.iph
+dun903.obj
+bg011c0.iph
+cut0002a.iph
+dun903.box
+//entry 4 -----------------------
+真なる英雄の大会
+mapt004.iph
+dmap004.iph
+dun904.obj
+bg015c0.iph
+cut0002a.iph
+dun904.box
+//entry 5 -----------------------
+ローリア料理大会
+mapt005.iph
+dmap005.iph
+dun905.obj
+bg011c0.iph
+cut0002a.iph
+dun905.box
+//entry 6 -----------------------
+認定の塔
+mapt006.iph
+dmap006.iph
+dun906.obj
+bg016c0.iph
+cut0027a.iph
+dun906.box
+//entry 7 -----------------------
+試練の塔
+mapt007.iph
+dmap007.iph
+dun907.obj
+bg016c0.iph
+cut0014a.iph
+dun907.box
+//entry 8 -----------------------
+魔法の塔
+mapt008.iph
+dmap008.iph
+dun908.obj
+bg016c0.iph
+cut0015a.iph
+dun908.box
+//entry 9 -----------------------
+祝福の塔
+mapt009.iph
+dmap009.iph
+dun909.obj
+bg016c0.iph
+cut0016a.iph
+dun909.box
+//entry 10 -----------------------
+絶望の塔
+mapt010.iph
+dmap010.iph
+dun910.obj
+bg016c0.iph
+cut0017a.iph
+dun910.box
+//entry 11 -----------------------
+王魔の塔
+mapt011.iph
+dmap011.iph
+dun911.obj
+bg016c0.iph
+cut0018a.iph
+dun911.box
+//entry 12 -----------------------
+最上の塔
+mapt012.iph
+dmap012.iph
+dun912.obj
+bg016c0.iph
+cut0019a.iph
+dun912.box
+//entry 13 -----------------------
+神魔の塔
+mapt013.iph
+dmap013.iph
+dun913.obj
+bg016c0.iph
+cut0020a.iph
+dun913.box
+//entry 14 -----------------------
+詠唱の塔
+mapt014.iph
+dmap014.iph
+dun914.obj
+bg009c0.iph
+cut0026a.iph
+dun914.box
+//entry 15 -----------------------
+地下迷宮
+mapt016.iph
+dmap016.iph
+dun915.obj
+bg017c0.iph
+cut0021a.iph
+dun915.box
+//entry 16 -----------------------
+大地下迷宮
+mapt017.iph
+dmap017.iph
+dun916.obj
+bg017c0.iph
+cut0022a.iph
+dun916.box
+//entry 17 -----------------------
+魔王の城
+mapt018.iph
+dmap018.iph
+dun917.obj
+bg016d0.iph
+cut0023a.iph
+dun917.box
+//entry 18 -----------------------
+ダンジョン00
+mapt016.iph
+dmap016.iph
+dun918.obj
+bg017c0.iph
+cut0021a.iph
+dun918.box
+//entry 19 -----------------------
+街中00
+mapt019.iph
+dmap019.iph
+dun920.obj
+bg013c0.iph
+cut0002a.iph
+dun920.box
+//entry 20 -----------------------
+街中01
+mapt019.iph
+dmap019.iph
+dun921.obj
+bg013c0.iph
+cut0002a.iph
+dun921.box
+//entry 21 -----------------------
+街中02
+mapt019.iph
+dmap019.iph
+dun922.obj
+bg013c0.iph
+cut0002a.iph
+dun922.box
+//entry 22 -----------------------
+街中03
+mapt019.iph
+dmap019.iph
+dun923.obj
+bg013c0.iph
+cut0002a.iph
+dun923.box
+//entry 23 -----------------------
+街中04
+mapt025.iph
+dmap019.iph
+dun924.obj
+bg013c0.iph
+cut0002a.iph
+dun924.box
+//entry 24 -----------------------
+街中05
+mapt025.iph
+dmap019.iph
+dun925.obj
+bg015c0.iph
+cut0002a.iph
+dun925.box
+//entry 25 -----------------------
+街中06
+mapt025.iph
+dmap019.iph
+dun926.obj
+bg015d0.iph
+cut0002a.iph
+dun926.box
+//entry 26 -----------------------
+街中07
+mapt025.iph
+dmap019.iph
+dun927.obj
+bg015d0.iph
+cut0002a.iph
+dun927.box
+//entry 27 -----------------------
+森00
+mapt020.iph
+dmap020.iph
+dun940.obj
+bg016c0.iph
+cut0001a.iph
+dun940.box
+//entry 28 -----------------------
+山00
+mapt021.iph
+dmap021.iph
+dun950.obj
+bg017c0.iph
+cut0001a.iph
+dun950.box
+//entry 29 -----------------------
+海辺00
+mapt022.iph
+dmap022.iph
+dun960.obj
+bg019c0.iph
+cut0001a.iph
+dun960.box
+//entry 30 -----------------------
+海辺01
+mapt022.iph
+dmap022.iph
+dun961.obj
+bg019c0.iph
+cut0001a.iph
+dun961.box
+//entry 31 -----------------------
+戦場00
+mapt024.iph
+dmap021.iph
+dun970.obj
+bg017c0.iph
+cut0001a.iph
+dun970.box
+//entry 32 -----------------------
+家の裏庭00
+mapt023.iph
+dmap023.iph
+dun980.obj
+bg004c0.iph
+cut0002a.iph
+dun980.box
+//entry 33 -----------------------
+家の裏庭01
+mapt023.iph
+dmap023.iph
+dun981.obj
+bg004c0.iph
+cut0002a.iph
+dun981.box
+//entry 34 -----------------------
+家の裏庭02
+mapt023.iph
+dmap023.iph
+dun982.obj
+bg004c0.iph
+cut0002a.iph
+dun982.box
+//entry 35 -----------------------
+家の裏庭03
+mapt023.iph
+dmap023.iph
+dun983.obj
+bg004c0.iph
+cut0002a.iph
+dun983.box
+//entry 36 -----------------------
+家の裏庭04
+mapt023.iph
+dmap023.iph
+dun984.obj
+bg004c0.iph
+cut0002a.iph
+dun984.box
+//entry 37 -----------------------
+家の裏庭05
+mapt023.iph
+dmap023.iph
+dun985.obj
+bg004c0.iph
+cut0002a.iph
+dun985.box
+//entry 38 -----------------------
+家の裏庭06
+mapt023.iph
+dmap023.iph
+dun986.obj
+bg004c0.iph
+cut0002a.iph
+dun986.box
+//entry 39 -----------------------
+英雄の塔
+mapt015.iph
+dmap015.iph
+dun999.obj
+bg012c0.iph
+cut0100a.iph
+dun999.box
