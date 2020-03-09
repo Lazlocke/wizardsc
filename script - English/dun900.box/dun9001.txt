@@ -5,120 +5,122 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0504">
-「参加できちゃうぜ！」
+<name "Soshiette" "!DA0504">
+"Let's get ready to rumble!"
 #
-<name "ラズロック">
-「……なんだ？」
+<name "Lazlocke">
+"...What?"
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "ソシエット" "!DA0505">
-「いえ、ハイテンションな感じをご主人様に披露し
-　ようと思いまして」
+<name "Soshiette" "!DA0505">
+"Oh, just trying to get you fired up."
 #
-<name "ラズロック">
-「なぜ？」
+<name "Lazlocke">
+"Why?"
 #
 <sprite "ta04a08.iph" 4 4 12>
-<name "ソシエット" "!DA0506">
-「セリスさんのバンカスター武術大会への出場登録
-　が済みましたので、そのご報告を兼ねまして」
+<name "Soshiette" "!DA0506">
+"Celes has been registered to be a part of the
+ Bancaster Tournament, and I have your report."
 #
-<name "ラズロック">
-「兼ねんで良い。
-　セリス」
+<name "Lazlocke">
+"Way to be efficient. 
+ Celes."
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 4 4 11>
-<name "セリス" "!AA2981">
-「はい？」
+<name "Celes" "!AA2981">
+"Yes?"
 #
-<name "ラズロック">
-「バンカスター武術大会の出場登録が済んだ。
-　頑張れよ」
+<name "Lazlocke">
+"You've been registered for the Bancaster 
+ Tournament.
+ Good luck."
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "セリス" "!AA2982">
-「はい。
-　頑張ります」
+<name "Celes" "!AA2982">
+"Yes, sir.
+ I'll do my best."
 #
 <removesprite -1 11>
 <music 15>
 <background "bg020a0.iph" 11>
-　そして、大会当日。
+The day of the tournament...
 #
 <background "bg011a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0507">
-「戦っちゃうぜ！」
+<name "Soshiette" "!DA0507">
+"Let's get ready to rumble!"
 #
-<name "ラズロック">
-「もう良い」
+<name "Lazlocke">
+"Enough already."
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "ソシエット" "!DA0508">
-「頑張っているのに……報われない」
+<name "Soshiette" "!DA0508">
+"After I tried so hard...
+ All for nothing."
 #
-<name "ラズロック">
-「はいはい。
-　セリスはどこだ？」
+<name "Lazlocke">
+"Yeah, yeah.
+ Where's Celes?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0509">
-「あちらに」
+<name "Soshiette" "!DA0509">
+"Over there."
 #
-<name "ラズロック">
-「もう始まるのか」
+<name "Lazlocke">
+"Started already?"
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "ソシエット" "!DA0510">
-「そのようです」
+<name "Soshiette" "!DA0510">
+"Seems like it."
 #
-<name "ラズロック">
-「お前は出ないのか？」
+<name "Lazlocke">
+"Aren't you in this tournament?"
 #
 <sprite "ta04a63.iph" 4 4 12>
-<name "ソシエット" "!DA0511">
-「私は二回戦からです」
+<name "Soshiette" "!DA0511">
+"I have a first round bye."
 #
-<name "ラズロック">
-「……なるほど」
+<name "Lazlocke">
+"...I see."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0512">
-「始まります。
-　応援致しましょう」
+<name "Soshiette" "!DA0512">
+"She's started.
+ Let's cheer her on."
 #
 <removesprite -1 11>
 <sprite "ta07a07.iph" 4 4 11>
-<name "ジャッジマン" "!FA0019">
-「グゥゥゥゥゥゥゥゥゥゥゥッド、モーニング！
-　エブリバデェ！」
+<name "Judgeman" "!FA0019">
+"Goooooooooooood morning, everybody!"
 #
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0020">
-「やってまいりましたバンカスター武術大会！」
+<name "Judgeman" "!FA0020">
+"It's time for the Bancaster Martial Arts 
+ Tournament!"
 #
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0021">
-「この大会は！
-　我こそはと思う強者が集まり、誰が一番強いのか
-　を決めるだけのシンプルな大会！」
+<name "Judgeman" "!FA0021">
+"This tournament is where all who think themselves
+ mighty have come together!
+ A simple tournament to determine who is the
+ strongest of the strong!"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0022">
-「それだけに、出場選手は厳選に厳選され！
-　皆様の目と耳と心を楽しませるでしょう！」
+<name "Judgeman" "!FA0022">
+"Each participant has been carefully selected!
+ All to entertain your eyes, ears, and hearts!"
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0023">
-「私の長話は無用！
-　観ればわかる！」
+<name "Judgeman" "!FA0023">
+"But you're not here to listen to me!
+ You'll see soon eough!"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0024">
-「それでは、さっそくぅ一回戦！
-　開始だぁ！」
+<name "Judgeman" "!FA0024">
+"So let's get the first round started!
+ Let's begin!"
 #
 <removesprite -1 11>
 <exit>

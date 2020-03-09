@@ -6,44 +6,42 @@
 :5D
 <music 23>
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0026">
-「優勝ぉぉぉぉぉっ！
-　セリスティーネ＝ロココ！」
+<name "Judgeman" "!FA0026">
+"Wiiiiiiinner!!!
+ Celestine Rococo!"
 #
-<name "セリス" "!AA2997">
-「よし！」
+<name "Celes" "!AA2997">
+"Yay!"
 #
-<name "ジャッジマン" "!FA0027">
-「おめでとうございます。
-　セリスさん。
-　今の感想を一言！」
+<name "Judgeman" "!FA0027">
+"Congratulations, Miss Celes.
+ How does victory feel?"
 #
-<name "セリス" "!AA2998">
-「みんな強くて苦しい試合ばかりでした。
-　でも、ここまでこれて嬉しいです」
+<name "Celes" "!AA2998">
+"Every match was hard fought, but I'm glad I made
+ it this far."
 #
-<name "ジャッジマン" "!FA0028">
-「そうですか。
-　次の目標はなんですか？」
+<name "Judgeman" "!FA0028">
+"Oh?
+ What's your next goal?"
 #
-<name "セリス" "!AA2999">
-「クデュール魔法大会での優勝です」
+<name "Celes" "!AA2999">
+"Winning the Coudures Tournament."
 #
-<name "ジャッジマン" "!FA0029">
-「なるほど！
-　是非、その目標に向かって頑張ってください！」
+<name "Judgeman" "!FA0029">
+"I see!
+ Then work hard and aim for your dreams!"
 #
-<name "ジャッジマン" "!FA0030">
-「では、名残惜しいですが閉会です！
-　四年後！
-　またみなさんとお会いできる事を楽しみにしてお
-　ります！」
+<name "Judgeman" "!FA0030">
+"Well then, I hate to say it, but it's over!
+ I'm looking forward to seeing you all again in
+ four years time!"
 #
-<name "ジャッジマン" "!FA0031">
-「最後に、優勝者セリスティーネさんに！
-　盛大な拍手をお願いします！」
+<name "Judgeman" "!FA0031">
+"Finally, a big round of applause to our 
+ champion, Celestine!"
 #
-　大会会場は、盛大な拍手に包まれた。
+The coliseum erupts in applause.
 #
 <exit>
 \x78

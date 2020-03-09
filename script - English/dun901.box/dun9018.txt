@@ -11,21 +11,21 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "セリス" "!AA2946">
-「よし、なんとか予選突破」
+<name "Celes" "!AA2946">
+"Okay, I made it through the qualifiers."
 #
 <removesprite -1 11>
 <exit>
 :115
 <music 15>
 <background "bg011a0.iph" 11>
-<name "ラズロック">
-「予選突破だな」
+<name "Lazlocke">
+"You made it through the qualifers."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA2947">
-「はい。
-　次は本選です」
+<name "Celes" "!AA2947">
+"Yep.
+ Next are the finals."
 #
 <removesprite -1 11>
 <exit>
@@ -33,34 +33,35 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c29.iph" 4 4 11>
-<name "セリス" "!AA2962">
-「よ、予選で……」
+<name "Celes" "!AA2962">
+"I-It was just the qualifiers, but..."
 #
-<name "ラズロック">
-「残念だったな」
+<name "Lazlocke">
+"Too bad."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA2963">
-「予選も突破できないなんて……」
+<name "Celes" "!AA2963">
+"I can't believe I couldn't even make it through
+ the qualifiers..."
 #
-<name "ラズロック">
-「クデュール魔法大会は厳しいからな」
+<name "Lazlocke">
+"The Coudures Tournament isn't for the faint of
+ heart."
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "セリス" "!AA2964">
-「う、うう……」
+<name "Celes" "!AA2964">
+"Awww..."
 #
 <removesprite -1 11>
-　セリスは、自分の弱さに涙を流した。
+Celes cried over her weakness.
 #
-　こうして、セリスのクデュール魔法大会は終わっ
-　た。
+That's the end of the tournament for her.
 #
 <exit>
 :376
 <music 15>
 <background "bg011a0.iph" 11>
-　セリスは予選を突破できなかった。
+Celes failed to pass the qualifying rounds.
 #
 <exit>
 \x78

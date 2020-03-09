@@ -14,128 +14,136 @@
 \x97 "ra0200.box"  2 \x78
 :67
 <exit>
-<name "血気盛んな戦士" "!RB0111">
-「この大会で、俺の名前を広めるんじゃい」
+<name "Passionate Fighter" "!RB0111">
+"This tournament will make me famous."
 #
-<name "余裕のある魔法使い" "!TB0049">
-「へっ、勝ってから良いな」
+<name "Cocky Wizard" "!TB0049">
+"Oh? Be nice if you won."
 #
-<name "出場者" "!QB0114">
-「いくぞ」
+<name "Competitor" "!QB0114">
+"Let's go."
 #
-<name "不敵な出場者" "!RB0112">
-「ふっ」
+<name "Fearless Man" "!RB0112">
+"Hmph."
 #
-<name "出場者" "!SB0107">
-「むっ……貴様は、クルーネ帝国の赤い兎！」
+<name "Competitor" "!SB0107">
+"Hmm... You're the red rabbit of Krun!"
 #
-<name "驚く出場者" "!UA0088">
-「お、俺を知ってるのか！
-　貴様、マニアだな！」
+<name "Surprised Man" "!UA0088">
+"Oh, you know me?
+ You're some kind of fan!"
 #
-<name "剣士" "!RB0113">
-「優しくしてやるぜ」
+<name "Swordsman" "!RB0113">
+"I'll be gentle."
 #
-<name "魔法使い" "!HA0048">
-「遠慮するわ」
+<name "Wizard" "!HA0048">
+"No thank you."
 #
-<name "戦士" "!UA0089">
-「ふう、女だからって手加減はしないぜ」
+<name "Warrior" "!UA0089">
+"Hmph.
+ I won't go easy on you just because you're a
+ woman."
 #
-<name "魔法使い" "!MA0067">
-「そんな事を言うと、負けた時の言い訳ができない
-　わよ」
+<name "Wizard" "!MA0067">
+"If you're going to say that, you better not make
+ any excuses for losing."
 #
-<name "魔法使い" "!GA0069">
-「手加減しないでね」
+<name "Wizard" "!GA0069">
+"Don't hold back, okay?"
 #
-<name "軽戦士" "!TB0050">
-「良い度胸だ」
+<name "Nimble Warrior" "!TB0050">
+"You're brave."
 #
-<name "魔法使い" "!SB0108">
-「ふう……予選は玉と石が混じるか」
+<name "Wizard" "!SB0108">
+"Oh? So there's chaff and wheat in the 
+ qualifiers."
 #
-<name "戦士" "!UA0090">
-「東方では、玉石混淆と言うんだ」
+<name "Warrior" "!UA0090">
+"In the east, they say there's always some
+ pebbles mixed in with gems."
 #
-<name "魔法使い" "!SB0109">
-「へー……アンタは玉かい？」
+<name "Wizard" "!SB0109">
+"Oh? And you're a gem?"
 #
-<name "戦士" "!UA0091">
-「試してみな」
+<name "Warrior" "!UA0091">
+"Try me and find out."
 #
-<name "理論的な魔法使い" "!TB0051">
-「この勝負、俺が貰った！
-　その理由を説明してやろう」
+<name "Analytical Wizard" "!TB0051">
+"I will win this match!
+ Let me explain how."
 #
-<name "冷静な魔法使い" "!IA0014">
-「別に良いです」
+<name "Calm Wizard" "!IA0014">
+"No, that's okay."
 #
-<name "余韻に浸る戦士" "!SB0110">
-「よーし、一回戦突破！」
+<name "Victorious Warrior" "!SB0110">
+"All right!
+ I won the first round!"
 #
-<name "待ち構える次の相手" "!UA0092">
-「ふふふ、その程度では」
+<name "Waiting Opponent" "!UA0092">
+"Heheheh.
+ Is that all you've got?"
 #
-<name "構える魔法使い" "!QB0115">
-「へいへいへい！」
+<name "Preparing Wizard" "!QB0115">
+"Yah yah yah!"
 #
-<name "問い掛ける魔法使い" "!TB0052">
-「なんすか？
-　それ？」
+<name "Confused Wizard" "!TB0052">
+"What was that?"
 #
-<name "構える魔法使い" "!QB0116">
-「威嚇……」
+<name "Preparing Wizard" "!QB0116">
+"A threat..."
 #
-<name "怯える出場者" "!RB0114">
-「アイツとは当たりたくないなぁ」
+<name "Intimidated Man" "!RB0114">
+"I kind of don't want to hit him."
 #
-<name "諦める出場者" "!UA0093">
-「ん？
-　ああ、どうみても本選進出確実だもんな」
+<name "Resigned Man" "!UA0093">
+"Hm?
+ Oh, you're definitely going to the finals."
 #
-<name "怯える出場者" "!RB0115">
-「なんとか、ヤツは避けて予選をクリアしたいもん
-　だ」
+<name "Intimidated Man" "!RB0115">
+"For some reason, I want to avoid that guy and
+ just make it through the qualifiers."
 #
-<name "諦める出場者" "!UA0094">
-「しかし、本選では逃げられないぞ」
+<name "Resigned Man" "!UA0094">
+"But you can't run away in the finals."
 #
-<name "怯える出場者" "!RB0116">
-「予選での死闘を避けたいだけだ。
-　本選なら、死ぬ気でやれる」
+<name "Intimidated Man" "!RB0116">
+"I just want to avoid a dangerous fight in the
+ qualifiers.
+ I'll pull it together in the finals."
 #
-<name "勝った出場者" "!GA0070">
-「よしよし、順調だな。
-　次は誰かな？」
+<name "Victorious Man" "!GA0070">
+"All right. Looking good.
+ Who's next?"
 #
-<name "セコンド的な人" "!HA0053">
-「んー、アイツだ。
-　接近戦に持ち込めば、アンタでも勝てる」
+<name "Assistant" "!HA0053">
+"Hmm, them?
+ If you get in close, you can win."
 #
-<name "勝った出場者" "!GA0071">
-「了解。
-　サクサクっと勝ってくる」
+<name "Victorious Man" "!GA0071">
+"Roger.
+ Let's make this quick then."
 #
-<name "笑う戦士" "!IA0015">
-「ふははははは……
-　私は北海のキツネと呼ばれた戦士！」
+<name "Laughing Warrior" "!IA0015">
+"Hahahahaha...
+ I'm the warrior known as the Fox of the Northern
+ Sea!"
 #
-<name "笑う戦士" "!IA0016">
-「怖くなければ、かかってこい！」
+<name "Laughing Warrior" "!IA0016">
+"If you're not scared, come and face me!"
 #
-<name "高笑いする戦士" "!JA0022">
-「ふはははははは……
-　私は南海のタヌキと呼ばれた戦士！」
+<name "Boisterous Soldier" "!JA0022">
+"Hahahahahaha...
+ I'm the warrior known as the Tanuki of the
+ Southern Sea!"
 #
-<name "高笑いする戦士" "!JA0023">
-「できれば優しくして欲しい！
-　痛いのは嫌なので！」
+<name "Boisterous Soldier" "!JA0023">
+"Please go easy on me!
+ I hate pain!"
 #
-<name "余裕のある参加者" "!KA0005">
-「予選なんか、軽く終らせるか」
+<name "Cocky Man" "!KA0005">
+"Shall we end these qualifiers quickly?"
 #
-<name "不敵な参加者" "!MA0068">
-「同感ね」
+<name "Fearless Man" "!MA0068">
+"Agreed."
 #
 \x78
