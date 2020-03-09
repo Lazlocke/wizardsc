@@ -1,0 +1,763 @@
+<music 10>
+\x4C "bg001a0.iph"  11 \x2B
+<name "Lazlocke">
+"Let's go to the hot springs!"
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4823">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 4 11>
+<sprite "ta04a10.iph" 6 3 11>
+<name "Soshiette" "!DA0732">
+"Understood."
+#
+<removesprite -1 11>
+<sprite "ta03a06.iph" 4 4 11>
+<name "Viola" "!BA0546">
+"Yes."
+#
+<removesprite -1 11>
+<sprite "ta03a06.iph" 2 4 11>
+<sprite "ta02a09.iph" 6 5 11>
+<name "Elle" "!CA0492">
+"Everything's ready."
+#
+<removesprite -1 11>
+<sprite "ta05a12.iph" 4 4 11>
+<name "Rune" "!EA0186">
+"Sounds fun.ÅÙ"
+#
+<name "Lazlocke">
+"...This became a crowd."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4824">
+"It said up to three people, but Elle got one
+ too."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Elle" "!CA0493">
+"So up to six is fine."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"I understand that. Celes and Elle are obviously
+ in. Same goes for their masters, Viola and me."
+#
+<name "Lazlocke">
+"Soshiette is fine too since she's helped out a
+ lot. No, please join us.
+ Don't stare at my neck like that."
+#
+<name "Lazlocke">
+"But! That leaves one other person!
+ The one person who hasn't done anythgaah!"
+#
+<removesprite -1 11>
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA4825">
+"M-Master!"
+#
+<removesprite -1 11>
+<sprite "ta01a10.iph" 2 5 11>
+<sprite "ta02a07.iph" 6 4 11>
+<name "Elle" "!CA0494">
+"Wow...
+ I've never seen someone go flying like that."
+#
+<removesprite -1 11>
+<sprite "ta05a13.iph" 4 4 11>
+<name "Rune" "!EA0187">
+"Come on. Don't worry about the little stuff.
+ Let's go!"
+#
+<removesprite -1 11>
+Nobody voted against it.
+#
+<sprite "ta03a36.iph" 4 4 11>
+<name "Viola" "!BA0547">
+"I wouldn't think she'd want to participate in
+ something as mundane as this."
+#
+<removesprite -1 11>
+<sprite "ta03a36.iph" 2 5 11>
+<sprite "ta04a87.iph" 6 4 11>
+<name "Soshiette" "!DA0733">
+"There's a lot of work to do, and she's fed up
+ with things...
+ Forgive me."
+#
+<removesprite -1 11>
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA4826">
+"Um, he's not moving at all..."
+#
+<removesprite -1 11>
+<music 16>
+\x4C "bg022a0.iph"  11 \x2B
+By the time I regained consciousness, we were at
+the inn.
+#
+<removesprite -1 11>
+<sprite "ta07b11.iph" 4 4 11>
+<name "Judgeman" "!FA0107">
+"Welcome to the Aoiya Hot Springs!"
+#
+<removesprite -1 11>
+<sprite "ta07b11.iph" 2 4 11>
+<sprite "ta01a10.iph" 6 5 11>
+<name "Celes" "!AA4827">
+"Judgeman?"
+#
+<removesprite 6 11>
+<sprite "ta02a32.iph" 6 5 11>
+<name "Elle" "!CA0496">
+"Um, what are you doing here?"
+#
+<sprite "ta07b05.iph" 2 4 12>
+<name "Judgeman" "!FA0108">
+"Working here is also part of my job as Judgeman."
+#
+<removesprite -1 11>
+<sprite "ta07b04.iph" 4 4 11>
+<name "Judgeman" "!FA0109">
+"Oops, oh no.
+ Miss Celes, Miss Elle, and guests.
+ We've been waiting for you."
+#
+<sprite "ta07b05.iph" 4 4 12>
+<name "Judgeman" "!FA0110">
+"I am Judgeman, in charge of customer service
+ here at the Aoiya Hot Springs.
+ I hope you enjoy your stay."
+#
+<removesprite -1 11>
+<sprite "ta01a36.iph" 4 4 11>
+<name "Celes" "!AA4828">
+"U-Um..."
+#
+<removesprite -1 11>
+<sprite "ta02a27.iph" 4 4 11>
+<name "Elle" "!CA0497">
+"Master..."
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 4 11>
+<sprite "ta02a27.iph" 6 5 11>
+<name "Viola" "!BA0548">
+"Who cares who the help is?"
+#
+<removesprite -1 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0734">
+"Be happy that you already know each other."
+#
+<removesprite -1 11>
+<sprite "ta04a00.iph" 2 4 11>
+<sprite "ta05a07.iph" 6 5 11>
+<name "Rune" "!EA0189">
+"This should be fun."
+#
+<removesprite -1 11>
+<sprite "ta07b11.iph" 4 4 11>
+<name "Judgeman" "!FA0111">
+"I hope you do enjoy yourselves.
+ Now then, let me show you right to your rooms."
+#
+<removesprite -1 11>
+<music 17>
+\x4C "ev084a0.iph"  10 \x2B
+As the sun sets...
+#
+We have a luxurious dinner in the banquet hall.
+#
+<name "Judgeman" "!FA0112">
+"Now, let us begin the feast!"
+#
+<name "Celes" "!AA4829">
+"Yay!"
+#
+<name "Judgeman" "!FA0113">
+"And, cheers!"
+#
+<name "Elle" "!CA0498">
+"Cheers!"
+#
+<name "Soshiette" "!DA0735">
+"*glug* *glug* *glug*"
+#
+<name "Rune" "!EA0190">
+"*glug*
+ Ahhhh..."
+#
+<name "Judgeman" "!FA0114">
+"Ooh!
+ Are you okay, President?"
+#
+<name "Soshiette" "!DA0736">
+"This sake's got a kick."
+#
+<name "Judgeman" "!FA0115">
+"Please be careful if you can't handle your
+ liquor..."
+#
+<name "Rune" "!EA0191">
+"I-It's... party time..."
+#
+<name "Soshiette" "!DA0737">
+"Another glass."
+#
+<name "Rune" "!EA0192">
+"Thank you.
+ *glug*
+ Aaahhh..."
+#
+<name "Judgeman" "!FA0116">
+"U-Umm..."
+#
+<name "Celes" "!AA4830">
+"Ahahahahaha!"
+#
+<name "Judgeman" "!FA0117">
+"Ahem.
+ Pull yourself together...
+ Ooh! Is it dance time in the middle of the hall?
+ Let us see your magnificent dance, Miss Celes!"
+#
+<name "Celes" "!AA4831">
+"Yay!ÅÙ Yay!ÅÙ"
+#
+<name "Lazlocke">
+"She's already wasted..."
+#
+<name "Viola" "!BA0549">
+"Mm... Nice dancing.
+ ...Me too."
+#
+<name "Elle" "!CA0499">
+"I won't let you upstage me!
+ Me too!"
+#
+<name "Judgeman" "!FA0118">
+"A challenger steps in!
+ Miss Viola and Miss Elle have taken the stage
+ from Miss Celes!
+ The trio's dance unfolds!"
+#
+<name "Judgeman" "!FA0119">
+"I never dreamed I'd see such a dazzling sight!"
+#
+<name "Lazlocke">
+"It's certainly a dance out of some kind of
+ dream.
+ Ooh, this food is exquisite."
+#
+I enjoy the food all by myself.
+#
+<name "Soshiette" "!DA0738">
+"*glug* *glug* *glug* *glug* *glug*"
+#
+<name "Rune" "!EA0193">
+"Ooohhh..."
+#
+I could join the drinkers, but if I try to keep
+up with Soshiette, I'll end up unconscious too.
+#
+<name "Celes" "!AA4832">
+"Yay!ÅÙ Yay!ÅÙ Yay!ÅÙ"
+#
+<name "Viola" "!BA0550">
+"Yah!ÅÙ Ha!ÅÙ Ho!ÅÙ"
+#
+<name "Elle" "!CA0500">
+"Lalaalala!ÅÙ Lalalaalaa!ÅÙ"
+#
+I'm not sure I want to be a part of the dance
+club over there either.
+#
+<name "Lazlocke">
+"This dish is also pretty good..."
+#
+So I'll concentrate on the food.
+#
+The food won't cause any problems, for me or for
+them.
+#
+And it's delicious.
+#
+As Judgeman helps up the passed-out Rune, he
+stops by my side and leans in to whisper.
+#
+<name "Lazlocke">
+"What's up?"
+#
+<name "Judgeman" "!FA0120">
+"Is everyone enjoying themselves?"
+#
+<name "Lazlocke">
+"Huh?
+ I guess so."
+#
+<name "Judgeman" "!FA0121">
+"I see.
+ Good to hear."
+#
+<name "Lazlocke">
+"Did you even need to ask that?"
+#
+<name "Judgeman" "!FA0122">
+"Oh, um...
+ To me, it looks like everyone's off in their
+ own worlds."
+#
+<name "Judgeman" "!FA0123">
+"Setting aside Miss Rune, who has already passed
+ out from her liquor, Soshiette is just downing
+ glass after glass."
+#
+<name "Judgeman" "!FA0124">
+"Miss Celes, Elle, and Viola all seem like they're
+ dancing happily, but none of them are actually
+ dancing with each other, or even to the same
+ rhythm in the slightest."
+#
+<name "Lazlocke">
+"Wizards aren't really a cooperative bunch."
+#
+<name "Judgeman" "!FA0125">
+"You came to the hot springs together, didn't
+ you?"
+#
+<name "Lazlocke">
+"It is what it is.
+ I'd love to get the recipe for this."
+#
+<name "Judgeman" "!FA0126">
+"I'll ask the chef about it later."
+#
+<name "Lazlocke">
+"Thanks. 
+ If you want the three up there to get in sync,
+ you could try singing."
+#
+<name "Judgeman" "!FA0127">
+"Indeed!"
+#
+Judgeman accepts my idea and immediately jumps to
+it.
+#
+Guess he's got a lot on his mind too.
+#
+Well, it is his job to take care of us.
+#
+<name "Judgeman" "!FA0128">
+"Let's sing a song.
+ All of us together!"
+#
+<name "Judgeman" "!FA0129">
+"The tune shall be Demon Spear To Your Heart!ÅÙ"
+#
+<name "Celes" "!AA4833">
+"To you heart, I love you!ÅÙ"
+#
+<name "Viola" "!BA0551">
+"I'll thrust that demon spear!ÅÙ"
+#
+<name "Elle" "!CA0501">
+"Thrust it without mercy!ÅÙ"
+#
+...
+#
+At least they're all singing the same thing.
+#
+Yeah.
+#
+All together.
+#
+<name "Soshiette" "!DA0739">
+"*glug* *glug* *glug*
+ More please."
+#
+<name "Rune" "!EA0194">
+"Zzzz...
+ I can keep drinking!"
+#
+<name "Rune" "!EA0195">
+"Ah!
+ What am I doing!?"
+#
+<name "Rune" "!EA0196">
+"Sleeping through this precious time...
+ What a mistake!
+ But it's okay!
+ I can still fix it!"
+#
+<name "Rune" "!EA0197">
+"To fix it..."
+#
+She thinks for a moment.
+#
+And apparently comes to a conclusion.
+#
+<name "Rune" "!EA0198">
+"A talent show!
+ Yes, a party should have a talent show!
+ Let's all give it our best!"
+#
+She's looking right at me.
+#
+I'm being called out.
+#
+Fine, then.
+#
+I stand up with my glass in hand.
+#
+<name "Lazlocke">
+"First up, Lazlocke.
+ My trick is putting my master to sleep."
+#
+<name "Rune" "!EA0199">
+"Huh?"
+#
+<background "ev085a0.iph" 10>
+<name "Rune" "!EA0200">
+"Now I'm wide awake!ÅÙ"
+#
+<name "Soshiette" "!DA0740">
+"Seriously.
+ Feel like like liquor's sweating right out of
+ me."
+#
+<name "Celes" "!AA4834">
+"I heard you weren't supposed to go in after
+ drinking..."
+#
+<name "Soshiette" "!DA0741">
+"Be a good girl and don't be like me."
+#
+<name "Celes" "!AA4835">
+"Hahaha..."
+#
+<name "Elle" "!CA0502">
+"This bath has such a nice view."
+#
+<name "Viola" "!BA0552">
+"It's not a bath.
+ It's a hot spring."
+#
+<name "Elle" "!CA0503">
+"I guess.
+ Grr..."
+#
+<name "Viola" "!BA0553">
+"What?"
+#
+<name "Elle" "!CA0504">
+"Oh, um..."
+#
+<name "Soshiette" "!DA0742">
+"Why are you coming over to me?"
+#
+<name "Elle" "!CA0505">
+"D-Don't worry about it."
+#
+<name "Soshiette" "!DA0743">
+"If you came to me because of the size of my
+ chest, I'll kill you."
+#
+<name "Rune" "!EA0201">
+"Now, now. A woman isn't defined by the size of
+ her chest."
+#
+<name "Viola" "!BA0554">
+"That's right."
+#
+<name "Elle" "!CA0507">
+"Grr...
+ That's what the gifted would say."
+#
+<name "Soshiette" "!DA0744">
+"Seriously..."
+#
+<name "Celes" "!AA4836">
+"Hahaha..."
+#
+<name "Elle" "!CA0508">
+"*stare*"
+#
+<name "Soshiette" "!DA0745">
+"*stare*"
+#
+<name "Celes" "!AA4837">
+"W-What?"
+#
+<name "Rune" "!EA0203">
+"Celes is on our side, huh?"
+#
+<name "Viola" "!BA0555">
+"She is."
+#
+<name "Elle" "!CA0509">
+"Stupid stealth boob monster..."
+#
+<name "Celes" "!AA4838">
+"E-Elle, that's so mean..."
+#
+I stretch out and relax in my room while the girls
+enjoy the hot spring.
+#
+Apparently this hot spring has mixed bathing, but
+I'm definitely not up to stepping into that lion's
+den.
+#
+I mean, it's not that I'm shy about being naked,
+or seeing any of them naked.
+#
+But if I was there, I definitely wouldn't be in
+control of anything.
+#
+I'd definitely end up their plaything.
+#
+Worst case, I'd be at their complete mercy.
+#
+I want to enjoy the hot spring.
+#
+They're trouble that I don't need to deal with.
+#
+The relaxed air of Aoiya is pleasant enough for
+me.
+#
+Just relax.
+#
+Yeah, nice and relaxed.
+#
+<name "Celes" "!AA4839">
+"Master!
+ The head of the Guild wants you!"
+#
+<name "Lazlocke">
+"Noooooooooo!!!!
+ And don't barge in here naked!"
+#
+<name "Celes" "!AA4840">
+"But the hot spring is right outside your window."
+#
+<name "Lazlocke">
+"Whoa!
+ It is!
+ ...So you can peep as much as you want?"
+#
+<name "Celes" "!AA4841">
+"No, Viola blew up the fence that was there 
+ before."
+#
+<name "Lazlocke">
+"Aagh!"
+#
+<name "Celes" "!AA4842">
+"She said she'd attack if you didn't come right
+ away."
+#
+<name "Lazlocke">
+"...Celes."
+#
+<name "Celes" "!AA4843">
+"Yes?"
+#
+<name "Lazlocke">
+"I propose a preemptive strike against those four.
+ Ready to attack?"
+#
+<name "Celes" "!AA4844">
+"Hahaha...
+ I don't think we can win.
+ I've been drinking."
+#
+<name "Lazlocke">
+"They've been drinking even more!
+ Come on! No guts, no glory!"
+#
+<name "Viola" "!BA0556">
+"Oh?"
+#
+<name "Elle" "!CA0512">
+"I see..."
+#
+<name "Soshiette" "!DA0746">
+"An ambush?
+ Not a bad strategy."
+#
+<name "Lazlocke">
+"Aaaaaaahhhhhhh!!!"
+#
+I ended up going head first into the hot springs.
+#
+I don't remember a single thing after that.
+#
+<music 16>
+\x4C "bg022b0.iph"  10 
+<background "bg022a0.iph" 10>
+<name "Lazlocke">
+"It's morning?
+ It all passed in an instant..."
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4845">
+"Time flies when you're having fun."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA0747">
+"The hot springs ping pong was thrilling."
+#
+<removesprite -1 11>
+<sprite "ta03a06.iph" 4 4 11>
+<name "Viola" "!BA0558">
+"It was a good game."
+#
+<removesprite -1 11>
+<sprite "ta03a06.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Elle" "!CA0513">
+"The talent show before bed was fun too."
+#
+<removesprite -1 11>
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA4846">
+"Wow, I never thought I'd see Viola's
+ technique..."
+#
+<removesprite -1 11>
+<sprite "ta03a38.iph" 2 4 11>
+<sprite "ta01a92.iph" 6 5 11>
+<name "Viola" "!BA0559">
+"It was no match for Soshiette's juggling."
+#
+<removesprite -1 11>
+<sprite "ta05a07.iph" 4 4 11>
+<name "Rune" "!EA0204">
+"But in the end, I'm glad we came to a hot spring.
+ My skin's positively radiant."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4847">
+"Yeah."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta02a10.iph" 6 4 11>
+<name "Elle" "!CA0514">
+"I heard hot springs were good for your
+ complexion, but I didn't think it'd work this
+ well."
+#
+<removesprite -1 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0748">
+"It's worth magical study."
+#
+<name "Lazlocke">
+"I know, right?
+ You got a sample, Viola?"
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0560">
+"Already stored away."
+#
+<removesprite -1 11>
+<sprite "ta07b13.iph" 4 4 11>
+<name "Judgeman" "!FA0130">
+"Wizards..."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4848">
+"Oh, thank you for your hospitality."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Elle" "!CA0515">
+"I hope we get to come back again."
+#
+<removesprite -1 11>
+<sprite "ta07b16.iph" 4 4 11>
+<name "Judgeman" "!FA0131">
+"It was nothing. I hardly did anything.
+ Besides, you were all having such fun in your
+ rooms.
+ Hahahaha!"
+#
+<removesprite -1 11>
+<sprite "ta07b16.iph" 2 4 11>
+<sprite "ta04a22.iph" 6 5 11>
+<name "Soshiette" "!DA0749">
+"I'm very sorry for the trouble.
+ Send the bill for the repairs to the Guild."
+#
+<sprite "ta07b13.iph" 2 4 12>
+<name "Judgeman" "!FA0132">
+"I'll do just that.
+ We look forward to your next visit."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4849">
+"Okay."
+#
+<removesprite -1 11>
+And so, our trip to the hot springs ends.
+#
+A lot happened, but it wasn't a bad trip.
+#
+I hope we have a chance to come back.
+#
+...With people who know how to relax.
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4854">
+"If we want to come back here, do I have to win
+ the Bancaster tournament?"
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a00.iph" 6 4 11>
+<name "Elle" "!CA0516">
+"Couldn't you just pay for it?"
+#
+<sprite "ta01a36.iph" 2 5 12>
+<name "Celes" "!AA4851">
+"I mean... if we went at our own expense, it'd
+ be..."
+#
+<sprite "ta02a32.iph" 6 4 12>
+<name "Elle" "!CA0517">
+"Whoa!
+ T-This was an expensive trip..."
+#
+<sprite "ta01a42.iph" 2 5 12>
+<name "Celes" "!AA4852">
+"How much did the repairs cost?"
+#
+<sprite "ta02a37.iph" 6 4 12>
+<name "Elle" "!CA0518">
+"It won't bankrupt the Guild though."
+#
+<removesprite -1 11>
+It didn't, but the Guild accountants had Rune at
+their mercy for months after that.
+#
+This is why you don't cause trouble when you're
+on vacation.
+#
+Mind your manners.
+#
+\x0A\x44\x00\xA2\x84\x01\x78\x78

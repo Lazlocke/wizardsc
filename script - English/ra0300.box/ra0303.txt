@@ -1,0 +1,33 @@
+\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :191: 
+<name "Reno" "!PA0063">
+"You're not bad...
+ I'll root for you in my own way..."
+#
+<name "Celes" "!AA6677">
+"T-Thank you very much."
+#
+<name "Reno" "!PA0060">
+"But let me say one thing."
+#
+<name "Celes" "!AA6678">
+"Yes?"
+#
+<name "Reno" "!PA0061">
+"You should get rid of the hat."
+#
+<name "Celes" "!AA6679">
+"Huh?"
+#
+<name "Reno" "!PA0062">
+"It's wrong to hide how short you are with a hat!"
+#
+:191
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x15 :1E5: 
+<name "Reno" "!PA0064">
+"Here I come!"
+#
+<name "Celes" "!AA6680">
+"Please do!"
+#
+:1E5
+\x78\x78

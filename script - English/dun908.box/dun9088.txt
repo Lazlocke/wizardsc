@@ -1,0 +1,98 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :DE: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :DE: \x1A\x01\x07\x04\x0A\x3C\x84\x00\x01\x0E :57: \x1A\x01\x0A\x02\x01\x9A 1 \x01\x0E :57: \x16 :112: \x0A\x04\x0A\x3C\x84\x01\x15 :111: 
+:57
+\x1A\x01\x07\x04\x0A\x3D\x84\x00\x01\x0E :9C: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x0E :9C: \x1A\x01\x0A\x02\x00\xFE 21 \x01\x15 :9C: \x16 :1D0: \x0A\x04\x0A\x3D\x84\x01\x15 :111: 
+:9C
+\x1A\x01\x07\x04\x0A\x3E\x84\x00\x01\x0E :DE: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :DE: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :DE: \x16 :264: \x0A\x04\x0A\x3E\x84\x01\x15 :111: 
+:DE
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :111: \x1A\x01\x07\x04\x0A\x3F\x84\x00\x01\x0E :111: \x16 :4F5: \x0A\x04\x0A\x3F\x84\x01\x15 :111: 
+:111
+\x78
+:112
+<music 10>
+\x2B
+<background "bg002a0.iph" 11>
+<sprite "ta04a22.iph" 4 4 11>
+<name "ソシエット" "!DA0597">
+「まだまだですね」
+#
+<name "ラズロック">
+「そうだな……
+　ま、早々に登れるとは思っていないさ」
+#
+<removesprite -1 11>
+<exit>
+:1D0
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "ソシエット" "!DA0598">
+「惜しかったですね」
+#
+<name "ラズロック">
+「だな……」
+#
+<removesprite -1 11>
+<exit>
+:264
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a00.iph" 4 4 11>
+<name "ヴィオラ" "!BA0325">
+「駄目だったの？」
+#
+<name "ラズロック">
+「ああ……
+　どうしたんだ？」
+#
+<sprite "ta03a32.iph" 4 4 12>
+<name "ヴィオラ" "!BA0326">
+「んー、魔法の塔を教えたの私だから、責任を……」
+#
+<name "ラズロック">
+「気にするな。
+　いきなり登れたら、修行にならないだろ」
+#
+<sprite "ta03a34.iph" 4 4 12>
+<name "ヴィオラ" "!BA0327">
+「そうだろうけど……」
+#
+<name "ラズロック">
+「あんまり心配すると、セリスが怒るから止めてく
+　れ」
+#
+<sprite "ta03a31.iph" 4 4 12>
+<name "ヴィオラ" "!BA0328">
+「そうなの？」
+#
+<name "ラズロック">
+「ああ、見かけによらず負けず嫌いなんだ。
+　お前が応援していたと伝えておくよ」
+#
+<removesprite -1 11>
+<exit>
+:4F5
+\x41 10 
+<background "bg002a0.iph" 11>
+<sprite "ta01c09.iph" 4 4 11>
+<name "セリス" "!AA3358">
+「師匠、魔法の塔！
+　登ってきました」
+#
+<name "ラズロック">
+「よくやった」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3359">
+「はい」
+#
+<name "ラズロック">
+「しかし、あの塔に凶悪な魔法使いは居なかった事
+　を忘れないように」
+#
+<sprite "ta01c17.iph" 4 4 12>
+<name "セリス" "!AA3360">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+\x78

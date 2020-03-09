@@ -1,0 +1,905 @@
+\x1A\x01\x07\x04\x08\x98\x84\x00\x01\x0E :27: \x16 :2AD: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x08\x98\x84\x01\x15 :2AC: 
+:27
+\x1A\x01\x07\x04\x08\x99\x84\x00\x01\x0E :86: \xEF "白ヘビ様00" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :86: \xB8\x22\x00\x09\x1A\x01\x0A\x22\x00\x09 15 \x01\x15 :86: \x0A\x04\x00\xBB\x84\x01\x16 :4D6: \x0A\x04\x08\x99\x84\x01\x15 :2AC: 
+:86
+\x1A\x01\x07\x04\x08\x9A\x84\x00\x01\x0E :E5: \xEF "冥土さん00" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :E5: \xB8\x22\x00\x09\x1A\x01\x0A\x22\x00\x09 20 \x01\x15 :E5: \x0A\x04\x00\xBB\x84\x01\x16 :13A1: \x0A\x04\x08\x9A\x84\x01\x15 :2AC: 
+:E5
+\x1A\x01\x07\x04\x08\x9B\x84\x00\x01\x0E :144: \xEF "トウフ君00" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :144: \xB8\x22\x00\x09\x1A\x01\x0A\x22\x00\x09 25 \x01\x15 :144: \x0A\x04\x00\xBB\x84\x01\x16 :224D: \x0A\x04\x08\x9B\x84\x01\x15 :2AC: 
+:144
+\x1A\x01\x07\x04\x08\x9C\x84\x00\x01\x0E :1A7: \xEF "ホーンちゃん00" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :1A7: \xB8\x22\x00\x09\x1A\x01\x0A\x22\x00\x09 30 \x01\x15 :1A7: \x0A\x04\x00\xBB\x84\x01\x16 :2B89: \x0A\x04\x08\x9C\x84\x01\x15 :2AC: 
+:1A7
+\x1A\x01\x07\x04\x08\x9D\x84\x00\x01\x0E :206: \xEF "レイリン00" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :206: \xB8\x22\x00\x09\x1A\x01\x0A\x22\x00\x09 35 \x01\x15 :206: \x0A\x04\x00\xBB\x84\x01\x16 :31BA: \x0A\x04\x08\x9D\x84\x01\x15 :2AC: 
+:206
+\x1A\x01\x07\x04\x08\x9E\x84\x00\x01\x0E :2AC: \x1A\x01\x07\x04\x08\x99\x84\x01\x01\x0E :2AC: \x1A\x01\x07\x04\x08\x9A\x84\x01\x01\x0E :2AC: \x1A\x01\x07\x04\x08\x9B\x84\x01\x01\x0E :2AC: \x1A\x01\x07\x04\x08\x9C\x84\x01\x01\x0E :2AC: \x1A\x01\x07\x04\x08\x9D\x84\x01\x01\x0E :2AC: \xEF "銀狐00" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :2AC: \xB8\x22\x00\x09\x1A\x01\x0A\x22\x00\x09 40 \x01\x15 :2AC: \x0A\x04\x00\xBB\x84\x01\x16 :3915: \x0A\x04\x08\x9E\x84\x01\x15 :2AC: 
+:2AC
+\x78
+:2AD
+<music 10>
+<background "bg002a0.iph" 11>
+Demons lead demonic lives.
+#
+Some wizards observe them as a hobby.
+#
+Whether or not that's a good thing, I assure you
+that I'm not that interested in it.
+#
+But there are jobs for helping the people who
+are.
+#
+They set up watchers where demons are likely to
+be and project the images there into a crystal
+ball.
+#
+Obviously, it's rare to see anything useful.
+#
+So the work is going through all information and
+putting together what is.
+#
+It's an obnoxious job usually called natural demon 
+surveying, but there are a lot of people obsessed
+with it.
+#
+And since I'm poor, I have to take whatever jobs
+I can get.
+#
+<exit>
+:4D6
+<music 8>
+<background "bg024a0.iph" 11>
+<name "Silver Fox" "!HC0001">
+"Heheheh..."
+#
+<name "White Snake" "!ID0000">
+"W-Who's there?
+ And where am I?"
+#
+<name "Silver Fox" "!HC0002">
+"I am the Silver Fox.
+ This is just a convenient cave, I suppose."
+#
+<name "White Snake" "!ID0001">
+"Why have you captured me?"
+#
+<name "Silver Fox" "!HC0003">
+"Why?
+ Isn't it obvious?"
+#
+<name "White Snake" "!ID0002">
+"Huh?
+ Huh?"
+#
+<name "Silver Fox" "!HC0004">
+"Because I love little girls.
+ Heheheh...
+ Entertain me."
+#
+<name "White Snake" "!ID0003">
+"Huh?"
+#
+<music 39>
+<background "ev114a0.iph" 10>
+The tails growing from her back turn into 
+tentacles and descend on the girl.
+#
+A moment later, she's wrapped in dozens of
+tentacles.
+#
+<name "White Snake" "!ID0004">
+"Ah! Aah! Aah! Aah!"
+#
+She fights off a few of them by summoning snakes,
+but they're quickly thrown away from her.
+#
+She's wrapped up and bound in seconds.
+#
+<name "Silver Fox" "!HC0005">
+"Now... 
+ What should I do with this little white snake?"
+#
+<name "White Snake" "!ID0005">
+"Ah! D-Don't!
+ Don't touch me!"
+#
+<name "Silver Fox" "!HC0006">
+"If you have a request, that's not how you ask."
+#
+<name "White Snake" "!ID0006">
+"P-Please..."
+#
+<name "Silver Fox" "!HC0007">
+"Good girl.
+ Well, you don't look tasty enough to eat, so I
+ won't be doing that."
+#
+<name "White Snake" "!ID0007">
+"Ah..."
+#
+<name "Silver Fox" "!HC0008">
+"But... you do look delicious."
+#
+She brandishes her tentacle tails.
+#
+<name "White Snake" "!ID0008">
+"Ah! Ah! No!
+ Ah! What are... ah!"
+#
+<name "Silver Fox" "!HC0009">
+"Heheheh.
+ Give me a good cry."
+#
+The tentacles wrapped around her start to move 
+and play with her body.
+#
+<background "ev114a1.iph" 10>
+<name "White Snake" "!ID0009">
+"Ah! Aaah! Ah! Aaaaahhh!"
+#
+<name "Silver Fox" "!HC0010">
+"Aaah. That's nice.
+ Mmm... Yes, that's the way..."
+#
+Two of her tentacles slide inside the girl.
+#
+<name "White Snake" "!ID0010">
+"No! Ah!
+ No! Nooooooo!!!"
+#
+They thrash and rage inside her.
+#
+<name "White Snake" "!ID0011">
+"Aaaagh! Ah! Aaaaahhhh!"
+#
+The tentacles are merciless.
+#
+They crawl all over her breasts, stomach, mouth,
+arms, legs, pussy, and ass.
+#
+<name "White Snake" "!ID0012">
+"Ah! Ah! Aah! Ahh! Agh! Aggh!
+ Aagh! Ah! Aaaah!"
+#
+<name "Silver Fox" "!HC0011">
+"Heheh...
+ Starting to feel good, is it?"
+#
+<name "White Snake" "!ID0013">
+"Mmmgh! Mmgh! Mmph! Aaah!"
+#
+<name "Silver Fox" "!HC0013">
+"Does it feel too good to answer?
+ Then don't you worry..."
+#
+She slides her tentacles deeper inside the girl.
+#
+<name "White Snake" "!ID0014">
+"Mmmmmgh!"
+#
+<name "Silver Fox" "!HC0014">
+"Heheh... Your stomach's swelling so much...
+ You seem to be enjoying it."
+#
+<name "White Snake" "!ID0015">
+"Mmmgh!
+ Mmmmmgggghhhhh!"
+#
+<name "Silver Fox" "!HC0015">
+"Aah, wonderful.
+ That's the look.
+ I'm enjoying this too..."
+#
+<name "White Snake" "!ID0016">
+"Mmgh! Ah! Aah! Ahh!"
+#
+<name "Silver Fox" "!HC0016">
+"Mm... Heheheh...
+ Ahh...mmm..."
+#
+The tentacles inside her pussy thrash harder and
+faster than before.
+#
+They keep relentlessly stimulating the girl 
+until...
+#
+<background "ev114a2.iph" 10>
+<name "White Snake" "!ID0017">
+"Aah! Ah! Ah!
+ Aaaaaaaaaahhhhhhh!!!"
+#
+Her whole body shakes and she comes.
+#
+<name "White Snake" "!ID0018">
+"Ah...aah..."
+#
+<name "Silver Fox" "!HC0017">
+"Mm...mmm...mmmmm..."
+#
+Just after her, the woman trembles and she has a
+small orgasm.
+#
+<name "Silver Fox" "!HC0018">
+"Mm... Heheh...
+ Well, now what?"
+#
+<background "bg024a0.iph" 11>
+She withdraws her tentacles and releases the
+captured snakes.
+#
+<name "Silver Fox" "!HC0019">
+"That was excellent.
+ I hope we get to play again."
+#
+She drops the unconscious girl on the ground and
+leaves the cave.
+#
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Curious.
+ Sex between different kinds of demons?
+ Both girls too."
+#
+<name "Lazlocke">
+"Hmm..."
+#
+<name "Lazlocke">
+"Well, there are all kinds of people too.
+ Better make a note."
+#
+\x0A\x44\x00\xDE\x84\x01
+<exit>
+:13A1
+<music 8>
+<background "bg024a0.iph" 11>
+<name "Hell Maid" "!JE0000">
+"Mm...ah..."
+#
+A maid is cleaning in a large mansion.
+#
+She's being very meticulous.
+#
+She doesn't miss a spot.
+#
+<name "Hell Maid" "!JE0001">
+"Ah...ah..."
+#
+But there's a strange tentacle creature attached
+to her butt.
+#
+<music 39>
+<background "ev115a0.iph" 10>
+<name "Hell Maid" "!JE0002">
+"Ah...ah...aah..."
+#
+It rolls up her skirt, wraps around her hips,
+and pushes her underwear out of the way.
+#
+<name "Hell Maid" "!JE0003">
+"Mm...mmm..."
+#
+The creature sticks faster to her and plays with
+her pussy.
+#
+I'm pretty sure some of the tentacles are inside
+her.
+#
+But she doesn't stop cleaning.
+#
+She must know it's there.
+#
+<name "Hell Maid" "!JE0004">
+"Aah...ah...aah...aah..."
+#
+She gasps every time the tentacles wriggle.
+#
+No matter how impassive she looks, there's no way
+she can be ignoring it.
+#
+<name "Hell Maid" "!JE0005">
+"Ah...ah...mmm...mmm..."
+#
+Can't she just shake it off her?
+Or force it off of her?
+#
+Whatever's going on, I'm impressed by how
+thoroughly she's cleaning.
+#
+<name "Hell Maid" "!JE0006">
+"Mm...ahh...mmm..."
+#
+But there are limits to what she can take.
+Every now and then, she sweeps a little off
+balance.
+#
+It's whenever the tentacles writhe.
+#
+They seem to be moving completely randomly.
+#
+Just when it looks like they're calming down, 
+they thrash.
+#
+There's no rhyme or reason to it, just random
+movement.
+#
+It's probably especially tortuous for the maid.
+#
+<name "Hell Maid" "!JE0007">
+"Ah...ah...aah...ah..."
+#
+She finally can't take any more.
+#
+<background "ev115a1.iph" 10>
+<name "Hell Maid" "!JE0008">
+"Aaaaaaahhhhhh!!!"
+#
+She completely stops cleaning and trembles as she
+comes.
+#
+Her juices spill down her thighs.
+#
+And she starts to pee herself as well.
+#
+<name "Hell Maid" "!JE0009">
+"Ah...ah...aah...ah...ah...ahhh..."
+#
+She collapses to her knees in the puddle she just
+made.
+#
+But the creature doesn't stop wriggling.
+#
+It keeps writhing and tormenting her.
+#
+<name "Hell Maid" "!JE0010">
+"Ah...ah...ah...ah...ah..."
+#
+She stands up on unsteady feet.
+#
+She wipes the dirt off her skirt, tries to ignore
+the creature, and goes back to cleaning.
+#
+It just keeps playing with her.
+#
+Another demon appears.
+#
+<name "Silver Fox" "!HC0020">
+"Heheh.
+ Well done."
+#
+<name "Hell Maid" "!JE0011">
+"Ah...ah..."
+#
+<name "Silver Fox" "!HC0021">
+"Thank you for the cleaning.
+ It looks like you're enjoying my tentacles."
+#
+<name "Hell Maid" "!JE0012">
+"Aah...
+ T-Take it off..."
+#
+<name "Silver Fox" "!HC0022">
+"Oh? Should I do that?"
+#
+As she asks, the creature writhes intensely.
+#
+<name "Hell Maid" "!JE0013">
+"Aaaah!"
+#
+<name "Silver Fox" "!HC0023">
+"Heheh. Just kidding."
+#
+<background "bg024a0.iph" 11>
+She waves her finger and the creature detaches 
+from the maid.
+#
+It climbs up the woman's leg and onto her butt.
+#
+Instead of attacking her, it transforms into one
+of her tails.
+#
+Well, maybe I should say it transforms back.
+#
+<name "Silver Fox" "!HC0024">
+"Mm...mm... Heheh...
+ You did very admirably."
+#
+<name "Hell Maid" "!JE0014">
+"N-Now... will you release my mistress?"
+#
+<name "Silver Fox" "!HC0025">
+"She's already been freed."
+#
+<name "Silver Fox" "!HC0026">
+"See? This tail here is the one that was violating
+ your mistress just a short while ago." 
+#
+<name "Hell Maid" "!JE0016">
+"Ngh..."
+#
+<name "Silver Fox" "!HC0027">
+"Don't give me such a scary look.
+ You're going to make me want to play with you
+ again."
+#
+<name "Hell Maid" "!JE0017">
+"..."
+#
+<name "Silver Fox" "!HC0028">
+"Heheh... I'll keep my word.
+ I won't be back for a while.
+ You can enjoy your tryst with your mistress in
+ peace."
+#
+<name "Hell Maid" "!JE0018">
+"H-How rude."
+#
+<name "Silver Fox" "!HC0030">
+"Come see me if you find yourself missing my
+ tentacles.
+ You're both always welcome."
+#
+She says that and vanishes.
+#
+\x0A\x44\x00\xDF\x84\x01
+<exit>
+:224D
+<music 8>
+<background "bg024a0.iph" 11>
+The demon called Tofu is trapped.
+#
+By the Silver Fox.
+#
+She's no match for her.
+#
+<name "Silver Fox" "!HC0031">
+"Heheh.
+ Too bad."
+#
+The girl is completely overwhelmed by her attack.
+#
+<music 39>
+<background "ev116a0.iph" 10>
+<name "Tofu" "!KC0000">
+"Ah...
+ W-What are...
+ Aaah..."
+#
+Silver Fox forces her into a bathing suit, then
+puts her on her lap and starts caressing her.
+#
+<name "Silver Fox" "!HC0032">
+"Heheh...
+ Entertain me."
+#
+<name "Tofu" "!KC0001">
+"Ah! Aah! Ah! Ah! Aaah!
+ Don't touch me the...
+ S-Stop!
+ Ah! Aaah!"
+#
+<name "Silver Fox" "!HC0033">
+"You say stop, but you're getting wet."
+#
+Her fingers slide into her crotch and stir her
+up.
+#
+<name "Silver Fox" "!HC0034">
+"See? So wet already...
+ You like it, don't you?"
+#
+<name "Tofu" "!KC0002">
+"Ah...ah... N-No...
+ I don't like it at all!"
+#
+<name "Silver Fox" "!HC0035">
+"I see.
+ Then I better work harder until you do."
+#
+She massages the girl's chest while licking her
+neck and continuing to tease her pussy.
+#
+<name "Tofu" "!KC0003">
+"Huh? Ah! Ah! Ahh! Ah! Aah! D-Don't!
+ Ah! Aah! Aaaaahhhh!"
+#
+<name "Silver Fox" "!HC0036">
+"Don't say no.
+ You're so swollen here..."
+#
+She pinches and toys with the little bean above
+her entrance.
+#
+<name "Tofu" "!KC0004">
+"Aah!"
+#
+<name "Silver Fox" "!HC0037">
+"Your nipples are so stiff too."
+#
+She sucks her nipples into her mouth and plays
+with them with her tongue.
+#
+<name "Tofu" "!KC0005">
+"Aah! Ah! S-Stop it..."
+#
+<name "Silver Fox" "!HC0038">
+"Nope."
+#
+She bites her nipple and pulls on it.
+#
+<name "Tofu" "!KC0006">
+"Aaah! Ah!
+ Ah! Aaah!"
+#
+<name "Silver Fox" "!HC0039">
+"Heheh...
+ I hate tasteless tofu, but perhaps the girl
+ inside is delicious."
+#
+She slides her fingers into the bathing suit and
+searches for her pussy directly.
+#
+<name "Tofu" "!KC0007">
+"Aah!"
+#
+Two fingers find her entrance, slip inside her,
+and begin stirring.
+#
+<name "Tofu" "!KC0008">
+"Ah! Ah! Ah! Ah! Aaah!"
+#
+<name "Silver Fox" "!HC0040">
+"Now, time to enjoy."
+#
+<background "ev116a1.iph" 10>
+<name "Tofu" "!KC0009">
+"Aaaaaahhhh!"
+#
+She climaxes with a huge convulsion.
+#
+<name "Silver Fox" "!HC0041">
+"Oh? You came already?"
+#
+<name "Silver Fox" "!HC0043">
+"Heheh... But we're just getting started."
+#
+Her tails transform into tentacles and wrap around
+the girl.
+#
+Several of them begin to slide into her bathing
+suit.
+#
+\x0A\x44\x00\xE0\x84\x01
+<exit>
+:2B89
+<music 5>
+<background "bg024a0.iph" 11>
+A spring in hidden deepn in a forest.
+#
+It's a place where various demons congregate.
+#
+<background "ev117a0.iph" 10>
+<name "Miss Horn" "!MC0000">
+"So, how is it going?"
+#
+She enters the spring and washes herself.
+#
+<name "Silver Fox" "!HC0098">
+"How is what going?"
+#
+She's sitting by the spring.
+#
+Both of them are naked.
+#
+<name "Miss Horn" "!MC0001">
+"You know what I mean."
+#
+<name "Silver Fox" "!HC0099">
+"Well enough, I suppose."
+#
+<name "Miss Horn" "!MC0002">
+"I see. I wish I could help you."
+#
+<name "Silver Fox" "!HC0100">
+"It's fine.
+ This is my problem."
+#
+<name "Miss Horn" "!MC0003">
+"...I suppose, but it does make me feel a little
+ lonesome."
+#
+<name "Silver Fox" "!HC0101">
+"I'm sorry."
+#
+<name "Miss Horn" "!MC0004">
+"Don't say things you don't believe.
+ You don't care a thing about me."
+#
+<name "Silver Fox" "!HC0102">
+"Heheh...
+ That's not true."
+#
+<name "Miss Horn" "!MC0005">
+"Same liar as ever."
+#
+<name "Silver Fox" "!HC0103">
+"I'm not lying.
+ You're my precious best friend.
+ Could you wash my back and tail?"
+#
+<name "Miss Horn" "!MC0006">
+"Yeah, yeah.
+ Abusing your best friend as always."
+#
+She carefully cleans her back and tail.
+#
+<name "Miss Horn" "!MC0008">
+"Your tails always look so beautiful."
+#
+<name "Silver Fox" "!HC0104">
+"Thank you."
+#
+<name "Miss Horn" "!MC0009">
+"But they've lost the sheen that they used to 
+ have."
+#
+<name "Silver Fox" "!HC0105">
+"Grr..."
+#
+<name "Miss Horn" "!MC0010">
+"You've used them too much.
+ Well, I know you won't listen to me if I told
+ you to stop."
+#
+<name "Miss Horn" "!MC0011">
+"Just one thing."
+#
+<name "Silver Fox" "!HC0106">
+"What is it?"
+#
+<name "Miss Horn" "!MC0012">
+"Don't rush."
+#
+<name "Silver Fox" "!HC0107">
+"...I know."
+#
+The two bathe in silence after that.
+#
+\x0A\x44\x00\xE1\x84\x01
+<exit>
+:31BA
+<music 39>
+<background "ev118a0.iph" 10>
+<name "Silver Fox" "!HC0054">
+"You did not make this easy for me."
+#
+She angrily brandishes her tentacles.
+#
+<name "Lillim" "!NC0000">
+"Aaah!"
+#
+The girl is violated in every oriface by them.
+#
+<name "Silver Fox" "!HC0055">
+"You wounded me needlessly...
+ You will pay for that."
+#
+<name "Lillim" "!NC0001">
+"Y-You attacked me out of nowhere!
+ What are you...
+ Mmgh!"
+#
+<name "Silver Fox" "!HC0056">
+"I was almost there...
+ You little..."
+#
+Her anger grows.
+#
+The tentacles become even more agitated.
+#
+<name "Lillim" "!NC0002">
+"Ngh! Ah! Aah! Aggh!
+ Aaaagh!"
+#
+They writhe and squirm all over the girl's chest,
+butt, arms, and legs.
+#
+The tentacles plunge into her pussy, ass, and 
+mouth, wriggling the whole time.
+#
+<background "ev118a1.iph" 10>
+<name "Lillim" "!NC0003">
+"Mmmmmgh! Aagh!
+ Ah! Aaaah!"
+#
+She thrashes, but can't escape.
+In a few minutes, her eyes glaze over and she
+stops moving.
+#
+<name "Lillim" "!NC0004">
+"Ah...aah..."
+#
+She's been forced to come repeatedly.
+#
+Her liquids cover the tentacles and the floor.
+#
+<name "Silver Fox" "!HC0057">
+"Aah, that's no good."
+#
+<name "Silver Fox" "!HC0058">
+"Are you okay?"
+#
+<name "Silver Fox" "!HC0059">
+"You're not broken?"
+#
+<name "Lillim" "!NC0005">
+"Ah..."
+#
+<name "Silver Fox" "!HC0060">
+"You're alive."
+#
+<name "Lillim" "!NC0006">
+"Aah...ah..."
+#
+<name "Silver Fox" "!HC0061">
+"I accidentally lost my control.
+ I'm sorry."
+#
+She apologizes, but the tentacles keep moving.
+#
+<name "Silver Fox" "!HC0062">
+"If I'm too rough, it'll be over too soon."
+#
+<name "Silver Fox" "!HC0063">
+"We need to take this nice and slow..."
+#
+<name "Lillim" "!NC0007">
+"Ah... F-Forgive me...
+ Aah..."
+#
+<name "Silver Fox" "!HC0064">
+"Heheh...
+ Don't worry.
+ I'm not going to kill you."
+#
+She kisses her on the cheek.
+#
+<background "bg024a0.iph" 11>
+The girl was released several days later.
+#
+\x0A\x44\x00\xE2\x84\x01
+<exit>
+:3915
+<music 5>
+<background "ev117a0.iph" 10>
+<name "Miss Horn" "!MC0038">
+"You've become quite weak."
+#
+<name "Silver Fox" "!HC0108">
+"I hardly think so."
+#
+<name "Miss Horn" "!MC0039">
+"The hair you're so proud of is in tatters."
+#
+<name "Miss Horn" "!MC0040">
+"You gave your own power to make up for what you
+ couldn't take."
+#
+<name "Silver Fox" "!HC0109">
+"Heheh... I'm almost there."
+#
+<name "Miss Horn" "!MC0041">
+"...I know.
+ That's why I'm here."
+#
+<name "Silver Fox" "!HC0110">
+"..."
+#
+<name "Miss Horn" "!MC0042">
+"Even now, I'm still here for you."
+#
+<name "Silver Fox" "!HC0111">
+"But if I take it from you..."
+#
+<name "Miss Horn" "!MC0043">
+"It'll just be a little nap.
+ It won't kill me."
+#
+<name "Miss Horn" "!MC0045">
+"You won't be breaking your promise."
+#
+<name "Silver Fox" "!HC0112">
+"..."
+#
+<name "Miss Horn" "!MC0046">
+"Let me help you."
+#
+<name "Silver Fox" "!HC0113">
+"...Are you sure?"
+#
+<name "Miss Horn" "!MC0047">
+"I'm fine."
+#
+<name "Silver Fox" "!HC0114">
+"...Thank you."
+#
+\x2B\x42
+<background "bg024a0.iph" 11>
+Her tails transform into tentacles and she
+attacks.
+#
+A few weeks later...
+#
+<music 37>
+<background "ev119a0.iph" 10>
+She leaps into the man's arms.
+#
+Tears are pouring from her eyes.
+#
+<name "Silver Fox" "!HC0072">
+"I missed you."
+#
+She hugs him tight.
+#
+It's a young man from a small village.
+#
+They met when he was young and they lived 
+together.
+#
+But he fell sick.
+#
+To save his life, she took him inside her, and to
+keep him alive, she attacked other demons.
+#
+But she knew that it would make him sad if she 
+were to take a life to prolong his, so she stole
+their strength without killing them.
+#
+It would have been quick if she had taken the
+strength from a man, but she had no intention of
+giving her body to any man but the one before her.
+#
+So it took time.
+#
+It's been a hundred years since the man fell ill.
+#
+But here he is now, standing before her once
+again.
+#
+<name "Silver Fox" "!HC0073">
+"I missed you so much..."
+#
+There will be many trials ahead.
+#
+But she will face them with him.
+#
+With him by her side.
+#
+That alone will make her strong enough to face
+anything.
+#
+<music 10>
+<background "bg002a0.iph" 11>
+There are a lot of different kinds of demons,
+huh?
+#
+Better write it all down.
+#
+<music 5>
+<background "bg024a0.iph" 11>
+By the way, Miss Horn woke up three years later.
+#
+<name "Miss Horn" "!MC0048">
+"I hoped it'd work out for you..."
+#
+Her friend was waiting nearby for her to awaken.
+#
+<name "Silver Fox" "!HC0074">
+"Heheheh...
+ We have a child."
+#
+She brags.
+#
+<name "Miss Horn" "!MC0049">
+".........I need to find a man too."
+#
+\x0A\x44\x00\xE3\x84\x01
+<exit>
+\x78

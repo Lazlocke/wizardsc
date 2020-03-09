@@ -1,0 +1,33 @@
+\x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :65: \xBE\x00
+<name "Celes" "!AA3767">
+"Hmm... A trap?
+ Then I can just... go around it."
+#
+\x15 :1B9: 
+:65
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :A7: \xBE\x00
+<name "Celes" "!AA3768">
+"What an easy trap to see."
+#
+\x15 :1B9: 
+:A7
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :112: \xBE\x00
+<name "Celes" "!AA3769">
+"There's a trap there, but I won't fall for it."
+#
+\x15 :1B9: 
+:112
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :175: \xBE\x00
+<name "Celes" "!AA3770">
+"You thought a trap like that would catch me?"
+#
+\x15 :1B9: 
+:175
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1B9: \xBE\x00
+<name "Celes" "!AA3771">
+"Whoa.
+ Trap dodged."
+#
+\x15 :1B9: 
+:1B9
+\x78\x78

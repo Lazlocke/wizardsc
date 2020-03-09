@@ -1,0 +1,156 @@
+\x15 :18: \x15 :24: \x15 :30: \x15 :3C: 
+:18
+\x16 :49: \x15 :48: 
+:24
+\x16 :480: \x15 :48: 
+:30
+\x16 :513: \x15 :48: 
+:3C
+\x16 :666: \x15 :48: 
+:48
+\x78
+:49
+\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :11B: 
+<name "Celes" "!AA3772">
+"What is this?"
+#
+<name "Celes" "!AA3773">
+"Anyway, I'll cook and eat it."
+#
+Celes cooked it.
+It was delicious.
+#
+Celes's mana and HP slightly recovered.
+#
+:11B
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1DF: 
+<name "Celes" "!AA3774">
+"Hmm...
+ I wonder if this is edible."
+#
+<name "Celes" "!AA3776">
+"I think if I cook it, I can eat it."
+#
+Celes cooked it.
+It was delicious.
+#
+Celes's mana and HP slightly recovered.
+#
+:1DF
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :293: 
+<name "Celes" "!AA3777">
+"Oh, that looks yuummy."
+#
+<name "Celes" "!AA3778">
+"Cooking time!ÅÙ"
+#
+Celes cooked it.
+It was delicious.
+#
+Celes's mana and HP slightly recovered.
+#
+:293
+\x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :348: 
+<name "Celes" "!AA3779">
+"Something's there!"
+#
+<name "Celes" "!AA3780">
+"I think this is something that could be
+ cooked..."
+#
+<name "Celes" "!AA3781">
+"But I don't have the skill for that.
+ Too bad."
+#
+:348
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :3FC: 
+<name "Celes" "!AA3782">
+"That's edible...
+ This will be a challenge for me."
+#
+Celes attempted to cook what she found.
+#
+<name "Celes" "!AA3783">
+"Aww. I messed up."
+#
+Celes's cooking skills are too low.
+#
+:3FC
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :47F: 
+<name "Celes" "!AA3784">
+"Food found!"
+#
+<name "Celes" "!AA3785">
+"But I'm a terrible cook, so no need to bother!
+ Onward!"
+#
+:47F
+<exit>
+:480
+\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :4CC: 
+<name "Celes" "!AA3792">
+"Whoa. Teleport magic?"
+#
+:4CC
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :512: 
+<name "Celes" "!AA3793">
+"Where am I? 
+ ...Looks like I'm back."
+#
+:512
+<exit>
+:513
+\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :59E: 
+<name "Celes" "!AA3816">
+"A dead end...
+ Hmm... 
+ That way then?"
+#
+<name "Celes" "!AA3817">
+"I knew it!
+ A hidden door."
+#
+:59E
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :62D: 
+<name "Celes" "!AA3818">
+"...Mm!
+ Suspicious!"
+#
+<name "Celes" "!AA3819">
+"There!"
+#
+<name "Celes" "!AA3820">
+"Hidden door found!ÅÙ"
+#
+:62D
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :665: 
+<name "Celes" "!AA3821">
+"...A hidden door, huh?"
+#
+:665
+<exit>
+:666
+\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :6D9: 
+<name "Celes" "!AA3824">
+"Is there still more ahead?
+ I was planning on climbing pretty high."
+#
+:6D9
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :719: 
+<name "Celes" "!AA3825">
+"There's still higher to go..."
+#
+:719
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :77A: 
+<name "Celes" "!AA3826">
+"I wanted to climb pretty high, but... looks like
+ there's still a ways to go."
+#
+:77A
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :7C4: 
+<name "Celes" "!AA3827">
+"No... time for a rest, huh?"
+#
+:7C4
+<exit>
+\x78

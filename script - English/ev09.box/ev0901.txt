@@ -1,0 +1,1345 @@
+\x0A\x24\x00\x03\x84\x00\x1A\x01\x07\x04\x07\x9E\x84\x00\x01\x0E :6A: \x0A\x24\x00\x03\x84\x00\xDF "ƒ^ƒJƒCƒ]ƒE" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :6A: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x14 :58: \x16 :1900: \x18 :5E: 
+:58
+\x16 :1B13: 
+:5E
+\x0A\x04\x07\x9E\x84\x01\x15 :18FE: 
+:6A
+\x1A\x01\x07\x04\x07\x9F\x84\x00\x01\x0E :CE: \x0A\x24\x00\x03\x84\x00\xDF "ƒfƒJƒCƒ]ƒE" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :CE: \x1A\x01\x0A\x02\x01\x9A 3 \x01\x14 :BC: \x16 :1C53: \x18 :C2: 
+:BC
+\x16 :1EBA: 
+:C2
+\x0A\x04\x07\x9F\x84\x01\x15 :18FE: 
+:CE
+\x1A\x01\x07\x04\x07\xA0\x84\x00\x01\x0E :178: \x0A\x24\x00\x03\x84\x00\xDF "ƒCƒEƒ]ƒE" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :178: \x1A\x01\x0A\x02\x01\x9A 2 \x01\x14 :118: \x16 :232D: 
+:118
+\x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :142: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x14 :142: \x16 :2828: 
+:142
+\x1A\x01\x0A\x02\x01\x9A 5 \x01\x15 :16C: \x1A\x01\x0A\x02\x01\x9A 6 \x01\x14 :16C: \x16 :2A8C: 
+:16C
+\x0A\x04\x07\xA0\x84\x01\x15 :18FE: 
+:178
+\x1A\x01\x07\x04\x07\xA1\x84\x00\x01\x0E :1C2: \x0A\x24\x00\x03\x84\x00\xDF "T‚¦‚ß‚ÈŠøw•¨" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1C2: \x16 :2C71: \x0A\x04\x07\xA1\x84\x01\x15 :18FE: 
+:1C2
+\x1A\x01\x07\x04\x07\xA2\x84\x00\x01\x0E :20A: \x0A\x24\x00\x03\x84\x00\xDF "•’Ê‚ÌŠøw•¨" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :20A: \x16 :2D32: \x0A\x04\x07\xA2\x84\x01\x15 :18FE: 
+:20A
+\x1A\x01\x07\x04\x07\xA3\x84\x00\x01\x0E :252: \x0A\x24\x00\x03\x84\x00\xDF "–Ú—§‚ÂŠøw•¨" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :252: \x16 :2ECD: \x0A\x04\x07\xA3\x84\x01\x15 :18FE: 
+:252
+\x1A\x01\x07\x04\x07\xA4\x84\x00\x01\x0E :29A: \x0A\x24\x00\x03\x84\x00\xDF "‹‰Ø‚ÈŠøw•¨" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :29A: \x16 :3051: \x0A\x04\x07\xA4\x84\x01\x15 :18FE: 
+:29A
+\x1A\x01\x07\x04\x07\xA5\x84\x00\x01\x0E :358: \x0A\x24\x00\x03\x84\x00\xDF "ÔÆ–¾" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :2D0: \x15 :337: 
+:2D0
+\xDF "ÂÆ–¾" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :2F1: \x15 :337: 
+:2F1
+\xDF "‰©FÆ–¾" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :314: \x15 :337: 
+:314
+\xDF "“øFÆ–¾" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :337: \x15 :337: 
+:337
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :358: \x16 :31D6: \x0A\x04\x07\xA5\x84\x01\x15 :18FE: 
+:358
+\x1A\x01\x07\x04\x07\xA6\x84\x00\x01\x0E :4D5: \x0A\x24\x00\x03\x84\x00\xDF "W’†”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :390: \x15 :4B4: 
+:390
+\xDF "‘MŒõ”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :3B3: \x15 :4B4: 
+:3B3
+\xDF "‰QŠª‚«”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :3D8: \x15 :4B4: 
+:3D8
+\xDF "…‹Ê”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :3FB: \x15 :4B4: 
+:3FB
+\xDF "¼—m—³”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :420: \x15 :4B4: 
+:420
+\xDF "“Œ—m—³”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :445: \x15 :4B4: 
+:445
+\xDF "–ÒŒÕ”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :468: \x15 :4B4: 
+:468
+\xDF "ˆ¤Šß“®•¨”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :48F: \x15 :4B4: 
+:48F
+\xDF "¬“®•¨”wŒi" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :4B4: \x15 :4B4: 
+:4B4
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :4D5: \x16 :3354: \x0A\x04\x07\xA6\x84\x01\x15 :18FE: 
+:4D5
+\x1A\x01\x07\x04\x07\xA7\x84\x00\x01\x0E :5D9: \x0A\x24\x00\x03\x84\x00\xDF "†á" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :50B: \x15 :5B8: 
+:50B
+\xDF "÷‰Ôá" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :52E: \x15 :5B8: 
+:52E
+\xDF "‹e‰Ôá" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :551: \x15 :5B8: 
+:551
+\xDF "åKåN‰Ôá" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :576: \x15 :5B8: 
+:576
+\xDF "áá" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :597: \x15 :5B8: 
+:597
+\xDF "ˆÅá" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :5B8: \x15 :5B8: 
+:5B8
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :5D9: \x16 :344A: \x0A\x04\x07\xA7\x84\x01\x15 :18FE: 
+:5D9
+\x1A\x01\x07\x04\x07\xA8\x84\x00\x01\x0E :682: \x0A\x24\x00\x03\x84\x00\xDF "\lƒZƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :613: \x15 :661: 
+:613
+\xDF "“ñ\lƒZƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :63A: \x15 :661: 
+:63A
+\xDF "O\lƒZƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :661: \x15 :661: 
+:661
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :682: \x16 :34F2: \x0A\x04\x07\xA8\x84\x01\x15 :18FE: 
+:682
+\x1A\x01\x07\x04\x07\xA9\x84\x00\x01\x0E :6C8: \x0A\x24\x00\x03\x84\x00\xDF "‚‹‰ƒxƒbƒh" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :6C8: \x16 :3615: \x0A\x04\x07\xA9\x84\x01\x15 :18FE: 
+:6C8
+\x1A\x01\x07\x04\x07\xAA\x84\x00\x01\x0E :712: \x0A\x24\x00\x03\x84\x00\xDF "ƒ‰ƒuƒ‰ƒuƒxƒbƒh" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :712: \x16 :3708: \x0A\x04\x07\xAA\x84\x01\x15 :18FE: 
+:712
+\x1A\x01\x07\x04\x07\xAB\x84\x00\x01\x0E :758: \x0A\x24\x00\x03\x84\x00\xDF "ˆúêrƒxƒbƒh" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :758: \x16 :3820: \x0A\x04\x07\xAB\x84\x01\x15 :18FE: 
+:758
+\x1A\x01\x07\x04\x07\xAC\x84\x00\x01\x0E :7A6: \x0A\x24\x00\x03\x84\x00\xDF "‚­‚Â‚ë‚®‰ÚƒZƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :7A6: \x16 :3981: \x0A\x04\x07\xAC\x84\x01\x15 :18FE: 
+:7A6
+\x1A\x01\x07\x04\x07\xAD\x84\x00\x01\x0E :7F4: \x0A\x24\x00\x03\x84\x00\xDF "—‚¿’…‚­‰ÚƒZƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :7F4: \x16 :3A76: \x0A\x04\x07\xAD\x84\x01\x15 :18FE: 
+:7F4
+\x1A\x01\x07\x04\x07\xAE\x84\x00\x01\x0E :842: \x0A\x24\x00\x03\x84\x00\xDF "•’Ê‚ÌƒNƒ[ƒ[ƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :842: \x16 :3B39: \x0A\x04\x07\xAE\x84\x01\x15 :18FE: 
+:842
+\x1A\x01\x07\x04\x07\xAF\x84\x00\x01\x0E :890: \x0A\x24\x00\x03\x84\x00\xDF "ã¿‚ÈƒNƒ[ƒ[ƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :890: \x16 :3C0E: \x0A\x04\x07\xAF\x84\x01\x15 :18FE: 
+:890
+\x1A\x01\x07\x04\x07\xB0\x84\x00\x01\x0E :8DE: \x0A\x24\x00\x03\x84\x00\xDF "”ü‚µ‚¢ƒNƒ[ƒ[ƒbƒg" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :8DE: \x16 :3D08: \x0A\x04\x07\xB0\x84\x01\x15 :18FE: 
+:8DE
+\x1A\x01\x07\x04\x07\xB1\x84\x00\x01\x0E :926: \x0A\x24\x00\x03\x84\x00\xDF "•’Ê‚Ì•×‹­Š÷" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :926: \x16 :3E44: \x0A\x04\x07\xB1\x84\x01\x15 :18FE: 
+:926
+\x1A\x01\x07\x04\x07\xB2\x84\x00\x01\x0E :974: \x0A\x24\x00\x03\x84\x00\xDF "‚â‚é‹C‚Ìo‚é•×‹­Š÷" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :974: \x16 :3F13: \x0A\x04\x07\xB2\x84\x01\x15 :18FE: 
+:974
+\x1A\x01\x07\x04\x07\xB3\x84\x00\x01\x0E :A75: \x0A\x24\x00\x03\x84\x00\xDF "ƒ{ƒƒJ[ƒeƒ“" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :9B0: \x15 :A54: 
+:9B0
+\xDF "ƒ}ƒV‚ÈƒJ[ƒeƒ“" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :9D9: \x15 :A54: 
+:9D9
+\xDF "•’Ê‚ÌƒJ[ƒeƒ“" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :A02: \x15 :A54: 
+:A02
+\xDF "‚‹‰‚ÈƒJ[ƒeƒ“" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :A2B: \x15 :A54: 
+:A2B
+\xDF "‹‰Ø‚ÈƒJ[ƒeƒ“" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :A54: \x15 :A54: 
+:A54
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :A75: \x16 :4022: \x0A\x04\x07\xB3\x84\x01\x15 :18FE: 
+:A75
+\x1A\x01\x07\x04\x07\xB4\x84\x00\x01\x0E :BF0: \x0A\x24\x00\x03\x84\x00\xDF "Ô‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :AAD: \x15 :BCF: 
+:AAD
+\xDF "Â‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :AD0: \x15 :BCF: 
+:AD0
+\xDF "”’‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :AF3: \x15 :BCF: 
+:AF3
+\xDF "•‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :B16: \x15 :BCF: 
+:B16
+\xDF "–‚–@‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :B3B: \x15 :BCF: 
+:B3B
+\xDF "íˆÓ‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :B60: \x15 :BCF: 
+:B60
+\xDF "‰Âˆ¤‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :B85: \x15 :BCF: 
+:B85
+\xDF "ˆ«–‚‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :BAA: \x15 :BCF: 
+:BAA
+\xDF "“Vg‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :BCF: \x15 :BCF: 
+:BCF
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :BF0: \x16 :4162: \x0A\x04\x07\xB4\x84\x01\x15 :18FE: 
+:BF0
+\x1A\x01\x07\x04\x07\xB5\x84\x00\x01\x0E :D6B: \x0A\x24\x00\x03\x84\x00\xDF "Ô‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :C28: \x15 :D4A: 
+:C28
+\xDF "Â‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :C4B: \x15 :D4A: 
+:C4B
+\xDF "”’‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :C6E: \x15 :D4A: 
+:C6E
+\xDF "•‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :C91: \x15 :D4A: 
+:C91
+\xDF "–‚–@‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :CB6: \x15 :D4A: 
+:CB6
+\xDF "íˆÓ‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :CDB: \x15 :D4A: 
+:CDB
+\xDF "‰Âˆ¤‚¢ãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :D00: \x15 :D4A: 
+:D00
+\xDF "ˆ«–‚‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :D25: \x15 :D4A: 
+:D25
+\xDF "“Vg‚ÌãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :D4A: \x15 :D4A: 
+:D4A
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :D6B: \x16 :4231: \x0A\x04\x07\xB5\x84\x01\x15 :18FE: 
+:D6B
+\x1A\x01\x07\x04\x07\xB6\x84\x00\x01\x0E :DB3: \x0A\x24\x00\x03\x84\x00\xDF "—ğj‚ ‚éãOŸ~" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :DB3: \x16 :432B: \x0A\x04\x07\xB6\x84\x01\x15 :18FE: 
+:DB3
+\x1A\x01\x07\x04\x07\xB7\x84\x00\x01\x0E :1044: \x0A\x24\x00\x03\x84\x00\xDF "ŒâŠy¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :DED: \x15 :1023: 
+:DED
+\xDF "ŒâŠy’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :E12: \x15 :1023: 
+:E12
+\xDF "ŒâŠy‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :E37: \x15 :1023: 
+:E37
+\xDF "–‚–@ŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :E60: \x15 :1023: 
+:E60
+\xDF "–‚–@ŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :E89: \x15 :1023: 
+:E89
+\xDF "–‚–@ŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :EB2: \x15 :1023: 
+:EB2
+\xDF "Ši“¬ŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :EDB: \x15 :1023: 
+:EDB
+\xDF "Ši“¬ŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :F04: \x15 :1023: 
+:F04
+\xDF "Ši“¬ŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :F2D: \x15 :1023: 
+:F2D
+\xDF "•ŠíŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :F56: \x15 :1023: 
+:F56
+\xDF "•ŠíŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :F7F: \x15 :1023: 
+:F7F
+\xDF "•ŠíŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :FA8: \x15 :1023: 
+:FA8
+\xDF "‰Æ’ëŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :FD1: \x15 :1023: 
+:FD1
+\xDF "‰Æ’ëŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :FFA: \x15 :1023: 
+:FFA
+\xDF "‰Æ’ëŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1023: \x15 :1023: 
+:1023
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1044: \x16 :43CF: \x0A\x04\x07\xB7\x84\x01\x15 :18FE: 
+:1044
+\x1A\x01\x07\x04\x07\xB8\x84\x00\x01\x0E :10E9: \x0A\x24\x00\x03\x84\x00\xDF "ŒâŠy¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :107E: \x15 :10C8: 
+:107E
+\xDF "ŒâŠy’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :10A3: \x15 :10C8: 
+:10A3
+\xDF "ŒâŠy‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :10C8: \x15 :10C8: 
+:10C8
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :10E9: \x16 :44CF: \x0A\x04\x07\xB8\x84\x01\x15 :18FE: 
+:10E9
+\x1A\x01\x07\x04\x07\xB9\x84\x00\x01\x0E :119A: \x0A\x24\x00\x03\x84\x00\xDF "–‚–@ŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1127: \x15 :1179: 
+:1127
+\xDF "–‚–@ŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1150: \x15 :1179: 
+:1150
+\xDF "–‚–@ŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1179: \x15 :1179: 
+:1179
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :119A: \x16 :4649: \x0A\x04\x07\xB9\x84\x01\x15 :18FE: 
+:119A
+\x1A\x01\x07\x04\x07\xBA\x84\x00\x01\x0E :124B: \x0A\x24\x00\x03\x84\x00\xDF "Ši“¬ŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :11D8: \x15 :122A: 
+:11D8
+\xDF "Ši“¬ŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1201: \x15 :122A: 
+:1201
+\xDF "Ši“¬ŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :122A: \x15 :122A: 
+:122A
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :124B: \x16 :482A: \x0A\x04\x07\xBA\x84\x01\x15 :18FE: 
+:124B
+\x1A\x01\x07\x04\x07\xBB\x84\x00\x01\x0E :12FC: \x0A\x24\x00\x03\x84\x00\xDF "•ŠíŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1289: \x15 :12DB: 
+:1289
+\xDF "•ŠíŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :12B2: \x15 :12DB: 
+:12B2
+\xDF "•ŠíŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :12DB: \x15 :12DB: 
+:12DB
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :12FC: \x16 :499B: \x0A\x04\x07\xBB\x84\x01\x15 :18FE: 
+:12FC
+\x1A\x01\x07\x04\x07\xBC\x84\x00\x01\x0E :13AD: \x0A\x24\x00\x03\x84\x00\xDF "‰Æ’ëŠÖŒW¬–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :133A: \x15 :138C: 
+:133A
+\xDF "‰Æ’ëŠÖŒW’†–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1363: \x15 :138C: 
+:1363
+\xDF "‰Æ’ëŠÖŒW‘å–{’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :138C: \x15 :138C: 
+:138C
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :13AD: \x16 :4BF1: \x0A\x04\x07\xBC\x84\x01\x15 :18FE: 
+:13AD
+\x1A\x01\x07\x04\x07\xBD\x84\x00\x01\x0E :13F5: \x0A\x24\x00\x03\x84\x00\xDF "ƒ{ƒ‚¢•×‹­’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :13F5: \x16 :4EB0: \x0A\x04\x07\xBD\x84\x01\x15 :18FE: 
+:13F5
+\x1A\x01\x07\x04\x07\xBE\x84\x00\x01\x0E :143F: \x0A\x24\x00\x03\x84\x00\xDF "Šy‚µ‚ß‚é•×‹­’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :143F: \x16 :4F36: \x0A\x04\x07\xBE\x84\x01\x15 :18FE: 
+:143F
+\x1A\x01\x07\x04\x07\xBF\x84\x00\x01\x0E :14F6: \x0A\x24\x00\x03\x84\x00\xDF "‰‹‰–‚–@•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :147F: \x15 :14D5: 
+:147F
+\xDF "’†‹‰–‚–@•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :14AA: \x15 :14D5: 
+:14AA
+\xDF "ã‹‰–‚–@•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :14D5: \x15 :14D5: 
+:14D5
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :14F6: \x16 :503D: \x0A\x04\x07\xBF\x84\x01\x15 :18FE: 
+:14F6
+\x1A\x01\x07\x04\x07\xC0\x84\x00\x01\x0E :15AD: \x0A\x24\x00\x03\x84\x00\xDF "‰‹‰Ši“¬•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1536: \x15 :158C: 
+:1536
+\xDF "’†‹‰Ši“¬•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1561: \x15 :158C: 
+:1561
+\xDF "ã‹‰Ši“¬•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :158C: \x15 :158C: 
+:158C
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :15AD: \x16 :5160: \x0A\x04\x07\xC0\x84\x01\x15 :18FE: 
+:15AD
+\x1A\x01\x07\x04\x07\xC1\x84\x00\x01\x0E :1664: \x0A\x24\x00\x03\x84\x00\xDF "‰‹‰•Ší•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :15ED: \x15 :1643: 
+:15ED
+\xDF "’†‹‰•Ší•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1618: \x15 :1643: 
+:1618
+\xDF "ã‹‰•Ší•×‹­—p’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1643: \x15 :1643: 
+:1643
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1664: \x16 :52DF: \x0A\x04\x07\xC1\x84\x01\x15 :18FE: 
+:1664
+\x1A\x01\x07\x04\x07\xC2\x84\x00\x01\x0E :17EF: \x0A\x24\x00\x03\x84\x00\xDF "¿‘f‚Èü‚è’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :16A0: \x15 :1744: 
+:16A0
+\xDF "‚‹‰‚Èü‚è’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :16C7: \x15 :1744: 
+:16C7
+\xDF "•s‹C–¡‚Èü‚è’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :16F0: \x15 :1744: 
+:16F0
+\xDF "‰Âˆ¤‚¢ü‚è’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1717: \x15 :1744: 
+:1717
+\xDF "ƒVƒ‡ƒEƒAƒbƒvü‚è’I" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1744: \x15 :1744: 
+:1744
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :17EF: \x0A\x24\x00\x09\x84\x00\x1A\x01\x07\x04\x01\x0E\x84\x01\x01\x0E :176E: \x0A\x24\x00\x09\x84\x01
+:176E
+\x1A\x01\x07\x04\x01\x10\x84\x01\x01\x0E :1783: \x0A\x24\x00\x09\x84\x01
+:1783
+\x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :1798: \x0A\x24\x00\x09\x84\x01
+:1798
+\x1A\x01\x07\x04\x01\x12\x84\x01\x01\x0E :17AD: \x0A\x24\x00\x09\x84\x01
+:17AD
+\x1A\x01\x07\x04\x01\x13\x84\x01\x01\x0E :17C2: \x0A\x24\x00\x09\x84\x01
+:17C2
+\x1A\x01\x07\x24\x00\x09\x84\x00\x01\x0E :17DD: \x16 :53D8: \x18 :17E3: 
+:17DD
+\x16 :54DE: 
+:17E3
+\x0A\x04\x07\xC2\x84\x01\x15 :18FE: 
+:17EF
+\x1A\x01\x07\x04\x07\xC3\x84\x00\x01\x0E :1831: \x0A\x24\x00\x03\x84\x00\xDF "•—Œi‰æ" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1831: \x16 :55FB: \x0A\x04\x07\xC3\x84\x01\x15 :18FE: 
+:1831
+\x1A\x01\x07\x04\x07\xC4\x84\x00\x01\x0E :1882: \x0A\x24\x00\x03\x84\x00\x1A\x01\x07\x04\x01\x20\x84\x01\x01\x0E :1882: \xDF "l•¨‰æ" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :1882: \x16 :573B: \x0A\x04\x07\xC4\x84\x01\x15 :18FE: 
+:1882
+\x1A\x01\x07\x04\x07\xC5\x84\x00\x01\x0E :18FE: \x0A\x24\x00\x03\x84\x00\xDF "ƒ^ƒyƒXƒgƒŠ[" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :18BE: \x15 :18DD: 
+:18BE
+\xDF "‘Šø" \x24\x00\x03\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :18DD: \x15 :18DD: 
+:18DD
+\x1A\x01\x07\x24\x00\x03\x84\x01\x01\x0E :18FE: \x16 :594A: \x0A\x04\x07\xC5\x84\x01\x15 :18FE: 
+:18FE
+\xDE\x78
+:1900
+<music 31>
+<background "ev029a0.iph" 10>
+<name "Merchant" "!SB0195">
+"You're so small, miss."
+#
+<name "Celes" "!AA4266">
+"!!!"
+#
+<name "Merchant" "!SB0196">
+"Hahaha. Don't be mad.
+ It's true."
+#
+<name "Celes" "!AA4267">
+"Rrr..."
+#
+<name "Merchant" "!SB0197">
+"But I have the perfect thing for such a lovely
+ lady!
+ This!"
+#
+<name "Celes" "!AA4268">
+"That's..."
+#
+<name "Merchant" "!SB0200">
+"It's from the Super Deluxe brand!
+ For a short girl who will today become an
+ elegant lady!"
+#
+<name "Celes" "!AA4269">
+"I'll take it!"
+#
+<name "Lazlocke">
+"Celes, that's just some generic trinket."
+#
+<exit>
+:1B13
+<music 31>
+<background "ev029a0.iph" 10>
+<name "Merchant" "!SB0201">
+"Hey there, lady."
+#
+<name "Celes" "!AA4270">
+"Hm?"
+#
+<name "Merchant" "!SB0202">
+"If you use this..."
+#
+<name "Merchant" "!SB0203">
+"Look at that!"
+#
+<name "Celes" "!AA4271">
+"Ooohhh!"
+#
+<name "Merchant" "!SB0204">
+"Interested?"
+#
+<name "Celes" "!AA4272">
+"I'll take it."
+#
+<name "Lazlocke">
+"...It's just a regular product."
+#
+<exit>
+:1C53
+<music 31>
+<background "ev029a0.iph" 10>
+<name "Merchant" "!SB0205">
+"How about this, missy?"
+#
+<name "Celes" "!AA4273">
+"What is it?"
+#
+<name "Merchant" "!SB0206">
+"A chest pad.
+ It makes small breasts look big and enhance
+ your charm."
+#
+<name "Celes" "!AA4274">
+"Hahaha...
+ I'm good enough there."
+#
+<name "Merchant" "!SB0207">
+"I see.
+ Then, that lady behind you..."
+#
+<name "Soshiette" "!DA0667">
+"I don't need it."
+#
+<name "Merchant" "!SB0210">
+"..."
+#
+<name "Soshiette" "!DA0668">
+"I don't need it."
+#
+<name "Merchant" "!SB0211">
+"Oh, ah, yes.
+ You're right.
+ You don't need it."
+#
+<name "Celes" "!AA4275">
+"M-Miss Soshiette, please don't try to crush
+ his head."
+#
+<exit>
+:1EBA
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0669">
+"Hmmm..."
+#
+<sprite "ta04a87.iph" 4 4 12>
+<name "Soshiette" "!DA0670">
+"Mmmm..."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0671">
+"Hmmmmmmm..."
+#
+<sprite "ta04a87.iph" 4 4 12>
+<name "Soshiette" "!DA0672">
+"Mmmmmmm..."
+#
+<name "Lazlocke">
+"Soshiette."
+#
+<sprite "ta04a26.iph" 4 4 12>
+<name "Soshiette" "!DA0674">
+"Y-Yes!?"
+#
+<name "Lazlocke">
+"Don't be so shocked."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0675">
+"O-Oh, you didn't surprise me.
+ Yes, certainly not."
+#
+<name "Lazlocke">
+"...If you're so interested in it, just borrow
+ it."
+#
+<sprite "ta04a29.iph" 4 4 12>
+<name "Soshiette" "!DA0676">
+"W-What are you talking about?
+ I must be going."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I'm not sure what she's so worked up about.
+#
+Apparently she's pretty intent on the breast
+pads Celes bought.
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA4276">
+"But if I say she can borrow them, she'll get
+ mad."
+#
+<name "Lazlocke">
+"Buying new ones and forcing her to take them...
+ probably won't work either, huh?"
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA4277">
+"Probably not."
+#
+<removesprite -1 11>
+What a pain.
+#
+<exit>
+:232D
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Opening statements?
+ You're sure that's what you mean?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4278">
+"Yeah. It's apparently a way to psychologically
+ attack your opponent before the fight begins.
+ But it's kind of tricky..."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Soshiette" "!DA0677">
+"What are you having a problem with?
+ I might be able to help if you tell me."
+#
+<sprite "ta01a09.iph" 2 5 12>
+<name "Celes" "!AA4279">
+"Miss Soshiette?
+ Umm, like this part.
+ I don't get the meaning here."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0678">
+"Say the example sentence written there."
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA4280">
+"Huh? Oh, yes, ma'am."
+#
+<sprite "ta01a07.iph" 2 5 12>
+<name "Celes" "!AA4281">
+"Ahem."
+#
+<sprite "ta01a21.iph" 2 5 12>
+<name "Celes" "!AA4282">
+"Hey! The hell's with you and your weird face?
+ You wanna go against me?
+ Fine. I'll trash your ass."
+#
+<sprite "ta04a00.iph" 6 4 12>
+<name "Soshiette" "!DA0679">
+"The strategy here is to act incomprehensibly
+ to drive fear into your opponent."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0680">
+"It works a little better if your articulation
+ is poor so you sound more like a dimwit."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA4283">
+"I see."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I'm not getting involved.
+#
+<exit>
+:2828
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4284">
+"Celes obtained a introduction collection!"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4285">
+"Now then, let's get started...
+ Ahem."
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA4286">
+"Come, villains! Cherry blossom revolution!
+ The atrocity slaying swordsman of strife!
+ I welcome all who come before me to the endless
+ maw of despair!"
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA4287">
+"Huh? It says that it helps to make a big boom
+ happen behind you.
+ Hmm... How should I set that up?"
+#
+<name "Lazlocke">
+"...If you do that, I'm throwing you out."
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA4288">
+"Eeeeh!?"
+#
+<removesprite -1 11>
+<exit>
+:2A8C
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4289">
+"Opening statement...
+ Umm, what about this one?
+ Ahem."
+#
+<sprite "ta01a14.iph" 4 4 12>
+<name "Celes" "!AA4290">
+"Hello! I'm Celes! My age is... a secret!ô
+ My hobbies are magic and reading.
+ My motto is that I'm everyone's little sister.
+ Pleased to meet you!"
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA4291">
+"Oh, that's a pickup line for mixers."
+#
+<name "Lazlocke">
+"Do you really need an opening statement for
+ that?"
+#
+<removesprite -1 11>
+<exit>
+:2C71
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"A battle banner?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4292">
+"A battle banner."
+#
+<name "Lazlocke">
+"Well, as long as it's not ostentatious."
+#
+<removesprite -1 11>
+<exit>
+:2D32
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"A battle banner?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4293">
+"A battle banner.
+ You don't like it?"
+#
+<name "Lazlocke">
+"Well, far be it from me to pass judgement."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA4294">
+"It's bad?"
+#
+<name "Lazlocke">
+"N-No.
+ It's cool looking."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4295">
+"Isn't it?"
+#
+<removesprite -1 11>
+<exit>
+:2ECD
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4296">
+"Mmmm...
+ So cool."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA4297">
+"That battle banner's so cool, right!?"
+#
+<name "Lazlocke">
+"I-I guess.
+ It certainly stands out."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4298">
+"Today was a good shopping day."
+#
+<removesprite -1 11>
+<exit>
+:3051
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4299">
+"It just is... so cool!"
+#
+<name "Lazlocke">
+"Isn't it a bit too much, even for a battle
+ banner?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4300">
+"It's so cool..."
+#
+<name "Lazlocke">
+"It's too over the top..."
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA4301">
+"But it's cool, right?"
+#
+<name "Lazlocke">
+"...Y-Yeah."
+#
+<removesprite -1 11>
+<exit>
+:31D6
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4302">
+"With the right lighting, I'll stand out
+ better."
+#
+<name "Lazlocke">
+"Why do you care about standing out?"
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4303">
+"I want to appeal to the whole stadium."
+#
+<name "Lazlocke">
+"How is that going to help?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4304">
+"Don't worry about that."
+#
+<removesprite -1 11>
+<exit>
+:3354
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"A prop collection?
+ What's that for?"
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4305">
+"It's to rattle my opponent."
+#
+<name "Lazlocke">
+"Are they really going to be rattled by some
+ drawings on a board?"
+#
+<removesprite -1 11>
+<exit>
+:344A
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a18.iph" 4 4 11>
+<name "Celes" "!AA4306">
+"A blizzard might work..."
+#
+<name "Lazlocke">
+"Just don't forget to clean up later."
+#
+<removesprite -1 11>
+<exit>
+:34F2
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Isn't that kind of like buying your own
+ cheerleaders?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4307">
+"No, it's a contract.
+ They'll cheer me on whenever I'm in a
+ tournament."
+#
+<name "Lazlocke">
+"Oh, No, I meant...
+ Eh, whatever."
+#
+<removesprite -1 11>
+<exit>
+:3615
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"A good bed leads to a good night's sleep."
+#
+<sprite "ta01a97.iph" 4 4 11>
+<name "Celes" "!AA4308">
+"And helps for having sex with you."
+#
+<name "Lazlocke">
+"Y-You don't need to mention that."
+#
+<removesprite -1 11>
+<exit>
+:3708
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4309">
+"Master."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA4310">
+"Let's make love in this bed."
+#
+<name "Lazlocke">
+"All right.
+ Let's."
+#
+<removesprite -1 11>
+<exit>
+:3820
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a70.iph" 4 4 11>
+<name "Celes" "!AA4311">
+"Master, that's a very suggestive bed, isn't
+ it?"
+#
+<name "Lazlocke">
+"It is."
+#
+<sprite "ta01a74.iph" 4 4 12>
+<name "Celes" "!AA4312">
+"Can you endure it until tonight?"
+#
+<name "Lazlocke">
+"For now, let's sneak into cover..."
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA4313">
+"A-All right."
+#
+<removesprite -1 11>
+<exit>
+:3981
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4314">
+"This is a very nice set of living room
+ furniture."
+#
+<name "Lazlocke">
+"You like it?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4315">
+"Yeah. I'll take good care of it."
+#
+<removesprite -1 11>
+<exit>
+:3A76
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4316">
+"That's a nice table and couch."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4317">
+"I feel important now too."
+#
+<removesprite -1 11>
+<exit>
+:3B39
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA4318">
+"It's an expensive dresser, but the clothes are
+ all the same..."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4319">
+"I've got to keep working hard."
+#
+<removesprite -1 11>
+<exit>
+:3C0E
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4320">
+"Closets are more about storage than design."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4321">
+"I hope it can fit a lot.
+ ...I need more clothes."
+#
+<removesprite -1 11>
+<exit>
+:3D08
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4322">
+"Mmm... So pretty."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA4323">
+"But it's a closet."
+#
+<name "Lazlocke">
+"Well, isn't it better to be pretty?"
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA4324">
+"But it's a closet."
+#
+<removesprite -1 11>
+<exit>
+:3E44
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA4325">
+"It feels like the room suddenly got really
+ busy."
+#
+<name "Lazlocke">
+"Yeah, but when you think about it, it is a
+ pretty big room."
+#
+<removesprite -1 11>
+<exit>
+:3F13
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4326">
+"When you have a nice desk, you might be more
+ motivated to study."
+#
+<name "Lazlocke">
+"Any desk is motivational."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4327">
+"Yeah, but the question is the mood."
+#
+<removesprite -1 11>
+<exit>
+:4022
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4328">
+"I knew I wanted curtains."
+#
+<name "Lazlocke">
+"Really?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4329">
+"It's a girl's room."
+#
+<name "Lazlocke">
+"A girl? Oh, I see.
+ It didn't even cross my mind.
+ Sorry."
+#
+<removesprite -1 11>
+<exit>
+:4162
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA4330">
+"A carpet changes the atmosphere of the room."
+#
+<name "Lazlocke">
+"Yeah.
+ Maybe I should think about redoing my room
+ too."
+#
+<removesprite -1 11>
+<exit>
+:4231
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Another new carpet?"
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4331">
+"Yes. It's an easy way to change the atmosphere
+ of the room."
+#
+<name "Lazlocke">
+"No. Changing the carpet is certainly not easy."
+#
+<removesprite -1 11>
+<exit>
+:432B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA4332">
+"Ooh! The carpet covers my feet up to the
+ ankles."
+#
+<name "Lazlocke">
+"It's pretty luxurious."
+#
+<removesprite -1 11>
+<exit>
+:43CF
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4333">
+"Bookshelf...
+ Bookshelf..."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4334">
+"Since it's a nice bookshelf, I want nice books
+ to put on it."
+#
+<name "Lazlocke">
+"As long as they're within budget."
+#
+<removesprite -1 11>
+<exit>
+:44CF
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA4335">
+"This pleasure bookshelf is packed with pleasure
+ for a happy, happy daily life!"
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA4336">
+"...Oh."
+#
+<name "Lazlocke">
+"What is it?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA4337">
+"I don't have any hobbies that you can call
+ pleasurable."
+#
+<removesprite -1 11>
+<exit>
+:4649
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"There's a special bookshelf specifically for
+ magical books?"
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA4338">
+"You put too much on the floor or your desk."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4339">
+"Besides, some books are magical, so storing
+ them on a special bookshelf is the best way
+ to take care of them."
+#
+<name "Lazlocke">
+"Hmm...
+ I've never thought about that."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA4340">
+"Please start.
+ You're a wizard after all."
+#
+<removesprite -1 11>
+<exit>
+:482A
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Isn't this bookshelf way too heavy?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4341">
+"It's made from heavy materials."
+#
+<name "Lazlocke">
+"Oh? Why?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4342">
+"To train."
+#
+<name "Lazlocke">
+"Eh? Who's this for?
+ Who would even come up with such a stupid
+ bookshelf?"
+#
+<removesprite -1 11>
+<exit>
+:499B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA4343">
+"Master, this bookshelf is dangerous to touch
+ carelessly."
+#
+<name "Lazlocke">
+"Huh?"
+#
+<removesprite -1 11>
+I tap it. 
+Blades pop out of the sides.
+#
+<name "Lazlocke">
+"W-What the hell?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4344">
+"Always stay on edge.
+ That's apparently the thought process that
+ went into making this bookshelf."
+#
+<name "Lazlocke">
+"You seriously want this thing?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4345">
+"Oh, I think it's interesting."
+#
+<name "Lazlocke">
+"...Sometimes I really don't understand you."
+#
+<removesprite -1 11>
+<exit>
+:4BF1
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"This bookshelf is covered in fine carving work.
+ Are those all recipes?
+ There's so many."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4346">
+"Yeah. And none of them are repeated.
+ Don't you think it's quite a work of art?"
+#
+<name "Lazlocke">
+"It's certainly impressive..."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4347">
+"They say it took a craftsman from the east six
+ months to make."
+#
+<name "Lazlocke">
+"I see..."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA4348">
+"So what should we have for dinner tonight?
+ We never need to worry about that!"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4349">
+"Well, setting aside whether we can actually
+ make the recipes though."
+#
+<removesprite -1 11>
+<exit>
+:4EB0
+<music 31>
+<background "ev029a0.iph" 10>
+<name "Lazlocke">
+"You should buy a shelf appropriate to what
+ you're going to use it for."
+#
+<name "Celes" "!AA4350">
+"Yes. This one's good."
+#
+<exit>
+:4F36
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4351">
+"I think this shelf will have lots of uses."
+#
+<name "Lazlocke">
+"It's okay to have some fun, but don't forget
+ what you're going to use it for."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4352">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:503D
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4353">
+"I think this'll help me study magic."
+#
+<name "Lazlocke">
+"The books and tools inside are my
+ hand-me-downs."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4354">
+"No. They're books and tools carefully selected
+ based on personal experience."
+#
+<removesprite -1 11>
+<exit>
+:5160
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4355">
+"I think this'll help me study how to fight."
+#
+<name "Lazlocke">
+"How does one study fighting?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4356">
+"Like where's best to hit?
+ Or how to provoke your opponent when they're
+ keeping their distance.
+ Or tactics in battle."
+#
+<name "Lazlocke">
+"...Good luck."
+#
+<removesprite -1 11>
+<exit>
+:52DF
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4357">
+"I think this'll help me with weapons."
+#
+<name "Lazlocke">
+"Don't disappoint the furniture."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4358">
+"I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:53D8
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA4359">
+"Just a nice shelf isn't any good."
+#
+<name "Lazlocke">
+"Yeah, you need things to put on it."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA4360">
+"...I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:54DE
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4361">
+"If I have a lot of things to decorate this
+ shelf with, it'll shine too."
+#
+<name "Lazlocke">
+"Yeah, but there's always more trophies to get,
+ right?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4362">
+"Yeah, I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:55FB
+<music 10>
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"A painting?
+ I'm not much of an artist.
+ Is that a good painting?"
+#
+<sprite "ta01a36.iph" 4 4 11>
+<name "Celes" "!AA4363">
+"Honestly, I'm not sure myself."
+#
+<name "Lazlocke">
+"...Why did you buy it?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4364">
+"For the atmosphere."
+#
+<removesprite -1 11>
+<exit>
+:573B
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"A painting? Hm?
+ This is... you?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4365">
+"Yes. It's me fighting.
+ What do you think?"
+#
+<name "Lazlocke">
+"It's well drawn.
+ When'd you model?"
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4366">
+"Apparently the painter saw me at a tournament
+ and wanted to paint me."
+#
+<name "Lazlocke">
+"Oh?
+ Sounds like you've got fans."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA4367">
+"It's a little embarrassing."
+#
+<removesprite -1 11>
+<exit>
+:594A
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"What are you hanging from the ceiling?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4368">
+"I think it'll make the room feel better rather
+ than just having an empty ceiling."
+#
+<name "Lazlocke">
+"Is that really true?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4369">
+"It is."
+#
+<removesprite -1 11>
+<exit>
+\x78

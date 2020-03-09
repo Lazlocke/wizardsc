@@ -1,0 +1,936 @@
+\x1A\x01\x07\x04\x07\x09\x84\x00\x01\x0E :43: \xDB "探索" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :43: \x16 :718: \x0A\x04\x07\x09\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:43
+\x1A\x01\x07\x04\x07\x0A\x84\x00\x01\x0E :86: \xDB "探索" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :86: \x16 :8A0: \x0A\x04\x07\x0A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:86
+\x1A\x01\x07\x04\x07\x0B\x84\x00\x01\x0E :C9: \xDB "探索" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :C9: \x16 :99A: \x0A\x04\x07\x0B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:C9
+\x1A\x01\x07\x04\x07\x0C\x84\x00\x01\x0E :10E: \xDB "謎解き" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :10E: \x16 :BCC: \x0A\x04\x07\x0C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:10E
+\x1A\x01\x07\x04\x07\x0D\x84\x00\x01\x0E :153: \xDB "謎解き" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :153: \x16 :E25: \x0A\x04\x07\x0D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:153
+\x1A\x01\x07\x04\x07\x0E\x84\x00\x01\x0E :198: \xDB "謎解き" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :198: \x16 :F96: \x0A\x04\x07\x0E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:198
+\x1A\x01\x07\x04\x07\x0F\x84\x00\x01\x0E :1E1: \xDB "魔物の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1E1: \x16 :1194: \x0A\x04\x07\x0F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:1E1
+\x1A\x01\x07\x04\x07\x10\x84\x00\x01\x0E :22A: \xDB "魔物の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :22A: \x16 :140D: \x0A\x04\x07\x10\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:22A
+\x1A\x01\x07\x04\x07\x11\x84\x00\x01\x0E :273: \xDB "魔物の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :273: \x16 :1677: \x0A\x04\x07\x11\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:273
+\x1A\x01\x07\x04\x07\x12\x84\x00\x01\x0E :2BC: \xDB "魔物の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :2BC: \x16 :1883: \x0A\x04\x07\x12\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:2BC
+\x1A\x01\x07\x04\x07\x13\x84\x00\x01\x0E :301: \xDB "罠知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :301: \x16 :1A08: \x0A\x04\x07\x13\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:301
+\x1A\x01\x07\x04\x07\x14\x84\x00\x01\x0E :346: \xDB "罠知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :346: \x16 :1D0E: \x0A\x04\x07\x14\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:346
+\x1A\x01\x07\x04\x07\x15\x84\x00\x01\x0E :38B: \xDB "罠知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :38B: \x16 :1F80: \x0A\x04\x07\x15\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:38B
+\x1A\x01\x07\x04\x07\x16\x84\x00\x01\x0E :3D0: \xDB "罠知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :3D0: \x16 :2216: \x0A\x04\x07\x16\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:3D0
+\x1A\x01\x07\x04\x07
+<exit>
+\x84\x00\x01\x0E :415: \xDB "毒知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :415: \x16 :24D9: \x0A\x04\x07\x17\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:415
+\x1A\x01\x07\x04\x07\x18\x84\x00\x01\x0E :45A: \xDB "毒知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :45A: \x16 :266C: \x0A\x04\x07\x18\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:45A
+\x1A\x01\x07\x04\x07\x19\x84\x00\x01\x0E :49F: \xDB "毒知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :49F: \x16 :2908: \x0A\x04\x07\x19\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:49F
+\x1A\x01\x07\x04\x07\x1A\x84\x00\x01\x0E :500: \xA8 "料理" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :500: \xDB "毒知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :500: \x16 :2BB2: \x0A\x04\x07\x1A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:500
+\x1A\x01\x07\x04\x07\x1B\x84\x00\x01\x0E :549: \xDB "大会の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :549: \x16 :2CD8: \x0A\x04\x07\x1B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:549
+\x1A\x01\x07\x04\x07\x1C\x84\x00\x01\x0E :592: \xDB "大会の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :592: \x16 :2EBA: \x0A\x04\x07\x1C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:592
+\x1A\x01\x07\x04\x07\x1D\x84\x00\x01\x0E :5DB: \xDB "大会の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :5DB: \x16 :31FE: \x0A\x04\x07\x1D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:5DB
+\x1A\x01\x07\x04\x07\x1E\x84\x00\x01\x0E :624: \xDB "大会の知識" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :624: \x16 :349E: \x0A\x04\x07\x1E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:624
+\x1A\x01\x07\x04\x07\x1F\x84\x00\x01\x0E :676: \x1A\x01\x07\x04\x09\x1B\x84\x00\x01\x0E :676: \xDB "戦術" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :676: \x16 :36EC: \x0A\x04\x07\x1F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:676
+\x1A\x01\x07\x04\x07\x20\x84\x00\x01\x0E :6B9: \xDB "戦術" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :6B9: \x16 :3A4D: \x0A\x04\x07\x20\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:6B9
+\x1A\x01\x07\x04\x07\x20\x84\x00\x01\x0E :717: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :717: \xDB "戦術" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :717: \x16 :3DFA: \x0A\x04\x07\x20\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :717: 
+:717
+\x78
+:718
+<music 10>
+<background "bg002a0.iph" 11>
+-- Search --
+#
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA6318">
+"...Here!"
+#
+<name "Lazlocke">
+"Nope."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA6319">
+"Then here!"
+#
+<name "Lazlocke">
+"Nope."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6320">
+"Maybe here!"
+#
+<removesprite -1 11>
+The lost trinket remained unfound.
+#
+<exit>
+:8A0
+<music 10>
+<background "bg002a0.iph" 11>
+-- Search --
+#
+<sprite "ta01a22.iph" 4 4 11>
+<name "Celes" "!AA6321">
+"The thing you lost... is here!"
+#
+<removesprite -1 11>
+She says while looking into a crystal ball.
+#
+<name "Lazlocke">
+"This isn't search magic.
+ It's fortune telling."
+#
+<exit>
+:99A
+<music 10>
+<background "bg002a0.iph" 11>
+-- Search --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6322">
+"The trick when you're looking for things is to
+ change your perspective."
+#
+<name "Lazlocke">
+"Change your perspective?"
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6323">
+"Yeah. People will scour everything in their
+ sight, so by changing your line of sight, you
+ can search much faster."
+#
+<name "Lazlocke">
+"In other words, kneel or stretch?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6324">
+"To put it bluntly, yes."
+#
+<name "Lazlocke">
+"That's a pretty simple trick."
+#
+<removesprite -1 11>
+<exit>
+:BCC
+<music 10>
+<background "bg002a0.iph" 11>
+-- Demystify --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6325">
+"Hmmmmm...
+ The culprit is the victim's friend, Tom!"
+#
+<name "Lazlocke">
+"A mystery novel, huh?
+ Aren't you taking it a little too easily by
+ guessing after only reading the first few
+ pages?"
+#
+<sprite "ta01a25.iph" 4 4 12>
+<name "Celes" "!AA6326">
+"No. There's no doubt!"
+#
+<removesprite -1 11>
+I read the book.
+#
+...
+#
+<name "Lazlocke">
+"You were wrong."
+#
+<sprite "ta01a23.iph" 4 4 11>
+<name "Celes" "!AA6327">
+"I-Impossible!"
+#
+<name "Lazlocke">
+"The spell is more for uncovering the details
+ once find an actual mystery.
+ Like how the victim was killed, or how the
+ body got there."
+#
+<removesprite -1 11>
+<exit>
+:E25
+<music 10>
+<background "bg002a0.iph" 11>
+-- Demystify --
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6328">
+"Do this, and then that, and then if you do
+ this..."
+#
+<name "Lazlocke">
+"Ooh! You solved that difficult puzzle right
+ away."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6329">
+"This is child's play to me."
+#
+<removesprite -1 11>
+But I know that the answer was written in the
+back of the book.
+#
+<exit>
+:F96
+<music 10>
+<background "bg002a0.iph" 11>
+-- Demystify --
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6330">
+"Hmmm... 
+ This is hard."
+#
+<removesprite -1 11>
+She's struggling with a puzzle from another
+country.
+#
+<name "Lazlocke">
+"You don't unusually have much trouble with
+ puzzles."
+#
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA6331">
+"No, it's not that.
+ I don't know how to tell if this puzzle's
+ right or not."
+#
+<name "Lazlocke">
+"Ah, I see.
+ You don't know the rules.
+ I get it. Happens all the time.
+ Don't look at me though."
+#
+<removesprite -1 11>
+<exit>
+:1194
+<music 10>
+<background "bg002a0.iph" 11>
+-- Monsterology --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6332">
+"The monster illustrated here is nocturnal and
+ quick, but it's weak to fire, so you'll be okay
+ if you walk at night with a torch."
+#
+<name "Lazlocke">
+"Indeed."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6333">
+"The monster illustrated here is nocturnal.
+ It's normally docile and slow, but it gets
+ excited when it sees fire and attacks."
+#
+<name "Lazlocke">
+"Indeed.
+ What should you do if you're somewhere both of
+ these monsters live?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6334">
+"Don't go out at night there."
+#
+<name "Lazlocke">
+"Correct answer."
+#
+<removesprite -1 11>
+<exit>
+:140D
+<music 10>
+<background "bg002a0.iph" 11>
+-- Monsterology --
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA6335">
+"The more I find out about the biology of 
+ monsters, the stranger it gets."
+#
+<name "Lazlocke">
+"Oh?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6336">
+"Yeah.
+ Honestly, it's hard for me to believe these
+ creatures really exist in this world."
+#
+<name "Lazlocke">
+"I see. Some people have theorized that monsters
+ are creatures that came from the Netherworld or
+ Celestia ages ago."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6337">
+"Yeah. I want to keep studying."
+#
+<name "Lazlocke">
+"Well, keep at it."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6338">
+"I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:1677
+<music 10>
+<background "bg002a0.iph" 11>
+-- Monsterology --
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6339">
+"Even when it's the same species of monster,
+ each one might move and act differently."
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6340">
+"Why is that?"
+#
+<name "Lazlocke">
+"It's the same as why every human isn't the
+ same. Individuality in all things, even if the
+ core remains the same."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6341">
+"I see... Individuality, huh?
+ Very interesting.
+ I have to study more."
+#
+<removesprite -1 11>
+<exit>
+:1883
+<music 10>
+<background "bg014a0.iph" 11>
+-- Monsterology --
+#
+Celes's monster knowledge is pretty extensive.
+#
+<name "Neighborhood Kid" "!IA0052">
+"Hey, hey. Do you know what this monster is?"
+#
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA6342">
+"That's an Angnus Harix.
+ AKA a beto."
+#
+<name "Neighborhood Kid" "!IA0053">
+"Oooh. You're awesome."
+#
+<removesprite -1 11>
+Among the nearby kids, she's known as Dr.
+Monster.
+#
+<exit>
+:1A08
+<music 10>
+<background "bg002a0.iph" 11>
+-- Trapology --
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA1183">
+"There aren't any traps in tournaments, but
+ towers are full of them."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1184">
+"Study well so you don't waste your energy for
+ nothing."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA6343">
+"Yes, ma'am."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1187">
+"Now then, please proceed on the path I've 
+ prepared."
+#
+<sprite "ta01a06.iph" 2 5 12>
+<name "Celes" "!AA6344">
+"Huh?"
+#
+<sprite "ta04a09.iph" 6 4 12>
+<name "Soshiette" "!DA1188">
+"It's best to learn by experience."
+#
+<sprite "ta01a42.iph" 2 5 12>
+<name "Celes" "!AA6345">
+"...I-I'll do my best."
+#
+<removesprite -1 11>
+Celes learned, but suffered for her knowledge.
+#
+<exit>
+:1D0E
+<music 10>
+<background "bg014a0.iph" 11>
+-- Trapology --
+#
+<name "Lazlocke">
+"Celes."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6346">
+"Yes? What is it?"
+#
+<name "Lazlocke">
+"Why are you walking behind me?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6347">
+"It's safer."
+#
+<name "Lazlocke">
+"...Because of traps?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6348">
+"Yes."
+#
+<name "Lazlocke">
+"You don't feel any guilt for using your master
+ as bait?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6349">
+"I have faith you'll dodge them."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I drag her in front of me and scold her.
+#
+<exit>
+:1F80
+<music 10>
+<background "bg002a0.iph" 11>
+-- Trapology --
+#
+<name "Lazlocke">
+"What are you doing, Celes?
+ You're acting fishy."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6350">
+"Am I?"
+#
+<name "Lazlocke">
+"Yeah. You're not standing in front of the door,
+ and you're opening it weirdly.
+ And why are you crouching as you open it?"
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6351">
+"Most traps are set for a person's height, and
+ particularly aim for the neck for a fatal
+ blow."
+#
+<name "Lazlocke">
+"Would anybody be dumb enough to trap the
+ entrance to their own house?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6352">
+"Traps prey upon the gaps in human expectation."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I think Soshiette's lessons have gone too far.
+#
+I'll have to keep a closer eye on them.
+#
+<exit>
+:2216
+<music 10>
+<background "bg002a0.iph" 11>
+-- Trapology --
+#
+<name "Lazlocke">
+"Soshiette."
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1189">
+"Yes?"
+#
+<name "Lazlocke">
+"You've been teaching Celes about traps?"
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1190">
+"Yes."
+#
+<name "Lazlocke">
+"You're overdoing it.
+ It's reached the level where she's paranoid 
+ about everyone."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1191">
+"Seeing through traps is seeing through the
+ trickery and devilry of people. 
+ That's unavoidable if you want to truly become
+ a master."
+#
+<name "Lazlocke">
+"I don't care why.
+ Just get her out of her room.
+ She's refused to come out for days."
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA1192">
+"I'll try."
+#
+<removesprite -1 11>
+<exit>
+:24D9
+<music 10>
+<background "bg002a0.iph" 11>
+-- Toxicology --
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6353">
+"This is... poison."
+#
+<name "Lazlocke">
+"What about this one?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6354">
+"That's fine."
+#
+<removesprite -1 11>
+Her knowledge of poisons is very useful.
+#
+<sprite "ta01a36.iph" 4 4 11>
+<name "Celes" "!AA6355">
+"But I didn't expect it to be used to check
+ whether food in storage was still okay."
+#
+<removesprite -1 11>
+<exit>
+:266C
+<music 10>
+<background "bg002a0.iph" 11>
+-- Toxicology --
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA6356">
+"Hmm...
+ Hmmmmm..."
+#
+<removesprite -1 11>
+Celes is glancing back and forth between two
+glasses.
+#
+<name "Lazlocke">
+"What are you pondering?"
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6357">
+"Both of the have delicious juice, but one of 
+ them has poison in it.
+ That's what has me stumped."
+#
+<name "Lazlocke">
+"Throw them both out."
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6358">
+"Eeeh!?
+ But one of them is delicious juice."
+#
+<name "Lazlocke">
+"Then I'd guess the poison's in both."
+#
+<sprite "ta01a41.iph" 4 4 12>
+<name "Celes" "!AA6359">
+"Hmmm..."
+#
+<removesprite -1 11>
+<exit>
+:2908
+<music 10>
+<background "bg002a0.iph" 11>
+-- Toxicology --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1193">
+"For poisonous plants and mushrooms, there's no
+ subtitute for experience."
+#
+<removesprite -1 11>
+<sprite "ta01a10.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA6360">
+"No way!
+ I have to learn by eating them?"
+#
+<sprite "ta04a26.iph" 6 4 12>
+<name "Soshiette" "!DA1194">
+"That was my intention, but His Grace has said
+ no."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA6361">
+"Master, thank you."
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1195">
+"Since there's no other way, you'll have to
+ memorize this encyclopedia instead."
+#
+<sprite "ta01a17.iph" 2 5 12>
+<name "Celes" "!AA6362">
+"Master, thank you so, so much."
+#
+<removesprite -1 11>
+<exit>
+:2BB2
+<music 10>
+<background "bg002a0.iph" 11>
+-- Toxicology --
+#
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA6363">
+"...N-No way!"
+#
+<name "Lazlocke">
+"What?"
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6364">
+"The dinner I made is posionous..."
+#
+<name "Lazlocke">
+"...Keep studying."
+#
+<removesprite -1 11>
+<exit>
+:2CD8
+<music 10>
+<background "bg002a0.iph" 11>
+-- Gamesmanship --
+#
+<name "Lazlocke">
+"I'll tell you the first trick to winning a
+ tournament."
+#
+<name "Lazlocke">
+"Know thy enemy."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6365">
+"Know my opponent?"
+#
+<name "Lazlocke">
+"That's right. If you know your enemy, and know
+ yourself, you'll never be in danger.
+ You won't be able to do that for the first
+ round, but the others will be fighting too."
+#
+<name "Lazlocke">
+"Observe them closely."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6366">
+"Yes, sir.
+ I understand."
+#
+<removesprite -1 11>
+<exit>
+:2EBA
+<music 10>
+<background "bg002a0.iph" 11>
+-- Gamesmanship --
+#
+<name "Lazlocke">
+"Let's talk about the second trick to winning a
+ tournament."
+#
+<name "Lazlocke">
+"Conserve your strength."
+#
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA6368">
+"Y-Yes, sir."
+#
+<name "Lazlocke">
+"As for how to do that...
+ Against weak opponents, strike fast with all
+ your might and finish them in one shot!"
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA6369">
+"Strike fast with all my might?"
+#
+<name "Lazlocke">
+"Beat them quick, and the match will be quick.
+ You'll be able to conserve your strength."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6370">
+"I see.
+ It's just like you do at night."
+#
+<name "Lazlocke">
+"...Celes, that was a very dirty blow."
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA6371">
+"Huh?"
+#
+<removesprite -1 11>
+I push her down and punish her thoroughly.
+#
+<sprite "ta01a80.iph" 4 4 11>
+<name "Celes" "!AA6372">
+"O-Oohh...
+ I-I'm gonna die..."
+#
+<removesprite -1 11>
+<exit>
+:31FE
+<music 10>
+<background "bg002a0.iph" 11>
+-- Gamesmanship --
+#
+<name "Lazlocke">
+"There's a third trick to winning a tournament."
+#
+<name "Lazlocke">
+"Hide your skills."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6373">
+"Hide my skills?"
+#
+<name "Lazlocke">
+"If you show off everything you can do in the
+ first round, your opponents will be ready for
+ it."
+#
+<name "Lazlocke">
+"Well, it's probably not a big deal since you
+ can't just negate magic, but there's no such
+ thing as being too careful."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6374">
+"I understand.
+ I'll try to keep a trump card."
+#
+<name "Lazlocke">
+"Right, but if your opponent is tough, you
+ shouldn't hold back."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6375">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:349E
+<music 10>
+<background "bg002a0.iph" 11>
+-- Gamesmanship --
+#
+<name "Lazlocke">
+"Let's talk about the fourth trick for winning a
+ tournament."
+#
+<name "Lazlocke">
+"Befriend the judges!"
+#
+<name "Lazlocke">
+"Except... Judgeman is impartial to a fault.
+#
+<name "Lazlocke">
+"But think about when it's not Judgeman."
+#
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA6376">
+"Y-Yes, sir."
+#
+<name "Lazlocke">
+"There's two ways to get the judge on your
+ side, befriending them directly, or being 
+ polite and deferential no matter what call
+ they make.
+#
+<name "Lazlocke">
+"You'll have to tailor your methods depending
+ on the judge."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA6377">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:36EC
+<music 10>
+<background "bg002a0.iph" 11>
+-- Tactics --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6378">
+"Master, please be my opponent to help me study
+ tactics."
+#
+<name "Lazlocke">
+"Chess?
+ All right."
+#
+<removesprite -1 11>
+A few minutes later...
+#
+<name "Lazlocke">
+"...N-No way."
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA6379">
+"H-Hahaha... 
+ I-I just got lucky."
+#
+<removesprite -1 11>
+<sprite "ta04a63.iph" 4 4 11>
+<name "Soshiette" "!DA1196">
+"No, that wasn't luck.
+ Your tactics were splendid."
+#
+<name "Lazlocke">
+"Soshiette..."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1197">
+"Switch with me.
+ I'll be your next opponent."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA6380">
+"T-Thank you."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1198">
+"I will not be the disgrace you just faced."
+#
+<removesprite -1 11>
+I hate that I have no comeback.
+#
+<exit>
+:3A4D
+<music 10>
+<background "bg002a0.iph" 11>
+-- Tactics --
+#
+Celes is learning about old battles from 
+Soshiette.
+#
+<sprite "ta04a63.iph" 4 4 11>
+<name "Soshiette" "!DA1199">
+"What do you think about the movements of the
+eastern and western forces?"
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta04a63.iph" 6 4 11>
+<name "Celes" "!AA6381">
+"The west army has an overwhelming advantage.
+ I can't imagine they'd lose."
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1200">
+"But the west army was defeated."
+#
+<sprite "ta01a10.iph" 2 5 12>
+<name "Celes" "!AA6382">
+"I don't believe it.
+ What happened?"
+#
+<sprite "ta04a87.iph" 6 4 12>
+<name "Soshiette" "!DA1201">
+"They were betrayed."
+#
+<sprite "ta01a32.iph" 2 5 12>
+<name "Celes" "!AA6383">
+"Betrayed at this stage?
+ Did an idiot turn traitor?"
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1202">
+"It was an idiot.
+ So let's discuss the individual battles.
+ First, the battle began when this unit
+ engaged."
+#
+<removesprite -1 11>
+Soshiette continues her lecture.
+#
+I keep napping.
+#
+<exit>
+:3DFA
+<music 10>
+<background "bg002a0.iph" 11>
+-- Tactics --
+#
+<name "Lazlocke">
+"Tactics...
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6384">
+"Um, Master, this isn't the kind of lesson where
+ you attack physically."
+#
+<name "Lazlocke">
+"Did I look like that much of a lecher?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6385">
+"Y-Yes."
+#
+<name "Lazlocke">
+"........."
+#
+<removesprite -1 11>
+Anyway, I go after her.
+#
+<sprite "ta01a79.iph" 4 4 11>
+<name "Celes" "!AA6386">
+"Ohhh...
+ What an assault..."
+#
+<removesprite -1 11>
+<exit>
+\x78

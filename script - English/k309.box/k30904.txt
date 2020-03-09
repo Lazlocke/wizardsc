@@ -1,0 +1,886 @@
+\x1A\x01\x07\x04\x09\xD9\x84\x00\x01\x0E :63: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :63: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :63: \x1A\x01\x0A\x02\x00\x0B 0x0000AFC8 \x01\x15 :63: \x16 :172: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x00\xDA\x84\x01\x0A\x04\x09\xD9\x84\x01\xEE -50 \x15 :171: 
+:63
+\x1A\x01\x07\x04\x09\xDA\x84\x00\x01\x0E :C0: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :C0: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :C0: \x1A\x01\x0A\x02\x00\x0B 0x0000AFC8 \x01\x15 :C0: \x16 :2007: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x09\xDA\x84\x01\xEE -50 \x15 :171: 
+:C0
+\x1A\x01\x07\x04\x09\xDB\x84\x00\x01\x0E :11D: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :11D: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :11D: \x1A\x01\x0A\x02\x00\x0B 0x0000AFC8 \x01\x15 :11D: \x16 :3533: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x09\xDB\x84\x01\xEE -50 \x15 :171: 
+:11D
+\x1A\x01\x07\x04\x09\xDC\x84\x00\x01\x0E :171: \x1A\x01\x07\x04\x09\xDB\x84\x01\x01\x0E :171: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :171: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :171: \x16 :3AED: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x09\xDC\x84\x01\x15 :171: 
+:171
+\x78
+:172
+<music 11>
+<background "bg018a0.iph" 11>
+<name "Lazlocke">
+"This was an unexpected call.
+ Is something the matter?"
+#
+Not unexpected so much as forcible.
+#
+Her personal secretary came to my house to fetch
+me, and practically dragged me here.
+#
+Somehow, it feels even more forceful than
+Soshiette's threats.
+#
+<sprite "ta05a15.iph" 4 4 11>
+<name "Rune" "!EA0256">
+"First of all, sit down."
+#
+<removesprite -1 11>
+She chases her secretary out of the room.
+#
+<music 36>
+<background "ev075a0.iph" 10>
+<name "Lazlocke">
+"What am I supposed to think about being dragged
+ here out of nowhere?"
+#
+<name "Rune" "!EA0258">
+"You're backed up, aren't you?"
+#
+<name "Lazlocke">
+"...You mean mana?
+ Or lust?"
+#
+<name "Rune" "!EA0259">
+"Mana.
+ I keep telling you that you can't let it build
+ up."
+#
+<name "Lazlocke">
+"...Sorry."
+#
+<name "Rune" "!EA0260">
+"It's fine.
+ Still... Heheh...
+ As impressive as ever."
+#
+She takes out my dick, forcibly gets it big by
+stroking it, and then puts it between her breasts.
+#
+<background "ev075a1.iph" 10>
+<name "Rune" "!EA0261">
+"Mm...mm...amph..."
+#
+As she does that, she occasionally puts the tip
+in her mouth and stimulates me with her tongue.
+#
+She's not that great at it, but this is what she
+prefers to do when I don't listen to her.
+#
+<name "Rune" "!EA0262">
+"Mm...ah...ahmph...mm...mmm..."
+#
+My dick does feel nice in the warmth and softness
+of her breasts.
+#
+Her mouth on the top is also stimulating.
+#
+I want it deeper though.
+#
+<name "Rune" "!EA0263">
+"Mmm...mmm...mmph...mmm...
+ Heheh... You're twitching."
+#
+<name "Rune" "!EA0264">
+"You want to be inside me so soon?"
+#
+<name "Lazlocke">
+"You're a bully."
+#
+<name "Rune" "!EA0265">
+"Not as much as you are.
+ Amph...mmm..."
+#
+<name "Lazlocke">
+"...It's not like I'm building up mana on 
+ purpose."
+#
+The timing just hasn't worked out recently.
+#
+<name "Rune" "!EA0266">
+"When I heard you took a girl apprentice...
+ Mm...ah... Actually, I was relieved..."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Rune" "!EA0267">
+"Amph...mmm...mmm...
+ You'd always have someone...mmm... to give
+ mana to..."
+#
+<name "Rune" "!EA0268">
+"But... 
+ Mph...mmm..."
+#
+<name "Rune" "!EA0269">
+"Have you been being too careful?"
+#
+<name "Lazlocke">
+"...Not really.
+ If we're talking how often, it's a lot."
+#
+<name "Rune" "!EA0270">
+"Really?"
+#
+<name "Lazlocke">
+"Yeah."
+#
+<name "Rune" "!EA0271">
+"Then why do you have so much mana?"
+#
+<name "Lazlocke">
+"I think... my power's getting stronger."
+#
+<name "Rune" "!EA0272">
+"I can tell that it's stronger than it used to
+ be."
+#
+<name "Lazlocke">
+"Yeah."
+#
+She stimulates my dick more intensely.
+#
+<name "Rune" "!EA0273">
+"Ah...mmm...ah...ah...mmm...
+ Mmm...aah...mmm...mmm...mm...mmm...
+ Aah...mm...mmmmmmm..."
+#
+<background "ev075a2.iph" 10>
+Being rubbed between her breasts and teased by
+her mouth, my dick starts to spurt out semen.
+#
+<background "ev075a3.iph" 10>
+<name "Rune" "!EA0274">
+"Mm... Oh my...
+ Look at it go."
+#
+<name "Lazlocke">
+"...It's because of you."
+#
+<name "Rune" "!EA0275">
+"We've already proven beyond any doubt that having
+ too much mana is bad for your body and mind."
+#
+<name "Lazlocke">
+"..."
+#
+Yeah. There was about a year that I refused to
+be with any woman, and I got pretty messed up.
+#
+My situation is unique.
+#
+That's the problem with being a wizard's bride.
+#
+There's only so much mana that a human body can
+take.
+#
+A female wizard's bride can dilute and reduce the
+strength of her power by getting pregnant and
+having children.
+#
+But there's no known way for a male wizard's
+bride to weaken their power.
+#
+<name "Rune" "!EA0277">
+"There's no cure, but there are many ways to
+ treat it."
+#
+<name "Rune" "!EA0278">
+"The best way is to not let mana accumulate."
+#
+<name "Rune" "!EA0279">
+"The Guild will do whatever we can to help you
+ keep that from happening."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Rune" "!EA0281">
+"But if you won't listen to us, then I'll have to
+ restrain you and force you to you have sex for
+ your own sake."
+#
+<name "Rune" "!EA0282">
+"It won't be gentle like this."
+#
+<name "Lazlocke">
+"..."
+#
+<name "Rune" "!EA0283">
+"If you don't want that, keep letting out mana.
+ If you need someone, the Guild will provide them.
+ If you don't like that, we don't mind if you take
+ a love or an apprentice."
+#
+<name "Rune" "!EA0284">
+"Find someone."
+#
+<name "Lazlocke">
+"...I know."
+#
+<name "Rune" "!EA0285">
+"Do you really?"
+#
+<name "Lazlocke">
+"Yes. It's enough that I have you looking out for
+ me.
+ Thank you."
+#
+<name "Lazlocke">
+"But wait a little longer."
+#
+<name "Rune" "!EA0286">
+"A litte longer?"
+#
+<name "Lazlocke">
+"Yes. Until Celes participates in the Coudures
+ Tournament."
+#
+<name "Rune" "!EA0287">
+"........."
+#
+<name "Lazlocke">
+"No matter how it turns out with her, I swear."
+#
+<name "Rune" "!EA0289">
+"You promise?"
+#
+<name "Lazlocke">
+"Yes.
+ And... you know what else?"
+#
+<name "Rune" "!EA0290">
+"What?"
+#
+<name "Lazlocke">
+"...Once isn't near enough."
+#
+<name "Rune" "!EA0291">
+"...I'm sure."
+#
+I enjoy her breasts and shoot my semen in her 
+mouth and on her face multiple times.
+#
+<name "Rune" "!EA0292">
+"Aaah!ÅÙ
+Å@Delicious.ÅÙ"
+#
+<name "Lazlocke">
+"Urgh...
+ I can't take any more..."
+#
+<name "Rune" "!EA0293">
+"What are you talking about?
+ Coming outside of the vagina hardly lets out any
+ mana."
+#
+She's right.
+#
+<name "Rune" "!EA0294">
+"Next is... here."
+#
+She taps her stomach.
+#
+<name "Lazlocke">
+"...Y-You're relentless."
+#
+<name "Rune" "!EA0295">
+"If I wasn't, I couldn't be president of the 
+ Guild.
+ Please."
+#
+<name "Lazlocke">
+"All right."
+#
+<background "ev076a0.iph" 10>
+<name "Rune" "!EA0296">
+"Aaaah!ÅÙ"
+#
+I throw her down on the desk.
+#
+She's already wet.
+#
+She must have come at least once while pleasuring
+me.
+#
+I forcibly bury my dick into her wet pussy.
+#
+<background "ev076a1.iph" 10>
+<name "Rune" "!EA0297">
+"Aaah!ÅÙ"
+#
+She sucks my dick inside her all the way to the
+base.
+#
+And then she squeezes her walls tight around me.
+#
+Probably to hold onto me.
+#
+That clear welcoming act makes me start moving
+inside her with pleasure.
+#
+<name "Rune" "!EA0298">
+"Mmm...ah...mmm..."
+#
+It's hard to move when she's squeezing so tight,
+but after a couple thrusts, she relaxes to a more
+plesant embrace.
+#
+After that, every time I move, she squeezes and
+then loosens to let me slide in and out.
+#
+Whenever I rub somewhere she likes, she loosens,
+and then squeezes me back to where she likes it.
+#
+From that, I can tell how and where she wants me 
+to move, but I already know all of her sweet 
+spots.
+#
+<name "Rune" "!EA0299">
+"Aah...mmm...ah...ah...aaah...
+ Laz, that's nice...
+ Aah...mmm... Laz...
+ Aaaahh..."
+#
+I lift her legs up next to her breasts while
+moving inside her.
+#
+And I suck on her breasts in front of me.
+#
+<name "Rune" "!EA0300">
+"Aah...mmm...ah...
+ M-My breasts...
+ Ah...aah...mmm..."
+#
+I enjoy the softness, firmness, and taste of her.
+#
+All of it seems made to please me.
+#
+I suck on her breasts like a baby and move my hips
+faster.
+#
+<name "Rune" "!EA0301">
+"Ah...ah...aaah...mmmmmm..."
+#
+I want to come, and can't control myself.
+#
+Whatever happens next, I can't stop.
+#
+<name "Rune" "!EA0302">
+"Ah...mmm...mmm...mmmm...
+ Ahhh...aahhh...ah..."
+#
+I get up from her to tell her that I'm about to
+come.
+#
+<name "Rune" "!EA0303">
+"Mm...mmm...mmm...mm...mmm..."
+#
+She doesn't say a word, just clamps hard with her
+pussy, showing me that it's okay to come.
+#
+I bury myself deep inside her pussy and start
+letting out a flood of semen into the deepest part
+of her.
+#
+<background "ev076a2.iph" 10>
+<name "Rune" "!EA0304">
+"Mmmmm!!!"
+#
+She doesn't move as I come.
+#
+She just takes my semen.
+#
+<name "Rune" "!EA0305">
+"Mm...mmmmm...mm..."
+#
+When I finally finish...
+#
+<name "Rune" "!EA0306">
+"Mm... You let out quite a lot...
+ But that's not enough to satisfy you, is it?"
+#
+She's right.
+#
+I kiss her, move my hips again, and keep pouring
+semen into her.
+#
+\x0A\x44\x00\xCC\x84\x01
+<exit>
+:2007
+<music 36>
+<background "ev076a1.iph" 10>
+<name "Rune" "!EA0307">
+"Aah...ah...mmm...mmm...aahhh...
+ S-Such a brute.
+ Be gentler...
+ Ahhhh..."
+#
+<name "Lazlocke">
+"If you really want me to be gentle, then maybe
+ I should be."
+#
+As I say that, I violently pound her pussy.
+#
+<name "Rune" "!EA0308">
+"Aaah...mmm...mmm...
+ Honestly, you're such a bully."
+#
+<name "Lazlocke">
+"Not half as much as you are."
+#
+I suck on her breast.
+#
+<name "Rune" "!EA0309">
+"Heheh... Aah...
+ Your teeth on my nipple... Honestly...
+ Aaah...ah... Not just one of them...
+ Ah...aah..."
+#
+I suck on her other breast like she wants.
+#
+<name "Rune" "!EA0310">
+"Ah...ah...aah..."
+#
+She hugs me while focusing on the act.
+#
+<name "Rune" "!EA0311">
+"Mm... D-Do it...
+ Ah...aah..."
+#
+I move my hips harder and faster.
+#
+<name "Rune" "!EA0312">
+"Aah...mmm...mmm...
+ Mm... Yes...
+ Mm...mmm!"
+#
+And quickly come inside her.
+#
+<background "ev076a2.iph" 10>
+My dick spurts semen into her womb.
+#
+<name "Rune" "!EA0313">
+"Mmmmm...mmm...mm...mmmmmmmmm..."
+#
+She shakes and has a small orgasm herself.
+#
+She squeezes tight on my dick the whole time I
+come, never letting go as long as semen is 
+shooting into her.
+#
+Once I finish, I start moving to come again.
+#
+<name "Rune" "!EA0318">
+"Ah...ah...
+ W-Wait...
+ Aaah...aah...aaaah!"
+#
+She wants to enjoy the echoes of her orgasm, but
+I don't stop moving.
+#
+I keep using my hips, hands, and mouth to savor
+her entire body.
+#
+<background "ev076a3.iph" 10>
+I let out a flood of semen, inside and outside of
+her until I collapse into her chest.
+#
+We're both breathing hard.
+#
+As I settle down to the beating of her heart, the
+scent of our sex tickles my nose.
+#
+That was pretty intense.
+#
+She holds me close.
+#
+<name "Rune" "!EA0316">
+"Laz."
+#
+<name "Lazlocke">
+"...Yeah?"
+#
+<name "Rune" "!EA0317">
+"You're sometimes taking mana from other wizards,
+ right?"
+#
+<name "Lazlocke">
+"...I know."
+#
+<music 11>
+<background "bg018a0.iph" 11>
+Having too much mana inside you poisons your body
+and mind. Eventually, it'll kill you.
+#
+To keep that from happening, I have to constantly
+release mana.
+#
+And I'm always taking mana from other wizards.
+#
+Some people think it's strange that I give and
+take mana.
+#
+One of the properties of mana is that it wants to
+accumulate.
+#
+Mana is like fire. 
+The more mana there is, the more likely it is to
+ignite.
+#
+The mana inside me is unstable, but if left
+untouched, it'll try to take some kind of concrete
+form.
+#
+If it does, it'll attract mana that's similar to
+that form.
+#
+That's why I also need to take in mana that's not
+like the kind inside me to keep my mana in flux.
+#
+The reason I have to take mana from other wizards
+is to keep my mana from unstable.
+#
+That's why she and the Guild provide me women to
+both take mana from as well as give it to.
+#
+It's in the Guild's interest too.
+#
+The wizards I give mana to become more capable and
+powerful wizards. The mana I take remembers the
+spells those wizards have and can be studied.
+#
+So far, it's been kept extremely secret, and it's
+how the Guild has been stealing the spells and
+knowledge that wizards and other organizations
+have kept secret for centuries.
+#
+It's one of the biggest reasons the Guild's become
+a force to be reckoned with.
+#
+What I gain from it is being able to manage the
+mana inside me.
+#
+So I didn't argue about having sex with random
+women.
+#
+...Until I fell in love with Viola.
+#
+<sprite "ta05a21.iph" 4 4 11>
+<name "Rune" "!EA0319">
+"...I'm sorry about Viola.
+ I knew how you felt, but I assigned you to the
+ same unit anyway."
+#
+<name "Lazlocke">
+"That doesn't matter to me."
+#
+<sprite "ta05a20.iph" 4 4 12>
+<name "Rune" "!EA0320">
+"I was upset...
+ I was only thinking about you, not her."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I wanted to have a talented wizard at my side.
+#
+Someone skilled enough to siphon off my 
+considerable mana and convert it into magic.
+#
+<sprite "ta05a21.iph" 4 4 11>
+<name "Rune" "!EA0321">
+"I didn't think there was a wizard alive who
+ didn't desire you."
+#
+<name "Lazlocke">
+"I don't know that I'd have been happy even if it
+ had worked.
+ She's a wizard who never needed me."
+#
+<sprite "ta05a12.iph" 4 4 12>
+<name "Rune" "!EA0323">
+"Is that what made you love her?"
+#
+<name "Lazlocke">
+"Yeah."
+#
+<removesprite -1 11>
+She was strong enough to not need me.
+#
+She was a natural wizard.
+#
+And I fell in love with her for that.
+#
+<sprite "ta05a07.iph" 4 4 11>
+<name "Rune" "!EA0324">
+"By the way, you never fell in love with me?"
+#
+<name "Lazlocke">
+"You didn't know?
+ You were my first love."
+#
+<sprite "ta05a11.iph" 4 4 12>
+<name "Rune" "!EA0325">
+"Oh my."
+#
+<name "Lazlocke">
+"What's that look?"
+#
+<sprite "ta05a13.iph" 4 4 12>
+<name "Rune" "!EA0326">
+"Nothing. 
+ So that's why you attacked me when you were
+ young..."
+#
+<name "Lazlocke">
+"L-Let's forget about the old days."
+#
+<sprite "ta05a07.iph" 4 4 12>
+<name "Rune" "!EA0327">
+"Heheheh..."
+#
+<removesprite -1 11>
+She hugs me tight.
+#
+She was my first.
+#
+And she was also the first I gave mana to.
+#
+<sprite "ta05a10.iph" 4 4 11>
+<name "Rune" "!EA0328">
+"Just kidding.
+ Thank you."
+#
+<name "Lazlocke">
+"...No, I'm sorry for saying something awkward
+ like that."
+#
+<sprite "ta05a12.iph" 4 4 12>
+<name "Rune" "!EA0329">
+"It's fine, but please remember."
+#
+<sprite "ta05a07.iph" 4 4 12>
+<name "Rune" "!EA0330">
+"I want you to be happy.
+ I don't want you to be doomed to misery because
+ of the power you were born with."
+#
+<name "Lazlocke">
+"Yeah. I'll remember."
+#
+<sprite "ta05a12.iph" 4 4 12>
+<name "Rune" "!EA0331">
+"Mm..."
+#
+<removesprite -1 11>
+She kisses me on the cheek and pats me on the
+head.
+#
+\x0A\x44\x00\xCD\x84\x01
+<exit>
+:3533
+<music 11>
+<background "bg018a0.iph" 11>
+<sprite "ta05a12.iph" 4 4 11>
+<name "Rune" "!EA0351">
+"Sometimes sex just feels good." 
+#
+<name "Lazlocke">
+"Sometimes, you say...
+ It's been three days in a row."
+#
+<sprite "ta05a15.iph" 4 4 12>
+<name "Rune" "!EA0352">
+"Cause you're so rarely with me anymore."
+#
+<name "Lazlocke">
+"You're busy with your own work."
+#
+<removesprite -1 11>
+Unlike me, who gets to sleep during the day, she's
+busy with Guild stuff all day, and is then up all
+night with me.
+#
+I'm amazed she can keep up with it all.
+#
+<sprite "ta05a07.iph" 4 4 11>
+<name "Rune" "!EA0353">
+"Yes, but..."
+#
+<name "Lazlocke">
+"Let's call this enough.
+ I'll come back when the time is right."
+#
+<removesprite -1 11>
+I try to leave.
+#
+...But she keeps talking.
+#
+<sprite "ta05a22.iph" 4 4 11>
+<name "Rune" "!EA0355">
+"This after you took my virginity by force..."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta05a23.iph" 4 4 12>
+<name "Rune" "!EA0356">
+"And even though I've never been with any man but
+ you..."
+#
+<name "Lazlocke">
+"........."
+#
+<sprite "ta05a21.iph" 4 4 12>
+<name "Rune" "!EA0357">
+"But if you want to leave... you can go."
+#
+<name "Lazlocke">
+"..........................."
+#
+<removesprite -1 11>
+I stay with her for another three nights.
+#
+<sprite "ta06a00.iph" 4 4 11>
+<name "Guild Secretary" "!GA0137">
+"Whenever you come, she always gets right to
+ work and is in a good mood.
+ It's so nice."
+#
+<name "Guild Secretary" "!GA0138">
+"Could you maybe come every day?"
+#
+<removesprite -1 11>
+I politely decline the offer.
+#
+<exit>
+:3AED
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5681">
+"Your master's the head of the Guild, right?"
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA5682">
+"How did you become her apprentice?"
+#
+<name "Lazlocke">
+"How, huh?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5683">
+"Yeah."
+#
+<name "Lazlocke">
+"Hmmm...
+ I guess I'd say it was because I fell in love
+ when I saw her use magic."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA5684">
+"In love?"
+#
+<name "Lazlocke">
+"Yeah. Not like romantically though."
+#
+<removesprite -1 11>
+That came later.
+#
+<name "Lazlocke">
+"I thought magic was incredible.
+ I chased after her and tried to get her to teach
+ me."
+#
+<name "Lazlocke">
+"I asked her to be my master."
+#
+<name "Rune" "!EA0358">
+"You want to be my apprentice?"
+#
+That's what she said.
+#
+When I said yes, she kissed me on the cheek and
+patted me on the head.
+#
+<name "Lazlocke">
+"After that, I asked her why she took me in.
+ Maybe she thought I was cute, maybe just felt
+ like it, maybe looking for a future husband...
+ She's never answered me honestly."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5685">
+"Why then?"
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta05a11.iph" 6 4 11>
+<name "Rune" "!EA0359">
+"Because it was a star-crossed encounter."
+#
+<sprite "ta01a10.iph" 2 5 12>
+<name "Celes" "!AA5686">
+"Aah!"
+#
+<name "Lazlocke">
+"...Master, don't sneak in."
+#
+<sprite "ta05a07.iph" 6 4 12>
+<name "Rune" "!EA0360">
+"I was going to knock, but you were talking about
+ the old times."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA5687">
+"H-Hello."
+#
+<sprite "ta05a12.iph" 6 4 12>
+<name "Rune" "!EA0362">
+"Don't be nervous.
+ Tea, Lazlocke."
+#
+<name "Lazlocke">
+"Yeah, yeah."
+#
+<removesprite -1 11>
+After that, she told her side of the story of how
+we met.
+#
+It ended with the story of the heroic sword of
+legend.
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA5688">
+"I don't understand that ending."
+#
+<name "Lazlocke">
+"There, there."
+#
+<name "Lazlocke">
+"Well, the point is that she was never after my
+ power."
+#
+<name "Lazlocke">
+"Even I didn't really know about it until after I
+ was her apprentice for a while.
+ So don't worry about that."
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA5689">
+"Did she know?"
+#
+<name "Lazlocke">
+"Of course.
+ She is my master."
+#
+<removesprite -1 11>
+<exit>
+\x78

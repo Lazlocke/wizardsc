@@ -1,0 +1,1226 @@
+\x1A\x01\x07\x04\x06\x37\x84\x00\x01\x0E :41: \xDB "åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :41: \x16 :BE5: \x0A\x04\x06\x37\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:41
+\x1A\x01\x07\x04\x06\x38\x84\x00\x01\x0E :82: \xDB "åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :82: \x16 :E0E: \x0A\x04\x06\x38\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:82
+\x1A\x01\x07\x04\x06\x39\x84\x00\x01\x0E :C3: \xDB "åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :C3: \x16 :F61: \x0A\x04\x06\x39\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:C3
+\x1A\x01\x07\x04\x06\x3A\x84\x00\x01\x0E :106: \xDB "éaåï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :106: \x16 :10FF: \x0A\x04\x06\x3A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:106
+\x1A\x01\x07\x04\x06\x3B\x84\x00\x01\x0E :149: \xDB "éaåï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :149: \x16 :1258: \x0A\x04\x06\x3B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:149
+\x1A\x01\x07\x04\x06\x3C\x84\x00\x01\x0E :18C: \xDB "éaåï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :18C: \x16 :1346: \x0A\x04\x06\x3C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:18C
+\x1A\x01\x07\x04\x06\x3D\x84\x00\x01\x0E :1CF: \xDB "ífåï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1CF: \x16 :1454: \x0A\x04\x06\x3D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:1CF
+\x1A\x01\x07\x04\x06\x3E\x84\x00\x01\x0E :212: \xDB "ífåï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :212: \x16 :166A: \x0A\x04\x06\x3E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:212
+\x1A\x01\x07\x04\x06\x3F\x84\x00\x01\x0E :259: \xDB "îÈåïçgç˜" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :259: \x16 :18D8: \x0A\x04\x06\x3F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:259
+\x1A\x01\x07\x04\x06\x40\x84\x00\x01\x0E :2A0: \xDB "îÈåïçgç˜" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :2A0: \x16 :1A8E: \x0A\x04\x06\x40\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:2A0
+\x1A\x01\x07\x04\x06\x41\x84\x00\x01\x0E :2E1: \xDB "ñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2E1: \x16 :1C53: \x0A\x04\x06\x41\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:2E1
+\x1A\x01\x07\x04\x06\x42\x84\x00\x01\x0E :322: \xDB "ñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :322: \x16 :1E30: \x0A\x04\x06\x42\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:322
+\x1A\x01\x07\x04\x06\x43\x84\x00\x01\x0E :367: \xDB "ë≈Çøñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :367: \x16 :1FCB: \x0A\x04\x06\x43\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:367
+\x1A\x01\x07\x04\x06\x44\x84\x00\x01\x0E :3AC: \xDB "ë≈Çøñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :3AC: \x16 :21D4: \x0A\x04\x06\x44\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:3AC
+\x1A\x01\x07\x04\x06\x45\x84\x00\x01\x0E :3F1: \xDB "ìÀÇ´ñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3F1: \x16 :2312: \x0A\x04\x06\x45\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:3F1
+\x1A\x01\x07\x04\x06\x46\x84\x00\x01\x0E :436: \xDB "ìÀÇ´ñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :436: \x16 :248B: \x0A\x04\x06\x46\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:436
+\x1A\x01\x07\x04\x06\x47\x84\x00\x01\x0E :47B: \xDB "éaÇËñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47B: \x16 :25FD: \x0A\x04\x06\x47\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:47B
+\x1A\x01\x07\x04\x06\x48\x84\x00\x01\x0E :4DB: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :4DB: \xDB "éaÇËñ_" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4DB: \x16 :295A: \x0A\x04\x06\x48\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:4DB
+\x1A\x01\x07\x04\x06\x49\x84\x00\x01\x0E :51C: \xDB "ïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :51C: \x16 :2A66: \x0A\x04\x06\x49\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:51C
+\x1A\x01\x07\x04\x06\x4A\x84\x00\x01\x0E :55D: \xDB "ïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :55D: \x16 :2DEB: \x0A\x04\x06\x4A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:55D
+\x1A\x01\x07\x04\x06\x4B\x84\x00\x01\x0E :59E: \xDB "ïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :59E: \x16 :2FDE: \x0A\x04\x06\x4B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:59E
+\x1A\x01\x07\x04\x06\x4C\x84\x00\x01\x0E :5E5: \xDB "êkÇ¶ÇÈïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5E5: \x16 :3156: \x0A\x04\x06\x4C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:5E5
+\x1A\x01\x07\x04\x06\x4D\x84\x00\x01\x0E :647: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :647: \xDB "êkÇ¶ÇÈïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :647: \x16 :3350: \x0A\x04\x06\x4D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:647
+\x1A\x01\x07\x04\x06\x4E\x84\x00\x01\x0E :68C: \xDB "ñ“ÇÈïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :68C: \x16 :3441: \x0A\x04\x06\x4E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:68C
+\x1A\x01\x07\x04\x06\x4F\x84\x00\x01\x0E :6EC: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :6EC: \xDB "ñ“ÇÈïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :6EC: \x16 :35C7: \x0A\x04\x06\x4F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:6EC
+\x1A\x01\x07\x04\x06\x50\x84\x00\x01\x0E :733: \xDB "ñ\ÇÍÇÈïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :733: \x16 :3706: \x0A\x04\x06\x50\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:733
+\x1A\x01\x07\x04\x06\x51\x84\x00\x01\x0E :795: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :795: \xDB "ñ\ÇÍÇÈïÄ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :795: \x16 :3865: \x0A\x04\x06\x51\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:795
+\x1A\x01\x07\x04\x06\x52\x84\x00\x01\x0E :7DC: \xDB "ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :7DC: \x16 :39BD: \x0A\x04\x06\x52\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:7DC
+\x1A\x01\x07\x04\x06\x53\x84\x00\x01\x0E :823: \xDB "ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :823: \x16 :3C3D: \x0A\x04\x06\x53\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:823
+\x1A\x01\x07\x04\x06\x54\x84\x00\x01\x0E :86A: \xDB "ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :86A: \x16 :3D8A: \x0A\x04\x06\x54\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:86A
+\x1A\x01\x07\x04\x06\x55\x84\x00\x01\x0E :8CC: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :8CC: \xDB "ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :8CC: \x16 :3E59: \x0A\x04\x06\x55\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:8CC
+\x1A\x01\x07\x04\x06\x56\x84\x00\x01\x0E :917: \xDB "âÒì]ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :917: \x16 :40A1: \x0A\x04\x06\x56\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:917
+\x1A\x01\x07\x04\x06\x57\x84\x00\x01\x0E :962: \xDB "âÒì]ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :962: \x16 :4470: \x0A\x04\x06\x57\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:962
+\x1A\x01\x07\x04\x06\x58\x84\x00\x01\x0E :9C8: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :9C8: \xDB "âÒì]ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :9C8: \x16 :45D4: \x0A\x04\x06\x58\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:9C8
+\x1A\x01\x07\x04\x06\x59\x84\x00\x01\x0E :A13: \xDB "ìÀä—ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :A13: \x16 :474C: \x0A\x04\x06\x59\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:A13
+\x1A\x01\x07\x04\x06\x5A\x84\x00\x01\x0E :A5E: \xDB "ìÀä—ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :A5E: \x16 :4A6B: \x0A\x04\x06\x5A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:A5E
+\x1A\x01\x07\x04\x06\x5B\x84\x00\x01\x0E :AA9: \xDB "îöç”ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :AA9: \x16 :4B89: \x0A\x04\x06\x5B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:AA9
+\x1A\x01\x07\x04\x06\x5C\x84\x00\x01\x0E :AF4: \xDB "îöç”ÉnÉìÉ}Å[" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :AF4: \x16 :4E7E: \x0A\x04\x06\x5C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:AF4
+\x1A\x01\x07\x04\x06\x5D\x84\x00\x01\x0E :B3B: \xDB "ïêäÌñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :B3B: \x16 :50B0: \x0A\x04\x06\x5D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:B3B
+\x1A\x01\x07\x04\x06\x5E\x84\x00\x01\x0E :B82: \xDB "ïêäÌñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :B82: \x16 :51DE: \x0A\x04\x06\x5E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:B82
+\x1A\x01\x07\x04\x06\x5F\x84\x00\x01\x0E :BE4: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :BE4: \xDB "ïêäÌñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :BE4: \x16 :5306: \x0A\x04\x06\x5F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+:BE4
+\x78
+:BE5
+<music 10>
+<background "bg004a0.iph" 11>
+-- Blades --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1093">
+"Swordsmanship.
+ The art of handling a blade.
+ That is what you will be learning."
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5883">
+"Yes, ma'am."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1094">
+"This is for self-defense and victory in battle.
+ I expect you to eventually surpass me."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5884">
+"Y-Yes, ma'am.
+ I understand."
+#
+<removesprite -1 11>
+Celes has started learning the way of the sword
+from Soshiette. 
+#
+<exit>
+:E0E
+<music 25>
+<background "bg004a0.iph" 11>
+-- Blades --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5885">
+"Yah!"
+#
+<removesprite -1 11>
+Celes swings a sword and cuts into the tree
+padded with straw.
+#
+But the blade gets stuck partway through the
+trunk.
+#
+<sprite "ta01d36.iph" 4 4 11>
+<name "Celes" "!AA5886">
+"...Forget what just happened."
+#
+<removesprite -1 11>
+Celes keeps practicing.
+#
+<exit>
+:F61
+<music 10>
+<background "bg004a0.iph" 11>
+-- Blades --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5887">
+"It's just my opinion, but I think I've gotten
+ pretty good with swords."
+#
+<name "Lazlocke">
+"That's definitely your own opinion."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5888">
+"Hahaha..."
+#
+<name "Lazlocke">
+"But I must admit you've made progress."
+#
+<sprite "ta01d17.iph" 4 4 12>
+<name "Celes" "!AA5889">
+"That's high priase.ÅÙ"
+#
+<removesprite -1 11>
+<exit>
+:10FF
+<music 10>
+<background "bg004a0.iph" 11>
+-- Slash --
+#
+<name "Lazlocke">
+"I'm not going to be fitting opponent for you to
+ practice sword fighting against."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5890">
+"Not at all."
+#
+<name "Lazlocke">
+"Give me a break.
+ ...I'll find someone practiced for you to spar
+ with."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5891">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:1258
+<music 10>
+<background "bg004a0.iph" 11>
+-- Slash --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5892">
+"Yah!"
+#
+<name "Lazlocke">
+"Ooh! Two in one strike!"
+#
+<name "Lazlocke">
+"But why are you getting so worked up over
+ cutting radishes?"
+#
+<removesprite -1 11>
+<exit>
+:1346
+<music 10>
+<background "bg004a0.iph" 11>
+-- Slash --
+#
+<sprite "ta01d22.iph" 4 4 11>
+<name "Celes" "!AA5893">
+"Hiyah!"
+#
+<removesprite -1 11>
+Celes swings her sword and cuts the seal on the
+envelope.
+#
+<name "Lazlocke">
+"It takes a lot of skill to cut so precisely,
+ but I can't help thinking that you're wasting
+ your skills."
+#
+<exit>
+:1454
+<music 10>
+<background "bg004a0.iph" 11>
+-- Hard Slash --
+#
+<name "Lazlocke">
+"Celes, can you cut this log thin?"
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5894">
+"Leave it to me."
+#
+<removesprite -1 11>
+She slices it lengthwise.
+#
+Perfect.
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5895">
+"Master, is that good?"
+#
+<name "Lazlocke">
+"Yeah, I can use this to fix the roof."
+#
+<sprite "ta01d41.iph" 4 4 12>
+<name "Celes" "!AA5896">
+"Master, can you please stop asking to use my
+ swordsmanship like that?"
+#
+<removesprite -1 11>
+<exit>
+:166A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Hard Slash --
+#
+<sprite "ta01d17.iph" 4 4 11>
+<name "Celes" "!AA5897">
+"I can cut anything!"
+#
+<name "Lazlocke">
+"Yeah!"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5898">
+"I can cut it!"
+#
+<name "Lazlocke">
+"Yeah!"
+#
+<sprite "ta01d17.iph" 4 4 12>
+<name "Celes" "!AA5899">
+"Yay!"
+#
+<name "Lazlocke">
+"Then cut these carrots!"
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5900">
+"...What are you going to do after that?"
+#
+<name "Lazlocke">
+"No wasting food.
+ They'll be delicious."
+#
+<sprite "ta01d41.iph" 4 4 12>
+<name "Celes" "!AA5901">
+"Oohh..."
+#
+<removesprite -1 11>
+She hates carrots.
+#
+<exit>
+:18D8
+<music 10>
+<background "bg004a0.iph" 11>
+-- Crimson Blossom --
+#
+<name "Lazlocke">
+"Crimson Blossom...
+ For now, you can use it, but don't forget that
+ you're only learning the style."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5902">
+"Yes, sir."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1095">
+"Even if you're just learning the style, being
+ able to use it at all is impressive."
+#
+<name "Lazlocke">
+"I'm trying to brace myself for this.
+ Don't make things worse."
+#
+<removesprite -1 11>
+<exit>
+:1A8E
+<music 10>
+<background "bg004a0.iph" 11>
+-- Crimson Blossom --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1096">
+"This technique was used by a hero of legend.
+ The blood that gushes from his opponent looked
+ like a crimson blossom, which is where it got
+ its name."
+#
+<removesprite -1 11>
+<sprite "ta01d32.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5903">
+"T-That's a scary move."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1097">
+"It is, so when you use it, be prepared for the
+ consequences."
+#
+<removesprite -1 11>
+<exit>
+:1C53
+<music 10>
+<background "bg004a0.iph" 11>
+-- Staves --
+#
+<name "Lazlocke">
+"Many wizards use staves to make it easier to
+ use magic.
+ The reason is because there are so many stick
+ shaped magical items."
+#
+<name "Lazlocke">
+"In other words, a wizard with a staff has a lot
+ of options."
+#
+<name "Lazlocke">
+"If you can use it as a weapon, that'll be very
+ useful at the times when you can't use magic."
+#
+<name "Lazlocke">
+"So you'll be learning how to fight with a
+ staff. Staves and wands have a lot of
+ similarities. Learn everything you can about
+ them."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5904">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:1E30
+<music 10>
+<background "bg004a0.iph" 11>
+-- Staves --
+#
+<name "Lazlocke">
+"You've gotten pretty good with a staff."
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5905">
+"No, I still have a long way to go.
+ This is nothing..."
+#
+<name "Lazlocke">
+"Really?"
+#
+<sprite "ta01d20.iph" 4 4 12>
+<name "Celes" "!AA5906">
+"Yeah. I can beat an amateur, but I'd be no
+ match for anybody with even a little staff
+ training."
+#
+<removesprite -1 11>
+She continues practicing.
+#
+<exit>
+:1FCB
+<music 10>
+<background "bg004a0.iph" 11>
+-- Strike --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5907">
+"Striking with a staff is one of the fundamental
+ movements.
+ I have to get this down perfectly.
+#
+<name "Lazlocke">
+"You say that, but you've been swinging that
+ staff for hours."
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA5908">
+"Huh? I have?
+ Oh, you're right."
+#
+<name "Lazlocke">
+"Take a break.
+ Pick it up again tomorrow."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5909">
+"Y-Yes, sir.
+ After just a little more."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+<exit>
+:21D4
+<music 10>
+<background "bg004a0.iph" 11>
+-- Strike --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5910">
+"Yah! Hya! Yah!"
+#
+<name "Lazlocke">
+"...Seems like you could make an amazing pizza."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5911">
+"Yes. I've gotten very good with a staff."
+#
+<removesprite -1 11>
+Is that a good thing?
+#
+<exit>
+:2312
+<music 10>
+<background "bg004a0.iph" 11>
+-- Thrust --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5912">
+"Don't just thrust the staff out, rotate it too.
+ When you do that, it feels more powerful."
+#
+<name "Lazlocke">
+"If you're telling me that... is that your way
+ of asking me to try doing that?"
+#
+<sprite "ta01d97.iph" 4 4 12>
+<name "Celes" "!AA5913">
+"N-No!"
+#
+<removesprite -1 11>
+<exit>
+:248B
+<music 25>
+<background "bg004a0.iph" 11>
+-- Thrust --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5914">
+"Yah!"
+#
+<removesprite -1 11>
+Celes's thrust pierces the dummy.
+#
+<name "Lazlocke">
+"That's some power."
+#
+<sprite "ta01d17.iph" 4 4 11>
+<name "Celes" "!AA5915">
+"Hahaha... but your thrusts are strong too."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I've had a lot of practice.
+#
+<exit>
+:25FD
+<music 10>
+<background "bg004a0.iph" 11>
+-- Slicing Staff --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5916">
+"Cut with a staff!"
+#
+<name "Lazlocke">
+"Sure it's not just hitting it?"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5917">
+"It looks like you're hitting it, but you cut
+ it."
+#
+<name "Lazlocke">
+"Then this radish..."
+#
+<sprite "ta01d20.iph" 4 4 12>
+<name "Celes" "!AA5918">
+"...All right.
+ Master, hold it up."
+#
+<name "Lazlocke">
+"Like this?"
+#
+<sprite "ta01d90.iph" 4 4 12>
+<name "Celes" "!AA5919">
+"Yes."
+#
+<name "Lazlocke">
+"Is it just me, or are you aiming at my hand?"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5920">
+"You're imagining things."
+#
+<name "Lazlocke">
+"You're definitely focused completely on my
+ hand."
+#
+<sprite "ta01d20.iph" 4 4 12>
+<name "Celes" "!AA5921">
+"You're imagining things.
+ Here goes."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I apologized before I got hurt.
+#
+<exit>
+:295A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Slicing Staff --
+#
+<name "Lazlocke">
+"Hmm. Cutting with a staff, huh?"
+#
+<sprite "ta01d97.iph" 4 4 11>
+<name "Celes" "!AA5922">
+"Um, Master, can you please stop tapping that
+ thing on your hand?"
+#
+<name "Lazlocke">
+"That thing is a burdock root."
+#
+<removesprite -1 11>
+<exit>
+:2A66
+<music 10>
+<background "bg004a0.iph" 11>
+-- Axes --
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1098">
+"How to use an ax?"
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a06.iph" 6 4 11>
+<name "Celes" "!AA5923">
+"Yes. Please teach me how to use an ax."
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1099">
+"I don't mind, but why an ax?"
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5924">
+"I'm not sure.
+ Something about them called to me."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1100">
+"I see.
+ Well, you'll likely come across them."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA5925">
+"Then..."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1101">
+"Very well.
+ I'll teach you how to use an ax."
+#
+<sprite "ta01d17.iph" 2 5 12>
+<name "Celes" "!AA5926">
+"Thank you very much."
+#
+<removesprite -1 11>
+Celes started learning how to fight with an ax
+from Soshiette.
+#
+<exit>
+:2DEB
+<music 10>
+<background "bg004a0.iph" 11>
+-- Axes --
+#
+Celes swings an ax and cuts into a tree.
+#
+<name "Impressed Man" "!QB0185">
+"What overwhelming power!"
+#
+<name "Surprised Man" "!RB0212">
+"What a perfect blow!"
+#
+<name "Admiring Man" "!SB0214">
+"An amazing ax wielder!"
+#
+<name "Concluding Man" "!TB0176">
+"That girl's no regular person!"
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5927">
+"Um..."
+#
+<removesprite -1 11>
+Celes escaped.
+#
+<name "Lazlocke">
+"What are you running for?"
+#
+<sprite "ta01d92.iph" 4 4 11>
+<name "Celes" "!AA5928">
+"I-It's embarrassing..."
+#
+<removesprite -1 11>
+<exit>
+:2FDE
+<music 10>
+<background "bg004a0.iph" 11>
+-- Axes --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5929">
+"Since I got good with axes, cutting firewood 
+ has gotten much easier."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5930">
+"I can race through it so easily!"
+#
+<name "Lazlocke">
+"Have you gotten better with an ax, or are you
+ just being that much more reckless?"
+#
+<removesprite -1 11>
+<exit>
+:3156
+<music 10>
+<background "bg004a0.iph" 11>
+-- Quake Ax --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1105">
+"This is not a technique that causes the ax to
+ cause a quake. It's a technique with an ax so
+ terrifying that it makes the opponent quake."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA1103">
+"So stop pretending like there'll be an
+ earthquake as you practice it."
+#
+<removesprite -1 11>
+<sprite "ta01d36.iph" 2 5 11>
+<sprite "ta04a29.iph" 6 4 11>
+<name "Celes" "!AA5931">
+"Um..."
+#
+<sprite "ta04a28.iph" 6 4 12>
+<name "Soshiette" "!DA1104">
+"Puppy dog eyes will not help."
+#
+<removesprite -1 11>
+<exit>
+:3350
+<music 10>
+<background "bg004a0.iph" 11>
+-- Quake Ax --
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5932">
+"Quake ax..."
+#
+<name "Lazlocke">
+"Celes, please stop practicing that when you're
+ with me. 
+ The vibration feels dangerously good."
+#
+<removesprite -1 11>
+<exit>
+:3441
+<music 10>
+<background "bg004a0.iph" 11>
+-- Raging Ax --
+#
+<sprite "ta01d24.iph" 4 4 11>
+<name "Celes" "!AA5933">
+"Yaaaaaahhh!!!"
+#
+<name "Lazlocke">
+"...What's with all the shouting?"
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA5934">
+"Oh, it's for a skill.
+ If I don't shout, there's no power behind it."
+#
+<name "Lazlocke">
+"That seems like an inconvenient skill."
+#
+<sprite "ta01d31.iph" 4 4 12>
+<name "Celes" "!AA5935">
+"Seriously."
+#
+<removesprite -1 11>
+<exit>
+:35C7
+<music 10>
+<background "bg004a0.iph" 11>
+-- Raging Ax --
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5936">
+"Raging ax..."
+#
+<name "Lazlocke">
+"Celes, please don't practice that when you're
+ with me."
+#
+<sprite "ta01d58.iph" 4 4 12>
+<name "Celes" "!AA5937">
+"This raging feeling..."
+#
+<name "Lazlocke">
+"I'm sure there's a lot, but please no."
+#
+<removesprite -1 11>
+<exit>
+:3706
+<music 10>
+<background "bg004a0.iph" 11>
+-- Berserker Ax --
+#
+<sprite "ta01d09.iph" 4 4 11>
+<name "Celes" "!AA5938">
+"It looks berserk, but it's actually precise
+ control."
+#
+<name "Lazlocke">
+"I see. So that ax that cut off my bangs wasn't
+ you messing up, but an example of your precise
+ control?"
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA5939">
+"I-I'm sorry."
+#
+<removesprite -1 11>
+<exit>
+:3865
+<music 10>
+<background "bg004a0.iph" 11>
+-- Berserker Ax --
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5940">
+"Berserker ax..."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5941">
+"Skillfully manipulating a heavy ax..."
+#
+<name "Lazlocke">
+"C-Celes, um, please stop practicing that when
+ you're with me."
+#
+<name "Lazlocke">
+"It's getting kind of weird."
+#
+<removesprite -1 11>
+<exit>
+:39BD
+<music 10>
+<background "bg004a0.iph" 11>
+-- Hammers --
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA5942">
+"A hammer?"
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1107">
+"Yes. A simple weapon based on mass.
+ So long as you hit, it will cause damage.
+ No extra tricks required."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA5943">
+"Oooh!"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1108">
+"I'm not sure it's best for you, but I did want
+ to suggest it."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5944">
+"Understood.
+ I will master it."
+#
+<removesprite -1 11>
+Celes started learning how to fight with
+hammers.
+#
+<exit>
+:3C3D
+<music 10>
+<background "bg004a0.iph" 11>
+-- Hammers --
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA5945">
+"Crush your opponent.
+ ...It's not bad."
+#
+<name "Lazlocke">
+"A-A hammer's not a very girly weapon."
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5946">
+"Hahaha...
+ I'm enhancing my strength with magic."
+#
+<removesprite -1 11>
+<exit>
+:3D8A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Hammers --
+#
+<name "Lazlocke">
+"Sorry, but can you fix the roof?"
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5947">
+"It's fine.
+ Leave the hammer work to me."
+#
+<removesprite -1 11>
+<exit>
+:3E59
+<music 10>
+<background "bg004a0.iph" 11>
+-- Hammers --
+#
+<name "Lazlocke">
+"Hmm... When I watch Celes learning how to use a
+ hammer..."
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1109">
+"What about it?"
+#
+<name "Lazlocke">
+"I start getting scared that hammer will one day
+ be striking my head."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1110">
+"If you're worried, shouldn't you be nicer to
+ her?"
+#
+<name "Lazlocke">
+"I want to be."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1112">
+"In bed too?"
+#
+<name "Lazlocke">
+"Mm... hmmm..."
+#
+<removesprite -1 11>
+<exit>
+:40A1
+<music 10>
+<background "bg004a0.iph" 11>
+-- Spinning Hammer --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1113">
+"Miss Celes, I want to teach you a new skill."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5948">
+"What skill?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1114">
+"Spinning hammer."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA5949">
+"Spinning... hammer?"
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1115">
+"Yes. It's an attack using centrifugal force to
+ increase its power."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA5950">
+"Oooh!"
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1116">
+"But it becomes much harder to control.
+ Do you want to learn it?"
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5951">
+"Of course!"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1117">
+"Good answer."
+#
+<removesprite -1 11>
+Soshiette taught Celes the new move.
+#
+That's all well and good, but isn't there a
+better name for it?
+#
+<exit>
+:4470
+<music 10>
+<background "bg004a0.iph" 11>
+-- Spinning Hammer --
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5952">
+"Centrifugal force is incredible."
+#
+<name "Lazlocke">
+"It is, but it can be hard to see its
+ weakness."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5953">
+"It's easy to see when you pour water in a 
+ bucket and swirl it around."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+<exit>
+:45D4
+<music 10>
+<background "bg004a0.iph" 11>
+-- Spinning Hammer --
+#
+<name "Lazlocke">
+"Spinning hammer...
+ Centrifugal force..."
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1118">
+"Thinking about a new sex move?"
+#
+<name "Lazlocke">
+"How rude."
+#
+<sprite "ta04a15.iph" 4 4 12>
+<name "Soshiette" "!DA1119">
+"Then what are you thinking about?"
+#
+<name "Lazlocke">
+"...H-How to use centrifugal force in my daily
+ life."
+#
+<removesprite -1 11>
+<exit>
+:474C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Crash Hammer --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1120">
+"Using a hammer is at its core, a striking
+ attack."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1121">
+"Think about that and crash through it with your
+ hammer."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5954">
+"Um, how is it different?"
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1122">
+"A striking blow stops on impact.
+ Crashing through it does not stop on impact."
+#
+<sprite "ta01d37.iph" 2 5 12>
+<name "Celes" "!AA5955">
+"Oohh..."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1123">
+"Please be careful as you learn this skill."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5956">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+Celes learned how to use a new skill from
+Soshiette.
+#
+<exit>
+:4A6B
+<music 10>
+<background "bg004a0.iph" 11>
+-- Crash Hammer --
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA5957">
+"Crash hammer...
+ This skill is useless for carpentry."
+#
+<removesprite -1 11>
+<sprite "ta01d32.iph" 2 5 11>
+<sprite "ta04a28.iph" 6 4 11>
+<name "Soshiette" "!DA1124">
+"Of course."
+#
+<removesprite -1 11>
+<exit>
+:4B89
+<music 10>
+<background "bg004a0.iph" 11>
+-- Blast Hammer --
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5958">
+"Blast?"
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Soshiette" "!DA1125">
+"Yes. Strike with your hammer and explode from
+ the point of impact."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA5959">
+"Um, is this actually hammer training?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1126">
+"No, it's a technique."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5960">
+"Isn't it just exploding with a hammer?"
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1127">
+"Yes.
+ Learn it."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5961">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+Celes learned a new skill from Soshiette.
+#
+<exit>
+:4E7E
+<music 10>
+<background "bg001a0.iph" 11>
+-- Blast Hammer --
+#
+Celes is repairing the roof.
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5962">
+"Tap tap... Tap tap...
+ Aaah!"
+#
+<name "Lazlocke">
+"What happened?"
+#
+<sprite "ta01d10.iph" 4 4 12>
+<name "Celes" "!AA5963">
+"I-It blew up."
+#
+<name "Lazlocke">
+"...It didn't blew up.
+ It exploded."
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA5964">
+"Hahaha...
+ I'm sorry."
+#
+<name "Lazlocke">
+"There's a huge hole in the roof now.
+ Fix it by tonight."
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA5965">
+"I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:50B0
+<music 10>
+<background "bg004a0.iph" 11>
+-- Weapon Defense --
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5968">
+"The more you know about weapons, the better
+ you'll be able to protect yourself against
+ them."
+#
+<name "Lazlocke">
+"That's right, but don't let it go to your
+ head."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5969">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:51DE
+<music 10>
+<background "bg004a0.iph" 11>
+-- Weapon Defense --
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1128">
+"Her defense against weapons is impregnable,
+ isn't it?"
+#
+<name "Lazlocke">
+"That may be, but don't puff up her ego and
+ make her cocky."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1129">
+"Understood."
+#
+<removesprite -1 11>
+<exit>
+:5306
+<music 10>
+<background "bg004a0.iph" 11>
+-- Weapon Defense --
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01d92.iph" 4 4 11>
+<name "Celes" "!AA5970">
+"Um, it's not a defense against sex things."
+#
+<removesprite -1 11>
+Celes shares her opinion on my sex tools.
+#
+Is she that concerned about them?
+#
+Also, I don't even use toys that much.
+#
+<exit>
+\x78

@@ -1,0 +1,116 @@
+\x1A\x01\x07\x04\x0A\x35\x84\x00\x01\x0E :57: \x1A\x01\x0A\x02\x01\xA7 1 \x01\x0E :57: \x1A\x01\x0A\x02\x01\x9A 1 \x01\x0E :57: \x1A\x01\x0A\x02\x01\xBD 0 \x01\x0E :57: \x16 :3A9: \x0A\x04\x0A\x35\x84\x01\x15 :187: 
+:57
+\x1A\x01\x07\x04\x0A\x33\x84\x00\x01\x0E :EF: \x1A\x01\x0A\x02\x00\x0B 20000 \x01\x15 :EF: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :EF: \xA1\x22\x00\x01\x1A\x01\x0A\x22\x00\x01 100 \x01\x15 :EF: \xA2\x22\x00\x02\x1A\x01\x0A\x22\x00\x02 30 \x01\x14 :EF: \x16 :188: \x0A\x04\x0A\x33\x84\x01\x2E\x22\x00\x01 -3000  -1000 \x0B\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x9D 30 \x15 :187: 
+:EF
+\x1A\x01\x07\x04\x0A\x34\x84\x00\x01\x0E :187: \x1A\x01\x0A\x02\x00\x0B 20000 \x01\x15 :187: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :187: \xA1\x22\x00\x01\x1A\x01\x0A\x22\x00\x01 100 \x01\x15 :187: \xA2\x22\x00\x02\x1A\x01\x0A\x22\x00\x02 30 \x01\x14 :187: \x16 :29F: \x0A\x04\x0A\x34\x84\x01\x2E\x22\x00\x01 -3000  -1000 \x0B\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x9D 30 \x15 :187: 
+:187
+\x78
+:188
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Celes, be with me before you go."
+#
+<sprite "ta01c08.iph" 4 4 11>
+<name "Celes" "!AA4094">
+"Huh?"
+#
+<name "Lazlocke">
+"It'd be better if you had a little more mana,
+ right?"
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA4095">
+"Thank you."
+#
+<removesprite -1 11>
+<exit>
+:29F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA4096">
+"Master, can I have some mana before I go?"
+#
+<name "Lazlocke">
+"Hm... All right."
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA4097">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:3A9
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"If you're trying that, you should take this."
+#
+<sprite "ta01c07.iph" 4 4 11>
+<name "Celes" "!AA4098">
+"What is it?"
+#
+<name "Lazlocke">
+"An item for escaping."
+#
+<sprite "ta01c06.iph" 4 4 12>
+<name "Celes" "!AA4099">
+"For escaping?"
+#
+<name "Lazlocke">
+"It'll activate on its own if your life is in
+ danger and teleport you somewhere safe."
+#
+<sprite "ta01c08.iph" 4 4 12>
+<name "Celes" "!AA4100">
+"Wow..."
+#
+<name "Lazlocke">
+"Yes, very wow, but even if it's magic, it's not
+ flawless. You could still be severely hurt or
+ even die."
+#
+<name "Lazlocke">
+"If you think you're in danger, activate it on
+ your own."
+#
+<sprite "ta01c07.iph" 4 4 12>
+<name "Celes" "!AA4101">
+"Y-Yes, sir.
+ I understand.
+ I'll take good care of it."
+#
+<name "Lazlocke">
+"Worry about yourself, not it."
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "Celes" "!AA4103">
+"Yes, sir!"
+#
+<removesprite -1 11>
+Celes left.
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0648">
+"Your Grace."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta04a02.iph" 4 4 12>
+<name "Soshiette" "!DA0649">
+"That escape item...
+ It's one of the Guild's artifacts."
+#
+<name "Lazlocke">
+"I'm aware.
+ I know to pay my dues for borrowing it."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0650">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+\x78

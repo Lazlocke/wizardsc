@@ -1,0 +1,1992 @@
+\x1A\x01\x07\x04\x08\x7A\x84\x00\x01\x0E :3F: \x16 :28F: \x0A\x04\x08\x7A\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 1000  5000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:3F
+\x1A\x01\x07\x04\x08\x7B\x84\x00\x01\x0E :7E: \x16 :688: \x0A\x04\x08\x7B\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 1000  5000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:7E
+\x1A\x01\x07\x04\x08\x7C\x84\x00\x01\x0E :BD: \x16 :96E: \x0A\x04\x08\x7C\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 1000  5000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:BD
+\x1A\x01\x07\x04\x08\x7D\x84\x00\x01\x0E :FC: \x16 :BD6: \x0A\x04\x08\x7D\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 1000  5000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:FC
+\x1A\x01\x07\x04\x08\x7E\x84\x00\x01\x0E :14D: \x1A\x01\x0A\x02\x01\xA4 25 \x01\x15 :14D: \x16 :D38: \x0A\x04\x08\x7E\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 5000  15000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:14D
+\x1A\x01\x07\x04\x08\x7F\x84\x00\x01\x0E :19E: \x1A\x01\x0A\x02\x01\xA6 35 \x01\x15 :19E: \x16 :28D4: \x0A\x04\x08\x7F\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 5000  15000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:19E
+\x1A\x01\x07\x04\x08\x80\x84\x00\x01\x0E :1EF: \x1A\x01\x0A\x02\x01\xA5 30 \x01\x15 :1EF: \x16 :3B92: \x0A\x04\x08\x80\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 5000  15000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:1EF
+\x1A\x01\x07\x04\x08\x81\x84\x00\x01\x0E :240: \x1A\x01\x0A\x02\x01\xA7 15 \x01\x15 :240: \x16 :6D60: \x0A\x04\x08\x81\x84\x01\x0A\x04\x00\xBB\x84\x01\x2E\x22\x00\x01 5000  15000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:240
+\x1A\x01\x07\x04\x08 0x8400010E  :28E: \x1A\x01\x07\x04\x08\x81\x84\x01\x01\x0E :28E: \x16 :8908: \x0A\x04\x08 0x84010A04 \x00\xBB\x84\x01\x2E\x22\x00\x01 5000  15000 \x0C\x02\x00\x0B\x02\x00\x0B\x22\x00\x01\x15 :28E: 
+:28E
+\x78
+:28F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0934">
+"You have a request from the Guild."
+#
+<name "Lazlocke">
+"...Tell them no."
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0935">
+"Then perhaps they will not be able to continue
+ to overlook that you took an apprentice."
+#
+<name "Lazlocke">
+"That's escalating fast."
+#
+<sprite "ta04a66.iph" 4 4 12>
+<name "Soshiette" "!DA0936">
+"You're not listening to me anyway."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0937">
+"The Guild's patience won't last forever.
+ Please."
+#
+<removesprite -1 11>
+I let out a big sigh.
+#
+The request from the Guild isn't about paying my
+dues, using magic more safely.
+#
+They just want my ability as a wizard's bride.
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0938">
+"We will have payment ready to satisfy you."
+#
+<name "Lazlocke">
+"...I'll think about it."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0940">
+"Please be as quick as you can."
+#
+<removesprite -1 11>
+<exit>
+:688
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0941">
+"Your Grace, could you please take on the Guild's
+ request soon?"
+#
+<name "Lazlocke">
+"Oh? I thought I already was working on a job for
+ the Guild."
+#
+<removesprite -1 11>
+I'm decyphering a grimoire for them.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0942">
+"Please don't joke like that."
+#
+<name "Lazlocke">
+"Fine.
+ You want my ability, right?
+ I'll go when I'm ready."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0943">
+"Will you really?"
+#
+<name "Lazlocke">
+"I'm too scared to lie to someone like you."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0966">
+"I'm not happy about that reasoning, but I 
+ understand.
+ We're looking forward to seeing you."
+#
+<name "Lazlocke">
+"Yeah.
+ Wait patiently."
+#
+<removesprite -1 11>
+<exit>
+:96E
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Good morning, Soshiette."
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0945">
+"Good morning, Your Grace."
+#
+<name "Lazlocke">
+"Did I wake up to somebody whispering that I
+ should go to the Guild?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0946">
+"That seems correct."
+#
+<name "Lazlocke">
+"Then I'm going back to bed, and don't wake me
+ up again."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0947">
+"Of course."
+#
+<name "Lazlocke">
+".........Zzz..."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0948">
+"Let's go to the Guild...
+ Let's go to the Guild...
+ Let's go to the Guild..."
+#
+<removesprite -1 11>
+<exit>
+:BD6
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0949">
+"Your Grace."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0950">
+"You're going to make me cry."
+#
+<name "Lazlocke">
+"...Fine. The Guild job, right?"
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0951">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:D38
+<music 11>
+<background "bg009a0.iph" 11>
+<background "bg010a0.iph" 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0952">
+"Welcome, Your Grace.
+ Thank you for accepting this request."
+#
+<removesprite -1 11>
+She bows deeply.
+#
+I arrived half an hour late, but she's not
+complaining.
+#
+Probably happy I showed up at all.
+#
+Definitely that.
+#
+I've cut out multiple times already.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0953">
+"If we can begin right away..."
+#
+<name "Lazlocke">
+"Fine.
+ Who is it?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0954">
+"Cleria Nolzak.
+ A student of Rune Academy."
+#
+<name "Lazlocke">
+"I've heard the name."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0955">
+"She's on the student council."
+#
+<name "Lazlocke">
+"Ah, that's right."
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0956">
+"She's preparing in the usual place."
+#
+<name "Lazlocke">
+"Fine."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0957">
+"Well then, thank you very much."
+#
+<removesprite -1 11>
+I wave in understanding and leave her behind.
+#
+I'm going under the Guild headquarters.
+#
+I have to pass through three hidden doors in out
+of the way places to finally reach a room that
+only a select few in the Guild even know about.
+#
+There's a bed in the room, with a curtain around
+it.
+#
+I undress while reading the letter left on the
+table by the door, and once I'm naked, I open
+the curtain.
+#
+The smell of the aphrodisiac incense tickles my
+nose.
+#
+My dick starts to harden knowing what's behind
+the curtain.
+#
+And what's in the bed is revealed.
+#
+A woman is waiting there, blindfolded and
+completely naked.
+#
+<music 35>
+<background "ev077a0.iph" 10>
+<name "Cleria" "!GB0000">
+"Aaah!"
+#
+I immediately attack her.
+#
+I grab her exposed breasts, lick the scruff of
+her neck, and force my dick into her.
+#
+She's been in this room with that incense burning
+for a long time, and her pussy is ready for me.
+#
+I'm surprised that she didn't masturbate at all
+while being subjected to this.
+#
+But I think I know why.
+#
+<background "ev077a1.iph" 10>
+She's a virgin.
+#
+It probably didn't even occur to her.
+#
+If you don't know how good it feels, you don't
+feel any temptation to do it.
+#
+<name "Cleria" "!GB0001">
+"Nngh... ah... I-It hurts...
+ Ah...agh...ah...
+ Stop... Stop..."
+#
+I ignore her and use her body to satisfy my own
+desire.
+#
+She resists, but she can't get away.
+#
+She's blindfolded, and I'm stronger than her.
+#
+I forcibly pin her down and push my dick into 
+purely for my own pleasure.
+#
+<name "Cleria" "!GB0002">
+"Aah! Ngh!
+ Aah!"
+#
+There's no escape for her.
+#
+My dick forcefully goes in and out of her virgin
+pussy.
+#
+It probably hurts quite a bit.
+#
+<name "Cleria" "!GB0003">
+"Aaah! Aah! Ahhh!"
+#
+But I'm not thinking of her.
+#
+I bury myself in her to the base, twisting and
+stirring inside her for my own pleasure.
+#
+<name "Cleria" "!GB0004">
+"Ngh...ah...ah...aaaah!
+ Aaah!
+ Ah! Ah! Ah! Ah!
+ Aaaahhhh!!!"
+#
+Cleria Nolzak.
+#
+One of the top students of Rune Academy.
+#
+The letter I read when I entered the room said
+why she wanted mana.
+#
+It's because she believes she's reached her limit.
+#
+She lacks the mana to reach any further.
+#
+And for the greater glory of the Nolzak family.
+#
+She wants mana.
+#
+The price she paid is 80,000Ça and her body.
+#
+There's no reason for me to hold back.
+#
+I keep moving my hips, pleasuring my dick inside
+her tight pussy.
+#
+<name "Cleria" "!GB0005">
+"Ah! Aah! Aaaahhh!"
+#
+She cries out in pain from what I'm doing to her.
+#
+<background "ev077a2.iph" 10>
+<name "Cleria" "!GB0006">
+"Ah! Ah! Aah! Ahh! Aaaaah...
+ Aaah! Nngh! Aah! Aaah!"
+#
+A change starts to come to her voice.
+#
+The burning incense is turning her pain to 
+pleasure.
+#
+<name "Cleria" "!GB0007">
+"Ngh...ah...ah...ahhhhhh!
+ Ah! Aaah...ah...ah!
+ Aaaaaah!"
+#
+Intoxication starts to mix in with her screams in
+time with my thrusts.
+#
+<background "ev077a3.iph" 10>
+<name "Cleria" "!GB0008">
+"Ah! Ah! Aaah! Aaah! Aaaahh...
+ Aaah...aah... I-It feels... ah... strange...
+ Aaaaaah!"
+#
+<name "Cleria" "!GB0009">
+"Aaaah! Ah! Ah! Ah! Ah! Aaah!
+ Aaaaah! Ah! Aaaah...
+ Aah! Aah! Aah!
+ What? What? Huh? Ah...ah..."
+#
+She's confused by the sensations she's never felt
+before.
+#
+She must be twice as scared with this happening to
+her in darkness.
+#
+Knowing that, I flood her pussy with semen.
+#
+<background "ev077a4.iph" 10>
+<name "Cleria" "!GB0010">
+"Aaah! Ah! Ah! Huh? Ah...
+ Aah...ah...ah! Aaaahhhhh!"
+#
+My dick throbs as my semen pours into her.
+#
+<background "ev077a5.iph" 10>
+<name "Cleria" "!GB0011">
+"Ah...aah...ah...ah...ah...
+ What?
+ Aah...ah...ah...ah!ÅÙ"
+#
+Even I'm impressed by how long I'm coming.
+#
+As soon as I finish, I start moving again.
+#
+Not like like time though. 
+Now I'm moving shallowly, rubbing my dick at the
+entrance to her pussy.
+#
+<name "Cleria" "!GB0012">
+"Ah! Ah! Ah! Aaaaaaahhhh!"
+#
+I move my dick for her pleasure.
+#
+Occasionally, I rub her breasts and pinch her
+nipples.
+#
+I also stroke her butt and thighs, and run my
+tongue over her face.
+#
+<name "Cleria" "!GB0013">
+"Aaah! Aaaaaahhhhhh!!!"
+#
+As I start to come for the second time, she
+climaxes.
+#
+Her whole body shudders and a gush of liquid comes
+out of her.
+#
+I'm satisfied seeing that, and start moving to
+come a third time.
+#
+For the third one, I do it in her mouth.
+#
+<name "Cleria" "!GB0014">
+"Agh...
+ *cough* *cough*"
+#
+She spits it out, but I don't care.
+#
+After coming, I stick it back in her pussy.
+#
+That's where I come for the fourth time.
+#
+<name "Cleria" "!GB0015">
+"Aaahh..."
+#
+For the fifth time, I'm going to do it in her ass.
+#
+<name "Cleria" "!GB0016">
+"Aaaaghhhh!"
+#
+Maybe it's because of the incense, but even though
+it's a little tight, I can put it in easily.
+#
+And start moving to come again.
+#
+<name "Cleria" "!GB0017">
+"Ah...aaah..."
+#
+Her first time with a man is blindfolded, and he
+violated her front, back, and mouth.
+#
+But despite being violated so thoroughly, she
+never tries to take off the blindfold.
+#
+She's been told that if she did, she wouldn't
+receive any mana.
+#
+That's how badly she wants mana.
+#
+I could tell right away that she doesn't have as
+much mana as most wizards.
+#
+On one hand, it's enough to become at least a
+passable wizard.
+#
+But it's not enough mana to be a remarkable one.
+#
+For someone like me, too much mana is a problem,
+but for virtually everybody else, the more mana
+you have, the better.
+#
+Put simply, the more mana you have, the more magic
+you can do, in quantity and quality.
+#
+So she wants mana.
+#
+No matter what it costs her.
+#
+No matter what happens to her.
+#
+...Wizards are avaricious.
+#
+In that sense, she's an exemplary wizard.
+#
+<name "Cleria" "!GB0018">
+"Aah...ah...aah...ahhh..."
+#
+I continue pouring semen and mana into her while
+savoring her body.
+#
+<music 11>
+<background "bg010b0.iph" 11>
+\x2B\x0A\x44\x00\xCE\x84\x01
+<exit>
+:28D4
+<music 37>
+<background "ev078a0.iph" 10>
+I've come to the Guild.
+#
+To expel mana.
+#
+Into the girls prepared for me.
+#
+<name "Mel" "!MB0000">
+"Aah! Aah! Aah...
+ Aaah...ah...ah! Ah! Aaaah!"
+#
+<name "Marcia" "!JB0000">
+"Aah...ah...ah...mmm... 
+ T-Touch me... there... ah...ah... more..."
+#
+<name "Tris" "!KB0000">
+"Aaaaah! Ah! Aah! Aah!
+ Don't! Ooohhh..."
+#
+These girls have been specially prepared by the
+school.
+#
+They're the talent who will lead the Guild in the
+future.
+#
+They know that they can receive mana from me, and
+are giving themselves willingly.
+#
+Their hands and feet are bound, and their necks
+are chained to the wall.
+#
+They know what I'll do.
+They know why I'll do it.
+This is to make sure nobody gets hurt.
+#
+And to make sure they know their position.
+#
+They're under my control.
+#
+Of course, it excites me too.
+#
+I move my swollen dick violently in their pussies,
+one after another.
+#
+<name "Mel" "!MB0001">
+"Aaah! Ah! Aaaaah.... 
+ Ah! Aaah...
+ M-My chest...
+ Ah! Aah...aah!"
+#
+<name "Marcia" "!JB0001">
+"Aaah! M-Me too... Aah...
+ S-Stick it in me too...
+ Not just your fingers..."
+#
+<name "Tris" "!KB0001">
+"Ah! Aah! Ah! Aaaah...
+ Aah! I-I can't take anymore...
+ Oohhh..."
+#
+I ignore them and continue venting my desire using
+their bodies.
+#
+Front, back, and mouths.
+#
+I plaster their bodies with my semen, even their
+hair.
+#
+To show that they're mine.
+#
+I soak them in my smell.
+#
+<name "Mel" "!MB0002">
+"Aaah...ah...aah...ahh..."
+#
+<name "Marcia" "!JB0002">
+"Stick it in me! Stick it in!
+ Aaah! I can't take it anymore!
+ Aah! Ah! Aaaah..."
+#
+<name "Tris" "!KB0002">
+"Aaah... N-No more... Ah...ahh...aah...
+ Aaah... I-If you don't stop, I'll die...
+ Aaaah!!!"
+#
+<background "ev078a1.iph" 10>
+I especially keep coming in the pussy of the girl
+who's never done this before, over and over.
+#
+I show her no mercy.
+#
+I fuck them, and I give them mana.
+#
+That's all there is.
+#
+I don't even think about it anymore.
+#
+I just keep fucking them in this senseless,
+thoughtless room.
+#
+<background "ev078a2.iph" 10>
+<name "Tris" "!KB0003">
+"Ah! Ah! Aaaaahhhh!!!"
+#
+Over, and over, and over.
+#
+I keep coming, letting out semen and mana.
+#
+<name "Marcia" "!JB0003">
+"P-Put it in...ah...ah... me too...
+ Please put it in...
+ Aaah... You're being so cruel...
+ Aaah..."
+#
+<name "Mel" "!MB0003">
+"Aaaah...aaah...aah...ahh...
+ Do it harder...
+ Ah...aah..."
+#
+And the girls want it too.
+#
+She shakes her butt desperately, begging for me
+to put my dick in her.
+#
+I pull out of the girl I'm fucking, grab her by
+the butt, and stab it wildly into her.
+#
+<name "Marcia" "!JB0004">
+"Aaaaaahhhh!ÅÙ"
+#
+She cries out in delight and presses her butt
+back against me, trying to please my dick.
+#
+<name "Lazlocke">
+"...You feel good, Marcia."
+#
+<name "Marcia" "!JB0005">
+"Ah... Y-You...ahh...ah... k-know my name...
+ I'm so glad..."
+#
+<name "Lazlocke">
+"I remembered it because you're the dirtiest
+ girl."
+#
+<name "Marcia" "!JB0006">
+"Ah...ah... Y-Yes.
+ I'm a dirty girl.
+ S-So..."
+#
+<name "Lazlocke">
+"Yeah, you want me to fuck you hard."
+#
+<name "Marcia" "!JB0007">
+"Aaah! Aah! Aah! Aaah! Ah! Aah!
+ Ah! Aah! Aaah! Ah! N-No...
+ Aah! Ah! Aaaaaaahhhhhhh!!!"
+#
+<name "Mel" "!MB0004">
+"N-Not just her.
+ Do me to..."
+#
+<name "Lazlocke">
+"I'll put it in you after her.
+ Wait your turn."
+#
+I slap Mel's butt.
+#
+<name "Mel" "!MB0005">
+"Aaahhh!ÅÙ"
+#
+<name "Lazlocke">
+"Tris, after her will be you again.
+ Pull yourself together."
+#
+<name "Tris" "!KB0004">
+"Y-Yes, sir..."
+#
+This feast has happened many times.
+#
+The girls are replaced, but it continues.
+#
+For my sake.
+#
+And for them.
+#
+<name "Mel" "!MB0006">
+"Aaah...mmm...ÅÙ
+ Mmmm...aaaah..."
+#
+<name "Marcia" "!JB0008">
+"Aaaaahhh...
+ M-More... 
+ Ah...aah..."
+#
+<name "Tris" "!KB0005">
+"N-No... No more...
+ Oohhh..."
+#
+The feast continues until long into the night.
+#
+<name "Tris" "!KB0006">
+"Ah...aah...ah..."
+#
+<name "Marcia" "!JB0009">
+"Ah...aah..."
+#
+<name "Mel" "!MB0007">
+"Aaah...ah..."
+#
+<background "ev078a3.iph" 10>
+I pour a flood of semen and mana into all of them
+until it's all gone.
+#
+<music 11>
+<background "bg010a0.iph" 11>
+<name "Marcia" "!JB0010">
+"Lately, Mr. Lazlocke's been talking to us."
+#
+<name "Mel" "!MB0008">
+"Yeah, before, he'd just silently attack you."
+#
+<name "Marcia" "!JB0011">
+"He called me a dirty girl."
+#
+<name "Mel" "!MB0009">
+"You're so lucky."
+#
+<name "Marcia" "!JB0012">
+"Oh, that's enough.
+ We have to keep it a secret after we leave."
+#
+<name "Mel" "!MB0010">
+"Yeah, let's go back to the school.
+ Tris, are you okay?"
+#
+<name "Tris" "!KB0007">
+"I-I can't stand up..."
+#
+<name "Marcia" "!JB0013">
+"Oh, it was your first time, right?
+ It was like that for me too."
+#
+<name "Mel" "!MB0012">
+"...No pushing yourself.
+ We'll stay the night here before going back."
+#
+<name "Tris" "!KB0008">
+"A-Are you sure?"
+#
+<name "Marcia" "!JB0014">
+"Yeah, definitely.
+ My butt hurts too..."
+#
+<name "Mel" "!MB0023">
+"Hahaha...
+ Mine too."
+#
+\x0A\x44\x00\xCF\x84\x01
+<exit>
+:3B92
+<music 40>
+<background "ev079a0.iph" 10>
+A wizard is before me, bound and stark naked.
+#
+Her restraints are magical.
+#
+She's suspended in the air, keeping her from 
+being able to move.
+#
+She's held up, and completely helpless.
+#
+On top of that, the mana inside her and the mana
+in the room is being constantly suppressed.
+The spells to do so are being activated over and
+over.
+#
+It's taking a few wizards to keep this setup
+running.
+#
+Which just shows how dangerous this bound wizard
+is.
+#
+Macornel Makolner.
+#
+The Makolner family is a famous clan of wizards
+going back centuries. The current head of the
+family is said to be the finest wizards the family
+has seen in generations.
+#
+<name "Macornel" "!PB0000">
+"I won't give in to the Guild.
+ Leave me alone."
+#
+According to the report, this is the seventeenth
+day of her imprisonment.
+#
+They've been feeding her and forcing her to eat
+to keep her alive, but she's got a lot of 
+willpower to have been able to endure this for
+as long as she has.
+#
+Which is why I've been called in.
+#
+I approach her to get this done quickly.
+#
+<name "Lazlocke">
+"...This is your final offer.
+ Submit the research you were working on to the
+ Guild, and assist the Guild from now on."
+#
+<name "Macornel" "!PB0001">
+"I refuse."
+#
+<name "Lazlocke">
+"...That may be a hasty decision."
+#
+<name "Macornel" "!PB0002">
+"Hmph.
+ Anyway, you can't kill me.
+ You're after my research."
+#
+<name "Macornel" "!PB0003">
+"I'm still alive because you need me alive.
+ How many wizards are you using to keep me
+ imprisoned here?
+ What a joke."
+#
+<name "Lazlocke">
+"A joke, huh?
+ I see."
+#
+I reach out and violently touch her pussy.
+#
+<background "ev079a1.iph" 10>
+<name "Macornel" "!PB0004">
+"Ngh!
+ Ah! Agh!
+ W-What are you doing!?"
+#
+<name "Lazlocke">
+"Your sensations have been enhanced multiple times
+ over.
+ Enjoy it."
+#
+<name "Macornel" "!PB0005">
+"Ah! Ah! Aaaah!
+ Damn it!
+ Don't think this is enough to beat me!"
+#
+<name "Lazlocke">
+"No wizard would give in to just that.
+ What are you even talking about?"
+#
+<name "Macornel" "!PB0006">
+"Aaaaaaaaaagh!!!"
+#
+<name "Lazlocke">
+"I still need to go shopping for dinner before
+ I go home.
+ Let's make this quick."
+#
+<name "Macornel" "!PB0007">
+"Ah! W-What?
+ Ah! Aaaaaaahhhh!!!"
+#
+I bring my face to her pussy and use my tongue
+to rub my saliva over her entrance.
+#
+<name "Macornel" "!PB0008">
+"Aaaaaaahhhh!!!"
+#
+Because of the magic enhancing what she's feeling,
+almost instantly, love juice pours out of her.
+#
+<name "Macornel" "!PB0009">
+"Ah...ah...aah...aaah!
+ Aah! Aaah! Aaaaahh...
+ D-Damn it... Y-You bastard...
+ Aaaaah...aaaaaah!!!"
+#
+I keep stimulating her until her juices are 
+running down her thighs and onto the floor, then
+I take my dick out of my pants.
+#
+It's hard enough.
+I can put it in her.
+#
+<name "Lazlocke">
+"It's lucky you've never been with a man.
+ If you had, this would've taken twice as many 
+ people."
+#
+As I say that, I press myself against her
+entrance.
+#
+<name "Macornel" "!PB0010">
+"Ah...aah...ngh..."
+#
+<name "Lazlocke">
+"Well, this is still cruel enough..."
+#
+I slowly push my dick into her.
+#
+<background "ev079a2.iph" 10>
+<name "Macornel" "!PB0011">
+"Nnnnnhhhhhh!!!"
+#
+My dick forces its way into her narrow pussy.
+#
+<name "Macornel" "!PB0012">
+"Aaah! Ah! Aaahh!"
+#
+Even despite all her love juices lubricating her,
+she writhes in pain from my dick wrenching her
+open.
+#
+<name "Macornel" "!PB0013">
+"Ah! Aah! Aaaaaaahhhh!!!"
+#
+It's also that all her sensations are being
+enhanced right now.
+#
+This much pain is probably enough to make most
+people faint.
+#
+<name "Macornel" "!PB0014">
+"Ah! Agh!
+ Aaaaggghhhhh!!!"
+#
+I break through her hymen and reach the back of
+her pussy.
+#
+<name "Macornel" "!PB0015">
+"Ngh!!!
+ Aaaah!!!"
+#
+But I keep pushing deeper into her until I'm
+completely buried inside her.
+#
+<name "Macornel" "!PB0016">
+"Ah...ah...ah...aah...aaah...
+ Nnnh...agh...aahh..."
+#
+My dick gets bigger and harder as it slides
+through her walls, coated in her slick juices.
+#
+<name "Macornel" "!PB0017">
+"Ah...aah...agh...aah..."
+#
+She bears the pain of my dick in her pussy as
+best she can.
+#
+<name "Macornel" "!PB0018">
+"Aah...ah...ah...ah...
+ T-This is... your cruelty!?
+ Don't make me laugh!"
+#
+<name "Lazlocke">
+"This isn't what I meant.
+ Well, you'll see soon enough."
+#
+I pull my dick back and then push it back in.
+#
+<name "Macornel" "!PB0019">
+"Ngh!"
+#
+She gasps voicelessly.
+#
+I do it again.
+#
+<name "Macornel" "!PB0020">
+"Nh!
+ Nnhh!!!"
+#
+Violently.
+Just to stimulate my dick.
+#
+I keep moving my hips, rubbing myself inside her.
+#
+<name "Macornel" "!PB0021">
+"Aah! Aaah!!!"
+#
+She screams and spits every time I move, but she
+can't resist.
+#
+All she can do is dangle before me.
+#
+<name "Macornel" "!PB0022">
+"Aaaah! Aah!
+ Aahhhh! Aaaaahhhh!"
+#
+I thrust for my pleasure, listening to her
+tortured screams.
+#
+<name "Macornel" "!PB0023">
+"Ah! Ah! Aaah! Ah! Aaah!
+ Aah! Ah! Aaah! Stop! Aaaahhh!!!"
+#
+She's helpless to do anything but endure the
+disgrace of being violated.
+#
+<name "Macornel" "!PB0024">
+"Aaah...
+ Aaaahhhhhh!!!"
+#
+She can't pass out.
+#
+If she did, that would only make it hurt more.
+#
+<name "Macornel" "!PB0025">
+"Aaaaaagh!!!"
+#
+The pain that seems like it will go on forever
+for her suddenly stops.
+#
+<name "Macornel" "!PB0026">
+"Ah...ah...ah..."
+#
+As she wonders if it's over, I begin to come.
+#
+My dick spurts and stains the inside of her
+pussy.
+#
+<background "ev079a3.iph" 10>
+<name "Macornel" "!PB0027">
+"Ah...ah..."
+#
+My semen floods her pussy and her whole body
+convulses as it beats against her womb.
+#
+<name "Macornel" "!PB0028">
+"Ah...aahh...aaaahhhhh!!!
+ I-I'll kill you!
+ I'm going to kill you!"
+#
+She glares at me and rages as I come inside her.
+#
+I placidly ignore her.
+#
+<name "Lazlocke">
+"You're pretty sexy when you're gasping for
+ breath.
+ Or am I seeing things?"
+#
+<name "Macornel" "!PB0029">
+"I-I swear I'll kill you!"
+#
+<name "Lazlocke">
+"Since you've still got so much energy, hang in
+ there a little longer.
+ Yeah, I'm going to do this until you piss
+ yourself."
+#
+I keep fucking her until she can't control
+herself.
+#
+<background "bg024a0.iph" 10>
+<background "ev079a0.iph" 10>
+<name "Lazlocke">
+"...You awake yet?"
+#
+<name "Macornel" "!PB0030">
+"Ah...aah...ah...
+ Huh?"
+#
+<name "Lazlocke">
+"I've removed the spell on your body."
+#
+<name "Macornel" "!PB0031">
+"Ah..."
+#
+<name "Lazlocke">
+"I can't remove the restraints, but I released
+ the spell binding the mana inside you.
+ How are you feeling?"
+#
+<name "Macornel" "!PB0032">
+"W-Why?"
+#
+<name "Lazlocke">
+"Because there's no need for it anymore."
+#
+<name "Macornel" "!PB0033">
+"...W-What?"
+#
+<name "Lazlocke">
+"I told you already, there's no need.
+ I have the magical research you were doing."
+#
+<name "Macornel" "!PB0034">
+"T-That's impossible...
+ I didn't say anything..."
+#
+<name "Lazlocke">
+"You didn't say anything?
+ What about this?"
+#
+I magically sketch a diagram in the air in front
+of her.
+#
+<name "Macornel" "!PB0035">
+"Ah!"
+#
+The diagram is part of the magic she's been
+researching.
+#
+This should be the key part of it.
+#
+It's probably something her family's been cooking
+up and working on for generations.
+#
+<name "Macornel" "!PB0036">
+"Where did you get that!?
+ How!?"
+#
+<name "Lazlocke">
+"...I knew you'd never tell me.
+ Probably some kind of self-hypnosis."
+#
+<name "Macornel" "!PB0037">
+"..."
+#
+<name "Lazlocke">
+"So I had your mana tell me."
+#
+<name "Macornel" "!PB0038">
+"My mana?"
+#
+<name "Lazlocke">
+"That's right."
+#
+<name "Lazlocke">
+"The mana inside you remembers the magic you've
+ done, and the magic that's been passed on for
+ generations is especially clear."
+#
+<name "Macornel" "!PB0039">
+"That's not possible..."
+#
+<name "Lazlocke">
+"Haven't you ever wondered how the Guild has
+ accumulated so much power over the last decade
+ or so?"
+#
+<name "Macornel" "!PB0040">
+"Ah..."
+#
+<name "Lazlocke">
+"That's right.
+ They take magic like this."
+#
+<name "Macornel" "!PB0041">
+"T-That's... impossible."
+#
+<name "Lazlocke">
+"What is this before you?"
+#
+I bring the diagram right to her.
+#
+<name "Macornel" "!PB0042">
+"Ah...aah..."
+#
+<name "Lazlocke">
+"And you're going to forget what this is.
+ Take a good look at it.
+ You should know it perfectly, but aren't pieces
+ of it already starting to get hazy?"
+#
+<name "Macornel" "!PB0043">
+"Ah...ah..."
+#
+<name "Lazlocke">
+"The more you look at it, the more you realize
+ you're forgetting it."
+#
+<name "Macornel" "!PB0044">
+"I-Impossible..."
+#
+<name "Lazlocke">
+"It's useful to take magic from mana, but the
+ problem with it is that it takes the magic away
+ from who originally had it."
+#
+<name "Macornel" "!PB0045">
+"No..."
+#
+<name "Lazlocke">
+"Well, you can always study it again.
+ It should only take a few more generations."
+#
+<name "Macornel" "!PB0046">
+"Aaaaaaaaaaahhhhhhhh!!!!!!"
+#
+<name "Lazlocke">
+"I warned you it was cruel."
+#
+<name "Macornel" "!PB0047">
+"N-No! No!
+ Noooooooooo!!!!!
+ Give it back! Give it back!
+ Give it back!!!"
+#
+<name "Lazlocke">
+"I refuse."
+#
+In fact, while it's true that I can read magic
+from mana, I lied when I said that doing that
+would steal it from her.
+#
+If losing your mana took the knowledge and
+experience needed to cast it, then almost every
+wizard would have to start from scratch every
+time they cast a spell.
+#
+Her memory of it is messed up because the mana
+was forcibly and quickly drained out of her.
+#
+What's more, she's panicking because of that
+diagram I showed her from stealing her mana and
+not thinking straight.
+#
+I can read it from her mana, but there's no
+explanations or notes that come with it.
+#
+All I can do is reproduce the diagram and spell
+the way it's recorded in her mana.
+#
+I have no idea whatsoever what it means or what
+it's for.
+#
+It'd take a very long time to research that and
+figure it out.
+#
+That's a hassle neither the Guild nor I want.
+#
+<name "Macornel" "!PB0048">
+"Please... Please...
+ I'll do anything...
+ Aaahh..."
+#
+<name "Lazlocke">
+"...You'll listen to me?"
+#
+<name "Macornel" "!PB0049">
+"I-I'm listening.
+ Anything you ask."
+#
+<name "Lazlocke">
+"You'll join the Guild?"
+#
+<name "Macornel" "!PB0050">
+"I will!
+ I will!"
+#
+I release her restraints.
+#
+<name "Macornel" "!PB0051">
+"Ah..."
+#
+<name "Lazlocke">
+"I'll need to have sex with you again to give
+ it back."
+#
+When she realizes what I said, she lays down
+shamefully and slowly opens her legs.
+#
+Very well behaved now.
+#
+I play with the desperate woman until dawn comes.
+#
+<music 11>
+<background "bg010a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0958">
+"Well done."
+#
+<name "Lazlocke">
+"I'm used to it."
+#
+<removesprite -1 11>
+This is the secret method that the Guild has
+used to force wizards into the fold.
+#
+It only works on women, but at least a dozen
+have been dealt with this way so far.
+#
+It's definitely one of the big reasons why the
+Guild has been able to explosively expand its
+influence in recent years.
+#
+<sprite "ta04a02.iph" 4 4 11>
+<name "Soshiette" "!DA0959">
+"...I have a question."
+#
+<name "Lazlocke">
+"What is it?"
+#
+<sprite "ta04a03.iph" 4 4 12>
+<name "Soshiette" "!DA0960">
+"I believe you could have actually gotten rid
+ of that magic.
+ Why didn't you?"
+#
+<removesprite -1 11>
+...
+#
+<name "Lazlocke">
+"...I don't like trouble.
+ It's better if she cooperates."
+#
+<sprite "ta04a02.iph" 4 4 11>
+<name "Soshiette" "!DA0967">
+"That may be, but she has a rebellious spirit.
+ She may behave now, but it's possible she'll
+ rebel again in the future."
+#
+<sprite "ta04a01.iph" 4 4 12>
+<name "Soshiette" "!DA0962">
+"In her case, I think that taking her magic and
+ expelling it would have been the correct 
+ approach."
+#
+<name "Lazlocke">
+"She may be rebellious, but she didn't do anything
+ wrong.
+ We're the bad guys here."
+#
+<name "Lazlocke">
+"We're taking the knowledge and traditions they
+ created and forcing her to share them with every
+ other wizard, and if they say no, forcing them
+ to do it, and stealing it if they resist."
+#
+<name "Lazlocke">
+"We're worse than bandits.
+ Of course they resist."
+#
+<sprite "ta04a15.iph" 4 4 12>
+<name "Soshiette" "!DA0963">
+"Your Grace."
+#
+<name "Lazlocke">
+"Don't be mad at me.
+ I'm the Guild's thief.
+ You're the Guild's killer.
+ It's the truth, yeah?"
+#
+<name "Lazlocke">
+"So I won't betray the Guild.
+ Not anymore..."
+#
+<removesprite -1 11>
+Yeah, not anymore.
+#
+I've done too much harm to stop now, and sinned
+too much to start atoning.
+#
+<name "Lazlocke">
+"I'll stay with the Guild as long as I live.
+#
+<sprite "ta04a24.iph" 4 4 11>
+<name "Soshiette" "!DA0964">
+"...Please try to avoid seditious behavior or
+ speech.
+ Misunderstandings only lead to misfortune."
+#
+<name "Lazlocke">
+"Of course I'll be careful.
+ ...Tell me if she ever starts acting up.
+ I'll handle it."
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0965">
+"As you wish."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x00\xD0\x84\x01
+<exit>
+:6D60
+<music 11>
+<background "bg010a0.iph" 11>
+I've come to the Guild.
+#
+It's the usual request.
+#
+<name "Lazlocke">
+"I'm taking away mana this time?"
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0968">
+"Yes."
+#
+<name "Lazlocke">
+"All right.
+ Where are they?"
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0969">
+"The royal hideaway."
+#
+<removesprite -1 11>
+She hands me the report.
+#
+I was going to go right there, but I stop when
+I read it.
+#
+<name "Lazlocke">
+"There's nothing here but a name."
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0970">
+"It's a woman.
+ Don't worry about that."
+#
+<name "Lazlocke">
+"Okay, fine, but... Lynth?
+ I feel like I know that name..."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0971">
+"She's the third princess of the Krun Empire."
+#
+<name "Lazlocke">
+"A princess?
+ So that's why she's in the royal hideaway?"
+#
+<removesprite -1 11>
+That place is a room set up by the Guild in order
+to hide nobility and astocrats when they visit
+the Guild.
+#
+<name "Lazlocke">
+"Am I really allowed to do anything to a hostage?"
+#
+We've been at war with Krun until recently.
+#
+It's obvious that she's a prisoner of war.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0972">
+"She is a hostage, but that won't be an issue.
+ Thank you for your assistance."
+#
+<removesprite -1 11>
+<music 39>
+<background "ev080a0.iph" 10>
+I go to the bed in the royal suites where the
+princess is waiting, restrained and clearly
+fuming.
+#
+Her mouth is gagged, and her hands are tied
+behind her back.
+#
+Her legs are bound open, exposing her pussy.
+#
+<name "Lazlocke">
+"..."
+#
+When she sees me, her eyes light up with anger.
+#
+She has the animal ears and tail that are
+characteristic of the Krun people.
+They're perked up, showing she's ready to fight.
+#
+<name "Lazlocke">
+"I see..."
+#
+I slowly undress and then stand in front of her.
+#
+She's glaring daggers, but she's helpless while
+bound.
+#
+I put my arm around her waist and pull her to me.
+#
+<name "Lynth" "!NB0000">
+"Nnnnh!"
+#
+And then grab her breasts.
+#
+<name "Lynth" "!NB0001">
+"Mmmmph!"
+#
+She thrashes and tries to resist, but her fangs
+only close on the gag in her mouth.
+#
+<name "Lazlocke">
+"If you struggle, you could break a fang."
+#
+<name "Lynth" "!NB0002">
+"Nnnnnngh!"
+#
+Her glare fixes on me.
+#
+Normally, someone like me wouldn't be able to get
+anywhere near a princess like her, let alone have
+sex with her.
+#
+What's more, the princesses of Krun are known for
+their pride.
+#
+And this one is right in front of me.
+#
+Restrained and completely exposed.
+#
+<name "Lynth" "!NB0003">
+"Mmmmmgh!"
+#
+I ignore her anger and squeeze her breast hard.
+#
+The beautiful shape of her breasts collapses
+messily in my grasp.
+#
+I let go and look down at her.
+#
+<name "Lynth" "!NB0004">
+"Nnh!"
+#
+She tries to escape from my touch.
+#
+But she's helpless while bound in place.
+#
+<name "Lynth" "!NB0005">
+"Mmmmgh!"
+#
+Because her mouth is blocked, I give her ear a
+light kiss, and then nibble on it.
+#
+<name "Lynth" "!NB0006">
+"Mmmmmmgh!"
+#
+I get up on the bed with her.
+#
+<name "Lynth" "!NB0007">
+"Mmmgh!"
+#
+She can't escape.
+#
+Knowing that, I get nice and close to her.
+#
+I bring my face down to her pussy and run my
+tongue along her entrance.
+#
+<background "ev080a1.iph" 10>
+<name "Lynth" "!NB0008">
+"Mmmmgh!
+ Mmmmmmgh!"
+#
+I slurp at her pussy, covering it with my saliva,
+and forcibly opening her with my tongue.
+#
+Then I rub my swelling dick against her nub.
+#
+<name "Lynth" "!NB0009">
+"Mmgh!"
+#
+I push my dick against her and try to enter.
+#
+Twice, three times...
+Finally on the fourth time, I start to sink into
+her pussy.
+#
+From there, I just keep pushing forward, forcibly
+plunging into her depths.
+#
+<name "Lynth" "!NB0010">
+"Mmmmmgh!"
+#
+She writhes in pain from accepting a man for the
+first time, but I don't stop.
+#
+Knowing she's helpless and can't move just makes
+my dick harder, and I forcibly pierce her with it.
+#
+I hate myself for that.
+#
+But it arouses me more.
+#
+The arousal makes me lose control.
+#
+I bury my dick all the way in her to the base.
+#
+And then I start moving.
+#
+I violently pound her pussy.
+#
+Over and over again.
+#
+She tries to scream in pain.
+#
+Her gasps just excite me further and I continue
+to indulge my lust.
+#
+<background "ev080a2.iph" 10>
+<name "Lynth" "!NB0011">
+"Nngh! Nnnngh! Nnnnnngh!"
+#
+And I flood her pussy with my semen.
+#
+It keeps shooting out.
+#
+I finally finish coming.
+#
+I'm gasping for breath.
+#
+But her breathing is even more ragged than mine.
+#
+<name "Lynth" "!NB0012">
+"Ngh...ngh...nnngh..."
+#
+But she's still staring daggers at me.
+#
+It's a good look for her.
+#
+I lift her up by the hips and start moving again.
+#
+To come again.
+#
+Violently.
+#
+Wildly.
+#
+The royal family of Krun are particularly strong
+wizards, overflowing with mana.
+#
+I will take that from her.
+#
+But I barely think about that, and just attack
+her like an animal.
+#
+<name "Lynth" "!NB0013">
+"Nnnngh! Nnnngh!
+ Nngh! Nnnnnngh..."
+#
+After I come for a third time, I finally stop.
+#
+<name "Lynth" "!NB0014">
+"..."
+#
+She passed out several times while I was raping
+her, but the pain always woke her back up.
+#
+Tears are in her eyes, but she definitely hasn't
+surrendered.
+#
+I take her head and bring her face to look me
+straight in the eyes, my dick still buried inside
+her.
+#
+<name "Lazlocke">
+"That's the right look.
+ You want me to pay.
+ You want to kill me.
+ That's what I see in your eyes."
+#
+<name "Lynth" "!NB0015">
+"Nngh!"
+#
+<name "Lazlocke">
+"But... I have an unfortunate question for you.
+ Why do you think you haven't been blindfolded?"
+#
+<name "Lynth" "!NB0016">
+"..."
+#
+She shakes her head in sudden fear.
+#
+<name "Lazlocke">
+"That's right.
+ It means that you will never be free."
+#
+<name "Lynth" "!NB0017">
+"..."
+#
+<name "Lazlocke">
+"I will keep fucking you.
+ I will just keep taking away your mana."
+#
+I thrust hard into her pussy again.
+#
+<name "Lynth" "!NB0018">
+"Nnnnngh!"
+#
+And slowly take all of her mana away.
+#
+<name "Lynth" "!NB0019">
+"Nnnnnnnnngh!"
+#
+Once her mana is drained, she passes out,
+completely unconscious.
+#
+<name "Lazlocke">
+"...It would be much easier for both of us if
+ you just gave in though.
+ We'd at least be able to take off all these
+ ropes."
+#
+I whisper in her ear as I pull my dick out of
+her.
+#
+<music 11>
+<background "bg010b0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0973">
+"Well done."
+#
+<name "Lazlocke">
+"...Stow it."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0974">
+"Understood.
+ Now then..."
+#
+<removesprite -1 11>
+Several women are standing in front of her.
+#
+They're all supposed to receive mana from me.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0975">
+"Give the mana you've taken to them."
+#
+<name "Lazlocke">
+"Don't I get a break?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0976">
+"I'm worried about your health."
+#
+<removesprite -1 11>
+Having too much mana inside me poisons my body
+and mind.
+#
+...
+#
+<name "Lazlocke">
+"Fine, but after what I did with the princess,
+ I'm not in the mood to make this pleasant for
+ anybody."
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0977">
+"As you wish."
+#
+<removesprite -1 11>
+I go to another room with the women she prepared.
+#
+\x0A\x44\x00\xD1\x84\x01
+<exit>
+:8908
+<music 35>
+<background "ev081a0.iph" 10>
+<name "Lynth" "!NB0020">
+"Ah! Aah! Ahh! Aah!"
+#
+I'm having sex with the princess of the Krun
+Empire.
+#
+She's a prisoner, and my only relationship with
+her is taking her mana.
+#
+I violently thrust my dick into this pitiable
+girl.
+#
+I've done this to her many times now.
+#
+Eventually, she submitted to me.
+#
+I'm not sure whether she's actually given up,
+or is just trying to find a way to cope with the
+pain.
+#
+But little by little, as she stopped resisting,
+her restraints were removed, and right now,
+there's nothing binding her.
+#
+I thought she'd attack once everything was taken
+off, but she didn't.
+#
+Right now, the only thing she has is a regular
+collar that doesn't have any magical effect at
+all.
+#
+<name "Lazlocke">
+"You've become pretty docile."
+#
+<name "Lynth" "!NB0022">
+"Ah...ah...mmm...mmm..."
+#
+She doesn't respond.
+#
+Not because she's resisting, but because she's
+focused on having sex.
+#
+<name "Lazlocke">
+"I'm going to come."
+#
+I know she's not listening, but I move faster to
+come inside her pussy.
+#
+<background "ev081a2.iph" 10>
+<name "Lynth" "!NB0023">
+"Ah! Ah! Ah! Aah! Aahhhhhhh!!!ÅÙ"
+#
+She comes right after me.
+#
+A gush of her fluid floods out of her and stains
+the bed.
+#
+<name "Lynth" "!NB0024">
+"Ah...aaah...aahhh...ah..."
+#
+But she doesn't care about that, and rocks her
+hips, wanting more.
+#
+<name "Lazlocke">
+"..."
+#
+I don't have much choice.
+I move my hips and stir up her pussy.
+#
+<name "Lynth" "!NB0026">
+"Aaaaahhh! Mm! Mmm! Mmm! Aaah!
+ Aaah! Aaah! Aahhh! I...
+ Aaah! Aaahhh!"
+#
+She holds herself on all fours and begs me to
+come over and over.
+#
+I finally get a break after coming for the fifth
+time.
+#
+<background "ev081a1.iph" 10>
+<name "Lynth" "!NB0027">
+"..."
+#
+She fusses over my tired body and licks me on the
+cheek.
+#
+<name "Lazlocke">
+"..."
+#
+She runs her tongue from my cheek to my neck and
+lovingly nibbles on it.
+#
+<name "Lazlocke">
+"If you seriously bit me there, you could kill
+ me, you know."
+#
+<name "Lynth" "!NB0028">
+"Ah...ah...mmm..."
+#
+She looks at me in confusion.
+#
+<name "Lazlocke">
+"Don't you hate me?"
+#
+She shakes her head.
+#
+<name "Lynth" "!NB0029">
+"Before... I hated you.
+ But now..."
+#
+She taps the collar on her neck.
+#
+<name "Lynth" "!NB0030">
+"I belong to you."
+#
+She rubs her cheek on mine.
+#
+She started acting like this after I put that
+collar on her.
+#
+...
+#
+<name "Lazlocke">
+"I'm not with you because I love you.
+ I'm just stealing your mana."
+#
+<name "Lynth" "!NB0033">
+"I don't care.
+ All of me belong to you..."
+#
+<name "Lazlocke">
+"Your loyalty is wasted."
+#
+<name "Lynth" "!NB0034">
+"I made up my mind on my own.
+ Don't worry about it."
+#
+She's from a race of beast people.
+#
+Ferocious to their enemies.
+#
+But what's right in front of me is something else
+entirely.
+#
+<name "Lazlocke">
+"...Be with me one more time."
+#
+<name "Lynth" "!NB0037">
+"Okay.ÅÙ"
+#
+<music 11>
+<background "bg010b0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0978">
+"Thank you very much."
+#
+<name "Lazlocke">
+"...What's she like when I'm not here?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0979">
+"Well behaved."
+#
+As she's stopped resisting, the Guild's been
+giving her a little more freedom, but she's still
+a prisoner.
+#
+<name "Lazlocke">
+"...Any signs of resistance?"
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0980">
+"None.
+ I believe the odds she's faking it are low too."
+#
+<name "Lazlocke">
+"...What's going to happen to her?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0981">
+"She'll be given some freedom.
+ She's being considered for assistance with Guild
+ activities."
+#
+<name "Lazlocke">
+"Assistance?
+ Going to use her to take down Krun?"
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0982">
+"No, just as a regular wizard.
+ Demihumans with magical talent are rare, and
+ she has more than enough mana for it."
+#
+<name "Lazlocke">
+"...My request was approved?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0983">
+"Yes. The rest is up to her, but if you tell her
+ to, I don't anticipate any issues."
+#
+<name "Lazlocke">
+"All right.
+ I'll explain it to her."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0984">
+"I'm sorry for troubling you."
+#
+<name "Lazlocke">
+"My whole life is trouble.
+ Besides, she's a princess."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0985">
+"I understand."
+#
+<removesprite -1 11>
+A few days later, Princess Lynth was released.
+#
+She'd be watched for a while, but it's less of
+a hassle than managing a prisoner.
+#
+Soon after, she decided to enter Rune Academy,
+by her own will.
+#
+Publicly, it was announced that she decided to
+stay in Queensbell to study magic.
+#
+\x0A\x44\x00\xD2\x84\x01
+<exit>
+\x78

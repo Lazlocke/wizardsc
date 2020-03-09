@@ -41,32 +41,32 @@
 <removesprite -1 11>
 <background "bg011a0.iph" 11>
 <sprite "ta07a11.iph" 4 4 11>
-<name "ジャッジマン" "!FA0055">
+<name "Judgeman" "!FA0055">
 「れでぃーすあんじぇんとるめん！
 　本日はローリア料理大会にようこそ！」
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0056">
+<name "Judgeman" "!FA0056">
 「これからこの場では、多くの料理人が数多の食材
 　を調理し、無数の料理を生み出す事だろう！」
 #
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0057">
+<name "Judgeman" "!FA0057">
 「それら料理に優劣をつけるなど愚かしい事だと誰
 　もが知っている！」
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0059">
+<name "Judgeman" "!FA0059">
 「だが、知りたい！
 　どの料理が一番、美味いのかと！
 　それを作ったのは誰だと！」
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0060">
+<name "Judgeman" "!FA0060">
 「それがこれからわかるのだ！」
 #
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0061">
+<name "Judgeman" "!FA0061">
 「では、さっそく始めよう！
 　一回戦だ！」
 #

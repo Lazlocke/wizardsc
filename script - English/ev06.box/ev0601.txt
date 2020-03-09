@@ -1,0 +1,834 @@
+\x1A\x01\x07\x04\x05\xF1\x84\x00\x01\x0E :47: \xDB "êÌì¨ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :89C: \x0A\x04
+#
+\xF1\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:47
+\x1A\x01\x07\x04\x05\xF2\x84\x00\x01\x0E :8E: \xDB "êÌì¨ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :8E: \x16 :BB6: \x0A\x04
+#
+\xF2\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:8E
+\x1A\x01\x07\x04\x05\xF3\x84\x00\x01\x0E :F0: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :F0: \xDB "êÌì¨ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :F0: \x16 :CFE: \x0A\x04
+#
+\xF3\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:F0
+\x1A\x01\x07\x04\x05\xF4\x84\x00\x01\x0E :152: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :152: \xDB "êÌì¨ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :152: \x16 :DC5: \x0A\x04
+#
+\xF4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:152
+\x1A\x01\x07\x04\x05\xF5\x84\x00\x01\x0E :199: \xDB "ëÃóÕâÒïú" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :199: \x16 :ED8: \x0A\x04
+#
+\xF5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:199
+\x1A\x01\x07\x04\x05\xF6\x84\x00\x01\x0E :1E0: \xDB "ëÃóÕâÒïú" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :1E0: \x16 :12E5: \x0A\x04
+#
+\xF6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:1E0
+\x1A\x01\x07\x04\x05\xF7\x84\x00\x01\x0E :242: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :242: \xDB "ëÃóÕâÒïú" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :242: \x16 :1443: \x0A\x04
+#
+\xF7\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:242
+\x1A\x01\x07\x04\x05\xF8\x84\x00\x01\x0E :289: \xDB "ëÃóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :289: \x16 :15AC: \x0A\x04
+#
+\xF8\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:289
+\x1A\x01\x07\x04\x05\xF9\x84\x00\x01\x0E :2EB: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :2EB: \xDB "ëÃóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :2EB: \x16 :1676: \x0A\x04
+#
+\xF9\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:2EB
+\x1A\x01\x07\x04\x05\xFA\x84\x00\x01\x0E :34D: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :34D: \xDB "ëÃóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :34D: \x16 :1829: \x0A\x04
+#
+\xFA\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:34D
+\x1A\x01\x07\x04\x05\xFB\x84\x00\x01\x0E :3AF: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :3AF: \xDB "ëÃóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :3AF: \x16 :194D: \x0A\x04
+#
+\xFB\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:3AF
+\x1A\x01\x07\x04\x05\xFC\x84\x00\x01\x0E :3F8: \xDB "à⁄ìÆóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3F8: \x16 :1B81: \x0A\x04
+#
+\xFC\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:3F8
+\x1A\x01\x07\x04\x05\xFD\x84\x00\x01\x0E :441: \xDB "à⁄ìÆóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :441: \x16 :1D20: \x0A\x04
+#
+\xFD\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:441
+\x1A\x01\x07\x04\x05\xFE\x84\x00\x01\x0E :488: \xDB "êÌì¨ñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :488: \x16 :1ED8: \x0A\x04
+#
+\xFE\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:488
+\x1A\x01\x07\x04\x05\xFF\x84\x00\x01\x0E :4CF: \xDB "êÌì¨ñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4CF: \x16 :2108: \x0A\x04
+#
+\xFF\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:4CF
+\x1A\x01\x07\x04\x06\x00\x84\x00\x01\x0E :516: \xDB "îΩéÀñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :516: \x16 :2447: \x0A\x04\x06\x00\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:516
+\x1A\x01\x07\x04\x06\x01\x84\x00\x01\x0E :578: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :578: \xDB "îΩéÀñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :578: \x16 :278E: \x0A\x04\x06\x01\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:578
+\x1A\x01\x07\x04\x06\x02\x84\x00\x01\x0E :5C1: \xDB "ÉXÉ^Éìñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5C1: \x16 :289C: \x0A\x04\x06\x02\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:5C1
+\x1A\x01\x07\x04\x06\x03\x84\x00\x01\x0E :625: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :625: \xDB "ÉXÉ^Éìñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :625: \x16 :2ACB: \x0A\x04\x06\x03\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:625
+\x1A\x01\x07\x04\x06\x04\x84\x00\x01\x0E :66E: \xDB "ÉoÉbÉNñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :66E: \x16 :2BC7: \x0A\x04\x06\x04\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:66E
+\x1A\x01\x07\x04\x06
+#
+\x84\x00\x01\x0E :6B7: \xDB "ÉoÉbÉNñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :6B7: \x16 :2DB6: \x0A\x04\x06
+#
+\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:6B7
+\x1A\x01\x07\x04\x06\x06\x84\x00\x01\x0E :700: \xDB "ÉoÉbÉNñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :700: \x16 :2FFA: \x0A\x04\x06\x06\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:700
+\x1A\x01\x07\x04\x06\x07\x84\x00\x01\x0E :764: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :764: \xDB "ÉoÉbÉNñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :764: \x16 :317E: \x0A\x04\x06\x07\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:764
+\x1A\x01\x07\x04\x06\x08\x84\x00\x01\x0E :7AB: \xDB "ïKéEñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :7AB: \x16 :3235: \x0A\x04\x06\x08\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:7AB
+\x1A\x01\x07\x04\x06\x09\x84\x00\x01\x0E :7F2: \xDB "ïKéEñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :7F2: \x16 :334A: \x0A\x04\x06\x09\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:7F2
+\x1A\x01\x07\x04\x06\x0A\x84\x00\x01\x0E :839: \xDB "ïKéEñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :839: \x16 :3462: \x0A\x04\x06\x0A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:839
+\x1A\x01\x07\x04\x06\x0B\x84\x00\x01\x0E :89B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :89B: \xDB "ïKéEñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :89B: \x16 :36CB: \x0A\x04\x06\x0B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
+:89B
+\x78
+:89C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Speed --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0987">
+"Refine your movements.
+ Eliminate the unnecessary."
+#
+<sprite "ta04a08.iph" 4 4 12>
+<name "Soshiette" "!DA0988">
+"The less you waste, the more you're able to
+ act.
+ Which is to say, you'll be able to attack
+ additional times."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0989">
+"You'll be able to move two or three times for
+ each single time your opponent does.
+ I shouldn't even have to explain what an
+ advantage that is in battle."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a08.iph" 6 4 11>
+<name "Celes" "!AA5746">
+"Yes, ma'am!"
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA0990">
+"From what I've seen of you, you're moving more
+ efficiently than before, but you still have a
+ long way to go.
+ Please concentrate on that."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5747">
+"Y-Yes, ma'am!
+ I'll do my best!"
+#
+<removesprite -1 11>
+<exit>
+:BB6
+<music 10>
+<background "bg004a0.iph" 11>
+-- Speed --
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0991">
+"Moving without waste is almost a kind of art.
+ I don't want to focus on appearances over
+ effect, but please work harder so you can reach
+ that level."
+#
+<name "Lazlocke">
+"There's no point lecturing someone you've
+ knocked out cold.
+ Please try to hold back a little more."
+#
+<removesprite -1 11>
+<exit>
+:CFE
+<music 10>
+<background "bg002a0.iph" 11>
+-- Speed --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5748">
+"Undress instantly and straight into bed..."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"I-I guess there's no wasted movement there,
+ but it's kind of depressing..."
+#
+<exit>
+:DC5
+<music 10>
+<background "bg002a0.iph" 11>
+-- Speed --
+#
+<name "Lazlocke">
+"Aaaah! Your hips are moving... way too fast!"
+#
+<sprite "ta01a51.iph" 4 4 11>
+<name "Celes" "!AA5749">
+"Is that bad?"
+#
+<name "Lazlocke">
+"It feels good but... just a little slower,
+ please."
+#
+<removesprite -1 11>
+<exit>
+:ED8
+<music 10>
+<background "bg004a0.iph" 11>
+-- Recovery -- 
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5750">
+"By channeling mana correctly, you can restore
+ your strength...
+ Is that what you mean?"
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Soshiette" "!DA0992">
+"That's right.
+ That's the correct approach."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA5751">
+"Oh, good."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0993">
+"But you've still got a long way to go.
+ Let's try to increase your recovery speed a
+ little more."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5752">
+"Yes, ma'am!
+ ...Huh?
+Å@Wha?
+ Why are you raising your fists?"
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA0994">
+"You're at nearly full strength.
+ You'll need to take damage to recover from."
+#
+<sprite "ta01d37.iph" 2 5 12>
+<name "Celes" "!AA5753">
+"Huh? Oh...
+ T-That'll hurt..."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0995">
+"I'll knock you out before you feel any pain."
+#
+<sprite "ta01d38.iph" 2 5 12>
+<name "Celes" "!AA5754">
+"That's n...
+ Aaaaah!"
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"I think there's a fundamental problem here."
+#
+<exit>
+:12E5
+<music 10>
+<background "bg004a0.iph" 11>
+-- Recovery --
+#
+<name "Lazlocke">
+"You're recovering quickly, huh?"
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5755">
+"Yes, sir. Even after Miss Soshiette knocks me
+ out, I wake up after only a few minutes."
+#
+<name "Lazlocke">
+"You were out for an hour before."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5756">
+"Hahaha..."
+#
+<removesprite -1 11>
+<exit>
+:1443
+<music 10>
+<background "bg004a0.iph" 11>
+-- Recovery --
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA5757">
+"Your physical endurance is enhanced with mana,
+ right?"
+#
+<name "Lazlocke">
+"Whether I like it or not.
+ That's why it's so intense with me when my
+ mana builds up."
+#
+<sprite "ta01d97.iph" 4 4 12>
+<name "Celes" "!AA5758">
+"I-I'll do my best to keep up with your
+ endurance."
+#
+<removesprite -1 11>
+<exit>
+:15AC
+<music 10>
+<background "bg004a0.iph" 11>
+-- Constitution --
+#
+<name "Lazlocke">
+"Even wizards need to take care of their bodies.
+ Work hard and build up your fitness."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5759">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:1676
+<music 10>
+<background "bg004a0.iph" 11>
+-- Constitution --
+#
+<name "Lazlocke">
+"Even wizards need to take care of their bodies.
+ Work hard and build up your fitness."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5760">
+"That's why you're in shape too, right?"
+#
+<name "Lazlocke">
+"Well, as much as anybody else."
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA5761">
+"Huh?
+ Miss Soshiette said that only monsters have
+ sex as much as you do."
+#
+<name "Lazlocke">
+"Ignore her."
+#
+<removesprite -1 11>
+<exit>
+:1829
+<music 10>
+<background "bg004a0.iph" 11>
+-- Constitution --
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5762">
+"Is my stamina improving?"
+#
+<name "Lazlocke">
+"Shall we find out?"
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA5763">
+"Um... How?"
+#
+<name "Lazlocke">
+"In bed."
+#
+<removesprite -1 11>
+<exit>
+:194D
+<music 10>
+<background "bg004a0.iph" 11>
+-- Constitution --
+#
+<name "Lazlocke">
+"Your stamina has improved compared to before."
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5766">
+"Really?
+ It's hard to tell about myself."
+#
+<name "Lazlocke">
+"No, no. You're definitely better."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5767">
+"Hahaha...
+ I see."
+#
+<removesprite -1 11>
+Mmhmm.
+#
+She can go a lot more rounds having sex now
+before passing out.
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5768">
+"...Huh?
+ Did you just think something strange?"
+#
+<name "Lazlocke">
+"You're imagining things."
+#
+<removesprite -1 11>
+<exit>
+:1B81
+<music 10>
+<background "bg004a0.iph" 11>
+-- Agility --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA0996">
+"I can see that your agility is improving."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5769">
+"Thank you very much!"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA0997">
+"Keep up the hard work."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5770">
+"Yes, ma'am!"
+#
+<removesprite -1 11>
+<exit>
+:1D20
+<music 10>
+<background "bg002a0.iph" 11>
+-- Agility --
+#
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA5771">
+"Tea!"
+#
+<name "Lazlocke">
+"Thank you."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5772">
+"Cookies."
+#
+<name "Lazlocke">
+"O-Oh.
+ Thanks."
+#
+<removesprite -1 11>
+Hmm...
+Has she gotten quicker on her feet?
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0998">
+"Perhaps only her attentiveness has improved."
+#
+<removesprite -1 11>
+<exit>
+:1ED8
+<music 10>
+<background "bg004a0.iph" 11>
+-- Defense --
+#
+<name "Lazlocke">
+"Celes, you've gotten good at defense."
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5773">
+"Hahaha...
+ Really?"
+#
+<name "Lazlocke">
+"Yeah.
+ Getting beat up by Soshiette all the time is
+ paying off."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5774">
+"Hahaha... 
+ Master, I wasn't being beaten up.
+ I was being pummeled."
+#
+<name "Lazlocke">
+"I-I see.
+ That sounds rough."
+#
+<sprite "ta01d36.iph" 4 4 12>
+<name "Celes" "!AA5775">
+"It was. 
+ If I hadn't gotten better at defense, I
+ would've died."
+#
+<removesprite -1 11>
+<exit>
+:2108
+<music 10>
+<background "bg004a0.iph" 11>
+-- Defense --
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0999">
+"Her defense is improving as far as combat
+ goes."
+#
+<name "Lazlocke">
+"I see.
+ That's good."
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA1000">
+"Personally, I think it's best not to be hit at
+ all."
+#
+<name "Lazlocke">
+"Not everybody can move like you do."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1001">
+"...That's not true at all.
+ Just give me the order, and I'll show you that
+ you can move faster than me."
+#
+<name "Lazlocke">
+"Hahaha...
+ And if I can't, I'll die, right?"
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1002">
+"Of course."
+#
+<name "Lazlocke">
+"...Speaking of which, Celes isn't moving.
+ She's not dead, right?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1003">
+"She's fine.
+ She's still breathing."
+#
+<removesprite -1 11>
+<exit>
+:2447
+<music 10>
+<background "bg004a0.iph" 11>
+-- Reflex --
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1008">
+"This is a technique for avoiding a barrage of
+ enemy attacks on pure reflex."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA5776">
+"Reflex?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1009">
+"That's right.
+ Your body will react to dodge even before you
+ process it with your head."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5777">
+"That sounds useful."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1006">
+"It's very useful.
+ Learn it well."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA5778">
+"Yes, ma'am.
+ But isn't it hard to learn?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1007">
+"It's easy.
+ You just need to drive it into your body."
+#
+<sprite "ta01d36.iph" 2 5 12>
+<name "Celes" "!AA5779">
+"Huh?"
+#
+<removesprite -1 11>
+<exit>
+:278E
+<music 10>
+<background "bg004a0.iph" 11>
+-- Reflex --
+#
+<name "Lazlocke">
+"I've seen you do this multiple times, but isn't
+ this a move just for keeping people from
+ flipping up your skirt?"
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA5780">
+"No. It's a move for protecting yourself from
+ what comes at you after your skirt flips up."
+#
+<removesprite -1 11>
+<exit>
+:289C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Grit --
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA1010">
+"When you're attacked, whether you like it or
+ not, your own attacks can be interrupted."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA1011">
+"I hope I don't have to explain that you'll be
+ at a disadvantage if that happens."
+#
+<sprite "ta04a63.iph" 4 4 12>
+<name "Soshiette" "!DA1012">
+"I'm going to teach you techniques for reducing
+ the amount of time you're stunned.
+ Work hard to master them."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta04a63.iph" 6 4 11>
+<name "Celes" "!AA5781">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:2ACB
+<music 10>
+<background "bg002b0.iph" 11>
+-- Grit --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5782">
+"Don't stop moving, even when you're hit!
+ In other words, if you don't stop moving even
+ when you come..."
+#
+<name "Lazlocke">
+"It's better to stop when you come."
+#
+<removesprite -1 11>
+<exit>
+:2BC7
+<music 10>
+<background "bg004a0.iph" 11>
+-- Rigid --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1013">
+"You won't be knocked back even when you're
+ struck.
+ That's a very important thing."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5783">
+"Because your opponent won't be able to put
+ distance between you and him, right?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1014">
+"That's correct.
+ I'll tell you how to do it.
+ Please learn it well."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5784">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:2DB6
+<music 10>
+<background "bg004a0.iph" 11>
+-- Rigid --
+#
+<sprite "ta04a16.iph" 4 4 11>
+<name "Soshiette" "!DA1015">
+"When you're struck..."
+#
+<removesprite -1 11>
+<sprite "ta01d22.iph" 4 4 11>
+<name "Celes" "!AA5785">
+"Forward!"
+#
+<removesprite -1 11>
+<sprite "ta04a16.iph" 4 4 11>
+<name "Soshiette" "!DA1016">
+"When you're struck..."
+#
+<removesprite -1 11>
+<sprite "ta01d22.iph" 4 4 11>
+<name "Celes" "!AA5786">
+"Forward!"
+#
+<removesprite -1 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1017">
+"Excellent."
+#
+<removesprite -1 11>
+<sprite "ta01d42.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5787">
+"But it still hurts...
+ Owww..."
+#
+<exit>
+:2FFA
+<music 10>
+<background "bg004a0.iph" 11>
+-- Rigid --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5788">
+"Even if I'm hit...
+ Even if I'm hit...
+ Don't give an inch!"
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a63.iph" 6 4 11>
+<name "Soshiette" "!DA1018">
+"Splendid defense!"
+#
+<sprite "ta01d22.iph" 2 5 12>
+<name "Celes" "!AA5789">
+"And forward!"
+#
+<name "Lazlocke">
+"Quite powerful..."
+#
+<removesprite -1 11>
+<exit>
+:317E
+<music 10>
+<background "bg004a0.iph" 11>
+-- Rigid --
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01d79.iph" 4 4 11>
+<name "Celes" "!AA5790">
+"Um, it's not what you think it is."
+#
+<removesprite -1 11>
+<exit>
+:3235
+<music 10>
+<background "bg004a0.iph" 11>
+-- Guts --
+#
+<name "Lazlocke">
+"There are techniques for striking your weak
+ points.
+ So called killer attacks."
+#
+<name "Lazlocke">
+"There's a way to protect yourself against 
+ those killer attacks.
+ Work hard and learn it."
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5791">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:334A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Guts --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1019">
+"This is a skill that it will pay to learn."
+#
+<removesprite -1 11>
+<sprite "ta01d15.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5792">
+"Yes, ma'am.
+ I'll do my best to learn it."
+#
+<removesprite -1 11>
+<exit>
+:3462
+<music 10>
+<background "bg004a0.iph" 11>
+-- Guts --
+#
+<sprite "ta04a16.iph" 4 4 11>
+<name "Soshiette" "!DA1020">
+"Hyah!"
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 4 5 11>
+<name "Celes" "!AA5793">
+"Yah!"
+#
+<removesprite -1 11>
+Celes takes Soshiette's attack.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1021">
+"I intended to knock you out with a single blow.
+ I didn't expect you to be able to block it.
+ Excellent defense."
+#
+<removesprite -1 11>
+<sprite "ta01d09.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5794">
+"T-Thank you very much."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1022">
+"Please continue improving as you have."
+#
+<removesprite -1 11>
+<exit>
+:36CB
+<music 10>
+<background "bg004a0.iph" 11>
+-- Guts --
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01d97.iph" 4 4 11>
+<name "Celes" "!AA5795">
+"Master, I won't defend against your special sex
+ attacks."
+#
+...What's a special sex attack?
+#
+<removesprite -1 11>
+<exit>
+\x78

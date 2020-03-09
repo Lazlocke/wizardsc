@@ -1,0 +1,26 @@
+\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :C7: 
+<name "Hendrik" "!QA0090">
+"Okay, let's begin, missy."
+#
+<name "Celes" "!AA6676">
+"Here I come, full power."
+#
+<name "Hendrik" "!QA0091">
+"Yep. That's good.
+ That'll make this simple."
+#
+:C7
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :195: 
+<name "Hendrik" "!QA0094">
+"If possible, I want to end this in one attack,
+ but I don't think I can do that against you."
+#
+<name "Celes" "!AA6748">
+"..."
+#
+<name "Hendrik" "!QA0095">
+"Mmhmm.
+ I'll take you on with all my strength then."
+#
+:195
+\x78\x78

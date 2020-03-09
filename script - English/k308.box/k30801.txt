@@ -1,0 +1,2876 @@
+\xA8 "ë|èú" \x22\x00\x07\x1A\x01\x07\x04\x08\x84\x84\x00\x01\x0E :3D: \x1A\x01\x0A\x22\x00\x07 3 \x01\x15 :3D: \x0A\x04\x08\x84\x84\x01\x16 :2F6: \x15 :206: 
+:3D
+\x1A\x01\x07\x04\x08\x85\x84\x00\x01\x0E :70: \x1A\x01\x0A\x22\x00\x07 4 \x01\x15 :70: \x0A\x04\x08\x85\x84\x01\x16 :891: \x15 :206: 
+:70
+\x1A\x01\x07\x04\x08\x86\x84\x00\x01\x0E :A3: \x1A\x01\x0A\x22\x00\x07 5 \x01\x15 :A3: \x0A\x04\x08\x86\x84\x01\x16 :A8C: \x15 :206: 
+:A3
+\x1A\x01\x07\x04\x08\x87\x84\x00\x01\x0E :D6: \x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :D6: \x0A\x04\x08\x87\x84\x01\x16 :E19: \x15 :206: 
+:D6
+\x1A\x01\x07\x04\x08\x88\x84\x00\x01\x0E :133: \x1A\x01\x0A\x22\x00\x07 7 \x01\x15 :133: \x1A\x01\x0A\x22\x00\x07 8 \x01\x14 :121: \x0A\x04\x08\x88\x84\x01\x16 :1093: \x15 :206: \x18 :133: 
+:121
+\x0A\x04\x08\x88\x84\x01\x16 :11FB: \x15 :206: 
+:133
+\x1A\x01\x07\x04\x08\x89\x84\x00\x01\x0E :190: \x1A\x01\x0A\x22\x00\x07 8 \x01\x15 :190: \x1A\x01\x0A\x22\x00\x07 9 \x01\x14 :17E: \x0A\x04\x08\x89\x84\x01\x16 :13D2: \x15 :206: \x18 :190: 
+:17E
+\x0A\x04\x08\x89\x84\x01\x16 :17CF: \x15 :206: 
+:190
+\x1A\x01\x07\x04\x08\x8A\x84\x00\x01\x0E :1B7: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x08\x8A\x84\x01\x16 :1CF3: \x15 :205: 
+:1B7
+\x1A\x01\x07\x04\x08\x8B\x84\x00\x01\x0E :1DE: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x08\x8B\x84\x01\x16 :20D4: \x15 :205: 
+:1DE
+\x1A\x01\x07\x04\x08\x8C\x84\x00\x01\x0E :205: \x0A\x04\x00\xBB\x84\x01\x0A\x04\x08\x8C\x84\x01\x16 :268D: \x15 :205: 
+:205
+\x78
+:206
+\x1A\x01\x07\x04\x08\x8D\x84\x00\x01\x0E :22D: \x0A\x04\x08\x8D\x84\x01\x16 :283D: \x0A\x04\x00\xBB\x84\x01\x15 :205: 
+:22D
+\x1A\x01\x07\x04\x08\x8E\x84\x00\x01\x0E :254: \x0A\x04\x08\x8E\x84\x01\x16 :39AA: \x0A\x04\x00\xBB\x84\x01\x15 :205: 
+:254
+\x1A\x01\x07\x04\x08\x8F\x84\x00\x01\x0E :27B: \x0A\x04\x08\x8F\x84\x01\x16 :48A7: \x0A\x04\x00\xBB\x84\x01\x15 :205: 
+:27B
+\x1A\x01\x07\x04\x08\x90\x84\x00\x01\x0E :2A2: \x0A\x04\x08\x90\x84\x01\x16 :62AE: \x0A\x04\x00\xBB\x84\x01\x15 :205: 
+:2A2
+\x1A\x01\x07\x04\x08\x91\x84\x00\x01\x0E :2C9: \x0A\x04\x08\x91\x84\x01\x16 :7D23: \x0A\x04\x00\xBB\x84\x01\x15 :205: 
+:2C9
+\x1A\x01\x07\x04\x08\x92\x84\x00\x01\x0E :2F0: \x0A\x04\x08\x92\x84\x01\x16 :A292: \x0A\x04\x00\xBB\x84\x01\x15 :205: 
+:2F0
+\x15 :205: 
+:2F6
+<music 31>
+<background "bg002a0.iph" 11>
+As you research various spells, various things
+will start to fill your space.
+#
+It'd be fine if it was just documents, but it's
+less fine when it's all kinds of random stuff
+that you have no idea what it is or what it was
+ever for.
+#
+I'll figure it out later.
+#
+Maybe it'll be useful eventually.
+#
+When you think that way, you end up never throwing
+away anything.
+#
+And if you put it off because you've still got
+space, then your fate is sealed.
+#
+The entire house will get packed full of things
+you don't understand, and you'll have no idea
+how it all got there.
+#
+That's why I need to get cleaning before that
+happens.
+#
+While the house does have three rooms set aside
+specifically for storing stuff, one of them has
+reached critical mass.
+#
+<sprite "ta01a89.iph" 4 4 11>
+<name "Celes" "!AA5697">
+"We're cleaning out the store room today?"
+#
+<name "Lazlocke">
+"That's right.
+ Fortunately, the house has a lot of empty rooms,
+ so move the things we're keeping to one of
+ them."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5698">
+"Yes, sir."
+#
+<name "Lazlocke">
+"Start from the back of the room, doing books,
+ equipment, etc. You take that corner."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA5699">
+"Yes, sir."
+#
+<name "Lazlocke">
+"I'll start over here.
+ Don't rush. I expect this to take more than a
+ day."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5700">
+"Yes, sir."
+#
+<removesprite -1 11>
+All right, how should I tackle this?
+#
+I'd prefer to start with the big stuff, but little
+things are in the way of that.
+#
+So I guess the better approach is to start with
+the little stuff.
+#
+Okay, what do we have here?
+#
+Hm?
+#
+What is this?
+#
+We had this kind of book sitting around?
+#
+I pick it up and take a look.
+#
+<exit>
+:891
+<music 31>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"All right. 
+ We should clean the store room."
+#
+Easier said than done.
+#
+Every thing I pick up has some memory attached
+to it.
+#
+This is already stuff that I kept around instead
+of throwing it out, so it all has some charm.
+#
+Well, the stuff I have no idea why I kept is
+interesting too.
+#
+What a pain.
+#
+It's slow, but I'm chipping away at it.
+#
+First, let's get all the books together.
+#
+Hm?
+#
+What's this?
+#
+We had a book like this here?
+#
+I pick it up and take a look.
+#
+<exit>
+:A8C
+<music 31>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA5701">
+"Master, are you cleaning up the store room?"
+#
+<name "Lazlocke">
+"Yeah, I am."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA5702">
+"Let me help."
+#
+<name "Lazlocke">
+"Thanks.
+ You can work on the other side."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5703">
+"All right, but don't get distracted reading a
+ book again."
+#
+<name "Lazlocke">
+"I know.
+ I won't make the same mistake twice."
+#
+<removesprite -1 11>
+She accepts that and goes to clean on the other
+side of the room.
+#
+I've got to get cleaning too.
+#
+Hm?
+#
+That book...
+#
+Heheheh.
+I would've definitely picked it up before.
+#
+But I've learned my lesson!
+#
+This is a trap to keep me from cleaning!
+#
+It's not something to be cleaned.
+#
+It's something that stops you from cleaning!
+#
+It makes you read it when you're trying to clean
+up!
+#
+Heheheheh...
+You think that'd work on me!?
+#
+I pick up the book.
+#
+...Huh?
+#
+<exit>
+:E19
+<music 31>
+<background "bg002a0.iph" 11>
+Whew...
+I started reading a book when I was supposed to
+be cleaning.
+#
+That's no good.
+#
+I know that.
+#
+I know that, but I can't stop.
+#
+If this keeps up, I'll never finish cleaning, and
+the house will be in crisis.
+#
+It might be okay for a year or two, but five
+years from now will be a disaster.
+#
+Grr...
+#
+I've got to think of a way to counter this.
+#
+What if I left it all to Celes?
+#
+That's not a bad idea, except for putting it all
+on her.
+#
+...
+#
+I've got it!
+#
+The problem is that I keep getting engrossed in
+books while cleaning.
+#
+Okay!
+#
+I'm not cleaning right now, so...
+#
+That's a perfect idea!
+#
+...Maybe?
+#
+Well, the first step is to reduce the number of
+books I haven't read, so I pick one up.
+#
+<exit>
+:1093
+<music 31>
+<background "bg002a0.iph" 11>
+Cleaning...
+#
+How profound it is!
+#
+All you need to do is put things away, and get
+rid of all the dust and dirt, yet it's so hard to
+get it done.
+#
+I wish there was a spell for it.
+#
+Well, if there's not one, maybe I should create
+one myself.
+#
+A spell for gathering all the dust in a room...
+#
+There's got to be a way to do that.
+#
+Okay, I need to look this up.
+#
+Hm?
+#
+Isn't that book...
+#
+<exit>
+:11FB
+<music 31>
+<background "bg002a0.iph" 11>
+Cleaning up the former parlor, currently a store
+room, isn't going well.
+#
+I wonder if it's even possible.
+#
+It's weird.
+#
+All the stuff from one room ended up filling three
+other rooms.
+#
+But when I started moving stuff back, the original
+room was filled up after emptying only one of the
+three rooms into it.
+#
+How!?
+#
+How can that be!?
+#
+No, no.
+Keep a cool head.
+#
+It's all over if you let it get to you.
+#
+Take a deep breath and have some tea.
+#
+...
+#
+...Relax.
+#
+I relaxedly pick up a book and begin reading.
+#
+<exit>
+:13D2
+<music 31>
+<background "bg002a0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA5704">
+"Your room and the rest are all so clean, so why
+ is the store room such a mess?"
+#
+<name "Lazlocke">
+"Probably because that's where I throw all the
+ random stuff."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5705">
+"Then why don't you top putting things in there
+ for a while?
+ If this keeps up, it'll never get in order."
+#
+<name "Lazlocke">
+"...You've got a point.
+ Okay, all right."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA5706">
+"I'll start cleaning from over there.
+ You start cleaning here."
+#
+<name "Lazlocke">
+"Mmhmm."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5707">
+"I've already put away all the books that were
+ here, so there shouldn't be any distractions.
+ Let's work hard."
+#
+<name "Lazlocke">
+"It's gonna be rough, but I'll try."
+#
+<removesprite -1 11>
+Celes goes over to clean.
+#
+I get ready to clean too.
+#
+...Ooh! It's going so well without any books!
+#
+Hmm. What a surprise.
+#
+I didn't realize cleaning was this easy.
+#
+...Until I pick up a wooden doll and find a book
+that was left out.
+#
+<exit>
+:17CF
+<music 31>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5708">
+"Sometimes, I can't help but think..."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta01a05.iph" 4 4 12>
+<name "Celes" "!AA5709">
+"I feel like it would be faster if I cleaned by
+ myself, without your help."
+#
+<name "Lazlocke">
+"Aagh!"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5712">
+"So try to clean better than me.
+ I don't have enough spare time to be using all of
+ it cleaning."
+#
+<name "Lazlocke">
+"I-I'll try."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA5713">
+"Let's do our best."
+#
+<removesprite -1 11>
+...Grr...
+#
+She's definitely mad.
+#
+It's been days since I said we should clean the
+store room, but no progress has been made.
+#
+So, yeah. 
+She's mad.
+#
+Okay, now's my chance!
+#
+Time to show that I'm the master here!
+#
+Back when she first started, I was better at
+cleaning than her!
+#
+I clean my heart out.
+#
+I did amazing.
+#
+All the struggles so far fade like they never
+happened.
+#
+Whew...
+#
+Good grief...
+#
+She can't be mad now.
+#
+Hahaha!
+#
+It's like a dream.
+#
+...Wait, no!
+#
+When did I fall asleep!?
+#
+I-If this keeps up, I'll lose all dignity as her
+master.
+#
+Calm down, Lazocke.
+Calm down.
+#
+I've been through far worse than this.
+#
+Yeah.
+#
+I need to calm down and collect myself.
+#
+And the best way to calm down is to read a book!
+#
+<exit>
+:1CF3
+<music 31>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Cleaning is a matter of motivation and inertia."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA5714">
+"That's right."
+#
+<name "Lazlocke">
+"So let's get fired up!"
+#
+<sprite "ta01a51.iph" 4 4 12>
+<name "Celes" "!AA5715">
+"You say that, but why are you rubbing my breast?"
+#
+<name "Lazlocke">
+"Oh, uh... it's something that fires me up?"
+#
+<sprite "ta01a49.iph" 4 4 12>
+<name "Celes" "!AA5716">
+"Umm...
+ Well, I don't mind."
+#
+<name "Lazlocke">
+"Okay, let's get fired up!"
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA5717">
+"Aah!"
+#
+<name "Lazlocke">
+"Get fired up!"
+#
+<sprite "ta01a95.iph" 4 4 12>
+<name "Celes" "!AA5718">
+"Aaaah!ÅÙ"
+#
+<name "Lazlocke">
+"Hey! That's not the sound of being fired up."
+#
+<sprite "ta01a75.iph" 4 4 12>
+<name "Celes" "!AA5719">
+"Then quit feeling around for my nipple through
+ my clothes and fondling me."
+#
+<name "Lazlocke">
+"Hmmm..."
+#
+<removesprite -1 11>
+Anyway, I push her down.
+#
+<background "bg002b0.iph" 11>
+It's past midnight before I realize it.
+#
+Cleaning obviously did not happen.
+#
+<exit>
+:20D4
+<music 31>
+<background "bg002a0.iph" 11>
+I've been thinking.
+#
+What should I do to better concentrate on 
+cleaning?
+#
+I can't give in to temptations.
+#
+What should I do to avoid temptation?
+#
+<name "Lazlocke">
+"Celes."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5721">
+"Yes?"
+#
+<name "Lazlocke">
+"Come here a minute."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5722">
+"What is it?"
+#
+<name "Lazlocke">
+"Try to seduce me."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA5723">
+"Uh?"
+#
+<name "Lazlocke">
+"Try to seduce me."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA5724">
+"...Umm...
+ Well, uh... ahem."
+#
+<sprite "ta01a97.iph" 4 4 12>
+<name "Celes" "!AA5725">
+"Mister, it's so lonely sleeping alone..."
+#
+Gah!
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA5726">
+"Master?"
+#
+<name "Lazlocke">
+"J-Just surprised is all, but this is nothing..."
+#
+<sprite "ta01a70.iph" 4 4 12>
+<name "Celes" "!AA5727">
+"Daddy, do you hate me?"
+#
+<name "Lazlocke">
+"Nngh...
+ But what's this twisted direction!?"
+#
+<sprite "ta01a94.iph" 4 4 12>
+<name "Celes" "!AA5728">
+"Sir, take me..."
+#
+Why is it so different just being called something
+else?
+#
+<sprite "ta01a70.iph" 4 4 12>
+<name "Celes" "!AA5729">
+"Master, I don't want to go home tonight..."
+#
+<removesprite -1 11>
+<background "bg002b0.iph" 11>
+Before I realize it, it's the middle of the night.
+#
+Celes is sleeping soundly next to me, looking very
+satisfied.
+#
+Hmmm...
+#
+Am I just weak to temptation?
+#
+Whatever the case, no cleaning got done.
+#
+<exit>
+:268D
+<music 31>
+<background "bg002a0.iph" 11>
+Somehow, the store room finally got cleaned.
+#
+Well, maybe more like cleaning finished rather
+than it was cleaned.
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA5730">
+"You're giving up?"
+#
+<name "Lazlocke">
+"Well, I'll get it cleaned up when I move."
+#
+<sprite "ta01a05.iph" 4 4 12>
+<name "Celes" "!AA5731">
+"That's what they say when they give up..."
+#
+<removesprite -1 11>
+I assault her to shut her up.
+#
+I'm finished cleaning.
+#
+<exit>
+:283D
+<background "bg024a0.iph" 10>
+<music 10>
+<background "ev100a0.iph" 10>
+<name "Machi" "!IB0000">
+"First!"
+#
+<name "Kenta" "!SC0001">
+"Damn it!
+ I lost again!"
+#
+<name "Machi" "!IB0001">
+"Heheheh. I win."
+#
+<name "Kenta" "!SC0002">
+"Fine.
+ I'll let you have one of the watermelons in my
+ field."
+#
+<name "Machi" "!IB0002">
+"That's not all we bet, was it?"
+#
+<name "Kenta" "!SC0003">
+"...I know.
+ When we get home."
+#
+<name "Machi" "!IB0003">
+"No way.
+ I can't wait."
+#
+<name "Kenta" "!SC0004">
+"Huh?"
+#
+<name "Machi" "!IB0004">
+"Heheheh...
+ I'm burning up from running."
+#
+<name "Kenta" "!SC0005">
+"H-Hey..."
+#
+<name "Machi" "!IB0005">
+"You came this far, don't turn back now."
+#
+<name "Kenta" "!SC0006">
+"Erp! A-All right.
+ I'll do it already."
+#
+<name "Machi" "!IB0007">
+"All right!"
+#
+<music 35>
+<background "ev101a0.iph" 10>
+I take off my pants, and lift my swollen dick,
+bring it to her butt, waiting under the shade of
+a tree, and slowly put it in her.
+#
+<name "Machi" "!IB0008">
+"Mmm..."
+#
+My dick slides into her pussy.
+#
+I've read that you're supposed to play with a
+girl's pussy before you put it in, but Machi
+hates that and never wants to.
+#
+<name "Machi" "!IB0009">
+"Ahhh...
+ Ahh!ÅÙ"
+#
+The book said that it'd hurt if you put it in too
+quick, but it never hurts her.
+#
+It's not because I'm small.
+#
+I'm bigger than most of my friends.
+#
+It's cause... Machi's not very feminine.
+#
+She's a tomboy.
+#
+<name "Machi" "!IB0010">
+"Come on.
+ Get moving."
+#
+I move my hips like she wants.
+#
+I would've done that without her order.
+#
+It feels good inside her.
+#
+This is a pleasure I can't find anywhere else.
+#
+Hot warmth wrapped tightly around me in a soft
+embrace.
+#
+All of it is pleasant on my dick.
+#
+I move my hips back and forth, rubbing my dick
+inside her pussy for more.
+#
+<name "Machi" "!IB0011">
+"Ah...ahh...aaaah!ÅÙ"
+#
+Intensely.
+Wildly.
+#
+Just how she likes it.
+#
+My hips slap against her butt loudly enough to
+make a sound.
+#
+<name "Machi" "!IB0012">
+"Aaah! Mm! Mm!
+ Mmmmmm! Aaah! Ahhh!"
+#
+As I do, wetness overflows from her pussy.
+#
+All I can think about is moving my hips and
+stimulating my dick.
+#
+<name "Machi" "!IB0013">
+"Aah! Aah! Ahhh! Ahhh! Mm! Mmm...
+ Aaah! Aah! Mm! Aah! Ah! Aah! Ahh!"
+#
+As i thrust hard, my head suddenly goes blank and
+before I realize it, I'm shooting a flood of semen
+into her.
+#
+<name "Machi" "!IB0014">
+"Ah... H-Hey...
+ Don't suddenly... come like that...
+ Jerk..."
+#
+She can say that, but it's not stopping.
+#
+I continue ppounding into her as I come.
+#
+Once I finish, I catch my breath.
+#
+As I gasp and reover, I grab her breast.
+#
+It's small, but firm.
+#
+I guess she is really a girl after all...
+#
+<name "Machi" "!IB0015">
+"Aah...ah...nnnh...
+ Move."
+#
+She pressures me.
+#
+I already know that she wouldn't be satisfied with
+just that.
+#
+I wonder how much it'll take to satisfy her this
+time.
+#
+Anyway, I start moving my hips again to pleasure
+her.
+#
+<name "Machi" "!IB0016">
+"Ah! Aaah! Ahhh! Ah... Ahhhh...
+ Ahh! Ahh! Mmm! Mmmm..."
+#
+It's a little easier now that I've come once.
+#
+I push my dick in and look for the spot she likes
+best.
+#
+<name "Machi" "!IB0017">
+"Aaah! Ahh! Ah! Ahh! Nngh! Ah! R-Right there...
+ Aaah! Ah! Aah! Ahhh! Ngh
+ H-Hey, t-that spot's..."
+#
+The place she likes the most is right at the
+front on the right side.
+#
+I keep rubbing the tip of my dick against that
+spot.
+#
+<name "Machi" "!IB0018">
+"Ah...ah...ah..."
+#
+Her legs are trembling.
+#
+Little by little, I rub against her faster.
+#
+<name "Machi" "!IB0019">
+"Ah...ah... I-I'm... ah...ah..."
+#
+The insides of her pussy start to tremble.
+#
+I plunge my dick deep into her.
+#
+<name "Machi" "!IB0020">
+"Aah!"
+#
+As I do, her whole body quivers as she climaxes.
+#
+<name "Machi" "!IB0021">
+"Aaaaaahhhhhhh!!!"
+#
+A flood of her juices pour out of her pussy.
+#
+<name "Machi" "!IB0022">
+"Ah...ahhh...ahh...ah...
+ Aah... D-Don't...ah...
+ Q-Quit moving!"
+#
+She tries to bask in the afterglow, but I don't
+hold back and keep swinging my hips, moving my
+dick inside her.
+#
+<name "Machi" "!IB0023">
+"Ah! Aah! Ahh! Aaaaahhh!"
+#
+And come.
+#
+I flood her pussy again.
+#
+<name "Machi" "!IB0024">
+"Ah...ah...ahh...
+ Y-You jerk...
+ Ahhhh..."
+#
+I know though.
+#
+We're not done yet.
+#
+I keep moving my hips until neither of us can
+stand straight.
+#
+<background "bg024a0.iph" 10>
+<music 31>
+<background "bg002a0.iph" 11>
+...
+#
+<name "Lazlocke">
+"Hmm... A protagonist just like me."
+#
+Oops, I was supposed to be cleaning.
+#
+Celes is glaring at me.
+#
+I close the book and get back to work.
+#
+\x0A\x44\x00\xD8\x84\x01
+<exit>
+:39AA
+<background "bg024a0.iph" 10>
+<music 10>
+<background "ev102a0.iph" 10>
+<name "Ogin" "!HB0000">
+"Hmm... Then how about this?"
+#
+<name "Kinjiro" "!TC0000">
+"Nngh... How's this?"
+#
+<name "Ogin" "!HB0001">
+"That's not bad, but you're giving away the bank
+ for free."
+#
+<name "Kinjiro" "!TC0001">
+"Nngh!"
+#
+<name "Ogin" "!HB0002">
+"Do you need a moment?"
+#
+<name "Kinjiro" "!TC0002">
+"N-No, I don't!
+ I can do this on my own!"
+#
+<name "Ogin" "!HB0003">
+"Oh? Can you?
+ Then please, continue."
+#
+<name "Kinjiro" "!TC0003">
+"Nnnnnngh...
+ I can move this one here."
+#
+<name "Ogin" "!HB0004">
+"I see."
+#
+<name "Kinjiro" "!TC0004">
+"I've got the angle now!"
+#
+<name "Ogin" "!HB0005">
+"Yes, that is quite a deft move.
+ Your next one will have me cornered."
+#
+<name "Kinjiro" "!TC0005">
+"Right?"
+#
+<name "Ogin" "!HB0006">
+"But your king will die before you can do that."
+#
+<name "Kinjiro" "!TC0006">
+"Huh?"
+#
+<name "Ogin" "!HB0008">
+"See? Checkmate, here."
+#
+<name "Kinjiro" "!TC0007">
+"T-This piece can protect that."
+#
+<name "Ogin" "!HB0009">
+"Then I would have to do this."
+#
+<name "Kinjiro" "!TC0008">
+"Huh?
+ The knight..."
+#
+<name "Ogin" "!HB0010">
+"If you move the knight, you leave your flank
+ open. Checkmate."
+#
+<name "Kinjiro" "!TC0009">
+"Nnngh..."
+#
+<name "Ogin" "!HB0012">
+"There may be a way out. You're not checkmated
+ just yet.
+ You should think about how to escape."
+#
+<name "Kinjiro" "!TC0010">
+"Nnnnnnngh..."
+#
+<name "Ogin" "!HB0013">
+"I'll wait as long as you need, but I might grow
+ bored waiting for you to find your path to
+ victory.
+ Heheheh..."
+#
+<music 36>
+<background "ev103a0.iph" 10>
+She skillfully uses her feet to undo my pants
+and start rubbing my dick.
+#
+Nngh...
+#
+Pathetically, I'm hard in seconds.
+#
+<name "Ogin" "!HB0014">
+"Heheheh... You may be worthless at the game,
+ but you are a champion here.
+ Shape, size, hardness... I may truly be in love."
+#
+I try to endure it, but she's too good with her
+feet and my concentration is dragged from the game
+to my dick.
+#
+<name "Ogin" "!HB0028">
+"Heheeh.
+ Still trying to resist?"
+#
+She practically purrs as she opens her robe and
+exposes her perfect breast.
+#
+<name "Ogin" "!HB0016">
+"You can suck on it like you always do."
+#
+Concentrate...
+Concentrate...
+#
+<name "Ogin" "!HB0017">
+"Come on..."
+#
+Concentrate...
+#
+<name "Ogin" "!HB0018">
+"Unlike the game, this is within your grasp.
+ It's a prize worth capturing."
+#
+D-Don't make a fool of yourself...
+I haven't lost this yet!
+#
+<name "Ogin" "!HB0019">
+"But... what if I do this?"
+#
+Nnnnngh!
+#
+Her feet move like they're her hands.
+#
+Ngh...
+#
+<name "Ogin" "!HB0020">
+"We're sure hanging in there."
+#
+I am!
+#
+I'm not about to lose!
+#
+<name "Ogin" "!HB0021">
+"Holding back too much is bad for you.
+ Just come and feel refreshed."
+#
+Yeah, maybe I should listen to her...
+#
+She's been teasing me this whole time...
+#
+<name "Ogin" "!HB0022">
+"Heheh... Then maybe I should take this more
+ seriously."
+#
+Huh?
+#
+<name "Ogin" "!HB0023">
+"Take this."
+#
+Nngh!
+#
+H-Her feet feel too good...
+#
+C-Calm down.
+#
+Calm down.
+#
+If I come now, I'm finished.
+#
+Right.
+The game.
+#
+Focus on the game.
+#
+She moves her feet faster, like she's mocking
+me.
+#
+<name "Ogin" "!HB0024">
+"Come on...
+ Heheheheh..."
+#
+Her feet move perfectly.
+#
+How does she always know where to touch me?
+#
+She runs her toes all over and around my dick
+in between squeezing it.
+#
+I-It's not like I have a fetish for this...
+#
+<name "Ogin" "!HB0025">
+"Heheh..."
+#
+Ah... 
+O-Oh no...
+#
+<name "Ogin" "!HB0027">
+"I won't stop."
+#
+She has the look of a cat toying with a mouse.
+#
+...
+#
+Seeing her face is the last straw and semen
+shoots out pathetically from my dick.
+#
+<background "bg024a0.iph" 10>
+<music 31>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"..."
+#
+<name "Lazlocke">
+"Hmm..."
+#
+<name "Lazlocke">
+"Hmmmmm..."
+#
+<name "Lazlocke">
+"I see."
+#
+That kind of play could be fun.
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5732">
+"Master!
+ Quit slacking off and get cleaning!"
+#
+<name "Lazlocke">
+"Aaah!
+ Y-You scared me."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA5733">
+"I most certainly did not.
+ Get back to cleaning."
+#
+<name "Lazlocke">
+"R-Right."
+#
+<removesprite -1 11>
+Huh?
+#
+Where'd that book go?
+#
+...Well, whatever.
+#
+Back to cleaning.
+#
+\x0A\x44\x00\xD9\x84\x01
+<exit>
+:48A7
+<background "bg024a0.iph" 10>
+<music 5>
+<background "ev104a0.iph" 10>
+Room 707.
+#
+I'm drinking right now with Mizuno who lives
+next door.
+#
+How it happened?
+I'm not sure I could say.
+#
+I remember seeing her in her kimono and thinking
+she looked pretty, but things get fuzzy after
+that.
+#
+Before I realized it, the bottles were empty.
+#
+I'm not great at handling my beer, so I probably
+passed out a couple times.
+#
+I don't think I can say what happened over the
+last few hours.
+#
+Aah, her kimono is what struck me, and before
+I realized it, I was drunk.
+#
+Crap.
+#
+I look around the room again, but filled with
+empty bottles and reeking of liquor, it doesn't
+even feel like my own room.
+#
+I think I might be drunk on just the smell.
+#
+But she's still drinking like it's water.
+#
+<name "Torii" "!RC0000">
+"Mizuno, I think you've had a little too...
+ No, a lot too much too drink."
+#
+<name "Mizuno" "!JC0000">
+"Not at all.
+ This much is normal for when you're home...
+ Mm..."
+#
+<name "Mizuno" "!JC0002">
+"Oh, my kimono's coming undone. 
+ Excuse me.
+ What an embarrassment."
+#
+I wish I could say it's not bothering me, but
+that'd be a lie.
+#
+<name "Torii" "!RC0001">
+"N-No, don't worry about it..."
+#
+<name "Mizuno" "!JC0003">
+"Really?
+ But I have to fix it at least a little.
+ Could you help me?"
+#
+<name "Torii" "!RC0002">
+"I-I... don't know kimonos."
+#
+<name "Mizuno" "!JC0004">
+"I'll teach you."
+#
+Her face is so close.
+#
+The scent of her fills my nose and blocks out
+the smell of alcohol.
+#
+My dick twitches, but I try to stay calm and act
+like it's nothing.
+#
+<name "Torii" "!RC0003">
+"T-Then... what should I do?"
+#
+<name "Mizuno" "!JC0005">
+"First, can you hold the belt?"
+#
+<name "Torii" "!RC0004">
+"Okay."
+#
+I take it like she said.
+#
+She's so close to me.
+#
+Especially her face.
+#
+...Huh?
+#
+<name "Mizuno" "!JC0006">
+"Oh? Torii?
+ Huh? Ah... eek!"
+#
+I kiss her.
+#
+<music 35>
+<background "ev105a0.iph" 10>
+<name "Mizuno" "!JC0007">
+"T-Torii, w-what are you doing?"
+#
+I kissed her before I realized what I was doing.
+#
+And then I pulled down her kimono and tied her
+hands with the belt.
+#
+<name "Mizuno" "!JC0008">
+"Ah...ah..."
+#
+I free my swollen dick from my pants, excited by
+how sexy she looks, and rub it against her.
+#
+<name "Mizuno" "!JC0009">
+"N-No... What are you...
+ Ah... Stop...
+ Please don't..."
+#
+I ignore her and keep rubbing against her, and
+then try to quickly push inside her.
+#
+Her wetness greets me.
+#
+<name "Mizuno" "!JC0010">
+"Aaaah!ÅÙ"
+#
+I thought she'd scream, but she moans
+passionately.
+#
+She wants it.
+#
+There's no stopping now.
+#
+I bury myself to the base inside her, pushing
+through all her walls in one thrust.
+#
+<name "Mizuno" "!JC0011">
+"Aah! Ahhh! Ahhh! Ahhhhh!"
+#
+Her sweet scent fills the room along with the
+smell of alcohol.
+#
+Drawn by it, I move my hips and ravage her pussy.
+#
+<name "Mizuno" "!JC0012">
+"Ah! Ahh! Mm! Aah! Aaahh! Aahhhh!
+ Aah! Ahhh! Ah! Ahh! Ah! Ahhh!"
+#
+Her pussy squeezes comfortably tight in open,
+warm pleasure.
+#
+I move my dick left and right inside her, rubbing
+all over.
+#
+<name "Mizuno" "!JC0013">
+"Aah! Ahh! Ahh! Ahhh! Aaah! Mm! Ah!
+ Aaah! Ah! Ahh! Ah! Ahhh!
+ N-Not there! Ah! Aaaahhh!"
+#
+She moans louder when I go left.
+#
+I lose myself in the sensations while intensely
+rubbing against her left side.
+#
+<name "Mizuno" "!JC0014">
+"Ah! Aah! Ah! Ah! D-Don't...
+ Ah! Aah! Ah! Ngh! S-Stop! Ah! Ah!
+ Ah! Ah! Ahhh!"
+#
+She loves it.
+#
+Just knowing that makes me want to do it harder.
+#
+More.
+#
+I want her warmth, her softness, and her moans.
+#
+More.
+#
+I bring my lips to hers again.
+#
+I could be drunk on that even without the liquor.
+#
+But I push my tongue into her mouth to taste more
+of her.
+#
+My head's swimming.
+#
+I'm kissing her.
+#
+The more I do, the more turned on I get.
+#
+And when her tongue embraces mine, my excitement
+reaches a fever pitch.
+#
+<name "Mizuno" "!JC0015">
+"Mmmmm..."
+#
+My whole head goes white and I shoot semen into
+her while frantically shaking my hips like an
+animal.
+#
+I come over and over into her pussy.
+#
+<name "Mizuno" "!JC0016">
+"Ah...ah...ahhh...ah...aahh..."
+#
+When I come to, I'm gasping for breath with her
+still in my arms.
+#
+<name "Mizuno" "!JC0017">
+"Aah...
+ Y-You're horrible..."
+#
+Her words are like cold water splashed in my
+face.
+#
+What was I doing?
+#
+I can't believe I did that.
+#
+But I don't want to move away.
+#
+My dick's still hard and still inside her.
+#
+I move just a little.
+#
+<name "Mizuno" "!JC0018">
+"Aah!"
+#
+She moans.
+#
+...
+#
+And then surprises me.
+#
+<name "Mizuno" "!JC0019">
+"N-Not yet...
+ Don't stop..."
+#
+<name "Mizuno" "!JC0020">
+"How could you come by yourself?
+ You're horrible."
+#
+I look at her.
+#
+She wants me.
+#
+...
+#
+I thrust into her.
+#
+<name "Mizuno" "!JC0021">
+"Ah! Ahhh!"
+#
+Intensely.
+Repeatedly.
+#
+<name "Mizuno" "!JC0022">
+"Ah...ah...ahhh...aaahhh!"
+#
+For her pleasure.
+#
+And for my own.
+#
+<name "Mizuno" "!JC0023">
+"Ah! Aah! Ahh! Aaaaaahhh!"
+#
+Her pussy is flooded with my semen.
+#
+<name "Mizuno" "!JC0024">
+"Aaah! Aah! Ah! Ah! Aah! D-Don't...
+ Ah! Aah! Aaaaah!"
+#
+And then her mouth.
+#
+I come in her mouth and make her swallow it.
+#
+<name "Mizuno" "!JC0025">
+"Ah! Aah! Ah! Ah! Ahhh..."
+#
+And then on her breasts.
+#
+And then in her ass...
+#
+I take every part of her.
+#
+<name "Mizuno" "!JC0026">
+"Aaaaaaaahhhhhhhh!!!!"
+#
+I keep having sex with her.
+#
+<music 5>
+<background "bg024a0.iph" 10>
+The next day, I wake up to a painful hangover.
+#
+And then I look around as I remember what 
+happened.
+#
+Where's Mizuno?
+#
+...
+#
+She's in the kitchen, cooking something.
+#
+<name "Mizuno" "!JC0027">
+"Ah, good morning.
+ I'll be done in a moment.
+ Just wait, okay?"
+#
+She's wearing an apron after everything we did
+yesterday, just there in the kitchen, like
+nothing happened.
+#
+<name "Mizuno" "!JC0028">
+"...After breakfast, let's enjoy ourselves again."
+#
+<music 31>
+<background "bg002a0.iph" 11>
+As I'm reading, I get a tap on my shoulder.
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5734">
+"Master, no reading while we're cleaning."
+#
+<name "Lazlocke">
+"S-Sorry."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA5735">
+"Put the book down and get back to cleaning."
+#
+<name "Lazlocke">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+I put the book down and get back to work.
+#
+\x0A\x44\x00\xDA\x84\x01
+<exit>
+:62AE
+<music 10>
+<background "bg024a0.iph" 10>
+In this world, there are men and women.
+#
+Men often don't understand what other men are
+thinking, but then never understand what women
+are thinking.
+#
+<background "ev106a0.iph" 10>
+<name "Kuroka" "!IC0000">
+"Heheheh..."
+#
+<name "Shiroishi" "!TD0000">
+"Hahaha..."
+#
+<name "Kuroka" "!IC0001">
+"Heheheheheh..."
+#
+<name "Shiroishi" "!TD0001">
+"H-Hahaha...
+ C-Can't we talk about this calmly?"
+#
+<name "Kuroka" "!IC0002">
+"I suppose...
+ I do love smiling, but I love talking with you
+ too."
+#
+<name "Shiroishi" "!TD0002">
+"T-Thank you... Hahaha...
+ So, um, well, the box cutter...
+ Could you put it down?"
+#
+<name "Kuroka" "!IC0006">
+"Why?"
+#
+<name "Shiroishi" "!TD0003">
+"I-I'm scared."
+#
+<name "Kuroka" "!IC0007">
+"Scared? Of me?
+ Are you really, really, really thinking about
+ that?"
+#
+<name "Shiroishi" "!TD0004">
+"No!
+ No! No! No!
+ Not you!
+ I'm scared of the box cutter!"
+#
+<name "Kuroka" "!IC0008">
+"Really?"
+#
+<name "Shiroishi" "!TD0005">
+"Yeah!
+ Yeah! Yeah yeah yeah yeah yeah!"
+#
+<name "Kuroka" "!IC0009">
+"If I put this box cutter away, you'll feel
+ safe?"
+#
+<name "Shiroishi" "!TD0006">
+"Y-Yeah..."
+#
+<name "Kuroka" "!IC0010">
+"But I can't put it away."
+#
+<name "Shiroishi" "!TD0007">
+"Why not?"
+#
+<name "Kuroka" "!IC0011">
+"It would be out of character."
+#
+<name "Shiroishi" "!TD0008">
+"I-I'm not saying it's a bad thing to be into
+ cosplay, it's just, um..."
+#
+<name "Kuroka" "!IC0012">
+"You don't like my costume?"
+#
+<name "Shiroishi" "!TD0009">
+"T-That's not it.
+ It's pretty cute..."
+#
+<name "Kuroka" "!IC0013">
+"Isn't it?"
+#
+<name "Shiroishi" "!TD0010">
+"But you'd be even cuter without the cosplay."
+#
+<name "Kuroka" "!IC0014">
+".........Really?"
+#
+<name "Shiroishi" "!TD0011">
+"Yeah, so put away the box cutter."
+#
+<name "Kuroka" "!IC0015">
+"Nope."
+#
+<name "Shiroishi" "!TD0012">
+"Ummmmm...
+ Oh, I know!
+ You're not allowed to have anything dangerous
+ in the cosplay hall, right?
+ It's against the rules."
+#
+<name "Kuroka" "!IC0016">
+"...You have a point there."
+#
+<name "Shiroishi" "!TD0013">
+"All right!"
+#
+<name "Kuroka" "!IC0017">
+"That celebration is pissing me off."
+#
+<name "Shiroishi" "!TD0014">
+"H-Hahahaha...
+ Knife's getting close... close... close!"
+#
+<name "Kuroka" "!IC0018">
+"Do you love me?"
+#
+<name "Shiroishi" "!TD0015">
+"Y-Yeah..."
+#
+<name "Kuroka" "!IC0019">
+"Do you really love me?"
+#
+<name "Shiroishi" "!TD0016">
+"I do!
+ I love you!
+ I really love you!"
+#
+<name "Kuroka" "!IC0020">
+"...Really?"
+#
+<name "Shiroishi" "!TD0021">
+"Really! Truly!
+ I love you!
+ You're a beautiful cosplaying woman!
+ Maybe a little too into it though."
+#
+<name "Kuroka" "!IC0021">
+"...Could you prove it, I wonder?"
+#
+<name "Shiroishi" "!TD0018">
+"Huh?"
+#
+<music 37>
+<background "ev107a0.iph" 10>
+<name "Kuroka" "!IC0022">
+"Ah...ah... 
+ Deeper...
+ Yeah...
+ Aah..."
+#
+She forced me down, and after getting me hard
+with her hand, put it in all on her own.
+#
+I thought it'd hurt without any foreplay, but she
+buries me in her to the base, savoring the pain.
+#
+<name "Kuroka" "!IC0023">
+"Heheh...
+ Ahhh...mmm...
+ So... move..."
+#
+I push my hips up like she ordered.
+#
+<name "Kuroka" "!IC0024">
+"Ah...mmm...mmm... That's good.
+ Ahhh...aah...ah...ahhh...aaah..."
+#
+Every time I move up, her body hangs in the air
+for a moment before falling back down.
+#
+It feels good, but it takes a lot of effort.
+#
+<name "Kuroka" "!IC0025">
+"M-More...
+ Ahhh...ahhh...
+ Faster..."
+#
+Easier said than done.
+#
+<name "Kuroka" "!IC0026">
+"Aah...ahhh...mmm...mmm..."
+#
+I start looked for where she put the box cutter.
+#
+I'm still in danger.
+#
+I hold her legs so she stays up and thrust up
+into her.
+#
+<name "Kuroka" "!IC0027">
+"Ah! Ah! Ah!"
+#
+This way, I can keep her in place above me as I
+thrust.
+#
+<name "Kuroka" "!IC0028">
+"Aaah! Ahhh! Aaah! Ah! Aaaaah!"
+#
+It's pretty exhausting for me, but if I let her
+think about anything but sex right now, I have
+the feeling things will go very badly.
+#
+So I do my best to keep her focused.
+#
+<name "Kuroka" "!IC0029">
+"Ah! Aahhh! Aah! Ahhh! Mm! Mmmm...
+ Ah! Ah! Ah! Aaaah! Ahhh! Aaaahhh..."
+#
+As her pleasure grows, my own desire swells.
+#
+I want to be deeper inside her.
+#
+But in this position, I can only get halfway in.
+#
+It's unsatisfying.
+#
+<name "Kuroka" "!IC0030">
+"Ah...mmm...mmm...aaah...mm...ahh...ahh...
+ Ah...ah...aah...ahhh..."
+#
+Her small breasts delight my eyes.
+#
+I feel my dick get bigger.
+#
+...
+#
+I bounce her up and down on top of me.
+#
+<name "Kuroka" "!IC0031">
+"Aaah... W-What are... Ah! Aah! Ah!
+ Ngh! Ah! Aaaah..."
+#
+I thrust up in time with her movements to find
+even more pleasure deeper inside her.
+#
+<name "Kuroka" "!IC0032">
+"Aah! Y-Yes! Ahh! Ah! Ah! Ahhh!
+ Ahh! Ah! Aaah... Aaah!
+ Yes! Yes!
+ Aaaah! Ah! Aaaaahhh!"
+#
+I hold her by the hips tight and keep pounding
+her.
+#
+And all of a sudden come.
+#
+<name "Kuroka" "!IC0033">
+"Aaah...ah...ah...ahhhh!"
+#
+My dick trembles as it spurts semen into her womb.
+#
+<name "Kuroka" "!IC0034">
+"Ah...ah...ah... Y-You came inside...
+ Ahhh...ahhh...ahh..."
+#
+She looks a little sad as she feels it flow into
+her.
+#
+I know why.
+#
+Instead of apologizing for coming before her and
+it being over, I push up again.
+#
+<name "Kuroka" "!IC0035">
+"Ah! Ah! Ah! Ahhh! Aaahhhh!"
+#
+She smiles happily when I start moving again.
+#
+<name "Kuroka" "!IC0036">
+"Aaah! Ah! Mmm! Aaah! Mmmmm..."
+#
+I continue moving my hips, stirring up the semen
+inside her.
+#
+<name "Kuroka" "!IC0037">
+"Ah! Ah! Ahh...
+ Aaaaahhhhh!!!"
+#
+Her whole body trembles as she climaxes.
+#
+<name "Kuroka" "!IC0039">
+"Ah...ahh...ahhh....ahhhhh...
+ Huh?
+ Ah! D-Don't...
+ Ah! Aah! Ahhhh!"
+#
+I don't give her a second to recover and keep
+moving.
+#
+Then I come a second time.
+#
+<name "Kuroka" "!IC0040">
+"Aahhhhhh!!!"
+#
+<background "bg024a0.iph" 10>
+<name "Kuroka" "!IC0041">
+"Ah... M-More..."
+#
+<name "Shiroishi" "!TD0019">
+"You know I can't move anymore, right?"
+#
+<name "Kuroka" "!IC0042">
+"But..."
+#
+<name "Shiroishi" "!TD0020">
+"Don't look for the box cutter.
+ Just be a regular sex crazed girl."
+#
+<name "Kuroka" "!IC0043">
+"Then one more time.
+ Cause I'm a sex crazed girl."
+#
+<music 31>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Cosplay, huh?
+ It's certainly important."
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5736">
+"Master!
+ No slacking off on cleaning!"
+#
+<name "Lazlocke">
+"Don't be like that..."
+#
+<removesprite -1 11>
+As I put the book down, something else catches my
+eye.
+#
+<name "Lazlocke">
+"Celes."
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA5737">
+"Yes?"
+#
+<name "Lazlocke">
+"Want to put this on?"
+#
+<sprite "ta01a77.iph" 4 4 12>
+<name "Celes" "!AA5738">
+"Um... What is it?
+ Clothes with holes in them?
+ The most important parts are wide open..."
+#
+<name "Lazlocke">
+"They're sexy clothes."
+#
+<sprite "ta01a70.iph" 4 4 12>
+<name "Celes" "!AA5739">
+"...If it's an order, I'll wear it."
+#
+<name "Lazlocke">
+"Please."
+#
+<removesprite -1 11>
+No more cleaning got done that day.
+#
+\x0A\x44\x00\xDB\x84\x01
+<exit>
+:7D23
+<music 4>
+<background "bg024a0.iph" 10>
+<background "ev110a0.iph" 10>
+At a crossroad, a young man runs into a girl.
+#
+<background "ev110a1.iph" 11>
+<name "Girl" "!PC0001">
+"Hey!
+ Watch where you're going!"
+#
+She shouts angrily.
+#
+She's even madder because she dropped the bread
+she was carrrying in her mouth.
+#
+But her shouts don't phase the young man in the
+slightest.
+#
+<name "Mamoru" "!UB0000">
+"Hmm...
+ This was not in today's schedule."
+#
+<name "Jeeves" "!SD0000">
+"It is an unexpected encounter."
+#
+<name "Mamoru" "!UB0001">
+"Ooh, is it?"
+#
+<name "Girl" "!PC0002">
+"Hey! Not even going to apologize for running 
+ into me?"
+#
+<name "Mamoru" "!UB0002">
+"Ooh, a feisty one."
+#
+<name "Jeeves" "!SD0001">
+"Yes, feisty."
+#
+<name "Girl" "!PC0003">
+"What are you talking about!?
+ Help me up!"
+#
+<name "Mamoru" "!UB0003">
+"Jeeves, the preparations..."
+#
+<name "Jeeves" "!SD0002">
+"They're already underway.
+ Youth is as it always is..."
+#
+<name "Mamoru" "!UB0004">
+"I am once again in your debt.
+ Then... ahem."
+#
+<name "Mamoru" "!UB0005">
+"I am the next master of the Goyakusoku family,
+ Goyakusoku Mamoru.
+ The pleasure is mine."
+#
+<name "Girl" "!PC0004">
+"Help me up before you introduce yourself.
+ A girl is on the ground."
+#
+<name "Mamoru" "!UB0006">
+"Hmm..."
+#
+He holds out his hand.
+#
+She takes it and stands up.
+#
+But once she's up, he doesn't let go.
+#
+<name "Girl" "!PC0005">
+"What are you doing?
+ Let go of me already."
+#
+<name "Mamoru" "!UB0007">
+"I'm sorry, but I can't do that."
+#
+<name "Girl" "!PC0006">
+"Huh?"
+#
+He skillfully knocks her our and carries her into
+the nearby parked car.
+#
+<music 8>
+<background "ev111a0.iph" 10>
+<name "Girl" "!PC0007">
+"W-What the hell?
+ What do you think you're doing with me like
+ this!?"
+#
+<name "Mamoru" "!UB0008">
+"What do you think?"
+#
+<name "Girl" "!PC0008">
+"...Y-You're going to violate me?"
+#
+<name "Mamoru" "!UB0009">
+"Is there anything else someone would do like
+ that?"
+#
+<name "Girl" "!PC0009">
+"C-Come any close and I'll kill you!"
+#
+<name "Mamoru" "!UB0010">
+"I like that feistiness."
+#
+<name "Girl" "!PC0010">
+"I-If I go missing, my dad and mom will come
+ after you!"
+#
+<name "Mamoru" "!UB0012">
+"That won't be a problem.
+ I've already spoken with your parents."
+#
+<name "Girl" "!PC0011">
+"Huh?"
+#
+<name "Mamoru" "!UB0013">
+"Your father is the president of his company,
+ correct?"
+#
+<name "Girl" "!PC0012">
+"T-That's right.
+ So if you do something to me..."
+#
+<name "Mamoru" "!UB0014">
+"Do you know the name of the company that owns
+ his company?"
+#
+<name "Girl" "!PC0013">
+"Huh?
+ N-No way..."
+#
+<name "Mamoru" "!UB0015">
+"Oh, it's not my company."
+#
+<name "Girl" "!PC0014">
+"Then so what?"
+#
+<name "Mamoru" "!UB0016">
+"The company that owns your father's company is
+ my family's company."
+#
+<name "Girl" "!PC0015">
+"Huh?"
+#
+<name "Mamoru" "!UB0017">
+"I asked them if their daughter would be my wife,
+ and they accepted happily."
+#
+<name "Girl" "!PC0016">
+"Huh?
+ Your wife?
+ What?"
+#
+<name "Mamoru" "!UB0018">
+"It is by our family's tradition.
+ If you meet a girl by happenstance on the road,
+ you must marry her."
+#
+<name "Girl" "!PC0017">
+"What the hell kind of insane tradition is that?"
+#
+<name "Mamoru" "!UB0019">
+"It is what they call a star-crossed meeting.
+ It's named for our family's traditions."
+#
+<name "Girl" "!PC0018">
+"That cannot possibly be true."
+#
+<name "Mamoru" "!UB0020">
+"Well, it's normal for a husband and wife to meet
+ like that, so i see no problem with it."
+#
+<name "Girl" "!PC0019">
+"T-There's nothing normal about that.
+ And then tieing them up like this?
+ Where even are we?
+ Your basement?"
+#
+<name "Mamoru" "!UB0022">
+"The wedding night in my family has been like
+ this for generations."
+#
+<name "Girl" "!PC0020">
+"Then you've been insane for generations!"
+#
+<name "Mamoru" "!UB0023">
+"If you'd like, I can arrange for a photographer
+ or recording."
+#
+<name "Girl" "!PC0021">
+"Like hell!"
+#
+<name "Mamoru" "!UB0024">
+"Thank goodness.
+ I'm not an exhibitionist myself."
+#
+He plays with her breasts.
+#
+<background "ev111a1.iph" 10>
+<name "Girl" "!PC0022">
+"Eep!"
+#
+<name "Mamoru" "!UB0025">
+"Nice feel."
+#
+<name "Girl" "!PC0023">
+"Ah! H-Hey! Don't mess with...
+ Ah!"
+#
+<name "Mamoru" "!UB0026">
+"Well, as long as you bear me an heir, the life
+ of luxury awaits you."
+#
+<name "Girl" "!PC0025">
+"An heir?
+ Huh? Ah..."
+#
+He presses his finger against her entrance.
+#
+<name "Girl" "!PC0026">
+"Eek! Ngh... ah...agh...
+ Ah!"
+#
+<name "Mamoru" "!UB0027">
+"Tight, huh?
+ You'll need to be loosened..."
+#
+He claps his hand and Jeeves appears with devices.
+#
+<name "Jeeves" "!SD0003">
+"Which would you like?"
+#
+<name "Mamoru" "!UB0028">
+"Jeeves, your choices are too esoteric.
+ A softer touch is preferred."
+#
+<name "Jeeves" "!SD0004">
+"Then this is most orthodox."
+#
+<name "Mamoru" "!UB0029">
+"Mmhmm."
+#
+Mamoru takes a few vibrators and attaches them
+to the girl's nipples and clitoris.
+#
+<background "ev111a2.iph" 10>
+<name "Girl" "!PC0027">
+"W-What are those?"
+#
+Then he flips the switch of the vibrators attached
+to her chest.
+#
+<background "ev111a3.iph" 10>
+<name "Girl" "!PC0028">
+"Ah! Ah! Ah! Aah! Ah! Ahhh!"
+#
+<name "Mamoru" "!UB0030">
+"That's a nice voice."
+#
+<name "Jeeves" "!SD0005">
+"Indeed."
+#
+<name "Girl" "!PC0029">
+"S-Stop! Ah! Aah! Ahhhhh..."
+#
+<name "Mamoru" "!UB0031">
+"I'd like to hear it a little longer."
+#
+He turns on the vibrator attached to her clitoris.
+#
+<background "ev111a4.iph" 10>
+<name "Girl" "!PC0030">
+"Ah! Ah! No! No!
+ Ah! Ah! Ahhh!"
+#
+And turns it up even higher.
+#
+<background "ev111a5.iph" 10>
+<name "Girl" "!PC0031">
+"Ahhhhhhhhhhh!!!!!"
+#
+After a short time, a small flood gushes out from
+her.
+#
+<name "Girl" "!PC0032">
+"Ah... S-Stop...
+ Ah...ahhhhh..."
+#
+<name "Mamoru" "!UB0032">
+"All right. That should have loosened you some.
+ So, it's about time..."
+#
+He takes his erect penis out of his pants.
+#
+<name "Jeeves" "!SD0006">
+"As splendid as ever, young master."
+#
+<name "Mamoru" "!UB0033">
+"Don't praise me.
+ It's embarrassing.
+ Now then..."
+#
+<name "Girl" "!PC0033">
+"Ah...ah...ah...
+ No way...
+ D-Don't..."
+#
+He ignores her and slowly pushes his penis inside
+her.
+#
+<background "ev111a6.iph" 10>
+<name "Girl" "!PC0034">
+"Ah...aaaah...
+ Y-You can't...
+ It won't fit..."
+#
+Her forcibly stretches her open and makes her
+accept him.
+#
+<name "Girl" "!PC0035">
+"Aaaahhh!"
+#
+And in a moment, is buried inside her.
+#
+<background "ev111a7.iph" 10>
+<name "Girl" "!PC0036">
+"Nnngh!"
+#
+<name "Mamoru" "!UB0035">
+"Ooh, tight.
+ Very tight.
+ Hahahaha... 
+ Mm, chance encounters truly are great."
+#
+<name "Jeeves" "!SD0007">
+"Yes, young master."
+#
+<name "Mamoru" "!UB0036">
+"So let's finish this... quickly."
+#
+He intensely moves his hips and rubs himself
+inside her pussy.
+#
+<name "Girl" "!PC0037">
+"Agh! Agh! Aah! Ah!
+ Ah! Aah!"
+#
+She groans in pain and tries to endure his
+movements.
+#
+She wonders if the torment is ever going to end
+when a reprieve suddenly comes.
+#
+He buries himself deep inside her and hugs her
+against him.
+#
+<name "Girl" "!PC0038">
+"Ah...ah..."
+#
+She realizes what's happening by the sensation
+in her pussy.
+#
+She feels his penis throbbing and his semen 
+pouring into her womb.
+#
+<background "ev111a8.iph" 10>
+<name "Girl" "!PC0039">
+"Ah...ah...ah...
+ N-Noooooooo!!!"
+#
+Her scream echoes in the basement, but it 
+continues for hours.
+#
+<background "bg024a0.iph" 10>
+<background "ev111a9.iph" 10>
+<name "Girl" "!PC0040">
+"Aah...ah..."
+#
+She doesn't know how much time has passed.
+#
+She doesn't know how many times it happens.
+All she knows is that he raped her over and over.
+#
+<name "Girl" "!PC0041">
+"Ah...aah..."
+#
+<name "Mamoru" "!UB0037">
+"Heheh...
+ I hope you bear a child soon."
+#
+<name "Jeeves" "!SD0008">
+"Indeed. 
+ If you have a successor, then there will be no
+ question that you are the head of the Goyakusoku
+ family."
+#
+<name "Mamoru" "!UB0038">
+"Mm. I'm looking forward to it.
+ Now then, about time, isn't it?"
+#
+<name "Jeeves" "!SD0009">
+"Yes. Good luck, young master."
+#
+<name "Mamoru" "!UB0039">
+"Mmhmm."
+#
+<name "Girl" "!PC0043">
+"Huh?"
+#
+Jeeves bows and leaves the basement.
+#
+The lock on the door clicks shut.
+#
+It can't be opened from the inside.
+#
+The girl knows that from what they've said and
+done so far.
+#
+And the only key went out with Jeeves.
+Mamoru doesn't have one.
+#
+What's happening?
+#
+As she wonders, Mamoru answers.
+#
+<name "Mamoru" "!UB0040">
+"It is our family tradition.
+ After sex with the wife in the basement, the 
+ house is burned down."
+#
+<name "Girl" "!PC0044">
+"Huh?"
+#
+There is no deception in his words.
+#
+<music 40>
+<background "ev111aa.iph" 10>
+Smoke and flames begin to fill the basement.
+#
+<name "Mamoru" "!UB0041">
+"Come, let us do our best to survive.
+ Escaping a burning hall is the greatest trial to
+ affirm the love between two people."
+#
+<background "ev111ab.iph" 10>
+<name "Girl" "!PC0045">
+"A-Are you shitting me, you idiot!?"
+#
+The building is consumed in flames.
+#
+<music 5>
+<background "bg024a0.iph" 10>
+<name "Jeeves" "!SD0010">
+"...Well done."
+#
+<name "Girl" "!PC0046">
+"Hmph."
+#
+<name "Jeeves" "!SD0011">
+"The young master?"
+#
+<name "Girl" "!PC0047">
+"Going down with his house, obviously."
+#
+<name "Jeeves" "!SD0012">
+"...Oh, I see.
+ Then you, his wife, is the new head of the
+ family."
+#
+<name "Girl" "!PC0053">
+"...I'm the new head of the family?"
+#
+<name "Jeeves" "!SD0014">
+"Yes."
+#
+<name "Girl" "!PC0049">
+"...I see.
+ After what happened, I'll take that.
+ There's money, right?"
+#
+<name "Jeeves" "!SD0015">
+"The Goyakusoku family is worth approximately
+ 172 billion."
+#
+<name "Girl" "!PC0050">
+"I-I can't even imagine that much..."
+ W-Well, seems like about the right price for my
+ virginity."
+#
+<name "Jeeves" "!SD0016">
+"Now then, new master, first of all, could you
+ please read this?"
+#
+He takes out a large scroll from his pocket.
+#
+<name "Girl" "!PC0051">
+"What's that?"
+#
+<name "Jeeves" "!SD0017">
+"The traditions of the Goyakusoku family."
+#
+<name "Girl" "!PC0052">
+"Oh, I see.
+ I'm filthy rich thanks to these traditions.
+ I better take good care of them."
+#
+She laughs as she throws the scroll into the
+burning building.
+#
+<music 31>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA5740">
+"What are you doing?'
+#
+<name "Lazlocke">
+"Huh? Oh, um, this book says it's to be continued.
+ I wonder what happens next..."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5741">
+"After that, it becomes a struggle between the
+ guy who survived and the Shadow Seven."
+#
+<name "Lazlocke">
+"Oh, he survived?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5742">
+"It's tradition, apparently."
+#
+<name "Lazlocke">
+"Hmmm..."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA5743">
+"Setting the story aside, if you want to read,
+ do it somewhere else.
+ You're in the way of cleaning."
+#
+<name "Lazlocke">
+"Sorry.
+ I'll get back to helping."
+#
+<removesprite -1 11>
+I put the book away and get back to work.
+#
+\x0A\x44\x00\xDC\x84\x01
+<exit>
+:A292
+<music 3>
+<background "bg024a0.iph" 10>
+<background "ev112a0.iph" 10>
+<name "Suzuki" "!JD0000">
+"Where am I?"
+#
+<name "Cat Sidhe" "!RD0000">
+"Um, well."
+#
+<name "Suzuki" "!JD0001">
+"Shut up."
+#
+<name "Cat Sidhe" "!RD0001">
+"Eeh!?
+ Wait a minute!
+ I'll explain."
+#
+<name "Suzuki" "!JD0002">
+"...I just want a normal life."
+#
+<name "Cat Sidhe" "!RD0002">
+"Um..."
+#
+<name "Suzuki" "!JD0003">
+"I was brought some crazy place and my schedule
+ is all messed up.
+ I don't talk to cats.
+ So shut up."
+#
+<name "Cat Sidhe" "!RD0003">
+"B-But whatever you say... 
+ Also, I'm not a cat.
+ I'm a cat sidhe.
+ It's okay to talk to cat sidhe!"
+#
+<name "Suzuki" "!JD0004">
+"Say another word, and I will twist your head
+ off."
+#
+<name "Cat Sidhe" "!RD0004">
+"Hahaha! Twist someone as cute as me?
+ Owwwwwww! I-Impossible!
+ How can you twist someone as cute as me!?
+ Do you even have a heart!?"
+#
+<name "Suzuki" "!JD0006">
+"I always do what I say.
+ Shall I do it even harder?"
+#
+<name "Cat Sidhe" "!RD0005">
+"I-I'm sorry, but we won't get anywhere if I don't
+ explain. 
+ Please, just listen to me."
+#
+<name "Suzuki" "!JD0007">
+"No."
+#
+<name "Cat Sidhe" "!RD0006">
+"I'll pay you."
+#
+<name "Suzuki" "!JD0008">
+"Shut up."
+#
+<name "Cat Sidhe" "!RD0007">
+"I'll pay you three thousand."
+#
+<name "Suzuki" "!JD0009">
+"Explain.
+ Keep it brief."
+#
+<name "Cat Sidhe" "!RD0008">
+"What a turnaround.
+ Wonderful."
+#
+<name "Suzuki" "!JD0010">
+"Keep. It. Brief."
+#
+<name "Cat Sidhe" "!RD0009">
+"Um...
+ I want you to be a magical girl."
+#
+<name "Suzuki" "!JD0011">
+"Oh?"
+#
+<name "Cat Sidhe" "!RD0010">
+"Hey, you're looking down on me.
+ No, no, I understand.
+ It's hard to believe such a crazy story."
+#
+<name "Suzuki" "!JD0012">
+"Whatever. I'm talking to a cat. We're passed
+ that. What I can't believe is the word girl.
+ Do you have any idea how old I am?"
+#
+<name "Cat Sidhe" "!RD0011">
+"You're almost thgh!"
+#
+<name "Suzuki" "!JD0013">
+"Fine, you know.
+ Don't say it."
+#
+<name "Cat Sidhe" "!RD0012">
+"I-I don't think you're old enough to mind...
+ I'm okay with a mature woman."
+#
+<name "Suzuki" "!JD0014">
+"I don't care about your tastes."
+#
+<name "Cat Sidhe" "!RD0013">
+"Hahaha... Cruel.
+ Well, how about we get you transformed?
+ Yah!"
+#
+<background "ev112a1.iph" 10>
+<background "ev112a2.iph" 10>
+<name "Suzuki" "!JD0015">
+"...What?
+ The hell is this costume?"
+#
+<name "Cat Sidhe" "!RD0014">
+"It's the magical girl look."
+#
+<name "Suzuki" "!JD0016">
+"More like a waitress or a maid."
+#
+<name "Cat Sidhe" "!RD0015">
+"Now, now, don't say that."
+#
+<name "Suzuki" "!JD0017">
+"...And what am I supposed to do dressed like
+ this?"
+#
+<name "Cat Sidhe" "!RD0016">
+"Well, ahem.
+ The dark lord who invaded the fairy world is
+ coming to the human world!
+ I want you to defeat the dark lord!"
+#
+<name "Suzuki" "!JD0018">
+"Oh?"
+#
+<name "Cat Sidhe" "!RD0017">
+"Only magic can fight against him!
+ Do your best!"
+#
+<name "Suzuki" "!JD0019">
+"I see... So, three thousand for defeating this
+ dark lord?"
+#
+<name "Cat Sidhe" "!RD0018">
+"No, that was the payment for listening to this
+ explanation."
+#
+<name "Suzuki" "!JD0020">
+"Oh?"
+#
+<name "Cat Sidhe" "!RD0020">
+"A hundred thousand for beating the dark lord.
+ Ten thousand for beating one of his leaders.
+ One to five thousand for his minions, depending
+ on how strong they are."
+#
+<name "Suzuki" "!JD0021">
+"I'll do it."
+#
+<name "Cat Sidhe" "!RD0021">
+"Thank you very much.
+ Well then..."
+#
+<name "Suzuki" "!JD0022">
+"Huh?"
+#
+<music 8>
+<background "ev113a0.iph" 10>
+The cat sidhe's tail stretches out and attacks
+Magical Girl Suzuki.
+#
+<name "Suzuki" "!JD0023">
+"Hey! What the hell is this getup?"
+#
+<name "Cat Sidhe" "!RD0022">
+"A ritual."
+#
+<name "Suzuki" "!JD0024">
+"You didn't say anything about this."
+#
+<name "Cat Sidhe" "!RD0023">
+"You didn't ask."
+#
+<name "Suzuki" "!JD0025">
+"So you scammed me?"
+#
+<name "Cat Sidhe" "!RD0024">
+"No, I concealed inconvenient information."
+#
+<name "Suzuki" "!JD0026">
+"Then the deal is void."
+#
+<name "Cat Sidhe" "!RD0025">
+"You say that, but I can't let someone as talented
+ as you go."
+#
+<name "Suzuki" "!JD0027">
+"Come to think of it, why me?"
+#
+<name "Cat Sidhe" "!RD0026">
+"Because a requirement for becoming a magical
+ girl is an at least 26 year old virgin who dreams
+ of a prince on a white horse will come one day."
+#
+<name "Suzuki" "!JD0028">
+"You know, I have touched myself."
+#
+<name "Cat Sidhe" "!RD0027">
+"Oh, really? Well now I'll be touching places
+ you couldn't reach, so forgive me."
+#
+He splits his tail even more and plays with her
+breasts.
+#
+<background "ev113a1.iph" 10>
+<name "Suzuki" "!JD0029">
+"Ah! Hold on!
+ Hey!"
+#
+As he toys with her breasts, a particularly large
+tail grows out from between his back legs.
+#
+<background "ev113a2.iph" 10>
+<name "Cat Sidhe" "!RD0028">
+"Now then..."
+#
+<name "Suzuki" "!JD0030">
+"Huh? H-Hey!
+ That's not a tail!"
+#
+<name "Cat Sidhe" "!RD0029">
+"You have good eyes."
+#
+<name "Suzuki" "!JD0031">
+"It's obvious!"
+#
+<name "Cat Sidhe" "!RD0030">
+"I'm new at this, and can't do the ritual with a
+ tail, so I'm sorry, but... yeah, I need to use a
+ substitute..."
+#
+<name "Suzuki" "!JD0032">
+"Like hell!
+ Hey! You said you knew I was a virgin!
+ I don't want this to be my first time!"
+#
+<name "Cat Sidhe" "!RD0054">
+"Yeah, I know that you wanted a prince on a white
+ horse. But the human world is in danger!
+ Please bear with it!"
+#
+<name "Suzuki" "!JD0033">
+"No way!"
+#
+<background "ev113a3.iph" 10>
+<name "Cat Sidhe" "!RD0032">
+"I'll make it feel good."
+#
+<name "Suzuki" "!JD0034">
+"Absolutely no way!"
+#
+<name "Cat Sidhe" "!RD0033">
+"You say that, but look at this place..."
+#
+<background "ev113a4.iph" 10>
+Her panties are starting to get wet.
+#
+<name "Suzuki" "!JD0035">
+"Ah... W-Why... this is nothing..."
+#
+<name "Cat Sidhe" "!RD0034">
+"It's different from doing it yourself."
+#
+<name "Suzuki" "!JD0036">
+"N-Ngh!
+ Being watched by a cat is out of my sexual
+ experience!"
+#
+<name "Cat Sidhe" "!RD0035">
+"Okay, here I go."
+#
+<background "ev113a5.iph" 10>
+He skillfully moves his tails, exposing her 
+breasts and then nimbly teasing her nipples.
+#
+<name "Suzuki" "!JD0037">
+"Ah! Ah! Aah!ÅÙ"
+#
+<name "Cat Sidhe" "!RD0036">
+"What a cute voice."
+#
+<name "Suzuki" "!JD0038">
+"Aah! I-I'll kill you!"
+#
+<name "Cat Sidhe" "!RD0037">
+"Yeah, yeah. Don't look so scary.
+ I'm going to continue."
+#
+<background "ev113a6.iph" 10>
+The cat sidhe rips off her wet underwear.
+#
+<name "Cat Sidhe" "!RD0038">
+"Don't worry. Magic will fix your clothes."
+#
+<name "Suzuki" "!JD0039">
+"I-It will? 
+ Ah...aah...ngh...
+ S-Stop...
+ Ahh..."
+#
+<name "Cat Sidhe" "!RD0039">
+"Don't be mad."
+#
+<background "ev113a7.iph" 10>
+<name "Suzuki" "!JD0040">
+"Ngh...ah... H-Hey! Ah...ah! N-Not there!
+ Ah! Stop! Seriously, stop! Ah! Ah!
+ Aaaah...nnngh!"
+#
+<name "Cat Sidhe" "!RD0040">
+"Holding back is bad for you."
+#
+<background "ev113a8.iph" 10>
+He relentlessly teases her until she orgasms.
+#
+<name "Suzuki" "!JD0041">
+"Ah...ah...aaaah...
+ I-I came from a cat..."
+#
+<name "Cat Sidhe" "!RD0041">
+"Hahaha...
+ Now, time for the real thing."
+#
+It puts the big tail... 
+No, the penis growing from its legs against her
+and pushes it in all at once.
+#
+<background "ev113a9.iph" 10>
+<name "Suzuki" "!JD0042">
+"Nnnnnh!"
+#
+She gasps voicelessly in pain from losing her
+virginity.
+#
+<name "Cat Sidhe" "!RD0043">
+"You'll get used to it soon enough.
+ Also, magic can't fix your hymen."
+#
+<background "ev113aa.iph" 10>
+<name "Suzuki" "!JD0043">
+"I swear I'll kill you."
+#
+<name "Cat Sidhe" "!RD0044">
+"Going to be like that the whole way?"
+#
+<name "Suzuki" "!JD0044">
+"T-This is... what you really are?
+ Aaaaggggh!"
+#
+<name "Cat Sidhe" "!RD0045">
+"Which you do prefer?
+ Quick and rough, or long and gentle?"
+#
+<name "Suzuki" "!JD0045">
+"G-Go to hell...
+ Aaah! Ah! Aaah!"
+#
+<name "Cat Sidhe" "!RD0046">
+"So, my preference then, long and rough?"
+#
+The cat sidhe's dick intensely violates Suzuki's
+pussy.
+#
+<background "ev113a9.iph" 10>
+<name "Suzuki" "!JD0046">
+"Ah! Aaaah! Aaaaaahhhh!!!"
+#
+<name "Cat Sidhe" "!RD0047">
+"Tell me if you're not satisfied.
+ I can still add a few more."
+#
+<name "Suzuki" "!JD0047">
+"Aaah! Aah! Ah! D-Die!
+ Ah! Ah! Ah!
+ Aaaaaahhhhhh!!!"
+#
+<name "Cat Sidhe" "!RD0048">
+"About time to let it out."
+#
+<name "Suzuki" "!JD0048">
+"Ah! D-Don't! Aah! Aah!
+ Ah! Ah!
+ Aaaaaaaaaahhhh!"
+#
+As she climaxes, the cat sidhe's dick throbs and 
+it ejaculates too.
+#
+<background "ev113ab.iph" 10>
+<name "Suzuki" "!JD0049">
+"Aaahhh..."
+#
+<name "Cat Sidhe" "!RD0049">
+"If you can orgasm six more times, it'll all be
+ over, so do your best.
+ I'll try hard too."
+#
+<name "Suzuki" "!JD0050">
+"Ah...aaah...ahhh..."
+#
+<music 3>
+<background "bg024a0.iph" 10>
+<name "Suzuki" "!JD0056">
+"A cat doesn't count...
+ A cat doesn't count..."
+#
+<name "Cat Sidhe" "!RD0050">
+"What do you keep mumbling?"
+#
+<name "Suzuki" "!JD0052">
+"Shut up.
+ Don't interrupt my self-hypnosis."
+#
+<name "Cat Sidhe" "!RD0051">
+"Hahaha. So mean.
+ I know the taste of all your hol...
+ Owwwwww!
+ I'm sorry."
+#
+<name "Suzuki" "!JD0057">
+"A cat doesn't count...
+ A cat doesn't count..."
+#
+<name "Cat Sidhe" "!RD0052">
+"Let's do our best together now.
+ Hm? What?
+ You're staring at me...
+ Fallen in love?"
+#
+<name "Suzuki" "!JD0055">
+"Maybe I'll just think of you like a useful
+ dildo."
+#
+<name "Cat Sidhe" "!RD0053">
+"S-So heartless!"
+#
+<music 31>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"That cat's kind of like me."
+#
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA5744">
+"What are you doing?"
+#
+<name "Lazlocke">
+"Aah!
+ Y-You scared me.
+ Don't sneak up behind me like that."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA5745">
+"Don't read while we're cleaning."
+#
+<name "Lazlocke">
+"Mm... S-Sorry."
+#
+<removesprite -1 11>
+I put the book down and get back to work.
+#
+\x0A\x44\x00\xDD\x84\x01
+<exit>
+\x78

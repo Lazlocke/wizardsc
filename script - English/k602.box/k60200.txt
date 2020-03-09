@@ -1,0 +1,673 @@
+\x0A\x24\x00\x0F\x84\x00\x1A\x01\x07\x04\x04\xB0\x84\x00\x01\x0E :27: \x16 :25C: \x0A\x04\x04\xB0\x84\x01\x15 :25B: 
+:27
+\x1A\x01\x07\x04\x04\xB1\x84\x00\x01\x0E :48: \x16 :51C: \x0A\x04\x04\xB1\x84\x01\x15 :25B: 
+:48
+\x1A\x01\x07\x04\x04\xB2\x84\x00\x01\x0E :69: \x16 :5D0: \x0A\x04\x04\xB2\x84\x01\x15 :25B: 
+:69
+\xE9 6002 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :96: \x15 :24F: 
+:96
+\x1A\x01\x07\x04\x04\xB3\x84\x00\x01\x0E :B7: \x16 :89B: \x0A\x04\x04\xB3\x84\x01\x15 :25B: 
+:B7
+\x1A\x01\x07\x04\x04\xB4\x84\x00\x01\x0E :D8: \x16 :D68: \x0A\x04\x04\xB4\x84\x01\x15 :25B: 
+:D8
+\x1A\x01\x07\x04\x04\xB5\x84\x00\x01\x0E :F9: \x16 :F80: \x0A\x04\x04\xB5\x84\x01\x15 :25B: 
+:F9
+\x1A\x01\x07\x04\x04\xB6\x84\x00\x01\x0E :11A: \x16 :18D9: \x0A\x04\x04\xB6\x84\x01\x15 :25B: 
+:11A
+\x1A\x01\x07\x04\x04\xB7\x84\x00\x01\x0E :14A: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :14A: \x16 :1A31: \x0A\x04\x04\xB7\x84\x01\x15 :25B: 
+:14A
+\x1A\x01\x07\x04\x04\xB8\x84\x00\x01\x0E :16B: \x16 :1C0E: \x0A\x04\x04\xB8\x84\x01\x15 :25B: 
+:16B
+\x1A\x01\x07\x04\x04\xB9\x84\x00\x01\x0E :18C: \x16 :1D9B: \x0A\x04\x04\xB9\x84\x01\x15 :25B: 
+:18C
+\x1A\x01\x07\x04\x04\xBA\x84\x00\x01\x0E :1AD: \x16 :1F51: \x0A\x04\x04\xBA\x84\x01\x15 :25B: 
+:1AD
+\x1A\x01\x07\x04\x04\xBB\x84\x00\x01\x0E :1CE: \x16 :2128: \x0A\x04\x04\xBB\x84\x01\x15 :25B: 
+:1CE
+\x1A\x01\x07\x04\x04\xBC\x84\x00\x01\x0E :1FE: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :1FE: \x16 :236F: \x0A\x04\x04\xBC\x84\x01\x15 :25B: 
+:1FE
+\x1A\x01\x07\x04\x04\xBD\x84\x00\x01\x0E :22E: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :22E: \x16 :27B2: \x0A\x04\x04\xBD\x84\x01\x15 :25B: 
+:22E
+\x1A\x01\x07\x04\x04\xBE\x84\x00\x01\x0E :24F: \x16 :2903: \x0A\x04\x04\xBE\x84\x01\x15 :25B: 
+:24F
+\x16 :2A51: \x15 :25B: 
+:25B
+\x78
+:25C
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4395">
+"Read?
+ Okay. What kind of books should I read?"
+#
+<name "Lazlocke">
+"Yeah, whichever.
+ I guess things that look fun?"
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA4396">
+"Huh?
+ Fun?"
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA4397">
+"Um, what is this training for?"
+#
+<name "Lazlocke">
+"Hahaha...
+ No, this isn't training.
+ It's to relax."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA4398">
+"To... relax?"
+#
+<name "Lazlocke">
+"Relaxing is also part of training."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4399">
+"Y-Yes, sir.
+ I'll try."
+#
+<removesprite -1 11>
+<exit>
+:51C
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA4400">
+"I'll read my heart out!"
+#
+<name "Lazlocke">
+"Um, you don't need to get so fired up about
+ reading..."
+#
+<removesprite -1 11>
+<exit>
+:5D0
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4401">
+"Master."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta01a05.iph" 4 4 12>
+<name "Celes" "!AA4402">
+"This mystery novel is pretty bad."
+#
+<name "Lazlocke">
+"Yeah, I thought that book was bad too."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA4403">
+"Why would they trick you like that!?
+ They make such a big deal that it's a wizard,
+ but the murder was done without magic!
+ It's just a blatant red herring!"
+#
+<name "Lazlocke">
+"Yep."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA4404">
+"Why would you buy a book like this!?"
+#
+<removesprite -1 11>
+Why am I being yelled at?
+It's not like I read it before I bought it.
+#
+She stays pretty mad about it for a long time.
+#
+<exit>
+:89B
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4405">
+"Master, can I borrow a few books?"
+#
+<name "Lazlocke">
+"Yeah, go ahead."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4406">
+"Thank you."
+#
+<removesprite -1 11>
+<music 5>
+<background "ev028a0.iph" 11>
+Celes sets out a table in the garden and makes
+a very elegant picture of reading.
+#
+...
+#
+Several hours later...
+#
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a23.iph" 4 4 11>
+<name "Celes" "!AA4407">
+"Master!"
+#
+<name "Lazlocke">
+"W-What?"
+#
+She comes running over to me.
+#
+<sprite "ta01a26.iph" 4 4 12>
+<name "Celes" "!AA4408">
+"The sequel to this book isn't here!"
+#
+The cover of the book she's holding up has it
+marked as volume 1.
+#
+<name "Lazlocke">
+"The Ambition of the Cress?
+ I think Soshiette said she was borrowing it."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA4409">
+"Where is she?"
+#
+<name "Lazlocke">
+"Huh?
+ Probably at the Guild?
+ Wait, are you going to get it back from her?"
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA4410">
+"I can't do anything after that cliffhanger!
+ I'll be back later!"
+#
+<name "Lazlocke">
+"Have to find out right away, huh?
+#
+<removesprite -1 11>
+Well, that's fine, but I lent volume 3 to 
+someone else.
+#
+<exit>
+:D68
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4411">
+"I figured something out recently."
+#
+<name "Lazlocke">
+"What's that?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4412">
+"The timing of the bath and swimsuit scenes.
+ It's usually in the third volume."
+#
+<name "Lazlocke">
+"T-That seems closed-minded."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA4413">
+"It's what happens in almost all the books you
+ buy.
+ If you're not convinced, I can put together a
+ spreadsheet."
+#
+<name "Lazlocke">
+"...I'm sorry."
+#
+<removesprite -1 11>
+<exit>
+:F80
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA4414">
+"Master."
+#
+<name "Lazlocke">
+"Hm?
+ What is it?"
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA4415">
+"What the heck!?
+ This book is about demilitarization and
+ pacifism!"
+#
+<sprite "ta01a24.iph" 4 4 12>
+<name "Celes" "!AA4416">
+"If everybody swallows this, then nobody would
+ fight!"
+#
+<name "Lazlocke">
+"Now, now. It was written by a naive aristocrat
+ who didn't know the first thing about war.
+ Just don't worry about it."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA4417">
+"But...!"
+#
+<name "Lazlocke">
+"So think of it like him telling the citizens
+ they rule over that fighting back is evil.
+ Think of it like a way of preventing
+ rebellion."
+#
+<sprite "ta01a26.iph" 4 4 12>
+<name "Celes" "!AA4418">
+"Grr..."
+#
+<name "Lazlocke">
+"Well, the book is basically calling anybody
+ who has fought to protect the things they care
+ about fools."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA4419">
+"That's right.
+ Of course, if the question is whether to fight
+ or not, then it's better to try to avoid 
+ conflict."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA4420">
+"But if you're hit, then you're a chicken if you
+ don't fight back.
+ But this book says to keep talking and never
+ fight."
+#
+<name "Lazlocke">
+"It takes a true optimist to think they can 
+ reason with a starving dog."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA4421">
+"Yeah."
+#
+<name "Lazlocke">
+"There's more..."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA4422">
+"There is?"
+#
+<name "Lazlocke">
+"A little while after that book was published,
+ the noble who wrote it was mobbed by thieves
+ and bandits."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA4423">
+"Huh?"
+#
+<name "Lazlocke">
+"Because he declared that he wouldn't fight
+ back."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA4424">
+"What happened?"
+#
+<name "Lazlocke">
+"All the people around him ran away or
+ surrendered.
+ Only the noble resisted."
+#
+<name "Lazlocke">
+"But he wasn't killed.
+ They took almost everything he owned, but left
+ him with his life."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA4425">
+"They didn't kill him?"
+#
+<name "Lazlocke">
+"Yeah, the thieves and bandits told him to work
+ hard and save up his riches again."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA4426">
+"...That sounds like a joke."
+#
+<name "Lazlocke">
+"Yeah. Good intentions are important, but be
+ careful with your intentions.
+ It's wrong to force your beliefs onto other
+ people."
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA4427">
+"It has made me think."
+#
+<name "Lazlocke">
+"That's why I own the book.
+ It certainly gave me pause the first time I
+ read it."
+#
+<removesprite -1 11>
+<exit>
+:18D9
+<music 5>
+<background "ev028a0.iph" 11>
+<name "Celes" "!AA4428">
+"The Ambition of the Cress...
+ What a masterpiece."
+#
+<name "Celes" "!AA4429">
+"The sixth volume, Despair, and the eighth
+ volume, Hot Springs, are must-reads."
+#
+<name "Celes" "!AA4430">
+"It's a story I can read over and over."
+#
+...
+#
+Well, it's fine to get hooked.
+#
+I just want her to stop telling me how much
+random people look like characters from it as
+we walk around the city.
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1A31
+<music 5>
+<background "ev028a0.iph" 11>
+<name "Elle" "!CA0287">
+"What are you reading?"
+#
+<name "Celes" "!AA4431">
+"Oh, Elle.
+ I'm reading The Corpse of McLaugh."
+#
+<name "Elle" "!CA0288">
+"What's that?"
+#
+<name "Celes" "!AA4432">
+"It's a war epic about the tragedy and downfall
+ of McLaugh."
+#
+<name "Elle" "!CA0289">
+"Sounds depressing."
+#
+<name "Celes" "!AA4433">
+"When enough tragedy piles up, it's meant to
+ become a comedy."
+#
+<name "Elle" "!CA0290">
+"Oh? Is it funny?"
+#
+<name "Celes" "!AA4434">
+"No, just depressing."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1C0E
+<music 5>
+<background "ev028a0.iph" 11>
+<name "Lazlocke">
+"Um, Celes."
+#
+<name "Celes" "!AA4435">
+"Yes?"
+#
+<name "Lazlocke">
+"I'm happy you're so engrossed in the book, but
+ how long as you going to be holding that cup?"
+#
+She's been holding it for like five minutes now
+without taking a drink.
+It's getting to me.
+#
+<name "Celes" "!AA4436">
+"A-Ahaha...
+ I'll be careful."
+#
+So she says, but she keeps reading another ten
+minutes without taking a drink or putting it 
+down.
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1D9B
+<music 5>
+<background "ev028a0.iph" 11>
+<name "Celes" "!AA4437">
+"Master, this book is a compilation of stories
+ that were originally part of another book."
+#
+<name "Lazlocke">
+"What of it?"
+#
+<name "Celes" "!AA4438">
+"At the start, it's about a thief who stole
+ a million Ça, but then the second half is about
+ flood control helping people struggling with
+ rising crop prices."
+#
+<name "Celes" "!AA4439">
+"What's going on here?
+ What's with this crazy book?"
+#
+<name "Lazlocke">
+"Probably chasing the trends of the time."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:1F51
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA4440">
+"Master, do you have any new books?"
+#
+<name "Lazlocke">
+"Hm? Why?
+ Finished already?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4441">
+"Yes..."
+#
+<name "Lazlocke">
+"I see...
+ How about we go shopping then?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4442">
+"Okay.
+ I'll make a buying list!"
+#
+<removesprite -1 11>
+A list?
+How much does she want to buy?
+#
+<exit>
+:2128
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA4443">
+"Hmmm...
+ I see..."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA4444">
+"No way...
+ How could they..."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA4445">
+"Oooh...
+ Ahhh..."
+#
+<name "Lazlocke">
+"...Hey."
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA4446">
+"Y-Yeees!?"
+#
+<name "Lazlocke">
+"Quit glancing at me while you're reading porn.
+ It's embarrassing."
+#
+<sprite "ta01a97.iph" 4 4 12>
+<name "Celes" "!AA4447">
+"S-Sorry."
+#
+<removesprite -1 11>
+<exit>
+:236F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0367">
+"I apologize for interrupting your reading."
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 4 11>
+<sprite "ta01a07.iph" 6 5 11>
+<name "Celes" "!AA4448">
+"Ah, Miss Viola."
+#
+<sprite "ta03a00.iph" 2 4 12>
+<name "Viola" "!BA0368">
+"That doesn't appear to be a grimoire though."
+#
+<sprite "ta01a15.iph" 6 5 12>
+<name "Celes" "!AA4449">
+"Hahaha...
+ It's just a regular book for fun."
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0369">
+"Seven Murders Hidden in Steam.
+ A mystery, huh?
+ If you're interested in such books, I can bring
+ you multiple next time."
+#
+<sprite "ta01a17.iph" 6 5 12>
+<name "Celes" "!AA4450">
+"Thank you very much."
+#
+<sprite "ta03a01.iph" 2 4 12>
+<name "Viola" "!BA0371">
+"Where's Lazlocke?"
+#
+<sprite "ta01a07.iph" 6 5 12>
+<name "Celes" "!AA4451">
+"At the desk in his room.
+ Should I call him?"
+#
+<sprite "ta03a05.iph" 2 4 12>
+<name "Viola" "!BA0372">
+"I've interrupted you enough.
+ I can fetch him on my own.
+ I'll have him prepare tea for us."
+#
+<sprite "ta01a89.iph" 6 5 12>
+<name "Celes" "!AA4452">
+"Yes, ma'am.
+ Thank you."
+#
+<removesprite -1 11>
+<exit>
+:27B2
+<music 5>
+<background "ev028a0.iph" 11>
+<name "Celes" "!AA4453">
+"Today I'll read the books Miss Viola lent me."
+#
+<name "Celes" "!AA4454">
+"I wonder if she likes mysteries too.
+ ...Huh?
+ One of these books is a romance that I heard
+ was really sappy."
+#
+<name "Celes" "!AA4455">
+"That's now how I picture her at all...
+ Maybe this is a mystery too."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2903
+<music 5>
+<background "ev028a0.iph" 11>
+<name "Celes" "!AA4456">
+"I've read so much, but there's so many more
+ books I haven't read."
+#
+<name "Celes" "!AA4457">
+"Is there ever an end?"
+#
+<name "Lazlocke">
+"As you read, more books are being written.
+ It could be tough."
+#
+<name "Celes" "!AA4458">
+"Oohh..."
+#
+<name "Lazlocke">
+"Just think of it as enjoyment that will never
+ run out."
+#
+\x0A\x24\x00\x0F\x84\x01
+<exit>
+:2A51
+<music 5>
+<background "ev028a0.iph" 11>
+\x2B\x0A\x24\x00\x0F\x84\x01\x2E\x22\x00\x01 1  7 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :2ABD: 
+<name "Celes" "!AA4462">
+"I'll read a book."
+#
+:2ABD
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :2AF5: 
+<name "Celes" "!AA4463">
+"Hmmm..."
+#
+:2AF5
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :2B50: 
+<name "Celes" "!AA4464">
+"The basis of reading is studying.
+ Ah, I have to relax..."
+#
+:2B50
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2B94: 
+<name "Celes" "!AA4465">
+"Rest my body, and study..."
+#
+:2B94
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :2BD4: 
+<name "Celes" "!AA4466">
+"I'll relax and read."
+#
+:2BD4
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :2C12: 
+<name "Celes" "!AA4467">
+"What should I read?"
+#
+:2C12
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :2C50: 
+<name "Celes" "!AA4468">
+"Reading's fun!ÅÙ"
+#
+:2C50
+<exit>
+\x78

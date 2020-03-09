@@ -1,0 +1,624 @@
+\x1A\x01\x07\x04\x06\x69\x84\x00\x01\x0E :43: \xDB "éwíe" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :43: \x16 :3C5: \x0A\x04\x06\x69\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:43
+\x1A\x01\x07\x04\x06\x6A\x84\x00\x01\x0E :86: \xDB "éwíe" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :86: \x16 :A26: \x0A\x04\x06\x6A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:86
+\x1A\x01\x07\x04\x06\x6B\x84\x00\x01\x0E :CD: \xDB "òAåÇéwíe" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :CD: \x16 :BFB: \x0A\x04\x06\x6B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:CD
+\x1A\x01\x07\x04\x06\x6C\x84\x00\x01\x0E :114: \xDB "ïÆåÉéwíe" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :114: \x16 :F00: \x0A\x04\x06\x6C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:114
+\x1A\x01\x07\x04\x06\x6D\x84\x00\x01\x0E :159: \xDB "éËó†åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :159: \x16 :1193: \x0A\x04\x06\x6D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:159
+\x1A\x01\x07\x04\x06\x6E\x84\x00\x01\x0E :19E: \xDB "éËó†åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :19E: \x16 :136C: \x0A\x04\x06\x6E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:19E
+\x1A\x01\x07\x04\x06\x6F\x84\x00\x01\x0E :1E7: \xDB "óêÇÍéËó†åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1E7: \x16 :15CA: \x0A\x04\x06\x6F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:1E7
+\x1A\x01\x07\x04\x06\x70\x84\x00\x01\x0E :232: \xDB "ëÂé‘ó÷éËó†åï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :232: \x16 :1836: \x0A\x04\x06\x70\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:232
+\x1A\x01\x07\x04\x06\x71\x84\x00\x01\x0E :273: \xDB "ã|" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :273: \x16 :1AC8: \x0A\x04\x06\x71\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:273
+\x1A\x01\x07\x04\x06\x72\x84\x00\x01\x0E :2B4: \xDB "ã|" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :2B4: \x16 :2032: \x0A\x04\x06\x72\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:2B4
+\x1A\x01\x07\x04\x06\x73\x84\x00\x01\x0E :2F5: \xDB "ã|" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :2F5: \x16 :2205: \x0A\x04\x06\x73\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:2F5
+\x1A\x01\x07\x04\x06\x74\x84\x00\x01\x0E :33A: \xDB "åÉìÆã|" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :33A: \x16 :2353: \x0A\x04\x06\x74\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:33A
+\x1A\x01\x07\x04\x06\x75\x84\x00\x01\x0E :37F: \xDB "ífçﬂã|" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :37F: \x16 :24D0: \x0A\x04\x06\x75\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:37F
+\x1A\x01\x07\x04\x06\x76\x84\x00\x01\x0E :3C4: \xDB "ïˆâÛã|" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3C4: \x16 :2674: \x0A\x04\x06\x76\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :3C4: 
+:3C4
+\x78
+:3C5
+<music 25>
+<background "bg004a0.iph" 11>
+-- Finger Shot --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1131">
+"A finger shot is the art of launching a small
+ stone from your hand to damage your opponent.
+ I will be teaching you how to do it."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5971">
+"Thank you very much."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1132">
+"First, find a small stone."
+#
+<sprite "ta01d89.iph" 2 5 12>
+<name "Celes" "!AA5972">
+"Yes, ma'am."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1133">
+"Next, hold it like this.
+ Rest it on your thumbnail, like balancing a
+ pebble."
+#
+<sprite "ta01d07.iph" 2 5 12>
+<name "Celes" "!AA5973">
+"Y-Yes, ma'am."
+#
+<removesprite 2 11>
+<removesprite -1 11>
+<sprite "ta04a16.iph" 4 4 11>
+<name "Soshiette" "!DA1134">
+"And then... like this."
+#
+<removesprite -1 11>
+Soshiette flicks her thumb and the pebble embeds
+in the tree she was aiming at.
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5974">
+"Yah!"
+#
+<removesprite -1 11>
+The stone falls at her feet.
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5975">
+"...I-I'm sorry."
+#
+<removesprite -1 11>
+<sprite "ta01d27.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1135">
+"No, it's fine.
+ I stake my reputation on you being able to
+ master it within three days."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA5976">
+"Really?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1136">
+"Yes. If you can't, I'll cut off that finger.
+ Do your best."
+#
+<sprite "ta01d10.iph" 2 5 12>
+<name "Celes" "!AA5977">
+"...Huh?"
+#
+<removesprite -1 11>
+Celes managed to learn it somehow.
+#
+<sprite "ta01d37.iph" 4 4 11>
+<name "Celes" "!AA5978">
+"M-Miss Soshiette was serious..."
+#
+<removesprite -1 11>
+<exit>
+:A26
+<music 10>
+<background "bg004a0.iph" 11>
+-- Finger Shot --
+#
+<name "Lazlocke">
+"Finger shot, huh?"
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1137">
+"Yes. She's become quite the expert with it."
+#
+<name "Lazlocke">
+"Indeed. It's kind of an underhanded move
+ though. I don't want to turn her into a
+ killer."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1138">
+"Of course not.
+ The skills I'm teaching her are for self-defense
+ and winning the tournament."
+#
+<name "Lazlocke">
+"Just don't forget it."
+#
+<removesprite -1 11>
+<exit>
+:BFB
+<music 25>
+<background "bg004a0.iph" 11>
+-- Finger Barrage --
+#
+Celes makes a fist and rests the base of her
+thumb against the tree trunk.
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5979">
+"Hya!"
+#
+<removesprite -1 11>
+She releases a finger shot.
+#
+There's no bullet.
+#
+It's a blank shot.
+#
+But the power to fire a stone goes straight into
+the tree.
+#
+The thudding impact echoes lightly in the air.
+#
+She fires seven times in quick succession.
+#
+And a gouge grows steadily in the tree.
+#
+It makes me a little sick thinking about that
+impacting a human's stomach.
+#
+<name "Lazlocke">
+"It's easy to see how powerful consecutive
+ finger shots are.
+ Are your fingers okay?"
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5980">
+"I've trained them."
+#
+<removesprite -1 11>
+Hmm. I think Soshiette might have taught her
+something really horrifying.
+#
+<exit>
+:F00
+<music 10>
+<background "bg004a0.iph" 11>
+-- Finger Cannon --
+#
+<name "Lazlocke">
+"You don't break your nails doing those finger
+ shots, huh?"
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA5981">
+"Hahaha...
+ I totally did when I was starting out, but I'm
+ okay now that I'm used to it."
+#
+<name "Lazlocke">
+"Used to it, huh?"
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA5982">
+"Yes. Once you're used to it, you can shoot
+ coins too. It's useful when you don't want to
+ bother looking for pebbles."
+#
+<name "Lazlocke">
+"...Really seems more and more like this is
+ geared for assassinations."
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5983">
+"Sir?"
+#
+<name "Lazlocke">
+"No, forget it.
+ Just keep practicing."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5984">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:1193
+<music 25>
+<background "bg004a0.iph" 11>
+-- Shuriken --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5985">
+"Yah!"
+#
+<removesprite -1 11>
+Celes throws a series of spiked metal blades
+into the target.
+#
+They don't all hit the bullseye, but it's a
+decent grouping.
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5986">
+"Yah!"
+#
+<removesprite -1 11>
+...Except that the one she just threw grazed my
+ear.
+#
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA5987">
+"I-I'm sorry."
+#
+<removesprite -1 11>
+<exit>
+:136C
+<music 25>
+<background "bg004a0.iph" 11>
+-- Shuriken --
+#
+Her skills have improved considerably.
+#
+To be honest, I'm pretty impressed.
+#
+She always hits her target.
+#
+Anybody fighting against her better seriously
+be on guard if she puts any distance between
+them.
+#
+It's a perfect skill for her.
+#
+She's terrifying.
+#
+But that aside...
+#
+<name "Lazlocke">
+"Celes, I told you already, no throwing food."
+#
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA5988">
+"I-I'm sorry."
+#
+<removesprite -1 11>
+After getting good with knives, she's taken to
+throwing anything and everything that she can
+get her hands on.
+#
+There are a lot of problems in the way Soshiette
+teaches.
+#
+<exit>
+:15CA
+<music 25>
+<background "bg004a0.iph" 11>
+-- Chaos Blade --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1139">
+"This is a skill for throwing dozens of knives
+ in multiple directions all at once."
+#
+<sprite "ta04a08.iph" 4 4 12>
+<name "Soshiette" "!DA1140">
+"This isn't a skill for defeating an enemy, but
+ to keep them at bay."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a08.iph" 6 4 11>
+<name "Celes" "!AA5989">
+"Yes, ma'am."
+#
+<sprite "ta04a15.iph" 6 4 12>
+<name "Soshiette" "!DA1141">
+"Now then, see that little black rattish
+ creature? Aim at that.
+ Don't let it come anywhere near you."
+#
+<sprite "ta01d10.iph" 2 5 12>
+<name "Celes" "!AA5990">
+"Huh?
+ Eeeeek!"
+#
+<removesprite -1 11>
+<exit>
+:1836
+<music 25>
+<background "bg004a0.iph" 11>
+-- Chakram --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1142">
+"A shuriken spins. A cylindrical shuriken spins
+ differently, and a circular one rotates at the
+ edge even faster."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1143">
+"That increases the cutting power."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5991">
+"Yes, ma'am."
+#
+<sprite "ta04a15.iph" 6 4 12>
+<name "Soshiette" "!DA1144">
+"Take this knife and aim at that small, black
+ rattish creature by the wall.
+ Don't let it get close to you."
+#
+<sprite "ta01d10.iph" 2 5 12>
+<name "Celes" "!AA5992">
+"Huh?
+ Eeeek!
+ T-Take this!"
+#
+<removesprite -1 11>
+<exit>
+:1AC8
+<music 10>
+<background "bg004a0.iph" 11>
+-- Archery --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5994">
+"A bow..."
+#
+<name "Lazlocke">
+"How's it going?"
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA5995">
+"I'm able to hit the target now, I think."
+#
+<name "Lazlocke">
+"Ooh, well done.
+ I couldn't ever hit anything."
+#
+<sprite "ta01d08.iph" 4 4 12>
+<name "Celes" "!AA5996">
+"Really?"
+#
+<name "Lazlocke">
+"That's right.
+ Let me show you."
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5997">
+"Y-Yes, sir."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"Oh, it's dangerous to stand there."
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA5998">
+"Huh?"
+#
+<name "Lazlocke">
+"The safe zone when I shoot is in front of the
+ target."
+#
+<sprite "ta01d92.iph" 4 4 12>
+<name "Celes" "!AA5999">
+"...That's super scary though."
+#
+<name "Lazlocke">
+"Don't worry.
+ You'll see."
+#
+<removesprite -1 11>
+I draw back the bow and fire.
+#
+The arrow shoots straight behind me.
+#
+<sprite "ta01d05.iph" 4 4 11>
+<name "Celes" "!AA6000">
+"...That's at the level of a curse."
+#
+<name "Lazlocke">
+"Right?
+ Soshiette said it'd be a good trick if I was
+ ever captured by the enemy and told to shoot
+ at our allies."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6001">
+"That is a situation where it'd be useful."
+#
+<name "Lazlocke">
+"Right."
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA6002">
+"But please don't touch any more bows.
+ It's super scary."
+#
+<name "Lazlocke">
+"R-Right."
+#
+<removesprite -1 11>
+<exit>
+:2032
+<music 10>
+<background "bg004a0.iph" 11>
+-- Archery --
+#
+<name "Lazlocke">
+"A gift."
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA6003">
+"What is it?"
+#
+<name "Lazlocke">
+"A breastplate.
+ It's a must-have for any woman using a bow."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6005">
+"Thank you very much.
+ The one I have now is worn out."
+#
+<name "Lazlocke">
+"Well, we can't have you hurting your chest."
+#
+<sprite "ta01d17.iph" 4 4 12>
+<name "Celes" "!AA6006">
+"Hahaha...
+ I'll be careful."
+#
+<removesprite -1 11>
+<exit>
+:2205
+<music 25>
+<background "bg004a0.iph" 11>
+-- Archery --
+#
+Celes practices her archery.
+#
+<name "Lazlocke">
+"Only bullseyes, huh?"
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA6007">
+"Yes, but even if I fire a thousand arrows, one
+ still might miss. If a single arrow is the
+ difference between life and death, I still have
+ a long way to go."
+#
+<name "Lazlocke">
+"Good attitude."
+#
+<removesprite -1 11>
+<exit>
+:2353
+<music 10>
+<background "bg004a0.iph" 11>
+-- Arrow Storm --
+#
+Celes learns a new archery skill.
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA6008">
+"It would be incredible to hunt with this
+ skill."
+#
+<name "Lazlocke">
+"Yeah, because you'd only be bringing back
+ mincemeat."
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA6009">
+"Not very useful then, I guess."
+#
+<name "Lazlocke">
+"No, it's a good way to attack."
+#
+<removesprite -1 11>
+<exit>
+:24D0
+<music 10>
+<background "bg004a0.iph" 11>
+-- Headhunter --
+#
+<name "Lazlocke">
+"Headhunter...
+ Quite the name, isn't it?"
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6010">
+"Apparently it's a skill to test out whether a
+ criminal's sin can be pardoned."
+#
+<name "Lazlocke">
+"Oh?
+ But how do you test that."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6011">
+"First, you put on apple on your head, then...
+ Huh?"
+#
+<removesprite -1 11>
+I flee before my bad feeling becomes real pain.
+#
+<exit>
+:2674
+<music 10>
+<background "bg004a0.iph" 11>
+-- Siege Arrow --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6012">
+"This is a legendary archery skill that's said
+ to be able to bring down an entire castle with
+ a single arrow."
+#
+<name "Lazlocke">
+"Oh?
+ Then let's see you attack this."
+#
+<removesprite -1 11>
+I stand up and point at the rock I was sitting
+on.
+#
+<sprite "ta01d91.iph" 4 4 11>
+<name "Celes" "!AA6013">
+"Heheheh...
+ Master, you underestimate me."
+#
+<removesprite -1 11>
+She raises her bow, full of confidence, and
+fires.
+#
+The arrow hits the rock.
+#
+And passes straight through it, emerging on the
+other side, without harming it.
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA6014">
+"Huh?"
+#
+<name "Lazlocke">
+"Siege arrow has been defeated!"
+#
+<sprite "ta01d10.iph" 4 4 12>
+<name "Celes" "!AA6015">
+"A-An illusion spell!?"
+#
+<name "Lazlocke">
+"Mmhmm. 
+ No matter what kind of skill you learn, it only
+ matters if you can hit your target."
+#
+<sprite "ta01d36.iph" 4 4 12>
+<name "Celes" "!AA6016">
+"I see. Thank you.
+ But if I remember right, weren't you sitting on
+ that rock just a minute ago?"
+#
+<name "Lazlocke">
+"I was squatting, just pretending to sit.
+ My legs hurt..."
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA6017">
+"You went that far just to trick me..."
+#
+<removesprite -1 11>
+<exit>
+\x78

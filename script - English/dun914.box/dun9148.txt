@@ -1,0 +1,177 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :162: \x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :162: \x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :42: \x16 :175: \x15 :174: 
+:42
+\x1A\x01\x0A\x02\x00\xFB 2 \x01\x0E :72: \x1A\x01\x0A\x02\x00\xFE 10 \x01\x15 :72: \x16 :2D9: \x15 :174: 
+:72
+\x1A\x01\x0A\x02\x00\xFB 3 \x01\x0E :A2: \x1A\x01\x0A\x02\x00\xFE 20 \x01\x15 :A2: \x16 :605: \x15 :174: 
+:A2
+\x1A\x01\x0A\x02\x00\xFB 4 \x01\x0E :D2: \x1A\x01\x0A\x02\x00\xFE 35 \x01\x15 :D2: \x16 :736: \x15 :174: 
+:D2
+\x1A\x01\x0A\x02\x00\xFB 5 \x01\x0E :102: \x1A\x01\x0A\x02\x00\xFE 50 \x01\x15 :102: \x16 :8DA: \x15 :174: 
+:102
+\x1A\x01\x0A\x02\x00\xFB 6 \x01\x0E :132: \x1A\x01\x0A\x02\x00\xFE 70 \x01\x15 :132: \x16 :957: \x15 :174: 
+:132
+\x1A\x01\x0A\x02\x00\xFB 7 \x01\x0E :162: \x1A\x01\x0A\x02\x00\xFE 90 \x01\x15 :162: \x16 :9F7: \x15 :174: 
+:162
+\x1A\x01\x0A\x02\x01\x05 1 \x01\x0E :174: 
+:174
+\x78
+:175
+<background "bg009a0.iph" 11>
+<sprite "ta01c23.iph" 4 4 11>
+<name "セリス" "!AA3731">
+「ぬ……て、手強い……」
+#
+<name "ラズロック">
+「難しかったか？」
+#
+<sprite "ta01c36.iph" 4 4 12>
+<name "セリス" "!AA3732">
+「は、はい……自分の未熟を知りました」
+#
+<name "ラズロック">
+「ならば良し。
+　明日に繋げるように」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3733">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2D9
+<background "bg009a0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA3734">
+「だ、駄目だった……」
+#
+<removesprite -1 11>
+<sprite "ta03a00.iph" 2 5 11>
+<sprite "ta01c37.iph" 6 4 11>
+<name "ヴィオラ" "!BA0335">
+「傷だらけね。
+　大丈夫？」
+#
+<sprite "ta01c36.iph" 6 4 12>
+<name "セリス" "!AA3735">
+「え、あ、は、はい。
+　大丈夫です」
+#
+<sprite "ta03a06.iph" 2 5 12>
+<name "ヴィオラ" "!BA0336">
+「……無茶はしないようにね」
+#
+<sprite "ta01c15.iph" 6 4 12>
+<name "セリス" "!AA3736">
+「はい。
+　ありがとうございます」
+#
+<removesprite 6 11>
+　セリスはそう言って倒れた。
+#
+<removesprite -1 11>
+<sprite "ta03a00.iph" 4 4 11>
+<name "ヴィオラ" "!BA0337">
+「……放っておいたら、怒られるわよね」
+#
+<removesprite -1 11>
+　ヴィオラはセリスを俺の家まで運び、過度な礼を
+　要求してから帰った。
+#
+<sprite "ta01a42.iph" 4 4 11>
+<name "セリス" "!AA3737">
+「お手数をお掛けしました」
+#
+<removesprite -1 11>
+<exit>
+:605
+<background "bg009a0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA3738">
+「ぬう……厳しい」
+#
+<name "ラズロック">
+「みたいだな」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3739">
+「でも、頑張ります」
+#
+<name "ラズロック">
+「その意気だ。
+　が、今日は帰るぞ」
+#
+<removesprite -1 11>
+　俺はセリスを背負い、家に向かった。
+#
+<exit>
+:736
+<background "bg018a0.iph" 11>
+<sprite "ta05a07.iph" 4 4 11>
+<name "ルーン" "!EA0158">
+「あら、良い所まで登ったわね」
+#
+<removesprite -1 11>
+<sprite "ta05a07.iph" 2 5 11>
+<sprite "ta06a00.iph" 6 4 11>
+<name "協会長秘書" "!GA0124">
+「はい。
+　流石はラズロック様の弟子です」
+#
+<sprite "ta05a12.iph" 2 5 12>
+<name "ルーン" "!EA0160">
+「んー……ラズロックよりも、本人の資質ね。
+　とりあえず、期待しましょう」
+#
+<name "協会長秘書" "!GA0125">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:8DA
+<background "bg010a0.iph" 11>
+<name "突破された魔法使い" "!KA0038">
+「うーん、良い実験結果だった。
+　もう一回、挑戦してくれないかなぁ」
+#
+<exit>
+:957
+<background "bg010a0.iph" 11>
+<name "感心する魔法使い" "!JA0054">
+「今回の挑戦者は、元気ねぇ」
+#
+<name "冷静な魔法使い" "!HA0063">
+「元気じゃない人は、この塔に挑んだりしないわよ」
+#
+<exit>
+:9F7
+<background "bg010a0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA3740">
+「外で見ている時は、こんなに高い塔じゃなかった
+　のに……」
+#
+<removesprite -1 11>
+<sprite "ta01c37.iph" 2 5 11>
+<sprite "ta04a28.iph" 6 4 11>
+<name "ソシエット" "!DA0623">
+「色々と仕掛けがあります。
+　大丈夫ですか？」
+#
+<sprite "ta01c36.iph" 2 5 12>
+<name "セリス" "!AA3741">
+「は、はい……なんとか」
+#
+<sprite "ta04a28.iph" 6 4 12>
+<name "ソシエット" "!DA0622">
+「無理はなさらずに。
+　でも、諦め無いでください」
+#
+<sprite "ta01c42.iph" 2 5 12>
+<name "セリス" "!AA3742">
+「はい。
+　もちろんです。
+　が……今回は帰還します……」
+#
+<removesprite -1 11>
+<exit>
+\x78

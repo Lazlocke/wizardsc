@@ -1,0 +1,383 @@
+\x1A\x01\x07\x04\x04\x9C\x84\x00\x01\x0E :21: \x16 :2BF: \x0A\x04\x04\x9C\x84\x01\x15 :2BE: 
+:21
+\x1A\x01\x07\x04\x04\x9D\x84\x00\x01\x0E :42: \x16 :31C: \x0A\x04\x04\x9D\x84\x01\x15 :2BE: 
+:42
+\xE9 6001 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :6F: \x15 :2B2: 
+:6F
+\x1A\x01\x07\x04\x04\xA6\x84\x00\x01\x0E :9F: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :9F: \x16 :AE4: \x0A\x04\x04\xA6\x84\x01\x15 :2BE: 
+:9F
+\x1A\x01\x07\x04\x04\xA7\x84\x00\x01\x0E :CF: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :CF: \x16 :D31: \x0A\x04\x04\xA7\x84\x01\x15 :2BE: 
+:CF
+\x1A\x01\x07\x04\x04\xA9\x84\x00\x01\x0E :102: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :102: \x16 :1017: \x0A\x04\x04\xA9\x84\x01\x15 :2BE: 
+:102
+\x1A\x01\x07\x04\x04\xA8\x84\x00\x01\x0E :132: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :132: \x16 :F17: \x0A\x04\x04\xA8\x84\x01\x15 :2BE: 
+:132
+\x1A\x01\x07\x04\x04\x9E\x84\x00\x01\x0E :153: \x16 :383: \x0A\x04\x04\x9E\x84\x01\x15 :2BE: 
+:153
+\x1A\x01\x07\x04\x04\x9F\x84\x00\x01\x0E :174: \x16 :3F3: \x0A\x04\x04\x9F\x84\x01\x15 :2BE: 
+:174
+\x1A\x01\x07\x04\x04\xA0\x84\x00\x01\x0E :195: \x16 :458: \x0A\x04\x04\xA0\x84\x01\x15 :2BE: 
+:195
+\x1A\x01\x07\x04\x04\xA1\x84\x00\x01\x0E :1B6: \x16 :4C7: \x0A\x04\x04\xA1\x84\x01\x15 :2BE: 
+:1B6
+\x1A\x01\x07\x04\x04\xA2\x84\x00\x01\x0E :1D7: \x16 :618: \x0A\x04\x04\xA2\x84\x01\x15 :2BE: 
+:1D7
+\x1A\x01\x07\x04\x04\xA3\x84\x00\x01\x0E :1F8: \x16 :6ED: \x0A\x04\x04\xA3\x84\x01\x15 :2BE: 
+:1F8
+\x1A\x01\x07\x04\x04\xA4\x84\x00\x01\x0E :219: \x16 :7ED: \x0A\x04\x04\xA4\x84\x01\x15 :2BE: 
+:219
+\x1A\x01\x07\x04\x04\xA5\x84\x00\x01\x0E :23A: \x16 :988: \x0A\x04\x04\xA5\x84\x01\x15 :2BE: 
+:23A
+\x1A\x01\x07\x04\x04\xAA\x84\x00\x01\x0E :276: \xE9 6001 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 20 \x01\x15 :276: \x16 :1148: \x0A\x04\x04\xAA\x84\x01\x15 :2BE: 
+:276
+\x1A\x01\x07\x04\x04\xAB\x84\x00\x01\x0E :2B2: \xE9 6001 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 20 \x01\x15 :2B2: \x16 :1202: \x0A\x04\x04\xAB\x84\x01\x15 :2BE: 
+:2B2
+\x16 :13AF: \x15 :2BE: 
+:2BE
+\x78
+:2BF
+<music 5>
+<background "bg003a0.iph" 11>
+<name "Celes" "!AA4375">
+"Zzz..."
+#
+Celes took it easy.
+#
+<exit>
+:31C
+<music 5>
+<background "bg003a0.iph" 11>
+<name "Celes" "!AA4381">
+"I can't eat another bite..."
+#
+Celes took it easy.
+#
+<exit>
+:383
+<music 5>
+<background "bg003a0.iph" 11>
+<name "Celes" "!AA4377">
+"Don't worry.
+ I'm awake."
+#
+Celes took it easy.
+#
+<exit>
+:3F3
+<music 5>
+<background "bg003a0.iph" 11>
+<name "Celes" "!AA4378">
+"Just a little longer..."
+#
+Celes took it easy.
+#
+<exit>
+:458
+<music 5>
+<background "bg003a0.iph" 11>
+<name "Celes" "!AA4379">
+"I can't eat that..."
+#
+Celes took it easy.
+#
+<exit>
+:4C7
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<name "Celes" "!AA4380">
+"Master... you pervert..."
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0681">
+"Your Grace?"
+#
+<name "Lazlocke">
+"Don't get it wrong.
+ I haven't done anything yet."
+#
+<sprite "ta04a02.iph" 4 4 12>
+<name "Soshiette" "!DA0682">
+"Yet?"
+#
+<name "Lazlocke">
+"Yet."
+#
+<removesprite -1 11>
+<exit>
+:618
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<name "Celes" "!AA4382">
+"Zzz..."
+#
+<name "Lazlocke">
+"Hmm... She's cute when she's asleep."
+#
+<name "Lazlocke">
+"Makes me want to prank her."
+#
+Of course, I'd never do something like that.
+#
+<exit>
+:6ED
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0683">
+"Oh? She's out cold."
+#
+<name "Lazlocke">
+"Let her sleep."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0684">
+"Very well."
+#
+<removesprite -1 11>
+<exit>
+:7ED
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0685">
+"Why don't you take the day off as well?"
+#
+<name "Lazlocke">
+"I laze around enough.
+ If anybody needs a day off, it's you."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA0686">
+"No. I can't relax just sitting around doing
+ nothing."
+#
+<removesprite -1 11>
+I guess she's the workaholic type allergic to
+vacations.
+#
+<exit>
+:988
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0687">
+"...Watching her is making me sleepy."
+#
+<name "Lazlocke">
+"How about joining her?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0688">
+"Then I'll accept your kind offer."
+#
+<name "Lazlocke">
+"Why are you laying your head on my lap?"
+#
+<removesprite -1 11>
+<exit>
+:AE4
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta02a06.iph" 4 4 11>
+<name "Elle" "!CA0282">
+"Oh? She's napping?"
+#
+<name "Lazlocke">
+"Yeah. She has the day off.
+ What's up?"
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0283">
+"I have a delivery from my master."
+#
+<name "Lazlocke">
+"Okay. Thank you.
+ Would you like some tea?"
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA0284">
+"No thank you.
+ She said to come home right away."
+#
+<name "Lazlocke">
+"All right.
+ I know she can be rough.
+ Hang in there."
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0285">
+"Yep."
+#
+<removesprite -1 11>
+<exit>
+:D31
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0363">
+"Oh?"
+#
+<name "Lazlocke">
+"Sorry.
+ Please don't wake her."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0364">
+"Very well.
+ She's resting?"
+#
+<name "Lazlocke">
+"Yeah.
+ How about you?"
+#
+<sprite "ta03a05.iph" 4 4 12>
+<name "Viola" "!BA0365">
+"I have a report."
+#
+<name "Lazlocke">
+"We can talk in the back room."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0366">
+"Very well."
+#
+<removesprite -1 11>
+<exit>
+:F17
+<music 5>
+<background "bg004a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta05a11.iph" 4 4 11>
+<name "Rune" "!EA0170">
+"My, my...
+ Sleeping, are we?"
+#
+<name "Rune" "!EA0171">
+"Then..."
+#
+<removesprite -1 11>
+...
+#
+<name "Lazlocke">
+"Who drew on her face!?"
+#
+<exit>
+:1017
+<music 5>
+<background "bg002a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0689">
+"Your Grace."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0690">
+"It's the cold season.
+ Be careful about her sleeping."
+#
+<name "Lazlocke">
+"Yeah, I know."
+#
+<removesprite -1 11>
+<exit>
+:1148
+<music 5>
+<background "bg002a0.iph" 11>
+Celes took it easy.
+#
+<name "Celes" "!AA4383">
+"Is it okay to sleep so much?
+ ...But he did order me to."
+#
+<name "Celes" "!AA4384">
+"Yawn...
+ Good night."
+#
+<exit>
+:1202
+<music 5>
+<background "bg002a0.iph" 11>
+Celes took it easy.
+#
+<sprite "ta04a24.iph" 4 4 11>
+<name "Soshiette" "!DA0691">
+"Is all you're having her do sleep?"
+#
+<name "Lazlocke">
+"That's right."
+#
+<sprite "ta04a23.iph" 4 4 12>
+<name "Soshiette" "!DA0692">
+"Why?"
+#
+<name "Lazlocke">
+"She's cute when she's asleep."
+#
+<sprite "ta04a13.iph" 4 4 12>
+<name "Soshiette" "!DA0693">
+".........Are you serious?"
+#
+<name "Lazlocke">
+"It was a joke."
+#
+<removesprite -1 11>
+<exit>
+:13AF
+<music 5>
+<background "bg003a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1439: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4389">
+"Rest time."
+#
+<removesprite -1 11>
+\x2B
+:1439
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :146F: 
+<name "Celes" "!AA4390">
+"Zzzzz..."
+#
+:146F
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :14A5: 
+<name "Celes" "!AA4391">
+"Nice and easy..."
+#
+:14A5
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :14DB: 
+<name "Celes" "!AA4392">
+"Comfy..."
+#
+:14DB
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :1511: 
+<name "Celes" "!AA4393">
+"Relax..."
+#
+:1511
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1579: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4394">
+"Where should I nap?"
+#
+<removesprite -1 11>
+:1579 + 1
+<exit>
+\x78

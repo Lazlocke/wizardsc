@@ -1,0 +1,58 @@
+\x2E\x22\x00\x01 1  6 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :95: 
+<name "Viola" "!BA1089">
+"Show me how far Lazlocke's brought you."
+#
+<name "Celes" "!AA6643">
+"I-I'll do my best."
+#
+:95
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :109: 
+<name "Celes" "!AA6644">
+"Thank you for this match."
+#
+<name "Viola" "!BA1090">
+"Take it easy on me."
+#
+:109
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :17B: 
+<name "Viola" "!BA1091">
+"I can't afford to lose."
+#
+<name "Celes" "!AA6645">
+"...Here I come!"
+#
+:17B
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :1F9: 
+<name "Viola" "!BA1092">
+"...Are you ready to die?"
+#
+<name "Celes" "!AA6646">
+"I'm not going to die here!"
+#
+:1F9
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :290: 
+<name "Viola" "!BA1093">
+"...Would Lazlocke be mad if I beat you?"
+#
+<name "Celes" "!AA6647">
+"Please don't hold back."
+#
+:290
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :391: 
+<name "Viola" "!BA1094">
+"I know your ambition, but I won't let you beat
+ me."
+#
+<name "Celes" "!AA6648">
+"I know.
+ I want the same thing."
+#
+<name "Viola" "!BA1095">
+"Good answer.
+ Let's fight."
+#
+<name "Celes" "!AA6649">
+"Yes."
+#
+:391
+\x78\x78

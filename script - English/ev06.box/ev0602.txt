@@ -1,0 +1,1382 @@
+\x1A\x01\x07\x04\x06\x0F\x84\x00\x01\x0E :45: \xDB "ジャブ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :45: \x16 :97C: \x0A\x04\x06\x0F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:45
+\x1A\x01\x07\x04\x06\x10\x84\x00\x01\x0E :8A: \xDB "ジャブ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :8A: \x16 :B53: \x0A\x04\x06\x10\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:8A
+\x1A\x01\x07\x04\x06\x11\x84\x00\x01\x0E :D3: \xDB "ストレート" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :D3: \x16 :CC6: \x0A\x04\x06\x11\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:D3
+\x1A\x01\x07\x04\x06\x12\x84\x00\x01\x0E :137: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :137: \xDB "ストレート" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :137: \x16 :EE2: \x0A\x04\x06\x12\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:137
+\x1A\x01\x07\x04\x06\x13\x84\x00\x01\x0E :19B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :19B: \xDB "ストレート" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :19B: \x16 :11A3: \x0A\x04\x06\x13\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:19B
+\x1A\x01\x07\x04\x06\x14\x84\x00\x01\x0E :1E8: \xDB "ソニックブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1E8: \x16 :12F9: \x0A\x04\x06\x14\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:1E8
+\x1A\x01\x07\x04\x06\x15\x84\x00\x01\x0E :235: \xDB "ソニックブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :235: \x16 :1689: \x0A\x04\x06\x15\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:235
+\x1A\x01\x07\x04\x06\x16\x84\x00\x01\x0E :284: \xDB "フラッシュブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :284: \x16 :19E1: \x0A\x04\x06\x16\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:284
+\x1A\x01\x07\x04\x06
+<exit>
+\x84\x00\x01\x0E :2CF: \xDB "タイムブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2CF: \x16 :1F90: \x0A\x04\x06
+<exit>
+\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:2CF
+\x1A\x01\x07\x04\x06\x18\x84\x00\x01\x0E :31A: \xDB "ゴッドブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :31A: \x16 :2485: \x0A\x04\x06\x18\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:31A
+\x1A\x01\x07\x04\x06\x19\x84\x00\x01\x0E :365: \xDB "ゴッドブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :365: \x16 :2984: \x0A\x04\x06\x19\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:365
+\x1A\x01\x07\x04\x06\x1A\x84\x00\x01\x0E :3B0: \xDB "ゴッドブロー" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :3B0: \x16 :2DF0: \x0A\x04\x06\x1A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:3B0
+\x1A\x01\x07\x04\x06\x1B\x84\x00\x01\x0E :3F9: \xDB "ローキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3F9: \x16 :3079: \x0A\x04\x06\x1B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:3F9
+\x1A\x01\x07\x04\x06\x1C\x84\x00\x01\x0E :442: \xDB "ローキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :442: \x16 :3446: \x0A\x04\x06\x1C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:442
+\x1A\x01\x07\x04\x06\x1D\x84\x00\x01\x0E :4A6: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 7 \x01\x15 :4A6: \xDB "ローキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4A6: \x16 :391C: \x0A\x04\x06\x1D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:4A6
+\x1A\x01\x07\x04\x06\x1E\x84\x00\x01\x0E :4EF: \xDB "ハイキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :4EF: \x16 :3B48: \x0A\x04\x06\x1E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:4EF
+\x1A\x01\x07\x04\x06\x1F\x84\x00\x01\x0E :538: \xDB "ハイキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :538: \x16 :3ED1: \x0A\x04\x06\x1F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:538
+\x1A\x01\x07\x04\x06\x20\x84\x00\x01\x0E :581: \xDB "ハイキック" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :581: \x16 :4310: \x0A\x04\x06\x20\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:581
+\x1A\x01\x07\x04\x06\x21\x84\x00\x01\x0E :5CA: \xDB "飛び膝蹴り" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5CA: \x16 :472C: \x0A\x04\x06\x21\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:5CA
+\x1A\x01\x07\x04\x06\x22\x84\x00\x01\x0E :613: \xDB "飛び膝蹴り" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :613: \x16 :4975: \x0A\x04\x06\x22\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:613
+\x1A\x01\x07\x04\x06\x23\x84\x00\x01\x0E :65E: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :65E: \x16 :4C2C: \x0A\x04\x06\x23\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:65E
+\x1A\x01\x07\x04\x06\x24\x84\x00\x01\x0E :6A9: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :6A9: \x16 :5003: \x0A\x04\x06\x24\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:6A9
+\x1A\x01\x07\x04\x06\x25\x84\x00\x01\x0E :6F4: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :6F4: \x16 :540C: \x0A\x04\x06\x25\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:6F4
+\x1A\x01\x07\x04\x06\x26\x84\x00\x01\x0E :73F: \xDB "テツザンコウ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :73F: \x16 :5569: \x0A\x04\x06\x26\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:73F
+\x1A\x01\x07\x04\x06\x27\x84\x00\x01\x0E :784: \xDB "裸絞め" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :784: \x16 :588D: \x0A\x04\x06\x27\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:784
+\x1A\x01\x07\x04\x06\x28\x84\x00\x01\x0E :7C9: \xDB "裸絞め" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :7C9: \x16 :59F7: \x0A\x04\x06\x28\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:7C9
+\x1A\x01\x07\x04\x06\x29\x84\x00\x01\x0E :829: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :829: \xDB "裸絞め" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :829: \x16 :5BD2: \x0A\x04\x06\x29\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:829
+\x1A\x01\x07\x04\x06\x2A\x84\x00\x01\x0E :872: \xDB "腕挫十字固" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :872: \x16 :5C95: \x0A\x04\x06\x2A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:872
+\x1A\x01\x07\x04\x06\x2B\x84\x00\x01\x0E :8D6: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :8D6: \xDB "腕挫十字固" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :8D6: \x16 :5E4C: \x0A\x04\x06\x2B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:8D6
+\x1A\x01\x07\x04\x06\x2C\x84\x00\x01\x0E :91B: \xDB "金剛体" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :91B: \x16 :5FA7: \x0A\x04\x06\x2C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:91B
+\x1A\x01\x07\x04\x06\x2D\x84\x00\x01\x0E :97B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :97B: \xDB "金剛体" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :97B: \x16 :62B6: \x0A\x04\x06\x2D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97B: 
+:97B
+\x78
+:97C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Jab --
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1023">
+"It's difficult to win a fight with a jab, but
+ it can knock the wind out of them, allow you 
+ to take control of the fight, and push the
+ battle to a more advantageous situation."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1024">
+"It's no exaggeration to say that it's a
+ cornerstone of brawling.
+ Work hard to master it."
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5796">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:B53
+<music 10>
+<background "bg003a0.iph" 11>
+-- Jab --
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA5797">
+"Sha...
+ Sha..."
+#
+<removesprite -1 11>
+Celes shadowboxes in the corner of the room.
+#
+She's been doing that whenever she has some
+spare time.
+#
+She's very enthusiastic about it.
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA5798">
+"Sha...
+ Sha...
+ Ah!"
+#
+<removesprite -1 11>
+But sometimes accidentally smacks something and
+suffers for it.
+#
+<exit>
+:CC6
+<music 10>
+<background "bg004a0.iph" 11>
+-- Straight Punch --
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1025">
+"This is a blow for knocking out your opponent."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1026">
+"Your aim must be precise.
+ When you decide to attack, don't hold back."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5799">
+"Y-Yes, ma'am."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1027">
+"Now then, let's put it into practice.
+ Do come at me."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5800">
+"...I-I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:EE2
+<music 2>
+<background "bg013a0.iph" 11>
+-- Straight Punch --
+#
+<name "Girl" "!GA0139">
+"Eek!
+ A molester!"
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA5801">
+"Hya!"
+#
+<removesprite -1 11>
+<name "Onlooker" "!QB0183">
+"Ooh! Splendid straight punch!
+ That pervert fell to his knees."
+#
+<name "Other Onlooker" "!RB0211">
+"And a followup to the punch!
+ Ooh... That poor pervert.
+ He got launched into the sun!"
+#
+<name "Onlooker" "!QB0184">
+"Wow!"
+#
+<name "Girl" "!GA0140">
+"T-Thank you very much."
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA5802">
+"Perverts should die."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a97.iph" 4 4 12>
+<name "Celes" "!AA5803">
+"I-I don't mean what you do to me."
+#
+<removesprite -1 11>
+<exit>
+:11A3
+<music 10>
+<background "bg002b0.iph" 11>
+-- Straight Punch --
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA5804">
+"Like... this?
+ Or... like this?"
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA5805">
+"Should I twist more?"
+#
+<removesprite -1 11>
+Celes is practicing punching.
+#
+I'm glad she's enthusiastic, but a little 
+scared when she does it after sex.
+#
+<exit>
+:12F9
+<music 10>
+<background "bg004a0.iph" 11>
+-- Sonic Blow --
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1030">
+"A sonic blow is a technique for striking your
+ opponent at the speed of sound."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a00.iph" 6 4 11>
+<name "Celes" "!AA9002">
+"The speed of sound?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1031">
+"Yes. Use mana to enhance your body.
+ Practically speaking, it will be like this."
+#
+<removesprite -1 11>
+Soshiette punches the air, creating a tiny
+sonic boom.
+#
+Her arm's already back to where it started by
+the time the sound comes.
+#
+<sprite "ta01d10.iph" 4 4 11>
+<name "Celes" "!AA9003">
+"..."
+#
+<removesprite -1 11>
+<sprite "ta01d10.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1032">
+"It consumes a little mana, but it's a very
+ effective punch.
+ Please try to master it."
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA9004">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:1689
+<music 10>
+<background "bg004a0.iph" 11>
+-- Sonic Blow --
+#
+<sprite "ta01d22.iph" 4 4 11>
+<name "Celes" "!AA5808">
+"Sonic blow!"
+#
+<removesprite -1 11>
+Celes punches the air over and over.
+#
+Each punch creates a pleasant-sounding crack in
+the air.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1033">
+"Excellent."
+#
+<removesprite -1 11>
+<sprite "ta01d15.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5809">
+"Ahaha...
+ It's thanks to you."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1034">
+"Hardly. If you've mastered that level, then 
+ it's time to move to the next stage."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5810">
+"The next stage?"
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1035">
+"Yes. A higher caliber of the sonic blow, the
+ flash blow."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5811">
+"Flash blow?
+ *gulp*"
+#
+<removesprite -1 11>
+<exit>
+:19E1
+<music 10>
+<background "bg004a0.iph" 11>
+-- Flash Blow --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1036">
+"A flash blow is a technique for punching at
+ faster than the speed of light."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5812">
+"Light has a speed?"
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1037">
+"If you want to imagine the speed of light,
+ open a window in a dark room and watch how
+ fast light comes in."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5813">
+"I-I'm sorry.
+ I don't understand at all."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1038">
+"If it's hard for you to understand the speed of
+ light, just assume it's too fast for your eyes
+ to follow. Let me show you an example.
+ The target will be that stake over there."
+#
+<removesprite -1 11>
+Soshiette's arm shimmers for a split second, 
+but doesn't seem to move. At the same time, the
+stake she pointed to breaks.
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5814">
+"Huh?
+ What?"
+#
+<removesprite -1 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1040">
+"I'll do it again.
+ This time the stake next to that one."
+#
+<removesprite -1 11>
+Again, her arm shimmers and the stake cracks
+apart with an impact.
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA5815">
+"Wow..."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1041">
+"It's a punch that the eyes can't follow, to
+ say nothing of sound.
+ Please work hard to learn it."
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA5816">
+"I-I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:1F90
+<music 10>
+<background "bg004a0.iph" 11>
+-- Chrono Blow --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1043">
+"A chrono blow is a punch in the same vein as a
+ sonic blow, but even faster than a flash blow."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5817">
+"So it moves at the speed of time?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1044">
+"That's right."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5818">
+"Um, but I can't even imagine something that can
+ move as fast as the speed of time."
+#
+<sprite "ta04a08.iph" 6 4 12>
+<name "Soshiette" "!DA1045">
+"The speed of time...
+ In the east, they call it the moment between
+ moments.
+ It's like a speed where time stops."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1046">
+"In execution, it looks like this."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5819">
+"Huh?
+ Um, nothing happened?"
+#
+<removesprite -1 11>
+As soon as she says that, the stake next to her
+bursts.
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1047">
+"Sound and light lag to catch up."
+#
+<removesprite -1 11>
+<sprite "ta01d10.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5820">
+"..."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1048">
+"Good luck."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5821">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:2485
+<music 10>
+<background "bg004a0.iph" 11>
+-- God Blow --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1049">
+"A punch that surpasses sound, sonic.
+ A punch that surpasses light, flash.
+ A punch that surpasses time, chrono.
+ And the punch of a god."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1050">
+"The god blow is a punching technique that dates
+ back to the dawn of time. To strike a thousand,
+ you must throw a thousand punches. To strike
+ ten thousand, you must throw then thousand."
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5822">
+"Oooh."
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1051">
+"However, the only person who has mastered this
+ technique is the one who created it."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA5823">
+"The one who created it?
+ Was it you?"
+#
+<sprite "ta04a72.iph" 6 4 12>
+<name "Soshiette" "!DA1052">
+"No, it's not me.
+ The one who created it was Knight Crusader,
+ the commander of the order of the St. Mile
+ holy order."
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1053">
+"Which is to say that I haven't mastered it
+ myself.
+ I can only perform an imitation of it."
+#
+<sprite "ta01d08.iph" 2 5 12>
+<name "Celes" "!AA5824">
+"..."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1054">
+"But don't give up.
+ You just need to practice."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5825">
+"A-All right.
+ I'll do my best!"
+#
+<removesprite -1 11>
+<exit>
+:2984
+<music 10>
+<background "bg004a0.iph" 11>
+-- God Blow --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5826">
+"Sonic!
+ Flash!
+ Chrono!
+ God!"
+#
+<removesprite -1 11>
+The stake is impacted by multiple blows and
+splinters.
+#
+But the fragments stay for a moment in the
+original shape.
+#
+And then falls into a pile of splinters all at
+once.
+#
+<sprite "ta01d32.iph" 4 4 11>
+<name "Celes" "!AA5827">
+"*huff* *huff*"
+#
+<removesprite -1 11>
+<sprite "ta01d32.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1055">
+"Excellent."
+#
+<sprite "ta01d31.iph" 2 5 12>
+<name "Celes" "!AA5828">
+"No, I still have a long way to go to reach
+ the level of a real god..."
+#
+<sprite "ta04a72.iph" 6 4 12>
+<name "Soshiette" "!DA1056">
+"A real god...
+ If you've mastered the skill this far, then
+ you should comprehend how far from a real god
+ you are."
+#
+<sprite "ta01d42.iph" 2 5 12>
+<name "Celes" "!AA5829">
+"Hahaha... It does feel kind of hopeless, but
+ you won't get anywhere unless you take the
+ first step."
+#
+<sprite "ta04a62.iph" 6 4 12>
+<name "Soshiette" "!DA1057">
+"...Work hard.
+ I feel like you could reach it."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5830">
+"Yes, ma'am!"
+#
+<removesprite -1 11>
+<exit>
+:2DF0
+<music 10>
+<background "bg004a0.iph" 11>
+-- God Blow --
+#
+<name "Lazlocke">
+"How's she doing?"
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1058">
+"She's likely one of the foremost masters of the
+ god blow."
+#
+<name "Lazlocke">
+"That's incredible.
+ I heard that Knight Crusader used that skill to
+ drive off an overlord's army."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA1059">
+"Regardless, she's nowhere near that level."
+#
+<name "Lazlocke">
+"Hahaha... I guess."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1060">
+"However, if she keeps training, it could be
+ possible one day."
+#
+<name "Lazlocke">
+"I'm looking forward to it."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1061">
+"Indeed."
+#
+<removesprite -1 11>
+<exit>
+:3079
+<music 25>
+<background "bg004a0.iph" 11>
+-- Low Kick --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5831">
+"Low! Low! One more! Low!"
+#
+<removesprite -1 11>
+<sprite "ta01d21.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1062">
+"A relentless attack on the legs.
+ Excellent."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1063">
+"The low kick is a simple skill, but a 
+ considerably effective one.
+ Keep it up and work hard."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5832">
+"Yes, ma'am!"
+#
+<name "Lazlocke">
+"Um... 
+ It hurts too much for me to keep standing..."
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA1064">
+"Please don't be a baby, Your Grace."
+#
+<name "Lazlocke">
+"U-Um, I think my leg might be broken."
+#
+<sprite "ta01d17.iph" 2 5 12>
+<name "Celes" "!AA5833">
+"I won't let your sacrifice be in vain."
+#
+<name "Lazlocke">
+"That's not the problem..."
+#
+<sprite "ta04a28.iph" 6 4 12>
+<name "Soshiette" "!DA1065">
+"If you don't stay on your feet, she'll be
+ kicking you in the face."
+#
+<name "Lazlocke">
+"Aiee!"
+#
+<removesprite -1 11>
+<exit>
+:3446
+<music 2>
+<background "bg015a0.iph" 11>
+-- Low Kick --
+#
+Celes is spending her spare time wandering 
+around the city.
+#
+I was a little worried about that, so I came
+with her. The first thing I noticed is that
+she's wandering around in places that seem a
+little dangerous.
+#
+<name "Lazlocke">
+"Is something the matter?"
+#
+Or rather, why are you hanging around here?
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA5834">
+"No. Miss Soshiette said to put everything into
+ practice."
+#
+<name "Lazlocke">
+"...Are you waiting for someone to try to hit
+ on you?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5835">
+"Or a drunk, or a thug."
+#
+<name "Lazlocke">
+"...And what are you going to do when you find
+ one?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA5836">
+"Miss Soshiette said to hit them with a low kick
+ before they can say a single word."
+#
+<name "Lazlocke">
+"Um, doesn't that make you a menace?"
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA5837">
+"I wondered about that too and asked her."
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA5838">
+"Don't worry about that.
+ Swing the iron hammer of justice down on 
+ evildoers. The innocent have nothing to fear
+ from justice."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA5839">
+"...That's what she said."
+#
+<removesprite -1 11>
+...
+#
+As I'm wondering what to do, her first victim
+appears.
+#
+...I'll have a long talk with her about this
+tomorrow.
+#
+<exit>
+:391C
+<music 10>
+<background "bg002a0.iph" 11>
+-- Low Kick --
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA5840">
+"Master!♪"
+#
+<name "Lazlocke">
+"Hm?
+ Whoa!"
+#
+<removesprite -1 11>
+Celes knocks me off my feet with a perfect low
+kick.
+#
+I clutch my leg in pain on the floor.
+#
+<name "Lazlocke">
+"C-Celes, I like being called to bed, but why
+ did you kick me?"
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA5841">
+"Miss Soshiette said to do that so people 
+ couldn't get away."
+#
+<name "Lazlocke">
+"I'm not going anywhere. 
+ Let's forget those lessons for the moment."
+#
+<removesprite -1 11>
+<exit>
+:3B48
+<music 10>
+<background "bg004a0.iph" 11>
+-- High Kick --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1066">
+"For a high kick, as with many techniques, you
+ must pay close attention to your pivot leg.
+ Place your weight firmly here."
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5842">
+"Yes, ma'am."
+#
+<sprite "ta04a15.iph" 6 4 12>
+<name "Soshiette" "!DA1067">
+"Then rotate your leg and raise it while lifting
+ your knee in a straight line."
+#
+<sprite "ta01d21.iph" 2 5 12>
+<name "Celes" "!AA5843">
+"Yes, ma'am."
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1068">
+"Once your knee is raised, focus on the 
+ opponent's head and aim your foot towards 
+ their neck."
+#
+<sprite "ta01d20.iph" 2 5 12>
+<name "Celes" "!AA5844">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+Her foot whizzes past my head.
+#
+<sprite "ta04a25.iph" 4 4 11>
+<name "Soshiette" "!DA1070">
+"Your Grace, please don't dodge.
+ That will spoil her training."
+#
+<name "Lazlocke">
+"Don't be ridiculous!"
+#
+<removesprite -1 11>
+<exit>
+:3ED1
+<music 10>
+<background "bg004a0.iph" 11>
+-- High Kick --
+#
+<sprite "ta04a06.iph" 4 4 11>
+<name "Soshiette" "!DA1071">
+"The trick behind high kicks?"
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a06.iph" 6 4 11>
+<name "Celes" "!AA5845">
+"Yes, please."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1072">
+"All right.
+ Your Grace.
+ Stand there."
+#
+<name "Lazlocke">
+"Huh?"
+#
+<name "Lazlocke">
+"What?
+ No.
+ I don't want to be kicked."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1073">
+"Don't worry.
+ I won't hit you.
+ Here goes."
+#
+<name "Lazlocke">
+"Aiee!"
+#
+<removesprite -1 11>
+Her foot flashes right in front of my face.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1074">
+"Like that, you can kick even with a skirt
+ without exposing yourself."
+#
+<removesprite -1 11>
+<sprite "ta01d15.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA5846">
+"I see."
+#
+<name "Lazlocke">
+"Was that really necessary to do using me?
+ I could feel that. You could've taken my head
+ off."
+#
+<sprite "ta04a11.iph" 6 4 12>
+<name "Soshiette" "!DA1075">
+"Complaints not accepted."
+#
+<removesprite -1 11>
+<exit>
+:4310
+<music 10>
+<background "bg004a0.iph" 11>
+-- High Kick --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5847">
+"Hya! Yah! Hiyah!"
+#
+<removesprite -1 11>
+Celes nimbly moves and kicks the stake 
+perfectly.
+#
+In the exact same spot each time.
+#
+<name "Lazlocke">
+"Very impressive."
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA5848">
+"No. It's not a moving target."
+#
+<name "Lazlocke">
+"...I see.
+ Well, keep it up."
+#
+<removesprite -1 11>
+I have a bad feeling about what comes next and
+try to beat a hasty retreat, but Soshiette stops
+me.
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1076">
+"Your Grace, where are you going?"
+#
+<name "Lazlocke">
+"I-I thought I'd go to the Guild."
+#
+<sprite "ta04a11.iph" 4 4 12>
+<name "Soshiette" "!DA1077">
+"But your precious apprentice needs a moving
+ target."
+#
+<name "Lazlocke">
+"W-What about a magic golem?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1078">
+"They're all broken right now and in repairs.
+ So thank you very much, if you would."
+#
+<removesprite -1 11>
+She grabs me by the scruff of the neck and drags
+me in front of Celes.
+#
+Apparently, despite being the master, I have no
+right to refuse.
+#
+<exit>
+:472C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Flying Knee --
+#
+A flying knee kick...
+#
+It's a move to strike your opponent with your
+knee while in the air.
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5849">
+"Yah!"
+#
+<removesprite -1 11>
+*crack*
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5850">
+"Did it work?"
+#
+<name "Lazlocke">
+"...V-Very good knee kick.
+ My nose won't stop bleeding..."
+#
+Her knee shot up almost from a walking movement
+right to my face.
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5851">
+"O-Okay. Miss Soshiette told me to practice
+ like this."
+#
+<removesprite -1 11>
+This is a terrifying skill.
+#
+<exit>
+:4975
+<music 2>
+<background "bg013a0.iph" 11>
+-- Flying Kick --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5852">
+"Yah!"
+#
+<removesprite -1 11>
+Celes's flying kick slams into the purse 
+snatcher right as he rounds the corner.
+#
+He goes flying the way he came, staggers a
+couple steps, and then collapses in a heap.
+#
+He doesn't even try to get up.
+#
+Actually... is he even still alive?
+#
+<sprite "ta01d27.iph" 4 4 11>
+<name "Celes" "!AA5853">
+"My timing was a little off."
+#
+<name "Lazlocke">
+"With that?
+ From what I saw, I don't think your timing
+ needs any more work."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5854">
+"If I had done it perfectly, he would've fallen
+ on the spot without staggering away."
+#
+<name "Lazlocke">
+"Hmm...
+ Terrifying."
+#
+<removesprite -1 11>
+<exit>
+:4C2C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Tetsuzankou --
+#
+<name "Lazlocke">
+"Soshiette taught you a new move?"
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5855">
+"Yes. It's a martial arts move from the east
+ called tetsuzankou."
+#
+<name "Lazlocke">
+"Oh? What kind of move is it?"
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5856">
+"...Like a tackle, I guess?"
+#
+<name "Lazlocke">
+"A tackle?
+ Do you weigh enough for that to work?"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5857">
+"You wonder that?"
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01d90.iph" 4 4 12>
+<name "Celes" "!AA5858">
+"Okay, please stand right there."
+#
+<name "Lazlocke">
+"What?
+ Going to try it on me?
+ I don't mind, just go easy."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5859">
+"Yes, sir.
+ Here I come."
+#
+<removesprite -1 11>
+It's like being struck with a boulder.
+I stagger backwards a few feet before falling
+over.
+#
+<name "Lazlocke">
+"I-I said go easy..."
+#
+And then I pass out.
+#
+<exit>
+:5003
+<music 10>
+<background "bg004a0.iph" 11>
+-- Tetsuzankou --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5860">
+"Hya!"
+#
+<removesprite -1 11>
+Celes is practicing her body blow technique
+on a rock.
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA1079">
+"Your shout is lacking."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a22.iph" 6 4 11>
+<name "Celes" "!AA5861">
+"It is?"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1080">
+"Vocalization is an important part of martial
+ arts. Try to shout a little more forcefully."
+#
+<sprite "ta01d27.iph" 2 5 12>
+<name "Celes" "!AA5862">
+"Can you show me?"
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "Soshiette" "!DA1081">
+"Let's see..."
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1082">
+"Hya!!!!"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1083">
+"Or..."
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1085">
+"Yaaaaahhhh!!!"
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1086">
+"How was that?"
+#
+<sprite "ta01d92.iph" 2 5 12>
+<name "Celes" "!AA5863">
+"I-I'll try."
+#
+<removesprite -1 11>
+<exit>
+:540C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Tetsuzankou --
+#
+Celes is practicing again.
+#
+Her rhythm's good.
+She's putting real dents in that boulder.
+#
+...
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA5864">
+"Oh, Master."
+#
+<name "Lazlocke">
+"I'll be counting on you if I ever need 
+ someone to break down a door."
+#
+<sprite "ta01d06.iph" 4 4 12>
+<name "Celes" "!AA5865">
+"Huh?"
+#
+<removesprite -1 11>
+<exit>
+:5569
+<music 10>
+<background "bg004a0.iph" 11>
+-- Tetsuzankou --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA5866">
+"Hiyaah!"
+#
+<removesprite -1 11>
+She slams her body into it perfectly and an
+explosive thud rocks the air.
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1087">
+"Splendid."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5867">
+"Miss Soshiette."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1088">
+"Now practice it every day and hone that
+ skill.
+ Work hard."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA5868">
+"Yes, ma'am.
+ Thank you very much."
+#
+<sprite "ta01d15.iph" 2 5 12>
+<name "Celes" "!AA5869">
+"And... Thank you too, master, even though
+ you're unconscious."
+#
+<removesprite -1 11>
+After being hit with her tetsuzankou, all I 
+can do is lie there.
+#
+<exit>
+:588D
+<music 10>
+<background "bg004a0.iph" 11>
+-- Sleeper Hold --
+#
+<sprite "ta01d20.iph" 4 4 11>
+<name "Celes" "!AA5870">
+"Lock in... like this?"
+#
+<name "Lazlocke">
+"Hm?
+ What are you locking?"
+#
+<sprite "ta01d07.iph" 4 4 12>
+<name "Celes" "!AA5871">
+"Your neck."
+#
+<name "Lazlocke">
+"Huh?"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA5872">
+"And then it goes like..."
+#
+<removesprite -1 11>
+I pass out.
+#
+<exit>
+:59F7
+<music 10>
+<background "bg004a0.iph" 11>
+-- Sleeper Hold --
+#
+Celes is practicing her submission techniques
+on me.
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5873">
+"How's this?"
+#
+<name "Lazlocke">
+"I-It hurts, but... I can take it having you
+ wrapped around me like this..."
+#
+<removesprite -1 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA1089">
+"Your Grace, enduring it needlessly can put you
+ in greater risk.
+ Miss Celes, twist his left arm just a little."
+#
+<removesprite -1 11>
+As soon as she does, I pass out.
+#
+<exit>
+:5BD2
+<music 10>
+<background "bg002b0.iph" 11>
+-- Sleeper Hold --
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA5874">
+"My technique... did nothing..."
+#
+<name "Lazlocke">
+"It's a hundred years too soon for you to beat
+ me in bed."
+#
+<removesprite -1 11>
+<exit>
+:5C95
+<music 10>
+<background "bg004a0.iph" 11>
+-- Arm Bar --
+#
+Celes is practicing her submission techniques
+on me.
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA5875">
+"How's this?"
+#
+<name "Lazlocke">
+"I-It hurts, but it's not bad since I can feel
+ your thighs, stomach, and chest all against my
+ arm."
+#
+<removesprite -1 11>
+<sprite "ta01d06.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA1500">
+"Miss Celes, break it."
+#
+<name "Lazlocke">
+"I-I'm sorry."
+#
+<removesprite -1 11>
+<exit>
+:5E4C
+<music 10>
+<background "bg002a0.iph" 11>
+-- Arm Bar --
+#
+While we were in the middle of sex, Celes
+suddenly put me in an arm bar.
+#
+<name "Lazlocke">
+"What are you doing?"
+#
+<sprite "ta01a52.iph" 4 4 11>
+<name "Celes" "!AA5877">
+"Ahaha... Just teasing."
+#
+<name "Lazlocke">
+"If you're teasing, then let me go."
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA5878">
+"Aah!♪"
+#
+<removesprite -1 11>
+<exit>
+:5FA7
+<music 10>
+<background "bg004a0.iph" 11>
+-- Steadfast --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1090">
+"In addition to physical training, you also 
+ need to sharpen your concentration.
+ This is an exercise for concentration.
+ Concentration on it."
+#
+<removesprite -1 11>
+<sprite "ta01d20.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Celes" "!AA5879">
+"Yes, ma'am."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1091">
+"Your Grace, please leer at her."
+#
+<name "Lazlocke">
+"Leer?
+ Like... this?"
+#
+<sprite "ta01d10.iph" 2 5 12>
+<name "Celes" "!AA5880">
+"Eek!"
+#
+<sprite "ta04a25.iph" 6 4 12>
+<name "Soshiette" "!DA1092">
+"Miss Celes, don't let your concentration be
+ disrupted."
+#
+<sprite "ta01d42.iph" 2 5 12>
+<name "Celes" "!AA5881">
+"I-I'm sorry."
+#
+<removesprite -1 11>
+Why does me leering at her scare her so much?
+#
+<exit>
+:62B6
+<music 10>
+<background "bg004a0.iph" 11>
+-- Steadfast --
+#
+<name "Lazlocke">
+"When you concentrate... hard.
+ When you don't concentrate... soft."
+#
+<sprite "ta01d97.iph" 4 4 11>
+<name "Celes" "!AA5882">
+"Master, please stop playing with my chest."
+#
+<removesprite -1 11>
+<exit>
+\x78

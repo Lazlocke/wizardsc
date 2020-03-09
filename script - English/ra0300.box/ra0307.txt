@@ -1,0 +1,30 @@
+<name "Elle" "!CA0936">
+"This is a good stage.
+ It's worthy of us."
+#
+<name "Celes" "!AA6639">
+"Hahaha...
+ Maybe a little loud for me."
+#
+<name "Elle" "!CA0937">
+"Not at all."
+#
+<name "Celes" "!AA6640">
+"I guess..."
+#
+<name "Elle" "!CA0938">
+"Yeah, if it wasn't this showy, it wouldn't be 
+ suitable for our fight."
+#
+<name "Celes" "!AA6641">
+"Okay."
+#
+<name "Elle" "!CA0939">
+"Well, we shouldn't keep the audience waiting.
+ Shall we?"
+#
+<name "Celes" "!AA6642">
+"...Yeah.
+ Let's go."
+#
+\x78\x78

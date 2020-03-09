@@ -66,36 +66,36 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta07a10.iph" 4 4 11>
-<name "ジャッジマン" "!FA0011">
+<name "Judgeman" "!FA0011">
 「最強の魔法使いは誰だ！」
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0012">
+<name "Judgeman" "!FA0012">
 「最強の魔法使いは誰だ！」
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0013">
+<name "Judgeman" "!FA0013">
 「最強の魔法使いは誰だ！」
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0014">
+<name "Judgeman" "!FA0014">
 「魔法さえ使えれば、誰だって参加ＯＫ！」
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0015">
+<name "Judgeman" "!FA0015">
 「いや、魔法を使えなくても参加ＯＫ！」
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0016">
+<name "Judgeman" "!FA0016">
 「誰でもウェルカムのオープンな大会！」
 #
 <sprite "ta07a06.iph" 4 4 12>
-<name "ジャッジマン" "!FA0017">
+<name "Judgeman" "!FA0017">
 「そして、予選を乗り越え今年も集まったか、勇敢
 　なる戦士……いや、魔法使い達よ！」
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0018">
+<name "Judgeman" "!FA0018">
 「クデュール魔法大会、本選だっ！」
 #
 <removesprite -1 11>

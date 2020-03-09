@@ -1,0 +1,963 @@
+\x1A\x01\x07\x04\x06\x91\x84\x00\x01\x0E :47: \xDB "ñÇñ@íméØ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :707: \x0A\x04\x06\x91\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:47
+\x1A\x01\x07\x04\x06\x92\x84\x00\x01\x0E :A9: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :A9: \xDB "ñÇñ@íméØ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :A9: \x16 :8B1: \x0A\x04\x06\x92\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:A9
+\x1A\x01\x07\x04\x06\x93\x84\x00\x01\x0E :10B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :10B: \xDB "ñÇóÕâÒïú" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :10B: \x16 :9FD: \x0A\x04\x06\x93\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:10B
+\x1A\x01\x07\x04\x06\x94\x84\x00\x01\x0E :152: \xDB "ñÇóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :152: \x16 :BCE: \x0A\x04\x06\x94\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:152
+\x1A\x01\x07\x04\x06\x95\x84\x00\x01\x0E :199: \xDB "ñÇóÕëùâ¡" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :199: \x16 :F13: \x0A\x04\x06\x95\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:199
+\x1A\x01\x07\x04\x06\x96\x84\x00\x01\x0E :1E0: \xDB "ârè•ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1E0: \x16 :1155: \x0A\x04\x06\x96\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:1E0
+\x1A\x01\x07\x04\x06\x97\x84\x00\x01\x0E :227: \xDB "ârè•ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :227: \x16 :14C2: \x0A\x04\x06\x97\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:227
+\x1A\x01\x07\x04\x06\x98\x84\x00\x01\x0E :26E: \xDB "ârè•ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :26E: \x16 :16FF: \x0A\x04\x06\x98\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:26E
+\x1A\x01\x07\x04\x06\x99\x84\x00\x01\x0E :2B5: \xDB "ârè•ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :2B5: \x16 :1843: \x0A\x04\x06\x99\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:2B5
+\x1A\x01\x07\x04\x06\x9A\x84\x00\x01\x0E :2FC: \xDB "ârè•ë¨ìx" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :2FC: \x16 :19A8: \x0A\x04\x06\x9A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:2FC
+\x1A\x01\x07\x04\x06\x9B\x84\x00\x01\x0E :343: \xDB "ìØånÇÃêS" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :343: \x16 :2230: \x0A\x04\x06\x9B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:343
+\x1A\x01\x07\x04\x06\x9C\x84\x00\x01\x0E :38A: \xDB "ìØånÇÃêS" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :38A: \x16 :24DC: \x0A\x04\x06\x9C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:38A
+\x1A\x01\x07\x04\x06\x9D\x84\x00\x01\x0E :3D5: \xDB "àŸånÇÃåÇÌÇË" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3D5: \x16 :260A: \x0A\x04\x06\x9D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:3D5
+\x1A\x01\x07\x04\x06\x9E\x84\x00\x01\x0E :420: \xDB "àŸånÇÃåÇÌÇË" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :420: \x16 :293A: \x0A\x04\x06\x9E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:420
+\x1A\x01\x07\x04\x06\x9F\x84\x00\x01\x0E :467: \xDB "ñÇñ@ñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :467: \x16 :2A77: \x0A\x04\x06\x9F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:467
+\x1A\x01\x07\x04\x06\xA0\x84\x00\x01\x0E :4AE: \xDB "ñÇñ@ñhå‰" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4AE: \x16 :2D7D: \x0A\x04\x06\xA0\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:4AE
+\x1A\x01\x07\x04\x06\xA1\x84\x00\x01\x0E :4F9: \xDB "ëÆê´ñhå‰Å^âŒ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :4F9: \x16 :31A7: \x0A\x04\x06\xA1\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:4F9
+\x1A\x01\x07\x04\x06\xA2\x84\x00\x01\x0E :544: \xDB "ëÆê´ñhå‰Å^âŒ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :544: \x16 :3388: \x0A\x04\x06\xA2\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:544
+\x1A\x01\x07\x04\x06\xA3\x84\x00\x01\x0E :58F: \xDB "ëÆê´ñhå‰Å^êÖ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :58F: \x16 :3768: \x0A\x04\x06\xA3\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:58F
+\x1A\x01\x07\x04\x06\xA4\x84\x00\x01\x0E :5DA: \xDB "ëÆê´ñhå‰Å^ïó" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5DA: \x16 :38BB: \x0A\x04\x06\xA4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:5DA
+\x1A\x01\x07\x04\x06\xA5\x84\x00\x01\x0E :625: \xDB "ëÆê´ñhå‰Å^ìy" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :625: \x16 :3A13: \x0A\x04\x06\xA5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:625
+\x1A\x01\x07\x04\x06\xA6\x84\x00\x01\x0E :670: \xDB "ëÆê´ñhå‰Å^óã" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :670: \x16 :3B7A: \x0A\x04\x06\xA6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:670
+\x1A\x01\x07\x04\x06\xA7\x84\x00\x01\x0E :6BB: \xDB "ëÆê´ñhå‰Å^à≈" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :6BB: \x16 :3D66: \x0A\x04\x06\xA7\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:6BB
+\x1A\x01\x07\x04\x06\xA8\x84\x00\x01\x0E :706: \xDB "ëÆê´ñhå‰Å^åı" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :706: \x16 :409C: \x0A\x04\x06\xA8\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+:706
+\x78
+:707
+<music 10>
+<background "bg002a0.iph" 11>
+-- Magic Theory --
+#
+<sprite "ta01b20.iph" 4 4 11>
+<name "Celes" "!AA6049">
+"If I know more about magic, I'll have the 
+ advantage in fights."
+#
+<name "Lazlocke">
+"That's right, so work hard to learn it all."
+#
+<sprite "ta01b27.iph" 4 4 12>
+<name "Celes" "!AA6050">
+"Yes, sir.
+ But... there's so much."
+#
+<name "Lazlocke">
+"Get fired up!"
+#
+<sprite "ta01b20.iph" 4 4 12>
+<name "Celes" "!AA6051">
+"I'll do my best!"
+#
+<removesprite -1 11>
+<exit>
+:8B1
+<music 10>
+<background "bg002a0.iph" 11>
+-- Magic Theory --
+#
+<sprite "ta01b27.iph" 4 4 11>
+<name "Celes" "!AA6052">
+"Magic theory...
+ Magic theory..."
+#
+<sprite "ta01b70.iph" 4 4 12>
+<name "Celes" "!AA6053">
+"Hmm... There's so much written about sex
+ though..."
+#
+<sprite "ta01b42.iph" 4 4 12>
+<name "Celes" "!AA6054">
+"Oh, oh no.
+ Now I'm daydreaming."
+#
+<removesprite -1 11>
+<exit>
+:9FD
+<music 10>
+<background "bg002a0.iph" 11>
+-- Mana Recovery --
+#
+<sprite "ta01b32.iph" 4 4 11>
+<name "Celes" "!AA6059">
+"Mana recovery...
+ Hmm... This is hard."
+#
+<sprite "ta01b27.iph" 4 4 12>
+<name "Celes" "!AA6056">
+"If I'm with you, it happens right away though."
+#
+<name "Lazlocke">
+"That's not an option in the middle of a fight."
+#
+<sprite "ta01b32.iph" 4 4 12>
+<name "Celes" "!AA6057">
+"I guess not..."
+#
+<name "Lazlocke">
+"Work hard."
+#
+<sprite "ta01b31.iph" 4 4 12>
+<name "Celes" "!AA6058">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:BCE
+<music 26>
+<background "bg004a0.iph" 11>
+-- Mana Capacity --
+#
+<name "Lazlocke">
+"Picture a sphere inside your stomach.
+ Manipulate your mana and rotate that sphere."
+#
+<sprite "ta01a23.iph" 4 4 11>
+<name "Celes" "!AA6060">
+"Nnh..."
+#
+<name "Lazlocke">
+"That's it.
+ Keep the speed steady."
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6061">
+"Nnnnnnh..."
+#
+<name "Lazlocke">
+"The speed's messed up.
+ So is the rotation.
+ Take in mana as you rotate it.
+ Keep a constant rhythm."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6062">
+"Nnnnh...ah...
+ Ahhh...ahhh...ahhh..."
+#
+<name "Lazlocke">
+"Hey, no slacking off.
+ That's not going to help."
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6063">
+"I-I'm sorry."
+#
+<name "Lazlocke">
+"This training is to help you increase how much
+ mana you have without my help.
+ You need to work hard."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6064">
+"Y-Yes, sir!
+ I can do it!"
+#
+<removesprite -1 11>
+<exit>
+:F13
+<music 10>
+<background "bg004a0.iph" 11>
+-- Mana Capacity --
+#
+<name "Lazlocke">
+"Training to increase her mana, huh?"
+#
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA1154">
+"Wouldn't spending just one night with you be
+ much faster?"
+#
+<name "Lazlocke">
+"Then she'll never learn to do it on her own."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1155">
+"Seems like that's a future concern."
+#
+<name "Lazlocke">
+"Maybe."
+#
+<removesprite -1 11>
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA6065">
+"Ugh... It didn't work."
+#
+<removesprite -1 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA1156">
+"A far off future concern."
+#
+<name "Lazlocke">
+"Don't say that."
+#
+<removesprite -1 11>
+<exit>
+:1155
+<music 10>
+<background "bg002a0.iph" 11>
+-- Chanting Speed --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6066">
+"Master, what can I do to improve my spell 
+ casting speed?"
+#
+<name "Lazlocke">
+"Improve your understanding of magic!"
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6067">
+"My understanding?"
+#
+<name "Lazlocke">
+"That's right. 
+ Once you know what's important, you can ignore
+ what you don't need."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6068">
+"If there's stuff I don't need, shouldn't I be
+ learning only the important parts of the spell
+ in the first place?"
+#
+<name "Lazlocke">
+"They're necessary for beginners, but once you
+ master the spell, you won't need them.
+ The deeper your understanding of magic, the
+ faster you'll be able to cast spells."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6069">
+"I see."
+#
+<name "Lazlocke">
+"Once you can cast them quickly, the next step
+ is to create your own unique version of each
+ spell."
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6070">
+"I-I'll work on my speed for now."
+#
+<removesprite -1 11>
+<exit>
+:14C2
+<music 10>
+<background "bg002a0.iph" 11>
+-- Casting Speed --
+#
+<name "Lazlocke">
+"To speed up your casting speed, you need vocal
+ practice!"
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA6071">
+"Yes, sir!"
+#
+<name "Lazlocke">
+"Now repeat after me!"
+#
+<sprite "ta01a21.iph" 4 4 12>
+<name "Celes" "!AA6072">
+"Yes, sir!"
+#
+<name "Lazlocke">
+"She sells seashells by the sea shore!"
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA6073">
+"She shells sea sells by the she sore?"
+#
+<name "Lazlocke">
+"Again!"
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6074">
+"Sea sells she sells by the sea store!"
+#
+<removesprite -1 11>
+<exit>
+:16FF
+<music 10>
+<background "bg002a0.iph" 11>
+-- Casting Speed --
+#
+<name "Lazlocke">
+"Your training to increase casting speed begins
+ now!"
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA6078">
+"Yes, sir!"
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6108">
+"Silly Sally swiftly shooed seven silly shpbt...
+ Nnh! I bit my tongue..."
+#
+<removesprite -1 11>
+<exit>
+:1843
+<music 10>
+<background "bg002a0.iph" 11>
+-- Casting Speed --
+#
+Celes is practicing casting speels in quick
+succession.
+#
+She's gotten pretty fast.
+#
+<name "Lazlocke">
+"Looking good."
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA6079">
+"No, I have to get a little faster."
+#
+<name "Lazlocke">
+"Good luck."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6080">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:19A8
+<music 10>
+<background "bg004a0.iph" 11>
+-- Casting Speed --
+#
+<name "Lazlocke">
+"Let me teach you the importance of casting
+ speed."
+#
+<sprite "ta01a20.iph" 4 4 11>
+<name "Celes" "!AA6081">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"Soshiette, could you be my opponent?"
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA1157">
+"Very well."
+#
+<name "Lazlocke">
+"We'll both put an apple on our heads and knock
+ the other's off with magic.
+ Celes, give the signal to start."
+#
+<removesprite -1 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6082">
+"Y-Yes, sir.
+ Um, I'll toss a coin.
+ Start when it hits the ground."
+#
+<removesprite -1 11>
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1158">
+"Understood."
+#
+<name "Lazlocke">
+"Okay."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA6083">
+"Then... yah!"
+#
+<removesprite -1 11>
+The moment she lets go of the coin, Soshiette
+rushes towards me, aiming for the apple.
+#
+Just before she crushes the apple on my head,
+the one on hers is fried by a fire bolt.
+#
+<sprite "ta04a15.iph" 4 4 11>
+<name "Soshiette" "!DA1159">
+"Ngh!"
+#
+<name "Lazlocke">
+"Hahaha!
+ How's that?
+ See how important casting speed is?"
+#
+<name "Lazlocke">
+"If the apples represented our lives, that means
+ I was a moment from death." 
+#
+<removesprite -1 11>
+<sprite "ta01a32.iph" 2 5 11>
+<sprite "ta04a15.iph" 6 4 11>
+<name "Celes" "!AA6084">
+"Um, you didn't wait for the coin to fall...
+ And she didn't cast a spell..."
+#
+<name "Lazlocke">
+"I knew she wouldn't follow the rules."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1160">
+"Victory goes to those who strike first."
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA6085">
+"Um..."
+#
+<name "Lazlocke">
+"Anyway, another win for knowledge!
+ Yes!"
+#
+<sprite "ta04a16.iph" 6 4 12>
+<name "Soshiette" "!DA1161">
+"Your Grace, I want a rematch."
+#
+<name "Lazlocke">
+"There are no second chances in combat.
+ Celes, get practicing."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA6086">
+"Y-Yes, sir."
+#
+<removesprite 2 11>
+<removesprite -1 11>
+<sprite "ta04a19.iph" 4 4 11>
+<name "Soshiette" "!DA1162">
+"Your Grace, a rematch."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"Farewell!"
+#
+<sprite "ta04a20.iph" 4 4 11>
+<name "Soshiette" "!DA1163">
+"Quitting while you're ahead?"
+#
+<removesprite -1 11>
+She spent the rest of the day pestering me for
+another try.
+#
+<exit>
+:2230
+<music 10>
+<background "bg002a0.iph" 11>
+-- Synergy --
+#
+<name "Lazlocke">
+"There are some tricks you can learn when you're
+ casting multiple spells of the same school."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6087">
+"Tricks?"
+#
+<name "Lazlocke">
+"Like fire magic, for example...
+ Look. This and this are similar, right?"
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6088">
+"You're right."
+#
+<name "Lazlocke">
+"Once you can cast this one well, you'll be able
+ to go straight into this one."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6089">
+"Ah, I get it."
+#
+<name "Lazlocke">
+"There's all kinds of other things too.
+ I can teach you all of them, but you'll learn
+ them better if you find them yourself.
+ Work hard."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6090">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<exit>
+:24DC
+<music 10>
+<background "bg002a0.iph" 11>
+-- Synergy --
+#
+<name "Lazlocke">
+"Specializing in a single element is fine, but
+ don't neglect other ones."
+#
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA6091">
+"Yes, sir. 
+ It's because if I only know one element, I'll
+ be at a disadvantage against an opponent strong
+ against that element, right?"
+#
+<name "Lazlocke">
+"That's right."
+#
+<removesprite -1 11>
+<exit>
+:260A
+<music 10>
+<background "bg002a0.iph" 11>
+-- Symbiosis --
+#
+<sprite "ta01b06.iph" 4 4 11>
+<name "Celes" "!AA6092">
+"Huh?
+ This spell and this spell...
+ They're in different elements, but these parts
+ look the same."
+#
+<sprite "ta01b09.iph" 4 4 12>
+<name "Celes" "!AA6093">
+"If I use this right...
+ Ooh! I can cast this one right after!"
+#
+<name "Lazlocke">
+"More accurately, what you're doing is
+ decreasing the loss in speed when casting
+ successive spells."
+#
+<sprite "ta01b07.iph" 4 4 12>
+<name "Celes" "!AA6094">
+"Master?"
+#
+<name "Lazlocke">
+"Even in different elements, there may be
+ similarities which you can use to decrease the
+ loss in speed when changing spells."
+#
+<name "Lazlocke">
+"That's one of the tricks."
+#
+<sprite "ta01b08.iph" 4 4 12>
+<name "Celes" "!AA6097">
+"If you know them, can't you just teach me?"
+#
+<name "Lazlocke">
+"You won't really learn if I just tell you.
+ Find them on your own."
+#
+<sprite "ta01b31.iph" 4 4 12>
+<name "Celes" "!AA6098">
+"Grr..."
+#
+<removesprite -1 11>
+<exit>
+:293A
+<music 10>
+<background "bg002a0.iph" 11>
+-- Symbiosis --
+#
+<name "Lazlocke">
+"Looks like you're studying multiple elements.
+ Just be careful you don't dabble in everything
+ without mastering anything."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6099">
+"Yes, sir.
+ Even if I can use multiple elements, if I'm
+ weak in each one, there's no point.
+ I'll be careful."
+#
+<removesprite -1 11>
+<exit>
+:2A77
+<music 10>
+<background "bg002a0.iph" 11>
+-- Magic Defense --
+#
+<name "Lazlocke">
+"Surround yourself with mana to blunt the
+ effects of magic."
+#
+<name "Lazlocke">
+"That's putting it simply, but it's what you
+ should aim for."
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6100">
+"Suround myself with mana?"
+#
+<name "Lazlocke">
+"Well, once you're used to it, you can
+ concentrate more on places that you'll actually
+ get hurt."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6101">
+"I-It's hard."
+#
+<name "Lazlocke">
+"But it'll give you a big leg up when fighting
+ other wizards."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6102">
+"Then it's definitely something I should learn,
+ isn't it?"
+#
+<name "Lazlocke">
+"If you aim to beat them before they can get a
+ spell off, then you won't need to learn how to
+ protect yourself."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6103">
+"Hahaha...
+ I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:2D7D
+<music 10>
+<background "bg004a0.iph" 11>
+-- Magic Defense --
+#
+<name "Lazlocke">
+"Use magic to charge the mana around you."
+#
+<name "Lazlocke">
+"Magical defense is the art of suppressing
+ changes in mana around yourself."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6104">
+"If the mana is suppressed, then the power of
+ the spell decreases. 
+ Right?"
+#
+<name "Lazlocke">
+"That's right, but you need to be able to
+ quickly figure out where they're going to 
+ activate the mana so you can suppress it before
+ they do. That can be very hard."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6105">
+"You say very hard...
+ But it's more like impossible."
+#
+<name "Lazlocke">
+"Indeed. That's why you should surround your 
+ body with mana and concentrate just on that."
+#
+<name "Lazlocke">
+"When a spell is cast, it'll draw from the 
+ nearby mana, but the mana around you will
+ be resistant and lower the strength. 
+ Do you understand?"
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6106">
+"I think so..."
+#
+<name "Lazlocke">
+"Well, you can figure it all out later.
+ For now, you know the why, so let's put it into
+ practice."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6107">
+"Okay.
+ I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:31A7
+<music 10>
+<background "bg004a0.iph" 11>
+-- Fire Proof --
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA6109">
+"I've increased my resistance to fire magic."
+#
+<name "Lazlocke">
+"Okay, let's try it out.
+ Hm, how about this level of heat?"
+#
+<sprite "ta01a10.iph" 4 4 12>
+<name "Celes" "!AA6110">
+"...Huh?"
+#
+<name "Lazlocke">
+"What's the matter?"
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6111">
+"Oh, um, I mean, well...
+ A little weaker... please."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+<exit>
+:3388
+<music 10>
+<background "bg004a0.iph" 11>
+-- Fire Proof --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6112">
+"Clear your mind, and even fire will be cool."
+#
+<name "Lazlocke">
+"A proverb from the East, right?"
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6113">
+"Yeah. I think it's a good saying for resisting
+ fire magic."
+#
+<name "Lazlocke">
+"You mean... If you can endure it, you're okay
+ being set on fire?"
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6114">
+"Yeah."
+#
+<name "Lazlocke">
+"I don't think that's what it means."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6115">
+"Huh?
+ It's not?"
+#
+<name "Lazlocke">
+"The proverb means that with a clear head, you
+ can overcome any difficulty.
+ It's not meant to be taken literally."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6116">
+"..."
+#
+<name "Lazlocke">
+"Think of it when you're facing a challenge."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6117">
+"........."
+#
+<name "Lazlocke">
+"A challenge like right now."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6118">
+"C-Clear your mind, and even fire will be cool."
+#
+<removesprite -1 11>
+<exit>
+:3768
+<music 10>
+<background "bg004a0.iph" 11>
+-- Water Proof --
+#
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA6119">
+"Water defense...
+ Basically, you should wear clothes that you're
+ okay to get wet in."
+#
+<name "Lazlocke">
+"All right.
+ Then let's have you practice in your bathing
+ suit."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6120">
+"I'm sorry. 
+ I was just joking around."
+#
+<removesprite -1 11>
+<exit>
+:38BB
+<music 10>
+<background "bg004a0.iph" 11>
+-- Wind Proof --
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6121">
+"To protect yourself against magical wind
+ attacks..."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA6122">
+"Lean forward so you don't get pushed by the
+ wind?
+ Like this?"
+#
+<name "Lazlocke">
+"Surround yourself with wind, to decrease the 
+ strength instead."
+#
+<removesprite -1 11>
+<exit>
+:3A13
+<music 10>
+<background "bg004a0.iph" 11>
+-- Earth Proof --
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6123">
+"To protect yourself from magical earth
+ attacks..."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6124">
+"Like timing it right and jumping?"
+#
+<name "Lazlocke">
+"Okay. Let's see you try that."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA6125">
+"Please no."
+#
+<removesprite -1 11>
+<exit>
+:3B7A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Lightning Proof --
+#
+<name "Lazlocke">
+"There's a trick to protecting yourself from
+ lightning magic.
+ It's like redirecting it."
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6126">
+"Redirecting it?"
+#
+<name "Lazlocke">
+"Mmhmm.
+ Lightning is surprisingly easy to control."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6127">
+"But strong lightning magic..."
+#
+<name "Lazlocke">
+"Of course, that's harder to redirect.
+ That's what practice is for."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6128">
+"I-I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:3D66
+<music 10>
+<background "bg004a0.iph" 11>
+-- Dark Proof --
+#
+<name "Lazlocke">
+"Protecting against dark attacks is easy.
+ It's to be bright."
+#
+<sprite "ta01a32.iph" 4 4 11>
+<name "Celes" "!AA6129">
+"Um... like light magic?"
+#
+<name "Lazlocke">
+"No. There's no need for light magic.
+ Dark magic amplifies the darkness in the
+ target's heart."
+#
+<name "Lazlocke">
+"To reduce the darkness inside you that it works
+ on, be bright."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6130">
+"Does that mean that dark magic won't work on
+ someone who's super cheerful?"
+#
+<name "Lazlocke">
+"There's darkness in everybody, so it's not 
+ possible to totally block dark magic."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6131">
+"Hmm..."
+#
+<name "Lazlocke">
+"But you can reduce its effect.
+ With effort."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6132">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:409C
+<music 10>
+<background "bg004a0.iph" 11>
+-- Light Proof --
+#
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA6133">
+"Protecting yourself against light magic is
+ easy, right?"
+#
+<name "Lazlocke">
+"Is it?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6134">
+"Yes. With the right timing, you just need to
+ close your eyes."
+#
+<name "Lazlocke">
+".........You've discovered the secret.
+ There's nothing left to teach you."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6135">
+"I'm sorry.
+ I was just kidding.
+ Please teach me the real way."
+#
+<removesprite -1 11>
+<exit>
+\x78

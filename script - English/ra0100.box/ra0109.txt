@@ -1,0 +1,30 @@
+\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :60: \xBE\x00
+<name "Celes" "!AA3797">
+"Poison!
+ Oh no!"
+#
+\x99 -50  -50 \x15 :172: 
+:60
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :BC: \xBE\x00
+<name "Celes" "!AA3798">
+"Ewww...
+ I know this feeling.
+ It's poison!"
+#
+\x99 -50  -50 \x15 :172: 
+:BC
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :115: \xBE\x00
+<name "Celes" "!AA3799">
+"I-I'm feeling numb...
+ I must've been poisoned."
+#
+\x99 -50  -50 \x15 :172: 
+:115
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :172: \xBE\x00
+<name "Celes" "!AA3800">
+"Huh? Poison?
+ O-Oh no."
+#
+\x99 -50  -50 \x15 :172: 
+:172
+\x78\x78

@@ -1,0 +1,605 @@
+\x1A\x01\x07\x04\x06\xEB\x84\x00\x01\x0E :45: \xDB "à≈ÇÃëÑ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :45: \x16 :659: \x0A\x04\x06\xEB\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:45
+\x1A\x01\x07\x04\x06\xEC\x84\x00\x01\x0E :8A: \xDB "à≈ÇÃëÑ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :8A: \x16 :85B: \x0A\x04\x06\xEC\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:8A
+\x1A\x01\x07\x04\x06\xED\x84\x00\x01\x0E :CF: \xDB "à√çïãÖ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :CF: \x16 :A3F: \x0A\x04\x06\xED\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:CF
+\x1A\x01\x07\x04\x06\xEE\x84\x00\x01\x0E :112: \xDB "éΩçï" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :112: \x16 :CAD: \x0A\x04\x06\xEE\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:112
+\x1A\x01\x07\x04\x06\xEF\x84\x00\x01\x0E :155: \xDB "ãzñÇ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :155: \x16 :DE2: \x0A\x04\x06\xEF\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:155
+\x1A\x01\x07\x04\x06\xF0\x84\x00\x01\x0E :1A2: \xDB "ê‚ñ]Ç…êkÇ¶ÇÈà≈" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1A2: \x16 :FD5: \x0A\x04\x06\xF0\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:1A2
+\x1A\x01\x07\x04\x06\xF1\x84\x00\x01\x0E :1F1: \xDB "ê¢äEÇà˘Ç›çûÇﬁà≈" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1F1: \x16 :1161: \x0A\x04\x06\xF1\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:1F1
+\x1A\x01\x07\x04\x06\xF2\x84\x00\x01\x0E :23E: \xDB "à≈ÇÊÇËÇ‡à√Ç´à≈" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :23E: \x16 :137B: \x0A\x04\x06\xF2\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:23E
+\x1A\x01\x07\x04\x06\xF3\x84\x00\x01\x0E :289: \xDB "à√çïó≥ÇÃôÙöK" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :289: \x16 :145B: \x0A\x04\x06\xF3\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:289
+\x1A\x01\x07\x04\x06\xF4\x84\x00\x01\x0E :2CE: \xDB "à≈ÇÃèÇ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2CE: \x16 :1547: \x0A\x04\x06\xF4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:2CE
+\x1A\x01\x07\x04\x06\xF5\x84\x00\x01\x0E :32E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :32E: \xDB "à≈ÇÃñ∂" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :32E: \x16 :161B: \x0A\x04\x06\xF5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:32E
+\x1A\x01\x07\x04\x06\xF6\x84\x00\x01\x0E :375: \xDB "ñÇï®è¢ä´" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :375: \x16 :1722: \x0A\x04\x06\xF6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:375
+\x1A\x01\x07\x04\x06\xF7\x84\x00\x01\x0E :3BA: \xDB "åıÇÃëÑ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :3BA: \x16 :183A: \x0A\x04\x06\xF7\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:3BA
+\x1A\x01\x07\x04\x06\xF8\x84\x00\x01\x0E :41A: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :41A: \xDB "åıÇÃëÑ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :41A: \x16 :197B: \x0A\x04\x06\xF8\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:41A
+\x1A\x01\x07\x04\x06\xF9\x84\x00\x01\x0E :467: \xDB "ä—Ç≠èüóòÇÃåıëÑ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :467: \x16 :1AE0: \x0A\x04\x06\xF9\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:467
+\x1A\x01\x07\x04\x06\xFA\x84\x00\x01\x0E :4AE: \xDB "ñûÇΩÇ∑åı" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :4AE: \x16 :1C86: \x0A\x04\x06\xFA\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:4AE
+\x1A\x01\x07\x04\x06\xFB\x84\x00\x01\x0E :507: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :507: \xDB "ñûÇΩÇ∑åı" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :507: \x16 :201D: \x0A\x04\x06\xFB\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:507
+\x1A\x01\x07\x04\x06\xFC\x84\x00\x01\x0E :54A: \xDB "å∂òf" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :54A: \x16 :20D5: \x0A\x04\x06\xFC\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:54A
+\x1A\x01\x07\x04\x06\xFD\x84\x00\x01\x0E :58D: \xDB "ï™êg" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :58D: \x16 :22D8: \x0A\x04\x06\xFD\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:58D
+\x1A\x01\x07\x04\x06\xFE\x84\x00\x01\x0E :5D0: \xDB "çSë©" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5D0: \x16 :23B3: \x0A\x04\x06\xFE\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:5D0
+\x1A\x01\x07\x04\x06\xFF\x84\x00\x01\x0E :613: \xDB "êπåı" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :613: \x16 :25A0: \x0A\x04\x06\xFF\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:613
+\x1A\x01\x07\x04\x07\x00\x84\x00\x01\x0E :658: \xDB "åıÇÃèÇ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :658: \x16 :2704: \x0A\x04\x07\x00\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+:658
+\x78
+:659
+<music 10>
+<background "bg004a0.iph" 11>
+-- Dark Spear --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6270">
+"It kind of feels easy to throw."
+#
+<name "Lazlocke">
+"Dark spear turns your desire to defeat your
+ enemy into power."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6271">
+"So it's like throwing your hatred at them?"
+#
+<name "Lazlocke">
+"That's right, but that's only half of it."
+#
+<name "Lazlocke">
+"When you cast this spell, you have to channel
+ in hatred, no matter who you're fighting
+ against."
+#
+<sprite "ta01a20.iph" 4 4 12>
+<name "Celes" "!AA6272">
+"I-I'll try."
+#
+<removesprite -1 11>
+<exit>
+:85B
+<music 10>
+<background "bg004a0.iph" 11>
+-- Dark Spear --
+#
+<sprite "ta01a37.iph" 4 4 11>
+<name "Celes" "!AA6273">
+"A spear made of darkness...
+ Hmmm, it feels so sinister."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6274">
+"But this sinisterness...
+ Where have I felt it before?"
+#
+<removesprite -1 11>
+<sprite "ta01a27.iph" 2 5 11>
+<sprite "ta04a22.iph" 6 4 11>
+<name "Soshiette" "!DA1182">
+"It's often in the kitchen.
+ The black bits that appear, for example."
+#
+<sprite "ta01a09.iph" 2 5 12>
+<name "Celes" "!AA6275">
+"That's it!"
+#
+<name "Lazlocke">
+"No it's not!"
+#
+<removesprite -1 11>
+<exit>
+:A3F
+<music 10>
+<background "bg004a0.iph" 11>
+-- Dark Sphere --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6276">
+"Finishing move!
+ Dark sphere!"
+#
+<name "Lazlocke">
+"Well, it's certainly a dark sphere.
+ I think you can come up with a better line
+ though."
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA6277">
+"Black ball!"
+#
+<name "Lazlocke">
+"...Dark sphere will be fine."
+#
+\x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :C9F: 
+<removesprite -1 11>
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0861">
+"U-Um...
+ What about darkness ball?"
+#
+<name "Lazlocke">
+"...You're a good girl."
+#
+<removesprite -1 11>
+I pull her into my arms.
+#
+<sprite "ta01a26.iph" 4 4 11>
+<name "Celes" "!AA6278">
+"Hey!
+ No making out!"
+#
+:C9F
+<removesprite -1 11>
+<exit>
+:CAD
+<music 10>
+<background "bg002a0.iph" 11>
+-- Pitch Black --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6279">
+"Pitch black...
+ I think it'd be useful at night when it's hard
+ to sleep."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+I used to think that you shouldn't use magic
+like that, but since my own master has done just
+that, I'm not sure what to say.
+#
+<exit>
+:DE2
+<music 10>
+<background "bg002a0.iph" 11>
+-- Drain Essence --
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA6280">
+"This is a move for stealing your opponent's
+ mana?"
+#
+<name "Lazlocke">
+"That's right."
+#
+<sprite "ta01a09.iph" 4 4 12>
+<name "Celes" "!AA6281">
+"For an image, kind of like sucking it up?"
+#
+<name "Lazlocke">
+"It's like sucking."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA6282">
+"*suck*"
+#
+<name "Lazlocke">
+"...Sexy."
+#
+<sprite "ta01a59.iph" 4 4 12>
+<name "Celes" "!AA6283">
+"Y-You're the one who made me do it!"
+#
+<removesprite -1 11>
+<exit>
+:FD5
+<music 10>
+<background "bg002a0.iph" 11>
+-- Dark Despair --
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA6284">
+"What should dark despair feel like?"
+#
+<name "Lazlocke">
+"Think about it like being buried in a mountain
+ of carrots, unable to see any way out."
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA6285">
+"That would certainly make me despair.
+ I'd probably go crazy."
+#
+<removesprite -1 11>
+She really hates carrots.
+#
+<exit>
+:1161
+<music 10>
+<background "bg002a0.iph" 11>
+-- Dark Void --
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6286">
+"Dark void... 
+ What a scary sounding spell."
+#
+<name "Lazlocke">
+"It is, but if you don't control it right, it
+ really might create an all-consuming void.
+ That's why it has such a striking name."
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6287">
+"Eeeh!?
+ Oh... Y-You're joking."
+#
+<name "Lazlocke">
+"Be very careful with it."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6288">
+"Please say that was a joke.
+ I'm too scared to use it now!"
+#
+<removesprite -1 11>
+<exit>
+:137B
+<music 10>
+<background "bg002a0.iph" 11>
+-- Dark Darkness --
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6289">
+"Dark darkness...
+ Like, completely, totally black?"
+#
+<name "Lazlocke">
+"Don't look too deep into poetic naming."
+#
+<removesprite -1 11>
+<exit>
+:145B
+<music 10>
+<background "bg002a0.iph" 11>
+-- Dark Roar --
+#
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA6290">
+"The roar of a dark dragon?
+ That seems really bad for your ears."
+#
+<name "Lazlocke">
+"It's not about the sound.
+ It's the attack that a dark dragon emits when
+ it roars."
+#
+<removesprite -1 11>
+<exit>
+:1547
+<music 10>
+<background "bg002a0.iph" 11>
+-- Dark Shield --
+#
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA6291">
+"Dark shield...
+ It kinda looks yummy."
+#
+<name "Lazlocke">
+"Why on earth do you think that?"
+#
+<removesprite -1 11>
+<exit>
+:161B
+<music 10>
+<background "bg002a0.iph" 11>
+-- Dark Mist --
+#
+<name "Lazlocke">
+"Once you learn this, you can have sex anytime,
+ anywhere."
+#
+<sprite "ta01a97.iph" 4 4 11>
+<name "Celes" "!AA6292">
+"Can't you have sex anytime and anywhere even
+ without learning it?"
+#
+<removesprite -1 11>
+<exit>
+:1722
+<music 10>
+<background "bg002a0.iph" 11>
+-- Demon Call --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6293">
+"Demon call...
+ Yah!"
+#
+<name "Lazlocke">
+"Ooh! I'm getting hard!"
+#
+<sprite "ta01a58.iph" 4 4 12>
+<name "Celes" "!AA6294">
+"In a way, that's a demon, so I guess it
+ worked..."
+#
+<removesprite -1 11>
+<exit>
+:183A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Light Spear --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6295">
+"This is a light spear..."
+#
+<removesprite -1 11>
+Celes holds up a spear of light.
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6296">
+"It doesn't look like it'll hurt that much."
+#
+<name "Lazlocke">
+"But it will, so please don't throw it at me."
+#
+<removesprite -1 11>
+<exit>
+:197B
+<music 10>
+<background "bg004a0.iph" 11>
+-- Light Spear --
+#
+<name "Lazlocke">
+"If you stick that inside you, you'll glow from
+ inside. It's pretty cool looking."
+#
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA6297">
+"Um, but that's not how you're supposed to use
+ it."
+#
+<name "Lazlocke">
+"Let's try it next time."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6298">
+"...If you do, I will stab you."
+#
+<removesprite -1 11>
+<exit>
+:1AE0
+<music 10>
+<background "bg004a0.iph" 11>
+-- Glorious Spear --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6299">
+"Pierce!
+ Spear of glory!"
+#
+<name "Lazlocke">
+"Wrong!
+ It's supposed to be glorious spear!"
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6300">
+"Can't I rearrange it a little?"
+#
+<name "Lazlocke">
+"Maybe after you've mastered it.
+ Right now, get the basics down."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA6301">
+"Yes, siiiir."
+#
+<removesprite -1 11>
+<exit>
+:1C86
+<music 10>
+<background "bg004a0.iph" 11>
+-- Effusive Light --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6302">
+"Effusive light!"
+#
+<name "Lazlocke">
+"That's pretty blinding.
+ Try a little softer."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA6303">
+"Softer?"
+#
+<name "Lazlocke">
+"Yeah. Like the morning sun on a spring day."
+#
+<sprite "ta01a36.iph" 4 4 12>
+<name "Celes" "!AA6304">
+"I don't get it."
+#
+<name "Lazlocke">
+"...Soft as a woman's breast."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA6305">
+"I really don't get it."
+#
+<name "Lazlocke">
+"Here!
+ Like this!
+ Like your softness right here!"
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6306">
+"Huh?"
+#
+<name "Lazlocke">
+"Oops, sorry. That's the top of your arm, huh?
+ Hahaha...
+ But it's fine if it's as soft as that too."
+#
+<sprite "ta01a23.iph" 4 4 12>
+<name "Celes" "!AA6307">
+"Master, are you trying to make me kill you?"
+#
+<removesprite -1 11>
+<exit>
+:201D
+<music 10>
+<background "bg004a0.iph" 11>
+-- Effusive Light --
+#
+<sprite "ta01a22.iph" 4 4 11>
+<name "Celes" "!AA6308">
+"Effusive light!"
+#
+<name "Lazlocke">
+"Nice and warm.
+ It's handy on cold days."
+#
+<removesprite -1 11>
+<exit>
+:20D5
+<music 10>
+<background "bg004a0.iph" 11>
+-- Glamour --
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA6309">
+"Glamour... Glamour...
+ This is hard."
+#
+<name "Lazlocke">
+"The trick is to picture it as clearly as you
+ can."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA6310">
+"Clearly?"
+#
+<name "Lazlocke">
+"Like... this."
+#
+<removesprite -1 11>
+I create an illusion of a scantily-dressed
+Celes.
+#
+<sprite "ta01a80.iph" 4 4 11>
+<name "Celes" "!AA6311">
+"Eek! Eek!
+ Eeeeeeek!"
+#
+<removesprite -1 11>
+Maybe it was too accurate.
+I got hit.
+#
+<exit>
+:22D8
+<music 10>
+<background "bg004a0.iph" 11>
+-- Duplicate --
+#
+<sprite "ta01a22.iph" 4 4 11>
+<name "Celes" "!AA6312">
+"I can cast duplicate now."
+#
+<name "Lazlocke">
+"Now we can have a threesome even when there's
+ just two of us."
+#
+<removesprite -1 11>
+She hit me.
+#
+<exit>
+:23B3
+<music 10>
+<background "bg004a0.iph" 11>
+-- Bind --
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA6313">
+"Bind!"
+#
+<name "Lazlocke">
+"Sorry, but I can get out."
+#
+<sprite "ta01a27.iph" 4 4 12>
+<name "Celes" "!AA6314">
+"Oh, you're right.
+ Grrrr..."
+#
+<name "Lazlocke">
+"Binding requires knowledge on how to do it in
+ the first place.
+ Well, practice tieing people up and learn how
+ to do it right."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA6315">
+"Yes, sir.
+ Master, please be my subject."
+#
+<name "Lazlocke">
+"All right."
+#
+<removesprite -1 11>
+But it's way more fun to tie someone up than to
+be tied up.
+#
+<exit>
+:25A0
+<music 10>
+<background "bg004a0.iph" 11>
+-- Holy Light --
+#
+<name "Lazlocke">
+"You don't need to keep fussing with your hair.
+ There's no need to cut it."
+#
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA6316">
+"Eeeh!? Really?
+ I was sure I'd have to shave my head..."
+#
+<name "Lazlocke">
+"Sigh...
+ Who's telling you this nonsense?"
+#
+<removesprite -1 11>
+...I think I can already guess.
+#
+<exit>
+:2704
+<music 10>
+<background "bg002a0.iph" 11>
+-- Light Shield --
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA6317">
+"A light shield's kind of, just...
+ Doesn't it seem fragile?"
+#
+<name "Lazlocke">
+"Hmm. It does look like it'll let anything
+ through."
+#
+<removesprite -1 11>
+But it's pretty solid.
+#
+<exit>
+\x78

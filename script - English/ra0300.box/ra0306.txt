@@ -1,0 +1,49 @@
+\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :CF: 
+<name "Ingway" "!TA0099">
+"Hey, pretty lady.ÅÙ
+ Fancy meeting you here."
+#
+<name "Celes" "!AA6669">
+"Let's have a good fight."
+#
+<name "Ingway" "!TA0100">
+"Yes, let's do our best."
+#
+:CF
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :147: 
+<name "Celes" "!AA6670">
+"No holding back.
+ Here I come."
+#
+<name "Ingway" "!TA0101">
+"Come on.
+ Bring it on."
+#
+:147
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :282: 
+<name "Ingway" "!TA0102">
+"For all the forests...
+ Here goes."
+#
+<name "Celes" "!AA6671">
+"Okay."
+#
+<name "Ingway" "!TA0104">
+"Oh, hold on.
+ I just sounded cool, I want to remember this.
+ For all the forests, here goes.
+ Nice. That goes right in the Ingway book."
+#
+<name "Celes" "!AA6672">
+"...H-Here I come?"
+#
+:282
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :2F8: 
+<name "Ingway" "!TA0105">
+"For everyone cheering me on..."
+#
+<name "Celes" "!AA6673">
+"Here I come."
+#
+:2F8
+\x78\x78

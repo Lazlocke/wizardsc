@@ -1,0 +1,91 @@
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x15 :90: \x1A\x01\x0A\x02\x01\x02 3 \x01\x0E :90: \x1A\x01\x0A\x02\x01\x9A 4 \x01\x15 :66: \x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :4E: \x16 :3D9: 
+:4E
+\x0A\x04\x00\xF0\x84\x01\x0A\x04\x00\x81\x84\x00\x15 :BA: \x18 :90: 
+:66
+\x1A\x01\x0A\x02\x01\x05 3 \x01\x0E :7E: \x16 :520: 
+:7E
+\x0A\x04\x00\xF0\x84\x01\x0A\x04\x00\x81\x84\x00\x15 :BA: 
+:90
+\x1A\x01\x0A\x02\x01\x02 3 \x01\x15 :BA: \x16 :BB: \x0A\x04\x00\xF0\x84\x01\x0A\x04\x00\x81\x84\x00\x15 :BA: 
+:BA
+\x78
+:BB
+<music 10>
+<background "bg002b0.iph" 11>
+<sprite "ta01c15.iph" 4 4 11>
+<name "セリス" "!AA2737">
+「セリス、ただいま戻りました！
+　任務達成です！」
+#
+<removesprite -1 11>
+<sprite "ta01c15.iph" 2 5 11>
+<sprite "ta04a08.iph" 6 4 11>
+<name "ソシエット" "!DA0476">
+「素晴らしい。
+　流石です。
+　セリス様♪」
+#
+<sprite "ta01c36.iph" 2 5 12>
+<name "セリス" "!AA2738">
+「え、あ、あの……」
+#
+<removesprite -1 11>
+　俺がセリスを褒める前に、ソシエットがセリスを
+　抱き締めて褒め称えた。
+#
+<name "ラズロック">
+「おーい、俺の役目は？」
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "ソシエット" "!DA0477">
+「幽霊殲滅パーティーの料理でも作ってください」
+#
+<removesprite -1 11>
+<sprite "ta01c42.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "セリス" "!AA2739">
+「あはは……
+　その前に寝かせて貰えると嬉しいのですが……」
+#
+<removesprite -1 11>
+　パーティーは、二日ほど連続で続けられた。
+#
+<exit>
+:3D9
+<music 10>
+<background "bg002b0.iph" 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA2741">
+「ゆ、幽霊怖い……」
+#
+<removesprite -1 11>
+<sprite "ta04a22.iph" 4 4 11>
+<name "ソシエット" "!DA0478">
+「ご主人様、よろしくお願いします」
+#
+<name "ラズロック">
+「仕方が無い……」
+#
+<removesprite -1 11>
+　幽霊は、俺が退治しておいた。
+#
+　まったく、この程度に負けるとは……
+#
+<exit>
+:520
+<music 10>
+<background "bg002b0.iph" 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "ソシエット" "!DA0479">
+「ご主人様」
+#
+<name "ラズロック">
+「わかった」
+#
+<removesprite -1 11>
+　幽霊は、俺が退治しておいた。
+#
+　まったく、この程度に負けるとは……
+#
+<exit>
+\x78

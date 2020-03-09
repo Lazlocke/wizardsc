@@ -1,0 +1,1006 @@
+\x0A\x04\x01\x7C\x84\x00\x0A\x04\x01\x7A\x84\x01\x6E 1  "k604.box" \x1A\x01\x07\x04\x01\x7C\x84\x01\x01\x0E :31: \x15 :370: 
+:31
+\x1A\x01\x07\x04\x00\xD8\x84\x01\x01\x0E :6E: \x1A\x01\x0A\x02\x00\x0B 10000 \x01\x15 :6E: \x6E 1 \x00\x1A\x01\x07\x04\x01\x7C\x84\x01\x01\x0E :6E: \x15 :370: 
+:6E
+\x1A\x01\x07\x04\x08\xFC\x84\x00\x01\x0E :BF: \x1A\x01\x0A\x02\x01\x9A 1 \x01\x0E :BF: \x1A\x01\x07\x04\x00\xD8\x84\x00\x01\x0E :BF: \x1A\x01\x07\x04\x09\x72\x84\x00\x01\x0E :BF: \x16 :75F: \x0A\x04\x08\xFC\x84\x01\x15 :370: 
+:BF
+\x1A\x01\x07\x04\x08\xFD\x84\x00\x01\x0E :E0: \x16 :1217: \x0A\x04\x08\xFD\x84\x01\x15 :370: 
+:E0
+\x1A\x01\x07\x04\x09\x03\x84\x00\x01\x0E :113: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :113: \x16 :258C: \x0A\x04\x09\x03\x84\x01\x15 :370: 
+:113
+\x1A\x01\x07\x04\x09\x04\x84\x00\x01\x0E :160: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :160: \xA8 "‹|" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 1 \x01\x15 :160: \x16 :2846: \x0A\x04\x09\x04\x84\x01\x15 :370: 
+:160
+\x1A\x01\x07\x04\x09
+#
+\x84\x00\x01\x0E :193: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :193: \x16 :2C00: \x0A\x04\x09
+#
+\x84\x01\x15 :370: 
+:193
+\x1A\x01\x07\x04\x09\x06\x84\x00\x01\x0E :1C6: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :1C6: \x16 :2F52: \x0A\x04\x09\x06\x84\x01\x15 :370: 
+:1C6
+\x1A\x01\x07\x04\x09\x07\x84\x00\x01\x0E :1F9: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :1F9: \x16 :3513: \x0A\x04\x09\x07\x84\x01\x15 :370: 
+:1F9
+\x1A\x01\x07\x04\x09\x08\x84\x00\x01\x0E :22C: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :22C: \x16 :3894: \x0A\x04\x09\x08\x84\x01\x15 :370: 
+:22C
+\x1A\x01\x07\x04\x09\x09\x84\x00\x01\x0E :25F: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :25F: \x16 :3AA9: \x0A\x04\x09\x09\x84\x01\x15 :370: 
+:25F
+\x1A\x01\x07\x04\x09\x0A\x84\x00\x01\x0E :292: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :292: \x16 :3FBE: \x0A\x04\x09\x0A\x84\x01\x15 :370: 
+:292
+\xE9 6003 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :2BF: \x15 :364: 
+:2BF
+\x1A\x01\x07\x04\x08\xFE\x84\x00\x01\x0E :2E0: \x16 :15A3: \x0A\x04\x08\xFE\x84\x01\x15 :370: 
+:2E0
+\x1A\x01\x07\x04\x08\xFF\x84\x00\x01\x0E :301: \x16 :19AB: \x0A\x04\x08\xFF\x84\x01\x15 :370: 
+:301
+\x1A\x01\x07\x04\x09\x00\x84\x00\x01\x0E :322: \x16 :1BF8: \x0A\x04\x09\x00\x84\x01\x15 :370: 
+:322
+\x1A\x01\x07\x04\x09\x01\x84\x00\x01\x0E :343: \x16 :1FF5: \x0A\x04\x09\x01\x84\x01\x15 :370: 
+:343
+\x1A\x01\x07\x04\x09\x02\x84\x00\x01\x0E :364: \x16 :21E3: \x0A\x04\x09\x02\x84\x01\x15 :370: 
+:364
+\x16 :377: \x15 :370: 
+:370
+\x0A\x04\x01\x7A\x84\x00\x78
+:377
+\x2E\x22\x00\x01 1  7 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :416: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4813">
+"I'm going to Elle's."
+#
+<removesprite -1 11>
+\x2B
+:416
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :4A7: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4814">
+"Let's go to Elle's."
+#
+<removesprite -1 11>
+\x2B
+:4A7
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :534: 
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4815">
+"I'll invite Elle over."
+#
+<removesprite -1 11>
+\x2B
+:534
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :5B7: 
+<music 6>
+<background "bg007a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0488">
+"What do you want to do to hang out?"
+#
+<removesprite -1 11>
+\x2B
+:5B7
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :640: 
+<music 6>
+<background "bg007a0.iph" 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0489">
+"Okay, let's have some fun."
+#
+<removesprite -1 11>
+\x2B
+:640
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :6D1: 
+<music 6>
+<background "bg007a0.iph" 11>
+<sprite "ta02a27.iph" 4 4 11>
+<name "Elle" "!CA0490">
+"S-Shouldn't we study?"
+#
+<removesprite -1 11>
+\x2B
+:6D1
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :75E: 
+<music 6>
+<background "bg007a0.iph" 11>
+<sprite "ta02a09.iph" 4 4 11>
+<name "Elle" "!CA0491">
+"It's important to take a break now and then."
+#
+<removesprite -1 11>
+:75E + 1
+<exit>
+:75F
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0440">
+"Hello."
+#
+<name "Lazlocke">
+"Hey.
+ Celes should be here soon.
+ Just wait."
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA0441">
+"Yes, sir."
+#
+<removesprite -1 11>
+Elle comes by on occasion to see Celes.
+#
+For all kinds of reasons.
+#
+Sometimes to study, sometimes just to hang out.
+#
+But most of the time, it's running some errand
+or another for Viola.
+#
+There are some things she can't learn at Viola's
+manor too, so she often ends up instructed to
+come out here to learn.
+#
+Viola's always got her hands full.
+#
+It's good for Celes, so I don't have any 
+problems with it.
+#
+<name "Lazlocke">
+"That reminds me, you're living in Viola's
+ manor, right?"
+#
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0442">
+"Yes, sir.
+ I'm living there while I study."
+#
+<name "Lazlocke">
+"Before that, you lived in the school dorms?"
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0443">
+"Yes, that's right."
+#
+<name "Lazlocke">
+"Where are you from?"
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0444">
+"The capital.
+ You didn't know?
+ I had thought that the Bluetact Group was a
+ pretty big store..."
+#
+<name "Lazlocke">
+"Ah, now I remember.
+ Huh. So you're kind of a noble in a way?"
+#
+<name "Lazlocke">
+"Why'd you want to become a wizard then?"
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA0445">
+"It was when I saw my ma... I mean Viola."
+#
+<name "Lazlocke">
+"Viola?"
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0446">
+"Yes. It was when she was appointed as a court
+ wizard after the war against the Bazur Kingdom
+ ended."
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA0449">
+"She looked so incredible...
+ Didn't you see her then too?"
+#
+<name "Lazlocke">
+"O-Oh...
+ I was away on a little trip at the time."
+#
+<sprite "ta02a35.iph" 4 4 12>
+<name "Elle" "!CA0450">
+"That's a shame...
+ You missed her looking so heroic..."
+#
+<name "Lazlocke">
+"But that was only a few years ago.
+ It's impressive that you've come this far in
+ that short a time."
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0451">
+"That was when I completely dedicated myself to
+ being a wizard. I'd been studying to become a
+ court wizard ever since I was little."
+#
+<name "Lazlocke">
+"Why a court wizard though?"
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0452">
+"You know, a merchant has money, so what they
+ want after that is honor and status."
+#
+<name "Lazlocke">
+"Ah, now I see."
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA0453">
+"But it was fortunate for me that my studies
+ ended up being useful."
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0454">
+"If I hadn't already had the foundation, I
+ wouldn't have been able to become her
+ apprentice."
+#
+<name "Lazlocke">
+"Yeah.
+ Ah, looks like Celes is back."
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0455">
+"Yeah.
+ All right.
+ I'll see you later."
+#
+<removesprite -1 11>
+<exit>
+:1217
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Hmmm..."
+#
+<sprite "ta02a30.iph" 4 4 11>
+<name "Elle" "!CA0456">
+"Mmm..."
+#
+<removesprite -1 11>
+<sprite "ta01a06.iph" 2 5 11>
+<sprite "ta02a30.iph" 6 4 11>
+<name "Celes" "!AA4771">
+"Um, what are you doing?"
+#
+<name "Lazlocke">
+"A game."
+#
+<sprite "ta02a06.iph" 6 4 12>
+<name "Elle" "!CA0458">
+"A game."
+#
+<sprite "ta01a07.iph" 2 5 12>
+<name "Celes" "!AA4772">
+"Um... What are the rules?"
+#
+<name "Lazlocke">
+"Not sure."
+#
+<sprite "ta02a37.iph" 6 4 12>
+<name "Elle" "!CA0459">
+"We're figuring that out."
+#
+<sprite "ta01a32.iph" 2 5 12>
+<name "Celes" "!AA4773">
+"So why are you glaring at each other?"
+#
+<name "Lazlocke">
+"As long as we're doing that when we move
+ pieces, it feels like we're actually playing."
+#
+<sprite "ta02a27.iph" 6 4 12>
+<name "Elle" "!CA0463">
+"Yeah."
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA4774">
+"...You have a lot of spare time."
+#
+<removesprite -1 11>
+We do.
+#
+<exit>
+:15A3
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4775">
+"is there any food you hate?"
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a06.iph" 6 4 11>
+<name "Elle" "!CA0464">
+"Hmm... I wonder.
+ I'm not sure I've ever had anything I
+ particularly liked or hated."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA4776">
+"There's nothing you like or hate?
+ No way."
+#
+<removesprite -1 11>
+<sprite "ta04a67.iph" 4 4 11>
+<name "Soshiette" "!DA0728">
+"I agree.
+ It's impossible."
+#
+<removesprite -1 11>
+<sprite "ta04a67.iph" 2 4 11>
+<sprite "ta02a03.iph" 6 5 11>
+<name "Elle" "!CA0465">
+"Whoa."
+#
+<sprite "ta04a66.iph" 2 4 12>
+<name "Soshiette" "!DA0729">
+"Let's try foods one by one."
+#
+<sprite "ta02a07.iph" 6 5 12>
+<name "Elle" "!CA0466">
+"Huh?
+ Huh?"
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4777">
+"Work with us."
+#
+<removesprite -1 11>
+In the end, it was discovered that she hates
+broiled broccoli.
+#
+<sprite "ta02a00.iph" 4 4 11>
+<name "Elle" "!CA0467">
+"B-But I can eat it if I try."
+#
+<name "Lazlocke">
+"Better than the carrot haters around here."
+#
+<removesprite -1 11>
+<exit>
+:19AB
+<music 10>
+<background "bg002a0.iph" 11>
+...
+#
+<sprite "ta02a06.iph" 4 4 11>
+<name "Elle" "!CA0468">
+"Um, what is it?"
+#
+<name "Lazlocke">
+"Huh?
+ Oh, sorry.
+ I didn't mean to stare."
+#
+<sprite "ta02a01.iph" 4 4 12>
+<name "Elle" "!CA0469">
+"No, I didn't take it like that...
+ You were just quietly watching me."
+#
+<name "Lazlocke">
+"Yeah, well, just thinking how different you are
+ from Celes."
+#
+<sprite "ta02a03.iph" 4 4 12>
+<name "Elle" "!CA0470">
+"Of course I am?
+ We're two different people."
+#
+<name "Lazlocke">
+"Just reaffirming the logical."
+#
+<removesprite -1 11>
+I never thought I'd see anybody eat asparagus
+the way she is.
+#
+<exit>
+:1BF8
+<music 26>
+<background "bg004a0.iph" 11>
+<name "Lazlocke">
+"Enjoying ourself?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4778">
+"Yes, sir.
+ It's easy with a good horse."
+#
+<removesprite -1 11>
+Celes and I are having some fun going riding
+with horses borrowed from Viola.
+#
+<sprite "ta03a34.iph" 4 4 11>
+<name "Viola" "!BA0506">
+"You've been thrown twice.
+ Are you okay?"
+#
+<name "Lazlocke">
+"Hahaha!
+ I hurt all over."
+#
+<sprite "ta03a32.iph" 4 4 12>
+<name "Viola" "!BA0507">
+"Not surprising."
+#
+<name "Lazlocke">
+"I expect you to be good at it, but I'm
+ surprised how good Elle and Celes are."
+#
+<removesprite -1 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0471">
+"I've ridden since I was a little girl."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Celes" "!AA4779">
+"Me too."
+#
+<name "Lazlocke">
+"A life where you can ride from youth...
+ I feel the harsh different growing up poor."
+#
+<sprite "ta03a06.iph" 4 4 11>
+<name "Viola" "!BA0508">
+"Don't sulk. Get back in the saddle.
+ Once you reach a certain position in life,
+ riding is an indispensable skill."
+#
+<name "Lazlocke">
+"Ugh..."
+#
+<removesprite -1 11>
+<exit>
+:1FF5
+<music 6>
+<background "bg007a0.iph" 11>
+Celes and I go to Viola's manor for a social
+call.
+#
+<background "bg008a0.iph" 11>
+<sprite "ta02a27.iph" 4 4 11>
+<name "Elle" "!CA0472">
+"I'm sorry. Miss Viola is busy with work right
+ now."
+#
+<name "Lazlocke">
+"Is it that bad?"
+#
+<sprite "ta02a37.iph" 4 4 12>
+<name "Elle" "!CA0473">
+"Worse..."
+#
+<name "Lazlocke">
+"Too bad.
+ Forget about today then."
+#
+<sprite "ta02a27.iph" 4 4 12>
+<name "Elle" "!CA0474">
+"I'm sorry."
+#
+<removesprite -1 11>
+Oh well.
+Celes and I will just have to enjoy ourselves
+on our own.
+#
+<exit>
+:21E3
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"The theater?"
+#
+<sprite "ta03a02.iph" 4 4 11>
+<name "Viola" "!BA0509">
+"They insisted I come, and they're hard to say
+ no to."
+#
+<name "Lazlocke">
+"There's someone you can't refuse?"
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0511">
+"Dalnton's wife."
+#
+<name "Lazlocke">
+"...I see.
+ She does always look like she'll burst into
+ tears if you turn her down."
+#
+<sprite "ta03a33.iph" 4 4 12>
+<name "Viola" "!BA0512">
+"Indeed."
+#
+<name "Lazlocke">
+"So why am I involved?"
+#
+<sprite "ta03a38.iph" 4 4 12>
+<name "Viola" "!BA0513">
+"A woman can't go to the theater by herself.
+ Be my escort."
+#
+<name "Lazlocke">
+"Yes, ma'am."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0514">
+"Bring Celes with you."
+#
+<name "Lazlocke">
+"You're sure?"
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0515">
+"Yes. It's a box seat. 
+ Elle wants to come too."
+#
+<name "Lazlocke">
+"All right."
+#
+<removesprite -1 11>
+We enjoy a night at the theater.
+#
+<exit>
+:258C
+<music 6>
+<background "bg008a0.iph" 11>
+<sprite "ta02a06.iph" 4 4 11>
+<name "Elle" "!CA0475">
+"A test of courage?"
+#
+<removesprite -1 11>
+<sprite "ta03a03.iph" 2 4 11>
+<sprite "ta02a06.iph" 6 5 11>
+<name "Viola" "!BA0516">
+"Yes. Apparently it's some kind of festival
+ testing your bravery by going somewhere
+ dangerous."
+#
+<sprite "ta03a33.iph" 2 4 12>
+<name "Viola" "!BA0518">
+"I always refuse to participate."
+#
+<name "Lazlocke">
+"Because instead of feeling any fear yourself,
+ you'd terrify them."
+#
+<sprite "ta02a03.iph" 6 5 12>
+<name "Elle" "!CA0476">
+"What do you mean?"
+#
+<name "Lazlocke">
+"People hide all over to scare you, and she'd
+ chucks attack magic at anything that looked
+ suspicious."
+#
+<sprite "ta02a07.iph" 6 5 12>
+<name "Elle" "!CA0477">
+"I see..."
+#
+<removesprite -1 11>
+<exit>
+:2846
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta02a06.iph" 4 4 11>
+<name "Elle" "!CA0478">
+"Hunting?"
+#
+<name "Lazlocke">
+"Yeah. You want to come?"
+#
+<sprite "ta02a09.iph" 4 4 12>
+<name "Elle" "!CA0479">
+"I'll join you.
+ But... are you going to hunt with magic?"
+#
+<name "Lazlocke">
+"I use magic because I'm awful with a bow.
+ Have you used one?"
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA0480">
+"A few times."
+#
+<name "Lazlocke">
+"Then it'll be practice."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a00.iph" 6 4 11>
+<name "Celes" "!AA4780">
+"I can teach you."
+#
+<sprite "ta02a04.iph" 6 4 11>
+<name "Elle" "!CA0481">
+"Thank you."
+#
+<removesprite -1 11>
+We enjoy ourselves on a hunting trip.
+#
+<sprite "ta02a37.iph" 4 4 11>
+<name "Elle" "!CA0482">
+"Hmmm...
+ Bows are complex."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta02a37.iph" 6 4 11>
+<name "Celes" "!AA4781">
+"But then you suddenly hit and catch a rabbit,
+ which is incredible."
+#
+<name "Lazlocke">
+"You don't get any credit hunting with magic,
+ huh?"
+#
+<removesprite -1 11>
+<exit>
+:2C00
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4782">
+"Visit a garden?"
+#
+<name "Lazlocke">
+"Yeah. The lady's proud of her garden."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4783">
+"Dalnton's wife?"
+#
+<name "Lazlocke">
+"You know her, then."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4784">
+"Viola and Elle were talking about it too."
+#
+<name "Lazlocke">
+"I see...
+ So they've been invited too."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4785">
+"Yes."
+#
+<removesprite -1 11>
+We enjoy Dalnton's wife's garden with Viola and
+Elle.
+#
+<name "Lazlocke">
+"Hmmm. That was certainly quite a garden.
+ I can see why she wanted to show it off."
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA4786">
+"I had no idea that Dalnton's wife was part of
+ the royal family..."
+#
+<removesprite -1 11>
+She's the king's little sister.
+#
+<exit>
+:2F52
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0519">
+"What are you doing?"
+#
+<name "Lazlocke">
+"Hm?"
+#
+<name "Celes" "!AA4787">
+"Oh, Miss Viola."
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0520">
+"What are you doing?"
+#
+<name "Celes" "!AA4788">
+"Um, well..."
+#
+Celes and I are standing on our heads.
+#
+<name "Lazlocke">
+"Seeing how long we can stay upside down?"
+#
+<sprite "ta03a08.iph" 4 4 12>
+<name "Viola" "!BA0521">
+"You have too much free time."
+#
+<name "Lazlocke">
+"No, this is an important experiment."
+#
+<sprite "ta03a11.iph" 4 4 12>
+<name "Viola" "!BA0522">
+"You have too much free time."
+#
+She puts her foot on my hands.
+#
+And presses down.
+#
+<name "Lazlocke">
+"Yes, ma'am.
+ Too much free time.
+ I'm sorry.
+ Please step off me."
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0523">
+"If you're free, that's perfect.
+ Mrs. Dalnton is throwing a dinner party."
+#
+<name "Lazlocke">
+"Of course I'll join you.
+ So can you please remove your foot?
+ It really hurts."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0524">
+"Celes, you will be accompanying us as well,
+ yes?"
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 4 11>
+<sprite "ta01a07.iph" 6 5 11>
+<name "Celes" "!AA4789">
+"Y-Yes, ma'am."
+#
+<sprite "ta03a07.iph" 2 4 12>
+<name "Viola" "!BA0525">
+"Then let's get ready to go."
+#
+<sprite "ta01a89.iph" 6 5 12>
+<name "Celes" "!AA4790">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+We enjoy the dinner party.
+#
+There were a lot of amusing diversions.
+#
+<sprite "ta03a42.iph" 4 4 11>
+<name "Viola" "!BA0526">
+"Sigh...
+ Faking a smile is so stressful..."
+#
+<removesprite -1 11>
+<exit>
+:3513
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0527">
+"A gift."
+#
+<name "Lazlocke">
+"Hm?
+ Wine?"
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0528">
+"Yes. Grown in my fields eight years ago."
+#
+<name "Lazlocke">
+"Oh?"
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 4 11>
+<sprite "ta01a08.iph" 6 5 11>
+<name "Celes" "!AA4791">
+"Miss Viola, you have a vineyard?"
+#
+<sprite "ta03a06.iph" 2 4 12>
+<name "Viola" "!BA0529">
+"Mm, just technically.
+ Someone else runs it."
+#
+<name "Lazlocke">
+"When you're in charge of a bunch of things for
+ the Guild, you end up owning a bunch of land
+ and buildings."
+#
+<sprite "ta01a07.iph" 6 5 12>
+<name "Celes" "!AA4792">
+"That's incredible."
+#
+<sprite "ta03a32.iph" 2 4 12>
+<name "Viola" "!BA0530">
+"It's just more headaches to deal with."
+#
+<name "Lazlocke">
+"If you avoid all that, you'll end up a poor
+ wizard like me."
+#
+<sprite "ta01a92.iph" 6 5 12>
+<name "Celes" "!AA4793">
+"Hahaha..."
+#
+<removesprite -1 11>
+<exit>
+:3894
+<music 2>
+<background "bg013a0.iph" 11>
+<name "Lazlocke">
+"Going to the library to enjoy some books?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4794">
+"Yes, sir."
+#
+<name "Lazlocke">
+"Ask Elle to join you."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA4795">
+"Huh? Are you sure?"
+#
+<name "Lazlocke">
+"Viola's off at the capital.
+ She asked me to check up on her."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4796">
+"Okay."
+#
+<name "Lazlocke">
+"We'll get dinner on the way home."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4797">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:3AA9
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0532">
+"I want crab."
+#
+<name "Lazlocke">
+"Huh? O-Oh, yeah.
+ It is the season for it."
+#
+<sprite "ta03a08.iph" 4 4 12>
+<name "Viola" "!BA0533">
+"Buy crab."
+#
+<name "Lazlocke">
+"That's fine, but if you're going to make me
+ cook it too, shouldn't you just ask me to make
+ something with crab?"
+#
+<sprite "ta03a12.iph" 4 4 12>
+<name "Viola" "!BA0534">
+"Make something with crab."
+#
+<name "Lazlocke">
+"I'll see what I can do."
+#
+<removesprite -1 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0483">
+"Let us pay for it."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Celes" "!AA4798">
+"I'll join you."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0484">
+"I love crab."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA4799">
+"I love crab too."
+#
+<removesprite -1 11>
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0730">
+"I heard crab, so here I am."
+#
+<name "Lazlocke">
+"A-All right, already.
+ I'll make enough for you too."
+#
+<removesprite -1 11>
+We enjoy a crab dinner.
+#
+<sprite "ta03a06.iph" 4 4 11>
+<name "Viola" "!BA0535">
+"Be silent while eating crab."
+#
+<removesprite -1 11>
+<sprite "ta03a06.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Soshiette" "!DA0731">
+"Crab is more important than conversation."
+#
+<removesprite -1 11>
+<exit>
+:3FBE
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0536">
+"Lazlocke, won't you come with me out for a
+ while?"
+#
+<name "Lazlocke">
+"Hm?
+ Where are we going?"
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0537">
+"The castle."
+#
+<name "Lazlocke">
+"..."
+#
+<sprite "ta03a07.iph" 4 4 12>
+<name "Viola" "!BA0538">
+"I know you hate it, but it's an order from the
+ Guild."
+#
+<sprite "ta03a01.iph" 4 4 12>
+<name "Viola" "!BA0539">
+"Celes and Elle are coming too.
+ Let's just have a relaxing trip."
+#
+<name "Lazlocke">
+"Can't we just get right there if we fly?"
+#
+<sprite "ta03a06.iph" 4 4 12>
+<name "Viola" "!BA0540">
+"You prefer it leisurely, don't you?
+ Come on, we're leaving."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4800">
+"All ready to go."
+#
+<name "Lazlocke">
+"...S-She already got to you?"
+#
+<removesprite -1 11>
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0486">
+"The carriage is all ready."
+#
+...
+#
+<removesprite -1 11>
+I don't have much choice.
+We enjoy a short trip to the capital.
+#
+<sprite "ta01a17.iph" 4 4 11>
+<name "Celes" "!AA4801">
+"Master, I know you didn't like it, but it was
+ really exciting."
+#
+<name "Lazlocke">
+"It's not like I could've spent the whole trip
+ sulking."
+#
+<removesprite -1 11>
+<exit>
+\x78

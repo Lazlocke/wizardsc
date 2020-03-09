@@ -1,0 +1,29 @@
+\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :DC: 
+<name "Puschel" "!SA0053">
+"Hmm..."
+#
+<name "Celes" "!AA6674">
+"Hmmmm... You seem strong.
+ There's no openings..."
+#
+<name "Puschel" "!SA0054">
+"I prefer... that man in the audience.ÅÙ
+ Once this over, I think it's time to pick him
+ up."
+#
+:DC
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :1B2: 
+<name "Puschel" "!SA0055">
+"I'm not interested in girls.
+ I'd appreciate it if you helped me finish this
+ quickly."
+#
+<name "Celes" "!AA6675">
+"All right.
+ I'll beat you and end this."
+#
+<name "Puschel" "!SA0056">
+"...You don't say."
+#
+:1B2
+\x78\x78

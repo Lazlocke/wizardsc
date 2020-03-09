@@ -1,0 +1,23 @@
+\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :7B: \xBE "‘Ì—ÍŽ¸‚¤" 
+<name "Celes" "!AA3760">
+"What? Ah...
+ Nnnngh...
+ My strength..."
+#
+\x99 -50  0 
+:7B
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :F4: \xBE "‘Ì—ÍŽ¸‚¤" 
+<name "Celes" "!AA3761">
+"Nngh...
+ I-It's draining my strength?
+ I've got to get out of here..."
+#
+\x99 -50  0 
+:F4
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :148: \xBE "‘Ì—ÍŽ¸‚¤" 
+<name "Celes" "!AA3762">
+"I-It's draining my strength..."
+#
+\x99 -50  0 
+:148
+\x78\x78

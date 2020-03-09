@@ -1,0 +1,15 @@
+\x2E\x22\x00\x01 1  2 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :66: \xBE "‘Ì—Í“¾‚é" 
+<name "Celes" "!AA3757">
+"Ah, my strength...
+ What a relief."
+#
+\x99 50  0 
+:66
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :D1: \xBE "‘Ì—Í“¾‚é" 
+<name "Celes" "!AA3759">
+"Ooh. I'm full of power.
+ That's great!"
+#
+\x99 50  0 
+:D1
+\x78\x78

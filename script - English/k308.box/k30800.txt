@@ -1,0 +1,1826 @@
+\x1A\x01\x07\x04\x08\x8C\x84\x00\x01\x0E :4D: \xA8 "ë|èú" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x15 :4D: \x0A\x04\x00\xBB\x84\x00\x6E 1 \x00\x1A\x01\x07\x04\x00\xBB\x84\x01\x01\x0E :4D: \x15 :B0E: 
+:4D
+\x1A\x01\x07\x04\x04\x34\x84\x00\x01\x0E :80: \x1A\x01\x0A\x02\x00\x0A 1000 \x01\x14 :80: \x16 :5A54: \x0A\x04\x04\x34\x84\x01\x15 :B0E: 
+:80
+\x1A\x01\x07\x04\x04\x39\x84\x00\x01\x0E :B3: \x1A\x01\x0A\x02\x01\x97 5 \x01\x0E :B3: \x16 :5F2D: \x0A\x04\x04\x39\x84\x01\x15 :B0E: 
+:B3
+\x1A\x01\x07\x04\x04\x3A\x84\x00\x01\x0E :E6: \x1A\x01\x0A\x02\x01\x97 1 \x01\x0E :E6: \x16 :6234: \x0A\x04\x04\x3A\x84\x01\x15 :B0E: 
+:E6
+\x1A\x01\x07\x04\x04\x3B\x84\x00\x01\x0E :119: \x1A\x01\x0A\x02\x01\x97 6 \x01\x0E :119: \x16 :6567: \x0A\x04\x04\x3B\x84\x01\x15 :B0E: 
+:119
+\x1A\x01\x07\x04\x04\x3C\x84\x00\x01\x0E :14C: \x1A\x01\x0A\x02\x01\x97 3 \x01\x0E :14C: \x16 :67FA: \x0A\x04\x04\x3C\x84\x01\x15 :B0E: 
+:14C
+\x1A\x01\x07\x04\x04\x3D\x84\x00\x01\x0E :17F: \x1A\x01\x0A\x02\x01\x97 8 \x01\x0E :17F: \x16 :69A4: \x0A\x04\x04\x3D\x84\x01\x15 :B0E: 
+:17F
+\x1A\x01\x07\x04\x04\x35\x84\x00\x01\x0E :1B2: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :1B2: \x16 :5B6E: \x0A\x04\x04\x35\x84\x01\x15 :B0E: 
+:1B2
+\x1A\x01\x07\x04\x04\x37\x84\x00\x01\x0E :1E5: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :1E5: \x16 :5D80: \x0A\x04\x04\x37\x84\x01\x15 :B0E: 
+:1E5
+\x1A\x01\x07\x04\x04\x06\x84\x00\x01\x0E :222: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :222: \x16 :B17: \x0A\x04\x04\x06\x84\x01\x15 :B0E: 
+:222
+\x1A\x01\x07\x04\x04\x07\x84\x00\x01\x0E :25F: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :25F: \x16 :E3C: \x0A\x04\x04\x07\x84\x01\x15 :B0E: 
+:25F
+\x1A\x01\x07\x04\x04\x08\x84\x00\x01\x0E :29C: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :29C: \x16 :FA0: \x0A\x04\x04\x08\x84\x01\x15 :B0E: 
+:29C
+\x1A\x01\x07\x04\x04\x09\x84\x00\x01\x0E :2D9: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :2D9: \x16 :1101: \x0A\x04\x04\x09\x84\x01\x15 :B0E: 
+:2D9
+\x1A\x01\x07\x04\x04\x0A\x84\x00\x01\x0E :316: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :316: \x16 :127E: \x0A\x04\x04\x0A\x84\x01\x15 :B0E: 
+:316
+\x1A\x01\x07\x04\x04\x0B\x84\x00\x01\x0E :353: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :353: \x16 :1459: \x0A\x04\x04\x0B\x84\x01\x15 :B0E: 
+:353
+\x1A\x01\x07\x04\x04\x0C\x84\x00\x01\x0E :390: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :390: \x16 :161C: \x0A\x04\x04\x0C\x84\x01\x15 :B0E: 
+:390
+\x1A\x01\x07\x04\x04\x0D\x84\x00\x01\x0E :3CD: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :3CD: \x16 :17D0: \x0A\x04\x04\x0D\x84\x01\x15 :B0E: 
+:3CD
+\x1A\x01\x07\x04\x04\x0E\x84\x00\x01\x0E :40A: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :40A: \x16 :1880: \x0A\x04\x04\x0E\x84\x01\x15 :B0E: 
+:40A
+\xE9 3008 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :437: \x15 :B02: 
+:437
+\x1A\x01\x07\x04\x04\x0F\x84\x00\x01\x0E :474: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :474: \x16 :19B1: \x0A\x04\x04\x0F\x84\x01\x15 :B0E: 
+:474
+\x1A\x01\x07\x04\x04\x10\x84\x00\x01\x0E :4B1: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :4B1: \x16 :1A7C: \x0A\x04\x04\x10\x84\x01\x15 :B0E: 
+:4B1
+\x1A\x01\x07\x04\x04\x11\x84\x00\x01\x0E :4EE: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :4EE: \x16 :1BAB: \x0A\x04\x04\x11\x84\x01\x15 :B0E: 
+:4EE
+\x1A\x01\x07\x04\x04\x12\x84\x00\x01\x0E :52B: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :52B: \x16 :1CDC: \x0A\x04\x04\x12\x84\x01\x15 :B0E: 
+:52B
+\x1A\x01\x07\x04\x04\x1B\x84\x00\x01\x0E :54C: \x16 :3381: \x0A\x04\x04\x1B\x84\x01\x15 :B0E: 
+:54C
+\x1A\x01\x07\x04\x04\x13\x84\x00\x01\x0E :589: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :589: \x16 :1DED: \x0A\x04\x04\x13\x84\x01\x15 :B0E: 
+:589
+\x1A\x01\x07\x04\x04\x14\x84\x00\x01\x0E :5B9: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :5B9: \x16 :1EF1: \x0A\x04\x04\x14\x84\x01\x15 :B0E: 
+:5B9
+\x1A\x01\x07\x04\x04\x1C\x84\x00\x01\x0E :5DA: \x16 :34CF: \x0A\x04\x04\x1C\x84\x01\x15 :B0E: 
+:5DA
+\x1A\x01\x07\x04\x04\x15\x84\x00\x01\x0E :60A: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :60A: \x16 :22E9: \x0A\x04\x04\x15\x84\x01\x15 :B0E: 
+:60A
+\x1A\x01\x07\x04\x04\x16\x84\x00\x01\x0E :63A: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :63A: \x16 :27C7: \x0A\x04\x04\x16\x84\x01\x15 :B0E: 
+:63A
+\x1A\x01\x07\x04\x04\x1D\x84\x00\x01\x0E :65B: \x16 :36AA: \x0A\x04\x04\x1D\x84\x01\x15 :B0E: 
+:65B
+\x1A\x01\x07\x04\x04\x22\x84\x00\x01\x0E :67C: \x16 :3E0C: \x0A\x04\x04\x22\x84\x01\x15 :B0E: 
+:67C
+\x1A\x01\x07\x04\x04\x1E\x84\x00\x01\x0E :69D: \x16 :37F1: \x0A\x04\x04\x1E\x84\x01\x15 :B0E: 
+:69D
+\x1A\x01\x07\x04\x04
+<exit>
+\x84\x00\x01\x0E :6E9: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :6E9: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :6E9: \x16 :28EA: \x0A\x04\x04
+<exit>
+\x84\x01\x15 :B0E: 
+:6E9
+\x1A\x01\x07\x04\x04\x18\x84\x00\x01\x0E :735: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :735: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 3 \x01\x14 :735: \x16 :2D43: \x0A\x04\x04\x18\x84\x01\x15 :B0E: 
+:735
+\x1A\x01\x07\x04\x04\x29\x84\x00\x01\x0E :756: \x16 :4536: \x0A\x04\x04\x29\x84\x01\x15 :B0E: 
+:756
+\x1A\x01\x07\x04\x04\x30\x84\x00\x01\x0E :777: \x16 :53B8: \x0A\x04\x04\x30\x84\x01\x15 :B0E: 
+:777
+\x1A\x01\x07\x04\x04\x23\x84\x00\x01\x0E :798: \x16 :3F8A: \x0A\x04\x04\x23\x84\x01\x15 :B0E: 
+:798
+\x1A\x01\x07\x04\x04\x1F\x84\x00\x01\x0E :7B9: \x16 :3904: \x0A\x04\x04\x1F\x84\x01\x15 :B0E: 
+:7B9
+\x1A\x01\x07\x04\x04\x2A\x84\x00\x01\x0E :7DA: \x16 :45CE: \x0A\x04\x04\x2A\x84\x01\x15 :B0E: 
+:7DA
+\x1A\x01\x07\x04\x04\x31\x84\x00\x01\x0E :80A: \x1A\x01\x07\x04\x00\xC8\x84\x01\x01\x0E :80A: \x16 :54E6: \x0A\x04\x04\x31\x84\x01\x15 :B0E: 
+:80A
+\x1A\x01\x07\x04\x04\x24\x84\x00\x01\x0E :82B: \x16 :4105: \x0A\x04\x04\x24\x84\x01\x15 :B0E: 
+:82B
+\x1A\x01\x07\x04\x04\x19\x84\x00\x01\x0E :877: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :877: \xA8 "óøóù" \x22\x00\x07\x1A\x01\x0A\x22\x00\x07 6 \x01\x15 :877: \x16 :2FD4: \x0A\x04\x04\x19\x84\x01\x15 :B0E: 
+:877
+\x1A\x01\x07\x04\x04\x1A\x84\x00\x01\x0E :8A7: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :8A7: \x16 :31AB: \x0A\x04\x04\x1A\x84\x01\x15 :B0E: 
+:8A7
+\x1A\x01\x07\x04\x04\x20\x84\x00\x01\x0E :8C8: \x16 :3AAF: \x0A\x04\x04\x20\x84\x01\x15 :B0E: 
+:8C8
+\x1A\x01\x07\x04\x04\x2B\x84\x00\x01\x0E :8E9: \x16 :4781: \x0A\x04\x04\x2B\x84\x01\x15 :B0E: 
+:8E9
+\x1A\x01\x07\x04\x04\x32\x84\x00\x01\x0E :90A: \x16 :57DB: \x0A\x04\x04\x32\x84\x01\x15 :B0E: 
+:90A
+\x1A\x01\x07\x04\x04\x21\x84\x00\x01\x0E :92B: \x16 :3D21: \x0A\x04\x04\x21\x84\x01\x15 :B0E: 
+:92B
+\x1A\x01\x07\x04\x04\x25\x84\x00\x01\x0E :95E: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :95E: \x16 :4241: \x0A\x04\x04\x25\x84\x01\x15 :B0E: 
+:95E
+\x1A\x01\x07\x04\x04\x2C\x84\x00\x01\x0E :97F: \x16 :48C5: \x0A\x04\x04\x2C\x84\x01\x15 :B0E: 
+:97F
+\x1A\x01\x07\x04\x04\x26\x84\x00\x01\x0E :9B2: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :9B2: \x16 :42C7: \x0A\x04\x04\x26\x84\x01\x15 :B0E: 
+:9B2
+\x1A\x01\x07\x04\x04\x2D\x84\x00\x01\x0E :9D3: \x16 :4A5F: \x0A\x04\x04\x2D\x84\x01\x15 :B0E: 
+:9D3
+\x1A\x01\x07\x04\x04\x27\x84\x00\x01\x0E :A06: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :A06: \x16 :433F: \x0A\x04\x04\x27\x84\x01\x15 :B0E: 
+:A06
+\x1A\x01\x07\x04\x04\x2E\x84\x00\x01\x0E :A27: \x16 :4D46: \x0A\x04\x04\x2E\x84\x01\x15 :B0E: 
+:A27
+\x1A\x01\x07\x04\x04\x28\x84\x00\x01\x0E :A5A: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :A5A: \x16 :4434: \x0A\x04\x04\x28\x84\x01\x15 :B0E: 
+:A5A
+\x1A\x01\x07\x04\x04\x2F\x84\x00\x01\x0E :A7B: \x16 :4FA3: \x0A\x04\x04\x2F\x84\x01\x15 :B0E: 
+:A7B
+\x1A\x01\x07\x04\x04\x36\x84\x00\x01\x0E :AAE: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :AAE: \x16 :5C12: \x0A\x04\x04\x36\x84\x01\x15 :B0E: 
+:AAE
+\x1A\x01\x07\x04\x04\x38\x84\x00\x01\x0E :AE1: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :AE1: \x16 :5E35: \x0A\x04\x04\x38\x84\x01\x15 :B0E: 
+:AE1
+\x1A\x01\x07\x04\x04\x33\x84\x00\x01\x0E :B02: \x16 :591F: \x0A\x04\x04\x33\x84\x01\x15 :B0E: 
+:B02
+\x16 :6A96: \x15 :B0E: 
+:B0E
+<music 31>
+\x2B\x78
+:B17
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2303">
+"Master, leave the cooking today to me."
+#
+<name "Lazlocke">
+"Oh?
+ We're full of confidence."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2304">
+"Yep!"
+#
+<removesprite -1 11>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2305">
+"Um... Like this?
+ Huh?
+ Ah, that's not right."
+#
+<name "Celes" "!AA2306">
+"So then do this..."
+#
+<background "ev016a1.iph" 10>
+<name "Celes" "!AA2307">
+"Huh!?
+ Why's it...
+ I-It's burning!"
+#
+<name "Celes" "!AA2308">
+"Master, I need help!"
+#
+I rescue her.
+#
+<name "Lazlocke">
+"...Is this book the source of that confidence?"
+#
+<name "Celes" "!AA2309">
+"Y-Yeah.
+ When I read it, I was so sure I'd be able to
+ cook..."
+#
+<name "Lazlocke">
+"So you deluded yourself.
+ Also, you obviously skipped the middle pages."
+#
+<name "Celes" "!AA2310">
+"Eeeh!?"
+#
+<exit>
+:E3C
+<music 10>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2311">
+"Um... like this?"
+#
+Celes is hard at work in the kitchen.
+#
+It's not going very smoothly since she's looking
+things up at every step of the way, but the food
+is getting cooked.
+#
+However, unfortunately...
+#
+<name "Lazlocke">
+"It's almost noon..."
+#
+<name "Celes" "!AA2312">
+"I-I'm almost done."
+#
+Breakfast didn't come until the afternoon.
+#
+<exit>
+:FA0
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2313">
+"And... all done!"
+#
+<name "Lazlocke">
+"It looks right."
+#
+<name "Celes" "!AA2314">
+"Yep."
+#
+<name "Lazlocke">
+"The other part's the taste.
+ Well, it's a fried egg.
+ It's hard to mess up seasoning that.
+ ...Huh?"
+#
+<name "Celes" "!AA2315">
+"I-I mistook sugar for salt."
+#
+<name "Lazlocke">
+"So close, yet so far..."
+#
+<exit>
+:1101
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2316">
+"How is it?
+ I think it came out perfect."
+#
+<name "Lazlocke">
+"Mmhmm.
+ All right.
+ Let's give it a taste."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2317">
+"..."
+#
+<name "Lazlocke">
+"...You'll do better next time."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA2318">
+"Gah..."
+#
+<removesprite -1 11>
+<exit>
+:127E
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"First of all..."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2319">
+"Yes?"
+#
+<name "Lazlocke">
+"Just because you can make butter, that doesn't
+ make you a chef."
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA2320">
+"No way!"
+#
+<name "Lazlocke">
+"And before I hear any objections from the peanut
+ gallery, the same goes for salting a soup."
+#
+<removesprite -1 11>
+<sprite "ta04a23.iph" 4 4 11>
+<name "Soshiette" "!DA0449">
+"Grr..."
+#
+<removesprite -1 11>
+<exit>
+:1459
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2323">
+"Ooh, I feel like I'm getting somewhere with 
+ cooking now."
+#
+<name "Celes" "!AA2324">
+"So I can use a shortcut here..."
+#
+<name "Lazlocke">
+"Hiyah!"
+#
+<name "Celes" "!AA2325">
+"Ow!
+ What was that for, Master?"
+#
+<name "Lazlocke">
+"Neglect the basics, and your fundamentals will
+ be all wrong.
+ Get it perfect according to the book before you
+ start to improvise."
+#
+<name "Celes" "!AA2326">
+"Y-Yes, sir.
+ Um, you're very passionate about this."
+#
+<name "Lazlocke">
+"Food is life!"
+#
+<exit>
+:161C
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2327">
+"Cooking.ÅÙ Cooking.ÅÙ"
+ All done!"
+#
+<name "Lazlocke">
+"Oh? Cooking to a tune?
+ You've leveled up."
+#
+<name "Celes" "!AA2328">
+"Heheheh...
+ Call me a cooking master."
+#
+<name "Lazlocke">
+"No, you've still got a lot of levels to go 
+ before you get there. 
+ All you can make are fried eggs, scrambled eggs,
+ and sandwiches..."
+#
+<name "Celes" "!AA2329">
+"I'm trying really hard!"
+#
+<exit>
+:17D0
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2330">
+"Food's ready!"
+#
+<name "Lazlocke">
+"All right.
+ Your cooking's pretty good.
+ I've been looking forward to it."
+#
+<name "Celes" "!AA2331">
+"Hahaha..."
+#
+<exit>
+:1880
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"This is delicious."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2332">
+"I experimented a little bit."
+#
+<name "Lazlocke">
+"Hmm... Well done."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA2333">
+"Thank you very much, but it's still a long way
+ from perfect."
+#
+<removesprite -1 11>
+<exit>
+:19B1
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2334">
+"I've been considering cooking more of a skill I
+ want to master lately."
+#
+<name "Lazlocke">
+"It's because of that passion that your food's
+ been extra delicious recently."
+#
+<name "Celes" "!AA2335">
+"Thank you very much."
+#
+<exit>
+:1A7C
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Celes" "!AA2336">
+"This... has gone bad.
+ Let's throw it out."
+#
+<name "Lazlocke">
+"Really?
+ It still looks edible."
+#
+<name "Celes" "!AA2337">
+"No way.
+ I can't let my cooking make anybody sick."
+#
+<name "Lazlocke">
+"I-I see.
+ All right.
+ Throw it out."
+#
+<exit>
+:1BAB
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2338">
+"Dinner today will mainly be mushrooms from the
+ hill behind the house."
+#
+<name "Lazlocke">
+"Ooh, sounds tasty.
+ But are you sure those mushrooms are safe?"
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA2339">
+"Of course."
+#
+<removesprite -1 11>
+<exit>
+:1CDC
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2340">
+"Let's have meat for dinner today."
+#
+<name "Lazlocke">
+"All right."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2341">
+"Then off to the forest!"
+#
+<name "Lazlocke">
+"D-Don't overdue it."
+#
+<removesprite -1 11>
+<exit>
+:1DED
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2342">
+"It's gotten cold.
+ Let's cook something hot today."
+#
+<name "Lazlocke">
+"Sounds great."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2343">
+"Yep.
+ Look forward to it."
+#
+<removesprite -1 11>
+<exit>
+:1EF1
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0211">
+"Oh? Something smells good."
+#
+<removesprite -1 11>
+<sprite "ta03a03.iph" 2 4 11>
+<sprite "ta01a07.iph" 6 5 11>
+<name "Celes" "!AA2344">
+"Ah, Miss Viola.
+ Welcome."
+#
+<sprite "ta03a01.iph" 2 4 12>
+<name "Viola" "!BA0212">
+"Hello.
+ Is Lazlocke here?"
+#
+<sprite "ta01a15.iph" 6 5 12>
+<name "Celes" "!AA2345">
+"Yes. I'll go get him."
+#
+<sprite "ta03a05.iph" 2 4 12>
+<name "Viola" "!BA0213">
+"It's fine. I can fetch him myself.
+ So you're cooking?
+ ...Hm?
+ Doesn't that smell off?"
+#
+<sprite "ta01a37.iph" 6 5 12>
+<name "Celes" "!AA2346">
+"Ah! Aaaaaahhh!
+ Oh no!
+ I left the fire on!"
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta03a34.iph" 4 4 11>
+<name "Viola" "!BA0214">
+".........U-Um, sorry."
+#
+<name "Lazlocke">
+"Don't worry about it.
+ It wasn't your fault.
+ And, Celes, if that pot's ruined, that'll be the
+ third one!"
+#
+<removesprite -1 11>
+<sprite "ta01a42.iph" 4 4 11>
+<name "Celes" "!AA2347">
+"I'm sorry!"
+#
+<removesprite -1 11>
+<exit>
+:22E9
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2348">
+"H-Here you are!
+ It's my masterpiece!"
+#
+<removesprite -1 11>
+<sprite "ta03a05.iph" 2 5 11>
+<sprite "ta01a07.iph" 6 4 11>
+<name "Viola" "!BA0215">
+"Thank you for the food."
+#
+<removesprite -1 11>
+Celes was cooking when Viola got here and it 
+became an impromptu dinner party.
+#
+<name "Lazlocke">
+"If you're not hungry, you don't need to eat."
+#
+<sprite "ta03a03.iph" 4 4 11>
+<name "Viola" "!BA0216">
+"I'm fine.
+ What is it?
+ Do you not want me to eat?"
+#
+<name "Lazlocke">
+"That's not the issue.
+ Let me just apologize in advance."
+#
+<sprite "ta03a00.iph" 4 4 12>
+<name "Viola" "!BA0217">
+"Hm?"
+#
+<removesprite -1 11>
+Viola takes a bite and immediately understands.
+#
+When Celes says it's a masterpiece, that means
+that she's never made it before.
+#
+And no experiment works right the first time.
+#
+Still, Viola deserves genuine praise for being
+able to clean her plate.
+#
+<sprite "ta03a33.iph" 4 4 11>
+<name "Viola" "!BA0218">
+"Given what they cook on the frontier, there's
+ nothing I can't eat.
+ At least, I tell myself that."
+#
+<removesprite -1 11>
+<sprite "ta03a33.iph" 2 5 11>
+<sprite "ta01a15.iph" 6 4 11>
+<name "Celes" "!AA2349">
+"Here you are!
+ Seconds!"
+#
+<sprite "ta03a38.iph" 2 5 12>
+<name "Viola" "!BA0219">
+"..."
+#
+<removesprite -1 11>
+I've never seen her look so pained.
+#
+<exit>
+:27C7
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Oh. Dinner tonight looks good."
+#
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2350">
+"Hahaha...
+ Viola taught me how to make it."
+#
+<name "Lazlocke">
+"I see.
+ That's great."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA2351">
+"Yep."
+#
+<removesprite -1 11>
+<exit>
+:28EA
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "Viola" "!BA0220">
+"It's delicious."
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 5 11>
+<sprite "ta01a07.iph" 6 4 11>
+<name "Celes" "!AA2352">
+"Really!?"
+#
+<name "Lazlocke">
+"Yeah, you're getting better."
+#
+<sprite "ta03a05.iph" 2 5 12>
+<name "Viola" "!BA0221">
+"Next is worrying about the appearance.
+ It tastes good, but it looks a little bland."
+#
+<sprite "ta01a08.iph" 6 4 12>
+<name "Celes" "!AA2353">
+"Oh, I see..."
+#
+<name "Lazlocke">
+"Getting the taste right is good enough."
+#
+<sprite "ta03a06.iph" 2 5 12>
+<name "Viola" "!BA0222">
+"Shouldn't we aim for perfection?"
+#
+<sprite "ta01a15.iph" 6 4 12>
+<name "Celes" "!AA2354">
+"You're right!
+ Thank you for whatever advice you can give!"
+#
+<sprite "ta03a05.iph" 2 5 12>
+<name "Viola" "!BA0223">
+"Then I won't hold back.
+ This could use a touch of red.
+ How about adding carrots?"
+#
+<sprite "ta01a10.iph" 6 4 12>
+<name "Celes" "!AA2355">
+".........Huh?"
+#
+<sprite "ta03a06.iph" 2 5 12>
+<name "Viola" "!BA0224">
+"Hm?"
+#
+<removesprite -1 11>
+Given how much she hates carrots, and the look
+she just gave Viola, I almost busted my sides
+trying not to laugh.
+#
+<exit>
+:2D43
+<music 10>
+<background "bg002a0.iph" 11>
+Elle's come over.
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2356">
+"I cooked lunch today, Elle.
+ Eat up."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta02a09.iph" 6 4 11>
+<name "Elle" "!CA0184">
+"All right.
+ Sounds fun."
+#
+<name "Lazlocke">
+"Oh? You're having lunch together?
+ Poor gi...
+ I mean, have fun."
+#
+<sprite "ta02a06.iph" 6 4 12>
+<name "Elle" "!CA0185">
+"Huh?"
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA2357">
+"Hahaha...
+ Master, don't put funny ideas into her head."
+#
+<name "Lazlocke">
+"C-Celes, please don't twist my arm like that.
+ Ow. Ow. Ow!"
+#
+<removesprite -1 11>
+<exit>
+:2FD4
+<music 10>
+<background "bg002a0.iph" 11>
+Elle's come over and is staying to eat.
+#
+<sprite "ta02a04.iph" 4 4 11>
+<name "Elle" "!CA0186">
+"It's delicious."
+#
+<removesprite -1 11>
+<sprite "ta01a15.iph" 2 5 11>
+<sprite "ta02a04.iph" 6 4 11>
+<name "Celes" "!AA2358">
+"Heheheh.
+ It's a masterpiece."
+#
+<sprite "ta02a09.iph" 6 4 12>
+<name "Elle" "!CA0187">
+"Yeah.
+ If you're this good, you'd be a splendid maid
+ if you wanted."
+#
+<sprite "ta01a92.iph" 2 5 12>
+<name "Celes" "!AA2359">
+"Don't you mean a bride?"
+#
+<removesprite -1 11>
+<exit>
+:31AB
+<music 31>
+<background "ev016a0.iph" 11>
+<name "Elle" "!CA0188">
+"Huh?
+ Celes, you're cooking?"
+#
+<name "Celes" "!AA2360">
+"Oh? Yes.
+ I'm making dinner."
+#
+<name "Elle" "!CA0189">
+"Okay, I can help.
+ ...I'd say, but..."
+#
+<name "Elle" "!CA0190">
+"I can't cook at all."
+#
+<name "Celes" "!AA2361">
+"You'll be okay with a little practice."
+#
+<name "Elle" "!CA0191">
+"My merchant's blood can't stand wasting food."
+#
+<name "Celes" "!AA2362">
+"Hahaha...
+ I'll be done soon.
+ Just wait."
+#
+<exit>
+:3381
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2363">
+"Let's clean up."
+#
+<name "Lazlocke">
+"Work hard."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2364">
+"Yes, sir.
+ Now then, Master, you clean your own room.
+ I'll clean everywhere else."
+#
+<name "Lazlocke">
+"R-Roger that."
+#
+<removesprite -1 11>
+<exit>
+:34CF
+<music 10>
+<background "bg002a0.iph" 11>
+Celes is cleaning.
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA2365">
+"Scrub, scrub..."
+#
+<name "Lazlocke">
+"You've been cleaning that spot for a long time.
+ I think it's clean enough."
+#
+<sprite "ta01a17.iph" 4 4 12>
+<name "Celes" "!AA2366">
+"Huh? Oh. Y-You're right.
+ I overdid it."
+#
+<name "Lazlocke">
+"Just that one spot being so clean makes how
+ dirty everything else stands out."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA2367">
+"Hahaha...
+ I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:36AA
+<music 10>
+<background "bg002a0.iph" 11>
+Celes is cleaning.
+#
+<sprite "ta01a21.iph" 4 4 11>
+<name "Celes" "!AA2368">
+"Grr... I want to get all the dirt off the
+ ceiling."
+#
+<name "Lazlocke">
+"If you start that, it's going to get out of hand
+ fast.
+ The ceiling is fine being cleaned just once a
+ year."
+#
+<sprite "ta01a19.iph" 4 4 12>
+<name "Celes" "!AA2369">
+"Grr..."
+#
+<removesprite -1 11>
+<exit>
+:37F1
+<music 10>
+<background "bg002a0.iph" 11>
+Celes is cleaning.
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2370">
+"This room is all okay.
+ Next... let's polish the silverwear."
+#
+<name "Lazlocke">
+"I-In moderation."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2371">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:3904
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2372">
+"Master, I want to clean up."
+#
+<name "Lazlocke">
+"All right."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA2373">
+"Okay, take this rag."
+#
+<name "Lazlocke">
+"Huh?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2374">
+"Wipe from here to there.
+ I'll clean the other side.
+#
+<name "Lazlocke">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:3AAF
+<music 10>
+<background "bg002a0.iph" 11>
+Celes is cleaning.
+#
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA2375">
+"Mud keeps piling up around the door."
+#
+<name "Lazlocke">
+"Yeah, but what can you do about it?"
+#
+<removesprite -1 11>
+Even if you wipe your feet when you come in,
+some dirt is still going to come with you.
+#
+Especially for a house this far outside of the
+town.
+#
+It's only dirt roads to get here.
+#
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA2376">
+"But I want to do something."
+#
+<removesprite -1 11>
+She thinks about it for a while.
+#
+...But doesn't come up with any good ideas.
+#
+<sprite "ta01a41.iph" 4 4 11>
+<name "Celes" "!AA2377">
+"Now it's bothering me..."
+#
+<removesprite -1 11>
+<exit>
+:3D21
+<music 10>
+<background "bg002a0.iph" 11>
+Celes is cleaning.
+#
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA2378">
+"I might get hooked on cleaning windows..."
+#
+<name "Celes" "!AA2379">
+"Oh, no, wait, cleaning the ceiling is more of
+ something you'd get hooked on doing forever..."
+#
+<removesprite -1 11>
+<exit>
+:3E0C
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a09.iph" 4 4 11>
+<name "Celes" "!AA2380">
+"Okay! Let's do the laundry!"
+#
+<name "Lazlocke">
+"Let's do it!"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2381">
+"No, you have your own work to do."
+#
+<name "Lazlocke">
+"Eh? But..."
+#
+<sprite "ta01a79.iph" 4 4 12>
+<name "Celes" "!AA2382">
+"You want to wash my underwear, don't you?"
+#
+<name "Lazlocke">
+"...I just remembered some work I need to do."
+#
+<removesprite -1 11>
+<exit>
+:3F8A
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA2383">
+"Can the laundry really not be done with magic?"
+#
+<name "Lazlocke">
+"You could probably dry it, but getting the dirt
+ out is too complicated."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA2384">
+"Isn't that something worth studying?"
+#
+<name "Lazlocke">
+"Considering how long that would take, won't it
+ be faster just to do it yourself?"
+#
+<removesprite -1 11>
+<exit>
+:4105
+<music 10>
+<background "bg002a0.iph" 11>
+Celes is doing the laundry.
+#
+<sprite "ta01a19.iph" 4 4 11>
+<name "Celes" "!AA2385">
+"Grr...
+ The stain here isn't coming out."
+#
+<name "Lazlocke">
+"I-I can take care of my own clothes."
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA2386">
+"No, now it's a challenge."
+#
+<removesprite -1 11>
+She's passionate about everything.
+#
+<exit>
+:4241
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2387">
+"I'm glad that the laundry dries quickly at this
+ time of day."
+#
+<removesprite -1 11>
+<exit>
+:42C7
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2388">
+"Doing the washing is fun in the summer."
+#
+<removesprite -1 11>
+<exit>
+:433F
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA2389">
+"It's hard to do the laundry when it's cold out."
+#
+<name "Lazlocke">
+"I can heat the water with magic."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2390">
+"Thank you."
+#
+<removesprite -1 11>
+<exit>
+:4434
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a10.iph" 4 4 11>
+<name "Celes" "!AA2391">
+"Aah! The laundry I put out froze!"
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA2392">
+"I-I could defrost it with a spell...
+ Oh, but then I'd burn the edges."
+#
+<removesprite -1 11>
+<exit>
+:4536
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2393">
+"I'm going out grocery shopping."
+#
+<name "Lazlocke">
+"Thanks."
+#
+<removesprite -1 11>
+<exit>
+:45CE
+<music 2>
+<background "bg014a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2394">
+"Umm, I'll buy this... and this...
+ The rest is... just my stuff.
+ Okay, let's do it!
+ As much as is in budget!"
+#
+<name "Lazlocke">
+"I can give you a little more money."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2395">
+"No, don't worry about it.
+ It's fun shopping on a budget."
+#
+<name "Lazlocke">
+"U-Um... if you say so."
+#
+<removesprite -1 11>
+<exit>
+:4781
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Celes, please order more of this from the usual
+ store."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2396">
+"Understood."
+#
+<name "Lazlocke">
+"If you need anything, put in an order for that
+ too."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA2397">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:48C5
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta17a00.iph" 4 4 11>
+<name "Merchant" "!TB0035">
+"Thanks for coming back to Lisette's.
+ Your order's ready."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta17a00.iph" 6 4 11>
+<name "Celes" "!AA2398">
+"Thank you very much."
+#
+<name "Merchant" "!TB0036">
+"I'll send the bill along like usual."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA2399">
+"Please and thank you."
+#
+<removesprite -1 11>
+<exit>
+:4A5F
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta17a00.iph" 4 4 11>
+<name "Merchant" "!TB0037">
+"Thanks for shopping with Lisette's."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 2 5 11>
+<sprite "ta17a00.iph" 6 4 11>
+<name "Celes" "!AA2400">
+"Thank you for everything.
+ Just put it right there."
+#
+<name "Merchant" "!TB0038">
+"All right.
+ Please make sure everything's there."
+#
+<sprite "ta01a08.iph" 2 5 12>
+<name "Celes" "!AA2401">
+"Okay.
+ ...Huh?
+ I didn't order this."
+#
+<name "Merchant" "!TB0039">
+"Oh, that's a bonus.
+ It's something that we're trying out right now.
+ If you like it, please let us know."
+#
+<sprite "ta01a15.iph" 2 5 12>
+<name "Celes" "!AA2402">
+"All right.
+ Everything else looks good.
+ Thank you."
+#
+<name "Merchant" "!TB0040">
+"Of course.
+ I hope you shop with us again."
+#
+<removesprite -1 11>
+<exit>
+:4D46
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta17a00.iph" 4 4 11>
+<name "Merchant" "!TB0041">
+"Thank you for shopping with Lisette's.
+ I have your order ready.
+ I'll leave it here.
+ Also, a letter for you."
+#
+<removesprite -1 11>
+<sprite "ta01a07.iph" 4 5 11>
+<name "Celes" "!AA2403">
+"Thank you.
+ Master, a letter came."
+#
+<name "Lazlocke">
+"A letter?
+ From who?"
+#
+<sprite "ta01a89.iph" 4 5 12>
+<name "Celes" "!AA2404">
+"Ummm...
+ The lovely Mayzel?"
+#
+<name "Lazlocke">
+"Oh, her. I'll take that.
+ Celes, put everything else away."
+#
+<sprite "ta01a07.iph" 4 5 12>
+<name "Celes" "!AA2405">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:4FA3
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta17a00.iph" 4 4 11>
+<name "Merchant" "!TB0042">
+"Thank you for shopping with Lisette's."
+#
+<name "Lazlocke">
+"Huh?
+ Did we order something?"
+#
+<name "Merchant" "!TB0043">
+"No, I'm here to remind you about paying your
+ bill."
+#
+<name "Lazlocke">
+"I-Is it due already?"
+#
+<name "Merchant" "!TB0044">
+"No, not for a little longer, but your bill is
+ substantial, so I didn't want to create any
+ problems collecting all of it at once."
+#
+<name "Lazlocke">
+"I-I see...
+ How much is it?"
+#
+<name "Merchant" "!TB0045">
+"Your receipt."
+#
+<name "Lazlocke">
+".........Seriously?"
+#
+<name "Merchant" "!TB0046">
+"Is there a mistake?"
+#
+<name "Lazlocke">
+"Umm... I remember ordering this on that day,
+ and..."
+#
+<name "Merchant" "!TB0047">
+"Then the payment will be..."
+#
+<name "Lazlocke">
+"All right.
+ I'll bring it by the shop tomorrow."
+#
+<name "Merchant" "!TB0048">
+"Thank you very much.
+ Good bye."
+#
+<removesprite -1 11>
+<name "Lazlocke">
+"...You need to pay for what you buy."
+#
+<name "Lazlocke">
+"So I'm fine with paying."
+#
+<name "Lazlocke">
+"...If I had the money."
+#
+<name "Lazlocke">
+"......I'm stuck.
+ I'll need to borrow from Viola or the Guild."
+#
+<exit>
+:53B8
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2406">
+"We need to fetch more water."
+#
+<name "Lazlocke">
+"Do you know where the well is?"
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA2407">
+"Master, how long do you think I've been here?"
+#
+<name "Lazlocke">
+"Sorry."
+#
+<removesprite -1 11>
+<exit>
+:54E6
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+"You want to weed?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2408">
+"Yes, sir."
+#
+<name "Lazlocke">
+"Okay, you can use this."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA2409">
+"A scythe?"
+#
+<name "Lazlocke">
+"Mmhmm."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA2410">
+"Can't I burn them up with magic?"
+#
+<name "Lazlocke">
+"Years ago, there was an idiot who tried that.
+ What do you think happened?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA2411">
+"...A fire?"
+#
+<name "Lazlocke">
+"The whole area around the house was in ashes."
+#
+<sprite "ta01a37.iph" 4 4 12>
+<name "Celes" "!AA2412">
+"Whoa."
+#
+<name "Lazlocke">
+"By the way, that idiot was Viola."
+#
+<sprite "ta01a11.iph" 4 4 12>
+<name "Celes" "!AA2413">
+"Eeeeeh!?"
+#
+<removesprite -1 11>
+<exit>
+:57DB
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2414">
+"What's easier? Carrying water, or using magic
+ to make water?"
+#
+<name "Lazlocke">
+"Hmm...
+ Which is more important to you, your stamina or
+ your mana?"
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA2415">
+"...I'll carry the water."
+#
+<removesprite -1 11>
+<exit>
+:591F
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2416">
+"We're running low on firewood."
+#
+<name "Lazlocke">
+"Okay.
+ I'll buy more next time we're in town."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2417">
+"Please.
+ I'll look for some while I'm in the forest too."
+#
+<removesprite -1 11>
+<exit>
+:5A54
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2418">
+"I'm going out to collect firewood."
+#
+<name "Lazlocke">
+"Hm?
+ We're out?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2419">
+"No, to save money."
+#
+<name "Lazlocke">
+"What a rough life..."
+#
+<removesprite -1 11>
+<exit>
+:5B6E
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2420">
+"I'll get the heating ready to go."
+#
+<name "Lazlocke">
+"Great. 
+ Thanks."
+#
+<removesprite -1 11>
+<exit>
+:5C12
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2421">
+"Since it's getting cold, I'll bring out all the
+ blankets.
+ I'll check the fireplace too."
+#
+<name "Lazlocke">
+"I'll handle the fireplace.
+ You check the windows.
+ If there are any gaps, we need to fix them
+ now."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA2422">
+"Okay. Understood."
+#
+<removesprite -1 11>
+<exit>
+:5D80
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA2423">
+"When it's summer, you've just got to open up
+ the windows and air out the house."
+#
+<name "Lazlocke">
+"Agreed."
+#
+<removesprite -1 11>
+<exit>
+:5E35
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a37.iph" 4 4 11>
+<name "Celes" "!AA2424">
+"So hot..."
+#
+<name "Lazlocke">
+"Yeah.
+ Want to take out ice?"
+#
+<sprite "ta01a40.iph" 4 4 12>
+<name "Celes" "!AA2425">
+"I-I'm so glad I'm aiming to be a wizard..."
+#
+<removesprite -1 11>
+<exit>
+:5F2D
+<music 10>
+<background "bg002a0.iph" 11>
+The room starts shaking.
+#
+<sprite "ta01a11.iph" 4 4 11>
+<name "Celes" "!AA2426">
+"Aaah! E-Earthquake!
+ It's a big one!
+ W-We have to take cover!"
+#
+<removesprite -1 11>
+A few minutes later...
+#
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA2427">
+"I-Is it over?"
+#
+<name "Lazlocke">
+"Seems like it.
+ No injuries?"
+#
+<sprite "ta01a32.iph" 4 4 12>
+<name "Celes" "!AA2428">
+"N-No.
+ Was a dragon rampaging?"
+#
+<name "Lazlocke">
+"Maybe.
+ There could still be aftershocks.
+ Be careful."
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA2429">
+"O-Okay."
+#
+We checked for damage, but the house seems mostly
+unscathed.
+#
+<name "Lazlocke">
+"Is the city okay?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2430">
+"It doesn't look like anything's on fire."
+#
+<removesprite -1 11>
+<exit>
+:6234
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2431">
+"There was so much lightning last night.
+ I wonder if any of it hit the city."
+#
+<name "Lazlocke">
+"There are lightning rods.
+ They should be all right."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA2432">
+"Still, natural lightning is incredible.
+ It makes magical lightning seem so pathetic."
+#
+<name "Lazlocke">
+"Nah, that's not true at all.
+ Magical lightning seems puny because most of
+ the effort goes into eliminating needless
+ waste."
+#
+<name "Lazlocke">
+"Natural lightning has a ton of sound and fury, 
+ but for no purpose."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA2433">
+"Oh, I see."
+#
+<name "Lazlocke">
+"If you wanted to put out lightning like what
+ shows up in nature, it's easier to change the
+ atmosphere to make it easier to channel
+ lightning than to create it directly."
+#
+<sprite "ta01a42.iph" 4 4 12>
+<name "Celes" "!AA2434">
+"Hahaha...
+ Either way, it's pretty crazy."
+#
+<removesprite -1 11>
+<exit>
+:6567
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA2435">
+"It snowed so much yesterday."
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA2436">
+"But then why isn't there very much of it on
+ the ground?"
+#
+<name "Lazlocke">
+"Because the Guild collects it."
+#
+<sprite "ta01a06.iph" 4 4 12>
+<name "Celes" "!AA2437">
+"They do?"
+#
+<name "Lazlocke">
+"They save the snow to deal with droughts or hot
+ periods in the summer."
+#
+<sprite "ta01a08.iph" 4 4 12>
+<name "Celes" "!AA2438">
+"Oohh..."
+#
+<name "Lazlocke">
+"Apparently about ninety percent of it will
+ evaporate come summer."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2439">
+"Still, that's incredible."
+#
+<removesprite -1 11>
+<exit>
+:67FA
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a31.iph" 4 4 11>
+<name "Celes" "!AA2440">
+"It hasn't rained at all recently."
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA2441">
+"The well water is running low too, so it's
+ hard to fetch more."
+#
+<name "Lazlocke">
+"If we're struggling with water, the city no 
+ doubt has it much worse."
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA2442">
+"Yeah.
+ I hope it doesn't become an emergency."
+#
+<removesprite -1 11>
+<exit>
+:69A4
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2443">
+"The rain's not stopping."
+#
+<name "Lazlocke">
+"Yeah. Stay away from the river."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA2444">
+"Hahaha...
+ I know."
+#
+<removesprite -1 11>
+<exit>
+:6A96
+<music 10>
+<background "bg002a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  31 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :6B1F: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2447">
+"What should I do today?"
+#
+:6B1F
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :6B80: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2448">
+"I'll cook hard today."
+#
+:6B80
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :6BE5: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2449">
+"Leave the cooking today to me."
+#
+:6BE5
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :6C42: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2452">
+"Okay, let's cook!"
+#
+:6C42
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :6CA1: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2453">
+"What should I cook today?"
+#
+:6CA1
+\x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :6D02: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2454">
+"Leave the cooking to me!"
+#
+:6D02
+\x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :6D67: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2455">
+"Master, what did you want for dinner?"
+#
+:6D67
+\x1A\x01\x0A\x22\x00\x01 8 \x01\x0E :6DCC: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2456">
+"Master, leave breakfast to me."
+#
+:6DCC
+\x1A\x01\x0A\x22\x00\x01 9 \x01\x0E :6E23: 
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA2457">
+"Looking good."
+#
+:6E23
+\x1A\x01\x0A\x22\x00\x01 10 \x01\x0E :6E86: 
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA2458">
+"Another delicious dish."
+#
+:6E86
+\x1A\x01\x0A\x22\x00\x01 11 \x01\x0E :6EDB: 
+<sprite "ta01a90.iph" 4 4 11>
+<name "Celes" "!AA2459">
+"Bon appetit!"
+#
+:6EDB
+\x1A\x01\x0A\x22\x00\x01 12 \x01\x0E :6F34: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2460">
+"Cleaning.ÅÙ Cleaning.ÅÙ"
+#
+:6F34
+\x1A\x01\x0A\x22\x00\x01 13 \x01\x0E :6F8D: 
+<sprite "ta01a16.iph" 4 4 11>
+<name "Celes" "!AA2461">
+"Let's clean up!"
+#
+:6F8D
+\x1A\x01\x0A\x22\x00\x01 14 \x01\x0E :6FE0: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2462">
+"Let's get cleaning!"
+#
+:6FE0
+\x1A\x01\x0A\x22\x00\x01 15 \x01\x0E :7039: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2463">
+"Let's clean up the garden."
+#
+:7039
+\x1A\x01\x0A\x22\x00\x01 16 \x01\x0E :7098: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2464">
+"Let's clean up the room."
+#
+:7098
+\x1A\x01\x0A\x22\x00\x01 17 \x01\x0E :70FF: 
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA2465">
+"Master, please clean up."
+#
+:70FF
+\x1A\x01\x0A\x22\x00\x01 18 \x01\x0E :7168: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2466">
+"Master, please help with the cleaning."
+#
+:7168
+\x1A\x01\x0A\x22\x00\x01 19 \x01\x0E :71BD: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2467">
+"Laundry.ÅÙ Laundry.ÅÙ"
+#
+:71BD
+\x1A\x01\x0A\x22\x00\x01 20 \x01\x0E :7224: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2468">
+"The weather's nice.
+ Let's do the laundry."
+#
+:7224
+\x1A\x01\x0A\x22\x00\x01 21 \x01\x0E :728B: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2469">
+"It's sunny out.
+ That's laundry weather."
+#
+:728B
+\x1A\x01\x0A\x22\x00\x01 22 \x01\x0E :72F0: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2470">
+"Maybe I should do the laundry today."
+#
+:72F0
+\x1A\x01\x0A\x22\x00\x01 23 \x01\x0E :734D: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA2471">
+"Yep.
+ All clean."
+#
+:734D
+\x1A\x01\x0A\x22\x00\x01 24 \x01\x0E :73A6: 
+<sprite "ta01a17.iph" 4 4 11>
+<name "Celes" "!AA2472">
+"Be clean!ÅÙ"
+#
+:73A6
+\x1A\x01\x0A\x22\x00\x01 25 \x01\x0E :7405: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2473">
+"I'm going shopping."
+#
+:7405
+\x1A\x01\x0A\x22\x00\x01 26 \x01\x0E :746A: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2474">
+"I'm going grocery shopping."
+#
+:746A
+\x1A\x01\x0A\x22\x00\x01 27 \x01\x0E :74CD: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2475">
+"I'm going out to look for herbs."
+#
+:74CD
+\x1A\x01\x0A\x22\x00\x01 28 \x01\x0E :752C: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2476">
+"Let's clean up the yard."
+#
+:752C
+\x1A\x01\x0A\x22\x00\x01 29 \x01\x0E :758D: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2477">
+"I'm going to fix the leaks in the roof."
+#
+:758D
+\x1A\x01\x0A\x22\x00\x01 30 \x01\x0E :7601: 
+<sprite "ta01a08.iph" 4 4 11>
+<name "Celes" "!AA2478">
+"There's so much dust.
+ I should sprinkle water."
+#
+:7601
+\x1A\x01\x0A\x22\x00\x01 31 \x01\x0E :767F: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA2479">
+"I'll put out some flowers.
+ That should make this much nicer."
+#
+:767F
+<removesprite -1 11>
+<exit>
+\x78

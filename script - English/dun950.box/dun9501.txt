@@ -1,0 +1,75 @@
+\x1A\x01\x0A\x02\x01\x02 0 \x01\x0E :78: \x0F\x22\x00\x04\x02\x00\xFB 3 \x1A\x01\x0A\x22\x00\x04 0 \x01\x0E :3C: \x16 :79: \x15 :78: 
+:3C
+\x1A\x01\x0A\x22\x00\x04 1 \x01\x0E :5A: \x16 :163: \x15 :78: 
+:5A
+\x1A\x01\x0A\x22\x00\x04 2 \x01\x0E :78: \x16 :2B6: \x15 :78: 
+:78
+\x78
+:79
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c00.iph" 4 4 11>
+<name "セリス" "!AA2810">
+「山の魔物退治に、行って参ります！」
+#
+<name "ラズロック">
+「よし！
+　頑張れ！」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA2811">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+:163
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "セリス" "!AA2812">
+「師匠。
+　山に行って来ます」
+#
+<name "ラズロック">
+「山？」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA2813">
+「はい、山登りを兼ねて魔物退治など」
+#
+<name "ラズロック">
+「……頑張って来い」
+#
+<sprite "ta01c07.iph" 4 4 12>
+<name "セリス" "!AA2814">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:2B6
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "セリス" "!AA2815">
+「師匠。
+　山に行ってきます」
+#
+<name "ラズロック">
+「ん？
+　魔物退治か？」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA2816">
+「はい」
+#
+<name "ラズロック">
+「そうか。
+　頑張って来い」
+#
+<sprite "ta01c07.iph" 4 4 12>
+<name "セリス" "!AA2817">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+\x78

@@ -1,0 +1,469 @@
+\x0A\x04\x01\x7C\x84\x00\x0A\x04\x01\x7B\x84\x01\xE9 6004 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 1 \x01\x0E :27: 
+:27
+\x1A\x01\x07\x04\x0A\xAA\x84\x00\x01\x0E :63: \x1A\x01\x07\x04\x07\x69\x84\x01\x01\x0E :63: \x0A\x04\x0A\xAA\x84\x01\x6E 0  "he0000.box" \x15 :333: 
+:63
+\x16 :33A: \x1A\x01\x07\x04\x01\x7C\x84\x01\x01\x0E :7E: \x15 :333: 
+:7E
+\x1A\x01\x07\x04\x09\x14\x84\x00\x01\x0E :B1: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :B1: \x16 :CD9: \x0A\x04\x09\x14\x84\x01\x15 :333: 
+:B1
+\x1A\x01\x07\x04\x09\x15\x84\x00\x01\x0E :E4: \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :E4: \x16 :ECE: \x0A\x04\x09\x15\x84\x01\x15 :333: 
+:E4
+\x1A\x01\x07\x04\x09\x16\x84\x00\x01\x0E :117: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :117: \x16 :1077: \x0A\x04\x09\x16\x84\x01\x15 :333: 
+:117
+\x1A\x01\x07\x04\x09
+<exit>
+\x84\x00\x01\x0E :14A: \x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :14A: \x16 :1204: \x0A\x04\x09
+<exit>
+\x84\x01\x15 :333: 
+:14A
+\x1A\x01\x07\x04\x09\x18\x84\x00\x01\x0E :17D: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :17D: \x16 :12E1: \x0A\x04\x09\x18\x84\x01\x15 :333: 
+:17D
+\x1A\x01\x07\x04\x09\x19\x84\x00\x01\x0E :1B0: \x1A\x01\x0A\x02\x01\x99 3 \x01\x0E :1B0: \x16 :142B: \x0A\x04\x09\x19\x84\x01\x15 :333: 
+:1B0
+\x1A\x01\x07\x04\x09\x1A\x84\x00\x01\x0E :1F2: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :1F2: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :1F2: \x16 :152F: \x0A\x04\x09\x1A\x84\x01\x15 :333: 
+:1F2
+\x1A\x01\x07\x04\x09\x1B\x84\x00\x01\x0E :234: \x1A\x01\x07\x04\x07\x1F\x84\x00\x01\x0E :234: \x1A\x01\x0A\x02\x01\x99 0 \x01\x0E :234: \x16 :1724: \x0A\x04\x09\x1B\x84\x01\x15 :333: 
+:234
+\x1A\x01\x07\x04\x09\x10\x84\x00\x01\x0E :255: \x16 :51C: \x0A\x04\x09\x10\x84\x01\x15 :333: 
+:255
+\xE9 6004 \x22\x00\x02\x0F\x22\x00\x04\x22\x00\x02 3 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0F :282: \x15 :327: 
+:282
+\x1A\x01\x07\x04\x09\x11\x84\x00\x01\x0E :2A3: \x16 :64D: \x0A\x04\x09\x11\x84\x01\x15 :333: 
+:2A3
+\x1A\x01\x07\x04\x09\x12\x84\x00\x01\x0E :2C4: \x16 :8A9: \x0A\x04\x09\x12\x84\x01\x15 :333: 
+:2C4
+\x1A\x01\x07\x04\x09\x13\x84\x00\x01\x0E :2E5: \x16 :A5E: \x0A\x04\x09\x13\x84\x01\x15 :333: 
+:2E5
+\x1A\x01\x07\x04\x09\x1C\x84\x00\x01\x0E :306: \x16 :1AC0: \x0A\x04\x09\x1C\x84\x01\x15 :333: 
+:306
+\x1A\x01\x07\x04\x09\x1D\x84\x00\x01\x0E :327: \x16 :1BDA: \x0A\x04\x09\x1D\x84\x01\x15 :333: 
+:327
+\x16 :34B: \x15 :333: 
+:333
+\x0A\x04\x01\x7B\x84\x00\x78
+:33A
+\x6E 1  "k604.box" 
+<exit>
+:34B
+<music 10>
+<background "bg002a0.iph" 11>
+\x2B\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :3E7: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4809">
+"Master, should I just hang out today?"
+#
+<removesprite -1 11>
+\x2B
+:3E7
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :44F: 
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4810">
+"What should I do?"
+#
+<removesprite -1 11>
+\x2B
+:44F
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :4B5: 
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4811">
+"Should I hang out?"
+#
+<removesprite -1 11>
+\x2B
+:4B5
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :51B: 
+<sprite "ta01a15.iph" 4 4 11>
+<name "Celes" "!AA4812">
+"Okay, I'll have fun."
+#
+<removesprite -1 11>
+:51B + 1
+<exit>
+:51C
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4741">
+"Cards?"
+#
+<name "Lazlocke">
+"Cards."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4742">
+"...I know how I look, but I'm pretty good."
+#
+<name "Lazlocke">
+"Oh?"
+#
+<removesprite -1 11>
+Celes and I enjoy an afternoon playing cards.
+#
+<exit>
+:64D
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Fishing?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4743">
+"Yes.
+ I'm going to the river nearby."
+#
+<name "Lazlocke">
+"Yeah, all right.
+ It's just an unexpected hobby."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4744">
+"I've heard that a lot before, but it's thanks
+ to this hobby that I didn't starve even after
+ losing my home."
+#
+<name "Lazlocke">
+"T-That's a pretty useful hobby."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4745">
+"It is. As long as you have a pole, you can
+ get by for at least a month without money."
+#
+<name "Lazlocke">
+"..."
+#
+<removesprite -1 11>
+<exit>
+:8A9
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4746">
+"You want me to spend time with you?"
+#
+<name "Lazlocke">
+"Not spend time, exactly.
+ Work on our communication."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4747">
+"All right.
+ What should we do?"
+#
+<name "Lazlocke">
+"Hmm...
+ How about play cards?"
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4748">
+"I can do that."
+#
+<removesprite -1 11>
+Celes and I play cards.
+#
+<exit>
+:A5E
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Oohhhhh...
+ Right there..."
+#
+Celes is giving me a massage.
+#
+Not to speak too highly of her since my back 
+was killing me, but it feels fantastic.
+#
+<name "Lazlocke">
+"A little lower...
+ There...
+ Ohhhhhhh..."
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0725">
+"You seem quite relaxed, Your Grace."
+#
+<name "Lazlocke">
+"Her massage is amazing..."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0726">
+"That's all well and good, but I don't think you
+ should be so relaxed while the Guild has so
+ much work for you to do."
+#
+<name "Lazlocke">
+"Too bad.
+ I plan to take it easy all week."
+#
+<removesprite -1 11>
+<exit>
+:CD9
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4749">
+"Go for a leisurely walk?"
+#
+<name "Lazlocke">
+"Yeah, and then we can enjoy the day.
+ Forget about studying."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4750">
+"Are you sure?"
+#
+<name "Lazlocke">
+"Yeah, all work and no play.
+ Sometimes you need to get out and change things
+ up. Call it training the heart, if you want."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA4751">
+"A-All right.
+ I'll try hard to enjoy myself."
+#
+<removesprite -1 11>
+<exit>
+:ECE
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4752">
+"It's warm and nice out."
+#
+<name "Lazlocke">
+"Yeah."
+#
+<sprite "ta01a89.iph" 4 4 12>
+<name "Celes" "!AA4753">
+"It's making me sleepy."
+#
+<name "Lazlocke">
+"Then let's race to see who can nap for longer."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA4754">
+"Yeeep."
+#
+<removesprite -1 11>
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA0727">
+"What idiocy is this?"
+#
+<removesprite -1 11>
+<exit>
+:1077
+<music 10>
+<background "bg001a0.iph" 11>
+<sprite "ta01a06.iph" 4 4 11>
+<name "Celes" "!AA4755">
+"Hunting?"
+#
+<name "Lazlocke">
+"Yeah, let's enjoy a hunt."
+#
+<sprite "ta01a07.iph" 4 4 12>
+<name "Celes" "!AA4756">
+"All right."
+#
+<removesprite -1 11>
+<background "bg017a0.iph" 11>
+...
+#
+<name "Lazlocke">
+"...There's nothing to hunt."
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4757">
+"It's not so bad if you think of it as just a
+ long walk."
+#
+<removesprite -1 11>
+<exit>
+:1204
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Celes, I heard a new cafe just opened.
+ Want to check it out?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4758">
+"Okay."
+#
+<removesprite -1 11>
+We enjoy ourselves at the new cafe.
+#
+<exit>
+:12E1
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+"Want to go foraging in the forest?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4759">
+"All right.
+ This time of year, you can find all kinds of
+ nuts and mushrooms."
+#
+<name "Lazlocke">
+"It'll save us the cost of food, and be
+ refreshing."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4760">
+"Yep."
+#
+<removesprite -1 11>
+<exit>
+:142B
+<music 10>
+<background "bg001a0.iph" 11>
+<name "Lazlocke">
+"Okay, want to go toss the ball around?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4761">
+"I'll take you on."
+#
+<name "Lazlocke">
+"Yeah. That's the spirit."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4762">
+"Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:152F
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Celes, what are you doing?"
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4763">
+"Knitting."
+#
+<name "Lazlocke">
+"Oh? I didn't know you knew how to do that."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4764">
+"It's an essential skill for girls."
+#
+<name "Lazlocke">
+"I've never seen Viola or Soshiette do it."
+#
+<sprite "ta01a92.iph" 4 4 12>
+<name "Celes" "!AA4765">
+"Correction.
+ It's an essential skill for normal girls."
+#
+<removesprite -1 11>
+<exit>
+:1724
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4766">
+"Master, would you like to play chess?"
+#
+<name "Lazlocke">
+"Yeah, that's fine."
+#
+<removesprite -1 11>
+Chess is a good way to learn.
+#
+Well, I don't intend to let her beat me.
+#
+I know it's just a game, but I've got my pride.
+#
+Five minutes later...
+#
+<name "Lazlocke">
+"Huh?"
+#
+I'm losing.
+#
+How?
+#
+<sprite "ta01a07.iph" 4 4 11>
+<name "Celes" "!AA4767">
+"What's the matter?
+ Has it been a while and you've lost your edge?"
+#
+<name "Lazlocke">
+"Hahaha... T-That must be it.
+ Another game."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4768">
+"Okay."
+#
+<removesprite -1 11>
+Ten minutes later...
+#
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA4770">
+"Master, shouldn't you give up?
+ You're completely checkmated.
+ Let's start a new game."
+#
+<name "Lazlocke">
+"No, hold on.
+ There's got to be something.
+ There has to be something..."
+#
+<removesprite -1 11>
+I wasn't able to beat her, no matter how many
+times I tried.
+#
+<exit>
+:1AC0
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Haven't we been lazing around too much
+ recently?"
+#
+<sprite "ta01a92.iph" 4 4 11>
+<name "Celes" "!AA4802">
+"I think... maybe we have."
+#
+<name "Lazlocke">
+"...Let's get back to work.
+ Tomorrow."
+#
+<sprite "ta01a90.iph" 4 4 12>
+<name "Celes" "!AA4803">
+"Y-Yes, sir."
+#
+<removesprite -1 11>
+<exit>
+:1BDA
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01a27.iph" 4 4 11>
+<name "Celes" "!AA4804">
+"All I do is hang around lately...
+ Is that okay?"
+#
+<sprite "ta01a31.iph" 4 4 12>
+<name "Celes" "!AA4805">
+"No, it's what he told me to do.
+ I shouldn't doubt him."
+#
+<name "Lazlocke">
+"Heeeey."
+#
+<sprite "ta01a15.iph" 4 4 12>
+<name "Celes" "!AA4806">
+"Yes, sir.
+ What are we doing today?"
+#
+<removesprite -1 11>
+<exit>
+\x78

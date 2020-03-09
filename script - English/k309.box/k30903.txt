@@ -1,0 +1,1160 @@
+\x1A\x01\x07\x04\x08\xA2\x84\x00\x01\x0E :45: \x1A\x01\x0A\x02\x01\xA4 12 \x01\x15 :45: \x16 :100: \x0A\x04\x00\xD6\x84\x01\x0A\x04\x08\xA2\x84\x01\x0A\x04\x00\xBB\x84\x01\xEE -10 \x15 :FF: 
+:45
+\x1A\x01\x07\x04\x08\xA3\x84\x00\x01\x0E :A2: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :A2: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :A2: \x1A\x01\x0A\x02\x01\xA4 20 \x01\x15 :A2: \x16 :1A33: \x0A\x04\x08\xA3\x84\x01\x0A\x04\x00\xBB\x84\x01\xEE -10 \x15 :FF: 
+:A2
+\x1A\x01\x07\x04\x08\xA4\x84\x00\x01\x0E :FF: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :FF: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :FF: \x1A\x01\x0A\x02\x01\xA4 30 \x01\x15 :FF: \x16 :32D3: \x0A\x04\x08\xA4\x84\x01\x0A\x04\x00\xBB\x84\x01\xEE -10 \x15 :FF: 
+:FF
+\x78
+:100
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0789">
+"Your Grace."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0790">
+"Where is Miss Celes?"
+#
+<name "Lazlocke">
+"Oh, she's out for a run.
+ She said she'd be gone for a while."
+#
+<sprite "ta04a02.iph" 4 4 12>
+<name "Soshiette" "!DA0791">
+"I see.
+ Then I'll wait for her to come back."
+#
+<name "Lazlocke">
+"Sorry.
+ Thanks for always helping out with her fighting
+ lessons."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0792">
+"It's nothing.
+ I'm interested in what she's capable of as well."
+#
+<name "Lazlocke">
+"Yeah...
+ I'm useless for anything but magic."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0794">
+"Everyone has their strengths and weaknesses.
+ Don't let it bother you."
+#
+<name "Lazlocke">
+"Thanks for saying that."
+#
+<sprite "ta04a72.iph" 4 4 12>
+<name "Soshiette" "!DA0795">
+"Yes.
+ Speaking of which..."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta04a73.iph" 4 4 12>
+<name "Soshiette" "!DA0796">
+"If you really are grateful for my help with her,
+ would it be so bad to show it?"
+#
+<name "Lazlocke">
+"Do you want a pat on the head?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0797">
+"Your Grace."
+#
+<name "Lazlocke">
+"Just kidding."
+#
+<removesprite -1 11>
+I hug her from behind.
+#
+<music 35>
+<background "ev073a1.iph" 10>
+I close her mouth with a kiss while rubbing her
+chest, rolling up her skirt, and pulling down her
+underwear.
+#
+<name "Soshiette" "!DA0798">
+"Ah...mm..."
+#
+As I stroke her exposed butt, I open her pussy
+and slide a finger inside her.
+#
+<name "Soshiette" "!DA0799">
+"Ah...mmm...mmmm...mmmm..."
+#
+She doesn't resist at all, just accepts my finger
+and kisses me back.
+#
+I open her more and slide my finger deeper into
+her.
+#
+<name "Soshiette" "!DA0800">
+"Aah...ah...ah...mmmmm..."
+#
+Her pussy squeezes really tight on my finger.
+#
+Like it's saying that a finger's not enough.
+#
+But I keep reaching deeper inside her, teasing
+her more.
+#
+<name "Soshiette" "!DA0801">
+"Ah...ah....aaah...aahhhh..."
+#
+Once I feel how wet she's getting, I open her up
+between my fingertips and slide my whole dick 
+into her at once.
+#
+<background "ev073a0.iph" 10>
+<name "Soshiette" "!DA0802">
+"Ngh...ah...ah...
+ S-So forceful..."
+#
+<name "Soshiette" "!DA0803">
+"But... I don't hate that."
+#
+<name "Lazlocke">
+"I see."
+#
+With my dick inside her, I move my free hand up
+to her chest.
+#
+<name "Soshiette" "!DA0804">
+"Ah... P-Please stop... aah... touching my
+ breasts..."
+#
+<name "Lazlocke">
+"I don't want to."
+#
+<name "Soshiette" "!DA0805">
+"B-But..."
+#
+Her chest is small.
+#
+Nonexistent may be a better way to put it.
+#
+Because of that, she doesn't like her chest being
+touched.
+#
+<name "Lazlocke">
+"They say breasts get bigger if they're touched."
+#
+<name "Soshiette" "!DA0806">
+"..."
+#
+<name "Lazlocke">
+"Maybe because you always keep them so covered up
+ is why they're so small."
+#
+<name "Soshiette" "!DA0807">
+"..."
+#
+<name "Lazlocke">
+"Well?"
+#
+<background "ev073a1.iph" 10>
+<name "Soshiette" "!DA0808">
+"...Please touch them."
+#
+<name "Lazlocke">
+"Just touch them?"
+#
+<name "Soshiette" "!DA0809">
+"Please rub my... small breasts."
+#
+<name "Lazlocke">
+"Good girl."
+#
+<name "Soshiette" "!DA0810">
+"Grr...
+ Ah...ah...ngh..."
+#
+<name "Lazlocke">
+"My dick's already inside you.
+ Don't start getting upset now."
+#
+<name "Soshiette" "!DA0811">
+"B-But...
+ Ahhh...ah...mmm..."
+#
+I rub her breasts and pinch her small, stiff
+nipples.
+#
+I enjoy how they feel between my fingers, but 
+don't stop rubbing her chest.
+#
+There's certainly not but there.
+#
+But she's definitely female.
+#
+<name "Soshiette" "!DA0812">
+"Ah...mmm...mmm...mmmm..."
+#
+I move my hips while gently stimulating her.
+#
+<name "Soshiette" "!DA0813">
+"Ah...ah...ahhh...
+ Mm...mmm...mmm..."
+#
+She lets out a sweet moan, drawing me in.
+I kiss her again and close her lips.
+#
+<name "Soshiette" "!DA0814">
+"Mm...mm...mmmm..."
+#
+We stay standing up, completely entangled in each
+other.
+#
+<name "Soshiette" "!DA0815">
+"Mm...ah...mmm...ah...
+ I-I'm almost...
+ Ahh...mm...ah...ah!"
+#
+She begs for more.
+#
+Not just with her words, but by pressing her
+whole body against me.
+#
+I thrust harder in response, piercing her deeper
+and more.
+#
+<name "Soshiette" "!DA0816">
+"Aaaaahhhhh!"
+#
+I pull back faster, and push up harder.
+#
+<name "Soshiette" "!DA0817">
+"Aaah! Nnh! Mm! Mm! Ah!
+ Not so... ah... deep!
+ Aaah! Aaahhh!"
+#
+Doing that over and over again, I slowly build her
+desire.
+#
+<name "Soshiette" "!DA0818">
+"Aah! Ah! Ah! Aah! Aahhh! Ah!
+ Ah! Aah! Ah! Aaaahhhh!"
+#
+Each time I go really deep, I feel the tip of my
+dick press against her womb.
+#
+<name "Soshiette" "!DA0819">
+"Ah! Ah! I-I can't... aah... take any more...
+ Ah! Aah! Aaah! Ahhh!"
+#
+She suddenly clamps tight.
+#
+My dick slides back and forth despite how hard
+she's squeezing.
+#
+The sudden intense pleasure makes my head go
+blank all at once.
+#
+<name "Soshiette" "!DA0820">
+"Aaaahhhhhhh!!!!!"
+#
+At the same time as she shudders and climaxes,
+my dick throbs and I start to come deep inside
+her.
+#
+Semen shoots out of my dick in a steady rhythm,
+filling her pussy and womb.
+#
+<background "ev073a2.iph" 10>
+<name "Soshiette" "!DA0821">
+"Ah...aaah...ahhhh..."
+#
+I pour every last drop into her and kiss her as
+she basks in the echoes of her orgasm.
+#
+<name "Soshiette" "!DA0822">
+"Mm...mmm...
+ Your Grace..."
+#
+Again.
+#
+<name "Soshiette" "!DA0823">
+"Mm...mmm...mm..."
+#
+I continue having sex with her for a while.
+#
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0829">
+"I'm finished changing."
+#
+She walks back in wearing a different maid outfit.
+#
+The original one got pretty messy.
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0830">
+"I washed it, so please take it in later."
+#
+<name "Lazlocke">
+"Yeah, I know."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0831">
+"All right, I should go check up on Celes."
+#
+<name "Lazlocke">
+"Please."
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0832">
+"Your Grace."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0833">
+"I look forward to next time."
+#
+She leaves without waiting for an answer.
+#
+I quietly say that I know, and go back to my own
+work.
+#
+\x0A\x44\x00\xC9\x84\x01
+<exit>
+:1A33
+<music 37>
+<background "ev073a0.iph" 10>
+Soshiette came onto me, and now we're having sex.
+#
+I've already come in her twice, but I'm still
+moving my hips, not satisfied yet.
+#
+<name "Soshiette" "!DA0834">
+"Ah...ah...mmm...
+ Doing it like this... reminds me of the old
+ days."
+#
+<name "Lazlocke">
+"The old days?"
+#
+<name "Soshiette" "!DA0835">
+"Yes. Mm...
+ The first time I met you..."
+#
+<name "Lazlocke">
+"The first time, huh?"
+#
+<background "ev090a1.iph" 10>
+It was when I had run away from the Guild and was
+in hiding in a mountain village.
+#
+Soshiette was the commander of a task force sent
+to hunt me down.
+#
+Since she and everyone she was with were dressed
+like maids, I thought that's just what they were.
+#
+Not that I had any idea why there was a bunch of
+maids wandering around.
+#
+But it was obvious they were my enemy.
+#
+<background "ev090a0.iph" 10>
+They didn't give any chance to talk it out.
+All of a sudden, the house I was staying in was
+surrounded, and they rushed in, weapons drawn.
+#
+So I counterattacked, without mercy.
+#
+She came with fifteen others.
+#
+So including her, it was an ambush by sixteen
+wizards.
+#
+If they just sent regular soldiers, I could've
+been in danger.
+#
+But because they were wizards, they never stood
+a chance.
+#
+I had been hiding from the Guild, and hadn't been
+expelling my mana.
+I was like a powder keg of mana.
+#
+I barely even needed to try to take away the mana
+from anybody who got close.
+#
+Wizards have a lot of mana, so when I take it from
+them, I take a lot.
+#
+Taking mana from someone is like knocking the
+wind out of them.
+Taking a lot all at once is liable to knock most
+people right out.
+#
+Even the ones who stay conscious are thrown for a
+loop.
+#
+My magic basically exploded against the mass of
+mana that came rushing at me.
+#
+I thought that would be enough to repel them, but
+Soshiette avoided it.
+#
+However, she's still a wizard.
+#
+Having her mana taken from her stunned her and
+slowed her down.
+#
+So I attacked again.
+#
+Directed at just her.
+#
+She fearlessly slashed at me with her knives, but
+my magic hit her dead on.
+#
+The impact of the spell shattered her blades.
+#
+It stopped her in her tracks for just a moment.
+#
+She dropped her knives and came at me barehanded,
+but by then, it was too late, and I had finished
+my next spell.
+#
+<background "ev073a0.iph" 10>
+<name "Lazlocke">
+"You were pretty brave."
+#
+<name "Soshiette" "!DA0836">
+"Aaah...mmm...mmm...
+ Your Grace, you were... 
+ Ah...mm...mmm...ÅÙ"
+#
+It wasn't until afterwards that I realized they
+were all women.
+#
+And I remembered.
+#
+I remembered how I expel mana.
+#
+I'm normally not like that, but I think the blood
+might have gone from my head after being the 
+target of an assassination attempt.
+#
+Or maybe it was my survival instinct.
+#
+I raped all of them, one by one, giving back at
+least twice the mana I took from any of them.
+#
+<background "ev073a1.iph" 10>
+<name "Soshiette" "!DA0837">
+"Mm...ah...ah...aah...ah..."
+#
+Even after going through sixteen women, my mana
+wasn't exhausted, and my lust, inflamed by the
+surplus of mana, wasn't subsiding.
+#
+I spent two weeks with them.
+#
+And then the Guild captured me.
+#
+I should've realized that all sixteen of them were
+beatuiful, young women, and virgins at that, but
+I didn't suspect anything.
+#
+They may not have even known it themselves that
+they were bait to catch me.
+#
+While I was busy with them, the Guild had 
+dispatched over a hundred wizards to bring me in.
+#
+At the head of it was the leader of the Guild.
+#
+At her sides were my fellow apprentices, Henrietta
+and Keima.
+#
+A terrifying array of magical power.
+#
+<name "Lazlocke">
+"Soshiette."
+#
+<background "ev073a2.iph" 10>
+<name "Soshiette" "!DA0838">
+"Aah...
+ Yes?"
+#
+<name "Lazlocke">
+"...I must have terrified you back then, huh?"
+#
+I kiss her.
+#
+<name "Soshiette" "!DA0839">
+"Mm..."
+#
+<name "Lazlocke">
+"I'm who I am now because you came.
+ You saved me."
+#
+<name "Soshiette" "!DA0840">
+"Mmmm!ÅÙ
+ That's right... Ahhh...
+  Back then, I was scared."
+#
+Any woman would be scared of a man who attacks her
+by force.
+#
+<name "Soshiette" "!DA0841">
+"Mm...ah... No, more then when you violated me...
+ Aah...
+ When I faced you..."
+#
+<name "Lazlocke">
+"Hm? You were that scared then?"
+#
+<name "Soshiette" "!DA0842">
+"Yes... Mmm...
+ When I entered the hut, I thought I had failed."
+#
+<name "Soshiette" "!DA0843">
+"Aah...mmm...
+ We had the numbers, I thought we could... mmm...
+ capture you without a struggle...
+ I've never been... mmm... as wrong as then..."
+#
+<name "Soshiette" "!DA0852">
+"And... mmm... I was intending to kill you..."
+#
+<name "Lazlocke">
+"You were?"
+#
+<name "Soshiette" "!DA0845">
+"I'm sorry.
+ But at the time..."
+#
+<name "Lazlocke">
+"Don't worry about it.
+ This is our relationship now."
+#
+I move my hips and stimulate her pussy.
+#
+<name "Soshiette" "!DA0853">
+"Aaah...mm...ah...
+ At the time... ah... I had never regretted any
+ job I took."
+#
+I kiss her again in apology.
+#
+<name "Soshiette" "!DA0847">
+"Your Grace... Mmm... I-I can't... take much
+ more..."
+#
+<name "Lazlocke">
+"...Thinking about the old days is making me feel
+ like kind of a brute."
+#
+<name "Soshiette" "!DA0848">
+"Being a brute is... mm... wonderful."
+#
+I pound her intensely like she wants.
+#
+<name "Soshiette" "!DA0849">
+"Ah! Ah! Ahh! Ah! Ah! Aah! Ahh!
+ Aahh! Mm! Mm! Ah! Ah! Aah!"
+#
+I don't know how much of a brute I'm being, but I
+intensely stir her pussy and come hard for a third
+time.
+#
+<name "Soshiette" "!DA0850">
+"Mmmmmmm!ÅÙ"
+#
+She shudders and quivers, coming herself, as she
+takes my semen into her.
+#
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta04a00.iph" 4 4 11>
+<name "Soshiette" "!DA0854">
+"By the way, Your Grace."
+#
+<name "Lazlocke">
+"Yes?"
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0855">
+"The security division is requesting a meeting 
+ with you.
+ Please check your calendar."
+#
+<name "Lazlocke">
+"Hmm..."
+#
+<removesprite -1 11>
+The maids who ended up as bait for me back then
+form the backbone of the Guild's current security
+division.
+#
+The meeting is just a pretext.
+#
+<name "Lazlocke">
+"...Whatever you say.
+ You'll be there too?"
+#
+<sprite "ta04a62.iph" 4 4 11>
+<name "Soshiette" "!DA0856">
+"Of course."
+#
+<name "Lazlocke">
+"I don't have the endurance I used to, you know."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA0857">
+"Please leave the scheduling to me.
+ How does three people a day across six days
+ sound?"
+#
+<removesprite -1 11>
+Three a day, so fifteen people across five days,
+huh?
+#
+And then the sixth day is probably just her.
+#
+<name "Lazlocke">
+"...All right.
+ I'll let you take care of everything."
+#
+<sprite "ta04a10.iph" 4 4 11>
+<name "Soshiette" "!DA0859">
+"Yes, Your Grace."
+#
+<removesprite -1 11>
+She answers with a smile from ear to ear.
+#
+The first time I met her, when she was rushing
+in to kill me, I never imagined seeing her like
+this.
+#
+\x0A\x44\x00\xCA\x84\x01
+<exit>
+:32D3
+<music 37>
+<background "ev074a0.iph" 10>
+I wake up to Soshiette right in front of me.
+#
+<name "Lazlocke">
+"Hey."
+#
+<name "Soshiette" "!DA0860">
+"What is it?"
+#
+<name "Lazlocke">
+"Why is my dick inside you?"
+#
+She's taken it out of my pants and slipped it
+inside her.
+#
+<name "Soshiette" "!DA0862">
+"You don't want to?"
+#
+She keeps slowly moving her hips, stimulating my
+dick.
+#
+<name "Lazlocke">
+"I didn't say that."
+#
+<name "Soshiette" "!DA0864">
+"I'll stop if you don't want to."
+#
+She stops moving like she's sulking.
+#
+...
+#
+<name "Lazlocke">
+"Sorry.
+ Don't stop."
+#
+<name "Soshiette" "!DA0865">
+"Okay."
+#
+She starts moving again.
+#
+A little faster than before.
+#
+She's pretty good, but I knew that.
+#
+<name "Lazlocke">
+"But answer the question."
+#
+<name "Soshiette" "!DA0866">
+"Can't it wait until after we're done?"
+#
+<name "Lazlocke">
+"..."
+#
+<name "Soshiette" "!DA0867">
+"I'll work hard."
+#
+She exquisitely winds her hips to stimulate me.
+#
+<name "Lazlocke">
+"...Fine.
+#
+<name "Soshiette" "!DA0868">
+"Thank you."
+#
+I give up and let her have her way.
+#
+<background "ev074a1.iph" 10>
+<name "Soshiette" "!DA0869">
+"Mm...mm...ah...ÅÙ"
+#
+I consider the situation while listening to her
+moans.
+#
+Right now, I'm on the couch.
+#
+Soshiette is riding me.
+#
+The last thing I remember, I was working like
+usual at my desk.
+#
+I said I felt tired.
+She said I should take a nap and offered me tea.
+#
+I sat down to drink, and then...
+#
+<name "Lazlocke">
+"...Hey.
+ You drugged the tea, didn't you!?"
+#
+<name "Soshiette" "!DA0870">
+"Mm...mmm..."
+#
+She closes my mouth with a kiss to shut me up.
+#
+And to prevent any further arguments, pushes her
+tongue into my mouth.
+#
+Her warm tongue wraps all over mine.
+#
+At the same time, her waist keeps moving, 
+pleasuring my dick.
+#
+<name "Soshiette" "!DA0871">
+"Mmm...mm...mm...mmm...ah...mmm...mmm..."
+#
+She's especially good with her hips to make up for
+her lack of a chest.
+#
+She writhes and squeezes me perfectly with her
+pussy while the long, deep kiss is making my head
+fuzzy.
+#
+But I won't let her trick me.
+I reach up and open her dress, exposing her chest.
+#
+<background "ev074b0.iph" 10>
+<name "Soshiette" "!DA0872">
+"Mm...ah..."
+#
+She scowls for a moment, but gives up immediately.
+#
+I reach up to lick her nipple and rub her breasts.
+#
+<name "Soshiette" "!DA0873">
+"Mm...aah..."
+#
+They're small, but definitely female.
+#
+<name "Soshiette" "!DA0874">
+"Mm...mmm...
+ Ah...mm...mmm..."
+#
+I slap her butt to tell her that I'm about to
+come.
+#
+She reluctantly pulls her mouth away and moves her
+hips faster.
+#
+<background "ev074b1.iph" 10>
+<name "Soshiette" "!DA0875">
+"Mm...mmm...mmm...ah...
+ Mm! Mm! Aaah! Aah! Mm!
+ Mmmmm..."
+#
+Even though she's moving faster, she's squeezing
+her pussy even tighter.
+#
+Not just squeezing though.
+She knows to squeeze and relax as she moves, 
+always stimulating my dick up and down, all over.
+#
+With her winding, complex motions, it's too much
+and I can feel an intense orgasm building.
+#
+<name "Soshiette" "!DA0877">
+"Mm...mm...ah...mmm...mm...aah...
+ Ah...mmmm...ah...mm...mm...
+ Ah...ahh...ah...mm...mmmm..."
+#
+She pulls up until my dick is nearly out of her
+and then drops her hips down, clamping on my dick
+buried deep inside her.
+I can't help but come.
+#
+My dick throbs and shoots out a flood of semen
+deep into her.
+#
+<name "Soshiette" "!DA0878">
+"Mm...mmmmm...ÅÙ"
+#
+She clings to me as she feels me coming inside
+her.
+#
+I put my arms around her and hold her tight.
+#
+She shivers as she climaxes at the same time.
+#
+<name "Soshiette" "!DA0879">
+"Mmmmmmmm...ÅÙ"
+#
+She's pretty cute, bashfully trying to hide her
+orgasming face from me.
+#
+I finally finish coming thinking about that.
+#
+That was pretty nice.
+#
+<name "Soshiette" "!DA0880">
+"Your Grace."
+#
+<name "Lazlocke">
+"Hm?"
+#
+<name "Soshiette" "!DA0881">
+"Just a little more...
+ Mmmm..."
+#
+She kisses me to keep me in place and starts 
+moving her hips again.
+#
+I can't say no.
+#
+<music 10>
+<background "bg002a0.iph" 11>
+<name "Lazlocke">
+"Urgh..."
+#
+By the time we finish, she's made me come five
+times.
+#
+<sprite "ta04a59.iph" 4 4 11>
+<name "Soshiette" "!DA0883">
+"It'll spill if I try to walk."
+#
+<name "Lazlocke">
+"You wrung me dry."
+#
+<removesprite -1 11>
+I came in her pussy three times.
+#
+She's probably squeezing pretty tight so none of
+it comes out.
+#
+<name "Lazlocke">
+"So what was all that for?"
+#
+<sprite "ta04a53.iph" 4 4 11>
+<name "Soshiette" "!DA0884">
+"My personal sexual dissatisfaction."
+#
+<name "Lazlocke">
+"Uh huh."
+#
+<sprite "ta04a55.iph" 4 4 12>
+<name "Soshiette" "!DA0885">
+"I don't like that reaction.
+ Does that mean you doubt me?"
+#
+<name "Lazlocke">
+"Obviously."
+#
+<sprite "ta04a56.iph" 4 4 12>
+<name "Soshiette" "!DA0886">
+"How cruel.
+ And after all I did for you."
+#
+<name "Lazlocke">
+"If you were just frustrated, there was no need
+ to attack me after knocking me out."
+#
+<removesprite -1 11>
+I'm sure what she did certainly dealt with 
+whatever frustration she may have had.
+#
+But there has to be another reason.
+#
+Meaning...
+#
+<name "Lazlocke">
+"You were keeping me busy?"
+#
+She meets my eyes as I accuse her.
+#
+But I don't miss the flicker of nerviousness in
+them.
+#
+The drugged tea was supposed to keep me down.
+#
+But my ability makes me fairly resistant to drugs
+like that, so it must've been some kind of major
+Guild concoction.
+#
+She used that to put me to sleep.
+#
+Then I started waking up earlier than she 
+expected, which is why she got on me to make sure
+I stayed where I was.
+#
+<name "Lazlocke">
+"Why?"
+#
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA0887">
+"What could you mean?"
+#
+<removesprite -1 11>
+Still hiding, huh?
+#
+I open the door to leave.
+#
+...
+#
+And close it.
+#
+\x1A\x01\x0A\x02\x01\x9A 3 \x01\x15 :51B0: 
+<name "Lazlocke">
+"Why does this door look like it leads to the
+ netherworld?"
+#
+<sprite "ta04a29.iph" 4 4 11>
+<name "Soshiette" "!DA0888">
+"A-An illusion?"
+#
+<name "Lazlocke">
+"Oh?"
+#
+<removesprite -1 11>
+After that, she confessed everything in the face
+of my relentless interrogation.
+#
+She tried to summon a demon as an opponent to help
+Celes with her combat training.
+#
+But Soshiette can't use that kind of magic.
+#
+So she used something from the Guild.
+#
+But she brought the wrong thing, and apparently
+opened up a portal to what appears to be somewhere
+in the netherworld.
+#
+And then, Celes somehow ended up stuck inside of
+it.
+#
+<sprite "ta04a28.iph" 4 4 11>
+<name "Soshiette" "!DA0889">
+"If we destroy the key item, Celes will be able
+ to come back, and it'll break the connection 
+ with that netherworld-like place."
+#
+<name "Lazlocke">
+"I see."
+#
+<name "Lazlocke">
+"So you were going to keep me occupied until she
+ came back."
+#
+<sprite "ta04a22.iph" 4 4 12>
+<name "Soshiette" "!DA0890">
+"Y-Yes."
+#
+<name "Lazlocke">
+"I see."
+#
+<sprite "ta04a26.iph" 4 4 12>
+<name "Soshiette" "!DA0891">
+"Um, are you mad?"
+#
+<name "Lazlocke">
+"No. More importantly, Soshiette, what are you
+ going to do now?"
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0892">
+"Huh?"
+#
+<name "Lazlocke">
+"You were with me to keep me occupied, right?"
+#
+<sprite "ta04a26.iph" 4 4 12>
+<name "Soshiette" "!DA0893">
+"Um... We already did it five time, so...
+Å@Um... Why are you taking out that rope, candles
+ and whip?
+Å@And those weird devices..."
+#
+<name "Lazlocke">
+"Don't worry.
+ I won't look past that door again."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0894">
+"Those kinds of things aren't to my taste..."
+#
+<name "Lazlocke">
+"I see.
+ Now's the perfect chance to broaden your
+ horizons then."
+#
+<removesprite -1 11>
+I occupy myself with Soshiette until Celes makes
+it home.
+#
+<sprite "ta04a86.iph" 4 4 11>
+<name "Soshiette" "!DA0895">
+"Oooh... Thank goodness...
+ I'm so lucky she made it back in three days..."
+#
+<name "Lazlocke">
+"What were you going to do if she didn't come
+ back?
+ Think about that very carefully."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0896">
+"O-Okay."
+#
+<removesprite -1 11>
+\x2B\x18 :5A12: 
+:51B0
+<name "Lazlocke">
+"The room is gone, and Celes is mopping up a
+ demon body..."
+#
+<name "Lazlocke">
+"What was that?"
+#
+She's even got a cleaning mask on, and makes a
+gesture of helplessness when she saw me looking
+at her.
+#
+<sprite "ta04a29.iph" 4 4 11>
+<name "Soshiette" "!DA0897">
+"A-An illusion?"
+#
+<name "Lazlocke">
+"Oh?"
+#
+<removesprite -1 11>
+After that, she confessed everything in the face
+of my relentless interrogation.
+#
+She tried to summon a demon as an opponent to help
+Celes with her combat training.
+#
+But Soshiette can't use that kind of magic.
+#
+So she borrowed something from the Guild.
+#
+But a stronger monster came out than she expected.
+She was able to beat it, but the house and yard
+are in shambles.
+#
+Fortunately, they had insulated the room I was
+in when they summoned it so it wouldn't bother
+me, but then she had to go even further to try
+to trick me after the damage was done.
+#
+<name "Lazlocke">
+"And how long until I get my house back?"
+#
+<sprite "ta04a22.iph" 4 4 11>
+<name "Soshiette" "!DA0898">
+"The Guild will do everything it can to have it
+ repaired in three days."
+#
+<name "Lazlocke">
+"You were going to keep me occupied for three
+ days?"
+#
+<sprite "ta04a26.iph" 4 4 12>
+<name "Soshiette" "!DA0899">
+"People can surprise you when they're motivated."
+#
+<name "Lazlocke">
+"I see."
+#
+<sprite "ta04a28.iph" 4 4 12>
+<name "Soshiette" "!DA0900">
+"Um, are you mad?"
+#
+<name "Lazlocke">
+"No, not particularly."
+#
+Yeah, I'm not mad.
+#
+<sprite "ta04a29.iph" 4 4 12>
+<name "Soshiette" "!DA0901">
+"I-I see..."
+#
+<name "Lazlocke">
+"Anyway, tell Celes to make food.
+ I won't be leaving this room for the next
+ three days."
+#
+<sprite "ta04a65.iph" 4 4 12>
+<name "Soshiette" "!DA0902">
+"O-Okay."
+#
+<name "Lazlocke">
+"And you will be with me all three days."
+#
+<sprite "ta04a24.iph" 4 4 12>
+<name "Soshiette" "!DA0903">
+"Huh?"
+#
+<name "Lazlocke">
+"Don't worry.
+ People can surprise you when they're motivated,
+ right?"
+#
+<sprite "ta04a26.iph" 4 4 12>
+<name "Soshiette" "!DA0904">
+"U-Umm... Uh, we already did it five... huh?
+ What's that?
+ Rope, candles...
+ And those strange devices..."
+#
+<removesprite -1 11>
+I refused to leave the room for the next three
+days.
+#
+<sprite "ta04a23.iph" 4 4 11>
+<name "Soshiette" "!DA0905">
+"I should've just admitted it and apologized..."
+#
+<removesprite -1 11>
+\x2B
+:5A12
+\x0A\x44\x00\xCB\x84\x01
+<exit>
+\x78

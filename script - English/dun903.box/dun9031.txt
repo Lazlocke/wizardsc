@@ -1,0 +1,1082 @@
+\x0A\x04\x01\x4A\x84\x00\x1A\x01\x0A\x02\x00\xFB 1 \x01\x0E :24: \x16 :7DB: \x15 :AB: 
+:24
+\x1A\x01\x0A\x02\x00\xFB 2 \x01\x0E :42: \x16 :8C6: \x15 :AB: 
+:42
+\x1A\x01\x07\x04\x0A\x53\x84\x00\x01\x0E :7E: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :7E: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :7E: \x16 :A08: \x15 :AB: 
+:7E
+\x1A\x01\x07\x04\x0A\x52\x84\x00\x01\x0E :AB: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :AB: \x16 :964: \x15 :AB: 
+:AB
+\x1A\x01\x07\x04\x0A\x84\x84\x00\x01\x0E :CC: \x16 :145C: \x0A\x04\x0A\x84\x84\x01\x15 :7B6: 
+:CC
+\x1A\x01\x07\x04\x0A 0x8400010E  :FC: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :FC: \x16 :B23: \x0A\x04\x0A\x82\x84\x01\x15 :7B6: 
+:FC
+\x1A\x01\x07\x04\x0A\x83\x84\x00\x01\x0E :12C: \x1A\x01\x07\x04\x00\xCB\x84\x01\x01\x0E :12C: \x16 :114E: \x0A\x04\x0A\x83\x84\x01\x15 :7B6: 
+:12C
+\x1A\x01\x07\x04\x0A\x85\x84\x00\x01\x0E :15C: \x1A\x01\x07\x04\x00\xCC\x84\x01\x01\x0E :15C: \x16 :1778: \x0A\x04\x0A\x85\x84\x01\x15 :7B6: 
+:15C
+\x1A\x01\x07\x04\x0A\x86\x84\x00\x01\x0E :18C: \x1A\x01\x07\x04\x00\xCD\x84\x01\x01\x0E :18C: \x16 :19E5: \x0A\x04\x0A\x86\x84\x01\x15 :7B6: 
+:18C
+\x1A\x01\x07\x04\x0A\x87\x84\x00\x01\x0E :1BC: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :1BC: \x16 :1C2F: \x0A\x04\x0A\x87\x84\x01\x15 :7B6: 
+:1BC
+\x1A\x01\x07\x04\x0A\x88\x84\x00\x01\x0E :1EC: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :1EC: \x16 :1EF1: \x0A\x04\x0A\x88\x84\x01\x15 :7B6: 
+:1EC
+\x1A\x01\x07\x04\x0A\x89\x84\x00\x01\x0E :21C: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :21C: \x16 :2043: \x0A\x04\x0A\x89\x84\x01\x15 :7B6: 
+:21C
+\x1A\x01\x07\x04\x0A\x8A\x84\x00\x01\x0E :24C: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :24C: \x16 :21A5: \x0A\x04\x0A\x8A\x84\x01\x15 :7B6: 
+:24C
+\x1A\x01\x07\x04\x0A\x8B\x84\x00\x01\x0E :27C: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :27C: \x16 :231D: \x0A\x04\x0A\x8B\x84\x01\x15 :7B6: 
+:27C
+\x1A\x01\x07\x04\x0A\x8C\x84\x00\x01\x0E :2AF: \x1A\x01\x0A\x02\x01\x9A 6 \x01\x0E :2AF: \x16 :264E: \x0A\x04\x0A\x8C\x84\x01\x15 :7B6: 
+:2AF
+\x1A\x01\x07\x04\x0A\x8D\x84\x00\x01\x0E :2EE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :2EE: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :2EE: \x16 :28C9: \x0A\x04\x0A\x8D\x84\x01\x15 :7B6: 
+:2EE
+\x1A\x01\x07\x04\x0A\x8E\x84\x00\x01\x0E :32D: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :32D: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :32D: \x16 :2A67: \x0A\x04\x0A\x8E\x84\x01\x15 :7B6: 
+:32D
+\x1A\x01\x07\x04\x0A\x8F\x84\x00\x01\x0E :36C: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :36C: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :36C: \x16 :2BBE: \x0A\x04\x0A\x8F\x84\x01\x15 :7B6: 
+:36C
+\x1A\x01\x07\x04\x0A\x90\x84\x00\x01\x0E :3BA: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :3BA: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :3BA: \x1A\x01\x07\x04\x01\x11\x84\x01\x01\x0E :3BA: \x16 :2C8F: \x0A\x04\x0A\x90\x84\x01\x15 :7B6: 
+:3BA
+\x1A\x01\x07\x04\x0A\x91\x84\x00\x01\x0E :408: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :408: \x1A\x01\x07\x04\x00\xD0\x84\x01\x01\x0E :408: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :408: \x16 :2DD1: \x0A\x04\x0A\x91\x84\x01\x15 :7B6: 
+:408
+\x1A\x01\x07\x04\x0A\x92\x84\x00\x01\x0E :447: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :447: \x1A\x01\x07\x04\x00\xCF\x84\x01\x01\x0E :447: \x16 :2F55: \x0A\x04\x0A\x92\x84\x01\x15 :7B6: 
+:447
+\x1A\x01\x07\x04\x0A\x93\x84\x00\x01\x0E :477: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :477: \x16 :306A: \x0A\x04\x0A\x93\x84\x01\x15 :7B6: 
+:477
+\x1A\x01\x07\x04\x0A\x94\x84\x00\x01\x0E :4B6: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :4B6: \x1A\x01\x07\x04\x00\xCE\x84\x01\x01\x0E :4B6: \x16 :316C: \x0A\x04\x0A\x94\x84\x01\x15 :7B6: 
+:4B6
+\x1A\x01\x07\x04\x0A\x9C\x84\x00\x01\x0E :4F8: \x1A\x01\x0A\x02\x00\xFB 3 \x01\x15 :4F8: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :4F8: \x16 :37C2: \x0A\x04\x0A\x9C\x84\x01\x15 :7B6: 
+:4F8
+\x1A\x01\x07\x04\x0A\x9D\x84\x00\x01\x0E :53A: \x1A\x01\x0A\x02\x00\xFB 3 \x01\x15 :53A: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :53A: \x16 :3A82: \x0A\x04\x0A\x9D\x84\x01\x15 :7B6: 
+:53A
+\x1A\x01\x07\x04\x0A\x9E\x84\x00\x01\x0E :57C: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :57C: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :57C: \x16 :3CFE: \x0A\x04\x0A\x9E\x84\x01\x15 :7B6: 
+:57C
+\x1A\x01\x07\x04\x0A\x9F\x84\x00\x01\x0E :5BE: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :5BE: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :5BE: \x16 :3E4B: \x0A\x04\x0A\x9F\x84\x01\x15 :7B6: 
+:5BE
+\x1A\x01\x07\x04\x0A\xA0\x84\x00\x01\x0E :600: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :600: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :600: \x16 :4043: \x0A\x04\x0A\xA0\x84\x01\x15 :7B6: 
+:600
+\x1A\x01\x07\x04\x0A\xA1\x84\x00\x01\x0E :633: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :633: \x16 :41FE: \x0A\x04\x0A\xA1\x84\x01\x15 :7B6: 
+:633
+\x1A\x01\x07\x04\x0A\xA2\x84\x00\x01\x0E :675: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :675: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :675: \x16 :4403: \x0A\x04\x0A\xA2\x84\x01\x15 :7B6: 
+:675
+\x1A\x01\x07\x04\x0A\xA3\x84\x00\x01\x0E :6A8: \x1A\x01\x0A\x02\x00\xFB 5 \x01\x15 :6A8: \x16 :4540: \x0A\x04\x0A\xA3\x84\x01\x15 :7B6: 
+:6A8
+\x1A\x01\x07\x04\x0A\xA4\x84\x00\x01\x0E :6C9: \x16 :464F: \x0A\x04\x0A\xA4\x84\x01\x15 :7B6: 
+:6C9
+\x1A\x01\x07\x04\x0A\x95\x84\x00\x01\x0E :6EA: \x16 :331F: \x0A\x04\x0A\x95\x84\x01\x15 :7B6: 
+:6EA
+\x1A\x01\x07\x04\x0A\x96\x84\x00\x01\x0E :70B: \x16 :339C: \x0A\x04\x0A\x96\x84\x01\x15 :7B6: 
+:70B
+\x1A\x01\x07\x04\x0A\x97\x84\x00\x01\x0E :72C: \x16 :3435: \x0A\x04\x0A\x97\x84\x01\x15 :7B6: 
+:72C
+\x1A\x01\x07\x04\x0A\x98\x84\x00\x01\x0E :74D: \x16 :34CF: \x0A\x04\x0A\x98\x84\x01\x15 :7B6: 
+:74D
+\x1A\x01\x07\x04\x0A\x99\x84\x00\x01\x0E :76E: \x16 :359F: \x0A\x04\x0A\x99\x84\x01\x15 :7B6: 
+:76E
+\x1A\x01\x07\x04\x0A\x9A\x84\x00\x01\x0E :78F: \x16 :3654: \x0A\x04\x0A\x9A\x84\x01\x15 :7B6: 
+:78F
+\x1A\x01\x07\x04\x0A\x9B\x84\x00\x01\x0E :7B0: \x16 :373F: \x0A\x04\x0A\x9B\x84\x01\x15 :7B6: 
+:7B0
+\x15 :7B6: 
+:7B6
+\x0A\x04\x01\x20\x84\x01\x0B\x02\x01\xB1\x02\x01\xB1 1 \x6E 1  "ra0200.box" \x78
+:7DB
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "セリス" "!AA3008">
+「師匠、クインズベル魔法大会に参加してきます」
+#
+<name "ラズロック">
+「頑張るように」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3009">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:8C6
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "セリス" "!AA3010">
+「クインズベル魔法大会に行ってきます」
+#
+<name "ラズロック">
+「おう」
+#
+<removesprite -1 11>
+<exit>
+:964
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c15.iph" 4 4 11>
+<name "セリス" "!AA3011">
+「月の初めは、クインズベル魔法大会」
+#
+<name "ラズロック">
+「もう常連だな」
+#
+<removesprite -1 11>
+<exit>
+:A08
+<music 10>
+<background "bg002a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "セリス" "!AA3012">
+「行ってきます」
+#
+<name "ラズロック">
+「あんまり、荒らすなよ」
+#
+<sprite "ta01c15.iph" 4 4 12>
+<name "セリス" "!AA3013">
+「手加減してるので、大丈夫です」
+#
+<name "ラズロック">
+「それもどうかと思うが……」
+#
+<removesprite -1 11>
+<exit>
+:B23
+<music 15>
+<background "bg011a0.iph" 11>
+　クインズベル魔法大会。
+#
+　大会会場の待合室にて。
+#
+<name "美しい女性" "!GA0067">
+「……頑張ってね。
+　アナタ」
+#
+<name "出場者" "!QB0111">
+「ああ、わかっているさ。
+　ハニー。
+　君の為に勝利を掴んでみせる」
+#
+<name "美しい女性" "!GA0068">
+「いいのよ。
+　無理しないで。
+　私はアナタが無事ならそれで良いの」
+#
+<name "出場者" "!QB0112">
+「ハニー」
+#
+<name "ラズロック">
+「あれ？
+　……どう思う？」
+#
+<sprite "ta01c09.iph" 4 4 11>
+<name "セリス" "!AA2888">
+「仲の良いカップルですね」
+#
+<removesprite -1 11>
+<sprite "ta02b19.iph" 4 4 11>
+<name "イエル" "!CA0195">
+「なんだかムカツクので、対戦相手になったら秒殺
+　します」
+#
+<name "ラズロック">
+「……イエル。
+　お前の方が見込みがあるな」
+#
+<removesprite -1 11>
+<sprite "ta01c32.iph" 2 5 11>
+<sprite "ta02b19.iph" 6 4 11>
+<name "セリス" "!AA2889">
+「し、師匠っ！
+　そんなっ！」
+#
+　そこに、ヴィオラがやって来た。
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 4 4 11>
+<name "ヴィオラ" "!BA0246">
+「騒がしいわね。
+　どうかしたの？」
+#
+<removesprite -1 11>
+<sprite "ta03a01.iph" 2 4 11>
+<sprite "ta01c36.iph" 2 5 11>
+<name "セリス" "!AA2890">
+「あ、ヴィオラさん。
+　聞いてください！」
+#
+<removesprite -1 11>
+<name "ラズロック">
+「その前に……あのカップルを見ろ」
+#
+<removesprite -1 11>
+<sprite "ta03a00.iph" 4 4 11>
+<name "ヴィオラ" "!BA0247">
+「？
+　見たわよ」
+#
+<name "ラズロック">
+「どう思う？」
+#
+<sprite "ta03a18.iph" 4 4 12>
+<name "ヴィオラ" "!BA0248">
+「なんだかムカツクわね。
+　消し炭にしてやろうかしら」
+#
+<name "ラズロック">
+「ほらな」
+#
+<removesprite -1 11>
+<sprite "ta02b09.iph" 4 4 11>
+<name "イエル" "!CA0196">
+「流石は私の師匠です！」
+#
+<removesprite -1 11>
+<sprite "ta01c37.iph" 4 4 11>
+<name "セリス" "!AA2891">
+「ううう……」
+#
+<removesprite -1 11>
+<exit>
+:114E
+<music 15>
+<background "bg011a0.iph" 11>
+　クインズベル魔法大会。
+#
+　大会会場の待合室にて。
+#
+<sprite "ta01c10.iph" 4 4 11>
+<name "セリス" "!AA2894">
+「師匠！」
+#
+<name "ラズロック">
+「なんだ？」
+#
+<sprite "ta01c32.iph" 4 4 12>
+<name "セリス" "!AA2895">
+「どうやっても勝てなさそうな人が居るんですけど
+　……」
+#
+<name "ラズロック">
+「コラコラ、やる前からそんな事を言ってはいけな
+　い。
+　何事も必勝の心で当たれば、そこに勝機を見出す
+　事ができる」
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "セリス" "!AA2896">
+「あの人が相手でもですか？」
+#
+<removesprite -1 11>
+<sprite "ta05a07.iph" 4 4 11>
+<name "ラズロック">
+「…………」
+#
+<removesprite -1 11>
+<sprite "ta01c27.iph" 4 4 11>
+<name "セリス" "!AA2897">
+「私、勝てそうですか？」
+#
+<name "ラズロック">
+「……死ぬなよ」
+#
+<sprite "ta01c37.iph" 4 4 12>
+<name "セリス" "!AA2898">
+「ひぃぃ～」
+#
+<removesprite -1 11>
+<exit>
+:145C
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c27.iph" 4 4 11>
+<name "セリス" "!AA2899">
+「緊張してきたぁ……」
+#
+<removesprite -1 11>
+<sprite "ta01c27.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "ソシエット" "!DA0485">
+「緊張しないようにするには、周りの人を野菜だと
+　思えば良いのです」
+#
+<sprite "ta01c31.iph" 2 5 12>
+<name "セリス" "!AA2900">
+「野菜ですか？」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "ソシエット" "!DA0486">
+「はい。
+　野菜相手に、緊張はしないでしょう」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "セリス" "!AA2901">
+「そ、そうですね。
+　やってみます」
+#
+<removesprite -1 11>
+　セリスはやってみた。
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "ソシエット" "!DA0487">
+「どうですか？」
+#
+<removesprite -1 11>
+<sprite "ta01c37.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "セリス" "!AA2902">
+「全部、嫌いなニンジンに見えてきましたぁ～」
+#
+<removesprite -1 11>
+<exit>
+:1778
+<music 15>
+<background "bg011a0.iph" 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :17C6: \x52 "ta10a00.iph"  4  4  11 \x18 :17E3: 
+:17C6
+\x52 "ta10b00.iph"  4  4  11 
+:17E3
+\x2B
+<name "イングウェイ" "!TA0064">
+「君も出場するのかい？
+　お互い、頑張ろう」
+#
+<removesprite -1 11>
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :1889: \x52 "ta01c15.iph"  2  5  11 \x52 "ta10a00.iph"  6  4  11 \x18 :18C3: 
+:1889
+\x52 "ta01c15.iph"  2  5  11 \x52 "ta10b00.iph"  6  4  11 
+:18C3
+\x2B
+<name "セリス" "!AA2908">
+「はい。
+　頑張りましょう」
+#
+\x2B\x1A\x01\x07\x04\x00\xD1\x84\x00\x01\x0E :192A: \x52 "ta10a20.iph"  6  4  12 \x18 :1947: 
+:192A
+\x52 "ta10b20.iph"  6  4  12 
+:1947
+\x2B
+<name "イングウェイ" "!TA0065">
+「僕と当たった時、手を抜いてくれても怒らないよ」
+#
+<sprite "ta01c36.iph" 2 5 12>
+<name "セリス" "!AA2909">
+「あはは……」
+#
+<removesprite -1 11>
+<exit>
+:19E5
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c08.iph" 4 4 11>
+<name "セリス" "!AA2910">
+「ヘンドリクさんも出場するんですか？」
+#
+<removesprite -1 11>
+<sprite "ta01c08.iph" 2 5 11>
+<sprite "ta13a58.iph" 6 4 11>
+<name "ヘンドリク" "!QA0050">
+「はい。
+　時々、実践しないと錆びてしまいますから」
+#
+<sprite "ta01c36.iph" 2 5 12>
+<name "セリス" "!AA2911">
+「あはは、手強そうですね」
+#
+<sprite "ta13a57.iph" 6 4 12>
+<name "ヘンドリク" "!QA0051">
+「それなりの実力を見せないと、先生に怒られてし
+　まいますので。
+　対戦できる時を、楽しみにしています」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "セリス" "!AA2912">
+「はい」
+#
+<removesprite -1 11>
+<exit>
+:1C2F
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta15a21.iph" 4 4 11>
+<name "プシェル" "!SA0017">
+「あらん♪
+　貴女も出場するの」
+#
+<removesprite -1 11>
+<sprite "ta01c08.iph" 2 5 11>
+<sprite "ta15a21.iph" 6 4 11>
+<name "セリス" "!AA2913">
+「は、はい。
+　よろしくお願いします」
+#
+<sprite "ta15a05.iph" 6 4 12>
+<name "プシェル" "!SA0018">
+「私、女の子相手には厳しいの。
+　当たらないように祈ってなさい」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "セリス" "!AA2914">
+「いえ、勝ち続ければ、いつかは当りますから」
+#
+<sprite "ta15a00.iph" 6 4 12>
+<name "プシェル" "!SA0019">
+「うふ♪
+　その通りね。
+　くだらない事を言っちゃったわ。
+　ごめんなさいね」
+#
+<sprite "ta01c07.iph" 2 5 12>
+<name "セリス" "!AA2915">
+「対戦する時は、よろしくお願いします」
+#
+<removesprite -1 11>
+<exit>
+:1EF1
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta12a00.iph" 4 4 11>
+<name "リノ" "!PA0021">
+「へい」
+#
+<removesprite -1 11>
+<sprite "ta01c07.iph" 2 5 11>
+<sprite "ta12a00.iph" 6 4 11>
+<name "セリス" "!AA2916">
+「こんにちは」
+#
+<sprite "ta12a07.iph" 6 4 12>
+<name "リノ" "!PA0022">
+「負けないからな」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "セリス" "!AA2917">
+「私も」
+#
+<removesprite -1 11>
+<exit>
+:2043
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta14a00.iph" 4 4 11>
+<name "レッキーノ" "!RA0021">
+「ふむ……」
+#
+<removesprite -1 11>
+<name "観戦者" "!RB0107">
+「あの人、いつも大会がある時は一番で来るな」
+#
+<name "その連れ" "!QB0113">
+「戦いが楽しみで仕方が無いんだろう」
+#
+<name "観戦者" "!RB0108">
+「だな……」
+#
+<sprite "ta14a00.iph" 4 4 11>
+<name "レッキーノ" "!RA0022">
+「良い天気だ」
+#
+<removesprite -1 11>
+<exit>
+:21A5
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c08.iph" 4 4 11>
+<name "セリス" "!AA2918">
+「イエルちゃんも出るんだ」
+#
+<removesprite -1 11>
+<sprite "ta01c08.iph" 2 5 11>
+<sprite "ta02b00.iph" 6 4 11>
+<name "イエル" "!CA0197">
+「ええ、腕試しにね。
+　対決する事になっても、手は抜かないわよ」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "セリス" "!AA2919">
+「……うん。
+　私も。
+　全力でぶつかる」
+#
+<removesprite -1 11>
+<exit>
+:231D
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta02b06.iph" 4 4 11>
+<name "イエル" "!CA0198">
+「師匠も出場するのですか？」
+#
+<removesprite -1 11>
+<sprite "ta03b01.iph" 2 4 11>
+<sprite "ta02b06.iph" 6 5 11>
+<name "ヴィオラ" "!BA0249">
+「ええ。
+　気晴らしにね」
+#
+<removesprite -1 11>
+<name "訴える出場者" "!RB0109">
+「審判。
+　あれ、反則じゃね？」
+#
+<name "同調する出場者" "!SB0105">
+「うんうん。
+　宮廷魔法使いのヴィオラと対戦なんて、死ねと言っ
+　てるようなもんだ」
+#
+<sprite "ta07a05.iph" 4 4 11>
+<name "ジャッジマン" "!FA0005">
+「そう言われましても……
+　別に、出てはいけないというルールはありません。
+　問題無しです」
+#
+<removesprite -1 11>
+<name "訴える出場者" "!RB0110">
+「……棄権します」
+#
+<name "同調する出場者" "!SB0106">
+「俺も」
+#
+<sprite "ta07a15.iph" 4 4 11>
+<name "ジャッジマン" "!FA0006">
+「彼女が出るだけでこの騒ぎ……
+　ルールを作った方が良いかもしれません」
+#
+<removesprite -1 11>
+<exit>
+:264E
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta04a16.iph" 4 4 11>
+<name "ソシエット" "!DA0488">
+「セイッ！」
+#
+<removesprite -1 11>
+<sprite "ta01c07.iph" 2 5 11>
+<sprite "ta04a16.iph" 6 4 11>
+<name "セリス" "!AA2920">
+「ソシエットさん、気合入ってますね……」
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "ソシエット" "!DA0489">
+「ええ、こういった大会に出るのは久しぶりなので」
+#
+<sprite "ta01c08.iph" 2 5 12>
+<name "セリス" "!AA2921">
+「い、意外ですね」
+#
+<sprite "ta04a22.iph" 6 4 12>
+<name "ソシエット" "!DA0490">
+「はい。
+　いくつかの大会から、出場禁止にされましたから」
+#
+<sprite "ta01c92.iph" 2 5 12>
+<name "セリス" "!AA2922">
+「……出場禁止になった理由は聞きたくないです」
+#
+<removesprite -1 11>
+<exit>
+:28C9
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c06.iph" 4 4 11>
+<name "セリス" "!AA3014">
+「それほど、強い人は居ない……」
+#
+<removesprite -1 11>
+<sprite "ta15a00.iph" 4 4 11>
+<name "プシェル" "!SA0020">
+「こんにちは♪」
+#
+<removesprite -1 11>
+<sprite "ta15a00.iph" 2 4 11>
+<sprite "ta02b04.iph" 6 5 11>
+<name "イエル" "!CA0199">
+「セリスも出るの？」
+#
+<removesprite -1 11>
+<sprite "ta01c42.iph" 4 4 11>
+<name "セリス" "!AA3015">
+「事はないか……頑張ろう」
+#
+<removesprite -1 11>
+<exit>
+:2A67
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta12a04.iph" 4 4 11>
+<name "リノ" "!PA0023">
+「なんだ。
+　お前も出るのか？」
+#
+<removesprite -1 11>
+<sprite "ta01c07.iph" 2 5 11>
+<sprite "ta12a04.iph" 6 4 11>
+<name "セリス" "!AA3016">
+「ええ……」
+#
+<sprite "ta12a07.iph" 6 4 12>
+<name "リノ" "!PA0024">
+「小遣い稼ぎをしようと思ったのに……
+　面倒になりそうだな」
+#
+<removesprite -1 11>
+<exit>
+:2BBE
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c17.iph" 4 4 11>
+<name "セリス" "!AA3017">
+「頑張るぞー！」
+#
+<removesprite -1 11>
+<sprite "ta12a07.iph" 4 4 11>
+<name "リノ" "!PA0025">
+「……楽はさせて貰えそうにないなぁ」
+#
+<removesprite -1 11>
+<exit>
+:2C8F
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta14a00.iph" 4 4 11>
+<name "レッキーノ" "!RA0023">
+「ふふ……血が騒ぐ」
+#
+<removesprite -1 11>
+<sprite "ta01c20.iph" 4 4 11>
+<name "セリス" "!AA3018">
+「……勝ってみせる」
+#
+<removesprite -1 11>
+<sprite "ta12a07.iph" 4 4 11>
+<name "リノ" "!PA0026">
+「ちっ。
+　面子が揃ってるな……
+　面倒になりそうだ」
+#
+<removesprite -1 11>
+<exit>
+:2DD1
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta12a00.iph" 4 4 11>
+<name "リノ" "!PA0027">
+「楽に勝ちたいが……」
+#
+<removesprite -1 11>
+<sprite "ta15a00.iph" 4 4 11>
+<name "プシェル" "!SA0021">
+「そうはさせないわよ」
+#
+<removesprite -1 11>
+<sprite "ta15a00.iph" 2 5 11>
+<sprite "ta14a00.iph" 6 4 11>
+<name "レッキーノ" "!RA0024">
+「おう」
+#
+<removesprite -1 11>
+<sprite "ta12a07.iph" 4 4 11>
+<name "リノ" "!PA0028">
+「やれやれ……」
+#
+<removesprite -1 11>
+<exit>
+:2F55
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta15a22.iph" 4 4 11>
+<name "プシェル" "!SA0022">
+「月一の大会だけど……
+　良い男が一杯ね♪
+　うふふ……楽しくなりそう」
+#
+<removesprite -1 11>
+<sprite "ta02b37.iph" 4 4 11>
+<name "イエル" "!CA0200">
+「……あれで強いんだから、納得がいかない」
+#
+<removesprite -1 11>
+<exit>
+:306A
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta02b04.iph" 4 4 11>
+<name "イエル" "!CA0201">
+「セリス。
+　勝負よ。
+　私と当たるまでは、負けないように」
+#
+<removesprite -1 11>
+<sprite "ta01c15.iph" 2 5 11>
+<sprite "ta02b04.iph" 6 4 11>
+<name "セリス" "!AA3019">
+「うん」
+#
+<removesprite -1 11>
+<exit>
+:316C
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta12a33.iph" 4 4 11>
+<name "リノ" "!PA0029">
+「俺の収入の大半が、この大会の賞金なんだよなぁ」
+#
+<removesprite -1 11>
+<sprite "ta12a33.iph" 2 5 11>
+<sprite "ta02b19.iph" 6 4 11>
+<name "イエル" "!CA0202">
+「そんな事を言われても、手は抜かないわよ」
+#
+<sprite "ta12a07.iph" 2 5 12>
+<name "リノ" "!PA0030">
+「わかってるよ。
+　怖そうな顔してるからな」
+#
+<sprite "ta02b18.iph" 6 4 12>
+<name "イエル" "!CA0203">
+「ふんっ」
+#
+<removesprite -1 11>
+<exit>
+:331F
+<music 15>
+<background "bg011a0.iph" 11>
+<name "出場者" "!UA0098">
+「頑張って、賞金を稼ぐぞー！」
+#
+<name "その横の出場者" "!TB0055">
+「俺もだー！」
+#
+<exit>
+:339C
+<music 15>
+<background "bg011a0.iph" 11>
+<name "出場者" "!UA0099">
+「行くぞ」
+#
+<name "その連れの出場者" "!MA0070">
+「ええ、無理しないでね」
+#
+<name "出場者" "!UA0100">
+「そっちこそ」
+#
+<exit>
+:3435
+<music 15>
+<background "bg011a0.iph" 11>
+<name "魔法学園の教師" "!MA0071">
+「ルーン魔法学園の実力、見せるのよ！」
+#
+<name "魔法学園の生徒" "!NA0055">
+「はい！
+　頑張ります！」
+#
+<exit>
+:34CF
+<music 15>
+<background "bg011a0.iph" 11>
+<name "心配する応援者" "!UA0101">
+「やりすぎるなよ」
+#
+<name "余裕のある出場者" "!NA0057">
+「了解。
+　クデュール魔法大会の練習って割り切ってるわ」
+#
+<name "心配する応援者" "!UA0102">
+「なら良い」
+#
+<exit>
+:359F
+<music 15>
+<background "bg011a0.iph" 11>
+<name "出場者" "!KA0007">
+「月に一回の大会だけど、強そうな人が集まるなぁ」
+#
+<name "出場者" "!KA0008">
+「逃げよっかな……
+　でも、賞金は欲しいし……
+　うーん」
+#
+<exit>
+:3654
+<music 15>
+<background "bg011a0.iph" 11>
+<name "熱血する出場者" "!TB0056">
+「今月こそは、優勝してやるぜ！」
+#
+<name "その応援者" "!KA0009">
+「頑張ってね」
+#
+<name "熱血する出場者" "!TB0057">
+「おう」
+#
+<name "その応援者" "!KA0010">
+「……と言っても、今月も駄目だろうなぁ」
+#
+<exit>
+:373F
+<music 15>
+<background "bg011a0.iph" 11>
+<name "学園生の応援者" "!GA0075">
+「ルーン魔法学園……ファイト！」
+#
+<name "学園生の参加者" "!HA0055">
+「おう！」
+#
+<exit>
+:37C2
+<music 15>
+<background "bg011a0.iph" 11>
+<name "強気な学園生" "!GA0076">
+「ルーン魔法学園の実力、見せるわよ！」
+#
+<name "弱気な学園生" "!IA0021">
+「出来る範囲でね！」
+#
+<name "強気な学園生" "!GA0077">
+「……弱気ねぇ」
+#
+<name "弱気な学園生" "!IA0022">
+「だって、強そうな人ばっかりだもん」
+#
+<name "強気な学園生" "!GA0078">
+「大丈夫よ！
+　ミドルクラスになったこの私にとっては、雑魚も
+　同然！」
+#
+<sprite "ta02b06.iph" 4 4 11>
+<name "イエル" "!CA0204">
+「へー」
+#
+<name "強気な学園生" "!GA0079">
+「なによ！
+　え？
+　………………イ、イエル」
+#
+<name "弱気な学園生" "!IA0023">
+「も、もしかして、イエルも出るのかしら……」
+#
+<sprite "ta02b09.iph" 4 4 12>
+<name "イエル" "!CA0205">
+「雑魚は雑魚なりに頑張らせて貰うわ」
+#
+<name "強気な学園生" "!GA0080">
+「ひぃっ！」
+#
+<removesprite -1 11>
+<exit>
+:3A82
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta02b00.iph" 4 4 11>
+<name "イエル" "!CA0206">
+「魔法学園の生徒の姿がチラホラあるわね」
+#
+<removesprite -1 11>
+<sprite "ta01c06.iph" 2 5 11>
+<sprite "ta02b00.iph" 6 4 11>
+<name "セリス" "!AA3020">
+「強い？」
+#
+<sprite "ta02b06.iph" 6 4 12>
+<name "イエル" "!CA0207">
+「……私よりは弱いわよ。
+　私が学園に居た頃はね」
+#
+<sprite "ta01c07.iph" 2 5 12>
+<name "セリス" "!AA3021">
+「それから努力して強くなっているかもしれない。
+　って事ね」
+#
+<sprite "ta02b09.iph" 6 4 12>
+<name "イエル" "!CA0208">
+「そうよ。
+　油断大敵ね。
+　相手が誰でも、全力で行きましょう」
+#
+<sprite "ta01c15.iph" 2 5 12>
+<name "セリス" "!AA3022">
+「うん」
+#
+<removesprite -1 11>
+<exit>
+:3CFE
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c07.iph" 4 4 11>
+<name "セリス" "!AA3028">
+「月一の大会だけあって、見た顔が多いわね」
+#
+<removesprite -1 11>
+<sprite "ta01c07.iph" 2 5 11>
+<sprite "ta02b00.iph" 6 4 11>
+<name "イエル" "!CA0209">
+「貴女も、有名人よ」
+#
+<sprite "ta01c14.iph" 2 5 12>
+<name "セリス" "!AA3029">
+「あはは……イエルちゃんもね」
+#
+<removesprite -1 11>
+<exit>
+:3E4B
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c17.iph" 4 4 11>
+<name "セリス" "!AA3030">
+「さて、稼ぐぞー！」
+#
+<removesprite -1 11>
+<sprite "ta01c17.iph" 4 4 11>
+<name "イエル" "!CA0210">
+「楽には稼がせないわよ」
+#
+<name "横の出場者" "!TB0058">
+「そうだそうだ」
+#
+<name "さらに横の出場者" "!UA0103">
+「俺達だって居るぜ！」
+#
+<removesprite -1 11>
+<sprite "ta01c36.iph" 4 5 11>
+<name "セリス" "!AA3031">
+「えっと……」
+#
+<name "横の出場者" "!TB0059">
+「どうせ、すぐにやられる常連だよ！」
+#
+<name "さらに横の出場者" "!UA0104">
+「顔も覚えて貰えない常連だよ！」
+#
+<removesprite -1 11>
+<exit>
+:4043
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c06.iph" 4 4 11>
+<name "セリス" "!AA3032">
+「見知った顔で強いのは……」
+#
+<removesprite -1 11>
+<sprite "ta01c06.iph" 2 5 11>
+<sprite "ta02b04.iph" 6 4 11>
+<name "イエル" "!CA0211">
+「多分、セリスじゃないかな」
+#
+<sprite "ta01c36.iph" 2 5 12>
+<name "セリス" "!AA3033">
+「そんな事ないわよ。
+　優勝するのも結構大変だし」
+#
+<sprite "ta02b05.iph" 6 4 12>
+<name "イエル" "!CA0212">
+「結構大変で優勝してるんだから、凄いのよ」
+#
+<removesprite -1 11>
+<exit>
+:41FE
+<music 15>
+<background "bg011a0.iph" 11>
+<name "噂する出場者" "!TB0060">
+「セリスが参加するみたいだぞ」
+#
+<name "困る出場者" "!UA0105">
+「まいったなぁ。
+　俺、今月は優勝したかったのに……」
+#
+<name "噂する出場者" "!TB0061">
+「そりゃ、俺もだ」
+#
+<name "困る出場者" "!UA0106">
+「途中で潰しあってくれれば良いが……」
+#
+<name "強気な出場者" "!MA0072">
+「そんな風に後ろ向きだから、負けるのよ。
+　私は正面からぶつかってやるわ」
+#
+<name "噂する出場者" "!TB0062">
+「よし、その役は任せた。
+　腕の一本でも潰してくれ」
+#
+<name "強気な出場者" "!MA0073">
+「え？
+　負けるの前提？」
+#
+<exit>
+:4403
+<music 15>
+<background "bg011a0.iph" 11>
+<name "困る出場者" "!TB0063">
+「参ったなぁ……
+　イエルとセリスが出場登録してる」
+#
+<name "暗くなる出場者" "!UA0107">
+「あの二人、馬鹿強いからなぁ」
+#
+<name "悩む出場者" "!MA0074">
+「どうしよう？」
+#
+<name "困る出場者" "!TB0064">
+「……よし！
+　今回は勇気ある撤退だ！」
+#
+<name "暗くなる出場者" "!UA0108">
+「賛成！」
+#
+<exit>
+:4540
+<music 15>
+<background "bg011a0.iph" 11>
+<name "思いついた出場者" "!TB0065">
+「最近、思うんだけど」
+#
+<name "聞く出場者" "!UA0109">
+「なにをだ？」
+#
+<name "思いついた出場者" "!TB0066">
+「俺達、月一でセリスにボコられるのが習慣になっ
+　てないか？」
+#
+<name "聞く出場者" "!UA0110">
+「言うな。
+　悲しくなる」
+#
+<exit>
+:464F
+<music 15>
+<background "bg011a0.iph" 11>
+<sprite "ta01c08.iph" 4 4 11>
+<name "セリス" "!AA3023">
+「ソシエットさん！
+　ソシエットさんも、出るのですか？」
+#
+<removesprite -1 11>
+<sprite "ta01c08.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "ソシエット" "!DA0522">
+「いえ、私は判定員です」
+#
+<sprite "ta01c06.iph" 2 5 12>
+<name "セリス" "!AA3024">
+「判定員？」
+#
+<sprite "ta04a69.iph" 6 4 12>
+<name "ソシエット" "!DA0523">
+「はい。
+　審判のようなものです。
+　ですので、あまり参加者が話し掛けないように」
+#
+<sprite "ta01c32.iph" 2 5 12>
+<name "セリス" "!AA3025">
+「す、すみません」
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "ソシエット" "!DA0524">
+「……応援はできませんが、普段の成果を出してく
+　ださい」
+#
+<sprite "ta01c20.iph" 2 5 12>
+<name "セリス" "!AA3026">
+「はい！」
+#
+<removesprite -1 11>
+<exit>
+\x78

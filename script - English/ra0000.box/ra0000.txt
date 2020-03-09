@@ -1,0 +1,142 @@
+\x2E\x22\x00\x04 1  5 \x1A\x01\x0A\x22\x00\x04 1 \x01\x0E :2C: \x16 :C9: \x15 :C5: 
+:2C
+\x1A\x01\x0A\x22\x00\x04 2 \x01\x0E :4A: \x16 :325: \x15 :C5: 
+:4A
+\x1A\x01\x0A\x22\x00\x04 3 \x01\x0E :89: \x1A\x01\x07\x04\x00\xCA\x84\x01\x01\x0E :7D: \x16 :3F0: \x15 :C5: \x18 :89: 
+:7D
+\x16 :C9: \x15 :C5: 
+:89
+\x1A\x01\x0A\x22\x00\x04 4 \x01\x0E :A7: \x16 :522: \x15 :C5: 
+:A7
+\x1A\x01\x0A\x22\x00\x04 5 \x01\x0E :C5: \x16 :687: \x15 :C5: 
+:C5
+\x2B\xEA\x2B\x78
+:C9
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Celes" "!AA4104">
+"Oohhhh..."
+#
+Celes collapsed.
+#
+<background "ev026a1.iph" 10>
+<name "Celes" "!AA4105">
+"I'm sorry, Master."
+#
+<name "Lazlocke">
+"Don't worry about it.
+ Take it rest and get some rest."
+#
+<name "Celes" "!AA4106">
+"Y-Yes, sir, but..."
+#
+<name "Lazlocke">
+"I can treat you with magic, but you're going to
+ be stuck on bed rest for a month."
+#
+<name "Celes" "!AA4107">
+"A whole month...
+ No..."
+#
+<name "Lazlocke">
+"Accept it.
+ Even if you pushed yourself, you'd barely be able
+ to move around the house. Training is right out.
+ Right now, you need to rest and recover."
+#
+<name "Celes" "!AA4108">
+"...Oh... 
+ All right..."
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 4 
+-- Celes spent four weeks recovering --
+#
+<exit>
+:325
+<music 24>
+<background "ev026a1.iph" 10>
+<name "Celes" "!AA4109">
+"I'm sorry, Master."
+#
+<name "Lazlocke">
+"It's okay.
+ Get some rest."
+#
+<name "Celes" "!AA4110">
+"Y-Yes, sir..."
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 3 
+-- Celes spent three weeks recovering --
+#
+<exit>
+:3F0
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Elle" "!CA0260">
+"How's Celes doing?"
+#
+<name "Lazlocke">
+"She won't be up and about for a while."
+#
+<name "Elle" "!CA0261">
+"Oh... I see."
+#
+<name "Lazlocke">
+"Don't worry.
+ I promise I'll get her back on her feet."
+#
+<name "Elle" "!CA0263">
+"...Thank you."
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 3 
+-- Celes spent three weeks recovering --
+#
+<exit>
+:522
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Celes" "!AA4148">
+"Oohh..."
+#
+<name "Soshiette" "!DA0651">
+"How is Celes doing?"
+#
+<name "Lazlocke">
+"She'll be stuck in bed for a while."
+#
+<name "Soshiette" "!DA0652">
+"I see..."
+#
+<name "Lazlocke">
+"I'm not taking any Guild jobs until she's
+ better."
+#
+<name "Soshiette" "!DA0653">
+"...I understand."
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 2 
+-- Celes spent two weeks recovering --
+#
+<exit>
+:687
+<music 24>
+<background "ev026a0.iph" 10>
+<name "Lazlocke">
+"Are you all right?"
+#
+<name "Celes" "!AA4111">
+"Ah... Yes...
+ I'm sorry..."
+#
+<name "Lazlocke">
+"No need to apologize.
+ Just take it easy for a while."
+#
+<name "Celes" "!AA4112">
+"Yes, sir."
+#
+\x0B\x02\x00\x0C\x02\x00\x0C 4 
+-- Celes spent four weeks recovering --
+#
+<exit>
+\x78

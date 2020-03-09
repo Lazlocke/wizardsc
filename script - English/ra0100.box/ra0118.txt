@@ -1,0 +1,57 @@
+\xBE\x00\x99 50  50 \x2E\x22\x00\x01 1  5 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :39: \x16 :B2: \x15 :B1: 
+:39
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :57: \x16 :101: \x15 :B1: 
+:57
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :75: \x16 :150: \x15 :B1: 
+:75
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :93: \x16 :1DD: \x15 :B1: 
+:93
+\x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :B1: \x16 :216: \x15 :B1: 
+:B1
+\x78
+:B2
+<name "Goddess" "!IA0031">
+"Blessings upon you."
+#
+<name "Celes" "!AA3401">
+"Huh?
+ I'm full of strength."
+#
+<exit>
+:101
+<name "Goddess" "!IA0032">
+"Blessings upon you."
+#
+<name "Celes" "!AA3402">
+"My wounds have healed?"
+#
+<exit>
+:150
+<name "Celes" "!AA3403">
+"My mana...
+ Oooh... 
+ Ahhh..."
+#
+<name "Celes" "!AA3404">
+"Geez.
+Å@My mind goes weird places when mana suddenly
+ flows into me."
+#
+<exit>
+:1DD
+<name "Celes" "!AA3405">
+"Mmm...mmm...
+ My mana's recovered."
+#
+<exit>
+:216
+<name "Goddess" "!IA0028">
+"Blessings upon you, challenger of this tower."
+#
+<name "Celes" "!AA3400">
+"Huh?
+ Who's there?
+ ...Was I hearing things?"
+#
+<exit>
+\x78

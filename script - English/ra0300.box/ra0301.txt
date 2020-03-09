@@ -1,0 +1,34 @@
+\x2E\x22\x00\x01 1  3 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :9C: 
+<name "Elle" "!CA0928">
+"Up against you, huh?
+ But I won't hold back."
+#
+<name "Celes" "!AA6631">
+"Yep.
+ I'm going full power too!"
+#
+:9C
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :174: 
+<name "Elle" "!CA0929">
+"I can't believe I have to fight you here."
+#
+<name "Celes" "!AA6632">
+"I'm surprised too."
+#
+<name "Elle" "!CA0930">
+"No matter who wins, no holding it against them,
+ okay?"
+#
+<name "Celes" "!AA6633">
+"Yep!"
+#
+:174
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :1F5: 
+<name "Celes" "!AA6634">
+"Elle, here I come."
+#
+<name "Elle" "!CA0931">
+"I'm not about to lose to you."
+#
+:1F5
+\x78\x78

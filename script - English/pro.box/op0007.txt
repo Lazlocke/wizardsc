@@ -507,8 +507,8 @@ Although I don't like her usurping my job as
 her teacher.
 #
 <name "Lazlocke">
-"Listen to her. Soshiette is only average as
- a wizard, but in terms of physical and martial
+"Listen to her. Soshiette is only average as a
+ wizard, but in terms of physical and martial
  arts, she's second to none."
 #
 And even if her actual spellcraft is only about

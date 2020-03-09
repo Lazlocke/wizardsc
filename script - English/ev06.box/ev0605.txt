@@ -1,0 +1,375 @@
+\x1A\x01\x07\x04\x06\x7D\x84\x00\x01\x0E :47: \xDB "投ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :32A: \x0A\x04\x06\x7D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:47
+\x1A\x01\x07\x04\x06\x7E\x84\x00\x01\x0E :8E: \xDB "投ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 4 \x01\x15 :8E: \x16 :5AB: \x0A\x04\x06\x7E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:8E
+\x1A\x01\x07\x04\x06\x7F\x84\x00\x01\x0E :D5: \xDB "投ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :D5: \x16 :7C7: \x0A\x04\x06\x7F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:D5
+\x1A\x01\x07\x04\x06\x80\x84\x00\x01\x0E :11C: \xDB "飛ナイフ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :11C: \x16 :9FA: \x0A\x04\x06\x80\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:11C
+\x1A\x01\x07\x04\x06\x81\x84\x00\x01\x0E :17A: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :17A: \xDB "ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :17A: \x16 :E4E: \x0A\x04\x06\x81\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:17A
+\x1A\x01\x07\x04\x06 0x8400010E  :1D8: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :1D8: \xDB "ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :1D8: \x16 :1005: \x0A\x04\x06 0x84010A04 \x00\x6F\x84\x01\x15 :329: 
+:1D8
+\x1A\x01\x07\x04\x06\x83\x84\x00\x01\x0E :21F: \xDB "大蛇ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :21F: \x16 :11B6: \x0A\x04\x06\x83\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:21F
+\x1A\x01\x07\x04\x06\x84\x84\x00\x01\x0E :266: \xDB "暴蛇ムチ" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :266: \x16 :12C5: \x0A\x04\x06\x84\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:266
+\x1A\x01\x07\x04\x06\x85\x84\x00\x01\x0E :2A7: \xDB "樽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2A7: \x16 :148A: \x0A\x04\x06\x85\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:2A7
+\x1A\x01\x07\x04\x06\x86\x84\x00\x01\x0E :2E8: \xDB "樽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :2E8: \x16 :1621: \x0A\x04\x06\x86\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:2E8
+\x1A\x01\x07\x04\x06\x87\x84\x00\x01\x0E :329: \xDB "樽" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :329: \x16 :17D4: \x0A\x04\x06\x87\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :329: 
+:329
+\x78
+:32A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Throwing Knife --
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6018">
+"I can throw knives well now!"
+#
+<name "Lazlocke">
+"Okay, let's see it!"
+#
+<sprite "ta01d09.iph" 4 4 12>
+<name "Celes" "!AA6020">
+"Yes, sir!
+ Aim at that target and... yah!"
+#
+<name "Lazlocke">
+"Ooh! Bullseye!"
+#
+<sprite "ta01d18.iph" 4 4 12>
+<name "Celes" "!AA6021">
+"Right?"
+#
+<name "Lazlocke">
+"But maybe you should be throwing from a little
+ further away."
+#
+<removesprite -1 11>
+She's only standing a few feet from it.
+#
+<sprite "ta01d42.iph" 4 4 11>
+<name "Celes" "!AA6022">
+"Hahaha...
+ I'll keep practicing."
+#
+<removesprite -1 11>
+<exit>
+:5AB
+<music 10>
+<background "bg004a0.iph" 11>
+-- Throwing Knife --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA6023">
+"Yah! Hya! Yah!"
+#
+<removesprite -1 11>
+Celes throws one knife at another at the target.
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6024">
+"...My accuracy's not bad, but I've got to do
+ better."
+#
+<name "Lazlocke">
+"No, I think you're impressive as is.
+ I can still remember when you were throwing at
+ a target only a few feet away."
+#
+<sprite "ta01d36.iph" 4 4 12>
+<name "Celes" "!AA6025">
+"Master, please don't bring up my embarrassing
+ past."
+#
+<removesprite -1 11>
+<exit>
+:7C7
+<music 10>
+<background "bg004a0.iph" 11>
+-- Throwing Knife --
+#
+<name "Lazlocke">
+"Hmm... Knives are a threat up close.
+ They're also a threat at range.
+ There's no weakness."
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1145">
+"That's right.
+ I believe they're a good weapon to exploit any
+ possible opening."
+#
+<name "Lazlocke">
+"The issue is power though."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1146">
+"Yes, but that can be made up for with numbers
+ and a combination of other tricks."
+#
+<name "Lazlocke">
+"Right.
+ Keep it up, please."
+#
+<sprite "ta04a04.iph" 4 4 12>
+<name "Soshiette" "!DA1147">
+"Of course."
+#
+<removesprite -1 11>
+<exit>
+:9FA
+<music 10>
+<background "bg004a0.iph" 11>
+-- Twist Knife --
+#
+<sprite "ta04a04.iph" 4 4 11>
+<name "Soshiette" "!DA1148">
+"A thrown knife flies directly to the target."
+#
+<sprite "ta04a10.iph" 4 4 12>
+<name "Soshiette" "!DA1153">
+"That's why you must think before you throw.
+ Let's put that behind us now."
+#
+<removesprite -1 11>
+<sprite "ta01d07.iph" 2 5 11>
+<sprite "ta04a10.iph" 6 4 11>
+<name "Celes" "!AA6029">
+"Yes, ma'am."
+#
+<sprite "ta04a04.iph" 6 4 12>
+<name "Soshiette" "!DA1150">
+"There's also techniques like this."
+#
+<sprite "ta01d06.iph" 2 5 12>
+<name "Celes" "!AA6030">
+"Huh?"
+#
+<removesprite -1 11>
+Soshiette throws a knife.
+#
+It flies straight, but the arc of its course
+bends partway and it curves to a different
+target.
+#
+<sprite "ta01d08.iph" 4 4 11>
+<name "Celes" "!AA6031">
+"Huh?
+ Huh?"
+#
+<removesprite -1 11>
+<sprite "ta01d08.iph" 2 5 11>
+<sprite "ta04a04.iph" 6 4 11>
+<name "Soshiette" "!DA1151">
+"Depending on the shape of a knife and how you
+ throw it, it's possible to make them move in
+ unpredictable ways in flight."
+#
+<sprite "ta04a10.iph" 6 4 12>
+<name "Soshiette" "!DA1152">
+"Never expect them to only fly in a straight
+ line."
+#
+<sprite "ta01d09.iph" 2 5 12>
+<name "Celes" "!AA6032">
+"Y-Yes, ma'am.
+ I understand."
+#
+<removesprite -1 11>
+<exit>
+:E4E
+<music 10>
+<background "bg004a0.iph" 11>
+-- Whips --
+#
+<name "Lazlocke">
+"So you've learned how to use a whip?
+ I see..."
+#
+<sprite "ta01d49.iph" 4 4 11>
+<name "Celes" "!AA6033">
+"Um, Master, I'm not going to use it at night."
+#
+<name "Lazlocke">
+"Huh?
+ You're not?"
+#
+<sprite "ta01d51.iph" 4 4 12>
+<name "Celes" "!AA6034">
+"D-Do you want me to?
+ If I do it seriously, it'll break the skin..."
+#
+<name "Lazlocke">
+"P-Please don't then."
+#
+<removesprite -1 11>
+<exit>
+:1005
+<music 10>
+<background "bg004a0.iph" 11>
+-- Whips --
+#
+Celes snaps the whip, making a crack in the air.
+#
+<name "Lazlocke">
+"Hmm..."
+#
+<sprite "ta01d06.iph" 4 4 11>
+<name "Celes" "!AA6035">
+"Um, is something the matter?"
+#
+<name "Lazlocke">
+"The crack of a whip sounds painful, but there's
+ also something sexy about it."
+#
+<sprite "ta01d58.iph" 4 4 12>
+<name "Celes" "!AA6036">
+"...If it's sexy and you like it, should I hit
+ you?"
+#
+<name "Lazlocke">
+"No, I'm good."
+#
+<removesprite -1 11>
+<exit>
+:11B6
+<music 10>
+<background "bg004a0.iph" 11>
+-- Serpent Whip --
+#
+Serpent whip...
+#
+Serpent...
+#
+Whip...
+#
+<sprite "ta01d96.iph" 4 4 11>
+<name "Celes" "!AA6037">
+"Master, if you're sexualizing this, please
+ stop."
+#
+<removesprite -1 11>
+She's got a dangerous look in her eyes and is
+holding a whip.
+I nod.
+#
+<exit>
+:12C5
+<music 10>
+<background "bg004a0.iph" 11>
+-- Cobra Whip --
+#
+Cobra whip...
+#
+A whip like a raging snake...
+#
+A whip...
+#
+Crack...
+#
+<sprite "ta01d58.iph" 4 4 11>
+<name "Celes" "!AA6038">
+"Master, are you thinking about sex?"
+#
+<name "Lazlocke">
+"N-No, definitely not."
+#
+<sprite "ta01d60.iph" 4 4 12>
+<name "Celes" "!AA6039">
+"If you're lying, I'll use the whip.
+ Yes... like a cobra striking..."
+#
+<name "Lazlocke">
+"I'm sorry.
+ I was thinking about sex."
+#
+<removesprite -1 11>
+<exit>
+:148A
+<music 10>
+<background "bg004a0.iph" 11>
+-- Barrels --
+#
+<name "Lazlocke">
+"A barrel, huh?"
+#
+<sprite "ta01d07.iph" 4 4 11>
+<name "Celes" "!AA6040">
+"A barrel."
+#
+<name "Lazlocke">
+"A barrel..."
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6041">
+"A barrel."
+#
+<removesprite -1 11>
+How is she so good with a barrel?
+#
+<sprite "ta01d15.iph" 4 4 11>
+<name "Celes" "!AA6042">
+"Mmm...
+ This fit feeling...
+ Perfection..."
+#
+<removesprite -1 11>
+<exit>
+:1621
+<music 10>
+<background "bg004a0.iph" 11>
+-- Barrels --
+#
+<sprite "ta01d24.iph" 4 4 11>
+<name "Celes" "!AA6043">
+"Hiyaah!"
+#
+<name "Lazlocke">
+"Ooh! You took them down with a barrel!"
+#
+<sprite "ta01d15.iph" 4 4 12>
+<name "Celes" "!AA6044">
+"How was that!?"
+#
+<name "Lazlocke">
+"Impressive, but I think you'll have problems
+ with slopes. It rolled all the way over there.
+ Don't you need to go get it?"
+#
+<sprite "ta01d42.iph" 4 4 12>
+<name "Celes" "!AA6045">
+"Please don't remind me."
+#
+<removesprite -1 11>
+<exit>
+:17D4
+<music 10>
+<background "bg004a0.iph" 11>
+-- Barrels --
+#
+<sprite "ta01d21.iph" 4 4 11>
+<name "Celes" "!AA6046">
+"Barrel rusher!
+ ...No, no."
+#
+<sprite "ta01d22.iph" 4 4 12>
+<name "Celes" "!AA6047">
+"Destroyer barrel!
+ ...No, no."
+#
+<sprite "ta01d24.iph" 4 4 12>
+<name "Celes" "!AA6048">
+"Herb grilled wine saute barrel!
+ ...Um, I think I lost my focus."
+#
+<removesprite -1 11>
+She's trying to think of a good name for barrel
+moves, but looks like she's blocked.
+#
+<exit>
+\x78

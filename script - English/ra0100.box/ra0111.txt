@@ -1,0 +1,26 @@
+\x2E\x22\x00\x01 1  4 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :59: \xBE\x00
+<name "Celes" "!AA3763">
+"O-Oh no!"
+#
+\x99 -50  0 \x15 :153: 
+:59
+\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :A2: \xBE\x00
+<name "Celes" "!AA3764">
+"Eeek!"
+#
+\x99 -50  0 \x15 :153: 
+:A2
+\x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :F4: \xBE\x00
+<name "Celes" "!AA3765">
+"Huh?
+ Oh, a trap!"
+#
+\x99 -50  0 \x15 :153: 
+:F4
+\x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :153: \xBE\x00
+<name "Celes" "!AA3766">
+"T-That was... nothing!"
+#
+\x99 -50  0 \x15 :153: 
+:153
+\x78\x78
