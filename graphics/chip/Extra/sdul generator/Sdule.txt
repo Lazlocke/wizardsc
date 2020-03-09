@@ -1,0 +1,69 @@
+Physical Training;Sdul_a00.png
+Martial Arts;Sdul_a01.png
+Weapons Training;Sdul_a02.png
+Distance Training;Sdul_a03.png
+Unconventional Weapons;Sdul_a04.png
+Magical Study;Sdul_b00.png
+Pyromancy Study;Sdul_b01.png
+Hydromancy Study;Sdul_b02.png
+Aeromancy Study;Sdul_b03.png
+Geomancy Study;Sdul_b04.png
+Electromancy Study;Sdul_b05.png
+Umbramancy Study;Sdul_b06.png
+Photomancy Study;Sdul_b07.png
+Thermomancy Study;Sdul_b08.png
+Picnomancy Study;Sdul_b09.png
+Speromancy Study;Sdul_b10.png
+Omnimancy Study;Sdul_b11.png
+Waitress;Sdul_c00.png
+Lifeguard;Sdul_c01.png
+Field Laborer;Sdul_c02.png
+Adventurer;Sdul_c03.png
+Line Cook;Sdul_c04.png
+Watchman;Sdul_c05.png
+Tournament Staff;Sdul_c06.png
+Resarch Assistant;Sdul_c07.png
+Housework;Sdul_c08.png
+Personal Assistant;Sdul_c09.png
+Explore the City;Sdul_d00.png
+Explore the Forest;Sdul_d01.png
+Explore the Mountains;Sdul_d02.png
+Explore the Beach;Sdul_d03.png
+Warriors Tournament;Sdul_d04.png
+Wizards Tournament;Sdul_d05.png
+Cooking Tournament;Sdul_d06.png
+Coudures Qualifier;Sdul_d07.png
+Coudures Magic Tournament;Sdul_d08.png
+True Heroes Tournament;Sdul_d09.png
+Go to War;Sdul_d10.png
+Tower of Certification;Sdul_d11.png
+Tower of Trials;Sdul_d12.png
+Tower of Magic;Sdul_d13.png
+Tower of Blessings;Sdul_d14.png
+Tower of Despair;Sdul_d15.png
+Tower of the Demon Lord;Sdul_d16.png
+Tower of Towers;Sdul_d17.png
+Tower of Gods;Sdul_d18.png
+Tower of Chants;Sdul_d19.png
+Underground Tower;Sdul_d20.png
+Great Underground Tower;Sdul_d21.png
+Overlord's Castle;Sdul_d22.png
+Field Match;Sdul_d23.png
+Field Match;Sdul_d23.png
+Field Match;Sdul_d23.png
+Field Match;Sdul_d23.png
+Field Match;Sdul_d23.png
+Field Match;Sdul_d23.png
+Spar with Elle;Sdul_d24.png
+Spar with Viola;Sdul_d25.png
+Spar with Soshiette;Sdul_d26.png
+Fight a Demon;Sdul_e00.png
+One vs One Practice;Sdul_e01.png
+One vs Many Practice;Sdul_e02.png
+One vs Horde Practice;Sdul_e03.png
+Shopping;Sdul_f00.png
+Sleeping;Sdul_f01.png
+Reading;Sdul_f02.png
+Visit Elle;Sdul_f03.png
+Fun with Master;Sdul_f04.png
+Recover Mana;Sdul_f05.png
