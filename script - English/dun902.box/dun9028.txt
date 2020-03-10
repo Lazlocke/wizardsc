@@ -11,28 +11,28 @@
 <music 23>
 <background "bg011a0.iph" 11>
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA2952">
-「か、勝った……」
+<name "Celes" "!AA2952">
+"I-I won..."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA2953">
-「私が……優勝……」
+<name "Celes" "!AA2953">
+"I'm... the champion..."
 #
 <sprite "ta01c09.iph" 4 4 12>
-<name "セリス" "!AA2954">
-「優勝した……」
+<name "Celes" "!AA2954">
+"I won the championship..."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA2955">
-「やったぁぁぁぁぁぁぁぁぁぁ！」
+<name "Celes" "!AA2955">
+"I did it!!!!!!"
 #
 <removesprite -1 11>
-　セリスは両手を上げて喜びを表現し、それに観客
-　達は割れんばかりの拍手で応えた。
+Celes raises her arms in victory and the audience
+responds with a cheer.
 #
-　優勝者、セリスティーネ＝ロココ。
+The Coudures Tournament is over.
 #
-　今年のクデュール魔法大会は終了した。
+The winner is Celestine Rococo.
 #
 \x1A\x01\x07\x04\x0A\x2A\x84\x01\x01\x0E :2C1: \x16 :619: 
 :2C1
@@ -41,22 +41,22 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "セリス" "!AA2956">
-「ま、負けた……」
+<name "Celes" "!AA2956">
+"I-I lost..."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA2957">
-「あと、少しだったのに……」
+<name "Celes" "!AA2957">
+"I came so close..."
 #
 <sprite "ta01c31.iph" 4 4 12>
-<name "セリス" "!AA2958">
-「あと……少しだったのに……」
+<name "Celes" "!AA2958">
+"Just... a little more..."
 #
 <removesprite -1 11>
-　うなだれるセリスの横で、勝者が祝福を受けてい
-　た。
+The victor is crowned as she cries next to them.
 #
-　こうして、今年のクデュール魔法大会は終了した。
+And so, this year's Coudures Tournament comes to
+an end.
 #
 \x1A\x01\x07\x04\x0A\x2A\x84\x01\x01\x0E :459: \x16 :8D8: 
 :459
@@ -65,27 +65,27 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "セリス" "!AA2959">
-「くっ……せっかく、ここまで来たのに……」
+<name "Celes" "!AA2959">
+"Ngh...
+ But I worked so hard to make it this far..."
 #
-<name "ラズロック">
-「残念だったな」
+<name "Lazlocke">
+"It's too bad."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA2960">
-「師匠……」
+<name "Celes" "!AA2960">
+"Master..."
 #
-<name "ラズロック">
-「結果は残念だったが、胸を張れ。
-　お前は強い」
+<name "Lazlocke">
+"You didn't win, but be proud.
+ You're strong."
 #
 <sprite "ta01c31.iph" 4 4 12>
-<name "セリス" "!AA2961">
-「……はい」
+<name "Celes" "!AA2961">
+"...Yes, sir."
 #
 <removesprite -1 11>
-　こうして、セリスのクデュール魔法大会は終わっ
-　た。
+And so, the Coudures Tournament comes to an end.
 #
 \x1A\x01\x07\x04\x0A\x2A\x84\x01\x01\x0E :618: \x16 :8D8: 
 :618
@@ -93,48 +93,48 @@
 :619
 <music 13>
 <background "bg001b0.iph" 11>
-　そして、その夜。
+That night...
 #
 <background "bg002b0.iph" 11>
-<name "ラズロック">
-「……俺の勝ちだな」
+<name "Lazlocke">
+"...Looks like I win."
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0988">
-「ええ。
-　約束は約束、なんでも言って頂戴」
+<name "Viola" "!BA0988">
+"Yes. A promise is a promise.
+ Say whatever you want."
 #
-<name "ラズロック">
-「そうだな……」
+<name "Lazlocke">
+"Let's see..."
 #
 <removesprite -1 11>
-　俺はヴィオラを傍に呼び寄せる。
+I beckon her closer.
 #
-<name "ラズロック">
-「もう一歩前へ」
+<name "Lazlocke">
+"One more step."
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0989">
-「こう？」
+<name "Viola" "!BA0989">
+"Like this?"
 #
-<name "ラズロック">
-「ああ」
+<name "Lazlocke">
+"Yeah."
 #
-　目の前にヴィオラの顔がある。
+She's right in front of me.
 #
-　その目を見て、俺は覚悟を決める。
+I look her right in the eyes and steel myself.
 #
-<name "ラズロック">
-「俺の子供、産んでくれないか？」
+<name "Lazlocke">
+"Will you have my baby?"
 #
-<name "ヴィオラ" "!BA0990">
-「……」
+<name "Viola" "!BA0990">
+"..."
 #
-<name "ラズロック">
-「………………駄目か？」
+<name "Lazlocke">
+".........Is that a no?"
 #
-<name "ヴィオラ" "!BA0991">
-「…………………………駄目なわけないじゃない」
+<name "Viola" "!BA0991">
+".........Did you seriously think I'd say yes?"
 #
 <removesprite -1 11>
 \x2B\x0A\x04\x01\x86\x84\x01
@@ -142,98 +142,98 @@
 :8D8
 <music 13>
 <background "bg007b0.iph" 11>
-　そして、その夜。
+That night...
 #
 <background "bg008b0.iph" 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0992">
-「私の勝ちね」
+<name "Viola" "!BA0992">
+"Looks like I win."
 #
-<name "ラズロック">
-「容赦の無い事で……
-　セリスを慰めるの、大変だったんだぞ」
+<name "Lazlocke">
+"No mercy at all...
+ Comforting Celes was rough."
 #
-<name "ヴィオラ" "!BA0993">
-「ごめんなさい。
-　それでだけど……約束、覚えてるわよね」
+<name "Viola" "!BA0993">
+"I'm sorry.
+ However, you do remember you made a promise."
 #
-<name "ラズロック">
-「わかってる。
-　言う事を聞くんだよな。
-　なんだ？
-　あんまり、難しいのは止めてくれよ」
+<name "Lazlocke">
+"I know. I'll do what you want.
+ What is it?
+ Please go easy on me though."
 #
-<name "ヴィオラ" "!BA0994">
-「難しくないわ。
-　もう少し、こっちに来て」
+<name "Viola" "!BA0994">
+"It won't be hard.
+ Come a little closer."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "ヴィオラ" "!BA0995">
-「……」
+<name "Viola" "!BA0995">
+"..."
 #
-<name "ラズロック">
-「……どうしたんだ？」
+<name "Lazlocke">
+"...What's the matter?"
 #
-<name "ヴィオラ" "!BA0996">
-「な、なんだか恥ずかしいわね」
+<name "Viola" "!BA0996">
+"T-This is kind of embarrassing."
 #
-<name "ラズロック">
-「お前が近づけって言ったんだろ」
+<name "Lazlocke">
+"You told me to come closer."
 #
-<name "ヴィオラ" "!BA0997">
-「ごめんなさい」
+<name "Viola" "!BA0997">
+"Sorry."
 #
 <removesprite -1 11>
-　ヴィオラは咳払いして、俺を見詰める。
+She clears her throat and looks me in the eyes.
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0998">
-「……私をもう一度、好きになって」
+<name "Viola" "!BA0998">
+"...Fall in love with me again."
 #
-<name "ラズロック">
-「え……」
+<name "Lazlocke">
+"Huh?"
 #
-<name "ヴィオラ" "!BA0999">
-「む、昔の事は謝るから。
-　その、私が恋とか、そう言うのをよく知らなかっ
-　たから、貴方を傷付ける事を言ってしまって……」
+<name "Viola" "!BA0999">
+"I-I'm sorry for what happened before.
+ Um, I didn't know much about love or things like
+ that, and I said things that hurt you..."
 #
-<name "ヴィオラ" "!BA1000">
-「その、結構、後悔してるの。
-　だから、その、えっと……」
+<name "Viola" "!BA1000">
+"Um, I very much regret it.
+ So, um, I mean..."
 #
-<name "ラズロック">
-「悪いが無理だ」
+<name "Lazlocke">
+"I'm sorry, but I can't do that."
 #
-<name "ヴィオラ" "!BA1001">
-「………………………………」
+<name "Viola" "!BA1001">
+".................."
 #
-<name "ラズロック">
-「もう一度、好きになれって言われてもな……」
+<name "Lazlocke">
+"You can try telling me to fall back in love
+ with you, but..."
 #
-<name "ヴィオラ" "!BA1002">
-「そ、そうよね」
+<name "Viola" "!BA1002">
+"I-I see..."
 #
-<name "ラズロック">
-「好きな相手を、もう一度好きにはなる事は出来な
-　いと思うな」
+<name "Lazlocke">
+"But I don't think you can fall back in love with
+ someone you never stopped loving."
 #
-<name "ヴィオラ" "!BA1003">
-「…………」
+<name "Viola" "!BA1003">
+"..."
 #
-　俺はヴィオラを抱き締めた。
+I pull her into my arms.
 #
-<name "ラズロック">
-「俺はそのなんだ……
-　結構、諦めが悪いんだ」
+<name "Lazlocke">
+"That's who I am...
+ I'm terrible at giving anything up."
 #
-<name "ラズロック">
-「だから、別の内容にしろ」
+<name "Lazlocke">
+"So ask me something else."
 #
-<name "ヴィオラ" "!BA1004">
-「……………………うん」
+<name "Viola" "!BA1004">
+".........Okay."
 #
 <removesprite -1 11>
 \x2B\x0A\x04\x01\x86\x84\x01

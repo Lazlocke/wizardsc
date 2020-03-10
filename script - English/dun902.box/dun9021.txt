@@ -6,100 +6,103 @@
 :70
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「本選が始まるぞ」
+<name "Lazlocke">
+"The finals are about to begin."
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA2948">
-「はい。
-　準備は万端です」
+<name "Celes" "!AA2948">
+"Yeah.
+ I'm ready for anything."
 #
-<name "ラズロック">
-「……頑張れ」
+<name "Lazlocke">
+"...Good luck."
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA2949">
-「はい」
+<name "Celes" "!AA2949">
+"Yes, sir."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「……ああ待て」
+<name "Lazlocke">
+"...Oh, wait."
 #
-　俺は協会の宝物庫から、持ち出した秘薬をセリス
-　に与える。
+I give her a secret potion I snuck from the 
+Guild's treasure hoard.
 #
-『セリスの体力と魔力が回復した』
+-- Celes's HP and MP have been restored --
 #
 \x9C 100 \x9D 100 
-　これぐらいは、許されるだろう。
+I shouldn't get in too much trouble for that.
 #
 <exit>
 :224
 <music 10>
 <background "bg003a0.iph" 11>
 <sprite "ta01c00.iph" 4 4 11>
-<name "セリス" "!AA2950">
-「本選が始まる……」
+<name "Celes" "!AA2950">
+"The finals have begun..."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA2951">
-「強い人ばかりだけど……
-　全員を倒して、優勝する！」
+<name "Celes" "!AA2951">
+"Everyone here is so strong, but I've got to beat
+ them all and win!"
 #
 <removesprite -1 11>
-　なかなかの気合だ。
+She's pretty fired up.
 #
-　そんなセリスを助ける為に、俺は協会から持ち出
-　した秘薬をセリスに与えた。
+Since she's so motivated, I give her the secret
+potion I took from the Guild.
 #
-『セリスの体力と魔力が回復した』
+-- Celes's HP and MP have been restored --
 #
 \x9C 100 \x9D 100 
-　後でソシエットに怒られるだろうが……
+Soshiette's going to be mad about that.
 #
-　可愛い弟子の為だ。
+But it's for my precious apprentice.
 #
-　これぐらいはしてやろう。
+It's the least I can do.
 #
 <exit>
 :3FB
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta07a10.iph" 4 4 11>
-<name "ジャッジマン" "!FA0011">
-「最強の魔法使いは誰だ！」
+<name "Judgeman" "!FA0011">
+"Who is the strongest wizard!?"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0012">
-「最強の魔法使いは誰だ！」
+<name "Judgeman" "!FA0012">
+"Who is the strongest wizard!?"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0013">
-「最強の魔法使いは誰だ！」
+<name "Judgeman" "!FA0013">
+"Who is the strongest wizard!?"
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0014">
-「魔法さえ使えれば、誰だって参加ＯＫ！」
+<name "Judgeman" "!FA0014">
+"Anybody who uses magic can participate!"
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0015">
-「いや、魔法を使えなくても参加ＯＫ！」
+<name "Judgeman" "!FA0015">
+"No, even if you can't cast a spell, you can
+ still fight!"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0016">
-「誰でもウェルカムのオープンな大会！」
+<name "Judgeman" "!FA0016">
+"This tournament is open to all!"
 #
 <sprite "ta07a06.iph" 4 4 12>
-<name "ジャッジマン" "!FA0017">
-「そして、予選を乗り越え今年も集まったか、勇敢
-　なる戦士……いや、魔法使い達よ！」
+<name "Judgeman" "!FA0017">
+"And have you triumphed through your qualifiers,
+ brave warriors?
+ No, brave wizards!"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0018">
-「クデュール魔法大会、本選だっ！」
+<name "Judgeman" "!FA0018">
+"These are the championship rounds of the Coudures
+ Magic Tournament!"
 #
 <removesprite -1 11>
-　盛大な歓声が、会場を包み込んだ。
+A cheer fills the arena.
 #
 <exit>
 \x78
