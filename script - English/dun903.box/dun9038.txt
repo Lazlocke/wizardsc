@@ -11,41 +11,41 @@
 \x41 2 
 <background "bg002a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "セリス" "!AA3045">
-「師匠、勝ってきました」
+<name "Celes" "!AA3045">
+"Master, I won."
 #
-<name "ラズロック">
-「なんだか、余裕だな」
+<name "Lazlocke">
+"Seemed like you had it pretty easy."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3046">
-「いえいえ」
+<name "Celes" "!AA3046">
+"Not at all."
 #
-<name "ラズロック">
-「……お茶でも用意してやろう」
+<name "Lazlocke">
+"...I'll make tea."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA3047">
-「ありがとうございます」
+<name "Celes" "!AA3047">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
 :1F2
 \x41 2 
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「大会の結果はどうだった？」
+<name "Lazlocke">
+"How'd the tournament go?"
 #
 <sprite "ta01c89.iph" 4 4 11>
-<name "セリス" "!AA3048">
-「頑張りました」
+<name "Celes" "!AA3048">
+"I did my best."
 #
-<name "ラズロック">
-「と言う事は優勝か」
+<name "Lazlocke">
+"Does that mean you won?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3049">
-「はい♪」
+<name "Celes" "!AA3049">
+"Yep!♪"
 #
 <removesprite -1 11>
 <exit>

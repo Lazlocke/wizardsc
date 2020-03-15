@@ -13,90 +13,94 @@
 :B3
 \x41 23 
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0033">
-「優勝！
-　セリス！」
+<name "Judgeman" "!FA0033">
+"Winner!
+ Celes!"
 #
-<name "セリス" "!AA3034">
-「や、やった……」
+<name "Celes" "!AA3034">
+"I-I did it!"
 #
-<name "ジャッジマン" "!FA0034">
-「おめでとう。
-　見事だ」
+<name "Judgeman" "!FA0034">
+"Congratulations.
+ Splendid!"
 #
-<name "セリス" "!AA3035">
-「ありがとうございます！」
+<name "Celes" "!AA3035">
+"Thank you very much!"
 #
-<name "ラズロック">
-「やったな」
+<name "Lazlocke">
+"Nice job."
 #
-<name "セリス" "!AA3036">
-「師匠……ううっ、やりました」
+<name "Celes" "!AA3036">
+"Master...
+ Ooh... I did it!"
 #
-<name "ラズロック">
-「その程度で泣くな。
-　厳しいようだが、クデュール魔法大会は、ここの
-　数十倍厳しいぞ」
+<name "Lazlocke">
+"Don't cry just for winning this.
+ I know it felt hard, but Coudures is going to be
+ ten times harder."
 #
-<name "セリス" "!AA3037">
-「そ、そうですね。
-　……まだまだ、頑張ります！」
+<name "Celes" "!AA3037">
+"Y-You're right.
+ I can still try harder!"
 #
-<name "ラズロック">
-「そうだ。
-　が、今日は優勝を祝ってやろう」
+<name "Lazlocke">
+"That's right.
+ But let's celebrate your win today."
 #
-<name "セリス" "!AA3038">
-「師匠……」
+<name "Celes" "!AA3038">
+"Master..."
 #
-<name "ラズロック">
-「優勝祝い用に、食材を大量に買ってしまったから
-　な」
+<name "Lazlocke">
+"Let's go buy lots of food to celebrate your
+ victory."
 #
-<name "セリス" "!AA3039">
-「はい！」
+<name "Celes" "!AA3039">
+"Yes, sir!"
 #
 <exit>
 :362
 <music 23>
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0035">
-「優勝だ。
-　おめでとう」
+<name "Judgeman" "!FA0035">
+"Victory.
+ Congratulations."
 #
-<name "セリス" "!AA3040">
-「はい」
+<name "Celes" "!AA3040">
+"Yep."
 #
-<name "ラズロック">
-「二回目となると、余裕か？」
+<name "Lazlocke">
+"A second win, huh?
+ Was it easy?"
 #
-<name "セリス" "!AA3041">
-「いえ、まだまだ甘い所がありました。
-　帰って修行します。
-　師匠、付き合って貰えますか？」
+<name "Celes" "!AA3041">
+"No, I still have lots of weaknesses.
+ I need to go home and train.
+ Master, can you come with me?"
 #
-<name "ラズロック">
-「ああ、気が済むまで付き合ってやろう」
+<name "Lazlocke">
+"Yeah, I'll stay with you as long as you want."
 #
-<name "セリス" "!AA3042">
-「ありがとうございます」
+<name "Celes" "!AA3042">
+"Thank you very much."
 #
 <exit>
 :4DC
 \x41 23 
 <background "ev021a0.iph" 10>
-<name "ジャッジマン" "!FA0036">
-「優勝、おめでとう。
-　……もう、常連だな」
+<name "Judgeman" "!FA0036">
+"Winner!
+ Congratulations.
+ ...You've become a regular here."
 #
-<name "セリス" "!AA3043">
-「慢心せずに、頑張ります」
+<name "Celes" "!AA3043">
+"I have to do my best, without letting it go to
+ my head."
 #
-<name "ジャッジマン" "!FA0037">
-「また、ここで会おう」
+<name "Judgeman" "!FA0037">
+"I hope to see you here again."
 #
-<name "セリス" "!AA3044">
-「はい」
+<name "Celes" "!AA3044">
+"Yep."
 #
 <exit>
 \x78
