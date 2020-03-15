@@ -3,97 +3,102 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3063">
-「真なる英雄の大会……
-　行ってきます」
+<name "Celes" "!AA3063">
+"The Tournament of True Heroes...
+ I'm going."
 #
-<name "ラズロック">
-「戦いを長引かせるな。
-　速攻で決めろ。
-　そうしないと、捕まるからな」
+<name "Lazlocke">
+"Don't let the fights go too long.
+ Finish them quickly, or you could get mobbed."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3064">
-「はい、心に刻んでおきます」
+<name "Celes" "!AA3064">
+"Yes, sir.
+ I'll be sure to remember that."
 #
-<name "ラズロック">
-「よし、勝ってこい」
+<name "Lazlocke">
+"Okay.
+ Go win."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA3065">
-「はい！」
+<name "Celes" "!AA3065">
+"Yes, sir!"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ラズロック">
-「さて、ソシエット君」
+<name "Lazlocke">
+"All right, then.
+ Soshiette?"
 #
 <sprite "ta04a73.iph" 4 4 11>
-<name "ソシエット" "!DA0528">
-「ご要望通り、協会による街の警備から一線級を外
-　しております」
+<name "Soshiette" "!DA0528">
+"As you requested, the Guild has removed the main
+ guard keeping peace in the city."
 #
-<name "ラズロック">
-「ご苦労」
+<name "Lazlocke">
+"Thanks."
 #
 <sprite "ta04a76.iph" 4 4 12>
-<name "ソシエット" "!DA0526">
-「後で、保守部長に謝罪をお願いします」
+<name "Soshiette" "!DA0526">
+"Please apologize to the head of security later."
 #
-<name "ラズロック">
-「わかった。
-　頭を下げに行こう」
+<name "Lazlocke">
+"I know.
+ I'll go thank him."
 #
 <sprite "ta04a72.iph" 4 4 12>
-<name "ソシエット" "!DA0527">
-「よろしくお願いします」
+<name "Soshiette" "!DA0527">
+"Please and thank you."
 #
 <removesprite -1 11>
 <music 2>
 \x4C "bg012a0.iph"  11 
 <background "bg013a0.iph" 11>
 <sprite "ta07a01.iph" 4 4 11>
-<name "ジャッジマン" "!FA0038">
-「ようこそ、真なる英雄の大会に！」
+<name "Judgeman" "!FA0038">
+"Welcome to the Tournament of True Heroes!"
 #
 <sprite "ta07a03.iph" 4 4 12>
-<name "ジャッジマン" "!FA0039">
-「ルールは一つ、決まった時間までに多く勝利した
-　者が優勝だ！」
+<name "Judgeman" "!FA0039">
+"There is only one rule!
+ The champion is the one with the most victories
+ after time has expired!"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0040">
-「参加者には魔法のリングを支給している！
-　もう気付いているだろうが、そのリングをしてい
-　る者は、赤い光が高く天に伸びている！」
+<name "Judgeman" "!FA0040">
+"Each participant has been given a magic ring!
+ As you may have already noticed, each person
+ wearing a ring has a red light shining up into
+ the sky!"
 #
 <sprite "ta07a06.iph" 4 4 12>
-<name "ジャッジマン" "!FA0041">
-「その光は、リングをしている者にしか見えない！」
+<name "Judgeman" "!FA0041">
+"That light is only visible to those wearing a
+ ring!"
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0046">
-「この光を頼りに、対戦相手を探すが良い！
-　ギブアップはリングを外す事！」
+<name "Judgeman" "!FA0046">
+"Use that light to find an opponent!
+ Surrender by removing your ring!"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0043">
-「ちなみに、そのリングは使い捨てなので、一度外
-　せばタダのリングだ！
-　リングを外して緒戦を乗り切ろうとする不正は許
-　さない！」
+<name "Judgeman" "!FA0043">
+"By the way, the rings are disposable, and once
+ removed, they turn into ordinary rings!
+ I will allow no cheaters to remove their rings
+ and still compete!"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0044">
-「理解したら、街に繰り出せ！
-　一時間後に鐘が鳴る！
-　それが勝負開始の合図だ！」
+<name "Judgeman" "!FA0044">
+"Now that you know the rules, go into the city!
+ The bell rings in an hour!
+ That is the signal to begin!"
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0045">
-「そして、リングをした者が出会った場所！
-　そこがバトルフィールドだ！」
+<name "Judgeman" "!FA0045">
+"Anywhere two ring-bearers meet will be their
+ battlefield!"
 #
 <removesprite -1 11>
 <exit>

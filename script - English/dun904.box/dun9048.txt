@@ -6,142 +6,145 @@
 :49
 <background "bg002a0.iph" 11>
 <sprite "ta01c36.iph" 4 4 11>
-<name "セリス" "!AA3083">
-「さ、最後に、酷い目に遭いました……」
+<name "Celes" "!AA3083">
+"A-After all that, it was horrible..."
 #
-<name "ラズロック">
-「まあ、無事で良かったな」
+<name "Lazlocke">
+"Well, just be glad you're okay."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3084">
-「はい」
+<name "Celes" "!AA3084">
+"Yes, sir."
 #
-<name "ラズロック">
-「それと、優勝おめでとう。
-　よくやった」
+<name "Lazlocke">
+"And congratulations on winning.
+ Well done."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA3085">
-「はい。
-　ありがとうございます」
+<name "Celes" "!AA3085">
+"Yeah. Thank you very much."
 #
-<name "ラズロック">
-「しかし、油断はしないように。
-　クデュール魔法大会では、真なる英雄の大会より
-　も強い者が多い」
+<name "Lazlocke">
+"But don't get careless.
+ The people at Coudures will be stronger than the
+ ones in this tournament."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA3086">
-「そ、そうなんですか？」
+<name "Celes" "!AA3086">
+"R-Really?"
 #
-<name "ラズロック">
-「真なる英雄の大会には、協会の関係者はあまり出
-　ていないからな」
+<name "Lazlocke">
+"This tournament has almost nobody who was a
+ member of the Guild."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA3087">
-「そう言えば……」
+<name "Celes" "!AA3087">
+"Now that you mention it..."
 #
-<name "ラズロック">
-「暴れる魔法使いを取り締まるのも、協会の仕事だ
-　からな。
-　あの大会に参加は薦めないだろう」
+<name "Lazlocke">
+"It's also part of the Guild's job to keep a lid
+ on any wizards who go too far out of control.
+ People know better than to take part in this
+ tournament."
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "セリス" "!AA3088">
-「う……私、出ちゃって大丈夫ですか？」
+<name "Celes" "!AA3088">
+"Ooh...
+ Was it okay for me to participate?"
 #
-<name "ラズロック">
-「協会から、出るなとは言われてないから、現場で
-　捕まらなければ大丈夫だ」
+<name "Lazlocke">
+"The Guild didn't explicitly forbid it, and as
+ long as you weren't caught in the act, you'll be
+ fine."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3089">
-「良かった」
+<name "Celes" "!AA3089">
+"Thank goodness."
 #
-<name "ラズロック">
-「とにかくだ。
-　クデュール魔法大会での優勝を目指すなら、油断
-　はしないように」
+<name "Lazlocke">
+"Anyway...
+ If you want to win at Coudures, don't let this
+ go to your head."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA3090">
-「はい！
-　気を引き締めます」
+<name "Celes" "!AA3090">
+"Yes, sir!
+ I'll focus even harder!"
 #
-<name "ラズロック">
-「よし。
-　じゃあ、優勝祝いをしよう。
-　豪華な食事を用意したし……そろそろ、ヴィオラ
-　やイエルも来るだろう」
+<name "Lazlocke">
+"Good. Then let's celebrate your victory.
+ I prepared a feast.
+ Viola and Elle should also be here soon."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3091">
-「はい♪」
+<name "Celes" "!AA3091">
+"Yes, sir!♪"
 #
 <removesprite -1 11>
 <exit>
 :60C
 <background "bg013a0.iph" 11>
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you okay?"
 #
 <sprite "ta01d37.iph" 4 4 11>
-<name "セリス" "!AA3092">
-「ま、負けちゃいました……腕が痛いです」
+<name "Celes" "!AA3092">
+"I-I lost...
+ My arm hurts."
 #
-<name "ラズロック">
-「折れてはいないが……打ち身だな。
-　治療するぞ」
+<name "Lazlocke">
+"It's not broken.
+ It looks like it's just a bruise.
+ I can heal you."
 #
 <sprite "ta01d36.iph" 4 4 12>
-<name "セリス" "!AA3093">
-「すみません」
+<name "Celes" "!AA3093">
+"I'm sorry."
 #
-<name "ラズロック">
-「謝るな。
-　参加した事に後悔はしていないのだろう」
+<name "Lazlocke">
+"Don't apologize.
+ You shouldn't regret participating."
 #
 <sprite "ta01d21.iph" 4 4 12>
-<name "セリス" "!AA3094">
-「……はい。
-　次は……負けません」
+<name "Celes" "!AA3094">
+"...Yes, sir.
+ Next time... I won't lose."
 #
-<name "ラズロック">
-「その意気だ」
+<name "Lazlocke">
+"That's the spirit."
 #
 <removesprite -1 11>
 <exit>
 :7F5
 <background "bg013a0.iph" 11>
-<name "ラズロック">
-「大会は終わりだ」
+<name "Lazlocke">
+"The tournament's over."
 #
 <sprite "ta01d32.iph" 4 4 11>
-<name "セリス" "!AA3095">
-「師匠」
+<name "Celes" "!AA3095">
+"Master..."
 #
-<name "ラズロック">
-「優勝者は別に居るようだな」
+<name "Lazlocke">
+"Looks like you didn't win."
 #
 <sprite "ta01d27.iph" 4 4 12>
-<name "セリス" "!AA3096">
-「……残念です」
+<name "Celes" "!AA3096">
+"...I'm sorry."
 #
-<name "ラズロック">
-「まあ、頑張った方じゃないか。
-　タイムアップまで勝ち残ったわけだし」
+<name "Lazlocke">
+"Well, you did your best, right?
+ You hung in there until the time was up."
 #
 <sprite "ta01d31.iph" 4 4 12>
-<name "セリス" "!AA3097">
-「……でも、悔しいです」
+<name "Celes" "!AA3097">
+"...But it's still frustrating."
 #
-<name "ラズロック">
-「では、強くなれ」
+<name "Lazlocke">
+"Then get stronger."
 #
 <sprite "ta01d20.iph" 4 4 12>
-<name "セリス" "!AA3098">
-「はい」
+<name "Celes" "!AA3098">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>

@@ -7,68 +7,69 @@
 <music 32>
 <background "bg013a0.iph" 11>
 <sprite "ta07a12.iph" 4 4 11>
-<name "ジャッジマン" "!FA0047">
-「タイムアーップ！
-　大会、終了！」
+<name "Judgeman" "!FA0047">
+"Time's up!
+ The tournament is over!"
 #
 <sprite "ta07a06.iph" 4 4 12>
-<name "ジャッジマン" "!FA0048">
-「皆様、お疲れ様でした！
-　そして、ナイスファイトをありがとう！」
+<name "Judgeman" "!FA0048">
+"Congratulations, everybody!
+ And thank you for the spectular fighting!"
 #
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0049">
-「さっそくですが、発表させて頂きましょう！」
+<name "Judgeman" "!FA0049">
+"Let us get right to the results!"
 #
 <sprite "ta07a01.iph" 4 4 12>
-<name "ジャッジマン" "!FA0050">
-「今年の真なる英雄は……」
+<name "Judgeman" "!FA0050">
+"This year's True Hero is..."
 #
 <music 23>
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0051">
-「セリスティーネ＝ロココ！
-　貴女だ！」
+<name "Judgeman" "!FA0051">
+"Celestine Rococo!
+ It's you!"
 #
 <removesprite -1 11>
 <sprite "ta01c08.iph" 4 4 11>
-<name "セリス" "!AA3079">
-「え？
-　私？」
+<name "Celes" "!AA3079">
+"Huh?
+ Me?"
 #
 <removesprite -1 11>
 <sprite "ta07a07.iph" 2 4 11>
 <sprite "ta01c08.iph" 6 5 11>
-<name "ジャッジマン" "!FA0052">
-「そう、貴女だ！
-　おめでとう！」
+<name "Judgeman" "!FA0052">
+"Yes, it's you!
+ Congratulations!"
 #
 <sprite "ta01c15.iph" 6 5 12>
-<name "セリス" "!AA3080">
-「どうも……頑張りました」
+<name "Celes" "!AA3080">
+"Thank you.
+ I tried my best."
 #
 <sprite "ta07a09.iph" 2 4 12>
-<name "ジャッジマン" "!FA0053">
-「賞品、賞金は後で家に送っておこう！
-　さらばだ！」
+<name "Judgeman" "!FA0053">
+"The trophy and prize will be sent to your home
+ later!
+ Farewell!"
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "セリス" "!AA3081">
-「え？」
+<name "Celes" "!AA3081">
+"Huh?"
 #
-<name "ラズロック">
-「セリス！
-　協会の警備が包囲を始めた！
-　逃げろっ！」
+<name "Lazlocke">
+"Celes! Guild security is closing in!
+ Run away!"
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "セリス" "!AA3082">
-「ええええっ！」
+<name "Celes" "!AA3082">
+"Eeeh!?"
 #
 <removesprite -1 11>
-　こうして、大会は終了した。
+And so, the tournament ends.
 #
 <exit>
 \x78
