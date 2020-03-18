@@ -6,21 +6,21 @@
 :4F
 <music 10>
 <background "bg001b0.iph" 11>
-　その後、セリスの優勝を祝う宴会は夜遅くまで続
-　けられた。
+After that, the banquet to celebrate her victory
+continued late into the night.
 #
 <exit>
 :AD
 <music 10>
 <background "bg001b0.iph" 11>
-　その残念会は、深夜遅くまで盛り上がる事になっ
-　た。
+The consolation party continues until late into
+the night.
 #
-<name "セリス" "!AA3113">
-「来年こそはー！」
+<name "Celes" "!AA3113">
+"Next year!"
 #
-<name "ラズロック">
-「クデュール魔法大会があるから止めとくように」
+<name "Lazlocke">
+"You have Coudures, so I don't think so."
 #
 <exit>
 \x78

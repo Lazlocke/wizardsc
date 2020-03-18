@@ -12,42 +12,41 @@
 :79
 <exit>
 :7A
-<name "ジャッジマン" "!FA0062">
-「勝ち上がった素晴らしき三十六名の料理人達よ！
-　さあ、二回戦だ！」
+<name "Judgeman" "!FA0062">
+"Thirty six spectacular chefs have advanced!
+ On to the second round!"
 #
 <exit>
 :DC
-<name "ジャッジマン" "!FA0063">
-「美味しそうな料理を見て、お腹が減ってきたかな
-　観戦者の諸君！」
+<name "Judgeman" "!FA0063">
+"The crowd looks hungry after seeing so much
+ delicious food!"
 #
-<name "ジャッジマン" "!FA0064">
-「そんな君達の為に、多数の屋台を用意してある。
-　お薦めはジャッジマン弁当！
-　イベントなのにお値段は通常料金！
-　さあ、買いに走るが良い！」
+<name "Judgeman" "!FA0064">
+"We have prepared stalls for you all.
+ I recommend the Judgeman Special!
+ It's a special event, but no extra cost!
+ Go and buy your heart out!"
 #
-<name "ジャッジマン" "!FA0065">
-「……あーんど！
-　三回戦だ！」
+<name "Judgeman" "!FA0065">
+"And now, the third round!"
 #
 <exit>
 :226
-<name "ジャッジマン" "!FA0067">
-「ここまで残った八名の精鋭達よ！
-　これが準決勝だ！
-　決勝に残れるのはたった二名！」
+<name "Judgeman" "!FA0067">
+"We're down to our elite eight!
+ These are the semifinals!
+ Only two will go on to the championship!"
 #
 <exit>
 :29B
-<name "ジャッジマン" "!FA0068">
-「長かったこの大会もついにラストバトル！
-　ここまでくれば何も語る必要は無い！」
+<name "Judgeman" "!FA0068">
+"This grueling competition is finally down to the
+ last battle!
+ There's nothing left to say!"
 #
-<name "ジャッジマン" "!FA0069">
-「決勝戦！
-　始めっ！」
+<name "Judgeman" "!FA0069">
+"Let the finals begin!"
 #
 <exit>
 \x78
