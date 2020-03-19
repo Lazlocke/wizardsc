@@ -11,6 +11,27 @@
 ブレンド
 <$00>
 
+#WARN($00059A11, "WARNME")
+#JMP($00059A14)
+
+// Ptr: 00059A14
+#WRITE(PTR, $0003C517)
+//アイテムの売買を行ないます。
+Complete this transaction.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00051234, "WARNME")
+#JMP($00056C7C)
+
+// Ptr: 00056C7C
+#WRITE(PTR, $0001CCCE)
+//タイトルに戻りますか？
+Return to title?
+<$00>
+
 #WARN($00058FE6, "WARNME")
 #JMP($00058FD4)
 

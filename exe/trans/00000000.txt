@@ -37412,7 +37412,7 @@ AA6764.aog|AA6765.aog
 // Ptr: 00056C64
 #WRITE(PTR, $0001CC95)
 //ゲームを終了しますか？
-ゲームを終了しますか？
+Close the game?
 <$00>
 
 #WARN($00056C7B, "WARNME")
@@ -37447,7 +37447,7 @@ AA6764.aog|AA6765.aog
 // Ptr: 00056C7C
 #WRITE(PTR, $0001CCCE)
 //タイトルに戻りますか？
-タイトルに戻りますか？
+Return to title?
 <$00>
 
 #WARN($00056C93, "WARNME")
@@ -40248,7 +40248,7 @@ AA6752.aog
 // Ptr: 00056FAC
 #WRITE(PTR, $0001EC8F)
 //ゲームを終了します。
-ゲームを終了します。
+Quit the game.
 <$00>
 
 #WARN($00056FC1, "WARNME")
@@ -41523,7 +41523,7 @@ AA6773.aog
 // Ptr: 00057874
 #WRITE(PTR, $0001F58E)
 //上書きしますか？
-上書きしますか？
+Overwrite this save?
 <$00>
 
 #WARN($00057885, "WARNME")
@@ -41532,7 +41532,7 @@ AA6773.aog
 // Ptr: 00057888
 #WRITE(PTR, $0001F595)
 //セーブしますか？
-セーブしますか？
+Save your game?
 <$00>
 
 #WARN($00057899, "WARNME")
@@ -41586,7 +41586,7 @@ AA6776.aog
 // Ptr: 000578A8
 #WRITE(PTR, $0001F5CB)
 //ロードしますか？
-ロードしますか？
+Load this save?
 <$00>
 
 #WARN($000578B9, "WARNME")
@@ -41619,7 +41619,7 @@ AA6757.aog
 // Ptr: 000578BC
 #WRITE(PTR, $0001F5F3)
 //削除しますか？
-削除しますか？
+Delete this save?
 <$00>
 
 #WARN($000578CB, "WARNME")
@@ -45588,7 +45588,7 @@ lｿ
 // Ptr: 00057C7C
 #WRITE(PTR, $0002201A)
 //スキルの選択をキャンセルしますか？
-スキルの選択をキャンセルしますか？
+Cancel this skill selection?
 <$00>
 
 #WARN($00057C9F, "WARNME")
@@ -80351,7 +80351,7 @@ Rｵ
 // Ptr: 000599FC
 #WRITE(PTR, $0003C4FF)
 //所持金が足りません。
-所持金が足りません。
+Not enough money.
 <$00>
 
 #WARN($00059A11, "WARNME")
@@ -80360,10 +80360,10 @@ Rｵ
 // Ptr: 00059A14
 #WRITE(PTR, $0003C517)
 //アイテムの売買を行ないます。
-アイテムの売買を行ないます。
+Complete this transaction.
 <$0A>
 //よろしいですか？
-よろしいですか？
+Are you sure?
 <$00>
 
 #WARN($00059A42, "WARNME")
