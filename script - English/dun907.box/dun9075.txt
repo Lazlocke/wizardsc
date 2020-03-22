@@ -10,83 +10,89 @@
 :7F
 <music 23>
 <background "ev022a0.iph" 10>
-<name "セリス" "!AA3296">
-「や、やった……登り切った……」
+<name "Celes" "!AA3296">
+"I-I did it...
+ I made it to the top..."
 #
-<name "セリス" "!AA3297">
-「やったぁぁぁぁぁぁぁぁっ！」
+<name "Celes" "!AA3297">
+"I did it!!!"
 #
-<name "ラズロック">
-「よくやった。
-　頭を撫でてやろう」
+<name "Lazlocke">
+"Well done.
+ How about a pat on the head?"
 #
-<name "セリス" "!AA3298">
-「……あれ？
-　師匠」
+<name "Celes" "!AA3298">
+"...Huh?
+ Master?"
 #
-<name "ラズロック">
-「ん？
-　なんだ？」
+<name "Lazlocke">
+"Hm? What?"
 #
-<name "セリス" "!AA3299">
-「どうして此処に」
+<name "Celes" "!AA3299">
+"What are you doing here?"
 #
-<name "ラズロック">
-「いや、そろそろ登りきるかなと思って……」
+<name "Lazlocke">
+"Oh, just felt like it was time to make my way up
+ here."
 #
-<name "セリス" "!AA3300">
-「い、いえ……どうやって此処に？」
+<name "Celes" "!AA3300">
+"N-No, I mean how did you get here?"
 #
-<name "ラズロック">
-「そこにある魔法の昇降機で」
+<name "Lazlocke">
+"On the magic elevator over there."
 #
-<name "セリス" "!AA3301">
-「く、苦労して登りきったのに、喜びが……」
+<name "Celes" "!AA3301">
+"B-But I had such a hard time, and I was so
+ happy..."
 #
-<name "ラズロック">
-「登りきった達成感は、お前だけのものだ」
+<name "Lazlocke">
+"That sense of accomplishment you had is yours
+ and yours alone."
 #
-<name "セリス" "!AA3303">
-「はい！」
+<name "Celes" "!AA3303">
+"Yes, sir!"
 #
 <exit>
 :2F5
 <music 23>
 <background "ev022a0.iph" 10>
-<name "セリス" "!AA3304">
-「登りきったぞー！」
+<name "Celes" "!AA3304">
+"I climbed it!"
 #
-<name "セリス" "!AA3305">
-「いえー！」
+<name "Celes" "!AA3305">
+"Yay!"
 #
 <exit>
 :35E
 <music 23>
 <background "ev022a0.iph" 10>
-<name "セリス" "!AA3306">
-「到達！」
+<name "Celes" "!AA3306">
+"I made it!"
 #
-<name "セリス" "!AA3307">
-「ふう……この私に掛かれば当然」
+<name "Celes" "!AA3307">
+"Whew... 
+ It's natural for someone like me."
 #
-<name "ラズロック">
-「……何を格好付けている」
+<name "Lazlocke">
+"...Who are you posing for?"
 #
-<name "セリス" "!AA3308">
-「いえ、頑張ったので、そのご褒美に」
+<name "Celes" "!AA3308">
+"Nobody.
+ I deserve a reward for my hard work though."
 #
 <exit>
 :437
 <music 23>
 <background "ev022a0.iph" 10>
-<name "セリス" "!AA3309">
-「楽勝♪」
+<name "Celes" "!AA3309">
+"Easy win!♪"
 #
-<name "セリス" "!AA3310">
-「うーん、最初の頃の達成感は無いなぁ」
+<name "Celes" "!AA3310">
+"Hmm... It doesn't feel like as much of an
+ accomplishment as it did the first time."
 #
-<name "セリス" "!AA3311">
-「もっと、上を目指さないと駄目って事かな」
+<name "Celes" "!AA3311">
+"I guess I've got to aim higher."
 #
 <exit>
 \x78

@@ -9,34 +9,33 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "セリス" "!AA3285">
-「試練の塔ですか？」
+<name "Celes" "!AA3285">
+"The Tower of Trials?"
 #
-<name "ラズロック">
-「ああ、協会が用意している訓練用の塔だ。
-　一階から登って最上階を目指す」
+<name "Lazlocke">
+"Yeah. It's a tower for training run by the
+ Guild. Start at the bottom and aim for the top."
 #
-<name "ラズロック">
-「良い訓練になるぞ」
+<name "Lazlocke">
+"It'll be good practice for you."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA3286">
-「わかりました。
-　挑戦してみます」
+<name "Celes" "!AA3286">
+"All right.
+ I'll try it."
 #
 <removesprite -1 11>
 <exit>
 :1D1
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「セリス。
-　試練の塔に挑戦してみるか？」
+<name "Lazlocke">
+"Celes, do you want to try the Tower of Trials?"
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "セリス" "!AA3287">
-「はい！
-　行って来ます！」
+<name "Celes" "!AA3287">
+"Yes!
+ I'm off!"
 #
 <removesprite -1 11>
 <exit>
