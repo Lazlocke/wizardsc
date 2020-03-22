@@ -4,14 +4,15 @@
 :78
 \x78
 :79
-<name "セリス" "!AA3225">
-「急に強くなった？
-　……むう、負けない」
+<name "Celes" "!AA3225">
+"Did they get stronger all of a sudden?
+ Grr...
+ I won't lose!"
 #
 <exit>
 :BB
-<name "セリス" "!AA3226">
-「また急に強く……」
+<name "Celes" "!AA3226">
+"They got stronger out of nowhere again..."
 #
 <exit>
 \x78
