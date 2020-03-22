@@ -19,63 +19,63 @@
 :1D3
 \x78
 :1D4
-<name "セリス" "!AA3335">
-「ん？
-　石版？
-　メッセージ？」
+<name "Celes" "!AA3335">
+"Hm? A lithograph?
+ A message?"
 #
-<name "セリス" "!AA3336">
-「七つの魔法が汝を襲う。
-　乗り越えよ」
+<name "Celes" "!AA3336">
+"Seven magics shall attack thee.
+ Overcome."
 #
 <exit>
 :24E
-<name "セリス" "!AA3337">
-「雰囲気が変わった？」
+<name "Celes" "!AA3337">
+"Did the whole atmosphere change?"
 #
-<name "セリス" "!AA3338">
-「七つの魔法と言えば、魔法の七系統よね」
+<name "Celes" "!AA3338">
+"By seven magics, does that mean the seven
+ elements of magic?"
 #
-<name "セリス" "!AA3339">
-「つまり……」
+<name "Celes" "!AA3339">
+"Meaning..."
 #
-<name "セリス" "!AA3340">
-「ここからが、火のエリアかな」
+<name "Celes" "!AA3340">
+"Is this the fire area?"
 #
 <exit>
 :311
-<name "セリス" "!AA3341">
-「水のエリアかな」
+<name "Celes" "!AA3341">
+"Is this the water area?"
 #
 <exit>
 :33A
-<name "セリス" "!AA3342">
-「風のエリアかな」
+<name "Celes" "!AA3342">
+"Is this the wind area?"
 #
 <exit>
 :363
-<name "セリス" "!AA3343">
-「土のエリアね」
+<name "Celes" "!AA3343">
+"Is this the earth area?"
 #
 <exit>
 :38A
-<name "セリス" "!AA3344">
-「雷のエリアか……」
+<name "Celes" "!AA3344">
+"Is this the lightning area?"
 #
 <exit>
 :3B5
-<name "セリス" "!AA3345">
-「闇のエリア……」
+<name "Celes" "!AA3345">
+"Is this the dark area?"
 #
 <exit>
 :3DE
-<name "セリス" "!AA3346">
-「光のエリア」
+<name "Celes" "!AA3346">
+"Is this the light area?"
 #
 <exit>
 :403
-<name "セリス" "!AA3347">
-「そろそろ、最後かな」
+<name "Celes" "!AA3347">
+"I think I'm almost to the end."
 #
 <exit>
 \x78

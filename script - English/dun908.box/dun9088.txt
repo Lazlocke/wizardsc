@@ -12,12 +12,13 @@
 \x2B
 <background "bg002a0.iph" 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "ソシエット" "!DA0597">
-「まだまだですね」
+<name "Soshiette" "!DA0597">
+"Still a long way to go, huh?"
 #
-<name "ラズロック">
-「そうだな……
-　ま、早々に登れるとは思っていないさ」
+<name "Lazlocke">
+"Seems like it.
+ Well, I didn't think she'd be able to climb it
+ so soon."
 #
 <removesprite -1 11>
 <exit>
@@ -25,11 +26,11 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0598">
-「惜しかったですね」
+<name "Soshiette" "!DA0598">
+"Too bad."
 #
-<name "ラズロック">
-「だな……」
+<name "Lazlocke">
+"Yeah..."
 #
 <removesprite -1 11>
 <exit>
@@ -37,36 +38,40 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0325">
-「駄目だったの？」
+<name "Viola" "!BA0325">
+"Didn't go well?"
 #
-<name "ラズロック">
-「ああ……
-　どうしたんだ？」
+<name "Lazlocke">
+"Yeah...
+ I wonder what went wrong."
 #
 <sprite "ta03a32.iph" 4 4 12>
-<name "ヴィオラ" "!BA0326">
-「んー、魔法の塔を教えたの私だから、責任を……」
+<name "Viola" "!BA0326">
+"Hmm... 
+ I'm the one who told you about that tower, so 
+ it's my fault."
 #
-<name "ラズロック">
-「気にするな。
-　いきなり登れたら、修行にならないだろ」
+<name "Lazlocke">
+"Don't worry about that.
+ If she could do it already, then it wouldn't be
+ training."
 #
 <sprite "ta03a34.iph" 4 4 12>
-<name "ヴィオラ" "!BA0327">
-「そうだろうけど……」
+<name "Viola" "!BA0327">
+"That may be, but..."
 #
-<name "ラズロック">
-「あんまり心配すると、セリスが怒るから止めてく
-　れ」
+<name "Lazlocke">
+"If you worry too much, you'll just make her mad.
+ Please don't."
 #
 <sprite "ta03a31.iph" 4 4 12>
-<name "ヴィオラ" "!BA0328">
-「そうなの？」
+<name "Viola" "!BA0328">
+"Really?"
 #
-<name "ラズロック">
-「ああ、見かけによらず負けず嫌いなんだ。
-　お前が応援していたと伝えておくよ」
+<name "Lazlocke">
+"Yeah. I know how she looks, but she's stubborn
+ and hates to lose.
+ I'll tell her you were cheering her on."
 #
 <removesprite -1 11>
 <exit>
@@ -74,24 +79,23 @@
 \x41 10 
 <background "bg002a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "セリス" "!AA3358">
-「師匠、魔法の塔！
-　登ってきました」
+<name "Celes" "!AA3358">
+"Master, I climbed the Tower of Magic!"
 #
-<name "ラズロック">
-「よくやった」
+<name "Lazlocke">
+"Good work."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3359">
-「はい」
+<name "Celes" "!AA3359">
+"Yes, sir."
 #
-<name "ラズロック">
-「しかし、あの塔に凶悪な魔法使いは居なかった事
-　を忘れないように」
+<name "Lazlocke">
+"But don't forget that there weren't any truly
+ vicious wizards in that tower."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA3360">
-「はい」
+<name "Celes" "!AA3360">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
