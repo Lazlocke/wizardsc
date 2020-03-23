@@ -17,42 +17,43 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c31.iph" 4 4 11>
-<name "セリス" "!AA3390">
-「祝福の塔って名前なのに、全然祝福されない……」
+<name "Celes" "!AA3390">
+"It's called the Tower of Blessings, but I don't
+ feel blessed at all.
 #
-<name "ラズロック">
-「違う意味で祝福されてるからな……
-　大丈夫か？」
+<name "Lazlocke">
+"I think it's blessing in a different way.
+ Are you all right?"
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "セリス" "!AA3391">
-「な、なんとか」
+<name "Celes" "!AA3391">
+"I-I'll survive."
 #
 <removesprite -1 11>
 <exit>
 :287
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「失敗したか……」
+<name "Lazlocke">
+"You failed?"
 #
 <sprite "ta01c32.iph" 4 4 11>
-<name "セリス" "!AA3392">
-「も、もう少しだったんです」
+<name "Celes" "!AA3392">
+"I-I almost made it."
 #
-<name "ラズロック">
-「悔しそうだな」
+<name "Lazlocke">
+"You seem frustrated."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA3393">
-「悔しいです」
+<name "Celes" "!AA3393">
+"I am frustrated."
 #
-<name "ラズロック">
-「だったら、何をすれば良いか解るな」
+<name "Lazlocke">
+"Then you know what to do, right?"
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA3394">
-「はい」
+<name "Celes" "!AA3394">
+"Yes."
 #
 <removesprite -1 11>
 <exit>
@@ -60,24 +61,24 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c32.iph" 4 4 11>
-<name "セリス" "!AA3395">
-「悔しい……」
+<name "Celes" "!AA3395">
+"That sucked..."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3396">
-「で、でも……頑張る」
+<name "Celes" "!AA3396">
+"B-But... I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
 :4B5
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「残念だったな」
+<name "Lazlocke">
+"Too bad."
 #
 <sprite "ta01c21.iph" 4 4 11>
-<name "セリス" "!AA3397">
-「次こそは！」
+<name "Celes" "!AA3397">
+"I'll get it next time!"
 #
 <removesprite -1 11>
 <exit>
@@ -85,76 +86,77 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3398">
-「ぬう……手強い。
-　しかし、私は負けない……
-　必ず戻って来て、征服してみせる！」
+<name "Celes" "!AA3398">
+"Grr... It may be hard, but I won't let this hold
+ me back!
+ I swear that I'll be back, and next time, I will
+ be victorious!"
 #
-<name "ラズロック">
-「芝居掛かっているな。
-　どこのセリフだ？」
+<name "Lazlocke">
+"Was that from some play?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3399">
-「戦記物にあった戦術家のセリフです」
+<name "Celes" "!AA3399">
+"It's a quote from a tactician in a historic war
+ epic."
 #
 <removesprite -1 11>
 <exit>
 :690
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「祝福の塔の守護者？」
+<name "Lazlocke">
+"The guardian of the Tower of Blessings?"
 #
 <sprite "ta01c09.iph" 4 4 11>
-<name "セリス" "!AA3411">
-「はい。
-　頂上に到達した私を祝福してくれました」
+<name "Celes" "!AA3411">
+"Yes. She blessed me when I reached the top."
 #
-<name "ラズロック">
-「本当に居たのか……」
+<name "Lazlocke">
+"It really exists?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3412">
-「はい。
-　姿は見えませんでしたが、声はハッキリと」
+<name "Celes" "!AA3412">
+"Yes. I couldn't see anything, but her voice was
+ crystal clear."
 #
-<name "ラズロック">
-「よかったな」
+<name "Lazlocke">
+"Good for you."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA3413">
-「はい」
+<name "Celes" "!AA3413">
+"Yep."
 #
 <removesprite -1 11>
 <exit>
 :839
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「祝福の塔の守護者、オルナローザ」
+<name "Lazlocke">
+"The guardian of the Tower of Blessings is Olna
+ Rosa."
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA3414">
-「あの声の主ですか？」
+<name "Celes" "!AA3414">
+"Is that who the voice was?"
 #
-<name "ラズロック">
-「そうだ。
-　古代の魔法使い。
-　祝福の塔を造った本人だな」
+<name "Lazlocke">
+"That's right. 
+ She was an ancient wizard, and is the one who
+ created the Tower of Blessings."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA3415">
-「そうなんですか……」
+<name "Celes" "!AA3415">
+"So that's who it was..."
 #
-<name "ラズロック">
-「今度会えたら、名前を言ってやれ。
-　ビックリするから」
+<name "Lazlocke">
+"Next time you meet her, say her name.
+ I bet she'll be surprised."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3416">
-「あはは……
-　そうですね」
+<name "Celes" "!AA3416">
+"Hahaha...
+ All right."
 #
 <removesprite -1 11>
 <exit>

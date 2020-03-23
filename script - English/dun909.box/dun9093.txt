@@ -1,9 +1,11 @@
 <music 18>
 \x2B\x78
-<name "女神" "!IA0029">
-「もう少し……もう少しでここにやってきます」
+<name "Goddess" "!IA0029">
+"A little further...
+ You're almost here."
 #
-<name "女神" "!IA0030">
-「お、惜しい……あと少しでした」
+<name "Goddess" "!IA0030">
+"T-Too bad...
+ You almost made it."
 #
 \x78

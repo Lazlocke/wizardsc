@@ -9,63 +9,63 @@
 \x78
 :61
 <music 23>
-<name "女神" "!IA0033">
-「よく、ここまで到達しました」
+<name "Goddess" "!IA0033">
+"You did well to come this far."
 #
-<name "セリス" "!AA3406">
-「え、だ、誰？」
+<name "Celes" "!AA3406">
+"Huh?
+ W-Who are you?"
 #
-<name "女神" "!IA0034">
-「この塔の守護者です」
+<name "Goddess" "!IA0034">
+"I am the guardian of this tower."
 #
-<name "セリス" "!AA3407">
-「姿が……」
+<name "Celes" "!AA3407">
+"Where are you?"
 #
-<name "女神" "!IA0035">
-「私の姿を見る事はできません。
-　ですが、貴女を祝福する事はできます」
+<name "Goddess" "!IA0035">
+"You cannot see me, but I can give you my 
+ blessing."
 #
-<name "セリス" "!AA3408">
-「祝福？」
+<name "Celes" "!AA3408">
+"Your blessing?"
 #
-<name "女神" "!IA0037">
-「はい。
-　この塔の最上階に来た者に、祝福を」
+<name "Goddess" "!IA0037">
+"Yes. I bless those who reach the highest floor."
 #
-　光がセリスを包み込んだ。
+Light wraps around Celes.
 #
-<name "女神" "!IA0038">
-「これからの貴女に幸運がある事を祈ります」
+<name "Goddess" "!IA0038">
+"I pray you find good fortune."
 #
-<name "セリス" "!AA3409">
-「あ、ありがとうございます」
+<name "Celes" "!AA3409">
+"T-Thank you very much."
 #
-　もう、声は聞こえなかった。
+And then her voice is gone.
 #
-<name "セリス" "!AA3410">
-「……祝福。
-　あの人が、塔を造ったのかな？」
+<name "Celes" "!AA3410">
+"Her blessing...
+ I wonder if she's the one who build this tower."
 #
 <exit>
 :2BF
 <music 23>
-<name "セリス" "!AA3417">
-「頂上到達！」
+<name "Celes" "!AA3417">
+"I've reached the top!"
 #
-<name "セリス" "!AA3418">
-「守護者さーん」
+<name "Celes" "!AA3418">
+"Miss Guardian!"
 #
-<name "セリス" "!AA3419">
-「うーん、祝福は一回だけなのかな」
+<name "Celes" "!AA3419">
+"Umm... Maybe the blessing is one time only."
 #
 <exit>
 :34A
 <music 23>
-<name "セリス" "!AA3420">
-「祝福の塔、頂上到達♪」
+<name "Celes" "!AA3420">
+"Tower of Blessing conquered!♪"
 #
-<name "女神" "!IA0039">
-「祝福あれ♪」
+<name "Goddess" "!IA0039">
+"Blessings up you!♪"
 #
 <exit>
 \x78

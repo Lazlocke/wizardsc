@@ -13,22 +13,23 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3380">
-「祝福の塔に……チャレンジしたいと思います！」
+<name "Celes" "!AA3380">
+"The Tower of Blessings...
+ I want to try it!"
 #
-<name "ラズロック">
-「後悔はしないな！」
+<name "Lazlocke">
+"No regrets then!"
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "セリス" "!AA3381">
-「はい！」
+<name "Celes" "!AA3381">
+"Yes, sir!"
 #
-<name "ラズロック">
-「では、頑張って来い！」
+<name "Lazlocke">
+"Well, good luck to you!"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3382">
-「はい！」
+<name "Celes" "!AA3382">
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
@@ -36,54 +37,55 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a06.iph" 4 4 11>
-<name "ソシエット" "!DA0599">
-「セリスさんは？」
+<name "Soshiette" "!DA0599">
+"Where's Celes?"
 #
-<name "ラズロック">
-「祝福の塔に行ってる」
+<name "Lazlocke">
+"Off to the Tower of Blessings."
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "ソシエット" "!DA0600">
-「祝福の塔ですか……
-　頑張っていますね」
+<name "Soshiette" "!DA0600">
+"The Tower of Blessings?
+ She's hard at work."
 #
-<name "ラズロック">
-「だな」
+<name "Lazlocke">
+"Indeed."
 #
 <removesprite -1 11>
 <exit>
 :362
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「祝福の塔……
-　登りきったら、祝福が貰えるかもな」
+<name "Lazlocke">
+"The Tower of Blessings...
+ They say if you reach the top, you receive a
+ blessing."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3383">
-「そうですね。
-　期待します」
+<name "Celes" "!AA3383">
+"That's right.
+ I'm looking forward to it."
 #
 <removesprite -1 11>
 <exit>
 :427
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「我が弟子よ！
-　祝福の塔を攻略するのだ！」
+<name "Lazlocke">
+"Apprentice mine!
+ Conquer the Tower of Blessings!"
 #
 <sprite "ta01c21.iph" 4 4 11>
-<name "セリス" "!AA3384">
-「はっ！」
+<name "Celes" "!AA3384">
+"Yes, sir!"
 #
 <removesprite -1 11>
 <sprite "ta04a22.iph" 4 4 11>
-<name "ソシエット" "!DA0601">
-「……あの、なにを」
+<name "Soshiette" "!DA0601">
+"...Um, what was that?"
 #
-<name "ラズロック">
-「いや、なんか勢いをつける為に……」
+<name "Lazlocke">
+"Oh, just trying to generate some momentum."
 #
 <removesprite -1 11>
 <exit>
@@ -91,52 +93,52 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA3385">
-「わたしはー！
-　祝福の塔を……登る登る登るっ！
-　登るぞーーーっ！」
+<name "Celes" "!AA3385">
+"I...!
+ Will climb, climb, climb the Tower of Blessings!
+ I'll climb it!"
 #
-<name "ラズロック">
-「まあ、頑張って登れ」
+<name "Lazlocke">
+"Well, good luck with that."
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "セリス" "!AA3386">
-「師匠、頑張ってテンションを上げているんですか
-　ら、協力してください」
+<name "Celes" "!AA3386">
+"Master, I'm trying really hard to psyche myself
+ up. Please help out."
 #
-<name "ラズロック">
-「協力って？」
+<name "Lazlocke">
+"Help how?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3387">
-「ご唱和ください」
+<name "Celes" "!AA3387">
+"Say it with me."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA3388">
-「では……
-　祝福の塔に向かってー」
+<name "Celes" "!AA3388">
+"Okay...
+ To the Tower of Blessings!"
 #
-<name "ラズロック">
-「祝福の塔に向かってー」
+<name "Lazlocke">
+"To the Tower of Blessings."
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3389">
-「登る登る登るっ！
-　登るぞーーーっ！」
+<name "Celes" "!AA3389">
+"Climb! Climb! Climb!
+ Climb it!"
 #
 <removesprite -1 11>
-　俺はセリスの声に合わせて叫んだ。
+I recite after her.
 #
 <sprite "ta03a34.iph" 4 4 11>
-<name "ヴィオラ" "!BA0334">
-「えっと……」
+<name "Viola" "!BA0334">
+"Uhh..."
 #
 <removesprite -1 11>
-　タイミング良くやってきたヴィオラに、引かれて
-　しまった。
+Viola walks in with perfect timing and puts a
+stop to all that.
 #
 <exit>
 \x78
