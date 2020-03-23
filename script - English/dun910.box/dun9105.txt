@@ -9,75 +9,77 @@
 \x78
 :7F
 <music 20>
-<name "セリス" "!AA3481">
-「……頂上」
+<name "Celes" "!AA3481">
+"...The top."
 #
-<name "セリス" "!AA3482">
-「幻影でも無い……」
+<name "Celes" "!AA3482">
+"It's not an illusion..."
 #
-<name "セリス" "!AA3483">
-「大丈夫よね」
+<name "Celes" "!AA3483">
+"Everything's okay."
 #
 <music 23>
 <background "ev022a0.iph" 10>
-<name "セリス" "!AA3484">
-「……よし！
-　やった！
-　登りきった！」
+<name "Celes" "!AA3484">
+"...All right!
+ I did it!
+ I climbed it!"
 #
-<name "セリス" "!AA3485">
-「ふぁ……苦しかった……」
+<name "Celes" "!AA3485">
+"Whew...
+ That was so hard..."
 #
-<name "セリス" "!AA3486">
-「ん？
-　石版？
-　何か書いてある……
-　ええと……」
+<name "Celes" "!AA3486">
+"Hm?
+ A lithograph?
+ Something's written here...
+ Umm..."
 #
-<name "セリス" "!AA3487">
-「別に登られたって、悔しくないもんね。
-　なに必死になってるの。
-　ぷげら」
+<name "Celes" "!AA3487">
+"Totally frustrated you climbing the tower, huh?
+ Why are you such a try-hard?
+　LOL."
 #
-<name "セリス" "!AA3489">
-「…………………………」
+<name "Celes" "!AA3489">
+"........."
 #
-　セリスは石版から離れ、大きく深呼吸した。
+Celes stepped away from it and took a deep breath.
 #
-　そして、すっごく暴れた。
+And then she went berserk.
 #
 <exit>
 :2B3
 <music 23>
 <background "ev022a1.iph" 10>
-<name "セリス" "!AA3494">
-「到着♪」
+<name "Celes" "!AA3494">
+"I made it!♪"
 #
-<name "セリス" "!AA3495">
-「さて、ムカツク石版は見ないようにして……」
+<name "Celes" "!AA3495">
+"Okay, I better not look at that annoying
+ writing."
 #
-<name "セリス" "!AA3496">
-「やったぞー！」
+<name "Celes" "!AA3496">
+"I did it!"
 #
 <exit>
 :358
 <music 23>
 <background "ev022a1.iph" 10>
-<name "セリス" "!AA3497">
-「到達っと。
-　あるのはムカツク石版だけ……」
+<name "Celes" "!AA3497">
+"I made it! 
+ But there's just those annoying messages..."
 #
-<name "セリス" "!AA3498">
-「大丈夫。
-　怒らない」
+<name "Celes" "!AA3498">
+"That's okay.
+ I'm not mad."
 #
-<name "セリス" "!AA3499">
-「怒らない自分を褒める。
-　少しだけ、大人になれたかなぁ」
+<name "Celes" "!AA3499">
+"I'm proud that I'm not mad.
+ Maybe I've grown up a little."
 #
 <exit>
-<name "セリス" "!AA3493">
-「別に登られたって、悔しくないもんね。
-　なに必死になってるの」
+<name "Celes" "!AA3493">
+"Totally frustrated you climbing the tower, huh?
+ Why are you such a try-hard?"
 #
 \x78

@@ -11,88 +11,92 @@
 \x78
 :DB
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「絶望したか？」
+<name "Lazlocke">
+"Are you despairing?"
 #
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA3438">
-「いえ、まだまだ」
+<name "Celes" "!AA3438">
+"No, not yet."
 #
 <removesprite -1 11>
 <exit>
 :167
 <background "bg001a0.iph" 11>
 <sprite "ta01c21.iph" 4 4 11>
-<name "セリス" "!AA3439">
-「ふう……手強い」
+<name "Celes" "!AA3439">
+"Whew...
+ That was hard."
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3440">
-「だが、その強さが心地良い……」
+<name "Celes" "!AA3440">
+"But it's the right strength for me."
 #
-<name "ラズロック">
-「負け惜しみか？」
+<name "Lazlocke">
+"Being a sore loser?"
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "セリス" "!AA3441">
-「負け惜しみです」
+<name "Celes" "!AA3441">
+"Being a sore loser."
 #
 <removesprite -1 11>
 <exit>
 :290
 <background "bg003a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3442">
-「イタタ……」
+<name "Celes" "!AA3442">
+"Owww..."
 #
 <sprite "ta01c29.iph" 4 4 12>
-<name "セリス" "!AA3443">
-「ぬう……色々足りないのかな。
-　もっと頑張らなきゃ」
+<name "Celes" "!AA3443">
+"Grr... Was that not enough?
+ I need to work harder."
 #
 <removesprite -1 11>
 <exit>
 :361
 <background "bg003a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3444">
-「ある意味……この高さに絶望する……」
+<name "Celes" "!AA3444">
+"In a way... getting only this high is
+ despairing..."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3445">
-「でも負けない！」
+<name "Celes" "!AA3445">
+"But I won't lose!"
 #
 <removesprite -1 11>
 <exit>
 :425
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3490">
-「悔しいですぅ」
+<name "Celes" "!AA3490">
+"That sucked."
 #
-<name "ラズロック">
-「まあまあ、そう気にするな」
+<name "Lazlocke">
+"Now, now.
+ Don't worry about it."
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "セリス" "!AA3491">
-「ううううううううううううっ」
+<name "Celes" "!AA3491">
+"Uuuuurrrrrrrrgh!"
 #
 <removesprite -1 11>
-　俺は悔しがるセリスを見ながら、懐かしんでいた。
+Seeing her like this brings back memories.
 #
-　俺の師匠も、ヴィオラも……
-　あの塔に挑み、一番上まで行った者達の姿を。
+My master, Viola too...
+They all challenged the tower and made it to the
+top.
 #
-　特にヴィオラは、魔力が尽きるまであの塔を攻撃
-　していたなぁ。
+Viola especially then attacked the tower until all
+her mana was gone.
 #
-<name "ラズロック">
-「まあ、修行にはなったわけだし、気持ちを切り替
-　えていこう」
+<name "Lazlocke">
+"Well, it was all part of training anyway.
+ Let's change your mood."
 #
 <sprite "ta01c42.iph" 4 4 11>
-<name "セリス" "!AA3492">
-「ううううううううううううっ……」
+<name "Celes" "!AA3492">
+"Uuuuuuurrrrrrrggggghhhh..."
 #
 <removesprite -1 11>
 <exit>

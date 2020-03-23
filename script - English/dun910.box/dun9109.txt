@@ -1,19 +1,19 @@
 \xBE\x00
-<name "セリス" "!AA3469">
-「やった！
-　頂上！」
+<name "Celes" "!AA3469">
+"I did it!
+ The top!"
 #
 \xBE\x00
-<name "セリス" "!AA3470">
-「え……」
+<name "Celes" "!AA3470">
+"Huh?"
 #
-<name "セリス" "!AA3471">
-「………………ふう」
+<name "Celes" "!AA3471">
+"...Whew."
 #
-<name "セリス" "!AA3472">
-「なるほど、絶望の塔ね……」
+<name "Celes" "!AA3472">
+"I see. So this is the Tower of Despair..."
 #
-<name "セリス" "!AA3473">
-「……でも、負けない！」
+<name "Celes" "!AA3473">
+"...But I won't let it beat me!"
 #
 \x78\x78

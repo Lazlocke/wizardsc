@@ -9,79 +9,80 @@
 \x78
 :8B
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「絶望の塔に行くか……
-　中途半端な実力だと、辛いだけだぞ」
+<name "Lazlocke">
+"You want to go to the Tower of Despair?
+ If you don't take it seriously, you're going to
+ have a very bad time of it."
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3429">
-「わかっています。
-　でも、どこまでやれるか試してみたいんです」
+<name "Celes" "!AA3429">
+"I know, but I want to see how far I can go."
 #
-<name "ラズロック">
-「そうか……
-　わかった。
-　頑張ってこい」
+<name "Lazlocke">
+"I see...
+ All right, good luck."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3430">
-「はい」
+<name "Celes" "!AA3430">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :1F0
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「絶望の塔か、大変だろうが頑張るように」
+<name "Lazlocke">
+"The Tower of Despair?
+ It could be rough, but good luck."
 #
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA3431">
-「はい」
+<name "Celes" "!AA3431">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :28A
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3432">
-「絶望の塔に挑んできます」
+<name "Celes" "!AA3432">
+"I'm going to challenge the Tower of Despair."
 #
-<name "ラズロック">
-「用心していけ」
+<name "Lazlocke">
+"Be careful."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3433">
-「はい」
+<name "Celes" "!AA3433">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :35A
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「絶望の塔は、挑んだ者を絶望させる強さって話だ
-　が……
-　新しい仮説を考えてみた」
+<name "Lazlocke">
+"They say the Tower of Despair is named that way
+ because it drives those who think they're strong
+ enough to conquer it to despair, but I have a
+ different hypothesis."
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA3434">
-「どんな仮説ですか？」
+<name "Celes" "!AA3434">
+"What's your hypothesis?"
 #
-<name "ラズロック">
-「あの塔に挑み、負けた者は絶望する呪いを掛けら
-　れるという」
+<name "Lazlocke">
+"The people who challenge it and fail suffer a
+ curse of despair from the tower."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA3435">
-「絶望する呪いってどんな呪いですか？
-　……常にダウンな気持ちになっているとか？」
+<name "Celes" "!AA3435">
+"What kind of curse is that?
+ ...Like always feeling down?"
 #
-<name "ラズロック">
-「いや、性欲がなくなると言う……」
+<name "Lazlocke">
+"No, more like losing their sex drive..."
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "セリス" "!AA3436">
-「た、確かに絶望ですが、挑もうとする前に変な事
-　を言わないでください」
+<name "Celes" "!AA3436">
+"T-That's certainly despairing, but please don't
+ say stuff like that before I do it."
 #
 <removesprite -1 11>
 <exit>
