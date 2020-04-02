@@ -2,14 +2,14 @@
 :33
 \x78
 :34
-<name "セリス" "!AA3610">
-「竜の強さって、こんなものなのかしら？」
+<name "Celes" "!AA3610">
+"Is that how strong dragons are?"
 #
-<name "セリス" "!AA3611">
-「……手を抜かれてる？」
+<name "Celes" "!AA3611">
+"...Was it going easy on me?"
 #
-<name "セリス" "!AA3612">
-「どうして？」
+<name "Celes" "!AA3612">
+"Why?"
 #
 <exit>
 \x78

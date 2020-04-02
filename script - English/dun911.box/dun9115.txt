@@ -9,50 +9,51 @@
 \x78
 :8D
 <music 23>
-<name "セリス" "!AA3553">
-「頂上到着！
-　王魔の塔、制覇！」
+<name "Celes" "!AA3553">
+"The top reached!
+ Tower of the Underlord conquered!"
 #
-<name "セリス" "!AA3554">
-「いえーい！」
+<name "Celes" "!AA3554">
+"Yay!"
 #
-<name "セリス" "!AA3555">
-「さてと……
-　これは、王様と民衆の像かな」
+<name "Celes" "!AA3555">
+"Now then...
+ Is that a statue of the king and his people?"
 #
-<name "セリス" "!AA3556">
-「この像を見てると、仲が良さそうなのにね」
+<name "Celes" "!AA3556">
+"From this, it seems like they got along."
 #
-<name "セリス" "!AA3557">
-「……仲は良かったよね」
+<name "Celes" "!AA3557">
+"...So they were friendly, huh?"
 #
 <exit>
 :1A4
 <music 23>
 <background "ev022a0.iph" 10>
-<name "セリス" "!AA3566">
-「到達！」
+<name "Celes" "!AA3566">
+"Success!"
 #
-<name "セリス" "!AA3567">
-「うーん、いい風ね」
+<name "Celes" "!AA3567">
+"Mm. The wind's nice."
 #
-<name "セリス" "!AA3568">
-「高い所って、楽しい♪」
+<name "Celes" "!AA3568">
+"High places are fun!♪"
 #
 <exit>
 :239
 <music 23>
 <background "ev022a1.iph" 10>
-<name "セリス" "!AA3569">
-「到着した時は嬉しいし、達成感もあるけど……
-　帰るのは寂しいなぁ」
+<name "Celes" "!AA3569">
+"I like reaching the top, and I feel like I
+ accomplished something, but then leaving is
+ sad."
 #
 <exit>
 :2B1
 <music 23>
 <background "ev022a1.iph" 10>
-<name "セリス" "!AA3570">
-「また来ちゃった」
+<name "Celes" "!AA3570">
+"I'm back again."
 #
 <exit>
 \x78

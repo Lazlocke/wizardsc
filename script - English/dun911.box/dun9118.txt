@@ -16,197 +16,204 @@
 :117
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3518">
-「強い……
-　で、出直そう」
+<name "Celes" "!AA3518">
+"So strong...
+ I-I better go."
 #
 <removesprite -1 11>
 <exit>
 :18B
 <background "bg016a0.iph" 11>
 <sprite "ta04a24.iph" 4 4 11>
-<name "ソシエット" "!DA0606">
-「セリスさん。
-　大丈夫ですか？」
+<name "Soshiette" "!DA0606">
+"Celes, are you all right?"
 #
 <removesprite -1 11>
 <sprite "ta01c42.iph" 2 5 11>
 <sprite "ta04a24.iph" 6 4 11>
-<name "セリス" "!AA3519">
-「ぁ……ぁ……は、はい」
+<name "Celes" "!AA3519">
+"Ah...ah...
+ Y-Yes..."
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "ソシエット" "!DA0607">
-「迎えに来てよかった。
-　引き上げます」
+<name "Soshiette" "!DA0607">
+"I'm glad I came to get you.
+ Take my hand."
 #
 <removesprite -1 11>
 <exit>
 :2E1
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「強いだろ」
+<name "Lazlocke">
+"Strong, huh?"
 #
 <sprite "ta01c32.iph" 4 4 11>
-<name "セリス" "!AA3520">
-「は、はい」
+<name "Celes" "!AA3520">
+"Y-Yes."
 #
-<name "ラズロック">
-「魔物になった王様は、そのまま魔物の王様になっ
-　たって話らしいからな。
-　強敵揃いだぞ」
+<name "Lazlocke">
+"They say the king who became a demon is more or
+ less the same as a king of demons.
+ It would be full of formidible enemies."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA3521">
-「ですね。
-　でも……まだ、諦めません」
+<name "Celes" "!AA3521">
+"Yeah, but I'm not ready to give up yet."
 #
 <removesprite -1 11>
 <exit>
 :42F
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「感想は？」
+<name "Lazlocke">
+"Your thoughts?"
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3522">
-「……い、いい勉強に、なります」
+<name "Celes" "!AA3522">
+"...I-It'll be a good learning experience."
 #
-<name "ラズロック">
-「それだけ強がれるなら、大丈夫だな」
+<name "Lazlocke">
+"If you're still acting tough, you'll probably
+ be fine."
 #
 <removesprite -1 11>
 <exit>
 :4FB
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3523">
-「ま、負けたぁぁ……悔しい……」
+<name "Celes" "!AA3523">
+"I-I lost...
+ That sucks..."
 #
 <sprite "ta01c19.iph" 4 4 12>
-<name "セリス" "!AA3524">
-「でも、絶対に登りきってみせる」
+<name "Celes" "!AA3524">
+"But I swear I'll reach the top."
 #
 <removesprite -1 11>
 <exit>
 :5C7
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3525">
-「むう……あと、少しだと思うんだけど」
+<name "Celes" "!AA3525">
+"Grrr...
+ I think I could make it a little further, but..."
 #
 <sprite "ta01c91.iph" 4 4 12>
-<name "セリス" "!AA3526">
-「ええい、頑張る！」
+<name "Celes" "!AA3526">
+"Yah!
+ I'll do my best!"
 #
 <removesprite -1 11>
 <exit>
 :68D
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「それで、どうして国が大きくなって民衆の生活が
-　悪くなったかわかったか？」
+<name "Lazlocke">
+"So, do you know why the kingdom grew, but its
+ peoples' lives got worse?"
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3558">
-「ど、独自解釈ですが…………」
+<name "Celes" "!AA3558">
+"I-I have my own thoughts on it..."
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "セリス" "!AA3559">
-「国が大きくなって、民衆の数が増えたけど、王様
-　は一人のまま」
+<name "Celes" "!AA3559">
+"The kingdom grew big, and the number of citizens
+ increased, but there was still just one king."
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "セリス" "!AA3560">
-「民衆は、薄まる王様の加護に怒ったんじゃないか
-　と思います」
+<name "Celes" "!AA3560">
+"I think the people were upset because the king's
+ protection was spread thin."
 #
-<name "ラズロック">
-「それで、生活が苦しくなったのか？」
+<name "Lazlocke">
+"So how did their lives become hard?"
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "セリス" "!AA3561">
-「王様も、大きくなる国に対して指導力が追い付か
-　なかったんだと思います」
+<name "Celes" "!AA3561">
+"I think that the king couldn't keep up with the
+ growning kingdom too."
 #
-<name "ラズロック">
-「……なるほど。
-　それで、どっちが悪いんだ？」
+<name "Lazlocke">
+"...I see.
+ So, which was the problem?"
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "セリス" "!AA3562">
-「両方共悪く、両方共悪く無いです。
-　だって、王様は民衆の為に国を大きくしたわけだ
-　し、民衆は王様の為に働いたわけじゃないですか」
+<name "Celes" "!AA3562">
+"Both, but also neither.
+ The king made the country bigger for the people,
+ but the people were also supposed to support the
+ king."
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "セリス" "!AA3563">
-「誰も悪い事をしてないのに、どっちが悪いかなん
-　て決めれません」
+<name "Celes" "!AA3563">
+"I don't think either necessarily did something
+ wrong, so I'm not sure I can decide."
 #
-<name "ラズロック">
-「民衆は王様を殺しているぞ」
+<name "Lazlocke">
+"The people killed the king."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA3564">
-「あ……う……そう言えば……
-　じゃあ、民衆が悪いのかな？」
+<name "Celes" "!AA3564">
+"Oh, um... In that case...
+ Then the people were the bad ones, I guess?"
 #
-<name "ラズロック">
-「……ま、わかった。
-　よく一番上まで行ったな」
+<name "Lazlocke">
+"Well, perhaps.
+ You did well to make it to the top."
 #
 <removesprite -1 11>
-　俺はセリスの頭を撫でた。
+I pat her on the head.
 #
 <sprite "ta01c17.iph" 4 4 11>
-<name "セリス" "!AA3565">
-「わーい」
+<name "Celes" "!AA3565">
+"Yay!"
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "ソシエット" "!DA0608">
-「……本当の事をお教えしなくて良いのですか？」
+<name "Soshiette" "!DA0608">
+"...You're not going to tell her the truth?"
 #
-<name "ラズロック">
-「んー……」
+<name "Lazlocke">
+"Hmm..."
 #
 <removesprite -1 11>
-　王が国を大きくした事で、国は広くなった。
+The king expanded his kingdom, and its borders
+became vast.
 #
-　広くなった国で大量の食糧が生み出された。
+As it grew, it produced more and more food.
 #
-　それは、食糧の値崩れを意味していた。
+Which lead to a collapse in food prices.
 #
-　食糧不足で戦争を起こし、食糧過多で経済の崩壊
-　を起こした。
-　それでもなんとかしようとした王だったが、民衆
-　は経済の回復を待てなかった。
+A food shortage leads to wars, and a food surplus
+leads to economic collapse. 
+The king was trying, but the people weren't 
+willing to wait for their economy to recover.
 #
-　殺された王は、魔物に身を堕としても経済の立て
-　直しを図ろうとした。
+The king they killed was trying anything to fix
+its economy, even if he became a monster in the
+process.
 #
-　しかし、それを民衆は許さずに争い、国は滅んだ。
+But the people squabbled and fought, and the
+kingdom fell to ruin.
 #
-<name "ラズロック">
-「あの問い掛けは、考える事が大事なのであって、
-　どっちが悪いかの答えの正否を問うものじゃない」
+<name "Lazlocke">
+"The important part is learning to thinking
+ critically, not to come to the correct answer."
 #
-<name "ラズロック">
-「次の国の王よ、よく考えろと戒めの為に魔物に身
-　を堕とした王が造った塔」
+<name "Lazlocke">
+"This tower was built by the king of a neighboring
+ country as a monument and a warning for those
+ who would sacrifice their humanity."
 #
-<name "ラズロック">
-「ただ、亡国の念がそこに集まり、怪しい塔になっ
-　てしまっているがな」
+<name "Lazlocke">
+"But the resentment of the fallen kingdom gathered
+ there, and turned it into a dangerous tower."
 #
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0609">
-「ですね。
-　定期的に掃除にいかねばならないのが、困りもの
-　です」
+<name "Soshiette" "!DA0609">
+"Indeed.
+ It's a pain to have to go clean it out so often."
 #
 <removesprite -1 11>
 <exit>

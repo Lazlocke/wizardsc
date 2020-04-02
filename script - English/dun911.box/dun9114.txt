@@ -10,39 +10,44 @@
 :FF
 \x78
 :100
-<name "セリス" "!AA3539">
-「どうして、国が栄えて民衆の暮らしが悪くなった
-　のかが問題なのよね」
+<name "Celes" "!AA3539">
+"Why would the kingdom prosper but the everybody's
+ lives get worse?"
 #
-<name "セリス" "!AA3540">
-「国が栄えたら、民衆に不都合があるのかしら？」
+<name "Celes" "!AA3540">
+"If the kingdom is prosperous, is that bad for
+ the citizens?"
 #
 <exit>
 :1A2
-<name "セリス" "!AA3541">
-「国が栄えたって……国を大きくしたのよね。
-　たくさんの国を滅ぼしたって書いてあったし……」
+<name "Celes" "!AA3541">
+"The kingdom flourished.
+ The borders expanded.
+ They say that it conquered land after land..."
 #
 <exit>
 :216
-<name "セリス" "!AA3542">
-「滅ぼされた国の民衆ならともかく、勝ってる国が
-　困るってのが……うーん」
+<name "Celes" "!AA3542">
+"If the victorious kingdom keeps taking in the
+ people of the kingdoms that it conquers, then...
+ Hmmm..."
 #
 <exit>
 :278
-<name "セリス" "!AA3550">
-「むーむーむー……
-　王様が悪いのか、民衆が悪いのか……」
+<name "Celes" "!AA3550">
+"Hmmmmmm...
+ Is the king bad?
+ Or were the people bad?"
 #
 <exit>
 :2CA
-<name "セリス" "!AA3551">
-「むーむーむー……
-　むーむーむー……」
+<name "Celes" "!AA3551">
+"Hmmmm...
+ Hmmmmmmmmmmmm..."
 #
-<name "セリス" "!AA3552">
-「ええい、決めた！」
+<name "Celes" "!AA3552">
+"Okay!
+ I've got it!"
 #
 <exit>
 \x78

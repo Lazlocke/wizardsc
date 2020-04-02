@@ -10,90 +10,91 @@
 :98
 \x78
 :99
-<name "セリス" "!AA3527">
-「ん？
-　なに、これ……石版？
-　物語かしら……ええと……」
+<name "Celes" "!AA3527">
+"Hm? What's this?
+ Writing?
+ Is this a story? Hmmm..."
 #
-<name "セリス" "!AA3528">
-「王様は賢く、強く、そして慕われていた。
-　民衆は愚かで弱かったが、王様に忠実であった」
+<name "Celes" "!AA3528">
+"The king was wise, strong, and respected.
+ The people were foolish and weak, but loyal to
+ the king."
 #
-<name "セリス" "!AA3529">
-「んー……
-　民衆が王様に従っていたって当たり前じゃない」
+<name "Celes" "!AA3529">
+"Hmmm...
+ So no wonder the people followed him."
 #
 <exit>
 :1AE
-<name "セリス" "!AA3530">
-「あ、また石版。
-　なになに……」
+<name "Celes" "!AA3530">
+"Oh, more writing.
+ What now?"
 #
-<name "セリス" "!AA3531">
-「王様の居る国は狭く、食糧不足に困っていた。
-　王様は民衆を率いて戦い、国を広げていった。
-　民衆は喜び、毎日を祝った」
+<name "Celes" "!AA3531">
+"The king's land was tiny, and lacking food.
+ The king led his people into battle and expanded
+ his lands. The people were pleased, and
+ celebrated each day."
 #
-<name "セリス" "!AA3532">
-「へー……景気の良い話ね」
+<name "Celes" "!AA3532">
+"oh? That's a nice story."
 #
 <exit>
 :2A8
-<name "セリス" "!AA3533">
-「石版ね」
+<name "Celes" "!AA3533">
+"More writing."
 #
-<name "セリス" "!AA3534">
-「王様は十六の国を滅ぼし、百を越える部族を従え
-　た。
-　国は栄えたが、民衆の暮らしは悪くなった」
+<name "Celes" "!AA3534">
+"The king conquered sixteen lands, and over a
+ hundred peoples.
+ The kingdom flourished, but the lives of his
+ citizens fell to ruin."
 #
-<name "セリス" "!AA3535">
-「え？
-　どうして国が栄えて民衆の暮らしが悪くなるのか
-　しら？」
+<name "Celes" "!AA3535">
+"Huh? Why would their lives get worse if the
+ kingdom was flourishing?"
 #
 <exit>
 :39D
-<name "セリス" "!AA3536">
-「次ね」
+<name "Celes" "!AA3536">
+"There's the next one."
 #
-<name "セリス" "!AA3537">
-「民衆は暴動を起こし、王様を殺した。
-　民衆は喜んだ。
-　そして、国が滅んだ。
-　そして、王様は魔物になった」
+<name "Celes" "!AA3537">
+"The people rioted and killed the king.
+ The people were pleased.
+ And the kingdom destroyed.
+ And the king was a monster."
 #
-<name "セリス" "!AA3538">
-「……なんなの、この話？」
+<name "Celes" "!AA3538">
+"...What is going on with this story?"
 #
 <exit>
 :473
-<name "セリス" "!AA3543">
-「あ、石版だ」
+<name "Celes" "!AA3543">
+"Oh, the next writing."
 #
-<name "セリス" "!AA3544">
-「えっと……
-　なになに……
-　誰が悪いのか？」
+<name "Celes" "!AA3544">
+"Umm... what's this?
+ Who was to blame?"
 #
-<name "セリス" "!AA3545">
-「誰が悪いのかって言われたら……
-　民衆じゃないのかな」
+<name "Celes" "!AA3545">
+"Who was to blame?
+ The people, I guess?"
 #
-<name "セリス" "!AA3546">
-「あ、でも、民衆も暮らしが悪くて反発したわけだ
-　から……」
+<name "Celes" "!AA3546">
+"Oh, but they rebelled because their lives were
+ ruined..."
 #
-<name "セリス" "!AA3547">
-「王様が悪いのかな？」
+<name "Celes" "!AA3547">
+"The king then?"
 #
-<name "セリス" "!AA3548">
-「でも、王様だって狭い国の食糧事情をなんとかし
-　ようとしたわけだし」
+<name "Celes" "!AA3548">
+"But he was trying to fix the food problem in his
+ tiny kingdom."
 #
-<name "セリス" "!AA3549">
-「むうううううううう……
-　これって、私を精神的に悩ませる罠？」
+<name "Celes" "!AA3549">
+"Hmmmmm....
+ Is this a trap to bother me mentally?"
 #
 <exit>
 \x78

@@ -13,322 +13,335 @@
 \x78
 :BB
 <music 23>
-<name "竜" "!UA0152">
-「見事だ」
+<name "Dragon" "!UA0152">
+"Well done."
 #
-<name "セリス" "!AA3613">
-「えっと……」
+<name "Celes" "!AA3613">
+"Umm..."
 #
-<name "竜" "!UA0153">
-「先程戦った、古代竜だ。
-　我々は、人の姿をとる事が出来る」
+<name "Dragon" "!UA0153">
+"I am the ancient dragon you fought earlier.
+ We can take a human form."
 #
-<name "セリス" "!AA3614">
-「あ、え、えっと……」
+<name "Celes" "!AA3614">
+"Oh, u-um..."
 #
-<name "竜" "!UA0154">
-「構えなくて良い。
-　もう戦う意思は無い」
+<name "Dragon" "!UA0154">
+"You don't need to be wary.
+ I have no intention of any more fighting."
 #
-<name "セリス" "!AA3615">
-「そ、そうですか……」
+<name "Celes" "!AA3615">
+"O-Oh, I see..."
 #
-<name "竜" "!UA0155">
-「君を祝福しに来た。
-　この塔の最上部に到達したのは、君で六人目だ。
-　おめでとう」
+<name "Dragon" "!UA0155">
+"I came to congratulate you.
+ You are the sixth person to reach the top of
+ this tower.
+ Congratulations."
 #
-<name "セリス" "!AA3616">
-「ありがとうございます」
+<name "Celes" "!AA3616">
+"Thank you very much."
 #
-<name "竜" "!UA0156">
-「そこにある記念碑に名前を彫らせて貰いたい。
-　名前を教えてくれないか」
+<name "Dragon" "!UA0156">
+"I want to engrave your name into that monument.
+ Could you share your name?"
 #
-<name "セリス" "!AA3617">
-「セリスティーネ＝ロココです」
+<name "Celes" "!AA3617">
+"Celestine Rococo."
 #
-<name "竜" "!UA0157">
-「わかった。
-　……では、また気が向いた時にでも挑戦してくれ」
+<name "Dragon" "!UA0157">
+"Very well.
+ ...Now then, please return and try again when
+ you feel you are ready."
 #
-<name "セリス" "!AA3618">
-「はい、わかりました」
+<name "Celes" "!AA3618">
+"Okay, I will."
 #
-　……
+...
 #
-<name "竜" "!UA0158">
-「さて……
-　覚えるべき人間の名前が増えてしまった」
+<name "Dragon" "!UA0158">
+"Now then... that is another human name for me to
+ remember."
 #
-　竜はそう言いながら、記念碑に名前を彫った。
+The dragon carves her name into the monument.
 #
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　その名の上には、五名の名が彫られていた。
+There are five named carved above it.
 #
-　一番上に、もう読めないぐらい擦れた名前。
+The highest one is so worn down that it can't be
+read any more.
 #
-　ヴィクトリア＝ルル＝ブラックマン
+Victoria Lulu Blackman.
 #
-　遥か昔の偉大なる魔法使い。
+An ancient wizard from centuries ago.
 #
-　その下に、ここ五十年で彫られたであろう名前が
-　四つ。
+The four names under it are all from the last
+fifty years.
 #
-　メイア＝クルセイダ
-　ルーン＝ヴィレアトロ
-　ヘンリエッタ＝ベベルズ
-　ヴィオラ＝エントラ
+Meia Crusader.
+Rune Vileatro.
+Henrietta Bevels.
+Viola Entra.
 #
-<name "竜" "!UA0159">
-「ふむ……女ばかりだ。
-　やはり、人間も雄よりも雌の方が強いらしい」
+<name "Dragon" "!UA0159">
+"Hmm... Only women.
+ It seems human females are indeed stronger than
+ the men."
 #
-<name "竜" "!UA0160">
-「はぁ……泣ける」
+<name "Dragon" "!UA0160">
+"...I may cry."
 #
 <exit>
 :5E4
 <music 23>
 <background "ev023a0.iph" 10>
-<name "セリス" "!AA3620">
-「到達！」
+<name "Celes" "!AA3620">
+"I made it!"
 #
-<name "セリス" "!AA3621">
-「うーん！
-　高い！
-　本気で高い！」
+<name "Celes" "!AA3621">
+"Mmmm!
+ So high up!
+ So super high!"
 #
-<name "セリス" "!AA3622">
-「だから……うわわっ、風が！」
+<name "Celes" "!AA3622">
+"So... 
+ Whoa!
+ The wind!"
 #
-<name "竜" "!UA0162">
-「気をつけたまえ。
-　私を倒した魔法使いが、転落死では格好がつかな
-　い」
+<name "Dragon" "!UA0162">
+"Take care.
+ A wizard who defeated me should not disgrace
+ herself falling to her death."
 #
-<name "セリス" "!AA3623">
-「あはは……すみません」
+<name "Celes" "!AA3623">
+"Hahaha...
+ Sorry."
 #
 <exit>
 :71F
 <music 23>
-<name "竜" "!UA0163">
-「また、君か……」
+<name "Dragon" "!UA0163">
+"You again?"
 #
-<name "セリス" "!AA3624">
-「すみません、何度も」
+<name "Celes" "!AA3624">
+"I'm sorry I keep coming back."
 #
-<name "竜" "!UA0164">
-「構わないさ。
-　君のように強い者を育てるのが、私のここでの契
-　約だからな」
+<name "Dragon" "!UA0164">
+"I don't mind.
+ It is my geas to rear strong ones like you." 
 #
-<name "セリス" "!AA3625">
-「そう言えば……誰がそんな契約を？」
+<name "Celes" "!AA3625">
+"You say that, but who made you do that?"
 #
-<name "竜" "!UA0165">
-「遥か昔、天界と魔界を相手に争っていた時、一部
-　の人間達が私達竜と共に戦う事を望んでな」
+<name "Dragon" "!UA0165">
+"Very long ago, we wished for humans to join us
+ in our war against Celestia and the Netherworld."
 #
-<name "竜" "!UA0166">
-「その時の契約だ」
+<name "Dragon" "!UA0166">
+"I was bound then."
 #
-<name "セリス" "!AA3626">
-「その時からずーっと居るんですか？」
+<name "Celes" "!AA3626">
+"You've been here ever since?"
 #
-<name "竜" "!UA0167">
-「いや、私は若い竜だ。
-　交代制でやる事になっている」
+<name "Dragon" "!UA0167">
+"No, I'm a young dragon.
+ We are meant to do this in shifts."
 #
-<name "セリス" "!AA3627">
-「なるほど」
+<name "Celes" "!AA3627">
+"I see."
 #
-<name "竜" "!UA0168">
-「また来ると良い。
-　簡単に負けてはやらないけどね」
+<name "Dragon" "!UA0168">
+"I hope to see you again. 
+ I will not lose next time so easily."
 #
-<name "セリス" "!AA3628">
-「はい」
+<name "Celes" "!AA3628">
+"Okay."
 #
 <exit>
 :9AF
 <music 23>
-<name "セリス" "!AA3629">
-「ラズロック＝アルトホーンは、挑戦して来なかっ
-　たんですか？」
+<name "Celes" "!AA3629">
+"Have you never fought Lazlocke Althorn?"
 #
-<name "竜" "!UA0169">
-「ん……彼は私との対戦を前に、去っていった」
+<name "Dragon" "!UA0169">
+"Hm... He left before facing me."
 #
-<name "セリス" "!AA3630">
-「え？
-　どうしてですか？」
+<name "Celes" "!AA3630">
+"Huh? Why?"
 #
-<name "竜" "!UA0170">
-「多分、戦う前に私が婚約者に脅されている所を見
-　たからだと思う」
+<name "Dragon" "!UA0170">
+"I believe it's because he saw my fiancee
+ threatening me before we were supposed to fight."
 #
-<name "セリス" "!AA3631">
-「婚約者…………ですか」
+<name "Celes" "!AA3631">
+"Your... fiancee?"
 #
-<name "竜" "!UA0171">
-「ああ、半ば逃げるようにこの塔の任務についたの
-　だが……もうすぐ交替時期なんだ」
+<name "Dragon" "!UA0171">
+"Yes, I was trying to escape my duty to this
+ tower, and it was nearly time for my
+ replacement."
 #
-<name "竜" "!UA0172">
-「交替したら、巣を作らないといけない……憂鬱だ」
+<name "Dragon" "!UA0172">
+"But when I leave, I need to build a nest.
+ It's depressing."
 #
-<name "セリス" "!AA3632">
-「た、大変ですね」
+<name "Celes" "!AA3632">
+"T-That sounds hard."
 #
-<name "竜" "!UA0173">
-「そう、大変なんだ……」
+<name "Dragon" "!UA0173">
+"Yes, quite hard."
 #
 <exit>
 :BFC
 <music 23>
-<name "セリス" "!AA3633">
-「こんにちは」
+<name "Celes" "!AA3633">
+"Hello."
 #
-<name "竜" "!UA0174">
-「うん、君にやられた所が疼くよ……」
+<name "Dragon" "!UA0174">
+"Mm.
+ The place you struck me aches."
 #
-<name "セリス" "!AA3648">
-「あはは……えっと、すみません。
-　そういえば、お名前はなんと言うんですか？」
+<name "Celes" "!AA3648">
+"Hahaha... Um, I'm sorry.
+ By the way, what's your name?"
 #
-<name "竜" "!UA0176">
-「私か？
-　人間相手には、リュベルクローネと名乗っている」
+<name "Dragon" "!UA0176">
+"Me?
+ To humans, I'm known as Ryubelkrone."
 #
-<name "セリス" "!AA3635">
-「リュベルクローネですか」
+<name "Celes" "!AA3635">
+"Ryubelkrone?"
 #
-<name "竜" "!UA0177">
-「ええ」
+<name "Dragon" "!UA0177">
+"Yes."
 #
-<name "セリス" "!AA3636">
-「失礼ですが、古代竜の中ではどれぐらい強いので
-　すか？」
+<name "Celes" "!AA3636">
+"If I can ask, how strong are you among ancient
+ dragons?"
 #
-<name "竜" "!UA0178">
-「雄だけなら、二番目だ」
+<name "Dragon" "!UA0178">
+"Among the males, I'm the second strongest."
 #
-<name "セリス" "!AA3637">
-「二番目……」
+<name "Celes" "!AA3637">
+"The second..."
 #
-<name "竜" "!UA0179">
-「ちなみに、古代竜の雄は現在、私を含めて二頭し
-　かいない」
+<name "Dragon" "!UA0179">
+"I should add that right now, there are only two
+ male ancient dragons left."
 #
-<name "セリス" "!AA3638">
-「…………」
+<name "Celes" "!AA3638">
+"..."
 #
-<name "竜" "!UA0180">
-「つまり、古代竜の中では一番弱い竜だ」
+<name "Dragon" "!UA0180">
+"In other words, I am the weakest ancient dragon."
 #
-<name "セリス" "!AA3639">
-「そ、そうなんですか？
-　あれで……」
+<name "Celes" "!AA3639">
+"O-Oh, really?
+ So..."
 #
-<name "竜" "!UA0182">
-「ああ、雌は凶暴で雄よりも弱いなんて事はない。
-　教えておくが、リュミスベルンと名乗る古代竜と
-　は絶対に、絶対に、絶対に戦わない方が良い」
+<name "Dragon" "!UA0182">
+"Yes, the females are ferocious and always 
+ stronger than the males. I should warn you that
+ if you meet an ancient dragon named, Ryumis,
+ you should not fight her, no matter what."
 #
-<name "竜" "!UA0183">
-「あれが暴れたら、身を小さくして隠れ、嵐が過ぎ
-　去るのを待つのが唯一の生き残る道だ。
-　竜族の大半はそうしている」
+<name "Dragon" "!UA0183">
+"If she rampages, I shrink and hide.
+ Your only chance to survive is to wait for the
+ storm to pass.
+ That is how it is with most dragons."
 #
-<name "セリス" "!AA3640">
-「りゅ、竜族が身を小さくして隠れる……」
+<name "Celes" "!AA3640">
+"A-A dragon shrinks and hides..."
 #
-<name "竜" "!UA0184">
-「あれは規格外だ。
-　一頭で天界や魔界に喧嘩を売れる竜だ」
+<name "Dragon" "!UA0184">
+"She is beyond all other dragons.
+ She could bring war to Celestia or the
+ Netherworld all by herself."
 #
-<name "セリス" "!AA3641">
-「は、はぁ……」
+<name "Celes" "!AA3641">
+"U-Um..."
 #
-<name "竜" "!UA0185">
-「本気であの方の婚約者に指名されなくて良かった
-　と、泣きながら感謝したものだ」
+<name "Dragon" "!UA0185">
+"I am truly blessed that she was not assigned as
+ my fiancee. I nearly wept in joy."
 #
-<name "セリス" "!AA3642">
-「指名される可能性があったんですか？」
+<name "Celes" "!AA3642">
+"There was a chance that could happen?"
 #
-<name "竜" "!UA0186">
-「私以外の古代竜の雄は、そのリュミスベルンの弟
-　でね。
-　同じ親から生まれた竜同士の結婚は許されてない」
+<name "Dragon" "!UA0186">
+"The only other male ancient dragon is 
+ Ryumisbeln's brother. Dragons cannot marry to
+ their nestmates."
 #
-<name "竜" "!UA0187">
-「残る古代竜の雄は私だけ。
-　つまり、可能性としては私が最有力候補だったん
-　だ！」
+<name "Dragon" "!UA0187">
+"The only other male ancient dragon was me.
+ Which is to say that I was the most likely
+ candidate to be mated to her!"
 #
-<name "セリス" "!AA3643">
-「で、ですね……」
+<name "Celes" "!AA3643">
+"Y-Yeah..."
 #
-<name "竜" "!UA0188">
-「しかし、しかしだ！
-　竜族のとある計画に参加していた雌の古代竜が行
-　方不明になり、その後をあの方が継ぐ事になった
-　んだ」
+<name "Dragon" "!UA0188">
+"However... However!
+ There was a plan regarding a certain missing
+ memeber of the dragons that the female ancient
+ dragons were a part of!"
 #
-<name "セリス" "!AA3644">
-「ある計画？」
+<name "Celes" "!AA3644">
+"A plan?"
 #
-<name "竜" "!UA0189">
-「詳しい話は置いておこう。
-　問題なのは、その計画が古代竜以外との結婚と言
-　う事だ」
+<name "Dragon" "!UA0189">
+"I'll spare you the details.
+ The crux is that it was a plan to marry to
+ something besides an ancient dragon."
 #
-<name "竜" "!UA0190">
-「つまり、私と婚約する事は無し！
-　やった！」
+<name "Dragon" "!UA0190">
+"In other words, she couldn't be engaged to me!
+ Hooray!"
 #
-<name "セリス" "!AA3645">
-「はぁ……」
+<name "Celes" "!AA3645">
+"Ummm..."
 #
-<name "竜" "!UA0191">
-「しかし、あの方との婚約をしないだけで、当然な
-　がら他の古代竜と婚約する事になった……」
+<name "Dragon" "!UA0191">
+"However, I was just not engaged to her.
+ Of course, I would be engaged to some other
+ ancient dragon..."
 #
-<name "竜" "!UA0192">
-「最悪じゃないだけで、私より強く、高圧的で、乱
-　暴なのには変わりなかった」
+<name "Dragon" "!UA0192">
+"She's not the worst, but she is still much
+ stronger than me, and just as overbearing and
+ bloodthirsty."
 #
-<name "竜" "!UA0193">
-「婚約すれば、巣を作らないといけない。
-　その後は結婚だ……」
+<name "Dragon" "!UA0193">
+"Once you're engaged, you have to build a nest,
+ and then comes marriage..."
 #
-<name "竜" "!UA0194">
-「私はそれが嫌で、この塔の契約任務についたんだ」
+<name "Dragon" "!UA0194">
+"I didn't want that, and took on the duty to this
+ tower."
 #
-<name "セリス" "!AA3646">
-「た、大変ですね」
+<name "Celes" "!AA3646">
+"T-That sounds hard."
 #
-<name "竜" "!UA0195">
-「ああ……君が将来、誰かと結婚するなら言ってお
-　く」
+<name "Dragon" "!UA0195">
+"Yes. I will give you some advice if you are to
+ one day marry someone."
 #
-<name "竜" "!UA0196">
-「旦那を苛めるんじゃないぞ。
-　優しくしてやれ。
-　男は意地っ張りだが、弱いんだから」
+<name "Dragon" "!UA0196">
+"Do not torment your husband.
+ Be considerate.
+ Men are stubborn, but they are weak."
 #
-<name "セリス" "!AA3647">
-「こ、心に留めておきます……」
+<name "Celes" "!AA3647">
+"I-I'll try to remember that."
 #
 <exit>
 :1658
 <music 23>
 <background "ev023a0.iph" 10>
-　セリスは最上の塔を制覇した。
+Celes conquered the Tower of Greatness.
 #
 <exit>
 \x78

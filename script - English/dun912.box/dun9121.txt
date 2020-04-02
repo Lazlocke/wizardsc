@@ -10,102 +10,103 @@
 :8B
 <background "bg001a0.iph" 11>
 <sprite "ta01c21.iph" 4 4 11>
-<name "セリス" "!AA3583">
-「最上の塔を登ってきます」
+<name "Celes" "!AA3583">
+"I'm going to climb the Tower of Greatness."
 #
-<name "ラズロック">
-「頑張って来い！」
+<name "Lazlocke">
+"Good luck!"
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3584">
-「はい！」
+<name "Celes" "!AA3584">
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>
 :15F
 <background "bg001a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3585">
-「最上の塔……相手にとって、不足はありません！」
+<name "Celes" "!AA3585">
+"The Tower of Greatness...
+ There's no shortage of opponents!"
 #
 <removesprite -1 11>
 <sprite "ta01c20.iph" 2 5 11>
 <sprite "ta04a22.iph" 6 4 11>
-<name "ソシエット" "!DA0610">
-「気合が入ってますね。
-　でも、相手は竜です。
-　一時も気を抜かないように」
+<name "Soshiette" "!DA0610">
+"You seem excited, but you're up against a
+ dragon.
+ Don't let your guard down."
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "セリス" "!AA3586">
-「はい！」
+<name "Celes" "!AA3586">
+"Yes, ma'am!"
 #
 <removesprite -1 11>
 <exit>
 :2D5
 <background "bg001a0.iph" 11>
 <sprite "ta01c21.iph" 4 4 11>
-<name "セリス" "!AA3589">
-「最上の塔、行くぞー！」
+<name "Celes" "!AA3589">
+"Off to the Tower of Greatness!"
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3590">
-「おー！」
+<name "Celes" "!AA3590">
+"Yay!"
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3591">
-「登るぞー！」
+<name "Celes" "!AA3591">
+"To the top!"
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3592">
-「おー！」
+<name "Celes" "!AA3592">
+"Yay!"
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3593">
-「てっぺんまでだー！」
+<name "Celes" "!AA3593">
+"All the way up!"
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3594">
-「おー！」
+<name "Celes" "!AA3594">
+"Yay!"
 #
-<name "ラズロック">
-「掛け声ぐらい、俺がやってやろうか？」
+<name "Lazlocke">
+"Should I be cheering too?"
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "セリス" "!AA3595">
-「次回からお願いします」
+<name "Celes" "!AA3595">
+"Next time, please do."
 #
 <removesprite -1 11>
 <exit>
 :514
 <background "bg001a0.iph" 11>
-<name "ラズロック">
-「最上の塔、行くぞー！」
+<name "Lazlocke">
+"To the Tower of Greatness!"
 #
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA3596">
-「おー！」
+<name "Celes" "!AA3596">
+"Yay!"
 #
-<name "ラズロック">
-「登るぞー！」
+<name "Lazlocke">
+"To the top!"
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3597">
-「おー！」
+<name "Celes" "!AA3597">
+"Yay!"
 #
-<name "ラズロック">
-「てっぺんまでだー！」
+<name "Lazlocke">
+"All the way up!"
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3598">
-「おー！」
+<name "Celes" "!AA3598">
+"Yay!"
 #
-<name "ラズロック">
-「よし、頑張って来い！」
+<name "Lazlocke">
+"Okay, go get 'em!"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3599">
-「はい」
+<name "Celes" "!AA3599">
+"Yes, sir!"
 #
 <removesprite -1 11>
 <exit>

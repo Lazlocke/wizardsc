@@ -22,97 +22,101 @@
 :193
 <background "bg016a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3600">
-「ま、まさか……あんなに竜が居るなんて……」
+<name "Celes" "!AA3600">
+"N-No way...
+ I can't believe dragons are like that..."
 #
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you all right?"
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "セリス" "!AA3601">
-「は、はい」
+<name "Celes" "!AA3601">
+"Y-Yes."
 #
-<name "ラズロック">
-「竜は強かったろ」
+<name "Lazlocke">
+"Dragons are strong, huh?"
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "セリス" "!AA3602">
-「はい。
-　古代竜じゃないのに、あんなに強いなんて……」
+<name "Celes" "!AA3602">
+"Yes. It wasn't even an ancient dragon, but it
+ was still so strong..."
 #
-<name "ラズロック">
-「他の竜も、全部雄だ。
-　そう考えると、雌の竜の強さって考えたくないよ
-　な」
+<name "Lazlocke">
+"All those dragons are males.
+ You don't even want to think about how strong
+ the females are."
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "セリス" "!AA3603">
-「あはは……
-　でも、いつかきっと」
+<name "Celes" "!AA3603">
+"Hahaha...
+ But someday."
 #
-<name "ラズロック">
-「……そうだな。
-　いつかきっとだ」
+<name "Lazlocke">
+"...I guess.
+ Certainly some day."
 #
 <removesprite -1 11>
 <exit>
 :3FC
 <background "bg002a0.iph" 11>
 <sprite "ta01c23.iph" 4 4 11>
-<name "セリス" "!AA3604">
-「は、反則です！
-　なんですかあの強さは！」
+<name "Celes" "!AA3604">
+"T-That's cheating!
+ How can it be that strong!?"
 #
-<name "ラズロック">
-「はいはい、静かに休むように」
+<name "Lazlocke">
+"Yeah, yeah.
+ Calm down and get some rest."
 #
 <removesprite -1 11>
 <exit>
 :4B0
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「ま……簡単に登られても困るが……」
+<name "Lazlocke">
+"Well, it'd be bad if you could make it to the
+ top that easily."
 #
 <sprite "ta01c27.iph" 4 4 11>
-<name "セリス" "!AA3605">
-「きゅー」
+<name "Celes" "!AA3605">
+"Aww."
 #
-<name "ラズロック">
-「怪我ばかりも困るな」
+<name "Lazlocke">
+"Just be glad you're not hurt."
 #
 <removesprite -1 11>
 <exit>
 :570
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3606">
-「も、もう少しだったのに……」
+<name "Celes" "!AA3606">
+"I-I almost made it..."
 #
-<name "ラズロック">
-「あの塔、そこまで登れる事に感心する」
+<name "Lazlocke">
+"I'm impressed you got that far."
 #
 <removesprite -1 11>
 <exit>
 :61D
 <background "bg020a0.iph" 11>
-<name "竜" "!UA0148">
-「……そろそろ、出番かな」
+<name "Dragon" "!UA0148">
+"...Is it nearly time?"
 #
-<name "竜" "!UA0149">
-「私の平穏を乱すのだ。
-　楽しませて欲しいものだ」
+<name "Dragon" "!UA0149">
+"You have disturbed my slumber.
+ Now you must entertain me."
 #
 <exit>
 :6A4
 <background "bg020a0.iph" 11>
-<name "竜" "!UA0150">
-「古の契約に従い、阻ませてもらおう」
+<name "Dragon" "!UA0150">
+"By the ancient pact, I cannot you to go any
+ further."
 #
 <exit>
 :6F0
 <background "bg020a0.iph" 11>
-<name "竜" "!UA0151">
-「まだ力不足……出直すが良い」
+<name "Dragon" "!UA0151">
+"You lack power, but I hope to see you again."
 #
 <exit>
 \x78
