@@ -9,42 +9,42 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA4153">
-「な、なんとか……」
+<name "Celes" "!AA4153">
+"I-I did it..."
 #
 <removesprite -1 11>
 <sprite "ta01c22.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "ソシエット" "!DA0656">
-「お見事です」
+<name "Soshiette" "!DA0656">
+"Well done."
 #
 <removesprite -1 11>
-　セリスは乱暴者を沈静化し、ソシエットに褒めら
-　れた。
+Celes subdued the hooligan, and was praised by
+Soshiette.
 #
 <exit>
 :17E
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0657">
-「まだまだですね」
+<name "Soshiette" "!DA0657">
+"You still have a long way to go."
 #
 <removesprite -1 11>
 <sprite "ta01c27.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
-<name "セリス" "!AA4154">
-「す、すみません」
+<name "Celes" "!AA4154">
+"I-I'm sorry."
 #
 <sprite "ta04a65.iph" 6 4 12>
-<name "ソシエット" "!DA0658">
-「この程度の相手に」
+<name "Soshiette" "!DA0658">
+"An opponent of this level is nothing."
 #
-<name "乱暴者" "!QB0169">
-「え？」
+<name "Hooligan" "!QB0169">
+"Huh?"
 #
 <removesprite -1 11>
-　乱暴者は、ソシエットによって沈黙させられた。
+Soshiette quickly dealt with the man.
 #
 <exit>
 \x78

@@ -4,30 +4,28 @@
 :D
 <music 2>
 <background "bg013a0.iph" 11>
-<name "乱暴者" "!QB0168">
-「わはっはっはっはっ……」
+<name "Hooligan" "!QB0168">
+"Wahahaha!"
 #
-　乱暴者が、街で暴れていた。
+Hooligans are rampaging through the city.
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "ソシエット" "!DA0654">
-「セリスさん。
-　鎮圧を頼めますか？」
+<name "Soshiette" "!DA0654">
+"Celes, can I ask you to subdue them?"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "セリス" "!AA4151">
-「え？
-　私がですか？」
+<name "Celes" "!AA4151">
+"Huh? Me?"
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "ソシエット" "!DA0655">
-「はい」
+<name "Soshiette" "!DA0655">
+"Yes."
 #
 <sprite "ta01a36.iph" 2 5 12>
-<name "セリス" "!AA4152">
-「……が、頑張ってみます」
+<name "Celes" "!AA4152">
+"...I-I'll try."
 #
 <removesprite -1 11>
 <exit>

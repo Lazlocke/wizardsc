@@ -4,30 +4,29 @@
 :D
 <music 2>
 <background "bg013a0.iph" 11>
-<name "酔っ払い" "!RB0193">
-「わーっはっはっはっはっ……」
+<name "Drunkard" "!RB0193">
+"Wahahahahaha!"
 #
-　酔っ払いが大きく笑い、右へ左へと揺れながら歩
-　いている。
+The drunkard laughs loudly while stumbling around.
 #
-　よく見る光景だ。
+It's a frequent sight.
 #
-　夜ならば。
+At least, at night.
 #
-　昼から酔っ払えるとは、なかなか豪気な話だ。
+Someone drunk at noon is another thing altogether.
 #
-　しかし、周囲への迷惑度は格段に違う。
+But that makes them that much more of a problem to
+everybody else.
 #
-　その為、セリスはその酔っ払いの前に立ち塞がっ
-　た。
+So Celes stands before the man.
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "セリス" "!AA4155">
-「迷惑です！
-　さっさと家に帰ってください」
+<name "Celes" "!AA4155">
+"You're bothering people!
+ Go home right away!"
 #
-<name "酔っ払い" "!RB0194">
-「なんだと！」
+<name "Drunkard" "!RB0194">
+"What!?"
 #
 <removesprite -1 11>
 <exit>

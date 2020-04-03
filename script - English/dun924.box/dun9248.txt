@@ -9,32 +9,33 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA4156">
-「成敗っ！」
+<name "Celes" "!AA4156">
+"Punishment!"
 #
 <removesprite -1 11>
-<name "酔っ払い" "!RB0195">
-「ううーん……あれ？
-　どうして俺はこんな所で……」
+<name "Drunkard" "!RB0195">
+"Unnnngh... 
+ Huh?
+ What am I doing here?"
 #
-<name "酔っ払い" "!RB0196">
-「しまった。
-　また酔って、迷惑を掛けちゃったかな。
-　ごめんごめん」
+<name "Drunkard" "!RB0196">
+"Oh, damn.
+ Did I get drunk again and bother you?
+ Sorry, sorry."
 #
-　酔っ払いは酔いを覚まし、家に帰って行った。
+The man sobers up and goes home.
 #
 <exit>
 :1A6
 <music 2>
 <background "bg013a0.iph" 11>
-<name "酔っ払い" "!RB0197">
-「勝利ー♪
-　また、飲み直そうっかな♪」
+<name "Drunkard" "!RB0197">
+"Victory!♪
+ I'm gonna have another drink!♪"
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA4157">
-「く、悔しい……」
+<name "Celes" "!AA4157">
+"T-That sucks..."
 #
 <removesprite -1 11>
 <exit>
