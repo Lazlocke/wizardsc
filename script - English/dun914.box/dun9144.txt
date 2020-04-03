@@ -2,18 +2,18 @@
 :30
 \x78
 :31
-<name "感心する魔法使い" "!KA0039">
-「もう半分も登ったの？」
+<name "Admiring Wizard" "!KA0039">
+"You're halfway, you know."
 #
-<name "やられた魔法使い" "!JA0055">
-「まだ、半分よ。
-　それに、上には私達より強い人ばっかりだし」
+<name "Defeated Wizard" "!JA0055">
+"But another half to go.
+ And everything above here is stronger than us."
 #
-<name "感心する魔法使い" "!KA0040">
-「……どうして、偉い人は上に登りたがるのかな？」
+<name "Admiring Wizard" "!KA0040">
+"...Why do all these VIPs want to climb up anyway?"
 #
-<name "やられた魔法使い" "!JA0056">
-「動物としての本能じゃない？」
+<name "Defeated Wizard" "!JA0056">
+"Animal instinct?"
 #
 <exit>
 \x78

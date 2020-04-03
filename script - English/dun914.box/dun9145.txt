@@ -6,173 +6,173 @@
 :31
 <music 23>
 <background "ev023a0.iph" 10>
-<name "セリス" "!AA3743">
-「やったぁぁぁぁぁぁぁぁっ！」
+<name "Celes" "!AA3743">
+"I did it!"
 #
-　セリスは、詠唱の塔を登りきった。
+Celes reached the top of the Tower of Arias.
 #
-　それはこの詠唱の塔への挑戦が始まって以来の快
-　挙であった。
+It's an accomplishment worthy of accolade.
 #
 <background "bg020a0.iph" 11>
-<name "ラズロック">
-「見事だ」
+<name "Lazlocke">
+"Well done."
 #
 <removesprite -1 11>
 <sprite "ta01c08.iph" 4 4 11>
-<name "セリス" "!AA3744">
-「師匠。
-　それに、ヴィオラさん、ソシエットさん、ルーン
-　さんまで……」
+<name "Celes" "!AA3744">
+"Master.
+ And Miss Viola, Miss Soshiette, Miss Rune..."
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "ヴィオラ" "!BA0338">
-「やるわね」
+<name "Viola" "!BA0338">
+"You did it."
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "ソシエット" "!DA0624">
-「おめでとうございます」
+<name "Soshiette" "!DA0624">
+"Congratulations."
 #
 <removesprite 6 11>
 <sprite "ta05a08.iph" 6 4 11>
-<name "ルーン" "!EA0161">
-「まさか、登りきられるとは思わなかったわ」
+<name "Rune" "!EA0161">
+"I never thought you'd make it."
 #
 <sprite "ta03a31.iph" 2 5 12>
-<name "ヴィオラ" "!BA0346">
-「師匠。
-　挑戦させておいて、それは無いでしょう」
+<name "Viola" "!BA0346">
+"Master, if you dare someone to try it, of course
+ they will."
 #
 <sprite "ta05a21.iph" 6 4 12>
-<name "ルーン" "!EA0162">
-「難攻不落って言葉が似合う塔にしたかったの」
+<name "Rune" "!EA0162">
+"I wanted to create a tower that exemplified
+ being unconquerable."
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0625">
-「迷惑な話です」
+<name "Soshiette" "!DA0625">
+"Sounds obnoxious."
 #
 <removesprite -1 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "セリス" "!AA3745">
-「えっと……皆さん」
+<name "Celes" "!AA3745">
+"Um... Everyone..."
 #
-<name "ラズロック">
-「お前を祝いに来た。
-　それと、つまらない物だが賞品だ」
+<name "Lazlocke">
+"We came to congratulate you.
+ And it's silly, but here's your trophy."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA3746">
-「これは……」
+<name "Celes" "!AA3746">
+"This is..."
 #
-<name "ラズロック">
-「“詠唱の杖”
-　魔法使い協会の至宝だ」
+<name "Lazlocke">
+"The Aria Staff.
+ One of the Guild's greatest treasures."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA3747">
-「そ、そんなのを貰っても良いんですか？」
+<name "Celes" "!AA3747">
+"I-I can really have this?"
 #
 <removesprite -1 11>
 <sprite "ta05a07.iph" 4 4 11>
-<name "ルーン" "!EA0163">
-「良いのよ。
-　この詠唱の塔への挑戦で、登りきった者に渡そう
-　と前々から決めていたんだから」
+<name "Rune" "!EA0163">
+"It's fine.
+ I had made up my mind to give it to whoever
+ reached the top of this tower a long time ago."
 #
 <removesprite -1 11>
-　それなのに、難攻不落にしようとしていたのか。
+But I thought it was supposed to be unconquerable.
 #
 <removesprite -1 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3748">
-「……では、受け取ります」
+<name "Celes" "!AA3748">
+"...Then I'll accept it."
 #
-<name "ラズロック">
-「その他、副賞が色々あるが……
-　とりあえずは……よくやった。
-　見事だ」
+<name "Lazlocke">
+"There are other prizes as well...
+ Anyway, well done.
+ Splendid, even."
 #
-　俺はそう言って、セリスの頭を撫でた。
+I pat her on the head.
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3749">
-「ありがとうございます」
+<name "Celes" "!AA3749">
+"Thank you very much."
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0626">
-「お祝いの席を設けましたので、そちらに移動しま
-　しょう」
+<name "Soshiette" "!DA0626">
+"We prepared a banquet.
+ Let's relocate there."
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 2 4 11>
 <sprite "ta05a10.iph" 6 5 11>
-<name "ルーン" "!EA0164">
-「いいわね。
-　私の好物はある？」
+<name "Rune" "!EA0164">
+"All right.
+ Do you have my favorite food?"
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "ソシエット" "!DA0627">
-「もちろんでございます。
-　が、主役はセリスさんです」
+<name "Soshiette" "!DA0627">
+"Of course, but this is to celebrate Celes."
 #
 <sprite "ta05a12.iph" 6 5 12>
-<name "ルーン" "!EA0165">
-「わかっているわよ。
-　さあ、移動開始♪」
+<name "Rune" "!EA0165">
+"I know that.
+ Come on, let's get moving!♪"
 #
 <removesprite -1 11>
-　セリスの詠唱の塔制覇を祝う宴は、長く続けられ
-　た。
+The party to celebrate her victory lasted a long
+time.
 #
-　その横で、俺はヴィオラの相手をさせられていた。
+I also had to deal with the fallout with Viola.
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 4 4 11>
-<name "ヴィオラ" "!BA0340">
-「ふんっ。
-　挑戦させてくれれば、私が先に制覇したのに……」
+<name "Viola" "!BA0340">
+"Hmph.
+ I would have beaten it a long time ago if I was
+ allowed to challenge it."
 #
-<name "ラズロック">
-「怒るな。
-　なんでもかんでもお前が持っていったら、お前へ
-　の風当たりが強くなるだろ」
+<name "Lazlocke">
+"Don't pout.
+ If you took everything, then everybody would be
+ even more out to get you."
 #
-<name "ラズロック">
-「名誉や称号は分け合え」
+<name "Lazlocke">
+"Share the honor and accolades."
 #
 <sprite "ta03a19.iph" 4 4 12>
-<name "ヴィオラ" "!BA0341">
-「別にそんなのが欲しいワケじゃないわよ」
+<name "Viola" "!BA0341">
+"It's not like I care about any of that."
 #
-<name "ラズロック">
-「わかっているなら、拗ねるな」
+<name "Lazlocke">
+"If you don't, then don't sulk."
 #
 <sprite "ta03a15.iph" 4 4 12>
-<name "ヴィオラ" "!BA0342">
-「むう……」
+<name "Viola" "!BA0342">
+"Grr..."
 #
-<name "ラズロック">
-「ほら、頭を撫でてやるから」
+<name "Lazlocke">
+"Here. I'll pat your head too."
 #
 <sprite "ta03a66.iph" 4 4 12>
-<name "ヴィオラ" "!BA0344">
-「そ、そんなので誤魔化されたりしないわよ」
+<name "Viola" "!BA0344">
+"T-That won't satisfy me."
 #
-<name "ラズロック">
-「わかっている。
-　埋め合わせはするから」
+<name "Lazlocke">
+"I know.
+ I'll make it up to you."
 #
 <removesprite -1 11>
-　俺はヴィオラの機嫌を直すのに、苦心した。
+I struggled for quite a while to fix her foul
+mood.
 #
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0628">
-「ご苦労様でした」
+<name "Soshiette" "!DA0628">
+"Thank you for your troubles."
 #
 <removesprite -1 11>
 \x2B\xB3 "詠唱の杖" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :D61: \xB2 "詠唱の杖" \x00\x3C "「詠唱の杖」を手に入れた。" 
@@ -181,7 +181,7 @@
 :D62
 <music 23>
 <background "ev023a0.iph" 10>
-　セリスは詠唱の塔を制覇した。
+Celes defeated the Tower of Arias.
 #
 <exit>
 \x78

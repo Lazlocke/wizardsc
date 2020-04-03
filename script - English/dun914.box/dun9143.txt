@@ -12,60 +12,63 @@
 :105
 \x78
 :106
-<name "マッドな魔法使い" "!RB0152">
-「わははははっ！
-　ここは我が聖地にして我が研究室！
-　誰も通さぬ！」
+<name "Mad Wizard" "!RB0152">
+"Wahahahaha!
+ This is my sanctuary and my laboratory!
+ None shall pass!"
 #
-<name "クールな魔法使い" "!HA0060">
-「通さないのは挑戦者だけでしょ。
-　あと、勝手に部屋を研究室に変えない。
-　怒られるわよ」
+<name "Cool Wizard" "!HA0060">
+"Only challengers can't pass, right?
+ And don't turn a room into your lab without
+ permission.
+ I don't want to get angry."
 #
 <exit>
 :1EB
-<name "感心する魔法使い" "!SB0119">
-「うーん、僕の作った魔物が凄いなぁ……」
+<name "Admiring Wizard" "!SB0119">
+"Hmm. I sure made an incredible monster..."
 #
-<name "困る魔法使い" "!HA0065">
-「暴れてるの、誰も止められないんだけど」
+<name "Troubled Wizard" "!HA0065">
+"It's going crazy, and nobody can stop it."
 #
-<name "感心する魔法使い" "!SB0120">
-「暴れてるところが、可愛いんだ」
+<name "Admiring Wizard" "!SB0120">
+"But it's so cute when it's crazy."
 #
 <exit>
 :2B8
-<name "立ち塞がる魔法使い" "!JA0052">
-「ここより先は行かせません！」
+<name "Obstructing Wizard" "!JA0052">
+"None shall pass through here!"
 #
-<name "突っ込む魔法使い" "!HA0062">
-「汚れた部屋を見せるわけにはいかないからね」
+<name "Comedic Wizard" "!HA0062">
+"You don't want to see how dirty it is in there."
 #
-<name "立ち塞がる魔法使い" "!JA0053">
-「い、言わないで」
+<name "Obstructing Wizard" "!JA0053">
+"D-Don't tell them that."
 #
 <exit>
 :379
 \x2E\x22\x00\x07 1  3 \x1A\x01\x0A\x22\x00\x07 1 \x01\x0E :3FB: 
-<name "セリス" "!AA3750">
-「……あれ、ここ……魔法が使えない」
+<name "Celes" "!AA3750">
+"Huh?
+ I can't use magic here."
 #
-<name "セリス" "!AA3751">
-「抜けてみせる！」
+<name "Celes" "!AA3751">
+"I want it back!"
 #
 :3FB
 \x1A\x01\x0A\x22\x00\x07 2 \x01\x0E :458: 
-<name "セリス" "!AA3752">
-「魔法が……封じられた……
-　ここだけだと良いけど」
+<name "Celes" "!AA3752">
+"My magic's been sealed...
+ I hope it's just this room."
 #
 :458
 \x1A\x01\x0A\x22\x00\x07 3 \x01\x0E :4C0: 
-<name "セリス" "!AA3753">
-「ぬ……魔法が封じられた……」
+<name "Celes" "!AA3753">
+"Ngh...
+ My magic's been sealed."
 #
-<name "セリス" "!AA3754">
-「なんの！」
+<name "Celes" "!AA3754">
+"What the heck!?"
 #
 :4C0
 <exit>

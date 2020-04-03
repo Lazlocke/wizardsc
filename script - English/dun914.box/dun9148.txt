@@ -18,159 +18,163 @@
 :175
 <background "bg009a0.iph" 11>
 <sprite "ta01c23.iph" 4 4 11>
-<name "セリス" "!AA3731">
-「ぬ……て、手強い……」
+<name "Celes" "!AA3731">
+"Ngh...
+ T-They're strong..."
 #
-<name "ラズロック">
-「難しかったか？」
+<name "Lazlocke">
+"Was it hard?"
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "セリス" "!AA3732">
-「は、はい……自分の未熟を知りました」
+<name "Celes" "!AA3732">
+"Y-Yes. I can tell I'm not ready now."
 #
-<name "ラズロック">
-「ならば良し。
-　明日に繋げるように」
+<name "Lazlocke">
+"Then good.
+ Use that to step into tomorrow."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3733">
-「はい」
+<name "Celes" "!AA3733">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :2D9
 <background "bg009a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3734">
-「だ、駄目だった……」
+<name "Celes" "!AA3734">
+"I-It's useless..."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 5 11>
 <sprite "ta01c37.iph" 6 4 11>
-<name "ヴィオラ" "!BA0335">
-「傷だらけね。
-　大丈夫？」
+<name "Viola" "!BA0335">
+"You're all scratched up.
+ Are you okay?"
 #
 <sprite "ta01c36.iph" 6 4 12>
-<name "セリス" "!AA3735">
-「え、あ、は、はい。
-　大丈夫です」
+<name "Celes" "!AA3735">
+"Huh? Oh, y-yes.
+ I'm fine."
 #
 <sprite "ta03a06.iph" 2 5 12>
-<name "ヴィオラ" "!BA0336">
-「……無茶はしないようにね」
+<name "Viola" "!BA0336">
+"...Don't be reckless."
 #
 <sprite "ta01c15.iph" 6 4 12>
-<name "セリス" "!AA3736">
-「はい。
-　ありがとうございます」
+<name "Celes" "!AA3736">
+"Yes, ma'am.
+ Thank you very much."
 #
 <removesprite 6 11>
-　セリスはそう言って倒れた。
+After saying that, Celes passed out.
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0337">
-「……放っておいたら、怒られるわよね」
+<name "Viola" "!BA0337">
+"...He'd be mad if I just left you here."
 #
 <removesprite -1 11>
-　ヴィオラはセリスを俺の家まで運び、過度な礼を
-　要求してから帰った。
+Viola carried Celes to my house, and demanded
+excessive compensation for it.
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "セリス" "!AA3737">
-「お手数をお掛けしました」
+<name "Celes" "!AA3737">
+"I'm sorry for troubling you."
 #
 <removesprite -1 11>
 <exit>
 :605
 <background "bg009a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3738">
-「ぬう……厳しい」
+<name "Celes" "!AA3738">
+"Nnngh...
+ It's so difficult."
 #
-<name "ラズロック">
-「みたいだな」
+<name "Lazlocke">
+"Seems like it."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3739">
-「でも、頑張ります」
+<name "Celes" "!AA3739">
+"But I'll do my best."
 #
-<name "ラズロック">
-「その意気だ。
-　が、今日は帰るぞ」
+<name "Lazlocke">
+"That's the spirit.
+ But let's go home for today."
 #
 <removesprite -1 11>
-　俺はセリスを背負い、家に向かった。
+I pick her up and carry her home.
 #
 <exit>
 :736
 <background "bg018a0.iph" 11>
 <sprite "ta05a07.iph" 4 4 11>
-<name "ルーン" "!EA0158">
-「あら、良い所まで登ったわね」
+<name "Rune" "!EA0158">
+"Oh? She climbed pretty high."
 #
 <removesprite -1 11>
 <sprite "ta05a07.iph" 2 5 11>
 <sprite "ta06a00.iph" 6 4 11>
-<name "協会長秘書" "!GA0124">
-「はい。
-　流石はラズロック様の弟子です」
+<name "Guild Secretary" "!GA0124">
+"Yes. I would expect no less of Lazlocke's
+ apprentice."
 #
 <sprite "ta05a12.iph" 2 5 12>
-<name "ルーン" "!EA0160">
-「んー……ラズロックよりも、本人の資質ね。
-　とりあえず、期待しましょう」
+<name "Rune" "!EA0160">
+"Hmm... She might be even more talented than him.
+ I'm looking forward to seeing what she can do."
 #
-<name "協会長秘書" "!GA0125">
-「はい」
+<name "Guild Secretary" "!GA0125">
+"Yes."
 #
 <removesprite -1 11>
 <exit>
 :8DA
 <background "bg010a0.iph" 11>
-<name "突破された魔法使い" "!KA0038">
-「うーん、良い実験結果だった。
-　もう一回、挑戦してくれないかなぁ」
+<name "Defeated Wizard" "!KA0038">
+"Hmm. That was a good experiment.
+ I wonder if we might try that again?"
 #
 <exit>
 :957
 <background "bg010a0.iph" 11>
-<name "感心する魔法使い" "!JA0054">
-「今回の挑戦者は、元気ねぇ」
+<name "Admiring Wizard" "!JA0054">
+"What a spirited challenger."
 #
-<name "冷静な魔法使い" "!HA0063">
-「元気じゃない人は、この塔に挑んだりしないわよ」
+<name "Calm Wizard" "!HA0063">
+"If they lacked spirit, they wouldn't attempt
+ this tower."
 #
 <exit>
 :9F7
 <background "bg010a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3740">
-「外で見ている時は、こんなに高い塔じゃなかった
-　のに……」
+<name "Celes" "!AA3740">
+"This tower didn't seem so tall from the
+ outside."
 #
 <removesprite -1 11>
 <sprite "ta01c37.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
-<name "ソシエット" "!DA0623">
-「色々と仕掛けがあります。
-　大丈夫ですか？」
+<name "Soshiette" "!DA0623">
+"There's a number of tricks.
+ Are you okay?"
 #
 <sprite "ta01c36.iph" 2 5 12>
-<name "セリス" "!AA3741">
-「は、はい……なんとか」
+<name "Celes" "!AA3741">
+"Y-Yes, ma'am.
+ I think so."
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "ソシエット" "!DA0622">
-「無理はなさらずに。
-　でも、諦め無いでください」
+<name "Soshiette" "!DA0622">
+"Don't push yourself too hard, but please don't
+ give up either."
 #
 <sprite "ta01c42.iph" 2 5 12>
-<name "セリス" "!AA3742">
-「はい。
-　もちろんです。
-　が……今回は帰還します……」
+<name "Celes" "!AA3742">
+"Yes, ma'am.
+ Of course... but I think I need to leave for
+ now."
 #
 <removesprite -1 11>
 <exit>
