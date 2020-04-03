@@ -4,38 +4,39 @@
 :D
 <music 2>
 <background "bg013a0.iph" 11>
-<name "棒使い" "!UA0221">
-「やあやあやあ、我こそは西方一番の棒使い！」
+<name "Spearman"" "!UA0221">
+"Hey! Hey! Hey!
+ I'm the greatest spearman in the west!"
 #
-<name "棒使い" "!UA0223">
-「我こそと思う者は、挑戦されたし！」
+<name "Spearman"" "!UA0223">
+"I challenge anybody who thinks otherwise!"
 #
-<name "棒使い" "!UA0224">
-「ただし、タダではない！
-　一回の挑戦で１０Ｂを支払って貰う。
-　しかし、私を倒せば１０００Ｂ払おう！
-　さあ、どうだ？」
+<name "Spearman"" "!UA0224">
+"However, it'll cost you!
+ It'll be 10Ｂ per attempt.
+ But if you defeat me, I'll give you 1,000Ｂ!
+ Well? How about it?"
 #
-<name "ラズロック">
-「……セリス。
-　倒してみるか？」
+<name "Lazlocke">
+"Want to fight him, Celes?"
 #
 <sprite "ta01a32.iph" 4 4 11>
-<name "セリス" "!AA4127">
-「え？
-　でも、西方一番ですよ」
+<name "Celes" "!AA4127">
+"Huh?
+ But he's the best in the west."
 #
-<name "ラズロック">
-「本当に一番のヤツが、こんな所で腕試しをするわ
-　けないだろ」
+<name "Lazlocke">
+"The actual best wouldn't be here trying to show
+ off like that."
 #
-<name "ラズロック">
-「注意すべきは、時間制限だ。
-　街中で暴れると、取り締まられるからな」
+<name "Lazlocke">
+"Do note that this is a limited time offer.
+ The guards will crack down on fighting in the
+ city quickly enough."
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "セリス" "!AA4128">
-「……やってみます」
+<name "Celes" "!AA4128">
+"...I'll do it."
 #
 <removesprite -1 11>
 <exit>

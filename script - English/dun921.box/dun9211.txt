@@ -4,19 +4,19 @@
 :D
 <music 2>
 <background "bg013a0.iph" 11>
-<name "格闘家" "!TB0159">
-「そこの女子。
-　只者ではないな」
+<name "Martial Artist" "!TB0159">
+"You there. Girl.
+ You're not just a girl."
 #
-　セリスが街を歩いていると、格闘家らしい男に声
-　を掛けられた。
+As Celes walked around the city, she was accosted
+by a man.
 #
-<name "格闘家" "!TB0160">
-「一勝負、お相手願いたい」
+<name "Martial Artist" "!TB0160">
+"I would like to spar with you."
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "セリス" "!AA4132">
-「わかりました」
+<name "Celes" "!AA4132">
+"All right."
 #
 <removesprite -1 11>
 <exit>

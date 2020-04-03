@@ -9,59 +9,62 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c09.iph" 4 4 11>
-<name "セリス" "!AA4133">
-「よしっ！」
+<name "Celes" "!AA4133">
+"All right!"
 #
-<name "格闘家" "!TB0161">
-「ぬ……不覚……」
+<name "Martial Artist" "!TB0161">
+"Ngh...
+ I messed up."
 #
-　セリスは格闘家に勝利した。
+Celes defeated him.
 #
-<name "格闘家" "!TB0162">
-「これを受け取ってくれ」
+<name "Martial Artist" "!TB0162">
+"Please take this."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA4134">
-「えっと……お金？」
+<name "Celes" "!AA4134">
+"Um... money?"
 #
-<name "格闘家" "!TB0163">
-「うむ。
-　負けた自分への戒めだ。
-　遠慮無く、受け取って欲しい」
+<name "Martial Artist" "!TB0163">
+"Mmhmm.
+ A punishment for the loser.
+ Do not hesitate to accept it."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA4135">
-「わ、わかりました」
+<name "Celes" "!AA4135">
+"A-All right."
 #
-<name "格闘家" "!TB0164">
-「お互い、精進しよう」
+<name "Martial Artist" "!TB0164">
+"Let us both devote ourselves."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA4136">
-「はい」
+<name "Celes" "!AA4136">
+"Yeah."
 #
 <removesprite -1 11>
-　セリスは、７００Ｂを手に入れた。
+Celes received 700Ｂ.
 #
 <exit>
 :2BA
 <music 2>
 <background "bg013a0.iph" 11>
-<name "格闘家" "!TB0165">
-「うむ」
+<name "Martial Artist" "!TB0165">
+"Mmhmm."
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA4137">
-「ま、負けた……悔しい」
+<name "Celes" "!AA4137">
+"I-I lost...
+ So disappointing..."
 #
-　セリスは格闘家に敗北した。
+Celes was defeated.
 #
-<name "格闘家" "!TB0166">
-「良い勝負であった。
-　機会があれば、また拳を交わす事もあるだろう」
+<name "Martial Artist" "!TB0166">
+"It was a good match.
+ If you have the chance, I'd like to fight with
+ you again."
 #
 <removesprite -1 11>
-　格闘家は、満足して去っていった。
+He left in satisfaction.
 #
 <exit>
 \x78

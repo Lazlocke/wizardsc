@@ -9,89 +9,87 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA4141">
-「勝った」
+<name "Celes" "!AA4141">
+"I won!"
 #
-<name "美しき剣士" "!JA0065">
-「ううう……」
+<name "Beautiful Swordsman" "!JA0065">
+"Urgh..."
 #
 <removesprite -1 11>
-　セリスは女剣士に勝利した。
+Celes defeated her.
 #
 <sprite "ta01c08.iph" 4 4 11>
-<name "セリス" "!AA4142">
-「それで、どうして私に？」
+<name "Celes" "!AA4142">
+"So, what was the reason?"
 #
-<name "美しき剣士" "!JA0066">
-「…………わ、私の彼が、貴女の方が強いって言っ
-　たから」
-#
-<sprite "ta01c92.iph" 4 4 11>
-<name "セリス" "!AA4143">
-「…………………………ええっと」
-#
-<removesprite -1 11>
-　どう答えれば良いのか解らないセリスの横を、す
-　ごい勢いで男が通り過ぎた。
-#
-<name "剣士を抱き締める男" "!QB0166">
-「すまない！
-　ブランカ！
-　俺が悪かったよ」
-#
-<name "美しき剣士" "!JA0067">
-「ジョー！」
-#
-<name "剣士を抱き締める男" "!QB0167">
-「俺がつまらない事を言ったばかりに……
-　だが、信じてくれ！
-　俺が愛しているのはお前だけだ！」
-#
-<name "美しき剣士" "!JA0068">
-「ジョー……」
-#
-　抱き合う男女二人。
-#
-　湧き上がる観客からの拍手。
+<name "Beautiful Swordsman" "!JA0066">
+"...M-My boyfriend said you were stronger than
+ me."
 #
 <sprite "ta01c92.iph" 4 4 11>
-<name "セリス" "!AA4144">
-「え、えっと……」
+<name "Celes" "!AA4143">
+"............Uh..."
 #
 <removesprite -1 11>
-　居場所に困ったセリスは、コソコソと引き上げた。
+Celes isn't sure what to say, but a man comes
+barreling up.
+#
+<name "Passionate Man" "!QB0166">
+"I'm sorry, Branka!
+ I was wrong!"
+#
+<name "Beautiful Swordsman" "!JA0067">
+"Joe!"
+#
+<name "Passionate Man" "!QB0167">
+"I said something stupid... but believe me!
+ You're the only one I love!"
+#
+<name "Beautiful Swordsman" "!JA0068">
+"Joe..."
+#
+The two embrace.
+#
+Applause springs up from the crowd.
+#
+<sprite "ta01c92.iph" 4 4 11>
+<name "Celes" "!AA4144">
+"U-Um..."
+#
+<removesprite -1 11>
+Celes sneaks off, unsure how to deal with it.
 #
 <exit>
 :44A
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA4145">
-「うう……負けた……」
+<name "Celes" "!AA4145">
+"Ugh... I lost..."
 #
-<name "美しき剣士" "!JA0069">
-「ふっ。
-　この程度ね」
+<name "Beautiful Swordsman" "!JA0069">
+"Hmph.
+ So that's it?"
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "セリス" "!AA4147">
-「せめて、どうして私に勝負を仕掛けたか教えて」
+<name "Celes" "!AA4147">
+"At least tell me why you wanted to fight me."
 #
-<name "美しき剣士" "!JA0071">
-「私の彼が、私より貴女の方が強いって言ったの。
-　それを確かめたかっただけ。
-　じゃあね」
+<name "Beautiful Swordsman" "!JA0071">
+"My boyfriend said you were stronger than me.
+ I just had to see for myself.
+ See you."
 #
 <removesprite -1 11>
-　剣士は去った。
+She leaves.
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA4149">
-「うう……悔しい」
+<name "Celes" "!AA4149">
+"Ugh... This sucks..."
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "セリス" "!AA4150">
-「あと、そんな理由で……」
+<name "Celes" "!AA4150">
+"And that was why?"
 #
 <removesprite -1 11>
 <exit>

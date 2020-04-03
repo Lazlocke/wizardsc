@@ -4,26 +4,27 @@
 :D
 <music 2>
 <background "bg013a0.iph" 11>
-<name "美しき剣士" "!JA0062">
-「貴女がセリスか」
+<name "Beautiful Swordsman" "!JA0062">
+"Are you Celes?"
 #
 <sprite "ta01a06.iph" 4 4 11>
-<name "セリス" "!AA4138">
-「は、はい。
-　そうですが？」
+<name "Celes" "!AA4138">
+"Y-Yes.
+ Why?"
 #
-　セリスは、街を歩いている時に剣士風の女性に声
-　を掛けられた。
+Celes was accosted by a swordsman while walking
+through the city.
 #
-<name "美しき剣士" "!JA0063">
-「いきなりで申し訳無いが、勝負して貰おう」
+<name "Beautiful Swordsman" "!JA0063">
+"I apologize for being so sudden, but I'd like a
+ match with you."
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "セリス" "!AA4139">
-「え？」
+<name "Celes" "!AA4139">
+"Huh?"
 #
-<name "美しき剣士" "!JA0064">
-「理由は、勝てば教えてやる」
+<name "Beautiful Swordsman" "!JA0064">
+"I'll tell you why if you can beat me."
 #
 <removesprite -1 11>
 <exit>
