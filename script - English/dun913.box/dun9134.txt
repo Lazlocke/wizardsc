@@ -8,57 +8,61 @@
 :DE
 \x78
 :DF
-<name "セリス" "!AA3692">
-「あ、なんだろ？
-　……落書き？
-　ええと……」
+<name "Celes" "!AA3692">
+"Oh, what's this?
+ Scribbling?
+ Umm..."
 #
-<name "セリス" "!AA3693">
-「魔界の住人なんか、くたばっちまえ」
+<name "Celes" "!AA3693">
+"Dear residents of the Netherworld, eat shit."
 #
-<name "セリス" "!AA3694">
-「…………あれ？」
+<name "Celes" "!AA3694">
+"...Huh?"
 #
 <exit>
 :18A
-<name "セリス" "!AA3695">
-「あ、また落書き。
-　ええと……」
+<name "Celes" "!AA3695">
+"Ah, more scribbling.
+ Um..."
 #
-<name "セリス" "!AA3696">
-「天界の住人なんか、大嫌いだ」
+<name "Celes" "!AA3696">
+"Resident of Celestia, I hate you."
 #
-<name "セリス" "!AA3697">
-「…………うーん。
-　あの石版の内容と真逆ね。
-　本心は敵対していたのかしら？」
+<name "Celes" "!AA3697">
+"...Umm, it's the opposite of what was on those
+ tablets.
+ Did they secretly hate each other?"
 #
 <exit>
 :260
-<name "セリス" "!AA3698">
-「落書きだ……」
+<name "Celes" "!AA3698">
+"More scribbling..."
 #
-<name "セリス" "!AA3699">
-「天界と魔界の友好の証なら、自分達で作れよな」
+<name "Celes" "!AA3699">
+"If you want proof of friendship between Celestia
+ and the Netherworld, make it yourself."
+ a
 #
-<name "セリス" "!AA3700">
-「……え？
-　じゃあ、誰が作ったの？」
+<name "Celes" "!AA3700">
+"...Huh?
+ Then who made this?"
 #
-<name "セリス" "!AA3701">
-「……落書きはひょっとして」
+<name "Celes" "!AA3701">
+"...Maybe this is just graffiti."
 #
 <exit>
 :33A
-<name "セリス" "!AA3702">
-「……落書き。
-　ええと……」
+<name "Celes" "!AA3702">
+"...More scribbling.
+ Umm..."
 #
-<name "セリス" "!AA3703">
-「人間や獣人の事を考えてくれたのは、竜族だけだ」
+<name "Celes" "!AA3703">
+"Only the dragons cared about humans and
+ demihumans."
 #
-<name "セリス" "!AA3704">
-「…………落書きは、人間や獣人が書いたのね」
+<name "Celes" "!AA3704">
+"...Was this all written by a human or demihuman
+ then?"
 #
 <exit>
 \x78

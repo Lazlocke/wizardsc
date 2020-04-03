@@ -14,64 +14,66 @@
 :136
 <background "bg002a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA3667">
-「は、話になりませんでした……」
+<name "Celes" "!AA3667">
+"D-Don't say a word about it..."
 #
-<name "ラズロック">
-「まあまあ、気を落とすな。
-　ここまで来ると、登れるヤツの方が珍しいんだ」
+<name "Lazlocke">
+"Now, now. Don't let it get you down.
+ You've already come far enough that few are in
+ your league."
 #
 <removesprite -1 11>
 <exit>
 :20A
 <background "bg002a0.iph" 11>
 <sprite "ta01c42.iph" 4 4 11>
-<name "セリス" "!AA3668">
-「む……
-　さ、先は長そうです」
+<name "Celes" "!AA3668">
+"Grr...
+ L-Looks like I still have a long way to go."
 #
-<name "ラズロック">
-「無茶をするな」
+<name "Lazlocke">
+"Don't be reckless."
 #
 <removesprite -1 11>
 <exit>
 :2A4
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「なにか、感想は？」
+<name "Lazlocke">
+"What are your thoughts?"
 #
 <sprite "ta01c36.iph" 4 4 11>
-<name "セリス" "!AA3669">
-「い、良い汗をかきました」
+<name "Celes" "!AA3669">
+"I-I worked up quite a sweat."
 #
-<name "ラズロック">
-「冷や汗もあるだろ」
+<name "Lazlocke">
+"A cold sweat too, right?"
 #
 <sprite "ta01c42.iph" 4 4 12>
-<name "セリス" "!AA3670">
-「……はい」
+<name "Celes" "!AA3670">
+"...Yes."
 #
 <removesprite -1 11>
 <exit>
 :3A3
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you okay?"
 #
 <sprite "ta01c42.iph" 4 4 11>
-<name "セリス" "!AA3671">
-「な、なんとか……まだ……生きてます」
+<name "Celes" "!AA3671">
+"I-I think... I'm... still alive."
 #
 <removesprite -1 11>
 <exit>
 :441
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3672">
-「あ、あと少し……な感じがします……」
+<name "Celes" "!AA3672">
+"J-Just a little further...
+ Almost there..."
 #
-<name "ラズロック">
-「よしよし」
+<name "Lazlocke">
+"There, there."
 #
 <removesprite -1 11>
 <exit>

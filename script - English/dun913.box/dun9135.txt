@@ -10,71 +10,80 @@
 :7F
 <music 23>
 <background "ev023a0.iph" 10>
-<name "セリス" "!AA3705">
-「よし、一番上……到達！」
+<name "Celes" "!AA3705">
+"Okay!
+ I made it to the top!"
 #
-<name "セリス" "!AA3706">
-「ふう……高い塔だった」
+<name "Celes" "!AA3706">
+"Whew...
+ What a tall tower."
 #
-<name "セリス" "!AA3707">
-「あ、石版がある……えっと……」
+<name "Celes" "!AA3707">
+"Ah, there's a tablet.
+ Um..."
 #
-<name "セリス" "!AA3708">
-「この塔がある限り、天界と魔界の仲は永遠に保た
-　れるであろう」
+<name "Celes" "!AA3708">
+"As long as this tower exists, the pact between
+ Celestia and the Netherworld will be kept for all
+ eternity."
 #
-<name "セリス" "!AA3709">
-「その下に落書き……」
+<name "Celes" "!AA3709">
+"There's scribbling underneath it..."
 #
-<name "セリス" "!AA3710">
-「すぐに喧嘩を始めやがって、この嘘吐きが」
+<name "Celes" "!AA3710">
+"But then the fighting started immediately and it
+ was all a lie."
 #
-<name "セリス" "!AA3711">
-「この塔って、人間や獣人を苦労させて作って、ま
-　るっきり意味がなかったと……」
+<name "Celes" "!AA3711">
+"This tower was created on the blood and sweat of
+ humans and demihumans, and it was all for
+ nothing."
 #
-<name "セリス" "!AA3712">
-「虚しい塔ね」
+<name "Celes" "!AA3712">
+"A meaningless tower, huh?"
 #
-<name "セリス" "!AA3713">
-「でも、私の修行にはなったから、少しだけ感謝」
+<name "Celes" "!AA3713">
+"But it was training for me, so I'm a little
+ grateful."
 #
 <exit>
 :2C2
 <music 23>
 <background "ev023a0.iph" 10>
-<name "セリス" "!AA3714">
-「到着！」
+<name "Celes" "!AA3714">
+"I made it!"
 #
-<name "セリス" "!AA3715">
-「神魔の塔の一番上……気持ちが良い」
+<name "Celes" "!AA3715">
+"The top of the Dusk Light Tower...
+ It feels nice."
 #
 <exit>
 :339
 <music 23>
 <background "ev023a0.iph" 10>
-<name "セリス" "!AA3716">
-「やったぞおおおおおおおおおおおおおっ！」
+<name "Celes" "!AA3716">
+"I did it!!!!!!"
 #
-<name "セリス" "!AA3717">
-「がっつ！」
+<name "Celes" "!AA3717">
+"Yes!"
 #
-<name "セリス" "!AA3718">
-「げっつ！」
+<name "Celes" "!AA3718">
+"Yay!"
 #
-<name "セリス" "!AA3719">
-「ヴィクトリー！」
+<name "Celes" "!AA3719">
+"Victory!"
 #
-<name "セリス" "!AA3720">
-「ふう……
-　高い場所に立つと、テンション上がっちゃう」
+<name "Celes" "!AA3720">
+"Whew...
+ Being so high up just gets you all worked up."
 #
 <exit>
 :451
 <music 23>
 <background "ev023a0.iph" 10>
-<name "セリス" "!AA3721">
-「神魔の塔……征服完了！」
+<name "Celes" "!AA3721">
+"The Tower of Dusk Light...
+ Conquered!"
 #
 <exit>
 \x78

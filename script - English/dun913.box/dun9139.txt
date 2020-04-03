@@ -6,40 +6,45 @@
 :5C
 \x78
 :5D
-<name "セリス" "!AA3683">
-「石版がある……なんて書いてあるんだろ。
-　ええと……」
+<name "Celes" "!AA3683">
+"There's a tablet...
+ Something's written on it.
+ Umm..."
 #
-<name "セリス" "!AA3684">
-「天界と魔界の友好の証に、この塔を建てる」
+<name "Celes" "!AA3684">
+"This tower was built as proof of the kinship
+ between Celestia and the Netherworld."
 #
-<name "セリス" "!AA3685">
-「へー……」
+<name "Celes" "!AA3685">
+"Oh?"
 #
 <exit>
 :10F
-<name "セリス" "!AA3686">
-「石版ね……ええと」
+<name "Celes" "!AA3686">
+"A tablet...
+ Umm..."
 #
-<name "セリス" "!AA3687">
-「手を組んでみれば、なかなか物分りが良い。
-　天界の者としては、考えを改めねばならぬ」
+<name "Celes" "!AA3687">
+"When you work together, understanding grows.
+ As a Celestial, one must think about things in
+ new ways."
 #
-<name "セリス" "!AA3688">
-「へー……」
+<name "Celes" "!AA3688">
+"Oh?"
 #
 <exit>
 :1C9
-<name "セリス" "!AA3689">
-「石版ね……」
+<name "Celes" "!AA3689">
+"A tablet..."
 #
-<name "セリス" "!AA3690">
-「手を組んでみれば、なかなか物分りが良い。
-　魔界の者としては、考えを改めねばならぬ」
+<name "Celes" "!AA3690">
+"When you work together, understanding grows.
+ As a demon, one must think about things in new
+ ways."
 #
-<name "セリス" "!AA3691">
-「こっちも同じ事を思ったんだ……
-　良い事ね」
+<name "Celes" "!AA3691">
+"It's the same thing as the other one...
+ That's good."
 #
 <exit>
 \x78
