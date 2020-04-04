@@ -9,28 +9,27 @@
 \x78
 :63
 <music 32>
-　セリスは、魔物を見つける事ができなかった。
+Celes wasn't able to find any monsters.
 #
 <exit>
 :9C
 <music 24>
-<name "セリス" "!AA2794">
-「あうう……つ、強い。
-　キノコのクセに……」
+<name "Celes" "!AA2794">
+"Awww... I-It's so strong.
+ But it's just a mushroom..."
 #
-<name "セリス" "!AA2795">
-「撤退……」
+<name "Celes" "!AA2795">
+"Retreat..."
 #
 <exit>
 :10C
 <music 24>
-<name "セリス" "!AA2796">
-「あう……油断した……
-　キノコなのに、あんなに強いなんて……」
+<name "Celes" "!AA2796">
+"Awww... I let my guard down...
+ How is a mushroom that strong?"
 #
-<name "セリス" "!AA2797">
-「反省。
-　撤退しよう」
+<name "Celes" "!AA2797">
+"Retreat and reevaluate."
 #
 <exit>
 \x78

@@ -7,20 +7,19 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA2767">
-「師匠。
-　巨大キノコを倒してきます！」
+<name "Celes" "!AA2767">
+"Master, I'm gonna go beat up a giant mushroom!"
 #
-<name "ラズロック">
-「頑張るように！」
+<name "Lazlocke">
+"Good luck!"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA2768">
-「はいっ！
-　ついでに、山菜も採ってきます」
+<name "Celes" "!AA2768">
+"Yes, sir!
+ Also, I'll collect wild herbs."
 #
-<name "ラズロック">
-「頼んだぞ」
+<name "Lazlocke">
+"Thanks."
 #
 <removesprite -1 11>
 <exit>
@@ -28,24 +27,24 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA2769">
-「師匠、森に行ってきます」
+<name "Celes" "!AA2769">
+"Master, I'm off to the forest."
 #
-<name "ラズロック">
-「森に？」
+<name "Lazlocke">
+"The forest?"
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "セリス" "!AA2770">
-「はい。
-　山菜摘みを兼ねて魔物退治に」
+<name "Celes" "!AA2770">
+"Yep. Exterminating monsters and picking wild
+ herbs."
 #
-<name "ラズロック">
-「わかった。
-　頑張れよ」
+<name "Lazlocke">
+"All right.
+ Good luck."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA2771">
-「はい」
+<name "Celes" "!AA2771">
+"Yep."
 #
 <removesprite -1 11>
 <exit>

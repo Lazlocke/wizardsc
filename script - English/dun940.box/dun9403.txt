@@ -29,84 +29,87 @@
 \x78
 :225
 <music 32>
-<name "セリス" "!AA2772">
-「むう……山菜しか見つからない」
+<name "Celes" "!AA2772">
+"Hmmm...
+ I'm only finding herbs."
 #
 <exit>
 :264
 <music 32>
-<name "セリス" "!AA2773">
-「魔物……雑魚ね」
+<name "Celes" "!AA2773">
+"These monsters are... all weaklings."
 #
 <exit>
 :295
 <music 32>
-<name "セリス" "!AA2774">
-「巨大キノコ……すぐに見つかると思ったけど」
+<name "Celes" "!AA2774">
+"Giant mushroom!
+ ...I thought I'd find it faster."
 #
-<name "セリス" "!AA2775">
-「見つからないなぁ」
+<name "Celes" "!AA2775">
+"I can't find it at all."
 #
-<name "セリス" "!AA2776">
-「考えたくないけど……
-　これはまさか……」
+<name "Celes" "!AA2776">
+"I hate to think it...
+ There's just no way..."
 #
-<name "セリス" "!AA2777">
-「登る山、間違えたちゃったかな？」
+<name "Celes" "!AA2777">
+"Did I climb the wrong mountain?"
 #
 <exit>
 :385
 <music 32>
-<name "セリス" "!AA2778">
-「発見！」
+<name "Celes" "!AA2778">
+"Found it!"
 #
-<name "セリス" "!AA2779">
-「と思ったら……ただの岩か」
+<name "Celes" "!AA2779">
+"Or so I thought...
+ It's just a rock."
 #
-<name "セリス" "!AA2780">
-「岩。
-　……岩に見せかけたキノコとか！
-　えいいいっ！」
+<name "Celes" "!AA2780">
+"A rock...
+ It's a mushroom pretending to be a rock!
+ Yaaaaah!"
 #
-　……
+...
 #
-<name "セリス" "!AA2781">
-「い、岩だった。
-　痛いぃぃぃ……」
+<name "Celes" "!AA2781">
+"I-It's just a rock.
+ Owwwwww..."
 #
 <exit>
 :477
 <music 32>
-<name "セリス" "!AA2782">
-「……ん？
-　なにか……良い香りが……」
+<name "Celes" "!AA2782">
+"...Hm?
+ Something smells good."
 #
-<name "セリス" "!AA2783">
-「こっちの方かな……」
+<name "Celes" "!AA2783">
+"Is it over here?"
 #
-<name "セリス" "!AA2784">
-「んー……」
+<name "Celes" "!AA2784">
+"Mmm..."
 #
-<name "セリス" "!AA2785">
-「ん！」
+<name "Celes" "!AA2785">
+"Mm!"
 #
-<name "セリス" "!AA2786">
-「きょ、巨大キノコ！
-　発見！」
+<name "Celes" "!AA2786">
+"G-Giant mushroom!
+ I found it!"
 #
 <exit>
 :562
 <music 32>
-<name "セリス" "!AA2787">
-「巨大キノコはどこかな？」
+<name "Celes" "!AA2787">
+"Where's that giant mushroom?"
 #
-<name "セリス" "!AA2788">
-「んー……」
+<name "Celes" "!AA2788">
+"Hmmm..."
 #
-<name "セリス" "!AA2789">
-「勘で、こっちの方！
-　………………………………発見っ！
-　よし、ついてる！」
+<name "Celes" "!AA2789">
+"My hunch says this way!
+ .........Found it!
+  All right! It's mine!"
 #
 <exit>
 \x78
