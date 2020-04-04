@@ -3,61 +3,62 @@
 \x78
 :25
 <music 23>
-<name "セリス" "!AA3936">
-「地下迷宮、制覇！」
+<name "Celes" "!AA3936">
+"Dungeon conquered!"
 #
-<name "セリス" "!AA3937">
-「かな？」
+<name "Celes" "!AA3937">
+"...I think?"
 #
-<name "セリス" "!AA3938">
-「ここが最下層だと思うし……
-　隠し扉とかも無さそう」
+<name "Celes" "!AA3938">
+"I think this is the lowest floor.
+ It doesn't look like there are any hidden doors."
 #
-<name "セリス" "!AA3939">
-「うん。
-　改めて……
-　地下迷宮、制覇！」
+<name "Celes" "!AA3939">
+"Yup.
+ Again...
+ Dungeon, conquered!"
 #
-　セリスは地下迷宮を制覇した。
+Celes has conquered the dungeon.
 #
-　一人で地下迷宮に挑む姿は勇ましく、冒険者達の
-　間で広く噂になった。
+A girl brave enough to face the dungeon all by
+herself soon became a hot topic among adventurers.
 #
-<name "戦士風の冒険者" "!HA0152">
-「幾多の難関を潜り抜け、森で彷徨い……
-　やっと到着しました地下迷宮！
-　さあ、覚悟しなさい！」
+<name "Warrior Adventurer" "!HA0152">
+"After all our trials and tribulations wandering
+ through the forest, we've finally reach the
+ dungeon.
+ Prepare yourself!"
 #
-<name "魔法使い風の冒険者" "!KA0054">
-「でも、誰かがもう制覇したらしいわよ」
+<name "Wizard Adventurer" "!KA0054">
+"But it looks like someone already cleared it
+ out."
 #
-<name "戦士風の冒険者" "!HA0153">
-「ええ！」
+<name "Warrior Adventurer" "!HA0153">
+"Eeh!?"
 #
-<name "魔法使い風の冒険者" "!KA0055">
-「どうする？
-　挑戦する？」
+<name "Wizard Adventurer" "!KA0055">
+"Now what?
+ Want to try it?"
 #
-<name "戦士風の冒険者" "!HA0154">
-「もう宝物とか、残ってなさそう……」
+<name "Warrior Adventurer" "!HA0154">
+"There's probably no treasure left..."
 #
-<name "魔法使い風の冒険者" "!KA0056">
-「そうね。
-　でも、魔物は歓迎してくれるかも」
+<name "Wizard Adventurer" "!KA0056">
+"Yeah, but the monsters may welcome us."
 #
-<name "戦士風の冒険者" "!HA0155">
-「……帰りましょう」
+<name "Warrior Adventurer" "!HA0155">
+"...Let's go home."
 #
-<name "魔法使い風の冒険者" "!KA0057">
-「え、それだと……
-　また、あの森を通らないといけないんだけど……」
+<name "Wizard Adventurer" "!KA0057">
+"Eh? But then...
+ We'll have to go through the forest again."
 #
-<name "戦士風の冒険者" "!HA0156">
-「私達にとって、あの森はすでに第二の故郷よ。
-　大丈夫」
+<name "Warrior Adventurer" "!HA0156">
+"That forest is already a second home to us.
+ We'll be fine."
 #
-<name "魔法使い風の冒険者" "!KA0058">
-「いや、絶対にまた迷うと思う」
+<name "Wizard Adventurer" "!KA0058">
+"Er, I think we'll definitely get lost again."
 #
 <exit>
 \x78

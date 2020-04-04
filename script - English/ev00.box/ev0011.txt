@@ -1336,7 +1336,7 @@ Soshiette leaves, satisfied.
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3884">
-"A dungeon?'
+"The Dungeon?"
 #
 <name "Lazlocke">
 "Yeah, that's what everybody calls it.

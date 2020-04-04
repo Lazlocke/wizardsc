@@ -21,278 +21,281 @@
 \x78
 :13F
 <background "bg016a0.iph" 11>
-<name "村人" "!RB0155">
-「地下迷宮の入り口？
-　ああ、それならここからまっすぐ南に向かった所
-　だよ」
+<name "Villager" "!RB0155">
+"The entrance to the Dungeon?
+ Oh, then you want to go straight south from
+ here."
 #
-<name "村人" "!RB0156">
-「そんな所に何しに行くんだ？
-　観光するような場所じゃねぇぞ」
+<name "Villager" "!RB0156">
+"Why are you going there?
+ It's not for tourists."
 #
-<name "村人" "!RB0157">
-「え？
-　入る？」
+<name "Villager" "!RB0157">
+"Huh?
+ You're going in?"
 #
-<name "村人" "!RB0158">
-「魔物がたくさんいる危ない場所だ。
-　やめとけ、やめとけ」
+<name "Villager" "!RB0158">
+"It's a dangerous place, filled with monsters.
+ You shouldn't."
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3889">
-「いえ、だからこそ行きます」
+<name "Celes" "!AA3889">
+"No, that's why I'm going."
 #
-<name "村人" "!RB0159">
-「……ほ、本当に行くのかい？」
+<name "Villager" "!RB0159">
+"...Y-You're serious?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3890">
-「はい。
-　ご心配無く」
+<name "Celes" "!AA3890">
+"Yes. Don't worry about me."
 #
-<name "村人" "!RB0160">
-「ご心配無くって……え、一人で……？」
+<name "Villager" "!RB0160">
+"Don't worry?
+ Uh, by yourself?"
 #
 <removesprite -1 11>
 <exit>
 :39A
 <background "bg016a0.iph" 11>
-<name "噂する村娘" "!JA0057">
-「最近、あの地下迷宮に一人で挑んでいる女の子が
-　居るんだって？」
+<name "Gossipy Girl" "!JA0057">
+"Lately, hasn't there been a girl going into that
+ dungeon all by herself?"
 #
-<name "知ってる村人" "!RB0161">
-「ああ、居るよ。
-　俺も最初に見た時は冗談かと思ったけど、本当に
-　挑むんだからたいしたもんだよ」
+<name "Knowledgeable Villager" "!RB0161">
+"Yeah, that's right.
+ I thought it was a joke when I first saw her,
+ but apparently she's looking for a real
+ challenge."
 #
-<name "感心する村娘" "!IA0043">
-「凄いわね」
+<name "Impressed Girl" "!IA0043">
+"That's incredible."
 #
-<name "噂する村娘" "!JA0058">
-「私でもできるかしら？」
+<name "Gossipy Girl" "!JA0058">
+"I wonder if I could do it."
 #
-<name "感心する村娘" "!IA0045">
-「あはは……無理無理。
-　きっと、凄い筋肉の持ち主よ」
+<name "Impressed Girl" "!IA0045">
+"Hahaha... No way.
+ She must be covered in muscles."
 #
-<name "噂する村娘" "!JA0060">
-「そうね。
-　きっとそうよ」
+<name "Gossipy Girl" "!JA0060">
+"Yeah.
+ Definitely."
 #
-<name "知ってる村人" "!RB0162">
-「あー、いや……」
+<name "Knowledgeable Villager" "!RB0162">
+"Oh, um..."
 #
-<name "感心する村娘" "!IA0046">
-「身長は高く、キリリとした顔立ち」
+<name "Impressed Girl" "!IA0046">
+"I bet she's tall and hawkish."
 #
-<name "噂する村娘" "!JA0061">
-「男装が似合う、美形剣士ね」
+<name "Gossipy Girl" "!JA0061">
+"A beautiful swordswoman, dressed like a man."
 #
-<name "感心する村娘" "!IA0047">
-「きゃーーー、素敵っ♪」
+<name "Impressed Girl" "!IA0047">
+"Oooh! That'd be lovely!♪"
 #
-<name "知ってる村人" "!RB0163">
-「そ、そうだね」
+<name "Knowledgeable Villager" "!RB0163">
+"Y-Yeah."
 #
 <sprite "ta01c08.iph" 4 4 11>
-<name "セリス" "!AA3891">
-「面倒臭がらずに、訂正するように要求します」
+<name "Celes" "!AA3891">
+"Please just correct them without putting up a
+ fuss."
 #
-<name "知ってる村人" "!RB0164">
-「うわあっ！」
+<name "Knowldgeable Villager" "!RB0164">
+"Aah!"
 #
 <removesprite -1 11>
 <exit>
 :70B
 <background "bg016a0.iph" 11>
-<name "村人" "!RB0165">
-「今日も頑張ってるね」
+<name "Villager" "!RB0165">
+"Hard at work again today?"
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3892">
-「はい。
-　頑張って行きます」
+<name "Celes" "!AA3892">
+"Yep.
+ I'm working hard."
 #
 <removesprite -1 11>
 <exit>
 :7AC
 <background "bg016a0.iph" 11>
-<name "村人" "!RB0166">
-「一人でも、潜れるもんなんだな」
+<name "Villager" "!RB0166">
+"You go in by yourself, huh?"
 #
 <sprite "ta01c92.iph" 4 4 11>
-<name "セリス" "!AA3893">
-「はい。
-　でも、お薦めはしません」
+<name "Celes" "!AA3893">
+"Yes, but I don't recommend it."
 #
-<name "村人" "!RB0167">
-「ははは……
-　お薦めされたって、俺じゃ無理だ」
+<name "Villager" "!RB0167">
+"Hahaha...
+ Even if you did, I couldn't do it."
 #
 <removesprite -1 11>
 <exit>
 :8A2
 <background "bg016a0.iph" 11>
-<name "村人" "!RB0168">
-「凄いね。
-　一人であそこに挑戦するとは」
+<name "Villager" "!RB0168">
+"You're incredible going in by yourself."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3894">
-「いやぁ、それほどでも……」
+<name "Celes" "!AA3894">
+"No, not so much..."
 #
-<name "村人" "!RB0169">
-「いやいや、何度失敗しても挑戦するその姿勢。
-　……凄い」
+<name "Villager" "!RB0169">
+"No, you keep going in, no matter how many times
+ you fail.
+ That's great."
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "セリス" "!AA3895">
-「何度も失敗してないもん」
+<name "Celes" "!AA3895">
+"I haven't failed that many times."
 #
 <removesprite -1 11>
 <exit>
 :9F3
 <background "bg016a0.iph" 11>
-<name "戦士風の冒険者" "!HA0135">
-「あの迷宮に……たった一人で挑んでいる魔法使い
-　が居るんだって」
+<name "Warrior Adventurer" "!HA0135">
+"There's a wizard who goes into that dungeon all
+ by herself."
 #
-<name "魔法使い風の冒険者" "!KA0041">
-「凄いわね」
+<name "Wizard Adventurer" "!KA0041">
+"That's amazing."
 #
-<name "戦士風の冒険者" "!HA0136">
-「ええ、私達も負けてられないわね」
+<name "Warrior Adventurer" "!HA0136">
+"Yes. We can't let her outdo us."
 #
-<name "魔法使い風の冒険者" "!KA0042">
-「うん。
-　頑張りましょう」
+<name "Wizard Adventurer" "!KA0042">
+"Yeah, let's do our best."
 #
-<name "戦士風の冒険者" "!HA0137">
-「その為にも、まずこの森を脱出しないとね」
+<name "Warrior Adventurer" "!HA0137">
+"Which is why we need to get out of this forest
+ first."
 #
-<name "魔法使い風の冒険者" "!KA0043">
-「そうね。
-　この森の中に三日目。
-　そろそろ脱出しないと、遭難と勘違いされちゃう」
+<name "Wizard Adventurer" "!KA0043">
+"Right.
+ It's our third day here.
+ If we don't escape soon, people will think we
+ need to be rescued."
 #
 <exit>
 :BD7
 <background "bg016a0.iph" 11>
-<name "魔法使い風の冒険者" "!KA0045">
-「頑張ろう！
-　地下迷宮攻略！」
+<name "Wizard Adventurer" "!KA0045">
+"Let's do it!
+ Let's beat the dungeon!"
 #
-<name "戦士風の冒険者" "!HA0138">
-「おう！」
+<name "Warrior Adventurer" "!HA0138">
+"Yeah!"
 #
-<name "魔法使い風の冒険者" "!KA0046">
-「その前に、この森を……」
+<name "Wizard Adventurer" "!KA0046">
+"But first, this forest..."
 #
-<name "戦士風の冒険者" "!HA0139">
-「迷宮は得意なんだけどなぁ～」
+<name "Warrior Adventurer" "!HA0139">
+"I'm good at dungeons though..."
 #
-<name "魔法使い風の冒険者" "!KA0047">
-「森とか街とかは苦手なのよね」
+<name "Wizard Adventurer" "!KA0047">
+"Just not forests or towns."
 #
-<name "戦士風の冒険者" "!HA0140">
-「うん」
+<name "Warrior Adventurer" "!HA0140">
+"Yeah."
 #
 <exit>
 :D36
 <background "bg016a0.iph" 11>
-<name "戦士風の冒険者" "!HA0141">
-「貴女が一人で、地下迷宮に挑んでいるって魔法使
-　い？」
+<name "Warrior Adventurer" "!HA0141">
+"Are you the wizard who's been going into that
+ dungeon by herself?"
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3896">
-「はい。
-　そうです」
+<name "Celes" "!AA3896">
+"Yes, that's right."
 #
-<name "戦士風の冒険者" "!HA0142">
-「一人でどこまでいけるか、見物だわ」
+<name "Warrior Adventurer" "!HA0142">
+"I'm interested to see how far you can go on
+ your own."
 #
 <sprite "ta01c90.iph" 4 4 12>
-<name "セリス" "!AA3897">
-「期待に応えられるように、頑張ります。
-　では」
+<name "Celes" "!AA3897">
+"I'll do my best to live up to your expectations.
+ See you later."
 #
-<name "戦士風の冒険者" "!HA0151">
-「ふふ……」
+<name "Warrior Adventurer" "!HA0151">
+"Heheh..."
 #
-<name "魔法使い風の冒険者" "!KA0048">
-「ふふじゃない！
-　どうして、森の抜け方を聞かなかったの！」
+<name "Wizard Adventurer" "!KA0048">
+"Don't laugh!
+ Why didn't you ask her how to get our of this
+ forest!?"
 #
-<name "戦士風の冒険者" "!HA0144">
-「仕方無いじゃない！
-　私、見栄っ張りなんだから！」
+<name "Warrior Adventurer" "!HA0144">
+"Like I could do that!
+ I have too much pride!"
 #
-<name "魔法使い風の冒険者" "!KA0049">
-「ああ、もう……
-　とりあえず、後を追うわよ！」
+<name "Wizard Adventurer" "!KA0049">
+"Ugh, enough...
+ Anyway, follow her!"
 #
-<name "戦士風の冒険者" "!HA0145">
-「う、うん」
+<name "Warrior Adventurer" "!HA0145">
+"Y-Yeah."
 #
 <removesprite -1 11>
 <exit>
 :FFD
 <background "bg016a0.iph" 11>
-<name "戦士風の冒険者" "!HA0146">
-「最近、森での生活が楽しくなりつつあるの」
+<name "Warrior Adventurer" "!HA0146">
+"It's been fun living in the forest lately."
 #
-<name "魔法使い風の冒険者" "!KA0050">
-「馬鹿っ！
-　諦めちゃダメ！
-　私達には地下迷宮が待っているのよ！」
+<name "Wizard Adventurer" "!KA0050">
+"Idiot!
+ Don't give up!
+ The dungeon is waiting for us!"
 #
-<name "戦士風の冒険者" "!HA0147">
-「そうだけど……
-　たぶん、そこらの森の住人より、森の住人をして
-　いると思うわよ」
+<name "Warrior Adventurer" "!HA0147">
+"I guess, but maybe I'm more of a forest dweller
+ than I thought."
 #
-<name "魔法使い風の冒険者" "!KA0051">
-「否定はしないけど……ダメよ！
-　私達は常に歩き続けるの！
-　地下迷宮のある場所に向かって！」
+<name "Wizard Adventurer" "!KA0051">
+"I won't deny that but... you're wrong!
+ We must always keep moving forward!
+ To the dungeon!"
 #
-<name "戦士風の冒険者" "!HA0148">
-「が、頑張ってみる……」
+<name "Warrior Adventurer" "!HA0148">
+"I-I'll try..."
 #
 <exit>
 :11EF
 <background "bg016a0.iph" 11>
-<name "戦士風の冒険者" "!HA0149">
-「行くぞ、地下迷宮」
+<name "Warrior Adventurer" "!HA0149">
+"Let's go to the dungeon!"
 #
-<name "魔法使い風の冒険者" "!KA0052">
-「おう！」
+<name "Wizard Adventurer" "!KA0052">
+"Yeah!"
 #
-<name "戦士風の冒険者" "!HA0150">
-「目指せ、地下迷宮」
+<name "Warrior Adventurer" "!HA0150">
+"To the dungeon!"
 #
-<name "魔法使い風の冒険者" "!KA0053">
-「頑張ろう！」
+<name "Wizard Adventurer" "!KA0053">
+"Let's do it!"
 #
-<name "横を通り過ぎる戦士" "!GA0126">
-「あの人達は、何をしているのかしら？」
+<name "Passing Warrior" "!GA0126">
+"What are they doing?"
 #
-<name "観察する魔法使い" "!IA0048">
-「同じ場所をグルグルと……」
+<name "Watching Wizard" "!IA0048">
+"They're just going around in circles..."
 #
-<name "推理する軽戦士" "!MA0075">
-「何かの儀式かしら？」
+<name "Thoughtful Fighter" "!MA0075">
+"Some kind of ritual?"
 #
-<name "同調する治癒士" "!NA0060">
-「ああ、それかも」
+<name "Agreeing Cleric" "!NA0060">
+"Yeah, probably."
 #
-<name "結論を出す重戦士" "!TB0138">
-「なんにせよ、近寄っちゃなんね」
+<name "Conclusive Barbarian" "!TB0138">
+"Whatever they're doing, let's keep our
+ distance."
 #
-<name "通り過ぎた狩人" "!UA0216">
-「そうだな」
+<name "Passing Archer" "!UA0216">
+"Yeah."
 #
 <exit>
 \x78

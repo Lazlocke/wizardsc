@@ -17,94 +17,95 @@
 \x1A\x01\x0A\x02\x01\x9A 5 \x01\x14 :4ED: 
 <background "bg002a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0636">
-「無事、最下層到達。
-　地下迷宮、制覇ですね」
+<name "Soshiette" "!DA0636">
+"So you safely reached the bottom floor.
+ You conquered the dungeon."
 #
 <removesprite -1 11>
 <sprite "ta01c92.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "セリス" "!AA3940">
-「無事ってワケではありませんが」
+<name "Celes" "!AA3940">
+"I don't know that I'd say safely."
 #
-<name "ラズロック">
-「よくやった」
+<name "Lazlocke">
+"Well done."
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "セリス" "!AA3941">
-「はい。
-　頑張りました」
+<name "Celes" "!AA3941">
+"Yep.
+ I tried really hard."
 #
 <sprite "ta04a08.iph" 6 4 12>
-<name "ソシエット" "!DA0637">
-「ご褒美に外食など、如何でしょう？」
+<name "Soshiette" "!DA0637">
+"Would you like to go out to eat as a reward?"
 #
-<name "ラズロック">
-「悪くないアイディアだが……
-　それ、お前もついてくるのか？」
+<name "Lazlocke">
+"That's not a bad idea, although I assume you're
+ inviting yourself?"
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "ソシエット" "!DA0638">
-「もちろんです」
+<name "Soshiette" "!DA0638">
+"Of course."
 #
-<name "ラズロック">
-「お前なぁ」
+<name "Lazlocke">
+"You little..."
 #
 <sprite "ta01c07.iph" 2 5 12>
-<name "セリス" "!AA3942">
-「まあまあ、師匠。
-　食事は、人数が多い方が楽しいです」
+<name "Celes" "!AA3942">
+"Now, now, Master.
+ Dinner's more fun with lots of people."
 #
 <sprite "ta04a11.iph" 6 4 12>
-<name "ソシエット" "!DA0639">
-「その通りです」
+<name "Soshiette" "!DA0639">
+"That's right."
 #
-<name "ラズロック">
-「むう……
-　仕方が無い！
-　みんなで行くか！」
+<name "Lazlocke">
+"Grr...
+ Whatever!
+ We'll all go then!"
 #
 <sprite "ta01c15.iph" 2 5 12>
-<name "セリス" "!AA3944">
-「はい♪」
+<name "Celes" "!AA3944">
+"Yep.♪"
 #
 <removesprite -1 11>
 \x2B\x18 :76A: 
 :4ED
 <background "bg002a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3945">
-「師匠、地下迷宮の最下層まで行きました！」
+<name "Celes" "!AA3945">
+"Master, I went to the bottom floor of the
+ dungeon!"
 #
-<name "ラズロック">
-「むう……」
+<name "Lazlocke">
+"Hmmm..."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA3946">
-「なんですか？」
+<name "Celes" "!AA3946">
+"What?"
 #
-<name "ラズロック">
-「いや、ソシエットとどれぐらいで最下層まで行く
-　か勝負していたんだが……」
+<name "Lazlocke">
+"Oh, I was just arguing with Soshiette about how
+ long it'd take you to get there..."
 #
 <sprite "ta01c17.iph" 4 4 12>
-<name "セリス" "!AA3947">
-「もちろん、勝ちましたよね」
+<name "Celes" "!AA3947">
+"You won, of course, right?"
 #
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3948">
-「師匠っ！」
+<name "Celes" "!AA3948">
+"Master!"
 #
 \x1A\x01\x0A\x02\x00\xFB 11 \x01\x15 :75D: 
-<name "ラズロック">
-「俺の予想より、遅かったんだ」
+<name "Lazlocke">
+"You took longer than I expected."
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "セリス" "!AA3949">
-「すみませんでした」
+<name "Celes" "!AA3949">
+"I'm sorry."
 #
 :75D
 <removesprite -1 11>
@@ -112,52 +113,56 @@
 <exit>
 :76B
 <background "bg016a0.iph" 11>
-<name "ラズロック">
-「大丈夫だったか？」
+<name "Lazlocke">
+"Are you okay?"
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3898">
-「え、あ、師匠……」
+<name "Celes" "!AA3898">
+"Huh?
+ Oh, Master..."
 #
-<name "ラズロック">
-「迎えに来た。
-　帰るぞ」
+<name "Lazlocke">
+"I came to pick you up.
+ Let's go home."
 #
-<name "セリス" "!AA3899">
-「は、はい……すみません」
+<name "Celes" "!AA3899">
+"Y-Yes, sir.
+ ...Thank you."
 #
 <removesprite -1 11>
 <exit>
 :85A
 <background "bg016a0.iph" 11>
-<name "ラズロック">
-「駄目だったな」
+<name "Lazlocke">
+"No good?"
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3900">
-「むう……」
+<name "Celes" "!AA3900">
+"Grr..."
 #
 <removesprite -1 11>
 <exit>
 :8E0
 <background "bg016a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3901">
-「むう……手強い」
+<name "Celes" "!AA3901">
+"Grr...
+ This is hard."
 #
-<name "セリス" "!AA3902">
-「次はもっと奥まで進んでみせる」
+<name "Celes" "!AA3902">
+"Next time I'll go deeper."
 #
 <removesprite -1 11>
 <exit>
 :97F
 <background "bg016a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3903">
-「残念……もう少しだと思ったのに……」
+<name "Celes" "!AA3903">
+"Too bad...
+ I thought I could make it a little further..."
 #
-<name "ラズロック">
-「惜しかったな」
+<name "Lazlocke">
+"It's a shame."
 #
 <removesprite -1 11>
 <exit>

@@ -1,63 +1,66 @@
 \xBE\x00
-<name "セリス" "!AA3906">
-「あ、なにかあった。
-　ええっと……」
+<name "Celes" "!AA3906">
+"Ah, something's there.
+ Umm..."
 #
-<name "セリス" "!AA3907">
-「嘘吐きの門、通れるのは嘘吐きだけ。
-　嘘吐きである事を示して通れ」
+<name "Celes" "!AA3907">
+"Only a liar can pass through this gate of lies.
+ Speak a lie and you may pass."
 #
-<name "セリス" "!AA3908">
-「どう言う事？」
+<name "Celes" "!AA3908">
+"What should I say?"
 #
-<name "セリス" "!AA3909">
-「うーん……あ、そうか」
+<name "Celes" "!AA3909">
+"Hmmm...
+ Oh, I get it."
 #
-<name "セリス" "!AA3910">
-「正直者なら、嘘吐き。
-　嘘吐きなら、正直者と言って通れば良いのね」
+<name "Celes" "!AA3910">
+"If you're honest, you say that you're a liar.
+ If you're a liar, you should say that you're
+ honest."
 #
-<name "セリス" "!AA3911">
-「私は正直者だと思うから……」
+<name "Celes" "!AA3911">
+"I think I'm pretty honest..."
 #
-<name "セリス" "!AA3912">
-「私は嘘吐きです！」
+<name "Celes" "!AA3912">
+"I'm a liar!"
 #
-<name "セリス" "!AA3913">
-「きゃぁっ」
+<name "Celes" "!AA3913">
+"Eeek!"
 #
-<name "セリス" "!AA3914">
-「だ、駄目？
-　じゃあ……」
+<name "Celes" "!AA3914">
+"T-That didn't work?
+ Then..."
 #
-<name "セリス" "!AA3915">
-「私は正直者です！」
+<name "Celes" "!AA3915">
+"I'm honest!"
 #
-<name "セリス" "!AA3916">
-「きゃぁっ」
+<name "Celes" "!AA3916">
+"Eek!"
 #
-<name "セリス" "!AA3917">
-「え、ち、違うの？」
+<name "Celes" "!AA3917">
+"Huh? T-That's not right?"
 #
-<name "セリス" "!AA3918">
-「うーん……うーん……」
+<name "Celes" "!AA3918">
+"Umm...
+ Ummmmm..."
 #
-　二十分後。
+Twenty minutes later...
 #
-<name "セリス" "!AA3919">
-「そうか！
-　あの問題文には、嘘吐きの反対が書かれてない。
-　つまり、嘘吐きとか正直者かを示すんじゃないの
-　ね」
+<name "Celes" "!AA3919">
+"I get it!
+ Just saying that isn't necessarily a lie.
+ In other words, it doesn't mean you're lying or
+ your honest."
 #
-<name "セリス" "!AA3920">
-「と言う事は……」
+<name "Celes" "!AA3920">
+"Which means..."
 #
-<name "セリス" "!AA3921">
-「私はこの門、通りたくありません」
+<name "Celes" "!AA3921">
+"I don't want to go through this gate."
 #
 \xBE\x00
-<name "セリス" "!AA3922">
-「よし、通れた」
+<name "Celes" "!AA3922">
+"Okay, I made it through."
 #
 \x78
