@@ -2,7 +2,7 @@
 :C
 \x78
 :D
-@’‡ŠÔ‚Æ‚Í‚®‚ê‚Ä‚µ‚Ü‚Á‚½B
+Celes got separated from the party.
 #
 <exit>
 \x78

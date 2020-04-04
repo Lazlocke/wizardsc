@@ -4,11 +4,11 @@
 :D
 <music 2>
 <background "bg015a0.iph" 11>
-<name "街の人" "!HA0157">
-「きゃあ、泥棒よ！
-　捕まえて！」
+<name "Townsperson" "!HA0157">
+"Eek! Thief!
+ Someone stop him!"
 #
-　街の住人の悲鳴に、セリスが応えた。
+Celes rises the screams of the townspeople.
 #
 <exit>
 \x78

@@ -9,11 +9,11 @@
 <music 2>
 <background "bg015a0.iph" 11>
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA4158">
-「召し捕った！」
+<name "Celes" "!AA4158">
+"You're under arrest!"
 #
-<name "街の人" "!HA0158">
-「ありがとうございました」
+<name "Townsperson" "!HA0158">
+"Thank you so much."
 #
 <removesprite -1 11>
 <exit>
@@ -21,11 +21,12 @@
 <music 2>
 <background "bg015a0.iph" 11>
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA4159">
-「し、しまった……」
+<name "Celes" "!AA4159">
+"O-Oh no..."
 #
-<name "街の人" "!HA0159">
-「誰か、誰かぁ！」
+<name "Townsperson" "!HA0159">
+"Somebody!
+ Somebody help!"
 #
 <removesprite -1 11>
 <exit>
