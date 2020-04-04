@@ -6,90 +6,92 @@
 :31
 <music 10>
 <background "bg001b0.iph" 11>
-　日が落ち、街が暗くなった頃。
+The sun goes down, and darkness falls over the
+city.
 #
 <background "bg002b0.iph" 11>
-<name "ラズロック">
-「幽霊の出そうな良い夜だな」
+<name "Lazlocke">
+"It's a good night for ghosts to come out."
 #
 <sprite "ta01c38.iph" 4 4 11>
-<name "セリス" "!AA2715">
-「で、出たら困るんです！」
+<name "Celes" "!AA2715">
+"I-I don't want them to come out!"
 #
-<name "ラズロック">
-「こらこら、目的を忘れるな」
+<name "Lazlocke">
+"Come on. Don't forget what we're here for."
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "セリス" "!AA2716">
-「うう……」
+<name "Celes" "!AA2716">
+"Oohhh..."
 #
-<name "ラズロック">
-「まあ、幽霊が居なければ帰って来て良いから」
+<name "Lazlocke">
+"Well, we can go back if there are no ghosts."
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "セリス" "!AA2717">
-「本当ですか？」
+<name "Celes" "!AA2717">
+"Really?"
 #
-<name "ラズロック">
-「ああ。
-　協会からの依頼は、調査と居た場合の退治だから
-　な」
+<name "Lazlocke">
+"Yeah. The request from the Guild was to 
+ exterminate any that show up."
 #
-<name "ラズロック">
-「調査して居ない場合は、そのまま帰ってきて問題
-　無い」
+<name "Lazlocke">
+"If you investigate, and there aren't any there,
+ then that's fine."
 #
 <sprite "ta01c36.iph" 4 4 12>
-<name "セリス" "!AA2718">
-「わ、わかりました。
-　行ってきます」
+<name "Celes" "!AA2718">
+"A-All right.
+ I'm off."
 #
 <removesprite -1 11>
 <sprite "ta01c36.iph" 2 5 11>
 <sprite "ta04a85.iph" 6 4 11>
-<name "ソシエット" "!DA0473">
-「まあ、ほぼ確実に居るのがわかっていますので、
-　協会から依頼が出るのですが……」
+<name "Soshiette" "!DA0473">
+"Well, we're almost certain there will be some
+ there. That's why it's a request from the Guild."
 #
 <sprite "ta01c37.iph" 2 5 12>
-<name "セリス" "!AA2719">
-「！！」
+<name "Celes" "!AA2719">
+"...!!!"
 #
-<name "ラズロック">
-「どうして邪魔をする！」
+<name "Lazlocke">
+"Why are you getting underfoot!?"
 #
 <sprite "ta04a15.iph" 6 4 12>
-<name "ソシエット" "!DA0474">
-「いえ、あのままですと、簡単に調査して帰ってく
-　る可能性がありました。
-　幽霊は見つけ次第、殲滅するべきです」
+<name "Soshiette" "!DA0474">
+"Oh, if I hadn't said anything, she might have
+ just done a cursory investigation and come right
+ back. If there are ghosts, they need to be
+ exterminated."
 #
 <sprite "ta01c41.iph" 2 5 12>
-<name "セリス" "!AA2720">
-「み、見つけるまで、帰ってくるなと？」
+<name "Celes" "!AA2720">
+"D-Don't come back until I find them?"
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "ソシエット" "!DA0475">
-「殲滅するまで、帰還は認めません」
+<name "Soshiette" "!DA0475">
+"No coming back until you've exterminated them."
 #
 <sprite "ta01c42.iph" 2 5 12>
-<name "セリス" "!AA2721">
-「そ、そんなぁ……」
+<name "Celes" "!AA2721">
+"N-No way..."
 #
 <removesprite -1 11>
-　セリスはこの後、二十分ほど玄関前で抵抗したが
-　幽霊退治に出かけた。
+Celes argued for the next twenty minutes, but
+eventually left to exorcise the ghosts.
 #
 <exit>
 :60D
 <music 10>
 <background "bg002b0.iph" 11>
 <sprite "ta01c91.iph" 4 4 11>
-<name "セリス" "!AA2722">
-「幽霊退治に行ってきます」
+<name "Celes" "!AA2722">
+"I'm off to exterminate ghosts."
 #
-<name "ラズロック">
-「おう、頑張れ」
+<name "Lazlocke">
+"Okay.
+ Good luck."
 #
 <removesprite -1 11>
 <exit>

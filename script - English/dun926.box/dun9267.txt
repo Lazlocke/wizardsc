@@ -7,27 +7,27 @@
 \x78
 :4F
 <music 24>
-<name "セリス" "!AA2740">
-「て、てったーい」
+<name "Celes" "!AA2740">
+"R-Retreat!"
 #
-　セリスは幽霊に敗北した。
+Celes was defeated by a ghost.
 #
 <exit>
 :9E
 <music 24>
-<name "セリス" "!AA2742">
-「つ、強い……
-　幽霊ってこんなに強いの？」
+<name "Celes" "!AA2742">
+"I-It's strong...
+ Ghosts are that strong?"
 #
-<name "セリス" "!AA2743">
-「むう……悔しいけど、今回は撤退」
+<name "Celes" "!AA2743">
+"Grr... I hate to say it, but I have to run away."
 #
-　セリスは幽霊に敗北した。
+Celes was defeated by a ghost.
 #
 <exit>
 :140
 <music 9>
-　セリスは、幽霊と遭遇できなかった。
+Celes didn't find any ghosts.
 #
 <exit>
 \x78

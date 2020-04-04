@@ -19,59 +19,60 @@
 \x78
 :1FE
 <music 9>
-<name "セリス" "!AA2723">
-「出ませんように、出ませんように……」
+<name "Celes" "!AA2723">
+"Don't come out...
+ Don't come out..."
 #
-<name "セリス" "!AA2724">
-「なにか動いた！」
+<name "Celes" "!AA2724">
+"Something moved!"
 #
-　………………
+.........
 #
-<name "セリス" "!AA2725">
-「ふう、ただのゴミか……
-　ゴミ箱にっと」
+<name "Celes" "!AA2725">
+"Whew, it's just garbage.
+ Just a trash can."
 #
 <exit>
 :2BE
 <music 9>
-<name "セリス" "!AA2726">
-「幽霊か……出会いたくないなぁ」
+<name "Celes" "!AA2726">
+"Ghosts? I hope I don't see any."
 #
-<name "セリス" "!AA2727">
-「でも、探索探索」
+<name "Celes" "!AA2727">
+"But I have to keep searching."
 #
 <exit>
 :325
 <music 9>
-<name "セリス" "!AA2728">
-「な、なにか動いた？」
+<name "Celes" "!AA2728">
+"D-Did something move?"
 #
-　……
+...
 #
-<name "セリス" "!AA2729">
-「誰か居ますか？」
+<name "Celes" "!AA2729">
+"Is someone there?"
 #
-　…………
+.........
 #
-<name "セリス" "!AA2730">
-「えっと……」
+<name "Celes" "!AA2730">
+"Umm..."
 #
-<name "セリス" "!AA2731">
-「あのー……」
+<name "Celes" "!AA2731">
+"Uhh..."
 #
-<name "セリス" "!AA2732">
-「おーい」
+<name "Celes" "!AA2732">
+"Hey."
 #
-　…………
+..................
 #
-<name "セリス" "!AA2733">
-「き、気のせいかな……」
+<name "Celes" "!AA2733">
+"J-Just my imagination?"
 #
 <exit>
 :43E
 <music 9>
-<name "セリス" "!AA2734">
-「気のせいじゃなかった……」
+<name "Celes" "!AA2734">
+"It wasn't just my imagination..."
 #
 <exit>
 \x78

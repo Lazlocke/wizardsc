@@ -3,12 +3,13 @@
 \x78
 :1C
 <music 23>
-<name "セリス" "!AA2735">
-「も、もう居ないみたいよね……
-　これで幽霊騒ぎは収まるかな」
+<name "Celes" "!AA2735">
+"L-Looks like there aren't any left...
+ Is that all the ghosts?"
 #
-<name "セリス" "!AA2736">
-「と、とりあえず、もう少しだけ見回って帰ろう」
+<name "Celes" "!AA2736">
+"I-I'll look around a little more for now and then
+ go home."
 #
 <exit>
 \x78
