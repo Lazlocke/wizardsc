@@ -3,13 +3,14 @@
 \x78
 :D
 <music 23>
-<name "セリス" "!AA2873">
-「ふう……これで、この辺りも安全になるかな」
+<name "Celes" "!AA2873">
+"Whew...
+ Is it safe around here now?"
 #
-<name "セリス" "!AA2874">
-「しかし……
-　このまま放置するのは勿体無いような……
-　うーん」
+<name "Celes" "!AA2874">
+"But...
+ It's a waste to just leave it like this...
+ Hmmmm..."
 #
 <exit>
 \x78

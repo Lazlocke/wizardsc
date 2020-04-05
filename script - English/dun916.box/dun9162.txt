@@ -196,68 +196,73 @@
 \x1A\x01\x07\x24\x00\x01\x84\x00\x01\x0E :CA4: \x96\x9A\xBC "通り抜け" \x97 "ra0100.box"  15 \x15 :CA4: 
 :CA4
 \x78
-<name "セリス" "!AA3976">
-「他の冒険者とかも居るけど……」
+<name "Celes" "!AA3976">
+"There are other adventurers here, but..."
 #
-<name "セリス" "!AA3977">
-「どうして魔物の数は減らないんだろ」
+<name "Celes" "!AA3977">
+"Why aren't there less monsters?"
 #
-<name "セリス" "!AA3980">
-「ダンジョンの永遠の謎ね」
+<name "Celes" "!AA3980">
+"The eternal mystery of dungeons."
 #
-<name "セリス" "!AA3981">
-「あれ、これ以上進めない……」
+<name "Celes" "!AA3981">
+"I can't go any further."
 #
-<name "セリス" "!AA3982">
-「今の私じゃ、この先へはいけないのかしら」
+<name "Celes" "!AA3982">
+"I wonder if this is as far as I can go right
+ now."
 #
-<name "セリス" "!AA3983">
-「うわっ、どれだけ居るの……」
+<name "Celes" "!AA3983">
+"Wow.
+ How many are here?"
 #
-<name "セリス" "!AA3984">
-「強そうだけど……逃げるわけにはいかないかな」
+<name "Celes" "!AA3984">
+"That looks strong...
+ I don't think I can run away."
 #
-<name "セリス" "!AA3985">
-「勝負！」
+<name "Celes" "!AA3985">
+"Let's fight!"
 #
-<name "セリス" "!AA3986">
-「うわっ！
-　宝箱が一杯！
-　やった！」
+<name "Celes" "!AA3986">
+"Wow!
+ So many treasure chests!
+ Yay!"
 #
-<name "セリス" "!AA3987">
-「え……あれ？」
+<name "Celes" "!AA3987">
+"Huh?
+ Wha?"
 #
-<name "セリス" "!AA3988">
-「幻覚？
-　そんな……」
+<name "Celes" "!AA3988">
+"An illusion?
+ No way..."
 #
-<name "セリス" "!AA3997">
-「行き止まり……」
+<name "Celes" "!AA3997">
+"A dead end..."
 #
-<name "セリス" "!AA3998">
-「と見せかけて！
-　隠し扉発見♪」
+<name "Celes" "!AA3998">
+"Or so you thought!
+ Found a hidden door!♪"
 #
-<name "セリス" "!AA3999">
-「え？
-　罠っ！
-　そんなっ！」
+<name "Celes" "!AA3999">
+"Huh?
+ A trap!
+ Noooo!"
 #
-<name "セリス" "!AA4000">
-「きゃぁぁぁぁっ！」
+<name "Celes" "!AA4000">
+"Eeeek!"
 #
-<name "セリス" "!AA4001">
-「宝箱が一杯だ！
-　やった♪」
+<name "Celes" "!AA4001">
+"So many chests!
+ Hooray!♪"
 #
-<name "セリス" "!AA4002">
-「やった、宝箱だ」
+<name "Celes" "!AA4002">
+"Yay!
+ A treasure chest!"
 #
-<name "セリス" "!AA4003">
-「注意しながら開けて……」
+<name "Celes" "!AA4003">
+"Open it carefully..."
 #
-<name "セリス" "!AA4004">
-「アイテム、ゲット♪」
+<name "Celes" "!AA4004">
+"Item found!♪"
 #
 \x78

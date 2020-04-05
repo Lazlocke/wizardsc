@@ -25,60 +25,62 @@
 \x78
 :1C8
 <music 32>
-<name "セリス" "!AA2861">
-「どこに居るのかな……」
+<name "Celes" "!AA2861">
+"Where are they?"
 #
-　…………
+...
 #
-<name "セリス" "!AA2862">
-「あーれー、おたすけー♪」
+<name "Celes" "!AA2862">
+"Oh nooo.♪
+ Someone help.♪"
 #
-　…………
+.........
 #
-<name "セリス" "!AA2863">
-「もう、ラッ君たら♪
-　そんな事を言ってると、怒っちゃうぞ♪」
+<name "Celes" "!AA2863">
+"Geez, sir...♪
+ Are you trying to make me mad?♪"
 #
-　…………
+..................
 #
-<name "セリス" "!AA2864">
-「あん、先輩。
-　こんな所でだなんて……」
+<name "Celes" "!AA2864">
+"Ah, mister.
+ Not here..."
 #
-　…………
+...........................
 #
-<name "セリス" "!AA2865">
-「むう、引っ掛からないか……」
+<name "Celes" "!AA2865">
+"Grrr...
+ Nothing's biting?"
 #
 <exit>
 :331
 <music 32>
-<name "セリス" "!AA2866">
-「どこに居るのかな……」
+<name "Celes" "!AA2866">
+"Where are they?"
 #
-<name "セリス" "!AA2867">
-「あ、亀が苛められている！
-　助けなきゃ！」
+<name "Celes" "!AA2867">
+"Ah! Those turtles are being bullied!
+ I have to save them!"
 #
 <exit>
 :3AB
 <music 32>
-<name "セリス" "!AA2869">
-「こんな綺麗な海、魔物なんて……」
+<name "Celes" "!AA2869">
+"How are there monsters at such a pretty beach?"
 #
-<name "セリス" "!AA2870">
-「…………あ」
+<name "Celes" "!AA2870">
+"...Oh."
 #
-<name "セリス" "!AA2871">
-「え？」
+<name "Celes" "!AA2871">
+"Huh?"
 #
-<name "セリス" "!AA2872">
-「………………お、大きい」
+<name "Celes" "!AA2872">
+".........S-So big."
 #
 <exit>
 :45E
 <music 32>
-　魔物は見つからなかった。
+Celes didn't find any monsters.
 #
 <exit>
 \x78

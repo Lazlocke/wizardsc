@@ -14,46 +14,46 @@
 :CD
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「それで、一部を持って帰って来たと」
+<name "Lazlocke">
+"So you brought some of it back?"
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA2875">
-「はい。
-　これの小型のは、地元では食用として重宝されて
-　いるんですよ。
-　……はい、出来ましたよ」
+<name "Celes" "!AA2875">
+"Yeah. These small ones are good as a kind of
+ local food.
+ There, all done."
 #
-<name "ラズロック">
-「う、うーん」
+<name "Lazlocke">
+"U-Umm..."
 #
 <removesprite -1 11>
-　作られた料理を前に、しばらく睨む俺であった。
+I stared at it for quite a while.
 #
 <exit>
 :21D
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA2876">
-「やりました！」
+<name "Celes" "!AA2876">
+"I did it!"
 #
-<name "ラズロック">
-「よくやった！」
+<name "Lazlocke">
+"Well done!"
 #
 <removesprite -1 11>
-　俺はセリスを抱き抱えグルグルと回転する。
+I hug her and spin round and round.
 #
 <sprite "ta01c36.iph" 4 4 11>
-<name "セリス" "!AA2877">
-「か、歓迎の仕方が大げさです」
+<name "Celes" "!AA2877">
+"T-That's a rather dramatic way of welcoming me
+ back."
 #
-<name "ラズロック">
-「ダメか？」
+<name "Lazlocke">
+"You don't like it?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA2878">
-「い、いえ……あれはあれで楽しかったです」
+<name "Celes" "!AA2878">
+"N-No, it was fun."
 #
 <removesprite -1 11>
 <exit>
@@ -61,47 +61,49 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c42.iph" 4 4 11>
-<name "セリス" "!AA2879">
-「うわーん……負けましたぁ」
+<name "Celes" "!AA2879">
+"Waaaah...
+ I lost!"
 #
-<name "ラズロック">
-「よしよし。
-　大丈夫か」
+<name "Lazlocke">
+"There, there.
+ It'll be okay."
 #
 <sprite "ta01c37.iph" 4 4 12>
-<name "セリス" "!AA2880">
-「ヌルヌルしたんですー。
-　磯の臭いも酷かったしー」
+<name "Celes" "!AA2880">
+"I'm all slimy now.
+ The beach smelled so bad."
 #
-<name "ラズロック">
-「海の魔物だからな」
+<name "Lazlocke">
+"They are sea monsters, you know."
 #
 <sprite "ta01c41.iph" 4 4 12>
-<name "セリス" "!AA2881">
-「今度あったら、食べてやろうと思います」
+<name "Celes" "!AA2881">
+"Next time, I'm gonna eat them."
 #
-<name "ラズロック">
-「そうかそうか」
+<name "Lazlocke">
+"Uh huh."
 #
 <removesprite -1 11>
-　セリスを慰めながら、魔物を食べるのは嫌だなぁ
-　とか思った俺は、コッソリと退治しておいた。
+As I comforted her, the thought of eating monsters
+tormented me.
+I secretly went and exterminated them myself.
 #
 <exit>
 :5CF
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「それで、調査を忘れたと」
+<name "Lazlocke">
+"So... you forgot to investigate?"
 #
 <sprite "ta01c42.iph" 4 4 11>
-<name "セリス" "!AA2868">
-「す、すみません」
+<name "Celes" "!AA2868">
+"I-I'm sorry."
 #
 <removesprite -1 11>
-　そう謝るセリスの手には、小箱があった。
+There's a little box in her hands.
 #
-　なんなんだろう。
+...What's inside?
 #
 <exit>
 \x78

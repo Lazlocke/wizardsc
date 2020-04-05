@@ -3,9 +3,9 @@
 \x78
 :1F
 <music 24>
-<name "セリス" "!AA2882">
-「くっ……引き上げないと。
-　……悔しい」
+<name "Celes" "!AA2882">
+"Ngh... I need to run away.
+ ...So frustrating."
 #
 <exit>
 \x78

@@ -25,76 +25,80 @@
 \x78
 :1DB
 <music 32>
-<name "セリス" "!AA2818">
-「魔物、魔物……
-　魔物はどこかな～……」
+<name "Celes" "!AA2818">
+"Monsters... Monsters...
+ Where are you, monsters?"
 #
-<name "セリス" "!AA2819">
-「発見！」
+<name "Celes" "!AA2819">
+"Monsters found!"
 #
-<name "セリス" "!AA2820">
-「残念、見間違い！」
+<name "Celes" "!AA2820">
+"Oops!
+ My mistake!"
 #
-<name "セリス" "!AA2821">
-「発見！」
+<name "Celes" "!AA2821">
+"Monsters found!"
 #
-<name "セリス" "!AA2822">
-「残念、見間違い！」
+<name "Celes" "!AA2822">
+"Oops!
+ My mistake!"
 #
-　魔物は見つからなかった。
+She didn't find any monsters."
 #
 <exit>
 :2D7
 <music 32>
-<name "セリス" "!AA2823">
-「うーん……居ないなぁ……魔物、魔物……
-　そういえば、どんな姿をしているんだろう」
+<name "Celes" "!AA2823">
+"Hmmm... Nothing here...
+ Monsters, monsters...
+ Actually, I wonder what kind are here..."
 #
-<name "セリス" "!AA2824">
-「……居た！」
+<name "Celes" "!AA2824">
+"...Over there!"
 #
-<name "セリス" "!AA2825">
-「って、熊か……」
+<name "Celes" "!AA2825">
+"Huh? A bear?"
 #
-<name "セリス" "!AA2826">
-「熊？」
+<name "Celes" "!AA2826">
+"A bear?"
 #
-<name "セリス" "!AA2827">
-「えっと……
-　逃げた方が良いわよ」
+<name "Celes" "!AA2827">
+"Umm...
+ Maybe I should run."
 #
-<name "セリス" "!AA2828">
-「襲ってくるなら、反撃するから」
+<name "Celes" "!AA2828">
+"If I attack it, it'll fight back."
 #
-　熊は逃げ帰った。
+The bear ran away.
 #
-<name "セリス" "!AA2829">
-「魔物、魔物……」
+<name "Celes" "!AA2829">
+"Monsters...
+ Monsters..."
 #
-　魔物は見つからなかった。
+She didn't find any monsters.
 #
 <exit>
 :482
 <music 32>
-<name "セリス" "!AA2830">
-「変な雰囲気……
-　魔物がいるのかな……」
+<name "Celes" "!AA2830">
+"It feels weird...
+ Are there monsters here?"
 #
-<name "セリス" "!AA2831">
-「いるよね……この雰囲気」
+<name "Celes" "!AA2831">
+"I know this feeling..."
 #
-<name "セリス" "!AA2832">
-「それも、強い魔物が！」
+<name "Celes" "!AA2832">
+"And... it's a strong monster!"
 #
 <exit>
 :52A
 <music 32>
-<name "セリス" "!AA2833">
-「動物達の声がしない？
-　虫も……」
+<name "Celes" "!AA2833">
+"I don't hear any animals.
+ Or bugs..."
 #
-<name "セリス" "!AA2834">
-「って事は……それ以外がいるって事ね」
+<name "Celes" "!AA2834">
+"Which means... there's something else here."
 #
 <exit>
 \x78

@@ -23,283 +23,289 @@
 \x78
 :15D
 <background "bg016a0.iph" 11>
-<name "村人" "!SB0121">
-「おい、君。
-　ここは危ないよ。
-　早く帰った方が良い」
+<name "Villager" "!SB0121">
+"Hey, you.
+ It's dangerous here.
+ You should hurry home."
 #
-<name "村人" "!SB0122">
-「え？
-　あの迷宮に挑戦する？
-　……
-　一人でかい？」
+<name "Villager" "!SB0122">
+"Huh?
+ You want to challenge that labyrinth?
+ ...By yourself?"
 #
-<name "村人" "!SB0123">
-「そんな……死にに行くようなもんだ！
-　やめときなさい」
+<name "Villager" "!SB0123">
+"No way... 
+ That's like asking to die!
+ Just don't."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3957">
-「……心配してくれてありがとうございます。
-　でも、やらなければいけないんです」
+<name "Celes" "!AA3957">
+"Thank you for your concern, but I have to do it."
 #
 <removesprite -1 11>
 <exit>
 :2F0
 <background "bg016a0.iph" 11>
-<name "村人" "!SB0124">
-「おお、生きていたのかい。
-　とっくにやられてしまったと思っていたよ」
+<name "Villager" "!SB0124">
+"Oh, you're still alive?
+ I thought you'd been killed weeks ago."
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3958">
-「心配させて、すみません」
+<name "Celes" "!AA3958">
+"I'm sorry for worrying you."
 #
-<name "村人" "!SB0125">
-「いや、無事なら良いんだ。
-　これからまた入るのかい？」
+<name "Villager" "!SB0125">
+"No, I'm glad you're okay.
+ Are you going in again?"
 #
 <sprite "ta01c90.iph" 4 4 12>
-<name "セリス" "!AA3959">
-「はい」
+<name "Celes" "!AA3959">
+"Yes."
 #
-<name "村人" "!SB0126">
-「そうか……
-　止めても無駄だろうから、応援だけしているよ」
+<name "Villager" "!SB0126">
+"I see...
+ It's no use trying to stop you I guess, so I'll
+ cheer you on."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3960">
-「ありがとうございます。
-　頑張ります」
+<name "Celes" "!AA3960">
+"Thank you very much.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
 :4F6
 <background "bg016a0.iph" 11>
-<name "村人" "!SB0127">
-「頑張っているね。
-　良い品を持ち帰ったら、街で売ると良い。
-　高額で買い取ってくれるよ」
+<name "Villager" "!SB0127">
+"You're hard at work, huh?
+ If you bring back anything valuable, sell it in
+ tower. They'll pay you good money for it."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3961">
-「はい」
+<name "Celes" "!AA3961">
+"Okay."
 #
 <removesprite -1 11>
 <exit>
 :5C6
 <background "bg016a0.iph" 11>
-<name "剣士風の冒険者" "!UA0217">
-「へっ、あんな女が一人で挑んでるんだってよ」
+<name "Swordsman Adventurer" "!UA0217">
+"Oh? That woman's going in by herself."
 #
-<name "重戦士風の冒険者" "!TB0139">
-「そんなヌルい場所だと思われたら迷惑だな」
+<name "Barbarian Adventurer" "!TB0139">
+"It's be annoying if this place was that much of
+ a cakewalk."
 #
-<name "剣士風の冒険者" "!UA0218">
-「おう、ちょっと話しておくか」
+<name "Swordsman Adventurer" "!UA0218">
+"Yeah. Let's have a chat with her."
 #
-<name "重戦士風の冒険者" "!TB0140">
-「そうだな」
+<name "Barbarian Adventurer" "!TB0140">
+"All right."
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA3962">
-「なんですか？」
+<name "Celes" "!AA3962">
+"What is it?"
 #
-<name "剣士風の冒険者" "!UA0219">
-「すみません。
-　一緒に潜ってくれませんか！」
+<name "Swordsman Adventurer" "!UA0219">
+"Excuse us.
+ Can we go in with you?"
 #
-<name "重戦士風の冒険者" "!TB0141">
-「僕達、初心者なんです。
-　よろしくお願いします！」
+<name "Barbarian Adventurer" "!TB0141">
+"We're rookies.
+ Please and thank you!"
 #
 <removesprite -1 11>
 <exit>
 :7CC
 <background "bg016a0.iph" 11>
-<name "村人" "!SB0128">
-「頑張りなよ。
-　応援しているからさ」
+<name "Villager" "!SB0128">
+"Hard at work, huh?
+ I'm cheering for you."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA3963">
-「はい。
-　行ってきます」
+<name "Celes" "!AA3963">
+"Yep.
+ I'm off."
 #
 <removesprite -1 11>
 <exit>
 :87A
 <background "bg016a0.iph" 11>
-<name "村人" "!SB0129">
-「君か……
-　よく通うね」
+<name "Villager" "!SB0129">
+"You?
+ You've been going there a lot."
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3964">
-「ええ、良い修行場です」
+<name "Celes" "!AA3964">
+"Yes. It's good for training."
 #
-<name "村人" "!SB0130">
-「あはは……
-　一人で挑戦している人で、そんな事を言ったのは
-　君が始めてだよ」
+<name "Villager" "!SB0130">
+"Hahaha...
+ You're the first person to go in by yourself and
+ say that."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA3965">
-「他に一人で挑戦している人が居るんですか？」
+<name "Celes" "!AA3965">
+"Is there someone else who goes in by themself?"
 #
-<name "村人" "!SB0131">
-「んー……
-　考えてみれば、居ないな。
-　わはは……
-　まあ、頑張りなさい」
+<name "Villager" "!SB0131">
+"Hmm...
+ Now that I think about it, there aren't.
+ Hahahaha...
+ Well, good luck."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3966">
-「はい」
+<name "Celes" "!AA3966">
+"Yep."
 #
 <removesprite -1 11>
 <exit>
 :A80
 <background "bg016a0.iph" 11>
-<name "事情通の冒険者" "!RB0170">
-「あの迷宮には、炎の魔神と氷の魔神が住み着いて
-　いるって噂だ」
+<name "Knowledgable Adventurer" "!RB0170">
+"They say that labyrinth is home to ice and fire
+ devils."
 #
-<name "訳知りの冒険者" "!QB0144">
-「その二体を倒さなきゃ、攻略したとは言えないん
-　だろうなぁ」
+<name "Experienced Adventurer" "!QB0144">
+"Supposedly, if you don't beat both of them, you
+ can't say you've truly conquered the dungeon."
 #
-<name "事情通の冒険者" "!RB0171">
-「でも、噂だろ？」
+<name "Knowledgable Adventurer" "!RB0171">
+"But that's a rumor, right?"
 #
-<name "訳知りの冒険者" "!QB0145">
-「ああ、噂だ」
+<name "Experienced Adventurer" "!QB0145">
+"Yeah, just a rumor."
 #
 <exit>
 :BAE
 <background "bg016a0.iph" 11>
-<name "訳知りの冒険者" "!QB0146">
-「炎の魔神と氷の魔神の名前がわかったぞ。
-　ファイアクークーデンと、アイスクークーデンだ」
+<name "Experienced Adventurer" "!QB0146">
+"I found out what that fire and ice devil are
+ called.
+ A fire coocooden and an ice coocooden."
 #
-<name "事情通の冒険者" "!RB0172">
-「へー、どうやって調べたんだ？」
+<name "Knowledgable Adventurer" "!RB0172">
+"Oh? How'd you find that out?"
 #
-<name "訳知りの冒険者" "!QB0147">
-「本に書いてあった」
+<name "Experienced Adventurer" "!QB0147">
+"It was in a book."
 #
-<name "事情通の冒険者" "!RB0173">
-「へー……
-　そういや、前に誰かに聞かれたんだけど、あの迷
-　宮の名前は？」
+<name "Knowledgable Adventurer" "!RB0173">
+"Oh?
+ That reminds me, someone had asked me before, but
+ what was the name of the labyrinth?"
 #
-<name "訳知りの冒険者" "!QB0148">
-「調べたけど、わからなかった」
+<name "Experienced Adventurer" "!QB0148">
+"I looked it up, but I couldn't find out."
 #
-<name "事情通の冒険者" "!RB0174">
-「まあ、大地下迷宮で良いか」
+<name "Knowledgable Adventurer" "!RB0174">
+"Well, might as well just keep calling it the
+ Labyrinth."
 #
-<name "訳知りの冒険者" "!QB0149">
-「そうだな」
+<name "Experienced Adventurer" "!QB0149">
+"Yeah."
 #
 <exit>
 :DB9
 <background "bg016a0.iph" 11>
-<name "事情通の冒険者" "!RB0175">
-「炎の魔神ってのは、やっぱり炎を使うんだろうな」
+<name "Knowledgable Adventurer" "!RB0175">
+"The fire devil has to use fire, right?"
 #
-<name "訳知りの冒険者" "!QB0150">
-「そうだろう」
+<name "Experienced Adventurer" "!QB0150">
+"That's right."
 #
-<name "事情通の冒険者" "!RB0176">
-「火の魔法とか効かないよな」
+<name "Knowledgable Adventurer" "!RB0176">
+"So fire magic won't work."
 #
-<name "訳知りの冒険者" "!QB0151">
-「なんたって、炎の魔神だからな」
+<name "Experienced Adventurer" "!QB0151">
+"I mean, it's a fire devil."
 #
-<name "事情通の冒険者" "!RB0177">
-「じゃあ、弱点は水の魔法か？」
+<name "Knowledgable Adventurer" "!RB0177">
+"So its weakness is water magic?"
 #
-<name "訳知りの冒険者" "!QB0152">
-「いやいや、炎の魔神だよ。
-　水なんかに負ける筈が無いじゃないか」
+<name "Experienced Adventurer" "!QB0152">
+"No, no. It's a fire devil.
+ It's supposed to be able to fight against water."
 #
-<name "事情通の冒険者" "!RB0178">
-「本当か？」
+<name "Knowledgable Adventurer" "!RB0178">
+"Really?"
 #
-<name "訳知りの冒険者" "!QB0153">
-「いや、俺の勝手な思い込み」
+<name "Experienced Adventurer" "!QB0153">
+"No, that's just what I think."
 #
 <exit>
 :FC2
 <background "bg016a0.iph" 11>
-<name "訳知りの冒険者" "!QB0154">
-「氷の魔神ってのは、やっぱり氷を使うんだろうな」
+<name "Experienced Adventurer" "!QB0154">
+"So the ice devil uses ice?"
 #
-<name "事情通の冒険者" "!RB0179">
-「そうだろう」
+<name "Knowledgable Adventurer" "!RB0179">
+"Probably."
 #
-<name "訳知りの冒険者" "!QB0155">
-「水の魔法とか効かないよな」
+<name "Experienced Adventurer" "!QB0155">
+"So water magic won't work."
 #
-<name "事情通の冒険者" "!RB0180">
-「なんたって、氷の魔神だからな」
+<name "Knowledgable Adventurer" "!RB0180">
+"I mean, it is an ice devil."
 #
-<name "訳知りの冒険者" "!QB0156">
-「じゃあ、弱点は火の魔法か？」
+<name "Experienced Adventurer" "!QB0156">
+"So its weakness is fire magic?"
 #
-<name "事情通の冒険者" "!RB0181">
-「いやいや、氷の魔神だよ。
-　炎なんかに負ける筈が無いじゃないか」
+<name "Knowledgable Adventurer" "!RB0181">
+"No, no. It's an ice devil.
+ It's supposed to be able to fight against fire."
 #
-<name "訳知りの冒険者" "!QB0157">
-「本当か？」
+<name "Experienced Adventurer" "!QB0157">
+"Really?"
 #
-<name "事情通の冒険者" "!RB0182">
-「いや、俺の勝手な思い込み」
+<name "Knowledgable Adventurer" "!RB0182">
+"No, that's just what I think."
 #
 <exit>
 :11CB
 <background "bg016a0.iph" 11>
-<name "事情通の冒険者" "!RB0183">
-「炎の魔神と氷の魔神以外にも、強い魔物が居るら
-　しいぞ」
+<name "Knowledgable Adventurer" "!RB0183">
+"Apparently there are some strong monsters besides
+ the fire and ice devils."
 #
-<name "訳知りの冒険者" "!QB0158">
-「そうなのか？」
+<name "Experienced Adventurer" "!QB0158">
+"Really?"
 #
-<name "事情通の冒険者" "!RB0184">
-「ああ、なんでも巨大な粘体生物らしい」
+<name "Knowledgable Adventurer" "!RB0184">
+"Yeah. It's all huge slimy things."
 #
-<name "訳知りの冒険者" "!QB0159">
-「巨大な粘体生物……響きがエロいな」
+<name "Experienced Adventurer" "!QB0159">
+"Huge slimy things?
+ Sounds kind of sexy."
 #
-<name "事情通の冒険者" "!RB0187">
-「ああ」
+<name "Knowledgable Adventurer" "!RB0187">
+"Yeah."
 #
-<name "訳知りの冒険者" "!QB0160">
-「女戦士が巨大な粘体生物に捕えられた！」
+<name "Experienced Adventurer" "!QB0160">
+"A woman warrior is trapped in a big slime!"
 #
-<name "事情通の冒険者" "!RB0188">
-「うおっ、エロい！」
+<name "Knowledgable Adventurer" "!RB0188">
+"Ooh! Sexy!"
 #
-<name "訳知りの冒険者" "!QB0161">
-「女魔法使いが巨大な粘体生物の触手に！」
+<name "Experienced Adventurer" "!QB0161">
+"A woman wizard is in the tentacles of a big
+ slime!"
 #
-<name "事情通の冒険者" "!RB0189">
-「おおっ、鼻血がっ！」
+<name "Knowledgable Adventurer" "!RB0189">
+"Ooh!
+ My nose is bleeding!"
 #
-<name "訳知りの冒険者" "!QB0162">
-「見たいな」
+<name "Experienced Adventurer" "!QB0162">
+"I want to see it."
 #
-<name "事情通の冒険者" "!RB0190">
-「見たいが……俺達、そんな奥まで行けないぞ」
+<name "Knowledgable Adventurer" "!RB0190">
+"Me too... but we can't go that deep."
 #
-<name "訳知りの冒険者" "!QB0163">
-「強くなろうぜ」
+<name "Experienced Adventurer" "!QB0163">
+"Let's get stronger."
 #
-<name "事情通の冒険者" "!RB0191">
-「……おう！」
+<name "Knowledgable Adventurer" "!RB0191">
+"...Yeah!"
 #
 <exit>
 \x78

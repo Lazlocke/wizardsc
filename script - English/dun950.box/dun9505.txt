@@ -3,9 +3,9 @@
 \x78
 :D
 <music 23>
-<name "セリス" "!AA2838">
-「やった！
-　大勝利♪」
+<name "Celes" "!AA2838">
+"I did it!
+ Victory!♪"
 #
 <exit>
 \x78
