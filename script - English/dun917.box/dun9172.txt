@@ -200,74 +200,78 @@
 \x78
 :CB7
 <exit>
-<name "セリス" "!AA4052">
-「流石、魔王の城。
-　強敵が多い……」
+<name "Celes" "!AA4052">
+"The castle of the Overlod is exactly how I
+ expected. It's full of strong enemies."
 #
-<name "セリス" "!AA4053">
-「強そうだけど……邪魔するなら叩きのめす」
+<name "Celes" "!AA4053">
+"That looks strong but if it gets in my way, I'll
+ beat it."
 #
-<name "セリス" "!AA4054">
-「強敵ね……」
+<name "Celes" "!AA4054">
+"A powerful enemy..."
 #
-<name "セリス" "!AA4055">
-「罠っ！」
+<name "Celes" "!AA4055">
+"A trap!"
 #
-<name "セリス" "!AA4056">
-「魔王の城、一筋縄じゃいかないわね」
+<name "Celes" "!AA4056">
+"The castle of the Overlord is tricky."
 #
-<name "セリス" "!AA4057">
-「罠？
-　……この程度なら」
+<name "Celes" "!AA4057">
+"A trap?
+ Is that all they've got?"
 #
-<name "セリス" "!AA4058">
-「うわっ、きゃぁぁぁぁぁっ……」
+<name "Celes" "!AA4058">
+"Whoa!
+ Eeeeeek!"
 #
-<name "セリス" "!AA4059">
-「宝箱。
-　魔王の城なら、良い物があるかな」
+<name "Celes" "!AA4059">
+"A chest?
+ Since this is the castle of the Overlord, will
+ it be something good?"
 #
-<name "セリス" "!AA4060">
-「ずいぶんとあるわね……」
+<name "Celes" "!AA4060">
+"There's so many..."
 #
-<name "セリス" "!AA4061">
-「当たりがあれば良いけど」
+<name "Celes" "!AA4061">
+"This should be something good."
 #
-<name "セリス" "!AA4062">
-「とりあえず、全部オープン！」
+<name "Celes" "!AA4062">
+"Anyway, open them all!"
 #
-<name "セリス" "!AA4063">
-「そう言えば、他に冒険者とか居ないのかな？」
+<name "Celes" "!AA4063">
+"Wait a second, aren't there any other
+ adventurers?"
 #
-<name "セリス" "!AA4064">
-「うーん、居なさそう」
+<name "Celes" "!AA4064">
+"Hmm. Guess not."
 #
-<name "セリス" "!AA4065">
-「そろそろ、魔王が出ても良いと思うんだけど……」
+<name "Celes" "!AA4065">
+"I think I should reach the Overlord soon."
 #
-<name "セリス" "!AA4067">
-「……まだまだみたいね」
+<name "Celes" "!AA4067">
+"...Looks like there's still a bit to go."
 #
-<name "セリス" "!AA4068">
-「かなり奥まで来たと思うけど……」
+<name "Celes" "!AA4068">
+"I think I've come pretty far..."
 #
-<name "セリス" "!AA4069">
-「まだ魔王には会えないみたいね」
+<name "Celes" "!AA4069">
+"Looks like I can't see the Overlord yet."
 #
-<name "セリス" "!AA4070">
-「ふう……もう一息かな。
-　頑張ろう」
+<name "Celes" "!AA4070">
+"Whew... More to go?
+ Gotta do my best."
 #
-<name "セリス" "!AA4071">
-「強そうな雰囲気……」
+<name "Celes" "!AA4071">
+"The air's getting thick..."
 #
-<name "セリス" "!AA4072">
-「多分、魔王かな……」
+<name "Celes" "!AA4072">
+"Could it be the Overlord?"
 #
-<name "セリス" "!AA4073">
-「じゃぁ……」
+<name "Celes" "!AA4073">
+"Then..."
 #
-<name "セリス" "!AA4074">
-「勝負よ！」
+<name "Celes" "!AA4074">
+"It's a challenge!"
 #
 \x78

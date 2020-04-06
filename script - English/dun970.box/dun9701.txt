@@ -18,132 +18,132 @@
 :103
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「戦地に行くか」
+<name "Lazlocke">
+"You're going to the war?"
 #
 <sprite "ta01c19.iph" 4 4 11>
-<name "セリス" "!AA3138">
-「はい」
+<name "Celes" "!AA3138">
+"Yes."
 #
-<name "ラズロック">
-「止めても聞かないだろうから、これだけは言って
-　おく」
+<name "Lazlocke">
+"You won't listen if I tell you not to, so I'll
+ just say this."
 #
-<name "ラズロック">
-「危なくなったら、恥を捨てて逃げろ。
-　そして、自分の事だけを考えろ。
-　他人を助けようと思うな」
+<name "Lazlocke">
+"If you're in danger, throw away your shame and
+ run. Only think about yourself.
+ Don't try to save other people."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA3139">
-「え……」
+<name "Celes" "!AA3139">
+"Huh?"
 #
-<name "ラズロック">
-「お前には、目的がある。
-　忘れるな」
+<name "Lazlocke">
+"You have something you're living for.
+ Never forget that."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA3140">
-「……はい。
-　わかりました」
+<name "Celes" "!AA3140">
+"...Yes, sir.
+ I understand."
 #
 <removesprite -1 11>
 <music 32>
 <background "bg017a0.iph" 11>
-<name "指揮官" "!TB0089">
-「魔法使いども！
-　用意は良いか！」
+<name "Commander" "!TB0089">
+"Wizards!
+ Are you ready!?"
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3147">
-「はい！」
+<name "Celes" "!AA3147">
+"Yes, sir!"
 #
 <removesprite -1 11>
-<name "指揮官" "!TB0090">
-「よし、詠唱開始！
-　目標前方、敵部隊！」
+<name "Commander" "!TB0090">
+"Okay, start casting!
+ The target are the enemies ahead of us!"
 #
 <exit>
 :3FC
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3141">
-「頑張ってきます」
+<name "Celes" "!AA3141">
+"I'll do my best."
 #
-<name "ラズロック">
-「油断するなよ」
+<name "Lazlocke">
+"Don't be careless."
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3142">
-「はい。
-　大丈夫です」
+<name "Celes" "!AA3142">
+"Yes, sir.
+ I'll be okay."
 #
 <removesprite -1 11>
 <music 32>
 <background "bg017a0.iph" 11>
-<name "指揮官" "!TB0100">
-「敵だな」
+<name "Commander" "!TB0100">
+"It's the enemy."
 #
-<name "兵" "!QB0139">
-「はい、敵です」
+<name "Soldier" "!QB0139">
+"Yes, sir. The enemy."
 #
-<name "指揮官" "!TB0101">
-「ど、どうしよう？」
+<name "Commander" "!TB0101">
+"W-What should we do?"
 #
-<name "兵" "!QB0140">
-「そりゃ、戦うしかないのでは？」
+<name "Soldier" "!QB0140">
+"I think we have to fight?"
 #
-<name "指揮官" "!TB0102">
-「だよなぁ」
+<name "Commander" "!TB0102">
+"I guess."
 #
 <exit>
 :5B7
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「魔法使いの部隊は後方に配置されるのが常だから、
-　一安心だが……」
+<name "Lazlocke">
+"The wizard forces are usually deployed in the
+ rear, so I shouldn't worry, but..."
 #
 <sprite "ta01c27.iph" 4 4 11>
-<name "セリス" "!AA3143">
-「狙われるとすれば、私達からなんですよね」
+<name "Celes" "!AA3143">
+"We're a prime target, right?"
 #
-<name "ラズロック">
-「そうだ。
-　少しでも魔法を知っているヤツが相手の陣営にい
-　れば、確実に狙ってくる。
-　油断するな」
+<name "Lazlocke">
+"That's right.
+ If anybody on the other side knows even a little
+ magic, they'll be aiming for us.
+ Don't be careless."
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA3144">
-「はい」
+<name "Celes" "!AA3144">
+"Yes, sir."
 #
 <removesprite -1 11>
 <music 32>
 <background "bg017a0.iph" 11>
-<name "指揮官" "!TB0093">
-「進軍、急げっ！
-　敵は目の前だぞ！」
+<name "Commander" "!TB0093">
+"Advance! Hurry!
+ The enemy is before us!"
 #
-<name "魔法使い" "!UA0125">
-「は、はい！」
+<name "Wizard" "!UA0125">
+"Y-Yes, sir!"
 #
-<name "兵" "!QB0136">
-「うわぁぁっ、奇襲です！
-　側面からやられました！」
+<name "Soldier" "!QB0136">
+"Aah! Ambush!
+ From the sides!"
 #
-<name "指揮官" "!TB0094">
-「くっ！
-　なにやっとるか！」
+<name "Commander" "!TB0094">
+"Urgh!
+ What are you doing!?"
 #
-<name "セリス" "!AA3148">
-「隊長、ここは私が抑えます！
-　その間に態勢を整えてください！」
+<name "Celes" "!AA3148">
+"Commander, I'll hold them down here!
+ Get everyone else ready while I buy time!"
 #
-<name "指揮官" "!TB0095">
-「……わかった。
-　頼むぞ！」
+<name "Commander" "!TB0095">
+"...All right!
+ I'm counting on you!"
 #
 <exit>
 :8D5
@@ -151,102 +151,104 @@
 <music 10>
 <background "bg017a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA3145">
-「戦場では、自分の身は自分で守らないと……」
+<name "Celes" "!AA3145">
+"On the battlefield, you need to protect
+ yourself."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA3146">
-「……とりあえず、食糧確保かな。
-　配給分だけじゃ足りないし」
+<name "Celes" "!AA3146">
+"...Which means, I need food.
+ These rations aren't enough."
 #
 <removesprite -1 11>
 <exit>
 :9DA
 <background "bg017a0.iph" 11>
-<name "指揮官" "!TB0105">
-「敵襲だと！？」
+<name "Commander" "!TB0105">
+"An enemy attack!?"
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3154">
-「ここは私が抑えます。
-　他の人は下がって態勢を整えてください」
+<name "Celes" "!AA3154">
+"I'll handle things here.
+ The others should withdraw and prepare to counter
+ attack."
 #
-<name "指揮官" "!TB0106">
-「……わかった。
-　頼んだぞ」
+<name "Commander" "!TB0106">
+"...Okay.
+ I'm counting on you."
 #
 <removesprite -1 11>
 <exit>
 :ACE
 <music 32>
 <background "bg017a0.iph" 11>
-<name "指揮官" "!TB0091">
-「敵が目の前に居る！
-　さあ、どうする！」
+<name "Commander" "!TB0091">
+"The enemy is before us!
+ Okay, now what!?"
 #
-<name "兵" "!QB0135">
-「魔法をぶっぱなす！」
+<name "Soldier" "!QB0135">
+"Fire the magic!"
 #
-<name "指揮官" "!TB0092">
-「そうだ！
-　やれぇ！」
+<name "Commander" "!TB0092">
+"That's right!
+ Take this!"
 #
 <exit>
 :B83
 <music 32>
 <background "bg017a0.iph" 11>
-<name "兵" "!QB0137">
-「て、敵が正面を突破しました！
-　ここまで来ます！」
+<name "Soldier" "!QB0137">
+"T-The enemy's broken through the front line!
+ They're coming this way!"
 #
-<name "指揮官" "!TB0096">
-「くっ……
-　魔法使いを最前線に晒すわけにはいかん。
-　引き上げる時間を稼げ！」
+<name "Commander" "!TB0096">
+"Urgh...
+ We can't let the wizards be exposed.
+ Buy us time to retreat!"
 #
-<name "兵" "!QB0138">
-「で、ですが……」
+<name "Soldier" "!QB0138">
+"B-But..."
 #
-<name "セリス" "!AA3149">
-「私が抑えます。
-　その間に引き上げを」
+<name "Celes" "!AA3149">
+"I can hold them back.
+ Take the time to retreat."
 #
-<name "指揮官" "!TB0098">
-「……出来るのか？」
+<name "Commander" "!TB0098">
+"...Can you do it?"
 #
-<name "セリス" "!AA3150">
-「出来ない事は言いません」
+<name "Celes" "!AA3150">
+"I wouldn't have said anything if I couldn't."
 #
-<name "指揮官" "!TB0099">
-「よし。
-　死ぬなよ」
+<name "Commander" "!TB0099">
+"Okay.
+ Don't die."
 #
-<name "セリス" "!AA3151">
-「はい！」
+<name "Celes" "!AA3151">
+"Yes, sir!"
 #
 <exit>
 :D59
 <music 32>
 <background "bg017a0.iph" 11>
-<name "指揮官" "!TB0103">
-「戦闘開始！
-　みんな、がんばれー！」
+<name "Commander" "!TB0103">
+"Begin combat!
+ Good luck, everyone!"
 #
-<name "兵" "!RB0146">
-「はい！」
+<name "Soldier" "!RB0146">
+"Yes, sir!"
 #
-<name "指揮官" "!TB0104">
-「怪我とかするなよー」
+<name "Commander" "!TB0104">
+"Don't get hurt!"
 #
-<name "兵" "!RB0147">
-「あはは……」
+<name "Soldier" "!RB0147">
+"Hahaha..."
 #
-<name "ベテラン兵" "!QB0141">
-「リ、リラックスさせる為に言ってるんだよな。
-　きっと」
+<name "Veteran Soldier" "!QB0141">
+"H-He's just saying it to try to get you to relax.
+ I hope."
 #
-<name "兵" "!RB0148">
-「いえ、あれは本気じゃないかと」
+<name "Soldier" "!RB0148">
+"No, he may actually be serious."
 #
 <exit>
 \x78

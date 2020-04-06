@@ -22,319 +22,326 @@
 :13F
 <music 2>
 <background "bg020a0.iph" 11>
-<name "村娘" "!KA0059">
-「魔王の城の場所ですか？
-　ここからさらに北に向かった所にありますが……
-　まさか、行かれるんですか？」
+<name "Village Girl" "!KA0059">
+"Where the Overlord's castle is?
+ It's farther from here.
+ Wait, are you going there?"
 #
-<name "村娘" "!KA0060">
-「そんな……
-　止めてください。
-　一人でなんて、死にに行くようなものです」
+<name "Village Girl" "!KA0060">
+"No way.
+ You should turn back.
+ Going alone is like begging to die."
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA4024">
-「そんなに危ないのですか？」
+<name "Celes" "!AA4024">
+"Is it that dangerous?"
 #
-<name "村娘" "!KA0061">
-「ええ、城が見えない場所では被害はありませんが、
-　城の見える場所には魔物がたくさんいます」
+<name "Village Girl" "!KA0061">
+"Yeah. You're safe as long as you can't see the
+ castle, but once you can, there'll be monsters
+ everywhere."
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA4025">
-「たくさんですか」
+<name "Celes" "!AA4025">
+"There's a lot, huh?"
 #
-<name "村娘" "!KA0062">
-「この辺りの人は、誰も城が見える場所には近付き
-　ません」
+<name "Village Girl" "!KA0062">
+"Nobody around here ever goes close enough to see
+ the castle."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA4026">
-「そうですか。
-　親切にありがとうございます」
+<name "Celes" "!AA4026">
+"I see.
+ Thank you for your kindness."
 #
-<name "村娘" "!KA0063">
-「行くのを止めるのですね。
-　良かった」
+<name "Village Girl" "!KA0063">
+"You're not going then?
+ Thank goodness."
 #
 <sprite "ta01c20.iph" 4 4 12>
-<name "セリス" "!AA4027">
-「いえ、行きます。
-　私は強くならないといけないのです」
+<name "Celes" "!AA4027">
+"No, I am.
+ I have get stronger."
 #
-<name "村娘" "!KA0064">
-「そんな……」
+<name "Village Girl" "!KA0064">
+"No way..."
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA4028">
-「大丈夫です。
-　負けません」
+<name "Celes" "!AA4028">
+"I'll be okay.
+ I won't lose."
 #
 <removesprite -1 11>
 <exit>
 :526
 <music 2>
 <background "bg020a0.iph" 11>
-<name "噂する軍人" "!SB0133">
-「聞いたか？
-　一人で魔王の城に挑戦しているヤツがいるらしい
-　ぞ」
+<name "Gossipy Soldier" "!SB0133">
+"Have you heard?
+ Apparently there's someone going into the
+ Overlord's castle by themself."
 #
-<name "相槌を打つ軍人" "!TB0143">
-「おおっ！
-　それは我がベオル王国軍の誇る英雄、ダランドン
-　様か！」
+<name "Agreeable Soldier" "!TB0143">
+"Oooh!
+ Is that the hero of Beol, Sir Darandon?"
 #
-<name "噂する軍人" "!SB0134">
-「いや、残念ながらダランドン様は魔王の城が出た
-　と同時に腹痛で寝込んでいる。
-　残念だ」
+<name "Gossipy Soldier" "!SB0134">
+"No, unfortunately Darandon was asleep with a
+ tummy ache when they went to the castle.
+ It's too bad."
 #
-<name "相槌を打つ軍人" "!TB0144">
-「ダランドン様さえ居れば、我が軍が負ける事など
-　なかったのに！」
+<name "Agreeable Soldier" "!TB0144">
+"If we had Sir Darandon with us, our army would
+ never be defeated!"
 #
-<name "噂する軍人" "!SB0135">
-「その通りだ！
-　こうなったら、ダランドン様に早く腹を直して貰
-　おう」
+<name "Gossipy Soldier" "!SB0135">
+"That's right!
+ So we should hope he gets over his tummy ache as
+ soon as possible!"
 #
-<name "相槌を打つ軍人" "!TB0145">
-「おう！
-　……ところで、ダランドン様じゃないなら、誰が
-　一人で魔王の城に挑んでいるんだ？」
+<name "Agreeable Soldier" "!TB0145">
+"Yeah!
+ ...Wait, if it's not Sir Darandon, then who's
+ going to the Overlord's castle by themself?"
 #
-<name "噂する軍人" "!SB0136">
-「さあ？
-　噂だからな」
+<name "Gossipy Soldier" "!SB0136">
+"Who knows?
+ It's just a rumor."
 #
 <exit>
 :7F5
 <music 2>
 <background "bg020a0.iph" 11>
-<name "相槌を打つ軍人" "!TB0146">
-「あの女が一人で挑戦しているのか……」
+<name "Agreeable Soldier" "!TB0146">
+"Is that woman going in alone?"
 #
-<name "噂する軍人" "!SB0137">
-「そうらしい……」
+<name "Gossipy Soldier" "!SB0137">
+"Seems like it."
 #
-<name "相槌を打つ軍人" "!TB0147">
-「ひょっとして、我がベオル王国軍の誇る英雄、ダ
-　ランドン様の隠し子とか？」
+<name "Agreeable Soldier" "!TB0147">
+"Perhaps she's the secret daughter of Sir
+ Darandon, the hero of Beol."
 #
-<name "噂する軍人" "!SB0138">
-「おお！
-　そうかもしれん！」
+<name "Gossipy Soldier" "!SB0138">
+"Ooh!
+ You could be right!"
 #
-<name "相槌を打つ軍人" "!TB0148">
-「よし、応援だ！」
+<name "Agreeable Soldier" "!TB0148">
+"Okay!
+ Let's support her!"
 #
-<name "噂する軍人" "!SB0139">
-「おう！
-　がんばれー！」
+<name "Gossipy Soldier" "!SB0139">
+"Yeah!
+ You can do it!"
 #
 <exit>
 :98B
 <music 2>
 <background "bg020a0.iph" 11>
-<name "噂する軍人" "!SB0140">
-「一人で魔王の城に挑んでいるあの女。
-　どうも我がベオル王国軍の誇る英雄、ダランドン
-　様の隠し子では無いらしい」
+<name "Gossipy Soldier" "!SB0140">
+"That woman is going into the castle of the 
+ Overlord by herself.
+ Apparently she's not the hero of Beol, Sir
+ Darandon's secret child."
 #
-<name "相槌を打つ軍人" "!TB0149">
-「そうなのか？」
+<name "Agreeable Soldier" "!TB0149">
+"Really?"
 #
-<name "噂する軍人" "!SB0141">
-「うむ。
-　考えてみれば、ダランドン様は女の人と話すだけ
-　で声が上擦るシャイな人だからな」
+<name "Gossipy Soldier" "!SB0141">
+"Mmhmm. When you think about it, Sir Darandon is
+ a shy man whose voice trembles just from speaking
+ to women."
 #
-<name "相槌を打つ軍人" "!TB0150">
-「隠し子などできんか……」
+<name "Agreeable Soldier" "!TB0150">
+"So he doesn't have any secret children..."
 #
-<name "噂する軍人" "!SB0142">
-「嫁もできんし……」
+<name "Gossipy Soldier" "!SB0142">
+"Or get married..."
 #
-<name "相槌を打つ軍人" "!TB0151">
-「まあ、ダランドン様は置いておいて……
-　応援だ！」
+<name "Agreeable Soldier" "!TB0151">
+"Well, setting him aside...
+ Let's cheer for her!"
 #
-<name "噂する軍人" "!SB0143">
-「おう！
-　がんばれー！」
+<name "Gossipy Soldier" "!SB0143">
+"Yeah!
+ You can do it!"
 #
 <exit>
 :BCA
 <music 2>
 <background "bg020a0.iph" 11>
-<name "噂する軍人" "!SB0145">
-「我がベオル王国軍の誇る英雄、ダランドン様の様
-　子はどうだ？
-　腹はまだ治らんのか？」
+<name "Gossipy Soldier" "!SB0145">
+"How's the hero of Beol, Sir Darandon?
+ Is he over his stomach ache?"
 #
-<name "相槌を打つ軍人" "!TB0152">
-「うむ、かなり危ないらしい」
+<name "Agreeable Soldier" "!TB0152">
+"Hmm...
+ It sounded pretty bad."
 #
-<name "噂する軍人" "!SB0146">
-「そうか……
-　ではやはり、ここはあの女に頼るしかないのか」
+<name "Gossipy Soldier" "!SB0146">
+"I see...
+ Then is all we can do rely on that woman?"
 #
-<name "相槌を打つ軍人" "!TB0153">
-「そうだな。
-　なに、我がベオル王国軍の誇る英雄、ダランドン
-　様の代役となれば、栄誉な事だろう」
+<name "Agreeable Soldier" "!TB0153">
+"Seems like it.
+ What an honor for her to be the substitute for
+ Sir Darandon, the hero of Beol."
 #
-<name "噂する軍人" "!SB0147">
-「うむ。
-　ガンバレー！」
+<name "Gossipy Soldier" "!SB0147">
+"Mmhmm.
+ You can do it!"
 #
 <exit>
 :DA3
 <music 2>
 <background "bg020a0.iph" 11>
-<name "噂する軍人" "!SB0148">
-「一人で魔王の城に挑んでいるあの女の詳細がわかっ
-　たぞ」
+<name "Gossipy Soldier" "!SB0148">
+"I found out all about that woman who's been going
+ to the Overlord's castle by herself."
 #
-<name "相槌を打つ軍人" "!TB0154">
-「おう、聞かせてくれ」
+<name "Agreeable Soldier" "!TB0154">
+"Oh. Tell me."
 #
-<name "噂する軍人" "!SB0149">
-「名前はセリス。
-　クインズベル王国の魔法使いらしい」
+<name "Gossipy Soldier" "!SB0149">
+"Her name is Celes.
+ Apparently she's a wizard from Queensbell."
 #
-<name "相槌を打つ軍人" "!TB0155">
-「クインズベル王国から来て、魔王の城に挑戦して
-　いるのか……凄いな」
+<name "Agreeable Soldier" "!TB0155">
+"She came from Queensbell to challenge the
+ Overlord's castle?
+ Wow."
 #
-<name "噂する軍人" "!SB0150">
-「ああ、凄いな」
+<name "Gossipy Soldier" "!SB0150">
+"Yeah, she's amazing."
 #
-<name "相槌を打つ軍人" "!TB0156">
-「しかし、我がベオル王国軍の誇る英雄、ダランド
-　ン様には及ばないだろう」
+<name "Agreeable Soldier" "!TB0156">
+"But she's no match for the hero of Beol, Sir
+ Darandon."
 #
-<name "噂する軍人" "!SB0151">
-「うむ。
-　ここは一つ、広い心で応援してやろう」
+<name "Gossipy Soldier" "!SB0151">
+"Mmhmm.
+ Let's magnanimously cheer for her."
 #
-<name "相槌を打つ軍人" "!TB0157">
-「おう！
-　がんばれー！」
+<name "Agreeable Soldier" "!TB0157">
+"Yeah!
+ You can do it!"
 #
 <exit>
 :1016
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA4029">
-「師匠。
-　魔王の城に行ってきます」
+<name "Celes" "!AA4029">
+"Master, I'm going to the castle of the Overlord."
 #
-<name "ラズロック">
-「おう、頑張れ」
+<name "Lazlocke">
+"Okay.
+ Good luck."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA4030">
-「その前に、聞きたいのですが……」
+<name "Celes" "!AA4030">
+"But first, I wanted to ask something."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What is it?"
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA4031">
-「ベオル王国軍の誇る英雄、ダランドン様ってどん
-　な人ですか？」
+<name "Celes" "!AA4031">
+"What kind of person is the hero of Beol, Sir
+ Darandon?"
 #
-<name "ラズロック">
-「ダランドン？
-　ああ、強い剣士だ。
-　有名人だぞ」
+<name "Lazlocke">
+"Darandon?
+ Oh, he's a strong fighter.
+ Kind of a celebrity."
 #
 <sprite "ta01c89.iph" 4 4 12>
-<name "セリス" "!AA4032">
-「そ、そうですよね」
+<name "Celes" "!AA4032">
+"I-I see."
 #
-<name "ラズロック">
-「どうしたんだ？」
+<name "Lazlocke">
+"Why do you ask?"
 #
 <sprite "ta01c07.iph" 4 4 12>
-<name "セリス" "!AA4033">
-「いえ、魔王の城に行く途中でよく耳にするので」
+<name "Celes" "!AA4033">
+"No reason. I just hear about him a lot on the
+ way to the castle."
 #
-<name "ラズロック">
-「だろうな……
-　そういえば、なんであの男が居るのに、魔王の城
-　の討伐に失敗したんだ？」
+<name "Lazlocke">
+"I guess so...
+ Speaking of which, why weren't you able to beat
+ the castle if he was there?"
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "セリス" "!AA4034">
-「なんでも腹痛とか……」
+<name "Celes" "!AA4034">
+"Sounds like he had a stomach ache?"
 #
-<name "ラズロック">
-「そういえば、プレッシャーに弱かったな」
+<name "Lazlocke">
+"Come to think of it, he doesn't handle pressure
+ well."
 #
 <sprite "ta01c05.iph" 4 4 12>
-<name "セリス" "!AA4035">
-「……それで、英雄ですか」
+<name "Celes" "!AA4035">
+"...But he's still a hero?"
 #
-<name "ラズロック">
-「剣の腕は一流なんだ。
-　本当に」
+<name "Lazlocke">
+"He's a top class swordsman.
+ Really."
 #
 <removesprite -1 11>
 <exit>
 :1437
 <music 2>
 <background "bg020a0.iph" 11>
-<name "村娘" "!KA0065">
-「さ、差し入れです。
-　頑張ってください」
+<name "Village Girl" "!KA0065">
+"S-Supplies for you.
+ Good luck."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA4036">
-「ありがとう」
+<name "Celes" "!AA4036">
+"Thank you."
 #
 <removesprite -1 11>
 <exit>
 :14E3
 <music 2>
 <background "bg020a0.iph" 11>
-<name "村娘" "!KA0066">
-「頑張ってくださいね」
+<name "Village Girl" "!KA0066">
+"Good luck."
 #
 <sprite "ta01c15.iph" 4 4 11>
-<name "セリス" "!AA4037">
-「はい」
+<name "Celes" "!AA4037">
+"Yep."
 #
 <removesprite -1 11>
 <exit>
 :1574
 <music 2>
 <background "bg020a0.iph" 11>
-<name "村娘" "!KA0067">
-「頑張ってくださいね」
+<name "Village Girl" "!KA0067">
+"Good luck."
 #
 <sprite "ta01c06.iph" 4 4 11>
-<name "セリス" "!AA4038">
-「ええ、その前に聞いて良いかな？」
+<name "Celes" "!AA4038">
+"Yes.
+ Can I ask you something?"
 #
-<name "村娘" "!KA0068">
-「なんですか？」
+<name "Village Girl" "!KA0068">
+"What is it?"
 #
 <sprite "ta01c08.iph" 4 4 12>
-<name "セリス" "!AA4039">
-「ギャラリーが集まっているんだけど、これは？」
+<name "Celes" "!AA4039">
+"What's with all the people here?"
 #
-<name "村娘" "!KA0069">
-「応援団です。
-　頑張ってください」
+<name "Village Girl" "!KA0069">
+"It's your cheer squad.
+ Good luck!"
 #
 <sprite "ta01c92.iph" 4 4 12>
-<name "セリス" "!AA4040">
-「は、はぁ……
-　応援団……女の人ばかり……複雑な感じがする」
+<name "Celes" "!AA4040">
+"U-Um...
+ This group is... only women...
+ I'm not sure how to feel about that..."
 #
 <removesprite -1 11>
 <exit>

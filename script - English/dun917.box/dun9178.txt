@@ -7,16 +7,16 @@
 <music 10>
 <background "bg003a0.iph" 11>
 <sprite "ta01c27.iph" 4 4 11>
-<name "セリス" "!AA4049">
-「どこかで慢心してたのかな……」
+<name "Celes" "!AA4049">
+"Did I get overconfident?"
 #
-<name "セリス" "!AA4050">
-「反省。
-　そして、新たに決意！」
+<name "Celes" "!AA4050">
+"I know better now.
+ And I'm full of all new determination!"
 #
 <sprite "ta01c21.iph" 4 4 12>
-<name "セリス" "!AA4051">
-「魔王の城を絶対に攻略する！」
+<name "Celes" "!AA4051">
+"I will defeat the castle of the Overlord!"
 #
 <removesprite -1 11>
 <exit>
@@ -24,48 +24,48 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c42.iph" 4 4 11>
-<name "セリス" "!AA4078">
-「つ、疲れました……」
+<name "Celes" "!AA4078">
+"I-I'm so tired..."
 #
-<name "ラズロック">
-「ベオル王国はお前にダランドン賞を授与するらし
-　いぞ」
-#
-<sprite "ta01c32.iph" 4 4 12>
-<name "セリス" "!AA4079">
-「ダランドン賞？」
-#
-<name "ラズロック">
-「英雄ダランドンに匹敵する者に贈られる名誉ある
-　賞らしいぞ。
-　この賞を持っていれば、ベオル王国での買物は常
-　に一割引きだ！」
-#
-<sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA4080">
-「ベオル王国で買物する事なんかありませんけど……
-　あと、一割引きって……」
-#
-<name "ラズロック">
-「向こうの感謝の印だ。
-　受け取っておけ」
+<name "Lazlocke">
+"Apparently the Beol Kingdom wants to give you
+ the Darandon Prize."
 #
 <sprite "ta01c32.iph" 4 4 12>
-<name "セリス" "!AA4081">
-「う、受け取りますけど……」
+<name "Celes" "!AA4079">
+"Darandon Prize?"
 #
-<name "ラズロック">
-「あと、もう少しこっちに来い」
+<name "Lazlocke">
+"I think it's a honorary prize given to those on
+ par with their hero, Darandon.
+ With it, you'll always get a ten percent discount
+ while shopping in Beol!"
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA4082">
-「なんですか？」
+<name "Celes" "!AA4080">
+"I don't do any shopping in Beol...
+ And just ten percent?"
 #
-<name "ラズロック">
-「よくやった」
+<name "Lazlocke">
+"It's a sign of gratitude from them.
+ Just accept it."
+#
+<sprite "ta01c32.iph" 4 4 12>
+<name "Celes" "!AA4081">
+"I-I can do that, I guess..."
+#
+<name "Lazlocke">
+"And come over here."
+#
+<sprite "ta01c27.iph" 4 4 12>
+<name "Celes" "!AA4082">
+"What for?"
+#
+<name "Lazlocke">
+"Good work."
 #
 <removesprite -1 11>
-　俺はセリスの頭を撫でてやった。
+I pat her on the head.
 #
 <exit>
 \x78

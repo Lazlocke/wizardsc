@@ -3,39 +3,39 @@
 \x78
 :25
 <music 23>
-<name "セリス" "!AA4075">
-「よし、勝利！」
+<name "Celes" "!AA4075">
+"Okay! Victory!"
 #
-<name "セリス" "!AA4076">
-「さて……
-　倒した証拠はこれで良いかな」
+<name "Celes" "!AA4076">
+"Now then...
+ Will this be proof I won?"
 #
 <background "ev024a0.iph" 10>
-　セリスは魔王の城に飾られていた旗を手にとり、
-　持ち帰った。
+Celes picks up the flag from the Overlord's 
+castle and takes it home.
 #
-　魔王を倒した事で、この地の魔物は徐々に数を減
-　らしていくだろう。
+Defeating the Overlord should gradually reduce
+the number of monsters in the area.
 #
-　この地の安寧は、しばらく後に果たされる。
+Peace will come to the land in a short time.
 #
-<name "噂する軍人" "!SB0152">
-「え、英雄の誕生だ！」
+<name "Gossipy Soldier" "!SB0152">
+"A-A new hero is born!"
 #
-<name "相槌を打つ軍人" "!TB0158">
-「すげぇぇ！」
+<name "Agreeable Soldier" "!TB0158">
+"Hooray!"
 #
-<name "村娘" "!KA0070">
-「きゃぁぁ～！
-　セリス様ぁぁぁ♪」
+<name "Village Girl" "!KA0070">
+"Eeek!
+"Lady Celes!♪"
 #
-<name "セリス" "!AA4077">
-「え？
-　あ、あの……」
+<name "Celes" "!AA4077">
+"Huh?
+ U-Um..."
 #
-　魔王が倒された事を察したベオル王国の民衆によっ
-　て歓迎されたセリスは、数日の滞在を経てローリ
-　アの街に帰還した。
+Celes was greeted by the people of Beol who had
+seen that the Overlord had fallen.
+It took her a few days to make it back to Loria.
 #
 <exit>
 \x78

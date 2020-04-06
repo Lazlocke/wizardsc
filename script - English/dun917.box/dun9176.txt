@@ -4,39 +4,42 @@
 :D
 <music 24>
 \x2B\x2E\x22\x00\x01 1  7 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :67: 
-<name "セリス" "!AA4041">
-「流石は魔王の城……手強い」
+<name "Celes" "!AA4041">
+"The castle of the Overlord is as formidable as I
+ expected..."
 #
 :67
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :AD: 
-<name "セリス" "!AA4042">
-「うう……今回はここまで……」
+<name "Celes" "!AA4042">
+"Aww... This is as far as I can go..."
 #
 :AD
 \x1A\x01\x0A\x22\x00\x01 3 \x01\x0E :E5: 
-<name "セリス" "!AA4043">
-「次こそは……」
+<name "Celes" "!AA4043">
+"Next time..."
 #
 :E5
 \x1A\x01\x0A\x22\x00\x01 4 \x01\x0E :12E: 
-<name "セリス" "!AA4044">
-「駄目だった……
-　……悔しい」
+<name "Celes" "!AA4044">
+"It's useless...
+ I hate this..."
 #
 :12E
 \x1A\x01\x0A\x22\x00\x01 5 \x01\x0E :17A: 
-<name "セリス" "!AA4045">
-「さ、流石、魔王の城……強敵揃いね」
+<name "Celes" "!AA4045">
+"I-I knew it...
+ The castle of the Overlord is full of powerful
+ opponents."
 #
 :17A
 \x1A\x01\x0A\x22\x00\x01 6 \x01\x0E :1BE: 
-<name "セリス" "!AA4046">
-「もっと強くならないと……」
+<name "Celes" "!AA4046">
+"I have to get stronger..."
 #
 :1BE
 \x1A\x01\x0A\x22\x00\x01 7 \x01\x0E :206: 
-<name "セリス" "!AA4047">
-「もう少しだと思うんだけど……」
+<name "Celes" "!AA4047">
+"I think I'm almost there..."
 #
 :206
 <exit>
