@@ -7,53 +7,53 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a31.iph" 4 4 11>
-<name "セリス" "!AA6618">
-「あの……師匠」
+<name "Celes" "!AA6618">
+"Um... Master."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "セリス" "!AA6619">
-「その……」
+<name "Celes" "!AA6619">
+"Well..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "セリス" "!AA6620">
-「えっと……」
+<name "Celes" "!AA6620">
+"Um..."
 #
-<name "ラズロック">
-「どうしたんだ？」
+<name "Lazlocke">
+"What is it?"
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "セリス" "!AA6621">
-「妊娠……しちゃいました」
+<name "Celes" "!AA6621">
+"I'm... pregnant."
 #
-<name "ラズロック">
-「………………」
+<name "Lazlocke">
+"........."
 #
-<name "ラズロック">
-「…………………………………………」
+<name "Lazlocke">
+".................."
 #
-<name "ラズロック">
-「なにぃぃぃぃぃぃぃぃぃぃぃぃっ！」
+<name "Lazlocke">
+"Whaaaaaaaaaaaat!?"
 #
 <removesprite -1 11>
 <music 3>
 <background "ev086a0.iph" 10>
-　俺はセリスと結婚し、育児に励む事になった。
+I married Celes and became a devoted father.
 #
-<name "セリス" "!AA6622">
-「家の事は残念ですけど……
-　これはこれで、良かったのかもしれません」
+<name "Celes" "!AA6622">
+"I feel bad about my home, but this might be
+ okay too."
 #
-　俺とセリスは、それなりに幸せな人生を歩んだ。
+Celes and I share a happy life.
 #
-　だが、セリスの目的を果たす事が出来なかった。
+But she never fulfilled her dream.
 #
-　反省……
+Too bad...
 #
 <music 24>
 <background "ev086a1.iph" 10>
@@ -65,48 +65,48 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA1222">
-「ご主人様」
+<name "Soshiette" "!DA1222">
+"Your Grace."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta04a29.iph" 4 4 12>
-<name "ソシエット" "!DA1223">
-「セリスさんからご報告があります」
+<name "Soshiette" "!DA1223">
+"Celes has something to tell you."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What is it?"
 #
 <removesprite -1 11>
 <sprite "ta01a97.iph" 4 4 11>
-<name "セリス" "!AA6623">
-「えっと……その……」
+<name "Celes" "!AA6623">
+"Um, well..."
 #
-<name "ラズロック">
-「ん……」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "セリス" "!AA6624">
-「妊娠しちゃいました」
+<name "Celes" "!AA6624">
+"I'm pregnant."
 #
-<name "ラズロック">
-「え？」
+<name "Lazlocke">
+"Huh?"
 #
 <removesprite -1 11>
 <music 3>
 <background "ev086a0.iph" 10>
-　俺はセリスと結婚し、育児に励む事になった。
+I married Celes and became a devoted father.
 #
-<name "セリス" "!AA6625">
-「色々と残念ですけど……
-　これはこれで、良かったのかもしれません」
+<name "Celes" "!AA6625">
+"I have a lot of regrets, but this might be okay
+ too."
 #
-　俺とセリスは、それなりに幸せな人生を歩んだ。
+Celes and I share a happy life.
 #
-　だが、セリスの目的を果たす事が出来なかった。
+But Celes wasn't able to fulfill her dream.
 #
-　反省……
+Too bad...
 #
 <music 24>
 <background "ev086a1.iph" 10>
