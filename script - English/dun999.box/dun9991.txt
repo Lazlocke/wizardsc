@@ -13,78 +13,79 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01c08.iph" 4 4 11>
-<name "セリス" "!AA3837">
-「英雄の塔？
-　聞いた事がありません。
-　どんな塔なんですか？」
+<name "Celes" "!AA3837">
+"The Tower of Heroes?
+ I've never heard of it.
+ What kind of tower is it?"
 #
-<name "ラズロック">
-「自分の力を確かめる為の塔だ」
+<name "Lazlocke">
+"It's a tower for seeing precisely how strong you
+ are."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA3838">
-「そんな塔があるんですか。
-　だったら、早く教えてくれても……」
+<name "Celes" "!AA3838">
+"There's a tower like that?
+ I wish you had told me sooner."
 #
-<name "ラズロック">
-「セリスの実力が上がるのを待っていた。
-　今のお前なら、大丈夫だろう。
-　挑戦するか」
+<name "Lazlocke">
+"I was waiting until you were good enough.
+ At this point, you should be fine.
+ Do you want to try it?"
 #
 <sprite "ta01c22.iph" 4 4 12>
-<name "セリス" "!AA3839">
-「はい！
-　もちろんです」
+<name "Celes" "!AA3839">
+"Yes, sir!
+ Of course!"
 #
 <removesprite -1 11>
 <exit>
 :2B8
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「どこまでやれるか、頑張ってみろ」
+<name "Lazlocke">
+"Good luck, and see how far you can get."
 #
 <sprite "ta01c21.iph" 4 4 11>
-<name "セリス" "!AA3840">
-「はい！
-　登りきってみせます！」
+<name "Celes" "!AA3840">
+"Yes, sir!
+ I'll climb to the very top!"
 #
 <removesprite -1 11>
 <exit>
 :36E
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「何度目の挑戦になるかな」
+<name "Lazlocke">
+"How many times have you challenged it?"
 #
 <sprite "ta01c22.iph" 4 4 11>
-<name "セリス" "!AA3841">
-「到達するまでは、諦めません！」
+<name "Celes" "!AA3841">
+"I won't give up until I reach the top!"
 #
 <removesprite -1 11>
 <exit>
 :419
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「頑張れ」
+<name "Lazlocke">
+"Good luck."
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3842">
-「はい！」
+<name "Celes" "!AA3842">
+"Yep!"
 #
 <removesprite -1 11>
 <exit>
 :49E
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「登るのか」
+<name "Lazlocke">
+"Climbing up?"
 #
 <sprite "ta01c20.iph" 4 4 11>
-<name "セリス" "!AA3843">
-「はい。
-　そこに塔がある限り」
+<name "Celes" "!AA3843">
+"Yes.
+ If there's a tower, it must be climbed."
 #
 <removesprite -1 11>
 <exit>

@@ -3,93 +3,92 @@
 :29
 \x16 :7D: \x15 :35: 
 :35
-<choice :7B: "する" \x00\x00>
-<choice :7C: "しない" \x00\x00>
-　英雄の塔のデータをクリアしますか？
+<choice :7B: "Yes" \x00\x00>
+<choice :7C: "No" \x00\x00>
+Reset the Tower of Heroes data?
 #
 :7B
 \xF6
 :7C
 \x78
 :7D
-<name "管理人" "!HA0094">
-「お見事です。
-　よくここまで辿り着きました」
+<name "Manager" "!HA0094">
+"Congratulations.
+ You did well to make it this far."
 #
-<name "セリス" "!AA3880">
-「え？」
+<name "Celes" "!AA3880">
+"Huh?"
 #
-<name "管理人" "!HA0096">
-「ここが英雄の塔の一番上になります」
+<name "Manager" "!HA0096">
+"This is the top of the Tower of Heroes."
 #
-<name "セリス" "!AA3881">
-「そ、そうなの？」
+<name "Celes" "!AA3881">
+"I-It is?"
 #
-<name "管理人" "!HA0097">
-「英雄の歩みに限界はありませんが、この塔には限
-　界がありました」
+<name "Manager" "!HA0097">
+"There's no limit to the hero's journey, but there
+ is a limit to this tower."
 #
-<name "管理人" "!HA0098">
-「貴女にはこの塔は狭いようです。
-　広い世界へと旅立ってください」
+<name "Manager" "!HA0098">
+"This tower probably is too small for you.
+ You should travel into the wider world."
 #
-<name "セリス" "!AA3882">
-「そう……」
+<name "Celes" "!AA3882">
+"I see..."
 #
-<name "管理人" "!HA0099">
-「世界は広いです」
+<name "Manager" "!HA0099">
+"The world is vast."
 #
-<name "セリス" "!AA3883">
-「そうね。
-　わかったわ。
-　これまで、ありがとう」
+<name "Celes" "!AA3883">
+"Yeah. I understand.
+ Thank you for everything."
 #
-<name "管理人" "!HA0100">
-「いえ……こちらこそ、ありがとうございました」
+<name "Manager" "!HA0100">
+"No, I should be the one thanking you."
 #
-<name "管理人" "!HA0101">
-「英雄セリスティーネ＝ロココは、世界を変える魔
-　法使いになるでしょう」
+<name "Manager" "!HA0101">
+"Celestine Rococo, you are a hero wizard who will
+ change the world."
 #
-<name "管理人" "!HA0102">
-「期待しております」
+<name "Manager" "!HA0102">
+"I'm looking forward to it."
 #
 <background "ev023a0.iph" 10>
-　こうしてセリスは、英雄の塔を制覇した。
+And so, Celes conquered the Tower of Heroes.
 #
-　ウィザーズ・クライマー
+Wizard's Climber
 #
-　　　　　完！
+      Completed!
 #
-　おめでとう！
+ Congratulations!
 #
-　＆
+ And...
 #
-　ここまでやってくれて、ありがとう。
+ Thank you for playing this far!
 #
 <exit>
 :409
-　挑戦者は登り切った。
+ The challenger ascended.
 #
-　凄い。
+Amazing.
 #
-　驚きだ。
+Surprising.
 #
-　やるな！
+You did it!
 #
-　とりあえず、ゴホン。
+ And, ahem...
 #
-　こうして挑戦者は、英雄の塔を制覇した。
+The challenger has conquered the Tower of Heroes.
 #
-　ウィザーズ・クライマー
+Wizard's Climber
 #
-　　　　　完！
+      Completed!
 #
-　おめでとう！
+ Congratulations!
 #
-　＆
+ And...
 #
-　まさか、ここまでやるとは……
+ I can't believe you played so much...
 #
 <exit>
 \x78

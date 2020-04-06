@@ -15,34 +15,36 @@
 :BF
 \x78
 :C0
-<name "セリス" "!AA3844">
-「は、話にならなかった……
-　修行が足りない」
+<name "Celes" "!AA3844">
+"D-Don't even ask about it...
+ I need more training."
 #
 <exit>
 :106
-<name "セリス" "!AA3845">
-「て、手加減して欲しいなぁ……」
+<name "Celes" "!AA3845">
+"I-I wish they took it easy on me..."
 #
 <exit>
 :13D
-<name "セリス" "!AA3846">
-「やられたぁ……悔しい」
+<name "Celes" "!AA3846">
+"They got me...
+ So disappointing..."
 #
 <exit>
 :16C
-<name "セリス" "!AA3848">
-「これでも駄目なの……」
+<name "Celes" "!AA3848">
+"This isn't good enough..."
 #
 <exit>
 :19B
-<name "セリス" "!AA3849">
-「どこまで高いの……この塔」
+<name "Celes" "!AA3849">
+"Just how high is this tower?"
 #
 <exit>
 :1CE
-<name "セリス" "!AA3850">
-「むう……惜しいと言いたい」
+<name "Celes" "!AA3850">
+"Grrr...
+ I wish I had done better."
 #
 <exit>
 \x78

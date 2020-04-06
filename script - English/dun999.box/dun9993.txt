@@ -100,149 +100,154 @@
 :579
 \x78
 :57A
-<name "管理人" "!HA0066">
-「ぴんぽんぱんぽーん♪
-　おめでとうございます。
-　百階到達です」
+<name "Manager" "!HA0066">
+"Bumbadumbum.♪
+ Congratulations.
+ You've made it to the hundredth floor."
 #
-<name "管理人" "!HA0067">
-「でも、まだまだ上はありますよ。
-　がんばってください。
-　ぴんぽんぱんぽん♪」
+<name "Manager" "!HA0067">
+"But there's still more to go.
+ Good luck.
+ Bumbadumbum.♪"
 #
-<name "セリス" "!AA3851">
-「え、なに、今の？
-　アナウンス？」
+<name "Celes" "!AA3851">
+"Huh? What was that?
+ An announcement?"
 #
 <exit>
 :678
 \x2E\x22\x00\x03 1  3 \x1A\x01\x0A\x22\x00\x03 1 \x01\x0E :780: 
-<name "セリス" "!AA3853">
-「え……私？
-　幻影……にしては動きが……」
+<name "Celes" "!AA3853">
+"Huh? Me?
+ An illusion...
+ And it's moving..."
 #
-<name "管理人" "!HA0075">
-「ぴんぽんぱんぽーん♪
-　あれは貴女です。
-　ぴんぽんぱんぽん♪」
+<name "Manager" "!HA0075">
+"Bumbadumbum.♪
+ That's you.
+ Ding ding ding.♪"
 #
-<name "セリス" "!AA3854">
-「どうして私が居るのかはわからないけど……
-　敵ね」
+<name "Celes" "!AA3854">
+"I don't get what I'm doing here, but...
+ It's an enemy."
 #
 :780
 \x1A\x01\x0A\x22\x00\x03 2 \x01\x0E :7DF: 
-<name "セリス" "!AA3855">
-「また私……
-　でも、考えてみれば、一番良い修行かも」
+<name "Celes" "!AA3855">
+"Another me...
+ But when you think about it, this might be the
+ perfect kind of training."
 #
 :7DF
 \x1A\x01\x0A\x22\x00\x03 3 \x01\x0E :855: 
-<name "セリス" "!AA3856">
-「自分と対峙するって……変な気分だけど」
+<name "Celes" "!AA3856">
+"Facing myself is... an odd feeling."
 #
-<name "セリス" "!AA3857">
-「絶対に勝つ！」
+<name "Celes" "!AA3857">
+"I'll definitely win!"
 #
 :855
 <exit>
 :856
-<name "セリス" "!AA3858">
-「誰が来ても叩きのめす！」
+<name "Celes" "!AA3858">
+"I'll beat anybody who stands in my way!"
 #
-<name "ヴィオラ" "!BA0345">
-「へぇ……」
+<name "Viola" "!BA0345">
+"Oh?"
 #
-<name "ラズロック">
-「なかなか……」
+<name "Lazlocke">
+"Pretty brave."
 #
-<name "ソシエット" "!DA0629">
-「言ってくれますね」
+<name "Soshiette" "!DA0629">
+"Now you said it."
 #
-<name "ルーン" "!EA0167">
-「手加減はしないわよ」
+<name "Rune" "!EA0167">
+"I won't hold back."
 #
-<name "セリス" "!AA3859">
-「そ、揃い踏みですか」
+<name "Celes" "!AA3859">
+"A-All of you?"
 #
-<name "ソシエット" "!DA0630">
-「揃い踏みです」
+<name "Soshiette" "!DA0630">
+"All of us."
 #
 <exit>
 :97D
-<name "セリス" "!AA3860">
-「あ、貴女は……」
+<name "Celes" "!AA3860">
+"Y-You're..."
 #
-<name "ルーン" "!EA0169">
-「ルーンではなく……ローリアガールよ」
+<name "Rune" "!EA0169">
+"Not Rune...
+ Loria Girl."
 #
-<name "セリス" "!AA3861">
-「ご、ごくり」
+<name "Celes" "!AA3861">
+"*gulp*"
 #
 <exit>
 :A06
-<name "イングウェイ" "!TA0074">
-「ふっふっふっ……一人では敵わなくても……
-　たくさんいればどうかな！」
+<name "Ingway" "!TA0074">
+"Heheheh...
+ I'm no match for you on my own...
+ So how about if there's lots of me!?"
 #
-<name "セリス" "!AA3862">
-「……きょ、兄弟？」
+<name "Celes" "!AA3862">
+"...Y-You have brothers?"
 #
-<name "イングウェイ" "!TA0075">
-「その通り！
-　行くぞ！」
+<name "Ingway" "!TA0075">
+"That's right!
+ Let's go!"
 #
 <exit>
 :ACD
-<name "イングウェイ" "!TA0076">
-「さて……ローリアファイブがお相手しよう」
+<name "Ingway" "!TA0076">
+"Okay, now you're up against the Loria Five!"
 #
-<name "セリス" "!AA3863">
-「くっ……ローリアファイブ。
-　強敵ね」
+<name "Celes" "!AA3863">
+"Ngh... The Loria Five...
+ A powerful foe."
 #
 <exit>
 :B53
-<name "セリス" "!AA3864">
-「え……誰？」
+<name "Celes" "!AA3864">
+"Huh? Who are you?"
 #
-<name "嘆く女" "!IA0041">
-「悲しみの四人と言えば、わかるかしら」
+<name "Annoyed Woman" "!IA0041">
+"Do you understand the pain of we four?"
 #
-<name "セリス" "!AA3865">
-「え、えっと……」
+<name "Celes" "!AA3865">
+"U-Um..."
 #
-<name "セリス" "!AA3866">
-「立ち絵が無いグレイトシックスの残り四人！」
+<name "Celes" "!AA3866">
+"Are you the rest of the Great Six who didn't get
+ an image?"
 #
-<name "嘆く女" "!IA0042">
-「その通り！
-　覚悟！」
+<name "Annoyed Woman" "!IA0042">
+"That's right!
+ Prepare yourself!"
 #
 <exit>
 :C4D
-<name "セリス" "!AA3867">
-「私の道を阻む者は、叩きのめす！」
+<name "Celes" "!AA3867">
+"I'll defeat anybody who stands in my way!"
 #
-<name "管理人" "!HA0076">
-「ぴんぽんぱんぽーん。
-　おおっ、鬼だ！
-　ぴんぽんぱんぽん……」
+<name "Manager" "!HA0076">
+"Bumbadumbum!
+ Ooh! A demon!
+ Ding ding ding ding..."
 #
 <exit>
 :CE0
-<name "セリス" "!AA3868">
-「え……誰？」
+<name "Celes" "!AA3868">
+"Huh? Who are you?"
 #
-<name "管理人" "!HA0077">
-「謎の女性です。
-　そして、この英雄の塔の管理人でもあります」
+<name "Manager" "!HA0077">
+"A mystery woman.
+ And the manager of the Tower of Heroes."
 #
-<name "セリス" "!AA3869">
-「……じゃあ、ボス？」
+<name "Celes" "!AA3869">
+"...So you're the boss?"
 #
-<name "管理人" "!HA0078">
-「そう思って頂いて結構です」
+<name "Manager" "!HA0078">
+"You can think of me like that."
 #
 <exit>
 \x78

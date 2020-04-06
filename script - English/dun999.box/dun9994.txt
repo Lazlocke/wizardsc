@@ -24,77 +24,79 @@
 :209
 \x78
 :20A
-<name "管理人" "!HA0082">
-「おめでとうございます」
+<name "Manager" "!HA0082">
+"Congratulations."
 #
-<name "セリス" "!AA3871">
-「あ、生きてた……」
+<name "Celes" "!AA3871">
+"Ah, you're alive..."
 #
-<name "管理人" "!HA0083">
-「あはは……あの程度でこの私が死ぬと？」
+<name "Manager" "!HA0083">
+"Hahaha...
+ You thought that'd be enough to kill me?"
 #
-<name "セリス" "!AA3872">
-「死なないの？」
+<name "Celes" "!AA3872">
+"But didn't you die?"
 #
-<name "管理人" "!HA0084">
-「死に掛けました」
+<name "Manager" "!HA0084">
+"I nearly died."
 #
-<name "セリス" "!AA3873">
-「そうよね。
-　自信を無くすところだったわ」
+<name "Celes" "!AA3873">
+"I see.
+ I was just about to lose my confidence."
 #
-<name "管理人" "!HA0085">
-「お見事でした。
-　素直に感心です」
+<name "Manager" "!HA0085">
+"You were splendid.
+ I'm sincerely impressed."
 #
-<name "セリス" "!AA3874">
-「ありがとう」
+<name "Celes" "!AA3874">
+"Thank you."
 #
-<name "管理人" "!HA0086">
-「では、向こうの階段にどうぞ……」
+<name "Manager" "!HA0086">
+"Well then, please go to the stairs over that
+ way..."
 #
-<name "セリス" "!AA3875">
-「え……まだ、上があるの……」
+<name "Celes" "!AA3875">
+"Huh? There's still more?"
 #
-<name "管理人" "!HA0087">
-「はい。
-　ここは英雄の塔です。
-　英雄の歩みに終わりはありません」
+<name "Manager" "!HA0087">
+"Yes. This is the Tower of Heroes.
+ There is no end to a hero's journey."
 #
-<name "管理人" "!HA0088">
-「ですが、私を倒したのが一つの区切りとはなりま
-　す」
+<name "Manager" "!HA0088">
+"However, defeating me is one end."
 #
-<name "管理人" "!HA0093">
-「ここで止める事もできますが、どうしますか？」
+<name "Manager" "!HA0093">
+"You could stop here.
+ What will you do?"
 #
-<name "セリス" "!AA3876">
-「もちろん、続けるわ」
+<name "Celes" "!AA3876">
+"I'll keep going, of course."
 #
-<name "管理人" "!HA0090">
-「そう言うと思っていました。
-　どこまで登れるか、楽しみです。
-　頑張ってください」
+<name "Manager" "!HA0090">
+"I thought you'd say that.
+ I'm looking forward to seeing how high you can
+ get.
+ Good luck."
 #
-<name "セリス" "!AA3877">
-「はい！」
+<name "Celes" "!AA3877">
+"Yep!"
 #
 <exit>
 :5A2
-<name "管理人" "!HA0091">
-「続けますね」
+<name "Manager" "!HA0091">
+"You're continuing?"
 #
-　挑戦者は無言で頷いた。
+The challenger silently nodded.
 #
 <exit>
-<name "セリス" "!AA3878">
-「はい」
+<name "Celes" "!AA3878">
+"Yes."
 #
-<name "管理人" "!HA0092">
-「頑張りますね」
+<name "Manager" "!HA0092">
+"Good luck."
 #
-<name "セリス" "!AA3879">
-「はい。
-　こうなったら意地ですから」
+<name "Celes" "!AA3879">
+"Yep.
+ It's all just guts now."
 #
 \x78
