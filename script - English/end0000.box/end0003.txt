@@ -10,106 +10,114 @@
 :55
 <music 11>
 <background "ev077a5.iph" 10>
-　クレリア＝ノルザック
+Cleria Nolzak.
 #
-　優秀な成績で魔法学園を卒業。
+She graduated top of her class.
 #
-　協会育成部に所属し、魔法学園教師として活躍。
+She joined the Guild's development program and
+excelled as a teacher at the wizard academy.
 #
-　派手さは無いが確実に実績を残し、多数の優秀な
-　卒業生を世に送り出した。
+She wasn't flashy, but delivered consistent
+results, and raised a number of excellent
+students into the world.
 #
-　後にルーン魔法学園の四代目校長に就任した。
+Eventually, she would become the fourth principal
+of Rune Magic Academy.
 #
-<name "クレリア" "!GB0019">
-「今の私があるのは全て、あの時に魔力を貰ったお
-　陰……」
+<name "Cleria" "!GB0019">
+"All I have now is thanks to the mana I received
+ that time..."
 #
-<name "クレリア" "!GB0020">
-「でも……
-　あの時の相手は誰だったのかしら？
-　ねえ、ラズロック様？」
+<name "Cleria" "!GB0020">
+"But... 
+ Who was that man?
+ Eh, Lazlocke?"
 #
 \x0A\x44\x00\xD3\x84\x01
 <exit>
 :21A
 <music 4>
 <background "ev078a3.iph" 10>
-　協会特別生徒。
+A special association of students.
 #
-　俺との行為を重ね、多くの魔力を持つ魔法使いと
-　して成長。
+After being with me over and over, they grew as
+wizards, crackling with mana.
 #
-　その後、協会の各部署にて活躍していく。
+And then they became leading members of the Guild.
 #
-　そして、あの狂った宴は今もメンバーを変えて続
-　けられている。
+That feast of madness keeps going on, even as the
+members change.
 #
-<name "メル" "!MB0014">
-「次はいつの予定になってるの？」
+<name "Mel" "!MB0014">
+"When's the next one?"
 #
-<name "マーシャ" "!JB0015">
-「えっと、再来月の頭かな……
-　でも、ラズロック様次第よ」
+<name "Marcia" "!JB0015">
+"Um... The beginning of next month, I think?
+ But it depends on Lazlocke."
 #
-<name "トリス" "!KB0009">
-「うう、待ち遠しい……」
+<name "Tris" "!KB0009">
+"Aww... I can't wait."
 #
-<name "メル" "!MB0015">
-「待ち遠しいって、今回あれだけ相手してもらって
-　ズルいわよ。
-　私なんか、二回しか出してくれなかったんだから」
+<name "Mel" "!MB0015">
+"Can't wait? You were with him so much last time.
+ It wasn't fair.
+ I only got it twice."
 #
-<name "マーシャ" "!JB0016">
-「私は三回だったけど、トリスは六回だっけ？
-　良いなぁ」
+<name "Marcia" "!JB0016">
+"I had three times, but Tris, you had six, right?
+ I'm so jealous."
 #
-<name "トリス" "!KB0010">
-「あはは……」
+<name "Tris" "!KB0010">
+"Hahaha..."
 #
-　宴に参加しなくても良いだけの魔力を持っても、
-　希望者は参加できたりする。
+Even if they have enough mana to not need to
+participate, they're still welcome to ask.
 #
-　人数は増える一方で、色々と問題になってたりす
-　る。
+Although as more and more people join, that
+brings its own problems.
 #
 \x0A\x44\x00\xD4\x84\x01
 <exit>
 :53F
 <music 11>
 <background "ev079a0.iph" 10>
-　マーコルネール＝マーコルネール
+Macornel Makolner.
 #
-　協会員として活動を開始。
+She became a member of the Guild.
 #
-　コツコツと魔法の研究に勤しむ。
+She immersed herself in magical research.
 #
-　その後、二度の大きな協会反乱に巻き込まれるも、
-　協会側の立場を崩さずに反乱者を鎮圧。
+She was technically involved in two different
+insurrections within the Guild, but the
+rebellions were put down and her position wasn't
+threatened.
 #
-　地位を高めながら、協会研究部に大きな功績を残
-　した。
+She continued rising through the ranks, and made
+a name for herself in the Guild research 
+department.
 #
-<name "マーコルネール" "!PB0053">
-「協会に逆らったら、ラズロック様に怒られるから」
+<name "Macornel" "!PB0053">
+"If I go against the Guild, Lazlocke will be mad."
 #
 \x0A\x44\x00\xD5\x84\x01
 <exit>
 :6B0
 <music 4>
 <background "ev081a0.iph" 10>
-　クルーネ帝国、第三皇女ルィンス。
+Lynth, the third princess of the Krun Empire.
 #
-　ルーン魔法学園を高成績で卒業。
+She graduated from Rune Academy with excellent
+grades.
 #
-　その後、協会員としてクルーネ帝国に魔法を広め
-　る事に尽力する。
+After that, she worked to spread magic through
+Krun as a member of the Guild.
 #
-　それは、魔法に関する人材や知識の収集に遅れた
-　クルーネ帝国を大きく助ける事になった。
+She helped Krun finally come to realize the
+value of magic, and begin raising its own wizards
+and gathering its knowledge.
 #
-<name "ルィンス" "!NB0038">
-「でも、時々は相手してくださいね」
+<name "Lynth" "!NB0038">
+"But please be with me every now and then, okay?"
 #
 \x0A\x44\x01\x01\x84\x01\x0A\x44\x00\xD6\x84\x01
 <exit>

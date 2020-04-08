@@ -104,955 +104,957 @@
 :A22
 <music 31>
 <background "ev044a0.iph" 10>
-　セリスティーネ＝ロココは俺の嫁となり、息子と
-　娘の二児をもうけていた。
+Celestine Rococo became my wife, and we had a son
+and a daughter.
 #
-<name "セリス" "!AA6497">
-「こらー、喧嘩ばかりしないの！」
+<name "Celes" "!AA6497">
+"Hey! Don't just fight all the time!"
 #
-　喧嘩をしていた俺の息子と娘は、母親であるセリ
-　スを見ると言い訳を始める。
+The squabbling children began to make excuses
+when she yelled at them.
 #
-　どっちが悪い。
+Who started it?
 #
-　先に殴ったのはこっちだ。
+Both say that the other did.
 #
-　言い方は違うが、双方とも相手を悪いと訴える。
+They're saying different things, but both are
+accusing the other of going after them.
 #
-<name "セリス" "!AA6498">
-「黙りなさい！」
+<name "Celes" "!AA6498">
+"Be quiet!"
 #
-　セリスはそれを一喝。
+She scolds them.
 #
-<name "セリス" "!AA6499">
-「喧嘩は駄目です。
-　そう教えた筈です」
+<name "Celes" "!AA6499">
+"No fighting.
+ I know I taught you that."
 #
-<name "セリス" "!AA6500">
-「それを破っての喧嘩……
-　それは、この母に対する挑戦ですね」
+<name "Celes" "!AA6500">
+"If you want to fight...
+ That's a challenge for Mom."
 #
-　セリスがそう言うと、俺の息子と娘はガシッと腕
-　を組んで仲直りを表現し、頭を下げた。
+Both of them bow their heads and profusely
+apologize.
 #
-　セリスとは戦いたくないらしい。
+They don't want a fight with her.
 #
-　俺も戦いたくない。
+Nor do I.
 #
-<name "セリス" "!AA6501">
-「アナタも見てないで、子供達が喧嘩をしたら止め
-　てください」
+<name "Celes" "!AA6501">
+"And you, don't just watch.
+ If they're fighting, stop them."
 #
-<name "ラズロック">
-「そう言うな……
-　喧嘩の理由は俺の膝の上に、どっちが先に座るか
-　で始まったんだから」
+<name "Lazlocke">
+"Okay, but... the reason the argument started was
+ over who got to sit on my lap first."
 #
-<name "セリス" "!AA6502">
-「まったく……」
+<name "Celes" "!AA6502">
+"Honestly..."
 #
-<name "セリス" "!AA6503">
-「その膝は、私のですと教えているのに」
+<name "Celes" "!AA6503">
+"That privilege belongs to me."
 #
-<name "ラズロック">
-「息子や娘と奪い合うな」
+<name "Lazlocke">
+"Your kids aren't your competition."
 #
-<name "セリス" "!AA6504">
-「でしたら、もう少し可愛がってください」
+<name "Celes" "!AA6504">
+"Then please love me a little more."
 #
-<name "ラズロック">
-「そうだな。
-　じゃあ、三人目を頑張るか」
+<name "Lazlocke">
+"All right.
+ Then should we try for a third?"
 #
-<name "セリス" "!AA6505">
-「はい♪」
+<name "Celes" "!AA6505">
+"Yep.♪"
 #
-　俺とセリスがイチャつくと、その間に割って入る
-　俺の息子と娘。
+Celes and I try to be romantic, but the children
+quickly interrupt. 
 #
-<name "セリス" "!AA6506">
-「むううう！」
+<name "Celes" "!AA6506">
+"Grrrr!"
 #
-<name "ラズロック">
-「子供達と奪い合うな」
+<name "Lazlocke">
+"Don't compete with the kids."
 #
 <background "ev044a1.iph" 10>
-　セリスは魔法使いである道を諦めたわけではなかっ
-　たが、俺の子供が出来た事でその道を休憩。
+Celes hasn't given up on becoming a wizard, but
+has taken a detour with raising my children.
 #
-　そして、それはセリスにとっては良かったのかも
-　しれない。
+And maybe that's what was best for her.
 #
-　母親をやる片手間ではあるが、家庭に根付く魔法
-　を主に研究しながら、セリスはのんびりとした魔
-　法使いライフを歩んだ。
+It's a side job to being a mother, but she's still
+researching and learning magic every day.
+She's leading a calm, peaceful life as a wizard.
 #
-　残念ながら、俺の息子と娘に魔法の才能は無かっ
-　たが、セリスは特に気にした様子も無く、やりた
-　い事を探すように育てている。
+Unfortunately, neither of our children have the
+talent for magic, but Celes doesn't care and is
+helping them look for what they want to do with
+their lives.
 #
-　それに俺もなんとか協力。
+I'm helping too.
 #
-　一応、父親なんで……
+As a dad, at least.
 #
-<name "セリス" "!AA6507">
-「最近、子供達に私とアナタの馴初めを聞かれて困
-　ります」
+<name "Celes" "!AA6507">
+"Lately, I've been having trouble trying to
+ explain our relationship to the kids."
 #
-<name "ラズロック">
-「ん？
-　どうして困るんだ？
-　素直に弟子になったと言えば良いじゃないか」
+<name "Lazlocke">
+"Hm? What's the problem?
+ You should just tell them you became my devoted
+ apprentice."
 #
-<name "セリス" "!AA6508">
-「弟子に手を出す師匠ってどうなのと」
+<name "Celes" "!AA6508">
+"And you're the master who took advantage of his
+ apprentice?"
 #
-<name "ラズロック">
-「む……」
+<name "Lazlocke">
+"Hmm..."
 #
-　まあ、色々と問題はあるが……
-　こんな生活も悪く無い。
+Well, there are problems here and there, but it's
+not a bad life.
 #
 \x0A\x44\x00\xA7\x84\x01
 <exit>
 :1296
 <music 10>
 <background "ev045a0.iph" 10>
-　セリスは、まだまだ未熟だからと俺の弟子を続け
-　ていた。
+Celes still had a lot to learn, so she remained
+my apprentice.
 #
-<name "セリス" "!AA6509">
-「師匠……とっ……はっ……やっ……」
+<name "Celes" "!AA6509">
+"Master...
+ Yah...hya...yah..."
 #
-　……
+...
 #
-<name "セリス" "!AA6510">
-「し、師匠……頭をもう少し下げて……」
+<name "Celes" "!AA6510">
+"M-Master, lower your head a little more."
 #
-　セリスは料理を魔法で運んでいた。
+She's carrying dishes with magic.
 #
-　これまでは戦う為の魔法を多く学んでいたが、こ
-　れからはもっと幅広く学びたいらしい。
+She's learned a lot of magic for fighting, but
+she wants to learn much more than that.
 #
-　その第一歩がこれだが……
+This is the first step.
 #
-<name "ラズロック">
-「失敗したら、晩飯が無くなると言うリスキーな修
-　行だな」
+<name "Lazlocke">
+"This is a risky kind of training.
+ If you mess up, you lose your dinner."
 #
-<name "セリス" "!AA6511">
-「え、ええ……本当に」
+<name "Celes" "!AA6511">
+"Y-Yes, I'm aware."
 #
-<name "ラズロック">
-「それに俺を巻き込む理由は？」
+<name "Lazlocke">
+"And why do I have to be a part of it?"
 #
-<name "セリス" "!AA6512">
-「し、師匠と弟子は……一心……同体」
+<name "Celes" "!AA6512">
+"M-Master and apprentice... should share their
+ fates..."
 #
-<name "ラズロック">
-「ほう……」
+<name "Lazlocke">
+"Oh?"
 #
-<name "セリス" "!AA6513">
-「ああ、動いちゃ駄目です。
-　うわっ、あっ、やっ、きゃぁぁっ」
+<name "Celes" "!AA6513">
+"Aah! Don't move.
+ Aaah! Ah! Oh! Eeek!"
 #
 <background "ev045a1.iph" 10>
-　セリスティーネ＝ロココは、決して優秀とは言え
-　ず、歴史に残るような成果や、実績を残したワケ
-　ではない。
+Celestine Rococo is anything but an exemplary
+wizard, and her name definitely isn't going to go
+down in history.
 #
-　魔法使いとしては、ごく平凡な力だった。
+As a wizard, she's average at best.
 #
-　しかし、セリスはその事を嘆いたり、不満がった
-　りはしなかった。
+But she didn't grieve or lament it.
 #
-　それよりも、持ち前の努力家ぶりを発揮し、少し
-　でも上の魔法使いになろうと努力し続けた。
+She demonstrated her own perseverance and 
+continued striving to be an above-average wizard.
 #
-　そんな唯一の弟子を助けながら、俺は協会の仕事
-　をのんびりとこなし、ゆったりとした生活を送っ
-　た。
+I took on odd jobs from the Guild as I helped my
+only apprentice, and lead a carefree life.
 #
-<name "セリス" "!AA6514">
-「師匠、ご飯が冷たいです」
+<name "Celes" "!AA6514">
+"Master, the dinner's cold."
 #
-<name "ラズロック">
-「運ぶのにアレだけ時間をかけたらなぁ」
+<name "Lazlocke">
+"Then you should have carried it quicker."
 #
-<name "セリス" "!AA6515">
-「むう……
-　次はもっと頑張ります」
+<name "Celes" "!AA6515">
+"Grrr...
+ I'll try harder next time."
 #
-<name "ラズロック">
-「そうだな」
+<name "Lazlocke">
+"Yeah."
 #
-　俺はセリスの頭を撫でながら、冷たくなったご飯
-　を口に運んだ。
+I pat her on the head and take a bite of my cold
+dinner.
 #
 \x0A\x44\x00\xA8\x84\x01
 <exit>
 :1838
 <music 31>
 <background "ev063a0.iph" 10>
-<name "イエル" "!CA0862">
-「これと、これと……これっと」
+<name "Elle" "!CA0862">
+"This, this, and... this."
 #
-<name "ラズロック">
-「買物はこれで終わりかな」
+<name "Lazlocke">
+"Done shopping yet?"
 #
-<name "イエル" "!CA0863">
-「はい。
-　セリスが待ってます。
-　急いで帰りましょう」
+<name "Elle" "!CA0863">
+"Yes.
+ Celes is waiting.
+ Let's hurry home."
 #
-<name "ラズロック">
-「そうだな」
+<name "Lazlocke">
+"Yeah."
 #
 \x2B
 <background "ev045a0.iph" 10>
-<name "セリス" "!AA6516">
-「はい、料理が出来ましたよー」
+<name "Celes" "!AA6516">
+"Here, I cooked this."
 #
-<name "ラズロック">
-「魔法で運ぶ練習か？」
+<name "Lazlocke">
+"Using manipulation magic?"
 #
-<name "セリス" "!AA6517">
-「はい。
-　頑張っています」
+<name "Celes" "!AA6517">
+"Yes, I tried really hard."
 #
-<name "ラズロック">
-「頑張るのは良いが……リスキーな修行内容だ」
+<name "Lazlocke">
+"That's a good thing, but it's a risky way to
+ train."
 #
-<name "セリス" "!AA6518">
-「すみません。
-　イエルちゃんを呼んで貰えますか」
+<name "Celes" "!AA6518">
+"I'm sorry.
+ Can you call Elle?"
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"All right."
 #
 <background "ev045a1.iph" 10>
-　セリスティーネ＝ロココ
-　イエル＝ブルータクト
+Celestine Rococo and Elle Bluetact.
 #
-　二人はまだまだ修行中だ。
+They're both still training.
 #
-　そして、ヴィオラが忙しい時は、イエルも俺が面
-　倒を見るようになった。
+When Viola's busy, I look after Elle.
 #
-　最近では、ヴィオラよりも俺が見ている時間の方
-　が長いぐらいだ。
+Lately, I've been spending more time taking care
+of her than Viola has.
 #
-<name "セリス" "!AA6519">
-「むう、師匠の弟子は私一人で十分なのに」
+<name "Celes" "!AA6519">
+"Grr. I should be your only apprentice."
 #
-<name "イエル" "!CA0865">
-「独り占めは良くないわよ」
+<name "Elle" "!CA0865">
+"No hogging him."
 #
-<name "セリス" "!AA6520">
-「むう」
+<name "Celes" "!AA6520">
+"Grrr..."
 #
-<name "イエル" "!CA0866">
-「と言うワケで、今晩は二人で」
+<name "Elle" "!CA0866">
+"And I should mention, it's just the two of us
+ tonight."
 #
-<name "セリス" "!AA6521">
-「ズルイ！
-　今日は私の日なのに！」
+<name "Celes" "!AA6521">
+"No fair!
+ Today's my turn!"
 #
-<name "ラズロック">
-「喧嘩する前に、修行に励め。
-　まだまだ成績が悪い」
+<name "Lazlocke">
+"If you have energy to fight, use it to train.
+ Your grades are still terrible."
 #
-<name "セリス" "!AA6522">
-「すみません」
+<name "Celes" "!AA6522">
+"I'm sorry."
 #
-<name "イエル" "!CA0867">
-「頑張ります」
+<name "Elle" "!CA0867">
+"I'll try my best."
 #
-　この二人との付き合いは、まだまだ長くなりそう
-　だ。
+Apparently my relationship with them won't be
+ending any time soon.
 #
 \x0A\x44\x00\xA9\x84\x01
 <exit>
 :1D34
 <music 11>
 <background "ev046a0.iph" 10>
-　セリスは、ルーン魔法学園の教師として働き始め
-　た。
+Celes started working as a teacher at Rune 
+Academy.
 #
-　その実力から、もっと上の職を目指せたのだが、
-　全てを断わって。
+Given her capabilities, she could've had a much
+better job, but she refused all offers.
 #
-<name "セリス" "!AA6523">
-「……となるわけです。
-　わかりましたか？」
+<name "Celes" "!AA6523">
+"...And it turns out like that.
+ Understand?"
 #
-<name "セリス" "!AA6524">
-「では、次に行く前に……
-　ここまでで質問のある人は居ますか？」
+<name "Celes" "!AA6524">
+"Now, before we go to the next thing...
+ Does anybody have any questions about what I've
+ covered?"
 #
-<name "セリス" "!AA6525">
-「はい、なんですか？」
+<name "Celes" "!AA6525">
+"Yes, what is it?"
 #
-<name "セリス" "!AA6526">
-「えっと……そういった質問にはお答えできません」
+<name "Celes" "!AA6526">
+"Um... I can't answer that question."
 #
-<name "セリス" "!AA6527">
-「次、同じ質問をしたら怒りますよ」
+<name "Celes" "!AA6527">
+"Next time you ask me that, I'm going to get mad."
 #
-<name "セリス" "!AA6528">
-「では、次です」
+<name "Celes" "!AA6528">
+"So, next?"
 #
 <background "ev046a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　広く知られる事は無かったが、セリスは優秀な魔
-　法使いであり、そして優秀な教師として確実に名
-　前を残した。
+While not famous, she was an excellent wizard,
+and made her name as a fine teacher.
 #
-<name "ラズロック">
-「頑張っているようだな」
+<name "Lazlocke">
+"Seems like you're hard at work."
 #
-<name "セリス" "!AA6529">
-「まだまだです。
-　将来的には、師匠のようになりたいと思いますの
-　で」
+<name "Celes" "!AA6529">
+"I've still got a long way to go.
+ I want to be like you someday."
 #
-<name "ラズロック">
-「家での悠々自適生活か？」
+<name "Lazlocke">
+"Living carefree at home?"
 #
-<name "セリス" "!AA6530">
-「それも良いですね。
-　ところで……」
+<name "Celes" "!AA6530">
+"That would be nice too.
+ By the way..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "セリス" "!AA6531">
-「新しい弟子を取るとか聞きましたが……」
+<name "Celes" "!AA6531">
+"I heard you took a new apprentice..."
 #
-<name "ラズロック">
-「ああ、協会が強く希望してきてな。
-　第二、第三のセリスを育ててくれと」
+<name "Lazlocke">
+"Yeah, the Guild's been champing at the bit for
+ me to do that. They want a second, or even third
+ Celes."
 #
-<name "セリス" "!AA6532">
-「むう」
+<name "Celes" "!AA6532">
+"Grr..."
 #
-<name "ラズロック">
-「怒るな。
-　俺の一番弟子は、お前だろ」
+<name "Lazlocke">
+"Don't be mad.
+ You're my finest apprentice."
 #
-<name "セリス" "!AA6533">
-「ですが……」
+<name "Celes" "!AA6533">
+"But..."
 #
-<name "ラズロック">
-「それに、弟子を取っても、お前のように抱いたり
-　はしない」
+<name "Lazlocke">
+"Besides, even if I take an apprentice, I won't
+ be with them like you."
 #
-<name "セリス" "!AA6534">
-「そうなんですか？」
+<name "Celes" "!AA6534">
+"Really?"
 #
-<name "ラズロック">
-「ああ……
-　それで、問題はあるか？」
+<name "Lazlocke">
+"Yeah, so is there a problem?"
 #
-<name "セリス" "!AA6535">
-「時々、お手伝いに来ても良いですか？」
+<name "Celes" "!AA6535">
+"Can I come by sometimes to help?"
 #
-<name "ラズロック">
-「構わないぞ。
-　厳しく鍛えてやってくれ」
+<name "Lazlocke">
+"I don't mind.
+ Train them hard."
 #
-<name "セリス" "!AA6536">
-「はい」
+<name "Celes" "!AA6536">
+"Yes, sir."
 #
 \x0A\x44\x00\xAA\x84\x01
 <exit>
 :2354
 <music 11>
 <background "ev047a0.iph" 10>
-　セリスは協会保守部に所属し、多くの部下を鍛え
-　る立場に着いた。
+Celes joined Guild Preservation and took a 
+position where she trained a huge number of
+subordinates.
 #
-<name "セリス" "!AA6537">
-「そこ、腕の振りが甘い」
+<name "Celes" "!AA6537">
+"You, swing with more force."
 #
-　部下達の鍛錬を見回り、時には直接の手合わせを
-　して鍛え上げていく。
+She watched over their training, and occasionally
+stepped in to train them herself.
 #
-<name "ソシエット" "!DA1211">
-「ずいぶんと、鍛えましたね」
+<name "Soshiette" "!DA1211">
+"They're quite honed."
 #
-<name "セリス" "!AA6538">
-「はい。
-　ソシエットさんの部隊に、負けないようにと思っ
-　ていますので」
+<name "Celes" "!AA6538">
+"Yes. I have to surpass your own unit."
 #
-<name "ソシエット" "!DA1212">
-「明日の模擬戦ですか？」
+<name "Soshiette" "!DA1212">
+"In tomorrow's sparring match?"
 #
-<name "セリス" "!AA6539">
-「ええ、今回こそ勝ちますから」
+<name "Celes" "!AA6539">
+"Yes. This time, we'll win."
 #
-<name "ソシエット" "!DA1213">
-「楽しみです。
-　その後の個人戦も」
+<name "Soshiette" "!DA1213">
+"I look forward to it.
+ The individual matches afterwards too."
 #
-<name "セリス" "!AA6540">
-「あはは……お手柔らかに」
+<name "Celes" "!AA6540">
+"Hahaha...
+ Go easy on me."
 #
-<name "ソシエット" "!DA1214">
-「私に連勝している人が、そんな事を言ってはいけ
-　ません」
+<name "Soshiette" "!DA1214">
+"After winning repeatedly, I don't think you have
+ any right to say that."
 #
-<name "セリス" "!AA6541">
-「あはは……
-　ところで、このメイド服ですが……」
+<name "Celes" "!AA6541">
+"Hahaha...
+ By the way, about these maid dresses..."
 #
-<name "ソシエット" "!DA1215">
-「似合っていますね。
-　……サイズが合いませんか？」
+<name "Soshiette" "!DA1215">
+"It looks good on you.
+ Does it not fit?"
 #
-<name "セリス" "!AA6542">
-「いえ、ピッタリなんですけど……
-　着ないと駄目なんですか？」
+<name "Celes" "!AA6542">
+"No, it fits perfectly, but do I have to wear it?"
 #
-<name "ソシエット" "!DA1216">
-「嫌なら、ここでひん剥きますが」
+<name "Soshiette" "!DA1216">
+"If you don't like it, I can rip it right off you
+ right here."
 #
-<name "セリス" "!AA6543">
-「…………い、いえ、気に入ってます」
+<name "Celes" "!AA6543">
+"...N-No, I like it."
 #
-<name "ソシエット" "!DA1218">
-「冗談です。
-　ご主人様から、半分は私の弟子なのだから、メイ
-　ド服ぐらい着せて置けと言われましたので」
+<name "Soshiette" "!DA1218">
+"That was a joke.
+ Outside His Grace, you are half my apprentice
+ as well, so I believe that you should dress like
+ a maid."
 #
-<name "セリス" "!AA6544">
-「そうなんですか」
+<name "Celes" "!AA6544">
+"Really?"
 #
-<name "ソシエット" "!DA1219">
-「ええ、ですので、本当に嫌でしたら脱いで頂いて
-　結構です」
+<name "Soshiette" "!DA1219">
+"Yes, but if you really don't like it, feel free
+ to not wear them."
 #
-<name "セリス" "!AA6545">
-「……いえ、着続けたいと思います。
-　ソシエットさんの弟子でもありますから」
+<name "Celes" "!AA6545">
+"No, I want to keep wearing them.
+ I am your apprentice too."
 #
-<name "ソシエット" "!DA1220">
-「……」
+<name "Soshiette" "!DA1220">
+"..."
 #
-<name "セリス" "!AA6546">
-「どうしました？」
+<name "Celes" "!AA6546">
+"What is it?"
 #
-<name "ソシエット" "!DA1221">
-「いえ……ありがとうございます。
-　お礼に、模擬戦では全力で掛からせて貰います」
+<name "Soshiette" "!DA1221">
+"Nothing. Thank you.
+ In return, I'll go full strength in our sparring
+ match."
 #
-<name "セリス" "!AA6547">
-「あはは……」
+<name "Celes" "!AA6547">
+"Hahaha..."
 #
 <background "ev047a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-“協会の門番”と呼ばれ、多くの魔法使いを恐れさ
-　せる事になる魔法使い。
+Known as the Cleaner of the Guild.
+A wizard who puts fear into other wizards.
 #
-　多くの武術を研究、精通し、研磨を重ね。
+She researched and mastered countless battle
+techniques.
 #
-　鍛え抜かれた身体を魔力によってさらに強化。
+She honed her body with training and magic.
 #
-　その圧倒的なまでの戦闘力は、一流の武術家や格
-　闘家を遥かに凌ぎ、その技は竜すらも倒すと伝え
-　られた。
+An unstoppable warrior who far surpasses the
+top warriors and martial artists across the land,
+said to even be able to slay dragons.
 #
-　そして、その強さは集団で動く事を学んでからは
-　さらに凶悪なものとなっていった。
+And her strength has become even more fearsome
+once she learned how to fight in coordination
+with others.
 #
-<name "セリス" "!AA6548">
-「なかなか言う事を聞いてくれない人が居るんです
-　よ。
-　それなのに、新しい事ばかりやろうとして……」
+<name "Celes" "!AA6548">
+"There's this one person who doesn't listen to
+ me, but I keep trying to do new things..."
 #
-<name "ラズロック">
-「そう怒るな」
+<name "Lazlocke">
+"Don't get mad about it."
 #
-<name "セリス" "!AA6549">
-「いえ、怒ります。
-　もっと聞いてください」
+<name "Celes" "!AA6549">
+"No, I am mad.
+ I'm not finished yet."
 #
-<name "ラズロック">
-「はいはい」
+<name "Lazlocke">
+"Yeah, yeah."
 #
-　俺はお茶を用意しながら、セリスの愚痴を聞いた。
+I'm making tea while listening to her vent.
 #
-　まあ、愚痴と言うよりは最近の報告に近いものが
-　あるが……
+Well, it's supposed to be more like a report on
+her recent activities than venting.
 #
-<name "セリス" "!AA6550">
-「師匠。
-　私の話、聞いてます？」
+<name "Celes" "!AA6550">
+"Master, are you listening to me?"
 #
-<name "ラズロック">
-「ああ、聞いてる聞いてる」
+<name "Lazlocke">
+"Yeah, I'm listening."
 #
-　この姿を見て、誰が最強と思うのだろうか……
+I wonder who's stronger...
 #
-<name "セリス" "!AA6551">
-「なんですか？」
+<name "Celes" "!AA6551">
+"What?"
 #
-<name "ラズロック">
-「いや、なんでもない」
+<name "Lazlocke">
+"No, nothing."
 #
-　ともかく、俺の自慢の弟子だ。
+Anyway, I'm proud of my apprentice.
 #
 \x0A\x44\x00\xAB\x84\x01
 <exit>
 :2DB3
 <music 5>
 <background "ev048a0.iph" 10>
-<name "セリス" "!AA6552">
-「すみません、すぐに着替えますから」
+<name "Celes" "!AA6552">
+"I'm sorry. I'll get changed right away."
 #
-<name "ラズロック">
-「だから、どうして俺の部屋で着替える。
-　あと、どうしてズボンを下ろして下着を見せなが
-　ら上を脱いでいる」
+<name "Lazlocke">
+"Why are you changing in my room?
+ And why did you take off your top, and then
+ switch and take off your skirt?"
 #
-<name "セリス" "!AA6553">
-「細かい事を気にしてはいけません」
+<name "Celes" "!AA6553">
+"Don't worry about the details."
 #
-<name "ラズロック">
-「このエロ娘め」
+<name "Lazlocke">
+"Pervert girl."
 #
-<name "セリス" "!AA6554">
-「お仕置きですか？」
+<name "Celes" "!AA6554">
+"Are you going to punish me?"
 #
-<name "ラズロック">
-「むー、お仕置きしても喜ばすだけなんだよな……
-　だから放置」
+<name "Lazlocke">
+"Hmm... That's just what you want, so...
+ I think I'll ignore you."
 #
-<name "セリス" "!AA6555">
-「ひ、酷い。
-　タダ見ですか」
+<name "Celes" "!AA6555">
+"S-So mean.
+ You're just going to look?"
 #
-<name "ラズロック">
-「タダ見って……お前が勝手に見せたんだ」
+<name "Lazlocke">
+"Just going to look?
+ As if you gave me any choice."
 #
-<name "セリス" "!AA6556">
-「むううう」
+<name "Celes" "!AA6556">
+"Grrrrrrr!"
 #
-<name "ラズロック">
-「ほら、怒るな」
+<name "Lazlocke">
+"Hey, calm down."
 #
-　俺はセリスを抱きかかえる。
+I pull Celes into my arms.
 #
-<name "セリス" "!AA6557">
-「えへへ」
+<name "Celes" "!AA6557">
+"Hahaha..."
 #
-<name "ラズロック">
-「まったく……お前は」
+<name "Lazlocke">
+"Honestly, you..."
 #
-　そう言いながら、お仕置きとばかりに尻を叩いて
-　やった。
+I slap her butt as punishment.
 #
-<name "セリス" "!AA6558">
-「い、痛いっ、痛い、痛いです」
+<name "Celes" "!AA6558">
+"O-Ow! That hurt!"
 #
-<name "ラズロック">
-「お仕置きされたいんだろ」
+<name "Lazlocke">
+"You wanted to be punished, didn't you?"
 #
-<name "セリス" "!AA6559">
-「い、いえ、こういった方向じゃなくて……
-　その……性的な方向で」
+<name "Celes" "!AA6559">
+"N-No, not like that...
+ Um... more sexy like..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はセリスの尻を叩き続けた。
+I slap her butt again.
 #
 <background "ev048a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　魔法使いとして優秀だが、その過程に問題があっ
-　たのか、かなりエロくなってしまった。
+She's a fine wizard, but turned out to be a 
+saucy little minx.
+I think there may have been a problem in the
+teaching method.
 #
-　隙あらば、俺との行為を狙っている。
+She tries to jump me every time she gets the 
+chance.
 #
-　他の男に手を出そうとしない事だけは、褒めてや
-　るが……
+I should praise her for never going after any
+other men, but...
 #
-<name "セリス" "!AA6560">
-「師匠、今日は新しい技を使って良いですか？
-　良いですよね」
+<name "Celes" "!AA6560">
+"Master, can I try a new technique today?
+ It's a good one."
 #
-<name "ラズロック">
-「エロ技を覚える前に、もっと覚えないと駄目な事
-　があるだろう」
+<name "Lazlocke">
+"I feel like you should be studying more before
+ you start looking into new sex moves."
 #
-<name "セリス" "!AA6561">
-「そっちも、ちゃんと覚えています。
-　ささ、寝転がってください」
+<name "Celes" "!AA6561">
+"I'm learning that stuff too.
+ Come on, lay down."
 #
-<name "ラズロック">
-「わかったわかった」
+<name "Lazlocke">
+"All right, all right."
 #
-　俺はセリスの相手をした。
+I have sex with her.
 #
-　この関係がいつまで続くかはわからないが、エロ
-　くした理由は確実に俺だ。
+I'm not sure how long this relationship will last,
+but I'm definitely the reason it became so sex
+oriented.
 #
-　ならば、師匠として最後まで責任を持とう。
+So as her master, I'll have to see it through.
 #
-<name "セリス" "!AA6564">
-「今日は何回します？」
+<name "Celes" "!AA6564">
+"How many times should we do it today?"
 #
-<name "ラズロック">
-「……二回で」
+<name "Lazlocke">
+"...Twice."
 #
-<name "セリス" "!AA6563">
-「わかりました。
-　四回ですね」
+<name "Celes" "!AA6563">
+"All right.
+ Four times it is."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺の体力が続く限り……
+...At least, as long as my body holds out.
 #
 \x0A\x44\x00\xAC\x84\x01
 <exit>
 :351E
 <music 30>
 <background "ev049a0.iph" 10>
-<name "セリス" "!AA6565">
-「師匠。
-　お背中をお流しします♪」
+<name "Celes" "!AA6565">
+"Master, let me wash your back.♪"
 #
-　俺は実家に戻ったセリスの所に、遊びに行った。
+I came to visit Celes at her family home.
 #
-　まず、セリスの実家の大きさに圧倒された。
+I was completely awestruck when I saw it.
 #
-　ヴィオラの家が小屋に思えるサイズ。
+It's so big that it makes Viola's manor look like
+a hut.
 #
-　ここは、王家の人の別荘か何かか？
+Is this an entire royal villa?
 #
-　そう思える豪邸だった。
+It's definitely some kind of huge mansion.
 #
-　当然、その中も凄かった。
+The inside was something to behold too.
 #
-　無駄に多い部屋を管理する為の多数の使用人達。
+There are dozens of servants just to take care of
+all the empty rooms.
 #
-　その数は、小さな村を形成できるほどだ。
+This place is almost like a small village.
 #
-<name "ラズロック">
-「本気でお嬢様だな」
+<name "Lazlocke">
+"Seriously some kind of noble girl."
 #
-<name "セリス" "!AA6566">
-「誰がですか？」
+<name "Celes" "!AA6566">
+"Who is?"
 #
-<name "ラズロック">
-「お前だお前」
+<name "Lazlocke">
+"You, obviously."
 #
-<name "セリス" "!AA6567">
-「そんな事ないですよ」
+<name "Celes" "!AA6567">
+"Not at all."
 #
-　そう言われてもな……
+Speaking of which...
 #
-　この風呂場にしても、俺の家がまるまる入るサイ
-　ズの大きさだ。
+Even just this bathroom is the size of my entire
+house.
 #
-　ロココ家が名家だとは聞いていたが、ここまでと
-　は思わなかった。
+I knew the Rococo family was rich, but I didn't
+realize how rich.
 #
-　しかし、こんな家に住む生活から、俺の家での修
-　行の毎日か……
+She went from living somewhere like this to
+training at my house?
 #
-<name "ラズロック">
-「苦労してるな」
+<name "Lazlocke">
+"Talk about having it rough."
 #
-<name "セリス" "!AA6568">
-「誰がですか？」
+<name "Celes" "!AA6568">
+"Who?"
 #
-<name "ラズロック">
-「……
-　背中、流してくれ」
+<name "Lazlocke">
+"...Please wash my back."
 #
-<name "セリス" "!AA6570">
-「はい♪」
+<name "Celes" "!AA6570">
+"Yes, sir.♪"
 #
 <background "ev049a1.iph" 10>
-　この後、セリスは魔法使いとして生計を立てなが
-　ら、ロココ家を繁栄させていこうとしている。
+She's planning on working as a wizard while
+promoting the Rococo family name.
 #
-　この家の大きさから考えても、それは魔法使いに
-　なる以上に難しいだろう。
+Given the size of this mansion, the latter may
+be harder than the former.
 #
-　しかし、このセリスならやってしまうかもしれな
-　い。
+But I'm sure she can handle it.
 #
-　助けを求められたら、手伝おう。
+If she asks for my help, I'll give it to her.
 #
-　俺はそう思いながら、セリスの様子をこれからも
-　見守っていくつもりだ。
+As I think about that, I'm going to keep watching
+over her.
 #
-<name "セリス" "!AA6571">
-「あの、師匠」
+<name "Celes" "!AA6571">
+"Um, Master."
 #
-<name "ラズロック">
-「ん？
-　なんだ？」
+<name "Lazlocke">
+"Hm? What is it?"
 #
-<name "セリス" "!AA6572">
-「実は、私には兄弟がいません」
+<name "Celes" "!AA6572">
+"You know, I don't have any siblings."
 #
-<name "ラズロック">
-「ああ、そうらしいな」
+<name "Lazlocke">
+"Yeah, I know."
 #
-　セリス以外に血縁が居れば、弟子の乗っ取りなど
-　は無かった筈だ。
+If she had any other relatives, that other
+apprentice couldn't have taken over.
 #
-　魔法使いじゃないセリスが一人娘。
+She wasn't a wizard, and she was their only
+daughter.
 #
-　だから、狙われた。
+That's why he targeted her.
 #
-<name "ラズロック">
-「一人で頑張ったじゃないか」
+<name "Lazlocke">
+"You've had to work hard by yourself, huh?"
 #
-<name "セリス" "!AA6573">
-「はい。
-　ですが、このままですと血筋が絶えてしまいます」
+<name "Celes" "!AA6573">
+"Yes, but if I don't do something, my bloodline
+ will die with me."
 #
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
-<name "セリス" "!AA6574">
-「そこで、お願いがあるのですが……」
+<name "Celes" "!AA6574">
+"So, I had a request..."
 #
-<name "ラズロック">
-「お願い？」
+<name "Lazlocke">
+"A request?"
 #
-　なにやら、セリスの視線が背中越しに俺の股間に
-　集中している気がする。
+I can't help but notice that she's focused 
+somewhere a bit lower than my back.
 #
-<name "セリス" "!AA6575">
-「はい。
-　師匠なら簡単な事です」
+<name "Celes" "!AA6575">
+"Yes. It should be easy for you."
 #
-　そのセリスの笑顔に、俺はお願いを断わる事が出
-　来なかった。
+I can't say no to that smile.
 #
 \x0A\x44\x00\xAD\x84\x01
 <exit>
 :3D37
 <music 33>
 <background "ev050a0.iph" 10>
-　セリスティーネ＝ロココは、クインズベル王国の
-　宮廷魔法使いとして招聘された。
+Celestine Rococo was invited to become a court
+wizard for Queensbell.
 #
-<name "セリス" "!AA6576">
-「え？
-　私が宮廷魔法使いですか？」
+<name "Celes" "!AA6576">
+"Huh?
+ Me? A court wizard?"
 #
-　驚くセリスだったが、少し悩んだ末に宮廷魔法使
-　いの道を歩む事にしたらしい。
+She was surprised, but in the end, she decided to
+accept the position.
 #
-　彼女が宮廷魔法使いとして招聘されたのは、これ
-　までの実績もあるが、協会からの推薦、そして現
-　役の宮廷魔法使いであるヴィオラの推薦が大きい。
+It was offered to her based on what she's
+accomplished, but she had a recommendation from
+the Guild, not to mention Viola backed her as
+well.
 #
-　正直、宮廷魔法使いとしてはまだまだ未熟だろう。
+To be honest, I'm not sure she's ready for it
+just yet.
 #
-　しかし、きっとセリスは乗り越えるだろう。
+But I know she'll figure it out.
 #
-　俺はそんな確信を持ちながら、セリスを送り出し
-　た。
+I sent her off, trusting in her.
 #
 <background "ev050a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　魔法使いを目指し、そして叶えた彼女は、宮廷魔
-　法使いとして活躍しながら、多くの研究成果を残
-　していく事になる。
+She wanted to be a wizard, realized her goals,
+and as a court wizard, will research all kinds of
+new and revolutionary things.
 #
-　そんな弟子の成長に、俺は満足しながら次の弟子
-　を取ろうかどうか悩んでいた。
+I'm satisfied with how my apprentice turned out,
+but wondering now if I should take another one.
 #
-<name "セリス" "!AA6577">
-「師匠の弟子は私一人で十分です」
+<name "Celes" "!AA6577">
+"Me alone is enough apprentices for you."
 #
-<name "ラズロック">
-「その気持ちは嬉しいが……
-　あと、仕事中じゃないのか？
-　俺の家に来てると怒られるぞ」
+<name "Lazlocke">
+"Thank you for that, but don't you have work to
+ do?
+ They'll get mad if you keep coming to my house."
 #
-<name "セリス" "!AA6578">
-「ヴィオラさんも来てるから大丈夫です」
+<name "Celes" "!AA6578">
+"Viola's here too, so it's fine."
 #
-<name "ヴィオラ" "!BA1018">
-「お茶、まだかしら……」
+<name "Viola" "!BA1018">
+"Still no tea?"
 #
-　……
+...
 #
-　ふう……
+Sigh...
 #
-　この二人を見ると、クインズベル王国の宮廷魔法
-　使いは大丈夫なのかと心配が尽きない。
+Looking at the two of them, I sincerely wonder
+if the court wizards of Queensbell are going to
+be okay.
 #
-<name "ヴィオラ" "!BA1019">
-「お茶」
+<name "Viola" "!BA1019">
+"Tea."
 #
-<name "ラズロック">
-「はいはい」
+<name "Lazlocke">
+"Yeah, yeah."
 #
-<name "セリス" "!AA6579">
-「あ、師匠。
-　私の分も」
+<name "Celes" "!AA6579">
+"Ah, Master.
+ For me too."
 #
-<name "ラズロック">
-「わかっている」
+<name "Lazlocke">
+"I know."
 #
-　しかし、まあ、この二人ならどうとでもしてしま
-　うだろうと言う予感もある。
+But, well, I have a feeling that between the two
+of them, they can take care of whatever needs to
+be done.
 #
-　事実、どうとでもしてしまうだろう。
+In fact, I'm sure of it.
 #
-　頼もしい限りだ。
+...As long as they feel like it.
 #
 \x0A\x44\x00\xAE\x84\x01
 <exit>
 :430F
 <music 33>
 <background "ev050a0.iph" 10>
-　セリスティーネ＝ロココは、クインズベル王国の
-　宮廷魔法使いとなった。
+Celestine Rococo became a court wizard for the
+Queensbell Kingdom.
 #
-　クデュール魔法大会での成績や、これまでの実績
-　による協会からの推薦が大きいが、セリス自身の
-　頑張りが認められた結果だ。
+Because of how she did at Coudures, and a
+recommendation from the Guild based on her
+accomplishments, it's the results of her own hard
+work.
 #
-<name "セリス" "!AA6580">
-「まさか、宮廷魔法使いになれるとは思いませんで
-　した」
+<name "Celes" "!AA6580">
+"I never thought I'd become a court wizard."
 #
-<name "ヴィオラ" "!BA1020">
-「正統な評価よ。
-　自信を持ちなさい」
+<name "Viola" "!BA1020">
+"You deserve it.
+ Be confident."
 #
 <background "ev061a0.iph" 10>
-<name "イエル" "!CA0868">
-「そうよ。
-　これからは、私と貴女でヴィオラ様を支えていく
-　んだから」
+<name "Elle" "!CA0868">
+"That's right.
+ From here on, I'll be supporting you and Miss
+ Viola."
 #
-<name "ヴィオラ" "!BA1021">
-「私じゃなくて、クインズベル王国を支えるのよ」
+<name "Viola" "!BA1021">
+"You work for Queensbell, not me."
 #
-<name "イエル" "!CA0869">
-「そうでした」
+<name "Elle" "!CA0869">
+"I guess."
 #
-　イエルも宮廷魔法使いとなっていた。
+Elle also became a court wizard.
 #
-<name "セリス" "!AA6581">
-「イエルちゃん、クルーネ帝国への訪問。
-　ご苦労様。
-　どうだった？」
+<name "Celes" "!AA6581">
+"Elle, you visited Krun, right?
+ It must have been hard.
+ How'd it go?"
 #
-<name "イエル" "!CA0870">
-「歓迎ムードだったし、特に問題無いわ。
-　それより、そっちは大変だったんじゃないの？」
+<name "Elle" "!CA0870">
+"They were welcoming, and nothing happened really.
+ Didn't you have a much harder time?"
 #
-<name "セリス" "!AA6582">
-「ええ。
-　でも、ヴィオラさんが居たから大丈夫だったわよ」
+<name "Celes" "!AA6582">
+"Yes, but Viola was there, so it turned out okay."
 #
-<name "イエル" "!CA0872">
-「宮廷内では、ヴィオラ様と呼ぶように」
+<name "Elle" "!CA0872">
+"In the court, call her Miss Viola."
 #
-<name "セリス" "!AA6583">
-「そうでした」
+<name "Celes" "!AA6583">
+"I know."
 #
-<name "ヴィオラ" "!BA1022">
-「あまり気にしなくて良いのだけど……」
+<name "Viola" "!BA1022">
+"I don't need to stand on ceremony."
 #
-<name "イエル" "!CA0873">
-「駄目です。
-　規律は守りましょう」
+<name "Elle" "!CA0873">
+"That won't due.
+ We have to follow the rules."
 #
-<name "セリス" "!AA6584">
-「了解」
+<name "Celes" "!AA6584">
+"Yes, ma'am."
 #
 <background "ev050a0.iph" 10>
-<name "ヴィオラ" "!BA1023">
-「と……そろそろ謁見の時間よ。
-　整列」
+<name "Viola" "!BA1023">
+"So... It's about time for the audience.
+ Stand at attention."
 #
-<name "セリス" "!AA6585">
-「はい」
+<name "Celes" "!AA6585">
+"Yes, ma'am."
 #
 <background "ev050a1.iph" 10>
-　ヴィオラ、セリス、イエル。
+Viola, Celes, Elle.
 #
-　この三人は、クインズベル王国の宮廷魔法使いと
-　して、数々の研究成果を残し、そして数々の事件
-　の解決者としてその名前を歴史に残していく事に
-　なる。
+The three of them are court Wizards of Queensbell,
+who will accomplish great things, and leave their
+names in history.
 #
 \x1A\x01\x07\x04\x00\xD8\x84\x00\x01\x0E :4B29: 
-　そんな弟子の成長に、俺は満足しながら次の弟子
-　を取ろうかどうか悩んでいた。
+I'm proud of what my apprentice has become, and
+wonder about taking on another one.
 #
-<name "イエル" "!CA0875">
-「必要無いと思いますよ」
+<name "Elle" "!CA0875">
+"I don't think you need to do that."
 #
-<name "セリス" "!AA6586">
-「そうそう。
-　師匠の弟子は私一人で十分です」
+<name "Celes" "!AA6586">
+"That's right. 
+ Me alone is enough apprentices for you."
 #
-<name "ラズロック">
-「お前達、仕事はどうした？
-　俺の家に来て大丈夫なのか？」
+<name "Lazlocke">
+"Don't you all have work to do?
+ Should you be coming to my house?"
 #
-<name "セリス" "!AA6587">
-「大丈夫です」
+<name "Celes" "!AA6587">
+"Don't worry about it."
 #
-<name "ヴィオラ" "!BA1024">
-「協会に用事があるの」
+<name "Viola" "!BA1024">
+"We have business with the Guild."
 #
-<name "ラズロック">
-「それで、どうして俺の家に？」
+<name "Lazlocke">
+"How does that bring you to my house?"
 #
-<name "セリス" "!AA6588">
-「ここで待ち合わせだからです」
+<name "Celes" "!AA6588">
+"This is where we meet."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺の人生において、この三人とは長い付き合いを
-　する事になった。
+I think my relationship with these three is going
+to last the rest of my life.
 #
 \x18 :4C61: 
 :4B29
-<name "ヴィオラ" "!BA1025">
-「例の件、そろそろいけそう？」
+<name "Viola" "!BA1025">
+"Isn't it about time to get to that?"
 #
-<name "セリス" "!AA6589">
-「はい。
-　滞り無く」
+<name "Celes" "!AA6589">
+"Yes, right away."
 #
-<name "イエル" "!CA0876">
-「手回しは済んでいます」
+<name "Elle" "!CA0876">
+"Everything is ready."
 #
-<name "ヴィオラ" "!BA1312">
-「そう……
-　何時からいけそう？」
+<name "Viola" "!BA1312">
+"I see...
+ When do we begin."
 #
-<name "セリス" "!AA6590">
-「今晩にでも」
+<name "Celes" "!AA6590">
+"Tonight."
 #
-<name "ヴィオラ" "!BA1027">
-「じゃあ、今晩ね」
+<name "Viola" "!BA1027">
+"Then tonight it is."
 #
-<name "イエル" "!CA0877">
-「はい」
+<name "Elle" "!CA0877">
+"Okay."
 #
 :4C61
 \x0A\x44\x00\xAF\x84\x01
@@ -1060,277 +1062,282 @@
 :4C68
 <music 32>
 <background "ev051a0.iph" 10>
-<name "セリス" "!AA6591">
-「怯まずに、前へ！
-　ここさえ抜ければ、お宝よ」
+<name "Celes" "!AA6591">
+"Don't be scared! Forward!
+ If we get through this, there's treasure!"
 #
-　セリスの声に力を貰ったセリスの仲間が、巨大な
-　魔物に斬りかかる。
+Her companions draw strength from her shout and
+stab at the huge monster.
 #
-　それをセリスが魔法で援護しながら、巨大な魔物
-　をジワジワと圧倒していった。
+She backs them up with magic.
+They overwhelm it and blast it until it's
+smoldering.
 #
-　そして、セリスの魔法が巨大な魔物に止めを刺す。
+And then, Celes's magic delivers the finishing
+blow.
 #
-<name "セリス" "!AA6592">
-「よしっ！
-　お宝よ」
+<name "Celes" "!AA6592">
+"All right!
+ Treasure!"
 #
-　セリスがそう喜んだ瞬間、先程倒した巨大な魔物
-　が三匹、現れた。
+But before she can celebrate, three more giant
+monsters appear.
 #
-　そして、その後ろにさらに巨大な魔物。
+And an even larger one behind them.
 #
-<name "セリス" "!AA6593">
-「簡単に、お宝は渡してくれないか……」
+<name "Celes" "!AA6593">
+"You won't let me have the treasure so easily,
+ huh?"
 #
-　セリスの仲間は露骨に腰が引けたが、セリスがそ
-　の前に出て、魔物と対峙した。
+Her companions shirk in fear, but Celes stands
+before them and faces the monsters.
 #
-<name "セリス" "!AA6594">
-「でも、こうでなきゃね」
+<name "Celes" "!AA6594">
+"But this is how it has to be."
 #
 <background "ev051a1.iph" 10>
-　セリスは魔物達に向かい、攻撃を開始した。
+She faces the monsters and attacks.
 #
 <background "ev051a2.iph" 10>
-　セリスは、冒険者となった。
+Celes became an adventurer.
 #
-　魔法使いとしての修行中、冒険者っぽい事をさせ
-　過ぎたからかもしれない。
+Maybe it's because she did so much adventurer
+stuff while she was training to be a wizard.
 #
-　まあ、セリスも楽しそうにやっているので、これ
-　はこれで良かったのかもしれない。
+Well, she's enjoying herself, so there's nothing
+wrong with that.
 #
-　机の前だけで活躍するのが魔法使いの道ではない
-　のだから。
+Sitting at a desk isn't the only path to being
+a wizard.
 #
-<name "セリス" "!AA6595">
-「次は、どのダンジョンを狙おうかしら」
+<name "Celes" "!AA6595">
+"Which dungeon should we do next?"
 #
-　しかし、まあ……
+Still, well...
 #
-　アウトドアな感じの魔法使いになってしまった。
+She's become kind of an outdoor wizard.
 #
-<name "セリス" "!AA6596">
-「師匠。
-　狙っているダンジョンがあるんですが、今度、一
-　緒に行きませんか？」
+<name "Celes" "!AA6596">
+"Master, there's a dungeon I want to go to.
+ Can't you come with me?"
 #
-<name "ラズロック">
-「……お前が俺を誘うぐらい、危ない場所なのか」
+<name "Lazlocke">
+"...Are the only places you're going to invite
+ me dangerous?"
 #
-<name "セリス" "!AA6597">
-「はい」
+<name "Celes" "!AA6597">
+"Yep."
 #
-<name "ラズロック">
-「すっごい笑顔で返事するんだな」
+<name "Lazlocke">
+"Don't answer like that with a big smile."
 #
-　未知や未開の場所はもちろん、魔物が多い場所に
-　行く事になる冒険者は危険な仕事だが、セリスは
-　かなり高齢まで冒険者であったらしい。
+Adventurers only go to uncivilized, unknown, and
+dangerous places, especially those full of 
+monsters and life-threatening hazards.
+She'll be an adventurer until she's old and grey.
 #
 \x0A\x44\x00\xB0\x84\x01
 <exit>
 :5264
 <music 33>
 <background "ev061a0.iph" 10>
-　イエルはクインズベル王国の王宮を颯爽と歩いて
-　いた。
+Elle hurries through the Queensbell palace.
 #
-　宮廷魔法使いの一人として。
+As a court wizard.
 #
 <background "ev061a1.iph" 10>
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　ヴィオラには及ばないものの、クインズベル王国の
-　宮廷魔法使いとして名を国内外に知らしめ、重要人
-　物の一人となった。
+She's no Viola, but she's made her name known
+inside Queensbell and in the surrounding kingdoms
+as a mover and shaker.
 #
-　特に外交面では、ヴィオラ以上の影響力を持つ事に
-　なる。
+And if we're talking as a statesman, she's got
+more influence than Viola does.
 #
-<name "イエル" "!CA0878">
-「まあ、私が宮廷魔法使いになれたのは、ヴィオラ
-　様や協会の推薦が大きいんですけど……」
+<name "Elle" "!CA0878">
+"Well, the reason I became a court wizard is
+ because of the personal recommendations from
+ Miss Viola and the Guild."
 #
-<name "イエル" "!CA0879">
-「それに恥じない実力をつけていきます」
+<name "Elle" "!CA0879">
+"I have to put in the work so as not to shame
+ them."
 #
-<name "ラズロック">
-「その意気だ」
+<name "Lazlocke">
+"That's the spirit."
 #
-<name "イエル" "!CA0880">
-「それでですね。
-　お願いがあるんですけど」
+<name "Elle" "!CA0880">
+"And, you know, I needed to ask a favor."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What is it?"
 #
-<name "イエル" "!CA0881">
-「時々、こうやって会いに来ても良いですか？」
+<name "Elle" "!CA0881">
+"Can I sometimes come see you like this?"
 #
-<name "ラズロック">
-「ああ、構わないぞ」
+<name "Lazlocke">
+"Yeah, I don't mind."
 #
-<name "イエル" "!CA0883">
-「そして……その、お相手も」
+<name "Elle" "!CA0883">
+"And, um... be with me too."
 #
-<name "ラズロック">
-「んー……もう必要無いと思うが？」
+<name "Lazlocke">
+"Hmm... I thought you didn't need that any more."
 #
-<name "イエル" "!CA0884">
-「宮廷魔法使いと言うのは、色々とストレスが溜ま
-　るんです」
+<name "Elle" "!CA0884">
+"Being a court wizard is very stressful."
 #
-<name "ラズロック">
-「確かにな……
-　わかった、考えておこう」
+<name "Lazlocke">
+"I can imagine it.
+ All right. I'll think about it."
 #
-<name "イエル" "!CA0885">
-「考えるんじゃなくて、約束でお願いします」
+<name "Elle" "!CA0885">
+"Don't think.
+ Please promise me."
 #
-<name "ラズロック">
-「わかった、良いだろう」
+<name "Lazlocke">
+"All right.
+ It's probably okay."
 #
-<name "イエル" "!CA0886">
-「では、さっそく」
+<name "Elle" "!CA0886">
+"Then, let's get right to it."
 #
-<name "ラズロック">
-「さっそくって……
-　ずいぶん、ストレスが溜まっているんだな」
+<name "Lazlocke">
+"Right to it?
+ Sounds like stress is already getting to you."
 #
-<name "イエル" "!CA0887">
-「はい♪」
+<name "Elle" "!CA0887">
+"Yep.♪"
 #
 \x0A\x44\x00\xB1\x84\x01
 <exit>
 :575D
 <music 2>
 <background "ev062a0.iph" 10>
-　イエルは、ローリアの街を出た。
+Elle left Loria.
 #
-　そして、小さな村で魔法と普通の勉強を教える教
-　師として生計を立てているらしい。
+She's making a living as a magical, and regular,
+teacher in a small village.
 #
-<name "イエル" "!CA0889">
-「ほら、もうここがわからないと、色々と困るのよ」
+<name "Elle" "!CA0889">
+"Hey, if you don't understand this place, you'll
+ be in trouble later."
 #
-<name "イエル" "!CA0890">
-「そう。
-　その通り」
+<name "Elle" "!CA0890">
+"Yes. That's right."
 #
-<name "イエル" "!CA0891">
-「その調子で頑張れば、良い魔法使いになれるわよ」
+<name "Elle" "!CA0891">
+"If you keep working hard, you'll be able to
+ become a fine wizard."
 #
-<name "イエル" "!CA0892">
-「目標は高く、そして諦めないように」
+<name "Elle" "!CA0892">
+"Aim high, and don't give up."
 #
-<name "イエル" "!CA0893">
-「私の目標？
-　もちろん、宮廷魔法使いよ」
+<name "Elle" "!CA0893">
+"My goal?
+ Become a court wizard, of course."
 #
-<name "イエル" "!CA0894">
-「でも、その前に貴方達を一人前にする事かな」
+<name "Elle" "!CA0894">
+"But I'm going to make it on my own first."
 #
 <background "ev062a1.iph" 10>
 \x2B\x1A\x01\x07\x44\x03\x2A\x84\x00\x01\x0E :5CD6: 
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　各地を回り、流れの魔法使いとして地道な活動と
-　研究を続ける。
+She travels from place to place, constantly
+researching and teaching magic as she goes.
 #
-<name "イエル" "!CA0895">
-「魔法がもっと身近になればと思って」
+<name "Elle" "!CA0895">
+"I want everybody to become more familiar with
+ magic."
 #
-<name "ラズロック">
-「悪く無い事だと思うが……
-　地方じゃ、まだまだ危険視されるだろ」
+<name "Lazlocke">
+"That's not a bad thing, but it could still be
+ dangerous in the more rural areas."
 #
-<name "イエル" "!CA0896">
-「はい。
-　ですが、そうでなくては、やりがいがありません」
+<name "Elle" "!CA0896">
+"Yes, but if it wasn't, then it wouldn't be
+ worth doing."
 #
-<name "ラズロック">
-「たくましいな」
+<name "Lazlocke">
+"You sound confident."
 #
-<name "イエル" "!CA0897">
-「いえ、まだまだです。
-　目標は大きいですから」
+<name "Elle" "!CA0897">
+"No, I still have a ways to go, because I set my
+ goal so high."
 #
-<name "ラズロック">
-「宮廷魔法使いか」
+<name "Lazlocke">
+"A court wizard?"
 #
-<name "イエル" "!CA0898">
-「はい。
-　ヴィオラ様のような、宮廷魔法使いです」
+<name "Elle" "!CA0898">
+"Yes. A court wizard like Miss Viola."
 #
-<name "ラズロック">
-「さらに難度が高いな」
+<name "Lazlocke">
+"That's even harder."
 #
-<name "イエル" "!CA0899">
-「それぐらいが良いんです。
-　簡単だと、詰まりません」
+<name "Elle" "!CA0899">
+"That's a good thing.
+ If it was easy, it'd be boring."
 #
-<name "ラズロック">
-「……その通りだ」
+<name "Lazlocke">
+"...True enough."
 #
-　イエルが宮廷魔法使いになるのは、かなりの年を
-　経てからになる。
+She actually technically became a court wizard
+a couple years ago.
 #
-　しかし、目標に向かい続け、そして叶えたイエル
-　を世間は高く評価した。
+But she's continued to pursue her real ambition
+and win the hearts of the people around her.
 #
 \x18 :60A0: 
 :5CD6
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　各地を回り、流れの魔法使いとして地道な活動と
-　研究を続ける。
+She travels from place to place, constantly
+researching and teaching magic as she goes.
 #
-　イエルが宮廷魔法使いになるのは、かなりの年を
-　経てからになるのだが、それは地道な活動が実を
-　結んだ結果だろう。
+It's been a couple years since she became a court
+wizard, but it's because of all her hard work.
 #
-　珍しく民衆に人気のある宮廷魔法使いとして、活
-　躍していく事になる。
+She's especially popular among court wizards, and
+has accomplished a lot.
 #
-<name "イエル" "!CA0900">
-「魔法がもっと身近になればと思って」
+<name "Elle" "!CA0900">
+"I want everybody to become more familiar with
+ magic."
 #
-<name "ラズロック">
-「悪く無い事だと思うが……
-　地方じゃ、まだまだ危険視されるだろ」
+<name "Lazlocke">
+"That's not a bad thing, but it could still be
+ dangerous in the more rural areas."
 #
-<name "イエル" "!CA0901">
-「そうですね。
-　槍や石を投げられるのは当たり前、お供え物を差
-　し出されたり、悪魔だと囁かれたり、夜泣きが無
-　くなったりと……」
+<name "Elle" "!CA0901">
+"Certainly.
+ It's common for them to throw spears or stones,
+ offer gifts, whisper that I'm a devil, or
+ stop their children from crying at night..."
 #
-<name "ラズロック">
-「た、大変だな」
+<name "Lazlocke">
+"S-Sounds rough."
 #
-<name "イエル" "!CA0902">
-「でも、慣れました」
+<name "Elle" "!CA0902">
+"But I'm used to it."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"I see."
 #
-<name "イエル" "!CA0903">
-「はい。
-　あ、でも困ったのが生贄ですね。
-　村の若い男達をこう、ドサッと持ってこられた時
-　は……」
+<name "Elle" "!CA0903">
+"Yeah, oh, but when they offer sacrifices, that's
+ a problem. I never know what to do when they
+ offer up young men to me."
 #
-<name "ラズロック">
-「どうしたんだ？」
+<name "Lazlocke">
+"What do you do?"
 #
-<name "イエル" "!CA0904">
-「もちろん、我慢しました。
-　浮気な女は嫌いでしょ」
+<name "Elle" "!CA0904">
+"Turn them down, of course.
+ You don't like unfaithful girls, right?"
 #
-　俺はイエルの頭を撫でてやった。
+I pat her on the head.
 #
 :60A0
 \x0A\x44\x00\xB2\x84\x01
@@ -1338,360 +1345,360 @@
 :60A7
 <music 31>
 <background "ev063a0.iph" 10>
-<name "イエル" "!CA0905">
-「そっちより、こっちの方が良いですよ」
+<name "Elle" "!CA0905">
+"Anyway, this one is better than that."
 #
-<name "ラズロック">
-「そうか？」
+<name "Lazlocke">
+"Oh?"
 #
-<name "イエル" "!CA0906">
-「はい。
-　商人の娘の目を信じてください」
+<name "Elle" "!CA0906">
+"Yes. Trust in the eyes of a merchant's daughter."
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"All right."
 #
-　イエルはヴィオラの元で魔法使いの勉強を続けて
-　いる。
+Elle is continuing to study magic under Viola.
 #
-　ヴィオラに言わせれば、まだまだ未熟との事だ。
+According to Viola, she's not ready yet.
 #
-<name "イエル" "!CA0907">
-「今日は何を作るんですか？」
+<name "Elle" "!CA0907">
+"What are you going to make today?"
 #
-<name "ラズロック">
-「果物を使った料理があってな、それに挑戦してみ
-　ようと思っている」
+<name "Lazlocke">
+"There's a fruit dish that I want to try."
 #
-<name "イエル" "!CA0908">
-「お手伝いします」
+<name "Elle" "!CA0908">
+"I'll help."
 #
-<name "ラズロック">
-「それは助かるが……」
+<name "Lazlocke">
+"That'd be nice, but..."
 #
-<name "イエル" "!CA0909">
-「もちろん、勉強もしますよ」
+<name "Elle" "!CA0909">
+"Of course, I'll study too."
 #
 <background "ev063a1.iph" 10>
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　まだまだ修行中。
+She's still in training.
 #
-　ヴィオラが忙しい時は、俺が面倒を見ているのだ
-　が、先は長そうだ。
+When Viola's busy, I look after her, and it looks
+like that's how it'll be for quite a while.
 #
-<name "イエル" "!CA0910">
-「今度、手合わせをお願いします」
+<name "Elle" "!CA0910">
+"Next time, I'd like to compete."
 #
-<name "ラズロック">
-「ああ、魔法か？
-　それとも料理か？」
+<name "Lazlocke">
+"Oh? In magic, or cooking?"
 #
-<name "イエル" "!CA0911">
-「両方です。
-　どっちも腕を上げたんですよ」
+<name "Elle" "!CA0911">
+"Both.
+ I want to get better at both."
 #
-<name "ラズロック">
-「そうか、それは楽しみだな」
+<name "Lazlocke">
+"I see. That should be fun."
 #
-<name "イエル" "!CA0912">
-「はい。
-　それと……ベッドでの技も磨いてます」
+<name "Elle" "!CA0912">
+"Yes, and... I want to hone my skills in bed too."
 #
-<name "ラズロック">
-「………………」
+<name "Lazlocke">
+"........."
 #
-<name "イエル" "!CA0913">
-「楽しみですか？」
+<name "Elle" "!CA0913">
+"Are you looking forward to that?"
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はイエルの頭を軽く叩いてやった。
+I bonk her on the head.
 #
-<name "イエル" "!CA0914">
-「あうう……」
+<name "Elle" "!CA0914">
+"Ohh..."
 #
-　イエルとは仲良くやっている。
+I'm getting along well with her.
 #
 \x0A\x44\x00\xB3\x84\x01
 <exit>
 :6584
 <music 5>
 <background "ev071a0.iph" 10>
-<name "ヴィオラ" "!BA1028">
-「また、協会？」
+<name "Viola" "!BA1028">
+"The Guild again?"
 #
-<name "ラズロック">
-「仕事なんだから仕方が無いだろ」
+<name "Lazlocke">
+"It's work. There's not much I can do about it."
 #
-<name "ヴィオラ" "!BA1029">
-「断われるでしょ」
+<name "Viola" "!BA1029">
+"You could say no."
 #
-<name "ラズロック">
-「そう言ってもだな」
+<name "Lazlocke">
+"Easier said than done."
 #
-<name "ヴィオラ" "!BA1030">
-「魔力なら、私が全部貰って上げるって言ったわよ」
+<name "Viola" "!BA1030">
+"If it's mana, I already said that I'd take care
+ of all of that."
 #
-<name "ラズロック">
-「そうだけどな」
+<name "Lazlocke">
+"Yeah, but..."
 #
-<name "ヴィオラ" "!BA1031">
-「むう……」
+<name "Viola" "!BA1031">
+"Grr..."
 #
-<name "ラズロック">
-「怒ってるのか？」
+<name "Lazlocke">
+"Are you mad?"
 #
-<name "ヴィオラ" "!BA1032">
-「怒ってるわよ」
+<name "Viola" "!BA1032">
+"I am mad."
 #
-<name "ラズロック">
-「そうか。
-　ところで、俺はお前をたちどころに機嫌良くさせ
-　る方法を知っている」
+<name "Lazlocke">
+"I see.
+ You know, I know how to cheer you up right away."
 #
-<name "ヴィオラ" "!BA1033">
-「何をされても、機嫌良くなったりしないわよ」
+<name "Viola" "!BA1033">
+"Whatever you do, I won't be in a good mood."
 #
-<name "ラズロック">
-「手、繋ぎながら寝てやるぞ」
+<name "Lazlocke">
+"We could sleep, holding hands."
 #
-<name "ヴィオラ" "!BA1034">
-「………………」
+<name "Viola" "!BA1034">
+"........."
 #
-<name "ラズロック">
-「嫌か？」
+<name "Lazlocke">
+"No?"
 #
-<name "ヴィオラ" "!BA1035">
-「い、嫌とは言ってないでしょ！」
+<name "Viola" "!BA1035">
+"I-I didn't say no!"
 #
-<name "ラズロック">
-「そうか。
-　じゃあ、機嫌を直せ」
+<name "Lazlocke">
+"I see.
+ Then try to feel better."
 #
-<name "ヴィオラ" "!BA1036">
-「う、うん」
+<name "Viola" "!BA1036">
+"F-Fine."
 #
 <background "ev071a1.iph" 10>
-　ヴィオラ＝エントラ
+Viola Entra.
 #
-　宮廷魔法使いを続けながら俺の妻となり、円満な
-　夫婦生活を送っている。
+She became my wife, while remaining a court
+wizard, and we've been living the peaceful
+married life.
 #
-<name "ラズロック">
-「ところで……」
+<name "Lazlocke">
+"By the way..."
 #
-<name "ヴィオラ" "!BA1037">
-「なに？」
+<name "Viola" "!BA1037">
+"What?"
 #
-<name "ラズロック">
-「いつから、俺の事を？」
+<name "Lazlocke">
+"When'd you feelings for me change?"
 #
-<name "ヴィオラ" "!BA1038">
-「貴方が居なくなった時から」
+<name "Viola" "!BA1038">
+"When you went away."
 #
-<name "ラズロック">
-「と言うと……テロル山での戦いの後か？」
+<name "Lazlocke">
+"Meaning... after the fight at the Terol
+ Mountains?"
 #
-<name "ヴィオラ" "!BA1039">
-「うん。
-　貴方が居なくなったって聞いた時は、どうも思わ
-　なかったんだけど……
-　その、後から、ずっと気になってて……」
+<name "Viola" "!BA1039">
+"Yeah. When I heard you were gone, I didn't
+ think much about it, but, um, that was when I
+ started worrying..."
 #
-<name "ヴィオラ" "!BA1040">
-「何度か、私も探しに出たのよ」
+<name "Viola" "!BA1040">
+"I went out looking for you several times."
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"I see..."
 #
-<name "ヴィオラ" "!BA1041">
-「貴方が帰ってた時、その、想いを伝えようと思っ
-　たんだけど……」
+<name "Viola" "!BA1041">
+"When you came back, um, I was going to tell you
+ how I felt..."
 #
-<name "ヴィオラ" "!BA1042">
-「私が貴方に酷い事を言ったでしょ」
+<name "Viola" "!BA1042">
+"I said horrible things to you."
 #
-<name "ラズロック">
-「ああ、あれは傷ついた」
+<name "Lazlocke">
+"Yeah, that hurt."
 #
-　貴方が私をどう想っていようが、貴方が何を正義
-　と考えようが関係無い。
+It doesn't matter how you feel about me.
+It doesn't matter what you think is right or
+wrong.
 #
-　貴方は、私に魔力を与える為に、私を抱きなさい。
+You need to have sex with me to give me mana.
 #
-　好きな相手を抱けるんだから、それで良いでしょ。
-　それとも、もう好きでなくなった？
+You get to have sex with the one you love.
+You should have no problem with it.
+Or do you no longer fancy me?
 #
-　……俺の事が嫌いか。
+...Do you hate me?
 #
-　どこを好きになれって言うの。
+What is there to love?
 #
-<name "ヴィオラ" "!BA1043">
-「ごめんなさい」
+<name "Viola" "!BA1043">
+"I'm sorry."
 #
-<name "ラズロック">
-「……いいさ、気にしてない」
+<name "Lazlocke">
+"...It's fine. Don't worry about it."
 #
-<name "ヴィオラ" "!BA1044">
-「でも、私はあの言葉がずっと後悔だった」
+<name "Viola" "!BA1044">
+"But I regretted what I said for a long time."
 #
-<name "ヴィオラ" "!BA1045">
-「自分に言われたらと思ったら、足がすくんだの」
+<name "Viola" "!BA1045">
+"Whenever I thought about telling you myself, I
+ felt weak at the knees."
 #
-<name "ヴィオラ" "!BA1046">
-「そして、怖くなった」
+<name "Viola" "!BA1046">
+"And I got scared."
 #
-<name "ヴィオラ" "!BA1047">
-「ずっと、伝えたくても伝えられなかった」
+<name "Viola" "!BA1047">
+"I wanted to tell you, but I never could."
 #
-<name "ヴィオラ" "!BA1048">
-「私の言った言葉を返されたらと思ったら……」
+<name "Viola" "!BA1048">
+"I wish I could take back what I said."
 #
-<name "ラズロック">
-「……俺はヴィオラのことが好きだぞ。
-　力や魔法使いである事を除いても」
+<name "Lazlocke">
+"...I love you.
+ Even if I didn't have my power, even if you
+ weren't a wizard."
 #
-<name "ラズロック">
-「お前の真っ直ぐな所には、尊敬すらしている」
+<name "Lazlocke">
+"I even respect your honesty and directness."
 #
-<name "ヴィオラ" "!BA1049">
-「……ありがとう」
+<name "Viola" "!BA1049">
+"...Thank you."
 #
-<name "ラズロック">
-「そんな夫に言う事は？」
+<name "Lazlocke">
+"Is that what you should say to your husband?"
 #
-<name "ヴィオラ" "!BA1050">
-「……愛してるわ」
+<name "Viola" "!BA1050">
+"...I love you."
 #
-<name "ラズロック">
-「俺もだ」
+<name "Lazlocke">
+"Me too."
 #
 \x0A\x44\x00\xB4\x84\x01
 <exit>
 :6FAF
 <music 10>
 <background "ev072a0.iph" 10>
-<name "ヴィオラ" "!BA1051">
-「お茶」
+<name "Viola" "!BA1051">
+"Tea."
 #
-<name "ラズロック">
-「丁度、用意したところだ」
+<name "Lazlocke">
+"I just made it."
 #
-<name "ヴィオラ" "!BA1052">
-「あら、私の為に？」
+<name "Viola" "!BA1052">
+"Oh? For me?"
 #
-<name "ラズロック">
-「そろそろ、来るんじゃないかと思ってな」
+<name "Lazlocke">
+"I had a hunch you'd be coming by."
 #
-　俺はヴィオラの前にお茶を並べる。
+I pour a cup of tea for her.
 #
-<name "ラズロック">
-「王都の方はどうだ？」
+<name "Lazlocke">
+"How was the capital?"
 #
-<name "ヴィオラ" "!BA1053">
-「王の頭が柔らかいから、助かってるわ。
-　経済も安定してるしね」
+<name "Viola" "!BA1053">
+"The king's easy going, so it was easy enough.
+ The economy's stable too."
 #
-<name "ヴィオラ" "!BA1054">
-「問題は、そういった王の良さを理解できない馬鹿
-　が居るって事かな」
+<name "Viola" "!BA1054">
+"The problem are the idiots who don't understand
+ the benefits of having a king like that."
 #
-<name "ラズロック">
-「俺の所で茶を飲みながらそう言った話が出来るっ
-　て事は、手は打ってあるんだろ」
+<name "Lazlocke">
+"The fact that you're here drinking tea at my
+ place while saying that means that you've got
+ it under control, doesn't it?"
 #
-<name "ヴィオラ" "!BA1055">
-「ええ、今月中に全員、捕らえられるわ。
-　正しい罪状でね」
+<name "Viola" "!BA1055">
+"Yes. They'll all be arrested by the end of the
+ month, with legitimate charges."
 #
-<name "ラズロック">
-「なるほど。
-　そうなると、王の周りの人材が足りないんじゃな
-　いか？」
+<name "Lazlocke">
+"I see.
+ Then there aren't enough trusted advisors
+ around the king?"
 #
-<name "ヴィオラ" "!BA1056">
-「頭が痛い所よ。
-　協会から何人か引っ張る事になるかも」
+<name "Viola" "!BA1056">
+"That's what gives me a migraine.
+ I may need to pull some in from the Guild."
 #
-<name "ラズロック">
-「そりゃ大変だ」
+<name "Lazlocke">
+"Sounds rough."
 #
-<name "ヴィオラ" "!BA1057">
-「貴方が、来てくれても良いんだけど」
+<name "Viola" "!BA1057">
+"You could come."
 #
-<name "ラズロック">
-「はは、考えておこう」
+<name "Lazlocke">
+"Haha. I'll think about it."
 #
 <background "ev072a1.iph" 10>
-　ヴィオラ＝エントラ
+Viola Entra.
 #
-　クインズベル王国の宮廷魔法使いとして、そして
-　優秀な政治家として確実に歴史に名前を刻んだ。
+Her name will go down in history as both a court
+wizard of Queensbell, and a master politician.
 #
-　ヴィオラの存在が無ければ、王国の歴史が二百年
-　短くなったと言われるぐらいだ。
+It's said that she alone is responsible for
+lengthening the reign of the kingdom for another
+two centuries.
 #
-　将来的には、魔法使い協会の協会長にまで上り詰
-　める事になるのだが、今の俺にはそんな事はわか
-　らない。
+She could even become the head of the Guild in
+the future, but who can say?
 #
-<name "ヴィオラ" "!BA1058">
-「しばらくはローリアの街に居るわ」
+<name "Viola" "!BA1058">
+"I'll be in Loria for a while."
 #
-<name "ラズロック">
-「王都の方は良いのか？」
+<name "Lazlocke">
+"Isn't the capital better?"
 #
-<name "ヴィオラ" "!BA1059">
-「私が居ない方が平和なのよ」
+<name "Viola" "!BA1059">
+"It's more peaceful without me around."
 #
-<name "ラズロック">
-「そうなのか？」
+<name "Lazlocke">
+"Really?"
 #
-<name "ヴィオラ" "!BA1060">
-「私が居ると、落ち着かない人が居るみたいなのよ。
-　それが色々とね」
+<name "Viola" "!BA1060">
+"A lot of people get restless around me.
+ For a number of reasons."
 #
-<name "ラズロック">
-「大変だな」
+<name "Lazlocke">
+"Sounds rough."
 #
-<name "ヴィオラ" "!BA1061">
-「あれはあれで楽しいんだけど……
-　いい加減、面倒になってきたから、協会の情報部
-　に相手の弱点探しを頼んでるの」
+<name "Viola" "!BA1061">
+"That in itself is entertaining, but the chaos
+ has gotten irritating. I think I need to ask
+ Guild Intelligence to sniff out some leverage."
 #
-<name "ラズロック">
-「それで、相手を油断させる為に、王都から離れた
-　のか」
+<name "Lazlocke">
+"So you left the capital to get them to relax
+ their guard?"
 #
-<name "ヴィオラ" "!BA1062">
-「その通り。
-　だから、しばらくはのんびりするわ」
+<name "Viola" "!BA1062">
+"Precisely.
+ So let's just relax for a while."
 #
-<name "ヴィオラ" "!BA1063">
-「で、色々とよろしくね」
+<name "Viola" "!BA1063">
+"And, thank you for everything."
 #
-<name "ラズロック">
-「色々？」
+<name "Lazlocke">
+"Everything?"
 #
-<name "ヴィオラ" "!BA1064">
-「食事とか」
+<name "Viola" "!BA1064">
+"Like dinner."
 #
-<name "ラズロック">
-「わかったわかった。
-　用意しておこう」
+<name "Lazlocke">
+"Yeah, yeah.
+ I'll go get it ready."
 #
-<name "ヴィオラ" "!BA1065">
-「こっちに泊まって良いって言ってくれると、助か
-　るんだけど」
+<name "Viola" "!BA1065">
+"It'd be nice if I could just stay here though."
 #
-<name "ラズロック">
-「はいはい。
-　断わっても、無理矢理に泊まるだろ」
+<name "Lazlocke">
+"Yeah, yeah.
+ Like you'd even let me say no."
 #
-　ヴィオラとは良い友人として、長く付き合う事に
-　なる。
+My friendly relationship with her is going to
+last a very long time.
 #
 \x0A\x44\x00\xB5\x84\x01
 <exit>
@@ -1699,393 +1706,399 @@
 <music 10>
 <background "ev072a0.iph" 10>
 <background "ev072a1.iph" 10>
-　ヴィオラ＝エントラ
+Viola Entra.
 #
-　クインズベル王国の宮廷魔法使いとして、そして
-　優秀な政治家として確実に歴史に名前を刻んだ。
+Her name will go down in history as both a court
+wizard of Queensbell, and a master politician.
 #
-　ヴィオラの存在が無ければ、王国の歴史が二百年
-　短くなったと言われるぐらいだ。
+It's said that she alone is responsible for
+lengthening the reign of the kingdom for another
+two centuries.
 #
-　将来的には、魔法使い協会の協会長にまで上り詰
-　める事になるのだが、今の俺にはそんな事はわか
-　らない。
+She could even become the head of the Guild in
+the future, but who can say?
 #
-<name "ヴィオラ" "!BA1066">
-「そう言えば、協会で変なイベントを企画しているっ
-　て話を聞いたけど」
+<name "Viola" "!BA1066">
+"Speaking of which, I heard the Guild was planning
+ some kind of unsavory event."
 #
-<name "ラズロック">
-「ああ、研究部と保守部が合同でやるらしいが……
-　詳しい内容は聞いてないな」
+<name "Lazlocke">
+"Yeah. Research and Preservation are cooking
+ something up.
+ I don't know the details."
 #
-<name "ヴィオラ" "!BA1067">
-「ま、その二つならロクなイベントじゃないわね」
+<name "Viola" "!BA1067">
+"Well, nothing good comes when those two get
+ together."
 #
-<name "ラズロック">
-「だろうな。
-　しばらくは協会に近付かない事だ」
+<name "Lazlocke">
+"Seriously.
+ I'd keep away from the Guild for a while."
 #
-<name "ヴィオラ" "!BA1068">
-「残念だけど、そうもいかないのよね。
-　色々と雑務があるの」
+<name "Viola" "!BA1068">
+"Unfortunately, I can't.
+ I have a lot of chores."
 #
-<name "ラズロック">
-「それは残念だったな」
+<name "Lazlocke">
+"Too bad."
 #
-<name "ヴィオラ" "!BA1069">
-「そうね。
-　でも、貴方も一緒だからね」
+<name "Viola" "!BA1069">
+"Certainly, but the same goes for you."
 #
-<name "ラズロック">
-「え」
+<name "Lazlocke">
+"Huh?"
 #
-<name "ヴィオラ" "!BA1070">
-「引っ張って来いって言われてるの。
-　逃げたら、承知しないわよ」
+<name "Viola" "!BA1070">
+"They told me to drag you in, and I wouldn't
+ try running if I were you."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　ヴィオラとは良い友人のまま、長く付き合う事に
-　なる。
+Viola and I will stay close friends for a long 
+time.
 #
 \x0A\x44\x00\xB6\x84\x01
 <exit>
 :7CE5
 <music 10>
 <background "bg001a0.iph" 11>
-　さて、俺だが……
+Now, I...
 #
 <music 36>
 <background "ev082a0.iph" 10>
-<name "ヴィオラ" "!BA1071">
-「ふぁ、ふぁん……んぁ……」
+<name "Viola" "!BA1071">
+"Aah...aah...mmm..."
 #
-<name "セリス" "!AA6598">
-「あん、師匠……」
+<name "Celes" "!AA6598">
+"Ah, Master..."
 #
-<name "イエル" "!CA0915">
-「ふぁ、ラズロック様ぁ……あ、んぁ、んぁ」
+<name "Elle" "!CA0915">
+"Aah... Lazlocke...
+ Aah...mmm...mmm..."
 #
-　俺はセリス、イエル、ヴィオラを相手にベッドの
-　上で頑張っていた。
+I'm doing my best in bed with Celes, Elle, and
+Viola.
 #
-　時々、個々に来ては行為を重ねていたが、三人が
-　揃うのは珍しい。
+Usually, it's just one a a time.
+It's rare for all of them to show up at once.
 #
-　俺の前で順番争いを始めたので、同時にとなった
-　のだが……
+They started fighting over who got to go first,
+so it ended up being all at the same time.
 #
-　少し、早まったかもしれない。
+That might have been a hasty decision.
 #
-<name "ヴィオラ" "!BA1072">
-「あ、ん、も、もっと、ん、強く、ふぁ、ぁ、あ、
-　うぁん、ぁぁぁぁっ」
+<name "Viola" "!BA1072">
+"Ah...mm... M-More... Mm... Harder...
+ Aahh...ah...ah...aaah...aaah!"
 #
-　俺はわかったと、腰を激しく動かしてヴィオラの
-　膣内に入っているモノを暴れさせる。
+Knowing that, I thrust hard inside Viola's pussy.
 #
-<name "セリス" "!AA6599">
-「むあ、あ、ん、んぁ、師匠、いじって、あ、うぁ、
-　弄って、ぁぁん」
+<name "Celes" "!AA6599">
+"Grrr... Ah...mmm...mmm...
+ Master, play with me... Ah...
+ Aah... Play with me...aaah..."
 #
-<name "イエル" "!CA0916">
-「私にも、あ、ん、んぁ、ふぃぁ、あ、ぁ、あん、
-　や、ぁ、やぁぁぁぁ……」
+<name "Elle" "!CA0916">
+"Me too... Ah...mm...mmm...
+ Aah...ah...ahh...ah!
+ Ah! Ah! Aaaaahhh..."
 #
-　ヴィオラの両サイドに控えるセリスとイエルの陰
-　部を、それぞれ指先で弄ってやる。
+Celes and Elle are laying on either side of
+Viola as I tease them with my fingers.
 #
-<name "セリス" "!AA6600">
-「ふぁ、ぁっ、ぁっ、ぁぁん」
+<name "Celes" "!AA6600">
+"Aah! Ah! Aah! Ahhhh!"
 #
-<name "イエル" "!CA0917">
-「うぁ、ぁっ、つ、つよ、ぁ、くぁ、ぁぁぁっ」
+<name "Elle" "!CA0917">
+"Aah! Ah! H-Harder... 
+ Ah! Aah! Ahhh!"
 #
-　セリスとイエルの陰部に隠れたようにあったピン
-　ク色のマメを親指で押し付けながら、残りの指で
-　膣内を擦る。
+I press on the pink bean above their entrances
+with my thumb while rubbing their pussies with
+my fingers.
 #
-<name "セリス" "!AA6601">
-「ぁっ、ぁっ、あぁっぁぁぁぁぁっ！」
+<name "Celes" "!AA6601">
+"Ah! Aaah! Aaaaaaaahhhhhh!"
 #
-<name "イエル" "!CA0918">
-「うぁ、ぁ、ぁひ、ひぁ、ぁぁぁぁ……」
+<name "Elle" "!CA0918">
+"Aah! Ah! Ahh! Aaah! Aaaahhh..."
 #
-　そうしながら、ヴィオラの膣壁をグリグリとモノ
-　で擦り続ける。
+All the while, I keep rubbing my dick in Viola's
+pussy.
 #
-<name "ヴィオラ" "!BA1073">
-「ぁ、ぁ、うぁ、ぁぁん、ふぁ、ぁ、ぁぁう」
+<name "Viola" "!BA1073">
+"Ah! Aah! Ahh! Aah! Aahhh! Aaah!"
 #
-<name "ラズロック">
-「ヴィオラ、そろそろ出すぞ」
+<name "Lazlocke">
+"Viola, I'm about to come."
 #
-<name "ヴィオラ" "!BA1074">
-「ぁ、ぁ、ん、んんんっ」
+<name "Viola" "!BA1074">
+"Ah...ah...mm...mmmm!"
 #
-　ヴィオラは、俺の言葉に膣内を締め付けてくる。
+She squeezes tight.
 #
-　その締め付けられた膣内に、俺は大量の精液を流
-　し込んだ。
+I flood her tight pussy with semen.
 #
 <background "ev082a1.iph" 10>
-<name "ヴィオラ" "!BA1075">
-「ぁっ、ぁぁ……うぁ……ぁ……」
+<name "Viola" "!BA1075">
+"Aah...aah...ahhh...ah..."
 #
-　何度も。
+Over and over.
 #
-<name "ヴィオラ" "!BA1076">
-「ふぁ、ぁっ、や、ん、んぁ、んはぁ、ぁぁぁん♪」
+<name "Viola" "!BA1076">
+"Aaah...ah...ah...mm...mmm...mmm...
+ Aah!♪"
 #
-　そして、ヴィオラの膣内の次は、イエルの膣内で。
+And after Viola, I do it to Elle's.
 #
-<name "イエル" "!CA0919">
-「ぁぁん、んぁ、あ、あっ、も、もっと、ふぁ、ぁ、
-　うぁぁぁんんん♪」
+<name "Elle" "!CA0919">
+"Aaaah...mmm...ah! Ah!
+ M-More! Aaah! Ah! Aaaaahh!♪"
 #
-　その後はセリスの膣内と、俺はヴィオラ、セリス、
-　イエルの穴をいう穴にモノを突き入れて動かし、
-　射精を繰り返し続けた。
+After that, I fill Celes's, and then I move to
+each of their back holes in turn, coming over and
+over.
 #
-<name "セリス" "!AA6602">
-「ふぁ、ぁっ、ぁぁ……んぁ、し、師匠♪」
+<name "Celes" "!AA6602">
+"Aaah...ah...ah...mmm...
+ M-Master...♪"
 #
 <background "ev083a0.iph" 10>
 <background "ev083a1.iph" 10>
-　そして、数え切れないほどの射精を繰り返し、俺
-　は最後の一回と、三人の顔を揃えさせ、そこに大
-　量の精液を放った。
+And after coming so much, I come all over each
+one of their faces.
 #
-<name "ヴィオラ" "!BA1077">
-「ぁ……ぁ……ん」
+<name "Viola" "!BA1077">
+"Ah...ah...mmm..."
 #
-<name "セリス" "!AA6603">
-「んぁ……」
+<name "Celes" "!AA6603">
+"Mmm..."
 #
-<name "イエル" "!CA0920">
-「ふぁ、あ、ん、んん」
+<name "Elle" "!CA0920">
+"Ahhh...ah...mm...mmmmm..."
 #
-　三人は顔についた俺の精液を、お互いの顔を舐め
-　るように競って舌ですくって口に含む。
+The three of them squabble with each other to
+lick my semen of their faces.
 #
-<name "ヴィオラ" "!BA1078">
-「ぁ、ぁ……うぁん」
+<name "Viola" "!BA1078">
+"Ah...ah...ahhh..."
 #
-<name "セリス" "!AA6604">
-「ぁ……」
+<name "Celes" "!AA6604">
+"Ah..."
 #
-<name "イエル" "!CA0921">
-「ふぁ……」
+<name "Elle" "!CA0921">
+"Ahhhh..."
 #
-　それが終るかどうかで、三人はこれまでの行為で
-　グチャグチャになったベッドに倒れこみ、寝息を
-　たて始めた。
+Whether it's over or not, all three of them
+collapse into the soiled bed, and start dozing
+off.
 #
-　そこに、俺も混ざるように倒れ込んだ。
+I fall into bed and join them.
 #
-　三人の匂いを感じながら、俺は寝入ってしまった。
+I fall asleep, surrounded by their scent.
 #
 <background "ev083a2.iph" 10>
-　セリス、イエル、ヴィオラ。
+Celes, Elle, and Viola.
 #
-　俺は自分の魔力と精液を、主にこの三人に渡し続
-　ける事になった。
+I'll continue giving them my mana and my semen.
 #
-<name "セリス" "!AA6605">
-「師匠」
+<name "Celes" "!AA6605">
+"Master."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
-<name "セリス" "!AA6606">
-「ヴィオラさんが妊娠しました」
+<name "Celes" "!AA6606">
+"Miss Viola's pregnant."
 #
-<name "ラズロック">
-「……本当か？」
+<name "Lazlocke">
+"...Seriously?"
 #
-<name "セリス" "!AA6607">
-「はい。
-　あと、イエルちゃんも」
+<name "Celes" "!AA6607">
+"Yes, and Elle too."
 #
-<name "ラズロック">
-「………………じゃあ、お前もか？」
+<name "Lazlocke">
+"...Then you too?"
 #
-<name "セリス" "!AA6608">
-「いえ。
-　私はまだです。
-　そこで、お願いしたいのですが……」
+<name "Celes" "!AA6608">
+"No, not yet.
+ So I had a favor to ask..."
 #
-<name "ラズロック">
-「…………任せろ」
+<name "Lazlocke">
+"...Leave it to me."
 #
-<name "セリス" "!AA6610">
-「きゃっ♪」
+<name "Celes" "!AA6610">
+"Eek!♪"
 #
-　俺はセリス、イエル、ヴィオラと、その子供達に
-　囲まれながら、幸せに暮らした。
+I lead a happy life with Celes, Elle, Viola, and
+all our children.
 #
 \x0A\x44\x00\xB7\x84\x01
 <exit>
 :8A60
 <music 36>
 <background "ev082a0.iph" 10>
-　三人が、急に俺の家に来たと思ったら、これだっ
-　た。
+The three of them suddenly barged into my house,
+and it ended up like this.
 #
-<name "ヴィオラ" "!BA1079">
-「ぁん、ん、んは、んはぁん……」
+<name "Viola" "!BA1079">
+"Aah...mmm...mmm...mmm..."
 #
-<name "セリス" "!AA6611">
-「むあ、ん、ヴィオラさんの胸、ああん」
+<name "Celes" "!AA6611">
+"Mmm...mmm...
+ Viola's breasts...
+ Aaaah..."
 #
-<name "イエル" "!CA0922">
-「あ、あん、ラズロック様……ふぁ、ふぁ、ん」
+<name "Elle" "!CA0922">
+"Ah...aah...
+ Lazlocke...
+ Aaah...aah...mmm..."
 #
-　俺はヴィオラの膣内にモノを突き入れ、腰を動か
-　しながらヴィオラの両サイドに控えるセリスとイ
-　エルの陰部に手を伸ばす。
+I thrust into Viola's pussy while playing with
+Celes and Elle on either side of her.
 #
-<name "セリス" "!AA6612">
-「ふぁ、あっ、あん、んぁ」
+<name "Celes" "!AA6612">
+"Aaah...ah...aaah...ahhh..."
 #
-<name "イエル" "!CA0923">
-「ぁ、ぁぁっ、ぁん、んんん」
+<name "Elle" "!CA0923">
+"Aah...aah...ah...mmmm..."
 #
-　セリスとイエルは、俺に陰部を弄られながらヴィ
-　オラの胸を愛撫する。
+Celes and Elle fondle Viola's breasts while I
+finger them.
 #
 <background "ev082a1.iph" 10>
-<name "ヴィオラ" "!BA1080">
-「ぁっ、ぁっ、ぁっ、ああっ、ああっ！
-　ふぁっ、ふぁっ、あ、あ、だ、やっ、ふぁ、ぁっ、
-　ぁっ、ぁ……ふぁ、ふぁぁぁぁぁぁぁぁっ」
+<name "Viola" "!BA1080">
+"Ah! Aah! Ah! Aah! Aahhh!
+ Aaah! Ahhh! Ah! Ah! No! Ah! Aah! Ah!
+ Ah! Aah... Ahhh! Aaaaaahhhhhhh!"
 #
-　半ば、三人に責められる形になったヴィオラは、
-　あっという間に果ててしまう。
+Viola climaxes in no time with three people all
+teasing her.
 #
-<name "ヴィオラ" "!BA1081">
-「ぁ、ぁ、ぁぁ……うぁ、ぁ……だ、ひっ」
+<name "Viola" "!BA1081">
+"Ah...ah...ah...
+ N-No... Ah!"
 #
-　その果てた余韻に浸る間を与えず、俺は射精に向
-　けて腰を動かし続けた。
+I keep moving my hips, not giving her any time
+to enjoy the afterglow.
 #
 <background "ev083a0.iph" 10>
 <background "ev083a1.iph" 10>
-　ヴィオラ、セリス、イエルと一回ずつの膣内射精
-　を行った後、俺は三人の顔を揃えさせた場所に、
-　大量の精液を放った。
+After coming in each of them, I come all over all
+their faces.
 #
-<name "ヴィオラ" "!BA1082">
-「あん♪」
+<name "Viola" "!BA1082">
+"Aah!♪"
 #
-<name "セリス" "!AA6613">
-「ふぁ……」
+<name "Celes" "!AA6613">
+"Ahhh..."
 #
-<name "イエル" "!CA0924">
-「きゃっ」
+<name "Elle" "!CA0924">
+"Ah!"
 #
-　俺の精液が三人の顔に掛かっていく。
+My semen covers all their faces.
 #
-<name "ヴィオラ" "!BA1083">
-「ん……んぁ……あん。
-　たくさん……出したわね」
+<name "Viola" "!BA1083">
+"Mm...mmm...ah...
+ You let out... so much."
 #
-<name "ラズロック">
-「お前らが三人で来るからだろ」
+<name "Lazlocke">
+"Because there are three of you."
 #
-<name "セリス" "!AA6614">
-「なかなか、お仕事を休めないから」
+<name "Celes" "!AA6614">
+"It's hard to find a day off from work."
 #
-<name "イエル" "!CA0925">
-「そうなんですよ」
+<name "Elle" "!CA0925">
+"That's right."
 #
-　三人は顔に掛かった精液を指ですくって口に運び、
-　またお互いが舐め合って綺麗にしていく。
+The three of them wipe my semen from their faces
+and bring it to their mouths.
+They lick and caress each other until they're
+all clean.
 #
-<name "ヴィオラ" "!BA1084">
-「……ラズロック」
+<name "Viola" "!BA1084">
+"...Lazlocke."
 #
-<name "ラズロック">
-「わかってる。
-　まだやるんだろ」
+<name "Lazlocke">
+"I know.
+ I can keep going."
 #
-<name "セリス" "!AA6615">
-「はい♪」
+<name "Celes" "!AA6615">
+"Yep.♪"
 #
-<name "イエル" "!CA0926">
-「お願いします♪」
+<name "Elle" "!CA0926">
+"Please.♪"
 #
-　はぁ……
+Sigh...
 #
-　クインズベル王国の誇る、宮廷魔法使いの三人が、
-　俺のベッドの上で乱れているとは、誰も思わない
-　だろうな。
+Three court wizards, the pride of Queensbell, are
+a mess in my bed.
+I doubt anybody could imagine it.
 #
-　そんな事を考えながら、俺はセリス、イエル、ヴィ
-　オラの三人とベッドに居る事を喜こんでいた。
+As I think about that, I look down at Celes,
+Elle, and Viola in bed, and know how lucky I am.
 #
 <background "ev083a2.iph" 10>
-　セリス、イエル、ヴィオラ。
+Celes, Elle, and Viola.
 #
-　俺は自分の魔力と精液を、主にこの三人に渡し続
-　ける事になった。
+I'll continue giving them my mana and my semen.
 #
-<name "ヴィオラ" "!BA1085">
-「ラズロック」
+<name "Viola" "!BA1085">
+"Lazlocke."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "ヴィオラ" "!BA1086">
-「子供が出来たわ」
+<name "Viola" "!BA1086">
+"I'm pregnant."
 #
-<name "ラズロック">
-「本当か？」
+<name "Lazlocke">
+"Seriously?"
 #
-<name "ヴィオラ" "!BA1087">
-「ええ……」
+<name "Viola" "!BA1087">
+"Yes."
 #
-<name "セリス" "!AA6616">
-「私にも」
+<name "Celes" "!AA6616">
+"Me too."
 #
-<name "イエル" "!CA0927">
-「三人同時に」
+<name "Elle" "!CA0927">
+"All three of us."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "ヴィオラ" "!BA1088">
-「これから、大変よ」
+<name "Viola" "!BA1088">
+"The future will be hard."
 #
-<name "ラズロック">
-「……そうだな。
-　子供か……」
+<name "Lazlocke">
+"...Seriously.
+ Kids, huh?"
 #
-<name "セリス" "!AA6617">
-「喜んでます？」
+<name "Celes" "!AA6617">
+"Are you happy?"
 #
-<name "ラズロック">
-「ああ、喜ぶ……というより驚いてる」
+<name "Lazlocke">
+"Yeah, I am.
+ More surprised though."
 #
-　俺は三人を抱き締めた。
+I hold the three of them close.
 #
-　俺はセリス、イエル、ヴィオラと、その子供達に
-　囲まれかなり賑やかな人生を送る事になった。
+I live a very full life, surounded by Celes, Elle,
+Viola, and our children.
 #
 \x0A\x44\x00\xB8\x84\x01
 <exit>
 <music 36>
 <background "ev083a2.iph" 10>
-　セリス、イエル、ヴィオラ。
+Celes, Elle, and Viola.
 #
-　俺は自分の魔力と精液を、主にこの三人に渡し続
-　ける事になった。
+I'll continue giving them my mana and my semen.
 #
-　この先はどうなるかはわからない。
+I'm not sure what will happen in the future.
 #
-　だが、この三人とは長い付き合いになるようだ。
+But I think my relationship with them is going to
+last for a long time.
 #
 <exit>
 \x78

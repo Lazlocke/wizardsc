@@ -1367,7 +1367,7 @@ away on my own.
 #
 <sprite "ta03a19.iph" 4 4 12>
 <name "Viola" "!BA0856">
-"You need to have sex with me and give me mana."
+"You need to have sex with me to give me mana."
 #
 <sprite "ta03a22.iph" 4 4 12>
 <name "Viola" "!BA0857">

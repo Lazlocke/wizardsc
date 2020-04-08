@@ -10,123 +10,124 @@
 :7C
 <music 2>
 <background "bg012a0.iph" 11>
-　二月。
+Two months later...
 #
-　クデュール魔法大会で優勝できなかったセリスは、
-　実家を取り戻す事は出来なかった。
+Celes wasn't able to win Coudures, and couldn't
+get her family's home back.
 #
-　その結果に、セリスは落ち込みはしたが、やれる
-　だけの事はやったと前向きのようだ。
+Because of that, she fell into depression, but
+still believed that she should do whatever she
+could.
 #
-　さて、これから先はどうしていくのだろうか……
+So, what's she going to do next?
 #
 <exit>
 :189
 <music 2>
 <background "bg012a0.iph" 11>
-　二月。
+Two months later...
 #
-　クデュール魔法大会で優勝できなかったが、セリ
-　スは実家を取り戻していた。
+Celes wasn't able to win Coudures, but she
+regained her family's home.
 #
-　裏で協会関係者が動いたのかと思ったが、乗っ取っ
-　た者がセリスの成長に怯えて、自主的に返還した
-　との事だ。
+I had an inkling that the Guild pulled some
+strings, but apparently the usurper heard about
+how much she had grown, was scared, and 
+relinquished it on his own.
 #
-　その真偽はどうなのかはわからないが、セリスは
-　ロココ家当主となった。
+I'm not sure what the truth really is, but in any
+case, Celes is the new head of the Rococo family.
 #
-　セリスは、その事に戸惑ったが時間を経て実感が
-　湧くと、涙を流して喜んでいた。
+She was confused about it too, but soon enough,
+was so happy that she was in tears.
 #
-　これで、セリスは目的を果たした。
+She fulfilled her goal.
 #
-　さて、セリスはこの先、どう歩んでいくのだろう
-　か……
+So, what's she going to do next?
 #
 <exit>
 :37C
 <music 2>
 <background "bg012a0.iph" 11>
-　二月。
+Two months later...
 #
-　クデュール魔法大会で優勝できなかったが、セリ
-　スは実家を取り戻していた。
+Celes wasn't able to win Coudures, but she 
+regained her family's home.
 #
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a72.iph" 4 4 11>
-<name "ソシエット" "!DA1205">
-「乗っ取った者による、自主的な返還です」
+<name "Soshiette" "!DA1205">
+"It was returned by the usurper himself on his
+ own."
 #
-<name "ラズロック">
-「本当か？」
+<name "Lazlocke">
+"Really?"
 #
 <sprite "ta04a75.iph" 4 4 12>
-<name "ソシエット" "!DA1206">
-「はい。
-　ただ……」
+<name "Soshiette" "!DA1206">
+"Yes, however..."
 #
-<name "ラズロック">
-「ただ？」
+<name "Lazlocke">
+"However?"
 #
 <sprite "ta04a73.iph" 4 4 12>
-<name "ソシエット" "!DA1225">
-「協会関係者から、セリスさんの成長に関しての報
-　告は行われていると思います」
+<name "Soshiette" "!DA1225">
+"I believe he had received reports from people in
+ the Guild about Celes's growth."
 #
-<name "ラズロック">
-「…………なるほど」
+<name "Lazlocke">
+"...I see."
 #
 <removesprite -1 11>
-　魔法使い協会による返還が駄目になった、セリス
-　が凶行に走る可能性があると示唆でもしたのだろ
-　う。
+Returning her home through pressure from the Guild
+wasn't going to happen, but they might have
+suggested Celes would try to take it back by
+force.
 #
-　実際、その可能性はゼロではない。
+To be honest, the probability of that wasn't zero.
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "ソシエット" "!DA1208">
-「セリスさんを潰すのは、協会も惜しいと思ったの
-　でしょう」
+<name "Soshiette" "!DA1208">
+"I would think the Guild would be hesitant to
+ neutralize her if she did."
 #
-<name "ラズロック">
-「まあ、最初の課題からして無茶だったからな」
+<name "Lazlocke">
+"Well, it was an unreasonable job from the start."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA1210">
-「はい」
+<name "Soshiette" "!DA1210">
+"Yes."
 #
 <removesprite -1 11>
-　経過はどうであれ、セリスは目的を果たした事に
-　なる。
+However it happened, she fulfilled her goal.
 #
-　さて、セリスはこの先、どう歩んでいくのだろう
-　か……
+So, what's she going to do next?
 #
 <exit>
 :7C5
 <music 2>
 <background "bg012a0.iph" 11>
-　セリスは、クデュール魔法大会に優勝した。
+Celes won the tournament at Coudures.
 #
-　それによって、協会は約束通りにロココ家の当主
-　の座をセリスと認めた。
+And because of that, the Guild has recognized her
+as the head of the Rococo family like they
+promised.
 #
-　ロココ家を乗っ取っていた元弟子は、協会を敵に
-　回す事は無く、素直にロココ家をセリスの手に戻
-　した。
+The former apprentice who usurped the title had
+no desire to make an enemy of the Guild and
+returned it to her without a fuss.
 #
-　セリスは目的を達した。
+She achieved her goal.
 #
-　その目には涙が流れていた。
+She was so happy, she was crying.
 #
-　俺も、良かったなとその頭を撫でた。
+I patter her head and told her she did well too.
 #
-　さて……
+And...
 #
-　実家を取り戻すと言う目的を果たしたセリスは、
-　これから先をどうしていくのだろうか……
+Now that she's fulfilled her goal and reclaimed
+her family home, what's she going to do next?
 #
 <exit>
 \x78
