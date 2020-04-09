@@ -1,0 +1,250 @@
+Rusty Sword;s0_00_00.iph
+Common Sword;s0_00_01.iph
+Custom Sword;s0_00_02.iph
+Tempered Sword;s0_00_03.iph
+Schneider Blade;s0_00_04.iph
+Valor Blade;s0_00_05.iph
+Windy Blade;s0_00_06.iph
+Brewer Blade;s0_00_07.iph
+Hellfire Blade;s0_00_08.iph
+Karmic Blade;s0_00_09.iph
+Exorcism Blade;s0_00_10.iph
+Muramasa;s0_00_11.iph
+Amatsukumo;s0_00_12.iph
+Daikokuten;s0_00_13.iph
+Novice's Staff;s0_01_00.iph
+Wizard's Staff;s0_01_01.iph
+Guild Staff;s0_01_02.iph
+Combat Staff;s0_01_03.iph
+Warmage Staff;s0_01_04.iph
+Overlord's Staff;s0_01_05.iph
+Devil's Staff;s0_01_06.iph
+Chanting Staff;s0_01_07.iph
+Training Rod;s0_01_08.iph
+Hard Rod;s0_01_09.iph
+Flexible Rod;s0_01_10.iph
+Tiger Moon Rod;s0_01_11.iph
+Dragon Moon Rod;s0_01_12.iph
+Rusty Ax;s0_02_00.iph
+Common Ax;s0_02_01.iph
+Famous Ax;s0_02_02.iph
+Destructive Ax;s0_02_03.iph
+Slaughter Ax;s0_02_04.iph
+Cursed Ax;s0_02_05.iph
+Rusty Hammer;s0_03_00.iph
+Common Hammer;s0_03_01.iph
+Toy Hammer;s0_03_04.iph
+D Hammer;s0_03_02.iph
+M Hammer;s0_03_03.iph
+Rusty Shuriken;s0_04_00.iph
+Fine Shuriken;s0_04_01.iph
+Famous Shuriken;s0_04_02.iph
+Supreme Shuriken;s0_04_03.iph
+Rusty Bow;s0_05_00.iph
+Used Bow;s0_05_01.iph
+Common Bow;s0_05_02.iph
+Quality Bow;s0_05_03.iph
+Tempered Bow;s0_05_04.iph
+Piercing Bow;s0_05_05.iph
+Dryad's Bow;s0_05_06.iph
+Snowfall Bow;s0_05_07.iph
+Moon Bow;s0_05_08.iph
+Dinosaur Bow;s0_05_09.iph
+Rusty Knives;s0_06_00.iph
+Common Knives;s0_06_01.iph
+Quality Knives;s0_06_02.iph
+Sharp Knives;s0_06_03.iph
+Glittering Knives;s0_06_04.iph
+Glass Knives;s0_06_05.iph
+Legendary Knives;s0_06_06.iph
+Whip;s0_07_00.iph
+Quality Whip;s0_07_01.iph
+Barbed Whip;s0_07_02.iph
+Flexible Whip;s0_07_03.iph
+Princess Whip;s0_07_04.iph
+Queen Whip;s0_07_05.iph
+Legendary Whip;s0_07_06.iph
+Rusty Barrel;s0_08_00.iph
+Old Barrel;s0_08_01.iph
+Common Barrel;s0_08_02.iph
+Full Barrel;s0_08_03.iph
+Worn Out Clothing;s0_09_00.iph
+Used Leather;s0_09_01.iph
+Used Clothing;s0_09_02.iph
+Hand-Me-Downs;s0_09_03.iph
+Thick Clothing;s0_09_04.iph
+Steel Clothing;s0_09_08.iph
+Protective Clothing;s0_09_05.iph
+Magical Clothing;s0_09_06.iph
+Overlord's Clothing;s0_09_07.iph
+Worn Armor;s0_10_00.iph
+Used Armor;s0_10_01.iph
+Thin Armor;s0_10_02.iph
+Regular Armor;s0_10_03.iph
+Magic Armor;s0_10_04.iph
+Devil Armor;s0_10_05.iph
+Used Scale;s0_11_00.iph
+Scale Armor;s0_11_01.iph
+Plate Armor;s0_11_02.iph
+Magic Light Armor;s0_11_03.iph
+Magic Plate;s0_11_04.iph
+Legendary Armor;s0_11_05.iph
+Legendary Plate;s0_11_06.iph
+Guild Certificate;s0_12_00.iph
+Challenge Invitation;s0_12_27.iph
+Handwritten Charm;s0_12_01.iph
+Charm;s0_12_02.iph
+Magic Necklace;s0_12_03.iph
+Guard Necklace;s0_12_04.iph
+Hawkeye Necklace;s0_12_05.iph
+Cheetah Necklace;s0_12_06.iph
+Turtle Necklace;s0_12_07.iph
+Scarf;s0_12_08.iph
+Magic Scarf;s0_12_09.iph
+Dramatic Scarf;s0_12_10.iph
+Cute Scarf;s0_12_11.iph
+Gloves;s0_12_12.iph
+Magic Gloves;s0_12_13.iph
+Dark Gloves;s0_12_14.iph
+Hat;s0_12_15.iph
+Hard Hat;s0_12_16.iph
+Magic Hat;s0_12_17.iph
+Angel Hat;s0_12_18.iph
+Giant's Ring;s0_12_19.iph
+Wyvern's Ring;s0_12_20.iph
+Dragon's Ring;s0_12_21.iph
+Master's Ring;s0_12_22.iph
+Devil's Ring;s0_12_26.iph
+Angel's Ring;s0_12_25.iph
+Devil Wings;s0_12_23.iph
+Angel Wings;s0_12_24.iph
+Coin;s3_00_00.iph
+Pretty Stone;s3_00_01.iph
+Small Silver;s3_00_02.iph
+Small Gold;s3_00_03.iph
+Large Silver;s3_00_04.iph
+Large Gold;s3_00_05.iph
+Silver Nugget;s3_00_06.iph
+Gold Nugget;s3_00_07.iph
+Jewel;s3_00_08.iph
+Huge Jewel;s3_00_09.iph
+Antique;s3_00_10.iph
+Rare Antique;s3_00_11.iph
+Famous Antique;s3_00_12.iph
+Swallow's Nest;s3_00_13.iph
+None;s9_99_99
+Big Elephant;s1_00_00.iph
+Huge Elephant;s1_00_01.iph
+Grand Elephant;s1_00_02.iph
+Modest Banner;s1_00_03.iph
+Common Banner;s1_00_04.iph
+Flashy Banner;s1_00_05.iph
+Spendid Banner;s1_00_06.iph
+Red Light;s1_00_07.iph
+Blue Light;s1_00_08.iph
+Yellow Light;s1_00_09.iph
+Rainbow Light;s1_00_10.iph
+Basic Wallpaper;s1_00_11.iph
+Flashy Wallpaper;s1_00_12.iph
+Swirly Wallpaper;s1_00_13.iph
+Polka Dot Wallpaper;s1_00_14.iph
+Confetti;s1_00_20.iph
+Cherry Blossoms;s1_00_21.iph
+Flower Blossoms;s1_00_22.iph
+Rose Blossoms;s1_00_23.iph
+Snow Storm;s1_00_24.iph
+Dark Blizzard;s1_00_25.iph
+Set of Ten;s1_00_26.iph
+Set of Twenty;s1_00_27.iph
+Set of Thirty;s1_00_28.iph
+Ragged Bed;s2_00_00.iph
+Normal Bed;s2_00_01.iph
+Luxurious Bed;s2_00_02.iph
+Romantic Bed;s2_00_03.iph
+Harmonious Bed;s2_00_04.iph
+Sexy Bed;s2_00_05.iph
+Princess Bed;s2_00_90.iph
+Old Kitchenware;s2_00_06.iph
+Regular Kitchenware;s2_00_07.iph
+Soothing Kitchenware;s2_00_08.iph
+Relaxing Kitchenware;s2_00_09.iph
+Peaceful Kitchenware;s2_00_10.iph
+Wonderful Kitchenware;s2_00_11.iph
+Ragged Closet;s2_00_12.iph
+Regular Closet;s2_00_13.iph
+Quality Closet;s2_00_14.iph
+Luxurious Closet;s2_00_15.iph
+Pretty Closet;s2_00_16.iph
+Ragged Desk;s2_00_17.iph
+Regular Desk;s2_00_18.iph
+Motivating Desk;s2_00_19.iph
+Apprentice's Desk;s2_00_20.iph
+Prodigal Desk;s2_00_21.iph
+Master's Desk;s2_00_22.iph
+Squabbling Desk;s2_00_23.iph
+Fighter's Desk;s2_00_24.iph
+Warrior's Desk;s2_00_25.iph
+Squire's Desk;s2_00_26.iph
+Knight's Desk;s2_00_27.iph
+Gilgamesh Desk;s2_00_28.iph
+Servant's Desk;s2_00_29.iph
+Maid's Desk;s2_00_30.iph
+Butler's Desk;s2_00_31.iph
+Ragged Curtains;s2_00_32.iph
+Quality Curtains;s2_00_33.iph
+Regular Curtains;s2_00_34.iph
+Expensive Curtains;s2_00_35.iph
+Luxurious Curtains;s2_00_36.iph
+Red Carpet;s2_00_37.iph
+Blue Carpet;s2_00_38.iph
+White Carpet;s2_00_39.iph
+Black Carpet;s2_00_40.iph
+Magic Carpet;s2_00_41.iph
+Warrior Carpet;s2_00_42.iph
+Cute Carpet;s2_00_43.iph
+Devil Carpet;s2_00_44.iph
+Angel Carpet;s2_00_45.iph
+Historic Carpet;s2_00_46.iph
+Fun Bookshelf;s2_00_47.iph
+Entertaining Bookshelf;s2_00_48.iph
+Happiness Bookshelf;s2_00_49.iph
+Magic Bookshelf;s2_00_50.iph
+Wizard's Bookshelf;s2_00_51.iph
+Archmage's Bookshelf;s2_00_52.iph
+Squabbling Bookshelf;s2_00_53.iph
+Fighter's Bookshelf;s2_00_54.iph
+Warrior's Bookshelf;s2_00_55.iph
+Squire's Bookshelf;s2_00_56.iph
+Knight's Bookshelf;s2_00_57.iph
+Gilgamesh Bookshelf;s2_00_58.iph
+Servant Bookshelf;s2_00_59.iph
+Maid Bookshelf;s2_00_60.iph
+Butler Bookshelf;s2_00_61.iph
+Ragged Cabinet;s2_00_62.iph
+Ordinary Cabinet;s2_00_63.iph
+Fun Cabinet;s2_00_64.iph
+Apprentice Cabinet;s2_00_65.iph
+Prodigal Cabinet;s2_00_66.iph
+Master Cabinet;s2_00_67.iph
+Squabbling Cabinet;s2_00_68.iph
+Fighter Cabinet;s2_00_69.iph
+Warrior Cabinet;s2_00_70.iph
+Squire Cabinet;s2_00_71.iph
+Knight Cabinet;s2_00_72.iph
+Gilgamesh Cabinet;s2_00_73.iph
+Simple Cabinet;s2_00_74.iph
+Luxurious Cabinet;s2_00_75.iph
+Spooky Cabinet;s2_00_76.iph
+Cute Cabinet;s2_00_77.iph
+Display Case;s2_00_78.iph
+Coudures Trophy;s2_00_79.iph
+Bancaster Trophy;s2_00_80.iph
+Queensbell Trophy;s2_00_81.iph
+True Heroes Trophy;s2_00_82.iph
+Loria Chef Trophy;s2_00_83.iph
+Beauty Contest Trophy;s2_00_84.iph
+South Street Trophy;s2_00_85.iph
+Landscape;s2_00_86.iph
+Portrait;s2_00_87.iph
+Tapestry;s2_00_88.iph
+Flag;s2_00_89.iph
