@@ -1,4 +1,4 @@
-var f = new File("C:/Users/Lazlocke/Desktop/image/Sdule.txt");
+var f = new File("C:/Users/Lazlocke/Desktop/Item.txt");
 f.open('r');
 
 var doc = app.activeDocument;
