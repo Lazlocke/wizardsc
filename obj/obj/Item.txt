@@ -1,1072 +1,1072 @@
 //entry 0 -----------------------
-量産された中古剣
+Rusty Sword
 剣
 s0_00_00.iph
 i0_00_00.iph
 無
-攻撃＋５|装備時、剣系スキル使用可。
-中古でも斬れる。
+Atk +5|Type: Sword
+Even if it's rusty, it still cuts.
 //entry 1 -----------------------
-量産された剣
+Common Sword
 剣
 s0_00_01.iph
 i0_00_01.iph
 無
-攻撃＋８|装備時、剣系スキル使用可。
-大量生産品だからって、甘くみないように。
+Atk +8|Type: Sword
+Don't underestimate mass-produced goods.
 //entry 2 -----------------------
-注文品の剣
+Custom Sword
 剣
 s0_00_02.iph
 i0_00_02.iph
 無
-攻撃＋１２|装備時、剣系スキル使用可。
-オーダーメイド品。剣士ならばこれぐらいは持って欲しい。
+Atk +12|Type: Sword
+If you're a swordsman, you want to at least have one.
 //entry 3 -----------------------
-鍛えられた剣
+Tempered Sword
 剣
 s0_00_03.iph
 i0_00_03.iph
 無
-攻撃＋１７|装備時、剣系スキル使用可。
-名が無い業物。
+Atk +17|Type: Sword
+A sharp, if unremarkable sword.
 //entry 4 -----------------------
-名剣シュナイダー
+Schneider Blade
 剣
 s0_00_04.iph
 i0_00_04.iph
 火
-攻撃＋３０|剣での攻撃が火属性に。|装備時、剣系スキル使用可。
-火の精霊の加護があるらしい。
+Atk +30|Element: Fire|Type: Sword
+Blessed by an ifrit.
 //entry 5 -----------------------
-名剣バロ
+Valor Blade
 剣
 s0_00_05.iph
 i0_00_05.iph
 水
-攻撃＋３０|剣での攻撃が水属性に。|装備時、剣系スキル使用可。
-水の精霊の加護があるらしい。
+Atk +30|Element: Water|Type: Sword
+Blessed by an undine.
 //entry 6 -----------------------
-名剣ウィンディ
+Windy Blade
 剣
 s0_00_06.iph
 i0_00_06.iph
 風
-攻撃＋３０|剣での攻撃が風属性に。|装備時、剣系スキル使用可。
-風の精霊の加護があるらしい。
+Atk +30|Element: Wind|Type: Sword
+Blessed by a sylph.
 //entry 7 -----------------------
-名剣ブルワ
+Brewer Blade
 剣
 s0_00_07.iph
 i0_00_07.iph
 土
-攻撃＋３０|剣での攻撃が土属性に。|装備時、剣系スキル使用可。
-土の精霊の加護があるらしい。|本当かな？
+Atk +30|Element: Earth|Type: Sword
+Blessed by a gnome.|...But was it really?
 //entry 8 -----------------------
-業火の剣
+Hellfire Blade
 剣
 s0_00_08.iph
 i0_00_08.iph
 火
-攻撃＋５０|剣での攻撃が火属性に。|装備時、剣系スキル使用可。
-火の魔神が宿っているらしいぞ！
+Atk +50|Element: Fire|Type: Sword
+Possessed by an angry demon.
 //entry 9 -----------------------
-天魔の剣
+Karmic Blade
 剣
 s0_00_09.iph
 i0_00_09.iph
 無
-攻撃＋６０|装備時、剣系スキル使用可。
-なんだか凄そうな剣。
+Atk +60|Type: Sword
+Seems amazing, but it's not sure why.
 //entry 10 -----------------------
-破邪の剣
+Exorcism Blade
 剣
 s0_00_10.iph
 i0_00_10.iph
 無
-攻撃＋７０|装備時、剣系スキル使用可。
-昔は魔物を祓ったそうだけど、今はその力が無いらしい。
+Atk +70|Type: Sword
+Created to exorcise demons, but its power is mostly gone.
 //entry 11 -----------------------
-名刀ムラマサ
+Muramasa
 剣
 s0_00_11.iph
 i0_00_11.iph
 無
-攻撃＋８０|常時魔力－５|装備時、剣系スキル使用可。
-東方の名剣。|装備していると魔力が減る。
+Atk +80|Mana -5|Type: Sword
+A powerful Eastern sword that constantly drains its user's mana.
 //entry 12 -----------------------
-名刀アマツクモ
+Amatsukumo
 剣
 s0_00_12.iph
 i0_00_12.iph
 無
-攻撃＋９０|装備時、剣系スキル使用可。
-東方の名剣。|凄い剣らしい。
+Atk +90|Type: Sword
+A legendary sword from the east.
 //entry 13 -----------------------
-名刀ダイコクテン
+Daikokuten
 剣
 s0_00_13.iph
 i0_00_13.iph
 無
-攻撃＋１００|装備時、剣系スキル使用可。
-コウモクテンとかビシャモンテンとかの類似品に注意。
+Atk +100|Type: Sword
+Beware of knockoffs.
 //entry 14 -----------------------
-初心者の杖
+Novice's Staff
 棒
 s0_01_00.iph
 i0_01_00.iph
 無
-攻撃＋１　魔法攻撃力＋５|ステージクリア時に魔力＋１装備時、棒系スキル使用可。
-魔法学園の生徒が使う杖。
+Atk +1　Mag +5|+1 Mana per battle|Type: Staff
+A staff for students.
 //entry 15 -----------------------
-魔法使いの杖
+Wizard's Staff
 棒
 s0_01_01.iph
 i0_01_01.iph
 無
-攻撃＋２　魔法攻撃＋８|ステージクリア時に魔力＋１装備時、棒系スキル使用可。
-魔法使いなら、これぐらいは使って欲しい。
+Atk +2　Mag +8|+1 Mana per battle|Type: Staff
+Any wizard worth their name has one.
 //entry 16 -----------------------
-協会の杖
+Guild Staff
 棒
 s0_01_02.iph
 i0_01_02.iph
 無
-攻撃＋３　魔法攻撃＋１２|ステージクリア時に魔力＋１装備時、棒系スキル使用可。
-協会が推薦する魔法使いの為の杖。
+Atk +3　Mag +12|+1 Mana per battle|Type: Staff
+A staff that comes highly recommended for Guild members.
 //entry 17 -----------------------
-戦闘用魔法杖
+Combat Staff
 棒
 s0_01_03.iph
 i0_01_03.iph
 無
-攻撃＋５　魔法攻撃＋１７|ステージクリア時に魔力＋２装備時、棒系スキル使用可。
-外に戦いに出る魔法使いが愛用している杖。
+Atk +5　Mag +17|+2 Mana per battle|Type: Staff
+A staff for wizards who fight a lot.
 //entry 18 -----------------------
-軍用魔法杖
+Warmage Staff
 棒
 s0_01_04.iph
 i0_01_04.iph
 無
-攻撃＋７　魔法攻撃＋２５|ステージクリア時に魔力＋２装備時、棒系スキル使用可。
-軍に所属する魔法使いが愛用している杖。
+Atk +7　Mag +25|+2 Mana per battle|Type: Staff
+A staff for wizards in the army.
 //entry 19 -----------------------
-魔王の魔法杖
+Overlord's Staff
 棒
 s0_01_05.iph
 i0_01_05.iph
 無
-攻撃＋１０　魔法攻撃＋４０ステージクリア時に魔力＋２装備時、棒系スキル使用可。
-魔王の愛用品。|じゃないそうです。
+Atk +10　Mag +40|+2 Mana per battle|Type: Staff
+The Overlord's favorite staff.|...Not really.
 //entry 20 -----------------------
-魔神の魔法杖
+Devil's Staff
 棒
 s0_01_06.iph
 i0_01_06.iph
 無
-攻撃＋１５　魔法攻撃＋５０ステージクリア時に魔力＋２装備時、棒系スキル使用可。
-素材が魔神らしいです。
+Atk +15　Mag +50|+2 Mana per battle|Type: Staff
+Made out of a demon, not for one.
 //entry 21 -----------------------
-詠唱の杖
+Chanting Staff
 棒
 s0_01_07.iph
 i0_01_07.iph
 無
-攻撃＋２０　魔法攻撃＋６０常時魔力＋１|装備時、棒系スキル使用可。
-魔法使いの憧れ的アイテム。
+Atk +20　Mag +60|Mana Regen +1|Type: Staff
+A staff desired by all wizards.
 //entry 22 -----------------------
-鍛錬用の棒
+Training Rod
 棒
 s0_01_08.iph
 i0_01_08.iph
 無
-攻撃＋５　魔法攻撃＋５|装備時、棒系スキル使用可。
-まあ、なんだ。|ただの棒よりはマシだ。
+Atk +5　Mag +5|Type: Staff
+Well, it's better than a stick.
 //entry 23 -----------------------
-硬い棒
+Hard Rod
 棒
 s0_01_09.iph
 i0_01_09.iph
 無
-攻撃＋１５　魔法攻撃＋６|装備時、棒系スキル使用可。
-硬い木を厳選して作ってます。
+Atk +15　Mag +6|Type: Staff
+Carefully selected from the hardest of hardwood.
 //entry 24 -----------------------
-扱い易い棒
+Flexible Rod
 棒
 s0_01_10.iph
 i0_01_10.iph
 無
-攻撃＋２５　魔法攻撃＋７|装備時、棒系スキル使用可。
-棒術の達人、お薦め。
+Atk +25　Mag +7|Type: Staff
+Recommended by staff masters.
 //entry 25 -----------------------
-虎月根
+Tiger Moon Rod
 棒
 s0_01_11.iph
 i0_01_11.iph
 無
-攻撃＋５０　魔法攻撃＋１２装備時、棒系スキル使用可。
-東方の棒。なんか、偉そうな虎の絵がある。
+Atk +50　Mag +12|Type: Staff
+Has a cool carving of a tiger on it.
 //entry 26 -----------------------
-龍月根
+Dragon Moon Rod
 棒
 s0_01_12.iph
 i0_01_12.iph
 無
-攻撃＋７０　魔法攻撃＋１６装備時、棒系スキル使用可。
-東方の棒。なんか、偉そうな龍の絵がある。
+Atk +70　Mag +16|Type: Staff
+Has a ferocious carving of a dragon on it.
 //entry 27 -----------------------
-量産の中古斧
+Rusty Ax
 斧
 s0_02_00.iph
 i0_02_00.iph
 無
-攻撃＋７|装備時、斧系スキル使用可。
-本来は木を切り倒す為の道具です。
+Atk +7|Type: Ax
+Used for cutting down trees.
 //entry 28 -----------------------
-量産の斧
+Common Ax
 斧
 s0_02_01.iph
 i0_02_01.iph
 無
-攻撃＋１４|装備時、斧系スキル使用可。
-木を切ってくれ！
+Atk +14|Type: Ax
+Cut that tree!
 //entry 29 -----------------------
-名のある斧
+Famous Ax
 斧
 s0_02_02.iph
 i0_02_02.iph
 無
-攻撃＋２１|装備時、斧系スキル使用可。
-有名な斧作り職人の作。
+Atk +21|Type: Ax
+Made by a famous craftsman.
 //entry 30 -----------------------
-破壊の斧
+Destructive Ax
 斧
 s0_02_03.iph
 i0_02_03.iph
 無
-攻撃＋３０|装備時、斧系スキル使用可。
-木を破壊してしまうので、武器にされた。
+Atk +30|Type: Ax
+Obliterates trees, so it was converted to a weapon.
 //entry 31 -----------------------
-殺戮の斧
+Slaughter Ax
 斧
 s0_02_04.iph
 i0_02_04.iph
 無
-攻撃＋５０|魔法攻撃力＋２０|装備時、斧系スキル使用可。
-殺人鬼、お断り。
+Atk +50|Mag +20|Type: Ax
+Please don't murder.
 //entry 32 -----------------------
-呪われた斧
+Cursed Ax
 斧
 s0_02_05.iph
 i0_02_05.iph
 無
-攻撃＋１５０|常時体力－１０／魔力－２|装備時、斧系スキル使用可。
-威力を目当てに、あえて呪われるのも良いだろう。
+Atk +150|HP -10 Mana -2|Type: Ax
+As long as you're okay with the curse, it's pretty good.
 //entry 33 -----------------------
-量産のハンマー
+Rusty Hammer
 ハンマー
 s0_03_00.iph
 i0_03_00.iph
 無
-攻撃＋２０|装備時、ハンマー系スキル使用可。
-大量生産されたハンマーの中から、選ばれたハンマーです。
+Atk +20|Type: Hammer
+A hammer selected from countless mass-produced hammers.
 //entry 34 -----------------------
-ハンマー
+Common Hammer
 ハンマー
 s0_03_01.iph
 i0_03_01.iph
 無
-攻撃＋３０|装備時、ハンマー系スキル使用可。
-相手を叩き潰す、残虐道具。
+Atk +30|Type: Hammer
+A cruel tool for smashing your foes.
 //entry 35 -----------------------
-玩具ハンマー
+Toy Hammer
 ハンマー
 s0_03_04.iph
 i0_03_04.iph
 無
-攻撃＋４０|装備時、ハンマー系スキル使用可。
-実戦に使える玩具って……
+Atk +40|Type: Hammer
+Is it really a toy if you're fighting with it?
 //entry 36 -----------------------
-Ｄハンマー
+D Hammer
 ハンマー
 s0_03_02.iph
 i0_03_02.iph
 無
-攻撃＋５０|装備時、ハンマー系スキル使用可。
-デストロイヤーハンマー♪
+Atk +50|Type: Hammer
+Destroyer Hammer!♪
 //entry 37 -----------------------
-Ｍハンマー
+M Hammer
 ハンマー
 s0_03_03.iph
 i0_03_03.iph
 無
-攻撃＋６０|装備時、ハンマー系スキル使用可。
-マジックハンマー♪
+Atk +60|Type: Hammer
+Magic Hammer!♪
 //entry 38 -----------------------
-普通の手裏剣
+Rusty Shuriken
 手裏剣
 s0_04_00.iph
 i0_04_00.iph
 無
-攻撃＋３|装備時、手裏剣系スキル使用可。
-投げた後の回収が大変。
+Atk +3|Type: Shuriken
+Tough to gather back up after throwing.
 //entry 39 -----------------------
-出来の良い手裏剣
+Fine Shuriken
 手裏剣
 s0_04_01.iph
 i0_04_01.iph
 無
-攻撃＋６|装備時、手裏剣系スキル使用可。
-無くしたら大変だ。
+Atk +6|Type: Shuriken
+Try not to lose them.
 //entry 40 -----------------------
-名のある手裏剣
+Famous Shuriken
 手裏剣
 s0_04_02.iph
 i0_04_02.iph
 無
-攻撃＋９|装備時、手裏剣系スキル使用可。
-有名な暗殺者が愛用していた。
+Atk +9|Type: Shuriken
+Used by famous assassins.
 //entry 41 -----------------------
-天下の手裏剣
+Supreme Shuriken
 手裏剣
 s0_04_03.iph
 i0_04_03.iph
 無
-攻撃＋１２|装備時、手裏剣系スキル使用可。
-昔、この手裏剣で天下を取った人がいるとかいないとか。
+Atk +12|Type: Shuriken
+They say someone used these to take over the world, but not really.
 //entry 42 -----------------------
-量産品の中古弓
+Rusty Bow
 弓
 s0_05_00.iph
 i0_05_00.iph
 無
-攻撃＋５|装備時、弓系スキル使用可。
-一応、真っ直ぐは飛ぶよ。
+Atk +5|Type: Bow
+Shoots mostly straight.
 //entry 43 -----------------------
-中古弓
+Used Bow
 弓
 s0_05_01.iph
 i0_05_01.iph
 無
-攻撃＋１０|装備時、弓系スキル使用可。
-中古品でも、良い品です。
+Atk +10|Type: Bow
+Second-hand goods are still good.
 //entry 44 -----------------------
-弓
+Common Bow
 弓
 s0_05_02.iph
 i0_05_02.iph
 無
-攻撃＋１５|装備時、弓系スキル使用可。
-オーダーメイド品です。
+Atk +15|Type: Bow
+Custom made.
 //entry 45 -----------------------
-上質の弓
+Quality Bow
 弓
 s0_05_03.iph
 i0_05_03.iph
 無
-攻撃＋２０|装備時、弓系スキル使用可。
-遠方からの攻撃は、卑怯じゃない。
+Atk +20|Type: Bow
+Attacking from range is still fighting fair.
 //entry 46 -----------------------
-鍛えられた弓
+Tempered Bow
 弓
 s0_05_04.iph
 i0_05_04.iph
 無
-攻撃＋２５|装備時、弓系スキル使用可。
-狩人が良く使ってるね。
+Atk +25|Type: Bow
+Used frequently by hunters.
 //entry 47 -----------------------
-貫きの弓
+Piercing Bow
 弓
 s0_05_05.iph
 i0_05_05.iph
 無
-攻撃＋３０|装備時、弓系スキル使用可。
-威力が出るらしいよ。
+Atk +30|Type: Bow
+Looks pretty strong.
 //entry 48 -----------------------
-森の精霊の弓
+Dryad's Bow
 弓
 s0_05_06.iph
 i0_05_06.iph
 無
-攻撃＋４０|装備時、弓系スキル使用可。
-森の住人愛用。
+Atk +40|Type: Bow
+Used by forest dwellers.
 //entry 49 -----------------------
-雪見の弓
+Snowfall Bow
 弓
 s0_05_07.iph
 i0_05_07.iph
 水
-攻撃＋５０|弓による攻撃が水属性に。|装備時、弓系スキル使用可。
-降り落ちる雪をも狙える弓らしい。
+Atk +50|Element: Water|Type: Bow
+Can shoot a snowflake out of the air.
 //entry 50 -----------------------
-月風の弓
+Moon Bow
 弓
 s0_05_08.iph
 i0_05_08.iph
 風
-攻撃＋６０|弓による攻撃が風属性に。|装備時、弓系スキル使用可。
-東方で作られた名弓。
+Atk +60|Element: Wind|Type: Bow
+A famous bow from the east.
 //entry 51 -----------------------
-雷竜の弓
+Dinosaur Bow
 弓
 s0_05_09.iph
 i0_05_09.iph
 雷
-攻撃＋７０|弓による攻撃が雷属性に。|装備時、弓系スキル使用可。
-最終的には、弓の良し悪しよりも、使う人の腕だね。
+Atk +70|Element: Lightning|Type: Bow
+It's the archer, not the bow.
 //entry 52 -----------------------
-中古の投ナイフ
+Rusty Knives
 投ナイフ
 s0_06_00.iph
 i0_06_00.iph
 無
-攻撃＋２|装備時、投ナイフ系スキル使用可。
-誰かが投げたのを回収したワケじゃないです。
+Atk +2|Type: Knives
+They're not rusty because someone threw them back.
 //entry 53 -----------------------
-投ナイフ
+Common Knives
 投ナイフ
 s0_06_01.iph
 i0_06_01.iph
 無
-攻撃＋４|装備時、投ナイフ系スキル使用可。
-人に向けて投げちゃ駄目ですよ。
+Atk +4|Type: Knives
+Don't throw things at people.
 //entry 54 -----------------------
-投げ易い投ナイフ
+Quality Knives
 投ナイフ
 s0_06_02.iph
 i0_06_02.iph
 無
-攻撃＋７|装備時、投ナイフ系スキル使用可。
-投げやすーい。
+Atk +7|Type: Knives
+Easy to toss.
 //entry 55 -----------------------
-鋭い投ナイフ
+Sharp Knives
 投ナイフ
 s0_06_03.iph
 i0_06_03.iph
 無
-攻撃＋１０|装備時、投ナイフ系スキル使用可。
-食事の時にも使えます。
+Atk +10|Type: Knives
+Good for dinner too.
 //entry 56 -----------------------
-煌めく投ナイフ
+Glittering Knives
 投ナイフ
 s0_06_04.iph
 i0_06_04.iph
 無
-攻撃＋１５|装備時、投ナイフ系スキル使用可。
-投げた時、キラッとする。
+Atk +15|Type: Knives
+Shine when thrown.
 //entry 57 -----------------------
-ガラス製の投ナイフ
+Glass Knives
 投ナイフ
 s0_06_05.iph
 i0_06_05.iph
 無
-攻撃＋２０|装備時、投ナイフ系スキル使用可。
-ガラス製なので、回収が困難。
+Atk +20|Type: Knives
+Made of glass, so hard to recover once thrown.
 //entry 58 -----------------------
-伝説の投ナイフ
+Legendary Knives
 投ナイフ
 s0_06_06.iph
 i0_06_06.iph
 無
-攻撃＋３０|装備時、投ナイフ系スキル使用可。
-投げナイフの名人が愛用していたナイフです。
+Atk +30|Type: Knives
+Used by expert knife throwers.
 //entry 59 -----------------------
-ムチ
+Whip
 ムチ
 s0_07_00.iph
 i0_07_00.iph
 無
-攻撃＋１０|装備時、ムチ系スキルが使用可能に。
-痛い。
+Atk +10|Type: Whip
+Hurts.
 //entry 60 -----------------------
-扱い易いムチ
+Quality Whip
 ムチ
 s0_07_01.iph
 i0_07_01.iph
 無
-攻撃＋１５|装備時、ムチ系スキルが使用可能に。
-かなり痛い。
+Atk +15|Type: Whip
+Hurts.|A lot.
 //entry 61 -----------------------
-トゲのあるムチ
+Barbed Whip
 ムチ
 s0_07_02.iph
 i0_07_02.iph
 無
-攻撃＋２０|装備時、ムチ系スキルが使用可能に。
-趣味な人でも、これには耐えられまい。
+Atk +20|Type: Whip
+Not for amusement purposes.
 //entry 62 -----------------------
-しなりのあるムチ
+Flexible Whip
 ムチ
 s0_07_03.iph
 i0_07_03.iph
 無
-攻撃＋２５|装備時、ムチ系スキルが使用可能に。
-肉を切り裂きます。
+Atk +25|Type: Whip
+Cuts and flays.
 //entry 63 -----------------------
-王女のムチ
+Princess Whip
 ムチ
 s0_07_04.iph
 i0_07_04.iph
 無
-攻撃＋３０|装備時、ムチ系スキルが使用可能に。
-痛さに容赦がありません。
+Atk +30|Type: Whip
+No mercy in this whip.
 //entry 64 -----------------------
-女王のムチ
+Queen Whip
 ムチ
 s0_07_05.iph
 i0_07_05.iph
 無
-攻撃＋３５|装備時、ムチ系スキルが使用可能に。
-オーッホッホッホ♪|と言わずにはいられない。
+Atk +35|Type: Whip
+A whip where you can't help but go Ohohohoho!♪
 //entry 65 -----------------------
-伝説のムチ
+Legendary Whip
 ムチ
 s0_07_06.iph
 i0_07_06.iph
 無
-攻撃＋４０|装備時、ムチ系スキルが使用可能に。
-伝説の娼館で大人気。|戦闘？　なにそれ？
+Atk +40|Type: Whip
+Popular with a famous prostitute. Battle? Nah.
 //entry 66 -----------------------
-中古の水樽
+Rusty Barrel
 タル
 s0_08_00.iph
 i0_08_00.iph
 無
-攻撃＋５|装備時、樽系スキル使用可。
-人が入れるぐらい、大きな樽です。
+Atk +5|Type: Barrel
+A barrel big enough to fit a person.
 //entry 67 -----------------------
-中古の酒樽
+Old Barrel
 タル
 s0_08_01.iph
 i0_08_01.iph
 無
-攻撃＋１０|装備時、樽系スキル使用可。
-うう、酒の匂いが……
+Atk +10|Type: Barrel
+Oooh... It smells of beer...
 //entry 68 -----------------------
-水樽
+Common Barrel
 タル
 s0_08_02.iph
 i0_08_02.iph
 無
-攻撃＋１５|装備時、樽系スキル使用可。
-水を入れるのが正しい使い方です。
+Atk +15|Type: Barrel
+Just add water.
 //entry 69 -----------------------
-酒樽
+Full Barrel
 タル
 s0_08_03.iph
 i0_08_03.iph
 無
-攻撃＋２０|装備時、樽系スキル使用可。
-酒を入れて欲しいのに……
+Atk +20|Type: Barrel
+I wish it had beer...
 //entry 70 -----------------------
-中古の厚い布
+Worn Out Clothing
 服
 s0_09_00.iph
 i0_09_00.iph
 無
-防御＋２　回避＋５
-多少は守れる。
+Def +2　Evd +5
+At least protects a little.
 //entry 71 -----------------------
-中古の守服
+Used Leather
 服
 s0_09_01.iph
 i0_09_01.iph
 無
-防御＋３　回避＋４
-守っちゃうぜ。
+Def +3　Evd +4
+I'll protect you!
 //entry 72 -----------------------
-中古の鋼入り服
+Used Clothing
 服
 s0_09_02.iph
 i0_09_02.iph
 無
-防御＋４　回避＋４
-鋼入りって、おまけ入りみたいだよね。
+Def +4　Evd +4
+Steel...ish?
 //entry 73 -----------------------
-倉庫で見つけた服
+Hand-Me-Downs
 服
 s0_09_03.iph
 i0_09_03.iph
 無
-防御＋５　回避＋４
-すみません。|倉庫で眠ってました！
+Def +5　Evd +4
+Poor things were stashed in the warehouse.
 //entry 74 -----------------------
-厚い布
+Thick Clothing
 服
 s0_09_04.iph
 i0_09_04.iph
 無
-防御＋６　回避＋５
-それなりの信頼感。
+Def +6　Evd +5
+Decently protective.
 //entry 75 -----------------------
-鋼入りの服
+Steel Clothing
 服
 s0_09_08.iph
 i0_09_08.iph
 無
-防御＋７　回避＋４
-鋼入りって、戦う人用かな。
+Def +7　Evd +4
+Steel for fighters.
 //entry 76 -----------------------
-守服
+Protective Clothing
 服
 s0_09_05.iph
 i0_09_05.iph
 無
-防御＋８　回避＋３
-防御はお任せ。
+Def +8　Evd +3
+Will protect you.
 //entry 77 -----------------------
-魔法の守服
+Magical Clothing
 服
 s0_09_06.iph
 i0_09_06.iph
 無
-防御＋８　回避＋３|魔法防御＋２
-魔法にも少し耐えます。
+Def +8　Evd +3 Res +2
+Blocks a little magic.
 //entry 78 -----------------------
-魔王の守服
+Overlord Clothing
 服
 s0_09_07.iph
 i0_09_07.iph
 無
-防御＋８　回避＋３|魔法防御＋３
-魔王とついても、所詮は守服。
+Def +8　Evd +3|Res +3
+Even an overlord needs some protection.
 //entry 79 -----------------------
-中古の薄い装甲
+Worn Armor
 装甲
 s0_10_00.iph
 i0_10_00.iph
 無
-防御＋９　回避＋２
-薄くても、服とは違います。
+Def +9　Evd +2
+Weak, but it's definitely not clothing.
 //entry 80 -----------------------
-中古の装甲
+Used Armor
 装甲
 s0_10_01.iph
 i0_10_01.iph
 無
-防御＋１０　回避＋２
-中古でも、立派な防具です。
+Def +10　Evd +2
+Even if it's used, it's still decent.
 //entry 81 -----------------------
-薄い装甲
+Thin Armor
 装甲
 s0_10_02.iph
 i0_10_02.iph
 無
-防御＋１１　回避＋２
-薄いけど、ちゃんと守ります。
+Def +11　Evd +2
+Thin, but it will protect you.
 //entry 82 -----------------------
-装甲
+Regular Armor
 装甲
 s0_10_03.iph
 i0_10_03.iph
 無
-防御＋１２　回避＋２
-うーん、硬そうなイメージ。
+Def +12　Evd +2
+Um, seems hard enough?
 //entry 83 -----------------------
-魔法の装甲
+Magic Armor
 装甲
 s0_10_04.iph
 i0_10_04.iph
 無
-防御＋１２　回避＋２|魔法防御＋４　属性防御＋３
-魔法から身を守るなら。
+Def +12　Evd +2 Res +4　|Elem Res +3
+Protects you from every element.
 //entry 84 -----------------------
-魔神の装甲
+Devil Armor
 装甲
 s0_10_05.iph
 i0_10_05.iph
 無
-防御＋１２　回避＋２|魔法防御＋５
-素材が魔神らしいけど、どこまで本当か。
+Def +12　Evd +2 Res +5
+Apparently made from a demon, but is that the truth?
 //entry 85 -----------------------
-中古の軽鎧
+Used Scale
 鎧
 s0_11_00.iph
 i0_11_00.iph
 無
-防御＋１３　回避＋１
-中古市場で大人気商品。
+Def +13　Evd +1
+Popular in the used market.
 //entry 86 -----------------------
-軽鎧
+Scale Armor
 鎧
 s0_11_01.iph
 i0_11_01.iph
 無
-防御＋１４　回避＋１
-軽いので、兵士向き。
+Def +14　Evd +1
+It's light, so it's good for soldiers.
 //entry 87 -----------------------
-鎧
+Plate Armor
 鎧
 s0_11_02.iph
 i0_11_02.iph
 無
-防御＋１５
-かわす必要などない。|耐えれば良いのだ。
+Def +15
+No need to dodge, just take the punch!
 //entry 88 -----------------------
-魔法の軽鎧
+Magic Light Armor
 鎧
 s0_11_03.iph
 i0_11_03.iph
 無
-防御＋１３　回避＋１|魔法防御＋６　属性防御＋４
-魔法防御に優れた逸品。
+Def +13　Evd +1 Res +6　Elem Res +4
+Blocks every kind of spell.
 //entry 89 -----------------------
-魔法の鎧
+Magic Plate
 鎧
 s0_11_04.iph
 i0_11_04.iph
 無
-防御＋１４|魔法防御＋７　属性防御＋５
-色々な魔法が掛けられた優れものです。
+Def +14 Res +7　Elem Res +5
+Good for fighting wizards.
 //entry 90 -----------------------
-伝説の軽鎧
+Legendary Armor
 鎧
 s0_11_05.iph
 i0_11_05.iph
 無
-防御＋１５　回避＋１|魔法防御＋８
-軽鎧でも、伝説級なんです。
+Def +15　Evd +1 Res +8
+Even light armor can be legendary.
 //entry 91 -----------------------
-伝説の鎧
+Legendary Plate
 鎧
 s0_11_06.iph
 i0_11_06.iph
 無
-防御＋１６|魔法防御＋９
-遥か昔、天界と魔界が争っていた時期に作られた鎧。
+Def +16|Res +9
+Made long ago during the war between angels and demons.
 //entry 92 -----------------------
-魔法使い協会証
+Guild Certificate
 紙
 s0_12_00.iph
 i0_12_00.iph
 無
-魔法によるダメージが少しだけ抑えられる。
-魔法使い協会に所属している証拠。
+Slightly reduces magic damage
+Proof that you're a member of the Guild.
 //entry 93 -----------------------
-挑戦札
+Challenge Note
 紙
 s0_12_27.iph
 i0_12_27.iph
 無
-魔法防御＋１０|詠唱の塔に挑戦できるようになる。
-魔法使い協会の真髄を見る事になるだろう。
+Res +10|Allows entry to the Tower of Arias
+You will see the best of the Wizard's Guild.
 //entry 94 -----------------------
-手書きの魔除け
+Handwritten Charm
 魔除け
 s0_12_01.iph
 i0_12_01.iph
 無
-ステージをクリアする毎に体力が１回復。
-手書きじゃないお守りがあるなら、見てみたい。
++1 HP per battle
+I want to see a charm that's NOT handwritten.
 //entry 95 -----------------------
-お守り
+Charm
 お守り
 s0_12_02.iph
 i0_12_02.iph
 無
-ステージをクリアする毎に体力が５回復。
-塔に挑戦するなら是非、お供に。
++5 HP per battle
+Bring this when you go to a tall tower.
 //entry 96 -----------------------
-魔法の首飾り
+Magic Necklace
 首飾り
 s0_12_03.iph
 i0_12_03.iph
 無
-ステージをクリアする毎に体力が１０回復。
-魔法使い協会が販売している回復のお守り。
++10 HP per battle
+A useful tool sold by the Guild.
 //entry 97 -----------------------
-必殺防御の首飾り
+Guard Necklace
 首飾り
 s0_12_04.iph
 i0_12_04.iph
 無
-必殺防御＋３０
-一撃死だけは避けたい。
+Crit Dodge +30
+Only helps you avoid critical hits.
 //entry 98 -----------------------
-命中の首飾り
+Hawkeye Necklace
 首飾り
 s0_12_05.iph
 i0_12_05.iph
 無
-あらゆる攻撃の命中率が＋８
-当てちゃうぜ。
++8 Hit Rate
+It's a hit.
 //entry 99 -----------------------
-加速の首飾り
+Cheetah Necklace
 首飾り
 s0_12_06.iph
 i0_12_06.iph
 無
-行動速度＋１０|戦闘速度＋１０
-速度は命。
+Act Speed +10|Combat Speed +10
+Speed is everything.
 //entry 100 -----------------------
-守備の首飾り
+Turtle Necklace
 首飾り
 s0_12_07.iph
 i0_12_07.iph
 無
-防御＋４|魔法防御＋４
-守ろう。
+Def +4|Res +4
+Turtle up.
 //entry 101 -----------------------
-マフラー
+Scarf
 マフラー
 s0_12_08.iph
 i0_12_08.iph
 無
-回避＋２
-夏でも装備して欲しい。
+Evd +2
+Can be worn even in summer.
 //entry 102 -----------------------
-魔法のマフラー
+Magic Scarf
 マフラー
 s0_12_09.iph
 i0_12_09.iph
 無
-回避＋３
-風が無くてもなびくマフラー。
+Evd +3
+Flutters even when there's no wind.
 //entry 103 -----------------------
-格好良いマフラー
+Dramatic Scarf
 マフラー
 s0_12_10.iph
 i0_12_10.iph
 無
-回避＋４
-誰が格好良いと決めたのだろう。
+Evd +4
+For when you want to look cool.
 //entry 104 -----------------------
-可愛いマフラー
+Cute Scarf
 マフラー
 s0_12_11.iph
 i0_12_11.iph
 無
-回避＋５
-花の絵が描かれているのさ。
+Evd +5
+Has flowers on it.
 //entry 105 -----------------------
-手袋
+Gloves
 手袋
 s0_12_12.iph
 i0_12_12.iph
 無
-魔法以外の攻撃＋１
-決闘の合図にも使われます。
+Phys Atk +1
+Used to declare a duel.
 //entry 106 -----------------------
-魔法の手袋
+Magic Gloves
 手袋
 s0_12_13.iph
 i0_12_13.iph
 無
-魔法以外の攻撃＋２
-片方無くしても、戻って来る魔法の手袋。超便利。
+Phys Atk +2
+Even if you lose one, it'll come back.
 //entry 107 -----------------------
-暗黒の手袋
+Dark Gloves
 手袋
 s0_12_14.iph
 i0_12_14.iph
 無
-魔法以外の攻撃＋３
-名前は怖いけど、フィット感が良い優れものです。
+Phys Atk +3
+A scary name, but a perfect fit.
 //entry 108 -----------------------
-帽子
+Hat
 帽子
 s0_12_15.iph
 i0_12_15.iph
 無
-詠唱速度＋３
-顔を日焼けしない為にも、是非に。
+Casting Speed +3
+Protect your face from sunburn.
 //entry 109 -----------------------
-硬い帽子
+Hard Hat
 帽子
 s0_12_16.iph
 i0_12_16.iph
 無
-詠唱速度＋５
-上から石が落ちてきても大丈夫。
+Casting Speed +5
+Protects you from falling rocks.
 //entry 110 -----------------------
-魔法の帽子
+Magic Hat
 帽子
 s0_12_17.iph
 i0_12_17.iph
 無
-詠唱速度＋７
-魔法使い愛用♪|これで呪文もスラスラに。
+Casting Speed +7
+A wizard's favorite.♪|Helps with tongue twisters too.
 //entry 111 -----------------------
-天使の帽子
+Angel Hat
 帽子
 s0_12_18.iph
 i0_12_18.iph
 無
-詠唱速度＋９
-これを装着して天使気分！|になれると良いなぁ。
+Casting Speed +9
+Makes you feel like an angel!|I wish I could be one.
 //entry 112 -----------------------
-巨人の指輪
+Giant's Ring
 指輪
 s0_12_19.iph
 i0_12_19.iph
 無
-体力＋１５０|格闘攻撃時の攻撃力＋１０
-まさに巨人！
+HP +150|Melee Atk +10
+Just like a giant!
 //entry 113 -----------------------
-飛竜の指輪
+Wyvern's Ring
 指輪
 s0_12_20.iph
 i0_12_20.iph
 無
-ステージをクリアする毎に体力が５回復。|遠距離武器での攻撃力＋１０
-実は飛竜は竜族じゃないんです。
++5 HP per battle|Ranged Atk +10
+Wyvern's aren't technically dragons.
 //entry 114 -----------------------
-竜の指輪
+Dragon's Ring
 指輪
 s0_12_21.iph
 i0_12_21.iph
 無
-常時体力が３回復。
-無限の体力♪
++3 HP per action
+Infinite power!♪
 //entry 115 -----------------------
-師匠の指輪
+Master's Ring
 指輪
 s0_12_22.iph
 i0_12_22.iph
 無
-ステージをクリアする毎に魔力が５回復。
-魔力回復は嬉しい♪
++5 Mana per battle
+Mana recovery is so great!♪
 //entry 116 -----------------------
-悪魔の指輪
+Devil's Ring
 指輪
 s0_12_26.iph
 i0_12_26.iph
 無
-あらゆる攻撃力が＋２|闇属性に対して少し抵抗。
-攻撃こそ最大の防御。
+All Atk +2|Resist Dark
+Offense is the best defense.
 //entry 117 -----------------------
-天使の指輪
+Angel's Ring
 指輪
 s0_12_25.iph
 i0_12_25.iph
 無
-あらゆる防御力が＋３|光属性に対して大きく抵抗。
-キッチリ守ります。
+All Def +3|Resist Light
+Your own personal aegis.
 //entry 118 -----------------------
-悪魔の翼
+Devil Wings
 黒い翼
 s0_12_23.iph
 i0_12_23.iph
 無
-行動速度＋５　戦闘速度＋３移動力＋１|闇属性に対して少し抵抗。
-悪魔のような速さ♪
+Act Speed +5　Combat Speed +3 Move +1|Resist Dark
+Devilishly quick.♪
 //entry 119 -----------------------
-天使の翼
+Angel Wings
 白い翼
 s0_12_24.iph
 i0_12_24.iph
 無
-行動速度＋５　戦闘速度＋３移動力＋１|光属性に対して少し抵抗。
-天使のような速さ♪
+Act Speed+5　Combat Speed+3 Move +1|Resist Light
+Heavenly celerity.♪
 //entry 120 -----------------------
-硬貨
+Coin
 財宝
 s3_00_00.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-発行している政府の信用で値段が変わったりする。
+Treasure|For Sale Only
+The price depends on who issued it.
 //entry 121 -----------------------
-綺麗な石
+Pretty Stone
 財宝
 s3_00_01.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-誰もが美しい物に金を出すと思うなよ。
+Treasure|For Sale Only
+Not everybody wants shiny things.
 //entry 122 -----------------------
-小粒な銀
+Small Silver
 財宝
 s3_00_02.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-銀は色々と幅広く使われています。
+Treasure|For Sale Only
+Silver has a lot of uses.
 //entry 123 -----------------------
-小粒な金
+Small Gold
 財宝
 s3_00_03.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-貴重品なので、高価。
+Treasure|For Sale Only
+It's rare, so it's expensive.
 //entry 124 -----------------------
-大振りな銀
+Large Silver
 財宝
 s3_00_04.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-銀の価値はわかりにくいよね。
+Treasure|For Sale Only
+The value of silver is very complicated.
 //entry 125 -----------------------
-大振りな金
+Large Gold
 財宝
 s3_00_05.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-見てるとニヤニヤできます。
+Treasure|For Sale Only
+Makes you grin just looking at it.
 //entry 126 -----------------------
-銀塊
+Silver Nugget
 財宝
 s3_00_06.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-このサイズなら凶器になるぜ。
+Treasure|For Sale Only
+Is practically a weapon when it's this big.
 //entry 127 -----------------------
-金塊
+Gold Nugget
 財宝
 s3_00_07.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-お、重い……
+Treasure|For Sale Only
+S-So heavy...
 //entry 128 -----------------------
-宝石
+Jewel
 財宝
 s3_00_08.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-世界中の女性が欲しがる石。
+Treasure|For Sale Only
+A stone desired by women the world over.
 //entry 129 -----------------------
-宝石塊
+Huge Jewel
 財宝
 s3_00_09.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-加工次第で、凄い大金に化ける。
+Treasure|For Sale Only
+Can be processed and turned into a fortune.
 //entry 130 -----------------------
-骨董品
+Antique
 財宝
 s3_00_10.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-古いだけでは駄目です。|古くて良い品じゃないと。
+Treasure|For Sale Only
+Just being old isn't good enough.
 //entry 131 -----------------------
-珍品骨董
+Rare Antique
 財宝
 s3_00_11.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-古くて珍しい品。|マニア心をくすぐる。
+Treasure|For Sale Only
+Old and rare. Desired by collectors.
 //entry 132 -----------------------
-名骨董
+Famous Antique
 財宝
 s3_00_12.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-良い品は何百年経っても、良い。
+Treasure|For Sale Only
+Still good even hundreds of years later.
 //entry 133 -----------------------
-燕の巣
+Swallow's Nest
 財宝
 s3_00_13.iph
 i3_00_00.iph
 無
-財宝。|売却オンリー。
-イワツバメの巣。|食材らしい。
+Treasure|For Sale Only
+A bird's nest. Maybe you can eat it?
