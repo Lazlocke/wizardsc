@@ -1,1150 +1,1150 @@
 //entry 0 -----------------------
-タカイゾウ
+Big Elephant
 演出道具
 台
 s1_00_00.iph
 i1_00_00.iph
 b
 *
-演出用アイテム。|ほんの少しだけ、背を高く見せることができる。
-身長とは偉大だ。
+Type: Decoration|Stand just a little taller.
+Height is might.
 //entry 1 -----------------------
-デカイゾウ
+Huge Elephant
 演出道具
 ニセ乳
 s1_00_01.iph
 i1_00_01.iph
 1
 *
-演出用アイテム。|胸が大きくなった感じが少しだけする。
-胸は武器です。
+Type: Decoration|Stick out your chest.
+Breasts are a weapon.
 //entry 2 -----------------------
-イウゾウ
+Grand Elephant
 演出道具
 口上集
 s1_00_02.iph
 i1_00_02.iph
 ev020a2.iph
 *
-演出用アイテム。|言葉は立派な武器です。
-口下手な方にお薦め。
+Type: Decoration|Words are power.
+Good for the timid.
 //entry 3 -----------------------
-控えめな旗指物
+Modest Banner
 演出道具
 旗指物
 s1_00_03.iph
 i1_00_03.iph
 ev020d0.iph
 *
-演出用アイテム。|控えめでも旗なので目立ちます。
-威嚇。
+Type: Decoration|A banner for the bannerless.
+Intimidate your foes.
 //entry 4 -----------------------
-普通の旗指物
+Common Banner
 演出道具
 旗指物
 s1_00_04.iph
 i1_00_03.iph
 ev020d1.iph
 *
-演出用アイテム。|旗で勢いをつける。
-自分の旗があると、勇気が出ます。
+Type: Decoration|A proud banner.
+A flag means GUTS!
 //entry 5 -----------------------
-目立つ旗指物
+Flashy Banner
 演出道具
 旗指物
 s1_00_05.iph
 i1_00_03.iph
 ev020d2.iph
 *
-演出用アイテム。|注目を浴びたい時などに。
-私はここでーす。
+Type: Decoration|For attention.
+I! Am! Here!
 //entry 6 -----------------------
-豪華な旗指物
+Splendid Banner
 演出道具
 旗指物
 s1_00_06.iph
 i1_00_03.iph
 ev020d3.iph
 *
-演出用アイテム。|自分の財力アピールに。
-立派立派♪
+Type: Decoration|Show off your money.
+Splendid!♪
 //entry 7 -----------------------
-赤照明
+Red Light
 演出道具
 照明
 s1_00_07.iph
 i1_00_07.iph
 ev020e0.iph
 *
-演出用アイテム。|光を巧みに使おう。
-赤くショウアップ♪
+Type: Decoration|Find the right lighting.
+Like a rose!♪
 //entry 8 -----------------------
-青照明
+Blue Light
 演出道具
 照明
 s1_00_08.iph
 i1_00_07.iph
 ev020e1.iph
 *
-演出用アイテム。|光を巧みに使おう。
-青くショウアップ♪
+Type: Decoration|Find the right lighting.
+Like a violet!♪
 //entry 9 -----------------------
-黄色照明
+Yellow Light
 演出道具
 照明
 s1_00_09.iph
 i1_00_07.iph
 ev020e2.iph
 *
-演出用アイテム。|光を巧みに使おう。
-黄色くショウアップ♪
+Type: Decoration|Find the right lighting.
+Like an orchid!♪
 //entry 10 -----------------------
-虹色照明
+Rainbow Light
 演出道具
 照明
 s1_00_10.iph
 i1_00_07.iph
 ev020e3.iph
 *
-演出用アイテム。|光を巧みに使おう。
-カラフルにショウアップ♪
+Type: Decoration|Find the right lighting.
+Like a fairy!♪
 //entry 11 -----------------------
-集中背景
+Basic Wallpaper
 演出道具
 効果セット
 s1_00_11.iph
 i1_00_11.iph
 ev020c1.iph
 *
-演出用アイテム。|カキワリと呼ばれる壁です。
-ババーン！
+Type: Decoration|Get a better background.
+Ta-dah!
 //entry 12 -----------------------
-閃光背景
+Flashy Wallpaper
 演出道具
 効果セット
 s1_00_12.iph
 i1_00_11.iph
 ev020c2.iph
 *
-演出用アイテム。|カキワリと呼ばれる壁です。
-フラーーッシュ！
+Type: Decoration|Get a better background.
+Ba-doosh!
 //entry 13 -----------------------
-渦巻き背景
+Swirly Wallpaper
 演出道具
 効果セット
 s1_00_13.iph
 i1_00_11.iph
 ev020c3.iph
 *
-演出用アイテム。|カキワリと呼ばれる壁です。
-グルグル♪
+Type: Decoration|Get a better background.
+Zwooop!♪
 //entry 14 -----------------------
-水玉背景
+Polka Dot Wallpaper
 演出道具
 効果セット
 s1_00_14.iph
 i1_00_11.iph
 ev020c4.iph
 *
-演出用アイテム。|カキワリと呼ばれる壁です。
-ポワンとした感じになるかな。
+Type: Decoration|Get a better background.
+Ba-twing?
 //entry 15 -----------------------
-紙吹雪
+Confetti
 演出道具
 吹雪
 s1_00_20.iph
 i1_00_20.iph
 ev020g0.iph
 *
-演出用アイテム。|周囲に撒いて、華やかにします。
-見た目が派手になるかも。
+Type: Decoration|Celebrate in style.
+Now we're getting flashy.
 //entry 16 -----------------------
-桜花吹雪
+Cherry Blossoms
 演出道具
 吹雪
 s1_00_21.iph
 i1_00_20.iph
 ev020g1.iph
 *
-演出用アイテム。|周囲に撒いて、華やかにします。
-春のイメージを重視してみました。
+Type: Decoration|Celebrate in style.
+Seems like it's spring.
 //entry 17 -----------------------
-菊花吹雪
+Flower Blossoms
 演出道具
 吹雪
 s1_00_22.iph
 i1_00_20.iph
 ev020g2.iph
 *
-演出用アイテム。|周囲に撒いて、華やかにします。
-黄色の花もまた良い感じ。
+Type: Decoration|Celebrate in style.
+Yellow's nice too.
 //entry 18 -----------------------
-薔薇花吹雪
+Rose Blossoms
 演出道具
 吹雪
 s1_00_23.iph
 i1_00_20.iph
 ev020g3.iph
 *
-演出用アイテム。|周囲に撒いて、華やかにします。
-女王様♪
+Type: Decoration|Celebrate in style.
+My queen!♪
 //entry 19 -----------------------
-雪吹雪
+Snow Storm
 演出道具
 吹雪
 s1_00_24.iph
 i1_00_20.iph
 ev020g4.iph
 *
-演出用アイテム。|周囲に撒いて、華やかにします。
-寒そう。
+Type: Decoration|Celebrate in style.
+Brrrr...
 //entry 20 -----------------------
-闇吹雪
+Dark Blizzard
 演出道具
 吹雪
 s1_00_25.iph
 i1_00_20.iph
 ev020g5.iph
 *
-演出用アイテム。|周囲に撒いて、華やかにします。
-不思議演出。
+Type: Decoration|Celebrate in style.
+How mysterious.
 //entry 21 -----------------------
-十人セット
+Set of Ten
 演出道具
 応援団
 s1_00_26.iph
 i1_00_26.iph
 ev020f0.iph
 *
-演出用アイテム。|応援団。
-応援があると、立ち上がれる気がする。
+Type: Decoration|A personal cheer team.
+With your support, I can do it!
 //entry 22 -----------------------
-二十人セット
+Set of Twenty
 演出道具
 応援団
 s1_00_27.iph
 i1_00_26.iph
 ev020f1.iph
 *
-演出用アイテム。|応援団。
-大勢の応援は心強いものだ。
+Type: Decoration|A personal cheer team.
+The more, the merrier.
 //entry 23 -----------------------
-三十人セット
+Set of Thirty
 演出道具
 応援団
 s1_00_28.iph
 i1_00_26.iph
 ev020f2.iph
 *
-演出用アイテム。|応援団。
-大声援は倒れた者を奮い起こす。
+Type: Decoration|A personal cheer team.
+A crowd to rouse flagging spirits.
 //entry 24 -----------------------
-ボロベッド
+Ragged Bed
 家具
 ベッド
 s2_00_00.iph
 i2_00_00.iph
 *
 m000.iph
-寝具。
-ボロいけど、寝るには問題無し。
+Type: Bed
+Scratchy, but sleepable.
 //entry 25 -----------------------
-普通のベッド
+Normal Bed
 家具
 ベッド
 s2_00_01.iph
 i2_00_00.iph
 *
 m001.iph
-寝具。|魔力補給時、僅かだが補給量が増える。
-ガタガタしないよ。
+Type: Bed|Transfer more mana during sex.
+Doesn's creak.
 //entry 26 -----------------------
-高級ベッド
+Luxurious Bed
 家具
 ベッド
 s2_00_02.iph
 i2_00_00.iph
 *
 m002.iph
-寝具。|魔力補給時、僅かだが補給量が増える。
-安眠♪
+Type: Bed|Transfer more mana during sex.
+Night, night.♪
 //entry 27 -----------------------
-ラブラブベッド
+Romantic Bed
 家具
 ベッド
 s2_00_03.iph
 i2_00_00.iph
 *
 m003.iph
-寝具。|魔力補給時、少しだけ補給量が増える。
-新婚さんにお薦め。
+Type: Bed|Transfer more mana during sex.
+For newlyweds.
 //entry 28 -----------------------
-円満ベッド
+Harmonious Bed
 家具
 ベッド
 s2_00_04.iph
 i2_00_00.iph
 *
 m004.iph
-寝具。|魔力補給時、少しだけ補給量が増える。
-倦怠期はこれで解決。
+Type: Bed|Transfer more mana during sex.
+Makes your fatigue melt away.
 //entry 29 -----------------------
-淫靡ベッド
+Sexy Bed
 家具
 ベッド
 s2_00_05.iph
 i2_00_00.iph
 *
 m005.iph
-寝具。|Ｈな気分にさせる事で、魔力補給時の補給量が増える。
-不満気味の夜の生活も、これでスッキリ解決。
+Type: Bed|Transfer a lot more mana during sex.
+This'll solve your unsatisfying night life.
 //entry 30 -----------------------
-プリンセスベッド
+Princess Bed
 家具
 ベッド
 s2_00_90.iph
 i2_00_00.iph
 *
 m006.iph
-寝具。|魔力補給時、少しだけ補給量が増える。
-寝心地満点。
+Type: Bed|Transfer more mana during sex.
+For a perfect's night's sleep.
 //entry 31 -----------------------
-くたびれた応接セット
+Old Utensils
 家具
 応接セット
 s2_00_06.iph
 i2_00_01.iph
 *
 m050.iph
-応接セット。|一般＋１％
-お客様をお迎えする気持ちが大切なのです。
+Type: Utensils|General +1%
+It's good to make visitors feel welcome.
 //entry 32 -----------------------
-それなりの応接セット
+Regular Utensils
 家具
 応接セット
 s2_00_07.iph
 i2_00_01.iph
 *
 m051.iph
-応接セット。|一般＋２％
-それなりでも、機能は十分。
+Type: Utensils|General +2%
+Well, they work.
 //entry 33 -----------------------
-くつろぐ応接セット
+Soothing Utensils
 家具
 応接セット
 s2_00_08.iph
 i2_00_01.iph
 *
 m052.iph
-応接セット。|一般＋３％
-くつろげ過ぎると、ベッドにされたりする。
+Type: Utensils|General +3%
+If they soothe you too much, you might take them to bed.
 //entry 34 -----------------------
-落ち着く応接セット
+Relaxing Utensils
 家具
 応接セット
 s2_00_09.iph
 i2_00_01.iph
 *
 m053.iph
-応接セット。|一般＋４％
-落ち着く～♪
+Type: Utensils|General +4%
+Just relax.♪
 //entry 35 -----------------------
-安心の応接セット
+Peaceful Utensils
 家具
 応接セット
 s2_00_10.iph
 i2_00_01.iph
 *
 m054.iph
-応接セット。|一般＋５％
-これぐらいになると、色々と安心できるのです。
+Type: Utensils|General +5%
+You can relax with these, in all kinds of ways.
 //entry 36 -----------------------
-素晴らしい応接セット
+Lovely Utensils
 家具
 応接セット
 s2_00_11.iph
 i2_00_01.iph
 *
 m055.iph
-応接セット。|一般＋６％
-豪華過ぎると、腰が引ける。
+Type: Utensils|General +6%
+If they're too cute, people will be intimidated to use them.
 //entry 37 -----------------------
-ボロいクローゼット
+Ragged Closet
 家具
 クローゼット
 s2_00_12.iph
 i2_00_08.iph
 *
 m100.iph
-服の収納。|一般＋１％
-機能重視。
+Type: Closet|General +1%
+Functional, at least.
 //entry 38 -----------------------
-普通のクローゼット
+Regular Closet
 家具
 クローゼット
 s2_00_13.iph
 i2_00_08.iph
 *
 m101.iph
-服の収納。|一般＋２％
-服の為にも、最低でもこれぐらいは使いたい。
+Type: Closet|General +2%
+The minimum for clothing storage.
 //entry 39 -----------------------
-上質なクローゼット
+Quality Closet
 家具
 クローゼット
 s2_00_14.iph
 i2_00_08.iph
 *
 m102.iph
-服の収納。|一般＋３％
-良い服はちゃんと保管しなければ。
+Type: Closet|General +3%
+Take care of your clothing.
 //entry 40 -----------------------
-高級なクローゼット
+Luxurious Closet
 家具
 クローゼット
 s2_00_15.iph
 i2_00_08.iph
 *
 m103.iph
-服の収納。|一般＋４％
-クローゼットが良いと、中の服も立派に見えます。
+Type: Closet|General +4%
+When the closet is nice, the clothes look even better.
 //entry 41 -----------------------
-美しいクローゼット
+Pretty Closet
 家具
 クローゼット
 s2_00_16.iph
 i2_00_08.iph
 *
 m104.iph
-服の収納。|一般＋５％
-外が良くなると、中身も良くしたくなるのが心情。
+Type: Closet|General +5%
+The nicer the closet, the better the clothing you want to put in it.
 //entry 42 -----------------------
-ボロ勉強机
+Ragged Desk
 家具
 勉強机
 s2_00_17.iph
 i2_00_02.iph
 *
 m150.iph
-勉強机。|魔法＋２％|一般＋１％
-多少、ボロくても勉強はできるのです。
+Type: Desk|Mag +2%|General +1%
+Worn out, but you can still study on it.
 //entry 43 -----------------------
-普通の勉強机
+Regular Desk
 家具
 勉強机
 s2_00_18.iph
 i2_00_02.iph
 *
 m151.iph
-勉強机。|魔法＋３％|一般＋２％
-シンプルがベスト。
+Type: Desk|Mag +3%|General +2%
+Simple is best.
 //entry 44 -----------------------
-やる気の出る勉強机
+Motivating Desk
 家具
 勉強机
 s2_00_19.iph
 i2_00_02.iph
 *
 m152.iph
-勉強机。|魔法＋４％|一般＋３％
-環境は大事です。
+Type: Desk|Mag +4%|General +3%
+A good environment is important.
 //entry 45 -----------------------
-初級魔法勉強用机
+Apprentice's Desk
 家具
 勉強机
 s2_00_20.iph
 i2_00_02.iph
 *
 m153.iph
-勉強机。|魔法＋５％|一般＋３％
-魔法の勉強用にカスタマイズされた机です。
+Type: Desk|Mag +5%|General +3%
+A desk customized for wizards.
 //entry 46 -----------------------
-中級魔法勉強用机
+Prodigal Desk
 家具
 勉強机
 s2_00_21.iph
 i2_00_02.iph
 *
 m154.iph
-勉強机。|魔法＋６％|一般＋３％
-机のサイズが少しアップした！
+Type: Desk|Mag +6%|General +3%
+A bigger desk is better!
 //entry 47 -----------------------
-上級魔法勉強用机
+Master's Desk
 家具
 勉強机
 s2_00_22.iph
 i2_00_02.iph
 *
 m155.iph
-勉強机。|魔法＋７％|一般＋３％
-どうせ、すぐに本とかが積み上げられちゃうんですけどね。
+Type: Desk|Mag +7%|General +3%
+It'll be full of books soon enough.
 //entry 48 -----------------------
-初級格闘勉強用机
+Brawler's Desk
 家具
 勉強机
 s2_00_23.iph
 i2_00_02.iph
 *
 m156.iph
-勉強机。|肉体、格闘＋２％|一般＋３％
-格闘の勉強用にカスタマイズされた机です。
+Type: Desk|Phys +2% Grapple +2%|General +3%
+For fighters who are still learning.
 //entry 49 -----------------------
-中級格闘勉強用机
+Fighter's Desk
 家具
 勉強机
 s2_00_24.iph
 i2_00_02.iph
 *
 m157.iph
-勉強机。|肉体、格闘＋４％|一般＋３％
-座ったまま相手を攻撃する方法もあるぞ。
+Type: Desk|Phys +4% Grapple +4%|General +3%
+There's ways to fight sitting down too.
 //entry 50 -----------------------
-上級格闘勉強用机
+Warrior's Desk
 家具
 勉強机
 s2_00_25.iph
 i2_00_02.iph
 *
 m158.iph
-勉強机。|肉体、格闘＋６％|一般＋３％
-良い机なんだから、きっと学べる筈さ。
+Type: Desk|Phys +6% Grapple +6%|General +3%
+It's a good desk, so you'll certainly learn something.
 //entry 51 -----------------------
-初級武器勉強用机
+Squire's Desk
 家具
 勉強机
 s2_00_26.iph
 i2_00_02.iph
 *
 m159.iph
-勉強机。|武器、遠距離、特殊＋２％|一般＋３％
-武器の勉強用にカスタマイズされた机です。
+Type: Desk|All Weapons +2%|General +3%
+A desk for the study of weaponry.
 //entry 52 -----------------------
-中級武器勉強用机
+Knight's Desk
 家具
 勉強机
 s2_00_27.iph
 i2_00_02.iph
 *
 m160.iph
-勉強机。|武器、遠距離、特殊＋４％|一般＋３％
-武器を知る事は、色々と大事なんですよ。
+Type: Desk|All Weapons +4%|General +3%
+It's important to know your way around a weapon.
 //entry 53 -----------------------
-上級武器勉強用机
+Hero's Desk
 家具
 勉強机
 s2_00_28.iph
 i2_00_02.iph
 *
 m161.iph
-勉強机。|武器、遠距離、特殊＋６％|一般＋３％
-僭越ながら……|座ってないで体を動かせ！
+Type: Desk|All Weapons +6%|General +3%
+How arrogant.|Practice without sitting down!
 //entry 54 -----------------------
-初級家庭勉強用机
+Servant's Desk
 家具
 勉強机
 s2_00_29.iph
 i2_00_02.iph
 *
 m162.iph
-勉強机。|冒険＋２％|一般＋４％
-家庭の勉強用にカスタマイズされた机です。
+Type: Desk|All Adventure +2%|General +4%
+Study the outdoors, indoors.
 //entry 55 -----------------------
-中級家庭勉強用机
+Maid's Desk
 家具
 勉強机
 s2_00_30.iph
 i2_00_02.iph
 *
 m163.iph
-勉強机。|冒険＋４％|一般＋６％
-家庭の勉強ってなんだ？|机の前でする事なのか？
+Type: Desk|All Adventure +4%|General +6%
+Doing homework for out of home work.
 //entry 56 -----------------------
-上級家庭勉強用机
+Butler's Desk
 家具
 勉強机
 s2_00_31.iph
 i2_00_02.iph
 *
 m164.iph
-勉強机。|冒険＋６％|一般＋８％
-机の前でのエロは家庭の勉強に入るのでしょうか？
+Type: Desk|All Adventure +6%|General +8%
+Does sex at the desk count as studying?
 //entry 57 -----------------------
-ボロカーテン
+Ragged Curtains
 家具
 カーテン
 s2_00_32.iph
 i2_00_03.iph
 *
 m200.iph
-カーテン。
-窓からの光を遮るはずだが、穴から光が……
+Type: Curtains
+Should block out the light, but there are so many holes.
 //entry 58 -----------------------
-マシなカーテン
+Regular Curtains
 家具
 カーテン
 s2_00_33.iph
 i2_00_03.iph
 *
 m201.iph
-カーテン。|闇の魔法、光の魔法＋１％
-カーテンの役目が果たせればそれで十分。
+Type: Curtains|Dark and Light Mag +1%
+They're certainly curtainy.
 //entry 59 -----------------------
-普通のカーテン
+Quality Curtains
 家具
 カーテン
 s2_00_34.iph
 i2_00_03.iph
 *
 m202.iph
-カーテン。|闇の魔法、光の魔法＋２％
-質は良いんです。質は！
+Type: Curtains|Dark and Light Mag +2%
+The curtains match the drapes.
 //entry 60 -----------------------
-高級なカーテン
+Fancy Curtains
 家具
 カーテン
 s2_00_35.iph
 i2_00_03.iph
 *
 m203.iph
-カーテン。|闇の魔法、光の魔法＋３％
-見栄えは大事です。
+Type: Curtains|Dark and Light Mag +3%
+Looks are key.
 //entry 61 -----------------------
-豪華なカーテン
+Gorgeous Curtains
 家具
 カーテン
 s2_00_36.iph
 i2_00_03.iph
 *
 m204.iph
-カーテン。|闇の魔法、光の魔法＋５％
-カーテンは部屋の大事なアイテムです。
+Type: Curtains|Dark and Light Mag +5%
+Curtains are a key part of any room.
 //entry 62 -----------------------
-赤い絨毯
+Red Carpet
 家具
 絨毯
 s2_00_37.iph
 i2_00_04.iph
 *
 m250.iph
-絨毯。|土の魔法＋１％
-赤は情熱の色。
+Type: Carpet|Earth Mag +1%
+Red is the color of passion.
 //entry 63 -----------------------
-青い絨毯
+Blue Carpet
 家具
 絨毯
 s2_00_38.iph
 i2_00_04.iph
 *
 m251.iph
-絨毯。|土の魔法＋１％
-青は静寂の色。
+Type: Carpet|Earth Mag +1%
+Blue is the color of silence.
 //entry 64 -----------------------
-白い絨毯
+White Carpet
 家具
 絨毯
 s2_00_39.iph
 i2_00_04.iph
 *
 m252.iph
-絨毯。|土の魔法＋１％
-飲み物を零すと大惨事。
+Type: Carpet|Earth Mag +1%
+If you spill something, catastrophe.
 //entry 65 -----------------------
-黒い絨毯
+Black Carpet
 家具
 絨毯
 s2_00_40.iph
 i2_00_04.iph
 *
 m253.iph
-絨毯。|土の魔法＋１％
-黒も意外と汚れが目立ったりする。
+Type: Carpet|Earth Mag +1%
+Dirt is very notciable on black.
 //entry 66 -----------------------
-魔法の絨毯
+Magic Carpet
 家具
 絨毯
 s2_00_41.iph
 i2_00_04.iph
 *
 m254.iph
-絨毯。|土の魔法＋４％|魔法＋２％
-別に飛んだりはしません。
+Type: Carpet|Earth Mag +4%|Mag +2%
+Doesn't fly.
 //entry 67 -----------------------
-戦意の絨毯
+Warrior Carpet
 家具
 絨毯
 s2_00_42.iph
 i2_00_04.iph
 *
 m255.iph
-絨毯。|土の魔法＋２％|肉体＋２％
-なぜか戦意が湧く。
+Type: Carpet|Earth Mag +2%|Phys ＋2%
+Makes you want to fight.
 //entry 68 -----------------------
-可愛い絨毯
+Cute Carpet
 家具
 絨毯
 s2_00_43.iph
 i2_00_04.iph
 *
 m256.iph
-絨毯。|土の魔法＋２％|一般＋３％
-女の子に大人気♪
+Type: Carpet|Earth Mag +2%|General +3%
+Very popular with girls.♪
 //entry 69 -----------------------
-悪魔の絨毯
+Devil Carpet
 家具
 絨毯
 s2_00_44.iph
 i2_00_04.iph
 *
 m257.iph
-絨毯。|土の魔法＋２％|闇の魔法＋５％
-魔界の住人が愛用しているらしい。
+Type: Carpet|Earth Mag +2%|Dark Mag +5%
+Used by demons.
 //entry 70 -----------------------
-天使の絨毯
+Angel Carpet
 家具
 絨毯
 s2_00_45.iph
 i2_00_04.iph
 *
 m258.iph
-絨毯。|土の魔法＋２％|光の魔法＋５％
-天界の住人が愛用しているらしい。
+Type: Carpet|Earth Mag +2%|Light Mag +5%
+Comes from Celestia.
 //entry 71 -----------------------
-歴史ある絨毯
+Historic Carpet
 家具
 絨毯
 s2_00_46.iph
 i2_00_04.iph
 *
 m259.iph
-絨毯。|土の魔法＋３％|その他＋１％
-昔の偉い人が愛用していたらしい。
+Type: Carpet|Earth Mag +3%|All Other Mag ＋1%
+Used by your ancestors.
 //entry 72 -----------------------
-娯楽小本棚
+Fun Shelves
 家具
 本棚
 s2_00_47.iph
 i2_00_05.iph
 *
 m300.iph
-本棚。|冒険、一般＋２％
-楽しい本が一杯♪
+Type: Bookshelf|Adventure and General +2%
+Full of fun books.♪
 //entry 73 -----------------------
-娯楽中本棚
+Happy Shelves
 家具
 本棚
 s2_00_48.iph
 i2_00_05.iph
 *
 m301.iph
-本棚。|冒険、一般＋４％
-楽しい本をたくさん並べよう。
+Type: Bookshelf|Adventure and General +4%
+Every book has a happy ending.
 //entry 74 -----------------------
-娯楽大本棚
+Fortunate Shelves
 家具
 本棚
 s2_00_49.iph
 i2_00_05.iph
 *
 m302.iph
-本棚。|冒険、一般＋６％
-遊ぶ為の本が、これでもかと乱雑に並べられている。
+Type: Bookshelf|Adventure and General +6%
+There's no order to the books here, but they're all fun.
 //entry 75 -----------------------
-魔法関係小本棚
+Magic Shelves
 家具
 本棚
 s2_00_50.iph
 i2_00_05.iph
 *
 m303.iph
-本棚。|魔法＋３％|火、水、風、土の魔法＋２％
-魔法関係の本を並べよう。
+Type: Bookshelf|Mag +3%|Fire, Water, Wind, and Earth Mag +2%
+For grimoires.
 //entry 76 -----------------------
-魔法関係中本棚
+Wizard's Shelves
 家具
 本棚
 s2_00_51.iph
 i2_00_05.iph
 *
 m304.iph
-本棚。|魔法＋４％|火、水、風、土の魔法＋３％
-魔法の本って、読むのも大変そうだよね。
+Type: Bookshelf|Mag +4%|Fire, Water, Wind, and Earth Mag +3%
+Magic books are hard to read.
 //entry 77 -----------------------
-魔法関係大本棚
+Archmage's Shelves
 家具
 本棚
 s2_00_52.iph
 i2_00_05.iph
 *
 m305.iph
-本棚。|魔法＋５％|火、水、風、土の魔法＋４％
-難しい本で一杯にしよう。
+Type: Bookshelf|Mag +5%|Fire, Water, Wind, and Earth Mag +4%
+Fill it up with complicated books.
 //entry 78 -----------------------
-格闘関係小本棚
+Brawler's Shelves
 家具
 本棚
 s2_00_53.iph
 i2_00_05.iph
 *
 m306.iph
-本棚。|肉体＋１％|格闘＋３％
-格闘に関する本が並べられた。
+Type: Bookshelf|Phys ＋1%|Grapple ＋3%
+Full of books about martial arts.
 //entry 79 -----------------------
-格闘関係中本棚
+Fighter's Shelves
 家具
 本棚
 s2_00_54.iph
 i2_00_05.iph
 *
 m307.iph
-本棚。|肉体＋２％|格闘＋５％
-格闘関係以外の本はお断りだ。
+Type: Bookshelf|Phys +2%|Grapple +5%
+Only books about martial artists allowed.
 //entry 80 -----------------------
-格闘関係大本棚
+Warrior's Shelves
 家具
 本棚
 s2_00_55.iph
 i2_00_05.iph
 *
 m308.iph
-本棚。|肉体＋３％|格闘＋７％
-格闘関係の本が一杯です。
+Type: Bookshelf|Phys +3%|Grapple +7%
+There are lots and lots of books about famous fighters.
 //entry 81 -----------------------
-武器関係小本棚
+Squire's Shelves
 家具
 本棚
 s2_00_56.iph
 i2_00_05.iph
 *
 m309.iph
-本棚。|武器、遠距離、特殊＋２％
-武器に関する書物が綺麗に並んでいる。
+Type: Bookshelf|All Weapons +2%
+Books on weapons, all in a row.
 //entry 82 -----------------------
-武器関係中本棚
+Knight's Shelves
 家具
 本棚
 s2_00_57.iph
 i2_00_05.iph
 *
 m310.iph
-本棚。|武器、遠距離、特殊＋４％
-武器の美しさに関する本も並んでいるぞ。
+Type: Bookshelf|All Weapons +4%
+There's lots of books about how great weapons are.
 //entry 83 -----------------------
-武器関係大本棚
+Hero's Shelves
 家具
 本棚
 s2_00_58.iph
 i2_00_05.iph
 *
 m311.iph
-本棚。|武器、遠距離、特殊＋６％
-武器に関する古今東西の本がそれなりに並んでいる。
+Type: Bookshelf|All Weapons +6%
+Books about weapons from east, west, north, and south.
 //entry 84 -----------------------
-家庭関係小本棚
+Servant Shelves
 家具
 本棚
 s2_00_59.iph
 i2_00_05.iph
 *
 m312.iph
-本棚。|冒険＋２％|一般＋５％
-家庭関係の本が一杯。
+Type: Bookshelf|Adventure +2%|General +5%
+There are lots of books about the house.
 //entry 85 -----------------------
-家庭関係中本棚
+Maid Shelves
 家具
 本棚
 s2_00_60.iph
 i2_00_05.iph
 *
 m313.iph
-本棚。|冒険＋３％|一般＋７％
-料理、掃除、洗濯など、各分野の本が分類されて並べられている。
+Type: Bookshelf|Adventure +3%|General +7%
+Cooking, cleaning, laundry, all sorted and arranged.
 //entry 86 -----------------------
-家庭関係大本棚
+Butler Shelves
 家具
 本棚
 s2_00_61.iph
 i2_00_05.iph
 *
 m314.iph
-本棚。|冒険＋４％|一般＋９％
-家庭関係の本に混じって、Ｈな本も何冊かあったりする。
+Type: Bookshelf|Adventure +4%|General +9%
+There are some sex help books mixed in too.
 //entry 87 -----------------------
-ボロい勉強棚
+Ragged Cabinet
 家具
 勉強棚
 s2_00_62.iph
 i2_00_06.iph
 *
 m180.iph
-勉強棚。|肉体＋１％|一般＋３％
-ボロいのでガタガタするけど、気にしないように。
+Type: Cabinet|Phys +1%|General +3%
+Squeaky, but that's okay.
 //entry 88 -----------------------
-普通の勉強棚
+Ordinary Cabinet
 家具
 勉強棚
 s2_00_63.iph
 i2_00_06.iph
 *
 m181.iph
-勉強棚。|一般＋５％|その他＋１％
-ノーマルが一番。
+Type: Cabinet|General +5%|Other +1%
+Normal is best.
 //entry 89 -----------------------
-楽しめる勉強棚
+Fun Cabinet
 家具
 勉強棚
 s2_00_64.iph
 i2_00_06.iph
 *
 m182.iph
-勉強棚。|一般＋７％|その他＋２％
-なんだかワクワクしてきた。
+Type: Cabinet|General +7%|Other +2%
+Kind of exciting.
 //entry 90 -----------------------
-初級魔法勉強用棚
+Apprentice Cabinet
 家具
 勉強棚
 s2_00_65.iph
 i2_00_06.iph
 *
 m183.iph
-勉強棚。|魔法＋３％
-魔法勉強用の道具を並べる棚。
+Type: Cabinet|Mag +3%
+Full of things for learning about magic.
 //entry 91 -----------------------
-中級魔法勉強用棚
+Prodigal Cabinet
 家具
 勉強棚
 s2_00_66.iph
 i2_00_06.iph
 *
 m184.iph
-勉強棚。|魔法＋５％
-魔法の道具って、変な形のが多いから収納が大変。
+Type: Cabinet|Mag +5%
+Full of lots of weirdly shaped magical devices.
 //entry 92 -----------------------
-上級魔法勉強用棚
+Master's Cabinet
 家具
 勉強棚
 s2_00_67.iph
 i2_00_06.iph
 *
 m185.iph
-勉強棚。|魔法＋７％
-魔法勉強用の道具を並べる棚。|怪しい道具が一杯だ。
+Type: Cabinet|Mag +7%
+Full of suspicious tools of questionable use.
 //entry 93 -----------------------
-初級格闘勉強用棚
+Brawler's Cabinet
 家具
 勉強棚
 s2_00_68.iph
 i2_00_06.iph
 *
 m186.iph
-勉強棚。|肉体＋１％|格闘＋３％
-机の上で勉強！|それも武術の一環！
+Type: Cabinet|Phys +1%|Grapple +3%
+Study at the desk!|This is also a martial art!
 //entry 94 -----------------------
-中級格闘勉強用棚
+Fighter's Cabinet
 家具
 勉強棚
 s2_00_69.iph
 i2_00_06.iph
 *
 m187.iph
-勉強棚。|肉体＋２％|格闘＋５％
-格闘勉強用の道具を並べるのだ！
+Type: Cabinet|Phys +2%|Grapple +5%
+Show off your training tools!
 //entry 95 -----------------------
-上級格闘勉強用棚
+Warrior's Cabinet
 家具
 勉強棚
 s2_00_70.iph
 i2_00_06.iph
 *
 m188.iph
-勉強棚。|肉体＋３％|格闘＋７％
-格闘も頭を使うんですよ。
+Type: Cabinet|Phys +3%|Grapple +7%
+You use your head when fighting too.
 //entry 96 -----------------------
-初級武器勉強用棚
+Squire's Cabinet
 家具
 勉強棚
 s2_00_71.iph
 i2_00_06.iph
 *
 m189.iph
-勉強棚。|武器、遠距離、特殊＋３％
-武器勉強用の道具を並べる為の棚。
+Type: Cabinet|All Weapons +3%
+For displaying your weapon instruction aids.
 //entry 97 -----------------------
-中級武器勉強用棚
+Knight's Cabinet
 家具
 勉強棚
 s2_00_72.iph
 i2_00_06.iph
 *
 m190.iph
-勉強棚。|武器、遠距離、特殊＋５％
-中級の武器専用じゃないですよ。
+Type: Cabinet|All Weapons +5%
+Not exclusively for weapons.
 //entry 98 -----------------------
-上級武器勉強用棚
+Hero's Cabinet
 家具
 勉強棚
 s2_00_73.iph
 i2_00_06.iph
 *
 m191.iph
-勉強棚。|武器、遠距離、特殊＋７％
-上級だから良い棚に違いない。
+Type: Cabinet|All Weapons +7%
+It must be good since it's expensive.
 //entry 99 -----------------------
-質素な飾り棚
+Simple Case
 家具
 飾り棚
 s2_00_74.iph
 i2_00_07.iph
 *
 m350.iph
-飾り棚。|冒険、一般＋１％
-トロフィーなどを飾ろう。
+Type: Display|Adventure and General +1%
+Show off your trophies.
 //entry 100 -----------------------
-高級な飾り棚
+Luxurious Case
 家具
 飾り棚
 s2_00_75.iph
 i2_00_07.iph
 *
 m351.iph
-飾り棚。|冒険、一般＋３％
-棚に負けないようにトロフィーを揃えよう。
+Type: Display|Adventure and General +3%
+So you won't lose your trophies.
 //entry 101 -----------------------
-不気味な飾り棚
+Spooky Case
 家具
 飾り棚
 s2_00_76.iph
 i2_00_07.iph
 *
 m352.iph
-飾り棚。|冒険、一般＋３％
-マイナス方向な演出もまた……
+Type: Display|Adventure and General +3%
+For trophies you want to display subtly.
 //entry 102 -----------------------
-可愛い飾り棚
+Cute Case
 家具
 飾り棚
 s2_00_77.iph
 i2_00_07.iph
 *
 m353.iph
-飾り棚。|冒険、一般＋３％
-女の子ですから。
+Type: Display|Adventure and General +3%
+I'm a girl, after all.
 //entry 103 -----------------------
-ショウアップ飾り棚
+Display Case
 家具
 飾り棚
 s2_00_78.iph
 i2_00_07.iph
 *
 m354.iph
-飾り棚。|冒険、一般＋５％
-トロフィーが目立てば良いな。
+Type: Display|Adventure and General +5%
+Trophies should stand out.
 //entry 104 -----------------------
-クデュール魔法大会優勝
+Coudures Trophy
 家具
 大会トロフィー
 s2_00_79.iph
 i2_00_11.iph
 *
 m400.iph
-トロフィー。
-過去の偉業。|誰のだろう。
+Type: Trophy
+An achievement from the past.|But whose past?
 //entry 105 -----------------------
-バンカスター武術大会優勝
+Bancaster Trophy
 家具
 大会トロフィー
 s2_00_80.iph
 i2_00_11.iph
 *
 m401.iph
-トロフィー。
-四年に一度しか手に入れるチャンスが無い。
+Type: Trophy
+Only one chance to win it every four years.
 //entry 106 -----------------------
-クインズベル魔法大会優勝
+Queensbell Trophy
 家具
 大会トロフィー
 s2_00_81.iph
 i2_00_11.iph
 *
 m402.iph
-トロフィー。
-月一の大会でも、優勝は難しいんです。
+Type: Trophy
+It's a monthly tournament, but still hard to win.
 //entry 107 -----------------------
-真なる英雄の大会優勝
+Heroes Trophy
 家具
 大会トロフィー
 s2_00_82.iph
 i2_00_11.iph
 *
 m403.iph
-トロフィー。
-路上格闘！
+Type: Trophy
+You're a Street Fighter!
 //entry 108 -----------------------
-ローリア料理大会優勝
+Loria Chef Trophy
 家具
 大会トロフィー
 s2_00_83.iph
 i2_00_11.iph
 *
 m404.iph
-トロフィー。
-ブラボー♪|最高の料理人の証拠。
+Type: Trophy
+Bravissimo!♪|You're the finest chef!
 //entry 109 -----------------------
-美人コンテスト優勝
+Beauty Trophy
 家具
 大会トロフィー
 s2_00_84.iph
 i2_00_11.iph
 *
 m405.iph
-トロフィー。
-海辺の視線を独り占め♪
+Type: Trophy
+Steal the sight of all on the beach.♪
 //entry 110 -----------------------
-南通り商店祭参加記念
+Street Trophy
 家具
 大会トロフィー
 s2_00_85.iph
 i2_00_11.iph
 *
 m406.iph
-トロフィー。
-樽……怖い。
+Type: Trophy
+Barrels are... scary.
 //entry 111 -----------------------
-風景画
+Landscape
 家具
 絵
 s2_00_86.iph
 i2_00_09.iph
 *
 m450.iph
-絵。
-それなりの画家が描いた絵。
+Type: Painting
+Painted by a decent artist.
 //entry 112 -----------------------
-人物画
+Portrait
 家具
 絵
 s2_00_87.iph
 i2_00_09.iph
 *
 m451.iph
-絵。
-描き手よりも、モデルが大事。
+Type: Painting
+The model is more important than the painter.
 //entry 113 -----------------------
-タペストリー
+Tapestry
 家具
 天井飾り
 s2_00_88.iph
 i2_00_10.iph
 *
 m452.iph
-壁飾り。
-遠征した時のお土産などに。
+Type: Wall Decoration
+A sourvenir from an expedition.
 //entry 114 -----------------------
-国旗
+Flag
 家具
 天井飾り
 s2_00_89.iph
 i2_00_10.iph
 *
 m453.iph
-旗。
-クインズベル王国愛♪
+Type: Flag
+Queensbell Kingdom pride.♪
