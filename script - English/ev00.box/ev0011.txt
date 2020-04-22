@@ -1157,7 +1157,7 @@ It's an envelope with the Guild's seal on it.
 "...I feel the same way."
 #
 <removesprite -1 11>
-\x2B\xB2 "’§íD" \x00
+\x2B\xB2 "Challenge Note" \x00
 --Celes has obtained the Challenge Invitation--
 #
 <exit>
@@ -1189,7 +1189,7 @@ It's an envelope with the Guild's seal on it.
  I'll make the preparations."
 #
 <removesprite -1 11>
-\x2B\xB2 "’§íD" \x00
+\x2B\xB2 "Challenge Note" \x00
 --Celes has obtained the Challenge Invitation--
 #
 <exit>
