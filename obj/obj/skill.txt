@@ -21,8 +21,8 @@ Combat Speed
 *
 *
 *
-Combat Speedが速くなる。（行動アクション待ち時間が短くなる）
-何事も、素早さが勝利の鍵となる。
+Increase action speed.
+In everything, speed is the key to victory. 
 //entry 1 -----------------------
 Recovery
 *
@@ -46,8 +46,8 @@ Recovery
 *
 *
 *
-戦闘を終える度に、体力を少し回復させる。
-長丁場になれば、ありがたみが解るはず。
+Recover HP after battle.
+A key skill for long adventures.
 //entry 2 -----------------------
 Constitution
 *
@@ -71,8 +71,8 @@ Constitution
 *
 *
 *
-体力の最大値を大きくする。
-最終的には体力が大事。
+Increase maximum HP.
+In the end, your health is everything.
 //entry 3 -----------------------
 Agility
 Combat Speed+10
@@ -96,8 +96,8 @@ Combat Speed
 *
 *
 *
-移動力を増やす。
-戦いは機動力！
+Increase your movement.
+Combat is mobility!
 //entry 4 -----------------------
 Defense
 Mana Capacity+1
@@ -121,8 +121,8 @@ Mana Capacity+1
 *
 *
 *
-戦闘時の防御力が増える。
-守備あってこその攻撃。
+Increase your defense in combat.
+The best offense is defense.
 //entry 5 -----------------------
 Reflexes
 Defense+5
@@ -146,8 +146,8 @@ se134.wav
 *
 *
 *
-敵の連続攻撃等に対し、一定確率で自動的に回避する。
-二発目は喰らわない。|つもりだけど、まあ、当たるよね。うん。
+Chance to dodge attacks.
+Hit me once, shame on me. |You won't hit me again.
 //entry 6 -----------------------
 Grit
 Defense+5
@@ -171,8 +171,8 @@ Defense+5
 *
 *
 *
-敵の攻撃によるスタン効果を発揮させ難くする。
-私は相手の攻撃など気にしない。
+Resist stun.
+Your attacks don't bother me!
 //entry 7 -----------------------
 Rigidity
 Defense+5
@@ -196,8 +196,8 @@ Defense+5
 *
 *
 *
-敵の攻撃によるバック効果を発揮させ難くする。
-私は後ろには下がらない。
+Resist knockback.
+I will keep pressing forward!
 //entry 8 -----------------------
 Guts
 Defense+5
@@ -221,8 +221,8 @@ Defense+5
 *
 *
 *
-必殺効果によって、一撃で倒される可能性を減らす。
-急所だけは避ける努力。
+Resist critical hits.
+Gotta protect your squishy bits.
 //entry 9 -----------------------
 Jab
 *
@@ -246,8 +246,8 @@ se004.wav
 *
 *
 *
-命中精度と速度が速い攻撃。
-これを制すれば……世界が見えるかもしれない。
+A quick, accurate attack.
+If you master this, the world will be in your hands.
 //entry 10 -----------------------
 Straight Punch
 Mana Capacity+1
@@ -271,8 +271,8 @@ se005.wav
 *
 *
 *
-基本的な打撃ワザ。
-利き腕の力をみよ。
+A basic punch.
+Display the strength of your main arm.
 //entry 11 -----------------------
 Sonic Blow
 Straight Punch+5
@@ -296,8 +296,8 @@ se006.wav
 *
 *
 *
-音速を超える打撃ワザ。
-音が後からやってくる。
+A super fast punch.
+The boom comes later.
 //entry 12 -----------------------
 Flash Blow
 Sonic Blow+10
@@ -321,8 +321,8 @@ se007.wav
 *
 *
 *
-光速を超える打撃ワザ。
-まさに閃光！
+A lightning fast punch.
+Like a flash!
 //entry 13 -----------------------
 Chrono Blow
 Flash Blow+10
@@ -346,8 +346,8 @@ se008.wav
 *
 *
 *
-時の速さを超える打撃ワザ。
-この技の前には、時間すら止まる。
+An unbelievably fast punch.
+Even time stops for this attack.
 //entry 14 -----------------------
 God Blow
 Chrono Blow+10
@@ -371,8 +371,8 @@ se009.wav
 *
 *
 *
-神の域に達した打撃ワザ。
-一撃必殺！　になれば良いなぁ。
+A punch to reach the heavens.
+With one blow! |...I wish.
 //entry 15 -----------------------
 Low Kick
 Mana Capacity+1
@@ -396,8 +396,8 @@ se010.wav
 *
 *
 *
-命中精度が高く、ヒット後に相手の移動力を奪う。
-地味な攻撃だが、効果的。
+A high accuracy, debilitating attack.
+Not strong, but it works.
 //entry 16 -----------------------
 High Kick
 Low Kick+3
@@ -421,8 +421,8 @@ se011.wav
 *
 *
 *
-命中精度は低いが、ヒット後に相手の行動を少しだけ遅らせる。
-決まるとそれなりに気持ち良い。
+Low accuracy, but delays your foe.
+When it hits, it feels great.
 //entry 17 -----------------------
 Flying Knee
 Combat Speed+20|Constitution+20
@@ -446,8 +446,8 @@ se012.wav
 *
 *
 *
-命中精度は低いが、高威力。
-普通の人相手なら、この技が決まれば勝負は決まる。
+Low accuracy, but high power.
+Against regular people, this is a knockout blow.
 //entry 18 -----------------------
 Tetsuzankou
 Combat Speed+50|Constitution+50
@@ -471,8 +471,8 @@ se013.wav
 *
 *
 *
-高威力でヒット後に、相手を長時間行動不能にする。
-東方武術の技の一つ。|体当たりとは違います。
+A high power, disabling attack.
+An eastern attack. |It's not a tackle.
 //entry 19 -----------------------
 Sleeper Hold
 Combat Speed+40|Constitution+20
@@ -496,8 +496,8 @@ se014.wav
 *
 *
 *
-低威力だが、攻撃ヒット中は相手を行動不能にする。
-残念ながら、魔物には通用しない。|だって、身体の構造が違い過ぎるから。
+A weak, but disabling attack.
+Unfortunately, it doesn't work on monsters. Their bodies are too different.
 //entry 20 -----------------------
 Arm Bar
 Combat Speed+50|Constitution+30
@@ -521,8 +521,8 @@ se015.wav
 *
 *
 *
-裸締めよりも高威力で、攻撃ヒット中は相手を行動不能にする。
-残念ながら、魔物には通用しない。|だって、間接が同じじゃないから。
+A strong, disabling attack.
+Still doesn't work on monsters. They can wiggle right out.
 //entry 21 -----------------------
 Steadfast
 Mana Capacity+1
@@ -546,8 +546,8 @@ Mana Capacity+1
 *
 *
 *
-武器、格闘攻撃に対する場合のみ、防御力上昇。
-魔法以外には耐えてみせる。
+Increase defense against physical attacks.
+Only magic can stop me now.
 //entry 22 -----------------------
 Blades
 Mana Capacity+1
@@ -571,8 +571,8 @@ se016.wav
 *
 *
 *
-剣を振るう基本スキル。
-最近の魔法使いは、剣ぐらい振るえるものです。
+Improve your sword skills.
+Modern wizards know how to use a sword.
 //entry 23 -----------------------
 Slash
 Blades+5
@@ -596,8 +596,8 @@ se017.wav
 *
 *
 *
-剣で斬る技術を追求した技。
-よく斬れる！
+A basic sword technique.
+Cut 'em down!
 //entry 24 -----------------------
 Hard Slash
 Blades+7
@@ -621,8 +621,8 @@ se018.wav
 *
 *
 *
-剣で断つ技術を追求した技。|Slashよりも高威力だが、溜めが長い。
-真っ二つ！
+A slow, but strong sword attack.
+Cut 'em in half!
 //entry 25 -----------------------
 Crimson Blossom
 Blades+10
@@ -646,8 +646,8 @@ se019.wav
 *
 *
 *
-幻の剣技。|その斬撃を喰らった相手は、体液を桜のように散らすらしい。
-必殺なだけに、そうそう決まったりはしない。
+A powerful sword technique.
+A deadly move, that brings death!
 //entry 26 -----------------------
 Blade Guard
 Blades+5
@@ -671,8 +671,8 @@ se134.wav
 *
 *
 *
-相手の格闘、武器攻撃を一定確率で完全に回避する。
-守備用の技です。
+Parry physical attacks.
+Let your sword be your shield.
 //entry 27 -----------------------
 Staves
 Mana Capacity+1
@@ -696,8 +696,8 @@ se020.wav
 *
 *
 *
-棒を扱う基本スキル。
-杖も棒の一種です。だから、魔法使いは棒術使いとも言えます。
+Improve your staff skills.
+A wand is a kind of staff too.
 //entry 28 -----------------------
 Strike
 Staves+5
@@ -721,8 +721,8 @@ se021.wav
 *
 *
 *
-棒による攻撃。|相手を打ち付け、相手を怯ませる。
-えいえい！
+A weak attack that can stun the opponent.
+Hi-yah!
 //entry 29 -----------------------
 Thrust
 Staves+5
@@ -746,8 +746,8 @@ se022.wav
 *
 *
 *
-棒による攻撃。|相手を突いてバックさせやすい。
-近付くなー！
+An attack that knocks the enemy back.
+Stay away!
 //entry 30 -----------------------
 Slicing Staff
 Staves+5
@@ -771,8 +771,8 @@ se023.wav
 *
 *
 *
-棒による攻撃。|棒による高威力打撃攻撃。
-棒術の攻撃の要。
+A high power staff attack.
+The key to a staff master.
 //entry 31 -----------------------
 Staff Guard
 Staves+5
@@ -796,8 +796,8 @@ se134.wav
 *
 *
 *
-相手の格闘、武器攻撃を一定確率で完全に回避する。
-棒術は守備にも優れる。
+Parry physical attacks.
+A staff can be a shield too.
 //entry 32 -----------------------
 Axes
 Mana Capacity+1
@@ -821,8 +821,8 @@ se024.wav
 *
 *
 *
-斧を扱う基本スキル。|単体相手なら、問題無い攻撃力。
-叩きつける感じが良いね。
+Improve your ax skills.
+Feels great to smack 'em with it.
 //entry 33 -----------------------
 Quake Ax
 Axes+5
@@ -846,8 +846,8 @@ se025.wav
 *
 *
 *
-斧での攻撃技。|当たればデカい。
-ベテランの動きを要求するぜ。
+A strong ax attack.
+You've got to master the heft.
 //entry 34 -----------------------
 Raging Ax
 Axes+7
@@ -871,8 +871,8 @@ se026.wav
 *
 *
 *
-斧での高威力攻撃技。|そのうち、当たるだろう。
-うおおおおおっ！！
+A low accuracy, powerful attack.
+Rrrrraaaaarrrrrrrgh!
 //entry 35 -----------------------
 Berserker Ax
 Axes+10
@@ -896,8 +896,8 @@ se027.wav
 *
 *
 *
-斧での高々威力攻撃技。|当たりさえすれば、相手は倒れるだろう。
-斧か……|やられる方は、怖いだろうな。
+A vicious ax attack.
+...I think I might be scared.
 //entry 36 -----------------------
 Hammers
 Mana Capacity+1
@@ -921,8 +921,8 @@ se028.wav
 *
 *
 *
-Hammerを扱う基本スキル。|ハンマーは広範囲攻撃。
-巻き込んで潰れろ！
+Improve your hammer skills.
+Get crushed!
 //entry 37 -----------------------
 Spinning Hammer
 Hammers+5
@@ -946,8 +946,8 @@ se029.wav
 *
 *
 *
-回転運動でハンマーの威力を高めたハンマー技。
-全てを叩き潰す！
+A spinning hammer attack.
+I will crush you all!
 //entry 38 -----------------------
 Crash Hammer
 Hammers+10
@@ -971,8 +971,8 @@ se030.wav
 *
 *
 *
-Hammerによる一点打撃攻撃。|広範囲じゃないが、高威力。
-一点を貫く！
+A powerful hammer slam.
+One hit kill!
 //entry 39 -----------------------
 Blast Hammer
 Crash Hammer+10
@@ -996,8 +996,8 @@ se031.wav
 *
 *
 *
-Hammerによる強力な広範囲攻撃技。
-まとめて掛かって来い。
+A wide-range hammer attack.
+I'll take you all on!
 //entry 40 -----------------------
 Weapon Defense
 Mana Capacity+1
@@ -1021,8 +1021,8 @@ Mana Capacity+1
 *
 *
 *
-武器による攻撃に対する防御力、回避力を高めるスキル。
-武器を使って回避するのさ。
+Evade weapon attacks.
+Use a weapon to dodge a weapon.
 //entry 41 -----------------------
 Snap Shot
 Mana Capacity+1
@@ -1046,8 +1046,8 @@ se032.wav
 *
 *
 *
-指で小石などを弾き、攻撃する技。
-身近な物が武器と化す。
+Flick pebbles with your fingers.
+Turn common items into a weapon.
 //entry 42 -----------------------
 Snap Barrage
 Snap Shot+5
@@ -1071,8 +1071,8 @@ se033.wav
 *
 *
 *
-複数の小石を弾いて攻撃する技。|ただし、命中率はイマイチ。
-数の暴力。
+Fire multiple pebbles, but low accuracy.
+The scary part is how many.
 //entry 43 -----------------------
 Snap Cannon
 Snap Shot+10
@@ -1096,8 +1096,8 @@ se034.wav
 *
 *
 *
-かなり強力な指弾。
-穴をあけてやろう。
+A powerful pebble shot.
+Put a hole in 'em.
 //entry 44 -----------------------
 Shuriken
 Mana Capacity+1
@@ -1121,8 +1121,8 @@ se035.wav
 *
 *
 *
-Shurikenを扱う基本スキル。
-シュッシュッ！
+Improve your shurken skills.
+Whsh! Whsh!
 //entry 45 -----------------------
 Chaos Storm
 Shuriken+5
@@ -1146,8 +1146,8 @@ se036.wav
 *
 *
 *
-多数の手裏剣を広範囲に同時に投げる技。
-まるで手裏剣の雨。
+Throw many shurikens at once.
+Like a shuriken rain.
 //entry 46 -----------------------
 Chakram
 Shuriken+10
@@ -1171,8 +1171,8 @@ se037.wav
 *
 *
 *
-高威力の手裏剣を、敵一体に対して投げる。
-大きい分だけ、威力もアップ。
+Throw a single powerful shuriken.
+The bigger, the better.
 //entry 47 -----------------------
 Archery
 Mana Capacity+1
@@ -1196,8 +1196,8 @@ se038.wav
 *
 *
 *
-Archeryを扱う基本スキル。|縦横の一方向に攻撃可能。|ただし、障害物で止まる。
-戦いでは、距離が大事なのだよ。
+Improve your archery skills.
+Keeping your distance is key in battle.
 //entry 48 -----------------------
 Arrow Storm
 Archery+5
@@ -1221,8 +1221,8 @@ se039.wav
 *
 *
 *
-Archeryによる高威力の攻撃。
-激動は言い過ぎかな。|振動ぐらいにすれば良かった。
+A high power bow attack.
+Wind is overrated, just power through it!
 //entry 49 -----------------------
 Headhunter
 Archery+10
@@ -1246,8 +1246,8 @@ se040.wav
 *
 *
 *
-さらに高威力な弓攻撃。
-裁いてやろう。
+A vicious bow attack.
+I pass judgement on you!
 //entry 50 -----------------------
 Siege Arrow
 Archery+10
@@ -1271,8 +1271,8 @@ se041.wav
 *
 *
 *
-障害物すら貫く弓攻撃。
-城すら崩す。
+A penetrating bow attack.
+Takes down even a castle.
 //entry 51 -----------------------
 Throwing Knife
 Mana Capacity+1
@@ -1296,8 +1296,8 @@ se042.wav
 *
 *
 *
-ナイフを投げて攻撃。
-危ない。|ナイフを人に向けるなんて。
+Improve your knife skills.
+Be careful. Don't point knives at people.
 //entry 52 -----------------------
 Twist Knife
 Mana Capacity+1
@@ -1321,8 +1321,8 @@ se043.wav
 *
 *
 *
-ナイフを投げて攻撃。|少しだけ敵を追尾する。
-うわっ、ナイフが生き物のように。
+Throw a seeking knife.
+Wow! It's like a living creature.
 //entry 53 -----------------------
 Whips
 Mana Capacity+1
@@ -1346,8 +1346,8 @@ se044.wav
 *
 *
 *
-自分の周囲二マス全てに攻撃。
-女王様の資質がある人、募集中。
+Improve your whip skills.
+Now recruiting queen-like wizards.
 //entry 54 -----------------------
 Serpent Whip
 Whips+5
@@ -1371,8 +1371,8 @@ se045.wav
 *
 *
 *
-一箇所に複数回攻撃。
-遠距離だって、大丈夫。
+Attack multiple times.
+Whips work even from far away.
 //entry 55 -----------------------
 Cobra Whip
 Whips+10
@@ -1396,8 +1396,8 @@ se046.wav
 *
 *
 *
-自分の周囲二マス全てに複数回攻撃。
-近付くとケガするよ。
+Attack in an area multiple times.
+Come any closer, and you'll get hurt.
 //entry 56 -----------------------
 Barrels
 Mana Capacity+1
@@ -1421,8 +1421,8 @@ e003a
 *
 *
 *
-縦横、一方向に攻撃可能。|ただし、障害物で止まる。
-Barrelsだって立派な武器だ！
+Improve your barrel skills.
+Barrels are a weapon too!
 //entry 57 -----------------------
 Magic Theory
 *
@@ -1446,8 +1446,8 @@ Elocution
 *
 *
 *
-覚えられる魔法スキルが増える。|また、魔法を知る事で各魔法の威力もＵＰ。
-侮るな！|これが魔法使いの要スキル！
+Improve your magic skills.|Improve your magic learning.
+Don't underestimate this! Every wizard needs it!
 //entry 58 -----------------------
 Mana Recovery
 Mana Capacity+1
@@ -1471,8 +1471,8 @@ Mana Capacity+1
 *
 *
 *
-戦闘を終える度に、魔力を少し回復させる。
-安定した魔力の為に。
+Recover MP after each battle.
+For a stable mana pool.
 //entry 59 -----------------------
 Mana Capacity
 Mana Capacity+1
@@ -1496,8 +1496,8 @@ Mana Capacity+1
 *
 *
 *
-魔力の最大値を大きくする。
-ＭＡＸ値が大きければ安心。
+Increase maximum MP.
+When your mana pool is big, you have nothing to fear.
 //entry 60 -----------------------
 Elocution
 Mana Capacity+1|Magic Theory+10
@@ -1521,8 +1521,8 @@ Elocution
 *
 *
 *
-魔法を唱える速度が速くなる。
-敵が逃げる前に唱え終わらないと、意味が無い。
+Improve your casting speed.
+You have to finish casting your spell before they get away.
 //entry 61 -----------------------
 Synergy
 Mana Capacity+1
@@ -1546,8 +1546,8 @@ Elocution
 *
 *
 *
-同じ系統の魔法を続けて使用する時、発動までの時間が短くなる。
-同じ系統なら、容易な事。
+Casting speed increases for same element.
+If you just know one element, it'll be easy.
 //entry 62 -----------------------
 Symbiosis
 Synergy+5
@@ -1571,8 +1571,8 @@ Elocution
 *
 *
 *
-違う系統の魔法を続けて使用する時、発動までの時間が短くなる。
-異なる系統でも、似た所はある。
+Casting speed increases for different elements.
+There are similarities even in different schools.
 //entry 63 -----------------------
 Magic Defense
 Mana Capacity+1
@@ -1596,8 +1596,8 @@ Mana Capacity+1
 *
 *
 *
-魔法に対する防御力ＵＰ。
-魔法から身を守る為にも。
+Defense against magic up.
+Protect yourself from magic.
 //entry 64 -----------------------
 Fire Proof
 Magic Defense+5
@@ -1621,8 +1621,8 @@ Magic Defense+5
 *
 *
 *
-火の魔法によるダメージを減少。スタン確率減少。
-我慢で耐える。
+Reduce fire magic damage and resist stun.
+Tough it out.
 //entry 65 -----------------------
 Water Proof
 Magic Defense+5
@@ -1646,8 +1646,8 @@ Magic Defense+5
 *
 *
 *
-水の魔法によるダメージを減少。スタン確率減少。
-水ぐらい、なんともないぜ。
+Reduce water magic damage and reduce stun.
+Water is nothing to be afraid of.
 //entry 66 -----------------------
 Wind Proof
 Magic Defense+5
@@ -1671,8 +1671,8 @@ Magic Defense+5
 *
 *
 *
-風の魔法によるダメージを減少。スタン確率減少。
-風では揺るがない。
+Reduce wind magic damage and reduce stun.
+Don't shake in the breeze.
 //entry 67 -----------------------
 Earth Proof
 Magic Defense+5
@@ -1696,8 +1696,8 @@ Magic Defense+5
 *
 *
 *
-土の魔法によるダメージを減少。スタン確率減少。
-地震も怖くない。
+Reduce earth magic damage and reduce stun.
+Don't be scared of earthquakes.
 //entry 68 -----------------------
 Lightning Proof
 Magic Defense+5
@@ -1721,8 +1721,8 @@ Magic Defense+5
 *
 *
 *
-雷の魔法によるダメージを減少。スタン確率減少。
-雷に耐えて見せましょう。
+Reduce lightning magic damage and reduce stun.
+Be grounded.
 //entry 69 -----------------------
 Dark Proof
 Magic Defense+5
@@ -1746,8 +1746,8 @@ Magic Defense+5
 *
 *
 *
-闇の魔法によるダメージを減少。スタン確率減少。
-暗くたって平気だ。
+Reduce dark magic damage and reduce stun.
+I'm not afraid of the dark.
 //entry 70 -----------------------
 Light Proof
 Magic Defense+5
@@ -1771,8 +1771,8 @@ Magic Defense+5
 *
 *
 *
-光の魔法によるダメージを減少。スタン確率減少。
-眩しくたって、頑張れる。
+Reduce light magic damage and reduce stun.
+Don't be blinded by the light.
 //entry 71 -----------------------
 Flame Dart
 Mana Capacity+1
@@ -1796,8 +1796,8 @@ se048.wav
 *
 *
 *
-火属性の基本的な攻撃。|他に比べて高威力が特徴。
-燃えろ。
+A basic fire spell.
+Burn up.
 //entry 72 -----------------------
 Fire Ball
 Mana Capacity+1
@@ -1821,8 +1821,8 @@ se049.wav
 *
 *
 *
-火属性で、広範囲にダメージ。|動きの遅い相手なら逃げ切れない。
-弾けろ。
+A wide area fire spell.
+Roast.
 //entry 73 -----------------------
 Fire Burst
 Fire Ball+5
@@ -1846,8 +1846,8 @@ se050.wav
 *
 *
 *
-火属性で、さらに広範囲にダメージ。
-爆発！
+A very wide area fire spell.
+Explode!
 //entry 74 -----------------------
 Incinerate
 Fire Burst+5
@@ -1871,8 +1871,8 @@ se051.wav
 *
 *
 *
-火属性で、さらにさらに広範囲にダメージ。
-焼き尽くせ！
+A huge fire spell.
+Burn to a crisp!
 //entry 75 -----------------------
 Fire Ring
 Fire Ball+5
@@ -1896,8 +1896,8 @@ se052.wav
 *
 *
 *
-術者の周囲を爆破し、敵を退ける。
-散るがいい。
+A fire spell around the caster.
+Get away from me!
 //entry 76 -----------------------
 Flame Snake
 Flame Dart+6
@@ -1921,8 +1921,8 @@ se053.wav
 *
 *
 Flame Snake
-追尾するFlame Snakeを生み出し、攻撃させる。
-執拗に追いまわせ！
+Summon a fire snake.
+Chase them down!
 //entry 77 -----------------------
 Fire Wall
 Flame Dart+8
@@ -1946,8 +1946,8 @@ se054.wav
 *
 *
 Fire Wall
-炎による障害物を設置、近付く者やその周囲にダメージ。
-炎に焼かれるがいい。
+Create a damaging fire barrier.
+Just burn to ashes!
 //entry 78 -----------------------
 Aqua Shot
 Mana Capacity+1
@@ -1971,8 +1971,8 @@ se055.wav
 *
 *
 *
-水属性の基本的な攻撃。|威力は低いが、命中率は高い。
-水でも岩を砕ける。
+A basic water spell.
+Even rocks can be crushed by water.
 //entry 79 -----------------------
 Aqua Stream
 Mana Capacity+1
@@ -1996,8 +1996,8 @@ se056.wav
 *
 *
 *
-水属性の攻撃。|相手を下がらせる事もある。
-流してしまえ。
+A water spell that can knock enemies down.
+Let it flow.
 //entry 80 -----------------------
 Frozen Ice
 Mana Capacity+1|Magic Theory+5
@@ -2021,8 +2021,8 @@ se057.wav
 *
 *
 *
-水属性の攻撃。|運が良ければ、相手を怯ませる。
-凍りつけ！
+A water spell that can flinch.
+Freeze!
 //entry 81 -----------------------
 Aqua Flood
 Frozen Ice+5
@@ -2046,8 +2046,8 @@ se058.wav
 *
 *
 *
-水属性の攻撃。|相手を怯ませる事もある。
-ブリザード！
+A strong water spell that can flinch.
+Blizzard!
 //entry 82 -----------------------
 Glacier Smash
 Aqua Flood+5
@@ -2071,8 +2071,8 @@ se059.wav
 *
 *
 *
-水属性の攻撃。|運が良ければ、相手を下がらせながら怯ませる。
-凍って砕けて流れてしまえ。
+A water spell that can flinch and knock enemies down.
+Freeze, crush, and wash them away.
 //entry 83 -----------------------
 Blessed Rain
 Mana Capacity+10
@@ -2096,8 +2096,8 @@ se060.wav
 *
 *
 *
-セリスの体力を一定時間、回復させ続ける。
-私は喜ぶ。
+Heal the caster over time.
+I'm blessed.
 //entry 84 -----------------------
 Wailing Well
 Mana Capacity+1|Magic Theory+10
@@ -2121,8 +2121,8 @@ se061.wav
 *
 *
 *
-敵の体力を一定時間、削り続ける。
-敵は嘆く。
+Reduce enemy HP over time.
+Make the enemy wail.
 //entry 85 -----------------------
 Ice Wall
 Frozen Ice+5
@@ -2146,8 +2146,8 @@ se062.wav
 *
 *
 Ice Wall
-氷による障害物を設置、硬い防壁を作る。
-Fire Wallと違って、周囲にダメージを与えたりはしない。
+Create an ice barrier.
+Unlike a fire barrier, this one's all protection.
 //entry 86 -----------------------
 Air Cutter
 Mana Capacity+1
@@ -2171,8 +2171,8 @@ se063.wav
 *
 *
 *
-風属性の基本的な攻撃。|飛行する敵には倍ダメージ。
-速度重視！
+A basic wind spell.|Effective against fliers.
+Speed is everything!
 //entry 87 -----------------------
 Air Chaser
 Mana Capacity+1
@@ -2196,8 +2196,8 @@ se064.wav
 *
 *
 Air Chaser
-一定ターン、相手を追いかける風を作り出す。
-その風に近付く敵にはダメージを与える。
+Create a wind spirit that hunts down the enemy.
+Cut down approaching enemies!
 //entry 88 -----------------------
 Air Shot
 Air Cutter+5
@@ -2221,8 +2221,8 @@ se065.wav
 *
 *
 *
-風属性の範囲攻撃。|ちょっと命中率は良くない。
-レベルを上げて、命中率を高めよう。
+A wide range, inaccurate wind spell.
+Blow them away.
 //entry 89 -----------------------
 Raging Wind
 Air Shot+5
@@ -2246,8 +2246,8 @@ se066.wav
 *
 *
 *
-広範囲に、風属性の攻撃。|ただし、使用者の周囲２マスにはダメージがいかない。
-暴風！
+A wide range distance wind spell.
+Storm coming!
 //entry 90 -----------------------
 Tempest
 Raging Wind+5
@@ -2271,8 +2271,8 @@ se067.wav
 *
 *
 *
-広範囲に、風属性の高威力攻撃。|ただし、使用者の周囲２マスにはダメージがいかない。
-まさに嵐！
+A wide range, powerful, distance wind spell.
+A storm of storms!
 //entry 91 -----------------------
 Air Press
 Mana Capacity+1|Magic Theory+5
@@ -2296,8 +2296,8 @@ se068.wav
 *
 *
 *
-戦闘フィールドを特殊な空気で覆い、飛行する敵の移動を困難にする。
-相手の機動力を封じるのは常套手段。
+Cripple flying enemies.
+Trap your enemies and then finish them off.
 //entry 92 -----------------------
 Tailwind
 Mana Capacity+10
@@ -2321,8 +2321,8 @@ se069.wav
 *
 *
 *
-使用者の行動速度が早くなる。
-風が味方してくれる。
+Enhance user's combat speed.
+Wind is on our side.
 //entry 93 -----------------------
 Flight
 Mana Capacity+1|Magic Theory+5
@@ -2346,8 +2346,8 @@ Mana Capacity+1|Magic Theory+5
 *
 *
 *
-遠方に移動可能になり、これまでいけなかった塔やダンジョンにいけるようになる。
-詠唱に時間が掛かるので、戦闘中は使えません。
+Travel to more distant places.
+Takes too long to cast to use in battle.
 //entry 94 -----------------------
 Stalagmite
 Mana Capacity+1
@@ -2371,8 +2371,8 @@ se070.wav
 *
 *
 *
-土属性の基本的な攻撃。|でも、飛んでる相手には効かない。
-突き刺せ！
+A basic earth spell.|Does not hit flying enemies.
+Pierce!
 //entry 95 -----------------------
 Rock Shaker
 Mana Capacity+1
@@ -2396,8 +2396,8 @@ se071.wav
 *
 *
 *
-土属性の範囲攻撃。|でも、飛んでる相手には効かない。
-飛ばないで欲しいな。
+An area earth spell.|Does not hit flying enemies.
+Please stay on the ground.
 //entry 96 -----------------------
 Rock Rage
 Rock Shaker+5
@@ -2421,8 +2421,8 @@ se072.wav
 *
 *
 *
-土属性の高範囲攻撃。|でも、飛んでる相手には効かない。
-だから、飛ぶな！
+A wide area earth spell.|Does not hit flying enemies.
+I told you, no flying!
 //entry 97 -----------------------
 Earth Wall
 Rock Shaker+5
@@ -2446,8 +2446,8 @@ se073.wav
 *
 *
 Earth Wall
-防壁を作る。
-敵の進軍を阻め。
+Create a wall.
+Block the enemy from approaching.
 //entry 98 -----------------------
 Mud Bind
 Mana Capacity+1|Magic Theory+5
@@ -2471,8 +2471,8 @@ se074.wav
 *
 *
 *
-敵単体の全ての行動を封じる。|でも、飛んでる相手には効かない。
-止まれと命じた。
+Prevent all actions.|Does not work against flying enemies.
+I told you to stop!
 //entry 99 -----------------------
 Drowning Marsh
 Mana Capacity+1|Magic Theory+10
@@ -2496,8 +2496,8 @@ se075.wav
 *
 *
 *
-戦闘フィールドを泥沼化し、移動を困難にする。
-溺れてもがけ。
+Seal movement.
+Try not to drown.
 //entry 100 -----------------------
 Body Enhance
 Mana Capacity+1|Constitution+10
@@ -2521,8 +2521,8 @@ se076.wav
 *
 *
 *
-使用者の肉体を強化し、戦闘を有利にする。
-見よ！|この鍛えられし肉体を！
+Strengthen physical attributes.
+Look!|Look upon my muscles!
 //entry 101 -----------------------
 Mana Resonance
 Mana Capacity+10
@@ -2546,8 +2546,8 @@ se077.wav
 *
 *
 *
-使用者の魔力を強化し、戦闘を有利にする。
-見よ！|この鍛えられし……えっと、頭脳を！
+Strengthen magical attributes.
+Look!|Look upon my... brain?
 //entry 102 -----------------------
 Healing Magic
 Mana Capacity+1
@@ -2571,8 +2571,8 @@ se078.wav
 *
 *
 *
-使用者の体力を一定量回復する。
-必殺、医者要らず。
+Restore HP.
+No doctor needed.
 //entry 103 -----------------------
 Regeneration
 Healing Magic+10
@@ -2596,8 +2596,8 @@ se079.wav
 *
 *
 *
-使用者の体力を行動番が来る度に回復する。
-腕が生えるわけじゃない。
+Continually restore HP.
+Will not regrow a lost arm.
 //entry 104 -----------------------
 Shock
 Mana Capacity+1
@@ -2621,8 +2621,8 @@ se080.wav
 *
 *
 *
-雷属性の基本的な攻撃。|使用者から、一方向に障害物を貫通してのライン攻撃。
-激しいぞ。
+A basic penetrating lightning spell.
+It's shocking.
 //entry 105 -----------------------
 Static Ball
 Mana Capacity+1|Magic Theory+5
@@ -2646,8 +2646,8 @@ se081.wav
 *
 *
 Static Ball
-雷の球を発生させる。Static Ballは敵に向かい移動し、隣接した敵にダメージを与える。
-行け！|そして痺れさせろ！
+Create a static ball that damages nearby enemies.
+Go! Numb them!
 //entry 106 -----------------------
 Lightning
 Shock+5
@@ -2671,8 +2671,8 @@ se082.wav
 *
 *
 *
-高威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-Shockよりも強いぞ。
+A strong penetrating lightning spell.
+Even more shocking.
 //entry 107 -----------------------
 Thor's Hammer
 Lightning+5
@@ -2696,8 +2696,8 @@ se083.wav
 *
 *
 *
-高々威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-他の技との連携が楽しい。
+A vicious penetrating lightning spell.
+Works great with other spells.
 //entry 108 -----------------------
 Zeus's Rage
 Thor's Hammer+5
@@ -2721,8 +2721,8 @@ se084.wav
 *
 *
 *
-高々々威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-オーバーキルと言われても。
+A deadly penetrating lightning spell.
+A little close to overkill.
 //entry 109 -----------------------
 Lightning Dragon
 Zeus's Rage+5
@@ -2746,8 +2746,8 @@ se085.wav
 *
 *
 *
-高々々威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-雷は破壊の象徴。
+An ultimate penetrating lightning spell.
+Lightning is destruction.
 //entry 110 -----------------------
 Flash Step
 Mana Capacity+1|Magic Theory+10
@@ -2771,8 +2771,8 @@ Mana Capacity+1|Magic Theory+10
 *
 *
 *
-使用者の移動方法がワープになる。また、移動力が上昇する。しかし、移動する度に魔力を消費する。
-その速度は雷の如く。
+Increase movement speed.|MP consumed with each move.
+Move like a flash.
 //entry 111 -----------------------
 Dark Spear
 Mana Capacity+1
@@ -2796,8 +2796,8 @@ se086.wav
 *
 *
 *
-闇属性の基本的な攻撃。
-闇の痛みを知れ。
+A basic dark spell.
+Know the pain of darkness.
 //entry 112 -----------------------
 Dark Sphere
 Mana Capacity+1|Magic Theory+5
@@ -2821,8 +2821,8 @@ se087.wav
 *
 *
 Dark Sphere
-広範囲の敵にダメージ。|数ターン、継続して存在し続ける。
-吸い込まれそうな闇！
+A wide range dark spell.|Persists for multiple turns.
+Be swallowed by darkness!
 //entry 113 -----------------------
 Pitch Black
 Mana Capacity+1|Magic Theory+10
@@ -2846,8 +2846,8 @@ se088.wav
 *
 *
 *
-闇属性の範囲攻撃。
-黒い世界にようこそ。
+A ranged dark spell.
+Welcome to the world of darkness.
 //entry 114 -----------------------
 Drain Essence
 Mana Capacity+1|Magic Theory+15
@@ -2871,8 +2871,8 @@ se089.wav
 *
 *
 *
-敵から魔力を吸収する。
-奪い取れ。
+Absorb mana.
+Suck 'em dry.
 //entry 115 -----------------------
 Dark Despair
 Dark Spear+5
@@ -2896,8 +2896,8 @@ se090.wav
 *
 *
 *
-闇属性による全体攻撃。
-それは恐怖。
+An enveloping dark spell.
+This is terror.
 //entry 116 -----------------------
 Dark Void
 Dark Despair+5
@@ -2921,8 +2921,8 @@ se091.wav
 *
 *
 *
-対人用攻撃。攻撃対象の魔力にダメージを与える。
-魔物には効果はないので注意。
+Attack the MP of an enemy.
+Has little effect if the enemy doesn't use magic.
 //entry 117 -----------------------
 Dark Darkness
 Dark Void+5
@@ -2946,8 +2946,8 @@ se092.wav
 *
 *
 *
-敵全体の魔力にダメージを与える。
-魔物にも効果はある。
+Attack the MP of all enemies.
+Even works on monsters.
 //entry 118 -----------------------
 Dark Roar
 Dark Darkness+5
@@ -2971,8 +2971,8 @@ se093.wav
 j000a
 *
 *
-暗黒竜を召喚し、敵全体に攻撃を行なう。
-文字にはできない。
+Summon a dark dragon.
+This isn't really like me.
 //entry 119 -----------------------
 Dark Shield
 Dark Spear+5
@@ -2996,8 +2996,8 @@ se094.wav
 *
 *
 *
-一定確率で、自動的にあらゆる物理攻撃のダメージを回避する。
-痛いのは嫌いだ。
+Chance to avoid all physical attacks.
+I hate getting hurt.
 //entry 120 -----------------------
 Dark Mist
 Mana Capacity+1|Magic Theory+10
@@ -3021,8 +3021,8 @@ se095.wav
 *
 *
 *
-戦闘フィールドを闇に包み、敵の攻撃を当たり難くする。
-身を隠して避ける。
+Chance to avoid all attacks.
+It's really hard to see.
 //entry 121 -----------------------
 Demon Call
 Dark Sphere+5
@@ -3046,8 +3046,8 @@ se096.wav
 *
 *
 *
-魔物を召喚し、相手を攻撃する。
-集え。魔物達。
+Summon a demon.
+Come, demons!
 //entry 122 -----------------------
 Light Spear
 Mana Capacity+1
@@ -3071,8 +3071,8 @@ se097.wav
 *
 *
 *
-光属性の基本的な攻撃。
-喰らえ光の裁き。
+A basic light spell.
+You are judged!
 //entry 123 -----------------------
 Glorious Spear
 Light Spear+5
@@ -3096,8 +3096,8 @@ se098.wav
 *
 *
 *
-光属性の必中攻撃。
-これは避けられない。
+An accurate light spell.
+You cannot escape!
 //entry 124 -----------------------
 Effusive Light
 Light Spear+5
@@ -3121,8 +3121,8 @@ se099.wav
 j001a
 *
 *
-敵全体に光属性で攻撃。
-まあ、なんか、まったりしてください。
+An enveloping light spell.
+Well, um, just take it.
 //entry 125 -----------------------
 Glamour
 Mana Capacity+1|Magic Theory+10
@@ -3146,8 +3146,8 @@ se100.wav
 *
 *
 *
-遠方に居る敵からの攻撃が当たり難くなる。
-光を操り、敵の視覚を惑わせる。
+Evade ranged attacks.
+Dazzle the enemy's sight.
 //entry 126 -----------------------
 Duplicate
 Glamour+2
@@ -3171,8 +3171,8 @@ se101.wav
 *
 *
 Duplicateセリス
-術者のダミーを出現させ、敵を惑わせる。
-数は力だ。
+Create a clone.
+Strength in numbers.
 //entry 127 -----------------------
 Bind
 Mana Capacity+1|Magic Theory+15
@@ -3196,8 +3196,8 @@ se102.wav
 *
 *
 *
-相手の動きを封じる。|しかし、相手の攻撃を封じるワケではない。
-止まれ！
+Seal an enemy's movement.
+Stop right there!
 //entry 128 -----------------------
 Holy Light
 Mana Capacity+1|Magic Theory+20
@@ -3221,8 +3221,8 @@ se103.wav
 *
 *
 *
-敵にかけられた持続系の魔法をキャンセルする。
-自分のも消えちゃうぞ。
+Dispel enemy magic.
+You better disappear too.
 //entry 129 -----------------------
 Light Shield
 Light Spear+5
@@ -3246,8 +3246,8 @@ se104.wav
 *
 *
 *
-一定確率で、自動的にあらゆる魔法からのダメージを回避する。
-魔法は嫌いだ。
+Chance to avoid all magic.
+I hate magic!
 //entry 130 -----------------------
 Search
 Mana Capacity+1
@@ -3271,10 +3271,10 @@ Mana Capacity+1
 *
 *
 *
-Search時、宝物を発見しやすくなる。また、警備員や海でのアルバイト時に有利に。
-探し物に便利。
+Find treasures easier, and improve results of certain jobs.
+Convenient when you're looking for something.
 //entry 131 -----------------------
-Demystify
+Lockpicker
 Mana Capacity+1
 *
 基本
@@ -3296,8 +3296,8 @@ Mana Capacity+1
 *
 *
 *
-Search時、発見した宝物を開けやすくなる。また、冒険者でのアルバイト時に有利になる。
-開く能力は大事。
+Find treasures easier, and improve results of certain jobs.
+Gotta be able to open what you find.
 //entry 132 -----------------------
 Monsterology
 Search+3
@@ -3321,8 +3321,8 @@ Search+3
 *
 *
 *
-Search時、魔物から必殺攻撃を喰らい難くなる。
-大会では役に立たないので注意。
+Avoid critical hits from monsters.
+Useless in tournaments.
 //entry 133 -----------------------
 Trapology
 Search+5
@@ -3346,8 +3346,8 @@ Search+5
 *
 *
 *
-Search時、罠に掛かり難くなる。
-悪意を知れば、回避も出来る。
+Avoid traps on adventures.
+Know traps to avoid traps.
 //entry 134 -----------------------
 Toxicology
 Search+5
@@ -3371,8 +3371,8 @@ Search+5
 *
 *
 *
-毒に対する知識を得る。|だが、敵が毒を使ってくるわけじゃないので、役に立つかどうかは微妙。
-これは、無駄スキルだ！|でも、塔で毒の罠があれば……
+Reduce the effect of poison.
+But... almost no monsters are venomous.
 //entry 135 -----------------------
 Gamesmanship
 Search+3
@@ -3396,8 +3396,8 @@ Search+3
 *
 *
 *
-大会時、相手から必殺攻撃を喰らい難くなる。また、大会スタッフのアルバイト時に有利に。
-大会の時だけなので、注意。
+Avoid critical hits during tournaments and improve results of certain jobs.
+Doesn't help against monsters.
 //entry 136 -----------------------
 Tactics
 Mana Capacity+1
@@ -3421,8 +3421,8 @@ Mana Capacity+1
 *
 *
 *
-戦闘時、動きが良くなる。
-賢くなれ！
+Increase movement in combat.
+Fight smart!
 //entry 137 -----------------------
 Cooking
 *
@@ -3446,8 +3446,8 @@ Cooking
 *
 *
 *
-Cookingに関する技術と知識。|Cooking人アルバイト時に有利に。
-Cookingの腕が良いと、色々と便利。
+Improve results of certain jobs.
+Cooking is useful for a lot of things.
 //entry 138 -----------------------
 Cleaning
 *
@@ -3471,8 +3471,8 @@ Cleaning
 *
 *
 *
-Cleaningに関する技術と知識。|家事手伝い時に有利に。
-身の回りの整理は、勉強の励みになる筈。
+Improve results of certain jobs.
+Keeping things neat and tidy is important.
 //entry 139 -----------------------
 Laundry
 *
@@ -3496,8 +3496,8 @@ Laundry
 *
 *
 *
-Laundryに関する技術と知識。|家事手伝い時に有利に。
-衣服を整える事で、運動の励みになる筈。
+Improve results of certain jobs.
+Dress properly, and do a good job.
 //entry 140 -----------------------
 Shopping
 Mana Capacity+1
@@ -3521,8 +3521,8 @@ Mana Capacity+1
 *
 *
 *
-Shopping時、割引が利くようになる。
-お金はなにかと大事です。
+Receive discounts when shopping.
+Money makes the world go round.
 //entry 141 -----------------------
 Music
 Mana Capacity+1
@@ -3546,8 +3546,8 @@ Mana Capacity+1
 *
 *
 *
-Musicに関しての技術と知識。|アルバイト系の成功率が少しＵＰ。
-Musicは人生の共。
+Improve the results of most jobs.
+Music is life.
 //entry 142 -----------------------
 Sexuality
 Mana Capacity+1
@@ -3571,8 +3571,8 @@ Mana Capacity+1
 *
 *
 *
-Ｈな事に関する技術と知識。
-行為が深くなれば、貰える魔力量が増えるのです。
+Increase the effects of sex.
+The better the sex, the more mana.
 //entry 143 -----------------------
 炎の精霊の力
 *
