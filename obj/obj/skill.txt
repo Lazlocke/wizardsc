@@ -1,11 +1,11 @@
 //entry 0 -----------------------
-戦闘速度
-魔力増加+1
+Combat Speed
+Mana Capacity+1
 *
 基本
 無
 最大体力
-戦闘速度
+Combat Speed
 戦闘硬直
 *
 *
@@ -21,10 +21,10 @@
 *
 *
 *
-戦闘速度が速くなる。（行動アクション待ち時間が短くなる）
-何事も、素早さが勝利の鍵となる。
+Increase action speed.
+In everything, speed is the key to victory. 
 //entry 1 -----------------------
-体力回復
+Recovery
 *
 *
 基本
@@ -46,10 +46,10 @@
 *
 *
 *
-戦闘を終える度に、体力を少し回復させる。
-長丁場になれば、ありがたみが解るはず。
+Recover HP after battle.
+A key skill for long adventures.
 //entry 2 -----------------------
-体力増加
+Constitution
 *
 *
 基本
@@ -71,16 +71,16 @@
 *
 *
 *
-体力の最大値を大きくする。
-最終的には体力が大事。
+Increase maximum HP.
+In the end, your health is everything.
 //entry 3 -----------------------
-移動力増加
-戦闘速度+10
+Agility
+Combat Speed+10
 *
 基本
 無
 移動力
-戦闘速度
+Combat Speed
 戦闘硬直
 *
 *
@@ -96,11 +96,11 @@
 *
 *
 *
-移動力を増やす。
-戦いは機動力！
+Increase your movement.
+Combat is mobility!
 //entry 4 -----------------------
-戦闘防御
-魔力増加+1
+Defense
+Mana Capacity+1
 *
 基本
 無
@@ -121,16 +121,16 @@
 *
 *
 *
-戦闘時の防御力が増える。
-守備あってこその攻撃。
+Increase your defense in combat.
+The best offense is defense.
 //entry 5 -----------------------
-反射防御
-戦闘防御+5
+Reflexes
+Defense+5
 *
 条件
 無
 回避
-戦闘速度
+Combat Speed
 *
 *
 *
@@ -146,11 +146,11 @@ se134.wav
 *
 *
 *
-敵の連続攻撃等に対し、一定確率で自動的に回避する。
-二発目は喰らわない。|つもりだけど、まあ、当たるよね。うん。
+Chance to dodge attacks.
+Hit me once, shame on me. |You won't hit me again.
 //entry 6 -----------------------
-スタン防御
-戦闘防御+5
+Grit
+Defense+5
 *
 条件
 無
@@ -171,11 +171,11 @@ se134.wav
 *
 *
 *
-敵の攻撃によるスタン効果を発揮させ難くする。
-私は相手の攻撃など気にしない。
+Resist stun.
+Your attacks don't bother me!
 //entry 7 -----------------------
-バック防御
-戦闘防御+5
+Rigidity
+Defense+5
 *
 条件
 無
@@ -196,11 +196,11 @@ se134.wav
 *
 *
 *
-敵の攻撃によるバック効果を発揮させ難くする。
-私は後ろには下がらない。
+Resist knockback.
+I will keep pressing forward!
 //entry 8 -----------------------
-必殺防御
-戦闘防御+5
+Guts
+Defense+5
 *
 条件
 無
@@ -221,10 +221,10 @@ se134.wav
 *
 *
 *
-必殺効果によって、一撃で倒される可能性を減らす。
-急所だけは避ける努力。
+Resist critical hits.
+Gotta protect your squishy bits.
 //entry 9 -----------------------
-ジャブ
+Jab
 *
 素手
 物理攻撃
@@ -237,20 +237,20 @@ se134.wav
 使用回数
 身敵
 *
-ジャブ
-ストレート
-ソニックブロー
+Jab
+Straight Punch
+Sonic Blow
 e004a
 se004.wav
 *
 *
 *
 *
-命中精度と速度が速い攻撃。
-これを制すれば……世界が見えるかもしれない。
+A quick, accurate attack.
+If you master this, the world will be in your hands.
 //entry 10 -----------------------
-ストレート
-魔力増加+1
+Straight Punch
+Mana Capacity+1
 素手
 物理攻撃
 格闘
@@ -262,20 +262,20 @@ se004.wav
 使用回数
 身敵
 *
-ストレート
-ジャブ
-ソニックブロー
+Straight Punch
+Jab
+Sonic Blow
 e005a
 se005.wav
 *
 *
 *
 *
-基本的な打撃ワザ。
-利き腕の力をみよ。
+A basic punch.
+Display the strength of your main arm.
 //entry 11 -----------------------
-ソニックブロー
-ストレート+5
+Sonic Blow
+Straight Punch+5
 素手
 物理攻撃
 格闘
@@ -287,7 +287,7 @@ se005.wav
 使用回数
 身敵
 *
-フラッシュブロー
+Flash Blow
 *
 *
 e006a
@@ -296,11 +296,11 @@ se006.wav
 *
 *
 *
-音速を超える打撃ワザ。
-音が後からやってくる。
+A super fast punch.
+The boom comes later.
 //entry 12 -----------------------
-フラッシュブロー
-ソニックブロー+10
+Flash Blow
+Sonic Blow+10
 素手
 物理攻撃
 格闘
@@ -312,7 +312,7 @@ se006.wav
 使用回数
 身敵
 *
-タイムブロー
+Chrono Blow
 *
 *
 e007a
@@ -321,11 +321,11 @@ se007.wav
 *
 *
 *
-光速を超える打撃ワザ。
-まさに閃光！
+A lightning fast punch.
+Like a flash!
 //entry 13 -----------------------
-タイムブロー
-フラッシュブロー+10
+Chrono Blow
+Flash Blow+10
 素手
 物理攻撃
 格闘
@@ -337,7 +337,7 @@ se007.wav
 使用回数
 身敵
 *
-ゴッドブロー
+God Blow
 *
 *
 e008a
@@ -346,11 +346,11 @@ se008.wav
 *
 *
 *
-時の速さを超える打撃ワザ。
-この技の前には、時間すら止まる。
+An unbelievably fast punch.
+Even time stops for this attack.
 //entry 14 -----------------------
-ゴッドブロー
-タイムブロー+10
+God Blow
+Chrono Blow+10
 素手
 物理攻撃
 格闘
@@ -371,11 +371,11 @@ se009.wav
 *
 *
 *
-神の域に達した打撃ワザ。
-一撃必殺！　になれば良いなぁ。
+A punch to reach the heavens.
+With one blow! |...I wish.
 //entry 15 -----------------------
-ローキック
-魔力増加+1
+Low Kick
+Mana Capacity+1
 素手
 物理攻撃
 格闘
@@ -387,20 +387,20 @@ se009.wav
 使用回数
 身敵
 *
-ハイキック
-飛び膝蹴り
-テツザンコウ
+High Kick
+Flying Knee
+Tetsuzankou
 e010a
 se010.wav
 *
 *
 *
 *
-命中精度が高く、ヒット後に相手の移動力を奪う。
-地味な攻撃だが、効果的。
+A high accuracy, debilitating attack.
+Not strong, but it works.
 //entry 16 -----------------------
-ハイキック
-ローキック+3
+High Kick
+Low Kick+3
 素手
 物理攻撃
 格闘
@@ -412,20 +412,20 @@ se010.wav
 使用回数
 身敵
 *
-飛び膝蹴り
-ローキック
-テツザンコウ
+Flying Knee
+Low Kick
+Tetsuzankou
 e011a
 se011.wav
 *
 *
 *
 *
-命中精度は低いが、ヒット後に相手の行動を少しだけ遅らせる。
-決まるとそれなりに気持ち良い。
+Low accuracy, but delays your foe.
+When it hits, it feels great.
 //entry 17 -----------------------
-飛び膝蹴り
-戦闘速度+20|体力増加+20
+Flying Knee
+Combat Speed+20|Constitution+20
 素手
 物理攻撃
 格闘
@@ -437,20 +437,20 @@ se011.wav
 使用回数
 身敵
 *
-ハイキック
-ローキック
-テツザンコウ
+High Kick
+Low Kick
+Tetsuzankou
 e012a
 se012.wav
 *
 *
 *
 *
-命中精度は低いが、高威力。
-普通の人相手なら、この技が決まれば勝負は決まる。
+Low accuracy, but high power.
+Against regular people, this is a knockout blow.
 //entry 18 -----------------------
-テツザンコウ
-戦闘速度+50|体力増加+50
+Tetsuzankou
+Combat Speed+50|Constitution+50
 素手
 物理攻撃
 格闘
@@ -462,20 +462,20 @@ se012.wav
 使用回数
 身敵
 *
-ローキック
-ハイキック
-飛び膝蹴り
+Low Kick
+High Kick
+Flying Knee
 e013a
 se013.wav
 *
 *
 *
 *
-高威力でヒット後に、相手を長時間行動不能にする。
-東方武術の技の一つ。|体当たりとは違います。
+A high power, disabling attack.
+An eastern attack. |It's not a tackle.
 //entry 19 -----------------------
-裸絞め
-戦闘速度+40|体力増加+20
+Sleeper Hold
+Combat Speed+40|Constitution+20
 素手
 物理攻撃
 格闘
@@ -487,7 +487,7 @@ se013.wav
 使用回数
 身敵
 魔物
-腕挫十字固
+Arm Bar
 *
 *
 e014a
@@ -496,11 +496,11 @@ se014.wav
 *
 *
 *
-低威力だが、攻撃ヒット中は相手を行動不能にする。
-残念ながら、魔物には通用しない。|だって、身体の構造が違い過ぎるから。
+A weak, but disabling attack.
+Unfortunately, it doesn't work on monsters. Their bodies are too different.
 //entry 20 -----------------------
-腕挫十字固
-戦闘速度+50|体力増加+30
+Arm Bar
+Combat Speed+50|Constitution+30
 素手
 物理攻撃
 格闘
@@ -512,7 +512,7 @@ se014.wav
 使用回数
 身敵
 魔物
-裸絞め
+Sleeper Hold
 *
 *
 e015a
@@ -521,11 +521,11 @@ se015.wav
 *
 *
 *
-裸締めよりも高威力で、攻撃ヒット中は相手を行動不能にする。
-残念ながら、魔物には通用しない。|だって、間接が同じじゃないから。
+A strong, disabling attack.
+Still doesn't work on monsters. They can wiggle right out.
 //entry 21 -----------------------
-金剛体
-魔力増加+1
+Steadfast
+Mana Capacity+1
 素手
 基本
 無
@@ -546,12 +546,12 @@ se015.wav
 *
 *
 *
-武器、格闘攻撃に対する場合のみ、防御力上昇。
-魔法以外には耐えてみせる。
+Increase defense against physical attacks.
+Only magic can stop me now.
 //entry 22 -----------------------
-剣
-魔力増加+1
-剣
+Blades
+Mana Capacity+1
+Blades
 物理攻撃
 武器
 威力小
@@ -562,21 +562,21 @@ se015.wav
 使用回数
 身敵
 *
-斬剣
-断剣
-秘剣紅桜
+Slash
+Hard Slash
+Crimson Blossom
 e016a
 se016.wav
 *
 *
 *
 *
-剣を振るう基本スキル。
-最近の魔法使いは、剣ぐらい振るえるものです。
+Improve your sword skills.
+Modern wizards know how to use a sword.
 //entry 23 -----------------------
-斬剣
-剣+5
-剣
+Slash
+Blades+5
+Blades
 物理攻撃
 武器
 威力小
@@ -587,21 +587,21 @@ se016.wav
 使用回数
 身敵
 *
-断剣
-秘剣紅桜
-炸裂する炎
+Hard Slash
+Crimson Blossom
+Fire Ball
 e017a
 se017.wav
 *
 *
 *
 *
-剣で斬る技術を追求した技。
-よく斬れる！
+A basic sword technique.
+Cut 'em down!
 //entry 24 -----------------------
-断剣
-剣+7
-剣
+Hard Slash
+Blades+7
+Blades
 物理攻撃
 武器
 威力小
@@ -612,8 +612,8 @@ se017.wav
 使用回数
 身敵
 *
-秘剣紅桜
-炸裂する炎
+Crimson Blossom
+Fire Ball
 *
 e018a
 se018.wav
@@ -621,12 +621,12 @@ se018.wav
 *
 *
 *
-剣で断つ技術を追求した技。|斬剣よりも高威力だが、溜めが長い。
-真っ二つ！
+A slow, but strong sword attack.
+Cut 'em in half!
 //entry 25 -----------------------
-秘剣紅桜
-剣+10
-剣
+Crimson Blossom
+Blades+10
+Blades
 物理攻撃
 武器
 威力小
@@ -637,7 +637,7 @@ se018.wav
 使用回数
 身敵
 *
-炸裂する炎
+Fire Ball
 *
 *
 e019a
@@ -646,12 +646,12 @@ se019.wav
 *
 *
 *
-幻の剣技。|その斬撃を喰らった相手は、体液を桜のように散らすらしい。
-必殺なだけに、そうそう決まったりはしない。
+A powerful sword technique.
+A deadly move, that brings death!
 //entry 26 -----------------------
-払い剣
-剣+5
-剣
+Blade Guard
+Blades+5
+Blades
 条件
 無
 回避
@@ -671,12 +671,12 @@ se134.wav
 *
 *
 *
-相手の格闘、武器攻撃を一定確率で完全に回避する。
-守備用の技です。
+Parry physical attacks.
+Let your sword be your shield.
 //entry 27 -----------------------
-棒
-魔力増加+1
-棒
+Staves
+Mana Capacity+1
+Staves
 物理攻撃
 武器
 威力小
@@ -687,21 +687,21 @@ se134.wav
 使用回数
 身敵
 *
-打ち棒
-突き棒
-斬り棒
+Strike
+Thrust
+Slicing Staff
 e020a
 se020.wav
 *
 *
 *
 *
-棒を扱う基本スキル。
-杖も棒の一種です。だから、魔法使いは棒術使いとも言えます。
+Improve your staff skills.
+A wand is a kind of staff too.
 //entry 28 -----------------------
-打ち棒
-棒+5
-棒
+Strike
+Staves+5
+Staves
 物理攻撃
 武器
 威力小
@@ -712,21 +712,21 @@ se020.wav
 使用回数
 身敵
 *
-突き棒
-斬り棒
-棒
+Thrust
+Slicing Staff
+Staves
 e021a
 se021.wav
 *
 *
 *
 *
-棒による攻撃。|相手を打ち付け、相手を怯ませる。
-えいえい！
+A weak attack that can stun the opponent.
+Hi-yah!
 //entry 29 -----------------------
-突き棒
-棒+5
-棒
+Thrust
+Staves+5
+Staves
 物理攻撃
 武器
 威力小
@@ -737,21 +737,21 @@ se021.wav
 使用回数
 身敵
 *
-斬り棒
-棒
-打ち棒
+Slicing Staff
+Staves
+Strike
 e022a
 se022.wav
 *
 *
 *
 *
-棒による攻撃。|相手を突いてバックさせやすい。
-近付くなー！
+An attack that knocks the enemy back.
+Stay away!
 //entry 30 -----------------------
-斬り棒
-棒+5
-棒
+Slicing Staff
+Staves+5
+Staves
 物理攻撃
 武器
 威力小
@@ -762,21 +762,21 @@ se022.wav
 使用回数
 身敵
 *
-棒
-打ち棒
-突き棒
+Staves
+Strike
+Thrust
 e023a
 se023.wav
 *
 *
 *
 *
-棒による攻撃。|棒による高威力打撃攻撃。
-棒術の攻撃の要。
+A high power staff attack.
+The key to a staff master.
 //entry 31 -----------------------
-払い棒
-棒+5
-棒
+Staff Guard
+Staves+5
+Staves
 条件
 無
 回避
@@ -796,12 +796,12 @@ se134.wav
 *
 *
 *
-相手の格闘、武器攻撃を一定確率で完全に回避する。
-棒術は守備にも優れる。
+Parry physical attacks.
+A staff can be a shield too.
 //entry 32 -----------------------
-斧
-魔力増加+1
-斧
+Axes
+Mana Capacity+1
+Axes
 物理攻撃
 武器
 威力小
@@ -812,21 +812,21 @@ se134.wav
 使用回数
 身敵
 *
-震える斧
-猛る斧
-暴れる斧
+Quake Ax
+Raging Ax
+Berserker Ax
 e024a
 se024.wav
 *
 *
 *
 *
-斧を扱う基本スキル。|単体相手なら、問題無い攻撃力。
-叩きつける感じが良いね。
+Improve your ax skills.
+Feels great to smack 'em with it.
 //entry 33 -----------------------
-震える斧
-斧+5
-斧
+Quake Ax
+Axes+5
+Axes
 物理攻撃
 武器
 威力小
@@ -837,21 +837,21 @@ se024.wav
 使用回数
 身敵
 *
-猛る斧
-暴れる斧
-切り裂く風
+Raging Ax
+Berserker Ax
+Air Cutter
 e025a
 se025.wav
 *
 *
 *
 *
-斧での攻撃技。|当たればデカい。
-ベテランの動きを要求するぜ。
+A strong ax attack.
+You've got to master the heft.
 //entry 34 -----------------------
-猛る斧
-斧+7
-斧
+Raging Ax
+Axes+7
+Axes
 物理攻撃
 武器
 威力小
@@ -862,8 +862,8 @@ se025.wav
 使用回数
 身敵
 *
-暴れる斧
-切り裂く風
+Berserker Ax
+Air Cutter
 *
 e026a
 se026.wav
@@ -871,12 +871,12 @@ se026.wav
 *
 *
 *
-斧での高威力攻撃技。|そのうち、当たるだろう。
-うおおおおおっ！！
+A low accuracy, powerful attack.
+Rrrrraaaaarrrrrrrgh!
 //entry 35 -----------------------
-暴れる斧
-斧+10
-斧
+Berserker Ax
+Axes+10
+Axes
 物理攻撃
 武器
 威力小
@@ -887,7 +887,7 @@ se026.wav
 使用回数
 身敵
 *
-切り裂く風
+Air Cutter
 *
 *
 e027a
@@ -896,12 +896,12 @@ se027.wav
 *
 *
 *
-斧での高々威力攻撃技。|当たりさえすれば、相手は倒れるだろう。
-斧か……|やられる方は、怖いだろうな。
+A vicious ax attack.
+...I think I might be scared.
 //entry 36 -----------------------
-ハンマー
-魔力増加+1
-ハンマー
+Hammers
+Mana Capacity+1
+Hammers
 物理攻撃
 武器
 威力小
@@ -912,21 +912,21 @@ se027.wav
 使用回数
 身敵
 *
-回転ハンマー
-突貫ハンマー
-爆砕ハンマー
+Spinning Hammer
+Crash Hammer
+Blast Hammer
 e028a
 se028.wav
 *
 *
 *
 *
-ハンマーを扱う基本スキル。|ハンマーは広範囲攻撃。
-巻き込んで潰れろ！
+Improve your hammer skills.
+Get crushed!
 //entry 37 -----------------------
-回転ハンマー
-ハンマー+5
-ハンマー
+Spinning Hammer
+Hammers+5
+Hammers
 物理攻撃
 武器
 威力小
@@ -937,8 +937,8 @@ se028.wav
 使用回数
 身敵
 *
-突貫ハンマー
-襲う土の槍
+Crash Hammer
+Stalagmite
 *
 e029a
 se029.wav
@@ -946,12 +946,12 @@ se029.wav
 *
 *
 *
-回転運動でハンマーの威力を高めたハンマー技。
-全てを叩き潰す！
+A spinning hammer attack.
+I will crush you all!
 //entry 38 -----------------------
-突貫ハンマー
-ハンマー+10
-ハンマー
+Crash Hammer
+Hammers+10
+Hammers
 物理攻撃
 武器
 威力小
@@ -962,8 +962,8 @@ se029.wav
 使用回数
 身敵
 *
-爆砕ハンマー
-襲う土の槍
+Blast Hammer
+Stalagmite
 *
 e030a
 se030.wav
@@ -971,12 +971,12 @@ se030.wav
 *
 *
 *
-ハンマーによる一点打撃攻撃。|広範囲じゃないが、高威力。
-一点を貫く！
+A powerful hammer slam.
+One hit kill!
 //entry 39 -----------------------
-爆砕ハンマー
-突貫ハンマー+10
-ハンマー
+Blast Hammer
+Crash Hammer+10
+Hammers
 物理攻撃
 武器
 威力小
@@ -987,7 +987,7 @@ se030.wav
 使用回数
 身敵
 *
-襲う土の槍
+Stalagmite
 *
 *
 e031a
@@ -996,11 +996,11 @@ se031.wav
 *
 *
 *
-ハンマーによる強力な広範囲攻撃技。
-まとめて掛かって来い。
+A wide-range hammer attack.
+I'll take you all on!
 //entry 40 -----------------------
-武器防御
-魔力増加+1
+Weapon Defense
+Mana Capacity+1
 武器
 基本
 無
@@ -1021,11 +1021,11 @@ se031.wav
 *
 *
 *
-武器による攻撃に対する防御力、回避力を高めるスキル。
-武器を使って回避するのさ。
+Evade weapon attacks.
+Use a weapon to dodge a weapon.
 //entry 41 -----------------------
-指弾
-魔力増加+1
+Snap Shot
+Mana Capacity+1
 素手
 物理攻撃
 遠距離
@@ -1037,20 +1037,20 @@ se031.wav
 使用回数
 身敵
 *
-連撃指弾
-憤激指弾
-水弾
+Snap Barrage
+Snap Cannon
+Aqua Shot
 e032a
 se032.wav
 *
 *
 *
 *
-指で小石などを弾き、攻撃する技。
-身近な物が武器と化す。
+Flick pebbles with your fingers.
+Turn common items into a weapon.
 //entry 42 -----------------------
-連撃指弾
-指弾+5
+Snap Barrage
+Snap Shot+5
 素手
 物理攻撃
 遠距離
@@ -1062,20 +1062,20 @@ se032.wav
 使用回数
 身敵
 *
-憤激指弾
-指弾
-水弾
+Snap Cannon
+Snap Shot
+Aqua Shot
 e033a
 se033.wav
 *
 *
 *
 *
-複数の小石を弾いて攻撃する技。|ただし、命中率はイマイチ。
-数の暴力。
+Fire multiple pebbles, but low accuracy.
+The scary part is how many.
 //entry 43 -----------------------
-憤激指弾
-指弾+10
+Snap Cannon
+Snap Shot+10
 素手
 物理攻撃
 遠距離
@@ -1087,21 +1087,21 @@ se033.wav
 使用回数
 身敵
 *
-指弾
-連撃指弾
-水弾
+Snap Shot
+Snap Barrage
+Aqua Shot
 e034a
 se034.wav
 *
 *
 *
 *
-かなり強力な指弾。
-穴をあけてやろう。
+A powerful pebble shot.
+Put a hole in 'em.
 //entry 44 -----------------------
-手裏剣
-魔力増加+1
-手裏剣
+Shuriken
+Mana Capacity+1
+Shuriken
 物理攻撃
 遠距離
 威力小
@@ -1112,8 +1112,8 @@ se034.wav
 使用回数
 身敵
 *
-乱れ手裏剣
-闇の槍
+Chaos Storm
+Dark Spear
 *
 e035a
 se035.wav
@@ -1121,12 +1121,12 @@ se035.wav
 *
 *
 *
-手裏剣を扱う基本スキル。
-シュッシュッ！
+Improve your shurken skills.
+Whsh! Whsh!
 //entry 45 -----------------------
-乱れ手裏剣
-手裏剣+5
-手裏剣
+Chaos Storm
+Shuriken+5
+Shuriken
 物理攻撃
 遠距離
 威力小
@@ -1137,8 +1137,8 @@ se035.wav
 使用回数
 身敵
 *
-手裏剣
-闇の槍
+Shuriken
+Dark Spear
 *
 e036a
 se036.wav
@@ -1146,12 +1146,12 @@ se036.wav
 *
 *
 *
-多数の手裏剣を広範囲に同時に投げる技。
-まるで手裏剣の雨。
+Throw many shurikens at once.
+Like a shuriken rain.
 //entry 46 -----------------------
-大車輪手裏剣
-手裏剣+10
-手裏剣
+Chakram
+Shuriken+10
+Shuriken
 物理攻撃
 遠距離
 威力小
@@ -1162,8 +1162,8 @@ se036.wav
 使用回数
 身敵
 *
-手裏剣
-闇の槍
+Shuriken
+Dark Spear
 *
 e037a
 se037.wav
@@ -1171,12 +1171,12 @@ se037.wav
 *
 *
 *
-高威力の手裏剣を、敵一体に対して投げる。
-大きい分だけ、威力もアップ。
+Throw a single powerful shuriken.
+The bigger, the better.
 //entry 47 -----------------------
-弓
-魔力増加+1
-弓
+Archery
+Mana Capacity+1
+Archery
 物理攻撃
 遠距離
 威力小
@@ -1187,21 +1187,21 @@ se037.wav
 使用回数
 身全
 *
-激動弓
-断罪弓
-崩壊弓
+Arrow Storm
+Headhunter
+Siege Arrow
 e038a
 se038.wav
 *
 *
 *
 *
-弓を扱う基本スキル。|縦横の一方向に攻撃可能。|ただし、障害物で止まる。
-戦いでは、距離が大事なのだよ。
+Improve your archery skills.
+Keeping your distance is key in battle.
 //entry 48 -----------------------
-激動弓
-弓+5
-弓
+Arrow Storm
+Archery+5
+Archery
 物理攻撃
 遠距離
 威力小
@@ -1212,21 +1212,21 @@ se038.wav
 使用回数
 身全
 *
-断罪弓
-崩壊弓
-炎の矢
+Headhunter
+Siege Arrow
+Flame Dart
 e039a
 se039.wav
 *
 *
 *
 *
-弓による高威力の攻撃。
-激動は言い過ぎかな。|振動ぐらいにすれば良かった。
+A high power bow attack.
+Wind is overrated, just power through it!
 //entry 49 -----------------------
-断罪弓
-弓+10
-弓
+Headhunter
+Archery+10
+Archery
 物理攻撃
 遠距離
 威力小
@@ -1237,8 +1237,8 @@ se039.wav
 使用回数
 身全
 *
-崩壊弓
-炎の矢
+Siege Arrow
+Flame Dart
 *
 e040a
 se040.wav
@@ -1246,12 +1246,12 @@ se040.wav
 *
 *
 *
-さらに高威力な弓攻撃。
-裁いてやろう。
+A vicious bow attack.
+I pass judgement on you!
 //entry 50 -----------------------
-崩壊弓
-弓+10
-弓
+Siege Arrow
+Archery+10
+Archery
 物理攻撃
 遠距離
 威力小
@@ -1262,7 +1262,7 @@ se040.wav
 使用回数
 身全
 *
-炎の矢
+Flame Dart
 *
 *
 e041a
@@ -1271,12 +1271,12 @@ se041.wav
 *
 *
 *
-障害物すら貫く弓攻撃。
-城すら崩す。
+A penetrating bow attack.
+Takes down even a castle.
 //entry 51 -----------------------
-投ナイフ
-魔力増加+1
-投ナイフ
+Throwing Knife
+Mana Capacity+1
+Throwing Knife
 物理攻撃
 特殊
 威力小
@@ -1287,21 +1287,21 @@ se041.wav
 使用回数
 身敵
 *
-飛ナイフ
-炎の矢
-水弾
+Twist Knife
+Flame Dart
+Aqua Shot
 e042a
 se042.wav
 *
 *
 *
 *
-ナイフを投げて攻撃。
-危ない。|ナイフを人に向けるなんて。
+Improve your knife skills.
+Be careful. Don't point knives at people.
 //entry 52 -----------------------
-飛ナイフ
-魔力増加+1
-投ナイフ
+Twist Knife
+Mana Capacity+1
+Throwing Knife
 物理攻撃
 特殊
 威力小
@@ -1312,21 +1312,21 @@ se042.wav
 使用回数
 身敵
 *
-投ナイフ
-炎の矢
-水弾
+Throwing Knife
+Flame Dart
+Aqua Shot
 e043a
 se043.wav
 *
 *
 *
 *
-ナイフを投げて攻撃。|少しだけ敵を追尾する。
-うわっ、ナイフが生き物のように。
+Throw a seeking knife.
+Wow! It's like a living creature.
 //entry 53 -----------------------
-ムチ
-魔力増加+1
-ムチ
+Whips
+Mana Capacity+1
+Whips
 物理攻撃
 特殊
 威力小
@@ -1337,21 +1337,21 @@ se043.wav
 使用回数
 所異
 *
-大蛇ムチ
-暴蛇ムチ
-闇の槍
+Serpent Whip
+Cobra Whip
+Dark Spear
 e044a
 se044.wav
 *
 *
 *
 *
-自分の周囲二マス全てに攻撃。
-女王様の資質がある人、募集中。
+Improve your whip skills.
+Now recruiting queen-like wizards.
 //entry 54 -----------------------
-大蛇ムチ
-ムチ+5
-ムチ
+Serpent Whip
+Whips+5
+Whips
 物理攻撃
 特殊
 威力小
@@ -1362,8 +1362,8 @@ se044.wav
 使用回数
 所異
 *
-暴蛇ムチ
-闇の槍
+Cobra Whip
+Dark Spear
 *
 e045a
 se045.wav
@@ -1371,12 +1371,12 @@ se045.wav
 *
 *
 *
-一箇所に複数回攻撃。
-遠距離だって、大丈夫。
+Attack multiple times.
+Whips work even from far away.
 //entry 55 -----------------------
-暴蛇ムチ
-ムチ+10
-ムチ
+Cobra Whip
+Whips+10
+Whips
 物理攻撃
 特殊
 威力小
@@ -1387,7 +1387,7 @@ se045.wav
 使用回数
 所異
 *
-闇の槍
+Dark Spear
 *
 *
 e046a
@@ -1396,11 +1396,11 @@ se046.wav
 *
 *
 *
-自分の周囲二マス全てに複数回攻撃。
-近付くとケガするよ。
+Attack in an area multiple times.
+Come any closer, and you'll get hurt.
 //entry 56 -----------------------
-樽
-魔力増加+1
+Barrels
+Mana Capacity+1
 タル
 物理攻撃
 特殊
@@ -1412,19 +1412,19 @@ se046.wav
 使用回数
 身敵
 *
-水弾
-流れる水
-凍てつく氷
+Aqua Shot
+Aqua Stream
+Frozen Ice
 e047a
 se047.wav
 e003a
 *
 *
 *
-縦横、一方向に攻撃可能。|ただし、障害物で止まる。
-樽だって立派な武器だ！
+Improve your barrel skills.
+Barrels are a weapon too!
 //entry 57 -----------------------
-魔法知識
+Magic Theory
 *
 *
 基本
@@ -1434,7 +1434,7 @@ e003a
 攻魔法
 攻魔法
 *
-詠唱速度
+Elocution
 *
 *
 *
@@ -1446,11 +1446,11 @@ e003a
 *
 *
 *
-覚えられる魔法スキルが増える。|また、魔法を知る事で各魔法の威力もＵＰ。
-侮るな！|これが魔法使いの要スキル！
+Improve your magic skills.|Improve your magic learning.
+Don't underestimate this! Every wizard needs it!
 //entry 58 -----------------------
-魔力回復
-魔力増加+1
+Mana Recovery
+Mana Capacity+1
 *
 基本
 無
@@ -1471,11 +1471,11 @@ e003a
 *
 *
 *
-戦闘を終える度に、魔力を少し回復させる。
-安定した魔力の為に。
+Recover MP after each battle.
+For a stable mana pool.
 //entry 59 -----------------------
-魔力増加
-魔力増加+1
+Mana Capacity
+Mana Capacity+1
 *
 基本
 無
@@ -1496,15 +1496,15 @@ e003a
 *
 *
 *
-魔力の最大値を大きくする。
-ＭＡＸ値が大きければ安心。
+Increase maximum MP.
+When your mana pool is big, you have nothing to fear.
 //entry 60 -----------------------
-詠唱速度
-魔力増加+1|魔法知識+10
+Elocution
+Mana Capacity+1|Magic Theory+10
 *
 基本
 無
-詠唱速度
+Elocution
 詠唱硬直
 *
 *
@@ -1521,15 +1521,15 @@ e003a
 *
 *
 *
-魔法を唱える速度が速くなる。
-敵が逃げる前に唱え終わらないと、意味が無い。
+Improve your casting speed.
+You have to finish casting your spell before they get away.
 //entry 61 -----------------------
-同系の心
-魔力増加+1
+Synergy
+Mana Capacity+1
 *
 条件
 無
-詠唱速度
+Elocution
 *
 *
 *
@@ -1546,15 +1546,15 @@ e003a
 *
 *
 *
-同じ系統の魔法を続けて使用する時、発動までの時間が短くなる。
-同じ系統なら、容易な事。
+Casting speed increases for same element.
+If you just know one element, it'll be easy.
 //entry 62 -----------------------
-異系の交わり
-同系の心+5
+Symbiosis
+Synergy+5
 *
 条件
 無
-詠唱速度
+Elocution
 *
 *
 *
@@ -1571,11 +1571,11 @@ e003a
 *
 *
 *
-違う系統の魔法を続けて使用する時、発動までの時間が短くなる。
-異なる系統でも、似た所はある。
+Casting speed increases for different elements.
+There are similarities even in different schools.
 //entry 63 -----------------------
-魔法防御
-魔力増加+1
+Magic Defense
+Mana Capacity+1
 *
 基本
 無
@@ -1596,11 +1596,11 @@ e003a
 *
 *
 *
-魔法に対する防御力ＵＰ。
-魔法から身を守る為にも。
+Defense against magic up.
+Protect yourself from magic.
 //entry 64 -----------------------
-属性防御／火
-魔法防御+5
+Fire Proof
+Magic Defense+5
 *
 基本
 無
@@ -1621,11 +1621,11 @@ e003a
 *
 *
 *
-火の魔法によるダメージを減少。スタン確率減少。
-我慢で耐える。
+Reduce fire magic damage and resist stun.
+Tough it out.
 //entry 65 -----------------------
-属性防御／水
-魔法防御+5
+Water Proof
+Magic Defense+5
 *
 基本
 無
@@ -1646,11 +1646,11 @@ e003a
 *
 *
 *
-水の魔法によるダメージを減少。スタン確率減少。
-水ぐらい、なんともないぜ。
+Reduce water magic damage and reduce stun.
+Water is nothing to be afraid of.
 //entry 66 -----------------------
-属性防御／風
-魔法防御+5
+Wind Proof
+Magic Defense+5
 *
 基本
 無
@@ -1671,11 +1671,11 @@ e003a
 *
 *
 *
-風の魔法によるダメージを減少。スタン確率減少。
-風では揺るがない。
+Reduce wind magic damage and reduce stun.
+Don't shake in the breeze.
 //entry 67 -----------------------
-属性防御／土
-魔法防御+5
+Earth Proof
+Magic Defense+5
 *
 基本
 無
@@ -1696,11 +1696,11 @@ e003a
 *
 *
 *
-土の魔法によるダメージを減少。スタン確率減少。
-地震も怖くない。
+Reduce earth magic damage and reduce stun.
+Don't be scared of earthquakes.
 //entry 68 -----------------------
-属性防御／雷
-魔法防御+5
+Lightning Proof
+Magic Defense+5
 *
 基本
 無
@@ -1721,11 +1721,11 @@ e003a
 *
 *
 *
-雷の魔法によるダメージを減少。スタン確率減少。
-雷に耐えて見せましょう。
+Reduce lightning magic damage and reduce stun.
+Be grounded.
 //entry 69 -----------------------
-属性防御／闇
-魔法防御+5
+Dark Proof
+Magic Defense+5
 *
 基本
 無
@@ -1746,11 +1746,11 @@ e003a
 *
 *
 *
-闇の魔法によるダメージを減少。スタン確率減少。
-暗くたって平気だ。
+Reduce dark magic damage and reduce stun.
+I'm not afraid of the dark.
 //entry 70 -----------------------
-属性防御／光
-魔法防御+5
+Light Proof
+Magic Defense+5
 *
 基本
 無
@@ -1771,11 +1771,11 @@ e003a
 *
 *
 *
-光の魔法によるダメージを減少。スタン確率減少。
-眩しくたって、頑張れる。
+Reduce light magic damage and reduce stun.
+Don't be blinded by the light.
 //entry 71 -----------------------
-炎の矢
-魔力増加+1
+Flame Dart
+Mana Capacity+1
 *
 魔法攻撃
 火
@@ -1787,20 +1787,20 @@ e003a
 使用回数
 所全
 *
-炸裂する炎
-爆裂する炎
-焼き尽くす炎
+Fire Ball
+Fire Burst
+Incinerate
 e048a
 se048.wav
 *
 *
 *
 *
-火属性の基本的な攻撃。|他に比べて高威力が特徴。
-燃えろ。
+A basic fire spell.
+Burn up.
 //entry 72 -----------------------
-炸裂する炎
-魔力増加+1
+Fire Ball
+Mana Capacity+1
 *
 魔法攻撃
 火
@@ -1812,20 +1812,20 @@ se048.wav
 使用回数
 所異
 *
-爆裂する炎
-焼き尽くす炎
-炎の矢
+Fire Burst
+Incinerate
+Flame Dart
 e049a
 se049.wav
 *
 *
 *
 *
-火属性で、広範囲にダメージ。|動きの遅い相手なら逃げ切れない。
-弾けろ。
+A wide area fire spell.
+Roast.
 //entry 73 -----------------------
-爆裂する炎
-炸裂する炎+5
+Fire Burst
+Fire Ball+5
 *
 魔法攻撃
 火
@@ -1837,20 +1837,20 @@ se049.wav
 使用回数
 所異
 *
-焼き尽くす炎
-炎の矢
-水弾
+Incinerate
+Flame Dart
+Aqua Shot
 e050a
 se050.wav
 *
 *
 *
 *
-火属性で、さらに広範囲にダメージ。
-爆発！
+A very wide area fire spell.
+Explode!
 //entry 74 -----------------------
-焼き尽くす炎
-爆裂する炎+5
+Incinerate
+Fire Burst+5
 *
 魔法攻撃
 火
@@ -1862,8 +1862,8 @@ se050.wav
 使用回数
 所異
 *
-炎の矢
-水弾
+Flame Dart
+Aqua Shot
 *
 e051a
 se051.wav
@@ -1871,11 +1871,11 @@ se051.wav
 *
 *
 *
-火属性で、さらにさらに広範囲にダメージ。
-焼き尽くせ！
+A huge fire spell.
+Burn to a crisp!
 //entry 75 -----------------------
-炎の陣
-炸裂する炎+5
+Fire Ring
+Fire Ball+5
 *
 魔法攻撃
 火
@@ -1887,8 +1887,8 @@ se051.wav
 使用回数
 所異
 *
-炎の矢
-炎の蛇
+Flame Dart
+Flame Snake
 *
 e052a
 se052.wav
@@ -1896,11 +1896,11 @@ se052.wav
 *
 *
 *
-術者の周囲を爆破し、敵を退ける。
-散るがいい。
+A fire spell around the caster.
+Get away from me!
 //entry 76 -----------------------
-炎の蛇
-炎の矢+6
+Flame Snake
+Flame Dart+6
 *
 召喚魔法
 召喚
@@ -1912,20 +1912,20 @@ se052.wav
 使用回数
 所空
 *
-炎の矢
-水弾
+Flame Dart
+Aqua Shot
 *
 @
 se053.wav
 *
 *
 *
-炎の蛇
-追尾する炎の蛇を生み出し、攻撃させる。
-執拗に追いまわせ！
+Flame Snake
+Summon a fire snake.
+Chase them down!
 //entry 77 -----------------------
-炎の壁
-炎の矢+8
+Fire Wall
+Flame Dart+8
 *
 障害物召喚
 召喚
@@ -1945,12 +1945,12 @@ se054.wav
 *
 *
 *
-炎の壁
-炎による障害物を設置、近付く者やその周囲にダメージ。
-炎に焼かれるがいい。
+Fire Wall
+Create a damaging fire barrier.
+Just burn to ashes!
 //entry 78 -----------------------
-水弾
-魔力増加+1
+Aqua Shot
+Mana Capacity+1
 *
 魔法攻撃
 水
@@ -1962,20 +1962,20 @@ se054.wav
 使用回数
 所全
 *
-水弾
-流れる水
-凍てつく氷
+Aqua Shot
+Aqua Stream
+Frozen Ice
 e055a
 se055.wav
 *
 *
 *
 *
-水属性の基本的な攻撃。|威力は低いが、命中率は高い。
-水でも岩を砕ける。
+A basic water spell.
+Even rocks can be crushed by water.
 //entry 79 -----------------------
-流れる水
-魔力増加+1
+Aqua Stream
+Mana Capacity+1
 *
 魔法攻撃
 水
@@ -1987,20 +1987,20 @@ se055.wav
 使用回数
 所全
 *
-凍てつく氷
-激動の大河
-砕け散る氷河
+Frozen Ice
+Aqua Flood
+Glacier Smash
 e056a
 se056.wav
 *
 *
 *
 *
-水属性の攻撃。|相手を下がらせる事もある。
-流してしまえ。
+A water spell that can knock enemies down.
+Let it flow.
 //entry 80 -----------------------
-凍てつく氷
-魔力増加+1|魔法知識+5
+Frozen Ice
+Mana Capacity+1|Magic Theory+5
 *
 魔法攻撃
 水
@@ -2012,20 +2012,20 @@ se056.wav
 使用回数
 所全
 *
-激動の大河
-砕け散る氷河
-水弾
+Aqua Flood
+Glacier Smash
+Aqua Shot
 e057a
 se057.wav
 *
 *
 *
 *
-水属性の攻撃。|運が良ければ、相手を怯ませる。
-凍りつけ！
+A water spell that can flinch.
+Freeze!
 //entry 81 -----------------------
-激動の大河
-凍てつく氷+5
+Aqua Flood
+Frozen Ice+5
 *
 魔法攻撃
 水
@@ -2037,8 +2037,8 @@ se057.wav
 使用回数
 所全
 *
-砕け散る氷河
-水弾
+Glacier Smash
+Aqua Shot
 *
 e058a
 se058.wav
@@ -2046,11 +2046,11 @@ se058.wav
 *
 *
 *
-水属性の攻撃。|相手を怯ませる事もある。
-ブリザード！
+A strong water spell that can flinch.
+Blizzard!
 //entry 82 -----------------------
-砕け散る氷河
-激動の大河+5
+Glacier Smash
+Aqua Flood+5
 *
 魔法攻撃
 水
@@ -2062,8 +2062,8 @@ se058.wav
 使用回数
 所全
 *
-水弾
-焼き尽くす炎
+Aqua Shot
+Incinerate
 *
 e059a
 se059.wav
@@ -2071,11 +2071,11 @@ se059.wav
 *
 *
 *
-水属性の攻撃。|運が良ければ、相手を下がらせながら怯ませる。
-凍って砕けて流れてしまえ。
+A water spell that can flinch and knock enemies down.
+Freeze, crush, and wash them away.
 //entry 83 -----------------------
-歓喜の雨
-魔力増加+10
+Blessed Rain
+Mana Capacity+10
 *
 補佐魔法味
 回復
@@ -2096,11 +2096,11 @@ se060.wav
 *
 *
 *
-セリスの体力を一定時間、回復させ続ける。
-私は喜ぶ。
+Heal the caster over time.
+I'm blessed.
 //entry 84 -----------------------
-嘆きの泉
-魔力増加+1|魔法知識+10
+Wailing Well
+Mana Capacity+1|Magic Theory+10
 *
 補佐魔法敵
 補佐
@@ -2121,11 +2121,11 @@ se061.wav
 *
 *
 *
-敵の体力を一定時間、削り続ける。
-敵は嘆く。
+Reduce enemy HP over time.
+Make the enemy wail.
 //entry 85 -----------------------
-氷の壁
-凍てつく氷+5
+Ice Wall
+Frozen Ice+5
 *
 障害物召喚
 召喚
@@ -2145,12 +2145,12 @@ se062.wav
 *
 *
 *
-氷の壁
-氷による障害物を設置、硬い防壁を作る。
-炎の壁と違って、周囲にダメージを与えたりはしない。
+Ice Wall
+Create an ice barrier.
+Unlike a fire barrier, this one's all protection.
 //entry 86 -----------------------
-切り裂く風
-魔力増加+1
+Air Cutter
+Mana Capacity+1
 *
 魔法攻撃
 風
@@ -2162,20 +2162,20 @@ se062.wav
 使用回数
 所全
 *
-追跡する風
-弾ける風
-荒れ狂う風
+Air Chaser
+Air Shot
+Raging Wind
 e063a
 se063.wav
 *
 *
 *
 *
-風属性の基本的な攻撃。|飛行する敵には倍ダメージ。
-速度重視！
+A basic wind spell.|Effective against fliers.
+Speed is everything!
 //entry 87 -----------------------
-追跡する風
-魔力増加+1
+Air Chaser
+Mana Capacity+1
 *
 召喚魔法
 召喚
@@ -2187,20 +2187,20 @@ se063.wav
 使用回数
 所空
 *
-弾ける風
-荒れ狂う風
-嵐
+Air Shot
+Raging Wind
+Tempest
 @
 se064.wav
 *
 *
 *
-追跡する風
-一定ターン、相手を追いかける風を作り出す。
-その風に近付く敵にはダメージを与える。
+Air Chaser
+Create a wind spirit that hunts down the enemy.
+Cut down approaching enemies!
 //entry 88 -----------------------
-弾ける風
-切り裂く風+5
+Air Shot
+Air Cutter+5
 *
 魔法攻撃
 風
@@ -2212,20 +2212,20 @@ se064.wav
 使用回数
 所全
 *
-荒れ狂う風
-嵐
-襲う土の槍
+Raging Wind
+Tempest
+Stalagmite
 e065a
 se065.wav
 *
 *
 *
 *
-風属性の範囲攻撃。|ちょっと命中率は良くない。
-レベルを上げて、命中率を高めよう。
+A wide range, inaccurate wind spell.
+Blow them away.
 //entry 89 -----------------------
-荒れ狂う風
-弾ける風+5
+Raging Wind
+Air Shot+5
 *
 魔法攻撃
 風
@@ -2237,20 +2237,20 @@ se065.wav
 使用回数
 所全
 *
-嵐
-襲う土の槍
-水弾
+Tempest
+Stalagmite
+Aqua Shot
 e066a
 se066.wav
 *
 *
 *
 *
-広範囲に、風属性の攻撃。|ただし、使用者の周囲２マスにはダメージがいかない。
-暴風！
+A wide range distance wind spell.
+Storm coming!
 //entry 90 -----------------------
-嵐
-荒れ狂う風+5
+Tempest
+Raging Wind+5
 *
 魔法攻撃
 風
@@ -2262,20 +2262,20 @@ se066.wav
 使用回数
 所全
 *
-嵐
-水弾
-流れる水
+Tempest
+Aqua Shot
+Aqua Stream
 e067a
 se067.wav
 *
 *
 *
 *
-広範囲に、風属性の高威力攻撃。|ただし、使用者の周囲２マスにはダメージがいかない。
-まさに嵐！
+A wide range, powerful, distance wind spell.
+A storm of storms!
 //entry 91 -----------------------
-重き風
-魔力増加+1|魔法知識+5
+Air Press
+Mana Capacity+1|Magic Theory+5
 *
 補佐魔法敵
 補佐
@@ -2296,11 +2296,11 @@ se068.wav
 *
 *
 *
-戦闘フィールドを特殊な空気で覆い、飛行する敵の移動を困難にする。
-相手の機動力を封じるのは常套手段。
+Cripple flying enemies.
+Trap your enemies and then finish them off.
 //entry 92 -----------------------
-背中を押す風
-魔力増加+10
+Tailwind
+Mana Capacity+10
 *
 補佐魔法味
 補佐
@@ -2321,11 +2321,11 @@ se069.wav
 *
 *
 *
-使用者の行動速度が早くなる。
-風が味方してくれる。
+Enhance user's combat speed.
+Wind is on our side.
 //entry 93 -----------------------
-飛行
-魔力増加+1|魔法知識+5
+Flight
+Mana Capacity+1|Magic Theory+5
 *
 基本
 無
@@ -2346,11 +2346,11 @@ se069.wav
 *
 *
 *
-遠方に移動可能になり、これまでいけなかった塔やダンジョンにいけるようになる。
-詠唱に時間が掛かるので、戦闘中は使えません。
+Travel to more distant places.
+Takes too long to cast to use in battle.
 //entry 94 -----------------------
-襲う土の槍
-魔力増加+1
+Stalagmite
+Mana Capacity+1
 *
 魔法攻撃
 土
@@ -2362,20 +2362,20 @@ se069.wav
 使用回数
 所全
 *
-震える大地
-暴れる大地
-水弾
+Rock Shaker
+Rock Rage
+Aqua Shot
 e070a
 se070.wav
 *
 *
 *
 *
-土属性の基本的な攻撃。|でも、飛んでる相手には効かない。
-突き刺せ！
+A basic earth spell.|Does not hit flying enemies.
+Pierce!
 //entry 95 -----------------------
-震える大地
-魔力増加+1
+Rock Shaker
+Mana Capacity+1
 *
 魔法攻撃
 土
@@ -2387,20 +2387,20 @@ se070.wav
 使用回数
 所異
 *
-暴れる大地
-流れる水
-炎の矢
+Rock Rage
+Aqua Stream
+Flame Dart
 e071a
 se071.wav
 *
 *
 *
 *
-土属性の範囲攻撃。|でも、飛んでる相手には効かない。
-飛ばないで欲しいな。
+An area earth spell.|Does not hit flying enemies.
+Please stay on the ground.
 //entry 96 -----------------------
-暴れる大地
-震える大地+5
+Rock Rage
+Rock Shaker+5
 *
 魔法攻撃
 土
@@ -2412,20 +2412,20 @@ se071.wav
 使用回数
 所異
 *
-襲う土の槍
-切り裂く風
-炸裂する炎
+Stalagmite
+Air Cutter
+Fire Ball
 e072a
 se072.wav
 *
 *
 *
 *
-土属性の高範囲攻撃。|でも、飛んでる相手には効かない。
-だから、飛ぶな！
+A wide area earth spell.|Does not hit flying enemies.
+I told you, no flying!
 //entry 97 -----------------------
-遮る土の壁
-震える大地+5
+Earth Wall
+Rock Shaker+5
 *
 障害物召喚
 召喚
@@ -2437,20 +2437,20 @@ se072.wav
 使用回数
 所空
 *
-襲う土の槍
-水弾
-爆裂する炎
+Stalagmite
+Aqua Shot
+Fire Burst
 @
 se073.wav
 *
 *
 *
-遮る土の壁
-防壁を作る。
-敵の進軍を阻め。
+Earth Wall
+Create a wall.
+Block the enemy from approaching.
 //entry 98 -----------------------
-繋ぎとめる泥
-魔力増加+1|魔法知識+5
+Mud Bind
+Mana Capacity+1|Magic Theory+5
 *
 補佐魔法敵
 補佐
@@ -2471,11 +2471,11 @@ se074.wav
 *
 *
 *
-敵単体の全ての行動を封じる。|でも、飛んでる相手には効かない。
-止まれと命じた。
+Prevent all actions.|Does not work against flying enemies.
+I told you to stop!
 //entry 99 -----------------------
-溺れる泥の沼
-魔力増加+1|魔法知識+10
+Drowning Marsh
+Mana Capacity+1|Magic Theory+10
 *
 補佐魔法敵
 補佐
@@ -2496,11 +2496,11 @@ se075.wav
 *
 *
 *
-戦闘フィールドを泥沼化し、移動を困難にする。
-溺れてもがけ。
+Seal movement.
+Try not to drown.
 //entry 100 -----------------------
-肉体強化
-魔力増加+1|体力増加+10
+Body Enhance
+Mana Capacity+1|Constitution+10
 *
 補佐魔法味
 補佐
@@ -2521,11 +2521,11 @@ se076.wav
 *
 *
 *
-使用者の肉体を強化し、戦闘を有利にする。
-見よ！|この鍛えられし肉体を！
+Strengthen physical attributes.
+Look!|Look upon my muscles!
 //entry 101 -----------------------
-魔力強化
-魔力増加+10
+Mana Resonance
+Mana Capacity+10
 *
 補佐魔法味
 補佐
@@ -2546,11 +2546,11 @@ se077.wav
 *
 *
 *
-使用者の魔力を強化し、戦闘を有利にする。
-見よ！|この鍛えられし……えっと、頭脳を！
+Strengthen magical attributes.
+Look!|Look upon my... brain?
 //entry 102 -----------------------
-治癒の魔法
-魔力増加+1
+Healing Magic
+Mana Capacity+1
 *
 治癒魔法
 回復
@@ -2571,11 +2571,11 @@ se078.wav
 *
 *
 *
-使用者の体力を一定量回復する。
-必殺、医者要らず。
+Restore HP.
+No doctor needed.
 //entry 103 -----------------------
-再生の魔法
-治癒の魔法+10
+Regeneration
+Healing Magic+10
 *
 補佐魔法味
 回復
@@ -2596,11 +2596,11 @@ se079.wav
 *
 *
 *
-使用者の体力を行動番が来る度に回復する。
-腕が生えるわけじゃない。
+Continually restore HP.
+Will not regrow a lost arm.
 //entry 104 -----------------------
-雷撃
-魔力増加+1
+Shock
+Mana Capacity+1
 *
 魔法攻撃
 雷
@@ -2612,20 +2612,20 @@ se079.wav
 使用回数
 所異
 *
-雷電
-雷王
-雷帝
+Lightning
+Thor's Hammer
+Zeus's Rage
 e080a
 se080.wav
 *
 *
 *
 *
-雷属性の基本的な攻撃。|使用者から、一方向に障害物を貫通してのライン攻撃。
-激しいぞ。
+A basic penetrating lightning spell.
+It's shocking.
 //entry 105 -----------------------
-雷球
-魔力増加+1|魔法知識+5
+Static Ball
+Mana Capacity+1|Magic Theory+5
 *
 召喚魔法
 召喚
@@ -2637,20 +2637,20 @@ se080.wav
 使用回数
 所空
 *
-雷撃
-雷電
-雷王
+Shock
+Lightning
+Thor's Hammer
 @
 se081.wav
 *
 *
 *
-雷球
-雷の球を発生させる。雷球は敵に向かい移動し、隣接した敵にダメージを与える。
-行け！|そして痺れさせろ！
+Static Ball
+Create a static ball that damages nearby enemies.
+Go! Numb them!
 //entry 106 -----------------------
-雷電
-雷撃+5
+Lightning
+Shock+5
 *
 魔法攻撃
 雷
@@ -2662,20 +2662,20 @@ se081.wav
 使用回数
 所異
 *
-雷王
-雷帝
-雷龍
+Thor's Hammer
+Zeus's Rage
+Lightning Dragon
 e082a
 se082.wav
 *
 *
 *
 *
-高威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-雷撃よりも強いぞ。
+A strong penetrating lightning spell.
+Even more shocking.
 //entry 107 -----------------------
-雷王
-雷電+5
+Thor's Hammer
+Lightning+5
 *
 魔法攻撃
 雷
@@ -2687,20 +2687,20 @@ se082.wav
 使用回数
 所異
 *
-雷帝
-雷龍
-雷球
+Zeus's Rage
+Lightning Dragon
+Static Ball
 e083a
 se083.wav
 *
 *
 *
 *
-高々威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-他の技との連携が楽しい。
+A vicious penetrating lightning spell.
+Works great with other spells.
 //entry 108 -----------------------
-雷帝
-雷王+5
+Zeus's Rage
+Thor's Hammer+5
 *
 魔法攻撃
 雷
@@ -2712,20 +2712,20 @@ se083.wav
 使用回数
 所異
 *
-雷龍
-雷電
-雷球
+Lightning Dragon
+Lightning
+Static Ball
 e084a
 se084.wav
 *
 *
 *
 *
-高々々威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-オーバーキルと言われても。
+A deadly penetrating lightning spell.
+A little close to overkill.
 //entry 109 -----------------------
-雷龍
-雷帝+5
+Lightning Dragon
+Zeus's Rage+5
 *
 魔法攻撃
 雷
@@ -2737,20 +2737,20 @@ se084.wav
 使用回数
 所異
 *
-雷電
-雷王
-雷帝
+Lightning
+Thor's Hammer
+Zeus's Rage
 e085a
 se085.wav
 *
 *
 *
 *
-高々々威力。|使用者から、一方向に障害物を貫通してのライン攻撃。
-雷は破壊の象徴。
+An ultimate penetrating lightning spell.
+Lightning is destruction.
 //entry 110 -----------------------
-雷歩
-魔力増加+1|魔法知識+10
+Flash Step
+Mana Capacity+1|Magic Theory+10
 *
 自動
 無
@@ -2771,11 +2771,11 @@ se085.wav
 *
 *
 *
-使用者の移動方法がワープになる。また、移動力が上昇する。しかし、移動する度に魔力を消費する。
-その速度は雷の如く。
+Increase movement speed.|MP consumed with each move.
+Move like a flash.
 //entry 111 -----------------------
-闇の槍
-魔力増加+1
+Dark Spear
+Mana Capacity+1
 *
 魔法攻撃
 闇
@@ -2787,20 +2787,20 @@ se085.wav
 使用回数
 所異
 *
-吸魔
-漆黒
-光の槍
+Drain Essence
+Pitch Black
+Light Spear
 e086a
 se086.wav
 *
 *
 *
 *
-闇属性の基本的な攻撃。
-闇の痛みを知れ。
+A basic dark spell.
+Know the pain of darkness.
 //entry 112 -----------------------
-暗黒球
-魔力増加+1|魔法知識+5
+Dark Sphere
+Mana Capacity+1|Magic Theory+5
 *
 召喚魔法
 召喚
@@ -2812,20 +2812,20 @@ se086.wav
 使用回数
 所空
 *
-暗黒球
-雷球
+Dark Sphere
+Static Ball
 *
 @
 se087.wav
 *
 *
 *
-暗黒球
-広範囲の敵にダメージ。|数ターン、継続して存在し続ける。
-吸い込まれそうな闇！
+Dark Sphere
+A wide range dark spell.|Persists for multiple turns.
+Be swallowed by darkness!
 //entry 113 -----------------------
-漆黒
-魔力増加+1|魔法知識+10
+Pitch Black
+Mana Capacity+1|Magic Theory+10
 *
 魔法攻撃
 闇
@@ -2837,20 +2837,20 @@ se087.wav
 使用回数
 所異
 *
-吸魔
-光の槍
-雷撃
+Drain Essence
+Light Spear
+Shock
 e088a
 se088.wav
 *
 *
 *
 *
-闇属性の範囲攻撃。
-黒い世界にようこそ。
+A ranged dark spell.
+Welcome to the world of darkness.
 //entry 114 -----------------------
-吸魔
-魔力増加+1|魔法知識+15
+Drain Essence
+Mana Capacity+1|Magic Theory+15
 *
 魔法攻撃
 闇
@@ -2862,8 +2862,8 @@ se088.wav
 使用回数
 所異
 *
-魔物召喚
-吸魔
+Demon Call
+Drain Essence
 *
 e089a
 se089.wav
@@ -2871,11 +2871,11 @@ se089.wav
 *
 *
 *
-敵から魔力を吸収する。
-奪い取れ。
+Absorb mana.
+Suck 'em dry.
 //entry 115 -----------------------
-絶望に震える闇
-闇の槍+5
+Dark Despair
+Dark Spear+5
 *
 魔法攻撃
 闇
@@ -2887,20 +2887,20 @@ se089.wav
 使用回数
 身敵
 *
-闇の槍
-幻惑
-満たす光
+Dark Spear
+Glamour
+Effusive Light
 e090a
 se090.wav
 *
 *
 *
 *
-闇属性による全体攻撃。
-それは恐怖。
+An enveloping dark spell.
+This is terror.
 //entry 116 -----------------------
-世界を飲み込む闇
-絶望に震える闇+5
+Dark Void
+Dark Despair+5
 *
 魔法攻撃
 闇
@@ -2912,7 +2912,7 @@ se090.wav
 使用回数
 所異
 魔物
-闇の槍
+Dark Spear
 *
 *
 e091a
@@ -2921,11 +2921,11 @@ se091.wav
 *
 *
 *
-対人用攻撃。攻撃対象の魔力にダメージを与える。
-魔物には効果はないので注意。
+Attack the MP of an enemy.
+Has little effect if the enemy doesn't use magic.
 //entry 117 -----------------------
-闇よりも暗き闇
-世界を飲み込む闇+5
+Dark Darkness
+Dark Void+5
 *
 魔法攻撃
 闇
@@ -2937,7 +2937,7 @@ se091.wav
 使用回数
 身敵
 *
-闇の槍
+Dark Spear
 *
 *
 e092a
@@ -2946,11 +2946,11 @@ se092.wav
 *
 *
 *
-敵全体の魔力にダメージを与える。
-魔物にも効果はある。
+Attack the MP of all enemies.
+Even works on monsters.
 //entry 118 -----------------------
-暗黒竜の咆哮
-闇よりも暗き闇+5
+Dark Roar
+Dark Darkness+5
 *
 魔法攻撃
 闇
@@ -2962,7 +2962,7 @@ se092.wav
 使用回数
 身敵
 *
-闇の槍
+Dark Spear
 *
 *
 e093a
@@ -2971,11 +2971,11 @@ se093.wav
 j000a
 *
 *
-暗黒竜を召喚し、敵全体に攻撃を行なう。
-文字にはできない。
+Summon a dark dragon.
+This isn't really like me.
 //entry 119 -----------------------
-闇の盾
-闇の槍+5
+Dark Shield
+Dark Spear+5
 *
 自動
 無
@@ -2996,11 +2996,11 @@ se094.wav
 *
 *
 *
-一定確率で、自動的にあらゆる物理攻撃のダメージを回避する。
-痛いのは嫌いだ。
+Chance to avoid all physical attacks.
+I hate getting hurt.
 //entry 120 -----------------------
-闇の霧
-魔力増加+1|魔法知識+10
+Dark Mist
+Mana Capacity+1|Magic Theory+10
 *
 補佐魔法敵
 補佐
@@ -3021,11 +3021,11 @@ se095.wav
 *
 *
 *
-戦闘フィールドを闇に包み、敵の攻撃を当たり難くする。
-身を隠して避ける。
+Chance to avoid all attacks.
+It's really hard to see.
 //entry 121 -----------------------
-魔物召喚
-暗黒球+5
+Demon Call
+Dark Sphere+5
 *
 召喚魔法
 召喚
@@ -3037,7 +3037,7 @@ se095.wav
 使用回数
 所空
 *
-魔物召喚
+Demon Call
 *
 *
 e096a
@@ -3046,11 +3046,11 @@ se096.wav
 *
 *
 *
-魔物を召喚し、相手を攻撃する。
-集え。魔物達。
+Summon a demon.
+Come, demons!
 //entry 122 -----------------------
-光の槍
-魔力増加+1
+Light Spear
+Mana Capacity+1
 *
 魔法攻撃
 光
@@ -3062,20 +3062,20 @@ se096.wav
 使用回数
 所異
 *
-貫く勝利の光槍
-満たす光
-闇の槍
+Glorious Spear
+Effusive Light
+Dark Spear
 e097a
 se097.wav
 *
 *
 *
 *
-光属性の基本的な攻撃。
-喰らえ光の裁き。
+A basic light spell.
+You are judged!
 //entry 123 -----------------------
-貫く勝利の光槍
-光の槍+5
+Glorious Spear
+Light Spear+5
 *
 魔法攻撃
 光
@@ -3087,20 +3087,20 @@ se097.wav
 使用回数
 所異
 *
-満たす光
-吸魔
-雷球
+Effusive Light
+Drain Essence
+Static Ball
 e098a
 se098.wav
 *
 *
 *
 *
-光属性の必中攻撃。
-これは避けられない。
+An accurate light spell.
+You cannot escape!
 //entry 124 -----------------------
-満たす光
-光の槍+5
+Effusive Light
+Light Spear+5
 *
 魔法攻撃
 光
@@ -3112,8 +3112,8 @@ se098.wav
 使用回数
 身敵
 *
-吸魔
-闇の槍
+Drain Essence
+Dark Spear
 *
 e099a
 se099.wav
@@ -3121,11 +3121,11 @@ se099.wav
 j001a
 *
 *
-敵全体に光属性で攻撃。
-まあ、なんか、まったりしてください。
+An enveloping light spell.
+Well, um, just take it.
 //entry 125 -----------------------
-幻惑
-魔力増加+1|魔法知識+10
+Glamour
+Mana Capacity+1|Magic Theory+10
 *
 補佐魔法味
 補佐
@@ -3137,7 +3137,7 @@ j001a
 使用回数
 身味
 *
-分身
+Duplicate
 *
 *
 e100a
@@ -3146,11 +3146,11 @@ se100.wav
 *
 *
 *
-遠方に居る敵からの攻撃が当たり難くなる。
-光を操り、敵の視覚を惑わせる。
+Evade ranged attacks.
+Dazzle the enemy's sight.
 //entry 126 -----------------------
-分身
-幻惑+2
+Duplicate
+Glamour+2
 *
 召喚魔法
 召喚
@@ -3162,7 +3162,7 @@ se100.wav
 使用回数
 所空
 *
-幻惑
+Glamour
 *
 *
 e101a
@@ -3170,12 +3170,12 @@ se101.wav
 *
 *
 *
-分身セリス
-術者のダミーを出現させ、敵を惑わせる。
-数は力だ。
+Duplicateセリス
+Create a clone.
+Strength in numbers.
 //entry 127 -----------------------
-拘束
-魔力増加+1|魔法知識+15
+Bind
+Mana Capacity+1|Magic Theory+15
 *
 補佐魔法敵
 補佐
@@ -3187,8 +3187,8 @@ se101.wav
 使用回数
 身敵
 *
-光の槍
-貫く勝利の光槍
+Light Spear
+Glorious Spear
 *
 e102a
 se102.wav
@@ -3196,11 +3196,11 @@ se102.wav
 *
 *
 *
-相手の動きを封じる。|しかし、相手の攻撃を封じるワケではない。
-止まれ！
+Seal an enemy's movement.
+Stop right there!
 //entry 128 -----------------------
-聖光
-魔力増加+1|魔法知識+20
+Holy Light
+Mana Capacity+1|Magic Theory+20
 *
 補佐魔法味
 補佐
@@ -3212,8 +3212,8 @@ se102.wav
 使用回数
 身味
 *
-光の槍
-貫く勝利の光槍
+Light Spear
+Glorious Spear
 *
 e103a
 se103.wav
@@ -3221,11 +3221,11 @@ se103.wav
 *
 *
 *
-敵にかけられた持続系の魔法をキャンセルする。
-自分のも消えちゃうぞ。
+Dispel enemy magic.
+You better disappear too.
 //entry 129 -----------------------
-光の盾
-光の槍+5
+Light Shield
+Light Spear+5
 *
 自動
 無
@@ -3246,11 +3246,11 @@ se104.wav
 *
 *
 *
-一定確率で、自動的にあらゆる魔法からのダメージを回避する。
-魔法は嫌いだ。
+Chance to avoid all magic.
+I hate magic!
 //entry 130 -----------------------
-探索
-魔力増加+1
+Search
+Mana Capacity+1
 *
 基本
 無
@@ -3271,11 +3271,11 @@ se104.wav
 *
 *
 *
-探索時、宝物を発見しやすくなる。また、警備員や海でのアルバイト時に有利に。
-探し物に便利。
+Find treasures easier, and improve results of certain jobs.
+Convenient when you're looking for something.
 //entry 131 -----------------------
-謎解き
-魔力増加+1
+Lockpicker
+Mana Capacity+1
 *
 基本
 無
@@ -3296,11 +3296,11 @@ se104.wav
 *
 *
 *
-探索時、発見した宝物を開けやすくなる。また、冒険者でのアルバイト時に有利になる。
-開く能力は大事。
+Find treasures easier, and improve results of certain jobs.
+Gotta be able to open what you find.
 //entry 132 -----------------------
-魔物の知識
-探索+3
+Monsterology
+Search+3
 *
 条件
 無
@@ -3321,11 +3321,11 @@ se104.wav
 *
 *
 *
-探索時、魔物から必殺攻撃を喰らい難くなる。
-大会では役に立たないので注意。
+Avoid critical hits from monsters.
+Useless in tournaments.
 //entry 133 -----------------------
-罠知識
-探索+5
+Trapology
+Search+5
 *
 基本
 無
@@ -3346,11 +3346,11 @@ se104.wav
 *
 *
 *
-探索時、罠に掛かり難くなる。
-悪意を知れば、回避も出来る。
+Avoid traps on adventures.
+Know traps to avoid traps.
 //entry 134 -----------------------
-毒知識
-探索+5
+Toxicology
+Search+5
 *
 基本
 無
@@ -3371,11 +3371,11 @@ se104.wav
 *
 *
 *
-毒に対する知識を得る。|だが、敵が毒を使ってくるわけじゃないので、役に立つかどうかは微妙。
-これは、無駄スキルだ！|でも、塔で毒の罠があれば……
+Reduce the effect of poison.
+But... almost no monsters are venomous.
 //entry 135 -----------------------
-大会の知識
-探索+3
+Gamesmanship
+Search+3
 *
 条件
 無
@@ -3396,11 +3396,11 @@ se104.wav
 *
 *
 *
-大会時、相手から必殺攻撃を喰らい難くなる。また、大会スタッフのアルバイト時に有利に。
-大会の時だけなので、注意。
+Avoid critical hits during tournaments and improve results of certain jobs.
+Doesn't help against monsters.
 //entry 136 -----------------------
-戦術
-魔力増加+1
+Tactics
+Mana Capacity+1
 *
 基本
 無
@@ -3421,10 +3421,10 @@ se104.wav
 *
 *
 *
-戦闘時、動きが良くなる。
-賢くなれ！
+Increase movement in combat.
+Fight smart!
 //entry 137 -----------------------
-料理
+Cooking
 *
 *
 基本
@@ -3446,10 +3446,10 @@ se104.wav
 *
 *
 *
-料理に関する技術と知識。|料理人アルバイト時に有利に。
-料理の腕が良いと、色々と便利。
+Improve results of certain jobs.
+Cooking is useful for a lot of things.
 //entry 138 -----------------------
-掃除
+Cleaning
 *
 *
 基本
@@ -3471,10 +3471,10 @@ se104.wav
 *
 *
 *
-掃除に関する技術と知識。|家事手伝い時に有利に。
-身の回りの整理は、勉強の励みになる筈。
+Improve results of certain jobs.
+Keeping things neat and tidy is important.
 //entry 139 -----------------------
-洗濯
+Laundry
 *
 *
 基本
@@ -3496,11 +3496,11 @@ se104.wav
 *
 *
 *
-洗濯に関する技術と知識。|家事手伝い時に有利に。
-衣服を整える事で、運動の励みになる筈。
+Improve results of certain jobs.
+Dress properly, and do a good job.
 //entry 140 -----------------------
-買物
-魔力増加+1
+Shopping
+Mana Capacity+1
 *
 基本
 無
@@ -3521,11 +3521,11 @@ se104.wav
 *
 *
 *
-買物時、割引が利くようになる。
-お金はなにかと大事です。
+Receive discounts when shopping.
+Money makes the world go round.
 //entry 141 -----------------------
-音楽
-魔力増加+1
+Music
+Mana Capacity+1
 *
 基本
 無
@@ -3546,11 +3546,11 @@ se104.wav
 *
 *
 *
-音楽に関しての技術と知識。|アルバイト系の成功率が少しＵＰ。
-音楽は人生の共。
+Improve the results of most jobs.
+Music is life.
 //entry 142 -----------------------
-Ｈ知識
-魔力増加+1
+Sexuality
+Mana Capacity+1
 *
 基本
 無
@@ -3571,8 +3571,8 @@ se104.wav
 *
 *
 *
-Ｈな事に関する技術と知識。
-行為が深くなれば、貰える魔力量が増えるのです。
+Increase the effects of sex.
+The better the sex, the more mana.
 //entry 143 -----------------------
 炎の精霊の力
 *
@@ -4513,7 +4513,7 @@ se005.wav
 身敵
 *
 ダンシングスラッシュ
-剣
+Blades
 *
 e018a
 se018.wav
@@ -4538,7 +4538,7 @@ se018.wav
 身敵
 *
 ベトアタック
-吸魔
+Drain Essence
 *
 e021a
 se020.wav
@@ -4638,7 +4638,7 @@ se050.wav
 身敵
 *
 暗黒斬
-剣
+Blades
 *
 e016a
 se016.wav
@@ -4826,7 +4826,7 @@ se027.wav
 //entry 193 -----------------------
 スイングスイング
 *
-ハンマー
+Hammers
 物理攻撃
 武器
 *
@@ -4847,11 +4847,11 @@ se031.wav
 *
 *
 *
-ハンマースイングの基本攻撃。
+Hammerスイングの基本攻撃。
 //entry 194 -----------------------
 ハイパースイング
 *
-ハンマー
+Hammers
 物理攻撃
 武器
 *
@@ -4872,11 +4872,11 @@ se031.wav
 *
 *
 *
-ハンマースイングの応用攻撃。
+Hammerスイングの応用攻撃。
 //entry 195 -----------------------
 ゴッドスイング
 *
-ハンマー
+Hammers
 物理攻撃
 武器
 *
@@ -4897,11 +4897,11 @@ se031.wav
 *
 *
 *
-ハンマースイングの必殺攻撃。
+Hammerスイングの必殺攻撃。
 //entry 196 -----------------------
-漆黒斬
+Pitch Black斬
 *
-剣
+Blades
 物理攻撃
 武器
 *
@@ -4912,9 +4912,9 @@ se031.wav
 *
 身敵
 *
-漆黒斬
-剣
-斬剣
+Pitch Black斬
+Blades
+Slash
 e023a
 se023.wav
 *
@@ -4922,7 +4922,7 @@ se023.wav
 *
 *
 *
-漆黒騎士の基本攻撃。
+Pitch Black騎士の基本攻撃。
 //entry 197 -----------------------
 黒
 *
@@ -4947,7 +4947,7 @@ se086.wav
 *
 *
 *
-暗黒球の基本攻撃。
+Dark Sphereの基本攻撃。
 //entry 198 -----------------------
 黒真
 *
@@ -4972,7 +4972,7 @@ se088.wav
 *
 *
 *
-大暗黒球の基本攻撃。
+大Dark Sphereの基本攻撃。
 //entry 199 -----------------------
 炎の舞
 *
@@ -5924,7 +5924,7 @@ e153a
 *
 ゴツンの基本攻撃。
 //entry 237 -----------------------
-炎の蛇アタック
+Flame Snakeアタック
 *
 *
 魔法攻撃
@@ -5937,7 +5937,7 @@ e153a
 *
 身敵
 *
-炎の蛇アタック
+Flame Snakeアタック
 *
 *
 e049a
@@ -5947,9 +5947,9 @@ se049.wav
 *
 *
 *
-炎の蛇の魔法の効果。
+Flame Snakeの魔法の効果。
 //entry 238 -----------------------
-炎の壁の熱
+Fire Wallの熱
 *
 *
 魔法攻撃
@@ -5962,7 +5962,7 @@ se049.wav
 *
 身敵
 *
-炎の壁の熱
+Fire Wallの熱
 *
 *
 e050a
@@ -5972,9 +5972,9 @@ se050.wav
 *
 *
 *
-炎の壁の魔法の効果。
+Fire Wallの魔法の効果。
 //entry 239 -----------------------
-氷の壁アタック
+Ice Wallアタック
 *
 *
 魔法攻撃
@@ -5987,7 +5987,7 @@ se050.wav
 *
 身敵
 *
-氷の壁アタック
+Ice Wallアタック
 *
 *
 e057a
@@ -5997,7 +5997,7 @@ se057.wav
 *
 *
 *
-氷の壁の魔法の効果。
+Ice Wallの魔法の効果。
 //entry 240 -----------------------
 痛い風
 *
@@ -6022,7 +6022,7 @@ se065.wav
 *
 *
 *
-追跡する風の魔法の効果。
+Air Chaserの魔法の効果。
 //entry 241 -----------------------
 崩れる土の壁
 *
@@ -6047,9 +6047,9 @@ se070.wav
 *
 *
 *
-遮る土の壁の魔法の効果。
+Earth Wallの魔法の効果。
 //entry 242 -----------------------
-雷球陣
+Static Ball陣
 *
 *
 魔法攻撃
@@ -6062,7 +6062,7 @@ se070.wav
 *
 身敵
 *
-雷球陣
+Static Ball陣
 *
 *
 e082a
@@ -6072,7 +6072,7 @@ se082.wav
 *
 *
 *
-雷球の魔法の効果。
+Static Ballの魔法の効果。
 //entry 243 -----------------------
 吸い込む黒
 *
@@ -6097,9 +6097,9 @@ se086.wav
 *
 *
 *
-暗黒球の魔法の効果。
+Dark Sphereの魔法の効果。
 //entry 244 -----------------------
-分身パンチ
+Duplicateパンチ
 *
 *
 物理攻撃
@@ -6112,7 +6112,7 @@ se086.wav
 *
 身敵
 *
-分身パンチ
+Duplicateパンチ
 *
 *
 e004a
@@ -6122,4 +6122,4 @@ se005.wav
 *
 *
 *
-分身したセリスの攻撃。
+Duplicateしたセリスの攻撃。

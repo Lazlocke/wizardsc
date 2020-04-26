@@ -175,7 +175,7 @@ mood.
 "Thank you for your troubles."
 #
 <removesprite -1 11>
-\x2B\xB3 "詠唱の杖" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :D61: \xB2 "詠唱の杖" \x00\x3C "「詠唱の杖」を手に入れた。" 
+\x2B\xB3 "Chanting Staff" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :D61: \xB2 "Chanting Staff" \x00\x3C "「Chanting Staff」を手に入れた。" 
 :D61
 <exit>
 :D62
