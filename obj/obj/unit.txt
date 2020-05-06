@@ -10,7 +10,7 @@
 *
 *
 *
-ジャブ+1
+Jab+1
 *
 *
 *
@@ -64,13 +64,13 @@ u760
 必殺防御の首飾り
 *
 *
-ジャブ+4|打ち棒+8|突き棒+8|斬り棒+8|払い棒+5|棒+8|魔力回復+10|体力回復+5
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|Mana Recovery+10|Recovery+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -91,13 +91,13 @@ u760
 必殺防御の首飾り
 *
 *
-ジャブ+4|打ち棒+8|突き棒+8|斬り棒+8|払い棒+5|棒+8|魔力回復+10|体力回復+5
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|Mana Recovery+10|Recovery+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -118,13 +118,13 @@ u760
 必殺防御の首飾り
 *
 *
-ジャブ+4|打ち棒+8|突き棒+8|斬り棒+8|払い棒+5|棒+8|真魔法使い|魔力回復+10|体力回復+5
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|真魔法使い|Mana Recovery+10|Recovery+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -145,10 +145,10 @@ u770
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+4|投ナイフ+4|魔力回復+5|体力回復+5
-炎の矢+8|炸裂する炎+6|爆裂する炎+3|炎の陣+3
-襲う土の槍+6|肉体強化+5|治癒の魔法+5
-闇の槍+5|漆黒+3|絶望に震える闇+2
+Jab+4|Throwing Knife+4|Mana Recovery+5|Recovery+5
+Flame Dart+8|Fire Ball+6|Fire Burst+3|Fire Ring+3
+Stalagmite+6|Body Enhance+5|Healing Magic+5
+Dark Spear+5|Pitch Black+3|Dark Despair+2
 *
 *
 *
@@ -172,10 +172,10 @@ u770
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+4|投ナイフ+4|飛ナイフ|魔力回復+5|体力回復+5
-炎の矢+10|炸裂する炎+8|爆裂する炎+5|炎の陣+5
-襲う土の槍+10|肉体強化+10|治癒の魔法+10|再生の魔法+5
-闇の槍+10|漆黒+7|絶望に震える闇+5|世界を飲み込む闇+3
+Jab+4|Throwing Knife+4|Twist Knife|Mana Recovery+5|Recovery+5
+Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
+Stalagmite+10|Body Enhance+10|Healing Magic+10|Regeneration+5
+Dark Spear+10|Pitch Black+7|Dark Despair+5|Dark Void+3
 *
 *
 *
@@ -199,10 +199,10 @@ u770
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+4|投ナイフ+4|魔力回復+5|体力回復+5
-炎の矢+10|炸裂する炎+8|爆裂する炎+5|炎の陣+5
-襲う土の槍+10|肉体強化+10|治癒の魔法+10|再生の魔法+5
-闇の槍+10|漆黒+7|絶望に震える闇+5|世界を飲み込む闇+3
+Jab+4|Throwing Knife+4|Mana Recovery+5|Recovery+5
+Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
+Stalagmite+10|Body Enhance+10|Healing Magic+10|Regeneration+5
+Dark Spear+10|Pitch Black+7|Dark Despair+5|Dark Void+3
 *
 *
 *
@@ -226,13 +226,13 @@ u780
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+8|棒+7|打ち棒+3|突き棒+3|斬り棒+3|魔力回復+10|体力回復+5
-炎の矢+10|炸裂する炎+10|爆裂する炎+10|炎の陣+10
-水弾+10|流れる水+10|凍てつく氷+10|激動の大河+10
-切り裂く風+10|弾ける風+10|荒れ狂う風+10|背中を押す風+10
-襲う土の槍+10|震える大地+10|暴れる大地+10|肉体強化+10|治癒の魔法+10
-雷撃+10|雷球+10|雷電+10|雷王+10|雷帝+10|雷龍+10
-闇の槍+10|漆黒+10|絶望に震える闇+10|闇の盾+10|光の槍+10|貫く勝利の光槍+10|満たす光+10|光の盾+10
+Jab+8|Staves+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
+Flame Dart+10|Fire Ball+10|Fire Burst+10|Fire Ring+10
+Aqua Shot+10|Aqua Stream+10|Frozen Ice+10|Aqua Flood+10
+Air Cutter+10|Air Shot+10|Raging Wind+10|Tailwind+10
+Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Healing Magic+10
+Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+10|Zeus's Rage+10|Lightning Dragon+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
 *
 *
 自由
@@ -253,13 +253,13 @@ u780
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+8|棒+7|打ち棒+3|突き棒+3|斬り棒+3|魔力回復+10|体力回復+5
-炎の矢+10|炸裂する炎+10|爆裂する炎+10|炎の陣+10
-水弾+10|流れる水+10|凍てつく氷+10|激動の大河+10
-切り裂く風+10|弾ける風+10|荒れ狂う風+10|背中を押す風+10
-襲う土の槍+10|震える大地+10|暴れる大地+10|肉体強化+10|治癒の魔法+10
-雷撃+10|雷球+10|雷電+10|雷王+10|雷帝+10|雷龍+10
-闇の槍+10|漆黒+10|絶望に震える闇+10|闇の盾+10|光の槍+10|貫く勝利の光槍+10|満たす光+10|光の盾+10
+Jab+8|Staves+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
+Flame Dart+10|Fire Ball+10|Fire Burst+10|Fire Ring+10
+Aqua Shot+10|Aqua Stream+10|Frozen Ice+10|Aqua Flood+10
+Air Cutter+10|Air Shot+10|Raging Wind+10|Tailwind+10
+Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Healing Magic+10
+Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+10|Zeus's Rage+10|Lightning Dragon+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
 *
 *
 自由
@@ -280,13 +280,13 @@ u780
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+8|棒+7|打ち棒+3|突き棒+3|斬り棒+3|魔力回復+10|体力回復+5
-炎の矢+10|炸裂する炎+10|爆裂する炎+10|炎の陣+10
-水弾+10|流れる水+10|凍てつく氷+10|激動の大河+10
-切り裂く風+10|弾ける風+10|荒れ狂う風+10|背中を押す風+10
-襲う土の槍+10|震える大地+10|暴れる大地+10|肉体強化+10|治癒の魔法+10
-雷撃+10|雷球+10|雷電+10|雷王+10|雷帝+10|雷龍+10
-闇の槍+10|漆黒+10|絶望に震える闇+10|闇の盾+10|光の槍+10|貫く勝利の光槍+10|満たす光+10|光の盾+10
+Jab+8|Staves+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
+Flame Dart+10|Fire Ball+10|Fire Burst+10|Fire Ring+10
+Aqua Shot+10|Aqua Stream+10|Frozen Ice+10|Aqua Flood+10
+Air Cutter+10|Air Shot+10|Raging Wind+10|Tailwind+10
+Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Healing Magic+10
+Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+10|Zeus's Rage+10|Lightning Dragon+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
 *
 *
 自由
@@ -307,13 +307,13 @@ u790
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+10|ストレート+10|ソニックブロー+8|フラッシュブロー+6|タイムブロー+4|ゴッドブロー+2|ローキック+10|ハイキック+7|飛び膝蹴り+5|テツザンコウ+5|指弾+10|連撃指弾+5|憤激指弾+3
-雷歩+10
-雷撃+10|雷球+10|雷電+10|雷王+8|雷帝+6|雷龍+4
-反射防御+5|必殺防御+5
+Jab+10|Straight Punch+10|Sonic Blow+8|Flash Blow+6|Chrono Blow+4|God Blow+2|Low Kick+10|High Kick+7|Flying Knee+5|Tetsuzankou+5|Snap Shot+10|Snap Barrage+5|Snap Cannon+3
+Flash Step+10
+Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+8|Zeus's Rage+6|Lightning Dragon+4
+Reflexes+5|Guts+5
 *
-魔力回復+3
-体力回復+10
+Mana Recovery+3
+Recovery+10
 *
 *
 積極的
@@ -334,13 +334,13 @@ u790
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+10|ストレート+10|ソニックブロー+8|フラッシュブロー+6|タイムブロー+4|ゴッドブロー+2|ローキック+10|ハイキック+7|飛び膝蹴り+5|テツザンコウ+5|指弾+10|連撃指弾+5|憤激指弾+3
-雷歩+10
-雷撃+10|雷球+10|雷電+10|雷王+8|雷帝+6|雷龍+4
-反射防御+5|必殺防御+5
+Jab+10|Straight Punch+10|Sonic Blow+8|Flash Blow+6|Chrono Blow+4|God Blow+2|Low Kick+10|High Kick+7|Flying Knee+5|Tetsuzankou+5|Snap Shot+10|Snap Barrage+5|Snap Cannon+3
+Flash Step+10
+Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+8|Zeus's Rage+6|Lightning Dragon+4
+Reflexes+5|Guts+5
 *
-魔力回復+3
-体力回復+10
+Mana Recovery+3
+Recovery+10
 *
 *
 積極的
@@ -361,13 +361,13 @@ u790
 必殺防御の首飾り
 魔法の首飾り
 *
-ジャブ+10|ストレート+10|ソニックブロー+8|フラッシュブロー+6|タイムブロー+4|ゴッドブロー+2|ローキック+10|ハイキック+7|飛び膝蹴り+5|テツザンコウ+5|指弾+10|連撃指弾+5|憤激指弾+3
-雷歩+10
-雷撃+10|雷球+10|雷電+10|雷王+8|雷帝+6|雷龍+4
-反射防御+5|必殺防御+5
+Jab+10|Straight Punch+10|Sonic Blow+8|Flash Blow+6|Chrono Blow+4|God Blow+2|Low Kick+10|High Kick+7|Flying Knee+5|Tetsuzankou+5|Snap Shot+10|Snap Barrage+5|Snap Cannon+3
+Flash Step+10
+Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+8|Zeus's Rage+6|Lightning Dragon+4
+Reflexes+5|Guts+5
 *
-魔力回復+3
-体力回復+10
+Mana Recovery+3
+Recovery+10
 *
 *
 積極的
@@ -388,13 +388,13 @@ u750
 *
 *
 *
-弓+10|激動弓+8|断罪弓+5
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
+Archery+10|Arrow Storm+8|Headhunter+5
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
 *
 *
 *
-魔力回復+3
-体力回復+3
+Mana Recovery+3
+Recovery+3
 *
 *
 自由
@@ -415,13 +415,13 @@ u740
 *
 *
 *
-弓+10|激動弓+8|断罪弓+5
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
+Archery+10|Arrow Storm+8|Headhunter+5
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
 *
 *
 *
-魔力回復+3
-体力回復+3
+Mana Recovery+3
+Recovery+3
 *
 *
 自由
@@ -442,13 +442,13 @@ u700
 *
 *
 *
-棒+5|打ち棒+3|突き棒+3|斬り棒+3
-光の槍+10|貫く勝利の光槍+5|満たす光+3
+Staves+5|Strike+3|Thrust+3|Slicing Staff+3
+Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 *
-魔力回復+3
-体力回復+3
+Mana Recovery+3
+Recovery+3
 *
 *
 自由
@@ -469,13 +469,13 @@ u710
 *
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-水弾+8|流れる水+6|凍てつく氷+4|激動の大河+2
-闇の槍+7|漆黒+5|絶望に震える闇+2
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Aqua Shot+8|Aqua Stream+6|Frozen Ice+4|Aqua Flood+2
+Dark Spear+7|Pitch Black+5|Dark Despair+2
 *
 *
-魔力回復+3
-体力回復+3
+Mana Recovery+3
+Recovery+3
 *
 *
 自由
@@ -496,13 +496,13 @@ u720
 *
 *
 *
-ジャブ+8|ストレート+6|ソニックブロー+5|ローキック+5|ハイキック+3|飛び膝蹴り+3|テツザンコウ+2
-襲う土の槍+5|肉体強化+5|治癒の魔法+5
-反射防御+5|必殺防御+5
+Jab+8|Straight Punch+6|Sonic Blow+5|Low Kick+5|High Kick+3|Flying Knee+3|Tetsuzankou+2
+Stalagmite+5|Body Enhance+5|Healing Magic+5
+Reflexes+5|Guts+5
 *
 *
-魔力回復+3
-体力回復+3
+Mana Recovery+3
+Recovery+3
 *
 *
 自由
@@ -523,13 +523,13 @@ u730
 *
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 *
 *
-魔力回復+3
-体力回復+3
+Mana Recovery+3
+Recovery+3
 *
 *
 自由
@@ -550,13 +550,13 @@ u810
 天使の帽子
 *
 *
-ジャブ+8|ストレート+6|ソニックブロー+4|フラッシュブロー+2|ローキック+10|ハイキック+7|飛び膝蹴り+5|魔力回復+10
-炎の矢+10|炸裂する炎+8|爆裂する炎+5|炎の陣+5
-水弾+10|流れる水+8|凍てつく氷+5|激動の大河+5
-切り裂く風+4|弾ける風+4|荒れ狂う風+4
-襲う土の槍+4|震える大地+3|暴れる大地+3|治癒の魔法+10
-雷撃+4|雷球+4|雷電+4|雷王+4|雷帝+4|雷龍+4
-闇の槍+10|漆黒+10|絶望に震える闇+10|闇の盾+10|光の槍+10|貫く勝利の光槍+10|満たす光+10|光の盾+10
+Jab+8|Straight Punch+6|Sonic Blow+4|Flash Blow+2|Low Kick+10|High Kick+7|Flying Knee+5|Mana Recovery+10
+Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
+Aqua Shot+10|Aqua Stream+8|Frozen Ice+5|Aqua Flood+5
+Air Cutter+4|Air Shot+4|Raging Wind+4
+Stalagmite+4|Rock Shaker+3|Rock Rage+3|Healing Magic+10
+Shock+4|Static Ball+4|Lightning+4|Thor's Hammer+4|Zeus's Rage+4|Lightning Dragon+4
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
 *
 *
 自由
@@ -577,13 +577,13 @@ u815
 天使の帽子
 *
 *
-ジャブ+10|ストレート+10|ソニックブロー+8|フラッシュブロー+6|タイムブロー+4|ゴッドブロー+2|ローキック+10|ハイキック+7|飛び膝蹴り+5|テツザンコウ+5|魔力回復+10
-炎の矢+10|炸裂する炎+8|爆裂する炎+5|炎の陣+5
-水弾+10|流れる水+8|凍てつく氷+5|激動の大河+5
-切り裂く風+4|弾ける風+4|荒れ狂う風+4
-襲う土の槍+4|震える大地+3|暴れる大地+3|治癒の魔法+10
-雷撃+4|雷球+4|雷電+4|雷王+4|雷帝+4|雷龍+4
-闇の槍+10|漆黒+10|絶望に震える闇+10|闇の盾+10|光の槍+10|貫く勝利の光槍+10|満たす光+10|光の盾+10
+Jab+10|Straight Punch+10|Sonic Blow+8|Flash Blow+6|Chrono Blow+4|God Blow+2|Low Kick+10|High Kick+7|Flying Knee+5|Tetsuzankou+5|Mana Recovery+10
+Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
+Aqua Shot+10|Aqua Stream+8|Frozen Ice+5|Aqua Flood+5
+Air Cutter+4|Air Shot+4|Raging Wind+4
+Stalagmite+4|Rock Shaker+3|Rock Rage+3|Healing Magic+10
+Shock+4|Static Ball+4|Lightning+4|Thor's Hammer+4|Zeus's Rage+4|Lightning Dragon+4
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
 *
 *
 自由
@@ -604,13 +604,13 @@ u450
 *
 *
 *
-ジャブ+10|ストレート+10|ソニックブロー+10|フラッシュブロー+8|タイムブロー+6|ゴッドブロー+5|ローキック+10|ハイキック+7|飛び膝蹴り+7|テツザンコウ+7|魔力回復+10
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Jab+10|Straight Punch+10|Sonic Blow+10|Flash Blow+8|Chrono Blow+6|God Blow+5|Low Kick+10|High Kick+7|Flying Knee+7|Tetsuzankou+7|Mana Recovery+10
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -631,9 +631,9 @@ u000
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
-水弾+5|流れる水+3
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Flame Dart+5|Fire Ball+4|Fire Burst+3
+Aqua Shot+5|Aqua Stream+3
 *
 *
 *
@@ -658,15 +658,15 @@ u001
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-水弾+7|流れる水+3
-炎の矢+3|炸裂する炎+2
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Aqua Shot+7|Aqua Stream+3
+Flame Dart+3|Fire Ball+2
 *
 *
 *
 *
 *
-凍てつく氷+2
+Frozen Ice+2
 自由
 自由
 積極的
@@ -685,15 +685,15 @@ u002
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-炎の矢+3|炸裂する炎+2
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Flame Dart+3|Fire Ball+2
 *
 *
 *
 *
 *
-貫く勝利の光槍+3
+Glorious Spear+3
 自由
 自由
 積極的
@@ -712,10 +712,10 @@ u003
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-襲う土の槍+5|震える大地+3|肉体強化+6
-炎の矢+3|炸裂する炎+2
-切り裂く風+5|弾ける風+3
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Stalagmite+5|Rock Shaker+3|Body Enhance+6
+Flame Dart+3|Fire Ball+2
+Air Cutter+5|Air Shot+3
 *
 *
 *
@@ -739,9 +739,9 @@ u004
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-雷撃+6|雷球+5|雷電+4
-炎の矢+3|炸裂する炎+2
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Shock+6|Static Ball+5|Lightning+4
+Flame Dart+3|Fire Ball+2
 *
 *
 *
@@ -766,9 +766,9 @@ u005
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-闇の槍+7|漆黒+5
-炎の矢+3|炸裂する炎+2
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Dark Spear+7|Pitch Black+5
+Flame Dart+3|Fire Ball+2
 *
 *
 *
@@ -793,15 +793,15 @@ u006
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-光の槍+7
-炎の矢+3|炸裂する炎+2
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Light Spear+7
+Flame Dart+3|Fire Ball+2
 *
 *
 *
 *
 *
-貫く勝利の光槍+3
+Glorious Spear+3
 自由
 自由
 積極的
@@ -820,11 +820,11 @@ u007
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
-水弾+5|流れる水+3|凍てつく氷+2
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-襲う土の槍+5|肉体強化+6
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Flame Dart+5|Fire Ball+4|Fire Burst+3
+Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Stalagmite+5|Body Enhance+6
 *
 *
 *
@@ -847,15 +847,15 @@ u007
 魔法の首飾り
 *
 *
-棒+10|打ち棒+8|突き棒+8|斬り棒+8|払い棒+5
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
-水弾+5|流れる水+3|凍てつく氷+2
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-襲う土の槍+5|肉体強化+6
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
+Staves+10|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5
+Flame Dart+5|Fire Ball+4|Fire Burst+3
+Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Stalagmite+5|Body Enhance+6
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 *
 *
-炎の陣
+Fire Ring
 自由
 自由
 積極的
@@ -874,15 +874,15 @@ u000
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
-水弾+5|流れる水+3
-雷撃+5
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Flame Dart+5|Fire Ball+4|Fire Burst+3
+Aqua Shot+5|Aqua Stream+3
+Shock+5
+Dark Spear+7|Pitch Black+5
 *
 *
 *
-炎の陣
+Fire Ring
 自由
 自由
 積極的
@@ -901,11 +901,11 @@ u001
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-水弾+7|流れる水+3|凍てつく氷+2
-炎の矢+3|炸裂する炎+2
-雷撃+5
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Aqua Shot+7|Aqua Stream+3|Frozen Ice+2
+Flame Dart+3|Fire Ball+2
+Shock+5
+Dark Spear+7|Pitch Black+5
 *
 *
 *
@@ -928,11 +928,11 @@ u002
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-炎の矢+3|炸裂する炎+2
-雷撃+5
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Flame Dart+3|Fire Ball+2
+Shock+5
+Dark Spear+7|Pitch Black+5
 *
 *
 *
@@ -955,11 +955,11 @@ u003
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-襲う土の槍+5|震える大地+3|肉体強化+6
-炎の矢+3|炸裂する炎+2
-切り裂く風+5|弾ける風+3
-雷撃+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Stalagmite+5|Rock Shaker+3|Body Enhance+6
+Flame Dart+3|Fire Ball+2
+Air Cutter+5|Air Shot+3
+Shock+5
 *
 *
 *
@@ -982,11 +982,11 @@ u004
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-雷撃+6|雷球+5|雷電+4
-炎の矢+3|炸裂する炎+2
-水弾+5|流れる水+3
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Shock+6|Static Ball+5|Lightning+4
+Flame Dart+3|Fire Ball+2
+Aqua Shot+5|Aqua Stream+3
+Dark Spear+7|Pitch Black+5
 *
 *
 *
@@ -1009,10 +1009,10 @@ u005
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-闇の槍+7|漆黒+5
-炎の矢+3|炸裂する炎+2
-雷撃+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Dark Spear+7|Pitch Black+5
+Flame Dart+3|Fire Ball+2
+Shock+5
 *
 *
 *
@@ -1036,12 +1036,12 @@ u006
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-光の槍+7|貫く勝利の光槍+3
-炎の矢+3|炸裂する炎+2
-雷撃+5
-水弾+5|流れる水+3
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Light Spear+7|Glorious Spear+3
+Flame Dart+3|Fire Ball+2
+Shock+5
+Aqua Shot+5|Aqua Stream+3
+Dark Spear+7|Pitch Black+5
 *
 *
 *
@@ -1063,12 +1063,12 @@ u007
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-炎の矢+6|炸裂する炎+4|爆裂する炎+3
-水弾+10|流れる水+3|凍てつく氷+2
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-襲う土の槍+5|治癒の魔法+3
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Flame Dart+6|Fire Ball+4|Fire Burst+3
+Aqua Shot+10|Aqua Stream+3|Frozen Ice+2
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Stalagmite+5|Healing Magic+3
+Dark Spear+7|Pitch Black+5
 *
 *
 炎の蛇
@@ -1090,12 +1090,12 @@ u007
 魔法の首飾り
 *
 *
-棒+10|打ち棒+8|突き棒+8|斬り棒+8|払い棒+5
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
-水弾+7|流れる水+3|凍てつく氷+2
-切り裂く風+7|弾ける風+4|荒れ狂う風+3
-襲う土の槍+5|治癒の魔法+3
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
+Staves+10|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5
+Flame Dart+5|Fire Ball+4|Fire Burst+3
+Aqua Shot+7|Aqua Stream+3|Frozen Ice+2
+Air Cutter+7|Air Shot+4|Raging Wind+3
+Stalagmite+5|Healing Magic+3
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 *
 *
 炎の蛇
@@ -1117,15 +1117,15 @@ u007
 魔法の首飾り
 *
 *
-棒+7|打ち棒+5|突き棒+5|斬り棒+5
-炎の矢+7|炸裂する炎+4
-水弾+5|流れる水+3|凍てつく氷+2
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-襲う土の槍+5|治癒の魔法+3
-闇の槍+7|漆黒+5
+Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Flame Dart+7|Fire Ball+4
+Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Stalagmite+5|Healing Magic+3
+Dark Spear+7|Pitch Black+5
 *
 *
-爆裂する炎+3
+Fire Burst+3
 自由
 自由
 積極的
@@ -1144,15 +1144,15 @@ u007
 魔法の首飾り
 *
 *
-棒+10|打ち棒+8|突き棒+8|斬り棒+8|払い棒+5
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
-水弾+10|流れる水+3
-切り裂く風+5|弾ける風+4|荒れ狂う風+3
-襲う土の槍+5|治癒の魔法+3
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
+Staves+10|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5
+Flame Dart+5|Fire Ball+4|Fire Burst+3
+Aqua Shot+10|Aqua Stream+3
+Air Cutter+5|Air Shot+4|Raging Wind+3
+Stalagmite+5|Healing Magic+3
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 *
 *
-凍てつく氷+2
+Frozen Ice+2
 自由
 自由
 積極的
@@ -1171,9 +1171,9 @@ u010
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+5|貫く勝利の光槍+1
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+5|Glorious Spear+1
 *
 *
 *
@@ -1198,9 +1198,9 @@ u011
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+7|貫く勝利の光槍+3
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+7|Glorious Spear+3
 *
 *
 *
@@ -1225,9 +1225,9 @@ u012
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+10|貫く勝利の光槍+4
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+10|Glorious Spear+4
 *
 *
 *
@@ -1252,9 +1252,9 @@ u013
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+10|貫く勝利の光槍+5
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+10|Glorious Spear+5
 *
 *
 *
@@ -1279,9 +1279,9 @@ u010
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+5|貫く勝利の光槍+1
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+5|Glorious Spear+1
 *
 *
 *
@@ -1306,9 +1306,9 @@ u011
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+7|貫く勝利の光槍+3
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+7|Glorious Spear+3
 *
 *
 *
@@ -1333,9 +1333,9 @@ u012
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+10|貫く勝利の光槍+4
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+10|Glorious Spear+4
 *
 *
 *
@@ -1360,9 +1360,9 @@ u013
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+10|貫く勝利の光槍+5
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+10|Glorious Spear+5
 *
 *
 *
@@ -1387,10 +1387,10 @@ u012
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+10|貫く勝利の光槍+4
-炎の矢+5|炸裂する炎+4|爆裂する炎+3
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+10|Glorious Spear+4
+Flame Dart+5|Fire Ball+4|Fire Burst+3
 *
 *
 *
@@ -1414,10 +1414,10 @@ u013
 魔法の首飾り
 *
 *
-剣+5|弓+5|棒+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+10|貫く勝利の光槍+5
-水弾+5|流れる水+3|凍てつく氷+2
+Blades+5|Archery+5|Staves+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+10|Glorious Spear+5
+Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
 *
 *
 *
@@ -1441,7 +1441,7 @@ u020
 マフラー
 *
 *
-投ナイフ+5|飛ナイフ+5
+Throwing Knife+5|Twist Knife+5
 *
 *
 *
@@ -1468,7 +1468,7 @@ u021
 マフラー
 *
 *
-投ナイフ+5|飛ナイフ+5
+Throwing Knife+5|Twist Knife+5
 *
 *
 *
@@ -1495,7 +1495,7 @@ u022
 マフラー
 *
 *
-ムチ+5|大蛇ムチ+3
+Whips+5|Serpent Whip+3
 *
 *
 *
@@ -1522,7 +1522,7 @@ u023
 マフラー
 *
 *
-ムチ+5|大蛇ムチ+3
+Whips+5|Serpent Whip+3
 *
 *
 *
@@ -1549,7 +1549,7 @@ u020
 マフラー
 *
 *
-投ナイフ+5|飛ナイフ+5
+Throwing Knife+5|Twist Knife+5
 *
 *
 *
@@ -1576,7 +1576,7 @@ u021
 マフラー
 *
 *
-投ナイフ+5|飛ナイフ+5
+Throwing Knife+5|Twist Knife+5
 *
 *
 *
@@ -1603,7 +1603,7 @@ u022
 マフラー
 *
 *
-ムチ+5|大蛇ムチ+3
+Whips+5|Serpent Whip+3
 *
 *
 *
@@ -1630,7 +1630,7 @@ u023
 マフラー
 *
 *
-ムチ+5|大蛇ムチ+3
+Whips+5|Serpent Whip+3
 *
 *
 *
@@ -1657,7 +1657,7 @@ u023
 マフラー
 *
 *
-ムチ+10|大蛇ムチ+5
+Whips+10|Serpent Whip+5
 *
 *
 *
@@ -1679,12 +1679,12 @@ u023
 山賊
 u030
 徒歩
-量産された剣
+Common Sword
 装甲
 *
 *
 *
-剣+7
+Blades+7
 *
 *
 *
@@ -1711,7 +1711,7 @@ u031
 *
 *
 *
-剣+9
+Blades+9
 *
 *
 *
@@ -1738,7 +1738,7 @@ u032
 *
 *
 *
-剣+10|斬剣+1
+Blades+10|Slash+1
 *
 *
 *
@@ -1765,7 +1765,7 @@ u033
 *
 *
 *
-剣+10|斬剣+1
+Blades+10|Slash+1
 *
 *
 *
@@ -1792,7 +1792,7 @@ u030
 *
 *
 *
-剣+10|斬剣+3
+Blades+10|Slash+3
 *
 *
 *
@@ -1819,7 +1819,7 @@ u031
 *
 *
 *
-剣+10|斬剣+3
+Blades+10|Slash+3
 *
 *
 *
@@ -1846,7 +1846,7 @@ u032
 *
 *
 *
-剣+10|斬剣+5
+Blades+10|Slash+5
 *
 *
 *
@@ -1873,7 +1873,7 @@ u033
 *
 *
 *
-剣+10|斬剣+5
+Blades+10|Slash+5
 *
 *
 *
@@ -1900,7 +1900,7 @@ u033
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -1927,7 +1927,7 @@ u040
 *
 *
 *
-剣+5
+Blades+5
 *
 *
 *
@@ -1954,7 +1954,7 @@ u041
 *
 *
 *
-剣+7
+Blades+7
 *
 *
 *
@@ -1981,7 +1981,7 @@ u042
 *
 *
 *
-剣+9
+Blades+9
 *
 *
 *
@@ -2008,7 +2008,7 @@ u043
 *
 *
 *
-剣+10|斬剣+1
+Blades+10|Slash+1
 *
 *
 *
@@ -2035,7 +2035,7 @@ u097
 *
 *
 *
-剣+10|斬剣+1
+Blades+10|Slash+1
 *
 *
 *
@@ -2062,7 +2062,7 @@ u097
 *
 *
 *
-剣+10|斬剣+3
+Blades+10|Slash+3
 *
 *
 *
@@ -2089,7 +2089,7 @@ u097
 *
 *
 *
-剣+10|斬剣+3
+Blades+10|Slash+3
 *
 *
 *
@@ -2116,7 +2116,7 @@ u097
 *
 *
 *
-剣+10|斬剣+3
+Blades+10|Slash+3
 *
 *
 *
@@ -2143,7 +2143,7 @@ u040
 *
 *
 *
-剣+10|斬剣+5
+Blades+10|Slash+5
 *
 *
 *
@@ -2170,7 +2170,7 @@ u041
 *
 *
 *
-剣+10|斬剣+5
+Blades+10|Slash+5
 *
 *
 *
@@ -2197,7 +2197,7 @@ u042
 *
 *
 *
-剣+10|斬剣+5
+Blades+10|Slash+5
 *
 *
 *
@@ -2224,7 +2224,7 @@ u043
 *
 *
 *
-剣+10|斬剣+5
+Blades+10|Slash+5
 *
 *
 *
@@ -2251,7 +2251,7 @@ u097
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2278,7 +2278,7 @@ u097
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2305,7 +2305,7 @@ u097
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2332,7 +2332,7 @@ u097
 *
 *
 *
-剣+10|斬剣+10|断剣+10
+Blades+10|Slash+10|Hard Slash+10
 *
 *
 *
@@ -2359,9 +2359,9 @@ u050
 *
 *
 *
-剣+10|斬剣+5|断剣+3
-光の槍+7|貫く勝利の光槍+2
-治癒の魔法+3
+Blades+10|Slash+5|Hard Slash+3
+Light Spear+7|Glorious Spear+2
+Healing Magic+3
 *
 *
 *
@@ -2386,9 +2386,9 @@ u051
 *
 *
 *
-剣+10|斬剣+5|断剣+3|秘剣紅桜+1
-光の槍+10|貫く勝利の光槍+3
-治癒の魔法+3
+Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+1
+Light Spear+10|Glorious Spear+3
+Healing Magic+3
 *
 *
 *
@@ -2413,15 +2413,15 @@ u050
 *
 *
 *
-剣+10|斬剣+5|断剣+3
-光の槍+7|貫く勝利の光槍+2
-治癒の魔法+3
+Blades+10|Slash+5|Hard Slash+3
+Light Spear+7|Glorious Spear+2
+Healing Magic+3
 *
 *
 *
 *
 *
-秘剣紅桜+1
+Crimson Blossom+1
 自由
 自由
 自由
@@ -2440,15 +2440,15 @@ u051
 *
 *
 *
-剣+10|斬剣+5|断剣+3
-光の槍+10|貫く勝利の光槍+3
-治癒の魔法+3
+Blades+10|Slash+5|Hard Slash+3
+Light Spear+10|Glorious Spear+3
+Healing Magic+3
 *
 *
 *
 *
 *
-秘剣紅桜+1
+Crimson Blossom+1
 自由
 自由
 自由
@@ -2467,8 +2467,8 @@ u060
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-斬剣+7|断剣+3
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Slash+7|Hard Slash+3
 *
 *
 *
@@ -2494,8 +2494,8 @@ u061
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-斬剣+5|断剣+5|秘剣紅桜+1
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Slash+5|Hard Slash+5|Crimson Blossom+1
 *
 *
 *
@@ -2521,10 +2521,10 @@ u062
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-切り裂く風+8|弾ける風+3
-炎の矢+7|炸裂する炎+5
-治癒の魔法+3
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Air Cutter+8|Air Shot+3
+Flame Dart+7|Fire Ball+5
+Healing Magic+3
 *
 *
 *
@@ -2548,9 +2548,9 @@ u063
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-襲う土の槍+10|治癒の魔法+3
-水弾+8|流れる水+3
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Stalagmite+10|Healing Magic+3
+Aqua Shot+8|Aqua Stream+3
 *
 *
 *
@@ -2575,8 +2575,8 @@ u060
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-斬剣+7|断剣+3
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Slash+7|Hard Slash+3
 *
 *
 *
@@ -2602,8 +2602,8 @@ u061
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-斬剣+5|断剣+5|秘剣紅桜+1
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Slash+5|Hard Slash+5|Crimson Blossom+1
 *
 *
 *
@@ -2629,15 +2629,15 @@ u062
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-切り裂く風+8|弾ける風+3
-炎の矢+7|炸裂する炎+5
-治癒の魔法+3
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Air Cutter+8|Air Shot+3
+Flame Dart+7|Fire Ball+5
+Healing Magic+3
 *
 *
 *
 *
-断剣+5
+Hard Slash+5
 自由
 自由
 自由
@@ -2656,15 +2656,15 @@ u063
 必殺防御の首飾り
 *
 *
-剣+8|棒+5|斧+5|ハンマー+5|弓+5
-襲う土の槍+10|治癒の魔法+3
-水弾+8|流れる水+3
+Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Stalagmite+10|Healing Magic+3
+Aqua Shot+8|Aqua Stream+3
 *
 *
 *
 *
 *
-断剣+5
+Hard Slash+5
 自由
 自由
 自由
@@ -2683,7 +2683,7 @@ u070
 *
 *
 *
-剣+5|斬剣+5
+Blades+5|Slash+5
 *
 *
 *
@@ -2710,7 +2710,7 @@ u071
 *
 *
 *
-剣+5|斬剣+5
+Blades+5|Slash+5
 *
 *
 *
@@ -2737,7 +2737,7 @@ u072
 *
 *
 *
-弓+8|激動弓+4|断罪弓+2
+Archery+8|Arrow Storm+4|Headhunter+2
 *
 *
 *
@@ -2764,7 +2764,7 @@ u073
 *
 *
 *
-棒+8|打ち棒+6|突き棒+6|斬り棒+6|払い棒+5
+Staves+8|Strike+6|Thrust+6|Slicing Staff+6|Staff Guard+5
 *
 *
 *
@@ -2791,7 +2791,7 @@ u074
 必殺防御の首飾り
 *
 *
-剣+10|弓+5|棒+5|斬剣+5|断剣+3
+Blades+10|Archery+5|Staves+5|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2818,7 +2818,7 @@ u073
 *
 *
 *
-棒+8|打ち棒+6|突き棒+6|斬り棒+6|払い棒+5
+Staves+8|Strike+6|Thrust+6|Slicing Staff+6|Staff Guard+5
 *
 *
 *
@@ -2845,7 +2845,7 @@ u074
 必殺防御の首飾り
 *
 *
-剣+10|弓+5|棒+5|斬剣+5|断剣+3
+Blades+10|Archery+5|Staves+5|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2872,7 +2872,7 @@ u075
 *
 *
 *
-ジャブ+5|ストレート+5|ローキック+5
+Jab+5|Straight Punch+5|Low Kick+5
 *
 *
 *
@@ -2899,7 +2899,7 @@ u080
 必殺防御の首飾り
 *
 *
-棒+10|打ち棒+10|突き棒+10|斬り棒+10|払い棒+10
+Staves+10|Strike+10|Thrust+10|Slicing Staff+10|Staff Guard+10
 *
 *
 *
@@ -2926,7 +2926,7 @@ u085
 必殺防御の首飾り
 *
 *
-ジャブ+5|ストレート+5|ローキック+5|ハイキック+5|飛び膝蹴り+5|テツザンコウ+5|裸絞め+5|腕挫十字固+5
+Jab+5|Straight Punch+5|Low Kick+5|High Kick+5|Flying Knee+5|Tetsuzankou+5|Sleeper Hold+5|Arm Bar+5
 *
 *
 *
@@ -2953,7 +2953,7 @@ u096
 必殺防御の首飾り
 *
 *
-ジャブ+7|ストレート+5|ローキック+6|ハイキック+3
+Jab+7|Straight Punch+5|Low Kick+6|High Kick+3
 *
 *
 *
@@ -2980,7 +2980,7 @@ u090
 必殺防御の首飾り
 *
 *
-剣+8|弓+5|斬剣+5|断剣+5
+Blades+8|Archery+5|Slash+5|Hard Slash+5
 *
 *
 *
@@ -3034,7 +3034,7 @@ u096
 必殺防御の首飾り
 *
 *
-投ナイフ+5|飛ナイフ+5
+Throwing Knife+5|Twist Knife+5
 *
 *
 *
@@ -3764,7 +3764,7 @@ u160
 *
 *
 ガンゾファング
-襲う土の槍+3
+Stalagmite+3
 *
 *
 *
@@ -3791,7 +3791,7 @@ u161
 *
 *
 ガンゾファング
-襲う土の槍+4
+Stalagmite+4
 *
 *
 *
@@ -3818,7 +3818,7 @@ u162
 *
 *
 ガンゾファング
-襲う土の槍+5
+Stalagmite+5
 *
 *
 *
@@ -3845,7 +3845,7 @@ u163
 *
 *
 ガンゾファング
-襲う土の槍+7
+Stalagmite+7
 *
 *
 *
@@ -3899,7 +3899,7 @@ u170
 *
 *
 トットリーストライク
-切り裂く風+1
+Air Cutter+1
 *
 *
 *
@@ -3926,7 +3926,7 @@ u171
 *
 *
 トットリーストライク
-切り裂く風+3
+Air Cutter+3
 *
 *
 *
@@ -3953,7 +3953,7 @@ u172
 *
 *
 トットリーストライク
-切り裂く風+5
+Air Cutter+5
 *
 *
 *
@@ -3980,7 +3980,7 @@ u173
 *
 *
 トットリーストライク
-切り裂く風+8|弾ける風+3
+Air Cutter+8|Air Shot+3
 *
 *
 *
@@ -4007,11 +4007,11 @@ u180
 *
 *
 ミラー
-炎の矢+5|炸裂する炎+5|爆裂する炎+3
-水弾+8|流れる水+5|凍てつく氷+3|激動の大河+1
-切り裂く風+5|弾ける風+4
-襲う土の槍+5|震える大地+4|暴れる大地+3|治癒の魔法+5
-雷撃+7|雷電+3|雷王+1
+Flame Dart+5|Fire Ball+5|Fire Burst+3
+Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
+Air Cutter+5|Air Shot+4
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Shock+7|Lightning+3|Thor's Hammer+1
 *
 *
 *
@@ -4034,11 +4034,11 @@ u181
 *
 *
 ミラー
-炎の矢+5|炸裂する炎+5|爆裂する炎+3
-水弾+8|流れる水+5|凍てつく氷+3|激動の大河+1
-切り裂く風+5|弾ける風+4
-襲う土の槍+5|震える大地+4|暴れる大地+3|治癒の魔法+5
-雷撃+7|雷電+3|雷王+1
+Flame Dart+5|Fire Ball+5|Fire Burst+3
+Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
+Air Cutter+5|Air Shot+4
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Shock+7|Lightning+3|Thor's Hammer+1
 *
 *
 *
@@ -4061,11 +4061,11 @@ u182
 *
 *
 ミラー
-炎の矢+5|炸裂する炎+5|爆裂する炎+3
-水弾+8|流れる水+5|凍てつく氷+3|激動の大河+1
-切り裂く風+5|弾ける風+4
-襲う土の槍+5|震える大地+4|暴れる大地+3|治癒の魔法+5
-雷撃+7|雷電+3|雷王+1
+Flame Dart+5|Fire Ball+5|Fire Burst+3
+Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
+Air Cutter+5|Air Shot+4
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Shock+7|Lightning+3|Thor's Hammer+1
 *
 *
 *
@@ -4088,7 +4088,7 @@ u190
 *
 *
 ダンシングスラッシュ
-剣+10|斬剣+5|断剣+5
+Blades+10|Slash+5|Hard Slash+5
 *
 *
 *
@@ -4115,7 +4115,7 @@ u191
 *
 *
 ダンシングスラッシュ
-剣+10|斬剣+7|断剣+5
+Blades+10|Slash+7|Hard Slash+5
 *
 *
 *
@@ -4142,7 +4142,7 @@ u192
 *
 *
 ダンシングスラッシュ
-剣+10|斬剣+9|断剣+7|秘剣紅桜+1
+Blades+10|Slash+9|Hard Slash+7|Crimson Blossom+1
 *
 *
 *
@@ -4169,7 +4169,7 @@ u193
 *
 *
 ダンシングスラッシュ
-剣+10|斬剣+10|断剣+8|秘剣紅桜+2
+Blades+10|Slash+10|Hard Slash+8|Crimson Blossom+2
 *
 *
 *
@@ -4331,7 +4331,7 @@ u205
 *
 *
 ベトアタック|吸魔+2
-ジャブ+5|ストレート+4
+Jab+5|Straight Punch+4
 *
 *
 *
@@ -4358,7 +4358,7 @@ u205
 *
 *
 ベトアタック|吸魔+2
-ジャブ+5|ストレート+4|ソニックブロー+3|フラッシュブロー+1
+Jab+5|Straight Punch+4|Sonic Blow+3|Flash Blow+1
 *
 *
 *
@@ -4385,8 +4385,8 @@ u205
 *
 *
 ベトアタック|吸魔+3
-ジャブ+5|ストレート+5|ソニックブロー+4|フラッシュブロー+3|タイムブロー+1
-炎の矢+5|炸裂する炎+2
+Jab+5|Straight Punch+5|Sonic Blow+4|Flash Blow+3|Chrono Blow+1
+Flame Dart+5|Fire Ball+2
 *
 *
 *
@@ -4412,9 +4412,9 @@ u205
 *
 *
 ベトアタック|吸魔+4
-ジャブ+5|ストレート+5|ソニックブロー+5|フラッシュブロー+5|タイムブロー+5|ゴッドブロー+5
-炎の矢+5|炸裂する炎+2
-水弾+3
+Jab+5|Straight Punch+5|Sonic Blow+5|Flash Blow+5|Chrono Blow+5|God Blow+5
+Flame Dart+5|Fire Ball+2
+Aqua Shot+3
 *
 *
 *
@@ -4439,10 +4439,10 @@ u205
 *
 *
 ベトアタック|吸魔
-ジャブ+5|ストレート+5|ソニックブロー+5|フラッシュブロー+5|タイムブロー+5|ゴッドブロー+5
-炎の矢+5|炸裂する炎+2
-水弾+3
-襲う土の槍+5|再生の魔法+5
+Jab+5|Straight Punch+5|Sonic Blow+5|Flash Blow+5|Chrono Blow+5|God Blow+5
+Flame Dart+5|Fire Ball+2
+Aqua Shot+3
+Stalagmite+5|Regeneration+5
 *
 *
 *
@@ -4466,11 +4466,11 @@ u205
 *
 *
 ベトアタック|吸魔
-ジャブ+5|ストレート+5|ソニックブロー+5|フラッシュブロー+5|タイムブロー+5|ゴッドブロー+5
-炎の矢+5|炸裂する炎+2
-水弾+3
-襲う土の槍+5|再生の魔法+5
-光の槍+7|貫く勝利の光槍+2
+Jab+5|Straight Punch+5|Sonic Blow+5|Flash Blow+5|Chrono Blow+5|God Blow+5
+Flame Dart+5|Fire Ball+2
+Aqua Shot+3
+Stalagmite+5|Regeneration+5
+Light Spear+7|Glorious Spear+2
 *
 *
 *
@@ -4520,7 +4520,7 @@ u220
 *
 *
 モエルファイア
-炎の矢+5|炸裂する炎+2
+Flame Dart+5|Fire Ball+2
 *
 *
 *
@@ -4547,7 +4547,7 @@ u220
 *
 *
 モエルファイア
-炎の矢+8|炸裂する炎+4|爆裂する炎+3
+Flame Dart+8|Fire Ball+4|Fire Burst+3
 *
 *
 *
@@ -4574,8 +4574,8 @@ u220
 *
 *
 モエルファイア|モエルゼー
-炎の矢+8|炸裂する炎+4|爆裂する炎+3
-襲う土の槍+5|震える大地+4|暴れる大地+3|治癒の魔法+5
+Flame Dart+8|Fire Ball+4|Fire Burst+3
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
 *
 *
 *
@@ -4601,7 +4601,7 @@ u230
 *
 *
 暗黒斬
-剣+8|斬剣+7|断剣+5
+Blades+8|Slash+7|Hard Slash+5
 *
 *
 *
@@ -4655,9 +4655,9 @@ u250
 *
 *
 ダークマジック
-闇の槍+5
-炎の矢+7|炸裂する炎+2
-水弾+3
+Dark Spear+5
+Flame Dart+7|Fire Ball+2
+Aqua Shot+3
 *
 *
 *
@@ -4682,9 +4682,9 @@ u250
 *
 *
 ダークマジック
-闇の槍+5
-炎の矢+7|炸裂する炎+2
-水弾+8|流れる水+5|凍てつく氷+3|激動の大河+1
+Dark Spear+5
+Flame Dart+7|Fire Ball+2
+Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 *
 *
 *
@@ -4736,8 +4736,8 @@ u270
 *
 *
 イモモアタック
-炎の矢+5
-再生の魔法+3
+Flame Dart+5
+Regeneration+3
 *
 *
 *
@@ -4763,10 +4763,10 @@ u280
 *
 *
 ミックスアタック
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷|激動の大河
-切り裂く風+5|弾ける風|荒れ狂う風|背中を押す風
-襲う土の槍+5|震える大地|暴れる大地|再生の魔法+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice|Aqua Flood
+Air Cutter+5|Air Shot|Raging Wind|Tailwind
+Stalagmite+5|Rock Shaker|Rock Rage|Regeneration+5
 *
 *
 *
@@ -4790,10 +4790,10 @@ u281
 *
 *
 ミックスアタック
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷|激動の大河
-切り裂く風+5|弾ける風|荒れ狂う風|背中を押す風
-襲う土の槍+5|震える大地|暴れる大地|再生の魔法+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice|Aqua Flood
+Air Cutter+5|Air Shot|Raging Wind|Tailwind
+Stalagmite+5|Rock Shaker|Rock Rage|Regeneration+5
 *
 *
 *
@@ -4817,9 +4817,9 @@ u290
 *
 *
 ファットデビルアタック
-闇の槍+8|漆黒+6|吸魔+5
-襲う土の槍+5|震える大地|暴れる大地|治癒の魔法+5
-炎の矢+7|炸裂する炎+5
+Dark Spear+8|Pitch Black+6|吸魔+5
+Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5
+Flame Dart+7|Fire Ball+5
 *
 *
 *
@@ -4844,9 +4844,9 @@ u291
 *
 *
 ファットデビルアタック
-闇の槍+8|漆黒+6|吸魔+5
-襲う土の槍+5|震える大地|暴れる大地|治癒の魔法+5
-水弾+10|流れる水+5
+Dark Spear+8|Pitch Black+6|吸魔+5
+Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5
+Aqua Shot+10|Aqua Stream+5
 *
 *
 *
@@ -4871,9 +4871,9 @@ u292
 *
 *
 ファットデビルアタック
-闇の槍+8|漆黒+6|吸魔+5
-襲う土の槍+5|震える大地|暴れる大地|治癒の魔法+5|再生の魔法+5
-切り裂く風+5
+Dark Spear+8|Pitch Black+6|吸魔+5
+Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5|Regeneration+5
+Air Cutter+5
 *
 *
 *
@@ -4898,8 +4898,8 @@ u300
 *
 *
 ハラミボディアタック
-闇の槍+8|漆黒+6|吸魔+5
-襲う土の槍+5|震える大地|暴れる大地|再生の魔法+5
+Dark Spear+8|Pitch Black+6|吸魔+5
+Stalagmite+5|Rock Shaker|Rock Rage|Regeneration+5
 *
 *
 *
@@ -4925,7 +4925,7 @@ u310
 *
 *
 スイングスイング
-爆砕ハンマー+3
+Blast Hammer+3
 *
 *
 *
@@ -4952,7 +4952,7 @@ u311
 *
 *
 スイングスイング
-爆砕ハンマー+3
+Blast Hammer+3
 *
 *
 *
@@ -4979,7 +4979,7 @@ u312
 *
 *
 スイングスイング
-爆砕ハンマー+3
+Blast Hammer+3
 *
 *
 *
@@ -5021,8 +5021,8 @@ u312
 近距離
 禁止
 //entry 186 -----------------------
-漆黒騎士00
-漆黒騎士
+Pitch Black騎士00
+Pitch Black騎士
 魔物
 魔物
 u320
@@ -5032,9 +5032,9 @@ u320
 *
 *
 *
-漆黒斬
-闇の槍+10|漆黒+10
-剣+10|斬剣+5|断剣+3|秘剣紅桜+2
+Pitch Black斬
+Dark Spear+10|Pitch Black+10
+Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+2
 *
 *
 *
@@ -5048,8 +5048,8 @@ u320
 自由
 禁止
 //entry 187 -----------------------
-漆黒騎士01
-漆黒騎士
+Pitch Black騎士01
+Pitch Black騎士
 魔物
 魔物
 u320
@@ -5059,9 +5059,9 @@ u320
 *
 *
 *
-漆黒斬
-闇の槍+10|漆黒+10
-剣+10|斬剣+5|断剣+3|秘剣紅桜+2
+Pitch Black斬
+Dark Spear+10|Pitch Black+10
+Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+2
 *
 *
 *
@@ -5087,7 +5087,7 @@ u330
 *
 *
 黒
-闇の槍+5|漆黒+7
+Dark Spear+5|Pitch Black+7
 吸魔+5
 *
 *
@@ -5114,7 +5114,7 @@ u340
 *
 *
 黒真|黒
-闇の槍+10|漆黒+8
+Dark Spear+10|Pitch Black+8
 吸魔+5
 光霧散
 雷霧散
@@ -5141,7 +5141,7 @@ u350
 *
 *
 炎の舞
-炎の矢+5|炸裂する炎+5|爆裂する炎+5
+Flame Dart+5|Fire Ball+5|Fire Burst+5
 *
 *
 *
@@ -5168,7 +5168,7 @@ u360
 *
 *
 氷の舞
-水弾|流れる水+5|凍てつく氷+5
+Aqua Shot|Aqua Stream+5|Frozen Ice+5
 *
 *
 *
@@ -5195,10 +5195,10 @@ u410
 *
 *
 白蛇陣
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
 *
 *
 *
@@ -5222,7 +5222,7 @@ u440
 *
 *
 冥土さんアタック
-ソニックブロー+3
+Sonic Blow+3
 *
 *
 *
@@ -5249,7 +5249,7 @@ u420
 *
 *
 骨流斬
-剣+10|斬剣+3|断剣+2|秘剣紅桜+1
+Blades+10|Slash+3|Hard Slash+2|Crimson Blossom+1
 繋ぎとめる泥
 *
 *
@@ -5276,7 +5276,7 @@ u430
 *
 *
 レイリンスピア
-光の槍+8|貫く勝利の光槍+5
+Light Spear+8|Glorious Spear+5
 *
 *
 *
@@ -5303,7 +5303,7 @@ u400
 *
 *
 トウフ君アタック
-ローキック+7|ハイキック+5|飛び膝蹴り+3|テツザンコウ+1
+Low Kick+7|High Kick+5|Flying Knee+3|Tetsuzankou+1
 *
 *
 *
@@ -5330,12 +5330,12 @@ u460
 *
 *
 銀の流星
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -5356,7 +5356,7 @@ u380
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -5383,7 +5383,7 @@ u381
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -5410,7 +5410,7 @@ u382
 *
 *
 *
-剣+10|斬剣+5|断剣+3
+Blades+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -5437,9 +5437,9 @@ u383
 *
 *
 *
-剣+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+5|貫く勝利の光槍+1
+Blades+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+5|Glorious Spear+1
 *
 *
 *
@@ -5464,9 +5464,9 @@ u384
 *
 *
 *
-剣+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+5|貫く勝利の光槍+1
+Blades+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+5|Glorious Spear+1
 *
 *
 *
@@ -5491,9 +5491,9 @@ u385
 *
 *
 *
-剣+5
-襲う土の槍+5|震える大地+3|暴れる大地+3|治癒の魔法+5
-光の槍+5|貫く勝利の光槍+1
+Blades+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Light Spear+5|Glorious Spear+1
 *
 *
 *
@@ -5519,12 +5519,12 @@ u800
 *
 *
 *
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -5545,13 +5545,13 @@ u003
 魔法の首飾り
 *
 *
-棒+10|打ち棒+10|突き棒+10|斬り棒+10
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷+5|激動の大河+3
-切り裂く風+5|弾ける風+5|荒れ狂う風+5|背中を押す風+5
-襲う土の槍+5|震える大地+5|暴れる大地+5|肉体強化+5|治癒の魔法+5
-雷撃+5|雷球+5|雷電+5|雷王+3|雷帝+2|雷龍+1
-闇の槍+7|漆黒+5|絶望に震える闇+2|光の槍+10|貫く勝利の光槍+5|満たす光+3
+Staves+10|Strike+10|Thrust+10|Slicing Staff+10
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
+Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
+Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
 自由
@@ -5572,11 +5572,11 @@ u004
 魔法の首飾り
 *
 *
-棒+10|打ち棒+5|突き棒+5|斬り棒+5
-雷撃+6|雷球+5|雷電+4
-炎の矢+10|炸裂する炎+7
-水弾+10|流れる水+3
-闇の槍+7|漆黒+5
+Staves+10|Strike+5|Thrust+5|Slicing Staff+5
+Shock+6|Static Ball+5|Lightning+4
+Flame Dart+10|Fire Ball+7
+Aqua Shot+10|Aqua Stream+3
+Dark Spear+7|Pitch Black+5
 *
 *
 *
@@ -5599,10 +5599,10 @@ u005
 魔法の首飾り
 *
 *
-棒+10|打ち棒+5|突き棒+5|斬り棒+5
-闇の槍+10|漆黒+10
-炎の矢+10|炸裂する炎+7
-雷撃+10
+Staves+10|Strike+5|Thrust+5|Slicing Staff+5
+Dark Spear+10|Pitch Black+10
+Flame Dart+10|Fire Ball+7
+Shock+10
 *
 *
 *
@@ -5626,12 +5626,12 @@ u006
 魔法の首飾り
 *
 *
-棒+10|打ち棒+5|突き棒+5|斬り棒+5
-光の槍+10|貫く勝利の光槍+5
-炎の矢+10|炸裂する炎+7
-雷撃+10
-水弾+10|流れる水+3
-闇の槍+10|漆黒+5
+Staves+10|Strike+5|Thrust+5|Slicing Staff+5
+Light Spear+10|Glorious Spear+5
+Flame Dart+10|Fire Ball+7
+Shock+10
+Aqua Shot+10|Aqua Stream+3
+Dark Spear+10|Pitch Black+5
 *
 *
 *
@@ -8570,7 +8570,7 @@ u374
 *
 *
 炎の壁の熱
-体力増加
+Constitution
 *
 *
 *
@@ -8597,7 +8597,7 @@ u375
 *
 *
 *
-体力増加
+Constitution
 *
 *
 *
@@ -8666,8 +8666,8 @@ u377
 自由
 禁止
 //entry 321 -----------------------
-雷球
-雷球
+Static Ball
+Static Ball
 魔法
 魔法
 u378
@@ -8677,8 +8677,8 @@ u378
 *
 *
 *
-雷球陣
-体力増加
+Static Ball陣
+Constitution
 *
 *
 *
@@ -8705,7 +8705,7 @@ u379
 *
 *
 吸い込む黒
-体力増加
+Constitution
 *
 *
 *
@@ -8921,7 +8921,7 @@ u220
 *
 *
 モエルファイア
-炎の矢+5|炸裂する炎+2
+Flame Dart+5|Fire Ball+2
 *
 *
 *
@@ -8948,7 +8948,7 @@ u230
 *
 *
 暗黒斬
-剣+8|斬剣+7|断剣+5
+Blades+8|Slash+7|Hard Slash+5
 *
 *
 *
@@ -9002,9 +9002,9 @@ u250
 *
 *
 ダークマジック
-闇の槍+5
-炎の矢+7|炸裂する炎+2
-水弾+3
+Dark Spear+5
+Flame Dart+7|Fire Ball+2
+Aqua Shot+3
 *
 *
 *
@@ -9056,10 +9056,10 @@ u280
 *
 *
 ミックスアタック
-炎の矢+7|炸裂する炎+5|爆裂する炎+3|炎の陣+3
-水弾+10|流れる水+7|凍てつく氷|激動の大河
-切り裂く風+5|弾ける風|荒れ狂う風|背中を押す風
-襲う土の槍+5|震える大地|暴れる大地|再生の魔法+5
+Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
+Aqua Shot+10|Aqua Stream+7|Frozen Ice|Aqua Flood
+Air Cutter+5|Air Shot|Raging Wind|Tailwind
+Stalagmite+5|Rock Shaker|Rock Rage|Regeneration+5
 *
 *
 *
