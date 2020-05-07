@@ -59,7 +59,7 @@ $
 魔法使い
 u760
 徒歩
-魔王の魔法杖
+Overlord's Staff
 魔法の守服
 必殺防御の首飾り
 *
@@ -86,7 +86,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 魔法使い
 u760
 徒歩
-魔王の魔法杖
+Overlord's Staff
 魔法の守服
 必殺防御の首飾り
 *
@@ -113,7 +113,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 魔法使い
 u760
 徒歩
-魔王の魔法杖
+Overlord's Staff
 魔法の守服
 必殺防御の首飾り
 *
@@ -140,7 +140,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 魔法使い
 u770
 徒歩
-ガラス製の投ナイフ
+Glass Knives
 魔法の守服
 必殺防御の首飾り
 魔法の首飾り
@@ -167,7 +167,7 @@ Dark Spear+5|Pitch Black+3|Dark Despair+2
 魔法使い
 u770
 徒歩
-ガラス製の投ナイフ
+Glass Knives
 魔法の守服
 必殺防御の首飾り
 魔法の首飾り
@@ -194,7 +194,7 @@ Dark Spear+10|Pitch Black+7|Dark Despair+5|Dark Void+3
 魔法使い
 u770
 徒歩
-ガラス製の投ナイフ
+Glass Knives
 魔法の守服
 必殺防御の首飾り
 魔法の首飾り
@@ -221,7 +221,7 @@ Dark Spear+10|Pitch Black+7|Dark Despair+5|Dark Void+3
 魔法使い
 u780
 徒歩
-魔神の魔法杖
+Devil's Staff
 魔法の守服
 必殺防御の首飾り
 魔法の首飾り
@@ -248,7 +248,7 @@ Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glori
 魔法使い
 u780
 徒歩
-魔神の魔法杖
+Devil's Staff
 魔法の守服
 必殺防御の首飾り
 魔法の首飾り
@@ -275,7 +275,7 @@ Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glori
 魔法使い
 u780
 徒歩
-魔神の魔法杖
+Devil's Staff
 魔法の守服
 必殺防御の首飾り
 魔法の首飾り
@@ -383,7 +383,7 @@ Recovery+10
 弓使い
 u750
 徒歩
-森の精霊の弓
+Dryad's Bow
 守服
 *
 *
@@ -410,7 +410,7 @@ Recovery+3
 弓使い
 u740
 徒歩
-森の精霊の弓
+Dryad's Bow
 守服
 *
 *
@@ -437,7 +437,7 @@ Recovery+3
 魔法使い
 u700
 徒歩
-軍用魔法杖
+Warmage Staff
 守服
 *
 *
@@ -464,7 +464,7 @@ Recovery+3
 魔法使い
 u710
 徒歩
-軍用魔法杖
+Warmage Staff
 魔法の守服
 *
 *
@@ -518,7 +518,7 @@ Recovery+3
 魔法使い
 u730
 徒歩
-協会の杖
+Guild Staff
 守服
 *
 *
@@ -626,7 +626,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 魔法使い
 u000
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -653,7 +653,7 @@ Aqua Shot+5|Aqua Stream+3
 魔法使い
 u001
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -680,7 +680,7 @@ Frozen Ice+2
 魔法使い
 u002
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -707,7 +707,7 @@ Glorious Spear+3
 魔法使い
 u003
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -734,7 +734,7 @@ Air Cutter+5|Air Shot+3
 魔法使い
 u004
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -761,7 +761,7 @@ Flame Dart+3|Fire Ball+2
 魔法使い
 u005
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -788,7 +788,7 @@ Flame Dart+3|Fire Ball+2
 魔法使い
 u006
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -815,7 +815,7 @@ Glorious Spear+3
 魔法使い
 u007
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -842,7 +842,7 @@ Stalagmite+5|Body Enhance+6
 魔法使い
 u007
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -869,7 +869,7 @@ Fire Ring
 魔法使い
 u000
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -896,7 +896,7 @@ Fire Ring
 魔法使い
 u001
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -923,7 +923,7 @@ Dark Spear+7|Pitch Black+5
 魔法使い
 u002
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -950,7 +950,7 @@ Dark Spear+7|Pitch Black+5
 魔法使い
 u003
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -977,7 +977,7 @@ Shock+5
 魔法使い
 u004
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1004,7 +1004,7 @@ Dark Spear+7|Pitch Black+5
 魔法使い
 u005
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1031,7 +1031,7 @@ Shock+5
 魔法使い
 u006
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1058,7 +1058,7 @@ Dark Spear+7|Pitch Black+5
 魔法使い
 u007
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1085,7 +1085,7 @@ Dark Spear+7|Pitch Black+5
 魔法使い
 u007
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1112,7 +1112,7 @@ Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon
 魔法使い
 u007
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1139,7 +1139,7 @@ Fire Burst+3
 魔法使い
 u007
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -1166,7 +1166,7 @@ Frozen Ice+2
 神官
 u010
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1193,7 +1193,7 @@ Light Spear+5|Glorious Spear+1
 神官
 u011
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1220,7 +1220,7 @@ Light Spear+7|Glorious Spear+3
 神官
 u012
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1247,7 +1247,7 @@ Light Spear+10|Glorious Spear+4
 神官
 u013
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1274,7 +1274,7 @@ Light Spear+10|Glorious Spear+5
 神官
 u010
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1301,7 +1301,7 @@ Light Spear+5|Glorious Spear+1
 神官
 u011
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1328,7 +1328,7 @@ Light Spear+7|Glorious Spear+3
 神官
 u012
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1355,7 +1355,7 @@ Light Spear+10|Glorious Spear+4
 神官
 u013
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1382,7 +1382,7 @@ Light Spear+10|Glorious Spear+5
 神官
 u012
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1409,7 +1409,7 @@ Flame Dart+5|Fire Ball+4|Fire Burst+3
 神官
 u013
 徒歩
-戦闘用魔法杖
+Combat Staff
 守服
 魔法の首飾り
 *
@@ -1436,7 +1436,7 @@ Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
 盗賊
 u020
 徒歩
-投ナイフ
+Common Knives
 中古の鋼入り服
 マフラー
 *
@@ -1463,7 +1463,7 @@ Throwing Knife+5|Twist Knife+5
 盗賊
 u021
 徒歩
-投ナイフ
+Common Knives
 中古の鋼入り服
 マフラー
 *
@@ -1490,7 +1490,7 @@ Throwing Knife+5|Twist Knife+5
 盗賊
 u022
 徒歩
-ムチ
+Whip
 中古の鋼入り服
 マフラー
 *
@@ -1517,7 +1517,7 @@ Whips+5|Serpent Whip+3
 盗賊
 u023
 徒歩
-ムチ
+Whip
 中古の鋼入り服
 マフラー
 *
@@ -1544,7 +1544,7 @@ Whips+5|Serpent Whip+3
 盗賊
 u020
 徒歩
-投ナイフ
+Common Knives
 中古の鋼入り服
 マフラー
 *
@@ -1571,7 +1571,7 @@ Throwing Knife+5|Twist Knife+5
 盗賊
 u021
 徒歩
-投ナイフ
+Common Knives
 中古の鋼入り服
 マフラー
 *
@@ -1598,7 +1598,7 @@ Throwing Knife+5|Twist Knife+5
 盗賊
 u022
 徒歩
-ムチ
+Whip
 中古の鋼入り服
 マフラー
 *
@@ -1625,7 +1625,7 @@ Whips+5|Serpent Whip+3
 盗賊
 u023
 徒歩
-ムチ
+Whip
 中古の鋼入り服
 マフラー
 *
@@ -1652,7 +1652,7 @@ Whips+5|Serpent Whip+3
 盗賊
 u023
 徒歩
-ムチ
+Whip
 中古の鋼入り服
 マフラー
 *
@@ -1706,7 +1706,7 @@ Blades+7
 山賊
 u031
 徒歩
-量産された剣
+Common Sword
 装甲
 *
 *
@@ -1733,7 +1733,7 @@ Blades+9
 山賊
 u032
 徒歩
-量産された剣
+Common Sword
 装甲
 *
 *
@@ -1760,7 +1760,7 @@ Blades+10|Slash+1
 山賊
 u033
 徒歩
-量産された剣
+Common Sword
 装甲
 *
 *
@@ -1787,7 +1787,7 @@ Blades+10|Slash+1
 山賊
 u030
 徒歩
-量産された剣
+Common Sword
 装甲
 *
 *
@@ -1814,7 +1814,7 @@ Blades+10|Slash+3
 山賊
 u031
 徒歩
-量産された剣
+Common Sword
 装甲
 *
 *
@@ -1841,7 +1841,7 @@ Blades+10|Slash+3
 山賊
 u032
 徒歩
-注文品の剣
+Custom Sword
 装甲
 *
 *
@@ -1868,7 +1868,7 @@ Blades+10|Slash+5
 山賊
 u033
 徒歩
-注文品の剣
+Custom Sword
 装甲
 *
 *
@@ -1895,7 +1895,7 @@ Blades+10|Slash+5
 山賊
 u033
 徒歩
-注文品の剣
+Custom Sword
 装甲
 *
 *
@@ -1922,7 +1922,7 @@ Blades+10|Slash+5|Hard Slash+3
 戦士
 u040
 徒歩
-量産された剣
+Common Sword
 中古の軽鎧
 *
 *
@@ -1949,7 +1949,7 @@ Blades+5
 戦士
 u041
 徒歩
-量産された剣
+Common Sword
 中古の軽鎧
 *
 *
@@ -1976,7 +1976,7 @@ Blades+7
 戦士
 u042
 徒歩
-量産された剣
+Common Sword
 中古の軽鎧
 *
 *
@@ -2003,7 +2003,7 @@ Blades+9
 戦士
 u043
 徒歩
-量産された剣
+Common Sword
 軽鎧
 *
 *
@@ -2030,7 +2030,7 @@ Blades+10|Slash+1
 戦士
 u097
 徒歩
-注文品の剣
+Custom Sword
 軽鎧
 *
 *
@@ -2057,7 +2057,7 @@ Blades+10|Slash+1
 戦士
 u097
 徒歩
-注文品の剣
+Custom Sword
 軽鎧
 *
 *
@@ -2084,7 +2084,7 @@ Blades+10|Slash+3
 戦士
 u097
 徒歩
-注文品の剣
+Custom Sword
 軽鎧
 *
 *
@@ -2111,7 +2111,7 @@ Blades+10|Slash+3
 戦士
 u097
 徒歩
-注文品の剣
+Custom Sword
 軽鎧
 *
 *
@@ -2138,7 +2138,7 @@ Blades+10|Slash+3
 戦士
 u040
 徒歩
-鍛えられた剣
+Tempered Sword
 軽鎧
 *
 *
@@ -2165,7 +2165,7 @@ Blades+10|Slash+5
 戦士
 u041
 徒歩
-鍛えられた剣
+Tempered Sword
 軽鎧
 *
 *
@@ -2192,7 +2192,7 @@ Blades+10|Slash+5
 戦士
 u042
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 *
 *
@@ -2219,7 +2219,7 @@ Blades+10|Slash+5
 戦士
 u043
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 *
 *
@@ -2246,7 +2246,7 @@ Blades+10|Slash+5
 戦士
 u097
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 *
 *
@@ -2273,7 +2273,7 @@ Blades+10|Slash+5|Hard Slash+3
 戦士
 u097
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 *
 *
@@ -2300,7 +2300,7 @@ Blades+10|Slash+5|Hard Slash+3
 戦士
 u097
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 *
 *
@@ -2327,7 +2327,7 @@ Blades+10|Slash+5|Hard Slash+3
 戦士
 u097
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 *
 *
@@ -2354,7 +2354,7 @@ Blades+10|Slash+10|Hard Slash+10
 聖戦士
 u050
 徒歩
-名剣シュナイダー
+Schneider Blade
 鎧
 *
 *
@@ -2381,7 +2381,7 @@ Healing Magic+3
 聖戦士
 u051
 徒歩
-名剣シュナイダー
+Schneider Blade
 鎧
 *
 *
@@ -2408,7 +2408,7 @@ Healing Magic+3
 聖戦士
 u050
 徒歩
-名剣シュナイダー
+Schneider Blade
 鎧
 *
 *
@@ -2435,7 +2435,7 @@ Crimson Blossom+1
 聖戦士
 u051
 徒歩
-名剣シュナイダー
+Schneider Blade
 鎧
 *
 *
@@ -2462,7 +2462,7 @@ Crimson Blossom+1
 冒険者
 u060
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2489,7 +2489,7 @@ Slash+7|Hard Slash+3
 冒険者
 u061
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2516,7 +2516,7 @@ Slash+5|Hard Slash+5|Crimson Blossom+1
 冒険者
 u062
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2543,7 +2543,7 @@ Healing Magic+3
 冒険者
 u063
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2570,7 +2570,7 @@ Aqua Shot+8|Aqua Stream+3
 冒険者
 u060
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2597,7 +2597,7 @@ Slash+7|Hard Slash+3
 冒険者
 u061
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2624,7 +2624,7 @@ Slash+5|Hard Slash+5|Crimson Blossom+1
 冒険者
 u062
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2651,7 +2651,7 @@ Hard Slash+5
 冒険者
 u063
 徒歩
-注文品の剣
+Custom Sword
 鎧
 必殺防御の首飾り
 *
@@ -2678,7 +2678,7 @@ Hard Slash+5
 兵士
 u070
 徒歩
-量産された剣
+Common Sword
 鎧
 *
 *
@@ -2705,7 +2705,7 @@ Blades+5|Slash+5
 兵士
 u071
 徒歩
-量産された剣
+Common Sword
 鎧
 *
 *
@@ -2732,7 +2732,7 @@ Blades+5|Slash+5
 兵士
 u072
 徒歩
-上質の弓
+Quality Bow
 鎧
 *
 *
@@ -2759,7 +2759,7 @@ Archery+8|Arrow Storm+4|Headhunter+2
 兵士
 u073
 徒歩
-扱い易い棒
+Flexible Rod
 鎧
 *
 *
@@ -2786,7 +2786,7 @@ Staves+8|Strike+6|Thrust+6|Slicing Staff+6|Staff Guard+5
 兵士
 u074
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 必殺防御の首飾り
 *
@@ -2813,7 +2813,7 @@ Blades+10|Archery+5|Staves+5|Slash+5|Hard Slash+3
 兵士
 u073
 徒歩
-扱い易い棒
+Flexible Rod
 鎧
 *
 *
@@ -2840,7 +2840,7 @@ Staves+8|Strike+6|Thrust+6|Slicing Staff+6|Staff Guard+5
 兵士
 u074
 徒歩
-鍛えられた剣
+Tempered Sword
 鎧
 必殺防御の首飾り
 *
@@ -2894,7 +2894,7 @@ Jab+5|Straight Punch+5|Low Kick+5
 棒使い
 u080
 徒歩
-虎月根
+Tiger Moon Rod
 守服
 必殺防御の首飾り
 *
@@ -2975,7 +2975,7 @@ Jab+7|Straight Punch+5|Low Kick+6|High Kick+3
 剣士
 u090
 徒歩
-名剣バロ
+Valor Blade
 軽鎧
 必殺防御の首飾り
 *
@@ -3029,7 +3029,7 @@ u095
 盗賊
 u096
 徒歩
-鋭い投ナイフ
+Sharp Knives
 守服
 必殺防御の首飾り
 *
@@ -4919,7 +4919,7 @@ Stalagmite+5|Rock Shaker|Rock Rage|Regeneration+5
 魔物
 u310
 徒歩
-ハンマー
+Common Hammer
 *
 *
 *
@@ -4946,7 +4946,7 @@ Blast Hammer+3
 魔物
 u311
 徒歩
-ハンマー
+Common Hammer
 *
 *
 *
@@ -4973,7 +4973,7 @@ Blast Hammer+3
 魔物
 u312
 徒歩
-ハンマー
+Common Hammer
 *
 *
 *
@@ -5000,7 +5000,7 @@ Blast Hammer+3
 魔物
 u312
 徒歩
-ハンマー
+Common Hammer
 *
 *
 *
@@ -5027,7 +5027,7 @@ Pitch Black騎士
 魔物
 u320
 徒歩
-鍛えられた剣
+Tempered Sword
 *
 *
 *
@@ -5054,7 +5054,7 @@ Pitch Black騎士
 魔物
 u320
 徒歩
-鍛えられた剣
+Tempered Sword
 *
 *
 *
@@ -5243,7 +5243,7 @@ Sonic Blow+3
 魔物
 u420
 徒歩
-鍛えられた剣
+Tempered Sword
 *
 *
 *
@@ -5351,7 +5351,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 戦士
 u380
 徒歩
-量産された剣
+Common Sword
 *
 *
 *
@@ -5378,7 +5378,7 @@ Blades+10|Slash+5|Hard Slash+3
 戦士
 u381
 徒歩
-量産された剣
+Common Sword
 *
 *
 *
@@ -5405,7 +5405,7 @@ Blades+10|Slash+5|Hard Slash+3
 戦士
 u382
 徒歩
-量産された剣
+Common Sword
 *
 *
 *
@@ -5432,7 +5432,7 @@ Blades+10|Slash+5|Hard Slash+3
 僧侶
 u383
 徒歩
-量産された剣
+Common Sword
 *
 *
 *
@@ -5459,7 +5459,7 @@ Light Spear+5|Glorious Spear+1
 僧侶
 u384
 徒歩
-量産された剣
+Common Sword
 *
 *
 *
@@ -5486,7 +5486,7 @@ Light Spear+5|Glorious Spear+1
 僧侶
 u385
 徒歩
-量産された剣
+Common Sword
 *
 *
 *
@@ -5540,7 +5540,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 魔法使い
 u003
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -5567,7 +5567,7 @@ Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusi
 魔法使い
 u004
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -5594,7 +5594,7 @@ Dark Spear+7|Pitch Black+5
 魔法使い
 u005
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
@@ -5621,7 +5621,7 @@ Shock+10
 魔法使い
 u006
 徒歩
-魔法使いの杖
+Wizard's Staff
 守服
 魔法の首飾り
 *
