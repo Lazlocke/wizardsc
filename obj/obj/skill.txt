@@ -551,7 +551,7 @@ Only magic can stop me now.
 //entry 22 -----------------------
 Blades
 Mana Capacity+1
-Blades
+剣
 物理攻撃
 武器
 威力小
@@ -576,7 +576,7 @@ Modern wizards know how to use a sword.
 //entry 23 -----------------------
 Slash
 Blades+5
-Blades
+剣
 物理攻撃
 武器
 威力小
@@ -601,7 +601,7 @@ Cut 'em down!
 //entry 24 -----------------------
 Hard Slash
 Blades+7
-Blades
+剣
 物理攻撃
 武器
 威力小
@@ -626,7 +626,7 @@ Cut 'em in half!
 //entry 25 -----------------------
 Crimson Blossom
 Blades+10
-Blades
+剣
 物理攻撃
 武器
 威力小
@@ -651,7 +651,7 @@ A deadly move, that brings death!
 //entry 26 -----------------------
 Blade Guard
 Blades+5
-Blades
+剣
 条件
 無
 回避
@@ -676,7 +676,7 @@ Let your sword be your shield.
 //entry 27 -----------------------
 Staves
 Mana Capacity+1
-Staves
+棒
 物理攻撃
 武器
 威力小
@@ -701,7 +701,7 @@ A wand is a kind of staff too.
 //entry 28 -----------------------
 Strike
 Staves+5
-Staves
+棒
 物理攻撃
 武器
 威力小
@@ -714,7 +714,7 @@ Staves
 *
 Thrust
 Slicing Staff
-Staves
+棒
 e021a
 se021.wav
 *
@@ -726,7 +726,7 @@ Hi-yah!
 //entry 29 -----------------------
 Thrust
 Staves+5
-Staves
+棒
 物理攻撃
 武器
 威力小
@@ -738,7 +738,7 @@ Staves
 身敵
 *
 Slicing Staff
-Staves
+棒
 Strike
 e022a
 se022.wav
@@ -751,7 +751,7 @@ Stay away!
 //entry 30 -----------------------
 Slicing Staff
 Staves+5
-Staves
+棒
 物理攻撃
 武器
 威力小
@@ -762,7 +762,7 @@ Staves
 使用回数
 身敵
 *
-Staves
+棒
 Strike
 Thrust
 e023a
@@ -776,7 +776,7 @@ The key to a staff master.
 //entry 31 -----------------------
 Staff Guard
 Staves+5
-Staves
+棒
 条件
 無
 回避
@@ -801,7 +801,7 @@ A staff can be a shield too.
 //entry 32 -----------------------
 Axes
 Mana Capacity+1
-Axes
+斧
 物理攻撃
 武器
 威力小
@@ -826,7 +826,7 @@ Feels great to smack 'em with it.
 //entry 33 -----------------------
 Quake Ax
 Axes+5
-Axes
+斧
 物理攻撃
 武器
 威力小
@@ -851,7 +851,7 @@ You've got to master the heft.
 //entry 34 -----------------------
 Raging Ax
 Axes+7
-Axes
+斧
 物理攻撃
 武器
 威力小
@@ -876,7 +876,7 @@ Rrrrraaaaarrrrrrrgh!
 //entry 35 -----------------------
 Berserker Ax
 Axes+10
-Axes
+斧
 物理攻撃
 武器
 威力小
@@ -901,7 +901,7 @@ A vicious ax attack.
 //entry 36 -----------------------
 Hammers
 Mana Capacity+1
-Hammers
+ハンマー
 物理攻撃
 武器
 威力小
@@ -926,7 +926,7 @@ Get crushed!
 //entry 37 -----------------------
 Spinning Hammer
 Hammers+5
-Hammers
+ハンマー
 物理攻撃
 武器
 威力小
@@ -951,7 +951,7 @@ I will crush you all!
 //entry 38 -----------------------
 Crash Hammer
 Hammers+10
-Hammers
+ハンマー
 物理攻撃
 武器
 威力小
@@ -976,7 +976,7 @@ One hit kill!
 //entry 39 -----------------------
 Blast Hammer
 Crash Hammer+10
-Hammers
+ハンマー
 物理攻撃
 武器
 威力小
@@ -1101,7 +1101,7 @@ Put a hole in 'em.
 //entry 44 -----------------------
 Shuriken
 Mana Capacity+1
-Shuriken
+手裏剣
 物理攻撃
 遠距離
 威力小
@@ -1126,7 +1126,7 @@ Whsh! Whsh!
 //entry 45 -----------------------
 Chaos Storm
 Shuriken+5
-Shuriken
+手裏剣
 物理攻撃
 遠距離
 威力小
@@ -1137,7 +1137,7 @@ Shuriken
 使用回数
 身敵
 *
-Shuriken
+手裏剣
 Dark Spear
 *
 e036a
@@ -1151,7 +1151,7 @@ Like a shuriken rain.
 //entry 46 -----------------------
 Chakram
 Shuriken+10
-Shuriken
+手裏剣
 物理攻撃
 遠距離
 威力小
@@ -1162,7 +1162,7 @@ Shuriken
 使用回数
 身敵
 *
-Shuriken
+手裏剣
 Dark Spear
 *
 e037a
@@ -1176,7 +1176,7 @@ The bigger, the better.
 //entry 47 -----------------------
 Archery
 Mana Capacity+1
-Archery
+弓
 物理攻撃
 遠距離
 威力小
@@ -1201,7 +1201,7 @@ Keeping your distance is key in battle.
 //entry 48 -----------------------
 Arrow Storm
 Archery+5
-Archery
+弓
 物理攻撃
 遠距離
 威力小
@@ -1226,7 +1226,7 @@ Wind is overrated, just power through it!
 //entry 49 -----------------------
 Headhunter
 Archery+10
-Archery
+弓
 物理攻撃
 遠距離
 威力小
@@ -1251,7 +1251,7 @@ I pass judgement on you!
 //entry 50 -----------------------
 Siege Arrow
 Archery+10
-Archery
+弓
 物理攻撃
 遠距離
 威力小
@@ -1276,7 +1276,7 @@ Takes down even a castle.
 //entry 51 -----------------------
 Throwing Knife
 Mana Capacity+1
-Throwing Knife
+投ナイフ
 物理攻撃
 特殊
 威力小
@@ -1301,7 +1301,7 @@ Be careful. Don't point knives at people.
 //entry 52 -----------------------
 Twist Knife
 Mana Capacity+1
-Throwing Knife
+投ナイフ
 物理攻撃
 特殊
 威力小
@@ -1312,7 +1312,7 @@ Throwing Knife
 使用回数
 身敵
 *
-Throwing Knife
+投ナイフ
 Flame Dart
 Aqua Shot
 e043a
@@ -1326,7 +1326,7 @@ Wow! It's like a living creature.
 //entry 53 -----------------------
 Whips
 Mana Capacity+1
-Whips
+ムチ
 物理攻撃
 特殊
 威力小
@@ -1351,7 +1351,7 @@ Now recruiting queen-like wizards.
 //entry 54 -----------------------
 Serpent Whip
 Whips+5
-Whips
+ムチ
 物理攻撃
 特殊
 威力小
@@ -1376,7 +1376,7 @@ Whips work even from far away.
 //entry 55 -----------------------
 Cobra Whip
 Whips+10
-Whips
+ムチ
 物理攻撃
 特殊
 威力小
@@ -4513,7 +4513,7 @@ se005.wav
 身敵
 *
 ダンシングスラッシュ
-Blades
+剣
 *
 e018a
 se018.wav
@@ -4638,7 +4638,7 @@ se050.wav
 身敵
 *
 暗黒斬
-Blades
+剣
 *
 e016a
 se016.wav
@@ -4826,7 +4826,7 @@ se027.wav
 //entry 193 -----------------------
 スイングスイング
 *
-Hammers
+ハンマー
 物理攻撃
 武器
 *
@@ -4851,7 +4851,7 @@ Hammerスイングの基本攻撃。
 //entry 194 -----------------------
 ハイパースイング
 *
-Hammers
+ハンマー
 物理攻撃
 武器
 *
@@ -4876,7 +4876,7 @@ Hammerスイングの応用攻撃。
 //entry 195 -----------------------
 ゴッドスイング
 *
-Hammers
+ハンマー
 物理攻撃
 武器
 *
@@ -4901,7 +4901,7 @@ Hammerスイングの必殺攻撃。
 //entry 196 -----------------------
 Pitch Black斬
 *
-Blades
+剣
 物理攻撃
 武器
 *
@@ -4913,7 +4913,7 @@ Blades
 身敵
 *
 Pitch Black斬
-Blades
+剣
 Slash
 e023a
 se023.wav
