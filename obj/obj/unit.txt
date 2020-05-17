@@ -118,7 +118,7 @@ Overlord's Staff
 必殺防御の首飾り
 *
 *
-Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|真魔法使い|Mana Recovery+10|Recovery+5
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|Wizard's Bride|Mana Recovery+10|Recovery+5
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
@@ -3007,7 +3007,7 @@ u095
 必殺防御の首飾り
 *
 *
-打撃
+Swagger
 *
 *
 *
@@ -3061,8 +3061,8 @@ u100
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3088,8 +3088,8 @@ u101
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3115,8 +3115,8 @@ u102
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3142,8 +3142,8 @@ u100
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3169,8 +3169,8 @@ u101
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3196,8 +3196,8 @@ u102
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3223,8 +3223,8 @@ u102
 *
 *
 *
-ウルフファング
-噛み付き+5
+Wolf Fang
+Bite+5
 *
 *
 *
@@ -3250,7 +3250,7 @@ u110
 *
 *
 *
-クマンファング
+Bear Fang
 *
 *
 *
@@ -3277,7 +3277,7 @@ u111
 *
 *
 *
-クマンファング
+Bear Fang
 *
 *
 *
@@ -3304,7 +3304,7 @@ u370
 *
 *
 *
-ブーブファング
+Hog Wild
 *
 *
 *
@@ -3331,7 +3331,7 @@ u371
 *
 *
 *
-ブーブファング
+Hog Wild
 *
 *
 *
@@ -3358,7 +3358,7 @@ u372
 *
 *
 *
-ブーブファング
+Hog Wild
 *
 *
 *
@@ -3385,7 +3385,7 @@ u120
 *
 *
 *
-ドリツルアタック
+Vine Strike
 *
 *
 *
@@ -3412,7 +3412,7 @@ u121
 *
 *
 *
-ドリツルアタック
+Vine Strike
 *
 *
 *
@@ -3439,7 +3439,7 @@ u122
 *
 *
 *
-ドリツルアタック
+Vine Strike
 *
 *
 *
@@ -3466,7 +3466,7 @@ u130
 *
 *
 *
-ツルルアタック
+Creeping Vine
 *
 *
 *
@@ -3493,7 +3493,7 @@ u131
 *
 *
 *
-ツルルアタック
+Creeping Vine
 *
 *
 *
@@ -3520,7 +3520,7 @@ u132
 *
 *
 *
-ツルルアタック
+Creeping Vine
 *
 *
 *
@@ -3547,7 +3547,7 @@ u130
 *
 *
 *
-ツルルアタック|ツルルシュート
+Creeping Vine|Seed Shot
 *
 *
 *
@@ -3574,7 +3574,7 @@ u131
 *
 *
 *
-ツルルアタック|ツルルシュート
+Creeping Vine|Seed Shot
 *
 *
 *
@@ -3601,7 +3601,7 @@ u132
 *
 *
 *
-ツルルアタック|ツルルシュート
+Creeping Vine|Seed Shot
 *
 *
 *
@@ -3628,7 +3628,7 @@ u140
 *
 *
 *
-ホネスラッシュ
+Bone Slash
 *
 *
 *
@@ -3655,7 +3655,7 @@ u141
 *
 *
 *
-ホネスラッシュ
+Bone Slash
 *
 *
 *
@@ -3682,7 +3682,7 @@ u142
 *
 *
 *
-ホネスラッシュ
+Bone Slash
 *
 *
 *
@@ -3709,7 +3709,7 @@ u150
 *
 *
 *
-フニアタック
+Rot Hit
 *
 *
 *
@@ -3736,7 +3736,7 @@ u151
 *
 *
 *
-フニアタック
+Rot Hit
 *
 *
 *
@@ -3763,7 +3763,7 @@ u160
 *
 *
 *
-ガンゾファング
+Rock Claw
 Stalagmite+3
 *
 *
@@ -3790,7 +3790,7 @@ u161
 *
 *
 *
-ガンゾファング
+Rock Claw
 Stalagmite+4
 *
 *
@@ -3817,7 +3817,7 @@ u162
 *
 *
 *
-ガンゾファング
+Rock Claw
 Stalagmite+5
 *
 *
@@ -3844,7 +3844,7 @@ u163
 *
 *
 *
-ガンゾファング
+Rock Claw
 Stalagmite+7
 *
 *
@@ -3871,7 +3871,7 @@ u163
 *
 *
 *
-ガンゾファング
+Rock Claw
 *
 *
 *
@@ -3898,7 +3898,7 @@ u170
 *
 *
 *
-トットリーストライク
+Roc Claw
 Air Cutter+1
 *
 *
@@ -3925,7 +3925,7 @@ u171
 *
 *
 *
-トットリーストライク
+Roc Claw
 Air Cutter+3
 *
 *
@@ -3952,7 +3952,7 @@ u172
 *
 *
 *
-トットリーストライク
+Roc Claw
 Air Cutter+5
 *
 *
@@ -3979,7 +3979,7 @@ u173
 *
 *
 *
-トットリーストライク
+Roc Claw
 Air Cutter+8|Air Shot+3
 *
 *
@@ -4006,7 +4006,7 @@ u180
 *
 *
 *
-ミラー
+Shine
 Flame Dart+5|Fire Ball+5|Fire Burst+3
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 Air Cutter+5|Air Shot+4
@@ -4033,7 +4033,7 @@ u181
 *
 *
 *
-ミラー
+Shine
 Flame Dart+5|Fire Ball+5|Fire Burst+3
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 Air Cutter+5|Air Shot+4
@@ -4060,7 +4060,7 @@ u182
 *
 *
 *
-ミラー
+Shine
 Flame Dart+5|Fire Ball+5|Fire Burst+3
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 Air Cutter+5|Air Shot+4
@@ -4087,7 +4087,7 @@ u190
 *
 *
 *
-ダンシングスラッシュ
+Dancing Slash
 Blades+10|Slash+5|Hard Slash+5
 *
 *
@@ -4114,7 +4114,7 @@ u191
 *
 *
 *
-ダンシングスラッシュ
+Dancing Slash
 Blades+10|Slash+7|Hard Slash+5
 *
 *
@@ -4141,7 +4141,7 @@ u192
 *
 *
 *
-ダンシングスラッシュ
+Dancing Slash
 Blades+10|Slash+9|Hard Slash+7|Crimson Blossom+1
 *
 *
@@ -4168,7 +4168,7 @@ u193
 *
 *
 *
-ダンシングスラッシュ
+Dancing Slash
 Blades+10|Slash+10|Hard Slash+8|Crimson Blossom+2
 *
 *
@@ -4195,7 +4195,7 @@ u200
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 *
 *
 *
@@ -4222,7 +4222,7 @@ u201
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 *
 *
 *
@@ -4249,7 +4249,7 @@ u202
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 *
 *
 *
@@ -4276,7 +4276,7 @@ u203
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 *
 *
 *
@@ -4303,7 +4303,7 @@ u204
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 *
 *
 *
@@ -4330,7 +4330,7 @@ u205
 *
 *
 *
-ベトアタック|吸魔+2
+Goo Attack|Drain Essence+2
 Jab+5|Straight Punch+4
 *
 *
@@ -4357,7 +4357,7 @@ u205
 *
 *
 *
-ベトアタック|吸魔+2
+Goo Attack|Drain Essence+2
 Jab+5|Straight Punch+4|Sonic Blow+3|Flash Blow+1
 *
 *
@@ -4384,7 +4384,7 @@ u205
 *
 *
 *
-ベトアタック|吸魔+3
+Goo Attack|Drain Essence+3
 Jab+5|Straight Punch+5|Sonic Blow+4|Flash Blow+3|Chrono Blow+1
 Flame Dart+5|Fire Ball+2
 *
@@ -4411,7 +4411,7 @@ u205
 *
 *
 *
-ベトアタック|吸魔+4
+Goo Attack|Drain Essence+4
 Jab+5|Straight Punch+5|Sonic Blow+5|Flash Blow+5|Chrono Blow+5|God Blow+5
 Flame Dart+5|Fire Ball+2
 Aqua Shot+3
@@ -4438,7 +4438,7 @@ u205
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 Jab+5|Straight Punch+5|Sonic Blow+5|Flash Blow+5|Chrono Blow+5|God Blow+5
 Flame Dart+5|Fire Ball+2
 Aqua Shot+3
@@ -4465,7 +4465,7 @@ u205
 *
 *
 *
-ベトアタック|吸魔
+Goo Attack|Drain Essence
 Jab+5|Straight Punch+5|Sonic Blow+5|Flash Blow+5|Chrono Blow+5|God Blow+5
 Flame Dart+5|Fire Ball+2
 Aqua Shot+3
@@ -4492,7 +4492,7 @@ u210
 *
 *
 *
-ナメアタック
+Slime Attack
 *
 *
 *
@@ -4519,7 +4519,7 @@ u220
 *
 *
 *
-モエルファイア
+Forest Fire
 Flame Dart+5|Fire Ball+2
 *
 *
@@ -4546,7 +4546,7 @@ u220
 *
 *
 *
-モエルファイア
+Forest Fire
 Flame Dart+8|Fire Ball+4|Fire Burst+3
 *
 *
@@ -4573,7 +4573,7 @@ u220
 *
 *
 *
-モエルファイア|モエルゼー
+Forest Fire|Fire Wisp
 Flame Dart+8|Fire Ball+4|Fire Burst+3
 Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
 *
@@ -4600,7 +4600,7 @@ u230
 *
 *
 *
-暗黒斬
+Dark Slash
 Blades+8|Slash+7|Hard Slash+5
 *
 *
@@ -4627,7 +4627,7 @@ u240
 *
 *
 *
-ダークシザー
+Dark Scissors
 *
 *
 *
@@ -4654,7 +4654,7 @@ u250
 *
 *
 *
-ダークマジック
+Dark Magic
 Dark Spear+5
 Flame Dart+7|Fire Ball+2
 Aqua Shot+3
@@ -4681,7 +4681,7 @@ u250
 *
 *
 *
-ダークマジック
+Dark Magic
 Dark Spear+5
 Flame Dart+7|Fire Ball+2
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
@@ -4708,7 +4708,7 @@ u260
 *
 *
 *
-ファニードラアタック
+Draco Attack
 *
 *
 *
@@ -4735,7 +4735,7 @@ u270
 *
 *
 *
-イモモアタック
+Bug Bite
 Flame Dart+5
 Regeneration+3
 *
@@ -4762,7 +4762,7 @@ u280
 *
 *
 *
-ミックスアタック
+Onslaught
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice|Aqua Flood
 Air Cutter+5|Air Shot|Raging Wind|Tailwind
@@ -4789,7 +4789,7 @@ u281
 *
 *
 *
-ミックスアタック
+Onslaught
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice|Aqua Flood
 Air Cutter+5|Air Shot|Raging Wind|Tailwind
@@ -4816,8 +4816,8 @@ u290
 *
 *
 *
-ファットデビルアタック
-Dark Spear+8|Pitch Black+6|吸魔+5
+Heavy Press
+Dark Spear+8|Pitch Black+6|Drain Essence+5
 Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5
 Flame Dart+7|Fire Ball+5
 *
@@ -4843,8 +4843,8 @@ u291
 *
 *
 *
-ファットデビルアタック
-Dark Spear+8|Pitch Black+6|吸魔+5
+Heavy Press
+Dark Spear+8|Pitch Black+6|Drain Essence+5
 Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5
 Aqua Shot+10|Aqua Stream+5
 *
@@ -4870,8 +4870,8 @@ u292
 *
 *
 *
-ファットデビルアタック
-Dark Spear+8|Pitch Black+6|吸魔+5
+Heavy Press
+Dark Spear+8|Pitch Black+6|Drain Essence+5
 Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5|Regeneration+5
 Air Cutter+5
 *
@@ -4897,8 +4897,8 @@ u300
 *
 *
 *
-ハラミボディアタック
-Dark Spear+8|Pitch Black+6|吸魔+5
+Stampede
+Dark Spear+8|Pitch Black+6|Drain Essence+5
 Stalagmite+5|Rock Shaker|Rock Rage|Regeneration+5
 *
 *
@@ -4924,7 +4924,7 @@ Common Hammer
 *
 *
 *
-スイングスイング
+Mega Crush
 Blast Hammer+3
 *
 *
@@ -4951,7 +4951,7 @@ Common Hammer
 *
 *
 *
-スイングスイング
+Mega Crush
 Blast Hammer+3
 *
 *
@@ -4978,7 +4978,7 @@ Common Hammer
 *
 *
 *
-スイングスイング
+Mega Crush
 Blast Hammer+3
 *
 *
@@ -5005,7 +5005,7 @@ Common Hammer
 *
 *
 *
-スイングスイング|ハイパースイング|ゴッドスイング
+Mega Crush|Hyper Swing|God Swing
 *
 *
 *
@@ -5032,7 +5032,7 @@ Tempered Sword
 *
 *
 *
-漆黒斬
+Onyx Slash
 Dark Spear+10|Pitch Black+10
 Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+2
 *
@@ -5059,7 +5059,7 @@ Tempered Sword
 *
 *
 *
-漆黒斬
+Onyx Slash
 Dark Spear+10|Pitch Black+10
 Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+2
 *
@@ -5086,9 +5086,9 @@ u330
 *
 *
 *
-黒
+Void
 Dark Spear+5|Pitch Black+7
-吸魔+5
+Drain Essence+5
 *
 *
 *
@@ -5113,9 +5113,9 @@ u340
 *
 *
 *
-黒真|黒
+True Darkness|Void
 Dark Spear+10|Pitch Black+8
-吸魔+5
+Drain Essence+5
 光霧散
 雷霧散
 *
@@ -5140,7 +5140,7 @@ u350
 *
 *
 *
-炎の舞
+Flame Dance
 Flame Dart+5|Fire Ball+5|Fire Burst+5
 *
 *
@@ -5167,7 +5167,7 @@ u360
 *
 *
 *
-氷の舞
+Ice Dance
 Aqua Shot|Aqua Stream+5|Frozen Ice+5
 *
 *
@@ -5194,7 +5194,7 @@ u410
 *
 *
 *
-白蛇陣
+Snake Swarm
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
@@ -5221,7 +5221,7 @@ u440
 *
 *
 *
-冥土さんアタック
+Hell Attack
 Sonic Blow+3
 *
 *
@@ -5248,7 +5248,7 @@ Tempered Sword
 *
 *
 *
-骨流斬
+M H Attack
 Blades+10|Slash+3|Hard Slash+2|Crimson Blossom+1
 繋ぎとめる泥
 *
@@ -5275,7 +5275,7 @@ u430
 *
 *
 *
-レイリンスピア
+Lilim Spear
 Light Spear+8|Glorious Spear+5
 *
 *
@@ -5302,7 +5302,7 @@ u400
 *
 *
 *
-トウフ君アタック
+Tofu Attack
 Low Kick+7|High Kick+5|Flying Knee+3|Tetsuzankou+1
 *
 *
@@ -5329,7 +5329,7 @@ u460
 *
 *
 *
-銀の流星
+Silver Star
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
@@ -5653,7 +5653,7 @@ u500
 *
 *
 *
-巨人アタック激|巨人アタック噴
+Giant Strike|Giant Crush
 *
 *
 *
@@ -5680,7 +5680,7 @@ u501
 *
 *
 *
-巨人アタック激|巨人アタック噴
+Giant Strike|Giant Crush
 *
 *
 *
@@ -5707,7 +5707,7 @@ u502
 *
 *
 *
-巨人アタック激|巨人アタック噴
+Giant Strike|Giant Crush
 *
 *
 *
@@ -5734,7 +5734,7 @@ u500
 *
 *
 *
-巨人アタック激|巨人アタック噴
+Giant Strike|Giant Crush
 *
 *
 *
@@ -5761,7 +5761,7 @@ u512
 *
 *
 *
-竜の息吹
+Dragon Breath
 *
 *
 *
@@ -5788,7 +5788,7 @@ u511
 *
 *
 *
-白竜の息吹
+White Breath
 *
 *
 *
@@ -5815,7 +5815,7 @@ u510
 *
 *
 *
-火竜の息吹
+Fire Breath
 *
 *
 *
@@ -5842,7 +5842,7 @@ u513
 *
 *
 *
-水竜の息吹
+Water Breath
 *
 *
 *
@@ -5869,7 +5869,7 @@ u514
 *
 *
 *
-雷竜の息吹
+Thunder Breath
 *
 *
 *
@@ -5896,7 +5896,7 @@ u515
 *
 *
 *
-暗黒竜の息吹
+Dark Breath
 *
 *
 *
@@ -5923,7 +5923,7 @@ u516
 *
 *
 *
-古代竜の息吹
+Ancient Breath
 *
 *
 *
@@ -5950,7 +5950,7 @@ u520
 *
 *
 *
-憤激の腕
+Indignity Arm
 *
 *
 *
@@ -5977,7 +5977,7 @@ u521
 *
 *
 *
-憤激の腕
+Indignity Arm
 *
 *
 *
@@ -6004,7 +6004,7 @@ u522
 *
 *
 *
-憤激の腕
+Indignity Arm
 *
 *
 *
@@ -6031,7 +6031,7 @@ u523
 *
 *
 *
-憤激の腕
+Indignity Arm
 *
 *
 *
@@ -6058,7 +6058,7 @@ u530
 *
 *
 *
-ドリアラトアタック
+Rat Bite
 *
 *
 *
@@ -6085,9 +6085,9 @@ u540
 *
 *
 *
-グリーンゲル
-グリーンフィション
-吸魔+4
+Green Gel
+Green Fission
+Drain Essence+4
 *
 *
 *
@@ -6112,9 +6112,9 @@ u541
 *
 *
 *
-ブルーゲル
-ブルーフィション
-吸魔+6
+Blue Gel
+Blue Fission
+Drain Essence+6
 *
 *
 *
@@ -6139,9 +6139,9 @@ u542
 *
 *
 *
-レッドゲル
-レッドフィション
-吸魔+8
+Red Gel
+Red Fission
+Drain Essence+8
 *
 *
 *
@@ -6166,9 +6166,9 @@ u543
 *
 *
 *
-ブラックゲル
-ブラックフィション
-吸魔+10
+Black Gel
+Black Fission
+Drain Essence+10
 *
 *
 *
@@ -6193,14 +6193,14 @@ u550
 *
 *
 *
-歯車β
-歯車γ
+Gearβ
+Gearγ
 *
 *
 *
 *
 *
-歯車α
+Gearα
 *
 自由
 自由
@@ -6220,7 +6220,7 @@ u560
 *
 *
 *
-炎の魔神の怒り|炎の精霊の力
+Fiery Rage|Devil Fire
 *
 *
 *
@@ -6247,7 +6247,7 @@ u570
 *
 *
 *
-氷の魔神の微笑み|氷の精霊の力
+Icy Smile|Devil Ice
 *
 *
 *
@@ -6274,7 +6274,7 @@ u580
 *
 *
 *
-プクアタック
+Boo
 *
 *
 *
@@ -6301,7 +6301,7 @@ u581
 *
 *
 *
-プクアタック
+Boo
 *
 *
 *
@@ -6328,7 +6328,7 @@ u582
 *
 *
 *
-プクアタック
+Boo
 *
 *
 *
@@ -6355,7 +6355,7 @@ u580
 *
 *
 *
-プクアタック
+Boo
 *
 *
 *
@@ -6382,7 +6382,7 @@ u590
 *
 *
 *
-オトーアタック
+Tentacle
 *
 *
 *
@@ -6409,7 +6409,7 @@ u591
 *
 *
 *
-オトーアタック
+Tentacle
 *
 *
 *
@@ -6436,7 +6436,7 @@ u600
 *
 *
 *
-マシュンアタック
+Mush Attack
 *
 *
 *
@@ -6463,7 +6463,7 @@ u600
 *
 *
 *
-マシュンアタック
+Mush Attack
 *
 *
 *
@@ -6490,7 +6490,7 @@ u610
 *
 *
 *
-ゴツンアタック
+Whomp
 *
 *
 *
@@ -6517,7 +6517,7 @@ u610
 *
 *
 *
-ゴツンアタック
+Whomp
 *
 *
 *
@@ -6544,7 +6544,7 @@ u610
 *
 *
 *
-ゴツンアタック
+Whomp
 *
 *
 *
@@ -8542,7 +8542,7 @@ u373
 *
 *
 *
-炎の蛇アタック
+Flame Fang
 *
 *
 *
@@ -8569,7 +8569,7 @@ u374
 *
 *
 *
-炎の壁の熱
+Burn
 Constitution
 *
 *
@@ -8623,7 +8623,7 @@ u376
 *
 *
 *
-痛い風
+Shear
 *
 *
 *
@@ -8650,7 +8650,7 @@ u377
 *
 *
 *
-崩れる土の壁
+Rumble
 *
 *
 *
@@ -8677,7 +8677,7 @@ u378
 *
 *
 *
-雷球陣
+Zap
 Constitution
 *
 *
@@ -8704,7 +8704,7 @@ u379
 *
 *
 *
-吸い込む黒
+Consume
 Constitution
 *
 *
@@ -8731,7 +8731,7 @@ u200
 *
 *
 *
-ベトアタック
+Goo Attack
 *
 *
 *
@@ -8758,7 +8758,7 @@ u201
 *
 *
 *
-ベトアタック
+Goo Attack
 *
 *
 *
@@ -8785,7 +8785,7 @@ u202
 *
 *
 *
-ベトアタック
+Goo Attack
 *
 *
 *
@@ -8812,7 +8812,7 @@ u203
 *
 *
 *
-ベトアタック
+Goo Attack
 *
 *
 *
@@ -8839,7 +8839,7 @@ u204
 *
 *
 *
-ベトアタック
+Goo Attack
 *
 *
 *
@@ -8866,7 +8866,7 @@ u205
 *
 *
 *
-ベトアタック
+Goo Attack
 *
 *
 *
@@ -8893,7 +8893,7 @@ u210
 *
 *
 *
-ナメアタック
+Slime Attack
 *
 *
 *
@@ -8920,7 +8920,7 @@ u220
 *
 *
 *
-モエルファイア
+Forest Fire
 Flame Dart+5|Fire Ball+2
 *
 *
@@ -8947,7 +8947,7 @@ u230
 *
 *
 *
-暗黒斬
+Dark Slash
 Blades+8|Slash+7|Hard Slash+5
 *
 *
@@ -8974,7 +8974,7 @@ u240
 *
 *
 *
-ダークシザー
+Dark Scissors
 *
 *
 *
@@ -9001,7 +9001,7 @@ u250
 *
 *
 *
-ダークマジック
+Dark Magic
 Dark Spear+5
 Flame Dart+7|Fire Ball+2
 Aqua Shot+3
@@ -9028,7 +9028,7 @@ u260
 *
 *
 *
-ファニードラアタック
+Draco Attack
 *
 *
 *
@@ -9055,7 +9055,7 @@ u280
 *
 *
 *
-ミックスアタック
+Onslaught
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice|Aqua Flood
 Air Cutter+5|Air Shot|Raging Wind|Tailwind
@@ -9082,7 +9082,7 @@ u820
 *
 *
 *
-分身パンチ
+Clone Punch
 *
 *
 *
