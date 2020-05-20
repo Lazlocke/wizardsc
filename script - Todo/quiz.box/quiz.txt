@@ -2,56 +2,57 @@
 <music 2>
 <background "bg005a0.iph" 11>
 <sprite "ta07a00.iph" 4 4 11>
-<name "ジャッジマン" "!FA0480">
-「クイズコーナー」
+<name "Judgeman" "!FA0480">
+"It's the quiz corner."
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0481">
-「クイズに正解して、ヒントを貰おう」
+<name "Judgeman" "!FA0481">
+"Answer the questions, and get game bonuses."
 #
 <sprite "ta07a01.iph" 4 4 12>
-<name "ジャッジマン" "!FA0380">
-「ジャッジマンからの注意だ。
-　これから先、クイズが出題されるが……
-　ネタバレがあるかもしれない」
+<name "Judgeman" "!FA0380">
+"Word of warning from Judgeman.
+ The quiz is about the game, so there may be
+ spoilers."
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0381">
-「まあ、たいしたネタバレじゃないが、気になる方
-　はＣＧモードを（八割ほど）埋めてから、挑戦し
-　てくれ」
+<name "Judgeman" "!FA0381">
+"Well, it's nothing major, but if you're worried
+ about that, I would recommend not attempting it
+ until you've finished about 80% of the C
+ Gallery."
 #
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0382">
-「それと、クイズの中にはディープなものが多い。
-　ゲームを一周や二周した程度ではわからない内容
-　もあるだろう」
+<name "Judgeman" "!FA0382">
+"Also, there are many very specific questions.
+ Some things you may not find out even after one
+ or two playthroughs."
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0383">
-「そんな時は、笑って許すか、再度周回を繰り返し
-　て欲しい。
-　ジャッジマンからのお願いだ」
+<name "Judgeman" "!FA0383">
+"If you don't know the answer, just laught it off
+ and play through the game again!
+ That's a Judgeman request."
 #
 <sprite "ta07a00.iph" 4 4 12>
-<choice :3DF: "やる" \x00\x00>
-<choice :4C5: "やらない" \x00\x00>
+<choice :3DF: "Yes!" \x00\x00>
+<choice :4C5: "No!" \x00\x00>
 #
-<name "ジャッジマン" "!FA0384">
-「さて、クイズをするかね？」
+<name "Judgeman" "!FA0384">
+"Now, are you ready to take the quiz?"
 #
 :3DF
 \x2E\x22\x00\x13 0  1 \x1A\x01\x0A\x22\x00\x13 0 \x01\x0E :460: 
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0385">
-「では、早速始めよう！」
+<name "Judgeman" "!FA0385">
+"Okay, let's get started!"
 #
 <music 4>
 \x2B\x18 :4B3: 
 :460
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0482">
-「では、出題だ」
+<name "Judgeman" "!FA0482">
+"Now, on to the questions."
 #
 <music 4>
 \x2B
@@ -61,21 +62,21 @@
 \x16 :E7A: \x15 :130B: 
 :4C5
 <sprite "ta07a17.iph" 4 4 12>
-<name "ジャッジマン" "!FA0386">
-「オーケー。
-　わかった。
-　賢明な判断だ」
+<name "Judgeman" "!FA0386">
+"Okay. I understand.
+ That's wise."
 #
 <sprite "ta07a15.iph" 4 4 12>
-<name "ジャッジマン" "!FA0387">
-「大丈夫。
-　出番が後回しにされても、恨んじゃいない。
-　クイズは正解して欲しいからね」
+<name "Judgeman" "!FA0387">
+"Don't worry.
+ I don't mind if you put off the quiz until 
+ another time. I hope you can answer as many
+ correctly as possible."
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0388">
-「では、また会える日を楽しみにしているよ。
-　アディオス、アミーゴ！」
+<name "Judgeman" "!FA0388">
+"So, I look forward to seeing you later.
+ Adios, amigo!"
 #
 <removesprite -1 11>
 \x2B\x15 :658: 
@@ -85,141 +86,142 @@
 \x1A\x01\x0A\x22\x00\x11 10 \x01\x0E :6C9: 
 <music 23>
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0504">
-「全問正解だ！」
+<name "Judgeman" "!FA0504">
+"All answers correct!"
 #
 \x16 :8264: \x18 :AD8: 
 :6C9
 \x1C\x01\x0A\x22\x00\x11 8 \x01\x15 :810: \x2E\x22\x00\x13 0  2 \x1A\x01\x0A\x22\x00\x13 0 \x01\x0E :74E: 
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0505">
-「ナイス結果だ！」
+<name "Judgeman" "!FA0505">
+"Nicely done!"
 #
 \x18 :80A: 
 :74E
 \x1C\x01\x0A\x22\x00\x13 1 \x01\x0E :7AD: 
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0506">
-「やるな！」
+<name "Judgeman" "!FA0506">
+"Not bad!"
 #
 \x18 :80A: 
 :7AD
 \x1C\x01\x0A\x22\x00\x13 2 \x01\x0E :80A: 
 <sprite "ta07a04.iph" 4 4 12>
-<name "ジャッジマン" "!FA0507">
-「あと少しだ！」
+<name "Judgeman" "!FA0507">
+"Almost there!"
 #
 :80A
 \x18 :AD8: 
 :810
 \x1C\x01\x0A\x22\x00\x11 5 \x01\x15 :A14: \x2E\x22\x00\x13 0  2 \x1A\x01\x0A\x22\x00\x13 0 \x01\x0E :8BE: 
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0508">
-「全然、駄目だ。
-　もう一度、本編をやり直した方が良いぞ」
+<name "Judgeman" "!FA0508">
+"That was awful.
+ You may need to play through the game again."
 #
 \x18 :A0E: 
 :8BE
 \x1C\x01\x0A\x22\x00\x13 1 \x01\x0E :96C: 
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0509">
-「少し反則気味だが……答えを覚えるのも手だぞ。
-　流石の私でも、それぐらいは見逃してやる」
+<name "Judgeman" "!FA0509">
+"It's cheating a little bit, but one trick is to
+ remember the questions.
+ What a benevolent man I am to allow that."
 #
 \x18 :A0E: 
 :96C
 \x1C\x01\x0A\x22\x00\x13 2 \x01\x0E :A0E: 
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0511">
-「答えを赤く表示してやろうか？
-　……いらない。
-　そうか。
-　余計な事を言った」
+<name "Judgeman" "!FA0511">
+"Should I display the answer in red?
+ ...No need for that?
+ I see.
+ I shouldn't have brought it up."
 #
 :A0E
 \x18 :AD8: 
 :A14
 \x2E\x22\x00\x13 0  1 \x1A\x01\x0A\x22\x00\x13 0 \x01\x0E :A8B: 
 <sprite "ta07a09.iph" 4 4 12>
-<name "ジャッジマン" "!FA0513">
-「適当に選んだだろ？」
+<name "Judgeman" "!FA0513">
+"Did you choose right?"
 #
 \x18 :AD8: 
 :A8B
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0514">
-「再挑戦を待つ！」
+<name "Judgeman" "!FA0514">
+"I'll be waiting for your next try!"
 #
 :AD8
 \x78
 :AD9
 \x1A\x01\x0A\x22\x00\x10 1 \x01\x0E :B36: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0483">
-「第一問」
+<name "Judgeman" "!FA0483">
+"First question."
 #
 \x18 :E79: 
 :B36
 \x1C\x01\x0A\x22\x00\x10 2 \x01\x0E :B93: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0484">
-「第二問」
+<name "Judgeman" "!FA0484">
+"Second question."
 #
 \x18 :E79: 
 :B93
 \x1C\x01\x0A\x22\x00\x10 3 \x01\x0E :BF0: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0485">
-「第三問」
+<name "Judgeman" "!FA0485">
+"Third question."
 #
 \x18 :E79: 
 :BF0
 \x1C\x01\x0A\x22\x00\x10 4 \x01\x0E :C4D: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0486">
-「第四問」
+<name "Judgeman" "!FA0486">
+"Fourth question."
 #
 \x18 :E79: 
 :C4D
 \x1C\x01\x0A\x22\x00\x10 5 \x01\x0E :CAA: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0487">
-「第五問」
+<name "Judgeman" "!FA0487">
+"Fifth question."
 #
 \x18 :E79: 
 :CAA
 \x1C\x01\x0A\x22\x00\x10 6 \x01\x0E :D07: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0488">
-「第六問」
+<name "Judgeman" "!FA0488">
+"Sixth question."
 #
 \x18 :E79: 
 :D07
 \x1C\x01\x0A\x22\x00\x10 7 \x01\x0E :D64: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0489">
-「第七問」
+<name "Judgeman" "!FA0489">
+"Seventh question."
 #
 \x18 :E79: 
 :D64
 \x1C\x01\x0A\x22\x00\x10 8 \x01\x0E :DC1: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0490">
-「第八問」
+<name "Judgeman" "!FA0490">
+"Eighth question."
 #
 \x18 :E79: 
 :DC1
 \x1C\x01\x0A\x22\x00\x10 9 \x01\x0E :E1E: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0491">
-「第九問」
+<name "Judgeman" "!FA0491">
+"Ninth question."
 #
 \x18 :E79: 
 :E1E
 \x1C\x01\x0A\x22\x00\x10 10 \x01\x0E :E79: 
 <sprite "ta07a00.iph" 4 4 12>
-<name "ジャッジマン" "!FA0493">
-「最終問題だ」
+<name "Judgeman" "!FA0493">
+"Final question."
 #
 :E79
 <exit>
@@ -235,75 +237,75 @@
 :EC6
 \x2E\x22\x00\x13 0  3 \x1A\x01\x0A\x22\x00\x13 0 \x01\x0E :F2F: 
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0494">
-「正解」
+<name "Judgeman" "!FA0494">
+"Correct."
 #
 \x18 :106E: 
 :F2F
 \x1C\x01\x0A\x22\x00\x13 1 \x01\x0E :F8C: 
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0495">
-「正解だ」
+<name "Judgeman" "!FA0495">
+"Correct answer."
 #
 \x18 :106E: 
 :F8C
 \x1C\x01\x0A\x22\x00\x13 2 \x01\x0E :FFE: 
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0496">
-「エクセレーント。
-　正解だ」
+<name "Judgeman" "!FA0496">
+"Excellent.
+ Correct."
 #
 \x18 :106E: 
 :FFE
 \x1C\x01\x0A\x22\x00\x13 3 \x01\x0E :106E: 
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0497">
-「正解。
-　サービス問題だったな」
+<name "Judgeman" "!FA0497">
+"Correct.
+ That was a gimme."
 #
 :106E
 \x0B\x22\x00\x11 1 \x00\x15 :12E3: 
 :107E
 \x2E\x22\x00\x13 0  5 \x1A\x01\x0A\x22\x00\x13 0 \x01\x0E :10E7: 
 <sprite "ta07a13.iph" 4 4 12>
-<name "ジャッジマン" "!FA0498">
-「残念」
+<name "Judgeman" "!FA0498">
+"Too bad."
 #
 \x18 :12DD: 
 :10E7
 \x1C\x01\x0A\x22\x00\x13 1 \x01\x0E :114A: 
 <sprite "ta07a13.iph" 4 4 12>
-<name "ジャッジマン" "!FA0499">
-「間違っている」
+<name "Judgeman" "!FA0499">
+"Incorrect."
 #
 \x18 :12DD: 
 :114A
 \x1C\x01\x0A\x22\x00\x13 2 \x01\x0E :11AD: 
 <sprite "ta07a16.iph" 4 4 12>
-<name "ジャッジマン" "!FA0500">
-「そうじゃない」
+<name "Judgeman" "!FA0500">
+"That's not it."
 #
 \x18 :12DD: 
 :11AD
 \x1C\x01\x0A\x22\x00\x13 3 \x01\x0E :1229: 
 <sprite "ta07a18.iph" 4 4 12>
-<name "ジャッジマン" "!FA0501">
-「オーマイガッ！
-　信じられないミスだ」
+<name "Judgeman" "!FA0501">
+"Oh my god!
+ How could you get that wrong!?"
 #
 \x18 :12DD: 
 :1229
 \x1C\x01\x0A\x22\x00\x13 4 \x01\x0E :1284: 
 <sprite "ta07a15.iph" 4 4 12>
-<name "ジャッジマン" "!FA0502">
-「違う」
+<name "Judgeman" "!FA0502">
+"Wrong."
 #
 \x18 :12DD: 
 :1284
 \x1C\x01\x0A\x22\x00\x13 5 \x01\x0E :12DD: 
 <sprite "ta07a13.iph" 4 4 12>
-<name "ジャッジマン" "!FA0503">
-「おしい！」
+<name "Judgeman" "!FA0503">
+"Nope!"
 #
 :12DD
 \x15 :12E3: 
@@ -315,903 +317,919 @@
 \x1A\x01\x0A\x22\x00\x12 1 \x01\x0E :14BE: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :140D: 
-<name "ジャッジマン" "!FA0396">
-「天才魔法使い、メイア＝クルセイダの所属してい
-　た冒険者チームは？」
-<choice :107E: "麗しき白銀" \x00\x00>
-<choice :107E: "銀" \x00\x00>
-<choice :EC6: "完璧なる黄金" \x00\x00>
-<choice :107E: "美しき銅" \x00\x00>
+<name "Judgeman" "!FA0396">
+"What was the name of the adventurer team that
+ the genius wizard, Meia Crusader, belonged to?"
+<choice :107E: "Elegant Silver" \x00\x00>
+<choice :107E: "Silver" \x00\x00>
+<choice :EC6: "Perfect Gold" \x00\x00>
+<choice :107E: "Beautiful Copper" \x00\x00>
 #
 \x18 :14BE: 
 :140D
-<name "ジャッジマン" "!FA0396">
-「天才魔法使い、メイア＝クルセイダの所属してい
-　た冒険者チームは？」
-<choice :107E: "麗しき白銀" \x00\x00>
-<choice :EC6: "完璧なる黄金" \x00\x00>
-<choice :107E: "萌える銀" \x00\x00>
-<choice :107E: "激しき銅" \x00\x00>
+<name "Judgeman" "!FA0396">
+"What was the name of the adventurer team that
+ the genius wizard, Meia Crusader, belonged to?"
+<choice :107E: "Elegant Silver" \x00\x00>
+<choice :EC6: "Perfect Gold" \x00\x00>
+<choice :107E: "Cute Silver" \x00\x00>
+<choice :107E: "Fierce Copper" \x00\x00>
 #
 :14BE
 \x1A\x01\x0A\x22\x00\x12 2 \x01\x0E :1651: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :15B3: 
-<name "ジャッジマン" "!FA0397">
-「魔法使い協会の本部がある国の名前は？」
-<choice :EC6: "クインズベル王国" \x00\x00>
-<choice :107E: "ベオル王国" \x00\x00>
-<choice :107E: "リカオン王国" \x00\x00>
-<choice :107E: "バズール王国" \x00\x00>
+<name "Judgeman" "!FA0397">
+"What country is the Wizard's Guild located in?"
+<choice :EC6: "Queensbell" \x00\x00>
+<choice :107E: "Beol" \x00\x00>
+<choice :107E: "Lycaon" \x00\x00>
+<choice :107E: "Bazur" \x00\x00>
 #
 \x18 :1651: 
 :15B3
-<name "ジャッジマン" "!FA0397">
-「魔法使い協会の本部がある国の名前は？」
-<choice :107E: "リカオン王国" \x00\x00>
-<choice :107E: "ベオル王国" \x00\x00>
-<choice :107E: "バズール王国" \x00\x00>
-<choice :EC6: "クインズベル王国" \x00\x00>
+<name "Judgeman" "!FA0397">
+"What country is the Wizard's Guild located in?"
+<choice :107E: "Lycaon" \x00\x00>
+<choice :107E: "Beol" \x00\x00>
+<choice :107E: "Bazur" \x00\x00>
+<choice :EC6: "Queensbell" \x00\x00>
 #
 :1651
 \x1A\x01\x0A\x22\x00\x12 3 \x01\x0E :17E6: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :1744: 
-<name "ジャッジマン" "!FA0398">
-「魔法使い協会の本部がある街の名前は？」
-<choice :EC6: "ローリアの街" \x00\x00>
-<choice :107E: "マックラーの街" \x00\x00>
-<choice :107E: "ダライアの街" \x00\x00>
-<choice :107E: "ロアンの街" \x00\x00>
+<name "Judgeman" "!FA0398">
+"What city is the headquarters of the Wizard's
+ Guild located in?"
+<choice :EC6: "Loria" \x00\x00>
+<choice :107E: "McCullough" \x00\x00>
+<choice :107E: "Dahlia" \x00\x00>
+<choice :107E: "Roan" \x00\x00>
 #
 \x18 :17E6: 
 :1744
-<name "ジャッジマン" "!FA0398">
-「魔法使い協会の本部がある街の名前は？」
-<choice :107E: "マックラーの街" \x00\x00>
-<choice :107E: "大魔法都市ベガナ" \x00\x00>
-<choice :107E: "ダライアの街" \x00\x00>
-<choice :EC6: "ローリアの街" \x00\x00>
+<name "Judgeman" "!FA0398">
+"What city is the headquarters of the Wizard's
+ Guild located in?"
+<choice :107E: "McCullough" \x00\x00>
+<choice :107E: "Vegana" \x00\x00>
+<choice :107E: "Dahlia" \x00\x00>
+<choice :EC6: "Loria" \x00\x00>
 #
 :17E6
 \x1A\x01\x0A\x22\x00\x12 4 \x01\x0E :195D: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :18CD: 
-<name "ジャッジマン" "!FA0399">
-「セリスの出身国は？」
-<choice :107E: "クインズベル王国" \x00\x00>
-<choice :107E: "バズール王国" \x00\x00>
-<choice :107E: "リカオン王国" \x00\x00>
-<choice :EC6: "アルカンス王国" \x00\x00>
+<name "Judgeman" "!FA0399">
+"Where is Celes from?"
+<choice :107E: "Queensbell" \x00\x00>
+<choice :107E: "Bazur" \x00\x00>
+<choice :107E: "Lycaon" \x00\x00>
+<choice :EC6: "Arkanes" \x00\x00>
 #
 \x18 :195D: 
 :18CD
-<name "ジャッジマン" "!FA0399">
-「セリスの出身国は？」
-<choice :107E: "バズール王国" \x00\x00>
-<choice :EC6: "アルカンス王国" \x00\x00>
-<choice :107E: "リカオン王国" \x00\x00>
-<choice :107E: "クインズベル王国" \x00\x00>
+<name "Judgeman" "!FA0399">
+"Where is Celes from?"
+<choice :107E: "Bazur" \x00\x00>
+<choice :EC6: "Arkanes" \x00\x00>
+<choice :107E: "Lycaon" \x00\x00>
+<choice :107E: "Queensbell" \x00\x00>
 #
 :195D
 \x1A\x01\x0A\x22\x00\x12 5 \x01\x0E :1AE0: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :1A4A: 
-<name "ジャッジマン" "!FA0400">
-「イエルの魔法形式は？」
-<choice :107E: "トークドライブ" \x00\x00>
-<choice :107E: "スクエアドライブ" \x00\x00>
-<choice :EC6: "ペーパードライブ" \x00\x00>
-<choice :107E: "キードライブ" \x00\x00>
+<name "Judgeman" "!FA0400">
+"What is Elle's kind of magic called?"
+<choice :107E: "Talk Drive" \x00\x00>
+<choice :107E: "Square Drive" \x00\x00>
+<choice :EC6: "Paper Drive" \x00\x00>
+<choice :107E: "Key Drive" \x00\x00>
 #
 \x18 :1AE0: 
 :1A4A
-<name "ジャッジマン" "!FA0400">
-「イエルの魔法形式は？」
-<choice :EC6: "ペーパードライブ" \x00\x00>
-<choice :107E: "スクエアドライブ" \x00\x00>
-<choice :107E: "キードライブ" \x00\x00>
-<choice :107E: "トークドライブ" \x00\x00>
+<name "Judgeman" "!FA0400">
+"What is Elle's kind of magic called?"
+<choice :EC6: "Paper Drive" \x00\x00>
+<choice :107E: "Square Drive" \x00\x00>
+<choice :107E: "Key Drive" \x00\x00>
+<choice :107E: "Talk Drive" \x00\x00>
 #
 :1AE0
 \x1A\x01\x0A\x22\x00\x12 6 \x01\x0E :1C87: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :1BDF: 
-<name "ジャッジマン" "!FA0401">
-「魔法陣を用いる魔法形式は？」
-<choice :EC6: "スクエアドライブ" \x00\x00>
-<choice :107E: "トライアングルドライブ" \x00\x00>
-<choice :107E: "マスタードライブ" \x00\x00>
-<choice :107E: "サークルドライブ" \x00\x00>
+<name "Judgeman" "!FA0401">
+"What kind of magic uses magic sigils?"
+<choice :EC6: "Square Drive" \x00\x00>
+<choice :107E: "Triangle Drive" \x00\x00>
+<choice :107E: "Master Drive" \x00\x00>
+<choice :107E: "Circle Drive" \x00\x00>
 #
 \x18 :1C87: 
 :1BDF
-<name "ジャッジマン" "!FA0401">
-「魔法陣を用いる魔法形式は？」
-<choice :107E: "トライアングルドライブ" \x00\x00>
-<choice :107E: "サークルドライブ" \x00\x00>
-<choice :107E: "マスタードライブ" \x00\x00>
-<choice :EC6: "スクエアドライブ" \x00\x00>
+<name "Judgeman" "!FA0401">
+"What kind of magic uses magic sigils?"
+<choice :107E: "Triangle Drive" \x00\x00>
+<choice :107E: "Circle Drive" \x00\x00>
+<choice :107E: "Master Drive" \x00\x00>
+<choice :EC6: "Square Drive" \x00\x00>
 #
 :1C87
 \x1A\x01\x0A\x22\x00\x12 7 \x01\x0E :1DEA: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :1D66: 
-<name "ジャッジマン" "!FA0402">
-「ヴィオラの公のポジションは？」
-<choice :107E: "軍師" \x00\x00>
-<choice :EC6: "宮廷魔法使い" \x00\x00>
-<choice :107E: "外務担当文官" \x00\x00>
-<choice :107E: "戦闘教官" \x00\x00>
+<name "Judgeman" "!FA0402">
+"What is Viola's position?"
+<choice :107E: "Strategist" \x00\x00>
+<choice :EC6: "Court Wizard" \x00\x00>
+<choice :107E: "Diplomat" \x00\x00>
+<choice :107E: "Instructor" \x00\x00>
 #
 \x18 :1DEA: 
 :1D66
-<name "ジャッジマン" "!FA0402">
-「ヴィオラの公のポジションは？」
-<choice :107E: "王女" \x00\x00>
-<choice :107E: "家庭教師" \x00\x00>
-<choice :EC6: "宮廷魔法使い" \x00\x00>
-<choice :107E: "外務大臣" \x00\x00>
+<name "Judgeman" "!FA0402">
+"What is Viola's position?"
+<choice :107E: "Princess" \x00\x00>
+<choice :107E: "Professor" \x00\x00>
+<choice :EC6: "Court Wizard" \x00\x00>
+<choice :107E: "Foreign Minister" \x00\x00>
 #
 :1DEA
 \x1A\x01\x0A\x22\x00\x12 8 \x01\x0E :1F47: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :1EC1: 
-<name "ジャッジマン" "!FA0403">
-「ソシエットはどんな格好をしている？」
-<choice :107E: "バニー" \x00\x00>
-<choice :107E: "アロハ" \x00\x00>
-<choice :107E: "水着" \x00\x00>
-<choice :EC6: "メイド" \x00\x00>
+<name "Judgeman" "!FA0403">
+"What does Soshiette dress like?"
+<choice :107E: "Bunny" \x00\x00>
+<choice :107E: "Dancer" \x00\x00>
+<choice :107E: "Lifeguard" \x00\x00>
+<choice :EC6: "Maid" \x00\x00>
 #
 \x18 :1F47: 
 :1EC1
-<name "ジャッジマン" "!FA0403">
-「ソシエットはどんな格好をしている？」
-<choice :107E: "ナース" \x00\x00>
-<choice :107E: "武闘家" \x00\x00>
-<choice :EC6: "メイド" \x00\x00>
-<choice :107E: "裸エプロン" \x00\x00>
+<name "Judgeman" "!FA0403">
+"What does Soshiette dress like?"
+<choice :107E: "Nurse" \x00\x00>
+<choice :107E: "Warrior" \x00\x00>
+<choice :EC6: "Maid" \x00\x00>
+<choice :107E: "Courtesan" \x00\x00>
 #
 :1F47
 \x1A\x01\x0A\x22\x00\x12 9 \x01\x0E :2086: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :2012: 
-<name "ジャッジマン" "!FA0405">
-「ラズロックの家の裏庭にない物は？」
-<choice :107E: "土" \x00\x00>
-<choice :EC6: "牛小屋" \x00\x00>
-<choice :107E: "岩" \x00\x00>
-<choice :107E: "森" \x00\x00>
+<name "Judgeman" "!FA0405">
+"What is NOT in Lazlocke's backyard?"
+<choice :107E: "Soil" \x00\x00>
+<choice :EC6: "Shed" \x00\x00>
+<choice :107E: "Rock" \x00\x00>
+<choice :107E: "Tree" \x00\x00>
 #
 \x18 :2086: 
 :2012
-<name "ジャッジマン" "!FA0405">
-「ラズロックの家の裏庭にない物は？」
-<choice :107E: "土" \x00\x00>
-<choice :107E: "岩" \x00\x00>
-<choice :107E: "森" \x00\x00>
-<choice :EC6: "牛小屋" \x00\x00>
+<name "Judgeman" "!FA0405">
+"What is NOT in Lazlocke's backyard?"
+<choice :107E: "Soil" \x00\x00>
+<choice :107E: "Rock" \x00\x00>
+<choice :107E: "Tree" \x00\x00>
+<choice :EC6: "Shed" \x00\x00>
 #
 :2086
 \x1A\x01\x0A\x22\x00\x12 10 \x01\x0E :222D: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :2185: 
-<name "ジャッジマン" "!FA0406">
-「ヴィオラのフルネームは？」
-<choice :107E: "ヴィオラ＝エラトン" \x00\x00>
-<choice :107E: "ヴィオラ＝エラント" \x00\x00>
-<choice :107E: "ヴィオラ＝エトラン" \x00\x00>
-<choice :EC6: "ヴィオラ＝エントラ" \x00\x00>
+<name "Judgeman" "!FA0406">
+"What is Viola's full name?"
+<choice :107E: "Viola Eraton" \x00\x00>
+<choice :107E: "Viola Erant" \x00\x00>
+<choice :107E: "Viola Etran" \x00\x00>
+<choice :EC6: "Viola Entra" \x00\x00>
 #
 \x18 :222D: 
 :2185
-<name "ジャッジマン" "!FA0406">
-「ヴィオラのフルネームは？」
-<choice :107E: "ヴィオラ＝エトラン" \x00\x00>
-<choice :EC6: "ヴィオラ＝エントラ" \x00\x00>
-<choice :107E: "ヴィオラ＝エラトン" \x00\x00>
-<choice :107E: "ヴィオラ＝エラント" \x00\x00>
+<name "Judgeman" "!FA0406">
+"What is Viola's full name?"
+<choice :107E: "Viola Etran" \x00\x00>
+<choice :EC6: "Viola Entra" \x00\x00>
+<choice :107E: "Viola Eraton" \x00\x00>
+<choice :107E: "Viola Erant" \x00\x00>
 #
 :222D
 \x1A\x01\x0A\x22\x00\x12 11 \x01\x0E :23F0: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :233A: 
-<name "ジャッジマン" "!FA0407">
-「セリスのフルネームは？」
-<choice :107E: "セリスティーネ＝ロロコ" \x00\x00>
-<choice :107E: "セリスティーネ＝ココロ" \x00\x00>
-<choice :EC6: "セリスティーネ＝ロココ" \x00\x00>
-<choice :107E: "セリスティーネ＝コロロ" \x00\x00>
+<name "Judgeman" "!FA0407">
+"What is Celes's full name?"
+<choice :107E: "Celestine Roroco" \x00\x00>
+<choice :107E: "Celestine Cocoro" \x00\x00>
+<choice :EC6: "Celestine Rococo" \x00\x00>
+<choice :107E: "Celestine Cororo" \x00\x00>
 #
 \x18 :23F0: 
 :233A
-<name "ジャッジマン" "!FA0407">
-「セリスのフルネームは？」
-<choice :107E: "セリスティーネ＝ココロ" \x00\x00>
-<choice :107E: "セリスティーネ＝ロロコ" \x00\x00>
-<choice :107E: "セリスティーネ＝コロロ" \x00\x00>
-<choice :EC6: "セリスティーネ＝ロココ" \x00\x00>
+<name "Judgeman" "!FA0407">
+"What is Celes's full name?"
+<choice :107E: "Celstine Cocoro" \x00\x00>
+<choice :107E: "Celestine Roroco" \x00\x00>
+<choice :107E: "Celestine Cororo" \x00\x00>
+<choice :EC6: "Celestine Rococo" \x00\x00>
 #
 :23F0
 \x1A\x01\x0A\x22\x00\x12 12 \x01\x0E :25CB: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :2509: 
-<name "ジャッジマン" "!FA0408">
-「ラズロックのフルネームは？」
-<choice :EC6: "ラズロック＝アルトホーン" \x00\x00>
-<choice :107E: "ラズロック＝バックホーン" \x00\x00>
-<choice :107E: "ラズロック＝ライトホーン" \x00\x00>
-<choice :107E: "ラズロック＝レフトホーン" \x00\x00>
+<name "Judgeman" "!FA0408">
+"What is Lazlocke's full name?"
+<choice :EC6: "Lazlocke Althorn" \x00\x00>
+<choice :107E: "Lazlocke Backhorn" \x00\x00>
+<choice :107E: "Lazlocke Righthorn" \x00\x00>
+<choice :107E: "Lazlocke Lefthorn" \x00\x00>
 #
 \x18 :25CB: 
 :2509
-<name "ジャッジマン" "!FA0408">
-「ラズロックのフルネームは？」
-<choice :107E: "ラズロック＝レフトホーン" \x00\x00>
-<choice :107E: "ラズロック＝ライトホーン" \x00\x00>
-<choice :107E: "ラズロック＝バックホーン" \x00\x00>
-<choice :EC6: "ラズロック＝アルトホーン" \x00\x00>
+<name "Judgeman" "!FA0408">
+"What is Lazlocke's full name?"
+<choice :107E: "Lazlocke Lefthorn" \x00\x00>
+<choice :107E: "Lazlocke Righthorn" \x00\x00>
+<choice :107E: "Lazlocke Backhorn" \x00\x00>
+<choice :EC6: "Lazlocke Althorn" \x00\x00>
 #
 :25CB
 \x1A\x01\x0A\x22\x00\x12 13 \x01\x0E :277C: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :26D0: 
-<name "ジャッジマン" "!FA0409">
-「イエルのフルネームは？」
-<choice :107E: "イエル＝ブルーマリン" \x00\x00>
-<choice :EC6: "イエル＝ブルータクト" \x00\x00>
-<choice :107E: "イエル＝ブルーアーム" \x00\x00>
-<choice :107E: "イエル＝ブルースカイ" \x00\x00>
+<name "Judgeman" "!FA0409">
+"What is Elle's full name?"
+<choice :107E: "Elle Bluemarine" \x00\x00>
+<choice :EC6: "Elle Bluetact" \x00\x00>
+<choice :107E: "Elle Bluearm" \x00\x00>
+<choice :107E: "Elle Bluesky" \x00\x00>
 #
 \x18 :277C: 
 :26D0
-<name "ジャッジマン" "!FA0409">
-「イエルのフルネームは？」
-<choice :107E: "イエル＝ブルーマリン" \x00\x00>
-<choice :107E: "イエル＝ブルーネル" \x00\x00>
-<choice :107E: "イエル＝ブルースカイ" \x00\x00>
-<choice :EC6: "イエル＝ブルータクト" \x00\x00>
+<name "Judgeman" "!FA0409">
+"What is Elle's full name?"
+<choice :107E: "Elle Bluemarine" \x00\x00>
+<choice :107E: "Elle Bluenel" \x00\x00>
+<choice :107E: "Elle Bluesky" \x00\x00>
+<choice :EC6: "Elle Bluetact" \x00\x00>
 #
 :277C
 \x1A\x01\x0A\x22\x00\x12 14 \x01\x0E :2979: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :28A6: 
-<name "ジャッジマン" "!FA0411">
-「ヘンドリクのフルネームは？」
-（まだ出会ってなかったらごめんなさい）
-<choice :107E: "ヘンドリク＝ホドード" \x00\x00>
-<choice :107E: "ヘンドリク＝ホドー" \x00\x00>
-<choice :107E: "ヘンドリク＝ホホ" \x00\x00>
-<choice :EC6: "ヘンドリク＝ホード" \x00\x00>
+<name "Judgeman" "!FA0411">
+"What is Hendrik's full name?"
+<choice :107E: "Hendrik Hodod" \x00\x00>
+<choice :107E: "Hendrik Hodo" \x00\x00>
+<choice :107E: "Hendrik Hoho" \x00\x00>
+<choice :EC6: "Hendrik Hod" \x00\x00>
 #
 \x18 :2979: 
 :28A6
-<name "ジャッジマン" "!FA0411">
-「ヘンドリクのフルネームは？」
-（まだ出会ってなかったらごめんなさい）
-<choice :107E: "ヘンドリク＝ホドード" \x00\x00>
-<choice :EC6: "ヘンドリク＝ホード" \x00\x00>
-<choice :107E: "ヘンドリク＝ホホ" \x00\x00>
-<choice :107E: "ヘンドリク＝ホドー" \x00\x00>
+<name "Judgeman" "!FA0411">
+"What is Hendrik's full name?"
+<choice :107E: "Hendrik Hodod" \x00\x00>
+<choice :EC6: "Hendrik Hod" \x00\x00>
+<choice :107E: "Hendrik Hoho" \x00\x00>
+<choice :107E: "Hendrik Hodo" \x00\x00>
 #
 :2979
 \x1A\x01\x0A\x22\x00\x12 15 \x01\x0E :2BA2: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :2AB9: 
-<name "ジャッジマン" "!FA0412">
-「プシェルのフルネームは？」
-（まだ出会ってなかったらごめんなさい）
-<choice :107E: "プシェル＝フェックスブブ" \x00\x00>
-<choice :107E: "プシェル＝フィックスブブ" \x00\x00>
-<choice :EC6: "プシェル＝フォックスブブ" \x00\x00>
-<choice :107E: "プシェル＝フュックスブブ" \x00\x00>
+<name "Judgeman" "!FA0412">
+"What is Puschel's full name?"
+<choice :107E: "Puschel Fexbub" \x00\x00>
+<choice :107E: "Puschel Fixbub" \x00\x00>
+<choice :EC6: "Puschel Foxbub" \x00\x00>
+<choice :107E: "Puschel Fuxbub" \x00\x00>
 #
 \x18 :2BA2: 
 :2AB9
-<name "ジャッジマン" "!FA0412">
-「プシェルのフルネームは？」
-（まだ出会ってなかったらごめんなさい）
-<choice :107E: "プシェル＝フィックスブブ" \x00\x00>
-<choice :107E: "プシェル＝フェックスブブ" \x00\x00>
-<choice :107E: "プシェル＝フュックスブブ" \x00\x00>
-<choice :EC6: "プシェル＝フォックスブブ" \x00\x00>
+<name "Judgeman" "!FA0412">
+"What is Puschel's full name?"
+<choice :107E: "Puschel Fixbub" \x00\x00>
+<choice :107E: "Puscheul Fexbub" \x00\x00>
+<choice :107E: "Puschel Fuxbub" \x00\x00>
+<choice :EC6: "Puschel Foxbub" \x00\x00>
 #
 :2BA2
 \x1A\x01\x0A\x22\x00\x12 16 \x01\x0E :2DC3: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :2CDE: 
-<name "ジャッジマン" "!FA0413">
-「海の監視員をやっている時に着ている制服。
-　その背中に書かれている文字は？」
-<choice :EC6: "キング・シースネーク" \x00\x00>
-<choice :107E: "クイーン・シースネーク" \x00\x00>
-<choice :107E: "ルーク・シースネーク" \x00\x00>
-<choice :107E: "ナイト・シースネーク" \x00\x00>
+<name "Judgeman" "!FA0413">
+"What is written on the back of the lifeguard
+ jackets?"
+<choice :EC6: "King Sea Snake" \x00\x00>
+<choice :107E: "Queen Sea Snake" \x00\x00>
+<choice :107E: "Rook Sea Snake" \x00\x00>
+<choice :107E: "Knight Sea Snake" \x00\x00>
 #
 \x18 :2DC3: 
 :2CDE
-<name "ジャッジマン" "!FA0413">
-「海の監視員をやっている時に着ている制服。
-　その背中に書かれている文字は？」
-<choice :107E: "ナイト・シースネーク" \x00\x00>
-<choice :107E: "ルーク・シースネーク" \x00\x00>
-<choice :107E: "クイーン・シースネーク" \x00\x00>
-<choice :EC6: "キング・シースネーク" \x00\x00>
+<name "Judgeman" "!FA0413">
+"What is written on the back of the lifeguard
+ jackets?"
+<choice :107E: "Knight Sea Snake" \x00\x00>
+<choice :107E: "Rook Sea Snake" \x00\x00>
+<choice :107E: "Queen Sea Snake" \x00\x00>
+<choice :EC6: "King Sea Snake" \x00\x00>
 #
 :2DC3
 \x1A\x01\x0A\x22\x00\x12 17 \x01\x0E :2F38: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :2EA9: 
-<name "ジャッジマン" "!FA0414">
-「ソシエットは、魔法使い協会の何部門に所属して
-　いる？」
-<choice :107E: "情報" \x00\x00>
-<choice :EC6: "保守" \x00\x00>
-<choice :107E: "軍事" \x00\x00>
-<choice :107E: "育成" \x00\x00>
+<name "Judgeman" "!FA0414">
+"What part of the Wizard's Guild does Soshiette
+ belong to?"
+<choice :107E: "Intelligence" \x00\x00>
+<choice :EC6: "Preservation" \x00\x00>
+<choice :107E: "Military" \x00\x00>
+<choice :107E: "Development" \x00\x00>
 #
 \x18 :2F38: 
 :2EA9
-<name "ジャッジマン" "!FA0414">
-「ソシエットは、魔法使い協会の何部門に所属して
-　いる？」
-<choice :107E: "育成" \x00\x00>
-<choice :107E: "軍事" \x00\x00>
-<choice :107E: "情報" \x00\x00>
-<choice :EC6: "保守" \x00\x00>
+<name "Judgeman" "!FA0414">
+"What part of the Wizard's Guild does Soshiette
+ belong to?"
+<choice :107E: "Development" \x00\x00>
+<choice :107E: "Military" \x00\x00>
+<choice :107E: "Intelligence" \x00\x00>
+<choice :EC6: "Preservation" \x00\x00>
 #
 :2F38
 \x1A\x01\x0A\x22\x00\x12 18 \x01\x0E :312D: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :305E: 
-<name "ジャッジマン" "!FA0415">
-「セリスの魔法適性を調べる為に、ソシエットが使っ
-　た道具は？」
-<choice :107E: "魔法の適性判定鏡" \x00\x00>
-<choice :107E: "魔法の適性判定シート" \x00\x00>
-<choice :107E: "魔法の適性判定シール" \x00\x00>
-<choice :EC6: "魔法の適性判定水晶" \x00\x00>
+<name "Judgeman" "!FA0415">
+"What did Soshiette use to determine Celes's
+ magical aptitude?"
+<choice :107E: "Mirror" \x00\x00>
+<choice :107E: "Sheet" \x00\x00>
+<choice :107E: "Seal" \x00\x00>
+<choice :EC6: "Crystal" \x00\x00>
 #
 \x18 :312D: 
 :305E
-<name "ジャッジマン" "!FA0415">
-「セリスの魔法適性を調べる為に、ソシエットが使っ
-　た道具は？」
-<choice :107E: "魔法の適性判定鏡" \x00\x00>
-<choice :EC6: "魔法の適性判定水晶" \x00\x00>
-<choice :107E: "魔法の適性判定シート" \x00\x00>
-<choice :107E: "魔法の適性判定シール" \x00\x00>
+<name "Judgeman" "!FA0415">
+"What did Soshiette use to determine Celes's
+ magical aptitude?"
+<choice :107E: "Mirror" \x00\x00>
+<choice :EC6: "Crystal" \x00\x00>
+<choice :107E: "Sheet" \x00\x00>
+<choice :107E: "Seal" \x00\x00>
 #
 :312D
 \x1A\x01\x0A\x22\x00\x12 19 \x01\x0E :3290: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :320A: 
-<name "ジャッジマン" "!FA0416">
-「セリスの魔法適性は？」
-<choice :107E: "火と水" \x00\x00>
-<choice :107E: "風と土" \x00\x00>
-<choice :107E: "光と闇" \x00\x00>
-<choice :EC6: "オールマイテイー反則だ！" \x00\x00>
+<name "Judgeman" "!FA0416">
+"What is Celes's magical aptitude?"
+<choice :107E: "Fire and Water" \x00\x00>
+<choice :107E: "Earth and Wind" \x00\x00>
+<choice :107E: "Light and Dark" \x00\x00>
+<choice :EC6: "Anything She Wants!" \x00\x00>
 #
 \x18 :3290: 
 :320A
-<name "ジャッジマン" "!FA0416">
-「セリスの魔法適性は？」
-<choice :EC6: "オールマイテイー反則だ！" \x00\x00>
-<choice :107E: "光と闇" \x00\x00>
-<choice :107E: "風と土" \x00\x00>
-<choice :107E: "火と水" \x00\x00>
+<name "Judgeman" "!FA0416">
+"What is Celes's magical aptitude?"
+<choice :EC6: "Anything She Wants!" \x00\x00>
+<choice :107E: "Light and Dark" \x00\x00>
+<choice :107E: "Earth and Wind" \x00\x00>
+<choice :107E: "Fire and Water" \x00\x00>
 #
 :3290
 \x1A\x01\x0A\x22\x00\x12 20 \x01\x0E :344B: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3399: 
-<name "ジャッジマン" "!FA0417">
-「協会長の弟子は、通称なんと呼ばれているか？」
-<choice :107E: "グレイトマックス" \x00\x00>
-<choice :107E: "グレイトソックス" \x00\x00>
-<choice :EC6: "グレイトシックス" \x00\x00>
-<choice :107E: "グレイトドックス" \x00\x00>
+<name "Judgeman" "!FA0417">
+"What are the apprentices of the current head of
+ the Wizard's Guild commonly known as?"
+<choice :107E: "The Great Max" \x00\x00>
+<choice :107E: "The Great Socks" \x00\x00>
+<choice :EC6: "The Great Six" \x00\x00>
+<choice :107E: "The Great Docks" \x00\x00>
 #
 \x18 :344B: 
 :3399
-<name "ジャッジマン" "!FA0417">
-「協会長の弟子は、通称なんと呼ばれているか？」
-<choice :107E: "グレイトドックス" \x00\x00>
-<choice :107E: "グレイトソックス" \x00\x00>
-<choice :107E: "グレイトマックス" \x00\x00>
-<choice :EC6: "グレイトシックス" \x00\x00>
+<name "Judgeman" "!FA0417">
+"What are the apprentices of the current head of
+ the Wizard's Guild commonly known as?"
+<choice :107E: "The Great Docks" \x00\x00>
+<choice :107E: "The Great Socks" \x00\x00>
+<choice :107E: "The Great Max" \x00\x00>
+<choice :EC6: "The Great Six" \x00\x00>
 #
 :344B
 \x1A\x01\x0A\x22\x00\x12 21 \x01\x0E :35E6: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3544: 
-<name "ジャッジマン" "!FA0418">
-「存在自体が魔法のアイテムをなんと呼ぶか？」
-<choice :107E: "マジックキー" \x00\x00>
-<choice :EC6: "プレシャス" \x00\x00>
-<choice :107E: "グレイトキー" \x00\x00>
-<choice :107E: "ラッキージュエル" \x00\x00>
+<name "Judgeman" "!FA0418">
+"What are legendary magical items classified as?"
+<choice :107E: "Magic Key" \x00\x00>
+<choice :EC6: "Precious" \x00\x00>
+<choice :107E: "Great Key" \x00\x00>
+<choice :107E: "Lucky Jewel" \x00\x00>
 #
 \x18 :35E6: 
 :3544
-<name "ジャッジマン" "!FA0418">
-「存在自体が魔法のアイテムをなんと呼ぶか？」
-<choice :107E: "マジックキー" \x00\x00>
-<choice :107E: "ラッキージュエル" \x00\x00>
-<choice :107E: "グレイトキー" \x00\x00>
-<choice :EC6: "プレシャス" \x00\x00>
+<name "Judgeman" "!FA0418">
+"What are legendary magical items classified as?"
+<choice :107E: "Magic Key" \x00\x00>
+<choice :107E: "Lucky Jewel" \x00\x00>
+<choice :107E: "Great Key" \x00\x00>
+<choice :EC6: "Precious" \x00\x00>
 #
 :35E6
 \x1A\x01\x0A\x22\x00\x12 22 \x01\x0E :3735: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :36B9: 
-<name "ジャッジマン" "!FA0419">
-「セリスの苦手な食べ物は？」
-<choice :107E: "ネギ" \x00\x00>
-<choice :107E: "ダイコン" \x00\x00>
-<choice :107E: "タマネギ" \x00\x00>
-<choice :EC6: "ニンジン" \x00\x00>
+<name "Judgeman" "!FA0419">
+"What kind of food does Celes hate?"
+<choice :107E: "Leeks" \x00\x00>
+<choice :107E: "Radishes" \x00\x00>
+<choice :107E: "Onions" \x00\x00>
+<choice :EC6: "Carrots" \x00\x00>
 #
 \x18 :3735: 
 :36B9
-<name "ジャッジマン" "!FA0419">
-「セリスの苦手な食べ物は？」
-<choice :107E: "ダイコン" \x00\x00>
-<choice :EC6: "ニンジン" \x00\x00>
-<choice :107E: "タマネギ" \x00\x00>
-<choice :107E: "ネギ" \x00\x00>
+<name "Judgeman" "!FA0419">
+"What kind of food does Celes hate?"
+<choice :107E: "Radishes" \x00\x00>
+<choice :EC6: "Carrots" \x00\x00>
+<choice :107E: "Onions" \x00\x00>
+<choice :107E: "Leeks" \x00\x00>
 #
 :3735
 \x1A\x01\x0A\x22\x00\x12 23 \x01\x0E :38A4: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3818: 
-<name "ジャッジマン" "!FA0420">
-「ソシエットの苦手な食べ物は？」
-<choice :107E: "タマネギ" \x00\x00>
-<choice :107E: "ブロッコリー" \x00\x00>
-<choice :107E: "アスパラガス" \x00\x00>
-<choice :EC6: "ニンジン" \x00\x00>
+<name "Judgeman" "!FA0420">
+"What kind of food does Soshiette hate?"
+<choice :107E: "Onions" \x00\x00>
+<choice :107E: "Broccoli" \x00\x00>
+<choice :107E: "Asparagus" \x00\x00>
+<choice :EC6: "Carrots" \x00\x00>
 #
 \x18 :38A4: 
 :3818
-<name "ジャッジマン" "!FA0420">
-「ソシエットの苦手な食べ物は？」
-<choice :107E: "ブロッコリー" \x00\x00>
-<choice :107E: "タマネギ" \x00\x00>
-<choice :EC6: "ニンジン" \x00\x00>
-<choice :107E: "アスパラガス" \x00\x00>
+<name "Judgeman" "!FA0420">
+"What kind of food does Soshiette hate?"
+<choice :107E: "Broccoli" \x00\x00>
+<choice :107E: "Onions" \x00\x00>
+<choice :EC6: "Carrots" \x00\x00>
+<choice :107E: "Asparagus" \x00\x00>
 #
 :38A4
 \x1A\x01\x0A\x22\x00\x12 24 \x01\x0E :3A1F: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :398D: 
-<name "ジャッジマン" "!FA0421">
-「イエルの苦手な食べ物は？」
-<choice :EC6: "茹でたブロッコリー" \x00\x00>
-<choice :107E: "茹でたタコ" \x00\x00>
-<choice :107E: "焼いたクルミ" \x00\x00>
-<choice :107E: "焼いたパイ" \x00\x00>
+<name "Judgeman" "!FA0421">
+"What kind of food does Elle hate?"
+<choice :EC6: "Boiled Broccoli" \x00\x00>
+<choice :107E: "Boiled Octopus" \x00\x00>
+<choice :107E: "Roasted Walnuts" \x00\x00>
+<choice :107E: "Tarts" \x00\x00>
 #
 \x18 :3A1F: 
 :398D
-<name "ジャッジマン" "!FA0421">
-「イエルの苦手な食べ物は？」
-<choice :107E: "焼いたパイ" \x00\x00>
-<choice :107E: "焼いたクルミ" \x00\x00>
-<choice :107E: "茹でたタコ" \x00\x00>
-<choice :EC6: "茹でたブロッコリー" \x00\x00>
+<name "Judgeman" "!FA0421">
+"What kind of food does Elle hate?"
+<choice :107E: "Tarts" \x00\x00>
+<choice :107E: "Roasted Walnuts" \x00\x00>
+<choice :107E: "Boiled Octopus" \x00\x00>
+<choice :EC6: "Boiled Broccoli" \x00\x00>
 #
 :3A1F
 \x1A\x01\x0A\x22\x00\x12 25 \x01\x0E :3B96: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3B06: 
-<name "ジャッジマン" "!FA0422">
-「クレリア＝ノルザックって誰？」
-<choice :EC6: "魔法学園の生徒" \x00\x00>
-<choice :107E: "誘拐犯" \x00\x00>
-<choice :107E: "美しい剣士" \x00\x00>
-<choice :107E: "雑貨屋の奥さん" \x00\x00>
+<name "Judgeman" "!FA0422">
+"Who is Cleria Nolzac?"
+<choice :EC6: "Student" \x00\x00>
+<choice :107E: "Kidnapper" \x00\x00>
+<choice :107E: "Swordswoman" \x00\x00>
+<choice :107E: "Merchant's Daughter" \x00\x00>
 #
 \x18 :3B96: 
 :3B06
-<name "ジャッジマン" "!FA0422">
-「クレリア＝ノルザックって誰？」
-<choice :107E: "雑貨屋の奥さん" \x00\x00>
-<choice :107E: "誘拐犯" \x00\x00>
-<choice :107E: "美しい剣士" \x00\x00>
-<choice :EC6: "魔法学園の生徒" \x00\x00>
+<name "Judgeman" "!FA0422">
+"Who is Cleria Nolzac?"
+<choice :107E: "Merchant's Daughter" \x00\x00>
+<choice :107E: "Kidnapper" \x00\x00>
+<choice :107E: "Swordswoman" \x00\x00>
+<choice :EC6: "Student" \x00\x00>
 #
 :3B96
 \x1A\x01\x0A\x22\x00\x12 26 \x01\x0E :3CFD: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3C75: 
-<name "ジャッジマン" "!FA0423">
-「ラズロックの特殊技能は？」
-<choice :107E: "絶対防御" \x00\x00>
-<choice :107E: "魔法無効化" \x00\x00>
-<choice :EC6: "魔法使いの花嫁" \x00\x00>
-<choice :107E: "空間結界" \x00\x00>
+<name "Judgeman" "!FA0423">
+"What is Lazlocke's unique ability?"
+<choice :107E: "Absolute Defense" \x00\x00>
+<choice :107E: "Magic Immunity" \x00\x00>
+<choice :EC6: "Wizard's Bride" \x00\x00>
+<choice :107E: "Absolute Territory" \x00\x00>
 #
 \x18 :3CFD: 
 :3C75
-<name "ジャッジマン" "!FA0423">
-「ラズロックの特殊技能は？」
-<choice :107E: "絶対防御" \x00\x00>
-<choice :107E: "魔法無効化" \x00\x00>
-<choice :EC6: "魔法使いの花嫁" \x00\x00>
-<choice :107E: "空間結界" \x00\x00>
+<name "Judgeman" "!FA0423">
+"What is Lazlocke's unique ability?"
+<choice :107E: "Absolute Defense" \x00\x00>
+<choice :107E: "Magic Immunity" \x00\x00>
+<choice :EC6: "Wizard's Bride" \x00\x00>
+<choice :107E: "Absolute Territory" \x00\x00>
 #
 :3CFD
 \x1A\x01\x0A\x22\x00\x12 27 \x01\x0E :3EA8: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3DFE: 
-<name "ジャッジマン" "!FA0425">
-「ローリア料理大会で使われた幻の食材とは？」
-<choice :107E: "レインボーニンジン" \x00\x00>
-<choice :107E: "ホワイトタマネギ" \x00\x00>
-<choice :107E: "レッドニンジン" \x00\x00>
-<choice :EC6: "クヌヌスカ" \x00\x00>
+<name "Judgeman" "!FA0425">
+"What was the phantom food used in the Loria 
+ Cooking Contest?"
+<choice :107E: "Rainbow Carrot" \x00\x00>
+<choice :107E: "White Onion" \x00\x00>
+<choice :107E: "Red Carrot" \x00\x00>
+<choice :EC6: "Kununska" \x00\x00>
 #
 \x18 :3EA8: 
 :3DFE
-<name "ジャッジマン" "!FA0425">
-「ローリア料理大会で使われた幻の食材とは？」
-<choice :107E: "レインボーニンジン" \x00\x00>
-<choice :EC6: "クヌヌスカ" \x00\x00>
-<choice :107E: "レッドニンジン" \x00\x00>
-<choice :107E: "ホワイトタマネギ" \x00\x00>
+<name "Judgeman" "!FA0425">
+"What was the phantom food used in the Loria 
+ Cooking Contest?"
+<choice :107E: "Rainbow Carrot" \x00\x00>
+<choice :EC6: "Kununska" \x00\x00>
+<choice :107E: "Red Carrot" \x00\x00>
+<choice :107E: "White Onion" \x00\x00>
 #
 :3EA8
 \x1A\x01\x0A\x22\x00\x12 28 \x01\x0E :400B: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :3F85: 
-<name "ジャッジマン" "!FA0426">
-「ローリア料理大会の準決勝に残っている人数は？」
-<choice :107E: "３人" \x00\x00>
-<choice :107E: "４人" \x00\x00>
-<choice :EC6: "８人" \x00\x00>
-<choice :107E: "１６人" \x00\x00>
+<name "Judgeman" "!FA0426">
+"How many competitors were in the semi-finals of
+ the Loria Cooking Contest?"
+<choice :107E: "3" \x00\x00>
+<choice :107E: "4" \x00\x00>
+<choice :EC6: "8" \x00\x00>
+<choice :107E: "16" \x00\x00>
 #
 \x18 :400B: 
 :3F85
-<name "ジャッジマン" "!FA0426">
-「ローリア料理大会の準決勝に残っている人数は？」
-<choice :107E: "４人" \x00\x00>
-<choice :107E: "６人" \x00\x00>
-<choice :EC6: "８人" \x00\x00>
-<choice :107E: "１２人" \x00\x00>
+<name "Judgeman" "!FA0426">
+"How many competitors were in the semi-finals of
+ the Loria Cooking Contest?"
+<choice :107E: "4" \x00\x00>
+<choice :107E: "6" \x00\x00>
+<choice :EC6: "8" \x00\x00>
+<choice :107E: "12" \x00\x00>
 #
 :400B
 \x1A\x01\x0A\x22\x00\x12 29 \x01\x0E :41B2: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :410A: 
-<name "ジャッジマン" "!FA0427">
-「真なる英雄の大会の大会会場はどこ？」
-<choice :107E: "ローリアの隣街" \x00\x00>
-<choice :107E: "ローリアの外周部" \x00\x00>
-<choice :EC6: "ローリアの街全て" \x00\x00>
-<choice :107E: "ローリアの街の外" \x00\x00>
+<name "Judgeman" "!FA0427">
+"Where does the Tournament of True Heroes take
+ place?"
+<choice :107E: "Nearby Loria" \x00\x00>
+<choice :107E: "Loria's Outskirts" \x00\x00>
+<choice :EC6: "All Over Loria" \x00\x00>
+<choice :107E: "Away From Loria" \x00\x00>
 #
 \x18 :41B2: 
 :410A
-<name "ジャッジマン" "!FA0427">
-「真なる英雄の大会の大会会場はどこ？」
-<choice :107E: "ローリアの街の外" \x00\x00>
-<choice :107E: "ローリアの外周部" \x00\x00>
-<choice :EC6: "ローリアの街全て" \x00\x00>
-<choice :107E: "ローリアの隣街" \x00\x00>
+<name "Judgeman" "!FA0427">
+"Where does the Tournament of True Heroes take
+ place?"
+<choice :107E: "Away From Loria" \x00\x00>
+<choice :107E: "Loria's Outskirts" \x00\x00>
+<choice :EC6: "All Over Loria" \x00\x00>
+<choice :107E: "Nearby Loria" \x00\x00>
 #
 :41B2
 \x1A\x01\x0A\x22\x00\x12 30 \x01\x0E :42E9: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4279: 
-<name "ジャッジマン" "!FA0428">
-「海に行けるのは何月から？」
-<choice :107E: "５月" \x00\x00>
-<choice :EC6: "６月" \x00\x00>
-<choice :107E: "７月" \x00\x00>
-<choice :107E: "８月" \x00\x00>
+<name "Judgeman" "!FA0428">
+"What month does the beach open?"
+<choice :107E: "May" \x00\x00>
+<choice :EC6: "June" \x00\x00>
+<choice :107E: "July" \x00\x00>
+<choice :107E: "August" \x00\x00>
 #
 \x18 :42E9: 
 :4279
-<name "ジャッジマン" "!FA0428">
-「海に行けるのは何月から？」
-<choice :107E: "４月" \x00\x00>
-<choice :107E: "５月" \x00\x00>
-<choice :EC6: "６月" \x00\x00>
-<choice :107E: "７月" \x00\x00>
+<name "Judgeman" "!FA0428">
+"What month does the beach open?"
+<choice :107E: "April" \x00\x00>
+<choice :107E: "May" \x00\x00>
+<choice :EC6: "June" \x00\x00>
+<choice :107E: "July" \x00\x00>
 #
 :42E9
 \x1A\x01\x0A\x22\x00\x12 31 \x01\x0E :4468: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :43D4: 
-<name "ジャッジマン" "!FA0429">
-「セリスの部屋にある家具の種類で、ないのは？」
-<choice :107E: "クローゼット" \x00\x00>
-<choice :107E: "本棚" \x00\x00>
-<choice :107E: "ベッド" \x00\x00>
-<choice :EC6: "シャンデリア" \x00\x00>
+<name "Judgeman" "!FA0429">
+"What kind of furniture can NOT be put in Celes's
+ room?"
+<choice :107E: "Closet" \x00\x00>
+<choice :107E: "Bookshelf" \x00\x00>
+<choice :107E: "Bed" \x00\x00>
+<choice :EC6: "Chandelier" \x00\x00>
 #
 \x18 :4468: 
 :43D4
-<name "ジャッジマン" "!FA0429">
-「セリスの部屋にある家具の種類で、ないのは？」
-<choice :EC6: "シャンデリア" \x00\x00>
-<choice :107E: "ベッド" \x00\x00>
-<choice :107E: "クローゼット" \x00\x00>
-<choice :107E: "本棚" \x00\x00>
+<name "Judgeman" "!FA0429">
+"What kind of furniture can NOT be put in Celes's
+ room?"
+<choice :EC6: "Chandelier" \x00\x00>
+<choice :107E: "Bed" \x00\x00>
+<choice :107E: "Closet" \x00\x00>
+<choice :107E: "Bookshelf" \x00\x00>
 #
 :4468
 \x1A\x01\x0A\x22\x00\x12 32 \x01\x0E :45F5: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4559: 
-<name "ジャッジマン" "!FA0430">
-「セリスの部屋にある家具の種類で、あるのは？」
-<choice :EC6: "応接セット" \x00\x00>
-<choice :107E: "魔法の空調機" \x00\x00>
-<choice :107E: "魔法の冷蔵庫" \x00\x00>
-<choice :107E: "プール" \x00\x00>
+<name "Judgeman" "!FA0430">
+"What kind of furniture can be placed in Celes's
+ room?"
+<choice :EC6: "Closet" \x00\x00>
+<choice :107E: "Air Conditioner" \x00\x00>
+<choice :107E: "Refrigerator" \x00\x00>
+<choice :107E: "Pool" \x00\x00>
 #
 \x18 :45F5: 
 :4559
-<name "ジャッジマン" "!FA0430">
-「セリスの部屋にある家具の種類で、あるのは？」
-<choice :107E: "プール" \x00\x00>
-<choice :107E: "魔法の冷蔵庫" \x00\x00>
-<choice :EC6: "クローゼット" \x00\x00>
-<choice :107E: "魔法の空調機" \x00\x00>
+<name "Judgeman" "!FA0430">
+"What kind of furniture can be placed in Celes's
+ room?"
+<choice :107E: "Pool" \x00\x00>
+<choice :107E: "Refrigerator" \x00\x00>
+<choice :EC6: "Closet" \x00\x00>
+<choice :107E: "Air Conditioner" \x00\x00>
 #
 :45F5
 \x1A\x01\x0A\x22\x00\x12 33 \x01\x0E :4780: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :46E6: 
-<name "ジャッジマン" "!FA0431">
-「バンカスター武術大会は、何年に一度の大会？」
-<choice :107E: "一年に一度" \x00\x00>
-<choice :107E: "二年に一度" \x00\x00>
-<choice :EC6: "四年に一度" \x00\x00>
-<choice :107E: "六年に一度" \x00\x00>
+<name "Judgeman" "!FA0431">
+"How often is the Bancaster Martial Arts 
+ Tournament held?"
+<choice :107E: "Every Year" \x00\x00>
+<choice :107E: "Every Other Year" \x00\x00>
+<choice :EC6: "Every Four Years" \x00\x00>
+<choice :107E: "Every Six Years" \x00\x00>
 #
 \x18 :4780: 
 :46E6
-<name "ジャッジマン" "!FA0431">
-「バンカスター武術大会は、何年に一度の大会？」
-<choice :107E: "三年に一度" \x00\x00>
-<choice :EC6: "四年に一度" \x00\x00>
-<choice :107E: "六年に一度" \x00\x00>
-<choice :107E: "七年に一度" \x00\x00>
+<name "Judgeman" "!FA0431">
+"How often is the Bancaster Martial Arts 
+ Tournament held?"
+<choice :107E: "Every Three Years" \x00\x00>
+<choice :EC6: "Every Four Years" \x00\x00>
+<choice :107E: "Every Six Years" \x00\x00>
+<choice :107E: "Every Seven Years" \x00\x00>
 #
 :4780
 \x1A\x01\x0A\x22\x00\x12 34 \x01\x0E :493B: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4889: 
-<name "ジャッジマン" "!FA0433">
-「毎月行なわれている魔法大会はどれ？」
-<choice :107E: "ルーン魔法大会" \x00\x00>
-<choice :107E: "クデュール魔法大会" \x00\x00>
-<choice :107E: "バンカスター魔法大会" \x00\x00>
-<choice :EC6: "クインズベル魔法大会" \x00\x00>
+<name "Judgeman" "!FA0433">
+"What is the magic tournament that's held every
+ month?"
+<choice :107E: "Rune Tournament" \x00\x00>
+<choice :107E: "Coudures Tournament" \x00\x00>
+<choice :107E: "Bancaster Tournament" \x00\x00>
+<choice :EC6: "Queensbell Tournament" \x00\x00>
 #
 \x18 :493B: 
 :4889
-<name "ジャッジマン" "!FA0433">
-「毎月行なわれている魔法大会はどれ？」
-<choice :107E: "バンカスター魔法大会" \x00\x00>
-<choice :EC6: "クインズベル魔法大会" \x00\x00>
-<choice :107E: "ルーン魔法大会" \x00\x00>
-<choice :107E: "クデュール魔法大会" \x00\x00>
+<name "Judgeman" "!FA0433">
+"What is the magic tournament that's held every
+ month?"
+<choice :107E: "Bancaster Tournament" \x00\x00>
+<choice :EC6: "Queensbell Tournament" \x00\x00>
+<choice :107E: "Rune Tournament" \x00\x00>
+<choice :107E: "Coudures Tournament" \x00\x00>
 #
 :493B
 \x1A\x01\x0A\x22\x00\x12 35 \x01\x0E :4ACA: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4A2E: 
-<name "ジャッジマン" "!FA0434">
-「ヴィオラが遠征で行っていた場所はどこ？」
-<choice :107E: "レグルリア王国" \x00\x00>
-<choice :EC6: "クルーネ帝国" \x00\x00>
-<choice :107E: "ヴィスト王国" \x00\x00>
-<choice :107E: "奈宮皇国" \x00\x00>
+<name "Judgeman" "!FA0434">
+"Where did Viola travel to?"
+<choice :107E: "Regulia" \x00\x00>
+<choice :EC6: "Krun" \x00\x00>
+<choice :107E: "Vist" \x00\x00>
+<choice :107E: "Namiya" \x00\x00>
 #
 \x18 :4ACA: 
 :4A2E
-<name "ジャッジマン" "!FA0434">
-「ヴィオラが遠征で行っていた場所はどこ？」
-<choice :107E: "レグルリア王国" \x00\x00>
-<choice :107E: "奈宮皇国" \x00\x00>
-<choice :107E: "ヴィスト王国" \x00\x00>
-<choice :EC6: "クルーネ帝国" \x00\x00>
+<name "Judgeman" "!FA0434">
+"Where did Viola travel to?"
+<choice :107E: "Regulia" \x00\x00>
+<choice :107E: "Namiya" \x00\x00>
+<choice :107E: "Vist" \x00\x00>
+<choice :EC6: "Krun" \x00\x00>
 #
 :4ACA
 \x1A\x01\x0A\x22\x00\x12 36 \x01\x0E :4C15: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4B9B: 
-<name "ジャッジマン" "!FA0435">
-「セリスが修行で行けない場所はどこ？」
-<choice :EC6: "魔界" \x00\x00>
-<choice :107E: "海" \x00\x00>
-<choice :107E: "山" \x00\x00>
-<choice :107E: "地下迷宮" \x00\x00>
+<name "Judgeman" "!FA0435">
+"Where can Celes NOT go to train?"
+<choice :EC6: "Netherworld" \x00\x00>
+<choice :107E: "Beach" \x00\x00>
+<choice :107E: "Mountains" \x00\x00>
+<choice :107E: "Dungeon" \x00\x00>
 #
 \x18 :4C15: 
 :4B9B
-<name "ジャッジマン" "!FA0435">
-「セリスが修行で行けない場所はどこ？」
-<choice :107E: "地下迷宮" \x00\x00>
-<choice :107E: "海" \x00\x00>
-<choice :107E: "山" \x00\x00>
-<choice :EC6: "魔界" \x00\x00>
+<name "Judgeman" "!FA0435">
+"Where can Celes NOT go to train?"
+<choice :107E: "Dungeon" \x00\x00>
+<choice :107E: "Beach" \x00\x00>
+<choice :107E: "Mountains" \x00\x00>
+<choice :EC6: "Netherworld" \x00\x00>
 #
 :4C15
 \x1A\x01\x0A\x22\x00\x12 37 \x01\x0E :4D9C: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4D04: 
-<name "ジャッジマン" "!FA0437">
-「ラズロックが愛用している雑貨店は？」
-<choice :107E: "ロロス雑貨店" \x00\x00>
-<choice :107E: "ユミーの店" \x00\x00>
-<choice :EC6: "リゼッテ雑貨店" \x00\x00>
-<choice :107E: "バオ雑貨店" \x00\x00>
+<name "Judgeman" "!FA0437">
+"What is the name of the store Lazlocke uses?"
+<choice :107E: "Loros's" \x00\x00>
+<choice :107E: "Ymi's" \x00\x00>
+<choice :EC6: "Lisette's" \x00\x00>
+<choice :107E: "Bao's" \x00\x00>
 #
 \x18 :4D9C: 
 :4D04
-<name "ジャッジマン" "!FA0437">
-「ラズロックが愛用している雑貨店は？」
-<choice :107E: "ユミーの店" \x00\x00>
-<choice :107E: "ロロス雑貨店" \x00\x00>
-<choice :107E: "バオ雑貨店" \x00\x00>
-<choice :EC6: "リゼッテ雑貨店" \x00\x00>
+<name "Judgeman" "!FA0437">
+"What is the name of the store Lazlocke uses?"
+<choice :107E: "Yumi's" \x00\x00>
+<choice :107E: "Loros's" \x00\x00>
+<choice :107E: "Bao's" \x00\x00>
+<choice :EC6: "Lisette's" \x00\x00>
 #
 :4D9C
 \x1A\x01\x0A\x22\x00\x12 38 \x01\x0E :4F3B: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :4E97: 
-<name "ジャッジマン" "!FA0438">
-「グレイトシックスのメンバーじゃないのは誰？」
-<choice :107E: "ヘンリエッタ" \x00\x00>
-<choice :107E: "エルザ" \x00\x00>
-<choice :107E: "キーマ" \x00\x00>
-<choice :EC6: "ルーン" \x00\x00>
-<choice :107E: "メイツェル" \x00\x00>
+<name "Judgeman" "!FA0438">
+"Who is not a member of the Great Six?"
+<choice :107E: "Henrietta" \x00\x00>
+<choice :107E: "Elsa" \x00\x00>
+<choice :107E: "Keima" \x00\x00>
+<choice :EC6: "Rune" \x00\x00>
+<choice :107E: "Mayzel" \x00\x00>
 #
 \x18 :4F3B: 
 :4E97
-<name "ジャッジマン" "!FA0438">
-「グレイトシックスのメンバーじゃないのは誰？」
-<choice :107E: "ヘンリエッタ" \x00\x00>
-<choice :EC6: "ルーン" \x00\x00>
-<choice :107E: "エルザ" \x00\x00>
-<choice :107E: "キーマ" \x00\x00>
-<choice :107E: "メイツェル" \x00\x00>
+<name "Judgeman" "!FA0438">
+"Who is not a member of the Great Six?"
+<choice :107E: "Henrietta" \x00\x00>
+<choice :EC6: "Rune" \x00\x00>
+<choice :107E: "Elsa" \x00\x00>
+<choice :107E: "Keima" \x00\x00>
+<choice :107E: "Mayzel" \x00\x00>
 #
 :4F3B
 \x1A\x01\x0A\x22\x00\x12 39 \x01\x0E :50AE: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5020: 
-<name "ジャッジマン" "!FA0439">
-「研究手伝いで、時々、一緒になる女の子の名前は？」
-<choice :107E: "ポニー" \x00\x00>
-<choice :EC6: "コニー" \x00\x00>
-<choice :107E: "マニー" \x00\x00>
-<choice :107E: "ユニー" \x00\x00>
+<name "Judgeman" "!FA0439">
+"What is the name of the girl who sometimes 
+ helps Celes with research work?"
+<choice :107E: "Penny" \x00\x00>
+<choice :EC6: "Connie" \x00\x00>
+<choice :107E: "Manny" \x00\x00>
+<choice :107E: "Eunie" \x00\x00>
 #
 \x18 :50AE: 
 :5020
-<name "ジャッジマン" "!FA0439">
-「研究手伝いで、時々、一緒になる女の子の名前は？」
-<choice :107E: "ポニー" \x00\x00>
-<choice :107E: "ユニー" \x00\x00>
-<choice :107E: "レニー" \x00\x00>
-<choice :EC6: "コニー" \x00\x00>
+<name "Judgeman" "!FA0439">
+"What is the name of the girl who sometimes helps
+ Celes with research work?"
+<choice :107E: "Penny" \x00\x00>
+<choice :107E: "Eunie" \x00\x00>
+<choice :107E: "Rennie" \x00\x00>
+<choice :EC6: "Connie" \x00\x00>
 #
 :50AE
 \x1A\x01\x0A\x22\x00\x12 40 \x01\x0E :521F: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5192: 
-<name "ジャッジマン" "!FA0440">
-「大会スタッフで、時々、一緒になる女の子の名前
-　は？」
-<choice :EC6: "ルザ" \x00\x00>
-<choice :107E: "ルカ" \x00\x00>
-<choice :107E: "ルル" \x00\x00>
-<choice :107E: "ルネ" \x00\x00>
+<name "Judgeman" "!FA0440">
+"What is the name of the girl who sometimes
+ helps Celes with tournament work?"
+<choice :EC6: "Ruza" \x00\x00>
+<choice :107E: "Ruka" \x00\x00>
+<choice :107E: "Lulu" \x00\x00>
+<choice :107E: "Rene" \x00\x00>
 #
 \x18 :521F: 
 :5192
-<name "ジャッジマン" "!FA0440">
-「大会スタッフで、時々、一緒になる女の子の名前
-　は？」
-<choice :107E: "ルカ" \x00\x00>
-<choice :107E: "ルネ" \x00\x00>
-<choice :EC6: "ルザ" \x00\x00>
-<choice :107E: "ルル" \x00\x00>
+<name "Judgeman" "!FA0440">
+"What is the name of the girl who sometimes
+ helps Celes with tournament work?"
+<choice :107E: "Ruka" \x00\x00>
+<choice :107E: "Rene" \x00\x00>
+<choice :EC6: "Ruza" \x00\x00>
+<choice :107E: "Lulu" \x00\x00>
 #
 :521F
 \x1A\x01\x0A\x22\x00\x12 41 \x01\x0E :5396: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5306: 
-<name "ジャッジマン" "!FA0441">
-「セリスがアルバイトに行く料理店の名前は？」
-<choice :107E: "鷲の翼亭" \x00\x00>
-<choice :107E: "鶯の翼亭" \x00\x00>
-<choice :EC6: "鷹の翼亭" \x00\x00>
-<choice :107E: "燕の翼亭" \x00\x00>
+<name "Judgeman" "!FA0441">
+"What restaurant does Celes sometimes work at?"
+<choice :107E: "The Eaglewing Nest" \x00\x00>
+<choice :107E: "The Warbler Nest" \x00\x00>
+<choice :EC6: "The Hawkwing Arbor" \x00\x00>
+<choice :107E: "The Swallowwing Roost" \x00\x00>
 #
 \x18 :5396: 
 :5306
-<name "ジャッジマン" "!FA0441">
-「セリスがアルバイトに行く料理店の名前は？」
-<choice :107E: "鳩の翼亭" \x00\x00>
-<choice :107E: "燕の翼亭" \x00\x00>
-<choice :107E: "魚の翼亭" \x00\x00>
-<choice :EC6: "鷹の翼亭" \x00\x00>
+<name "Judgeman" "!FA0441">
+"What restaurant does Celes sometimes work at?"
+<choice :107E: "The Pigeonwing Nest" \x00\x00>
+<choice :107E: "The Swallowwing Roost" \x00\x00>
+<choice :107E: "The Fishwing Bower" \x00\x00>
+<choice :EC6: "The Hawkwing Arbor" \x00\x00>
 #
 :5396
 \x1A\x01\x0A\x22\x00\x12 42 \x01\x0E :5549: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :549B: 
-<name "ジャッジマン" "!FA0442">
-「セリスがアルバイトに行く料理店の同僚の名前は？」
-<choice :107E: "イリスとルーマ" \x00\x00>
-<choice :107E: "アリスとヘルマ" \x00\x00>
-<choice :107E: "セリスとクルマ" \x00\x00>
-<choice :EC6: "エリスとムーマ" \x00\x00>
+<name "Judgeman" "!FA0442">
+"Who works with Celes at the restaurant?"
+<choice :107E: "Iris and Ruma" \x00\x00>
+<choice :107E: "Alice and Helma" \x00\x00>
+<choice :107E: "Seris and Kruma" \x00\x00>
+<choice :EC6: "Elice and Muma" \x00\x00>
 #
 \x18 :5549: 
 :549B
-<name "ジャッジマン" "!FA0442">
-「セリスがアルバイトに行く料理店の同僚の名前は？」
-<choice :107E: "イリスとルーマ" \x00\x00>
-<choice :EC6: "エリスとムーマ" \x00\x00>
-<choice :107E: "クリスとローマ" \x00\x00>
-<choice :107E: "コリスとモーマ" \x00\x00>
+<name "Judgeman" "!FA0442">
+"Who works with Celes at the restaurant?"
+<choice :107E: "Iris and Ruma" \x00\x00>
+<choice :EC6: "Elice and Muma" \x00\x00>
+<choice :107E: "Chris and Roma" \x00\x00>
+<choice :107E: "Kris and Moma" \x00\x00>
 #
 :5549
 \x1A\x01\x0A\x22\x00\x12 43 \x01\x0E :56DA: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5640: 
-<name "ジャッジマン" "!FA0443">
-「セリスがアルバイトに行く畑の主のライバルは？」
-<choice :107E: "ステファニー" \x00\x00>
-<choice :EC6: "ジェニファー" \x00\x00>
-<choice :107E: "ハロルド" \x00\x00>
-<choice :107E: "シャーウッド" \x00\x00>
+<name "Judgeman" "!FA0443">
+"Who is the farmer's rival?"
+<choice :107E: "Stephanie" \x00\x00>
+<choice :EC6: "Jennifer" \x00\x00>
+<choice :107E: "Harold" \x00\x00>
+<choice :107E: "Sherwood" \x00\x00>
 #
 \x18 :56DA: 
 :5640
-<name "ジャッジマン" "!FA0443">
-「セリスがアルバイトに行く畑の主のライバルは？」
-<choice :107E: "ステファニー" \x00\x00>
-<choice :107E: "ジャニス" \x00\x00>
-<choice :107E: "ケイト" \x00\x00>
-<choice :EC6: "ジェニファー" \x00\x00>
+<name "Judgeman" "!FA0443">
+"Who is the famer's rival?"
+<choice :107E: "Stephanie" \x00\x00>
+<choice :107E: "Janice" \x00\x00>
+<choice :107E: "Kate" \x00\x00>
+<choice :EC6: "Jennifer" \x00\x00>
 #
 :56DA
 \x1A\x01\x0A\x22\x00\x12 44 \x01\x0E :5861: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :57C9: 
-<name "ジャッジマン" "!FA0444">
-「ベオル王国軍の誇る英雄の名前は？」
-<choice :107E: "ダロンドン様" \x00\x00>
-<choice :107E: "グロンドン様" \x00\x00>
-<choice :EC6: "ダランドン様" \x00\x00>
-<choice :107E: "グランドン様" \x00\x00>
+<name "Judgeman" "!FA0444">
+"Who is the hero of Beol?"
+<choice :107E: "Sir Drandon" \x00\x00>
+<choice :107E: "Sir Grondon" \x00\x00>
+<choice :EC6: "Sir Darandon" \x00\x00>
+<choice :107E: "Sir Grandon" \x00\x00>
 #
 \x18 :5861: 
 :57C9
-<name "ジャッジマン" "!FA0444">
-「ベオル王国軍の誇る英雄の名前は？」
-<choice :EC6: "ダランドン様" \x00\x00>
-<choice :107E: "グランドン様" \x00\x00>
-<choice :107E: "ダロンドン様" \x00\x00>
-<choice :107E: "グロンドン様" \x00\x00>
+<name "Judgeman" "!FA0444">
+"Who is the hero of Beol?"
+<choice :EC6: "Sir Darandon" \x00\x00>
+<choice :107E: "Sir Grandon" \x00\x00>
+<choice :107E: "Sir Drandon" \x00\x00>
+<choice :107E: "Sir Grondon" \x00\x00>
 #
 :5861
 \x1A\x01\x0A\x22\x00\x12 45 \x01\x0E :5A08: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5964: 
-<name "ジャッジマン" "!FA0445">
+<name "Judgeman" "!FA0445">
 「大地下迷宮に居る、炎の魔神の名前は？」
 <choice :107E: "ファイアゴッド" \x00\x00>
 <choice :107E: "ファイアアームズ" \x00\x00>
@@ -1220,7 +1238,7 @@
 #
 \x18 :5A08: 
 :5964
-<name "ジャッジマン" "!FA0445">
+<name "Judgeman" "!FA0445">
 「大地下迷宮に居る、炎の魔神の名前は？」
 <choice :107E: "オトー" \x00\x00>
 <choice :EC6: "ファイアクークーデン" \x00\x00>
@@ -1231,7 +1249,7 @@
 \x1A\x01\x0A\x22\x00\x12 46 \x01\x0E :5B97: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5B03: 
-<name "ジャッジマン" "!FA0446">
+<name "Judgeman" "!FA0446">
 「大地下迷宮に居る、氷の魔神の名前は？」
 <choice :107E: "ゴッドアイス" \x00\x00>
 <choice :107E: "アイスアームズ" \x00\x00>
@@ -1240,7 +1258,7 @@
 #
 \x18 :5B97: 
 :5B03
-<name "ジャッジマン" "!FA0446">
+<name "Judgeman" "!FA0446">
 「大地下迷宮に居る、氷の魔神の名前は？」
 <choice :107E: "ウォータン" \x00\x00>
 <choice :107E: "アクア" \x00\x00>
@@ -1251,7 +1269,7 @@
 \x1A\x01\x0A\x22\x00\x12 47 \x01\x0E :5D5A: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5CA2: 
-<name "ジャッジマン" "!FA0447">
+<name "Judgeman" "!FA0447">
 「セリスが命名した大地下迷宮の名前は？」
 <choice :107E: "キタ＝ミタ＝カッター" \x00\x00>
 <choice :EC6: "ダイ＝チカ＝メイキュ" \x00\x00>
@@ -1260,7 +1278,7 @@
 #
 \x18 :5D5A: 
 :5CA2
-<name "ジャッジマン" "!FA0447">
+<name "Judgeman" "!FA0447">
 「セリスが命名した大地下迷宮の名前は？」
 <choice :107E: "キタ＝ミタ＝カッター" \x00\x00>
 <choice :107E: "イヤ＝フー＝フー" \x00\x00>
@@ -1271,7 +1289,7 @@
 \x1A\x01\x0A\x22\x00\x12 48 \x01\x0E :5EB5: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5E33: 
-<name "ジャッジマン" "!FA0448">
+<name "Judgeman" "!FA0448">
 「ローリアの街はいくつのエリアにわけられる？」
 <choice :107E: "三つ" \x00\x00>
 <choice :107E: "四つ" \x00\x00>
@@ -1280,7 +1298,7 @@
 #
 \x18 :5EB5: 
 :5E33
-<name "ジャッジマン" "!FA0448">
+<name "Judgeman" "!FA0448">
 「ローリアの街はいくつのエリアにわけられる？」
 <choice :107E: "二つ" \x00\x00>
 <choice :107E: "三つ" \x00\x00>
@@ -1291,7 +1309,7 @@
 \x1A\x01\x0A\x22\x00\x12 49 \x01\x0E :5FFC: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :5F84: 
-<name "ジャッジマン" "!FA0449">
+<name "Judgeman" "!FA0449">
 「ローリアの街の南エリアの特徴は？」
 <choice :107E: "農業" \x00\x00>
 <choice :107E: "工業" \x00\x00>
@@ -1300,7 +1318,7 @@
 #
 \x18 :5FFC: 
 :5F84
-<name "ジャッジマン" "!FA0449">
+<name "Judgeman" "!FA0449">
 「ローリアの街の南エリアの特徴は？」
 <choice :EC6: "商業" \x00\x00>
 <choice :107E: "飲食" \x00\x00>
@@ -1311,7 +1329,7 @@
 \x1A\x01\x0A\x22\x00\x12 50 \x01\x0E :6143: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :60CB: 
-<name "ジャッジマン" "!FA0450">
+<name "Judgeman" "!FA0450">
 「ローリアの街の西エリアの特徴は？」
 <choice :107E: "農業" \x00\x00>
 <choice :107E: "工業" \x00\x00>
@@ -1320,7 +1338,7 @@
 #
 \x18 :6143: 
 :60CB
-<name "ジャッジマン" "!FA0450">
+<name "Judgeman" "!FA0450">
 「ローリアの街の西エリアの特徴は？」
 <choice :107E: "商業" \x00\x00>
 <choice :EC6: "飲食" \x00\x00>
@@ -1331,7 +1349,7 @@
 \x1A\x01\x0A\x22\x00\x12 51 \x01\x0E :62EE: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :6244: 
-<name "ジャッジマン" "!FA0451">
+<name "Judgeman" "!FA0451">
 「魔法の塔の正式名称は？」
 <choice :107E: "ローリア第七監視塔" \x00\x00>
 <choice :EC6: "栄光と友情と黄色い薔薇の塔" \x00\x00>
@@ -1340,7 +1358,7 @@
 #
 \x18 :62EE: 
 :6244
-<name "ジャッジマン" "!FA0451">
+<name "Judgeman" "!FA0451">
 「魔法の塔の正式名称は？」
 <choice :EC6: "栄光と友情と黄色い薔薇の塔" \x00\x00>
 <choice :107E: "ローリア第七監視塔" \x00\x00>
@@ -1351,7 +1369,7 @@
 \x1A\x01\x0A\x22\x00\x12 52 \x01\x0E :6465: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :63D3: 
-<name "ジャッジマン" "!FA0452">
+<name "Judgeman" "!FA0452">
 「最上の塔の特徴は？」
 <choice :EC6: "古代竜がいる" \x00\x00>
 <choice :107E: "魔王がいる" \x00\x00>
@@ -1360,7 +1378,7 @@
 #
 \x18 :6465: 
 :63D3
-<name "ジャッジマン" "!FA0452">
+<name "Judgeman" "!FA0452">
 「最上の塔の特徴は？」
 <choice :EC6: "古代竜がいる" \x00\x00>
 <choice :107E: "魔王がいる" \x00\x00>
@@ -1371,7 +1389,7 @@
 \x1A\x01\x0A\x22\x00\x12 53 \x01\x0E :65E0: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :654E: 
-<name "ジャッジマン" "!FA0453">
+<name "Judgeman" "!FA0453">
 「魔法使い協会内にある結社の名前は？」
 <choice :107E: "淫夢の薔薇" \x00\x00>
 <choice :107E: "水晶の薔薇" \x00\x00>
@@ -1380,7 +1398,7 @@
 #
 \x18 :65E0: 
 :654E
-<name "ジャッジマン" "!FA0453">
+<name "Judgeman" "!FA0453">
 「魔法使い協会内にある結社の名前は？」
 <choice :107E: "淫夢の薔薇" \x00\x00>
 <choice :EC6: "黄金の薔薇" \x00\x00>
@@ -1391,7 +1409,7 @@
 \x1A\x01\x0A\x22\x00\x12 54 \x01\x0E :6713: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :66A5: 
-<name "ジャッジマン" "!FA0454">
+<name "Judgeman" "!FA0454">
 「セリスの誕生日は何月？」
 <choice :EC6: "三月" \x00\x00>
 <choice :107E: "四月" \x00\x00>
@@ -1400,7 +1418,7 @@
 #
 \x18 :6713: 
 :66A5
-<name "ジャッジマン" "!FA0454">
+<name "Judgeman" "!FA0454">
 「セリスの誕生日は何月？」
 <choice :107E: "一月" \x00\x00>
 <choice :EC6: "三月" \x00\x00>
@@ -1411,7 +1429,7 @@
 \x1A\x01\x0A\x22\x00\x12 55 \x01\x0E :684C: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :67DC: 
-<name "ジャッジマン" "!FA0455">
+<name "Judgeman" "!FA0455">
 「イエルの誕生日は何月？」
 <choice :107E: "九月" \x00\x00>
 <choice :107E: "十月" \x00\x00>
@@ -1420,7 +1438,7 @@
 #
 \x18 :684C: 
 :67DC
-<name "ジャッジマン" "!FA0455">
+<name "Judgeman" "!FA0455">
 「イエルの誕生日は何月？」
 <choice :107E: "三月" \x00\x00>
 <choice :107E: "六月" \x00\x00>
@@ -1431,7 +1449,7 @@
 \x1A\x01\x0A\x22\x00\x12 56 \x01\x0E :6987: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :6917: 
-<name "ジャッジマン" "!FA0456">
+<name "Judgeman" "!FA0456">
 「ヴィオラの誕生日は何月？」
 <choice :EC6: "九月" \x00\x00>
 <choice :107E: "十月" \x00\x00>
@@ -1440,7 +1458,7 @@
 #
 \x18 :6987: 
 :6917
-<name "ジャッジマン" "!FA0456">
+<name "Judgeman" "!FA0456">
 「ヴィオラの誕生日は何月？」
 <choice :107E: "六月" \x00\x00>
 <choice :107E: "七月" \x00\x00>
@@ -1451,7 +1469,7 @@
 \x1A\x01\x0A\x22\x00\x12 57 \x01\x0E :6B64: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :6AA1: 
-<name "ジャッジマン" "!FA0461">
+<name "Judgeman" "!FA0461">
 「教会のバザーで、セリスとイエルが行なった劇の
 　タイトルは？」
 <choice :107E: "子羊の淫乱な夜" \x00\x00>
@@ -1461,7 +1479,7 @@
 #
 \x18 :6B64: 
 :6AA1
-<name "ジャッジマン" "!FA0461">
+<name "Judgeman" "!FA0461">
 「教会のバザーで、セリスとイエルが行なった劇の
 　タイトルは？」
 <choice :107E: "妖精達の淫乱な夜" \x00\x00>
@@ -1473,7 +1491,7 @@
 \x1A\x01\x0A\x22\x00\x12 58 \x01\x0E :6CD9: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :6C4A: 
-<name "ジャッジマン" "!FA0462">
+<name "Judgeman" "!FA0462">
 「セリスが実家を追い出されてから、食を繋いだ
 　趣味は？」
 <choice :107E: "裁縫" \x00\x00>
@@ -1483,7 +1501,7 @@
 #
 \x18 :6CD9: 
 :6C4A
-<name "ジャッジマン" "!FA0462">
+<name "Judgeman" "!FA0462">
 「セリスが実家を追い出されてから、食を繋いだ
 　趣味は？」
 <choice :107E: "裁縫" \x00\x00>
@@ -1495,7 +1513,7 @@
 \x1A\x01\x0A\x22\x00\x12 59 \x01\x0E :6E4C: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :6DB0: 
-<name "ジャッジマン" "!FA0463">
+<name "Judgeman" "!FA0463">
 「ソシエットのランクは？」
 <choice :107E: "六等魔法使い" \x00\x00>
 <choice :107E: "七等魔法使い" \x00\x00>
@@ -1504,7 +1522,7 @@
 #
 \x18 :6E3E: 
 :6DB0
-<name "ジャッジマン" "!FA0463">
+<name "Judgeman" "!FA0463">
 「ソシエットのランクは？」
 <choice :107E: "五等魔法使い" \x00\x00>
 <choice :107E: "六等魔法使い" \x00\x00>
@@ -1517,7 +1535,7 @@
 \x1A\x01\x0A\x22\x00\x12 60 \x01\x0E :7025: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :6F64: 
-<name "ジャッジマン" "!FA0464">
+<name "Judgeman" "!FA0464">
 「クデュール魔法大会、本選開幕時に私が三回言っ
 　たセリフは何？」
 <choice :107E: "勝つのは誰だ？" \x00\x00>
@@ -1527,7 +1545,7 @@
 #
 \x18 :7025: 
 :6F64
-<name "ジャッジマン" "!FA0464">
+<name "Judgeman" "!FA0464">
 「クデュール魔法大会、本選開幕時に私が三回言っ
 　たセリフは何？」
 <choice :107E: "勝つのは誰だ？" \x00\x00>
@@ -1539,7 +1557,7 @@
 \x1A\x01\x0A\x22\x00\x12 61 \x01\x0E :71C1: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :711E: 
-<name "ジャッジマン" "!FA0466">
+<name "Judgeman" "!FA0466">
 「この作品のタイトルは？」
 <choice :107E: "ウィザーズマン" \x00\x00>
 <choice :107E: "ウィザーズハイ" \x00\x00>
@@ -1548,7 +1566,7 @@
 #
 \x18 :7154: 
 :711E
-<name "ジャッジマン" "!FA0466">
+<name "Judgeman" "!FA0466">
 「この作品のタイトルは？」
 #
 :7154
@@ -1561,7 +1579,7 @@
 \x1A\x01\x0A\x22\x00\x12 62 \x01\x0E :7446: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  4 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7290: 
-<name "ジャッジマン" "!FA0467">
+<name "Judgeman" "!FA0467">
 「春の七草じゃないのはどれ？」
 <choice :107E: "はこべら" \x00\x00>
 <choice :107E: "ごぎょう" \x00\x00>
@@ -1570,7 +1588,7 @@
 #
 :7290
 \x1A\x01\x0A\x22\x00\x13 2 \x01\x0E :7324: 
-<name "ジャッジマン" "!FA0467">
+<name "Judgeman" "!FA0467">
 「春の七草じゃないのはどれ？」
 <choice :107E: "ごぎょう" \x00\x00>
 <choice :107E: "すずな" \x00\x00>
@@ -1579,7 +1597,7 @@
 #
 :7324
 \x1A\x01\x0A\x22\x00\x13 3 \x01\x0E :73B4: 
-<name "ジャッジマン" "!FA0467">
+<name "Judgeman" "!FA0467">
 「春の七草じゃないのはどれ？」
 <choice :107E: "はこべら" \x00\x00>
 <choice :EC6: "つゆくさ" \x00\x00>
@@ -1588,7 +1606,7 @@
 #
 :73B4
 \x1A\x01\x0A\x22\x00\x13 4 \x01\x0E :7446: 
-<name "ジャッジマン" "!FA0467">
+<name "Judgeman" "!FA0467">
 「春の七草じゃないのはどれ？」
 <choice :107E: "はこべら" \x00\x00>
 <choice :107E: "せり" \x00\x00>
@@ -1599,7 +1617,7 @@
 \x1A\x01\x0A\x22\x00\x12 63 \x01\x0E :75A9: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7523: 
-<name "ジャッジマン" "!FA0468">
+<name "Judgeman" "!FA0468">
 「春の七草の“すずな”って、何の葉？」
 <choice :107E: "ダイコン" \x00\x00>
 <choice :EC6: "カブ" \x00\x00>
@@ -1608,7 +1626,7 @@
 #
 \x18 :75A9: 
 :7523
-<name "ジャッジマン" "!FA0468">
+<name "Judgeman" "!FA0468">
 「春の七草の“すずな”って、何の葉？」
 <choice :107E: "ハクサイ" \x00\x00>
 <choice :107E: "ダイコン" \x00\x00>
@@ -1619,7 +1637,7 @@
 \x1A\x01\x0A\x22\x00\x12 64 \x01\x0E :770C: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7686: 
-<name "ジャッジマン" "!FA0469">
+<name "Judgeman" "!FA0469">
 「ヴィオラとラズロックの初Ｈの時の体位は？」
 <choice :107E: "正常位" \x00\x00>
 <choice :107E: "騎乗位" \x00\x00>
@@ -1628,7 +1646,7 @@
 #
 \x18 :770C: 
 :7686
-<name "ジャッジマン" "!FA0469">
+<name "Judgeman" "!FA0469">
 「ヴィオラとラズロックの初Ｈの時の体位は？」
 <choice :107E: "座位" \x00\x00>
 <choice :EC6: "後背位" \x00\x00>
@@ -1639,7 +1657,7 @@
 \x1A\x01\x0A\x22\x00\x12 65 \x01\x0E :78A9: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7806: 
-<name "ジャッジマン" "!FA0470">
+<name "Judgeman" "!FA0470">
 「過去、ソシエットがラズロックを捕縛しようとし
 　た時の部下の数は？」
 <choice :107E: "１３人" \x00\x00>
@@ -1649,7 +1667,7 @@
 #
 \x18 :78A9: 
 :7806
-<name "ジャッジマン" "!FA0470">
+<name "Judgeman" "!FA0470">
 「過去、ソシエットがラズロックを捕縛しようとし
 　た時の部下の数は？」
 <choice :107E: "１６人" \x00\x00>
@@ -1661,7 +1679,7 @@
 \x1A\x01\x0A\x22\x00\x12 66 \x01\x0E :7A64: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :79B2: 
-<name "ジャッジマン" "!FA0471">
+<name "Judgeman" "!FA0471">
 「セリスがメガネを掛けるのはどんな時？」
 <choice :EC6: "読書か勉強かＨの時" \x00\x00>
 <choice :107E: "お風呂から出た時" \x00\x00>
@@ -1670,7 +1688,7 @@
 #
 \x18 :7A64: 
 :79B2
-<name "ジャッジマン" "!FA0471">
+<name "Judgeman" "!FA0471">
 「セリスがメガネを掛けるのはどんな時？」
 <choice :107E: "お風呂から出た時" \x00\x00>
 <choice :EC6: "読書か勉強かＨの時" \x00\x00>
@@ -1681,7 +1699,7 @@
 \x1A\x01\x0A\x22\x00\x12 67 \x01\x0E :7BBF: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7B3D: 
-<name "ジャッジマン" "!FA0472">
+<name "Judgeman" "!FA0472">
 「セリスの戦闘服の帽子の色は？」
 <choice :107E: "パープル" \x00\x00>
 <choice :107E: "ホワイト" \x00\x00>
@@ -1690,7 +1708,7 @@
 #
 \x18 :7BBF: 
 :7B3D
-<name "ジャッジマン" "!FA0472">
+<name "Judgeman" "!FA0472">
 「セリスの戦闘服の帽子の色は？」
 <choice :107E: "ホワイト" \x00\x00>
 <choice :107E: "パープル" \x00\x00>
@@ -1701,7 +1719,7 @@
 \x1A\x01\x0A\x22\x00\x12 68 \x01\x0E :7D16: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7C96: 
-<name "ジャッジマン" "!FA0473">
+<name "Judgeman" "!FA0473">
 「イエルの戦闘服の帽子の色は？」
 <choice :107E: "ホワイト" \x00\x00>
 <choice :107E: "レッド" \x00\x00>
@@ -1710,7 +1728,7 @@
 #
 \x18 :7D16: 
 :7C96
-<name "ジャッジマン" "!FA0473">
+<name "Judgeman" "!FA0473">
 「イエルの戦闘服の帽子の色は？」
 <choice :107E: "ホワイト" \x00\x00>
 <choice :107E: "レッド" \x00\x00>
@@ -1721,7 +1739,7 @@
 \x1A\x01\x0A\x22\x00\x12 69 \x01\x0E :7E81: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7DF7: 
-<name "ジャッジマン" "!FA0474">
+<name "Judgeman" "!FA0474">
 「セリスの運動服のズボンの色は？」
 <choice :107E: "紺色" \x00\x00>
 <choice :EC6: "えんじ色（あずき色）" \x00\x00>
@@ -1730,7 +1748,7 @@
 #
 \x18 :7E81: 
 :7DF7
-<name "ジャッジマン" "!FA0474">
+<name "Judgeman" "!FA0474">
 「セリスの運動服のズボンの色は？」
 <choice :EC6: "えんじ色（あずき色）" \x00\x00>
 <choice :107E: "薄緑色" \x00\x00>
@@ -1741,7 +1759,7 @@
 \x1A\x01\x0A\x22\x00\x12 70 \x01\x0E :7FD0: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :7F54: 
-<name "ジャッジマン" "!FA0475">
+<name "Judgeman" "!FA0475">
 「絶対領域を持つのは誰？」
 <choice :107E: "Celes" \x00\x00>
 <choice :107E: "Soshiette" \x00\x00>
@@ -1750,7 +1768,7 @@
 #
 \x18 :7FD0: 
 :7F54
-<name "ジャッジマン" "!FA0475">
+<name "Judgeman" "!FA0475">
 「絶対領域を持つのは誰？」
 <choice :107E: "Viola" \x00\x00>
 <choice :107E: "Soshiette" \x00\x00>
@@ -1761,7 +1779,7 @@
 \x1A\x01\x0A\x22\x00\x12 71 \x01\x0E :80FB: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :8091: 
-<name "ジャッジマン" "!FA0476">
+<name "Judgeman" "!FA0476">
 「イエルのリボンの色は？」
 <choice :107E: "ピンク" \x00\x00>
 <choice :107E: "白" \x00\x00>
@@ -1770,7 +1788,7 @@
 #
 \x18 :80FB: 
 :8091
-<name "ジャッジマン" "!FA0476">
+<name "Judgeman" "!FA0476">
 「イエルのリボンの色は？」
 <choice :107E: "ピンク" \x00\x00>
 <choice :EC6: "赤" \x00\x00>
@@ -1781,7 +1799,7 @@
 \x1A\x01\x0A\x22\x00\x12 72 \x01\x0E :825E: 
 <sprite "ta07a01.iph" 4 4 12>
 \x2B\x2E\x22\x00\x13 1  2 \x1A\x01\x0A\x22\x00\x13 1 \x01\x0E :81D8: 
-<name "ジャッジマン" "!FA0477">
+<name "Judgeman" "!FA0477">
 「常時メガネをかけているキャラは？」
 <choice :107E: "Celes" \x00\x00>
 <choice :107E: "Soshiette" \x00\x00>
@@ -1790,7 +1808,7 @@
 #
 \x18 :825E: 
 :81D8
-<name "ジャッジマン" "!FA0477">
+<name "Judgeman" "!FA0477">
 「常時メガネをかけているキャラは？」
 <choice :107E: "Celes" \x00\x00>
 <choice :EC6: "ルーン" \x00\x00>
@@ -1802,11 +1820,11 @@
 :8264
 <music 2>
 <sprite "ta07a04.iph" 4 4 12>
-<name "ジャッジマン" "!FA0389">
+<name "Judgeman" "!FA0389">
 「すばらしい結果だった」
 #
 <sprite "ta07a08.iph" 4 4 12>
-<name "ジャッジマン" "!FA0390">
+<name "Judgeman" "!FA0390">
 「わかっている。
 　約束のヒントを渡そう」
 #
@@ -1981,28 +1999,28 @@
 　ヒントでした！
 #
 <sprite "ta07a00.iph" 4 4 11>
-<name "ジャッジマン" "!FA0391">
+<name "Judgeman" "!FA0391">
 「どうだったかな？
 　私のヒントは？
 　役に立っていれば良いが……」
 #
 <sprite "ta07a01.iph" 4 4 12>
-<name "ジャッジマン" "!FA0392">
+<name "Judgeman" "!FA0392">
 「あのクイズを全問正解するのだから、必要なかっ
 　たのかもしれない」
 #
 <sprite "ta07a16.iph" 4 4 12>
-<name "ジャッジマン" "!FA0393">
+<name "Judgeman" "!FA0393">
 「そうであれば申し訳ない！
 　素直に謝ろう」
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0394">
+<name "Judgeman" "!FA0394">
 「素直に謝れるのは、ジャッジマンの美点の一つだ。
 　クイズには出ないが、覚えておいてくれ」
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0395">
+<name "Judgeman" "!FA0395">
 「では、さらばだ！
 　わははははは……」
 #
