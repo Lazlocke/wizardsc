@@ -5365,8 +5365,8 @@ since she came over.
 <sprite "ta01a15.iph" 2 5 12>
 <name "Celes" "!AA4730">
 "Yeah. I read in a book that if you cook rice with
- seven kinds of plants, it'll keep you healthy
- your whole life."
+ seven kinds of spring herbs, it'll keep you 
+ healthy your whole life."
 #
 <sprite "ta02a06.iph" 6 4 12>
 <name "Elle" "!CA0429">
