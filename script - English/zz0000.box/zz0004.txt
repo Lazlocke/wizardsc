@@ -1,64 +1,64 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7123">
-「師匠。
-　考えたのですけど」
+<name "Celes" "!AA7123">
+"Master, I've been thinking."
 #
-<name "ラズロック">
-「何をだ？」
+<name "Lazlocke">
+"About?"
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "セリス" "!AA7124">
-「師匠の魔力。
-　イエルちゃんみたいに、ペーパードライブで放出
-　するのはどうなんですか？」
+<name "Celes" "!AA7124">
+"Your mana.
+ Couldn't you release it with a paper drive like
+ Elle uses?"
 #
-<name "ラズロック">
-「あー、魔力を先出ししておくんだろ」
+<name "Lazlocke">
+"Oh, you mean expel the mana ahead of time?"
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA7125">
-「はい。
-　良いアイディアだと思うんです」
+<name "Celes" "!AA7125">
+"Yes.
+ It seems like a good idea to me."
 #
 <sprite "ta01a18.iph" 4 4 12>
-<name "セリス" "!AA7126">
-「しかも、それを売れば……
-　ああ、一気にお金持ちに」
+<name "Celes" "!AA7126">
+"What's more, you could sell it.
+ You could get rich in no time."
 #
-<name "ラズロック">
-「残念だが、駄目だ」
+<name "Lazlocke">
+"Unfortunately, it wouldn't work."
 #
 <sprite "ta01a10.iph" 4 4 12>
-<name "セリス" "!AA7127">
-「ええ！
-　なぜですか！」
+<name "Celes" "!AA7127">
+"Eeh!?
+ Why not?"
 #
-<name "ラズロック">
-「魔力を集める俺の体質が邪魔して、上手くペーパ
-　ードライブはできないんだ」
+<name "Lazlocke">
+"Because of how my body gathers mana, I can't use
+ paper drives very well."
 #
-<name "ラズロック">
-「例えるとだな……
-　掃除機の前で、ドミノを並べるようなもんでな」
+<name "Lazlocke">
+"It'd be like, for example, throwing dominos in
+ front of a vacuum cleaner."
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "セリス" "!AA7128">
-「なるほど！
-　なんて解りやすい例え！」
+<name "Celes" "!AA7128">
+"I see!
+ What an easy to understand example!"
 #
-<name "ラズロック">
-「ちなみに、この例えが時代考証を考えてないから、
-　本編で出せなかったんだ」
+<name "Lazlocke">
+"By the way, that analogy doesn't fit the setting,
+ so that's why it couldn't be part of the main
+ game."
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "セリス" "!AA7129">
-「なるほど。
-　悲しい理由ですね」
+<name "Celes" "!AA7129">
+"I see.
+ What a sad reason."
 #
-<name "ラズロック">
-「本当にな」
+<name "Lazlocke">
+"Indeed."
 #
 <removesprite -1 11>
 \x2B\x78\x78

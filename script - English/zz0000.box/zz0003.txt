@@ -1,84 +1,85 @@
 <music 6>
 <background "bg007a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA1175">
-「イエルです」
+<name "Elle" "!CA1175">
+"Elle."
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
-<name "ソシエット" "!DA1453">
-「ソシエットです」
+<name "Soshiette" "!DA1453">
+"Soshiette."
 #
 <sprite "ta02a01.iph" 6 5 12>
-<name "イエル" "!CA1176">
-「あの、聞いて良いですか？」
+<name "Elle" "!CA1176">
+"Um, can I ask you something?"
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "ソシエット" "!DA1454">
-「なんですか？」
+<name "Soshiette" "!DA1454">
+"What is it?"
 #
 <sprite "ta02a04.iph" 6 5 12>
-<name "イエル" "!CA1177">
-「ストッキングって、この時代にあるんですか？」
+<name "Elle" "!CA1177">
+"Are there really stockings in this time?"
 #
 <sprite "ta04a11.iph" 2 4 12>
-<name "ソシエット" "!DA1455">
-「なんちゃってファンタジーなので、あるんです」
+<name "Soshiette" "!DA1455">
+"It's a made-up fantasy, so there are."
 #
 <sprite "ta02a06.iph" 6 5 12>
-<name "イエル" "!CA1178">
-「へー、どうやって作っているんですか？」
+<name "Elle" "!CA1178">
+"Oh? How are they made?"
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "ソシエット" "!DA1456">
-「魔法です」
+<name "Soshiette" "!DA1456">
+"With magic."
 #
 <sprite "ta02a01.iph" 6 5 12>
-<name "イエル" "!CA1179">
-「ほー……」
+<name "Elle" "!CA1179">
+"Oh?"
 #
 <sprite "ta04a24.iph" 2 4 12>
-<name "ソシエット" "!DA1457">
-「何か不満でも？」
+<name "Soshiette" "!DA1457">
+"Do you have a problem with that?"
 #
 <sprite "ta02a00.iph" 6 5 12>
-<name "イエル" "!CA1180">
-「いえ……
-　質問を変えますが、この時代の避妊ってどうやっ
-　ているんですか？」
+<name "Elle" "!CA1180">
+"No...
+ A different question then.
+ How do you do contraception in this time?"
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "ソシエット" "!DA1458">
-「経験則です」
+<name "Soshiette" "!DA1458">
+"The rhythm method."
 #
 <sprite "ta02a07.iph" 6 5 12>
-<name "イエル" "!CA1181">
-「あれ？
-　魔法じゃないんですか？」
+<name "Elle" "!CA1181">
+"Huh? No magic?"
 #
 <sprite "ta04a22.iph" 2 4 12>
-<name "ソシエット" "!DA1459">
-「別に魔法は万能じゃないですから」
+<name "Soshiette" "!DA1459">
+"Magic can't do everything."
 #
 <sprite "ta02a28.iph" 6 5 12>
-<name "イエル" "!CA1182">
-「ええっ！
-　ステッキを持って呪文を唱えれば無敵じゃないん
-　ですか？」
+<name "Elle" "!CA1182">
+"Eh!? But can't you do anything if you cast a 
+ spell with a special magic stick?"
 #
 <sprite "ta04a28.iph" 2 4 12>
-<name "ソシエット" "!DA1460">
-「それは魔女っ娘の魔法です。
-　あんな反則的な魔法はこの世界にはありません」
+<name "Soshiette" "!DA1460">
+"That's if you were a magical girl.
+ There's no magic for cheating like that in this
+ world."
 #
 <sprite "ta02a37.iph" 6 5 12>
-<name "イエル" "!CA1183">
-「魔女っ娘が、経験則で避妊って……うーん」
+<name "Elle" "!CA1183">
+"A magic girl...
+ Contraception by the rhythm method...
+ Hmmm..."
 #
 <sprite "ta04a10.iph" 2 4 12>
-<name "ソシエット" "!DA1461">
-「エロエロですね」
+<name "Soshiette" "!DA1461">
+"It's sexier that way."
 #
 <removesprite -1 11>
 \x2B\x78\x78

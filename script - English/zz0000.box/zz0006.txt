@@ -1,39 +1,39 @@
 <music 25>
 <background "bg004a0.iph" 11>
-<name "ラズロック">
-「セリス。
-　君にはクデュール魔法大会に出て、優勝するとい
-　う目標がある」
+<name "Lazlocke">
+"Celes, you have the goal of making it to the
+ Coudures Wizard Tournament and winning the
+ championionship."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7130">
-「はい」
+<name "Celes" "!AA7130">
+"Yes."
 #
-<name "ラズロック">
-「イエルというライバルも居る」
+<name "Lazlocke">
+"And a rival named Elle."
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "セリス" "!AA7131">
-「はい」
+<name "Celes" "!AA7131">
+"Yes."
 #
-<name "ラズロック">
-「人が強くなる為の、目標。
-　そして競う相手が居る。
-　これは非常に恵まれている状況だ」
+<name "Lazlocke">
+"A goal to become stronger for.
+ And someone to compete against.
+ This is a very bountiful setting."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA7132">
-「はい」
+<name "Celes" "!AA7132">
+"Yes."
 #
-<name "ラズロック">
-「後、足りないのは何だと思う？」
+<name "Lazlocke">
+"So what do you think is missing?"
 #
 <sprite "ta01a05.iph" 4 4 12>
-<name "セリス" "!AA7133">
-「……優秀な指導者？」
+<name "Celes" "!AA7133">
+"...A strong protagonist?"
 #
-<name "ラズロック">
-「……努力します」
+<name "Lazlocke">
+"...I'll try."
 #
 <removesprite -1 11>
 \x2B\x78\x78

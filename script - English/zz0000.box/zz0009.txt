@@ -1,205 +1,212 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7136">
-「師匠、少し手合わせをお願いできますか？」
+<name "Celes" "!AA7136">
+"Master, could we have a little sparring match?"
 #
-<name "ラズロック">
-「ああ、構わないぞ。
-　防具は……」
+<name "Lazlocke">
+"Yeah, I don't mind.
+ Where's the protector?"
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA7137">
-「実戦でお願いします」
+<name "Celes" "!AA7137">
+"A real fight, please."
 #
-<name "ラズロック">
-「え？」
+<name "Lazlocke">
+"Huh?"
 #
 <removesprite -1 11>
 <music 24>
 <background "bg004a0.iph" 11>
-　五分後、地面に這いつくばる俺。
+Five minutes later, I was splattered on the
+ground.
 #
-<name "ラズロック">
-「うう……
-　周回を重ねて、確実に強くなってる……」
+<name "Lazlocke">
+"Urgh...
+ After playing through so many times, you've
+ definitely gotten stronger."
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "セリス" "!AA7138">
-「師匠。
-　何を寝てるんですか？
-　まだまだ、これからですよ」
+<name "Celes" "!AA7138">
+"What are you doing, Master?
+ We've only just gotten started."
 #
-<name "ラズロック">
-「え？」
+<name "Lazlocke">
+"Huh?"
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "セリス" "!AA7139">
-「強引な初体験。
-　死ぬかと思いました」
+<name "Celes" "!AA7139">
+"You took my first time by force.
+ I thought I was going to die."
 #
-<name "ラズロック">
-「え……ぁ……」
+<name "Lazlocke">
+"Huh?"
 #
 <sprite "ta01a23.iph" 4 4 12>
-<name "セリス" "!AA7140">
-「その後の肉奴隷扱い……
-　魔力を得る為とはいえ屈辱でした……」
+<name "Celes" "!AA7140">
+"And then you treated me like a sex slave...
+ I had to endure the humiliation for mana..."
 #
-<name "ラズロック">
-「ひぃ……」
-#
-<sprite "ta01a22.iph" 4 4 12>
-<name "セリス" "!AA7141">
-「しかし、その屈辱の日々も今日まで……」
-#
-<sprite "ta01a25.iph" 4 4 12>
-<name "セリス" "!AA7142">
-「師匠風に言うなら、こうでしたっけ？
-“ケツを出せ、この駄目男”」
-#
-<name "ラズロック">
-「だ、駄目男は……酷い」
+<name "Lazlocke">
+"Eep..."
 #
 <sprite "ta01a22.iph" 4 4 12>
-<name "セリス" "!AA7143">
-「ふふふ……
-　ハリーハリーハリー、さあ急いで」
-#
-<name "ラズロック">
-「ひ、ひぃっ！」
+<name "Celes" "!AA7141">
+"But the humiliation kept going, until today..."
 #
 <sprite "ta01a25.iph" 4 4 12>
-<name "セリス" "!AA7144">
-「自分で出来ないなら……ふふふ……」
+<name "Celes" "!AA7142">
+"Would it be like this if I were the master?
+ Give me your ass, you worthless man."
 #
-<name "ラズロック">
-「うわぁぁぁぁぁぁぁぁぁっ！」
+<name "Lazlocke">
+"W-Worthless man is... cruel."
+#
+<sprite "ta01a22.iph" 4 4 12>
+<name "Celes" "!AA7143">
+"Heheheh...
+ Hurry up, hurry up, hurry up.
+ Come on, already."
+#
+<name "Lazlocke">
+"E-Eep!"
+#
+<sprite "ta01a25.iph" 4 4 12>
+<name "Celes" "!AA7144">
+"If you can't do it yourself...
+ Heheheh..."
+#
+<name "Lazlocke">
+"Aaaaaahhhhh!!!"
 #
 <removesprite -1 11>
 <background "bg024a0.iph" 21>
 <music 10>
 <background "bg001a0.iph" 22>
-　俺は布団の中で目を覚ました。
+I wake up in bed.
 #
-　ゆ、夢？
+A-A dream?
 #
-　俺は自分の身体を確かめる。
+I check my body.
 #
-　……
+...
 #
-　大丈夫だ。
+I'm okay.
 #
-　良かった。
+Thank goodness.
 #
-　悪い夢だ……
+It was just a nightmare.
 #
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7145">
-「師匠、おはようございます♪」
+<name "Celes" "!AA7145">
+"Good morning, Master.♪"
 #
-<name "ラズロック">
-「あ、ああ……オハヨウ」
+<name "Lazlocke">
+"Y-Yeah, morning."
 #
-　セリスは俺に近付き、軽い抱擁の後に頬にキスを
-　してくる。
+Celes steps up, gives me a light hug and then
+kisses me on the cheek.
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA7146">
-「どうしたんですか？
-　顔色が悪いですよ」
+<name "Celes" "!AA7146">
+"Is something the matter?
+ You look pale."
 #
-<name "ラズロック">
-「いや、なんでもないが……」
+<name "Lazlocke">
+"No, it's nothing."
 #
 <removesprite -1 11>
-　セリスの様子に変わった所は無い。
+She seems the same as usual.
 #
-　いつも通りだ。
+Nothing different.
 #
-　……夢の所為かな。
+...Was it just the dream?
 #
-　しかし……
+But...
 #
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7147">
-「はい？」
+<name "Celes" "!AA7147">
+"Yes?"
 #
-<name "ラズロック">
-「今日、買物でも行こうか。
-　好きな物、買ってやるぞ」
+<name "Lazlocke">
+"Let's go shopping today.
+ I'll buy you wantever you want."
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "セリス" "!AA7148">
-「本当ですか？」
+<name "Celes" "!AA7148">
+"Really?"
 #
-<name "ラズロック">
-「ああ、いつも頑張っているからな」
+<name "Lazlocke">
+"Yeah, since you're always working so hard."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA7149">
-「ありがとうございます」
+<name "Celes" "!AA7149">
+"Thank you very much."
 #
-<name "ラズロック">
-「外食も付けよう」
+<name "Lazlocke">
+"And let's go out to eat."
 #
 <sprite "ta01a92.iph" 4 4 12>
-<name "セリス" "!AA7150">
-「そんなリッチな事……お財布、大丈夫ですか？」
+<name "Celes" "!AA7150">
+"So extravagant...
+ Do we have enough money?"
 #
-<name "ラズロック">
-「大丈夫大丈夫。
-　いざとなれば協会に借りるし」
+<name "Lazlocke">
+"Don't worry about it.
+ In case of emergency, I can borrow from the 
+ Guild."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA7151">
-「借金はダメですよ。
-　あ、そうだ師匠」
+<name "Celes" "!AA7151">
+"It's not good to be in debt.
+ Oh, that's right, Master."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "セリス" "!AA7152">
-「新しい技を習得したので、買物前にでも手合わせ
-　をお願いできますか？」
+<name "Celes" "!AA7152">
+"I just learned a new technique, so could we have
+ a little sparring match before we go shopping?"
 #
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta01a32.iph" 4 4 12>
-<name "セリス" "!AA7153">
-「あの、師匠？」
+<name "Celes" "!AA7153">
+"Um, Master?"
 #
-<name "ラズロック">
-「手遅れかもしれないが、可愛がってやるからな」
+<name "Lazlocke">
+"Maybe it's too late, but I promise I'll take
+ better care of you."
 #
 <sprite "ta01a36.iph" 4 4 12>
-<name "セリス" "!AA7154">
-「え？
-　あの、手合わせ……」
+<name "Celes" "!AA7154">
+"Huh?
+ Um, the match..."
 #
-<name "ラズロック">
-「謝罪が必要なら気が済むまで謝ろう」
+<name "Lazlocke">
+"If you need me to say I'm sorry, I'll get down on
+ my hands and knees."
 #
 <sprite "ta01a27.iph" 4 4 12>
-<name "セリス" "!AA7155">
-「は？」
+<name "Celes" "!AA7155">
+"Um?"
 #
-<name "ラズロック">
-「だから、手合わせは無しの方向でお願いします」
+<name "Lazlocke">
+"So... Please no sparring."
 #
 <sprite "ta01a37.iph" 4 4 12>
-<name "セリス" "!AA7156">
-「？」
+<name "Celes" "!AA7156">
+"Huh?"
 #
 <removesprite -1 11>
-　その場で土下座する俺だった。
+I bow my head to her on the spot.
 #
-　周回プレイで、強くなり過ぎです。
+New Game+ has made her way too strong.
 #
 \x78\x78

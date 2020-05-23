@@ -1,169 +1,170 @@
 <music 11>
 <background "bg018a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA1462">
-「こんにちは。
-　エンディングの無い女の時間です」
+<name "Soshiette" "!DA1462">
+"Hello, it's time for the women who didn't get an
+ ending."
 #
 <sprite "ta04a12.iph" 4 4 12>
-<name "ソシエット" "!DA1463">
-「今回のゲストは、ルーン協会長です」
+<name "Soshiette" "!DA1463">
+"Our guest is President Rune."
 #
 <removesprite -1 11>
 <sprite "ta05a01.iph" 4 4 11>
-<name "ルーン" "!EA0555">
-「ルーンです」
+<name "Rune" "!EA0555">
+"Rune here."
 #
 <removesprite -1 11>
 <sprite "ta05a01.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "ソシエット" "!DA1464">
-「よろしくお願いします」
+<name "Soshiette" "!DA1464">
+"Welcome."
 #
 <sprite "ta05a07.iph" 2 5 12>
-<name "ルーン" "!EA0556">
-「はい、よろしくね」
+<name "Rune" "!EA0556">
+"Yep. Nice to see you."
 #
 <sprite "ta04a22.iph" 6 4 12>
-<name "ソシエット" "!DA1465">
-「ですが……
-　エンディングの無い女の時間と言われても、何を
-　喋れと言うんでしょうか」
+<name "Soshiette" "!DA1465">
+"However... 
+ While this is the reserved time for women without
+ an ending, what are we supposed to talk about?"
 #
 <sprite "ta05a20.iph" 2 5 12>
-<name "ルーン" "!EA0557">
-「そうよね。
-　暇だったーとかかな？」
+<name "Rune" "!EA0557">
+"You're right.
+ Maybe just free time then?"
 #
 <sprite "ta04a19.iph" 6 4 12>
-<name "ソシエット" "!DA1466">
-「このコーナーに居る事自体が屈辱ですし」
+<name "Soshiette" "!DA1466">
+"Being in this corner is humiliating."
 #
 <sprite "ta05a21.iph" 2 5 12>
-<name "ルーン" "!EA0558">
-「まったくよね」
+<name "Rune" "!EA0558">
+"Seriously."
 #
 <sprite "ta04a26.iph" 6 4 12>
-<name "ソシエット" "!DA1468">
-「ルーン様も、乗り気じゃありませんよね」
+<name "Soshiette" "!DA1468">
+"You don't like it much either, huh?"
 #
 <sprite "ta05a12.iph" 2 5 12>
-<name "ルーン" "!EA0559">
-「もちろん」
+<name "Rune" "!EA0559">
+"Of course not."
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "ソシエット" "!DA1469">
-「……帰ります？」
+<name "Soshiette" "!DA1469">
+"...Want to leave?"
 #
 <sprite "ta05a17.iph" 2 5 12>
-<name "ルーン" "!EA0560">
-「そうね。
-　いいアイディアだけど……
-　せっかくのコーナーだし、ここは一つ」
+<name "Rune" "!EA0560">
+"I guess.
+ I had a nice idea though.
+ There is one thing that could make this corner
+ special."
 #
 <sprite "ta04a06.iph" 6 4 12>
-<name "ソシエット" "!DA1470">
-「？」
+<name "Soshiette" "!DA1470">
+"Hm?"
 #
 <sprite "ta05a12.iph" 2 5 12>
-<name "ルーン" "!EA0561">
-「ラズを引っ張ってきてくれるかな」
+<name "Rune" "!EA0561">
+"Could you pull Laz in?"
 #
 <sprite "ta04a10.iph" 6 4 12>
-<name "ソシエット" "!DA1471">
-「はっ！」
+<name "Soshiette" "!DA1471">
+"Ah!"
 #
 <removesprite -1 11>
-<name "ラズロック">
-「な、なんだ？
-　急に？」
+<name "Lazlocke">
+"W-What?
+ What do you want me for?"
 #
 <sprite "ta05a07.iph" 4 5 11>
-<name "ルーン" "!EA0562">
-「良い仕事よ」
+<name "Rune" "!EA0562">
+"Good work."
 #
 <removesprite -1 11>
 <sprite "ta05a07.iph" 2 5 11>
 <sprite "ta04a10.iph" 6 4 11>
-<name "ソシエット" "!DA1472">
-「ありがとうございます」
+<name "Soshiette" "!DA1472">
+"Thank you very much."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta05a12.iph" 4 4 11>
-<name "ルーン" "!EA0563">
-「さて、ラズくん。
-　これから私とソシエットのエンディングをやって
-　くれないかな？」
+<name "Rune" "!EA0563">
+"Now, then.
+ Laz, can you do an ending with Soshiette and me?"
 #
-<name "ラズロック">
-「え？」
+<name "Lazlocke">
+"Huh?"
 #
 <sprite "ta05a13.iph" 4 4 12>
-<name "ルーン" "!EA0564">
-「あらあら、返事は“え？”じゃなくて、“はい”
-　でしょう」
+<name "Rune" "!EA0564">
+"My, my. Not huh.
+ Yes."
 #
-<name "ラズロック">
-「は、はい。
-　わかりましたから、首を絞めながら微笑むのは止
-　めてください。
-　怖いです」
+<name "Lazlocke">
+"Y-Yes, ma'am.
+ I understand. Please stop throttling me.
+ You're scaring me."
 #
 <sprite "ta05a11.iph" 4 4 12>
-<name "ルーン" "!EA0565">
-「では、始め♪」
+<name "Rune" "!EA0565">
+"Okay, go right ahead.♪"
 #
 <removesprite -1 11>
-　ルーン＝なんちゃら
+Rune Whoever
 #
-　まあ、平平凡凡と協会本部の上で余生を過ごす。
+Well, I spent the rest of my life uneventfully in
+Guild headquarters.
 #
-　俺の人生とは限りなく接点が薄い事を祈ろう。
+I just pray that I barely ever see her.
 #
 <sprite "ta05a12.iph" 4 4 11>
-<name "ルーン" "!EA0566">
-「あらあら、ラズくん。
-　ルーン＝なんちゃらって何？
-　中身もかなり適当よね」
+<name "Rune" "!EA0566">
+"My, my, Laz.
+ What's with Rune Whoever?
+ And that's quite the story too."
 #
 <sprite "ta05a13.iph" 4 4 12>
-<name "ルーン" "!EA0567">
-「死にたいのかしら？
-　死にたいのよね。
-　きっとそうよね」
+<name "Rune" "!EA0567">
+"Do you have a death wish?
+ It sounds like you have a death wish.
+ That must be it."
 #
 <removesprite -1 11>
 <sprite "ta05a13.iph" 2 5 11>
 <sprite "ta04a26.iph" 6 4 11>
-<name "ソシエット" "!DA1473">
-「協会長、殺すのは私のエンディングの後で」
+<name "Soshiette" "!DA1473">
+"President, let him do my ending before you kill
+ him."
 #
 <removesprite -1 11>
-　ソシエット＝ほにゃらら
+Soshiette Whatever
 #
-　メイドでした。
+A maid.
 #
 <sprite "ta04a19.iph" 4 4 11>
-<name "ソシエット" "!DA1474">
-「協会長、止めてすみませんでした。
-　殺っちゃってください」
+<name "Soshiette" "!DA1474">
+"President, I apologize for stopping you.
+ Kill him."
 #
 <removesprite -1 11>
 <sprite "ta05a12.iph" 2 5 11>
 <sprite "ta04a19.iph" 6 4 11>
-<name "ルーン" "!EA0568">
-「うん♪」
+<name "Rune" "!EA0568">
+"Okay.♪"
 #
 <removesprite -1 11>
-　ラズロック＝いやっふー
+Lazlocke Blah
 #
-　まあ、彼は頑張ったと思うよ。
+Well, he probably tried his best.
 #
-　あの二人を相手におちょくり切ったんだから。
+He died making fun of two women.
 #
-　コメディアンとしては尊敬できるかな。
+Perhaps respectable as a comedian.
 #
-　生き方としては愚かだと思うけど。
+But a foolish way to die.
 #
 \x78\x78

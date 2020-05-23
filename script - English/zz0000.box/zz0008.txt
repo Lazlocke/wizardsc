@@ -1,139 +1,142 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta12a30.iph" 4 4 11>
-<name "リノ" "!PA0142">
-「俺は男だ！
-　女ではない！」
+<name "Reno" "!PA0142">
+"I am a man!
+ Not a woman!"
 #
 <sprite "ta12a22.iph" 4 4 12>
-<name "リノ" "!PA0144">
-「そして、体毛が薄くて誤解されるが、俺は成人男
-　性だ！
-　結婚もしている」
+<name "Reno" "!PA0144">
+"And even though I don't have much hair, I'm an
+ adult!
+ Also, I'm married!"
 #
 <removesprite -1 11>
 <sprite "ta12a22.iph" 2 4 11>
 <sprite "ta02a03.iph" 6 3 11>
-<name "イエル" "!CA1184">
-「えええええええええっ！」
+<name "Elle" "!CA1184">
+"Eeeeeeeeh!?"
 #
 <sprite "ta12a29.iph" 2 4 12>
-<name "リノ" "!PA0145">
-「煩いな……」
+<name "Reno" "!PA0145">
+"So annoying..."
 #
 <sprite "ta02a07.iph" 6 3 12>
-<name "イエル" "!CA1185">
-「え、待って。
-　結婚してるって……ええええ！」
+<name "Elle" "!CA1185">
+"Huh? Wait...
+ You're maried?
+ Eeeeeh!?"
 #
 <sprite "ta12a26.iph" 2 4 12>
-<name "リノ" "!PA0146">
-「ちゃんとした妻が居る」
+<name "Reno" "!PA0146">
+"I have an actual wife."
 #
 <sprite "ta02a03.iph" 6 3 12>
-<name "イエル" "!CA1186">
-「ま、まさか、似たような姿とか……」
+<name "Elle" "!CA1186">
+"N-No way...
+ I bet she looks like..."
 #
 <sprite "ta12a29.iph" 2 4 12>
-<name "リノ" "!PA0147">
-「失礼な。
-　普通にグラマラスな女性だ」
+<name "Reno" "!PA0147">
+"How rude.
+ She's a regular, glamorous woman."
 #
 <sprite "ta02a06.iph" 6 3 12>
-<name "イエル" "!CA1187">
-「そ、そうなんだ……」
+<name "Elle" "!CA1187">
+"I-I see..."
 #
 <sprite "ta12a49.iph" 2 4 12>
-<name "リノ" "!PA0149">
-「美人だし、気立ても良いし、商売も上手。
-　今でも、街で評判の妻だぞ」
+<name "Reno" "!PA0149">
+"She's beautiful, has a good personality, and has
+ excellent business sense.
+ She's a well-respected woman about town."
 #
 <sprite "ta02a07.iph" 6 3 12>
-<name "イエル" "!CA1188">
-「り、理想的な奥さんだ……」
+<name "Elle" "!CA1188">
+"T-The perfect wife..."
 #
 <sprite "ta12a22.iph" 2 4 12>
-<name "リノ" "!PA0150">
-「そうだ。
-　弱点らしい弱点は無い！
-　と言いたいが……
-　俺から見れば、いくつか弱点がある」
+<name "Reno" "!PA0150">
+"That's right! Her flaw is that she has no flaws!
+ ...I should say, but personally speaking, there
+ are a few issues."
 #
 <sprite "ta02a06.iph" 6 3 12>
-<name "イエル" "!CA1189">
-「おお、強気だ」
+<name "Elle" "!CA1189">
+"Ooh? How brave."
 #
 <sprite "ta12a37.iph" 2 4 12>
-<name "リノ" "!PA0151">
-「まず、弱点として……
-　俺に短パンばかり履かせようとする事だな」
+<name "Reno" "!PA0151">
+"First, a bad thing, she's always trying to make
+ me wear only shorts."
 #
 <sprite "ta12a38.iph" 2 4 12>
-<name "リノ" "!PA0152">
-「あと、やたらと俺が男友達と遊ぶ事を推奨する事
-　とか……」
+<name "Reno" "!PA0152">
+"Also, she keeps trying to get me to hang out with
+ her random guy friends."
 #
 <sprite "ta12a35.iph" 2 4 12>
-<name "リノ" "!PA0154">
-「夜の行為になると、急に鼻息が荒くなって獣の目
-　になる事とか……」
+<name "Reno" "!PA0154">
+"And at night, she'll suddenly get totally carried
+ away and turns into a beast."
 #
 <sprite "ta02a01.iph" 6 3 12>
-<name "イエル" "!CA1191">
-「あの……」
+<name "Elle" "!CA1191">
+"Um..."
 #
 <sprite "ta12a00.iph" 2 4 12>
-<name "リノ" "!PA0155">
-「なんだ？」
+<name "Reno" "!PA0155">
+"What?"
 #
 <sprite "ta02a09.iph" 6 3 12>
-<name "イエル" "!CA1192">
-「その奥さん。
-　絶対に開けてはいけない部屋とか倉庫を持ってな
-　い？」
+<name "Elle" "!CA1192">
+"Your wife... Does she have a room or a shed or
+ something that you're absolutely never allowed to
+ look inside?"
 #
 <sprite "ta12a38.iph" 2 4 12>
-<name "リノ" "!PA0156">
-「ああ、あるぞ。
-　でも、最近はそこを俺に開けさせたがっている感
-　じがあってな」
+<name "Reno" "!PA0156">
+"Yeah, she does, but lately, I've started feeling
+ like she wants me to look inside."
 #
 <sprite "ta02a24.iph" 6 3 12>
-<name "イエル" "!CA1193">
-「今の幸せを守りたいなら、絶対に開けちゃ駄目よ」
+<name "Elle" "!CA1193">
+"If you want to preserve your bliss, you must 
+ never look inside."
 #
 <sprite "ta12a43.iph" 2 4 12>
-<name "リノ" "!PA0157">
-「お、おう……凄い迫力だな」
+<name "Reno" "!PA0157">
+"R-Right...
+ Very convincing."
 #
 <sprite "ta02a23.iph" 6 3 12>
-<name "イエル" "!CA1194">
-「開けちゃ駄目よ」
+<name "Elle" "!CA1194">
+"Don't look inside."
 #
 <sprite "ta12a07.iph" 2 4 12>
-<name "リノ" "!PA0158">
-「な、なんの事かよくわからないが……
-　俺が妻との約束を破る筈が無いだろ。
-　絶対に開けない」
+<name "Reno" "!PA0158">
+"I-I'm not sure I get it...
+ I just can't break the promise I made to her 
+ though.
+ I'll never open it."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "セリス" "!AA7134">
-「イエルちゃん、なんの事なの？」
+<name "Celes" "!AA7134">
+"Elle, what were you talking about?"
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta02a32.iph" 6 4 11>
-<name "イエル" "!CA1195">
-「ショタコン趣味を隠している奥さん……
-　カミングアウトしたら、絶対にブレーキが外れる
-　からね」
+<name "Elle" "!CA1195">
+"His wife is hiding that she's a shotacon.
+ If he finds out, all the brakes are off."
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "セリス" "!AA7135">
-「は、はぁ……」
+<name "Celes" "!AA7135">
+"U-Um..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

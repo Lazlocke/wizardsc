@@ -1,98 +1,95 @@
 <music 7>
 <background "bg011a0.iph" 11>
 <sprite "ta14a00.iph" 4 4 11>
-<name "レッキーノ" "!RA0117">
-「こんにちは。
-　レッキーノです」
+<name "Recchino" "!RA0117">
+"Hello.
+ Recchino here."
 #
-<name "レッキーノ" "!RA0118">
-「顔は見せられません。
-　モブ顔なんで……
-　ええ、前髪で目元を隠している感じの……」
+<name "Recchino" "!RA0118">
+"I can't show you my face.
+ Like a generic NPC face...
+　Yeah, like the kind where they hide the eyes with
+ the bangs."
 #
-<name "レッキーノ" "!RA0119">
-「はい、最初は主人公っぽくて良いかなと思ってい
-　たんですが、どうも地味で……
-　それならいっそと顔を隠してみました」
+<name "Recchino" "!RA0119">
+"Yes. At first I thought it'd be nice to be like a
+ protagonist, but I'm so normal looking...
+ So I tried to hide it."
 #
-<name "レッキーノ" "!RA0120">
-「はい。
-　駄目です。
-　見せられません。
-　他の質問を……」
+<name "Recchino" "!RA0120">
+"Yes. Don't bother asking.
+ I can't show you.
+ Ask something else."
 #
-<name "レッキーノ" "!RA0121">
-「セリスさんですか？
-　ええ、彼女は強かったですよ。
-　本気ですもん。
-　こっちが様子見で始めたら、ガツンですからね」
+<name "Recchino" "!RA0121">
+"Celes? Yes, she was strong.
+ It was very difficult.
+ If I let her come to me, I would be smacked 
+ down."
 #
-<name "レッキーノ" "!RA0122">
-「卑怯とは言いませんが、もう少し美学をもって欲
-　しいです。
-　はい、他に……駄目です。
-　見せられません」
+<name "Recchino" "!RA0122">
+"I'm not trying to be cowardly, but I think you 
+ should train a little more
+ Yes, otherwise... No.
+ I can't show you."
 #
-<name "レッキーノ" "!RA0123">
-「ええ、出演できて感動です。
-　いやー、願えば叶うものですね」
+<name "Recchino" "!RA0123">
+"Yes, I was very happy to appear in this game.
+ Well, wishes can come true."
 #
-<name "レッキーノ" "!RA0124">
-「師匠はいません。
-　独学です」
+<name "Recchino" "!RA0124">
+"I have no master.
+ I'm self-taught."
 #
-<name "レッキーノ" "!RA0125">
-「何度か探したんですが、誰も弟子にしてくれなく
-　て……“暑苦しい”が断わられる時に一番聞いた
-　言葉ですね。
-　少し悲しかったです」
+<name "Recchino" "!RA0125">
+"I asked many people, but nobody would take me.
+ They usually said I was too overbearing.
+ It was a little depressing."
 #
-<name "レッキーノ" "!RA0126">
-「はい。
-　そうです。
-　ええ、駄目です。
-　見せられません」
+<name "Recchino" "!RA0126">
+"Yes, that's right.
+ Yes, I won't.
+ You can't see it."
 #
-<name "レッキーノ" "!RA0127">
-「結婚はしていません。
-　いえ、そうじゃなくて、モテなかっただけです。
-　募集中です」
+<name "Recchino" "!RA0127">
+"I'm not married.
+ No, not like that.
+ I'm just not very good with women.
+ I'm still looking."
 #
-<name "レッキーノ" "!RA0128">
-「生物学上、女性なら誰でも構いません。
-　拾ってください。
-　年齢制限はありません」
+<name "Recchino" "!RA0128">
+"Biologically any woman is fine.
+ Beggars aren't choosers.
+ I don't mind age."
 #
-<name "レッキーノ" "!RA0129">
-「はい。
-　駄目です。
-　見せられません。
-　しつこいですね」
+<name "Recchino" "!RA0129">
+"Yes.
+ No, I won't show you.
+ You're persistent."
 #
-<name "レッキーノ" "!RA0130">
-「どこの方ですか？
-　次、その質問をしたら終わりますよ」
+<name "Recchino" "!RA0130">
+"Who was that?
+ Next time you ask, I'm leaving."
 #
-<name "レッキーノ" "!RA0131">
-「はい。
-　憧れの人は……ナイト＝クルセイダですかね。
-　ええ、完璧なる黄金の……
-　そうです」
+<name "Recchino" "!RA0131">
+"Yes.
+ The one I admire? Knight Crusader.
+ Yes, the one in Perfect Gold.
+ That's right."
 #
-<name "レッキーノ" "!RA0132">
-「奥さんも有名人ですし、ベストカップルって感じ
-　で良いですよね。
-　もう少し早く生まれていれば、その冒険者パーティ
-　に参加したかったです」
+<name "Recchino" "!RA0132">
+"A celebrity wife and a perfect power couple.
+ If I had been born during that time, I wouldn't
+ wanted to join their party."
 #
-<name "レッキーノ" "!RA0133">
-「次の質問は……
-　さっき言ったでしょ！
-　次、その質問をしたら終るって！
-　もう怒った、ここで終わりにします」
+<name "Recchino" "!RA0133">
+"Next question...
+ I told you already!
+ Next time you ask, I'm done!
+ Now I'm mad. We're finished!"
 #
-<name "レッキーノ" "!RA0134">
-「ありがとうございました」
+<name "Recchino" "!RA0134">
+"Thank you very much."
 #
 <removesprite -1 11>
 \x2B\x78\x78

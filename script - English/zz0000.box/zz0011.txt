@@ -1,85 +1,86 @@
 <music 10>
 <background "bg002b0.iph" 11>
-<name "ラズロック">
-「セリスー」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7170">
-「なんですか？」
+<name "Celes" "!AA7170">
+"Yes?"
 #
-<name "ラズロック">
-「麻雀やるぞ」
+<name "Lazlocke">
+"Let's play mahjong."
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "セリス" "!AA7171">
-「……え？
-　良いんですか？」
+<name "Celes" "!AA7171">
+"...Huh?
+ Are you sure?"
 #
-<name "ラズロック">
-「なんだ？
-　そのリアクションは？」
+<name "Lazlocke">
+"What?
+ What's with that reaction?"
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "セリス" "!AA7172">
-「私、国元では“染姫のセリス”と異名をつけられ、
-　あらゆる雀荘で出禁となっていましたから」
+<name "Celes" "!AA7172">
+"Where I'm fron, I was nicknamed Princess of the
+ Tiles, and was banned from every mahjong parlor."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "セリス" "!AA7173">
-「では、やりましょう。
-　ルールとレートはどうなっていますか？」
+<name "Celes" "!AA7173">
+"Okay, let's do it.
+ What are the rules and rates?"
 #
-<name "ラズロック">
-「ア、アリアリで……１０００点１Ｂ」
+<name "Lazlocke">
+"L-Let's say 1,000 points is 1Ｂ."
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "セリス" "!AA7174">
-「半荘回数は？」
+<name "Celes" "!AA7174">
+"How many hanchan?"
 #
-<name "ラズロック">
-「と、特には……
-　話し合ってラス半（最後の半荘）を決めるぐらい
-　で……」
+<name "Lazlocke">
+"I-I don't know?
+ Let's just play it by ear."
 #
 <sprite "ta01a00.iph" 4 4 12>
-<name "セリス" "!AA7175">
-「わかりました。
-　問題ありません。
-　ふふ……腕が鳴ります」
+<name "Celes" "!AA7175">
+"All right.
+ That's fine with me.
+ Heheh...
+ I'm itching to go."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <removesprite -1 11>
 <background "bg020a0.iph" 22>
-　翌朝。
+The next morning...
 #
 <background "bg002a0.iph" 11>
 <sprite "ta03a35.iph" 4 4 11>
-<name "ヴィオラ" "!BA1319">
-「つ、強い……」
+<name "Viola" "!BA1319">
+"S-She's so good..."
 #
 <removesprite -1 11>
 <sprite "ta04a65.iph" 4 4 11>
-<name "ソシエット" "!DA1475">
-「馬鹿な……」
+<name "Soshiette" "!DA1475">
+"Impossible..."
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "イエル" "!CA1196">
-「ドラが……ドラがあんなにあるなんて……」
+<name "Elle" "!CA1196">
+"That dora... 
+ How did she get that dora?"
 #
 <removesprite -1 11>
 <sprite "ta01a18.iph" 4 4 11>
-<name "セリス" "!AA7176">
-「気持ち良い朝です♪」
+<name "Celes" "!AA7176">
+"What a good morning.♪"
 #
-<name "ラズロック">
-「ふう。
-　世話係に回って正解だった」
+<name "Lazlocke">
+"Whew.
+ I'm glad I bowed out early."
 #
 <removesprite -1 11>
 \x2B\x78\x78
