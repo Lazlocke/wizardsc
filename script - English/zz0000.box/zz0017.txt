@@ -1,122 +1,127 @@
 <music 2>
 <background "bg014a0.iph" 11>
-<name "奥さん" "!MA0285">
-「あら、こんにちは。
-　今日も良いお天気ですね」
+<name "Woman" "!MA0285">
+"Oh, hello.
+ Another fine day."
 #
-<name "ヘンリエッタ" "!HA0325">
-「そうですね。
-　洗濯物が早く乾いて、助かります」
+<name "Henrietta" "!HA0325">
+"It is.
+ It's nice when the laundry dries so fast."
 #
-<name "若い盗賊" "!SB0469">
-「本当にあの主婦ですか？」
+<name "Young Thief" "!SB0469">
+"Is that woman really her?"
 #
-<name "ベテラン盗賊" "!TB0434">
-「ああ……
-　地獄のヘンリエッタ。
-　暗黒街のヘンリエッタ。
-　皆殺しのヘンリエッタ」
+<name "Veteran Thief" "!TB0434">
+"Yeah.
+ Henrietta of Hell.
+ Henrietta of the Underworld.
+ Henrietta the Killer."
 #
-<name "ベテラン盗賊" "!TB0435">
-「不吉な通り名の数なら、ヴィオラ＝エントラにも
-　負けない魔法使い。
-　魔法使いの皮を被った悪魔！」
+<name "Veteran Thief" "!TB0435">
+"No matter what horrible name she goes by, she's
+ a wizard on part with Viola Entra.
+ A devil wearing the skin of a wizard!"
 #
-<name "ベテラン盗賊" "!TB0450">
-「そして名付けられた名前が“暴君”！」
+<name "Veteran Thief" "!TB0450">
+"And nicknamed, The Tyrant!"
 #
-<name "若い盗賊" "!SB0470">
-「ごくり」
+<name "Young Thief" "!SB0470">
+"Gulp."
 #
-<name "ベテラン盗賊" "!TB0437">
-「しかし、その悪魔は結婚してから堕落したとの情
-　報を得ている」
+<name "Veteran Thief" "!TB0437">
+"But I've heard she's gotten rusty after getting
+ married."
 #
-<name "ベテラン盗賊" "!TB0438">
-「つまり、昔ほど強くない！」
+<name "Veteran Thief" "!TB0438">
+"So she's not as strong as she used to be!"
 #
-<name "若い盗賊" "!SB0471">
-「そ、そうですね」
+<name "Young Thief" "!SB0471">
+"I-I see."
 #
-<name "ベテラン盗賊" "!TB0451">
-「しかし、その名声は高く狙い目！」
+<name "Veteran Thief" "!TB0451">
+"But there still huge fame for going after her!"
 #
-<name "若い盗賊" "!SB0472">
-「はい！」
+<name "Young Thief" "!SB0472">
+"Yeah!"
 #
-<name "ベテラン盗賊" "!TB0440">
-「しかし、俺は油断しない」
+<name "Veteran Thief" "!TB0440">
+"But don't be careless."
 #
-<name "若い盗賊" "!SB0473">
-「と、言いますと……」
+<name "Young Thief" "!SB0473">
+"Y-You say that, but..."
 #
-<name "ベテラン盗賊" "!TB0441">
-「腐っても悪魔だ。
-　正面からでは勝ち目は薄いだろう」
+<name "Veteran Thief" "!TB0441">
+"Even if she's rusty, she's still a devil.
+ If you go straight at her, you probably don't
+ stand a chance."
 #
-<name "若い盗賊" "!SB0474">
-「つまり……」
+<name "Young Thief" "!SB0474">
+"So..."
 #
-<name "ベテラン盗賊" "!TB0442">
-「奇襲を仕掛ける。
-　それも、あの悪魔がもっとも油断するであろう睡
-　眠中に！」
+<name "Veteran Thief" "!TB0442">
+"Set up a surprise attack.
+ It's sleep when that devil is at her most
+ vulnerable!"
 #
-<name "若い盗賊" "!SB0475">
-「おおっ！」
+<name "Young Thief" "!SB0475">
+"Yeah!"
 #
-<name "ベテラン盗賊" "!TB0443">
-「我らならやれる！」
+<name "Veteran Thief" "!TB0443">
+"We can do it!"
 #
-<name "若い盗賊" "!SB0476">
-「はい！」
+<name "Young Thief" "!SB0476">
+"Yeah!"
 #
-<name "ベテラン盗賊" "!TB0444">
-「グレイトシックスの一人を倒し、横暴な魔法使い
-　協会に正義の鉄槌を喰らわすのだ！
-　そして、我らに名声を！」
+<name "Veteran Thief" "!TB0444">
+"We'll defeat one of the Great Six and bring the
+ hammer of justice down on the tyrannical Wizard's
+ Guild!
+ And become world famous!"
 #
-<name "若い盗賊" "!SB0477">
-「我らに名声を！」
+<name "Young Thief" "!SB0477">
+"We'll be celebrities!"
 #
-<name "ベテラン盗賊" "!TB0445">
-「では、夜になるのを待とう」
+<name "Veteran Thief" "!TB0445">
+"So let's wait for night."
 #
-<name "ヘンリエッタ" "!HA0326">
-「あら……
-　せっかく来たのに、帰ってしまうのですか？」
+<name "Henrietta" "!HA0326">
+"Oh...
+ Are you leaving after coming all the way here?"
 #
-<name "ベテラン盗賊" "!TB0446">
-「うわぁぁぁっ！」
+<name "Veteran Thief" "!TB0446">
+"Aaah!"
 #
-<name "ヘンリエッタ" "!HA0327">
-「そう驚かずに……ご近所に迷惑ですから」
+<name "Henrietta" "!HA0327">
+"Don't be so surprised.
+ You're bothering the whole neighborhood."
 #
-<name "ベテラン盗賊" "!TB0447">
-「え……」
+<name "Veteran Thief" "!TB0447">
+"Huh?"
 #
-<name "ヘンリエッタ" "!HA0328">
-「待っていたのですよ……
-　貴方達みたいに仕掛けて来てくれる人」
+<name "Henrietta" "!HA0328">
+"I've been waiting...
+ I knew someone like you would come after me."
 #
-<name "ヘンリエッタ" "!HA0329">
-「主婦業って、思った以上に大変でストレスが溜まっ
-　てしまって……」
+<name "Henrietta" "!HA0329">
+"Being a housewife is so much more stressful than
+ I thought it would be."
 #
-<name "ヘンリエッタ" "!HA0330">
-「時々、誰かをブチのめしたいなぁー……
-　なんて考えたりしてね。
-　ふふふ……夜までなんて待てないわ」
+<name "Henrietta" "!HA0330">
+"I was just thinking... sometimes, you just need
+ a way to blow it all off.
+ Heheheh...
+ I can't wait until tonight." 
 #
-<name "ベテラン盗賊" "!TB0448">
-「ひっ……ひぃぃぃっ！」
+<name "Veteran Thief" "!TB0448">
+"Eek!
+ Aaaah!"
 #
-　ヘンリエッタ＝ベベルズ
+Henrietta Bevels.
 #
-　ヴィオラよりも恐れられた魔法使い。
+A wizard more terrifying than Viola.
 #
-<name "ヘンリエッタ" "!HA0331">
-「ふう……少しだけスッキリ。
-　さて、今日の夕飯は何にしようかなぁ♪」
+<name "Henrietta" "!HA0331">
+"Whew... I feel a little better now.
+ Okay, what should we have for dinner?♪"
 #
 \x78\x78

@@ -1,126 +1,125 @@
 <music 2>
 <background "bg012a0.iph" 11>
-<name "ジョニー" "!SB0455">
-「俺達を主役としたゲームを作ろう！」
+<name "Johnny" "!SB0455">
+"Let's make a game where we're the protagonists!"
 #
-<name "マイク" "!QB0491">
-「舞台はファンタジー？
-　現代？
-　はたまた未来？」
+<name "Mike" "!QB0491">
+"A fantasy setting?
+ Modern day?
+ Or the future?"
 #
-<name "ジョニー" "!SB0456">
-「現代だ！」
+<name "Johnny" "!SB0456">
+"Modern day!"
 #
-<name "マイク" "!QB0493">
-「おお、チャレンJabル！」
+<name "Mike" "!QB0493">
+"Ooh! A challenge!"
 #
-<name "ジョニー" "!SB0457">
-「まず、ゲーム化にあたり、開発者達に利点を説明
-　せねばなるまい」
+<name "Johnny" "!SB0457">
+"First, we have to explain the benefits of making
+ a game like that to the developers."
 #
-<name "ジム" "!TB0426">
-「それは聞きたい。
-　どんな利点があるんだい？」
+<name "Jim" "!TB0426">
+"I want to hear that.
+ What are the benefits?"
 #
-<name "ジョニー" "!SB0458">
-「まず、俺達に表情が無いので、表情変化がとても
-　楽だ！」
+<name "Johnny" "!SB0458">
+"First, because we don't have faces, it's very
+ easy to change our expressions!"
 #
-<name "ホプキンス" "!UA0485">
-「あ、兄貴。
-　俺達、全身モザイクだから表情変化とか関係無い
-　と思うよ」
+<name "Hopkins" "!UA0485">
+"Oh, bro. I think it's cause we're totally 
+ mosaics. That has nothing to do with our 
+ expressions."
 #
-<name "ジョニー" "!SB0460">
-「な、なにっ！」
+<name "Johnny" "!SB0460">
+"W-What!?"
 #
-<name "ジム" "!TB0427">
-「逆に、ボディランゲージが必要になるから、大変
-　じゃないかな」
+<name "Jim" "!TB0427">
+"On the other hand, won't that make it harder 
+ because then you need to use body language?"
 #
-<name "ジョニー" "!SB0461">
-「じゃあ、次の利点だ！」
+<name "Johnny" "!SB0461">
+"Then the next benefit!"
 #
-<name "マイク" "!QB0494">
-「どんとこい！」
+<name "Mike" "!QB0494">
+"Bring it on!"
 #
-<name "ジョニー" "!SB0462">
-「エロが触手オンリーになる！」
+<name "Johnny" "!SB0462">
+"The sex is all tentacles!"
 #
-<name "ジム" "!TB0428">
-「……えっと」
+<name "Jim" "!TB0428">
+"...Uh."
 #
-<name "ホプキンス" "!UA0486">
-「うーん……」
+<name "Hopkins" "!UA0486">
+"Hmm..."
 #
-<name "マイク" "!QB0495">
-「どんまい、兄貴！」
+<name "Mike" "!QB0495">
+"Don't mind it, bro!"
 #
-<name "ジョニー" "!SB0463">
-「ええっ、駄目か？
-　悪く無いと思うが？」
+<name "Johnny" "!SB0463">
+"Um, that won't work?
+ I think it sounds fine."
 #
-<name "マイク" "!QB0496">
-「兄貴、起きながら夢を見るのはやめましょう」
+<name "Mike" "!QB0496">
+"Bro, don't be dreaming while you're wide awake."
 #
-<name "ジム" "!TB0429">
-「その通り」
+<name "Jim" "!TB0429">
+"Right."
 #
-<name "ホプキンス" "!UA0487">
-「うんうん」
+<name "Hopkins" "!UA0487">
+"Yeah, yeah."
 #
-<name "ジョニー" "!SB0464">
-「馬鹿な！
-　貴様ら、俺の崇高な考えが理解できないと言うの
-　か！」
+<name "Johnny" "!SB0464">
+"Fools!
+ Are you saying that you cannot comprehend my
+ sublime genius!?"
 #
-<name "ジム" "!TB0430">
-「崇高って……
-　触手エロオンリーのアダルトゲームが、崇高です
-　か？」
+<name "Jim" "!TB0430">
+"Sublime...
+ Is a tentacle only eroge really sublime?"
 #
-<name "ジョニー" "!SB0465">
-「崇高だ！」
+<name "Johnny" "!SB0465">
+"It's sublime!"
 #
-<name "マイク" "!QB0497">
-「い、言い切った……流石は兄貴！
-　我らのリーダー！」
+<name "Mike" "!QB0497">
+"S-So confident...
+ Well said, bro!
+ That's our leader!"
 #
-<name "ジョニー" "!SB0466">
-「よし！
-　では、一般大衆の意見を聞いてみよう！」
+<name "Johnny" "!SB0466">
+"Okay!
+ So let's hear what the public has to say!"
 #
-<name "ジム" "!TB0431">
-「ど、どうやってですか？」
+<name "Jim" "!TB0431">
+"H-How do we do that?"
 #
-<name "ジョニー" "!SB0467">
-「俺達を主役としたゲームを期待する方々は、アン
-　ケートハガキに、“触手”かそれに類する単語を
-　書いて送ってください！
-　数が多ければ、偉い人を説得できます！」
+<name "Johnny" "!SB0467">
+"Everybody who wants a game with us as the main
+ characters should send in a tentacle postcard.
+ If there are a bunch, we could convince one of
+ the VIPs!"
 #
-<name "マイク" "!QB0498">
-「これって、シナリオライターの反乱ですか？」
+<name "Mike" "!QB0498">
+"Wouldn't the writers revolt?"
 #
-<name "管理人" "!HA0324">
-「不穏分子は、今のウチに処分する」
+<name "Boss" "!HA0324">
+"Subversive elements will be eliminated."
 #
-<name "ジム" "!TB0432">
-「え？
-　誰？
-　今の誰？」
+<name "Jim" "!TB0432">
+"Huh?
+ Who was that?"
 #
-<name "マイク" "!QB0499">
-「あれ？
-　兄貴？」
+<name "Mike" "!QB0499">
+"Huh?
+ Bro?"
 #
-<name "ジム" "!TB0433">
-「どこに行ったんだろ？」
+<name "Jim" "!TB0433">
+"Where are you going?"
 #
-<name "ポプキンス" "!UA0488">
-「あ、あっちに誘拐されてる」
+<name "Hopkins" "!UA0488">
+"H-He's getting dragged away!"
 #
-<name "ジョニー" "!SB0468">
-「アンケートお願いしますぅぅぅぅっ！」
+<name "Johnny" "!SB0468">
+"Please send in the postcards!!!!"
 #
 \x78\x78

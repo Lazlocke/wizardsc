@@ -1,55 +1,53 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7177">
-「師匠」
+<name "Celes" "!AA7177">
+"Master."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "セリス" "!AA7178">
-「しばらく逃亡生活していたって話ですけど……」
+<name "Celes" "!AA7178">
+"I heard you were on the run for a while..."
 #
-<name "ラズロック">
-「ああ、協会から離れたくてな」
+<name "Lazlocke">
+"Yeah, I wanted to escape the Guild."
 #
 <sprite "ta01a08.iph" 4 4 12>
-<name "セリス" "!AA7179">
-「それって……ぶっちゃけるとヴィオラさんに告っ
-　て振られて、逃げただけですよね」
+<name "Celes" "!AA7179">
+"Well... I heard that Viola flat our turned you
+ down and you just ran away from that."
 #
-<name "ラズロック">
-「…………………………………………………………」
+<name "Lazlocke">
+"........."
 #
 <removesprite -1 11>
 <sprite "ta01a08.iph" 2 5 11>
 <sprite "ta04a23.iph" 6 4 11>
-<name "ソシエット" "!DA1476">
-「セリスさん。
-　それは傷口に塩を塗り込んだで済むレベルじゃあ
-　りません。
-　殺人です」
+<name "Soshiette" "!DA1476">
+"Miss Celes, that was well beyond rubbing salt in
+ a wound.
+ That was homicide."
 #
 <sprite "ta01a06.iph" 2 5 12>
-<name "セリス" "!AA7180">
-「え？
-　でも、事実ですし……
-　師匠がチキンなのは知っていましたが、まさか逃
-　げるなんて」
+<name "Celes" "!AA7180">
+"Huh? But it's true...
+ I knew he was a chicken, but I didn't think he'd
+ just turn tail and run."
 #
 <sprite "ta04a26.iph" 6 4 12>
-<name "ソシエット" "!DA1477">
-「もう止めてあげてください。
-　ほら、穴を掘り始めたじゃないですか！」
+<name "Soshiette" "!DA1477">
+"Please stop. That's enough.
+ Look, he's started digging a hole."
 #
 <sprite "ta01a25.iph" 2 5 12>
-<name "セリス" "!AA7181">
-「いや、ここは徹底的にですね……」
+<name "Celes" "!AA7181">
+"Oh, I guess it was maybe a lot..."
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "ソシエット" "!DA1478">
-「この話はここまで！」
+<name "Soshiette" "!DA1478">
+"That's all for this story!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

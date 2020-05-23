@@ -1,207 +1,197 @@
 <music 2>
 <background "bg012a0.iph" 11>
-　俺は触手だ。
+I am a tentacle.
 #
-　グネグネと長く、ニョロニョロと動く触手だ。
+A long, wriggly, slimy tentacle.
 #
-　活動内容は、主に捕縛。
+Mostly what I do is grab.
 #
-　趣味、女の体内に潜り込む事。
+My hobby is slipping into women's bodies.
 #
-　男の体内はお断りだ。
+No men allowed.
 #
-　俺はそんな触手。
+I'm that kind of tentacle.
 #
-　名前はジョニー。
+My name is Johnny.
 #
-　他の触手とは、少し違う。
+I'm a little different from other tentacles.
 #
-　覚えてくれ。
+Please remember that.
 #
-　そして紹介しよう。
+So let's introduce them.
 #
-　俺の同士達。
+My comrades.
 #
-<name "マイク" "!QB0484">
-「ふ、太さが自慢！
-　マイクです」
+<name "Mike" "!QB0484">
+"I-I'm proud of my girth!
+ I'm Mike!"
 #
-<name "アンソニー" "!RB0439">
-「繊細動作のアンソニーです」
+<name "Anthony" "!RB0439">
+"Anthony here, with the delicate movements."
 #
-<name "ジム" "!TB0414">
-「吸引、噛み付き能力を持ってます。
-　ジムです」
+<name "Jim" "!TB0414">
+"I can suck and bite.
+ I'm Jim."
 #
-<name "ホプキンス" "!UA0477">
-「回転運動なら任してくれ。
-　ホプキンスだ」
+<name "Hopkins" "!UA0477">
+"Leave the gyrating to me.
+ I'm Hopkins."
 #
-<name "ジョニー" "!SB0442">
-「俺達、五人合わせて……」
+<name "Johnny" "!SB0442">
+"We five..."
 #
-<name "マイク" "!QB0500">
-「必殺変体触手万！」
+<name "Mike" "!QB0500">
+"The deadly pervert tentacles!"
 #
-　俺達の目的は、不明だ。
+Our purpose is unknown.
 #
-　ただ、本能に任せて女を襲っている。
+But we instinctively attack women.
 #
-　こんな事で良いのか、そう考え始めた時もあった。
+There was a time when I wondered if what we did
+was okay.
 #
-　だが、欲望に負ける。
+But desire always wins in the end.
 #
-　そんな弱い触手な俺を笑ってくれ。
+Laugh at this weak tentacle.
 #
-<name "マイク" "!QB0486">
-「笑ったりできないよ。
-　ジョニー兄貴」
+<name "Mike" "!QB0486">
+"Don't laugh, Johnny."
 #
-<name "アンソニー" "!RB0440">
-「そうだそうだ。
-　ジョニー兄貴がいなければ、俺達なんてただの触
-　手だ」
+<name "Anthony" "!RB0440">
+"Yeah, that's right.
+ Without you, we'd just be tentacles."
 #
-<name "ジョニー" "!SB0443">
-「お前達……」
+<name "Johnny" "!SB0443">
+"You guys..."
 #
-<name "ジム" "!TB0417">
-「ジョニー兄貴！
-　女だ！
-　獲物だよ！」
+<name "Jim" "!TB0417">
+"Johnny!
+ A woman!
+ Catch her!"
 #
-<name "ジョニー" "!SB0444">
-「よし、行くぞ！」
+<name "Johnny" "!SB0444">
+"Okay, let's go!"
 #
-<name "ホプキンス" "!UA0478">
-「ああっ、ジョニー兄貴！
-　車道に出るのは危ないっ！」
+<name "Hopkins" "!UA0478">
+"Aah! Johnny!
+ It's dangerous to appear on the road!"
 #
-<name "ジョニー" "!SB0445">
-「ぎゃぁぁぁぁぁぁっ！」
+<name "Johnny" "!SB0445">
+"Gaaaaaaaahhh!"
 #
-<name "ホプキンス" "!UA0479">
-「あ、兄貴が馬車に轢かれた……」
+<name "Hopkins" "!UA0479">
+"Ah, he was run over by a wagon..."
 #
-<name "ジム" "!TB0418">
-「兄貴ぃぃぃぃっ！」
+<name "Jim" "!TB0418">
+"Broooooo!"
 #
-<name "アンソニー" "!RB0441">
-「仕方が無い。
-　次のリーダーは俺だな」
+<name "Anthony" "!RB0441">
+"Nothing to do about it now.
+ So, I'm the new leader."
 #
-<name "マイク" "!QB0487">
-「ええ！
-　いきなり！
-　もう少し、悲しもうよ」
+<name "Mike" "!QB0487">
+"Eeh!? 
+ Already!?
+ Let's grieve a little."
 #
-<name "ジム" "!TB0419">
-「と言うか、さっき兄貴が居なければただの触手だ
-　とか言ってなかったか？」
+<name "Jim" "!TB0419">
+"I mean, didn't you just say that without him we
+ were just regular tentacles?"
 #
-<name "アンソニー" "!RB0442">
-「あれは兄貴を盛り立てる方便だ」
+<name "Anthony" "!RB0442">
+"That was just to cheer him up."
 #
-<name "ジム" "!TB0420">
-「おおっ、その厚顔無恥さ。
-　我らのリーダーに相応しい」
+<name "Jim" "!TB0420">
+"Ooh! What shamelessness.
+ Just what I'd expect of our leader!"
 #
-<name "ホプキンス" "!UA0480">
-「新しいリーダーの誕生だー！」
+<name "Hopkins" "!UA0480">
+"Long live the new king!"
 #
-<name "マイク" "!QB0488">
-「ばんざーい！」
+<name "Mike" "!QB0488">
+"Hooray!"
 #
-<name "ジョニー" "!SB0446">
-「へい。
-　貴様ら」
+<name "Johnny" "!SB0446">
+"Hey, jerks."
 #
-<name "ホプキンス" "!UA0481">
-「ああ！
-　ジョニー兄貴！」
+<name "Hopkins" "!UA0481">
+"Aah! Johnny!"
 #
-<name "ジム" "!TB0421">
-「ど、どうして！」
+<name "Jim" "!TB0421">
+"H-How!?"
 #
-<name "アンソニー" "!RB0443">
-「俺は兄貴が生きてるって、信じてましたよ」
+<name "Anthony" "!RB0443">
+"I always believed you survived!"
 #
-<name "ジョニー" "!SB0447">
-「とりあえず、アンソニー。
-　貴様は男相手専門にする」
+<name "Johnny" "!SB0447">
+"For now, Anthony, you get to specialize in men."
 #
-<name "アンソニー" "!RB0444">
-「そ、そんな、いやだぁぁぁぁぁ！
-　男の中は嫌だぁぁぁぁ！」
+<name "Anthony" "!RB0444">
+"N-No way! Noooooo!
+ I hate men!"
 #
-<name "ジム" "!TB0422">
-「しかし、兄貴。
-　生きてたんですね」
+<name "Jim" "!TB0422">
+"Still, bro, you survived?"
 #
-<name "ジョニー" "!SB0448">
-「ふっ。
-　馬鹿野郎。
-　俺達は確かに弱い。
-　馬車に轢かれて死ぬ位にな」
+<name "Johnny" "!SB0448">
+"Hmph. Fool.
+ We certainly are weak.
+ Weak enough to be killed by a carriage running
+ over us."
 #
-<name "ジョニー" "!SB0449">
-「だが！
-　俺達には強い再生能力があるんだ！」
+<name "Johnny" "!SB0449">
+"But we have powerful regeneration capabilities!"
 #
-<name "ジム" "!TB0423">
-「そ、そうだったのか……」
+<name "Jim" "!TB0423">
+"O-Oh, we do?"
 #
-<name "ホプキンス" "!UA0482">
-「知らなかった」
+<name "Hopkins" "!UA0482">
+"I didn't know."
 #
-<name "ジョニー" "!SB0450">
-「いや、この説明。
-　五百回ぐらいしてるんだが……」
+<name "Johnny" "!SB0450">
+"Man, I've explained this 500 times..."
 #
-<name "ホプキンス" "!UA0483">
-「え？
-　そうだっけ？」
+<name "Hopkins" "!UA0483">
+"Huh? You have?"
 #
-<name "マイク" "!QB0489">
-「さあ？」
+<name "Mike" "!QB0489">
+"Have you?"
 #
-<name "ジョニー" "!SB0451">
-「俺が死んだのもそれぐらいだし。
-　あと、アンソニーの裏切りも五百回ぐらいしてる
-　んだが」
+<name "Johnny" "!SB0451">
+"It happens every time I die.
+ Also, Anthony's betrayed me 500 times."
 #
-<name "マイク" "!QB0490">
-「覚えが無いなぁ……」
+<name "Mike" "!QB0490">
+"I don't remember any of it..."
 #
-　むう……
+Hmmm...
 #
-　やはり、俺は他の触手とは違うようだ。
+I really am not quite like other tentacles.
 #
-　周りの触手達の行動を見ていて思う。
+I can think, and observe the tentacles around me.
 #
-　俺は選ばれし触手。
+I'm the chosen tentacle.
 #
-　触手オブ触手だと！
+The tentacle of tentacles!
 #
-<name "ジム" "!TB0424">
-「ともかく兄貴！
-　獲物が行っちゃうよ」
+<name "Jim" "!TB0424">
+"Anyway, bro, the prey's getting away!"
 #
-<name "ジョニー" "!SB0452">
-「オーライ！
-　行くぜ！」
+<name "Johnny" "!SB0452">
+"All right!
+ Let's go!"
 #
-<name "ホプキンス" "!UA0484">
-「あ、兄貴っ！
-　車道に出るのは！」
+<name "Hopkins" "!UA0484">
+"B-Bro!
+ Don't go out on the road!"
 #
-<name "ジョニー" "!SB0453">
-「ぎゃぁぁぁぁぁぁぁぁっ！」
+<name "Johnny" "!SB0453">
+"Gaaaaaaaaah!!!"
 #
-　俺は触手の中の触手。
+I am one tentacle of many.
 #
-　触手キング、ジョニー！
+The king tentacle, Johnny.
 #
-　俺の活躍は、まだまだ終らない。
+My story is not yet over.
 #
 \x78\x78

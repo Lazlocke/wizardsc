@@ -1,103 +1,105 @@
 <music 2>
 <background "bg012a0.iph" 11>
 <sprite "ta07a00.iph" 4 4 11>
-<name "ジャッジマン" "!FA0358">
-「ごほん。
-　ジャッジマンです」
+<name "Judgeman" "!FA0358">
+"Ahem.
+ Judgeman here."
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0359">
-「私はエロい事が大好きだ。
-　そして、美少女ゲームが大好きだ！」
+<name "Judgeman" "!FA0359">
+"I love sexy thing.
+ And I love girl games!"
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0360">
-「恋愛ゲーが好きだが、無理矢理系もオッケー！」
+<name "Judgeman" "!FA0360">
+"I like romance games, but I'm okay with rape
+ kinds too!"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0361">
-「グロやスカは駄目だけど、多少の苦痛系なら耐え
-　てみせる！」
+<name "Judgeman" "!FA0361">
+"Guro and scat aren't my thing, but I can take a
+ little bit of torture."
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0362">
-「幼馴染、同級生、先輩、姉、妹、従姉妹に母親、
-　なんでも来い！
-　好みはキツめ系だ。
-　ツンデレ、ヤンデレは帰れ！」
+<name "Judgeman" "!FA0362">
+"Childhood friend, classmate, senpai, big sister,
+ little sister, cousin, or mother, all are good!
+ My favorite are the standoffish types.
+ Get tsundere and yandere out of here!"
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0363">
-「鬱展開も最後がハッピーなら許す。
-　鬱のまま終るなら、ディスク粉砕！」
-（ジャッジマン個人の行為です）
+<name "Judgeman" "!FA0363">
+"If it's a happy ending, I can deal with gloomy
+ stories. If it's a depressing end, I'll break the
+ disk!"
 #
 <sprite "ta07a01.iph" 4 4 12>
-<name "ジャッジマン" "!FA0364">
-「そんな私からのお願いだ！」
+<name "Judgeman" "!FA0364">
+"Now I have a request for you!"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0365">
-「リアルな犯罪は止めろ！」
+<name "Judgeman" "!FA0365">
+"Don't do actual, real crimes!"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0377">
-「やったら、二度と美少女ゲームが、エロゲーが出
-　来ないぞ！」
+<name "Judgeman" "!FA0377">
+"If you do, you'll never get to play another
+ girl game ever again!"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0367">
-「そして、それは新たな規制を生み！
-　同志達の心のオアシスを潰す事になるのだ！」
+<name "Judgeman" "!FA0367">
+"And you'll just create new laws!
+ You'll destroy the oasis of the hearts of your
+ comrades!"
 #
 <sprite "ta07a11.iph" 4 4 12>
-<name "ジャッジマン" "!FA0368">
-「それは、ゲームだけではなく、アニメや漫画にも
-　影響するのだ！」
+<name "Judgeman" "!FA0368">
+"It won't just affect games, but anime and manga
+ too!"
 #
 <sprite "ta07a13.iph" 4 4 12>
-<name "ジャッジマン" "!FA0369">
-「だから言おう！」
+<name "Judgeman" "!FA0369">
+"So, let me say it again."
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0370">
-「リアルな犯罪は止めろ！」
+<name "Judgeman" "!FA0370">
+"Don't do actual, real crimes!"
 #
 <sprite "ta07a14.iph" 4 4 12>
-<name "ジャッジマン" "!FA0371">
-「ゲームの中でも、あまり良い事ではないが……」
+<name "Judgeman" "!FA0371">
+"In a game, it's not great, but..."
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0372">
-「リアルな犯罪だけは止めろ！」
+<name "Judgeman" "!FA0372">
+"At least don't commit an actual, real crime!"
 #
 <sprite "ta07a10.iph" 4 4 12>
-<name "ジャッジマン" "!FA0373">
-「ゲームと違って、そこで終ったりしないぞ！」
+<name "Judgeman" "!FA0373">
+"Unlike games, there are consequences!"
 #
 <sprite "ta07a07.iph" 4 4 12>
-<name "ジャッジマン" "!FA0374">
-「ジャッジマンからのお願いでした！」
+<name "Judgeman" "!FA0374">
+"That's a request from Judgeman!"
 #
 <sprite "ta07a05.iph" 4 4 12>
-<name "ジャッジマン" "!FA0375">
-「ふう……」
+<name "Judgeman" "!FA0375">
+"Whew..."
 #
 <removesprite -1 11>
 <sprite "ta01a27.iph" 2 5 11>
 <sprite "ta02a35.iph" 6 4 11>
-<name "セリス" "!AA7230">
-「ひそひそひそ……」
+<name "Celes" "!AA7230">
+"..."
 #
 <sprite "ta02a28.iph" 6 4 12>
-<name "イエル" "!CA1355">
-「ヒソヒソ……」
+<name "Elle" "!CA1355">
+"........."
 #
 <removesprite -1 11>
 <sprite "ta07a14.iph" 4 4 11>
-<name "ジャッジマン" "!FA0376">
-「あー、そこ。
-　変な目で私をみないように」
+<name "Judgeman" "!FA0376">
+"Ah, you over there.
+ Don't look at me suspiciously like that."
 #
 <removesprite -1 11>
 \x2B\x78\x78

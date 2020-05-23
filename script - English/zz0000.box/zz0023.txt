@@ -1,74 +1,80 @@
 <music 35>
 <background "bg002a0.iph" 11>
 <background "ev039a0.iph" 10>
-　風呂……
+Bath time...
 #
-<name "セリス" "!AA7218">
-「中世には、各家庭にお風呂はありませんでした」
+<name "Celes" "!AA7218">
+"In the medieval era, there weren't baths in 
+ every home."
 #
-<name "イエル" "!CA1230">
-「あるのは大衆浴場、温泉のみ」
+<name "Elle" "!CA1230">
+"There were just public baths and hot springs."
 #
-<name "セリス" "!AA7219">
-「各家庭は、大きなタライに水やお湯を張り、そこ
-　に入って体を拭いていたのです」
+<name "Celes" "!AA7219">
+"At your house, you just poured water or hot water
+ into a tub, got in, and wiped yourself off."
 #
-<name "イエル" "!CA1231">
-「結構大変ですので、毎日入る人は殆どいません」
+<name "Elle" "!CA1231">
+"It was a lot of hard work, so almost nobody took
+ a bath every day."
 #
-<name "セリス" "!AA7220">
-「お風呂が一週間に一度や、一ヶ月に一度なんか当
-　たり前！」
+<name "Celes" "!AA7220">
+"It was normal to take a bath only once a week, 
+ or even just once a month!"
 #
-<name "イエル" "!CA1233">
-「一生、お風呂と縁の無い人も居たんですよ」
+<name "Elle" "!CA1233">
+"Some people never took a bath their entire 
+ lives!"
 #
-<name "セリス" "!AA7221">
-「きゃー」
+<name "Celes" "!AA7221">
+"Eek!"
 #
-<name "イエル" "!CA1235">
-「ですが、ウィザーズクライマーの世界では各家庭
-　にお風呂が常備されています」
+<name "Elle" "!CA1235">
+"But everybody has a bath in the world of Wizard's
+ Climber."
 #
-<name "セリス" "!AA7222">
-「これは、上下水道の完備が理由です」
+<name "Celes" "!AA7222">
+"Because we have a fully functional water and
+ sewage system."
 #
-<name "イエル" "!CA1239">
-「ビバ、文明！」
+<name "Elle" "!CA1239">
+"Viva civilization!"
 #
-<name "セリス" "!AA7223">
-「衛生面での意識向上が、伝染病などを防ぐのです」
+<name "Celes" "!AA7223">
+"Raising awareness about hygience prevents the
+ spread of disease."
 #
-<name "イエル" "!CA1240">
-「トイレに行ったら、手を洗いましょう」
+<name "Elle" "!CA1240">
+"Remember to wash your hands after you use the
+ bathroom."
 #
-<name "セリス" "!AA7224">
-「お風呂は毎日、入りましょう」
+<name "Celes" "!AA7224">
+"And take a bath every day."
 #
-<name "イエル" "!CA1241">
-「Ｈの後も、お風呂に入りましょう」
+<name "Elle" "!CA1241">
+"And wash yourself after sex."
 #
-<name "セリス" "!AA7225">
-「Ｈの前も入る方が良いですね」
+<name "Celes" "!AA7225">
+"You should also clean up before sex."
 #
-<name "イエル" "!CA1242">
-「匂いフェチの方も居ますけど……」
+<name "Elle" "!CA1242">
+"There are people with a smell fetish though..."
 #
-<name "セリス" "!AA7226">
-「病気対策にも、お風呂に入ってからＨしましょう
-　ね」
+<name "Celes" "!AA7226">
+"Have sex after baths to prevent illness too."
 #
-<name "ラズロック">
-「俺、結構そのまま襲っているんですけど……」
+<name "Lazlocke">
+"I just jump you quite a lot though..."
 #
-<name "セリス" "!AA7227">
-「師匠はそれでもＯＫ」
+<name "Celes" "!AA7227">
+"You're still fine."
 #
-<name "イエル" "!CA1243">
-「あ、ズルイ！」
+<name "Elle" "!CA1243">
+"Ah, no fair!"
 #
-<name "セリス" "!AA7229">
-「中世の世界観説明、お風呂編でした♪」
+<name "Celes" "!AA7229">
+"And after an explanation about the world of the
+ middle ages, have a bath!♪"
 #
 <removesprite -1 11>
 \x2B\x78\x78

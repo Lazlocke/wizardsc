@@ -1,79 +1,82 @@
 <music 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a04.iph" 4 4 11>
-<name "ソシエット" "!DA1479">
-「保守部の仕事をやって……」
+<name "Soshiette" "!DA1479">
+"I work in the Preservation division."
 #
 <sprite "ta04a06.iph" 4 4 12>
-<name "ソシエット" "!DA1480">
-「ご主人様を監視……」
+<name "Soshiette" "!DA1480">
+"I observe His Grace."
 #
 <sprite "ta04a07.iph" 4 4 12>
-<name "ソシエット" "!DA1481">
-「協会長から仕事を言われて……」
+<name "Soshiette" "!DA1481">
+"I also work on jobs given to me by the  
+ president of the Guild."
 #
 <sprite "ta04a08.iph" 4 4 12>
-<name "ソシエット" "!DA1482">
-「セリスさんの修行の手伝い」
+<name "Soshiette" "!DA1482">
+"I also help train Celes."
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "ソシエット" "!DA1483">
-「…………私、メチャクチャ忙しいのでは？」
+<name "Soshiette" "!DA1483">
+"...Am I overworked?"
 #
-<name "ラズロック">
-「嫌なら、俺の監視とセリスの手伝いを止めれば良
-　いんじゃないか？」
+<name "Lazlocke">
+"If you don't like it, why not quit watching me
+ and focus on helping her."
 #
 <sprite "ta04a06.iph" 4 4 12>
-<name "ソシエット" "!DA1484">
-「その二つはライフワークです。
-　辞めるなら、保守部か協会長からの仕事を……」
+<name "Soshiette" "!DA1484">
+"Those two are my life work.
+ If I quit anything, it would be from working for
+ the Guild president."
 #
 <removesprite -1 11>
 <sprite "ta05a12.iph" 2 5 11>
 <sprite "ta04a06.iph" 6 4 11>
-<name "ルーン" "!EA0569">
-「あら」
+<name "Rune" "!EA0569">
+"Oh?"
 #
 <sprite "ta04a65.iph" 6 4 12>
-<name "ソシエット" "!DA1485">
-「え」
+<name "Soshiette" "!DA1485">
+"Eh?"
 #
 <sprite "ta05a13.iph" 2 5 12>
-<name "ルーン" "!EA0570">
-「あらあら」
+<name "Rune" "!EA0570">
+"Oh, my."
 #
 <sprite "ta04a28.iph" 6 4 12>
-<name "ソシエット" "!DA1486">
-「……きょ、協会長」
+<name "Soshiette" "!DA1486">
+"...P-President."
 #
 <sprite "ta05a16.iph" 2 5 12>
-<name "ルーン" "!EA0572">
-「いま、変な事を言ったかしら？」
+<name "Rune" "!EA0572">
+"Did you just say something?"
 #
 <sprite "ta04a29.iph" 6 4 12>
-<name "ソシエット" "!DA1487">
-「いえ、粉骨砕身これからも頑張ろうと決意を新た
-　にしたところです」
+<name "Soshiette" "!DA1487">
+"No. I was just renewing my dedication to continue
+ working my hardest."
 #
 <sprite "ta05a12.iph" 2 5 12>
-<name "ルーン" "!EA0573">
-「そう。
-　じゃあ、これ。
-　新しい仕事。
-　よろしくね」
+<name "Rune" "!EA0573">
+"I see.
+ Then here you are.
+ A new job.
+ Thank you very much."
 #
 <removesprite -1 11>
 <sprite "ta04a65.iph" 4 4 11>
-<name "ソシエット" "!DA1488">
-「が、頑張ります」
+<name "Soshiette" "!DA1488">
+"I-I'll do my best."
 #
-<name "ラズロック">
-「……手伝ってやるから泣くな」
+<name "Lazlocke">
+"...Don't cry. I'll help."
 #
 <sprite "ta04a23.iph" 4 4 12>
-<name "ソシエット" "!DA1489">
-「うう……ありがとうございます」
+<name "Soshiette" "!DA1489">
+"Awww...
+ Thank you very much."
 #
 <removesprite -1 11>
 \x2B\x78\x78

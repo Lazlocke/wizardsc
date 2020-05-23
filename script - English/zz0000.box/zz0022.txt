@@ -1,320 +1,332 @@
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「今晩は鍋でもするか」
+<name "Lazlocke">
+"Shall we have nabe tonight?"
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "セリス" "!AA7206">
-「いいですね。
-　賛成です」
+<name "Celes" "!AA7206">
+"All right.
+ That sounds good."
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 2 5 11>
 <sprite "ta02a10.iph" 6 4 11>
-<name "イエル" "!CA1220">
-「鍋でしたら、闇鍋なんてどうですか？」
+<name "Elle" "!CA1220">
+"If you're having nabe, how about yaminabe?"
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 4 4 11>
-<name "ヴィオラ" "!BA1320">
-「闇鍋……面白そうね」
+<name "Viola" "!BA1320">
+"Yaminabe...
+ Sounds fun."
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 2 5 11>
 <sprite "ta04a04.iph" 6 4 11>
-<name "ソシエット" "!DA1490">
-「では、各自、材料を持ち寄ってご主人様の家に集
-　合と」
+<name "Soshiette" "!DA1490">
+"Then everybody brings something, and we'll all
+ gather at His Grace's house."
 #
-<name "ラズロック">
-「わかった。
-　準備しておこう」
+<name "Lazlocke">
+"All right.
+ I'll get everything ready."
 #
 <removesprite -1 11>
 <background "bg021a0.iph" 10>
-　そして夜。
+That evening...
 #
-　闇鍋は始まった。
+The potluck has begun.
 #
 <background "bg002b0.iph" 11>
-<name "ラズロック">
-「むう、トウフだった。
-　もぐもぐ美味しい」
+<name "Lazlocke">
+"Hmm... Tofu.
+ Delicious."
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "セリス" "!AA7207">
-「私は……お餅です」
+<name "Celes" "!AA7207">
+"I brought... mochi."
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "イエル" "!CA1221">
-「あー、誰よ。
-　アスパラガスなんて……」
+<name "Elle" "!CA1221">
+"Aah. Who brought asparagus?"
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "ヴィオラ" "!BA1321">
-「ジャガイモは……良いサイズね。
-　食べやすいわ」
+<name "Viola" "!BA1321">
+"The potatoes are... a good size.
+ They're easy to eat."
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA1491">
-「シイタケも美味しいですね」
+<name "Soshiette" "!DA1491">
+"The shiitake are delicious too."
 #
 <removesprite -1 11>
-　闇鍋は良い感じで進行した。
+It's going well."
 #
 <sprite "ta07a12.iph" 4 4 11>
-<name "ジャッジマン" "!FA0350">
-「この、馬鹿者がぁぁぁぁぁぁぁっ！」
+<name "Judgeman" "!FA0350">
+"You fools!!!!!"
 #
-<name "ラズロック">
-「な、なんだ？」
+<name "Lazlocke">
+"W-What?"
 #
 <removesprite -1 11>
 <sprite "ta01a37.iph" 4 4 11>
-<name "セリス" "!AA7208">
-「ジャッジマン？」
+<name "Celes" "!AA7208">
+"Judgeman?"
 #
 <removesprite -1 11>
 <sprite "ta07a10.iph" 4 4 11>
-<name "ジャッジマン" "!FA0351">
-「闇鍋と言う最高のリアクション道具を用意されて、
-　なに普通に鍋しているんだ！」
+<name "Judgeman" "!FA0351">
+"Yaminabi is the perfect vehicle for big
+ reactions!
+ What is this normal nabe!?"
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0352">
-「ここは一つ二つ、不思議な食材を掴み、最高級の
-　リアクションを見せる所だろう！」
+<name "Judgeman" "!FA0352">
+"This is the time to grab one or two mystery
+ ingredients for the finest reactions!"
 #
 <removesprite -1 11>
 <sprite "ta02a06.iph" 4 4 11>
-<name "イエル" "!CA1222">
-「リ、リアクションって言われても……
-　この鍋にはそんな変わった食材なんか入れてない
-　し……」
+<name "Elle" "!CA1222">
+"R-Reactions? But...
+ There aren't any weird things in it..."
 #
 <removesprite -1 11>
 <sprite "ta07a12.iph" 4 4 11>
-<name "ジャッジマン" "!FA0353">
-「なぜ、闇鍋でまともな食材を入れる！
-　オール危険物でもＯＫだと言うのに！」
+<name "Judgeman" "!FA0353">
+"Why would you put only normal stuff into  
+ yaminabe!?"
+　Even dangerous things are okay!"
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 4 4 11>
-<name "ヴィオラ" "!BA1322">
-「自分で掴む事を考えたら、危険な物を入れるワケ
-　ないじゃない」
+<name "Viola" "!BA1322">
+"We have to eat it ourselves.
+ Why put something dangerous in?"
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 2 5 11>
 <sprite "ta04a26.iph" 6 4 11>
-<name "ソシエット" "!DA1492">
-「第一、芸人じゃないんですから、リアクションと
-　言われても……」
+<name "Soshiette" "!DA1492">
+"Also, we're not comedians, so why should we care
+ about reactions?"
 #
 <removesprite -1 11>
 <sprite "ta07a15.iph" 4 4 11>
-<name "ジャッジマン" "!FA0354">
-「ふう……ＯＫ、ＯＫ。
-　わかった」
+<name "Judgeman" "!FA0354">
+"Sigh...
+ Okay, okay.
+ I understand."
 #
 <sprite "ta07a12.iph" 4 4 12>
-<name "ジャッジマン" "!FA0355">
-「このシーン、やり直す！」
+<name "Judgeman" "!FA0355">
+"Redo this scene!"
 #
 <removesprite -1 11>
 <sprite "ta01a37.iph" 4 4 11>
-<name "セリス" "!AA7209">
-「え？」
+<name "Celes" "!AA7209">
+"Huh?"
 #
 <removesprite -1 11>
 <sprite "ta07a04.iph" 4 4 11>
-<name "ジャッジマン" "!FA0356">
-「ジャッジマン権限だ！」
+<name "Judgeman" "!FA0356">
+"Judgeman decree!"
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "イエル" "!CA1223">
-「えええっ！」
+<name "Elle" "!CA1223">
+"Eeeeh!?"
 #
 <removesprite -1 11>
 <background "bg021a0.iph" 10>
-　そして夜。
+That night...
 #
-　闇鍋は始まった。
+The potluck has begun.
 #
 <background "bg002b0.iph" 11>
-<name "ラズロック">
-「うわっ、本当に戻った」
+<name "Lazlocke">
+"Whoa. It turned pitch black."
 #
 <sprite "ta07a10.iph" 4 4 11>
-<name "ジャッジマン" "!FA0357">
-「ジャッジマンは見ているぞ」
+<name "Judgeman" "!FA0357">
+"Judgeman is watching."
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA1493">
-「何か期待されているようですが……
-　では、いきます！」
+<name "Soshiette" "!DA1493">
+"Seems like he's expecting something...
+ Okay, here we go!"
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "ソシエット" "!DA1494">
-「……ヘビ？」
+<name "Soshiette" "!DA1494">
+"...A snake?"
 #
-<name "ラズロック">
-「初っ端からハードだな」
+<name "Lazlocke">
+"It's already hard."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA1495">
-「もぐもぐ……それなりです」
+<name "Soshiette" "!DA1495">
+"Mphmph...
+ Indeed..."
 #
 <removesprite -1 11>
 <sprite "ta04a10.iph" 2 4 11>
 <sprite "ta02a07.iph" 6 5 11>
-<name "イエル" "!CA1224">
-「躊躇無く食べた！」
+<name "Elle" "!CA1224">
+"She ate it without hesitation!"
 #
 <sprite "ta04a11.iph" 2 4 12>
-<name "ソシエット" "!DA1496">
-「まあ、サバイバルとかではヘビは貴重な食材です
-　から」
+<name "Soshiette" "!DA1496">
+"Well, snakes are a valuable food for survival."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA1323">
-「むう……次は私だけど、ヘビが煮えていた鍋に箸
-　を伸ばすのは気が引けるけど……えいっ」
+<name "Viola" "!BA1323">
+"Hmm... I'm next, but I'm a little scared to reach
+ into a boiling pot with snakes in it."
 #
 <sprite "ta03a03.iph" 4 4 12>
-<name "ヴィオラ" "!BA1324">
-「これは……イモリの丸焼きね」
+<name "Viola" "!BA1324">
+"This is... a roast newt?"
 #
-<name "ラズロック">
-「焼いたのを鍋で煮たのか……」
+<name "Lazlocke">
+"It was baked while boiling?"
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "ヴィオラ" "!BA1325">
-「もぐもぐ……それなり」
+<name "Viola" "!BA1325">
+"Mphmph...
+ It's... okay."
 #
 <removesprite -1 11>
 <sprite "ta03a06.iph" 2 4 11>
 <sprite "ta01a07.iph" 6 5 11>
-<name "セリス" "!AA7210">
-「魔法使いですからね」
+<name "Celes" "!AA7210">
+"She is a wizard, after all."
 #
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA1225">
-「イモリ程度では……次は私ね。
-　なんだか、ジャッジマンのこめかみがピクピクし
-　ているけど……気にせずにえいっ！」
+<name "Elle" "!CA1225">
+"It's just a newt... I'm next.
+ I think Judgeman's forehead is twitching.
+ But... whatever!"
 #
 <sprite "ta02a07.iph" 4 4 12>
-<name "イエル" "!CA1226">
-「…………タコ、丸ごと」
+<name "Elle" "!CA1226">
+"...A whole octopus?"
 #
-<name "ラズロック">
-「むう、グロテスク」
+<name "Lazlocke">
+"Mm... Gross."
 #
 <removesprite -1 11>
 <sprite "ta01a36.iph" 2 5 11>
 <sprite "ta02a07.iph" 6 4 11>
-<name "セリス" "!AA7211">
-「どうやってあの鍋に入っていたのか……」
+<name "Celes" "!AA7211">
+"How was that in the pot?"
 #
 <sprite "ta02a34.iph" 6 4 12>
-<name "イエル" "!CA1227">
-「とりあえず、食べます。
-　もぐもぐ……完食まで時間が必要です」
+<name "Elle" "!CA1227">
+"Anyway, I'll eat it.
+ Mphmph...
+ It's going to take a while to finish eating 
+ this."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "セリス" "!AA7212">
-「では、その間に私が……えいっ」
+<name "Celes" "!AA7212">
+"Then, in the meantime, I'm up...
+ Yah!"
 #
 <sprite "ta01a86.iph" 4 4 12>
-<name "セリス" "!AA7213">
-「………………マグロの頭」
+<name "Celes" "!AA7213">
+"...A tuna head."
 #
 <removesprite -1 11>
 <sprite "ta01a86.iph" 2 5 11>
 <sprite "ta04a28.iph" 6 4 11>
-<name "ソシエット" "!DA1497">
-「底の深い鍋のようですね」
+<name "Soshiette" "!DA1497">
+"This is a deep pot."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta01a92.iph" 4 5 11>
-<name "セリス" "!AA7215">
-「でも、もぐもぐ……
-　サイズは変ですが食べられない事はありません」
+<name "Celes" "!AA7215">
+"But... Mphmph...
+ It's a little big, but it's edible enough."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「さて、俺の番か……覚悟を決めて……えいっ！」
+<name "Lazlocke">
+"Okay, my turn?
+ Prepare myself and... hya!"
 #
-<name "ラズロック">
-「……………………女物の下着」
+<name "Lazlocke">
+".........Women's underwear."
 #
 <removesprite -1 11>
 <sprite "ta01a38.iph" 4 4 11>
-<name "セリス" "!AA7216">
-「きゃぁぁぁぁぁぁっ！」
+<name "Celes" "!AA7216">
+"Eeek!"
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "イエル" "!CA1228">
-「うわぁぁぁぁぁぁっ！」
+<name "Elle" "!CA1228">
+"Aaaaah!"
 #
 <removesprite -1 11>
-　鍋による夕食会は、阿鼻叫喚の地獄絵図と化した。
+The dinner has turned into a hellscape of 
+screaming.
 #
-<name "ラズロック">
-「まあ、下着と一緒に煮込まれた食べ物を食べたく
-　は無いわな」
+<name "Lazlocke">
+"Well, I don't think I want to eat something that
+ has someone's underwear in it."
 #
 <sprite "ta01a42.iph" 4 4 11>
-<name "セリス" "!AA7217">
-「うう、酷い目にあった……」
+<name "Celes" "!AA7217">
+"Ohhh...
+ That was so horrible..."
 #
 <removesprite -1 11>
 <sprite "ta02a21.iph" 4 4 11>
-<name "イエル" "!CA1229">
-「ジャッジマンが良い笑顔なのがムカツク」
+<name "Elle" "!CA1229">
+"I'm getting pissed off that Judgeman looks so
+ happy."
 #
 <removesprite -1 11>
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA1498">
-「ところで、その下着は誰の物なのですか？」
+<name "Soshiette" "!DA1498">
+"By the way, whose underwear was it?"
 #
-<name "ラズロック">
-「未使用品らしい。
-　まあ、ジャッジマンの僅かな良心だろうな」
+<name "Lazlocke">
+"It looked like it was brand new.
+ Well, perhaps Judgeman has a little conscience
+ after all."
 #
 <removesprite -1 11>
 <sprite "ta03a18.iph" 4 4 11>
-<name "ヴィオラ" "!BA1326">
-「使用済み、洗濯前だと、ジャッジマンを殺してい
-　たわね」
+<name "Viola" "!BA1326">
+"If it was used, and he washed it, I would have
+ killed him."
 #
-<name "ラズロック">
-「ははは……」
+<name "Lazlocke">
+"Hahaha..."
 #
 <removesprite -1 11>
-　その後、普通の鍋を作って美味しく頂いた。
+Afterward, we made a regular nabe, and it was
+delicious.
 #
-　やっぱり、普通が一番。
+Normal is best.
 #
-“コーナー中に使用された食材は、スタッフが美味
-　しく頂きました”
+The ingredients used here were actual ones made
+by the staff.
 #
 <sprite "ta05a12.iph" 4 4 11>
-<name "ルーン" "!EA0574">
-「最終的にどうしようが、食べ物で遊ぶのは良くあ
-　りません」
+<name "Rune" "!EA0574">
+"Whatever you end up doing, just don't play with
+ food."
 #
 <removesprite -1 11>
 \x2B\x78\x78

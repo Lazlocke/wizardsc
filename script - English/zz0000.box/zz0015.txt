@@ -1,33 +1,35 @@
 <music 6>
 <background "bg005a0.iph" 11>
 <sprite "ta02a03.iph" 4 4 11>
-<name "イエル" "!CA1198">
-「これだけは言わせてください！」
+<name "Elle" "!CA1198">
+"Please let me just say this!"
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "イエル" "!CA1199">
-「作中で食べ物が色々な扱いをされていますが……」
+<name "Elle" "!CA1199">
+"Food is treated in all kinds of ways in the game,
+ but..."
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "イエル" "!CA1200">
-「全て、スタッフが美味しく頂いております！」
+<name "Elle" "!CA1200">
+"The whole staff thinks all food can be
+ delicious!"
 #
-<name "ラズロック">
-「おお、ナイスディフェンス」
+<name "Lazlocke">
+"Ooh, nice save."
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "イエル" "!CA1201">
-「こういった事はアピールしておかないとクレーム
-　が来ますからね」
+<name "Elle" "!CA1201">
+"If you don't make those kinds of appeals, you'll
+ get complaints."
 #
-<name "ラズロック">
-「ははは。
-　クレームが来る、来ないに関わらず、食べ物を粗
-　末にしてはいけないぞ」
+<name "Lazlocke">
+"Hahaha.
+ Regardless of whether people complain, you
+ shouldn't waste food."
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "イエル" "!CA1202">
-「その通りですね」
+<name "Elle" "!CA1202">
+"That's right."
 #
 <removesprite -1 11>
 \x2B\x78\x78

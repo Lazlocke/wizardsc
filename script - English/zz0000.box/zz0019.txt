@@ -1,94 +1,97 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "イエル" "!CA1204">
-「やあ、セリス君。
-　うつむいてどうしたんだい？」
+<name "Elle" "!CA1204">
+"Hey, Celes.
+ You look down.
+ What's the matter?"
 #
 <removesprite -1 11>
 <sprite "ta01b29.iph" 2 5 11>
 <sprite "ta02a04.iph" 6 4 11>
-<name "セリス" "!AA7192">
-「いや、店の借金に困っていてね。
-　支払いをどうしようか悩んでいるんだ」
+<name "Celes" "!AA7192">
+"Oh, I'm in trouble with store debt.
+ I was worrying about how I'd pay it off."
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "イエル" "!CA1205">
-「なんだ、簡単な事じゃないか」
+<name "Elle" "!CA1205">
+"What? That's easy."
 #
 <sprite "ta01b34.iph" 2 5 12>
-<name "セリス" "!AA7193">
-「ええ？
-　結構な金額なんだよ。
-　何が簡単なんだい？」
+<name "Celes" "!AA7193">
+"Eeh?
+ It's a lot of money.
+ What's easy about it?"
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "イエル" "!CA1206">
-「借金に困らなくなる方法さ。
-　僕は親切だから、タダで教えてあげよう」
+<name "Elle" "!CA1206">
+"I know a way to get rid of debt.
+ Since I'm so kind, I can share it with you."
 #
 <sprite "ta02a10.iph" 6 4 12>
-<name "イエル" "!CA1207">
-「さらに借金をするんだ」
+<name "Elle" "!CA1207">
+"Borrow more money."
 #
 <sprite "ta01b37.iph" 2 5 12>
-<name "セリス" "!AA7194">
-「ええっ！
-　そんなっ！
-　誰も貸してくれないよ」
+<name "Celes" "!AA7194">
+"Eeh!?
+ I can't!
+ Nobody will lend to me."
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "イエル" "!CA1208">
-「いやいや、今貸してくれている人が居るだろ。
-　その人に頼むんだ」
+<name "Elle" "!CA1208">
+"No, no. There's someone who will lend you.
+ Ask that person."
 #
 <sprite "ta01b32.iph" 2 5 12>
-<name "セリス" "!AA7195">
-「余計に貸してくれないよ」
+<name "Celes" "!AA7195">
+"They won't lend me any more."
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "イエル" "!CA1209">
-「大丈夫、貸してくれるよ」
+<name "Elle" "!CA1209">
+"Don't worry.
+ They will."
 #
 <sprite "ta01b27.iph" 2 5 12>
-<name "セリス" "!AA7196">
-「どうしてそう思うんだい？」
+<name "Celes" "!AA7196">
+"Why do you think that?"
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "イエル" "!CA1210">
-「万が一、君が借金の支払いをする前に倒れたらど
-　うなる？
-　借金を回収できないじゃないか」
+<name "Elle" "!CA1210">
+"What'll they do if you die before paying off
+ your debt?
+ They won't get any of their money back."
 #
 <sprite "ta02a05.iph" 6 4 12>
-<name "イエル" "!CA1211">
-「だから、金を貸してくれないと事業がつぶれるっ
-　て言うんだ。
-　そう言えば、絶対に貸してくれるさ」
+<name "Elle" "!CA1211">
+"So you tell them that if they won't lend you any
+ money, their business will fail.
+ So they'll definitely lend you more."
 #
 <sprite "ta01b09.iph" 2 5 12>
-<name "セリス" "!AA7197">
-「なるほど。
-　ありがとうイエル君」
+<name "Celes" "!AA7197">
+"I see.
+ Thank you, Elle."
 #
 <sprite "ta02a10.iph" 6 4 12>
-<name "イエル" "!CA1212">
-「はははっ、困ったらまた相談してくれたまえ」
+<name "Elle" "!CA1212">
+"Hahaha.
+ Just ask me again if you're ever in trouble."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「……見ていたが、何をやっているんだ？」
+<name "Lazlocke">
+"...What exactly was that all about?"
 #
 <sprite "ta01b15.iph" 4 4 11>
-<name "セリス" "!AA7198">
-「今度のバザーでやる演劇の練習です」
+<name "Celes" "!AA7198">
+"We were practicing a play for the next bazaar."
 #
-<name "ラズロック">
-「子供の教育に悪そうな内容だな。
-　まあ、真実ではあるが……」
+<name "Lazlocke">
+"I don't think that's a good lesson for kids.
+ Although it is kind of true..."
 #
-　ちなみに、この劇はリハーサルを見たバザー主催
-　者から中止の通達を受けた。
+By the way, they weren't allowed to perform any
+more plays.
 #
 <removesprite -1 11>
 \x2B\x78\x78
