@@ -1,79 +1,83 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta03a06.iph" 4 4 11>
-<name "ヴィオラ" "!BA1439">
-「やった、やった、やった♪」
+<name "Viola" "!BA1439">
+"I did it! I did it! I did it!♪"
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "セリス" "!AA7243">
-「テンション高いなぁ」
+<name "Celes" "!AA7243">
+"So excited."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a27.iph" 6 4 11>
-<name "イエル" "!CA1365">
-「まあ、意中の人とのゴールインだからね」
+<name "Elle" "!CA1365">
+"Well, she finally got married to her sweetheart."
 #
 <sprite "ta01a21.iph" 2 5 12>
-<name "セリス" "!AA7244">
-「でも、私も弟子として師匠とＨしたいです。
-　ヴィオラさんの独り占めはズルイです」
+<name "Celes" "!AA7244">
+"But I want to still have sex with him as his
+ apprentice.
+ It's not fair for her to keep him all to 
+ herself."
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "イエル" "!CA1367">
-「あ、私も私も」
+<name "Elle" "!CA1367">
+"Ah, me too. Me too."
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "ヴィオラ" "!BA1440">
-「ちゃーんと考えているわよ。
-　はい、スケジュール」
+<name "Viola" "!BA1440">
+"I've thought about that.
+ Here's a schedule.
 #
 <removesprite -1 11>
 <sprite "ta02a09.iph" 4 4 11>
-<name "イエル" "!CA1369">
-「すでにスケジュール割をしているなんて、流石です」
+<name "Elle" "!CA1369">
+"Already having a schedule ready?
+ That's my master."
 #
 <removesprite -1 11>
 <sprite "ta01a24.iph" 2 5 11>
 <sprite "ta02a09.iph" 6 4 11>
-<name "セリス" "!AA7245">
-「ちょっと待ってください。
-　なんですか、これは！」
+<name "Celes" "!AA7245">
+"Hold on a minute.
+ What's the meaning of this!?"
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "イエル" "!CA1370">
-「え？」
+<name "Elle" "!CA1370">
+"Huh?"
 #
 <sprite "ta01a23.iph" 2 5 12>
-<name "セリス" "!AA7246">
-「私達の担当日は、年に一回じゃないですか」
+<name "Celes" "!AA7246">
+"We only get one day a year!"
 #
 <sprite "ta02a21.iph" 6 4 12>
-<name "イエル" "!CA1371">
-「あ、本当だ！
-　流石にズルイですよ」
+<name "Elle" "!CA1371">
+"Ah, you're right!
+ That's definitely no fair!"
 #
 <removesprite -1 11>
 <sprite "ta03a20.iph" 4 4 11>
-<name "ヴィオラ" "!BA1441">
-「本来なら、一瞬だって許す気は無いんだけど」
+<name "Viola" "!BA1441">
+"Normally, I wouldn't allow even a single moment."
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "イエル" "!CA1372">
-「こ、こわっ」
+<name "Elle" "!CA1372">
+"S-Scary."
 #
 <removesprite -1 11>
 <sprite "ta01a36.iph" 2 5 11>
 <sprite "ta02a37.iph" 6 4 11>
-<name "セリス" "!AA7247">
-「あの迫力……本気だ」
+<name "Celes" "!AA7247">
+"Such intensity...
+ She's serious."
 #
 <removesprite -1 11>
-　まあ、なにはともあれ……
+Well, however it turns out...
 #
-　本人の意思はまるっきり無視なんだね。
+My opinion on it will go completely ignored.
 #
 \x78\x78

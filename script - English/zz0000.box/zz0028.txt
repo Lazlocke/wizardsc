@@ -1,145 +1,146 @@
 <music 15>
 <background "bg011a0.iph" 11>
-　大会の最中、俺はイエルに魔力を与えた。
+In the middle of a tournament, I gave Elle mana.
 #
-<name "ラズロック">
-「頑張って来い」
+<name "Lazlocke">
+"Good luck."
 #
 <removesprite -1 11>
 <sprite "ta02b00.iph" 4 4 11>
-<name "イエル" "!CA1356">
-「はい」
+<name "Elle" "!CA1356">
+"Yes, sir."
 #
 <removesprite -1 11>
-　イエルは俺の魔力と精液を受け取り、試合場所へ
-　と向かった。
+Elle took my mana and semen, and headed out to
+fight.
 #
-　それを待つ間。
+While waiting...
 #
 <music 35>
-　俺はヴィオラと個室で行為に及んだ。
+I go to a private room with Viola.
 #
-　イエルとの行為で昂ぶる俺の欲望を、抑える為だ。
+This is to deal with my frustration from being
+unable to finish with Elle.
 #
-　イエルにそのままぶつけては、本末転倒だからと
-　我慢したからか、ヴィオラとの行為は激しく行な
-　われた。
+Maybe it's because I had to cut things off with
+Elle partway, and I know she didn't deserve it,
+but I was particularly rough with Viola.
 #
-　ヴィオラの膣内には、すでに三回分の精液が流し
-　込まれている。
+I've already emptied my semen into Viola's pussy
+three times.
 #
 <removesprite -1 11>
 <sprite "ta03a78.iph" 4 4 11>
-<name "ヴィオラ" "!BA1431">
-「あん、ん……もう……」
+<name "Viola" "!BA1431">
+"Ah...mm...
+ Geez..."
 #
-<name "ラズロック">
-「お前相手なら、何回でもやってやる」
+<name "Lazlocke">
+"I'll do it as many times as you want."
 #
 <sprite "ta03a81.iph" 4 4 12>
-<name "ヴィオラ" "!BA1432">
-「……いいわよ。
-　何回でも……」
+<name "Viola" "!BA1432">
+"...It's fine.
+ No matter how many times..."
 #
 <removesprite -1 11>
 <music 10>
-　とかなんとかやっている最中に、イエルが戻って
-　きた。
+Just as we started back up, Elle came in.
 #
-　当然だな。
+Of course she did.
 #
-　試合が終われば戻って来る。
+She would come back once her match was over.
 #
-　当たり前だ。
+Obviously.
 #
-　それを失念していた為、俺とヴィオラはあられも
-　ない姿をイエルに見せる事になった。
+I had forgotten about it, and she caught me and
+Viola in a compromising position.
 #
-　いや、この場合の被害者は見てしまったイエルの
-　方だろうか。
+Well, I guess the victim in this case is Elle.
 #
-　まさか、自分の試合中に師匠が男とイチャついて
-　いるとは思うまい。
+She probably wouldn't imagine her master was
+having sex with someone while she was out there
+fighting.
 #
-　しかも、その相手は直前まで自分の相手をしてい
-　た男だ。
+What's more, it's with the man she was just having
+sex with herself earlier.
 #
-　ともあれ、もの凄く気まずい空気が流れてしまっ
-　た。
+Anyway, it got really awkward right away.
 #
-　……俺はどうしようかなと思っていると、ヴィオ
-　ラは衣服を正しイエルに向かい合った。
+...As I was trying to think of what to do, Viola
+adjusted her clothing and stepped up to Elle.
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "ヴィオラ" "!BA1433">
-「勝ったの？」
+<name "Viola" "!BA1433">
+"Did you win?"
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 2 5 11>
 <sprite "ta02b00.iph" 6 4 11>
-<name "イエル" "!CA1357">
-「は、はい」
+<name "Elle" "!CA1357">
+"Y-Yes, ma'am."
 #
 <sprite "ta03a06.iph" 2 5 12>
-<name "ヴィオラ" "!BA1434">
-「よくやったわ」
+<name "Viola" "!BA1434">
+"Well done."
 #
 <sprite "ta02b09.iph" 6 4 12>
-<name "イエル" "!CA1358">
-「ありがとうございます」
+<name "Elle" "!CA1358">
+"Thank you very much."
 #
 <removesprite -1 11>
-　おお、何事もなかったようにクールな対応。
+Ooh, a casual response like nothing happened.
 #
-　流石、ヴィオラだ！
+Nice, Viola!
 #
-　そう思った俺の手にはヴィオラの下着があった。
+And then I realize that I'm holding Viola's
+underwear.
 #
-　行為中に脱がしている。
+It came off while we were doing it.
 #
-　……
+...
 #
-　じゃあ、今はノーパン？
+Then she's panty-less right now?
 #
-　クールな態度でも、ノーパン。
+Wearing nothing, but acting so calm and 
+collected...
 #
-<name "ラズロック">
-「……ヴィオラ」
+<name "Lazlocke">
+"...Viola."
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA1435">
-「なに？」
+<name "Viola" "!BA1435">
+"What?"
 #
 <removesprite -1 11>
 <music 35>
-　とりあえず、俺は空気を読まずにヴィオラを襲っ
-　た。
+I attacked her without a second thought, 
+regardless of the atmosphere.
 #
-　イエルの視線など無視。
+Completely ignoring Elle gawking at us.
 #
-　いや、逆にヴィオラの身体を抑える事を手伝わせ
-　た。
+Well, actually, it helped to keep Viola in check.
 #
 <sprite "ta03a84.iph" 4 4 11>
-<name "ヴィオラ" "!BA1436">
-「あ、ちょ、あ、ああん♪」
+<name "Viola" "!BA1436">
+"Ah! Hey! Ah! Aaah!♪"
 #
 <removesprite -1 11>
-　行為の後の事など、俺は考えもしなかった。
+I didn't think about what would come after that.
 #
 <music 10>
 <background "bg020a0.iph" 11>
 <sprite "ta03a66.iph" 4 4 11>
-<name "ヴィオラ" "!BA1437">
-「い、生きてるマトが欲しかったのよね」
+<name "Viola" "!BA1437">
+"Y-You wanted a live target, right?"
 #
 <sprite "ta03a64.iph" 4 4 12>
-<name "ヴィオラ" "!BA1438">
-「あと、薬の実験台も……」
+<name "Viola" "!BA1438">
+"And a guinea pig for that drug..."
 #
 <removesprite -1 11>
-　大会終了後、俺は怒るヴィオラと共に家に行き、
-　寝技で凌ぎ切った。
+After the tournament, I went home with an angry
+Viola and was defeated by her trickery.
 #
 \x78\x78

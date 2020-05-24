@@ -1,44 +1,43 @@
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「セリス。
-　実は俺、黙っていたが……」
+<name "Lazlocke">
+"Celes, I have to confess something to you."
 #
-<name "ラズロック">
-「エロ紳士なんだ！」
+<name "Lazlocke">
+"I'm a sex connoisseur!"
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA7248">
-「知ってますけど」
+<name "Celes" "!AA7248">
+"I knew that."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta04a04.iph" 4 4 11>
-<name "ソシエット" "!DA1499">
-「私も知ってます」
+<name "Soshiette" "!DA1499">
+"I knew that too."
 #
 <removesprite -1 11>
 <sprite "ta04a04.iph" 2 4 11>
 <sprite "ta02a00.iph" 6 5 11>
-<name "イエル" "!CA1373">
-「知ってましたけど……」
+<name "Elle" "!CA1373">
+"I also knew."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta03a04.iph" 4 4 11>
-<name "ヴィオラ" "!BA1442">
-「知らなかったわ」
+<name "Viola" "!BA1442">
+"I didn't know."
 #
-<name "ラズロック">
-「ありがとう、ヴィオラ」
+<name "Lazlocke">
+"Thank you, Viola."
 #
 <sprite "ta03a38.iph" 4 4 12>
-<name "ヴィオラ" "!BA1443">
-「ほ、本気で泣かないでよ」
+<name "Viola" "!BA1443">
+"P-Please don't cry."
 #
 <removesprite -1 11>
 \x2B\x78\x78

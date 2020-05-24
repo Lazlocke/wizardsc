@@ -1,113 +1,118 @@
 <music 10>
 <background "bg001a0.iph" 11>
 <sprite "ta01e09.iph" 4 4 11>
-<name "セリス" "!AA7231">
-「師匠に質問してみようのコーナー」
+<name "Celes" "!AA7231">
+"It's the Ask Master corner!"
 #
 <removesprite -1 11>
 <sprite "ta01e09.iph" 2 5 11>
 <sprite "ta02b10.iph" 6 4 11>
-<name "イエル" "!CA1359">
-「わー♪」
+<name "Elle" "!CA1359">
+"Yay!♪"
 #
 <sprite "ta01e07.iph" 2 5 12>
-<name "セリス" "!AA7232">
-「一つ目の質問です。
-　師匠の好きな体位は？」
+<name "Celes" "!AA7232">
+"First question.
+ What's your favorite position?"
 #
-<name "ラズロック">
-「いきなりだな……
-　こ、後背位かな」
+<name "Lazlocke">
+"That's quick...
+ D-Doggy style, I guess?"
 #
 <sprite "ta01e89.iph" 2 5 12>
-<name "セリス" "!AA7233">
-「あー、やっぱり」
+<name "Celes" "!AA7233">
+"Aah, I knew it."
 #
 <sprite "ta02b00.iph" 6 4 12>
-<name "イエル" "!CA1361">
-「納得」
+<name "Elle" "!CA1361">
+"Definitely."
 #
 <sprite "ta01e07.iph" 2 5 12>
-<name "セリス" "!AA7234">
-「では、二つ目の質問です。
-　魅力を感じる女性の仕草は？」
-#
-<name "ラズロック">
-「魅力を……魅力、仕草……うーん」
+<name "Celes" "!AA7234">
+"Okay, second question.
+ What is most attractive gesture a woman can 
+ make?"
+ #
+<name "Lazlocke">
+"Attractive is, um, attractive?"
 #
 <sprite "ta01e05.iph" 2 5 12>
-<name "セリス" "!AA7235">
-「行為後、股間を拭く姿と」
+<name "Celes" "!AA7235">
+"Wiping her crotch off after you finish."
 #
-<name "ラズロック">
-「うぉい！
-　言ってない！」
+<name "Lazlocke">
+"Whoa!
+ I didn't say that!"
 #
 <sprite "ta01e08.iph" 2 5 12>
-<name "セリス" "!AA7236">
-「心の声を汲み取りました」
+<name "Celes" "!AA7236">
+"I heard the voice in your head."
 #
 <sprite "ta02b10.iph" 6 4 12>
-<name "イエル" "!CA1362">
-「時間が無いので、巻きでお願いします」
+<name "Elle" "!CA1362">
+"We don't have a lot of time.
+ Keep it rolling."
 #
-<name "ラズロック">
-「巻きって……
-　どっかの業界で“急いで”だったよな」
+<name "Lazlocke">
+"Keep it rolling?
+ That sounds like industry talk.
+ Shouldn't it be hurry up?"
 #
 <sprite "ta01e07.iph" 2 5 12>
-<name "セリス" "!AA7237">
-「そうです。
-　三つ目の質問です。
-　好きな女性の部位は？」
+<name "Celes" "!AA7237">
+"Right.
+ Third question.
+ What's your favorite part of the woman?"
 #
-<name "ラズロック">
-「う、内太股」
+<name "Lazlocke">
+"T-The inner thigh."
 #
 <sprite "ta01e06.iph" 2 5 12>
-<name "セリス" "!AA7238">
-「胸ですか」
+<name "Celes" "!AA7238">
+"You mean the boobs."
 #
 <sprite "ta02b09.iph" 6 4 12>
-<name "イエル" "!CA1363">
-「まあ、前からそうだとは思っていたのですが……
-　セリスは結構、胸を弄られたわよね」
+<name "Elle" "!CA1363">
+"Well, I always thought so.
+ He does play with Celes's breasts a lot."
 #
 <sprite "ta01e08.iph" 2 5 12>
-<name "セリス" "!AA7239">
-「うん」
+<name "Celes" "!AA7239">
+"Yeah."
 #
-<name "ラズロック">
-「おーい、答えたけど」
+<name "Lazlocke">
+"Hey, I thought I was answering."
 #
 <sprite "ta01e05.iph" 2 5 12>
-<name "セリス" "!AA7240">
-「虚偽は認めません」
+<name "Celes" "!AA7240">
+"No lies allowed."
 #
 <sprite "ta02b19.iph" 6 4 12>
-<name "イエル" "!CA1364">
-「それとも、胸は嫌いだとでも？」
+<name "Elle" "!CA1364">
+"Or do you hate breasts?"
 #
-<name "ラズロック">
-「い、いえ、好きですが……」
+<name "Lazlocke">
+"N-No, I like them."
 #
 <sprite "ta01e07.iph" 2 5 12>
-<name "セリス" "!AA7241">
-「では、胸で。
-　次の質問です」
+<name "Celes" "!AA7241">
+"Okay, boobs it is.
+ Next question."
 #
 <removesprite -1 11>
-　……
+...
 #
-　質問の名を借りた、苛めは延々と続けられた。
+The bullying in the name of questions continues
+for some time.
 #
 <sprite "ta01e15.iph" 4 4 11>
-<name "セリス" "!AA7242">
-「人聞きが悪いですね。
-　質問ですよ」
+<name "Celes" "!AA7242">
+"How rude to say.
+ Next question."
 #
-<name "ラズロック">
-「人の性癖を暴き立てるのは苛めと言うんだ！」
+<name "Lazlocke">
+"It's bullying to expose all of somebody's
+ inner thoughts!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

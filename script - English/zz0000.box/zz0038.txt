@@ -1,71 +1,76 @@
 <music 11>
 <background "bg010a0.iph" 11>
-<name "メル" "!MB0016">
-「最近、ラズロック様が相手してくれないぃ」
+<name "Mel" "!MB0016">
+"Lately, Lazlocke hasn't been with me at all."
 #
-<name "マーシャ" "!JB0017">
-「だよねぇ……」
+<name "Marcia" "!JB0017">
+"Seriously..."
 #
-<name "トリス" "!KB0011">
-「こっちから襲っちゃおうか？」
+<name "Tris" "!KB0011">
+"Do want him to attack you here?"
 #
-<name "メル" "!MB0017">
-「あはは……無理無理」
+<name "Mel" "!MB0017">
+"Ahaha...
+ No way."
 #
-<name "マーシャ" "!JB0018">
-「だよね」
+<name "Marcia" "!JB0018">
+"Seriously."
 #
-<name "トリス" "!KB0012">
-「じゃあどうするの？」
+<name "Tris" "!KB0012">
+"Then what should we do?"
 #
-<name "メル" "!MB0018">
-「マメに嘆願書をこう……」
+<name "Mel" "!MB0018">
+"I filed a petition..."
 #
-<name "マーシャ" "!JB0020">
-「い、いつの間に！
-　聞いてない！」
+<name "Marcia" "!JB0020">
+"W-When!?
+ I never heard about it!"
 #
-<name "トリス" "!KB0013">
-「抜け駆け禁止条約は！」
+<name "Tris" "!KB0013">
+"We agreed no cutting in line!"
 #
-<name "メル" "!MB0019">
-「だ、大丈夫よ。
-　ちゃんと貴女達の名前も書いてあるから」
+<name "Mel" "!MB0019">
+"D-Don't worry.
+ I put your names on it too."
 #
-<name "マーシャ" "!JB0021">
-「我々の友情は永遠だ」
+<name "Marcia" "!JB0021">
+"Our friendship is eternal."
 #
-<name "メル" "!MB0020">
-「そりゃねぇ。
-　あんな姿も知ってる仲なわけだし……」
+<name "Mel" "!MB0020">
+"Yeah.
+ I can't believe we have a relationship like this
+ though..."
 #
-<name "トリス" "!KB0014">
-「学園の時はライバルだったのにね」
+<name "Tris" "!KB0014">
+"We were rivals in school."
 #
-<name "マーシャ" "!JB0023">
-「あはは……」
+<name "Marcia" "!JB0023">
+"Hahaha..."
 #
-<name "メル" "!MB0024">
-「とりあえず、嘆願書が効果なければ直訴しよう」
+<name "Mel" "!MB0024">
+"Anyway, if the petition doesn't work, let's talk
+ to him directly."
 #
-<name "トリス" "!KB0015">
-「うん！」
+<name "Tris" "!KB0015">
+"Okay!"
 #
-　こういったグループが、協会内には多数存在する。
+There are a lot of groups like that in the Guild.
 #
-　俺の体力はどこまで持つのだろうか。
+I wonder how long my strength will hold out.
 #
-<name "メル" "!MB0022">
-「私、魔法による体力と精力の強化を考えたの」
+<name "Mel" "!MB0022">
+"I thought of a spell that enhances endurance and
+ stamina."
 #
-<name "マーシャ" "!JB0025">
-「私は感度を上げる魔法」
+<name "Marcia" "!JB0025">
+"I have a spell that increases sensitivity."
 #
-<name "トリス" "!KB0016">
-「理性を吹っ飛ばす魔法」
+<name "Tris" "!KB0016">
+"I have a spell that turns your mind into a  
+ beast."
 #
-　……
+...
 #
-　本当に、俺はいつまで持つのだろうか。
+Seriously, how much longer can I survive this?
 #
 \x78\x78

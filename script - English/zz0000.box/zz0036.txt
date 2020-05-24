@@ -1,28 +1,29 @@
 <music 30>
 <background "ev012a0.iph" 11>
-<name "セリス" "!AA9157">
-「とりゃっ！」
+<name "Celes" "!AA9157">
+"Hiyaa!"
 #
-<name "ラズロック">
-「うお、見事なソバットだ」
+<name "Lazlocke">
+"Ooh, a perfect roundhouse."
 #
-<name "ラズロック">
-「相手が腹を抱えて、そのまま崩れた！」
+<name "Lazlocke">
+"They collapsed on the spot!"
 #
-<name "セリス" "!AA9158">
-「勝利！」
+<name "Celes" "!AA9158">
+"Victory!"
 #
-<name "ラズロック">
-「しかし、食い逃げ犯の腹にソバットはその……
-　ひどい事になっているぞ」
+<name "Lazlocke">
+"But... a roundhouse for someone who dined and
+ dashed? 
+ Seems kind of excessive."
 #
-<name "セリス" "!AA9159">
-「迷惑な話です」
+<name "Celes" "!AA9159">
+"Don't be silly."
 #
-　……
+...
 #
-　その後、食い逃げ犯は引っ立てられた。
+He was dragged off after that.
 #
-　多分、二度と食い逃げはしないだろう。
+I doubt he'll dine and dash ever again.
 #
 \x78\x78

@@ -1,27 +1,28 @@
 <music 24>
 <background "bg004a0.iph" 11>
 <sprite "ta01a28.iph" 4 4 11>
-<name "セリス" "!AA5494">
-「ぐす……ひっく、ひっく……ぅ……」
+<name "Celes" "!AA5494">
+"Guh...hic...hic...oohh..."
 #
-<name "ラズロック">
-「どうしたセリス！
-　なぜ、泣いている！」
+<name "Lazlocke">
+"What's the matter, Celes?
+ Why are you crying?"
 #
 <sprite "ta01a30.iph" 4 4 12>
-<name "セリス" "!AA5495">
-「師匠が、いきなり襲ってきて……」
+<name "Celes" "!AA5495">
+"Because you suddenly attacked me..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <sprite "ta01a35.iph" 4 4 12>
-<name "セリス" "!AA5496">
-「外でいきなりは酷いです……ううう」
+<name "Celes" "!AA5496">
+"How could you be so cruel to do it outside...
+ Oooh..."
 #
-<name "ラズロック">
-「に、庭だから家の中みたいなものだ。
-　うん」
+<name "Lazlocke">
+"T-The garden's basically like the house.
+ Yeah."
 #
 <removesprite -1 11>
 \x2B\x78\x78

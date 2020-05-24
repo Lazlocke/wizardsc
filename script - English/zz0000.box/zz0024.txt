@@ -1,233 +1,240 @@
 <music 10>
 <background "ev028a0.iph" 11>
-<name "ヴィオラ" "!BA1327">
-「ここでは、魔力の特性と、ラズロックの力に関し
-　て説明するわ」
+<name "Viola" "!BA1327">
+"Here, we'll do an in depth explanation of the
+ characteristics of mana and Lazlocke's power." 
 #
-<name "イエル" "!CA1244">
-「光栄です」
+<name "Elle" "!CA1244">
+"It's an honor."
 #
-<name "ヴィオラ" "!BA1328">
-「ではまず、魔力の特性に関して……ごほん。
-　教師口調でいくわよ」
+<name "Viola" "!BA1328">
+"First, let's start with mana. Ahem.
+ I'm going to use a teacher's tone here."
 #
-<name "イエル" "!CA1245">
-「わ、わかりました」
+<name "Elle" "!CA1245">
+"U-Understood."
 #
-<name "ヴィオラ" "!BA1329">
-「魔力とは、生き物の身体や、大気中に存在するエ
-　ネルギーの総称です」
+<name "Viola" "!BA1329">
+"Mana is the general term for the energy that
+ exists in living creatures and in the air."
 #
-<name "イエル" "!CA1246">
-「エネルギーですか？」
+<name "Elle" "!CA1246">
+"Energy?"
 #
-<name "ヴィオラ" "!BA1330">
-「そう考えて問題はありません」
+<name "Viola" "!BA1330">
+"It's fine if you think of it like that."
 #
-<name "ヴィオラ" "!BA1331">
-「魔法使いは、自分の体内にある魔力を操作し、大
-　気中にある魔力に働きかけて、様々な力に変えて
-　いるわけです」
+<name "Viola" "!BA1331">
+"Wizards manipulate the mana inside themselves, 
+ and cause it to react with mana in the air, 
+ turning it into all kinds of powers."
 #
-<name "ヴィオラ" "!BA1332">
-「さて、この魔力ですが……
-　面白い特性があります」
+<name "Viola" "!BA1332">
+"Now then, this mana...
+ It has some interesting properties."
 #
-<name "ヴィオラ" "!BA1333">
-「一つ目の特性ですが、均一になろうとする事です」
+<name "Viola" "!BA1333">
+"First, is that it tries to be homogenous."
 #
-<name "イエル" "!CA1247">
-「均一ですか？」
+<name "Elle" "!CA1247">
+"Homogenous?"
 #
-<name "ヴィオラ" "!BA1334">
-「そうです。
-　例えば、大きな箱があるとしましょう。
-　その中に魔力を入れると、箱のどの部分でも魔力
-　の濃さは同じなのです」
+<name "Viola" "!BA1334">
+"That's right. For example, say you have a big
+ box. If you put mana into it, every place in that
+ box will have the same density of mana."
 #
-<name "ヴィオラ" "!BA1335">
-「そして、この箱の外の魔力の濃さがどうであろう
-　と、その箱の中の濃度を維持しようとします」
+<name "Viola" "!BA1335">
+"And no matter how dense the mana is outside of
+ the box, it will maintain the same density within
+ the box."
 #
-<name "イエル" "!CA1248">
-「ですが師匠。
-　魔力が濃いとか、魔力が薄いとかの表現が時々さ
-　れますが？」
+<name "Elle" "!CA1248">
+"But Master, don't people sometimes say that mana
+ can be thick or thin?"
 #
-<name "ヴィオラ" "!BA1336">
-「それは、二つの理由があります」
+<name "Viola" "!BA1336">
+"There's two reasons for that."
 #
-<name "ヴィオラ" "!BA1337">
-「まず、一つ目の理由は何者かの作為によって魔力
-　の移動が行われたからです」
+<name "Viola" "!BA1337">
+"First, it can be because something has
+ deliberated moved the mana in some way."
 #
-<name "ヴィオラ" "!BA1338">
-「これは、何かが動けば影響されます。
-　風が吹いただけでも、魔力は流れてしまうのです。
-　魔力は均一になろうとしていますが、世界はそれ
-　を許していないのでしょう」
+<name "Viola" "!BA1338">
+"It happens even with just simple movement.
+ Even just the wind blowing moves mana.
+ Mana wants to be homogenous, but the world may
+ have its own ideas."
 #
-<name "イエル" "!CA1249">
-「なるほど」
+<name "Elle" "!CA1249">
+"I see."
 #
-<name "ヴィオラ" "!BA1339">
-「そして二つ目の理由が、魔力の特性その２です」
+<name "Viola" "!BA1339">
+"The other reason has to do with another property
+ of mana."
 #
-<name "イエル" "!CA1251">
-「その２？」
+<name "Elle" "!CA1251">
+"What is it?"
 #
-<name "ヴィオラ" "!BA1340">
-「魔力は均一になろうとするのですが、ある程度の
-　濃度になると、今度は周囲の魔力を引き寄せるの
-　です」
+<name "Viola" "!BA1340">
+"Mana wants to be homogenous, but once it reaches
+ a certain concentration, it'll start drawing in
+ the mana around it."
 #
-<name "イエル" "!CA1252">
-「引き寄せるのですか？」
+<name "Elle" "!CA1252">
+"It pulls it in?"
 #
-<name "ヴィオラ" "!BA1341">
-「そうです。
-　それによって、魔力は均一になろうとせず、濃い
-　魔力になってしまいます」
+<name "Viola" "!BA1341">
+"That's right. 
+ As a result, mana doesn't just diffuse, but
+ instead concentrates."
 #
-<name "ヴィオラ" "!BA1342">
-「ですが、そうだとするなら、世界中の魔力が一箇
-　所に集まるとは思いませんか？」
+<name "Viola" "!BA1342">
+"But if that was the case, don't you think that 
+ mana from all over the world would all come 
+ together to a single point?"
 #
-<name "イエル" "!CA1253">
-「そうですよね。
-　一度、引き寄せ始めたら全部集めちゃうんじゃな
-　いですか？」
+<name "Elle" "!CA1253">
+"That's right. Once it starts collecting, wouldn't
+ it all gather?"
 #
-<name "ヴィオラ" "!BA1343">
-「今度は魔力の特性その３です」
+<name "Viola" "!BA1343">
+"That's where the third property of mana comes  
+ in."
 #
-<name "イエル" "!CA1254">
-「その３？」
+<name "Elle" "!CA1254">
+"What is it?"
 #
-<name "ヴィオラ" "!BA1344">
-「一定以上の濃度になった魔力は、魔力を引き寄せ
-　るのを止め、不可思議現象を起こします」
+<name "Viola" "!BA1344">
+"Once mana reaches a certain concentration, it
+ stops pulling mana in, and causes a strange
+ phenomenon."
 #
-<name "イエル" "!CA1256">
-「不可思議現象？」
+<name "Elle" "!CA1256">
+"Strange?"
 #
-<name "ヴィオラ" "!BA1345">
-「よくわからないと言うのが正直な所です。
-　現在、協会の研究部が鋭意調査中です」
+<name "Viola" "!BA1345">
+"To be honest, nobody really understands it.
+ Guild Research is still studying it."
 #
-<name "ヴィオラ" "!BA1346">
-「確認されている事例としては、発火、Demon Call、
-　周囲の動植物の生命奪取などなど、良い事は一つ
-　もありません」
+<name "Viola" "!BA1346">
+"We know of cases that including combustion,
+ monster summoning, draining the life from every
+ living thing in the area.
+ None of it is good."
 #
-<name "ヴィオラ" "!BA1347">
-「また、高濃度の魔力は人間の精神に大きなダメー
-　ジを与える事もわかっています」
+<name "Viola" "!BA1347">
+"Furthermore, we know that high concentrations of
+ mana has a deleterious effect on the human mind."
 #
-<name "イエル" "!CA1257">
-「お、恐ろしい……」
+<name "Elle" "!CA1257">
+"S-Scary."
 #
-<name "ヴィオラ" "!BA1348">
-「ですが、自然的にはそうそう高濃度の魔力は確認
-　されません」
+<name "Viola" "!BA1348">
+"However, such high concentrations of mana are
+ very difficult to observe in nature."
 #
-<name "ヴィオラ" "!BA1349">
-「なぜなら、その２の特性である周囲の魔力を引き
-　寄せ始める為の最初の濃度が、箱の大きさに比例
-　するからです」
+<name "Viola" "!BA1349">
+"Because while the second property wants to
+ concentrate, the strength of the first property
+ is proportional to the size of the box."
 #
-<name "イエル" "!CA1258">
-「箱？」
+<name "Elle" "!CA1258">
+"The box?"
 #
-<name "ヴィオラ" "!BA1350">
-「はい。
-　先程濃度の話をした際の箱を思い出してください」
+<name "Viola" "!BA1350">
+"Yes. Remember the box analogy I used earlier?"
 #
-<name "イエル" "!CA1259">
-「思い出しました」
+<name "Elle" "!CA1259">
+"I remember."
 #
-<name "ヴィオラ" "!BA1351">
-「その２の特性が発動する為には、箱の中に例えば
-　１００の魔力が必要としましょう」
+<name "Viola" "!BA1351">
+"For the second property to kick in, let's say 
+ that we need 100 MP."
 #
-<name "イエル" "!CA1260">
-「はい」
+<name "Elle" "!CA1260">
+"Okay."
 #
-<name "ヴィオラ" "!BA1352">
-「次に世界を大きな箱だと考えてください」
+<name "Viola" "!BA1352">
+"Now think of the entire world as a big box."
 #
-<name "イエル" "!CA1261">
-「か、考えました」
+<name "Elle" "!CA1261">
+"I-I'll try."
 #
-<name "ヴィオラ" "!BA1353">
-「世界の箱の大きさに対して、世界中にある魔力の
-　量は１しかありません」
+<name "Viola" "!BA1353">
+"In this entire world-sized box, there's only one
+ MP."
 #
-<name "イエル" "!CA1262">
-「え？
-　そんなに少ないんですか？」
+<name "Elle" "!CA1262">
+"Huh?
+ There's so little?"
 #
-<name "ヴィオラ" "!BA1354">
-「そうです」
+<name "Viola" "!BA1354">
+"That's right."
 #
-<name "ヴィオラ" "!BA1356">
-「ですので、自然界で高濃度の魔力は発生しません」
+<name "Viola" "!BA1356">
+"So high concentrations of mana are something that
+ just doesn't ever occur naturally."
 #
-<name "イエル" "!CA1263">
-「おおっ」
+<name "Elle" "!CA1263">
+"Oooh."
 #
-<name "ヴィオラ" "!BA1357">
-「ですが。
-　例えば、木の葉などにも魔力はあります」
+<name "Viola" "!BA1357">
+"However, for example, leaves can contain mana."
 #
-<name "イエル" "!CA1264">
-「あ、はい」
+<name "Elle" "!CA1264">
+"Ah, you're right."
 #
-<name "ヴィオラ" "!BA1358">
-「その木の葉に、大量の魔力が注がれると、そこを中
-　心として特性２が発動し、そのまま特性３へと進み
-　ます」
+<name "Viola" "!BA1358">
+"If you put a lot of mana into a leaf, then you 
+ can make the second property of mana trigger,
+ which advances to the third property."
 #
-<name "イエル" "!CA1265">
-「うわっ……
-　で、でも、木の葉に大量の魔力が注がれる事がある
-　んですか？」
+<name "Elle" "!CA1265">
+"Ooh...
+ But you'd have to put a lot of mana into just
+ one leaf, right?"
 #
-<name "ヴィオラ" "!BA1359">
-「偶然か、何者かの作為かはわかりませんが、そういっ
-　た事例はいくつも確認されています」
+<name "Viola" "!BA1359">
+"I don't know if it was just coincidence or if
+ somebody did it on purpose, but there are many
+ cases of just that happening."
 #
-<name "ヴィオラ" "!BA1360">
-「また、これは俗説ですが、世界中に居る魔物は、全
-　て魔力の特性３による結果だと言われています」
+<name "Viola" "!BA1360">
+"What's more, it's not proven, but there are many
+ who believe that the existence of monsters all
+ over the world are a result of the third property
+ of mana."
 #
-<name "イエル" "!CA1266">
-「むう……」
+<name "Elle" "!CA1266">
+"Hmmm..."
 #
-<name "ヴィオラ" "!BA1361">
-「ちなみに、魔力は力に変化しても時間が経過すれば、
-　均一になろうとするので、魔力を力に変え続けても、
-　魔力が世界から消える事はありません」
+<name "Viola" "!BA1361">
+"By the way, even if you change mana into power,
+ as time passes, because it wants to be 
+ homogenous, mana will never fully disappear from
+ the world."
 #
-<name "イエル" "!CA1267">
-「魔法使いは永遠ですね」
+<name "Elle" "!CA1267">
+"Wizards will be around forever, right?"
 #
-<name "ヴィオラ" "!BA1362">
-「そうです。
-　さて、魔力に関しての知識はこれぐらいで、次はラ
-　ズロックの力“魔法使いの花嫁”に関してです」
+<name "Viola" "!BA1362">
+"That's right. Well, that's about all you need to
+ know about mana.
+ Next is Lazlocke's power, the so-called Wizard's
+ Bride."
 #
-<name "イエル" "!CA1268">
-「頑張って勉強します」
+<name "Elle" "!CA1268">
+"I'll study hard."
 #
-<name "ヴィオラ" "!BA1363">
-「魔力の特性と魔法使いの花嫁２に続きます」
+<name "Viola" "!BA1363">
+"To be continued in part 2 of the properties of
+ mana and wizard's bride."
 #
-　……
+...
 #
-<name "ラズロック">
-「あれ！
-　絵がセリスなのに……
-　イエルとヴィオラしか出てこなかった！」
+<name "Lazlocke">
+"Huh? The image had Celes, but only Elle and Viola
+ were in this one!"
 #
 \x78\x78

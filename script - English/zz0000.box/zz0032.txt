@@ -1,74 +1,75 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a06.iph" 4 4 11>
-<name "セリス" "!AA7249">
-「結局、師匠ってヴィオラさんラブなのよね」
+<name "Celes" "!AA7249">
+"My master was in love with Viola after all."
 #
 <removesprite -1 11>
 <sprite "ta01a06.iph" 2 5 11>
 <sprite "ta02a27.iph" 6 4 11>
-<name "イエル" "!CA1375">
-「むう」
+<name "Elle" "!CA1375">
+"Mmhmm."
 #
 <sprite "ta01a05.iph" 2 5 12>
-<name "セリス" "!AA7250">
-「抱いて貰ってる時も、可愛いとかは言ってくれた
-　けど、好きだとかは絶対に言ってくれなかったし」
+<name "Celes" "!AA7250">
+"When he was with me, he'd say I was cute, but he
+ never said he loved me."
 #
 <sprite "ta02a27.iph" 6 4 12>
-<name "イエル" "!CA1376">
-「私も……抱くんじゃない。
-　犯してるって」
+<name "Elle" "!CA1376">
+"Me either, and not with me.
+ Violating me."
 #
 <sprite "ta01a31.iph" 2 5 12>
-<name "セリス" "!AA7251">
-「むう」
+<name "Celes" "!AA7251">
+"Mmhmm."
 #
 <sprite "ta02a23.iph" 6 4 12>
-<name "イエル" "!CA1378">
-「腹が立つから、襲いに行っちゃう？」
+<name "Elle" "!CA1378">
+"If you're mad, want to go on the attack?"
 #
 <sprite "ta01a32.iph" 2 5 12>
-<name "セリス" "!AA7252">
-「賛成だけど……
-　ヴィオラさんのディフェンスをどう潜り抜ける？」
+<name "Celes" "!AA7252">
+"Agreed, but how do we get through Viola's
+ defenses?"
 #
 <sprite "ta02a04.iph" 6 4 12>
-<name "イエル" "!CA1379">
-「正面から。
-　私達二人で掛かれば、師匠相手でも」
+<name "Elle" "!CA1379">
+"Head on.
+ The two of us together are a match for her."
 #
 <sprite "ta01a20.iph" 2 5 12>
-<name "セリス" "!AA7253">
-「了解。
-　頑張ろう」
+<name "Celes" "!AA7253">
+"Agreed.
+ Let's do our best."
 #
 <sprite "ta02a09.iph" 6 4 12>
-<name "イエル" "!CA1381">
-「うん」
+<name "Elle" "!CA1381">
+"Yep."
 #
 <removesprite -1 11>
 <background "bg004a0.iph" 11>
-　……
+...
 #
 <sprite "ta01c37.iph" 4 4 11>
-<name "セリス" "!AA7254">
-「ずるい……師匠まで手伝うなんて」
+<name "Celes" "!AA7254">
+"No fair...
+ How could he help her?"
 #
 <removesprite -1 11>
 <sprite "ta01c37.iph" 2 5 11>
 <sprite "ta02b32.iph" 6 4 11>
-<name "イエル" "!CA1383">
-「そのタッグは反則です」
+<name "Elle" "!CA1383">
+"Tagging in is cheating."
 #
-<name "ラズロック">
-「手伝わないと、ヴィオラが泣きそうな顔をするか
-　ら……」
+<name "Lazlocke">
+"If I didn't she looked like she was going to
+ burst into tears."
 #
 <removesprite -1 11>
 <sprite "ta03a82.iph" 4 4 11>
-<name "ヴィオラ" "!BA1444">
-「べ、別に泣きそうな顔なんかしてないわよ」
+<name "Viola" "!BA1444">
+"I-I wasn't about to cry."
 #
 <removesprite -1 11>
 \x2B\x78\x78

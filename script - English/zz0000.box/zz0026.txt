@@ -1,419 +1,427 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA1309">
-「ここでは、セリスの師匠の歴史を紹介したいと思
-　います」
+<name "Elle" "!CA1309">
+"Here, we'll discuss the history of Celes's
+ Master."
 #
-<name "ラズロック">
-「俺の歴史か？」
+<name "Lazlocke">
+"My history?"
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "イエル" "!CA1311">
-「はい。
-　作品中ではわかり難いと思いまして……」
+<name "Elle" "!CA1311">
+"Yes. I thought it was hard to understand in the
+ game itself."
 #
-<name "ラズロック">
-「そうか……
-　でも、なんでセリスじゃないんだ？
-　ヴィオラまで居るし」
+<name "Lazlocke">
+"I see... But why isn't Celes doing it?
+ Or Viola?"
 #
 <sprite "ta02a03.iph" 4 4 12>
-<name "イエル" "!CA1312">
-「セリフ量を考えてください。
-　どれだけ喋っていると思うんですか？」
+<name "Elle" "!CA1312">
+"Consider how many lines they have.
+ How much do you think they've already had to 
+ talk?"
 #
-<name "ラズロック">
-「そ、そうだな……悪かった」
+<name "Lazlocke">
+"I-I guess.
+ Sorry."
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "イエル" "!CA1313">
-「はい。
-　頑張ってやりましょう！」
+<name "Elle" "!CA1313">
+"Okay.
+ Let's do our best!"
 #
-<name "ラズロック">
-「しかし、歴史を説明するのに、年表は無いのか？
-　映像情報は色々と便利だぞ……」
+<name "Lazlocke">
+"But shouldn't we have a timeline if we're going
+ over my history?
+ Images are useful in a lot of ways."
 #
 <sprite "ta02a03.iph" 4 4 12>
-<name "イエル" "!CA1315">
-「細かく説明すると、色々とマズイ事情があるから
-　です。
-　進まないので、これ以上、突っ込まないようにお
-　願いします」
+<name "Elle" "!CA1315">
+"If you want an explanation for that, it's
+ complicated. We're not getting anywhere.
+ Please stop interrupting."
 #
-<name "ラズロック">
-「わ、わかった」
+<name "Lazlocke">
+"A-All right."
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "イエル" "!CA1316">
-「ではまず……幼年期！」
+<name "Elle" "!CA1316">
+"Now, then...
+ Your childhood!"
 #
 <removesprite -1 11>
 <sprite "ta03a01.iph" 4 4 11>
-<name "ヴィオラ" "!BA1414">
-「街で暮らす少年だったと聞いてるけど……」
+<name "Viola" "!BA1414">
+"I heard he was a boy living in the city..."
 #
-<name "ラズロック">
-「身寄りが無い者達でグループを作り、生きていま
-　した」
+<name "Lazlocke">
+"I was with a group of people who didn't have any
+ living relatives."
 #
 <removesprite -1 11>
 <sprite "ta02a07.iph" 4 4 11>
-<name "イエル" "!CA1317">
-「窃盗団？」
+<name "Elle" "!CA1317">
+"A band of thieves?"
 #
-<name "ラズロック">
-「いや、ちゃんと働いていた。
-　ただ、子供相手だと賃金を誤魔化す大人が多いか
-　らな。
-　グループを作って自衛していたんだ」
+<name "Lazlocke">
+"No, we did real work, but there are a lot of  
+ adults who exploit children.
+ Forming a group was to protect ourselves."
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "イエル" "!CA1318">
-「なるほど……
-　そうやっている時に、協会長と出会ったんですね」
+<name "Elle" "!CA1318">
+"I see...
+ And that's what you were doing when you met the
+ Guild president."
 #
-<name "ラズロック">
-「住んでいた街が戦争に巻き込まれてな。
-　占領軍の一人として来た」
+<name "Lazlocke">
+"The city I lived in was involved in a war.
+ She showed up as one of the invaders."
 #
 <sprite "ta02a06.iph" 4 4 12>
-<name "イエル" "!CA1319">
-「占領側ですか？」
+<name "Elle" "!CA1319">
+"She was an enemy?"
 #
-<name "ラズロック">
-「ああ……あの時、初めて魔法使いを見たんだ。
-　そして、その中で一番強かったのが師匠だ」
+<name "Lazlocke">
+"Yeah. That was the first time I met a wizard.
+ And she was the strongest of them all."
 #
 <sprite "ta02a09.iph" 4 4 12>
-<name "イエル" "!CA1320">
-「憧れたんですね」
+<name "Elle" "!CA1320">
+"You looked up to her?"
 #
-<name "ラズロック">
-「うむ。
-　当時はメチャクチャ若かったし……
-　ぐふぇおおおっ！」
+<name "Lazlocke">
+"Mmhmm.
+ She was waaaay younger back thgwagh!"
 #
 <sprite "ta02a32.iph" 4 4 12>
-<name "イエル" "!CA1321">
-「え、なに？
-　どこから石が？」
+<name "Elle" "!CA1321">
+"Huh? What was that?
+ Where'd that stone come from?"
 #
 <removesprite -1 11>
 <sprite "ta03a36.iph" 4 4 11>
-<name "ヴィオラ" "!BA1416">
-「……遠距離投擲。
-　流石……」
+<name "Viola" "!BA1416">
+"...Far away.
+ No surprise."
 #
-<name "ラズロック">
-「い、今もメチャクチャ若い師匠ですが、あの時の
-　強さと美しさにはもう……」
+<name "Lazlocke">
+"S-She was much younger then, but her strength
+ and beauty were already incredible..."
 #
 <sprite "ta03a15.iph" 4 4 12>
-<name "ヴィオラ" "!BA1417">
-「む……」
+<name "Viola" "!BA1417">
+"Grr..."
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "イエル" "!CA1323">
-「ああ、師匠。
-　脱線してしまいますので、攻撃魔法は……」
+<name "Elle" "!CA1323">
+"Oh, Master.
+ We're already getting derailed.
+ If you use attack magic..."
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "イエル" "!CA1324">
-「ごほんっ！
-　そこで、協会長に誘われての弟子入りだそうです
-　が……協会長に認められるような事をしたのです
-　か？」
+<name "Elle" "!CA1324">
+"Ahem!
+ And apparently then you were asked by her to be
+ her apprentice. Did you do something that made
+ her see your worth?"
 #
-<name "ラズロック">
-「いや、まるっきり」
+<name "Lazlocke">
+"No. Not at all."
 #
 <sprite "ta02a06.iph" 4 4 12>
-<name "イエル" "!CA1325">
-「では、どうして協会長はセリスの師匠を弟子にし
-　たんですか？」
+<name "Elle" "!CA1325">
+"Then why'd she take you as an apprentice?"
 #
-<name "ラズロック">
-「魔力があったからと信じたいが……
-　本人は目が合ったからと笑ってた」
+<name "Lazlocke">
+"She said she wanted to believe I had mana...
+ But she was laughing as I looked her in the 
+ eyes."
 #
 <removesprite -1 11>
 <sprite "ta03a36.iph" 4 4 11>
-<name "ヴィオラ" "!BA1418">
-「ちなみに私の時は、肩がぶつかったからって強引
-　に……」
+<name "Viola" "!BA1418">
+"By the way, for me, she grabbed me by the 
+ shoulder and demanded it."
 #
 <removesprite -1 11>
 <sprite "ta02a34.iph" 4 4 11>
-<name "イエル" "!CA1326">
-「ははは……ご、豪快な方ですね。
-　そうして弟子入り後、魔法使いになったわけです
-　ね」
+<name "Elle" "!CA1326">
+"Hahaha... W-What a forceful woman.
+ After becoming her apprentice, you became a
+ wizard."
 #
-<name "ラズロック">
-「うむ。
-　だが……魔力はあるのだがどうも上手くいかない。
-　俺の周囲では、魔力の動きもおかしいと、師匠が
-　気付いてだな」
+<name "Lazlocke">
+"Mmhmm, but even though I had mana, I wasn't
+ doing well. She also noticed that the mana around
+ me acted strangely."
 #
-<name "ラズロック">
-「ほぼ、同時期に師匠を……」
+<name "Lazlocke">
+"And at almost the same time, she..."
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "イエル" "!CA1327">
-「襲ったと！」
+<name "Elle" "!CA1327">
+"You attacked her!"
 #
-<name "ラズロック">
-「………………黙秘します」
+<name "Lazlocke">
+"...No comment."
 #
 <removesprite -1 11>
 <sprite "ta03a15.iph" 4 4 11>
-<name "ヴィオラ" "!BA1419">
-「証言します。
-　確実に襲っています」
+<name "Viola" "!BA1419">
+"I'll fill in then.
+ You definitely attacked her."
 #
-<name "ラズロック">
-「お前はその時、まだ弟子じゃなかっただろう」
+<name "Lazlocke">
+"You weren't even an apprentice at that point."
 #
 <sprite "ta03a19.iph" 4 4 12>
-<name "ヴィオラ" "!BA1420">
-「本人の人格を知る一人として証言します。
-　確実に襲っています」
+<name "Viola" "!BA1420">
+"I say that knowing exactly who you are.
+ You definitely attacked her."
 #
-<name "ラズロック">
-「うううう……」
+<name "Lazlocke">
+"Awww..."
 #
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA1329">
-「まあ、真偽のほどは置いておいて……
-　それで珍しい男の“魔法使いの花嫁”だと判明し
-　たんですね」
+<name "Elle" "!CA1329">
+"Well, leaving aside whether or not it's true...
+ It turned out that you were a super rare male
+ wizard's bride."
 #
-<name "ラズロック">
-「ああ……」
+<name "Lazlocke">
+"Yeah."
 #
 <sprite "ta02a10.iph" 4 4 12>
-<name "イエル" "!CA1330">
-「ちなみに、男の“魔法使いの花嫁”がどれぐらい
-　レアかと言うと、記録に残ったのが史上初！」
+<name "Elle" "!CA1330">
+"By the way, when I say rare, I mean the first 
+ ever male wizard's bride recorded in all of
+ history."
 #
-<name "ラズロック">
-「女性の“魔法使いの花嫁”が十年に一人と言われ
-　るぐらいだからな……」
-#
-<sprite "ta02a00.iph" 4 4 12>
-<name "イエル" "!CA1331">
-「その後、魔法の修行をしつつ、協会長と共に“魔
-　法使いの花嫁”の研究を開始」
-#
-<name "ラズロック">
-「その間に、妹弟子が次々と出来た」
-#
-<sprite "ta02a04.iph" 4 4 12>
-<name "イエル" "!CA1332">
-「グレイトシックスの始まりですね」
-#
-<name "ラズロック">
-「ああ、変なヤツばかりだけどな。
-　かなり遅れて、最後にヴィオラとの出会いだな」
+<name "Lazlocke">
+"They say a female wizard's bride appears about
+ once every ten years."
 #
 <sprite "ta02a00.iph" 4 4 12>
-<name "イエル" "!CA1334">
-「その時の、師匠に対する第一印象は？」
+<name "Elle" "!CA1331">
+"After that, while training me in magic, the two
+ of you began studying the power of a wizard's
+ bride together."
 #
-<name "ラズロック">
-「無口な勉強家」
+<name "Lazlocke">
+"As that went on, my sister apprentices started
+ gathering."
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "イエル" "!CA1335">
-「師匠の、セリスの師匠に対する第一印象は？」
+<name "Elle" "!CA1332">
+"The birth of the Great Six."
+#
+<name "Lazlocke">
+"Yeah. A bunch of weirdos.
+ It took a while, but in the end, that's how I
+ met Viola."
+#
+<sprite "ta02a00.iph" 4 4 12>
+<name "Elle" "!CA1334">
+"What was your first impression of her?"
+#
+<name "Lazlocke">
+"A quiet bookworm."
+#
+<sprite "ta02a04.iph" 4 4 12>
+<name "Elle" "!CA1335">
+"And what was your impression of him?"
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA1421">
-「別に……
-　ラズロック目当てで弟子入りしたワケじゃないか
-　ら特に意識は……
-　まあ、兄弟子ぐらいにしか」
+<name "Viola" "!BA1421">
+"Nothing really...
+ I wasn't his apprentice, so I didn't pay much
+ attention to him.
+ Well, he was just like a senior to me."
 #
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA1336">
-「なるほど……」
+<name "Elle" "!CA1336">
+"I see..."
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "イエル" "!CA1337">
-「そうして、人材が揃った所で魔法使い協会の復興
-　が始まるワケですね」
+<name "Elle" "!CA1337">
+"And with all that talent, the revival of the
+ Wizard's Guild began in earnest."
 #
-<name "ラズロック">
-「いや、魔法使い協会の復興はもう少し前から始まっ
-　ている」
+<name "Lazlocke">
+"No, the revival of the Guild started a little
+ bit before that."
 #
 <sprite "ta02a06.iph" 4 4 12>
-<name "イエル" "!CA1338">
-「そうなんですか？」
+<name "Elle" "!CA1338">
+"It did?"
 #
-<name "ラズロック">
-「俺が弟子入りしたぐらいから、師匠は協会の復興
-　に力を入れ始めていたからな」
+<name "Lazlocke">
+"My master was already putting a lot of work into
+ reviving the Guild even before she took me as an
+ apprentice."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA1422">
-「ラズロックの力で、加速したのは確かね」
+<name "Viola" "!BA1422">
+"His power certainly accelerated it though." 
 #
-<name "ラズロック">
-「研究の一環の有効利用だ」
+<name "Lazlocke">
+"Particularly in research."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 4 11>
 <sprite "ta02a27.iph" 6 5 11>
-<name "イエル" "!CA1339">
-「魔法使い協会の暗部ですね」
+<name "Elle" "!CA1339">
+"The dark side of the Wizard's Guild."
 #
-<name "ラズロック">
-「まさしくな」
+<name "Lazlocke">
+"Precisely."
 #
 <sprite "ta03a16.iph" 2 4 12>
-<name "ヴィオラ" "!BA1423">
-「だから、この辺りの話は極秘中の極秘。
-　本気で協会から暗殺されるから、公言しないよう
-　に」
+<name "Viola" "!BA1423">
+"Which is why what we're talking about is strictly
+ top secret. Seriously. Don't talk about it or the
+ Guild will send assassins after you."
 #
 <sprite "ta02a09.iph" 6 5 12>
-<name "イエル" "!CA1340">
-「は、はい。
-　えっと……しばらくは、協会の仕事をやったり、
-　魔法学園で教師をやったりと活動を続けるんです
-　ね」
+<name "Elle" "!CA1340">
+"Y-Yes, ma'am.
+ Um... For a while, you kept working for the Guild
+ and as a teach at the magic school."
 #
-<name "ラズロック">
-「ああ、ちなみに協会の仕事と言っても、エロだけ
-　じゃないぞ。
-　ちゃんと外交とか、研究とか色々とやっていたぞ」
+<name "Lazlocke">
+"Yeah, and by the way, my work for the Guild 
+ wasn't just sex. I did a lot of diplomacy,
+ research, and other stuff."
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "ヴィオラ" "!BA1424">
-「それなりに偉い地位に居たのよ」
+<name "Viola" "!BA1424">
+"He was respectable enough."
 #
 <sprite "ta02a00.iph" 6 5 12>
-<name "イエル" "!CA1341">
-「今とは違うんですね。
-　そして戦争です。
-　クインズベル王国とパズール王国の戦争が勃発し
-　ました」
+<name "Elle" "!CA1341">
+"Totally different from now.
+ And then the war broke out between Queensbell and
+ Bazur."
 #
 <removesprite -1 11>
 <background "ev065a0.iph" 10>
-<name "ラズロック">
-「パズール王国の目的は、協会勢力の一掃か吸収だっ
-　たから、協会はクインズベル王国に協力したんだ」
+<name "Lazlocke">
+"Bazur was out to capture or wipe out the Guild's
+ influence, so the Guild allied with Queensbell."
 #
-<name "イエル" "!CA1342">
-「師匠の大活躍シーンですね」
+<name "Elle" "!CA1342">
+"It was a great success story for my master."
 #
-<name "ヴィオラ" "!BA1425">
-「そ、そうね」
+<name "Viola" "!BA1425">
+"I-I suppose."
 #
-<name "イエル" "!CA1343">
-「あの、どうしてテレているんですか？」
+<name "Elle" "!CA1343">
+"Um, what are you blushing for?"
 #
-<name "ヴィオラ" "!BA1426">
-「気にしないで」
+<name "Viola" "!BA1426">
+"Don't worry about it."
 #
 <background "bg002a0.iph" 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "イエル" "!CA1344">
-「その後、出奔と……」
+<name "Elle" "!CA1344">
+"After that, he fled."
 #
 <removesprite -1 11>
 <sprite "ta03a34.iph" 2 4 11>
 <sprite "ta02a04.iph" 6 5 11>
-<name "ヴィオラ" "!BA1427">
-「それなりに偉かったから、協会は大慌てよ」
+<name "Viola" "!BA1427">
+"Because he was so important, the Guild was in a
+ panic."
 #
-<name "ラズロック">
-「色々と考える事がありまして……」
+<name "Lazlocke">
+"I had a lot on my mind."
 #
 <sprite "ta02a00.iph" 6 5 12>
-<name "イエル" "!CA1345">
-「一年後、ソシエットさんに発見され、協会長直々
-　に連れ戻されると……」
+<name "Elle" "!CA1345">
+"A year later, he was found by Soshiette and
+ brought back to the Guild president."
 #
-<name "ラズロック">
-「ボコボコにされました」
+<name "Lazlocke">
+"Battered and bruised."
 #
 <sprite "ta02a06.iph" 6 5 12>
-<name "イエル" "!CA1346">
-「協会に戻った後、ローリアの街の郊外に移り住み、
-　三年ほどのんびりとした生活を過ごすと」
+<name "Elle" "!CA1346">
+"After returning to the Guild, he moved to the
+ outskirts of Loria and lived an uneventful life
+ for the next three years."
 #
 <sprite "ta03a00.iph" 2 4 12>
-<name "ヴィオラ" "!BA1428">
-「隠居生活ね」
+<name "Viola" "!BA1428">
+"Retirement."
 #
-<name "ラズロック">
-「あはは……」
+<name "Lazlocke">
+"Hahaha..."
 #
 <sprite "ta02a00.iph" 6 5 12>
-<name "イエル" "!CA1347">
-「そして、セリスとの運命の出会いがあるわけです
-　ね」
+<name "Elle" "!CA1347">
+"And that's when he had the fateful encounter
+ with Celes."
 #
-<name "ラズロック">
-「いや、別に運命ではないと思うが……
-　色々と刺激になったのは事実だ」
+<name "Lazlocke">
+"Well, I don't know if I'd call it fateful.
+ Although it certainly did kick a lot of things
+ off."
 #
 <sprite "ta03a01.iph" 2 4 12>
-<name "ヴィオラ" "!BA1429">
-「そうね」
+<name "Viola" "!BA1429">
+"Indeed."
 #
 <sprite "ta02a09.iph" 6 5 12>
-<name "イエル" "!CA1349">
-「なるほど……
-　セリスの師匠、ラズロック様の歴史を拝聴いたし
-　ました。
-　ありがとうございます」
+<name "Elle" "!CA1349">
+"I see.
+ Thank you very much for listening to the entire
+ history of Celes's master, the great Lazlocke."
 #
-<name "ラズロック">
-「いえいえ……」
+<name "Lazlocke">
+"No, no."
 #
 <removesprite 2 11>
 <removesprite -1 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA1350">
-「お開きの前に質問ですが……」
+<name "Elle" "!CA1350">
+"One more question before we end things."
 #
 <sprite "ta02a04.iph" 4 4 12>
-<name "イエル" "!CA1351">
-「師匠とエロい事をしてからセリスと出会うまでに
-　四年ありますが、その間に師匠と進展はありまし
-　たか？」
+<name "Elle" "!CA1351">
+"In the four years between having sex with my
+ master and meeting Celes, did you make any
+ progress with her in all that time?"
 #
-<name "ラズロック">
-「いや、まったく。
-　逆に良い友人関係にはなれたと思っているが……」
+<name "Lazlocke">
+"No, none at all.
+ Although I do think we've developed a good
+ friendship."
 #
 <removesprite -1 11>
 <sprite "ta03a35.iph" 4 4 11>
-<name "ヴィオラ" "!BA1430">
-「そ、そうね。
-　私は……その、色々と、不満だったけど」
+<name "Viola" "!BA1430">
+"I-I suppose.
+ I... um, am not totally satisfied with certain
+  things though."
 #
-<name "ラズロック">
-「え？」
+<name "Lazlocke">
+"Huh?"
 #
 <removesprite -1 11>
-　見詰め合う俺とヴィオラ。
+We look at each other.
 #
 <sprite "ta02a09.iph" 4 4 11>
-<name "イエル" "!CA1352">
-「以上！
-　お開きです！」
+<name "Elle" "!CA1352">
+"That's it!
+ All done!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

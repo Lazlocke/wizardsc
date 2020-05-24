@@ -1,13 +1,14 @@
 <music 37>
 <background "ev081a0.iph" 10>
-<name "ルィンス" "!NB0041">
-「ご主人様ぁ♪」
+<name "Lynth" "!NB0041">
+"Master.♪"
 #
-<name "ソシエット" "!DA0986">
-「……ほう。
-　この私とキャラを被せてくるとは、許せません」
+<name "Soshiette" "!DA0986">
+"...Oh?
+ I will not accept this character overlapping with
+ my schtick."
 #
-<name "ラズロック">
-「こらこら、変な感じに盛り上がるな」
+<name "Lazlocke">
+"Hey. Don't pick weird fights."
 #
 \x78\x78

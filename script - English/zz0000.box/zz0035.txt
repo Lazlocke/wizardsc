@@ -1,150 +1,155 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta15a00.iph" 4 4 11>
-<name "プシェル" "!SA9056">
-「ふふふ。
-　こんにちは、プシェルです」
+<name "Puschel" "!SA9056">
+"Heheheh.
+ Hello, Puschel here."
 #
 <sprite "ta15a04.iph" 4 4 12>
-<name "プシェル" "!SA9057">
-「いえーい」
+<name "Puschel" "!SA9057">
+"Yay!"
 #
 <sprite "ta15a21.iph" 4 4 12>
-<name "プシェル" "!SA9058">
-「せっかく自分のコーナーを貰ったのだから、何か
-　しないといけないじゃない。
-　サービス精神は忘れて、な・い・わ・よ♪」
+<name "Puschel" "!SA9058">
+"Since I managed to get my very own corner,
+ I have to do something special.
+ I haven't forgotten my fanservice spirit.♪"
 #
 <sprite "ta15a05.iph" 4 4 12>
-<name "プシェル" "!SA9059">
-「さて、このコーナーでは、ローリアの街に居る魔
-　法使いに関して説明するわね」
+<name "Puschel" "!SA9059">
+"So, I'll use this corner to explain the basics
+ about wizards in Loria."
 #
 <sprite "ta15a13.iph" 4 4 12>
-<name "プシェル" "!SA9060">
-「説明と言っても、大した事は言えないんだけどね」
+<name "Puschel" "!SA9060">
+"I say explain, but there's not actually much to
+ go over."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9061">
-「まず……ここローリアの街には魔法使い協会本部
-　があるわ」
+<name "Puschel" "!SA9061">
+"First, here in Loria is where the Wizard's Guild
+ headquarters is located."
 #
 <sprite "ta15a03.iph" 4 4 12>
-<name "プシェル" "!SA9062">
-「だから、魔法使いの中心都市みたいな感じになっ
-　てるわけ」
+<name "Puschel" "!SA9062">
+"So it's kind of like the central city for
+ wizards."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9063">
-「魔法使いは千人に一人って言われているけど、こ
-　の街には千人以上の魔法使いが存在するわ。
-　凄いわよね」
+<name "Puschel" "!SA9063">
+"They say that only one in a thousand is a wizard,
+ but there are more than a thousand wizards in
+ this city alone.
+ It's kind of incredible."
 #
 <sprite "ta15a05.iph" 4 4 12>
-<name "プシェル" "!SA9064">
-「少し例を挙げると……
-　協会長のルーン、宮廷魔法使いのヴィオラは有名
-　よね」
+<name "Puschel" "!SA9064">
+"Just to give a few famous examples, there's 
+ Rune, the president of the Guild, and Viola, a
+ court wizard."
 #
 <sprite "ta15a21.iph" 4 4 12>
-<name "プシェル" "!SA9065">
-「それに、眠れる子猫こと、ラズロック＝アルトホ
-　ーン。
-　私はただのグータラだと思っているけどね」
+<name "Puschel" "!SA9065">
+"Also, the sleeping kitty, Lazlocke Althorn.
+ As for me, I'm just a lazybones."
 #
 <sprite "ta15a25.iph" 4 4 12>
-<name "プシェル" "!SA9066">
-「それに野に下ったヘンリエッタ＝ベベルズ。
-　大陸でも指折りの四人よね。
-　流石の私もこんな人達を敵に回したいとは思わな
-　いわ」
+<name "Puschel" "!SA9066">
+"Henrietta Bevels also left the wizard life here.
+ Those four are some of the best on the whole
+ continent. Even I don't want to make enemies of
+ them."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9067">
-「この四人をＡランクとすると、他に十人ぐらいは
-　Ａランクが居るわね。
-　まあ、大抵が自室に篭って変な研究ばっかりして
-　いるんだけど」
+<name "Puschel" "!SA9067">
+"If you call those four people A-ranked, there are
+ about ten others at a similar level.
+ Well, most of them stay shut up in their homes
+ and just do research."
 #
 <sprite "ta15a21.iph" 4 4 12>
-<name "プシェル" "!SA9069">
-「でもって、Ａランクに次ぐＢランクが山ほど居る
-　わけ」
+<name "Puschel" "!SA9069">
+"But, you know, there's a bunch of B-ranked people
+ under the A-rank."
 #
 <sprite "ta15a26.iph" 4 4 12>
-<name "プシェル" "!SA9070">
-「私ももちろん、このＢランク。
-　自惚れたりしないわよ」
+<name "Puschel" "!SA9070">
+"I, of course, am B-rank.
+ I'm not too proud to admit that."
 #
 <sprite "ta15a25.iph" 4 4 12>
-<name "プシェル" "!SA9071">
-「他に、協会長の秘書や、軍で戦闘教官などをやっ
-　ているソシエットなどが有名ね。
-　後はヴィオラ以外の宮廷魔法使いかしら」
+<name "Puschel" "!SA9071">
+"Other well known people include the secretary 
+ of the Guild, and Soshiette the combat 
+ instructor. Probably the rest of the court 
+ wizards besides Viola, I guess."
 #
 <sprite "ta15a27.iph" 4 4 12>
-<name "プシェル" "!SA9072">
-「ヘンドリクやレッキーノ、イングウェイ、リノも
-　ギリギリＢランクね」
+<name "Puschel" "!SA9072">
+"Hendrick, Recchino, Ingway, and Ren are B-rank
+ too, but only just barely."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9074">
-「レッキーノやイングウェイは魔法使いよりも、格
-　闘家や弓使いとしての能力の方が高いんだけど、
-　魔法の実力もそれなりなのよ」
+<name "Puschel" "!SA9074">
+"Recchino and Ingway are more of the martial
+ artist and archer types, but they're skilled
+ enough with magic too."
 #
 <sprite "ta15a25.iph" 4 4 12>
-<name "プシェル" "!SA9075">
-「Ｂランクがどれぐらいかと言うと、戦場に連れて
-　行けるレベルかしら。
-　Ｃランクは、まだまだ勉強中」
+<name "Puschel" "!SA9075">
+"B-rank is the level where you can take it to the
+ battlefield.
+ C-rank is still studying."
 #
 <sprite "ta15a21.iph" 4 4 12>
-<name "プシェル" "!SA9076">
-「魔法図書館の職員とか、協会の事務員とかね」
+<name "Puschel" "!SA9076">
+"That's people like magic library staff, Guild
+ staff, so on and so forth."
 #
 <sprite "ta15a25.iph" 4 4 12>
-<name "プシェル" "!SA9077">
-「ああ、魔法学園の生徒はＣランク以下だから、間
-　違えないように」
+<name "Puschel" "!SA9077">
+"Oh, and students at the magic school are below
+ even C-rank, so don't get that wrong."
 #
 <sprite "ta15a05.iph" 4 4 12>
-<name "プシェル" "!SA9078">
-「とまあ、こんな感じにこの街には魔法使いがたく
-　さん居るわけよ」
+<name "Puschel" "!SA9078">
+"Well, it's because there are so many wizards in
+ the city that it's like this."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9079">
-「だから、魔法大会とか、武術大会が大盛況」
+<name "Puschel" "!SA9079">
+"That's why the wizard tournaments and martial 
+ arts tournaments are so popular."
 #
 <sprite "ta15a06.iph" 4 4 12>
-<name "プシェル" "!SA9080">
-「変な研究も盛んで、変わった事が日常茶飯事」
+<name "Puschel" "!SA9080">
+"There's also a lot of weird research that goes
+ on, and strange things happen every day."
 #
 <sprite "ta15a04.iph" 4 4 12>
-<name "プシェル" "!SA9082">
-「街の人達も、奇妙な事には慣れちゃってるの」
+<name "Puschel" "!SA9082">
+"People in the city have gotten used to odd
+ things."
 #
 <sprite "ta15a21.iph" 4 4 12>
-<name "プシェル" "!SA9084">
-「地方では、まだまだ魔法使いは恐れられる存在な
-　んだけど、この街ほど魔法使いが自由なのも珍し
-　いわね」
+<name "Puschel" "!SA9084">
+"In rural areas, wizards are still feared, so it's
+ unusual for wizards to be as free as they are 
+ here."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9085">
-「だからこそ、魔法使い協会があるのかもしれない
-　けど」
+<name "Puschel" "!SA9085">
+"That may also be why the Wizard's Guild is here."
 #
 <sprite "ta15a27.iph" 4 4 12>
-<name "プシェル" "!SA9086">
-「と、もう少しお話がしたかったけど、時間が無い
-　みたい」
+<name "Puschel" "!SA9086">
+"Well, there's more I wanted to cover, but it
+ looks like we're out of time."
 #
 <sprite "ta15a00.iph" 4 4 12>
-<name "プシェル" "!SA9087">
-「今回はここまで。
-　また、別の場所でお会いしましょう」
+<name "Puschel" "!SA9087">
+"That's all for now.
+ See you another time, another place."
 #
 <removesprite -1 11>
 \x2B\x78\x78

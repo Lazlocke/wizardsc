@@ -1,329 +1,338 @@
 <music 10>
 <background "ev028a0.iph" 11>
-<name "ヴィオラ" "!BA1364">
-「はい。
-　魔力の特性と魔法使いの花嫁２です」
+<name "Viola" "!BA1364">
+"Okay, this is part two on the properties of mana
+ and a wizard's bride."
 #
-<name "ヴィオラ" "!BA1365">
-「ここでは、ラズロックの力“魔法使いの花嫁”に
-　関してお話したいと思います」
+<name "Viola" "!BA1365">
+"Here, I'd like to talk about Lazlocke's power,
+ known as a wizard's bride."
 #
-<name "ヴィオラ" "!BA1366">
-「口調は引き続き、教師口調のままで行きます」
+<name "Viola" "!BA1366">
+"I'll continue as if I was a teacher."
 #
-<name "イエル" "!CA1270">
-「質問です」
+<name "Elle" "!CA1270">
+"Question."
 #
-<name "ヴィオラ" "!BA1367">
-「はい。
-　イエルさん」
+<name "Viola" "!BA1367">
+"Yes, Elle?"
 #
-<name "イエル" "!CA1271">
-「どうして、教師口調なんですか？
-　私は普段の喋り方でも構いませんが……」
+<name "Elle" "!CA1271">
+"Why like a teacher?
+ I'm okay with how you talk normally..."
 #
-<name "ヴィオラ" "!BA1368">
-「普段の私は、こんな事を丁寧に説明したりしない
-　からよ」
+<name "Viola" "!BA1368">
+"Normally, I don't discuss this kind of thing
+ with anywhere near as much patience."
 #
-<name "イエル" "!CA1272">
-「す、すみませんでした……
-　よろしくお願いします」
+<name "Elle" "!CA1272">
+"I-I'm sorry.
+ Please go ahead."
 #
-<name "ヴィオラ" "!BA1369">
-「はい、一緒に学んでいきましょう」
+<name "Viola" "!BA1369">
+"Okay, let's review this together."
 #
-<name "ヴィオラ" "!BA1370">
-「さて、“魔法使いの花嫁”ですが、簡単に言えば
-　常人とはケタ違いの魔力収集能力と、貯蔵能力を
-　持つ人間の事です」
+<name "Viola" "!BA1370">
+"Now then, a wizard's bride is, put simply,
+ somebody with a massively increased ability to
+ gather and store mana compared to other people."
 #
-<name "イエル" "!CA1273">
-「魔法使いからすれば、羨ましいの一言です」
+<name "Elle" "!CA1273">
+"From a wizard's point of view, it's a very
+ enviable thing."
 #
-<name "ヴィオラ" "!BA1371">
-「その“魔法使いの花嫁”ですが、その力は以下の
-　ようになっています」
+<name "Viola" "!BA1371">
+"A wizard's bride has the following powers."
 #
-・魔力の略奪と譲渡
-・所持限界魔力量の増加
-・魔力コントロール
-・魔力読み取り
+-Take and transfer mana.
+-Increase mana capacity.
+-Control mana.
+-Read mana.
 #
-<name "ヴィオラ" "!BA1372">
-「どの場合も、身体的接触が必要となります」
+<name "Viola" "!BA1372">
+"Physical contact is required in all cases.
 #
-<name "イエル" "!CA1274">
-「エッチな事をするんですね」
+<name "Elle" "!CA1274">
+"You mean sex."
 #
-<name "ヴィオラ" "!BA1373">
-「実は、手と手など、同じ部分を接触させれば可能
-　です」
+<name "Viola" "!BA1373">
+"Actually, it's possible just by touching, even
+ hand to hand."
 #
-<name "イエル" "!CA1275">
-「ええ！
-　そうなんですか！」
+<name "Elle" "!CA1275">
+"Eeh!?
+ Seriously!?"
 #
-<name "ヴィオラ" "!BA1374">
-「ですが、ラズロックは効率面から性的接触を中心
-　に行なっています」
+<name "Viola" "!BA1374">
+"However, Lazlocke focuses on sexual contact for
+ efficiency's sake."
 #
-<name "イエル" "!CA1276">
-「どれぐらい、効率が違うんですか？」
+<name "Elle" "!CA1276">
+"How much more efficient is it?"
 #
-<name "ヴィオラ" "!BA1375">
-「１０００倍ぐらいです」
+<name "Viola" "!BA1375">
+"About a thousand times."
 #
-<name "イエル" "!CA1277">
-「それって………………手と手を繋いで１０００日
-　掛けて渡す魔力量を、一晩のエッチで渡すと言う
-　事ですか？」
+<name "Elle" "!CA1277">
+"Meaning... You'd have to hold hands for a
+ thousand days to get as much mana as one night of
+ sex?"
+#
+<name "Viola" "!BA1376">
+"Correct."
 #
-<name "ヴィオラ" "!BA1376">
-「そうです」
+<name "Elle" "!CA1279">
+"Hmmm...
+ Sex is definitely the better way then."
 #
-<name "イエル" "!CA1279">
-「むう、確かにそれならエッチな事をしますね」
+<name "Viola" "!BA1377">
+"So let's go over each power in turn.
+ First, steal and transfer mana.
+ That's easy enough to understand."
+#
+<name "Elle" "!CA1280">
+"He can take mana from someone, or give it to
+ them."
+#
+<name "Viola" "!BA1378">
+"Correct.
+ Next is increasing the amount of mana one can
+ hold."
 #
-<name "ヴィオラ" "!BA1377">
-「では、個々に説明していきましょう。
-　まずは“魔力の略奪と譲渡”ですが……
-　これは解りやすいですね」
+<name "Elle" "!CA1281">
+"That's also easy to understand.
+ He increased the amount of mana I can possess."
+#
+<name "Viola" "!BA1379">
+"That's right.
+ Then... controlling mana."
+#
+<name "Elle" "!CA1282">
+"I don't understand that well."
+#
+<name "Viola" "!BA1380">
+"It means that he's able to amplify mana in his
+ recipient to increase their power, or agitate it
+ to make them unable to use magic for a time."
 #
-<name "イエル" "!CA1280">
-「相手から魔力を奪ったり、相手に魔力を渡したり
-　するわけですね」
+<name "Elle" "!CA1283">
+"He can do that?"
+#
+<name "Viola" "!BA1381">
+"Yes. It takes about three days to be able to
+ achieve that effect.
+ Disabling someone's magic lasts for about a
+ month."
 #
-<name "ヴィオラ" "!BA1378">
-「そうです。
-　では次の“所持限界魔力量の増加”ですが……」
+<name "Elle" "!CA1284">
+"Ooh..."
 #
-<name "イエル" "!CA1281">
-「これも解りやすいですね。
-　私の持てる魔力量を増やしてくれました」
+<name "Viola" "!BA1445">
+"However, it's pretty intimate and erotic... ahem.
+ Apparently it's quite difficult."
 #
-<name "ヴィオラ" "!BA1379">
-「そうでしたね。
-　では……“魔力コントロール”に関してです」
+<name "Elle" "!CA1285">
+"It's not so easy, huh?"
 #
-<name "イエル" "!CA1282">
-「これは良く解りません」
+<name "Viola" "!BA1383">
+"If it was, we would have figured it out a long
+ time ago."
 #
-<name "ヴィオラ" "!BA1380">
-「これは、相手の中の魔力を調整して魔法の効果を
-　上げたり、魔力を混乱させてしばらく魔法を使え
-　なくさせる事です」
+<name "Viola" "!BA1384">
+"Now then, the last power is reading mana.
+ It's the act of reading the history of mana."
 #
-<name "イエル" "!CA1283">
-「そんな事ができるんですか？」
+<name "Viola" "!BA1385">
+"He can rob someone of basically all their mana,
+ and reconstruct it inside himself.
+ By reproducing the mana with how it's been used,
+ he can cast the same spells as its owner."
 #
-<name "ヴィオラ" "!BA1381">
-「はい。
-　効果を上げるのは三日ほど。
-　魔法を使えなくさせるのは一ヶ月ほど持続します」
+<name "Elle" "!CA1286">
+"So he can know what spells a wizard has used."
 #
-<name "イエル" "!CA1284">
-「へー……」
+<name "Viola" "!BA1386">
+"That's right.
+ This is the power that has contributed greatly
+ to the Guild's recent expansion of influence."
 #
-<name "ヴィオラ" "!BA1445">
-「ですが、かなり細かくエロエロ……ごほん。
-　かなり難しいらしいです」
+<name "Elle" "!CA1287">
+"They capture female wizards who go against the
+ Guild, and then... read them like a book?"
 #
-<name "イエル" "!CA1285">
-「そう便利じゃないんですね」
+<name "Viola" "!BA1387">
+"Yes. Thanks to that, Guild research always has
+ tons to do. I've also benefitted greatly from
+ that."
 #
-<name "ヴィオラ" "!BA1383">
-「便利なら、とっくにやっているでしょう」
+<name "Elle" "!CA1288">
+"You learned something?"
 #
-<name "ヴィオラ" "!BA1384">
-「さて、最後の“魔力読み取り”ですが……
-　これは、魔力の履歴を読む行為です」
+<name "Viola" "!BA1388">
+"Yes. There was a group that was doing similar
+ research to me, but approaching it in a different
+ way. I was able to find out without any real
+ effort what wasn't going to work."
 #
-<name "ヴィオラ" "!BA1385">
-「相手から魔力を根こそぎ奪い、それを自分の体内
-　で再構成。
-　これまでやってきた魔力の動きを再現する事で、
-　どんな魔法を使ってきたかを知る方法です」
+<name "Elle" "!CA1289">
+"Still...
+ A wizard's bride is an incredible thing."
 #
-<name "イエル" "!CA1286">
-「魔法使いが、どんな魔法を使っていたかを知る事
-　ができるんですね」
+<name "Viola" "!BA1389">
+"It is. Because it's such a terrifying power,
+ that's why it's kept top secret and he's kept
+ under close watch by the Guild."
 #
-<name "ヴィオラ" "!BA1386">
-「そうです。
-　この力は、協会の勢力拡大に大きく貢献しました」
+<name "Viola" "!BA1390">
+"Naturally, that means he doesn't get to find his
+ own happiness."
 #
-<name "イエル" "!CA1287">
-「協会に反抗する女の魔法使いを捕まえては、読み
-　取り……読み取り……ですか」
+<name "Elle" "!CA1290">
+"It's a good thing Celes's master was a man then,
+ huh?"
 #
-<name "ヴィオラ" "!BA1387">
-「ええ、お陰でその協会の研究はフル回転状態。
-　私もその恩恵に色々と授かりました」
+<name "Viola" "!BA1391">
+"Yes, but there are problems with that too."
 #
-<name "イエル" "!CA1288">
-「授かったんですか？」
+<name "Elle" "!CA1291">
+"What are they?"
 #
-<name "ヴィオラ" "!BA1388">
-「ええ、私と同じような研究をしている結社があっ
-　て、まあ、私とは違う方向でアプローチしていて、
-　それが無駄だって解っただけですが」
+<name "Viola" "!BA1392">
+"Normally, when a wizard's bride gets pregnant and
+ gives birth, their power weakens."
 #
-<name "イエル" "!CA1289">
-「ですが……
-“魔法使いの花嫁”って凄いんですね」
+<name "Viola" "!BA1393">
+"However, a man can't get pregnant or give birth."
 #
-<name "ヴィオラ" "!BA1389">
-「そうですね。
-　その凄い力が災いして、“魔法使いの花嫁”は一
-　人の魔法使いが、一つの結社に独占され秘匿され
-　ます」
+<name "Elle" "!CA1293">
+"Yeah."
 #
-<name "ヴィオラ" "!BA1390">
-「当然、幸せとは無縁の生活になるわけですが……」
+<name "Viola" "!BA1394">
+"So his power will never weaken."
 #
-<name "イエル" "!CA1290">
-「セリスの師匠が男性なのは、すっごく良かったん
-　ですね」
+<name "Elle" "!CA1295">
+"Isn't that a good thing?"
 #
-<name "ヴィオラ" "!BA1391">
-「そうですね。
-　でも、悪い点もあります」
+<name "Viola" "!BA1395">
+"I explained in the lecture about mana, but it's
+ bad if mana exceeds a certain concentration.
+ It poisons the body and the mind."
 #
-<name "イエル" "!CA1291">
-「どんな点なんですか？」
+<name "Elle" "!CA1296">
+"So he has to keep expelling mana forever?
+ Physically, with someone else's help to take the
+ mana."
 #
-<name "ヴィオラ" "!BA1392">
-「本来の“魔法使いの花嫁”は、妊娠、出産を繰り
-　返す事でその能力を衰退させていきます」
+<name "Viola" "!BA1396">
+"That's where we are right now."
 #
-<name "ヴィオラ" "!BA1393">
-「ですが、男性は妊娠、出産ができません」
+<name "Viola" "!BA1397">
+"However, there's a limit to that too."
 #
-<name "イエル" "!CA1293">
-「そうですね」
+<name "Elle" "!CA1297">
+"How so?"
 #
-<name "ヴィオラ" "!BA1394">
-「ですので、その能力を衰退させる事が無いのです」
+<name "Viola" "!BA1398">
+"Even if a wizard uses up all the mana inside
+ their body, their mana will recover."
 #
-<name "イエル" "!CA1295">
-「良い事じゃないんですか？」
+<name "Elle" "!CA1298">
+"Right."
 #
-<name "ヴィオラ" "!BA1395">
-「魔力の所で説明しましたが、魔力は一定濃度を越
-　えると良い事はありませんし、精神や肉体に悪影
-　響を及ぼします」
+<name "Viola" "!BA1399">
+"Why is that?"
 #
-<name "イエル" "!CA1296">
-「延々と、魔力を吐き出し続ければ良いのでは？
-　体力的には魔力で補佐して」
+<name "Elle" "!CA1299">
+"Well, um..."
 #
-<name "ヴィオラ" "!BA1396">
-「現状がその段階です」
+<name "Viola" "!BA1400">
+"It's because even if you use all of it up, a tiny
+ amount is still inside you.
+ You could say that it's a part of you."
 #
-<name "ヴィオラ" "!BA1397">
-「ですが、それも限界があります」
+<name "Viola" "!BA1401">
+"That bit of mana that's a part of you wants to
+ keep the mana inside your body at a consistent
+ level, and will start pulling in mana from 
+ outside your body."
 #
-<name "イエル" "!CA1297">
-「そうなんですか？」
+<name "Elle" "!CA1300">
+"Huh?"
 #
-<name "ヴィオラ" "!BA1398">
-「魔法使いが自分の体内の魔力を全て使っても、魔
-　力が回復しますね」
+<name "Viola" "!BA1402">
+"When you remove mana from a place that had a
+ stable amount, mana wants to gather again to
+ reach the same amount that there was before."
 #
-<name "イエル" "!CA1298">
-「ええ」
+<name "Elle" "!CA1301">
+"I see."
 #
-<name "ヴィオラ" "!BA1399">
-「それはなぜでしょう？」
+<name "Viola" "!BA1403">
+"Fortunately, you can get rid of that mana too,
+ but the amount of mana that's a part of Lazlocke
+ is just too much."
 #
-<name "イエル" "!CA1299">
-「言われてみれば……」
+<name "Elle" "!CA1302">
+"Then..."
 #
-<name "ヴィオラ" "!BA1400">
-「それは、全ての魔力を使ったと言っても、微妙に
-　残っているからです。
-　こびり付いていると言っても良いでしょう」
+<name "Viola" "!BA1404">
+"He gathers more mana than he expels."
 #
-<name "ヴィオラ" "!BA1401">
-「そのこびり付いた魔力が、体内の魔力濃度を一定
-　にしようとして、外から魔力を集めるからです」
+<name "Elle" "!CA1303">
+"Ah..."
 #
-<name "イエル" "!CA1300">
-「え？」
+<name "Viola" "!BA1405">
+"He still has a long way to go before he's in real
+ trouble, but...
+ Right now, a lot of research is being done on how
+ to avoid the worst case scenario."
 #
-<name "ヴィオラ" "!BA1402">
-「魔力が存在し、一定濃度で安定した場所から魔力
-　を奪うと、そこにまた同じ濃度になろうと魔力が
-　集まるのです」
+<name "Elle" "!CA1304">
+"I hope they can find a treatment."
 #
-<name "イエル" "!CA1301">
-「なるほど」
+<name "Viola" "!BA1406">
+"Indeed. And another problem with it is because 
+ he's always absorbing mana around him, the 
+ strength and accuracy of nearby magic is 
+ dampened."
 #
-<name "ヴィオラ" "!BA1403">
-「その魔力を元に戻してくれるありがたい、こびり
-　付き魔力の量がラズロックの体内で大きくなり過
-　ぎてしまうのです」
+<name "Elle" "!CA1305">
+"That's not good..."
 #
-<name "イエル" "!CA1302">
-「すると……」
+<name "Viola" "!BA1407">
+"It's only natural. Because he's absorbing nearby
+ mana, there's less mana in the air around him."
 #
-<name "ヴィオラ" "!BA1404">
-「吐き出す魔力量よりも、集める魔力量の方が大き
-　くなって……」
+<name "Viola" "!BA1408">
+"In other words, the mana near him is always
+ fairly thin."
 #
-<name "イエル" "!CA1303">
-「あっ……」
+<name "Viola" "!BA1409">
+"That's why he lives on the edge of the city, and
+ tries to keep his distance from the Guild Tower."
 #
-<name "ヴィオラ" "!BA1405">
-「計算では、まだまだ先の話ですが……
-　現在、その回避方法の研究もなされています」
+<name "Elle" "!CA1306">
+"O-Oh, I see!"
 #
-<name "イエル" "!CA1304">
-「回避方法が見つかると良いですね」
+<name "Viola" "!BA1410">
+"That's the situation that Celes is learning magic
+ in. Which is probably why she's made so much
+ progress so quickly."
 #
-<name "ヴィオラ" "!BA1406">
-「そうですね。
-　あと……悪い点としては、自分の周囲の魔力を吸
-　収しているので、魔法の威力や精度が落ちる事で
-　しょうか」
+<name "Elle" "!CA1307">
+"O-Oh, I see."
 #
-<name "イエル" "!CA1305">
-「それは嬉しくない能力……」
+<name "Viola" "!BA1411">
+"In any case, that's the end of our second lecture
+ on mana and the power of a wizard's bride."
 #
-<name "ヴィオラ" "!BA1407">
-「当然、周囲の魔力を吸収していますから、その周
-　囲の魔力は薄くなってしまいます」
+<name "Viola" "!BA1412">
+"Thank you for sticking through to the end."
 #
-<name "ヴィオラ" "!BA1408">
-「つまり、ラズロックの周囲は、常に魔力が薄い状
-　態なのです」
+<name "Elle" "!CA1308">
+"Thank you very much."
 #
-<name "ヴィオラ" "!BA1409">
-「だから、彼は郊外に住居を構え、あまり協会塔に
-　近付かないようにしているのです」
-#
-<name "イエル" "!CA1306">
-「そ、そうだったんだ！」
-#
-<name "ヴィオラ" "!BA1410">
-「そんな状況下で、セリスは魔法の修行……
-　上達が早いのも納得と言うワケです」
-#
-<name "イエル" "!CA1307">
-「そ、そうだったのか……」
-#
-<name "ヴィオラ" "!BA1411">
-「ともかく、これで魔力の特性と魔法使いの花嫁２
-　は終了です」
-#
-<name "ヴィオラ" "!BA1412">
-「長々とお付き合い、ありがとうございました」
-#
-<name "イエル" "!CA1308">
-「ありがとうございました」
-#
-<name "ヴィオラ" "!BA1413">
-「では、またどこかで」
+<name "Viola" "!BA1413">
+"Well, see you again, sometime."
 #
 \x78\x78

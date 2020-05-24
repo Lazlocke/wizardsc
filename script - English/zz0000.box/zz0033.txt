@@ -1,78 +1,82 @@
 <music 25>
 <background "bg004a0.iph" 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "セリス" "!AA7255">
-「へいへい、ピッチ、リーリーリー」
+<name "Celes" "!AA7255">
+"Hey, hey, pitcher!
+ Lead! Lead! Lead!"
 #
 <removesprite -1 11>
 <sprite "ta02a16.iph" 4 4 11>
-<name "イエル" "!CA1384">
-「牽制っ！」
+<name "Elle" "!CA1384">
+"Pickoff!"
 #
 <removesprite -1 11>
 <sprite "ta07a06.iph" 4 4 11>
-<name "ジャッジマン" "!FA0378">
-「セーフ！」
+<name "Judgeman" "!FA0378">
+"Safe!"
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "セリス" "!AA7256">
-「へいへい、リーリーリー」
+<name "Celes" "!AA7256">
+"Hey, hey!
+ Lead! Lead! Lead!"
 #
 <removesprite -1 11>
 <sprite "ta02a16.iph" 4 4 11>
-<name "イエル" "!CA1385">
-「牽制っ！」
+<name "Elle" "!CA1385">
+"Pickoff!"
 #
 <removesprite -1 11>
 <sprite "ta07a06.iph" 4 4 11>
-<name "ジャッジマン" "!FA0379">
-「セーフ！」
+<name "Judgeman" "!FA0379">
+"Safe!"
 #
 <removesprite -1 11>
 <sprite "ta01a21.iph" 4 4 11>
-<name "セリス" "!AA7257">
-「へいへいへいへい、リーリーリー」
+<name "Celes" "!AA7257">
+"Hey, hey, hey, hey!
+ Lead! Lead! Lead!"
 #
 <removesprite -1 11>
 <sprite "ta02a32.iph" 4 4 11>
-<name "イエル" "!CA1386">
-「暴投っ！」
+<name "Elle" "!CA1386">
+"Wild pitch!"
 #
 <removesprite -1 11>
 <sprite "ta01a22.iph" 4 4 11>
-<name "セリス" "!AA7259">
-「ダッシュ＆二塁ゲット！」
+<name "Celes" "!AA7259">
+"Steal second!"
 #
 <removesprite -1 11>
 <sprite "ta02a37.iph" 4 4 11>
-<name "イエル" "!CA1387">
-「しまった」
+<name "Elle" "!CA1387">
+"Damn!"
 #
 <removesprite -1 11>
 <sprite "ta01a15.iph" 4 4 11>
-<name "セリス" "!AA7260">
-「一点先取ね。
-　じゃあ、交替」
+<name "Celes" "!AA7260">
+"One point up.
+ Okay, switch."
 #
 <removesprite -1 11>
 <sprite "ta02a04.iph" 4 4 11>
-<name "イエル" "!CA1388">
-「うん。
-　リーリーリー……」
+<name "Elle" "!CA1388">
+"Okay.
+ Lead, lead, lead..."
 #
 <removesprite -1 11>
-<name "ラズロック">
-「……何をやっているんだ？」
+<name "Lazlocke">
+"...What are you doing?"
 #
 <sprite "ta01a15.iph" 4 4 11>
-<name "セリス" "!AA7261">
-「ベースボールです」
+<name "Celes" "!AA7261">
+"Playing baseball."
 #
-<name "ラズロック">
-「そうか……
-　俺はベースボールの事を良く知らないが、きっと
-　牽制のみで成立するゲームじゃないと思うぞ」
+<name "Lazlocke">
+"I see...
+ I don't know much about baseball, but I'm pretty
+ sure there's more to the game than heckling the
+ pitcher."
 #
 <removesprite -1 11>
 \x2B\x78\x78

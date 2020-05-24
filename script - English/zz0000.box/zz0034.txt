@@ -1,74 +1,74 @@
 <music 2>
 <background "bg013a0.iph" 11>
 <sprite "ta16a00.iph" 4 4 11>
-<name "若い男" "!SB9009">
-「ふふふ……」
+<name "Young Man" "!SB9009">
+"Heheh..."
 #
-<name "若い男" "!SB9010">
-「立ち絵まであるこの俺が何者か！
-　みんな知りたいだろう」
+<name "Young Man" "!SB9010">
+"Who is this who has a stand image!?
+ You all want to know!"
 #
-<name "若い男" "!SB9011">
-「教えてやろう！」
+<name "Young Man" "!SB9011">
+"I shall tell you!"
 #
-<name "若い男" "!SB9013">
-「ただの通行人Ａだ！」
+<name "Young Man" "!SB9013">
+"Just Passerby A!"
 #
-<name "若い男" "!SB9014">
-「おおっと、ただの通行人Ａに立ち絵がある筈が無
-　いと思っただろう」
+<name "Young Man" "!SB9014">
+"Aha! You probably thought there's no way that
+ Passerby A would have a stand image!"
 #
-<name "若い男" "!SB9016">
-「だが、あるのだ！」
+<name "Young Man" "!SB9016">
+"But I do!"
 #
-<name "若い男" "!SB9017">
-「なぜか！」
+<name "Young Man" "!SB9017">
+"Why!?"
 #
-<name "若い男" "!SB9018">
-「それは、俺が特別！
-　そう、スペシャルだから！」
+<name "Young Man" "!SB9018">
+"Because I'm special!
+ Yes, I'm special!"
 #
-<name "若い男" "!SB9019">
-「その証拠に、細かく設定が決まっている。
-　名前はヘイル＝ホード。
-　年齢二十七歳！」
+<name "Young Man" "!SB9019">
+"The proof is in the detailed settings!
+ My name is Hale Hord, twenty seven years old!"
 #
-<name "若い男" "!SB9020">
-「妻ラーフ。
-　子供なし。
-　結婚生活三年目」
+<name "Young Man" "!SB9020">
+"My wife is Ralhu.
+ No children.
+ Married three years."
 #
-<name "若い男" "!SB9021">
-「職業、雑貨屋従業員！
-　将来の夢、自分の店を持つ事。
-　口癖、俺に良い考えがある」
+<name "Young Man" "!SB9021">
+"Job, general store employee!
+ My future dream is to own my own store.
+ My catchphrase is 'I have a good idea.'"
 #
-<name "若い男" "!SB9022">
-「現在、妻に黙ってこっそりとやっている農業の方
-　の実入りが良くて、転職も考え中」
+<name "Young Man" "!SB9022">
+"Right now, I'm keeping it a secret that I'm
+ learning agriculture from my wife because I'm
+ thinking about changing jobs."
 #
-<name "若い男" "!SB9023">
-「どうだ！
-　そこらのレッキーノやリノよりも深い設定！」
+<name "Young Man" "!SB9023">
+"How about that!?
+ I've got more of a backstory than Recchino or
+ Reno!"
 #
-<name "若い男" "!SB9024">
-「こんな俺がどうして通行人に甘んじているかわか
-　るか！」
+<name "Young Man" "!SB9024">
+"So why am I resigned to just be a passerby!?"
 #
-<name "セリス" "!AA9155">
-「私と関係無いから？」
+<name "Celes" "!AA9155">
+"Because you have nothing to do with me?"
 #
-<name "若い男" "!SB9026">
-「その通り！
-　しくしく……」
+<name "Young Man" "!SB9026">
+"That's correct!
+ Sob..."
 #
-<name "セリス" "!AA9156">
-「実際は酔っ払いとして使用する予定でしたが、酔っ
-　払いだけ立ち絵があるのは変だとなってボツになっ
-　たのです」
+<name "Celes" "!AA9156">
+"Actually, it was supposed to be used for a drunk,
+ but then it was weird to have a stand image just
+ for some random drunkard."
 #
-<name "若い男" "!SB9027">
-「悔しい……」
+<name "Young Man" "!SB9027">
+"This sucks..."
 #
 <removesprite -1 11>
 \x2B\x78\x78
