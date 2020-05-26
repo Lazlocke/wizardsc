@@ -1,630 +1,630 @@
 //entry 0 -----------------------
-ラズロックの妻ＥＮＤ
+Ending - Lazlocke's Wife
 zz1000.box
 ev044a0.iph
-幸せに暮らしています。
+Happily ever after.
 //entry 1 -----------------------
-弟子継続ＥＮＤ１
+Ending - Apprenticeship
 zz1000.box
 ev045a0.iph
-まあ、なるようになるかと。
+Well, so it goes.
 //entry 2 -----------------------
-弟子継続ＥＮＤ２
+Ending - Apprenticeship 2
 zz1000.box
 ev063a0.iph
-イエルも一緒に、なるようになるかと。
+I wonder what'll come of her and Elle.
 //entry 3 -----------------------
-魔法使いＥＮＤ
+Ending - Wizard
 zz1000.box
 ev046a0.iph
-弟子もいつかは師匠になる。こうして、技は受け継がれる。
+The apprentice becomes the master.
 //entry 4 -----------------------
-武術ＥＮＤ
+Ending - Martial Artist
 zz1000.box
 ev047a0.iph
-セリスの指揮する部隊は、協会の強力な戦闘集団として大きく活躍する事になる。
+Celes's unit will be a force within the Guild.
 //entry 5 -----------------------
-エロ娘ＥＮＤ
+Ending - Sexy Girl
 zz1000.box
 ev048a0.iph
-変な方向に成長してしまった。|しかし、それもまた人生。
+She developed in an odd direction, but that's how things go sometimes.
 //entry 6 -----------------------
-家を取り戻したＥＮＤ
+Ending - Returning Home
 zz1000.box
 ev049a0.iph
-予想以上に大きな家だった、セリスの実家。|時々、様子を見に行ってやろう。
+Her house is so much bigger than expected.
 //entry 7 -----------------------
-宮廷魔法使いＥＮＤ１
+Ending - Court Wizard
 zz1000.box
 ev050a0.iph
-宮廷魔法使いになるのって、難しい筈なんだが……
+Just being a court wizard is hard enough.
 //entry 8 -----------------------
-宮廷魔法使いＥＮＤ２
+Ending - Court Wizard 2
 zz1000.box
 ev050a0.iph
-セリスもイエルも宮廷魔法使い。|二人が凄いのか、宮廷魔法使いのレベルが低いのか。|二人が凄いんだろうな。
+Both Celes and Elle? Are they great, or are court wizards just pathetic? Probably the former.
 //entry 9 -----------------------
-冒険者ＥＮＤ
+Ending - Adventurer
 zz1000.box
 ev051a0.iph
-これもまた、魔法使いの生き方。|きっと有名な冒険者になるだろう。
+Becoming a famous adventurer is also a wizardly way of life.
 //entry 10 -----------------------
-イエルの宮廷ＥＮＤ
+Ending - Elle's Court
 zz1000.box
 ev061a0.iph
-イエルは夢を叶えたようだ。
+Elle's dream came true.
 //entry 11 -----------------------
-イエルの魔法使いＥＮＤ
+Ending - Elle the Wizard
 zz1000.box
 ev062a0.iph
-協会の魔法使いは各地に教師として派遣される事がある。|勉強と一緒に、才能のある者に生活に役立つ魔法を教える為だ。
+Wizards of the Guild are sent all over the land, to study, and to teach.
 //entry 12 -----------------------
-イエルのイチャイチャＥＮＤ
+Ending - Love With Elle
 zz1000.box
 ev063a0.iph
-魔法使いとしては不遇でも、人として幸せならそれはそれでありかと。
+She may not have achieved her dream as a wizard, but she found happiness.
 //entry 13 -----------------------
-ヴィオラのラブラブＥＮＤ
+Ending - Viola's True Love
 zz1000.box
 ev071a0.iph
-ヴィオラ悲願達成！|早く素直になれば良かったと、周囲に漏らしているらしいです。
+Viola's heart's desire fulfilled! All she had to do was admit her true feelings.
 //entry 14 -----------------------
-ヴィオラの友達ＥＮＤ
+Ending - Viola's Friend
 zz1000.box
 ev072a0.iph
-こんな関係もありかと。
+It's certainly one kind of relationship.
 //entry 15 -----------------------
-ヴィオラののんびりＥＮＤ
+Ending - Viola's Peaceful Life
 zz1000.box
 ev072a0.iph
-何事も、のんびりと。
+A peaceful, uneventful life.
 //entry 16 -----------------------
-ハーレムＥＮＤ１
+Ending - Harem
 zz1000.box
 ev082a0.iph
-えーっと、幸せです。はい。嘘じゃありません。誰かに強制されているなんて事はありませんよ。|あはは……
+Um, I'm happy. Yeah, definitely happy. Not being forced by anybody. Hahaha...
 //entry 17 -----------------------
-ハーレムＥＮＤ２
+Ending - Harem 2
 zz1000.box
 ev082a0.iph
-幸せだが、浮気とかしたら即殺されそうで怖い。
+I'm happy, but I'm afraid that if I cheat, I'll definitely die.
 //entry 18 -----------------------
-クレリアＥＮＤ
+Ending - Crelia
 zz2000.box
 ev077a5.iph
-立派になった。
+A fine young lady.
 //entry 19 -----------------------
-特別生徒ＥＮＤ
+Ending - Special Students
 zz2000.box
 ev078a3.iph
-従順なのは最初だけだったと思う！
+The first time is the only time they're well behaved!
 //entry 20 -----------------------
-マーコルネールＥＮＤ
+Ending - Marconnel
 zz2000.box
 ev079a0.iph
-魔法使いは変な人が多いんです。
+There are a lot of eccentric wizards.
 //entry 21 -----------------------
-ルィンスＥＮＤ
+Ending - Lynth
 zz2000.box
 ev081a0.iph
-獣耳娘！
+Animal girls!
 //entry 22 -----------------------
-セリス初Ｈ
+Celes - First Time
 zz1000.box
 ev032a0.iph
-こちらに従うしか有効な手が無い状態で、相手に最終決断を任せるのはどうだろう。|……卑怯でした。
+Didn't really leave her much choice in the matter, did I? Not very fair, huh?
 //entry 23 -----------------------
-正常位セリス１
+Celes - Missionary
 zz1000.box
 ev035a1.iph
-前から！|基本は大事だ！
+From the front! The basics are important!
 //entry 24 -----------------------
-正常位セリス２
+Celes - Missionary 2
 zz1000.box
 ev035b1.iph
-メガネだ！|それだけで良い！
+Glasses! That's all you need to make it great!
 //entry 25 -----------------------
-正常位セリス３
+Celes - Missionary 3
 zz1000.box
 ev035c1.iph
-ポニーだ！|うむ、捨て難い！
+A ponytail! Mm! Adorable!
 //entry 26 -----------------------
-正常位セリス４
+Celes - Missionary 4
 zz1000.box
 ev035d1.iph
-ポニーメガネだ！|メガネにポニー……恐ろしい。
+Ponytail and glasses! A terrifying combo!
 //entry 27 -----------------------
-正常位セリス５
+Celes - Missionary 5
 zz1000.box
 ev035a2.iph
-正常位ぐらい使いこなしてみせる！と気合を入れるが、意外と奥が深い正常位。
+I am the master of missionary! There's actually a lot to master too.
 //entry 28 -----------------------
-正常位セリス６
+Celes - Missionary 6
 zz1000.box
 ev035a0.iph
-正常位だとキスしやすくて良い。
+It's easy to kiss in the missionary position.
 //entry 29 -----------------------
-正常位セリス７
+Celes - Missionary 7
 zz1000.box
 ev035a0.iph
-セリスって意外と胸が大きい。
+Celes has surprisingly large breasts.
 //entry 30 -----------------------
-正常位セリス８
+Celes - Missionary 8
 zz1000.box
 ev035a1.iph
-むう、やはり胸が大きい。
+Hmmm... Yep, big breasts.
 //entry 31 -----------------------
-正常位セリス９
+Celes - Missionary 9
 zz1000.box
 ev035a1.iph
-その胸にダイブ！
+Dive into those boobs!
 //entry 32 -----------------------
-正常位セリス１０
+Celes - Missionary 10
 zz1000.box
 ev035a2.iph
-魔力補給と同時に、自分の性欲処理をしている自分に鬱に……
+I'm giving her mana, but it's depressing that someone has to deal with my lust.
 //entry 33 -----------------------
-正常位セリス１１
+Celes - Missionary 11
 zz1000.box
 ev035b0.iph
-悩むなんてらしくない！|素直にＨだ！
+Don't let it worry you! Sex is honest!
 //entry 34 -----------------------
-騎乗位セリス１
+Celes - Cowgirl 1
 zz1000.box
 ev036a1.iph
-セリスの騎乗位は、かなり良い感じだ。
+She's pretty good at this.
 //entry 35 -----------------------
-騎乗位セリス２
+Celes - Cowgirl 2
 zz1000.box
 ev036a1.iph
-男の立場で言わせてもらうと、騎乗位は……かなり楽だ。
+From the man's point of view, cowgirl is pretty easy.
 //entry 36 -----------------------
-騎乗位セリス３
+Celes - Cowgirl 3
 zz1000.box
 ev036a2.iph
-騎乗位で疲れている女性も良い。
+A tired woman on top is nice too.
 //entry 37 -----------------------
-騎乗位セリス４
+Celes - Cowgirl 4
 zz1000.box
 ev036a1.iph
-騎乗位だと、セリスの胸が目立つ。
+Celes's breasts stand out in this position.
 //entry 38 -----------------------
-騎乗位セリス５
+Celes - Cowgirl 5
 zz1000.box
 ev036a1.iph
-その胸を揺らすように、俺も下で腰を動かし続けるのであった。
+I keep moving my hips, and her breasts keep shaking.
 //entry 39 -----------------------
-騎乗位セリス６
+Celes - Cowgirl 6
 zz1000.box
 ev036a1.iph
-むう、この腰使い。|末恐ろしい。
+Hmm... My hips are sore. Scary.
 //entry 40 -----------------------
-騎乗位セリス７
+Celes - Cowgirl 7
 zz1000.box
 ev036a1.iph
-搾り取られる感じがまた……
+It feels like I've been wrung out...
 //entry 41 -----------------------
-騎乗位セリス８
+Celes - Cowgirl 8
 zz1000.box
 ev036a1.iph
-も、もう無理だ……セリス、休憩。
+N-No more... Celes, give me a break.
 //entry 42 -----------------------
-６９セリス１
+Celes - 69 1
 zz1000.box
 ev037a0.iph
-最初の頃は、初々しくて良かった。
+At first, it was nice because it was new.
 //entry 43 -----------------------
-６９セリス２
+Celes - 69 2
 zz1000.box
 ev037a0.iph
-良い感じで慣れ始めたセリス。|舌の使い方が上手くなりました。
+Once she got used to it, she got good with her tongue.
 //entry 44 -----------------------
-６９セリス３
+Celes - 69 3
 zz1000.box
 ev037a0.iph
-セリスが胸を俺の腹に押し付けてきます。
+Her breasts are pressed against my stomach.
 //entry 45 -----------------------
-６９セリス４
+Celes - 69 4
 zz1000.box
 ev037a1.iph
-セリスの陰部が俺の目の前に……
+Her pussy is right in front of me.
 //entry 46 -----------------------
-６９セリス５
+Celes - 69 5
 zz1000.box
 ev037a2.iph
-うおお、セリスの手と口が俺のモノを……
+Oooh! Her hands and mouth are...
 //entry 47 -----------------------
-６９セリス６
+Celes - 69 6
 zz1000.box
 ev037a2.iph
-一方的に責められると、少し悔しいです。
+It's a little frustrating to be at her mercy.
 //entry 48 -----------------------
-６９セリス７
+Celes - 69 7
 zz1000.box
 ev037a1.iph
-舌技がベテランの域に達しそうなセリス。
+Her tongue has reached the level of a master.
 //entry 49 -----------------------
-６９セリス８
+Celes - 69 8
 zz1000.box
 ev037a2.iph
-こっちが愛撫をサボると、怒ってきます。
+If I slack off on, she gets mad.
 //entry 50 -----------------------
-やり尽くしセリス１
+Celes - Exhausted 1
 zz1000.box
 ev038a0.iph
-やり過ぎたのかもしれん。
+I may have overdone it.
 //entry 51 -----------------------
-やり尽くしセリス２
+Celes - Exhausted 2
 zz1000.box
 ev038a0.iph
-うん、やり過ぎた。
+Yep. Overdid it.
 //entry 52 -----------------------
-やり尽くしセリス３
+Celes - Exhausted 3
 zz1000.box
 ev038a0.iph
-大丈夫か、セリス！|もう一回できるか？
+Are you okay, Celes? Can you go another round?
 //entry 53 -----------------------
-やり尽くしセリス４
+Celes - Exhausted 4
 zz1000.box
 ev038a1.iph
-回復魔法を使いながらっと。
+Time for healing magic.
 //entry 54 -----------------------
-やり尽くしセリス５
+Celes - Exhausted 5
 zz1000.box
 ev038a0.iph
-慣れ始めたセリスとのＨは、かなり疲れます。
+Even after she got used to sex, she still gets pretty tired.
 //entry 55 -----------------------
-やり尽くしセリス６
+Celes - Exhausted 6
 zz1000.box
 ev038a0.iph
-セリスとのＨに飽きる事はありません。
+I'll never get tired of sex with her.
 //entry 56 -----------------------
-やり尽くしセリス７
+Celes - Exhausted 7
 zz1000.box
 ev038a0.iph
-セリスは限界まで、Ｈに付き合ってくれます。
+She takes sex to the limit.
 //entry 57 -----------------------
-やり尽くしセリス８
+Celes - Exhausted 8
 zz1000.box
 ev038a0.iph
-時々、こっちが先に限界を超えてしまいます。|セリスの体力は無限なのか！
+Sometimes, I'm the one who wears out first. Her stamina is limitless!
 //entry 58 -----------------------
-お風呂セリス１
+Celes - Bath 1
 zz1000.box
 ev039a0.iph
-お湯を湯船に入れたお風呂。|時間が経つと冷めてしまうが、魔法でいつも温かく。
+It's always warm, thanks to magic.
 //entry 59 -----------------------
-お風呂セリス２
+Celes - Bath 2
 zz1000.box
 ev039a0.iph
-お風呂でのＨの利点は、すぐに身体を洗える事。
+Sex in the bath means you can wash up right away.
 //entry 60 -----------------------
-お風呂セリス３
+Celes - Bath 3
 zz1000.box
 ev039a1.iph
-匂いを気にしなくて良い分、セリスは積極的。
+Celes is proactive when she doesn't have to worry about the smell.
 //entry 61 -----------------------
-お風呂セリス４
+Celes - Bath 4
 zz1000.box
 ev039a0.iph
-Ｈの後、湯船のお湯は半分以下になってます。
+After sex, half the bath water is gone.
 //entry 62 -----------------------
-お風呂セリス５
+Celes - Bath 5
 zz1000.box
 ev039a0.iph
-湯船には、二人の体液が色々と……もう一度、身体を洗おう。
+A lot of fluids mixed into the water. Maybe we need to start over.
 //entry 63 -----------------------
-襲われセリス１
+Celes - Attacked 1
 zz1000.box
 ev040a0.iph
-敗北の厳しさを教える為です。
+Learn the penalty for defeat.
 //entry 64 -----------------------
-襲われセリス２
+Celes - Attacked 2
 zz1000.box
 ev040b0.iph
-むう、こうやって襲っていると、変な気分になってしまう。
+Hmm... It feels weird attacking her like this.
 //entry 65 -----------------------
-襲われセリス３
+Celes - Attacked 3
 zz1000.box
 ev040c0.iph
-変な気分になっても、腰の動きは止まったりはしない。
+Even if it feels weird, I can't stop.
 //entry 66 -----------------------
-襲われセリス４
+Celes - Attacked 4
 zz1000.box
 ev040c0.iph
-素直に抱くのと、こうやって襲うのでは……
+I should just have regular sex with her instead.
 //entry 67 -----------------------
-襲われセリス５
+Celes - Attacked 5
 zz1000.box
 ev040a1.iph
-いやいや、俺は犯罪者には……
+No, no, I'm not a criminal...
 //entry 68 -----------------------
-襲われセリス６
+Celes - Attacked 6
 zz1000.box
 ev040a1.iph
-襲う事に興奮を覚える俺はグズだ！
+I shouldn't be this excited about attacking her!
 //entry 69 -----------------------
-座りながらセリス１
+Celes - Sitting 1
 zz1000.box
 ev041a0.iph
-勉強中のセリスとのＨ。|襲っている感じだけど、実はその前にセリスの方からお誘いがあったのです。
+It feels like I'm attacking her, but she was the one who asked me to do it.
 //entry 70 -----------------------
-座りながらセリス２
+Celes - Sitting 2
 zz1000.box
 ev041a2.iph
-私は別にＨな事をしたいんじゃ……という態度がそそります。
+Wanting to do something else while having sex makes it hotter.
 //entry 71 -----------------------
-座りながらセリス３
+Celes - Sitting 3
 zz1000.box
 ev041a1.iph
-座りながらでも、セリスはかなり激しく腰を動かしてきます。
+She's moving her hips pretty eagerly.
 //entry 72 -----------------------
-野外セリス１
+Celes - Outdoors 1
 zz1000.box
 ev042a0.iph
-野外って、妙に興奮するよね。
+It's exciting to do it outdoors.
 //entry 73 -----------------------
-野外セリス２
+Celes - Outdoors 2
 zz1000.box
 ev042a2.iph
-体操服って、興奮するよね。
+Workout clothes are exciting.
 //entry 74 -----------------------
-野外セリス３
+Celes - Outdoors 3
 zz1000.box
 ev042a2.iph
-野外で体操服って……|無敵だよね。
+Workout cloths in an open field... Incredible.
 //entry 75 -----------------------
-野外セリス４
+Celes - Outdoors 4
 zz1000.box
 ev042a2.iph
-地面の上でＨすると、ヒザとかヒジを擦り剥きやすいので、注意だ。
+Sex on the dirt can scrape up your knees, so be careful.
 //entry 76 -----------------------
-野外セリス５
+Celes - Outdoors 5
 zz1000.box
 ev042a2.iph
-野外でＨする時は、周囲に迷惑のかからない場所でやろう。
+When having sex outdoors, don't be a bother to other people.
 //entry 77 -----------------------
-水着セリス１
+Celes - Swimsuit 1
 zz1000.box
 ev043a0.iph
-水着を着ているセリスは、襲わずにはいられない！
+I can't help but attacking her when she puts on a swimsuit.
 //entry 78 -----------------------
-水着セリス２
+Celes - Swimsuit 2
 zz1000.box
 ev043a0.iph
-もちろん、水着も魔法の水着です。
+Of course, it's a magic swimsuit.
 //entry 79 -----------------------
-水着セリス３
+Celes - Swimsuit 3
 zz1000.box
 ev043a2.iph
-魔法の水着でも、岩場で擦ると破れてしまうので、騎乗位。
+Even if it's magic, it can still tear, so cowgirl only in rocky places.
 //entry 80 -----------------------
-水着セリス４
+Celes - Swimsuit 4
 zz1000.box
 ev043a0.iph
-泳ぎながらＨしようと挑戦したけど二人して溺れました。
+I tried to have sex while swimming, but both of us almost drowned.
 //entry 81 -----------------------
-水着セリス５
+Celes - Swimsuit 5
 zz1000.box
 ev043a1.iph
-覗かれるかもしれない危険性が、逆に燃え上がります。
+The danger that you could be seen makes it more exciting.
 //entry 82 -----------------------
-イエル初Ｈ
+Elle - First Time
 zz2000.box
 ev056a0.iph
-知り合いを抱くのって、こう妙な背徳感があるよね。
+There's something immorally exciting about sex with someone you know.
 //entry 83 -----------------------
-正常位イエル１
+Elle - Missionary 1
 zz2000.box
 ev059a1.iph
-初ＨからこのＨの間に、結構な回数を抱いて居ます。
+We've had sex a lot of times between now and then.
 //entry 84 -----------------------
-正常位イエル２
+Elle - Missionary 2
 zz2000.box
 ev059a4.iph
-セリスよりは胸の無いイエル。|でも、ソシエットよりはある。
+Her chest is smaller than Celes's, but larger than Soshiette's.
 //entry 85 -----------------------
-正常位イエル３
+Elle - Missionary 3
 zz2000.box
 ev059a0.iph
-行為に対して積極的なイエル。|意外だが、それが良い。
+Elle is surprisingly and welcomely into it.
 //entry 86 -----------------------
-正常位イエル４
+Elle - Missionary 4
 zz2000.box
 ev059a0.iph
-イエルは愛撫してのＨより、いきなり襲う系が好みのようです。
+Elle seems to prefer me suddenly attacking her over a lot of foreplay.
 //entry 87 -----------------------
-立ちながらイエル１
+Elle - Standing 1
 zz2000.box
 ev060a0.iph
-イエルも、セリスと同じように大会とかに出ているのです。
+Elle goes to a lot of the same tournaments as Celes.
 //entry 88 -----------------------
-立ちながらイエル２
+Elle - Standing 2
 zz2000.box
 ev060a2.iph
-イエルのペーパードライブは、どちらかと言えば大会向き。
+Elle's paper drive technique is good for tournaments.
 //entry 89 -----------------------
-ヴィオラ初Ｈ
+Viola - First Time
 zz2000.box
 ev068a0.iph
-初Ｈと言うより、ひさしぶりＨ。
+Well, the first time after a long time.
 //entry 90 -----------------------
-正常位ヴィオラ１
+Viola - Missionary 1
 zz2000.box
 ev069a2.iph
-行為中は積極的なヴィオラ。|悪くない。
+Viola can be assertive. It's not bad.
 //entry 91 -----------------------
-正常位ヴィオラ２
+Viola - Missionary 2
 zz2000.box
 ev069a3.iph
-一回で終ろうとすると、足を絡めてきて離してくれません。
+When I try to finish after just once, she wraps her legs around me and won't let me go.
 //entry 92 -----------------------
-正常位ヴィオラ３
+Viola - Missionary 3
 zz2000.box
 ev069b1.iph
-ヴィオラもメガネを着用する。|うーん、雰囲気が変わって良い。
+She wears glasses too. Hmm... Her whole demeanor changes.
 //entry 93 -----------------------
-イエルとヴィオラ１
+Elle and Viola 1
 zz2000.box
 ev070a0.iph
-ヴィオラとイエルとの３Ｐ。|美味しく頂きました。
+A threesome. Delicious.
 //entry 94 -----------------------
-イエルとヴィオラ２
+Elle and Viola 2
 zz2000.box
 ev070a0.iph
-イエルに挿入していると、ヴィオラが積極的になります。
+Viola gets needy when it's inside Elle.
 //entry 95 -----------------------
-ヴィオラとの過去
+Viola - The Past
 zz2000.box
 ev065a0.iph
-色々とあったのです。
+It was an eventful time.
 //entry 96 -----------------------
-ソシエットとのＨ
+Soshiette
 zz2000.box
 ev073a1.iph
-ソシエットとの関係も、考えてみれば長いなぁ。
+I've known Soshiette for a long time.
 //entry 97 -----------------------
-ソシエットとの出会い
+Soshiette 2
 zz2000.box
 ev073a0.iph
-昔のソシエットは、ショートカットだった。
+Soshiette used to have much shorter hair.
 //entry 98 -----------------------
-ソシエットの騎乗位
+Soshiette - Cowgirl
 zz2000.box
 ev074a0.iph
-ソシエットは腰の使い方がかなり上手い。|胸が武器にならないからだろうか。
+She's very good with her hips, probably because she can't use her chest.
 //entry 99 -----------------------
-ソシエット特別Ｈ
+Soshiette - Special
 zz1000.box
 ev004a0.iph
-ソシエットに魔力を渡すのは、非常用です。
+In times of emergency, I give mana to her too.
 //entry 100 -----------------------
-胸を使うルーン
+Rune
 zz2000.box
 ev075a0.iph
-胸使いルーン。
+The breast master.
 //entry 101 -----------------------
-正常位ルーン
+Rune - Missionary
 zz2000.box
 ev076a1.iph
-色々とＨな師匠です。|でも、心配してくれているので素直にＨ。
+A sexy teacher, but it's therapy sex.
 //entry 102 -----------------------
-クレリア
+Crelia
 zz2000.box
 ev077a0.iph
-魔力を欲しがる者は多い。|特に、魔法使いの家に生まれた者はその傾向が強い。
+A lot of people want mana, especially those from wizard families.
 //entry 103 -----------------------
-特別生徒
+Special Students
 zz2000.box
 ev078a0.iph
-繋いでいるのは、ソシエットの趣味であって、ラズロックの趣味じゃないので注意。
+Soshiette is the one who demands they be tied up, not me.
 //entry 104 -----------------------
-マーコルネール
+Marconnel
 zz2000.box
 ev079a0.iph
-同じ手段で、協会に降った者は多数居ます。|協会って酷いよね。
+A lot of people have fallen to the Guild's cruel ways.
 //entry 105 -----------------------
-ルィンス１
+Lynth 1
 zz2000.box
 ev080a0.iph
-貴重な獣耳娘。
+A precious animal girl.
 //entry 106 -----------------------
-ルィンス２
+Lynth 2
 zz2000.box
 ev081a0.iph
-だからに二回目がある！
+That's why she gets two!
 //entry 107 -----------------------
-運動対決１
+Athletics 1
 zz1000.box
 ev053a0.iph
-運動会ではありません。
+Not a real meet.
 //entry 108 -----------------------
-運動対決２
+Athletics 2
 zz1000.box
 ev053a0.iph
-協会の力を持ってすれば、庭に大きな仕掛けを作る事ぐらい、造作も無い事！
+My yard is no match for the power of the Guild.
 //entry 109 -----------------------
-魔法対決１
+Magic Fight 1
 zz1000.box
 ev054a0.iph
-魔法を使った山崩しです。
+A landslide using magic.
 //entry 110 -----------------------
-魔法対決２
+Magic Fight 2
 zz1000.box
 ev054a0.iph
-俺とソシエットは苦手だが、ヴィオラは妙に得意だったりする。
+Soshiette and I are terrible at it, but Viola is a master.
 //entry 111 -----------------------
-Ｈ対決１
+Sex Fight 1
 zz2000.box
 ev055a0.iph
-知り合いの裸って、どうなんだろう？
+Skinship, sort of?
 //entry 112 -----------------------
-Ｈ対決２
+Sex Fight 2
 zz2000.box
 ev055a2.iph
-ベッドの中に入ると、積極的なセリス！
+Celes is assertive in bed!
 //entry 113 -----------------------
-葵屋温泉
+Hot Springs
 zz1000.box
 ev084a0.iph
-温泉でのんびり♪
+A relaxing hot spring adventure.♪
 //entry 114 -----------------------
-夏の神社
+Summer Shrine
 zz2000.box
 ev100a0.iph
-作中作品！|むう、ヴィオラもあれぐらい積極的であれば……
+A work in progress! Hmmm... If only Viola was that into it...
 //entry 115 -----------------------
-勝負
+Competition
 zz2000.box
 ev102a0.iph
-作中作品！|勝負中に行為に持ち込むのは、ズルいと思います。
+A work in progress! Starting sex during a match is cheating.
 //entry 116 -----------------------
-水野さん
+Mizuno
 zz2000.box
 ev104a0.iph
-作中作品！|水野さんは、淫乱じゃありません。
+A work in progress! She's not like this!
 //entry 117 -----------------------
-やんやん
+Yanyan
 zz2000.box
 ev106a0.iph
-作中作品！|クロカも良いキャラだと思います。
+A work in progress! Kuroka's a pretty fun character.
 //entry 118 -----------------------
-お約束家
+Promises
 zz2000.box
 ev110a0.iph
-作中作品！|お約束は大事です。
+A work in progress! Traditions are important.
 //entry 119 -----------------------
-魔法少女２６才
+26 Year Old Magical Girl
 zz2000.box
 ev112a0.iph
-作中作品！|そこらに魔法使いが居るのに、魔法少女物……
+A work in progress! Wizards are one thing, but magic girls are something else.
 //entry 120 -----------------------
-魔物物語／白ヘビ様
+White Snake 1
 zz2000.box
 ev114a0.iph
-魔物物語！|銀狐の悪行その一！
+Demon story.|The misdeeds of Silver Fox!
 //entry 121 -----------------------
-魔物物語／冥土さん
+Hell Maid
 zz2000.box
 ev115a0.iph
-魔物物語！|銀狐の悪行その二！
+Demon story.|More misdeeds of Silver Fox!
 //entry 122 -----------------------
-魔物物語／トウフ君
+Tofu-kun
 zz2000.box
 ev116a0.iph
-魔物物語！|銀狐の悪行その三！|トウフの中に、水着少女だと！|馬鹿な！
+Demon story.|Yet more misdeeds of Silver Fox! Tofu-kun was a girl!? No way!
 //entry 123 -----------------------
-魔物物語／ホーンちゃん
+Miss Horn
 zz2000.box
 ev117a0.iph
-魔物物語！|ホーンちゃんは、銀狐の親友。
+Demon story.|Miss Horn is her best friend.
 //entry 124 -----------------------
-魔物物語／レイリン
+Lilim
 zz2000.box
 ev118a0.iph
-魔物物語！|レイリンは天界の住人なんだけど、あんまりそれっぽくない。
+Demon story.|Lilim is from Celestia, but it doesn't seem like it.
 //entry 125 -----------------------
-魔物物語／銀狐様
+Silver Fox
 zz2000.box
 ev119a0.iph
-魔物物語！|この後、人間として化けながら長く暮らすのでした。
+Demon story.|After this, she spent the rest of her life as a human.

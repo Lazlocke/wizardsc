@@ -1,206 +1,206 @@
 //entry 0 -----------------------
-魔法練習をしないと、イエルと出会えないぞ。
+You need to study magic to meet Elle.
 //entry 1 -----------------------
-クデュール魔法大会で優勝するのは、|かなり難しいぞ。
+Winning the Coudures Tournament is extremely difficult.
 //entry 2 -----------------------
-いきなり、クデュール魔法大会で|優勝しようとするのは無茶だ。
+Don't expect to win at Coudures your first, second, or even third try.
 //entry 3 -----------------------
-クデュール魔法大会で優勝するには……|ヴィオラとのＨを見れるレベルにならないと。
+To win at Coudures, you need to reach the level of rekindling a relationship with Viola.
 //entry 4 -----------------------
-『魔法知識』スキルは最低でも１０は取れ！
+Bring Magic Knowledge up to at least level 10!
 //entry 5 -----------------------
-『魔法防御』も大事だぞ！
+Magic Defense is also important!
 //entry 6 -----------------------
-多人数を相手する時は、オトリを使え。
+When dealing with a lot of enemies, use a decoy.
 //entry 7 -----------------------
-オトリは、召喚魔法だ！
+A decoy can be summoned with magic!
 //entry 8 -----------------------
-『炎の蛇』とか、『追跡する風』はオトリに使え。
+Fire Snake and Wind Chaser can both act as decoys.
 //entry 9 -----------------------
-オトリには壁だ！
+Walls are decoys too!
 //entry 10 -----------------------
-装備はちゃんとしているか？
+Are you upgrading your equipment?
 //entry 11 -----------------------
-スキルにあった装備をしろ。
+Get equipment that matches your skills.
 //entry 12 -----------------------
-弱い時には無理するな！
+Don't overdo it when you're weak!
 //entry 13 -----------------------
-訓練に徹するプレイもありだぞ！
+There are scenes related to training too.
 //entry 14 -----------------------
-色々とやらないと、ＣＧは埋まらないぞ！
+If you don't try lots of things, you'll never complete the CG gallery.
 //entry 15 -----------------------
-『探索』スキルは、意外と大事だぞ！
+The Search skill is surprisingly important!
 //entry 16 -----------------------
-『謎解き』スキルは、それなりに使えるぞ。
+Demystify is a useful skill.
 //entry 17 -----------------------
-冒険者のアルバイトは、|時々、敵と遭遇するかもしれないぞ。
+You can sometimes encounter an enemy while working as an adventurer.
 //entry 18 -----------------------
-海の監視者アルバイトは、|時々、敵と遭遇するかもしれないぞ。
+You can sometimes encounter an enemy while working as a lifeguard.
 //entry 19 -----------------------
-『体力増加』は大事だぞ。
+Constitution is an important skill.
 //entry 20 -----------------------
-『魔力増加』スキルも大事だぞ。
+Mana Capacity is also important.
 //entry 21 -----------------------
-『魔力回復』スキルはあると便利。
+Mana Recovery is a very useful skill.
 //entry 22 -----------------------
-『戦闘速度』スキルを侮るな。
+Don't underestimate the Combat Speed skill.
 //entry 23 -----------------------
-魔力が少ない時に『雷歩』を使うと、|あっという間に魔力が無くなるぞ。
+If you use Flash Step too much, your mana will be gone before you know it.
 //entry 24 -----------------------
-召喚した魔法や魔物を巻き込むと、少しヘコむ。
+If you summon too many monsters, you may get bogged down.
 //entry 25 -----------------------
-『武器防御』はあらゆる武器の防御力を上げるぞ。
+Weapon Defense raises your defense when using any weapon.
 //entry 26 -----------------------
-『飛行』スキルでいける場所が増えるぞ。
+Flight will increase the number of places you can travel.
 //entry 27 -----------------------
-料理人のアルバイトをするなら、|『料理』スキルを持った方が良いだろう。
+If you want to work as a cook, you should invest in the Cooking skill.
 //entry 28 -----------------------
-家事手伝いをする時に、『掃除』と『洗濯』があると良いかも。
+If you want to help around the house, you should learn the Cleaning and Washing skills.
 //entry 29 -----------------------
-『買物』スキルは、アイテムや家具を買う時に便利だぞ。
+Shopping is a useful skill to have when buying things.
 //entry 30 -----------------------
-『音楽』スキルは、アルバイトの成功率を上げるぞ。
+Music will raise the success rate of most jobs.
 //entry 31 -----------------------
-『Ｈ知識』があると、魔力補給の量が多くなるぞ。
+Sexuality will give you more mana during fun times.
 //entry 32 -----------------------
-『探索』スキルがあれば、宝箱を見つけやすくなるぞ。
+You'll find more treasure chests with the Search skill.
 //entry 33 -----------------------
-『謎解き』があれば、道に迷わないかな。
+With Demystify, you won't get lost as often.
 //entry 34 -----------------------
-魔物と戦うなら『魔物の知識』を持つと良いだろう。
+If you're fighting monsters, it could be good to have Monsterology.
 //entry 35 -----------------------
-十月三週目は王国祭！
+The Kingdom Festival is the third week in October!
 //entry 36 -----------------------
-『罠知識』があると、塔で罠を回避しやすくなるぞ。
+Trapology will help you dodge traps.
 //entry 37 -----------------------
-『毒知識』は毒の罠を回避するには必要だ。|あと、料理に少しだけ関係するかな。
+Poisonology can help avoid certain kinds of traps, and maybe a little with cooking too.
 //entry 38 -----------------------
-大会に出るなら、『大会の知識』は|持っている方が良いかも。
+If you're going to tournaments, you may want to learn Gamesmanship.
 //entry 39 -----------------------
-戦うなら、『戦術』スキルは必須だ。
+For a fighter, Tactics is a valuable skill.
 //entry 40 -----------------------
-家具はできるなら良い物を揃えよう。
+If you can afford it, buy nice furniture.
 //entry 41 -----------------------
-畑仕事のアルバイトはお薦めだ。
+Working as a farmhand can be useful.
 //entry 42 -----------------------
-六月一週目はルーン魔法学園祭！
+The first week in June is the Rune Academy festival.
 //entry 43 -----------------------
-模擬戦を有効に使え。
+Don't forget about the mock battles.
 //entry 44 -----------------------
-自分の実力がわからない時は模擬戦だ。
+Test your strength in the mock battles.
 //entry 45 -----------------------
-塔は、何度か挑戦すれば|クリアした階をスキップできるぞ。
+When you attempt towers multiple times, you can skip already cleared floors.
 //entry 46 -----------------------
-逃げる事も勇気！
+Be brave enough to run away!
 //entry 47 -----------------------
-お金が無いなら、アルバイト！
+If you have no money, find a part time job!
 //entry 48 -----------------------
-資金に気をつけろ！
+Watch your money carefully!
 //entry 49 -----------------------
-警備員のアルバイトは、|時々、敵と遭遇するかもしれないぞ。
+You'll sometimes encounter an enemy while working as a guard.
 //entry 50 -----------------------
-白猫は大会がある日。
+A white cat marks the days when there's a tournament.
 //entry 51 -----------------------
-俺の魔力量が、イベントの発生条件に|なっている事も……
+Lazlocke's mana can also be the trigger for certain events to occur.
 //entry 52 -----------------------
-クデュール魔法大会は、|十二月の予選に勝たないと参加できないぞ。
+If you don't win the qualifiers in December, you won't be able to attend the Coudures tournament.
 //entry 53 -----------------------
-七月一週目は商店祭！
+The first week in July is the shop festival.
 //entry 54 -----------------------
-セリスの誕生日は三月だ。
+Celes's birthday is in March.
 //entry 55 -----------------------
-俺の誕生日は六月だ。
+Lazlocke's birthday is in June.
 //entry 56 -----------------------
-のんびりいこう。
+Take it easy.
 //entry 57 -----------------------
-焦るな！
+Don't rush!
 //entry 58 -----------------------
-武器屋には半額セールがあるぞ。
+The weapons store occasionally has a half-off sale.
 //entry 59 -----------------------
-畑仕事や海の監視員は、時期限定だ。
+Working in the field and at the beach are seasonal jobs.
 //entry 60 -----------------------
-強い敵と出会ったら、逃げるように。
+If you encounter a strong enemy, run away.
 //entry 61 -----------------------
-俺と遊んでみるのはどうかな？
+Why not just hang out with Lazlocke every now and then?
 //entry 62 -----------------------
-『払い剣』や『払い棒』は優秀な防御スキルだ。
+Blade Guard and Staff Guard are excellent defensive skills.
 //entry 63 -----------------------
-戦闘方針をしっかりと決めよう。
+Have a solid battle plan.
 //entry 64 -----------------------
-所持しているスキルに適した装備かな？
+Do you have the right equipment for your skills?
 //entry 65 -----------------------
-障害物が多い時の事も想定しよう。
+There will be countless obstacles in your path.
 //entry 66 -----------------------
-買物は計画的にしよう。
+Plan your shopping ahead of time.
 //entry 67 -----------------------
-回避する……|つまり、どんな攻撃も避けてしまうわけだ。
+Dodging lets you avoid any attack.
 //entry 68 -----------------------
-防御アイテムは、１でも違えば高い方にした方が良い。
+Even if it's only slightly better, the best armor your can afford is worth it.
 //entry 69 -----------------------
-家具やアイテムは、基本的には引き継ぐぞ。
+Furniture and items are inherited when you start a new game.
 //entry 70 -----------------------
-ヴィオラと戦う時は、|『魔法防御』の他に、属性の防御も取ろう。
+When fighting Viola, make sure you're strong against every element and have ample magic resistance.
 //entry 71 -----------------------
-モードを変更すると、初期状態が少しだけ変化するぞ。
+When you change modes, the starting situation changes slightly.
 //entry 72 -----------------------
-イエルの攻略は、幾つかの塔の攻略と|クインズベル魔法大会での優勝が必要だ。
+To have a real relationship with Elle, Celes will need to conquer a few towers and win the Queensbell tournament.
 //entry 73 -----------------------
-戦争は早めに終らせよう。
+End the war quickly.
 //entry 74 -----------------------
-戦争に参加すれば、戦争は早く終わるかも。
+If you participate in the war, it will end sooner.
 //entry 75 -----------------------
-戦争時は物価が上昇する。
+Prices rise during war.
 //entry 76 -----------------------
-モードを変更すると、微妙に変わるイベントもあるぞ。
+Some events change depending on which mode you're in.
 //entry 77 -----------------------
-気分転換に、前のモードでプレイするのはどうかな？
+You should try playing in a previous mode to change things up.
 //entry 78 -----------------------
-英雄の塔に挑戦してみよう。
+Challenge the Tower of Heroes.
 //entry 79 -----------------------
-英雄の塔をどこまで登ったかで、|引き継ぎ率がアップするぞ。
+The higher you make it in the Tower of Heroes, the more stats you carry over for the next game.
 //entry 80 -----------------------
-ヴィオラの誕生日は九月だ。
+Viola's birthday is in September.
 //entry 81 -----------------------
-イエルの誕生日は十一月だ。
+Elle's birthday is in November.
 //entry 82 -----------------------
-イエルのＨなシーンが見たければ、塔や大会に挑戦してみる事だ。
+If you want to have a relationship with Elle, conquer towers and win tournaments.
 //entry 83 -----------------------
-イエルとも遊んでみると良い。
+Hanging out with Elle is a good idea too.
 //entry 84 -----------------------
-クデュール魔法大会の優勝トロフィーだけは、引き継ぐぞ。
+Only the Coudures trophy counts for a new game.
 //entry 85 -----------------------
-状態を良くするには、勉強か訓練。|アルバイトは少しだけ状態が下がるぞ。
+Study or train to improve. Work doesn't always help.
 //entry 86 -----------------------
-指示の体力維持は、その割合を切れば撤退しようとする。|しかし、その前にやられる事もあるので注意だ。
+Make sure you don't set the retreat condition too low, or Celes might get hurt before she can run.
 //entry 87 -----------------------
-ヴィオラの攻略は、イエルの後。
+Viola comes after Elle.
 //entry 88 -----------------------
-ヴィオラの攻略は、|あるモード以上じゃないと難しいかも。
+A relationship with Viola may be impossible except in later modes.
 //entry 89 -----------------------
-奥義指定を上手く使おう。
+Set Celes's skills in battle carefully.
 //entry 90 -----------------------
-優先指定を上手く使おう。
+Set Celes's priorities in battle even more carefully.
 //entry 91 -----------------------
-各スキルは、一つのステージで使用できる回数に|制限がある。
+Each skill can only be used a certain number of times per stage.
 //entry 92 -----------------------
-残り魔力に注意しろ。
+Watch your remaining MP carefully.
 //entry 93 -----------------------
-クインズベル魔法大会に参加しているか？
+Are you participating in the Queensbell tournament?
 //entry 94 -----------------------
-ストーリーを進めるには、塔や大会の制覇を目指そう。
+As you progress through the story, try to win as many tournaments and conquer as many towers as you can.
 //entry 95 -----------------------
-『吸魔』は、相手に魔力が無いと使えないぞ。
+You can't use Drain Magic if your target doesn't have any MP.
 //entry 96 -----------------------
-魔物は少しだけ闇の魔法に耐性がある。
+Dark magic isn't great against monsters.
 //entry 97 -----------------------
-貴重なアイテムは、宝箱の中から。
+Valuable items can be found in chests.
 //entry 98 -----------------------
-ＭＡＰに置かれている宝箱は、その階をクリアすれば|自動的に取得しているぞ。
+Treasure chests marked on the map will be automatically acquired when you clear that floor.
 //entry 99 -----------------------
-財宝アイテムは売るように。
+Sell treasure items.
 //entry 100 -----------------------
-クデュールの予選は、十二月中なら|何度でも挑戦できるぞ。
+You can attempt the Coudures qualifiers in December as many times as you want.
 //entry 101 -----------------------
-敵が使う『○○霧散』は、|その属性の魔法の効果を無くすぞ。|（使えなくなる）
+Be careful of enemies that use skills that nullify certain elements.
 //entry 102 -----------------------
-『反射防御』は、多数の敵に殴られている時にも有効だぞ。
+Reflex is a useful skill when faced against multiple enemies.
