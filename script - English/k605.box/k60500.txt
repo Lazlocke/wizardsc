@@ -1988,9 +1988,9 @@ Celes and I make love.
 "What?"
 #
 <name "Lazlocke">
-"Vagina's are kind of gross, you know."
+"Vaginas are kind of gross, you know."
 #
-　俺はセリスの陰部に指を入れながら呟く。
+I mutter as I put my finger inside Celes's.
 #
 <name "Celes" "!AA5080">
 "M-Men's are gross too."
