@@ -40257,7 +40257,7 @@ Quit the game.
 // Ptr: 00056FC8
 #WRITE(PTR, $0001ECA6)
 //画面をフルスクリーンにします。|ドライバー、グラフィックカードの種類によっては、|止まってしまうこともあります。|また、ノート型など一部のコンピュータでは|フルスクリーンにできません。
-画面をフルスクリーンにします。|ドライバー、グラフィックカードの種類によっては、|止まってしまうこともあります。|また、ノート型など一部のコンピュータでは|フルスクリーンにできません。
+Switch to Full Screen mode.|Some graphics cards may not support this.
 <$00>
 
 #WARN($0005707D, "WARNME")
@@ -40282,7 +40282,7 @@ Quit the game.
 // Ptr: 00057080
 #WRITE(PTR, $0001ECE8)
 //画面をウインドウモードにします。|<c5>＜標準＞
-画面をウインドウモードにします。|<c5>＜標準＞
+Switch to Windowed mode.|<c5>(Default)
 <$00>
 
 #WARN($000570AE, "WARNME")
@@ -40291,7 +40291,7 @@ Quit the game.
 // Ptr: 000570B0
 #WRITE(PTR, $0001ECFF)
 //画面切り替えに|エフェクトを使用します。|<c5>＜標準＞
-画面切り替えに|エフェクトを使用します。|<c5>＜標準＞
+Play animation for transitions.|<c5>(Default)
 <$00>
 
 #WARN($000570E5, "WARNME")
@@ -40300,7 +40300,7 @@ Quit the game.
 // Ptr: 000570E8
 #WRITE(PTR, $0001ED16)
 //画面切り替えに|エフェクトをなるべく使用しません。
-画面切り替えに|エフェクトをなるべく使用しません。
+Do not play animation for transitions.
 <$00>
 
 #WARN($0005711A, "WARNME")
@@ -40309,7 +40309,7 @@ Quit the game.
 // Ptr: 0005711C
 #WRITE(PTR, $0001ED2D)
 //メッセージを最速で|表示します。
-メッセージを最速で|表示します。
+Display text very fast.
 <$00>
 
 #WARN($0005713C, "WARNME")
@@ -40318,7 +40318,7 @@ Quit the game.
 // Ptr: 0005713C
 #WRITE(PTR, $0001ED44)
 //メッセージを１文字ずつ|速く表示します。
-メッセージを１文字ずつ|速く表示します。
+Display text fast.
 <$00>
 
 #WARN($00057164, "WARNME")
@@ -40327,7 +40327,7 @@ Quit the game.
 // Ptr: 00057164
 #WRITE(PTR, $0001ED5B)
 //メッセージを１文字ずつ|普通の速度で表示します。|<c5>＜標準＞
-メッセージを１文字ずつ|普通の速度で表示します。|<c5>＜標準＞
+Display text at normal speed.|<c5>(Default)
 <$00>
 
 #WARN($000571A1, "WARNME")
@@ -40336,7 +40336,7 @@ Quit the game.
 // Ptr: 000571A4
 #WRITE(PTR, $0001ED72)
 //メッセージを１文字ずつ|少し遅めの速度で表示します。
-メッセージを１文字ずつ|少し遅めの速度で表示します。
+Display text slowly.
 <$00>
 
 #WARN($000571D8, "WARNME")
@@ -40345,7 +40345,7 @@ Quit the game.
 // Ptr: 000571D8
 #WRITE(PTR, $0001ED89)
 //メッセージを１文字ずつ|ゆっくりと表示します。
-メッセージを１文字ずつ|ゆっくりと表示します。
+Display text very slowly.
 <$00>
 
 #WARN($00057206, "WARNME")
@@ -40354,7 +40354,7 @@ Quit the game.
 // Ptr: 00057208
 #WRITE(PTR, $0001EDA0)
 //ＢＧＭを再生します。|<c5>＜標準＞
-ＢＧＭを再生します。|<c5>＜標準＞
+Play BGM.|<c5>(Default)
 <$00>
 
 #WARN($0005722A, "WARNME")
@@ -40363,7 +40363,7 @@ Quit the game.
 // Ptr: 0005722C
 #WRITE(PTR, $0001EDB7)
 //ＢＧＭを再生しません。
-ＢＧＭを再生しません。
+Do not play BGM.
 <$00>
 
 #WARN($00057243, "WARNME")
@@ -40372,7 +40372,7 @@ Quit the game.
 // Ptr: 00057244
 #WRITE(PTR, $0001EDCE)
 //ＢＧＭの|ボリュームを上げます。|(最大１５)
-ＢＧＭの|ボリュームを上げます。|(最大１５)
+Increase BGM volume. |(Max: 15)
 <$00>
 
 #WARN($0005726F, "WARNME")
@@ -40381,7 +40381,7 @@ Quit the game.
 // Ptr: 00057270
 #WRITE(PTR, $0001EDE5)
 //ＢＧＭの|ボリュームを下げます。|(最小０)
-ＢＧＭの|ボリュームを下げます。|(最小０)
+Lower BGM volume.|(Min: 0)
 <$00>
 
 #WARN($00057299, "WARNME")
@@ -40390,7 +40390,7 @@ Quit the game.
 // Ptr: 0005729C
 #WRITE(PTR, $0001EDFC)
 //現在のＢＧＭのボリュームです。|最小０～最大１５です。
-現在のＢＧＭのボリュームです。|最小０～最大１５です。
+Current BGM volume. |(Scale: 0-15)
 <$00>
 
 #WARN($000572D2, "WARNME")
@@ -40399,7 +40399,7 @@ Quit the game.
 // Ptr: 000572D4
 #WRITE(PTR, $0001EE13)
 //効果音（ＳＥ）を出します。|<c5>＜標準＞
-効果音（ＳＥ）を出します。|<c5>＜標準＞
+Play SFX.|<c5>(Default)
 <$00>
 
 #WARN($000572FC, "WARNME")
@@ -40408,7 +40408,7 @@ Quit the game.
 // Ptr: 000572FC
 #WRITE(PTR, $0001EE2A)
 //効果音（ＳＥ）を出しません。
-効果音（ＳＥ）を出しません。
+Do not play SFX.
 <$00>
 
 #WARN($00057319, "WARNME")
@@ -40417,7 +40417,7 @@ Quit the game.
 // Ptr: 0005731C
 #WRITE(PTR, $0001EE41)
 //効果音（ＳＥ）のボリュームを上げます。|(最大１５)
-効果音（ＳＥ）のボリュームを上げます。|(最大１５)
+Increase SFX volume.|(Max: 15)
 <$00>
 
 #WARN($0005734E, "WARNME")
@@ -40426,7 +40426,7 @@ Quit the game.
 // Ptr: 00057350
 #WRITE(PTR, $0001EE58)
 //効果音（ＳＥ）のボリュームを下げます。|(最小０)
-効果音（ＳＥ）のボリュームを下げます。|(最小０)
+Decrease SFX volume. |(Min: 0)
 <$00>
 
 #WARN($00057380, "WARNME")
@@ -40435,7 +40435,7 @@ Quit the game.
 // Ptr: 00057380
 #WRITE(PTR, $0001EE6F)
 //現在の効果音（ＳＥ）のボリュームです。|最小０～最大１５です。
-現在の効果音（ＳＥ）のボリュームです。|最小０～最大１５です。
+Current SFX volume. |(Scale: 0-15)
 <$00>
 
 #WARN($000573BE, "WARNME")
@@ -40444,7 +40444,7 @@ Quit the game.
 // Ptr: 000573C0
 #WRITE(PTR, $0001EE86)
 //音声を再生します。|<c5>＜標準＞
-音声を再生します。|<c5>＜標準＞
+Play voices.|<c5>(Default)
 <$00>
 
 #WARN($000573E0, "WARNME")
@@ -40453,7 +40453,7 @@ Quit the game.
 // Ptr: 000573E0
 #WRITE(PTR, $0001EE9D)
 //音声を再生しません。
-音声を再生しません。
+Do not play voices.
 <$00>
 
 #WARN($000573F5, "WARNME")
@@ -40462,7 +40462,7 @@ Quit the game.
 // Ptr: 000573F8
 #WRITE(PTR, $0001EEB4)
 //音声のボリュームを上げます。|(最大１５)
-音声のボリュームを上げます。|(最大１５)
+Increase voice volume.|(Max: 15)
 <$00>
 
 #WARN($00057420, "WARNME")
@@ -40471,7 +40471,7 @@ Quit the game.
 // Ptr: 00057420
 #WRITE(PTR, $0001EECB)
 //音声のボリュームを下げます。|(最小０)
-音声のボリュームを下げます。|(最小０)
+Decrease voice volume.|(Min: 0)
 <$00>
 
 #WARN($00057446, "WARNME")
@@ -40480,7 +40480,7 @@ Quit the game.
 // Ptr: 00057448
 #WRITE(PTR, $0001EEE2)
 //現在の音声のボリュームです。|最小０～最大１５です。
-現在の音声のボリュームです。|最小０～最大１５です。
+Current voice volume. |(Scale: 0-15)
 <$00>
 
 #WARN($0005747C, "WARNME")
@@ -40489,7 +40489,7 @@ Quit the game.
 // Ptr: 00057480
 #WRITE(PTR, $0001EEF9)
 //このウインドウを非表示にします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。
-このウインドウを非表示にします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。
+Hide tooltips by default.|They can still be displayed by pressing Shift.
 <$00>
 
 #WARN($000574EE, "WARNME")
@@ -40498,7 +40498,7 @@ Quit the game.
 // Ptr: 000574F0
 #WRITE(PTR, $0001EF10)
 //このウインドウが出るまでの時間を|速くします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。
-このウインドウが出るまでの時間を|速くします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。
+Tooltips appear after a short delay or by pressing Shift.
 <$00>
 
 #WARN($0005756B, "WARNME")
@@ -40507,7 +40507,7 @@ Quit the game.
 // Ptr: 00057570
 #WRITE(PTR, $0001EF27)
 //このウインドウが出るまでの時間を|通常にします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。|<c5>＜標準＞
-このウインドウが出るまでの時間を|通常にします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。|<c5>＜標準＞
+Tooltips appear after a moderate delay or by pressing Shift.|<c5>(Default)
 <$00>
 
 #WARN($000575FA, "WARNME")
@@ -40516,7 +40516,7 @@ Quit the game.
 // Ptr: 00057600
 #WRITE(PTR, $0001EF3E)
 //このウインドウが出るまでの時間を|遅くします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。
-このウインドウが出るまでの時間を|遅くします。|また、どの表示設定でも|シフトキーを押すことにより|表示させることが可能です。
+Tooltips appear after a long delay or by pressing Shift.
 <$00>
 
 #WARN($0005767B, "WARNME")
@@ -40525,7 +40525,7 @@ Quit the game.
 // Ptr: 00057680
 #WRITE(PTR, $0001EF55)
 //メッセージ表示中の右クリックの動作を|メッセージスキップにします。|<c5>＜標準＞
-メッセージ表示中の右クリックの動作を|メッセージスキップにします。|<c5>＜標準＞
+Right click sets mode to Skip.|<c5>(Default)
 <$00>
 
 #WARN($000576CF, "WARNME")
@@ -40534,7 +40534,7 @@ Quit the game.
 // Ptr: 000576D0
 #WRITE(PTR, $0001EF6C)
 //メッセージ表示中の右クリックの動作を|メッセージＯＦＦにします。
-メッセージ表示中の右クリックの動作を|メッセージＯＦＦにします。
+Right click hides message window.
 <$00>
 
 #WARN($00057710, "WARNME")
@@ -40543,7 +40543,7 @@ Quit the game.
 // Ptr: 00057710
 #WRITE(PTR, $0001EF83)
 //メッセージウインドウの|半透明度をかなり薄くします。
-メッセージウインドウの|半透明度をかなり薄くします。
+Set message window to very transparent.
 <$00>
 
 #WARN($00057744, "WARNME")
@@ -40552,7 +40552,7 @@ Quit the game.
 // Ptr: 00057744
 #WRITE(PTR, $0001EF9A)
 //メッセージウインドウの|半透明度を薄くします。
-メッセージウインドウの|半透明度を薄くします。
+Set message window to transparent.
 <$00>
 
 #WARN($00057772, "WARNME")
@@ -40561,7 +40561,7 @@ Quit the game.
 // Ptr: 00057774
 #WRITE(PTR, $0001EFB1)
 //メッセージウインドウの|半透明度を標準にします。|<c5>＜標準＞
-メッセージウインドウの|半透明度を標準にします。|<c5>＜標準＞
+Set message window to normal tranparency.|<c5>(Default)
 <$00>
 
 #WARN($000577B1, "WARNME")
@@ -40570,7 +40570,7 @@ Quit the game.
 // Ptr: 000577B4
 #WRITE(PTR, $0001EFC8)
 //メッセージウインドウの|半透明度を濃くします。
-メッセージウインドウの|半透明度を濃くします。
+Set message window to slightly transparent.
 <$00>
 
 #WARN($000577E2, "WARNME")
@@ -40579,7 +40579,7 @@ Quit the game.
 // Ptr: 000577E4
 #WRITE(PTR, $0001EFDF)
 //メッセージウインドウの|半透明度をかなり濃くします。
-メッセージウインドウの|半透明度をかなり濃くします。
+Set message window to opaque.
 <$00>
 
 #WARN($00057818, "WARNME")
@@ -40595,7 +40595,7 @@ Quit the game.
 // Ptr: 00057830
 #WRITE(PTR, $0001F01A)
 //ゲームに戻ります。
-ゲームに戻ります。
+Return to game.
 <$00>
 
 #WARN($00057843, "WARNME")
@@ -40604,7 +40604,7 @@ Quit the game.
 // Ptr: 00057818
 #WRITE(PTR, $0001F031)
 //タイトルに戻ります。
-タイトルに戻ります。
+Return to title.
 <$00>
 
 #WARN($0005782D, "WARNME")
@@ -42177,7 +42177,7 @@ No%02d
 // Ptr: 000579F0
 #WRITE(PTR, $0001FC0A)
 //    セリス体力 %4d/%4d    装飾品 %s|
-    セリス体力 %4d/%4d    装飾品 %s|
+    Celes HP %4d/%4d    装飾品 %s|
 <$00>
 
 #WARN($00057A15, "WARNME")
@@ -42186,7 +42186,7 @@ No%02d
 // Ptr: 00057A18
 #WRITE(PTR, $0001FC27)
 //    セリス魔力 %4d/%4d    装飾品 %s|
-    セリス魔力 %4d/%4d    装飾品 %s|
+    Celes MP %4d/%4d    装飾品 %s|
 <$00>
 
 #WARN($00057A3D, "WARNME")
@@ -42195,7 +42195,7 @@ No%02d
 // Ptr: 00057A40
 #WRITE(PTR, $0001FC3D)
 //    師匠魔力      %6d    装飾品 %s|
-    師匠魔力      %6d    装飾品 %s|
+    Laz MP      %6d    装飾品 %s|
 <$00>
 
 #WARN($00057A64, "WARNME")
