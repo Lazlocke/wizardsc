@@ -217,7 +217,7 @@ i1_00_26.iph
 ev020f0.iph
 *
 Type: Decoration|A personal cheer team.
-With your support, I can do it!
+With your support, I can do|it!
 //entry 22 -----------------------
 Set of Twenty
 演出道具
@@ -237,7 +237,7 @@ i1_00_26.iph
 ev020f2.iph
 *
 Type: Decoration|A personal cheer team.
-A crowd to rouse flagging spirits.
+A crowd to rouse flagging|spirits.
 //entry 24 -----------------------
 Ragged Bed
 家具
@@ -297,7 +297,7 @@ i2_00_00.iph
 *
 m005.iph
 Type: Bed|Transfer a lot more mana during sex.
-This'll solve your unsatisfying night life.
+This'll solve your|unsatisfying night life.
 //entry 30 -----------------------
 Princess Bed
 家具
@@ -307,7 +307,7 @@ i2_00_00.iph
 *
 m006.iph
 Type: Bed|Transfer more mana during sex.
-For a perfect's night's sleep.
+For a perfect's night's|sleep.
 //entry 31 -----------------------
 Old Utensils
 家具
@@ -317,7 +317,7 @@ i2_00_01.iph
 *
 m050.iph
 Type: Utensils|General +1%
-It's good to make visitors feel welcome.
+It's good to make visitors|feel welcome.
 //entry 32 -----------------------
 Regular Utensils
 家具
@@ -337,7 +337,7 @@ i2_00_01.iph
 *
 m052.iph
 Type: Utensils|General +3%
-If they soothe you too much, you might take them to bed.
+If they soothe you too much,|you might take them to bed.
 //entry 34 -----------------------
 Relaxing Utensils
 家具
@@ -357,7 +357,7 @@ i2_00_01.iph
 *
 m054.iph
 Type: Utensils|General +5%
-You can relax with these, in all kinds of ways.
+You can relax with these, in|all kinds of ways.
 //entry 36 -----------------------
 Lovely Utensils
 家具
@@ -367,7 +367,7 @@ i2_00_01.iph
 *
 m055.iph
 Type: Utensils|General +6%
-If they're too cute, people will be intimidated to use them.
+If they're too cute, people|will be intimidated to use|them.
 //entry 37 -----------------------
 Ragged Closet
 家具
@@ -387,7 +387,7 @@ i2_00_08.iph
 *
 m101.iph
 Type: Closet|General +2%
-The minimum for clothing storage.
+The minimum for clothing|storage.
 //entry 39 -----------------------
 Quality Closet
 家具
@@ -407,7 +407,7 @@ i2_00_08.iph
 *
 m103.iph
 Type: Closet|General +4%
-When the closet is nice, the clothes look even better.
+When the closet is nice, the|clothes look even better.
 //entry 41 -----------------------
 Pretty Closet
 家具
@@ -417,7 +417,7 @@ i2_00_08.iph
 *
 m104.iph
 Type: Closet|General +5%
-The nicer the closet, the better the clothing you want to put in it.
+The nicer the closet, the|better the clothing you want to|put in it.
 //entry 42 -----------------------
 Ragged Desk
 家具
@@ -427,7 +427,7 @@ i2_00_02.iph
 *
 m150.iph
 Type: Desk|Mag +2%|General +1%
-Worn out, but you can still study on it.
+Worn out, but you can still|study on it.
 //entry 43 -----------------------
 Regular Desk
 家具
@@ -447,7 +447,7 @@ i2_00_02.iph
 *
 m152.iph
 Type: Desk|Mag +4%|General +3%
-A good environment is important.
+A good environment is|important.
 //entry 45 -----------------------
 Apprentice's Desk
 家具
@@ -457,7 +457,7 @@ i2_00_02.iph
 *
 m153.iph
 Type: Desk|Mag +5%|General +3%
-A desk customized for wizards.
+A desk customized for|wizards.
 //entry 46 -----------------------
 Prodigal Desk
 家具
@@ -477,7 +477,7 @@ i2_00_02.iph
 *
 m155.iph
 Type: Desk|Mag +7%|General +3%
-It'll be full of books soon enough.
+It'll be full of books soon|enough.
 //entry 48 -----------------------
 Brawler's Desk
 家具
@@ -487,7 +487,7 @@ i2_00_02.iph
 *
 m156.iph
 Type: Desk|Phys +2% Grapple +2%|General +3%
-For fighters who are still learning.
+For fighters who are still|learning.
 //entry 49 -----------------------
 Fighter's Desk
 家具
@@ -497,7 +497,7 @@ i2_00_02.iph
 *
 m157.iph
 Type: Desk|Phys +4% Grapple +4%|General +3%
-There's ways to fight sitting down too.
+There's ways to fight sitting|down too.
 //entry 50 -----------------------
 Warrior's Desk
 家具
@@ -507,7 +507,7 @@ i2_00_02.iph
 *
 m158.iph
 Type: Desk|Phys +6% Grapple +6%|General +3%
-It's a good desk, so you'll certainly learn something.
+It's a good desk, so you'll|certainly learn something.
 //entry 51 -----------------------
 Squire's Desk
 家具
@@ -517,7 +517,7 @@ i2_00_02.iph
 *
 m159.iph
 Type: Desk|All Weapons +2%|General +3%
-A desk for the study of weaponry.
+A desk for the study of|weaponry.
 //entry 52 -----------------------
 Knight's Desk
 家具
@@ -527,7 +527,7 @@ i2_00_02.iph
 *
 m160.iph
 Type: Desk|All Weapons +4%|General +3%
-It's important to know your way around a weapon.
+It's important to know your|way around a weapon.
 //entry 53 -----------------------
 Hero's Desk
 家具
@@ -557,7 +557,7 @@ i2_00_02.iph
 *
 m163.iph
 Type: Desk|All Adventure +4%|General +6%
-Doing homework for out of home work.
+Doing homework for out of home|work.
 //entry 56 -----------------------
 Butler's Desk
 家具
@@ -567,7 +567,7 @@ i2_00_02.iph
 *
 m164.iph
 Type: Desk|All Adventure +6%|General +8%
-Does sex at the desk count as studying?
+Does sex at the desk count as|studying?
 //entry 57 -----------------------
 Ragged Curtains
 家具
@@ -577,7 +577,7 @@ i2_00_03.iph
 *
 m200.iph
 Type: Curtains
-Should block out the light, but there are so many holes.
+Should block out the light,|but there are so many holes.
 //entry 58 -----------------------
 Regular Curtains
 家具
@@ -597,7 +597,7 @@ i2_00_03.iph
 *
 m202.iph
 Type: Curtains|Dark and Light Mag +2%
-The curtains match the drapes.
+The curtains match the|drapes.
 //entry 60 -----------------------
 Fancy Curtains
 家具
@@ -617,7 +617,7 @@ i2_00_03.iph
 *
 m204.iph
 Type: Curtains|Dark and Light Mag +5%
-Curtains are a key part of any room.
+Curtains are a key part of any|room.
 //entry 62 -----------------------
 Red Carpet
 家具
@@ -647,7 +647,7 @@ i2_00_04.iph
 *
 m252.iph
 Type: Carpet|Earth Mag +1%
-If you spill something, catastrophe.
+If you spill something,|catastrophe.
 //entry 65 -----------------------
 Black Carpet
 家具
@@ -657,7 +657,7 @@ i2_00_04.iph
 *
 m253.iph
 Type: Carpet|Earth Mag +1%
-Dirt is very notciable on black.
+Dirt is very notciable on|black.
 //entry 66 -----------------------
 Magic Carpet
 家具
@@ -737,7 +737,7 @@ i2_00_05.iph
 *
 m301.iph
 Type: Bookshelf|Adventure and General +4%
-Every book has a happy ending.
+Every book has a happy|ending.
 //entry 74 -----------------------
 Fortunate Shelves
 家具
@@ -747,7 +747,7 @@ i2_00_05.iph
 *
 m302.iph
 Type: Bookshelf|Adventure and General +6%
-There's no order to the books here, but they're all fun.
+There's no order to the books|here, but they're all fun.
 //entry 75 -----------------------
 Magic Shelves
 家具
@@ -777,7 +777,7 @@ i2_00_05.iph
 *
 m305.iph
 Type: Bookshelf|Mag +5%|Fire, Water, Wind, and Earth Mag +4%
-Fill it up with complicated books.
+Fill it up with complicated|books.
 //entry 78 -----------------------
 Brawler's Shelves
 家具
@@ -787,7 +787,7 @@ i2_00_05.iph
 *
 m306.iph
 Type: Bookshelf|Phys ＋1%|Grapple ＋3%
-Full of books about martial arts.
+Full of books about martial|arts.
 //entry 79 -----------------------
 Fighter's Shelves
 家具
@@ -797,7 +797,7 @@ i2_00_05.iph
 *
 m307.iph
 Type: Bookshelf|Phys +2%|Grapple +5%
-Only books about martial artists allowed.
+Only books about martial|artists allowed.
 //entry 80 -----------------------
 Warrior's Shelves
 家具
@@ -807,7 +807,7 @@ i2_00_05.iph
 *
 m308.iph
 Type: Bookshelf|Phys +3%|Grapple +7%
-There are lots and lots of books about famous fighters.
+There are lots and lots of|books about famous fighters.
 //entry 81 -----------------------
 Squire's Shelves
 家具
@@ -817,7 +817,7 @@ i2_00_05.iph
 *
 m309.iph
 Type: Bookshelf|All Weapons +2%
-Books on weapons, all in a row.
+Books on weapons, all in a|row.
 //entry 82 -----------------------
 Knight's Shelves
 家具
@@ -827,7 +827,7 @@ i2_00_05.iph
 *
 m310.iph
 Type: Bookshelf|All Weapons +4%
-There's lots of books about how great weapons are.
+There's lots of books about|how great weapons are.
 //entry 83 -----------------------
 Hero's Shelves
 家具
@@ -837,7 +837,7 @@ i2_00_05.iph
 *
 m311.iph
 Type: Bookshelf|All Weapons +6%
-Books about weapons from east, west, north, and south.
+Books about weapons from east,|west, north, and south.
 //entry 84 -----------------------
 Servant Shelves
 家具
@@ -847,7 +847,7 @@ i2_00_05.iph
 *
 m312.iph
 Type: Bookshelf|Adventure +2%|General +5%
-There are lots of books about the house.
+There are lots of books about|the house.
 //entry 85 -----------------------
 Maid Shelves
 家具
@@ -857,7 +857,7 @@ i2_00_05.iph
 *
 m313.iph
 Type: Bookshelf|Adventure +3%|General +7%
-Cooking, cleaning, laundry, all sorted and arranged.
+Cooking, cleaning, laundry,|all sorted and arranged.
 //entry 86 -----------------------
 Butler Shelves
 家具
@@ -867,7 +867,7 @@ i2_00_05.iph
 *
 m314.iph
 Type: Bookshelf|Adventure +4%|General +9%
-There are some sex help books mixed in too.
+There are some sex help books|mixed in too.
 //entry 87 -----------------------
 Ragged Cabinet
 家具
@@ -907,7 +907,7 @@ i2_00_06.iph
 *
 m183.iph
 Type: Cabinet|Mag +3%
-Full of things for learning about magic.
+Full of things for learning|about magic.
 //entry 91 -----------------------
 Prodigal Cabinet
 家具
@@ -917,7 +917,7 @@ i2_00_06.iph
 *
 m184.iph
 Type: Cabinet|Mag +5%
-Full of lots of weirdly shaped magical devices.
+Full of lots of weirdly shaped|magical devices.
 //entry 92 -----------------------
 Master's Cabinet
 家具
@@ -927,7 +927,7 @@ i2_00_06.iph
 *
 m185.iph
 Type: Cabinet|Mag +7%
-Full of suspicious tools of questionable use.
+Full of suspicious tools of|questionable use.
 //entry 93 -----------------------
 Brawler's Cabinet
 家具
@@ -957,7 +957,7 @@ i2_00_06.iph
 *
 m188.iph
 Type: Cabinet|Phys +3%|Grapple +7%
-You use your head when fighting too.
+You use your head when|fighting too.
 //entry 96 -----------------------
 Squire's Cabinet
 家具
@@ -967,7 +967,7 @@ i2_00_06.iph
 *
 m189.iph
 Type: Cabinet|All Weapons +3%
-For displaying your weapon instruction aids.
+For displaying your weapon|instruction aids.
 //entry 97 -----------------------
 Knight's Cabinet
 家具
@@ -987,7 +987,7 @@ i2_00_06.iph
 *
 m191.iph
 Type: Cabinet|All Weapons +7%
-It must be good since it's expensive.
+It must be good since it's|expensive.
 //entry 99 -----------------------
 Simple Case
 家具
@@ -1007,7 +1007,7 @@ i2_00_07.iph
 *
 m351.iph
 Type: Display|Adventure and General +3%
-So you won't lose your trophies.
+So you won't lose your|trophies.
 //entry 101 -----------------------
 Spooky Case
 家具
@@ -1017,7 +1017,7 @@ i2_00_07.iph
 *
 m352.iph
 Type: Display|Adventure and General +3%
-For trophies you want to display subtly.
+For trophies you want to|display subtly.
 //entry 102 -----------------------
 Cute Case
 家具
@@ -1057,7 +1057,7 @@ i2_00_11.iph
 *
 m401.iph
 Type: Trophy
-Only one chance to win it every four years.
+Only one chance to win it|every four years.
 //entry 106 -----------------------
 Queensbell Trophy
 家具
@@ -1067,7 +1067,7 @@ i2_00_11.iph
 *
 m402.iph
 Type: Trophy
-It's a monthly tournament, but still hard to win.
+It's a monthly tournament, but|still hard to win.
 //entry 107 -----------------------
 Heroes Trophy
 家具
@@ -1097,7 +1097,7 @@ i2_00_11.iph
 *
 m405.iph
 Type: Trophy
-Steal the sight of all on the beach.♪
+Steal the sight of all on the|beach.♪
 //entry 110 -----------------------
 Street Trophy
 家具
@@ -1127,7 +1127,7 @@ i2_00_09.iph
 *
 m451.iph
 Type: Painting
-The model is more important than the painter.
+The model is more important|than the painter.
 //entry 113 -----------------------
 Tapestry
 家具
@@ -1137,7 +1137,7 @@ i2_00_10.iph
 *
 m452.iph
 Type: Wall Decoration
-A sourvenir from an expedition.
+A sourvenir from an|expedition.
 //entry 114 -----------------------
 Flag
 家具

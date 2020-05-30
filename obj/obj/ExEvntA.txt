@@ -12,42 +12,42 @@ Well, so it goes.
 Ending - Apprenticeship 2
 zz1000.box
 ev063a0.iph
-I wonder what'll come of her and Elle.
+I wonder what'll come of her|and Elle.
 //entry 3 -----------------------
 Ending - Wizard
 zz1000.box
 ev046a0.iph
-The apprentice becomes the master.
+The apprentice becomes the|master.
 //entry 4 -----------------------
 Ending - Martial Artist
 zz1000.box
 ev047a0.iph
-Celes's unit will be a force within the Guild.
+Celes's unit will be a force|within the Guild.
 //entry 5 -----------------------
 Ending - Sexy Girl
 zz1000.box
 ev048a0.iph
-She developed in an odd direction, but that's how things go sometimes.
+She developed in an odd|direction, but that's how|things go sometimes.
 //entry 6 -----------------------
 Ending - Returning Home
 zz1000.box
 ev049a0.iph
-Her house is so much bigger than expected.
+Her house is so much bigger|than expected.
 //entry 7 -----------------------
 Ending - Court Wizard
 zz1000.box
 ev050a0.iph
-Just being a court wizard is hard enough.
+Just being a court wizard is|hard enough.
 //entry 8 -----------------------
 Ending - Court Wizard 2
 zz1000.box
 ev050a0.iph
-Both Celes and Elle? Are they great, or are court wizards just pathetic? Probably the former.
+Both Celes and Elle? Are they|great, or are court wizards|just pathetic? Probably the|former.
 //entry 9 -----------------------
 Ending - Adventurer
 zz1000.box
 ev051a0.iph
-Becoming a famous adventurer is also a wizardly way of life.
+Becoming a famous adventurer|is also a wizardly way of|life.
 //entry 10 -----------------------
 Ending - Elle's Court
 zz1000.box
@@ -57,22 +57,22 @@ Elle's dream came true.
 Ending - Elle the Wizard
 zz1000.box
 ev062a0.iph
-Wizards of the Guild are sent all over the land, to study, and to teach.
+Wizards of the Guild are sent|all over the land, to study,|and to teach.
 //entry 12 -----------------------
 Ending - Love With Elle
 zz1000.box
 ev063a0.iph
-She may not have achieved her dream as a wizard, but she found happiness.
+She may not have achieved her|dream as a wizard, but she|found happiness.
 //entry 13 -----------------------
 Ending - Viola's True Love
 zz1000.box
 ev071a0.iph
-Viola's heart's desire fulfilled! All she had to do was admit her true feelings.
+Viola's heart's desire|fulfilled! All she had to do|was admit her true feelings.
 //entry 14 -----------------------
 Ending - Viola's Friend
 zz1000.box
 ev072a0.iph
-It's certainly one kind of relationship.
+It's certainly one kind of|relationship.
 //entry 15 -----------------------
 Ending - Viola's Peaceful Life
 zz1000.box
@@ -82,12 +82,12 @@ A peaceful, uneventful life.
 Ending - Harem
 zz1000.box
 ev082a0.iph
-Um, I'm happy. Yeah, definitely happy. Not being forced by anybody. Hahaha...
+Um, I'm happy. Yeah,|definitely happy. Not being|forced by anybody. Hahaha...
 //entry 17 -----------------------
 Ending - Harem 2
 zz1000.box
 ev082a0.iph
-I'm happy, but I'm afraid that if I cheat, I'll definitely die.
+I'm happy, but I'm afraid that|if I cheat, I'll definitely|die.
 //entry 18 -----------------------
 Ending - Crelia
 zz2000.box
@@ -97,12 +97,12 @@ A fine young lady.
 Ending - Special Students
 zz2000.box
 ev078a3.iph
-The first time is the only time they're well behaved!
+The first time is the only|time they're well behaved!
 //entry 20 -----------------------
 Ending - Marconnel
 zz2000.box
 ev079a0.iph
-There are a lot of eccentric wizards.
+There are a lot of eccentric|wizards.
 //entry 21 -----------------------
 Ending - Lynth
 zz2000.box
@@ -112,17 +112,17 @@ Animal girls!
 Celes - First Time
 zz1000.box
 ev032a0.iph
-Didn't really leave her much choice in the matter, did I? Not very fair, huh?
+Didn't really leave her much|choice in the matter, did I?|Not very fair, huh?
 //entry 23 -----------------------
 Celes - Missionary
 zz1000.box
 ev035a1.iph
-From the front! The basics are important!
+From the front! The basics are|important!
 //entry 24 -----------------------
 Celes - Missionary 2
 zz1000.box
 ev035b1.iph
-Glasses! That's all you need to make it great!
+Glasses! That's all you need|to make it great!
 //entry 25 -----------------------
 Celes - Missionary 3
 zz1000.box
@@ -132,22 +132,22 @@ A ponytail! Mm! Adorable!
 Celes - Missionary 4
 zz1000.box
 ev035d1.iph
-Ponytail and glasses! A terrifying combo!
+Ponytail and glasses! A|terrifying combo!
 //entry 27 -----------------------
 Celes - Missionary 5
 zz1000.box
 ev035a2.iph
-I am the master of missionary! There's actually a lot to master too.
+I am the master of missionary!|There's actually a lot to|master too.
 //entry 28 -----------------------
 Celes - Missionary 6
 zz1000.box
 ev035a0.iph
-It's easy to kiss in the missionary position.
+It's easy to kiss in the|missionary position.
 //entry 29 -----------------------
 Celes - Missionary 7
 zz1000.box
 ev035a0.iph
-Celes has surprisingly large breasts.
+Celes has surprisingly large|breasts.
 //entry 30 -----------------------
 Celes - Missionary 8
 zz1000.box
@@ -162,12 +162,12 @@ Dive into those boobs!
 Celes - Missionary 10
 zz1000.box
 ev035a2.iph
-I'm giving her mana, but it's depressing that someone has to deal with my lust.
+I'm giving her mana, but it's|depressing that someone has to|deal with my lust.
 //entry 33 -----------------------
 Celes - Missionary 11
 zz1000.box
 ev035b0.iph
-Don't let it worry you! Sex is honest!
+Don't let it worry you! Sex is|honest!
 //entry 34 -----------------------
 Celes - Cowgirl 1
 zz1000.box
@@ -177,77 +177,77 @@ She's pretty good at this.
 Celes - Cowgirl 2
 zz1000.box
 ev036a1.iph
-From the man's point of view, cowgirl is pretty easy.
+From the man's point of view,|cowgirl is pretty easy.
 //entry 36 -----------------------
 Celes - Cowgirl 3
 zz1000.box
 ev036a2.iph
-A tired woman on top is nice too.
+A tired woman on top is nice|too.
 //entry 37 -----------------------
 Celes - Cowgirl 4
 zz1000.box
 ev036a1.iph
-Celes's breasts stand out in this position.
+Celes's breasts stand out in|this position.
 //entry 38 -----------------------
 Celes - Cowgirl 5
 zz1000.box
 ev036a1.iph
-I keep moving my hips, and her breasts keep shaking.
+I keep moving my hips, and her|breasts keep shaking.
 //entry 39 -----------------------
 Celes - Cowgirl 6
 zz1000.box
 ev036a1.iph
-Hmm... My hips are sore. Scary.
+Hmm... My hips are sore.|Scary.
 //entry 40 -----------------------
 Celes - Cowgirl 7
 zz1000.box
 ev036a1.iph
-It feels like I've been wrung out...
+It feels like I've been wrung|out...
 //entry 41 -----------------------
 Celes - Cowgirl 8
 zz1000.box
 ev036a1.iph
-N-No more... Celes, give me a break.
+N-No more... Celes, give me a|break.
 //entry 42 -----------------------
 Celes - 69 1
 zz1000.box
 ev037a0.iph
-At first, it was nice because it was new.
+At first, it was nice because|it was new.
 //entry 43 -----------------------
 Celes - 69 2
 zz1000.box
 ev037a0.iph
-Once she got used to it, she got good with her tongue.
+Once she got used to it, she|got good with her tongue.
 //entry 44 -----------------------
 Celes - 69 3
 zz1000.box
 ev037a0.iph
-Her breasts are pressed against my stomach.
+Her breasts are pressed|against my stomach.
 //entry 45 -----------------------
 Celes - 69 4
 zz1000.box
 ev037a1.iph
-Her pussy is right in front of me.
+Her pussy is right in front of|me.
 //entry 46 -----------------------
 Celes - 69 5
 zz1000.box
 ev037a2.iph
-Oooh! Her hands and mouth are...
+Oooh! Her hands and mouth|are...
 //entry 47 -----------------------
 Celes - 69 6
 zz1000.box
 ev037a2.iph
-It's a little frustrating to be at her mercy.
+It's a little frustrating to|be at her mercy.
 //entry 48 -----------------------
 Celes - 69 7
 zz1000.box
 ev037a1.iph
-Her tongue has reached the level of a master.
+Her tongue has reached the|level of a master.
 //entry 49 -----------------------
 Celes - 69 8
 zz1000.box
 ev037a2.iph
-If I slack off on, she gets mad.
+If I slack off on, she gets|mad.
 //entry 50 -----------------------
 Celes - Exhausted 1
 zz1000.box
@@ -262,7 +262,7 @@ Yep. Overdid it.
 Celes - Exhausted 3
 zz1000.box
 ev038a0.iph
-Are you okay, Celes? Can you go another round?
+Are you okay, Celes? Can you|go another round?
 //entry 53 -----------------------
 Celes - Exhausted 4
 zz1000.box
@@ -272,12 +272,12 @@ Time for healing magic.
 Celes - Exhausted 5
 zz1000.box
 ev038a0.iph
-Even after she got used to sex, she still gets pretty tired.
+Even after she got used to|sex, she still gets pretty|tired.
 //entry 55 -----------------------
 Celes - Exhausted 6
 zz1000.box
 ev038a0.iph
-I'll never get tired of sex with her.
+I'll never get tired of sex|with her.
 //entry 56 -----------------------
 Celes - Exhausted 7
 zz1000.box
@@ -287,32 +287,32 @@ She takes sex to the limit.
 Celes - Exhausted 8
 zz1000.box
 ev038a0.iph
-Sometimes, I'm the one who wears out first. Her stamina is limitless!
+Sometimes, I'm the one who|wears out first. Her stamina is|limitless!
 //entry 58 -----------------------
 Celes - Bath 1
 zz1000.box
 ev039a0.iph
-It's always warm, thanks to magic.
+It's always warm, thanks to|magic.
 //entry 59 -----------------------
 Celes - Bath 2
 zz1000.box
 ev039a0.iph
-Sex in the bath means you can wash up right away.
+Sex in the bath means you can|wash up right away.
 //entry 60 -----------------------
 Celes - Bath 3
 zz1000.box
 ev039a1.iph
-Celes is proactive when she doesn't have to worry about the smell.
+Celes is proactive when she|doesn't have to worry about the|smell.
 //entry 61 -----------------------
 Celes - Bath 4
 zz1000.box
 ev039a0.iph
-After sex, half the bath water is gone.
+After sex, half the bath water|is gone.
 //entry 62 -----------------------
 Celes - Bath 5
 zz1000.box
 ev039a0.iph
-A lot of fluids mixed into the water. Maybe we need to start over.
+A lot of fluids mixed into the|water. Maybe we need to start|over.
 //entry 63 -----------------------
 Celes - Attacked 1
 zz1000.box
@@ -322,17 +322,17 @@ Learn the penalty for defeat.
 Celes - Attacked 2
 zz1000.box
 ev040b0.iph
-Hmm... It feels weird attacking her like this.
+Hmm... It feels weird|attacking her like this.
 //entry 65 -----------------------
 Celes - Attacked 3
 zz1000.box
 ev040c0.iph
-Even if it feels weird, I can't stop.
+Even if it feels weird, I|can't stop.
 //entry 66 -----------------------
 Celes - Attacked 4
 zz1000.box
 ev040c0.iph
-I should just have regular sex with her instead.
+I should just have regular sex|with her instead.
 //entry 67 -----------------------
 Celes - Attacked 5
 zz1000.box
@@ -342,27 +342,27 @@ No, no, I'm not a criminal...
 Celes - Attacked 6
 zz1000.box
 ev040a1.iph
-I shouldn't be this excited about attacking her!
+I shouldn't be this excited|about attacking her!
 //entry 69 -----------------------
 Celes - Sitting 1
 zz1000.box
 ev041a0.iph
-It feels like I'm attacking her, but she was the one who asked me to do it.
+It feels like I'm attacking|her, but she was the one who|asked me to do it.
 //entry 70 -----------------------
 Celes - Sitting 2
 zz1000.box
 ev041a2.iph
-Wanting to do something else while having sex makes it hotter.
+Wanting to do something else|while having sex makes it|hotter.
 //entry 71 -----------------------
 Celes - Sitting 3
 zz1000.box
 ev041a1.iph
-She's moving her hips pretty eagerly.
+She's moving her hips pretty|eagerly.
 //entry 72 -----------------------
 Celes - Outdoors 1
 zz1000.box
 ev042a0.iph
-It's exciting to do it outdoors.
+It's exciting to do it|outdoors.
 //entry 73 -----------------------
 Celes - Outdoors 2
 zz1000.box
@@ -372,97 +372,97 @@ Workout clothes are exciting.
 Celes - Outdoors 3
 zz1000.box
 ev042a2.iph
-Workout cloths in an open field... Incredible.
+Workout cloths in an open|field... Incredible.
 //entry 75 -----------------------
 Celes - Outdoors 4
 zz1000.box
 ev042a2.iph
-Sex on the dirt can scrape up your knees, so be careful.
+Sex on the dirt can scrape up|your knees, so be careful.
 //entry 76 -----------------------
 Celes - Outdoors 5
 zz1000.box
 ev042a2.iph
-When having sex outdoors, don't be a bother to other people.
+When having sex outdoors,|don't be a bother to other|people.
 //entry 77 -----------------------
 Celes - Swimsuit 1
 zz1000.box
 ev043a0.iph
-I can't help but attacking her when she puts on a swimsuit.
+I can't help but attacking her|when she puts on a swimsuit.
 //entry 78 -----------------------
 Celes - Swimsuit 2
 zz1000.box
 ev043a0.iph
-Of course, it's a magic swimsuit.
+Of course, it's a magic|swimsuit.
 //entry 79 -----------------------
 Celes - Swimsuit 3
 zz1000.box
 ev043a2.iph
-Even if it's magic, it can still tear, so cowgirl only in rocky places.
+Even if it's magic, it can|still tear, so cowgirl only in|rocky places.
 //entry 80 -----------------------
 Celes - Swimsuit 4
 zz1000.box
 ev043a0.iph
-I tried to have sex while swimming, but both of us almost drowned.
+I tried to have sex while|swimming, but both of us almost|drowned.
 //entry 81 -----------------------
 Celes - Swimsuit 5
 zz1000.box
 ev043a1.iph
-The danger that you could be seen makes it more exciting.
+The danger that you could be|seen makes it more exciting.
 //entry 82 -----------------------
 Elle - First Time
 zz2000.box
 ev056a0.iph
-There's something immorally exciting about sex with someone you know.
+There's something immorally|exciting about sex with someone|you know.
 //entry 83 -----------------------
 Elle - Missionary 1
 zz2000.box
 ev059a1.iph
-We've had sex a lot of times between now and then.
+We've had sex a lot of times|between now and then.
 //entry 84 -----------------------
 Elle - Missionary 2
 zz2000.box
 ev059a4.iph
-Her chest is smaller than Celes's, but larger than Soshiette's.
+Her chest is smaller than|Celes's, but larger than|Soshiette's.
 //entry 85 -----------------------
 Elle - Missionary 3
 zz2000.box
 ev059a0.iph
-Elle is surprisingly and welcomely into it.
+Elle is surprisingly and|welcomely into it.
 //entry 86 -----------------------
 Elle - Missionary 4
 zz2000.box
 ev059a0.iph
-Elle seems to prefer me suddenly attacking her over a lot of foreplay.
+Elle seems to prefer me|suddenly attacking her over a|lot of foreplay.
 //entry 87 -----------------------
 Elle - Standing 1
 zz2000.box
 ev060a0.iph
-Elle goes to a lot of the same tournaments as Celes.
+Elle goes to a lot of the same|tournaments as Celes.
 //entry 88 -----------------------
 Elle - Standing 2
 zz2000.box
 ev060a2.iph
-Elle's paper drive technique is good for tournaments.
+Elle's paper drive technique|is good for tournaments.
 //entry 89 -----------------------
 Viola - First Time
 zz2000.box
 ev068a0.iph
-Well, the first time after a long time.
+Well, the first time after a|long time.
 //entry 90 -----------------------
 Viola - Missionary 1
 zz2000.box
 ev069a2.iph
-Viola can be assertive. It's not bad.
+Viola can be assertive. It's|not bad.
 //entry 91 -----------------------
 Viola - Missionary 2
 zz2000.box
 ev069a3.iph
-When I try to finish after just once, she wraps her legs around me and won't let me go.
+When I try to finish after|just once, she wraps her legs|around me and won't let me go.
 //entry 92 -----------------------
 Viola - Missionary 3
 zz2000.box
 ev069b1.iph
-She wears glasses too. Hmm... Her whole demeanor changes.
+She wears glasses too. Hmm...|Her whole demeanor changes.
 //entry 93 -----------------------
 Elle and Viola 1
 zz2000.box
@@ -472,7 +472,7 @@ A threesome. Delicious.
 Elle and Viola 2
 zz2000.box
 ev070a0.iph
-Viola gets needy when it's inside Elle.
+Viola gets needy when it's|inside Elle.
 //entry 95 -----------------------
 Viola - The Past
 zz2000.box
@@ -482,22 +482,22 @@ It was an eventful time.
 Soshiette
 zz2000.box
 ev073a1.iph
-I've known Soshiette for a long time.
+I've known Soshiette for a|long time.
 //entry 97 -----------------------
 Soshiette 2
 zz2000.box
 ev073a0.iph
-Soshiette used to have much shorter hair.
+Soshiette used to have much|shorter hair.
 //entry 98 -----------------------
 Soshiette - Cowgirl
 zz2000.box
 ev074a0.iph
-She's very good with her hips, probably because she can't use her chest.
+She's very good with her hips,|probably because she can't use|her chest.
 //entry 99 -----------------------
 Soshiette - Special
 zz1000.box
 ev004a0.iph
-In times of emergency, I give mana to her too.
+In times of emergency, I give|mana to her too.
 //entry 100 -----------------------
 Rune
 zz2000.box
@@ -507,22 +507,22 @@ The breast master.
 Rune - Missionary
 zz2000.box
 ev076a1.iph
-A sexy teacher, but it's therapy sex.
+A sexy teacher, but it's|therapy sex.
 //entry 102 -----------------------
 Crelia
 zz2000.box
 ev077a0.iph
-A lot of people want mana, especially those from wizard families.
+A lot of people want mana,|especially those from wizard|families.
 //entry 103 -----------------------
 Special Students
 zz2000.box
 ev078a0.iph
-Soshiette is the one who demands they be tied up, not me.
+Soshiette is the one who|demands they be tied up, not|me.
 //entry 104 -----------------------
 Marconnel
 zz2000.box
 ev079a0.iph
-A lot of people have fallen to the Guild's cruel ways.
+A lot of people have fallen to|the Guild's cruel ways.
 //entry 105 -----------------------
 Lynth 1
 zz2000.box
@@ -542,7 +542,7 @@ Not a real meet.
 Athletics 2
 zz1000.box
 ev053a0.iph
-My yard is no match for the power of the Guild.
+My yard is no match for the|power of the Guild.
 //entry 109 -----------------------
 Magic Fight 1
 zz1000.box
@@ -552,7 +552,7 @@ A landslide using magic.
 Magic Fight 2
 zz1000.box
 ev054a0.iph
-Soshiette and I are terrible at it, but Viola is a master.
+Soshiette and I are terrible|at it, but Viola is a master.
 //entry 111 -----------------------
 Sex Fight 1
 zz2000.box
@@ -567,37 +567,37 @@ Celes is assertive in bed!
 Hot Springs
 zz1000.box
 ev084a0.iph
-A relaxing hot spring adventure.♪
+A relaxing hot spring|adventure.♪
 //entry 114 -----------------------
 Summer Shrine
 zz2000.box
 ev100a0.iph
-A work in progress! Hmmm... If only Viola was that into it...
+A work in progress! Hmmm... If|only Viola was that into it...
 //entry 115 -----------------------
 Competition
 zz2000.box
 ev102a0.iph
-A work in progress! Starting sex during a match is cheating.
+A work in progress! Starting|sex during a match is|cheating.
 //entry 116 -----------------------
 Mizuno
 zz2000.box
 ev104a0.iph
-A work in progress! She's not like this!
+A work in progress! She's not|like this!
 //entry 117 -----------------------
 Yanyan
 zz2000.box
 ev106a0.iph
-A work in progress! Kuroka's a pretty fun character.
+A work in progress! Kuroka's a|pretty fun character.
 //entry 118 -----------------------
 Promises
 zz2000.box
 ev110a0.iph
-A work in progress! Traditions are important.
+A work in progress! Traditions|are important.
 //entry 119 -----------------------
 26 Year Old Magical Girl
 zz2000.box
 ev112a0.iph
-A work in progress! Wizards are one thing, but magic girls are something else.
+A work in progress! Wizards|are one thing, but magic girls|are something else.
 //entry 120 -----------------------
 White Snake 1
 zz2000.box
@@ -612,7 +612,7 @@ Demon story.|More misdeeds of Silver Fox!
 Tofu-kun
 zz2000.box
 ev116a0.iph
-Demon story.|Yet more misdeeds of Silver Fox! Tofu-kun was a girl!? No way!
+Demon story.|Yet more misdeeds of Silver|Fox! Tofu-kun was a girl!? No|way!
 //entry 123 -----------------------
 Miss Horn
 zz2000.box
@@ -622,9 +622,9 @@ Demon story.|Miss Horn is her best friend.
 Lilim
 zz2000.box
 ev118a0.iph
-Demon story.|Lilim is from Celestia, but it doesn't seem like it.
+Demon story.|Lilim is from Celestia, but it|doesn't seem like it.
 //entry 125 -----------------------
 Silver Fox
 zz2000.box
 ev119a0.iph
-Demon story.|After this, she spent the rest of her life as a human.
+Demon story.|After this, she spent the rest|of her life as a human.

@@ -1,111 +1,111 @@
 //entry 0 -----------------------
-You need to study magic to meet Elle.
+You need to study magic to meet|Elle.
 //entry 1 -----------------------
-Winning the Coudures Tournament is extremely difficult.
+Winning the Coudures Tournament is|extremely difficult.
 //entry 2 -----------------------
-Don't expect to win at Coudures your first, second, or even third try.
+Don't expect to win at Coudures|your first, second, or even third|try.
 //entry 3 -----------------------
-To win at Coudures, you need to reach the level of rekindling a relationship with Viola.
+To win at Coudures, you need to|reach the level of rekindling a|relationship with Viola.
 //entry 4 -----------------------
-Bring Magic Knowledge up to at least level 10!
+Bring Magic Knowledge up to at|least level 10!
 //entry 5 -----------------------
 Magic Defense is also important!
 //entry 6 -----------------------
-When dealing with a lot of enemies, use a decoy.
+When dealing with a lot of|enemies, use a decoy.
 //entry 7 -----------------------
-A decoy can be summoned with magic!
+A decoy can be summoned with|magic!
 //entry 8 -----------------------
-Fire Snake and Wind Chaser can both act as decoys.
+Fire Snake and Wind Chaser can|both act as decoys.
 //entry 9 -----------------------
 Walls are decoys too!
 //entry 10 -----------------------
 Are you upgrading your equipment?
 //entry 11 -----------------------
-Get equipment that matches your skills.
+Get equipment that matches your|skills.
 //entry 12 -----------------------
 Don't overdo it when you're weak!
 //entry 13 -----------------------
-There are scenes related to training too.
+There are scenes related to|training too.
 //entry 14 -----------------------
-If you don't try lots of things, you'll never complete the CG gallery.
+If you don't try lots of things,|you'll never complete the CG|gallery.
 //entry 15 -----------------------
-The Search skill is surprisingly important!
+The Search skill is surprisingly|important!
 //entry 16 -----------------------
 Demystify is a useful skill.
 //entry 17 -----------------------
-You can sometimes encounter an enemy while working as an adventurer.
+You can sometimes encounter an|enemy while working as an|adventurer.
 //entry 18 -----------------------
-You can sometimes encounter an enemy while working as a lifeguard.
+You can sometimes encounter an|enemy while working as a|lifeguard.
 //entry 19 -----------------------
-Constitution is an important skill.
+Constitution is an important|skill.
 //entry 20 -----------------------
 Mana Capacity is also important.
 //entry 21 -----------------------
-Mana Recovery is a very useful skill.
+Mana Recovery is a very useful|skill.
 //entry 22 -----------------------
-Don't underestimate the Combat Speed skill.
+Don't underestimate the Combat|Speed skill.
 //entry 23 -----------------------
-If you use Flash Step too much, your mana will be gone before you know it.
+If you use Flash Step too much,|your mana will be gone before you|know it.
 //entry 24 -----------------------
-If you summon too many monsters, you may get bogged down.
+If you summon too many monsters,|you may get bogged down.
 //entry 25 -----------------------
-Weapon Defense raises your defense when using any weapon.
+Weapon Defense raises your defense|when using any weapon.
 //entry 26 -----------------------
-Flight will increase the number of places you can travel.
+Flight will increase the number of|places you can travel.
 //entry 27 -----------------------
-If you want to work as a cook, you should invest in the Cooking skill.
+If you want to work as a cook, you|should invest in the Cooking|skill.
 //entry 28 -----------------------
-If you want to help around the house, you should learn the Cleaning and Washing skills.
+If you want to help around the|house, you should learn the|Cleaning and Washing skills.
 //entry 29 -----------------------
-Shopping is a useful skill to have when buying things.
+Shopping is a useful skill to have|when buying things.
 //entry 30 -----------------------
-Music will raise the success rate of most jobs.
+Music will raise the success rate|of most jobs.
 //entry 31 -----------------------
-Sexuality will give you more mana during fun times.
+Sexuality will give you more mana|during fun times.
 //entry 32 -----------------------
-You'll find more treasure chests with the Search skill.
+You'll find more treasure chests|with the Search skill.
 //entry 33 -----------------------
-With Demystify, you won't get lost as often.
+With Demystify, you won't get lost|as often.
 //entry 34 -----------------------
-If you're fighting monsters, it could be good to have Monsterology.
+If you're fighting monsters, it|could be good to have|Monsterology.
 //entry 35 -----------------------
-The Kingdom Festival is the third week in October!
+The Kingdom Festival is the third|week in October!
 //entry 36 -----------------------
-Trapology will help you dodge traps.
+Trapology will help you dodge|traps.
 //entry 37 -----------------------
-Poisonology can help avoid certain kinds of traps, and maybe a little with cooking too.
+Poisonology can help avoid certain|kinds of traps, and maybe a little|with cooking too.
 //entry 38 -----------------------
-If you're going to tournaments, you may want to learn Gamesmanship.
+If you're going to tournaments,|you may want to learn|Gamesmanship.
 //entry 39 -----------------------
-For a fighter, Tactics is a valuable skill.
+For a fighter, Tactics is a|valuable skill.
 //entry 40 -----------------------
-If you can afford it, buy nice furniture.
+If you can afford it, buy nice|furniture.
 //entry 41 -----------------------
-Working as a farmhand can be useful.
+Working as a farmhand can be|useful.
 //entry 42 -----------------------
-The first week in June is the Rune Academy festival.
+The first week in June is the Rune|Academy festival.
 //entry 43 -----------------------
-Don't forget about the mock battles.
+Don't forget about the mock|battles.
 //entry 44 -----------------------
-Test your strength in the mock battles.
+Test your strength in the mock|battles.
 //entry 45 -----------------------
-When you attempt towers multiple times, you can skip already cleared floors.
+When you attempt towers multiple|times, you can skip already cleared|floors.
 //entry 46 -----------------------
 Be brave enough to run away!
 //entry 47 -----------------------
-If you have no money, find a part time job!
+If you have no money, find a part|time job!
 //entry 48 -----------------------
 Watch your money carefully!
 //entry 49 -----------------------
-You'll sometimes encounter an enemy while working as a guard.
+You'll sometimes encounter an|enemy while working as a guard.
 //entry 50 -----------------------
-A white cat marks the days when there's a tournament.
+A white cat marks the days when|there's a tournament.
 //entry 51 -----------------------
-Lazlocke's mana can also be the trigger for certain events to occur.
+Lazlocke's mana can also be the|trigger for certain events to|occur.
 //entry 52 -----------------------
-If you don't win the qualifiers in December, you won't be able to attend the Coudures tournament.
+If you don't win the qualifiers in|December, you won't be able to|attend the Coudures tournament.
 //entry 53 -----------------------
-The first week in July is the shop festival.
+The first week in July is the shop|festival.
 //entry 54 -----------------------
 Celes's birthday is in March.
 //entry 55 -----------------------
@@ -115,92 +115,92 @@ Take it easy.
 //entry 57 -----------------------
 Don't rush!
 //entry 58 -----------------------
-The weapons store occasionally has a half-off sale.
+The weapons store occasionally has|a half-off sale.
 //entry 59 -----------------------
-Working in the field and at the beach are seasonal jobs.
+Working in the field and at the|beach are seasonal jobs.
 //entry 60 -----------------------
-If you encounter a strong enemy, run away.
+If you encounter a strong enemy,|run away.
 //entry 61 -----------------------
-Why not just hang out with Lazlocke every now and then?
+Why not just hang out with|Lazlocke every now and then?
 //entry 62 -----------------------
-Blade Guard and Staff Guard are excellent defensive skills.
+Blade Guard and Staff Guard are|excellent defensive skills.
 //entry 63 -----------------------
 Have a solid battle plan.
 //entry 64 -----------------------
-Do you have the right equipment for your skills?
+Do you have the right equipment|for your skills?
 //entry 65 -----------------------
-There will be countless obstacles in your path.
+There will be countless obstacles|in your path.
 //entry 66 -----------------------
 Plan your shopping ahead of time.
 //entry 67 -----------------------
-Dodging lets you avoid any attack.
+Dodging lets you avoid any|attack.
 //entry 68 -----------------------
-Even if it's only slightly better, the best armor your can afford is worth it.
+Even if it's only slightly better,|the best armor your can afford is|worth it.
 //entry 69 -----------------------
-Furniture and items are inherited when you start a new game.
+Furniture and items are inherited|when you start a new game.
 //entry 70 -----------------------
-When fighting Viola, make sure you're strong against every element and have ample magic resistance.
+When fighting Viola, make sure|you're strong against every element|and have ample magic resistance.
 //entry 71 -----------------------
-When you change modes, the starting situation changes slightly.
+When you change modes, the|starting situation changes|slightly.
 //entry 72 -----------------------
-To have a real relationship with Elle, Celes will need to conquer a few towers and win the Queensbell tournament.
+To have a real relationship with|Elle, Celes will need to conquer a|few towers and win the Queensbell|tournament.
 //entry 73 -----------------------
 End the war quickly.
 //entry 74 -----------------------
-If you participate in the war, it will end sooner.
+If you participate in the war, it|will end sooner.
 //entry 75 -----------------------
 Prices rise during war.
 //entry 76 -----------------------
-Some events change depending on which mode you're in.
+Some events change depending on|which mode you're in.
 //entry 77 -----------------------
-You should try playing in a previous mode to change things up.
+You should try playing in a|previous mode to change things up.
 //entry 78 -----------------------
 Challenge the Tower of Heroes.
 //entry 79 -----------------------
-The higher you make it in the Tower of Heroes, the more stats you carry over for the next game.
+The higher you make it in the|Tower of Heroes, the more stats you|carry over for the next game.
 //entry 80 -----------------------
 Viola's birthday is in September.
 //entry 81 -----------------------
 Elle's birthday is in November.
 //entry 82 -----------------------
-If you want to have a relationship with Elle, conquer towers and win tournaments.
+If you want to have a relationship|with Elle, conquer towers and win|tournaments.
 //entry 83 -----------------------
-Hanging out with Elle is a good idea too.
+Hanging out with Elle is a good|idea too.
 //entry 84 -----------------------
-Only the Coudures trophy counts for a new game.
+Only the Coudures trophy counts|for a new game.
 //entry 85 -----------------------
-Study or train to improve. Work doesn't always help.
+Study or train to improve. Work|doesn't always help.
 //entry 86 -----------------------
-Make sure you don't set the retreat condition too low, or Celes might get hurt before she can run.
+Make sure you don't set the|retreat condition too low, or Celes|might get hurt before she can run.
 //entry 87 -----------------------
 Viola comes after Elle.
 //entry 88 -----------------------
-A relationship with Viola may be impossible except in later modes.
+A relationship with Viola may be|impossible except in later modes.
 //entry 89 -----------------------
-Set Celes's skills in battle carefully.
+Set Celes's skills in battle|carefully.
 //entry 90 -----------------------
-Set Celes's priorities in battle even more carefully.
+Set Celes's priorities in battle|even more carefully.
 //entry 91 -----------------------
-Each skill can only be used a certain number of times per stage.
+Each skill can only be used a|certain number of times per stage.
 //entry 92 -----------------------
-Watch your remaining MP carefully.
+Watch your remaining MP|carefully.
 //entry 93 -----------------------
-Are you participating in the Queensbell tournament?
+Are you participating in the|Queensbell tournament?
 //entry 94 -----------------------
-As you progress through the story, try to win as many tournaments and conquer as many towers as you can.
+As you progress through the story,|try to win as many tournaments and|conquer as many towers as you can.
 //entry 95 -----------------------
-You can't use Drain Magic if your target doesn't have any MP.
+You can't use Drain Magic if your|target doesn't have any MP.
 //entry 96 -----------------------
-Dark magic isn't great against monsters.
+Dark magic isn't great against|monsters.
 //entry 97 -----------------------
-Valuable items can be found in chests.
+Valuable items can be found in|chests.
 //entry 98 -----------------------
-Treasure chests marked on the map will be automatically acquired when you clear that floor.
+Treasure chests marked on the map|will be automatically acquired when|you clear that floor.
 //entry 99 -----------------------
 Sell treasure items.
 //entry 100 -----------------------
-You can attempt the Coudures qualifiers in December as many times as you want.
+You can attempt the Coudures|qualifiers in December as many|times as you want.
 //entry 101 -----------------------
-Be careful of enemies that use skills that nullify certain elements.
+Be careful of enemies that use|skills that nullify certain|elements.
 //entry 102 -----------------------
-Reflex is a useful skill when faced against multiple enemies.
+Reflex is a useful skill when|faced against multiple enemies.

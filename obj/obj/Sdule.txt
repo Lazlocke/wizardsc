@@ -4,480 +4,480 @@ Sdul_a00.iph
 a0000|a0001|a0002|a0003
 k100.box
 *
-Increase your Physical capability.|Even wizards need to be in good shape. Your health is the basis for everything, so train up!
+Train Physical.|Even wizards need to be|in good shape. Your|health is the basis for|everything, so train up!
 //entry 1 -----------------------
 格闘訓練
 Sdul_a01.iph
 a0100|a0101|a0102
 k101.box
 *
-Increase your Unarmed capability.|If you don't own a weapon, this is a skill worth learning.|Work hard.
+Train Unarmed.|If you don't own a|weapon, this is a skill|worth learning.|Work hard.
 //entry 2 -----------------------
 武器練習
 Sdul_a02.iph
 a0200|a0201|a0202|a0203
 k102.box
 *
-Increase your Weapons capability.|You can't even swing a sword safely without learning the basics.
+Train Weapons.|You can't even swing a|sword safely without|learning the basics.
 //entry 3 -----------------------
 遠距離武器練習
 Sdul_a03.iph
 a0300|a0301
 k103.box
 *
-Increase your Ranged capability.|If you can keep your distance, you will own the battlefield.
+Train Ranged.|If you can keep your|distance, you will own|the battlefield.
 //entry 4 -----------------------
 特殊武器練習
 Sdul_a04.iph
 a0400|a0401|a0402
 k104.box
 *
-Increase your Unconventional capability.|Some things are just too special to be treated like regular weapons.
+Train Unconventional.|Some things are just too|special to be treated|like regular weapons.
 //entry 5 -----------------------
 魔法基礎勉強
 Sdul_b00.iph
 a0500|a0501|a0502|a0503|a0504|a0505|a0506|a0507|a0508
 k200.box
 *
-Increase your Magic capability.|The basics are everything. Don't neglect your studies.
+Study Magic.|The basics are|everything. Don't neglect|your studies.
 //entry 6 -----------------------
 火の魔法勉強
 Sdul_b01.iph
 a0600|a0601|a0602|a0603
 k201.box
 *
-Increase your Pyromancy capability.|Flame magic is good for area attacks, so it's great for battle.
+Study Pyromancy.|Flame magic is good for|area attacks, so it's|great for battle.
 //entry 7 -----------------------
 水の魔法勉強
 Sdul_b02.iph
 a0700|a0701|a0702|a0703
 k202.box
 *
-Increase your Hydromancy capability.|Water magic is powerful in enclosed spaces, so it's strong in a tournament setting.
+Study Hydromancy.|Water magic is powerful|in enclosed spaces, so|it's strong in a|tournament setting.
 //entry 8 -----------------------
 風の魔法勉強
 Sdul_b03.iph
 a0800|a0801|a0802|a0803
 k203.box
 *
-Increase your Aeromancy capability.|Wind magic is weak, but it's fast. A lot of spells are good for enhancing fighting with weapons.
+Study Aeromancy.|Wind magic is weak, but|it's fast. A lot of|spells are good for|enhancing fighting with|weapons.
 //entry 9 -----------------------
 土の魔法勉強
 Sdul_b04.iph
 a0900|a0901|a0902|a0903
 k204.box
 *
-Increase your Geomancy capability.|Earth magic has a lot of defensive spells. Healing magic is also key to any wizard's repertoire.
+Study Geomancy.|Earth magic has a lot of|defensive spells. Healing|magic is also key to any|wizard's repertoire.
 //entry 10 -----------------------
 雷の魔法勉強
 Sdul_b05.iph
 a1000|a1001|a1002
 k205.box
 *
-Increase your Electromancy capability.|Lightning magic blasts everything straight in front of you, perfect for any fight.
+Study Electromancy.|Lightning magic blasts|everything straight in|front of you, perfect for|any fight.
 //entry 11 -----------------------
 闇の魔法勉強
 Sdul_b06.iph
 a1100|a1101|a1102|a1103
 k206.box
 *
-Increase your Umbramancy capability.|Darkness magic attacks your foe's mana and has spells for summoning monsters.
+Study Umbramancy.|Darkness magic attacks|your foe's mana and has|spells for summoning|monsters.
 //entry 12 -----------------------
 光の魔法勉強
 Sdul_b07.iph
 a1200|a1201|a1202|a1203
 k207.box
 *
-Increase your Spectromancy capability.|Light magic has a lot of trickery and illusions. Pick your spells carefully.
+Study Spectromancy.|Light magic has a lot of|trickery and illusions.|Pick your spells|carefully.
 //entry 13 -----------------------
 火水の魔法勉強
 Sdul_b08.iph
 a1300|a1301|a1302
 k208.box
 *
-Increase your Pyromancy and Hydromancy.|By knowing fire, you know water. By knowing water, you know fire.
+Study Pyromancy and|Hydromancy.|By knowing fire, you know|water. By knowing water,|you know fire.
 //entry 14 -----------------------
 風土の魔法勉強
 Sdul_b09.iph
 a1400|a1401|a1402
 k209.box
 *
-Increase your Aeromancy and Geomancy.|The two schools seem unrelated, but they're actually very close.
+Study Aeromancy and|Geomancy.|The two schools seem|unrelated, but they're|actually very close.
 //entry 15 -----------------------
 光闇の魔法勉強
 Sdul_b10.iph
 a1500|a1501|a1502
 k210.box
 *
-Increase your Umbramancy and Spectromancy.|This is one of the most complex forms of magic to study.
+Study Umbramancy and|Spectromancy.|This is one of the most|complex forms of magic to|study.
 //entry 16 -----------------------
 魔法総合勉強
 Sdul_b11.iph
 a1600|a1601|a1602|a1603|a1604|a1605|a1606|a1607|a1608|a1609
 k211.box
 *
-Increase all magic capabilities.|Tremendously difficult to study well, but the results are well worth it.
+Study all magic schools.|Tremendously difficult to|study well, but the|results are well worth|it.
 //entry 17 -----------------------
 ウェイトレス
 Sdul_c00.iph
 a1700|a1701
 k300.box
 *
-Work as a waitress.|200-550Ｂ per week.|Always available for a hard worker.
+Work as a waitress.|200-550Ｂ per week.|Always available for a|hard worker.
 //entry 18 -----------------------
 海の監視員
 Sdul_c01.iph
 a1800|a1801
 k301.box
 *
-Work as a lifeguard.|400-510Ｂ per week.|Only available during the summer.
+Work as a lifeguard.|400-510Ｂ per week.|Only available during the|summer.
 //entry 19 -----------------------
 畑仕事
 Sdul_c02.iph
 a1900|a1901|a1902
 k302.box
 *
-Work as a farmhand.|300-650Ｂ per week.|Only available during harvest time.
+Work as a farmhand.|300-650Ｂ per week.|Only available during|harvest time.
 //entry 20 -----------------------
 冒険者活動
 Sdul_c03.iph
 a2000|a2001
 k303.box
 *
-Work as an adventurer.|-1400-2100Ｂ per week.|Always available, but possibly dangerous, and may be costly if you mess up.
+Work as an adventurer.|-1400-2100Ｂ per week.|Always available, but|possibly dangerous, and|may be costly if you mess|up.
 //entry 21 -----------------------
 料理人アルバイト
 Sdul_c04.iph
 a2100
 k304.box
 *
-Work as a chef.|-250-800Ｂ per week.|If you're not a good cook, you might have to pay for your mistakes.
+Work as a chef.|-250-800Ｂ per week.|If you're not a good|cook, you might have to|pay for your mistakes.
 //entry 22 -----------------------
 警備員アルバイト
 Sdul_c05.iph
 a2200|a2201|a2202
 k305.box
 *
-Work as a guard.|-250-1150Ｂ per week.|If you can't apprehend a criminal, you may need to pay for the damages.
+Work as a guard.|-250-1150Ｂ per week.|If you can't apprehend a|criminal, you may need to|pay for the damages.
 //entry 23 -----------------------
 大会スタッフ
 Sdul_c06.iph
 a2300
 k306.box
 *
-Work as tournament staff.|-230-720Ｂ per week.|Only available during tournaments. If you don't sell, you may have to pay it off.
+Work as tournament|staff.|-230-720Ｂ per week.|Only available during|tournaments. If you don't|sell, you may have to pay|it off.
 //entry 24 -----------------------
 研究手伝い
 Sdul_c07.iph
 a2400
 k307.box
 *
-Work as a wizard's assistant.|-300-750Ｂ per week.|You may cause more harm than good if you don't have some magical knowledge.
+Work as a wizard's|assistant.|-300-750Ｂ per week.|You may cause more harm|than good if you don't|have some magical|knowledge.
 //entry 25 -----------------------
 家事手伝い
 Sdul_c08.iph
 a2500
 k308.box
 *
-Do housework at home.|-20-190Ｂ per week.|You can't make much money, but you might pick up some useful domestic skills.
+Do housework at home.|-20-190Ｂ per week.|You can't make much|money, but you might pick|up some useful domestic|skills.
 //entry 26 -----------------------
 師匠の手伝い
 Sdul_c09.iph
 a2600
 k309.box
 *
-Assist Lazlocke.|50-120Ｂ per week.|The master is supposed to earn money. Supposed to.
+Assist Lazlocke.|50-120Ｂ per week.|The master is supposed to|earn money. Supposed to.
 //entry 27 -----------------------
 街の探索
 Sdul_d00.iph
 *
 damiy.box
 街中06
-Hunt ghosts in the city.|They haven't hurt anybody yet, but someone has to get rid of them.
+Hunt ghosts in the city.|They haven't hurt anybody|yet, but someone has to|get rid of them.
 //entry 28 -----------------------
 森の探索
 Sdul_d01.iph
 *
 damiy.box
 森00
-Hunt the mushroom monster.|Seek and destroy.
+Hunt the mushroom|monster.|Seek and destroy.
 //entry 29 -----------------------
 山の探索
 Sdul_d02.iph
 *
 damiy.box
 山00
-Hunt monsters in the mountains.|It's not unusual for them to be there, but they're causing trouble. Go keep the peace.
+Hunt monsters in the|mountains.|It's not unusual for them|to be there, but they're|causing trouble. Go keep|the peace.
 //entry 30 -----------------------
 海の探索
 Sdul_d03.iph
 *
 damiy.box
 海辺00
-Hunt monsters at the beach.|They're causing trouble for beach-goers. Chase them down and exterminate them.
+Hunt monsters at the|beach.|They're causing trouble|for beach-goers. Chase|them down and exterminate|them.
 //entry 31 -----------------------
 武術大会に出場
 Sdul_d04.iph
 *
 damiy.box
 バンカスター武術大会
-Participate in the quadrennial Bancaster Tournament.|Full of strong warriors, so if you're not confident, steer clear.
+Enter the quadrennial|Bancaster Tournament.|Full of strong warriors,|so if you're not|confident, steer clear.
 //entry 32 -----------------------
 魔法大会に出場
 Sdul_d05.iph
 *
 damiy.box
 クインズベル魔法大会
-Participate in the Queensbell Magic Tournament.|A popular tournament held every month except December and January, when Coudures happens instead.
+Enter the Queensbell|Magic Tournament.|A popular tournament held|every month except|December and January,|when Coudures happens|instead.
 //entry 33 -----------------------
 料理大会に出場
 Sdul_d06.iph
 *
 damiy.box
 ローリア料理大会
-Participate in the Loria Chef Tournament.|Test your mettle against the greatest chefs of the city.
+Enter the Loria Chef|Tournament.|Test your mettle against|the greatest chefs of the|city.
 //entry 34 -----------------------
 クデュールの予選に参加
 Sdul_d07.iph
 *
 damiy.box
 クデュール魔法大会予選
-Participate in the qualifiers for Coudures.|If you can't win here, you can't make it to the finals.
+Enter the qualifiers for|Coudures.|If you can't win here,|you can't make it to the|finals.
 //entry 35 -----------------------
 クデュール魔法大会に出場
 Sdul_d08.iph
 *
 damiy.box
 クデュール魔法大会
-Participate in the Coudures Wizard Tournament.|If Celes can win this, all her dreams will come true.
+Enter the Coudures|Wizard Tournament.|If Celes can win this,|all her dreams will come|true.
 //entry 36 -----------------------
 真なる英雄の大会に出場
 Sdul_d09.iph
 *
 damiy.box
 真なる英雄の大会
-Participate in an illegal tournament held at random.|It's illegal, so you can't brag about winning, but people will still know.
+Enter an illegal|tournament held at|random.|It's illegal, so you|can't brag about winning,|but people will still|know.
 //entry 37 -----------------------
 戦場への参加
 Sdul_d10.iph
 *
 damiy.box
 戦場00
-Join the Queensbell Army.|Being a soldier doesn't pay very well...
+Join the Queensbell|Army.|Being a soldier doesn't|pay very well...
 //entry 38 -----------------------
 認定の塔へ挑戦
 Sdul_d11.iph
 *
 damiy.box
 認定の塔
-Climb the ranks of wizardhood.|This is a place to test your magical mettle.
+Climb the ranks of|wizardhood.|This is a place to test|your magical mettle.
 //entry 39 -----------------------
 試練の塔へ挑戦
 Sdul_d12.iph
 *
 damiy.box
 試練の塔
-A tower for training wizards in combat.|A real wizard has to start somewhere.
+A tower for training|wizards in combat.|A real wizard has to|start somewhere.
 //entry 40 -----------------------
 魔法の塔へ挑戦
 Sdul_d13.iph
 *
 damiy.box
 魔法の塔
-Climb an ancient wizard's tower.|They say it used to be guarded by an evil wizard, and none came near.
+Climb an ancient|wizard's tower.|They say it used to be|guarded by an evil|wizard, and none came|near.
 //entry 41 -----------------------
 祝福の塔へ挑戦
 Sdul_d14.iph
 *
 damiy.box
 祝福の塔
-Climb a blessed tower.|Those who reach the top are said to be blessed, but that takes guts and skill.
+Climb a blessed tower.|Those who reach the top|are said to be blessed,|but that takes guts and|skill.
 //entry 42 -----------------------
 絶望の塔へ挑戦
 Sdul_d15.iph
 *
 damiy.box
 絶望の塔
-Climb a despairing tower.|It's not the height of the tower that brings people to despair.
+Climb a despairing|tower.|It's not the height of|the tower that brings|people to despair.
 //entry 43 -----------------------
 王魔の塔へ挑戦
 Sdul_d16.iph
 *
 damiy.box
 王魔の塔
-Climb an underlord's tower.|Said to be built by a kind who became an overlord, so it's definitely full of monsters.
+Climb an underlord's|tower.|Said to be built by a|kind who became an|overlord, so it's|definitely full of|monsters.
 //entry 44 -----------------------
 最上の塔へ挑戦
 Sdul_d17.iph
 *
 damiy.box
 最上の塔
-Climb an imposing tower.|You can see dragons flying all around the top of it from miles away.
+Climb an imposing tower.|You can see dragons|flying all around the top|of it from miles away.
 //entry 45 -----------------------
 神魔の塔へ挑戦
 Sdul_d18.iph
 *
 damiy.box
 神魔の塔
-Climb a mysterious tower.|Somehow related to angels and demons, but it's not clear how.
+Climb a mysterious|tower.|Somehow related to angels|and demons, but it's not|clear how.
 //entry 46 -----------------------
 詠唱の塔へ挑戦
 Sdul_d19.iph
 *
 damiy.box
 詠唱の塔
-Climb the Guild HQ.|Usually peaceful, but it's full of wizards eager to prove how eccentric they are.
+Climb the Guild HQ.|Usually peaceful, but|it's full of wizards|eager to prove how|eccentric they are.
 //entry 47 -----------------------
 地下迷宮へ挑戦
 Sdul_d20.iph
 *
 damiy.box
 地下迷宮
-Climb down a dungeon.|Unlike a tower, dungeons are mazes. It's easy to get lost if you're not a seasoned adventurer.
+Climb down a dungeon.|Unlike a tower, dungeons|are mazes. It's easy to|get lost if you're not a|seasoned adventurer.
 //entry 48 -----------------------
 大地下迷宮へ挑戦
 Sdul_d21.iph
 *
 damiy.box
 大地下迷宮
-Climb down a labrynth.|The true name is unknown, but it'll swallow you if you're not an expert adventurer.
+Climb down a labrynth.|The true name is unknown,|but it'll swallow you if|you're not an expert|adventurer.
 //entry 49 -----------------------
 魔王の城へ挑戦
 Sdul_d22.iph
 *
 damiy.box
 魔王の城
-Explore an overlord's castle.|It's not certain an overlord really lives here, but it's definitely dangerous.
+Explore an overlord's|castle.|It's not certain an|overlord really lives|here, but it's definitely|dangerous.
 //entry 50 -----------------------
 野試合
 Sdul_d23.iph
 *
 damiy.box
 街中00
-Something's going on downtown.|Let's have a look.
+Something's going on|downtown.|Let's have a look.
 //entry 51 -----------------------
 野試合
 Sdul_d23.iph
 *
 damiy.box
 街中01
-If you're looking for a fight, one has a way of finding you.
+If you're looking for a|fight, one has a way of|finding you.
 //entry 52 -----------------------
 野試合
 Sdul_d23.iph
 *
 damiy.box
 街中02
-Someone's following me.|I don't remember wronging anybody though...
+Someone's following me.|I don't remember wronging|anybody though...
 //entry 53 -----------------------
 野試合
 Sdul_d23.iph
 *
 damiy.box
 街中03
-Hmm... I heard a scream.|Something's wrong in the city!
+Hmm... I heard a scream.|Something's wrong in the|city!
 //entry 54 -----------------------
 野試合
 Sdul_d23.iph
 *
 damiy.box
 街中04
-All kinds of people come out at night. Be careful!
+All kinds of people come|out at night. Be|careful!
 //entry 55 -----------------------
 野試合
 Sdul_d23.iph
 *
 damiy.box
 街中05
-There's all manner of people in the city, and some of them are dangerous.
+There's all manner of|people in the city, and|some of them are|dangerous.
 //entry 56 -----------------------
 イエルと勝負
 Sdul_d24.iph
 *
 damiy.box
 家の裏庭04
-Test your skill against Elle.
+Test your skill against|Elle.
 //entry 57 -----------------------
 ヴィオラと勝負
 Sdul_d25.iph
 *
 damiy.box
 家の裏庭05
-Test your skill against Viola.
+Test your skill against|Viola.
 //entry 58 -----------------------
 ソシエットと勝負
 Sdul_d26.iph
 *
 damiy.box
 家の裏庭06
-Test your skill against Soshiette... if you can survive.
+Test your skill against|Soshiette... if you can|survive.
 //entry 59 -----------------------
 対魔物戦闘
 Sdul_e00.iph
 *
 *
 家の裏庭00
-Test your skill against a monster.
+Test your skill against|a monster.
 //entry 60 -----------------------
 対人戦闘
 Sdul_e01.iph
 *
 *
 家の裏庭01
-Test your skill against another person.
+Test your skill against|another person.
 //entry 61 -----------------------
 対多魔物戦闘
 Sdul_e02.iph
 *
 *
 家の裏庭02
-Test your skill against a horde of monsters.
+Test your skill against|a horde of monsters.
 //entry 62 -----------------------
 対多人数戦闘
 Sdul_e03.iph
 *
 *
 家の裏庭03
-Test your skill against a horde of people.
+Test your skill against|a horde of people.
 //entry 63 -----------------------
 買物
 Sdul_f00.iph
 *
 k600.box
 *
-Recover HP and visit the store.|You might even find a bargain.
+Recover HP and visit the|store.|You might even find a|bargain.
 //entry 64 -----------------------
 惰眠
 Sdul_f01.iph
 *
 k601.box
 *
-Greatly restore HP.|Recommended before tournaments.
+Greatly restore HP.|Recommended before|tournaments.
 //entry 65 -----------------------
 読書
 Sdul_f02.iph
 *
 k602.box
 *
-Recover HP and gain knowledge.|Reading is the first step towards greatness.
+Recover HP and gain|knowledge.|Reading is the first step|towards greatness.
 //entry 66 -----------------------
 イエルと遊びに
 Sdul_f03.iph
 *
 k603.box
 *
-It's not a bad idea to go see Elle every now and then.|Viola may come along too.
+It's not a bad idea to|go see Elle every now and|then.|Viola may show up too.
 //entry 67 -----------------------
 師匠と遊びに
 Sdul_f04.iph
 *
 k604.box
 *
-All work and no play isn't good for the body or the mind.
+All work and no play|isn't good for the body|or the mind.
 //entry 68 -----------------------
 魔力補給
 Sdul_f05.iph
 *
 k605.box
 *
-Transfer mana. Be sure to note both participant's current MP.
+Transfer mana. Be sure|to note both|participant's current|MP.

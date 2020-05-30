@@ -5,7 +5,7 @@ s0_00_00.iph
 i0_00_00.iph
 無
 Atk +5|Type: Sword
-Even if it's rusty, it still cuts.
+Even if it's rusty, it still|cuts.
 //entry 1 -----------------------
 Common Sword
 剣
@@ -13,7 +13,7 @@ s0_00_01.iph
 i0_00_01.iph
 無
 Atk +8|Type: Sword
-Don't underestimate mass-produced goods.
+Don't underestimate|mass-produced goods.
 //entry 2 -----------------------
 Custom Sword
 剣
@@ -21,7 +21,7 @@ s0_00_02.iph
 i0_00_02.iph
 無
 Atk +12|Type: Sword
-If you're a swordsman, you want to at least have one.
+If you're a swordsman, you|want to at least have one.
 //entry 3 -----------------------
 Tempered Sword
 剣
@@ -29,7 +29,7 @@ s0_00_03.iph
 i0_00_03.iph
 無
 Atk +17|Type: Sword
-A sharp, if unremarkable sword.
+A sharp, if unremarkable|sword.
 //entry 4 -----------------------
 Schneider Blade
 剣
@@ -77,7 +77,7 @@ s0_00_09.iph
 i0_00_09.iph
 無
 Atk +60|Type: Sword
-Seems amazing, but it's not sure why.
+Seems amazing, but it's not|sure why.
 //entry 10 -----------------------
 Exorcism Blade
 剣
@@ -85,7 +85,7 @@ s0_00_10.iph
 i0_00_10.iph
 無
 Atk +70|Type: Sword
-Created to exorcise demons, but its power is mostly gone.
+Created to exorcise demons,|but its power is mostly gone.
 //entry 11 -----------------------
 Muramasa
 剣
@@ -93,7 +93,7 @@ s0_00_11.iph
 i0_00_11.iph
 無
 Atk +80|Mana -5|Type: Sword
-A powerful Eastern sword that constantly drains its user's mana.
+A powerful Eastern sword that|constantly drains its user's|mana.
 //entry 12 -----------------------
 Amatsukumo
 剣
@@ -101,7 +101,7 @@ s0_00_12.iph
 i0_00_12.iph
 無
 Atk +90|Type: Sword
-A legendary sword from the east.
+A legendary sword from the|east.
 //entry 13 -----------------------
 Daikokuten
 剣
@@ -125,7 +125,7 @@ s0_01_01.iph
 i0_01_01.iph
 無
 Atk +2　Mag +8|+1 Mana per battle|Type: Staff
-Any wizard worth their name has one.
+Any wizard worth their name|has one.
 //entry 16 -----------------------
 Guild Staff
 棒
@@ -133,7 +133,7 @@ s0_01_02.iph
 i0_01_02.iph
 無
 Atk +3　Mag +12|+1 Mana per battle|Type: Staff
-A staff that comes highly recommended for Guild members.
+A staff that comes highly|recommended for Guild members.
 //entry 17 -----------------------
 Combat Staff
 棒
@@ -141,7 +141,7 @@ s0_01_03.iph
 i0_01_03.iph
 無
 Atk +5　Mag +17|+2 Mana per battle|Type: Staff
-A staff for wizards who fight a lot.
+A staff for wizards who fight|a lot.
 //entry 18 -----------------------
 Warmage Staff
 棒
@@ -149,7 +149,7 @@ s0_01_04.iph
 i0_01_04.iph
 無
 Atk +7　Mag +25|+2 Mana per battle|Type: Staff
-A staff for wizards in the army.
+A staff for wizards in the|army.
 //entry 19 -----------------------
 Overlord's Staff
 棒
@@ -165,7 +165,7 @@ s0_01_06.iph
 i0_01_06.iph
 無
 Atk +15　Mag +50|+2 Mana per battle|Type: Staff
-Made out of a demon, not for one.
+Made out of a demon, not for|one.
 //entry 21 -----------------------
 Chanting Staff
 棒
@@ -173,7 +173,7 @@ s0_01_07.iph
 i0_01_07.iph
 無
 Atk +20　Mag +60|Mana Regen +1|Type: Staff
-A staff desired by all wizards.
+A staff desired by all|wizards.
 //entry 22 -----------------------
 Training Rod
 棒
@@ -181,7 +181,7 @@ s0_01_08.iph
 i0_01_08.iph
 無
 Atk +5　Mag +5|Type: Staff
-Well, it's better than a stick.
+Well, it's better than a|stick.
 //entry 23 -----------------------
 Hard Rod
 棒
@@ -189,7 +189,7 @@ s0_01_09.iph
 i0_01_09.iph
 無
 Atk +15　Mag +6|Type: Staff
-Carefully selected from the hardest of hardwood.
+Carefully selected from the|hardest of hardwood.
 //entry 24 -----------------------
 Flexible Rod
 棒
@@ -205,7 +205,7 @@ s0_01_11.iph
 i0_01_11.iph
 無
 Atk +50　Mag +12|Type: Staff
-Has a cool carving of a tiger on it.
+Has a cool carving of a tiger|on it.
 //entry 26 -----------------------
 Dragon Moon Rod
 棒
@@ -213,7 +213,7 @@ s0_01_12.iph
 i0_01_12.iph
 無
 Atk +70　Mag +16|Type: Staff
-Has a ferocious carving of a dragon on it.
+Has a ferocious carving of a|dragon on it.
 //entry 27 -----------------------
 Rusty Ax
 斧
@@ -245,7 +245,7 @@ s0_02_03.iph
 i0_02_03.iph
 無
 Atk +30|Type: Ax
-Obliterates trees, so it was converted to a weapon.
+Obliterates trees, so it was|converted to a weapon.
 //entry 31 -----------------------
 Slaughter Ax
 斧
@@ -261,7 +261,7 @@ s0_02_05.iph
 i0_02_05.iph
 無
 Atk +150|HP -10 Mana -2|Type: Ax
-As long as you're okay with the curse, it's pretty good.
+As long as you're okay with|the curse, it's pretty good.
 //entry 33 -----------------------
 Rusty Hammer
 ハンマー
@@ -269,7 +269,7 @@ s0_03_00.iph
 i0_03_00.iph
 無
 Atk +20|Type: Hammer
-A hammer selected from countless mass-produced hammers.
+A hammer selected from|countless mass-produced|hammers.
 //entry 34 -----------------------
 Common Hammer
 ハンマー
@@ -277,7 +277,7 @@ s0_03_01.iph
 i0_03_01.iph
 無
 Atk +30|Type: Hammer
-A cruel tool for smashing your foes.
+A cruel tool for smashing your|foes.
 //entry 35 -----------------------
 Toy Hammer
 ハンマー
@@ -285,7 +285,7 @@ s0_03_04.iph
 i0_03_04.iph
 無
 Atk +40|Type: Hammer
-Is it really a toy if you're fighting with it?
+Is it really a toy if you're|fighting with it?
 //entry 36 -----------------------
 D Hammer
 ハンマー
@@ -309,7 +309,7 @@ s0_04_00.iph
 i0_04_00.iph
 無
 Atk +3|Type: Shuriken
-Tough to gather back up after throwing.
+Tough to gather back up after|throwing.
 //entry 39 -----------------------
 Fine Shuriken
 手裏剣
@@ -333,7 +333,7 @@ s0_04_03.iph
 i0_04_03.iph
 無
 Atk +12|Type: Shuriken
-They say someone used these to take over the world, but not really.
+They say someone used these to|take over the world, but not|really.
 //entry 42 -----------------------
 Rusty Bow
 弓
@@ -349,7 +349,7 @@ s0_05_01.iph
 i0_05_01.iph
 無
 Atk +10|Type: Bow
-Second-hand goods are still good.
+Second-hand goods are still|good.
 //entry 44 -----------------------
 Common Bow
 弓
@@ -365,7 +365,7 @@ s0_05_03.iph
 i0_05_03.iph
 無
 Atk +20|Type: Bow
-Attacking from range is still fighting fair.
+Attacking from range is still|fighting fair.
 //entry 46 -----------------------
 Tempered Bow
 弓
@@ -397,7 +397,7 @@ s0_05_07.iph
 i0_05_07.iph
 水
 Atk +50|Element: Water|Type: Bow
-Can shoot a snowflake out of the air.
+Can shoot a snowflake out of|the air.
 //entry 50 -----------------------
 Moon Bow
 弓
@@ -421,7 +421,7 @@ s0_06_00.iph
 i0_06_00.iph
 無
 Atk +2|Type: Knives
-They're not rusty because someone threw them back.
+They're not rusty because|someone threw them back.
 //entry 53 -----------------------
 Common Knives
 投ナイフ
@@ -461,7 +461,7 @@ s0_06_05.iph
 i0_06_05.iph
 無
 Atk +20|Type: Knives
-Made of glass, so hard to recover once thrown.
+Made of glass, so hard to|recover once thrown.
 //entry 58 -----------------------
 Legendary Knives
 投ナイフ
@@ -469,7 +469,7 @@ s0_06_06.iph
 i0_06_06.iph
 無
 Atk +30|Type: Knives
-Used by expert knife throwers.
+Used by expert knife|throwers.
 //entry 59 -----------------------
 Whip
 ムチ
@@ -517,7 +517,7 @@ s0_07_05.iph
 i0_07_05.iph
 無
 Atk +35|Type: Whip
-A whip where you can't help but go Ohohohoho!♪
+A whip where you can't help|but go Ohohohoho!♪
 //entry 65 -----------------------
 Legendary Whip
 ムチ
@@ -525,7 +525,7 @@ s0_07_06.iph
 i0_07_06.iph
 無
 Atk +40|Type: Whip
-Popular with a famous prostitute. Battle? Nah.
+Popular with a famous|prostitute. Battle? Nah.
 //entry 66 -----------------------
 Rusty Barrel
 タル
@@ -533,7 +533,7 @@ s0_08_00.iph
 i0_08_00.iph
 無
 Atk +5|Type: Barrel
-A barrel big enough to fit a person.
+A barrel big enough to fit a|person.
 //entry 67 -----------------------
 Old Barrel
 タル
@@ -589,7 +589,7 @@ s0_09_03.iph
 i0_09_03.iph
 無
 Def +5　Evd +4
-Poor things were stashed in the warehouse.
+Poor things were stashed in|the warehouse.
 //entry 74 -----------------------
 Thick Clothing
 服
@@ -629,7 +629,7 @@ s0_09_07.iph
 i0_09_07.iph
 無
 Def +8　Evd +3|Res +3
-Even an overlord needs some protection.
+Even an overlord needs some|protection.
 //entry 79 -----------------------
 Worn Armor
 装甲
@@ -637,7 +637,7 @@ s0_10_00.iph
 i0_10_00.iph
 無
 Def +9　Evd +2
-Weak, but it's definitely not clothing.
+Weak, but it's definitely not|clothing.
 //entry 80 -----------------------
 Used Armor
 装甲
@@ -645,7 +645,7 @@ s0_10_01.iph
 i0_10_01.iph
 無
 Def +10　Evd +2
-Even if it's used, it's still decent.
+Even if it's used, it's still|decent.
 //entry 81 -----------------------
 Thin Armor
 装甲
@@ -653,7 +653,7 @@ s0_10_02.iph
 i0_10_02.iph
 無
 Def +11　Evd +2
-Thin, but it will protect you.
+Thin, but it will protect|you.
 //entry 82 -----------------------
 Regular Armor
 装甲
@@ -669,7 +669,7 @@ s0_10_04.iph
 i0_10_04.iph
 無
 Def +12　Evd +2 Res +4　|Elem Res +3
-Protects you from every element.
+Protects you from every|element.
 //entry 84 -----------------------
 Devil Armor
 装甲
@@ -677,7 +677,7 @@ s0_10_05.iph
 i0_10_05.iph
 無
 Def +12　Evd +2 Res +5
-Apparently made from a demon, but is that the truth?
+Apparently made from a demon,|but is that the truth?
 //entry 85 -----------------------
 Used Scale
 鎧
@@ -693,7 +693,7 @@ s0_11_01.iph
 i0_11_01.iph
 無
 Def +14　Evd +1
-It's light, so it's good for soldiers.
+It's light, so it's good for|soldiers.
 //entry 87 -----------------------
 Plate Armor
 鎧
@@ -701,7 +701,7 @@ s0_11_02.iph
 i0_11_02.iph
 無
 Def +15
-No need to dodge, just take the punch!
+No need to dodge, just take|the punch!
 //entry 88 -----------------------
 Magic Light Armor
 鎧
@@ -725,7 +725,7 @@ s0_11_05.iph
 i0_11_05.iph
 無
 Def +15　Evd +1 Res +8
-Even light armor can be legendary.
+Even light armor can be|legendary.
 //entry 91 -----------------------
 Legendary Plate
 鎧
@@ -733,7 +733,7 @@ s0_11_06.iph
 i0_11_06.iph
 無
 Def +16|Res +9
-Made long ago during the war between angels and demons.
+Made long ago during the war|between angels and demons.
 //entry 92 -----------------------
 Guild Certificate
 紙
@@ -741,7 +741,7 @@ s0_12_00.iph
 i0_12_00.iph
 無
 Slightly reduces magic damage
-Proof that you're a member of the Guild.
+Proof that you're a member of|the Guild.
 //entry 93 -----------------------
 Challenge Note
 紙
@@ -749,7 +749,7 @@ s0_12_27.iph
 i0_12_27.iph
 無
 Res +10|Allows entry to the Tower of Arias
-You will see the best of the Wizard's Guild.
+You will see the best of the|Wizard's Guild.
 //entry 94 -----------------------
 Handwritten Charm
 魔除け
@@ -757,7 +757,7 @@ s0_12_01.iph
 i0_12_01.iph
 無
 +1 HP per battle
-I want to see a charm that's NOT handwritten.
+I want to see a charm that's|NOT handwritten.
 //entry 95 -----------------------
 Charm
 お守り
@@ -765,7 +765,7 @@ s0_12_02.iph
 i0_12_02.iph
 無
 +5 HP per battle
-Bring this when you go to a tall tower.
+Bring this when you go to a|tall tower.
 //entry 96 -----------------------
 Magic Necklace
 首飾り
@@ -773,7 +773,7 @@ s0_12_03.iph
 i0_12_03.iph
 無
 +10 HP per battle
-A useful tool sold by the Guild.
+A useful tool sold by the|Guild.
 //entry 97 -----------------------
 Guard Necklace
 首飾り
@@ -781,7 +781,7 @@ s0_12_04.iph
 i0_12_04.iph
 無
 Crit Dodge +30
-Only helps you avoid critical hits.
+Only helps you avoid critical|hits.
 //entry 98 -----------------------
 Hawkeye Necklace
 首飾り
@@ -821,7 +821,7 @@ s0_12_09.iph
 i0_12_09.iph
 無
 Evd +3
-Flutters even when there's no wind.
+Flutters even when there's no|wind.
 //entry 103 -----------------------
 Dramatic Scarf
 マフラー
@@ -829,7 +829,7 @@ s0_12_10.iph
 i0_12_10.iph
 無
 Evd +4
-For when you want to look cool.
+For when you want to look|cool.
 //entry 104 -----------------------
 Cute Scarf
 マフラー
@@ -853,7 +853,7 @@ s0_12_13.iph
 i0_12_13.iph
 無
 Phys Atk +2
-Even if you lose one, it'll come back.
+Even if you lose one, it'll|come back.
 //entry 107 -----------------------
 Dark Gloves
 手袋
@@ -861,7 +861,7 @@ s0_12_14.iph
 i0_12_14.iph
 無
 Phys Atk +3
-A scary name, but a perfect fit.
+A scary name, but a perfect|fit.
 //entry 108 -----------------------
 Hat
 帽子
@@ -869,7 +869,7 @@ s0_12_15.iph
 i0_12_15.iph
 無
 Casting Speed +3
-Protect your face from sunburn.
+Protect your face from|sunburn.
 //entry 109 -----------------------
 Hard Hat
 帽子
@@ -877,7 +877,7 @@ s0_12_16.iph
 i0_12_16.iph
 無
 Casting Speed +5
-Protects you from falling rocks.
+Protects you from falling|rocks.
 //entry 110 -----------------------
 Magic Hat
 帽子
@@ -885,7 +885,7 @@ s0_12_17.iph
 i0_12_17.iph
 無
 Casting Speed +7
-A wizard's favorite.♪|Helps with tongue twisters too.
+A wizard's favorite.♪|Helps with tongue twisters|too.
 //entry 111 -----------------------
 Angel Hat
 帽子
@@ -909,7 +909,7 @@ s0_12_20.iph
 i0_12_20.iph
 無
 +5 HP per battle|Ranged Atk +10
-Wyvern's aren't technically dragons.
+Wyvern's aren't technically|dragons.
 //entry 114 -----------------------
 Dragon's Ring
 指輪
@@ -965,7 +965,7 @@ s3_00_00.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-The price depends on who issued it.
+The price depends on who|issued it.
 //entry 121 -----------------------
 Pretty Stone
 財宝
@@ -973,7 +973,7 @@ s3_00_01.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Not everybody wants shiny things.
+Not everybody wants shiny|things.
 //entry 122 -----------------------
 Small Silver
 財宝
@@ -997,7 +997,7 @@ s3_00_04.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-The value of silver is very complicated.
+The value of silver is very|complicated.
 //entry 125 -----------------------
 Large Gold
 財宝
@@ -1005,7 +1005,7 @@ s3_00_05.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Makes you grin just looking at it.
+Makes you grin just looking at|it.
 //entry 126 -----------------------
 Silver Nugget
 財宝
@@ -1013,7 +1013,7 @@ s3_00_06.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Is practically a weapon when it's this big.
+Is practically a weapon when|it's this big.
 //entry 127 -----------------------
 Gold Nugget
 財宝
@@ -1029,7 +1029,7 @@ s3_00_08.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-A stone desired by women the world over.
+A stone desired by women the|world over.
 //entry 129 -----------------------
 Huge Jewel
 財宝
@@ -1037,7 +1037,7 @@ s3_00_09.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Can be processed and turned into a fortune.
+Can be processed and turned|into a fortune.
 //entry 130 -----------------------
 Antique
 財宝
@@ -1045,7 +1045,7 @@ s3_00_10.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Just being old isn't good enough.
+Just being old isn't good|enough.
 //entry 131 -----------------------
 Rare Antique
 財宝
@@ -1053,7 +1053,7 @@ s3_00_11.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Old and rare. Desired by collectors.
+Old and rare. Desired by|collectors.
 //entry 132 -----------------------
 Famous Antique
 財宝
@@ -1061,7 +1061,7 @@ s3_00_12.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-Still good even hundreds of years later.
+Still good even hundreds of|years later.
 //entry 133 -----------------------
 Swallow's Nest
 財宝
@@ -1069,4 +1069,4 @@ s3_00_13.iph
 i3_00_00.iph
 無
 Treasure|For Sale Only
-A bird's nest. Maybe you can eat it?
+A bird's nest. Maybe you can|eat it?

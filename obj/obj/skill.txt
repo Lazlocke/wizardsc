@@ -22,7 +22,7 @@ Combat Speed
 *
 *
 Increase action speed.
-In everything, speed is the key to victory. 
+In everything, speed is the key to|victory. 
 //entry 1 -----------------------
 Recovery
 *
@@ -72,7 +72,7 @@ Constitution
 *
 *
 Increase maximum HP.
-In the end, your health is everything.
+In the end, your health is|everything.
 //entry 3 -----------------------
 Agility
 Combat Speed+10
@@ -247,7 +247,7 @@ se004.wav
 *
 *
 A quick, accurate attack.
-If you master this, the world will be in your hands.
+If you master this, the world will|be in your hands.
 //entry 10 -----------------------
 Straight Punch
 Mana Capacity+1
@@ -272,7 +272,7 @@ se005.wav
 *
 *
 A basic punch.
-Display the strength of your main arm.
+Display the strength of your main|arm.
 //entry 11 -----------------------
 Sonic Blow
 Straight Punch+5
@@ -447,7 +447,7 @@ se012.wav
 *
 *
 Low accuracy, but high power.
-Against regular people, this is a knockout blow.
+Against regular people, this is a|knockout blow.
 //entry 18 -----------------------
 Tetsuzankou
 Combat Speed+50|Constitution+50
@@ -497,7 +497,7 @@ se014.wav
 *
 *
 A weak, but disabling attack.
-Unfortunately, it doesn't work on monsters. Their bodies are too different.
+Unfortunately, it doesn't work on|monsters. Their bodies are too|different.
 //entry 20 -----------------------
 Arm Bar
 Combat Speed+50|Constitution+30
@@ -522,7 +522,7 @@ se015.wav
 *
 *
 A strong, disabling attack.
-Still doesn't work on monsters. They can wiggle right out.
+Still doesn't work on monsters. They|can wiggle right out.
 //entry 21 -----------------------
 Steadfast
 Mana Capacity+1
@@ -572,7 +572,7 @@ se016.wav
 *
 *
 Improve your sword skills.
-Modern wizards know how to use a sword.
+Modern wizards know how to use a|sword.
 //entry 23 -----------------------
 Slash
 Blades+5
@@ -1197,7 +1197,7 @@ se038.wav
 *
 *
 Improve your archery skills.
-Keeping your distance is key in battle.
+Keeping your distance is key in|battle.
 //entry 48 -----------------------
 Arrow Storm
 Archery+5
@@ -1222,7 +1222,7 @@ se039.wav
 *
 *
 A high power bow attack.
-Wind is overrated, just power through it!
+Wind is overrated, just power|through it!
 //entry 49 -----------------------
 Headhunter
 Archery+10
@@ -1297,7 +1297,7 @@ se042.wav
 *
 *
 Improve your knife skills.
-Be careful. Don't point knives at people.
+Be careful. Don't point knives at|people.
 //entry 52 -----------------------
 Twist Knife
 Mana Capacity+1
@@ -1397,7 +1397,7 @@ se046.wav
 *
 *
 Attack in an area multiple times.
-Come any closer, and you'll get hurt.
+Come any closer, and you'll get|hurt.
 //entry 56 -----------------------
 Barrels
 Mana Capacity+1
@@ -1447,7 +1447,7 @@ Elocution
 *
 *
 Improve your magic skills.|Improve your magic learning.
-Don't underestimate this! Every wizard needs it!
+Don't underestimate this! Every|wizard needs it!
 //entry 58 -----------------------
 Mana Recovery
 Mana Capacity+1
@@ -1497,7 +1497,7 @@ Mana Capacity+1
 *
 *
 Increase maximum MP.
-When your mana pool is big, you have nothing to fear.
+When your mana pool is big, you have|nothing to fear.
 //entry 60 -----------------------
 Elocution
 Mana Capacity+1|Magic Theory+10
@@ -1522,7 +1522,7 @@ Elocution
 *
 *
 Improve your casting speed.
-You have to finish casting your spell before they get away.
+You have to finish casting your|spell before they get away.
 //entry 61 -----------------------
 Synergy
 Mana Capacity+1
@@ -1547,7 +1547,7 @@ Elocution
 *
 *
 Casting speed increases for same element.
-If you just know one element, it'll be easy.
+If you just know one element, it'll|be easy.
 //entry 62 -----------------------
 Symbiosis
 Synergy+5
@@ -1572,7 +1572,7 @@ Elocution
 *
 *
 Casting speed increases for different elements.
-There are similarities even in different schools.
+There are similarities even in|different schools.
 //entry 63 -----------------------
 Magic Defense
 Mana Capacity+1
@@ -2147,7 +2147,7 @@ se062.wav
 *
 Ice Wall
 Create an ice barrier.
-Unlike a fire barrier, this one's all protection.
+Unlike a fire barrier, this one's|all protection.
 //entry 86 -----------------------
 Air Cutter
 Mana Capacity+1
@@ -2297,7 +2297,7 @@ se068.wav
 *
 *
 Cripple flying enemies.
-Trap your enemies and then finish them off.
+Trap your enemies and then finish|them off.
 //entry 92 -----------------------
 Tailwind
 Mana Capacity+10
@@ -2347,7 +2347,7 @@ Mana Capacity+1|Magic Theory+5
 *
 *
 Travel to more distant places.
-Takes too long to cast to use in battle.
+Takes too long to cast to use in|battle.
 //entry 94 -----------------------
 Stalagmite
 Mana Capacity+1
@@ -2922,7 +2922,7 @@ se091.wav
 *
 *
 Attack the MP of an enemy.
-Has little effect if the enemy doesn't use magic.
+Has little effect if the enemy|doesn't use magic.
 //entry 117 -----------------------
 Dark Darkness
 Dark Void+5
@@ -3272,7 +3272,7 @@ Mana Capacity+1
 *
 *
 Find treasures easier, and improve results of certain jobs.
-Convenient when you're looking for something.
+Convenient when you're looking for|something.
 //entry 131 -----------------------
 Lockpicker
 Mana Capacity+1
@@ -3297,7 +3297,7 @@ Mana Capacity+1
 *
 *
 Find treasures easier, and improve results of certain jobs.
-Gotta be able to open what you find.
+Gotta be able to open what you|find.
 //entry 132 -----------------------
 Monsterology
 Search+3
@@ -3372,7 +3372,7 @@ Search+5
 *
 *
 Reduce the effect of poison.
-But... almost no monsters are venomous.
+But... almost no monsters are|venomous.
 //entry 135 -----------------------
 Gamesmanship
 Search+3
@@ -3447,7 +3447,7 @@ Cooking
 *
 *
 Improve results of certain jobs.
-Cooking is useful for a lot of things.
+Cooking is useful for a lot of|things.
 //entry 138 -----------------------
 Cleaning
 *
@@ -3472,7 +3472,7 @@ Cleaning
 *
 *
 Improve results of certain jobs.
-Keeping things neat and tidy is important.
+Keeping things neat and tidy is|important.
 //entry 139 -----------------------
 Laundry
 *
