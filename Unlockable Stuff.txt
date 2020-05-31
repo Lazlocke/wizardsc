@@ -1,0 +1,49 @@
+Unlockables
+---------
+Normal Mode:(Default)
+*Extra Soshiette scene unlocked in this mode ONLY (?) after the Martial Arts ending.
+
+Training Mode:
+Any ending in Normal Mode
+
+Trial Mode:
+View Elle's first H scene
+--Study Magic 12 times
+--Conquer Tower of Trials, Magic, and Blessing
+--Win monthly Queensbell tournament
+
+Expert Mode:
+View Viola's first H scene 
+--Must be in Trial Mode
+--Play with Elle 5 times
+--Conquer Tower of Trials, Magic, and Blessing
+--Win monthly Queensbell tournament
+--Chain of events following Elle's H scene(s)
+
+Glory Mode:
+See all events for (appearance requirement):
+--Elle (Study magic x10)
+--Viola (Study magic x4)
+--Soshiette (no req)
+--Rune (Study magic x40/30/20)
+--Ingway (Archery lvl 3 OR Rest x10/5)
+--Puschel (Study magic x15/5 OR Exploding Flame lvl 1)
+--Hendrik (Study magic x5 OR Freezing Ice lvl 1)
+--Reno (Queensbell Tournament)
+--Recchino (Train x15/10 OR Sonic Blow lvl 1)
+*Do not all necessarily need to be done in a single playthrough, but triggers are apparently iffy if you don't
+*Requirements are lower or don't exist for later modes (eg Elle and Viola re auto in Trial+)
+
+Final Mode:
+Win Coudures Tournament after Glory Mode is unlocked
+
+-----------------------
+New Game+
+--
+Furniture, equipment, and money is fully carried over. Items like sellable treasures are NOT.
+A portion of skill points acquired are carried over (used skill points are fully refunded)
+--30% to start
+--+10% for getting 100% in the quiz
+--+2% for every 30 floors cleared in Tower of Heroes (up to +20%)
+--+10% each for unlocking Trial/Expert/Glory/Final modes (up to +40%)
+
