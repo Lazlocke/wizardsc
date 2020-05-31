@@ -368,7 +368,7 @@ I tell her what Soshiette told me.
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA0072">
-"Win the Coudures Magic Tournament..."
+"Win the Courdures Magic Tournament..."
 #
 <name "Lazlocke">
 "Within three years.
@@ -443,7 +443,7 @@ Soshiette steps up beside me.
 <sprite "ta04a11.iph" 6 4 12>
 <name "Soshiette" "!DA0032">
 "Think nothing of it. 
-Å@His Grace begged me for help in his time of
+ His Grace begged me for help in his time of
  need. I couldn't miss a chance to indebt him
  to me."
 #
@@ -557,7 +557,7 @@ She bows and leaves as quickly as she came.
 #
 <sprite "ta01d31.iph" 4 4 12>
 <name "Celes" "!AA0087">
-"She's unusal, isn't she?"
+"She's unusual, isn't she?"
 #
 <name "Lazlocke">
 "Agreed.

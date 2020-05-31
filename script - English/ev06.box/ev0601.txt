@@ -215,7 +215,7 @@
 <name "Celes" "!AA5752">
 "Yes, ma'am!
  ...Huh?
-Å@Wha?
+ Wha?
  Why are you raising your fists?"
 #
 <sprite "ta04a11.iph" 6 4 12>

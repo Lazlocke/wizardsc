@@ -4,42 +4,42 @@ Sdul_a00.iph
 a0000|a0001|a0002|a0003
 k100.box
 *
-Train Physical.|Even wizards need to be|in good shape. Your|health is the basis for|everything, so train up!
+Train Physical Strength.|Even wizards need to be|in good shape. Your|health is the basis for|everything, so train up!
 //entry 1 -----------------------
 格闘訓練
 Sdul_a01.iph
 a0100|a0101|a0102
 k101.box
 *
-Train Unarmed.|If you don't own a|weapon, this is a skill|worth learning.|Work hard.
+Train Unarmed Combat.|If you don't own a|weapon, this is a skill|worth learning.|Work hard.
 //entry 2 -----------------------
 武器練習
 Sdul_a02.iph
 a0200|a0201|a0202|a0203
 k102.box
 *
-Train Weapons.|You can't even swing a|sword safely without|learning the basics.
+Train Melee Weapons.|You can't even swing a|sword safely without|learning the basics.
 //entry 3 -----------------------
 遠距離武器練習
 Sdul_a03.iph
 a0300|a0301
 k103.box
 *
-Train Ranged.|If you can keep your|distance, you will own|the battlefield.
+Train Ranged Weapons.|If you can keep your|distance, you will own|the battlefield.
 //entry 4 -----------------------
 特殊武器練習
 Sdul_a04.iph
 a0400|a0401|a0402
 k104.box
 *
-Train Unconventional.|Some things are just too|special to be treated|like regular weapons.
+Train Unconventional Weapons.|Some things are just too|special to be treated|like regular weapons.
 //entry 5 -----------------------
 魔法基礎勉強
 Sdul_b00.iph
 a0500|a0501|a0502|a0503|a0504|a0505|a0506|a0507|a0508
 k200.box
 *
-Study Magic.|The basics are|everything. Don't neglect|your studies.
+Study Wizardry.|The basics are|everything. Don't neglect|your studies.
 //entry 6 -----------------------
 火の魔法勉強
 Sdul_b01.iph

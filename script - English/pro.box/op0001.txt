@@ -266,7 +266,7 @@ go further, you can join the Guild and research
 whatever you want.
 #
 <name "Lazlocke">
-"They'll be some qualification checks before
+"There'll be some qualification checks before
  admitting you, but as long as you can pass
  those, you can become a wizard."
 #
