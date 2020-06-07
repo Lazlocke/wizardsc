@@ -215,7 +215,7 @@
 #
 <name "Lazlocke">
 "In more recent times, it's been researched
- thoroughly and there's a lot more freedeom in
+ thoroughly and there's a lot more freedom in
  their use. They're best for weaker mages to
  pool their mana for higher level spells."
 #
@@ -1008,7 +1008,7 @@ I woke her up.
 #
 <name "Lazlocke">
 "Yeah. It doesn't have much to do with winning
- the Courdures Tournament, but you should at
+ the Coudures Tournament, but you should at
  least learn the basics."
 #
 <name "Celes" "!AA1204">

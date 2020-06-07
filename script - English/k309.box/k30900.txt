@@ -2214,7 +2214,7 @@ But I'm busy with work.
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-"It's almost time for the Courdures Magic
+"It's almost time for the Coudures Magic
  Tournament."
 #
 <sprite "ta01a92.iph" 4 4 11>

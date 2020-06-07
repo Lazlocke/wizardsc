@@ -309,7 +309,7 @@ Guild itself to stay out of things.
 #
 <sprite "ta04a08.iph" 4 4 12>
 <name "Soshiette" "!DA0018">
-"Enough to win the Courdures Magic Tournament?"
+"Enough to win the Coudures Magic Tournament?"
 #
 <name "Lazlocke">
 "..."
@@ -337,7 +337,7 @@ Guild itself to stay out of things.
 <name "Lazlocke">
 "Do you think there's any chance at all for
  someone who hasn't cast a single spell in 
- their life to win at Courdures in just three
+ their life to win at Coudures in just three
  years?"
 #
 <sprite "ta04a28.iph" 4 4 12>
@@ -368,7 +368,7 @@ I tell her what Soshiette told me.
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA0072">
-"Win the Courdures Magic Tournament..."
+"Win the Coudures Magic Tournament..."
 #
 <name "Lazlocke">
 "Within three years.
@@ -517,7 +517,7 @@ wizards.
 #
 <sprite "ta04a10.iph" 6 4 12>
 <name "Soshiette" "!DA0037">
-"Win the Courdures Magic Tournament.
+"Win the Coudures Magic Tournament.
  It could be nice to be part of that kind of
  miracle."
 #

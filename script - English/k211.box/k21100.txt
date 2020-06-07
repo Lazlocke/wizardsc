@@ -101,7 +101,7 @@
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA1752">
 "The magic I'm learning will help me compete in
- the Courdures Tournament and win, right?"
+ the Coudures Tournament and win, right?"
 #
 <name "Lazlocke">
 "Yeah."

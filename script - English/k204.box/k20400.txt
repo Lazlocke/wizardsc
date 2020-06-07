@@ -148,7 +148,7 @@
 <name "Lazlocke">
 "If you can't do that, you won't be able to use
  it places without soil. For example, the final
- match of the Courdures Tournament is held on 
+ match of the Coudures Tournament is held on 
  specially installed paved stone."
 #
 <sprite "ta01d06.iph" 4 4 12>
