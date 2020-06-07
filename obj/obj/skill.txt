@@ -5,7 +5,7 @@ Mana Capacity+1
 基本
 無
 最大体力
-Combat Speed
+戦闘速度
 戦闘硬直
 *
 *
@@ -80,7 +80,7 @@ Combat Speed+10
 基本
 無
 移動力
-Combat Speed
+戦闘速度
 戦闘硬直
 *
 *
@@ -130,7 +130,7 @@ Defense+5
 条件
 無
 回避
-Combat Speed
+戦闘速度
 *
 *
 *
