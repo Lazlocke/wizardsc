@@ -1,10 +1,10 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 187 msecs
+Parsing summary: 211 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 661 msecs
+Insertion summary: 655 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -7545,8 +7545,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 472
-|   Start: Line 4193  File Position $5CC60
-|   End: Line 4737  File Position $5CDFD
+|   Start: Line 4193  File Position $5F2C0
+|   End: Line 4737  File Position $5F45D
 +------------------------------------------------------------------------------
 | Script size 413
 | Bytes Inserted 413
@@ -7574,4 +7574,4 @@ Insertion - 0 error(s), 0 warning(s)
 | General Pointers Written: 538
 +------------------------------------------------------------------------------
 
-Execution time: 867 msecs
+Execution time: 887 msecs

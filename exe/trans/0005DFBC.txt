@@ -4190,7 +4190,7 @@ Dark Darkness
 
 
 // Moved Text
-#JMP($0005CC60)
+#JMP($0005F2C0)
 
 // Ptr: 00058158
 #WRITE(PTR, $000285BB)
@@ -4732,4 +4732,4 @@ Blessed Rain
 <$00>
 
 //#WARN($000582D1, "WARNME")
-#WARN($0005CFE0, "WARNME")
+#WARN($00060000, "WARNME")
