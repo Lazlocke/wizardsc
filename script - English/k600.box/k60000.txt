@@ -96,7 +96,7 @@
 <music 31>
 <background "ev029a0.iph" 11>
 <name "Celes" "!AA4210">
-"This is one good?
+"Is this one good?
  Or maybe this one...
  Hmm... I'm not sure."
 #

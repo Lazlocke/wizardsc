@@ -52,7 +52,7 @@
  Be careful when you use it."
 #
 <name "Lazlocke">
-"Fruthermore, earth magic is much more useful
+"Furthermore, earth magic is much more useful
  for defense and recovery. You may not rely on
  it as your main set of spells, but if you
  learn it, you'll always find a use for it."

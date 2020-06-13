@@ -84,7 +84,7 @@
 "I'm off."
 #
 <name "Lazlocke">
-"Yeah. Take care.'
+"Yeah. Take care."
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA2240">
