@@ -1,10 +1,11 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 211 msecs
+Parsing summary: 208 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 655 msecs
+BARF 2 bytes @ $00052F41 - WARNME
+Insertion summary: 867 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -1530,10 +1531,10 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 | Block 96
 |   Start: Line 854  File Position $531D8
-|   End: Line 863  File Position $531DD
+|   End: Line 863  File Position $531DB
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 3
+| Bytes Inserted 3
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -2825,8 +2826,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 177
-|   Start: Line 1571  File Position $52F3C
-|   End: Line 1580  File Position $52F41
+|   Start: Line 1571  File Position $52F34
+|   End: Line 1580  File Position $52F39
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -2841,11 +2842,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 178
-|   Start: Line 1580  File Position $52F34
-|   End: Line 1589  File Position $52F39
+|   Start: Line 1580  File Position $52F30
+|   End: Line 1589  File Position $52F33
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 3
+| Bytes Inserted 3
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -2857,24 +2858,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 179
-|   Start: Line 1589  File Position $52F30
-|   End: Line 1598  File Position $52F33
-+------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 180
-|   Start: Line 1598  File Position $52F28
-|   End: Line 1607  File Position $52F2D
+|   Start: Line 1589  File Position $52F28
+|   End: Line 1598  File Position $52F2D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -2888,9 +2873,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 181
-|   Start: Line 1607  File Position $52F24
-|   End: Line 1616  File Position $52F27
+| Block 180
+|   Start: Line 1598  File Position $52F24
+|   End: Line 1607  File Position $52F27
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -2904,9 +2889,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 182
-|   Start: Line 1616  File Position $52F1C
-|   End: Line 1625  File Position $52F23
+| Block 181
+|   Start: Line 1607  File Position $52F1C
+|   End: Line 1616  File Position $52F23
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -2920,9 +2905,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 183
-|   Start: Line 1625  File Position $52F18
-|   End: Line 1634  File Position $52F1B
+| Block 182
+|   Start: Line 1616  File Position $52F18
+|   End: Line 1625  File Position $52F1B
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -2936,9 +2921,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 183
+|   Start: Line 1625  File Position $52F10
+|   End: Line 1634  File Position $52F17
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 184
-|   Start: Line 1634  File Position $52F10
-|   End: Line 1643  File Position $52F17
+|   Start: Line 1634  File Position $52F08
+|   End: Line 1643  File Position $52F0F
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -2953,8 +2954,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 185
-|   Start: Line 1643  File Position $52F08
-|   End: Line 1652  File Position $52F0F
+|   Start: Line 1643  File Position $52F00
+|   End: Line 1652  File Position $52F07
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -2969,24 +2970,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 186
-|   Start: Line 1652  File Position $52F00
-|   End: Line 1661  File Position $52F07
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 187
-|   Start: Line 1661  File Position $52EF4
-|   End: Line 1670  File Position $52EFD
+|   Start: Line 1652  File Position $52EF4
+|   End: Line 1661  File Position $52EFD
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -3000,9 +2985,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 187
+|   Start: Line 1661  File Position $52EEC
+|   End: Line 1670  File Position $52EF1
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 188
-|   Start: Line 1670  File Position $52EEC
-|   End: Line 1679  File Position $52EF1
+|   Start: Line 1670  File Position $52EE4
+|   End: Line 1679  File Position $52EE9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3017,8 +3018,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 189
-|   Start: Line 1679  File Position $52EE4
-|   End: Line 1688  File Position $52EE9
+|   Start: Line 1679  File Position $52EDC
+|   End: Line 1688  File Position $52EE1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3033,11 +3034,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 190
-|   Start: Line 1688  File Position $52EDC
-|   End: Line 1697  File Position $52EE1
+|   Start: Line 1688  File Position $52ED4
+|   End: Line 1697  File Position $52EDB
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3049,8 +3050,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 191
-|   Start: Line 1697  File Position $52ED4
-|   End: Line 1706  File Position $52EDB
+|   Start: Line 1697  File Position $52ECC
+|   End: Line 1706  File Position $52ED3
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3065,24 +3066,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 192
-|   Start: Line 1706  File Position $52ECC
-|   End: Line 1715  File Position $52ED3
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 193
-|   Start: Line 1715  File Position $52EC4
-|   End: Line 1724  File Position $52EC9
+|   Start: Line 1706  File Position $52EC4
+|   End: Line 1715  File Position $52EC9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3096,9 +3081,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 193
+|   Start: Line 1715  File Position $52EC0
+|   End: Line 1724  File Position $52EC3
++------------------------------------------------------------------------------
+| Script size 3
+| Bytes Inserted 3
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 194
-|   Start: Line 1724  File Position $52EC0
-|   End: Line 1733  File Position $52EC3
+|   Start: Line 1724  File Position $52EBC
+|   End: Line 1733  File Position $52EBF
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3113,8 +3114,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 195
-|   Start: Line 1733  File Position $52EBC
-|   End: Line 1742  File Position $52EBF
+|   Start: Line 1733  File Position $52EB8
+|   End: Line 1742  File Position $52EBB
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3129,24 +3130,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 196
-|   Start: Line 1742  File Position $52EB8
-|   End: Line 1751  File Position $52EBB
-+------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 197
-|   Start: Line 1751  File Position $52EAC
-|   End: Line 1760  File Position $52EB5
+|   Start: Line 1742  File Position $52EAC
+|   End: Line 1751  File Position $52EB5
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -3160,9 +3145,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 198
-|   Start: Line 1760  File Position $52EA4
-|   End: Line 1769  File Position $52EAB
+| Block 197
+|   Start: Line 1751  File Position $52EA4
+|   End: Line 1760  File Position $52EAB
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3176,9 +3161,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 199
-|   Start: Line 1769  File Position $52EA0
-|   End: Line 1778  File Position $52EA3
+| Block 198
+|   Start: Line 1760  File Position $52EA0
+|   End: Line 1769  File Position $52EA3
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3192,9 +3177,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 200
-|   Start: Line 1778  File Position $52E94
-|   End: Line 1787  File Position $52E9D
+| Block 199
+|   Start: Line 1769  File Position $52E94
+|   End: Line 1778  File Position $52E9D
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -3208,9 +3193,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 200
+|   Start: Line 1778  File Position $52E8C
+|   End: Line 1787  File Position $52E91
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 201
-|   Start: Line 1787  File Position $52E8C
-|   End: Line 1796  File Position $52E91
+|   Start: Line 1787  File Position $52E84
+|   End: Line 1796  File Position $52E89
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3225,8 +3226,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 202
-|   Start: Line 1796  File Position $52E84
-|   End: Line 1805  File Position $52E89
+|   Start: Line 1796  File Position $52E7C
+|   End: Line 1805  File Position $52E81
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3241,24 +3242,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 203
-|   Start: Line 1805  File Position $52E7C
-|   End: Line 1814  File Position $52E81
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 204
-|   Start: Line 1814  File Position $53212
-|   End: Line 1821  File Position $53213
+|   Start: Line 1805  File Position $53212
+|   End: Line 1812  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -3272,9 +3257,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 204
+|   Start: Line 1812  File Position $52E74
+|   End: Line 1821  File Position $52E79
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 205
-|   Start: Line 1821  File Position $52E74
-|   End: Line 1830  File Position $52E79
+|   Start: Line 1821  File Position $52E6C
+|   End: Line 1830  File Position $52E71
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3289,8 +3290,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 206
-|   Start: Line 1830  File Position $52E6C
-|   End: Line 1839  File Position $52E71
+|   Start: Line 1830  File Position $52E64
+|   End: Line 1839  File Position $52E69
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3305,11 +3306,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 207
-|   Start: Line 1839  File Position $52E64
-|   End: Line 1848  File Position $52E69
+|   Start: Line 1839  File Position $52E58
+|   End: Line 1848  File Position $52E61
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 9
+| Bytes Inserted 9
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3321,8 +3322,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 208
-|   Start: Line 1848  File Position $52E58
-|   End: Line 1857  File Position $52E61
+|   Start: Line 1848  File Position $52E4C
+|   End: Line 1857  File Position $52E55
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -3337,11 +3338,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 209
-|   Start: Line 1857  File Position $52E4C
-|   End: Line 1866  File Position $52E55
+|   Start: Line 1857  File Position $52E40
+|   End: Line 1866  File Position $52E4B
 +------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
+| Script size 11
+| Bytes Inserted 11
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3353,8 +3354,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 210
-|   Start: Line 1866  File Position $52E40
-|   End: Line 1875  File Position $52E4B
+|   Start: Line 1866  File Position $52E34
+|   End: Line 1875  File Position $52E3F
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -3369,8 +3370,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 211
-|   Start: Line 1875  File Position $52E34
-|   End: Line 1884  File Position $52E3F
+|   Start: Line 1875  File Position $52E28
+|   End: Line 1884  File Position $52E33
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -3385,8 +3386,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 212
-|   Start: Line 1884  File Position $52E28
-|   End: Line 1893  File Position $52E33
+|   Start: Line 1884  File Position $52E1C
+|   End: Line 1893  File Position $52E27
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -3401,11 +3402,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 213
-|   Start: Line 1893  File Position $52E1C
-|   End: Line 1902  File Position $52E27
+|   Start: Line 1893  File Position $52E10
+|   End: Line 1902  File Position $52E19
 +------------------------------------------------------------------------------
-| Script size 11
-| Bytes Inserted 11
+| Script size 9
+| Bytes Inserted 9
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3417,8 +3418,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 214
-|   Start: Line 1902  File Position $52E10
-|   End: Line 1911  File Position $52E19
+|   Start: Line 1902  File Position $52E04
+|   End: Line 1911  File Position $52E0D
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -3433,24 +3434,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 215
-|   Start: Line 1911  File Position $52E04
-|   End: Line 1920  File Position $52E0D
-+------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 216
-|   Start: Line 1920  File Position $53212
-|   End: Line 1927  File Position $53213
+|   Start: Line 1911  File Position $53212
+|   End: Line 1918  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -3464,9 +3449,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 217
-|   Start: Line 1927  File Position $531F8
-|   End: Line 1936  File Position $531FD
+| Block 216
+|   Start: Line 1918  File Position $531F8
+|   End: Line 1927  File Position $531FD
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3480,9 +3465,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 217
+|   Start: Line 1927  File Position $530B0
+|   End: Line 1936  File Position $530B7
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 218
-|   Start: Line 1936  File Position $530B0
-|   End: Line 1945  File Position $530B7
+|   Start: Line 1936  File Position $53068
+|   End: Line 1945  File Position $5306F
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3497,24 +3498,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 219
-|   Start: Line 1945  File Position $53068
-|   End: Line 1954  File Position $5306F
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 220
-|   Start: Line 1954  File Position $52E00
-|   End: Line 1963  File Position $52E03
+|   Start: Line 1945  File Position $52E00
+|   End: Line 1954  File Position $52E03
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3528,9 +3513,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 221
-|   Start: Line 1963  File Position $52DF8
-|   End: Line 1972  File Position $52DFD
+| Block 220
+|   Start: Line 1954  File Position $52DF8
+|   End: Line 1963  File Position $52DFD
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3544,9 +3529,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 221
+|   Start: Line 1963  File Position $530D4
+|   End: Line 1972  File Position $530DB
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 222
-|   Start: Line 1972  File Position $530D4
-|   End: Line 1981  File Position $530DB
+|   Start: Line 1972  File Position $53070
+|   End: Line 1981  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3561,24 +3562,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 223
-|   Start: Line 1981  File Position $53070
-|   End: Line 1990  File Position $53077
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 224
-|   Start: Line 1990  File Position $52EC4
-|   End: Line 1999  File Position $52EC9
+|   Start: Line 1981  File Position $52EC4
+|   End: Line 1990  File Position $52EC9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3592,9 +3577,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 224
+|   Start: Line 1990  File Position $530CC
+|   End: Line 1999  File Position $530D3
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 225
-|   Start: Line 1999  File Position $530CC
-|   End: Line 2008  File Position $530D3
+|   Start: Line 1999  File Position $53070
+|   End: Line 2008  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3609,8 +3610,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 226
-|   Start: Line 2008  File Position $53070
-|   End: Line 2017  File Position $53077
+|   Start: Line 2008  File Position $53190
+|   End: Line 2017  File Position $53197
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3625,24 +3626,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 227
-|   Start: Line 2017  File Position $53190
-|   End: Line 2026  File Position $53197
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 228
-|   Start: Line 2026  File Position $530C0
-|   End: Line 2035  File Position $530C9
+|   Start: Line 2017  File Position $530C0
+|   End: Line 2026  File Position $530C9
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -3656,9 +3641,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 229
-|   Start: Line 2035  File Position $53070
-|   End: Line 2044  File Position $53077
+| Block 228
+|   Start: Line 2026  File Position $53070
+|   End: Line 2035  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3672,9 +3657,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 230
-|   Start: Line 2044  File Position $52DF0
-|   End: Line 2053  File Position $52DF5
+| Block 229
+|   Start: Line 2035  File Position $52DF0
+|   End: Line 2044  File Position $52DF5
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3688,9 +3673,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 230
+|   Start: Line 2044  File Position $530B8
+|   End: Line 2053  File Position $530BF
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 231
-|   Start: Line 2053  File Position $530B8
-|   End: Line 2062  File Position $530BF
+|   Start: Line 2053  File Position $53070
+|   End: Line 2062  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -3705,24 +3706,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 232
-|   Start: Line 2062  File Position $53070
-|   End: Line 2071  File Position $53077
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 233
-|   Start: Line 2071  File Position $52DEC
-|   End: Line 2080  File Position $52DEF
+|   Start: Line 2062  File Position $52DEC
+|   End: Line 2071  File Position $52DEF
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3736,9 +3721,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 233
+|   Start: Line 2071  File Position $530A8
+|   End: Line 2080  File Position $530AD
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 234
-|   Start: Line 2080  File Position $530A8
-|   End: Line 2089  File Position $530AD
+|   Start: Line 2080  File Position $53058
+|   End: Line 2089  File Position $5305D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3753,24 +3754,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 235
-|   Start: Line 2089  File Position $53058
-|   End: Line 2098  File Position $5305D
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 236
-|   Start: Line 2098  File Position $52DE8
-|   End: Line 2107  File Position $52DEB
+|   Start: Line 2089  File Position $52DE8
+|   End: Line 2098  File Position $52DEB
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3784,9 +3769,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 236
+|   Start: Line 2098  File Position $530A0
+|   End: Line 2107  File Position $530A5
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 237
-|   Start: Line 2107  File Position $530A0
-|   End: Line 2116  File Position $530A5
+|   Start: Line 2107  File Position $53050
+|   End: Line 2116  File Position $53055
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3801,11 +3802,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 238
-|   Start: Line 2116  File Position $53050
-|   End: Line 2125  File Position $53055
+|   Start: Line 2116  File Position $52DE4
+|   End: Line 2125  File Position $52DE7
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 3
+| Bytes Inserted 3
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3817,11 +3818,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 239
-|   Start: Line 2125  File Position $52DE4
-|   End: Line 2134  File Position $52DE7
+|   Start: Line 2125  File Position $53048
+|   End: Line 2134  File Position $5304D
 +------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
+| Script size 5
+| Bytes Inserted 5
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3833,11 +3834,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 240
-|   Start: Line 2134  File Position $53048
-|   End: Line 2143  File Position $5304D
+|   Start: Line 2134  File Position $52DE0
+|   End: Line 2143  File Position $52DE3
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 3
+| Bytes Inserted 3
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -3849,24 +3850,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 241
-|   Start: Line 2143  File Position $52DE0
-|   End: Line 2152  File Position $52DE3
-+------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 242
-|   Start: Line 2152  File Position $53040
-|   End: Line 2161  File Position $53045
+|   Start: Line 2143  File Position $53040
+|   End: Line 2152  File Position $53045
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3880,9 +3865,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 243
-|   Start: Line 2161  File Position $52DDC
-|   End: Line 2170  File Position $52DDF
+| Block 242
+|   Start: Line 2152  File Position $52DDC
+|   End: Line 2161  File Position $52DDF
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3896,9 +3881,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 243
+|   Start: Line 2161  File Position $53088
+|   End: Line 2170  File Position $5308D
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 244
-|   Start: Line 2170  File Position $53088
-|   End: Line 2179  File Position $5308D
+|   Start: Line 2170  File Position $53038
+|   End: Line 2179  File Position $5303D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3913,24 +3914,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 245
-|   Start: Line 2179  File Position $53038
-|   End: Line 2188  File Position $5303D
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 246
-|   Start: Line 2188  File Position $52DD8
-|   End: Line 2197  File Position $52DDB
+|   Start: Line 2179  File Position $52DD8
+|   End: Line 2188  File Position $52DDB
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3944,9 +3929,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 246
+|   Start: Line 2188  File Position $53080
+|   End: Line 2197  File Position $53085
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 247
-|   Start: Line 2197  File Position $53080
-|   End: Line 2206  File Position $53085
+|   Start: Line 2197  File Position $53030
+|   End: Line 2206  File Position $53035
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -3961,24 +3962,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 248
-|   Start: Line 2206  File Position $53030
-|   End: Line 2215  File Position $53035
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 249
-|   Start: Line 2215  File Position $52DD4
-|   End: Line 2224  File Position $52DD7
+|   Start: Line 2206  File Position $52DD4
+|   End: Line 2215  File Position $52DD7
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -3992,9 +3977,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 249
+|   Start: Line 2215  File Position $53078
+|   End: Line 2224  File Position $5307D
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 250
-|   Start: Line 2224  File Position $53078
-|   End: Line 2233  File Position $5307D
+|   Start: Line 2224  File Position $53028
+|   End: Line 2233  File Position $5302D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4009,8 +4010,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 251
-|   Start: Line 2233  File Position $53028
-|   End: Line 2242  File Position $5302D
+|   Start: Line 2233  File Position $52DCC
+|   End: Line 2242  File Position $52DD1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4025,8 +4026,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 252
-|   Start: Line 2242  File Position $52DCC
-|   End: Line 2251  File Position $52DD1
+|   Start: Line 2242  File Position $52DC4
+|   End: Line 2251  File Position $52DC9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4041,8 +4042,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 253
-|   Start: Line 2251  File Position $52DC4
-|   End: Line 2260  File Position $52DC9
+|   Start: Line 2251  File Position $52DBC
+|   End: Line 2260  File Position $52DC1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4057,24 +4058,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 254
-|   Start: Line 2260  File Position $52DBC
-|   End: Line 2269  File Position $52DC1
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 255
-|   Start: Line 2269  File Position $53212
-|   End: Line 2276  File Position $53213
+|   Start: Line 2260  File Position $53212
+|   End: Line 2267  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -4088,9 +4073,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 255
+|   Start: Line 2267  File Position $52DB4
+|   End: Line 2276  File Position $52DB9
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 256
-|   Start: Line 2276  File Position $52DB4
-|   End: Line 2285  File Position $52DB9
+|   Start: Line 2276  File Position $52DAC
+|   End: Line 2285  File Position $52DB1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4105,8 +4106,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 257
-|   Start: Line 2285  File Position $52DAC
-|   End: Line 2294  File Position $52DB1
+|   Start: Line 2285  File Position $52DA4
+|   End: Line 2294  File Position $52DA9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4121,8 +4122,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 258
-|   Start: Line 2294  File Position $52DA4
-|   End: Line 2303  File Position $52DA9
+|   Start: Line 2294  File Position $52D9C
+|   End: Line 2303  File Position $52DA1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4137,8 +4138,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 259
-|   Start: Line 2303  File Position $52D9C
-|   End: Line 2312  File Position $52DA1
+|   Start: Line 2303  File Position $52D94
+|   End: Line 2312  File Position $52D99
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4153,8 +4154,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 260
-|   Start: Line 2312  File Position $52D94
-|   End: Line 2321  File Position $52D99
+|   Start: Line 2312  File Position $52D8C
+|   End: Line 2321  File Position $52D91
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4169,8 +4170,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 261
-|   Start: Line 2321  File Position $52D8C
-|   End: Line 2330  File Position $52D91
+|   Start: Line 2321  File Position $52D84
+|   End: Line 2330  File Position $52D89
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -4185,24 +4186,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 262
-|   Start: Line 2330  File Position $52D84
-|   End: Line 2339  File Position $52D89
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 263
-|   Start: Line 2339  File Position $579A0
-|   End: Line 2348  File Position $579C5
+|   Start: Line 2330  File Position $579A0
+|   End: Line 2339  File Position $579C5
 +------------------------------------------------------------------------------
 | Script size 37
 | Bytes Inserted 37
@@ -4216,9 +4201,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 264
-|   Start: Line 2348  File Position $579CC
-|   End: Line 2357  File Position $579E8
+| Block 263
+|   Start: Line 2339  File Position $579CC
+|   End: Line 2348  File Position $579E8
 +------------------------------------------------------------------------------
 | Script size 28
 | Bytes Inserted 28
@@ -4232,9 +4217,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 264
+|   Start: Line 2348  File Position $579F0
+|   End: Line 2357  File Position $57A10
++------------------------------------------------------------------------------
+| Script size 32
+| Bytes Inserted 32
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 265
-|   Start: Line 2357  File Position $579F0
-|   End: Line 2366  File Position $57A10
+|   Start: Line 2357  File Position $57A18
+|   End: Line 2366  File Position $57A38
 +------------------------------------------------------------------------------
 | Script size 32
 | Bytes Inserted 32
@@ -4249,24 +4250,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 266
-|   Start: Line 2366  File Position $57A18
-|   End: Line 2375  File Position $57A38
-+------------------------------------------------------------------------------
-| Script size 32
-| Bytes Inserted 32
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 267
-|   Start: Line 2375  File Position $57A40
-|   End: Line 2385  File Position $57A5F
+|   Start: Line 2366  File Position $57A40
+|   End: Line 2376  File Position $57A5F
 +------------------------------------------------------------------------------
 | Script size 31
 | Bytes Inserted 31
@@ -4280,9 +4265,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 268
-|   Start: Line 2385  File Position $578E8
-|   End: Line 2394  File Position $57905
+| Block 267
+|   Start: Line 2376  File Position $578E8
+|   End: Line 2385  File Position $57905
 +------------------------------------------------------------------------------
 | Script size 29
 | Bytes Inserted 29
@@ -4296,9 +4281,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 269
-|   Start: Line 2394  File Position $5790C
-|   End: Line 2403  File Position $57920
+| Block 268
+|   Start: Line 2385  File Position $5790C
+|   End: Line 2394  File Position $57920
 +------------------------------------------------------------------------------
 | Script size 20
 | Bytes Inserted 20
@@ -4312,9 +4297,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 270
-|   Start: Line 2403  File Position $57920
-|   End: Line 2412  File Position $5792F
+| Block 269
+|   Start: Line 2394  File Position $57920
+|   End: Line 2403  File Position $5792F
 +------------------------------------------------------------------------------
 | Script size 15
 | Bytes Inserted 15
@@ -4328,9 +4313,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 271
-|   Start: Line 2412  File Position $57934
-|   End: Line 2421  File Position $5793C
+| Block 270
+|   Start: Line 2403  File Position $57934
+|   End: Line 2412  File Position $5793C
 +------------------------------------------------------------------------------
 | Script size 8
 | Bytes Inserted 8
@@ -4344,9 +4329,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 272
-|   Start: Line 2421  File Position $57984
-|   End: Line 2431  File Position $5799C
+| Block 271
+|   Start: Line 2412  File Position $57984
+|   End: Line 2422  File Position $5799C
 +------------------------------------------------------------------------------
 | Script size 24
 | Bytes Inserted 24
@@ -4360,9 +4345,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 273
-|   Start: Line 2431  File Position $56FC8
-|   End: Line 2440  File Position $5700E
+| Block 272
+|   Start: Line 2422  File Position $56FC8
+|   End: Line 2431  File Position $5700E
 +------------------------------------------------------------------------------
 | Script size 70
 | Bytes Inserted 70
@@ -4376,9 +4361,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 274
-|   Start: Line 2440  File Position $1F0E4
-|   End: Line 2447  File Position $1F0E5
+| Block 273
+|   Start: Line 2431  File Position $1F0E4
+|   End: Line 2438  File Position $1F0E5
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -4392,9 +4377,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 275
-|   Start: Line 2447  File Position $1F058
-|   End: Line 2456  File Position $1F05C
+| Block 274
+|   Start: Line 2438  File Position $1F058
+|   End: Line 2447  File Position $1F05C
 +------------------------------------------------------------------------------
 | Script size 4
 | Bytes Inserted 4
@@ -4408,9 +4393,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 276
-|   Start: Line 2456  File Position $57080
-|   End: Line 2465  File Position $570A7
+| Block 275
+|   Start: Line 2447  File Position $57080
+|   End: Line 2456  File Position $570A7
 +------------------------------------------------------------------------------
 | Script size 39
 | Bytes Inserted 39
@@ -4424,9 +4409,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 277
-|   Start: Line 2465  File Position $570B0
-|   End: Line 2474  File Position $570DE
+| Block 276
+|   Start: Line 2456  File Position $570B0
+|   End: Line 2465  File Position $570DE
 +------------------------------------------------------------------------------
 | Script size 46
 | Bytes Inserted 46
@@ -4440,9 +4425,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 278
-|   Start: Line 2474  File Position $570E8
-|   End: Line 2483  File Position $5710F
+| Block 277
+|   Start: Line 2465  File Position $570E8
+|   End: Line 2474  File Position $5710F
 +------------------------------------------------------------------------------
 | Script size 39
 | Bytes Inserted 39
@@ -4456,9 +4441,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 279
-|   Start: Line 2483  File Position $5711C
-|   End: Line 2492  File Position $57134
+| Block 278
+|   Start: Line 2474  File Position $5711C
+|   End: Line 2483  File Position $57134
 +------------------------------------------------------------------------------
 | Script size 24
 | Bytes Inserted 24
@@ -4472,9 +4457,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 280
-|   Start: Line 2492  File Position $5713C
-|   End: Line 2501  File Position $5714F
+| Block 279
+|   Start: Line 2483  File Position $5713C
+|   End: Line 2492  File Position $5714F
 +------------------------------------------------------------------------------
 | Script size 19
 | Bytes Inserted 19
@@ -4488,9 +4473,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 281
-|   Start: Line 2501  File Position $57164
-|   End: Line 2510  File Position $57190
+| Block 280
+|   Start: Line 2492  File Position $57164
+|   End: Line 2501  File Position $57190
 +------------------------------------------------------------------------------
 | Script size 44
 | Bytes Inserted 44
@@ -4504,9 +4489,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 282
-|   Start: Line 2510  File Position $571A4
-|   End: Line 2519  File Position $571B9
+| Block 281
+|   Start: Line 2501  File Position $571A4
+|   End: Line 2510  File Position $571B9
 +------------------------------------------------------------------------------
 | Script size 21
 | Bytes Inserted 21
@@ -4520,9 +4505,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 283
-|   Start: Line 2519  File Position $571D8
-|   End: Line 2528  File Position $571F2
+| Block 282
+|   Start: Line 2510  File Position $571D8
+|   End: Line 2519  File Position $571F2
 +------------------------------------------------------------------------------
 | Script size 26
 | Bytes Inserted 26
@@ -4536,9 +4521,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 284
-|   Start: Line 2528  File Position $57208
-|   End: Line 2537  File Position $57220
+| Block 283
+|   Start: Line 2519  File Position $57208
+|   End: Line 2528  File Position $57220
 +------------------------------------------------------------------------------
 | Script size 24
 | Bytes Inserted 24
@@ -4552,9 +4537,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 285
-|   Start: Line 2537  File Position $5722C
-|   End: Line 2546  File Position $5723D
+| Block 284
+|   Start: Line 2528  File Position $5722C
+|   End: Line 2537  File Position $5723D
 +------------------------------------------------------------------------------
 | Script size 17
 | Bytes Inserted 17
@@ -4568,9 +4553,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 286
-|   Start: Line 2546  File Position $57244
-|   End: Line 2555  File Position $57264
+| Block 285
+|   Start: Line 2537  File Position $57244
+|   End: Line 2546  File Position $57264
 +------------------------------------------------------------------------------
 | Script size 32
 | Bytes Inserted 32
@@ -4584,9 +4569,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 287
-|   Start: Line 2555  File Position $57270
-|   End: Line 2564  File Position $5728B
+| Block 286
+|   Start: Line 2546  File Position $57270
+|   End: Line 2555  File Position $5728B
 +------------------------------------------------------------------------------
 | Script size 27
 | Bytes Inserted 27
@@ -4600,9 +4585,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 288
-|   Start: Line 2564  File Position $5729C
-|   End: Line 2573  File Position $572BF
+| Block 287
+|   Start: Line 2555  File Position $5729C
+|   End: Line 2564  File Position $572BF
 +------------------------------------------------------------------------------
 | Script size 35
 | Bytes Inserted 35
@@ -4616,9 +4601,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 289
-|   Start: Line 2573  File Position $572D4
-|   End: Line 2582  File Position $572EC
+| Block 288
+|   Start: Line 2564  File Position $572D4
+|   End: Line 2573  File Position $572EC
 +------------------------------------------------------------------------------
 | Script size 24
 | Bytes Inserted 24
@@ -4632,9 +4617,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 290
-|   Start: Line 2582  File Position $572FC
-|   End: Line 2591  File Position $5730D
+| Block 289
+|   Start: Line 2573  File Position $572FC
+|   End: Line 2582  File Position $5730D
 +------------------------------------------------------------------------------
 | Script size 17
 | Bytes Inserted 17
@@ -4648,9 +4633,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 290
+|   Start: Line 2582  File Position $5731C
+|   End: Line 2591  File Position $5733B
++------------------------------------------------------------------------------
+| Script size 31
+| Bytes Inserted 31
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 291
-|   Start: Line 2591  File Position $5731C
-|   End: Line 2600  File Position $5733B
+|   Start: Line 2591  File Position $57350
+|   End: Line 2600  File Position $5736F
 +------------------------------------------------------------------------------
 | Script size 31
 | Bytes Inserted 31
@@ -4665,24 +4666,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 292
-|   Start: Line 2600  File Position $57350
-|   End: Line 2609  File Position $5736F
-+------------------------------------------------------------------------------
-| Script size 31
-| Bytes Inserted 31
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 293
-|   Start: Line 2609  File Position $57380
-|   End: Line 2618  File Position $573A3
+|   Start: Line 2600  File Position $57380
+|   End: Line 2609  File Position $573A3
 +------------------------------------------------------------------------------
 | Script size 35
 | Bytes Inserted 35
@@ -4696,9 +4681,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 294
-|   Start: Line 2618  File Position $573C0
-|   End: Line 2627  File Position $573DB
+| Block 293
+|   Start: Line 2609  File Position $573C0
+|   End: Line 2618  File Position $573DB
 +------------------------------------------------------------------------------
 | Script size 27
 | Bytes Inserted 27
@@ -4712,9 +4697,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 295
-|   Start: Line 2627  File Position $573E0
-|   End: Line 2636  File Position $573F4
+| Block 294
+|   Start: Line 2618  File Position $573E0
+|   End: Line 2627  File Position $573F4
 +------------------------------------------------------------------------------
 | Script size 20
 | Bytes Inserted 20
@@ -4728,9 +4713,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 296
-|   Start: Line 2636  File Position $573F8
-|   End: Line 2645  File Position $57419
+| Block 295
+|   Start: Line 2627  File Position $573F8
+|   End: Line 2636  File Position $57419
 +------------------------------------------------------------------------------
 | Script size 33
 | Bytes Inserted 33
@@ -4744,9 +4729,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 297
-|   Start: Line 2645  File Position $57420
-|   End: Line 2654  File Position $57440
+| Block 296
+|   Start: Line 2636  File Position $57420
+|   End: Line 2645  File Position $57440
 +------------------------------------------------------------------------------
 | Script size 32
 | Bytes Inserted 32
@@ -4760,9 +4745,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 298
-|   Start: Line 2654  File Position $57448
-|   End: Line 2663  File Position $5746D
+| Block 297
+|   Start: Line 2645  File Position $57448
+|   End: Line 2654  File Position $5746D
 +------------------------------------------------------------------------------
 | Script size 37
 | Bytes Inserted 37
@@ -4776,9 +4761,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 299
-|   Start: Line 2663  File Position $57480
-|   End: Line 2672  File Position $574C9
+| Block 298
+|   Start: Line 2654  File Position $57480
+|   End: Line 2663  File Position $574C9
 +------------------------------------------------------------------------------
 | Script size 73
 | Bytes Inserted 73
@@ -4792,9 +4777,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 300
-|   Start: Line 2672  File Position $574F0
-|   End: Line 2681  File Position $5752A
+| Block 299
+|   Start: Line 2663  File Position $574F0
+|   End: Line 2672  File Position $5752A
 +------------------------------------------------------------------------------
 | Script size 58
 | Bytes Inserted 58
@@ -4808,9 +4793,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 301
-|   Start: Line 2681  File Position $57570
-|   End: Line 2690  File Position $575BB
+| Block 300
+|   Start: Line 2672  File Position $57570
+|   End: Line 2681  File Position $575BB
 +------------------------------------------------------------------------------
 | Script size 75
 | Bytes Inserted 75
@@ -4824,9 +4809,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 302
-|   Start: Line 2690  File Position $57600
-|   End: Line 2699  File Position $57639
+| Block 301
+|   Start: Line 2681  File Position $57600
+|   End: Line 2690  File Position $57639
 +------------------------------------------------------------------------------
 | Script size 57
 | Bytes Inserted 57
@@ -4840,9 +4825,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 303
-|   Start: Line 2699  File Position $57680
-|   End: Line 2708  File Position $576AD
+| Block 302
+|   Start: Line 2690  File Position $57680
+|   End: Line 2699  File Position $576AD
 +------------------------------------------------------------------------------
 | Script size 45
 | Bytes Inserted 45
@@ -4856,9 +4841,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 304
-|   Start: Line 2708  File Position $576D0
-|   End: Line 2717  File Position $576F2
+| Block 303
+|   Start: Line 2699  File Position $576D0
+|   End: Line 2708  File Position $576F2
 +------------------------------------------------------------------------------
 | Script size 34
 | Bytes Inserted 34
@@ -4872,9 +4857,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 305
-|   Start: Line 2717  File Position $57710
-|   End: Line 2726  File Position $57738
+| Block 304
+|   Start: Line 2708  File Position $57710
+|   End: Line 2717  File Position $57738
 +------------------------------------------------------------------------------
 | Script size 40
 | Bytes Inserted 40
@@ -4888,9 +4873,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 306
-|   Start: Line 2726  File Position $57744
-|   End: Line 2735  File Position $57767
+| Block 305
+|   Start: Line 2717  File Position $57744
+|   End: Line 2726  File Position $57767
 +------------------------------------------------------------------------------
 | Script size 35
 | Bytes Inserted 35
@@ -4904,9 +4889,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 307
-|   Start: Line 2735  File Position $57774
-|   End: Line 2744  File Position $577AC
+| Block 306
+|   Start: Line 2726  File Position $57774
+|   End: Line 2735  File Position $577AC
 +------------------------------------------------------------------------------
 | Script size 56
 | Bytes Inserted 56
@@ -4920,9 +4905,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 308
-|   Start: Line 2744  File Position $577B4
-|   End: Line 2753  File Position $577E0
+| Block 307
+|   Start: Line 2735  File Position $577B4
+|   End: Line 2744  File Position $577E0
 +------------------------------------------------------------------------------
 | Script size 44
 | Bytes Inserted 44
@@ -4936,9 +4921,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 309
-|   Start: Line 2753  File Position $577E4
-|   End: Line 2762  File Position $57802
+| Block 308
+|   Start: Line 2744  File Position $577E4
+|   End: Line 2753  File Position $57802
 +------------------------------------------------------------------------------
 | Script size 30
 | Bytes Inserted 30
@@ -4952,9 +4937,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 310
-|   Start: Line 2762  File Position $53212
-|   End: Line 2769  File Position $53213
+| Block 309
+|   Start: Line 2753  File Position $53212
+|   End: Line 2760  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -4968,9 +4953,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 311
-|   Start: Line 2769  File Position $57830
-|   End: Line 2778  File Position $57840
+| Block 310
+|   Start: Line 2760  File Position $57830
+|   End: Line 2769  File Position $57840
 +------------------------------------------------------------------------------
 | Script size 16
 | Bytes Inserted 16
@@ -4984,9 +4969,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 312
-|   Start: Line 2778  File Position $57818
-|   End: Line 2787  File Position $57829
+| Block 311
+|   Start: Line 2769  File Position $57818
+|   End: Line 2778  File Position $57829
 +------------------------------------------------------------------------------
 | Script size 17
 | Bytes Inserted 17
@@ -5000,9 +4985,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 312
+|   Start: Line 2778  File Position $57874
+|   End: Line 2787  File Position $57884
++------------------------------------------------------------------------------
+| Script size 16
+| Bytes Inserted 16
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 313
-|   Start: Line 2787  File Position $57874
-|   End: Line 2796  File Position $57884
+|   Start: Line 2787  File Position $57888
+|   End: Line 2796  File Position $57898
 +------------------------------------------------------------------------------
 | Script size 16
 | Bytes Inserted 16
@@ -5017,8 +5018,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 314
-|   Start: Line 2796  File Position $57888
-|   End: Line 2805  File Position $57898
+|   Start: Line 2796  File Position $578A8
+|   End: Line 2805  File Position $578B8
 +------------------------------------------------------------------------------
 | Script size 16
 | Bytes Inserted 16
@@ -5033,24 +5034,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 315
-|   Start: Line 2805  File Position $578A8
-|   End: Line 2814  File Position $578B8
-+------------------------------------------------------------------------------
-| Script size 16
-| Bytes Inserted 16
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 316
-|   Start: Line 2814  File Position $578BC
-|   End: Line 2823  File Position $578C9
+|   Start: Line 2805  File Position $578BC
+|   End: Line 2814  File Position $578C9
 +------------------------------------------------------------------------------
 | Script size 13
 | Bytes Inserted 13
@@ -5064,9 +5049,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 317
-|   Start: Line 2823  File Position $53124
-|   End: Line 2832  File Position $5312D
+| Block 316
+|   Start: Line 2814  File Position $53124
+|   End: Line 2823  File Position $5312D
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5080,9 +5065,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 318
-|   Start: Line 2832  File Position $53118
-|   End: Line 2841  File Position $53122
+| Block 317
+|   Start: Line 2823  File Position $53118
+|   End: Line 2832  File Position $53122
 +------------------------------------------------------------------------------
 | Script size 10
 | Bytes Inserted 10
@@ -5096,9 +5081,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 318
+|   Start: Line 2832  File Position $5310C
+|   End: Line 2841  File Position $53115
++------------------------------------------------------------------------------
+| Script size 9
+| Bytes Inserted 9
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 319
-|   Start: Line 2841  File Position $5310C
-|   End: Line 2850  File Position $53115
+|   Start: Line 2841  File Position $53100
+|   End: Line 2850  File Position $53109
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5113,8 +5114,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 320
-|   Start: Line 2850  File Position $53100
-|   End: Line 2859  File Position $53109
+|   Start: Line 2850  File Position $530F4
+|   End: Line 2859  File Position $530FD
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5129,8 +5130,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 321
-|   Start: Line 2859  File Position $530F4
-|   End: Line 2868  File Position $530FD
+|   Start: Line 2859  File Position $530E8
+|   End: Line 2868  File Position $530F1
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5145,8 +5146,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 322
-|   Start: Line 2868  File Position $530E8
-|   End: Line 2877  File Position $530F1
+|   Start: Line 2868  File Position $530DC
+|   End: Line 2877  File Position $530E5
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5161,11 +5162,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 323
-|   Start: Line 2877  File Position $530DC
-|   End: Line 2886  File Position $530E5
+|   Start: Line 2877  File Position $530D4
+|   End: Line 2886  File Position $530DB
 +------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5177,8 +5178,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 324
-|   Start: Line 2886  File Position $530D4
-|   End: Line 2895  File Position $530DB
+|   Start: Line 2886  File Position $530CC
+|   End: Line 2895  File Position $530D3
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5193,24 +5194,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 325
-|   Start: Line 2895  File Position $530CC
-|   End: Line 2904  File Position $530D3
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 326
-|   Start: Line 2904  File Position $530C0
-|   End: Line 2913  File Position $530C9
+|   Start: Line 2895  File Position $530C0
+|   End: Line 2904  File Position $530C9
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5224,9 +5209,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 326
+|   Start: Line 2904  File Position $530B8
+|   End: Line 2913  File Position $530BF
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 327
-|   Start: Line 2913  File Position $530B8
-|   End: Line 2922  File Position $530BF
+|   Start: Line 2913  File Position $530B0
+|   End: Line 2922  File Position $530B7
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5241,11 +5242,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 328
-|   Start: Line 2922  File Position $530B0
-|   End: Line 2931  File Position $530B7
+|   Start: Line 2922  File Position $530A8
+|   End: Line 2931  File Position $530AD
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 5
+| Bytes Inserted 5
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5257,8 +5258,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 329
-|   Start: Line 2931  File Position $530A8
-|   End: Line 2940  File Position $530AD
+|   Start: Line 2931  File Position $530A0
+|   End: Line 2940  File Position $530A5
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5273,8 +5274,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 330
-|   Start: Line 2940  File Position $530A0
-|   End: Line 2949  File Position $530A5
+|   Start: Line 2940  File Position $53088
+|   End: Line 2949  File Position $5308D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5289,8 +5290,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 331
-|   Start: Line 2949  File Position $53088
-|   End: Line 2958  File Position $5308D
+|   Start: Line 2949  File Position $53080
+|   End: Line 2958  File Position $53085
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5305,8 +5306,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 332
-|   Start: Line 2958  File Position $53080
-|   End: Line 2967  File Position $53085
+|   Start: Line 2958  File Position $53078
+|   End: Line 2967  File Position $5307D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5321,11 +5322,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 333
-|   Start: Line 2967  File Position $53078
-|   End: Line 2976  File Position $5307D
+|   Start: Line 2967  File Position $53070
+|   End: Line 2976  File Position $53077
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5337,8 +5338,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 334
-|   Start: Line 2976  File Position $53070
-|   End: Line 2985  File Position $53077
+|   Start: Line 2976  File Position $53068
+|   End: Line 2985  File Position $5306F
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5353,8 +5354,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 335
-|   Start: Line 2985  File Position $53068
-|   End: Line 2994  File Position $5306F
+|   Start: Line 2985  File Position $53060
+|   End: Line 2994  File Position $53067
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5369,11 +5370,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 336
-|   Start: Line 2994  File Position $53060
-|   End: Line 3003  File Position $53067
+|   Start: Line 2994  File Position $53058
+|   End: Line 3003  File Position $5305D
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 5
+| Bytes Inserted 5
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5385,8 +5386,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 337
-|   Start: Line 3003  File Position $53058
-|   End: Line 3012  File Position $5305D
+|   Start: Line 3003  File Position $53050
+|   End: Line 3012  File Position $53055
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5401,8 +5402,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 338
-|   Start: Line 3012  File Position $53050
-|   End: Line 3021  File Position $53055
+|   Start: Line 3012  File Position $53048
+|   End: Line 3021  File Position $5304D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5417,8 +5418,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 339
-|   Start: Line 3021  File Position $53048
-|   End: Line 3030  File Position $5304D
+|   Start: Line 3021  File Position $53040
+|   End: Line 3030  File Position $53045
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5433,8 +5434,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 340
-|   Start: Line 3030  File Position $53040
-|   End: Line 3039  File Position $53045
+|   Start: Line 3030  File Position $53038
+|   End: Line 3039  File Position $5303D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5449,8 +5450,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 341
-|   Start: Line 3039  File Position $53038
-|   End: Line 3048  File Position $5303D
+|   Start: Line 3039  File Position $53030
+|   End: Line 3048  File Position $53035
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5465,8 +5466,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 342
-|   Start: Line 3048  File Position $53030
-|   End: Line 3057  File Position $53035
+|   Start: Line 3048  File Position $53028
+|   End: Line 3057  File Position $5302D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5481,8 +5482,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 343
-|   Start: Line 3057  File Position $53028
-|   End: Line 3066  File Position $5302D
+|   Start: Line 3057  File Position $53020
+|   End: Line 3066  File Position $53025
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5497,8 +5498,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 344
-|   Start: Line 3066  File Position $53020
-|   End: Line 3075  File Position $53025
+|   Start: Line 3066  File Position $53018
+|   End: Line 3075  File Position $5301D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5513,8 +5514,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 345
-|   Start: Line 3075  File Position $53018
-|   End: Line 3084  File Position $5301D
+|   Start: Line 3075  File Position $53010
+|   End: Line 3084  File Position $53015
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5529,11 +5530,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 346
-|   Start: Line 3084  File Position $53010
-|   End: Line 3093  File Position $53015
+|   Start: Line 3084  File Position $53004
+|   End: Line 3093  File Position $5300D
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 9
+| Bytes Inserted 9
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5545,8 +5546,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 347
-|   Start: Line 3093  File Position $53004
-|   End: Line 3102  File Position $5300D
+|   Start: Line 3093  File Position $52FF8
+|   End: Line 3102  File Position $53001
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5561,8 +5562,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 348
-|   Start: Line 3102  File Position $52FF8
-|   End: Line 3111  File Position $53001
+|   Start: Line 3102  File Position $52FEC
+|   End: Line 3111  File Position $52FF5
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5577,11 +5578,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 349
-|   Start: Line 3111  File Position $52FEC
-|   End: Line 3120  File Position $52FF5
+|   Start: Line 3111  File Position $52FE4
+|   End: Line 3120  File Position $52FEB
 +------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5593,8 +5594,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 350
-|   Start: Line 3120  File Position $52FE4
-|   End: Line 3129  File Position $52FEB
+|   Start: Line 3120  File Position $52FDC
+|   End: Line 3129  File Position $52FE3
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5609,24 +5610,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 351
-|   Start: Line 3129  File Position $52FDC
-|   End: Line 3138  File Position $52FE3
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 352
-|   Start: Line 3138  File Position $52FD0
-|   End: Line 3147  File Position $52FD9
+|   Start: Line 3129  File Position $52FD0
+|   End: Line 3138  File Position $52FD9
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5640,9 +5625,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 353
-|   Start: Line 3147  File Position $52FC8
-|   End: Line 3156  File Position $52FCD
+| Block 352
+|   Start: Line 3138  File Position $52FC8
+|   End: Line 3147  File Position $52FCD
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5656,9 +5641,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 353
+|   Start: Line 3147  File Position $52FC0
+|   End: Line 3156  File Position $52FC7
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 354
-|   Start: Line 3156  File Position $52FC0
-|   End: Line 3165  File Position $52FC7
+|   Start: Line 3156  File Position $52FB8
+|   End: Line 3165  File Position $52FBF
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5673,8 +5674,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 355
-|   Start: Line 3165  File Position $52FB8
-|   End: Line 3174  File Position $52FBF
+|   Start: Line 3165  File Position $52FB0
+|   End: Line 3174  File Position $52FB7
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5689,11 +5690,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 356
-|   Start: Line 3174  File Position $52FB0
-|   End: Line 3183  File Position $52FB7
+|   Start: Line 3174  File Position $52FA8
+|   End: Line 3183  File Position $52FAD
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 5
+| Bytes Inserted 5
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5705,8 +5706,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 357
-|   Start: Line 3183  File Position $52FA8
-|   End: Line 3192  File Position $52FAD
+|   Start: Line 3183  File Position $FFFF
+|   End: Line 3192  File Position $10004
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5721,8 +5722,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 358
-|   Start: Line 3192  File Position $FFFF
-|   End: Line 3201  File Position $10004
+|   Start: Line 3192  File Position $52FA0
+|   End: Line 3201  File Position $52FA5
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5737,24 +5738,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 359
-|   Start: Line 3201  File Position $52FA0
-|   End: Line 3210  File Position $52FA5
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 360
-|   Start: Line 3210  File Position $52F98
-|   End: Line 3219  File Position $52F9F
+|   Start: Line 3201  File Position $52F98
+|   End: Line 3210  File Position $52F9F
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5768,9 +5753,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 360
+|   Start: Line 3210  File Position $52F8C
+|   End: Line 3219  File Position $52F95
++------------------------------------------------------------------------------
+| Script size 9
+| Bytes Inserted 9
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 361
-|   Start: Line 3219  File Position $52F8C
-|   End: Line 3228  File Position $52F95
+|   Start: Line 3219  File Position $52F80
+|   End: Line 3228  File Position $52F89
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5785,24 +5786,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 362
-|   Start: Line 3228  File Position $52F80
-|   End: Line 3237  File Position $52F89
-+------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 363
-|   Start: Line 3237  File Position $52F74
-|   End: Line 3246  File Position $52F7F
+|   Start: Line 3228  File Position $52F74
+|   End: Line 3237  File Position $52F7F
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -5816,9 +5801,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 363
+|   Start: Line 3237  File Position $52F68
+|   End: Line 3246  File Position $52F71
++------------------------------------------------------------------------------
+| Script size 9
+| Bytes Inserted 9
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 364
-|   Start: Line 3246  File Position $52F68
-|   End: Line 3255  File Position $52F71
+|   Start: Line 3246  File Position $52F5C
+|   End: Line 3255  File Position $52F65
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5833,8 +5834,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 365
-|   Start: Line 3255  File Position $52F5C
-|   End: Line 3264  File Position $52F65
+|   Start: Line 3255  File Position $52F50
+|   End: Line 3264  File Position $52F59
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5849,8 +5850,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 366
-|   Start: Line 3264  File Position $52F50
-|   End: Line 3273  File Position $52F59
+|   Start: Line 3264  File Position $52F44
+|   End: Line 3273  File Position $52F4D
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -5865,24 +5866,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 367
-|   Start: Line 3273  File Position $52F44
-|   End: Line 3282  File Position $52F4D
-+------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 368
-|   Start: Line 3282  File Position $53212
-|   End: Line 3289  File Position $53213
+|   Start: Line 3273  File Position $53212
+|   End: Line 3280  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -5896,9 +5881,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 368
+|   Start: Line 3280  File Position $52F3C
+|   End: Line 3289  File Position $52F44
++------------------------------------------------------------------------------
+| Script size 8
+| Bytes Inserted 8
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 369
-|   Start: Line 3289  File Position $52F3C
-|   End: Line 3298  File Position $52F41
+|   Start: Line 3289  File Position $52F34
+|   End: Line 3298  File Position $52F39
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5913,11 +5914,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 370
-|   Start: Line 3298  File Position $52F34
-|   End: Line 3307  File Position $52F39
+|   Start: Line 3298  File Position $52F30
+|   End: Line 3307  File Position $52F33
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 3
+| Bytes Inserted 3
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -5929,24 +5930,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 371
-|   Start: Line 3307  File Position $52F30
-|   End: Line 3316  File Position $52F33
-+------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 372
-|   Start: Line 3316  File Position $52F28
-|   End: Line 3325  File Position $52F2D
+|   Start: Line 3307  File Position $52F28
+|   End: Line 3316  File Position $52F2D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -5960,9 +5945,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 373
-|   Start: Line 3325  File Position $52F24
-|   End: Line 3334  File Position $52F27
+| Block 372
+|   Start: Line 3316  File Position $52F24
+|   End: Line 3325  File Position $52F27
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -5976,9 +5961,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 374
-|   Start: Line 3334  File Position $52F1C
-|   End: Line 3343  File Position $52F23
+| Block 373
+|   Start: Line 3325  File Position $52F1C
+|   End: Line 3334  File Position $52F23
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -5992,9 +5977,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 375
-|   Start: Line 3343  File Position $52F18
-|   End: Line 3352  File Position $52F1B
+| Block 374
+|   Start: Line 3334  File Position $52F18
+|   End: Line 3343  File Position $52F1B
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6008,9 +5993,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 375
+|   Start: Line 3343  File Position $52F10
+|   End: Line 3352  File Position $52F17
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 376
-|   Start: Line 3352  File Position $52F10
-|   End: Line 3361  File Position $52F17
+|   Start: Line 3352  File Position $52F08
+|   End: Line 3361  File Position $52F0F
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6025,8 +6026,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 377
-|   Start: Line 3361  File Position $52F08
-|   End: Line 3370  File Position $52F0F
+|   Start: Line 3361  File Position $52F00
+|   End: Line 3370  File Position $52F07
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6041,24 +6042,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 378
-|   Start: Line 3370  File Position $52F00
-|   End: Line 3379  File Position $52F07
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 379
-|   Start: Line 3379  File Position $52EF4
-|   End: Line 3388  File Position $52EFD
+|   Start: Line 3370  File Position $52EF4
+|   End: Line 3379  File Position $52EFD
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -6072,9 +6057,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 379
+|   Start: Line 3379  File Position $52EEC
+|   End: Line 3388  File Position $52EF1
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 380
-|   Start: Line 3388  File Position $52EEC
-|   End: Line 3397  File Position $52EF1
+|   Start: Line 3388  File Position $52EE4
+|   End: Line 3397  File Position $52EE9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6089,8 +6090,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 381
-|   Start: Line 3397  File Position $52EE4
-|   End: Line 3406  File Position $52EE9
+|   Start: Line 3397  File Position $52EDC
+|   End: Line 3406  File Position $52EE1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6105,11 +6106,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 382
-|   Start: Line 3406  File Position $52EDC
-|   End: Line 3415  File Position $52EE1
+|   Start: Line 3406  File Position $52ED4
+|   End: Line 3415  File Position $52EDB
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -6121,8 +6122,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 383
-|   Start: Line 3415  File Position $52ED4
-|   End: Line 3424  File Position $52EDB
+|   Start: Line 3415  File Position $52ECC
+|   End: Line 3424  File Position $52ED3
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6137,24 +6138,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 384
-|   Start: Line 3424  File Position $52ECC
-|   End: Line 3433  File Position $52ED3
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 385
-|   Start: Line 3433  File Position $52EC4
-|   End: Line 3442  File Position $52EC9
+|   Start: Line 3424  File Position $52EC4
+|   End: Line 3433  File Position $52EC9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6168,9 +6153,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 385
+|   Start: Line 3433  File Position $52EC0
+|   End: Line 3442  File Position $52EC3
++------------------------------------------------------------------------------
+| Script size 3
+| Bytes Inserted 3
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 386
-|   Start: Line 3442  File Position $52EC0
-|   End: Line 3451  File Position $52EC3
+|   Start: Line 3442  File Position $52EBC
+|   End: Line 3451  File Position $52EBF
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6185,8 +6186,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 387
-|   Start: Line 3451  File Position $52EBC
-|   End: Line 3460  File Position $52EBF
+|   Start: Line 3451  File Position $52EB8
+|   End: Line 3460  File Position $52EBB
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6201,24 +6202,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 388
-|   Start: Line 3460  File Position $52EB8
-|   End: Line 3469  File Position $52EBB
-+------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 389
-|   Start: Line 3469  File Position $52EAC
-|   End: Line 3478  File Position $52EB5
+|   Start: Line 3460  File Position $52EAC
+|   End: Line 3469  File Position $52EB5
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -6232,9 +6217,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 390
-|   Start: Line 3478  File Position $52EA4
-|   End: Line 3487  File Position $52EAB
+| Block 389
+|   Start: Line 3469  File Position $52EA4
+|   End: Line 3478  File Position $52EAB
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6248,9 +6233,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 391
-|   Start: Line 3487  File Position $52EA0
-|   End: Line 3496  File Position $52EA3
+| Block 390
+|   Start: Line 3478  File Position $52EA0
+|   End: Line 3487  File Position $52EA3
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6264,9 +6249,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 392
-|   Start: Line 3496  File Position $52E94
-|   End: Line 3505  File Position $52E9D
+| Block 391
+|   Start: Line 3487  File Position $52E94
+|   End: Line 3496  File Position $52E9D
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -6280,9 +6265,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 393
-|   Start: Line 3505  File Position $52E8C
-|   End: Line 3514  File Position $52E91
+| Block 392
+|   Start: Line 3496  File Position $52E8C
+|   End: Line 3505  File Position $52E91
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6296,9 +6281,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 394
-|   Start: Line 3514  File Position $53212
-|   End: Line 3521  File Position $53213
+| Block 393
+|   Start: Line 3505  File Position $53212
+|   End: Line 3512  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -6312,9 +6297,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 394
+|   Start: Line 3512  File Position $52E74
+|   End: Line 3521  File Position $52E79
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 395
-|   Start: Line 3521  File Position $52E74
-|   End: Line 3530  File Position $52E79
+|   Start: Line 3521  File Position $52E6C
+|   End: Line 3530  File Position $52E71
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6329,8 +6330,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 396
-|   Start: Line 3530  File Position $52E6C
-|   End: Line 3539  File Position $52E71
+|   Start: Line 3530  File Position $52E64
+|   End: Line 3539  File Position $52E69
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6345,11 +6346,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 397
-|   Start: Line 3539  File Position $52E64
-|   End: Line 3548  File Position $52E69
+|   Start: Line 3539  File Position $52E58
+|   End: Line 3548  File Position $52E61
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 9
+| Bytes Inserted 9
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -6361,8 +6362,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 398
-|   Start: Line 3548  File Position $52E58
-|   End: Line 3557  File Position $52E61
+|   Start: Line 3548  File Position $52E4C
+|   End: Line 3557  File Position $52E55
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -6377,11 +6378,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 399
-|   Start: Line 3557  File Position $52E4C
-|   End: Line 3566  File Position $52E55
+|   Start: Line 3557  File Position $52E40
+|   End: Line 3566  File Position $52E4B
 +------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
+| Script size 11
+| Bytes Inserted 11
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -6393,8 +6394,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 400
-|   Start: Line 3566  File Position $52E40
-|   End: Line 3575  File Position $52E4B
+|   Start: Line 3566  File Position $52E34
+|   End: Line 3575  File Position $52E3F
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -6409,8 +6410,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 401
-|   Start: Line 3575  File Position $52E34
-|   End: Line 3584  File Position $52E3F
+|   Start: Line 3575  File Position $52E28
+|   End: Line 3584  File Position $52E33
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -6425,8 +6426,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 402
-|   Start: Line 3584  File Position $52E28
-|   End: Line 3593  File Position $52E33
+|   Start: Line 3584  File Position $52E1C
+|   End: Line 3593  File Position $52E27
 +------------------------------------------------------------------------------
 | Script size 11
 | Bytes Inserted 11
@@ -6441,11 +6442,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 403
-|   Start: Line 3593  File Position $52E1C
-|   End: Line 3602  File Position $52E27
+|   Start: Line 3593  File Position $52E10
+|   End: Line 3602  File Position $52E19
 +------------------------------------------------------------------------------
-| Script size 11
-| Bytes Inserted 11
+| Script size 9
+| Bytes Inserted 9
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -6457,8 +6458,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 404
-|   Start: Line 3602  File Position $52E10
-|   End: Line 3611  File Position $52E19
+|   Start: Line 3602  File Position $52E04
+|   End: Line 3611  File Position $52E0D
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -6473,24 +6474,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 405
-|   Start: Line 3611  File Position $52E04
-|   End: Line 3620  File Position $52E0D
-+------------------------------------------------------------------------------
-| Script size 9
-| Bytes Inserted 9
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 406
-|   Start: Line 3620  File Position $53212
-|   End: Line 3627  File Position $53213
+|   Start: Line 3611  File Position $53212
+|   End: Line 3618  File Position $53213
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -6504,9 +6489,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 407
-|   Start: Line 3627  File Position $531F8
-|   End: Line 3636  File Position $531FD
+| Block 406
+|   Start: Line 3618  File Position $531F8
+|   End: Line 3627  File Position $531FD
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6520,9 +6505,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 407
+|   Start: Line 3627  File Position $530B0
+|   End: Line 3636  File Position $530B7
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 408
-|   Start: Line 3636  File Position $530B0
-|   End: Line 3645  File Position $530B7
+|   Start: Line 3636  File Position $53068
+|   End: Line 3645  File Position $5306F
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6537,24 +6538,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 409
-|   Start: Line 3645  File Position $53068
-|   End: Line 3654  File Position $5306F
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 410
-|   Start: Line 3654  File Position $52E00
-|   End: Line 3663  File Position $52E03
+|   Start: Line 3645  File Position $52E00
+|   End: Line 3654  File Position $52E03
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6568,9 +6553,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 411
-|   Start: Line 3663  File Position $52DF8
-|   End: Line 3672  File Position $52DFD
+| Block 410
+|   Start: Line 3654  File Position $52DF8
+|   End: Line 3663  File Position $52DFD
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6584,9 +6569,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 411
+|   Start: Line 3663  File Position $530D4
+|   End: Line 3672  File Position $530DB
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 412
-|   Start: Line 3672  File Position $530D4
-|   End: Line 3681  File Position $530DB
+|   Start: Line 3672  File Position $53070
+|   End: Line 3681  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6601,24 +6602,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 413
-|   Start: Line 3681  File Position $53070
-|   End: Line 3690  File Position $53077
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 414
-|   Start: Line 3690  File Position $52EC4
-|   End: Line 3699  File Position $52EC9
+|   Start: Line 3681  File Position $52EC4
+|   End: Line 3690  File Position $52EC9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6632,9 +6617,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 414
+|   Start: Line 3690  File Position $530CC
+|   End: Line 3699  File Position $530D3
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 415
-|   Start: Line 3699  File Position $530CC
-|   End: Line 3708  File Position $530D3
+|   Start: Line 3699  File Position $53070
+|   End: Line 3708  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6649,8 +6650,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 416
-|   Start: Line 3708  File Position $53070
-|   End: Line 3717  File Position $53077
+|   Start: Line 3708  File Position $53190
+|   End: Line 3717  File Position $53197
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6665,24 +6666,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 417
-|   Start: Line 3717  File Position $53190
-|   End: Line 3726  File Position $53197
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 418
-|   Start: Line 3726  File Position $530C0
-|   End: Line 3735  File Position $530C9
+|   Start: Line 3717  File Position $530C0
+|   End: Line 3726  File Position $530C9
 +------------------------------------------------------------------------------
 | Script size 9
 | Bytes Inserted 9
@@ -6696,9 +6681,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 419
-|   Start: Line 3735  File Position $53070
-|   End: Line 3744  File Position $53077
+| Block 418
+|   Start: Line 3726  File Position $53070
+|   End: Line 3735  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6712,9 +6697,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 420
-|   Start: Line 3744  File Position $52DF0
-|   End: Line 3753  File Position $52DF5
+| Block 419
+|   Start: Line 3735  File Position $52DF0
+|   End: Line 3744  File Position $52DF5
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6728,9 +6713,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 420
+|   Start: Line 3744  File Position $530B8
+|   End: Line 3753  File Position $530BF
++------------------------------------------------------------------------------
+| Script size 7
+| Bytes Inserted 7
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 421
-|   Start: Line 3753  File Position $530B8
-|   End: Line 3762  File Position $530BF
+|   Start: Line 3753  File Position $53070
+|   End: Line 3762  File Position $53077
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -6745,24 +6746,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 422
-|   Start: Line 3762  File Position $53070
-|   End: Line 3771  File Position $53077
-+------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 423
-|   Start: Line 3771  File Position $52DEC
-|   End: Line 3780  File Position $52DEF
+|   Start: Line 3762  File Position $52DEC
+|   End: Line 3771  File Position $52DEF
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6776,9 +6761,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 423
+|   Start: Line 3771  File Position $530A8
+|   End: Line 3780  File Position $530AD
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 424
-|   Start: Line 3780  File Position $530A8
-|   End: Line 3789  File Position $530AD
+|   Start: Line 3780  File Position $53058
+|   End: Line 3789  File Position $5305D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6793,24 +6794,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 425
-|   Start: Line 3789  File Position $53058
-|   End: Line 3798  File Position $5305D
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 426
-|   Start: Line 3798  File Position $52DE8
-|   End: Line 3807  File Position $52DEB
+|   Start: Line 3789  File Position $52DE8
+|   End: Line 3798  File Position $52DEB
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6824,9 +6809,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 426
+|   Start: Line 3798  File Position $530A0
+|   End: Line 3807  File Position $530A5
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 427
-|   Start: Line 3807  File Position $530A0
-|   End: Line 3816  File Position $530A5
+|   Start: Line 3807  File Position $53048
+|   End: Line 3816  File Position $5304D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6841,11 +6842,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 428
-|   Start: Line 3816  File Position $53048
-|   End: Line 3825  File Position $5304D
+|   Start: Line 3816  File Position $52DE0
+|   End: Line 3825  File Position $52DE3
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 3
+| Bytes Inserted 3
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -6857,24 +6858,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 429
-|   Start: Line 3825  File Position $52DE0
-|   End: Line 3834  File Position $52DE3
-+------------------------------------------------------------------------------
-| Script size 3
-| Bytes Inserted 3
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 430
-|   Start: Line 3834  File Position $53040
-|   End: Line 3843  File Position $53045
+|   Start: Line 3825  File Position $53040
+|   End: Line 3834  File Position $53045
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6888,9 +6873,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 431
-|   Start: Line 3843  File Position $52DDC
-|   End: Line 3852  File Position $52DDF
+| Block 430
+|   Start: Line 3834  File Position $52DDC
+|   End: Line 3843  File Position $52DDF
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6904,9 +6889,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 431
+|   Start: Line 3843  File Position $53088
+|   End: Line 3852  File Position $5308D
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 432
-|   Start: Line 3852  File Position $53088
-|   End: Line 3861  File Position $5308D
+|   Start: Line 3852  File Position $53038
+|   End: Line 3861  File Position $5303D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6921,24 +6922,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 433
-|   Start: Line 3861  File Position $53038
-|   End: Line 3870  File Position $5303D
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 434
-|   Start: Line 3870  File Position $52DD8
-|   End: Line 3879  File Position $52DDB
+|   Start: Line 3861  File Position $52DD8
+|   End: Line 3870  File Position $52DDB
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -6952,9 +6937,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 434
+|   Start: Line 3870  File Position $53080
+|   End: Line 3879  File Position $53085
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 435
-|   Start: Line 3879  File Position $53080
-|   End: Line 3888  File Position $53085
+|   Start: Line 3879  File Position $53030
+|   End: Line 3888  File Position $53035
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -6969,24 +6970,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 436
-|   Start: Line 3888  File Position $53030
-|   End: Line 3897  File Position $53035
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 437
-|   Start: Line 3897  File Position $52DD4
-|   End: Line 3906  File Position $52DD7
+|   Start: Line 3888  File Position $52DD4
+|   End: Line 3897  File Position $52DD7
 +------------------------------------------------------------------------------
 | Script size 3
 | Bytes Inserted 3
@@ -7000,9 +6985,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 437
+|   Start: Line 3897  File Position $53078
+|   End: Line 3906  File Position $5307D
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 438
-|   Start: Line 3906  File Position $53078
-|   End: Line 3915  File Position $5307D
+|   Start: Line 3906  File Position $53028
+|   End: Line 3915  File Position $5302D
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7017,8 +7018,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 439
-|   Start: Line 3915  File Position $53028
-|   End: Line 3924  File Position $5302D
+|   Start: Line 3915  File Position $52DCC
+|   End: Line 3924  File Position $52DD1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7033,8 +7034,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 440
-|   Start: Line 3924  File Position $52DCC
-|   End: Line 3933  File Position $52DD1
+|   Start: Line 3924  File Position $52DC4
+|   End: Line 3933  File Position $52DC9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7049,8 +7050,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 441
-|   Start: Line 3933  File Position $52DC4
-|   End: Line 3942  File Position $52DC9
+|   Start: Line 3933  File Position $52DBC
+|   End: Line 3942  File Position $52DC1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7065,8 +7066,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 442
-|   Start: Line 3942  File Position $52DBC
-|   End: Line 3951  File Position $52DC1
+|   Start: Line 3942  File Position $52DB4
+|   End: Line 3951  File Position $52DB9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7081,8 +7082,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 443
-|   Start: Line 3951  File Position $52DB4
-|   End: Line 3960  File Position $52DB9
+|   Start: Line 3951  File Position $52DAC
+|   End: Line 3960  File Position $52DB1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7097,8 +7098,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 444
-|   Start: Line 3960  File Position $52DAC
-|   End: Line 3969  File Position $52DB1
+|   Start: Line 3960  File Position $52DA4
+|   End: Line 3969  File Position $52DA9
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7113,8 +7114,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 445
-|   Start: Line 3969  File Position $52DA4
-|   End: Line 3978  File Position $52DA9
+|   Start: Line 3969  File Position $52D9C
+|   End: Line 3978  File Position $52DA1
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7129,8 +7130,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 446
-|   Start: Line 3978  File Position $52D9C
-|   End: Line 3987  File Position $52DA1
+|   Start: Line 3978  File Position $52D94
+|   End: Line 3987  File Position $52D99
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7145,8 +7146,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 447
-|   Start: Line 3987  File Position $52D94
-|   End: Line 3996  File Position $52D99
+|   Start: Line 3987  File Position $52D8C
+|   End: Line 3996  File Position $52D91
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7161,8 +7162,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 448
-|   Start: Line 3996  File Position $52D8C
-|   End: Line 4005  File Position $52D91
+|   Start: Line 3996  File Position $52D84
+|   End: Line 4005  File Position $52D89
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7177,8 +7178,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 449
-|   Start: Line 4005  File Position $52D84
-|   End: Line 4014  File Position $52D89
+|   Start: Line 4005  File Position $52D7C
+|   End: Line 4014  File Position $52D81
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7193,8 +7194,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 450
-|   Start: Line 4014  File Position $52D7C
-|   End: Line 4023  File Position $52D81
+|   Start: Line 4014  File Position $58150
+|   End: Line 4023  File Position $58155
 +------------------------------------------------------------------------------
 | Script size 5
 | Bytes Inserted 5
@@ -7209,24 +7210,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 451
-|   Start: Line 4023  File Position $58150
-|   End: Line 4032  File Position $58155
-+------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 452
-|   Start: Line 4032  File Position $582A4
-|   End: Line 4041  File Position $582AE
+|   Start: Line 4023  File Position $582A4
+|   End: Line 4032  File Position $582AE
 +------------------------------------------------------------------------------
 | Script size 10
 | Bytes Inserted 10
@@ -7240,9 +7225,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 453
-|   Start: Line 4041  File Position $5FDBC
-|   End: Line 4048  File Position $5FDBD
+| Block 452
+|   Start: Line 4032  File Position $5FDBC
+|   End: Line 4039  File Position $5FDBD
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -7256,9 +7241,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 454
-|   Start: Line 4048  File Position $582B8
-|   End: Line 4057  File Position $582C6
+| Block 453
+|   Start: Line 4039  File Position $582B8
+|   End: Line 4048  File Position $582C6
 +------------------------------------------------------------------------------
 | Script size 14
 | Bytes Inserted 14
@@ -7272,9 +7257,25 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
+| Block 454
+|   Start: Line 4048  File Position $5FDBE
+|   End: Line 4055  File Position $5FDBF
++------------------------------------------------------------------------------
+| Script size 1
+| Bytes Inserted 1
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
 | Block 455
-|   Start: Line 4057  File Position $5FDBE
-|   End: Line 4064  File Position $5FDBF
+|   Start: Line 4055  File Position $5FDC0
+|   End: Line 4062  File Position $5FDC1
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -7289,8 +7290,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 456
-|   Start: Line 4064  File Position $5FDC0
-|   End: Line 4071  File Position $5FDC1
+|   Start: Line 4062  File Position $5FDC2
+|   End: Line 4069  File Position $5FDC3
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -7305,11 +7306,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 457
-|   Start: Line 4071  File Position $5FDC2
-|   End: Line 4078  File Position $5FDC3
+|   Start: Line 4069  File Position $582E0
+|   End: Line 4078  File Position $582E7
 +------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7321,11 +7322,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 458
-|   Start: Line 4078  File Position $582E0
-|   End: Line 4087  File Position $582E7
+|   Start: Line 4078  File Position $5FDC4
+|   End: Line 4085  File Position $5FDC5
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 1
+| Bytes Inserted 1
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7337,11 +7338,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 459
-|   Start: Line 4087  File Position $5FDC4
-|   End: Line 4094  File Position $5FDC5
+|   Start: Line 4085  File Position $582E8
+|   End: Line 4094  File Position $582EF
 +------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7353,11 +7354,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 460
-|   Start: Line 4094  File Position $582E8
-|   End: Line 4103  File Position $582EF
+|   Start: Line 4094  File Position $5FDC6
+|   End: Line 4101  File Position $5FDC7
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 1
+| Bytes Inserted 1
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7369,11 +7370,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 461
-|   Start: Line 4103  File Position $5FDC6
-|   End: Line 4110  File Position $5FDC7
+|   Start: Line 4101  File Position $582F0
+|   End: Line 4110  File Position $582F7
 +------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7385,11 +7386,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 462
-|   Start: Line 4110  File Position $582F0
-|   End: Line 4119  File Position $582F7
+|   Start: Line 4110  File Position $5FDC8
+|   End: Line 4117  File Position $5FDC9
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 1
+| Bytes Inserted 1
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7401,11 +7402,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 463
-|   Start: Line 4119  File Position $5FDC8
-|   End: Line 4126  File Position $5FDC9
+|   Start: Line 4117  File Position $582F8
+|   End: Line 4126  File Position $582FF
 +------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7417,11 +7418,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 464
-|   Start: Line 4126  File Position $582F8
-|   End: Line 4135  File Position $582FF
+|   Start: Line 4126  File Position $5FDCA
+|   End: Line 4133  File Position $5FDCB
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 1
+| Bytes Inserted 1
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7433,11 +7434,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 465
-|   Start: Line 4135  File Position $5FDCA
-|   End: Line 4142  File Position $5FDCB
+|   Start: Line 4133  File Position $58300
+|   End: Line 4142  File Position $58307
 +------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7449,11 +7450,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 466
-|   Start: Line 4142  File Position $58300
-|   End: Line 4151  File Position $58307
+|   Start: Line 4142  File Position $5FDCC
+|   End: Line 4149  File Position $5FDCD
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 1
+| Bytes Inserted 1
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7465,11 +7466,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 467
-|   Start: Line 4151  File Position $5FDCC
-|   End: Line 4158  File Position $5FDCD
+|   Start: Line 4149  File Position $58308
+|   End: Line 4158  File Position $5830F
 +------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
+| Script size 7
+| Bytes Inserted 7
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7481,11 +7482,11 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 468
-|   Start: Line 4158  File Position $58308
-|   End: Line 4167  File Position $5830F
+|   Start: Line 4158  File Position $5FDCE
+|   End: Line 4165  File Position $5FDCF
 +------------------------------------------------------------------------------
-| Script size 7
-| Bytes Inserted 7
+| Script size 1
+| Bytes Inserted 1
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7497,24 +7498,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 469
-|   Start: Line 4167  File Position $5FDCE
-|   End: Line 4174  File Position $5FDCF
-+------------------------------------------------------------------------------
-| Script size 1
-| Bytes Inserted 1
-|
-| Command Execution Listing
-|   WRITE: 1
-|   WARN: 1
-|
-| Pointer Listing
-|   General Pointers Written: 1
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 470
-|   Start: Line 4174  File Position $58310
-|   End: Line 4183  File Position $58317
+|   Start: Line 4165  File Position $58310
+|   End: Line 4174  File Position $58317
 +------------------------------------------------------------------------------
 | Script size 7
 | Bytes Inserted 7
@@ -7528,9 +7513,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 471
-|   Start: Line 4183  File Position $5FDD0
-|   End: Line 4193  File Position $5FDD1
+| Block 470
+|   Start: Line 4174  File Position $5FDD0
+|   End: Line 4184  File Position $5FDD1
 +------------------------------------------------------------------------------
 | Script size 1
 | Bytes Inserted 1
@@ -7544,9 +7529,9 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Block 472
-|   Start: Line 4193  File Position $5F2C0
-|   End: Line 4737  File Position $5F45D
+| Block 471
+|   Start: Line 4184  File Position $5F2C0
+|   End: Line 4728  File Position $5F45D
 +------------------------------------------------------------------------------
 | Script size 413
 | Bytes Inserted 413
@@ -7561,17 +7546,17 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Total Statistics
-| Script Size 4751
-| Script Inserted 4751
+| Script Size 4747
+| Script Inserted 4747
 |
 | Command Execution Listing
-| JMP: 472
+| JMP: 471
 | ADDTBL: 1
 | ACTIVETBL: 1
 | CREATEPTR: 1
-| WRITE: 538
-| WARN: 472
-| General Pointers Written: 538
+| WRITE: 537
+| WARN: 471
+| General Pointers Written: 537
 +------------------------------------------------------------------------------
 
-Execution time: 887 msecs
+Execution time: 1097 msecs

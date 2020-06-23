@@ -856,7 +856,7 @@ u611
 // Ptr: 000531D8
 #WRITE(PTR, $0005E390)
 //‚È‚µ
-‚È‚µ
+--
 <$00>
 
 #WARN($000531DE, "WARNME")
@@ -1568,15 +1568,6 @@ u611
 <$00>
 
 #WARN($00053212, "WARNME")
-#JMP($00052F3C)
-
-// Ptr: 00052F3C
-#WRITE(PTR, $0005E830)
-//‘fŽè
-‘fŽè
-<$00>
-
-#WARN($00052F42, "WARNME")
 #JMP($00052F34)
 
 // Ptr: 00052F34
@@ -3291,7 +3282,7 @@ Elocution
 // Ptr: 00052F3C
 #WRITE(PTR, $0005E830)
 //‘fŽè
-‘fŽè
+Unarmed
 <$00>
 
 #WARN($00052F41, "WARNME")
