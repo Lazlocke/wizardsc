@@ -3285,7 +3285,7 @@ Elocution
 Unarmed
 <$00>
 
-#WARN($00052F41, "WARNME")
+#WARN($00052F43, "WARNME")
 #JMP($00052F34)
 
 // Ptr: 00052F34
