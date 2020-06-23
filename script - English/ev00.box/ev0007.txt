@@ -67,7 +67,7 @@ light.
 "Yes, sir."
 #
 <removesprite -1 11>
-Fire specialized in attack, or rather, you
+Fire is specialized in attack, or rather, you
 could say all it can do is attack.
 It can be strong in wide areas, but it's hard
 to hit a moving target with it.

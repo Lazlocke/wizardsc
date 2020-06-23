@@ -168,7 +168,7 @@
 :B2D
 <background "ev018a1.iph" 11>
 <name "Celes" "!AA2135">
-"This city has a lot of stay dogs and cats,
+"This city has a lot of stray dogs and cats,
  doesn't it?"
 #
 <name "Guard" "!RB0075">
