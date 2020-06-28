@@ -162,7 +162,7 @@
 "Work hard again today, Celes."
 #
 <name "Celes" "!AA1952">
-"Yep. I'll do my best!ô"
+"Yep. I'll do my best!"
 #
 <name "Farmer" "!SB0015">
 "I see, I see.
