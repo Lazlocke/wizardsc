@@ -113,7 +113,7 @@
  It looks delicious."
 #
 <name "Lazlocke">
-"Don't be fooled by apperances.
+"Don't be fooled by appearances.
  Her cooking is terrible."
 #
 <sprite "ta04a28.iph" 6 4 12>

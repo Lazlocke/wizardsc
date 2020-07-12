@@ -348,7 +348,7 @@ Celes is working hard.
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA3313">
 "Viola.
- Is there something sepcial about it?"
+ Is there something special about it?"
 #
 <name "Lazlocke">
 "No. Well, it's like a stronger version of the

@@ -451,7 +451,7 @@ Has she gotten quicker on her feet?
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5773">
-"Hahaha...
+"Ehehe...
  Really?"
 #
 <name "Lazlocke">

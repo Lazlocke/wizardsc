@@ -403,7 +403,7 @@
 :196A
 <background "ev018a1.iph" 11>
 <name "Celes" "!AA2150">
-"Patrol.ô Patrol.ô"
+"Patrol. Patrol."
 #
 <name "Seasoned Thief" "!TB0003">
 "If you see that girl, give up the job."

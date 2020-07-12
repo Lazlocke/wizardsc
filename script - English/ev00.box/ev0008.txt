@@ -538,7 +538,7 @@ be very skilled.
 "Okay. Are my normal clothes okay?"
 #
 <name "Lazlocke">
-"Yeah. As long as you don't looke disheveled,
+"Yeah. As long as you don't look disheveled,
  you're fine.
  Let's get going."
 #
@@ -601,7 +601,7 @@ Viola Entra.
 #
 <music 34>
 <background "ev064a0.iph" 10>
-Queenbell Kingdom's preeminent court wizard.
+Queensbell Kingdom's preeminent court wizard.
 #
 <music 8>
 <background "ev064b0.iph" 10>
@@ -1626,7 +1626,7 @@ I smack her on the head.
 <sprite "ta02a09.iph" 6 4 12>
 <name "Elle" "!CA0017">
 "N-No, I'm supposed to eat my meals in the
- form."
+ dorm."
 #
 <name "Lazlocke">
 "I see. Well, I hope you and Celes get along.
@@ -1723,7 +1723,7 @@ After dinner with Viola, Celes and I go home.
  I won't use magic in the city anymore."
 #
 <name "Lazlocke">
-"Well, I know you want to brat about it."
+"Well, I know you want to brag about it."
 #
 <sprite "ta01a92.iph" 4 4 12>
 <name "Celes" "!AA0398">
@@ -2190,7 +2190,7 @@ No sooner said than she arrives.
 <removesprite -1 11>
 <music 26>
 <background "bg004a0.iph" 11>
-Afer that, Celes and Elle trained together and
+After that, Celes and Elle trained together and
 deepened their friendship.
 #
 <music 10>

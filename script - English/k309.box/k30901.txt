@@ -81,7 +81,7 @@ They just want my ability as a wizard's bride.
  the Guild."
 #
 <removesprite -1 11>
-I'm decyphering a grimoire for them.
+I'm deciphering a grimoire for them.
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0942">

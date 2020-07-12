@@ -786,7 +786,7 @@ I am not a good singer.
  But I said no..."
 #
 <name "Lazlocke">
-"If you want to, you should do every now and
+"If you want to, you should do it every now and
  then."
 #
 <sprite "ta01a15.iph" 4 4 12>
@@ -885,7 +885,7 @@ her head.
 #
 <sprite "ta01a59.iph" 4 4 12>
 <name "Celes" "!AA6466">
-"Onii-chaaaaan!ÅÙ"
+"Onii-chaaaaan!Å"
 #
 <name "Lazlocke">
 "Aaaahhhh!"
@@ -921,7 +921,7 @@ And comes to a conclusion.
 <sprite "ta01a13.iph" 4 4 11>
 <name "Celes" "!AA6469">
 "Laz, what are you up to today?
- You seem down.ÅÙ"
+ You seem down.Å"
 #
 <removesprite -1 11>
 ...

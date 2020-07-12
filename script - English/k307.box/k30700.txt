@@ -157,7 +157,7 @@
 <name "Lazlocke">
 "The Guild's already sent a rescue team.
  Don't worry about him.
-Å@More importantly, don't be rude to his
+ More importantly, don't be rude to his
  replacement."
 #
 <sprite "ta01a31.iph" 4 4 12>

@@ -20,7 +20,7 @@
  You had no faith in me."
 #
 <name "Lazlocke">
-"That's not try.
+"That's not true.
  It's a difficult test."
 #
 <sprite "ta01c20.iph" 4 4 12>

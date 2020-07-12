@@ -687,8 +687,8 @@ Soshiette's ire anyway.
 <background "bg012a0.iph" 11>
 The city of Loria.
 #
-In the center of the city is Tower of Arias,
-where the Guild makes its headquarters.
+In the center of the city is the Tower of 
+Arias, where the Guild makes its headquarters.
 The city is roughly divided into five areas,
 central, north, south, east, and west.
 #

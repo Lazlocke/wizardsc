@@ -610,7 +610,7 @@ another try.
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6100">
-"Suround myself with mana?"
+"Surround myself with mana?"
 #
 <name "Lazlocke">
 "Well, once you're used to it, you can
