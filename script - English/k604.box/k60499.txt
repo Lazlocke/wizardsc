@@ -3357,7 +3357,7 @@ I had to stop her.
 "I'm so tired..."
 #
 <name "Lazlocke">
-"Man, that was all out."
+"Man, we went all out."
 #
 <sprite "ta02a04.iph" 6 4 12>
 <name "Elle" "!CA0381">

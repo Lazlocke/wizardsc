@@ -171,7 +171,7 @@
 <music 11>
 <background "ev019a0.iph" 11>
 <name "Celes" "!AA2249">
-"Ugh... There's some many mundane, annoying
+"Ugh... There's so many mundane, annoying
  chores to do."
 #
 <name "Wizard" "!IA0000">
