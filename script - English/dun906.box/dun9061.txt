@@ -52,8 +52,8 @@ the Guild will be to pull strings for her.
 "If you want to avoid that, you should quit now."
 #
 <name "Guild Secretary" "!GA0105">
-"There are alternate ways besides this kind of
- test to advance your rank.
+"There are alternatives to this kind of test to
+ advance your rank.
  You could also research magic or contribute to
  the Guild in some way."
 #

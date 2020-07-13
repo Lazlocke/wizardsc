@@ -551,7 +551,7 @@ and I forced her down.
 "..."
 #
 <name "Lazlocke">
-"Recently, it's been seen as the most presigious
+"Recently, it's been seen as the most prestigious
  tournament in the region, so people come from
  all around to participate in it."
 #

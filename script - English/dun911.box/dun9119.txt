@@ -37,7 +37,7 @@
  celebrated each day."
 #
 <name "Celes" "!AA3532">
-"oh? That's a nice story."
+"Oh? That's a nice story."
 #
 <exit>
 :2A8

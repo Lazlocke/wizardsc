@@ -130,7 +130,7 @@
 <sprite "ta01c32.iph" 4 4 12>
 <name "Celes" "!AA3561">
 "I think that the king couldn't keep up with the
- growning kingdom too."
+ growing kingdom too."
 #
 <name "Lazlocke">
 "...I see.
@@ -198,7 +198,7 @@ But the people squabbled and fought, and the
 kingdom fell to ruin.
 #
 <name "Lazlocke">
-"The important part is learning to thinking
+"The important part is learning to think
  critically, not to come to the correct answer."
 #
 <name "Lazlocke">

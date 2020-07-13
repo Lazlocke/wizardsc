@@ -34,7 +34,7 @@
 #
 <name "Celes" "!AA3404">
 "Geez.
-@My mind goes weird places when mana suddenly
+ My mind goes weird places when mana suddenly
  flows into me."
 #
 <exit>

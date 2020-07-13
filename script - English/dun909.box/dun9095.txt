@@ -44,7 +44,7 @@ And then her voice is gone.
 #
 <name "Celes" "!AA3410">
 "Her blessing...
- I wonder if she's the one who build this tower."
+ I wonder if she's the one who built this tower."
 #
 <exit>
 :2BF
