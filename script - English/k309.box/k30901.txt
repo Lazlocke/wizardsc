@@ -1432,7 +1432,7 @@ I read it.
 #
 <removesprite -1 11>
 That place is a room set up by the Guild in order
-to hide nobility and astocrats when they visit
+to hide nobility and aristocrats when they visit
 the Guild.
 #
 <name "Lazlocke">
@@ -1885,7 +1885,7 @@ collar on her.
 #
 <name "Lynth" "!NB0033">
 "I don't care.
- All of me belong to you..."
+ All of me belongs to you..."
 #
 <name "Lazlocke">
 "Your loyalty is wasted."

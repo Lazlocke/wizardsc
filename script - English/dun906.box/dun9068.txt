@@ -511,7 +511,7 @@ Celes achieved the rank of Archwizard Fifth Class.
 #
 <sprite "ta04a10.iph" 4 4 12>
 <name "Soshiette" "!DA0580">
-"Hardly. Her innate talen has blossomed under my
+"Hardly. Her innate talent has blossomed under my
  tutelage."
 #
 <name "Lazlocke">
@@ -540,7 +540,7 @@ Celes achieved the rank of Archwizard Fifth Class.
 <sprite "ta03a06.iph" 2 4 12>
 <name "Viola" "!BA0310">
 "I hear you've become a Tenth Class Archwizard.
- Congratultaions."
+ Congratulations."
 #
 <sprite "ta01c15.iph" 6 5 12>
 <name "Celes" "!AA3252">
