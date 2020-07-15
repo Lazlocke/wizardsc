@@ -1920,7 +1920,7 @@ se053.wav
 *
 *
 *
-Flame Snake
+炎の蛇
 Summon a fire snake.
 Chase them down!
 //entry 77 -----------------------
@@ -1945,7 +1945,7 @@ se054.wav
 *
 *
 *
-Fire Wall
+炎の壁
 Create a damaging fire barrier.
 Just burn to ashes!
 //entry 78 -----------------------
@@ -2145,7 +2145,7 @@ se062.wav
 *
 *
 *
-Ice Wall
+氷の壁
 Create an ice barrier.
 Unlike a fire barrier, this one's|all protection.
 //entry 86 -----------------------
@@ -2195,7 +2195,7 @@ se064.wav
 *
 *
 *
-Air Chaser
+追跡する風
 Create a wind spirit that hunts down the enemy.
 Cut down approaching enemies!
 //entry 88 -----------------------
@@ -2445,7 +2445,7 @@ se073.wav
 *
 *
 *
-Earth Wall
+遮る土の壁
 Create a wall.
 Block the enemy from approaching.
 //entry 98 -----------------------
@@ -2645,7 +2645,7 @@ se081.wav
 *
 *
 *
-Static Ball
+雷球
 Create a static ball that damages nearby enemies.
 Go! Numb them!
 //entry 106 -----------------------
@@ -2820,7 +2820,7 @@ se087.wav
 *
 *
 *
-Dark Sphere
+暗黒球
 A wide range dark spell.|Persists for multiple turns.
 Be swallowed by darkness!
 //entry 113 -----------------------
@@ -3170,7 +3170,7 @@ se101.wav
 *
 *
 *
-Duplicateセリス
+分身セリス
 Create a clone.
 Strength in numbers.
 //entry 127 -----------------------
