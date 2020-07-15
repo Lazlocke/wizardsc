@@ -578,8 +578,8 @@ Has she gotten quicker on her feet?
 #
 <name "Lazlocke">
 "I've seen you do this multiple times, but isn't
- this a move just for keeping people from
- flipping up your skirt?"
+ this move just for keeping people from flipping
+ up your skirt?"
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA5780">

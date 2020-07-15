@@ -8,7 +8,7 @@
 "Eek! Thief!
  Someone stop him!"
 #
-Celes rises the screams of the townspeople.
+Celes hears the screams of the townspeople.
 #
 <exit>
 \x78

@@ -857,7 +857,7 @@ Henrietta Bevels.
 "A housewife?"
 #
 <name "Lazlocke">
-"She was even more of a powderkeg than Viola,
+"She was even more of a powder keg than Viola,
  and prone to explosions, but she settled down
  a lot once she got married."
 #
@@ -1097,7 +1097,7 @@ Not even me, huh?
 <background "bg002a0.iph" 11>
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA0499">
-"How much do you know about the Courudures
+"How much do you know about the Coudures
  Magical Tournament?"
 #
 <name "Lazlocke">

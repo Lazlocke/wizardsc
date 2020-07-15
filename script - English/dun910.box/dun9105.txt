@@ -38,7 +38,7 @@
 <name "Celes" "!AA3487">
 "Totally frustrated you climbing the tower, huh?
  Why are you such a try-hard?
-Å@LOL."
+ LOL."
 #
 <name "Celes" "!AA3489">
 "........."
