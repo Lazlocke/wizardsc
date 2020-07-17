@@ -1200,7 +1200,7 @@ That evening...
 <sprite "ta04a87.iph" 6 4 12>
 <name "Soshiette" "!DA0073">
 "He's convinced himself that that's who he
- truly is, but the Guild and I do share that
+ truly is, but the Guild and I don't share that
  belief."
 #
 <sprite "ta01a70.iph" 2 5 12>

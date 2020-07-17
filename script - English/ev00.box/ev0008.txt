@@ -438,7 +438,7 @@ be very skilled.
 <name "Viola" "!BA0021">
 "Yes. So that's the apprentice I've been hearing
  about?
-Å@She seems well trained."
+ She seems well trained."
 #
 <name "Lazlocke">
 "Oh?"
@@ -490,7 +490,7 @@ be very skilled.
 #
 <sprite "ta03b06.iph" 4 4 12>
 <name "Viola" "!BA0028">
-"Yeah, but you should stay vigilent."
+"Yeah, but you should stay vigilant."
 #
 <name "Lazlocke">
 "All right.
