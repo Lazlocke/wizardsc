@@ -4656,15 +4656,15 @@ Duplicate
 // <$00>
 
 // //#WARN($0005FDB3, "WARNME")
-// //#JMP($0005827C)
+//#JMP($0005827C)
 
-// // Ptr: 0005827C
-// #WRITE(OPTR, $0002895D)
-// //Œq‚¬‚Æ‚ß‚é“D
-// Mud Bind
-// <$00>
+// Ptr: 0005827C
+#WRITE(OPTR, $0002895D)
+//Œq‚¬‚Æ‚ß‚é“D
+Mud Bind
+<$00>
 
-// //#WARN($00058289, "WARNME")
+//#WARN($00058289, "WARNME")
 // //#JMP($0005FDB4)
 
 // // Ptr: 0005FDB4
@@ -4672,15 +4672,15 @@ Duplicate
 // <$00>
 
 // //#WARN($0005FDB5, "WARNME")
-// //#JMP($0005828C)
+//#JMP($0005828C)
 
-// // Ptr: 0005828C
-// #WRITE(OPTR, $0002897C)
-// //Œ¶˜f
-// Glamour
-// <$00>
+// Ptr: 0005828C
+#WRITE(OPTR, $0002897C)
+//Œ¶˜f
+Glamour
+<$00>
 
-// //#WARN($00058291, "WARNME")
+//#WARN($00058291, "WARNME")
 // //#JMP($0005CC60)
 
 // // Ptr: 00053130
