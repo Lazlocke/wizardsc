@@ -4185,269 +4185,269 @@ Dark Darkness
 // Moved Text
 #JMP(-1)
 
-// // Ptr: 00058158
-// #WRITE(PTR, $000285BB)
-// //îΩéÀñhå‰
-// Reflexes
-// <$00>
-
-// //#WARN($00058161, "WARNME")
-// //#JMP($00058164)
-
-// // Ptr: 00058164
-// #WRITE(PTR, $000285DA)
-// //ï•Ç¢åï
-// Blade Guard
-// <$00>
-
-// //#WARN($0005816B, "WARNME")
-// //#JMP($0005FD7A)
-
-// // Ptr: 0005FD7A
-// #WRITE(PTR, $000285E0)
-// <$00>
-
-// //#WARN($0005FD7B, "WARNME")
-// //#JMP($0005816C)
-
-// // Ptr: 0005816C
-// #WRITE(PTR, $000285F9)
-// //ï•Ç¢ñ_
-// Staff Guard
-// <$00>
-
-// //#WARN($00058173, "WARNME")
-// //#JMP($0005FD7C)
-
-// // Ptr: 0005FD7C
-// #WRITE(PTR, $000285FF)
-// <$00>
-
-// //#WARN($0005FD7D, "WARNME")
-// //#JMP($00058174)
-
-// // Ptr: 00058174
-// #WRITE(PTR, $00028618)
-// //à≈ÇÃèÇ
-// Dark Shield
-// <$00>
-
-// //#WARN($0005817B, "WARNME")
-// //#JMP($0005FD7E)
-
-// // Ptr: 0005FD7E
-// #WRITE(PTR, $0002861E)
-// <$00>
-
-// //#WARN($0005FD7F, "WARNME")
-// //#JMP($0005817C)
-
-// // Ptr: 0005817C
-// #WRITE(PTR, $00028637)
-// //åıÇÃèÇ
-// Light Shield
-// <$00>
-
-// //#WARN($00058183, "WARNME")
-// //#JMP($0005FD80)
-
-// // Ptr: 0005FD80
-// #WRITE(PTR, $0002863D)
-// <$00>
-
-// //#WARN($0005FD81, "WARNME")
-// //#JMP($00058184)
-
-// // Ptr: 00058184
-// #WRITE(PTR, $00028656)
-// //ÉXÉ^Éìñhå‰
-// Grit
-// <$00>
-
-// //#WARN($0005818F, "WARNME")
-// //#JMP($0005FD82)
-
-// // Ptr: 0005FD82
-// #WRITE(PTR, $0002865C)
-// <$00>
-
-// //#WARN($0005FD83, "WARNME")
-// //#JMP($00058190)
-
-// // Ptr: 00058190
-// #WRITE(PTR, $00028675)
-// //ÉoÉbÉNñhå‰
-// Rigidity
-// <$00>
-
-// //#WARN($0005819B, "WARNME")
-// //#JMP($0005FD84)
-
-// // Ptr: 0005FD84
-// #WRITE(PTR, $0002867B)
-// <$00>
+// Ptr: 00058158
+#WRITE(OPTR, $000285BB)
+//îΩéÀñhå‰
+Reflexes
+<$00>
+
+//#WARN($00058161, "WARNME")
+//#JMP($00058164)
+
+// Ptr: 00058164
+#WRITE(OPTR, $000285DA)
+//ï•Ç¢åï
+Blade Guard
+<$00>
+
+//#WARN($0005816B, "WARNME")
+//#JMP($0005FD7A)
+
+// Ptr: 0005FD7A
+#WRITE(OPTR, $000285E0)
+<$00>
+
+//#WARN($0005FD7B, "WARNME")
+//#JMP($0005816C)
+
+// Ptr: 0005816C
+#WRITE(OPTR, $000285F9)
+//ï•Ç¢ñ_
+Staff Guard
+<$00>
+
+//#WARN($00058173, "WARNME")
+//#JMP($0005FD7C)
+
+// Ptr: 0005FD7C
+#WRITE(OPTR, $000285FF)
+<$00>
+
+//#WARN($0005FD7D, "WARNME")
+//#JMP($00058174)
+
+// Ptr: 00058174
+#WRITE(OPTR, $00028618)
+//à≈ÇÃèÇ
+Dark Shield
+<$00>
+
+//#WARN($0005817B, "WARNME")
+//#JMP($0005FD7E)
+
+// Ptr: 0005FD7E
+#WRITE(OPTR, $0002861E)
+<$00>
+
+//#WARN($0005FD7F, "WARNME")
+//#JMP($0005817C)
+
+// Ptr: 0005817C
+#WRITE(OPTR, $00028637)
+//åıÇÃèÇ
+Light Shield
+<$00>
+
+//#WARN($00058183, "WARNME")
+//#JMP($0005FD80)
+
+// Ptr: 0005FD80
+#WRITE(OPTR, $0002863D)
+<$00>
+
+//#WARN($0005FD81, "WARNME")
+//#JMP($00058184)
+
+// Ptr: 00058184
+#WRITE(OPTR, $00028656)
+//ÉXÉ^Éìñhå‰
+Grit
+<$00>
+
+//#WARN($0005818F, "WARNME")
+//#JMP($0005FD82)
+
+// Ptr: 0005FD82
+#WRITE(OPTR, $0002865C)
+<$00>
+
+//#WARN($0005FD83, "WARNME")
+//#JMP($00058190)
+
+// Ptr: 00058190
+#WRITE(OPTR, $00028675)
+//ÉoÉbÉNñhå‰
+Rigidity
+<$00>
+
+//#WARN($0005819B, "WARNME")
+//#JMP($0005FD84)
+
+// Ptr: 0005FD84
+#WRITE(OPTR, $0002867B)
+<$00>
 
-// //#WARN($0005FD85, "WARNME")
-// //#JMP($0005819C)
+//#WARN($0005FD85, "WARNME")
+//#JMP($0005819C)
 
-// // Ptr: 0005819C
-// #WRITE(PTR, $00028694)
-// //ïKéEñhå‰
-// Guts
-// <$00>
+// Ptr: 0005819C
+#WRITE(OPTR, $00028694)
+//ïKéEñhå‰
+Guts
+<$00>
 
-// //#WARN($000581A5, "WARNME")
-// //#JMP($0005FD86)
-
-// // Ptr: 0005FD86
-// #WRITE(PTR, $0002869A)
-// <$00>
+//#WARN($000581A5, "WARNME")
+//#JMP($0005FD86)
+
+// Ptr: 0005FD86
+#WRITE(OPTR, $0002869A)
+<$00>
 
-// //#WARN($0005FD87, "WARNME")
-// //#JMP($000581A8)
+//#WARN($0005FD87, "WARNME")
+//#JMP($000581A8)
 
-// // Ptr: 000581A8
-// #WRITE(PTR, $000286B3)
-// //ìØånÇÃêS
-// Synergy
-// <$00>
+// Ptr: 000581A8
+#WRITE(OPTR, $000286B3)
+//ìØånÇÃêS
+Synergy
+<$00>
 
-// //#WARN($000581B1, "WARNME")
-// //#JMP($0005FD88)
-
-// // Ptr: 0005FD88
-// #WRITE(PTR, $000286B9)
-// <$00>
+//#WARN($000581B1, "WARNME")
+//#JMP($0005FD88)
+
+// Ptr: 0005FD88
+#WRITE(OPTR, $000286B9)
+<$00>
 
-// //#WARN($0005FD89, "WARNME")
-// //#JMP($000581B4)
+//#WARN($0005FD89, "WARNME")
+//#JMP($000581B4)
 
-// // Ptr: 000581B4
-// #WRITE(PTR, $000286D2)
-// //àŸånÇÃåÇÌÇË
-// Symbiosis
-// <$00>
+// Ptr: 000581B4
+#WRITE(OPTR, $000286D2)
+//àŸånÇÃåÇÌÇË
+Symbiosis
+<$00>
 
-// //#WARN($000581C1, "WARNME")
-// //#JMP($0005FD8A)
-
-// // Ptr: 0005FD8A
-// #WRITE(PTR, $000286D8)
-// <$00>
+//#WARN($000581C1, "WARNME")
+//#JMP($0005FD8A)
+
+// Ptr: 0005FD8A
+#WRITE(OPTR, $000286D8)
+<$00>
 
-// //#WARN($0005FD8B, "WARNME")
-// //#JMP($000581C4)
+//#WARN($0005FD8B, "WARNME")
+//#JMP($000581C4)
 
-// // Ptr: 000581C4
-// #WRITE(PTR, $000286F1)
-// //âäÇÃï«
-// Fire Wall
-// <$00>
+// Ptr: 000581C4
+#WRITE(OPTR, $000286F1)
+//âäÇÃï«
+Fire Wall
+<$00>
 
-// //#WARN($000581CB, "WARNME")
-// //#JMP($0005FD8C)
-
-// // Ptr: 0005FD8C
-// #WRITE(PTR, $000286F7)
-// <$00>
+//#WARN($000581CB, "WARNME")
+//#JMP($0005FD8C)
+
+// Ptr: 0005FD8C
+#WRITE(OPTR, $000286F7)
+<$00>
 
-// //#WARN($0005FD8D, "WARNME")
-// //#JMP($000581CC)
+//#WARN($0005FD8D, "WARNME")
+//#JMP($000581CC)
 
-// // Ptr: 000581CC
-// #WRITE(PTR, $00028710)
-// //ïXÇÃï«
-// Ice Wall
-// <$00>
+// Ptr: 000581CC
+#WRITE(OPTR, $00028710)
+//ïXÇÃï«
+Ice Wall
+<$00>
 
-// //#WARN($000581D3, "WARNME")
-// //#JMP($0005FD8E)
+//#WARN($000581D3, "WARNME")
+//#JMP($0005FD8E)
 
-// // Ptr: 0005FD8E
-// #WRITE(PTR, $00028716)
-// <$00>
+// Ptr: 0005FD8E
+#WRITE(OPTR, $00028716)
+<$00>
 
-// //#WARN($0005FD8F, "WARNME")
-// //#JMP($000581D4)
+//#WARN($0005FD8F, "WARNME")
+//#JMP($000581D4)
 
-// // Ptr: 000581D4
-// #WRITE(PTR, $0002872F)
-// //é’ÇÈìyÇÃï«
-// Earth Wall
-// <$00>
+// Ptr: 000581D4
+#WRITE(OPTR, $0002872F)
+//é’ÇÈìyÇÃï«
+Earth Wall
+<$00>
 
-// //#WARN($000581DF, "WARNME")
-// //#JMP($0005FD90)
+//#WARN($000581DF, "WARNME")
+//#JMP($0005FD90)
 
-// // Ptr: 0005FD90
-// #WRITE(PTR, $00028735)
-// <$00>
+// Ptr: 0005FD90
+#WRITE(OPTR, $00028735)
+<$00>
 
-// //#WARN($0005FD91, "WARNME")
-// //#JMP($000581E0)
+//#WARN($0005FD91, "WARNME")
+//#JMP($000581E0)
 
-// // Ptr: 000581E0
-// #WRITE(PTR, $0002874E)
-// //âäÇÃé÷
-// Flame Snake
-// <$00>
+// Ptr: 000581E0
+#WRITE(OPTR, $0002874E)
+//âäÇÃé÷
+Flame Snake
+<$00>
 
-// //#WARN($000581E7, "WARNME")
-// //#JMP($0005FD92)
+//#WARN($000581E7, "WARNME")
+//#JMP($0005FD92)
 
-// // Ptr: 0005FD92
-// #WRITE(PTR, $00028754)
-// <$00>
+// Ptr: 0005FD92
+#WRITE(OPTR, $00028754)
+<$00>
 
-// //#WARN($0005FD93, "WARNME")
-// //#JMP($000581E8)
+//#WARN($0005FD93, "WARNME")
+//#JMP($000581E8)
 
-// // Ptr: 000581E8
-// #WRITE(PTR, $0002876D)
-// //í«ê’Ç∑ÇÈïó
-// Air Chaser
-// <$00>
+// Ptr: 000581E8
+#WRITE(OPTR, $0002876D)
+//í«ê’Ç∑ÇÈïó
+Air Chaser
+<$00>
 
-// //#WARN($000581F3, "WARNME")
-// //#JMP($0005FD94)
+//#WARN($000581F3, "WARNME")
+//#JMP($0005FD94)
 
-// // Ptr: 0005FD94
-// #WRITE(PTR, $00028773)
-// <$00>
+// Ptr: 0005FD94
+#WRITE(OPTR, $00028773)
+<$00>
 
-// //#WARN($0005FD95, "WARNME")
-// //#JMP($000581F4)
+//#WARN($0005FD95, "WARNME")
+//#JMP($000581F4)
 
-// // Ptr: 000581F4
-// #WRITE(PTR, $0002878C)
-// //óããÖ
-// Static Ball
-// <$00>
+// Ptr: 000581F4
+#WRITE(OPTR, $0002878C)
+//óããÖ
+Static Ball
+<$00>
 
-// //#WARN($000581F9, "WARNME")
-// //#JMP($0005FD96)
+//#WARN($000581F9, "WARNME")
+//#JMP($0005FD96)
 
-// // Ptr: 0005FD96
-// #WRITE(PTR, $00028792)
-// <$00>
+// Ptr: 0005FD96
+#WRITE(OPTR, $00028792)
+<$00>
 
-// //#WARN($0005FD97, "WARNME")
-// //#JMP($000581FC)
+//#WARN($0005FD97, "WARNME")
+//#JMP($000581FC)
 
-// // Ptr: 000581FC
-// #WRITE(PTR, $000287AB)
-// //à√çïãÖ
-// Dark Sphere
-// <$00>
+// Ptr: 000581FC
+#WRITE(OPTR, $000287AB)
+//à√çïãÖ
+Dark Sphere
+<$00>
 
-// //#WARN($00058203, "WARNME")
-// //#JMP($0005FD98)
+//#WARN($00058203, "WARNME")
+//#JMP($0005FD98)
 
-// // Ptr: 0005FD98
-// #WRITE(PTR, $000287B1)
-// <$00>
+// Ptr: 0005FD98
+#WRITE(OPTR, $000287B1)
+<$00>
 
-// //#WARN($0005FD99, "WARNME")
+//#WARN($0005FD99, "WARNME")
 //#JMP($00058204)
 
 // Ptr: 00058204
@@ -4460,14 +4460,14 @@ Demon Call
 // //#JMP($0005FD9A)
 
 // // Ptr: 0005FD9A
-// #WRITE(PTR, $000287D0)
+// #WRITE(OPTR, $000287D0)
 // <$00>
 
 // //#WARN($0005FD9B, "WARNME")
 // //#JMP($00058210)
 
 // // Ptr: 00058210
-// #WRITE(PTR, $000287E9)
+// #WRITE(OPTR, $000287E9)
 // //ï™êg
 // Duplicate
 // <$00>
@@ -4476,14 +4476,14 @@ Demon Call
 // //#JMP($0005FD9C)
 
 // // Ptr: 0005FD9C
-// #WRITE(PTR, $000287EF)
+// #WRITE(OPTR, $000287EF)
 // <$00>
 
 // //#WARN($0005FD9D, "WARNME")
 // //#JMP($00058218)
 
 // // Ptr: 00058218
-// #WRITE(PTR, $00028808)
+// #WRITE(OPTR, $00028808)
 // //óøóù
 // Cooking
 // <$00>
@@ -4492,14 +4492,14 @@ Demon Call
 // //#JMP($0005FD9E)
 
 // // Ptr: 0005FD9E
-// #WRITE(PTR, $0002880E)
+// #WRITE(OPTR, $0002880E)
 // <$00>
 
 // //#WARN($0005FD9F, "WARNME")
 // //#JMP($00058220)
 
 // // Ptr: 00058220
-// #WRITE(PTR, $00028827)
+// #WRITE(OPTR, $00028827)
 // //ëÂâÔÇÃíméØ
 // Gamesmanship
 // <$00>
@@ -4508,14 +4508,14 @@ Demon Call
 // //#JMP($0005FDA0)
 
 // // Ptr: 0005FDA0
-// #WRITE(PTR, $0002882D)
+// #WRITE(OPTR, $0002882D)
 // <$00>
 
 // //#WARN($0005FDA1, "WARNME")
 // //#JMP($0005822C)
 
 // // Ptr: 0005822C
-// #WRITE(PTR, $00028846)
+// #WRITE(OPTR, $00028846)
 // //íTçı
 // Search
 // <$00>
@@ -4524,14 +4524,14 @@ Demon Call
 // //#JMP($0005FDA2)
 
 // // Ptr: 0005FDA2
-// #WRITE(PTR, $0002884C)
+// #WRITE(OPTR, $0002884C)
 // <$00>
 
 // //#WARN($0005FDA3, "WARNME")
 // //#JMP($00058234)
 
 // // Ptr: 00058234
-// #WRITE(PTR, $00028865)
+// #WRITE(OPTR, $00028865)
 // //ì‰âÇ´
 // Lockpicker
 // <$00>
@@ -4540,14 +4540,14 @@ Demon Call
 // //#JMP($0005FDA4)
 
 // // Ptr: 0005FDA4
-// #WRITE(PTR, $0002886B)
+// #WRITE(OPTR, $0002886B)
 // <$00>
 
 // //#WARN($0005FDA5, "WARNME")
 // //#JMP($0005823C)
 
 // // Ptr: 0005823C
-// #WRITE(PTR, $00028884)
+// #WRITE(OPTR, $00028884)
 // //ñÇñ@íméØ
 // Magic Theory
 // <$00>
@@ -4556,14 +4556,14 @@ Demon Call
 // //#JMP($0005FDA6)
 
 // // Ptr: 0005FDA6
-// #WRITE(PTR, $0002888A)
+// #WRITE(OPTR, $0002888A)
 // <$00>
 
 // //#WARN($0005FDA7, "WARNME")
 // //#JMP($00058248)
 
 // // Ptr: 00058248
-// #WRITE(PTR, $000288A3)
+// #WRITE(OPTR, $000288A3)
 // //ì≈íméØ
 // Toxicology
 // <$00>
@@ -4572,14 +4572,14 @@ Demon Call
 // //#JMP($0005FDA8)
 
 // // Ptr: 0005FDA8
-// #WRITE(PTR, $000288A9)
+// #WRITE(OPTR, $000288A9)
 // <$00>
 
 // //#WARN($0005FDA9, "WARNME")
 // //#JMP($00058250)
 
 // // Ptr: 00058250
-// #WRITE(PTR, $000288C2)
+// #WRITE(OPTR, $000288C2)
 // //ë|èú
 // Cleaning
 // <$00>
@@ -4588,14 +4588,14 @@ Demon Call
 // //#JMP($0005FDAA)
 
 // // Ptr: 0005FDAA
-// #WRITE(PTR, $000288C8)
+// #WRITE(OPTR, $000288C8)
 // <$00>
 
 // //#WARN($0005FDAB, "WARNME")
 // //#JMP($00058258)
 
 // // Ptr: 00058258
-// #WRITE(PTR, $000288E1)
+// #WRITE(OPTR, $000288E1)
 // //êÙëÛ
 // Laundry
 // <$00>
@@ -4604,14 +4604,14 @@ Demon Call
 // //#JMP($0005FDAC)
 
 // // Ptr: 0005FDAC
-// #WRITE(PTR, $000288E7)
+// #WRITE(OPTR, $000288E7)
 // <$00>
 
 // //#WARN($0005FDAD, "WARNME")
 // //#JMP($00058260)
 
 // // Ptr: 00058260
-// #WRITE(PTR, $00028900)
+// #WRITE(OPTR, $00028900)
 // //ñÇï®ÇÃíméØ
 // Monsterology
 // <$00>
@@ -4620,14 +4620,14 @@ Demon Call
 // //#JMP($0005FDAE)
 
 // // Ptr: 0005FDAE
-// #WRITE(PTR, $00028906)
+// #WRITE(OPTR, $00028906)
 // <$00>
 
 // //#WARN($0005FDAF, "WARNME")
 // //#JMP($0005826C)
 
 // // Ptr: 0005826C
-// #WRITE(PTR, $0002891F)
+// #WRITE(OPTR, $0002891F)
 // //ÇgíméØ
 // Sexuality
 // <$00>
@@ -4636,14 +4636,14 @@ Demon Call
 // //#JMP($0005FDB0)
 
 // // Ptr: 0005FDB0
-// #WRITE(PTR, $00028925)
+// #WRITE(OPTR, $00028925)
 // <$00>
 
 // //#WARN($0005FDB1, "WARNME")
 // //#JMP($00058274)
 
 // // Ptr: 00058274
-// #WRITE(PTR, $0002893E)
+// #WRITE(OPTR, $0002893E)
 // //âπäy
 // Music
 // <$00>
@@ -4652,14 +4652,14 @@ Demon Call
 // //#JMP($0005FDB2)
 
 // // Ptr: 0005FDB2
-// #WRITE(PTR, $00028944)
+// #WRITE(OPTR, $00028944)
 // <$00>
 
 // //#WARN($0005FDB3, "WARNME")
 // //#JMP($0005827C)
 
 // // Ptr: 0005827C
-// #WRITE(PTR, $0002895D)
+// #WRITE(OPTR, $0002895D)
 // //åqÇ¨Ç∆ÇﬂÇÈìD
 // Mud Bind
 // <$00>
@@ -4668,14 +4668,14 @@ Demon Call
 // //#JMP($0005FDB4)
 
 // // Ptr: 0005FDB4
-// #WRITE(PTR, $00028963)
+// #WRITE(OPTR, $00028963)
 // <$00>
 
 // //#WARN($0005FDB5, "WARNME")
 // //#JMP($0005828C)
 
 // // Ptr: 0005828C
-// #WRITE(PTR, $0002897C)
+// #WRITE(OPTR, $0002897C)
 // //å∂òf
 // Glamour
 // <$00>
@@ -4684,7 +4684,7 @@ Demon Call
 // //#JMP($0005CC60)
 
 // // Ptr: 00053130
-// #WRITE(PTR, $0005E4D0)
+// #WRITE(OPTR, $0005E4D0)
 // //êÌì¨ë¨ìx
 // Combat Speed
 // <$00>
@@ -4692,7 +4692,7 @@ Demon Call
 // //#JMP($00058294)
 
 // // Ptr: 00058294
-// #WRITE(PTR, $0002899B)
+// #WRITE(OPTR, $0002899B)
 // //êπåı
 // Holy Light
 // <$00>
@@ -4701,7 +4701,7 @@ Demon Call
 // //#JMP($0005829C)
 
 // // Ptr: 0005829C
-// #WRITE(PTR, $000289BA)
+// #WRITE(OPTR, $000289BA)
 // //ãzñÇ
 // Drain Essence
 // <$00>
@@ -4710,7 +4710,7 @@ Demon Call
 // //#JMP($000582D4)
 
 // // Ptr: 000582D4
-// #WRITE(PTR, $00028A36)
+// #WRITE(OPTR, $00028A36)
 // //íQÇ´ÇÃêÚ
 // Wailing Well
 // <$00>
@@ -4719,10 +4719,10 @@ Demon Call
 // //#JMP($000582C8)
 
 // // Ptr: 000582C8
-// #WRITE(PTR, $00028A17)
+// #WRITE(OPTR, $00028A17)
 // //äΩäÏÇÃâJ
 // Blessed Rain
 // <$00>
 
 // //#WARN($000582D1, "WARNME")
-#WARN($00060000, "WARNME")
+#WARN($00062000, "WARNME")
