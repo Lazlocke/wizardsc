@@ -4457,22 +4457,22 @@ Demon Call
 <$00>
 
 //#WARN($0005820D, "WARNME")
-// //#JMP($0005FD9A)
+//#JMP($0005FD9A)
 
-// // Ptr: 0005FD9A
-// #WRITE(OPTR, $000287D0)
-// <$00>
+// Ptr: 0005FD9A
+#WRITE(OPTR, $000287D0)
+<$00>
 
-// //#WARN($0005FD9B, "WARNME")
-// //#JMP($00058210)
+//#WARN($0005FD9B, "WARNME")
+//#JMP($00058210)
 
-// // Ptr: 00058210
-// #WRITE(OPTR, $000287E9)
-// //分身
-// Duplicate
-// <$00>
+// Ptr: 00058210
+#WRITE(OPTR, $000287E9)
+//分身
+Duplicate
+<$00>
 
-// //#WARN($00058215, "WARNME")
+//#WARN($00058215, "WARNME")
 // //#JMP($0005FD9C)
 
 // // Ptr: 0005FD9C
@@ -4681,13 +4681,13 @@ Demon Call
 // <$00>
 
 // //#WARN($00058291, "WARNME")
-//#JMP($0005CC60)
+// //#JMP($0005CC60)
 
-// Ptr: 00053130
-#WRITE(OPTR, $0005E4D0)
-//戦闘速度
-Combat Speed
-<$00>
+// // Ptr: 00053130
+// #WRITE(OPTR, $0005E4D0)
+// //戦闘速度
+// Combat Speed
+// <$00>
 
 //#JMP($00058294)
 
