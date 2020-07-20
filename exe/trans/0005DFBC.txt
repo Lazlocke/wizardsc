@@ -4689,40 +4689,40 @@ Demon Call
 // Combat Speed
 // <$00>
 
-// //#JMP($00058294)
+//#JMP($00058294)
 
-// // Ptr: 00058294
-// #WRITE(OPTR, $0002899B)
-// //êπåı
-// Holy Light
-// <$00>
+// Ptr: 00058294
+#WRITE(OPTR, $0002899B)
+//êπåı
+Holy Light
+<$00>
 
-// //#WARN($00058299, "WARNME")
-// //#JMP($0005829C)
+//#WARN($00058299, "WARNME")
+//#JMP($0005829C)
 
-// // Ptr: 0005829C
-// #WRITE(OPTR, $000289BA)
-// //ãzñÇ
-// Drain Essence
-// <$00>
+// Ptr: 0005829C
+#WRITE(OPTR, $000289BA)
+//ãzñÇ
+Drain Essence
+<$00>
 
-// //#WARN($000582A1, "WARNME")
-// //#JMP($000582D4)
+//#WARN($000582A1, "WARNME")
+//#JMP($000582D4)
 
-// // Ptr: 000582D4
-// #WRITE(OPTR, $00028A36)
-// //íQÇ´ÇÃêÚ
-// Wailing Well
-// <$00>
+// Ptr: 000582D4
+#WRITE(OPTR, $00028A36)
+//íQÇ´ÇÃêÚ
+Wailing Well
+<$00>
 
-// //#WARN($000582DD, "WARNME")
-// //#JMP($000582C8)
+//#WARN($000582DD, "WARNME")
+//#JMP($000582C8)
 
-// // Ptr: 000582C8
-// #WRITE(OPTR, $00028A17)
-// //äΩäÏÇÃâJ
-// Blessed Rain
-// <$00>
+// Ptr: 000582C8
+#WRITE(OPTR, $00028A17)
+//äΩäÏÇÃâJ
+Blessed Rain
+<$00>
 
-// //#WARN($000582D1, "WARNME")
+//#WARN($000582D1, "WARNME")
 #WARN($00062000, "WARNME")
