@@ -4681,13 +4681,13 @@ Demon Call
 // <$00>
 
 // //#WARN($00058291, "WARNME")
-// //#JMP($0005CC60)
+//#JMP($0005CC60)
 
-// // Ptr: 00053130
-// #WRITE(OPTR, $0005E4D0)
-// //êÌì¨ë¨ìx
-// Combat Speed
-// <$00>
+// Ptr: 00053130
+#WRITE(OPTR, $0005E4D0)
+//êÌì¨ë¨ìx
+Combat Speed
+<$00>
 
 //#JMP($00058294)
 
