@@ -3,6 +3,8 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -4194304, 32)
+#VAR(OPTR, CUSTOMPOINTER)
+#CREATEPTR(OPTR, "LINEAR", -4198400, 32)
 #JMP($00058FDC)
 
 // Ptr: 00058FDC
@@ -4180,8 +4182,8 @@ Dark Darkness
 #WARN($0005FDD1, "WARNME")
 
 
-// // Moved Text
-// #JMP(-1)
+// Moved Text
+#JMP(-1)
 
 // // Ptr: 00058158
 // #WRITE(PTR, $000285BB)
@@ -4446,15 +4448,15 @@ Dark Darkness
 // <$00>
 
 // //#WARN($0005FD99, "WARNME")
-// //#JMP($00058204)
+//#JMP($00058204)
 
-// // Ptr: 00058204
-// #WRITE(PTR, $000287CA)
-// //ñÇï®è¢ä´
-// Demon Call
-// <$00>
+// Ptr: 00058204
+#WRITE(OPTR, $000287CA)
+//ñÇï®è¢ä´
+Demon Call
+<$00>
 
-// //#WARN($0005820D, "WARNME")
+//#WARN($0005820D, "WARNME")
 // //#JMP($0005FD9A)
 
 // // Ptr: 0005FD9A
@@ -4723,4 +4725,4 @@ Dark Darkness
 // <$00>
 
 // //#WARN($000582D1, "WARNME")
-// #WARN($00060000, "WARNME")
+#WARN($00060000, "WARNME")
