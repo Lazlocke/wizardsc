@@ -1096,7 +1096,7 @@ the undisputed leader.
  Let's have a fancy dinner then."
 #
 <name "Lazlocke">
-"I'll look foward to it."
+"I'll look forward to it."
 #
 <removesprite -1 11>
 Celes and I go home after dinner at her house.
@@ -1732,7 +1732,7 @@ After dinner with Viola, Celes and I go home.
 #
 <name "Lazlocke">
 "I came in just before you cast that spell.
- You're lucky is was me.
+ You're lucky it was me.
  What do you think would've happened if it had
  been Soshiette instead?"
 #

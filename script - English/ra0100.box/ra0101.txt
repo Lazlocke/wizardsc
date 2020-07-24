@@ -67,9 +67,9 @@
 "Wow..."
 #
 <name "Lazlocke">
-"Yes, very wow, but even if it's magic, it's not
- flawless. You could still be severely hurt or
- even die."
+"Yes, wow indeed, but even if it's magic, it's
+ not flawless. You could still be severely hurt
+ or even die."
 #
 <name "Lazlocke">
 "If you think you're in danger, activate it on
