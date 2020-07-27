@@ -172,7 +172,7 @@
 <name "Celes" "!AA0428">
 "Elle, Miss Viola, I'll bring out drinks and
  food.
-Å@Help yourselves."
+ Help yourselves."
 #
 <sprite "ta02a20.iph" 6 4 12>
 <name "Elle" "!CA0051">
