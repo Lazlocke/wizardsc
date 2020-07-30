@@ -1424,7 +1424,7 @@ e003a
 Improve your barrel skills.
 Barrels are a weapon too!
 //entry 57 -----------------------
-Magic Theory
+Wizardry
 *
 *
 基本
@@ -1500,7 +1500,7 @@ Increase maximum MP.
 When your mana pool is big, you have|nothing to fear.
 //entry 60 -----------------------
 Elocution
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 基本
 無
@@ -2000,7 +2000,7 @@ A water spell that can knock enemies down.
 Let it flow.
 //entry 80 -----------------------
 Frozen Ice
-Mana Capacity+1|Magic Theory+5
+Mana Capacity+1|Wizardry+5
 *
 魔法攻撃
 水
@@ -2100,7 +2100,7 @@ Heal the caster over time.
 I'm blessed.
 //entry 84 -----------------------
 Wailing Well
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 補佐魔法敵
 補佐
@@ -2275,7 +2275,7 @@ A wide range, powerful, distance wind spell.
 A storm of storms!
 //entry 91 -----------------------
 Air Press
-Mana Capacity+1|Magic Theory+5
+Mana Capacity+1|Wizardry+5
 *
 補佐魔法敵
 補佐
@@ -2325,7 +2325,7 @@ Enhance user's combat speed.
 Wind is on our side.
 //entry 93 -----------------------
 Flight
-Mana Capacity+1|Magic Theory+5
+Mana Capacity+1|Wizardry+5
 *
 基本
 無
@@ -2450,7 +2450,7 @@ Create a wall.
 Block the enemy from approaching.
 //entry 98 -----------------------
 Mud Bind
-Mana Capacity+1|Magic Theory+5
+Mana Capacity+1|Wizardry+5
 *
 補佐魔法敵
 補佐
@@ -2475,7 +2475,7 @@ Prevent all actions.|Does not work against flying enemies.
 I told you to stop!
 //entry 99 -----------------------
 Drowning Marsh
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 補佐魔法敵
 補佐
@@ -2625,7 +2625,7 @@ A basic penetrating lightning spell.
 It's shocking.
 //entry 105 -----------------------
 Static Ball
-Mana Capacity+1|Magic Theory+5
+Mana Capacity+1|Wizardry+5
 *
 召喚魔法
 召喚
@@ -2750,7 +2750,7 @@ An ultimate penetrating lightning spell.
 Lightning is destruction.
 //entry 110 -----------------------
 Flash Step
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 自動
 無
@@ -2800,7 +2800,7 @@ A basic dark spell.
 Know the pain of darkness.
 //entry 112 -----------------------
 Dark Sphere
-Mana Capacity+1|Magic Theory+5
+Mana Capacity+1|Wizardry+5
 *
 召喚魔法
 召喚
@@ -2825,7 +2825,7 @@ A wide range dark spell.|Persists for multiple turns.
 Be swallowed by darkness!
 //entry 113 -----------------------
 Pitch Black
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 魔法攻撃
 闇
@@ -2850,7 +2850,7 @@ A ranged dark spell.
 Welcome to the world of darkness.
 //entry 114 -----------------------
 Drain Essence
-Mana Capacity+1|Magic Theory+15
+Mana Capacity+1|Wizardry+15
 *
 魔法攻撃
 闇
@@ -3000,7 +3000,7 @@ Chance to avoid all physical attacks.
 I hate getting hurt.
 //entry 120 -----------------------
 Dark Mist
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 補佐魔法敵
 補佐
@@ -3125,7 +3125,7 @@ An enveloping light spell.
 Well, um, just take it.
 //entry 125 -----------------------
 Glamour
-Mana Capacity+1|Magic Theory+10
+Mana Capacity+1|Wizardry+10
 *
 補佐魔法味
 補佐
@@ -3175,7 +3175,7 @@ Create a clone.
 Strength in numbers.
 //entry 127 -----------------------
 Bind
-Mana Capacity+1|Magic Theory+15
+Mana Capacity+1|Wizardry+15
 *
 補佐魔法敵
 補佐
@@ -3200,7 +3200,7 @@ Seal an enemy's movement.
 Stop right there!
 //entry 128 -----------------------
 Holy Light
-Mana Capacity+1|Magic Theory+20
+Mana Capacity+1|Wizardry+20
 *
 補佐魔法味
 補佐
@@ -3274,7 +3274,7 @@ Mana Capacity+1
 Find treasures easier, and improve results of certain jobs.
 Convenient when you're looking for|something.
 //entry 131 -----------------------
-Lockpicker
+Finesse
 Mana Capacity+1
 *
 基本
@@ -3299,7 +3299,7 @@ Mana Capacity+1
 Find treasures easier, and improve results of certain jobs.
 Gotta be able to open what you|find.
 //entry 132 -----------------------
-Monsterology
+Zoology
 Search+3
 *
 条件
@@ -3349,7 +3349,7 @@ Search+5
 Avoid traps on adventures.
 Know traps to avoid traps.
 //entry 134 -----------------------
-Toxicology
+Immunity
 Search+5
 *
 基本
@@ -3374,7 +3374,7 @@ Search+5
 Reduce the effect of poison.
 But... almost no monsters are|venomous.
 //entry 135 -----------------------
-Gamesmanship
+Cunning
 Search+3
 *
 条件
@@ -3449,7 +3449,7 @@ Cooking
 Improve results of certain jobs.
 Cooking is useful for a lot of|things.
 //entry 138 -----------------------
-Cleaning
+Home Ec
 *
 *
 基本
@@ -3549,7 +3549,7 @@ Mana Capacity+1
 Improve the results of most jobs.
 Music is life.
 //entry 142 -----------------------
-Sexuality
+Sex Ed
 Mana Capacity+1
 *
 基本

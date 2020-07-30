@@ -514,7 +514,7 @@ Celes tried.
 #
 <removesprite -1 11>
 <name "Complaining Man" "!RB0109">
-"Refere, isn't that against the rules?"
+"Referee, isn't that against the rules?"
 #
 <name "Whining Man" "!SB0105">
 "Yeah, yeah.

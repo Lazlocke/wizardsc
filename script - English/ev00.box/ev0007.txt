@@ -723,7 +723,7 @@ section, not quite part of the town proper.
 #
 <sprite "ta01a89.iph" 4 4 12>
 <name "Celes" "!AA0274">
-"Then let's go to a nearby south area."
+"Then let's go to the south."
 #
 <name "Lazlocke">
 "Yeah."

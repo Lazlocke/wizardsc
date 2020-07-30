@@ -1375,7 +1375,7 @@ Not even me, huh?
 #
 <sprite "ta01a29.iph" 4 4 12>
 <name "Celes" "!AA0526">
-"The sduents at the school say that I don't
+"The students at the school say that I don't
  have any talent but I'm full of myself."
 #
 <name "Lazlocke">

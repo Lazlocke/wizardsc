@@ -69,7 +69,7 @@
 <sprite "ta03a00.iph" 4 4 12>
 <name "Viola" "!BA0669">
 "I see...
- It'd be best if you tried not to antagonist the
+ It'd be best if you tried not to antagonize the
  Guild too much."
 #
 <name "Lazlocke">
