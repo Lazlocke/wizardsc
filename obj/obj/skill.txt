@@ -3349,7 +3349,7 @@ Search+5
 Avoid traps on adventures.
 Know traps to avoid traps.
 //entry 134 -----------------------
-Immunity
+Botany
 Search+5
 *
 基本
@@ -3371,8 +3371,8 @@ Search+5
 *
 *
 *
-Reduce the effect of poison.
-But... almost no monsters are|venomous.
+Mitigate poison and enhance cooking.
+May seem useless, but you never know where toxins lurk.
 //entry 135 -----------------------
 Cunning
 Search+3
