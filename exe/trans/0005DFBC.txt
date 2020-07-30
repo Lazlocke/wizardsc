@@ -4180,7 +4180,104 @@ Dark Darkness
 <$00>
 
 #WARN($0005FDD1, "WARNME")
+#JMP($00058218)
+// Ptr: 00058218
+#WRITE(PTR, $00028808)
+//料理
+Cooking
+<$00>
 
+#WARN($0005821F, "WARNME")
+#JMP($00058220)
+
+// Ptr: 00058220
+#WRITE(PTR, $00028827)
+//大会の知識
+Cunning
+<$00>
+
+#WARN($0005822F, "WARNME")
+#JMP($0005822C)
+
+// Ptr: 0005822C
+#WRITE(PTR, $00028846)
+//探索
+Search
+<$00>
+
+#WARN($00058233, "WARNME")
+#JMP($00058234)
+
+// Ptr: 00058234
+#WRITE(PTR, $00028865)
+//謎解き
+Finesse
+<$00>
+
+#WARN($0005823B, "WARNME")
+#JMP($0005823C)
+
+// Ptr: 0005823C
+#WRITE(PTR, $00028884)
+//魔法知識
+Wizardry
+<$00>
+
+#WARN($00058245, "WARNME")
+#JMP($00058248)
+
+// Ptr: 00058248
+#WRITE(PTR, $000288A3)
+//毒知識
+Botany
+<$00>
+
+#WARN($0005824F, "WARNME")
+#JMP($00058250)
+
+// Ptr: 00058250
+#WRITE(PTR, $000288C2)
+//掃除
+Home Ec
+<$00>
+
+#WARN($00058257, "WARNME"))
+#JMP($00058258)
+
+// Ptr: 00058258
+#WRITE(PTR, $000288E1)
+//洗濯
+Laundry
+<$00>
+
+#WARN($0005825F, "WARNME")
+#JMP($00058260)
+
+// Ptr: 00058260
+#WRITE(PTR, $00028900)
+//魔物の知識
+Zoology
+<$00>
+
+#WARN($0005826B, "WARNME")
+#JMP($0005826C)
+
+// Ptr: 0005826C
+#WRITE(PTR, $0002891F)
+//Ｈ知識
+Sex Ed
+<$00>
+
+#WARN($00058273, "WARNME")
+#JMP($00058274)
+
+// Ptr: 00058274
+#WRITE(PTR, $0002893E)
+//音楽
+Music
+<$00>
+
+#WARN($00058279, "WARNME")
 
 // Moved Text
 #JMP(-1)
@@ -4496,31 +4593,6 @@ Duplicate
 // <$00>
 
 // //#WARN($0005FD9F, "WARNME")
-// //#JMP($00058220)
-
-// // Ptr: 00058220
-// #WRITE(OPTR, $00028827)
-// //大会の知識
-// Gamesmanship
-// <$00>
-
-// //#WARN($0005822B, "WARNME")
-// //#JMP($0005FDA0)
-
-// // Ptr: 0005FDA0
-// #WRITE(OPTR, $0002882D)
-// <$00>
-
-// //#WARN($0005FDA1, "WARNME")
-// //#JMP($0005822C)
-
-// // Ptr: 0005822C
-// #WRITE(OPTR, $00028846)
-// //探索
-// Search
-// <$00>
-
-// //#WARN($00058231, "WARNME")
 // //#JMP($0005FDA2)
 
 // // Ptr: 0005FDA2
@@ -4528,127 +4600,6 @@ Duplicate
 // <$00>
 
 // //#WARN($0005FDA3, "WARNME")
-// //#JMP($00058234)
-
-// // Ptr: 00058234
-// #WRITE(OPTR, $00028865)
-// //謎解き
-// Lockpicker
-// <$00>
-
-// //#WARN($0005823B, "WARNME")
-// //#JMP($0005FDA4)
-
-// // Ptr: 0005FDA4
-// #WRITE(OPTR, $0002886B)
-// <$00>
-
-// //#WARN($0005FDA5, "WARNME")
-// //#JMP($0005823C)
-
-// // Ptr: 0005823C
-// #WRITE(OPTR, $00028884)
-// //魔法知識
-// Magic Theory
-// <$00>
-
-// //#WARN($00058245, "WARNME")
-// //#JMP($0005FDA6)
-
-// // Ptr: 0005FDA6
-// #WRITE(OPTR, $0002888A)
-// <$00>
-
-// //#WARN($0005FDA7, "WARNME")
-// //#JMP($00058248)
-
-// // Ptr: 00058248
-// #WRITE(OPTR, $000288A3)
-// //毒知識
-// Toxicology
-// <$00>
-
-// //#WARN($0005824F, "WARNME")
-// //#JMP($0005FDA8)
-
-// // Ptr: 0005FDA8
-// #WRITE(OPTR, $000288A9)
-// <$00>
-
-// //#WARN($0005FDA9, "WARNME")
-// //#JMP($00058250)
-
-// // Ptr: 00058250
-// #WRITE(OPTR, $000288C2)
-// //掃除
-// Cleaning
-// <$00>
-
-// //#WARN($00058255, "WARNME")
-// //#JMP($0005FDAA)
-
-// // Ptr: 0005FDAA
-// #WRITE(OPTR, $000288C8)
-// <$00>
-
-// //#WARN($0005FDAB, "WARNME")
-// //#JMP($00058258)
-
-// // Ptr: 00058258
-// #WRITE(OPTR, $000288E1)
-// //洗濯
-// Laundry
-// <$00>
-
-// //#WARN($0005825D, "WARNME")
-// //#JMP($0005FDAC)
-
-// // Ptr: 0005FDAC
-// #WRITE(OPTR, $000288E7)
-// <$00>
-
-// //#WARN($0005FDAD, "WARNME")
-// //#JMP($00058260)
-
-// // Ptr: 00058260
-// #WRITE(OPTR, $00028900)
-// //魔物の知識
-// Monsterology
-// <$00>
-
-// //#WARN($0005826B, "WARNME")
-// //#JMP($0005FDAE)
-
-// // Ptr: 0005FDAE
-// #WRITE(OPTR, $00028906)
-// <$00>
-
-// //#WARN($0005FDAF, "WARNME")
-// //#JMP($0005826C)
-
-// // Ptr: 0005826C
-// #WRITE(OPTR, $0002891F)
-// //Ｈ知識
-// Sexuality
-// <$00>
-
-// //#WARN($00058273, "WARNME")
-// //#JMP($0005FDB0)
-
-// // Ptr: 0005FDB0
-// #WRITE(OPTR, $00028925)
-// <$00>
-
-// //#WARN($0005FDB1, "WARNME")
-// //#JMP($00058274)
-
-// // Ptr: 00058274
-// #WRITE(OPTR, $0002893E)
-// //音楽
-// Music
-// <$00>
-
-// //#WARN($00058279, "WARNME")
 // //#JMP($0005FDB2)
 
 // // Ptr: 0005FDB2
