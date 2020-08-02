@@ -3284,7 +3284,7 @@ Elocution
 // Ptr: 00052F3C
 #WRITE(PTR, $0005E830)
 //‘fŽè
-Unarmed
+‘fŽè
 <$00>
 
 #WARN($00052F43, "WARNME")

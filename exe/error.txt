@@ -1,10 +1,10 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 200 msecs
+Parsing summary: 180 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 731 msecs
+Insertion summary: 922 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -5882,10 +5882,10 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 | Block 368
 |   Start: Line 3282  File Position $52F3C
-|   End: Line 3291  File Position $52F44
+|   End: Line 3291  File Position $52F41
 +------------------------------------------------------------------------------
-| Script size 8
-| Bytes Inserted 8
+| Script size 5
+| Bytes Inserted 5
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -7721,8 +7721,8 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Total Statistics
-| Script Size 4709
-| Script Inserted 4709
+| Script Size 4706
+| Script Inserted 4706
 |
 | Command Execution Listing
 | JMP: 482
@@ -7734,4 +7734,4 @@ Insertion - 0 error(s), 0 warning(s)
 | General Pointers Written: 524
 +------------------------------------------------------------------------------
 
-Execution time: 954 msecs
+Execution time: 1124 msecs
