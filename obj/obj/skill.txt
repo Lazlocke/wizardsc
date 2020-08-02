@@ -2974,7 +2974,7 @@ j000a
 Summon a dark dragon.
 This isn't really like me.
 //entry 119 -----------------------
-Dark Shield
+Nullify
 Dark Spear+5
 *
 自動
@@ -3224,7 +3224,7 @@ se103.wav
 Dispel enemy magic.
 You better disappear too.
 //entry 129 -----------------------
-Light Shield
+Aegis
 Light Spear+5
 *
 自動
