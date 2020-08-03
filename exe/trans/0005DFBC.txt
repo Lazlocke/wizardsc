@@ -4278,6 +4278,36 @@ Music
 <$00>
 
 #WARN($00058279, "WARNME")
+#JMP($00058204)
+
+// Ptr: 00058204
+#WRITE(PTR, $000287CA)
+//ñÇï®è¢ä´
+Demon Call
+<$00>
+
+#WARN($0005820E, "WARNME")
+#JMP($00058174)
+
+// Ptr: 00058174
+#WRITE(PTR, $00028618)
+//à≈ÇÃèÇ
+Nullify
+<$00>
+
+#WARN($0005817B, "WARNME")
+#JMP($0005817C)
+
+// Ptr: 0005817C
+#WRITE(PTR, $00028637)
+//åıÇÃèÇ
+Aegis
+<$00>
+
+#WARN($00058183, "WARNME")
+
+
+
 
 // Moved Text
 #JMP(-1)
@@ -4321,15 +4351,6 @@ Staff Guard
 <$00>
 
 //#WARN($0005FD7D, "WARNME")
-//#JMP($00058174)
-
-// Ptr: 00058174
-#WRITE(OPTR, $00028618)
-//à≈ÇÃèÇ
-Dark Shield
-<$00>
-
-//#WARN($0005817B, "WARNME")
 //#JMP($0005FD7E)
 
 // Ptr: 0005FD7E
@@ -4337,22 +4358,6 @@ Dark Shield
 <$00>
 
 //#WARN($0005FD7F, "WARNME")
-//#JMP($0005817C)
-
-// Ptr: 0005817C
-#WRITE(OPTR, $00028637)
-//åıÇÃèÇ
-Light Shield
-<$00>
-
-//#WARN($00058183, "WARNME")
-//#JMP($0005FD80)
-
-// Ptr: 0005FD80
-#WRITE(OPTR, $0002863D)
-<$00>
-
-//#WARN($0005FD81, "WARNME")
 //#JMP($00058184)
 
 // Ptr: 00058184
@@ -4545,15 +4550,6 @@ Dark Sphere
 <$00>
 
 //#WARN($0005FD99, "WARNME")
-//#JMP($00058204)
-
-// Ptr: 00058204
-#WRITE(OPTR, $000287CA)
-//ñÇï®è¢ä´
-Demon Call
-<$00>
-
-//#WARN($0005820D, "WARNME")
 //#JMP($0005FD9A)
 
 // Ptr: 0005FD9A
