@@ -1,10 +1,10 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 180 msecs
+Parsing summary: 237 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 922 msecs
+Insertion summary: 790 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -7690,7 +7690,7 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 | Block 481
 |   Start: Line 4272  File Position $58274
-|   End: Line 4283  File Position $5827A
+|   End: Line 4281  File Position $5827A
 +------------------------------------------------------------------------------
 | Script size 6
 | Bytes Inserted 6
@@ -7705,33 +7705,209 @@ Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
 | Block 482
-|   Start: Line 4283  File Position $612F0
-|   End: Line 4681  File Position $61413
+|   Start: Line 4281  File Position $58204
+|   End: Line 4290  File Position $5820F
 +------------------------------------------------------------------------------
-| Script size 291
-| Bytes Inserted 291
+| Script size 11
+| Bytes Inserted 11
 |
 | Command Execution Listing
-|   WRITE: 43
+|   WRITE: 1
 |   WARN: 1
 |
 | Pointer Listing
-|   General Pointers Written: 43
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 483
+|   Start: Line 4290  File Position $58174
+|   End: Line 4299  File Position $5817C
++------------------------------------------------------------------------------
+| Script size 8
+| Bytes Inserted 8
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 484
+|   Start: Line 4299  File Position $5817C
+|   End: Line 4308  File Position $58182
++------------------------------------------------------------------------------
+| Script size 6
+| Bytes Inserted 6
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 485
+|   Start: Line 4308  File Position $58158
+|   End: Line 4316  File Position $58161
++------------------------------------------------------------------------------
+| Script size 9
+| Bytes Inserted 9
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 486
+|   Start: Line 4316  File Position $58164
+|   End: Line 4325  File Position $5816A
++------------------------------------------------------------------------------
+| Script size 6
+| Bytes Inserted 6
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 487
+|   Start: Line 4325  File Position $5816C
+|   End: Line 4334  File Position $58171
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 488
+|   Start: Line 4334  File Position $58184
+|   End: Line 4343  File Position $58189
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 489
+|   Start: Line 4343  File Position $58190
+|   End: Line 4352  File Position $58199
++------------------------------------------------------------------------------
+| Script size 9
+| Bytes Inserted 9
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 490
+|   Start: Line 4352  File Position $5819C
+|   End: Line 4361  File Position $581A1
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 491
+|   Start: Line 4361  File Position $581A8
+|   End: Line 4370  File Position $581B0
++------------------------------------------------------------------------------
+| Script size 8
+| Bytes Inserted 8
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 492
+|   Start: Line 4370  File Position $581B4
+|   End: Line 4380  File Position $581BE
++------------------------------------------------------------------------------
+| Script size 10
+| Bytes Inserted 10
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 493
+|   Start: Line 4380  File Position $612F0
+|   End: Line 4566  File Position $6139E
++------------------------------------------------------------------------------
+| Script size 174
+| Bytes Inserted 174
+|
+| Command Execution Listing
+|   WRITE: 21
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 21
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
 | Total Statistics
-| Script Size 4706
-| Script Inserted 4706
+| Script Size 4671
+| Script Inserted 4671
 |
 | Command Execution Listing
-| JMP: 482
+| JMP: 493
 | ADDTBL: 1
 | ACTIVETBL: 1
 | CREATEPTR: 2
-| WRITE: 524
-| WARN: 482
-| General Pointers Written: 524
+| WRITE: 513
+| WARN: 493
+| General Pointers Written: 513
 +------------------------------------------------------------------------------
 
-Execution time: 1124 msecs
+Execution time: 1058 msecs
