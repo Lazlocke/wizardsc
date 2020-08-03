@@ -4361,7 +4361,7 @@ Guts
 #JMP($000581A8)
 
 // Ptr: 000581A8
-#WRITE(OPTR, $000286B3)
+#WRITE(PTR, $000286B3)
 //ìØånÇÃêS
 Synergy
 <$00>
@@ -4370,12 +4370,35 @@ Synergy
 #JMP($000581B4)
 
 // Ptr: 000581B4
-#WRITE(OPTR, $000286D2)
+#WRITE(PTR, $000286D2)
 //àŸånÇÃåÇÌÇË
 Symbiosis
 <$00>
 
 #WARN($000581C1, "WARNME")
+#JMP($000581E8)
+
+// Ptr: 000581E8
+#WRITE(PTR, $0002876D)
+//í«ê’Ç∑ÇÈïó
+Air Chaser
+<$00>
+
+#WARN($000581F3, "WARNME")
+#JMP($0005827C)
+
+// Ptr: 0005827C
+#WRITE(PTR, $0002895D)
+//åqÇ¨Ç∆ÇﬂÇÈìD
+Mud Bind
+<$00>
+
+#WARN($00058289, "WARNME")
+
+
+
+
+
 // Moved Text
 #JMP(-1)
 //#JMP($000581C4)
@@ -4414,22 +4437,6 @@ Flame Snake
 <$00>
 
 //#WARN($000581E7, "WARNME")
-//#JMP($000581E8)
-
-// Ptr: 000581E8
-#WRITE(OPTR, $0002876D)
-//í«ê’Ç∑ÇÈïó
-Air Chaser
-<$00>
-
-//#WARN($000581F3, "WARNME")
-//#JMP($0005FD94)
-
-// Ptr: 0005FD94
-#WRITE(OPTR, $00028773)
-<$00>
-
-//#WARN($0005FD95, "WARNME")
 //#JMP($000581F4)
 
 // Ptr: 000581F4
@@ -4439,13 +4446,6 @@ Static Ball
 <$00>
 
 //#WARN($000581F9, "WARNME")
-//#JMP($0005FD96)
-
-// Ptr: 0005FD96
-#WRITE(OPTR, $00028792)
-<$00>
-
-//#WARN($0005FD97, "WARNME")
 //#JMP($000581FC)
 
 // Ptr: 000581FC
@@ -4464,22 +4464,6 @@ Duplicate
 <$00>
 
 //#WARN($00058215, "WARNME")
-//#JMP($0005827C)
-
-// Ptr: 0005827C
-#WRITE(OPTR, $0002895D)
-//åqÇ¨Ç∆ÇﬂÇÈìD
-Mud Bind
-<$00>
-
-//#WARN($00058289, "WARNME")
-// //#JMP($0005FDB4)
-
-// // Ptr: 0005FDB4
-// #WRITE(OPTR, $00028963)
-// <$00>
-
-// //#WARN($0005FDB5, "WARNME")
 //#JMP($0005828C)
 
 // Ptr: 0005828C
@@ -4489,7 +4473,7 @@ Glamour
 <$00>
 
 //#WARN($00058291, "WARNME")
-//#JMP($0005CC60)
+//#JMP($00053130)
 
 // Ptr: 00053130
 #WRITE(OPTR, $0005E4D0)
@@ -4497,6 +4481,7 @@ Glamour
 Combat Speed
 <$00>
 
+//#WARN($0005313A, "WARNME")
 //#JMP($00058294)
 
 // Ptr: 00058294
@@ -4506,7 +4491,7 @@ Holy Light
 <$00>
 
 //#WARN($00058299, "WARNME")
-//#JMP($0005829C)
+#JMP($0005829C)
 
 // Ptr: 0005829C
 #WRITE(OPTR, $000289BA)
@@ -4523,7 +4508,7 @@ Drain Essence
 Wailing Well
 <$00>
 
-//#WARN($000582DD, "WARNME")
+#WARN($000582DD, "WARNME")
 //#JMP($000582C8)
 
 // Ptr: 000582C8
@@ -4533,4 +4518,6 @@ Blessed Rain
 <$00>
 
 //#WARN($000582D1, "WARNME")
+
+
 #WARN($00062000, "WARNME")
