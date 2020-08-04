@@ -649,7 +649,7 @@ se019.wav
 A powerful sword technique.
 A deadly move, that brings death!
 //entry 26 -----------------------
-Blade Guard
+Parry
 Blades+5
 剣
 条件
@@ -671,7 +671,7 @@ se134.wav
 *
 *
 *
-Parry physical attacks.
+Dodge physical attacks while a sword is equipped.
 Let your sword be your shield.
 //entry 27 -----------------------
 Staves
@@ -774,7 +774,7 @@ se023.wav
 A high power staff attack.
 The key to a staff master.
 //entry 31 -----------------------
-Staff Guard
+Fend
 Staves+5
 棒
 条件
@@ -796,7 +796,7 @@ se134.wav
 *
 *
 *
-Parry physical attacks.
+Dodge physical attacks while a staff is equipped.
 A staff can be a shield too.
 //entry 32 -----------------------
 Axes
