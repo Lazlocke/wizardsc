@@ -1539,7 +1539,7 @@ She corrects herself.
 #
 <sprite "ta01a08.iph" 4 4 12>
 <name "Celes" "!AA4018">
-"They say an Overlord shows up and set up a
+"They say an Overlord's shown up and set up a
  castle."
 #
 <name "Lazlocke">

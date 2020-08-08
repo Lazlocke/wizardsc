@@ -726,7 +726,7 @@ It's dangerous to sleep outside at night.
 "..."
 #
 <name "Lazlocke">
-uƒ_ƒ‚©Hv
+"Doesn't it?"
 #
 <sprite "ta01a15.iph" 4 4 12>
 <name "Celes" "!AA0644">

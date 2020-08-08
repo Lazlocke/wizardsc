@@ -156,7 +156,7 @@ I'm going home to.
 "I see. 
  So I've made you a real rival for Celes, huh?"
 #
-Her mana capacity is getting pretty formidible.
+Her mana capacity is getting pretty formidable.
 #
 <sprite "ta02a13.iph" 4 4 12>
 <name "Elle" "!CA0678">

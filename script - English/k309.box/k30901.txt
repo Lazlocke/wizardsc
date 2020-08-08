@@ -1185,7 +1185,7 @@ I bring the diagram right to her.
 <name "Lazlocke">
 "It's useful to take magic from mana, but the
  problem with it is that it takes the magic away
- from who originally had it."
+ from whoever originally had it."
 #
 <name "Macornel" "!PB0045">
 "No..."

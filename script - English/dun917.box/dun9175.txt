@@ -27,7 +27,7 @@ Peace will come to the land in a short time.
 #
 <name "Village Girl" "!KA0070">
 "Eeek!
-"Lady Celes!ô"
+ Lady Celes!ô"
 #
 <name "Celes" "!AA4077">
 "Huh?

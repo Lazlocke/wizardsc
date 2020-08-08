@@ -559,7 +559,7 @@ I'll have to ask Soshiette about it.
 <name "Rune" "!EA0134">
 "Don't glare like that.
  If you join the battle, I'll make sure you have
- the proper personel under your command."
+ the proper personnel under your command."
 #
 <name "Viola" "!BA0290">
 "..."
@@ -639,7 +639,7 @@ The two of them turn to face the assassins.
 <sprite "ta15a31.iph" 2 5 11>
 <sprite "ta14a00.iph" 6 4 11>
 <name "Recchino" "!RA9079">
-"But we should endevor to avoid a spark becoming
+"But we should endeavor to avoid a spark becoming
  an inferno."
 #
 <removesprite -1 11>

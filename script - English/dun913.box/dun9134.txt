@@ -41,7 +41,6 @@
 <name "Celes" "!AA3699">
 "If you want proof of friendship between Celestia
  and the Netherworld, make it yourself."
- a
 #
 <name "Celes" "!AA3700">
 "...Huh?

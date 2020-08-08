@@ -190,8 +190,8 @@ juices.
 #
 She looks up at me with misty eyes.
 #
-Drawn by them, I kiss on the forehead, the cheek,
-the mouth, and start moving my hips again.
+Drawn by them, I kiss her on the forehead, the
+cheek, the mouth, and start moving my hips again.
 #
 <name "Viola" "!BA0746">
 "Ah...ah...mmm...aaah!ÅÙ"
@@ -380,7 +380,7 @@ smoothly slides back and forth.
 #
 She's squeezing differently than usual.
 #
-Must tighter.
+Much tighter.
 #
 Like she doesn't want to let me go.
 #
@@ -1115,7 +1115,7 @@ I'm resting after giving Elle mana.
 <removesprite -1 11>
 The next day, she was there first thing in the
 morning.
-I make love to her without saying a word.
+I made love to her without saying a word.
 #
 <exit>
 :51E9
@@ -1802,8 +1802,8 @@ over and over again.
 <name "Viola" "!BA0905">
 "Ah...ah...aah...aah...mmm...mmm..."
 #
-Eventually, she became accustomed and accomodating
-to it.
+Eventually, she became accustomed and 
+accommodating to it.
 #
 <name "Viola" "!BA0906">
 "Aah...ah...ah...ah...mmm..."

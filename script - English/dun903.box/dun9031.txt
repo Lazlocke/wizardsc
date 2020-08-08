@@ -694,7 +694,7 @@ Celes tried.
 <removesprite -1 11>
 <sprite "ta02b37.iph" 4 4 11>
 <name "Elle" "!CA0200">
-"...You're strong enough
+"...You're strong enough."
 #
 <removesprite -1 11>
 <exit>

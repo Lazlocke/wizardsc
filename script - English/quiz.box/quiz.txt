@@ -1928,7 +1928,7 @@ the season.
 #
 Furthermore...
 #
-Sex with Elle and Viola depends on succesfully
+Sex with Elle and Viola depends on successfully
 winning certain tournaments and conquering
 certain towers.
 #
@@ -1952,7 +1952,7 @@ Celes will gain extra points in her skills during
 training. It may not seem like a lot, but it
 really adds up.
 #
-Remember, enough pebbles becomes a mountain.
+Remember, enough pebbles become a mountain.
 #
 If you can afford better furniture, you should
 definitely buy some.
@@ -1978,7 +1978,7 @@ to Celes at the start of the game, such as
 part time jobs, and having already met and
 befriended certain characters.
 #
-Furhermore, certain events are locked if you're
+Furthermore, certain events are locked if you're
 not playing at an advanced enough mode.
 #
 It's highly recommended you climb up the mode

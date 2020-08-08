@@ -5374,7 +5374,7 @@ since she came over.
 #
 <sprite "ta01a89.iph" 2 5 12>
 <name "Celes" "!AA4731">
-"Umm... The book said parsley, shpherd's purse,
+"Umm... The book said parsley, shepherd's purse,
  cudweed, chickweed, nipplewort, turnip, and
  radish."
 #
