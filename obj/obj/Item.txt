@@ -796,7 +796,7 @@ Cheetah Necklace
 s0_12_06.iph
 i0_12_06.iph
 無
-Act Speed +10|Combat Speed +10
+Act Speed +10|Speed +10
 Speed is everything.
 //entry 100 -----------------------
 Turtle Necklace
@@ -948,7 +948,7 @@ Devil Wings
 s0_12_23.iph
 i0_12_23.iph
 無
-Act Speed +5　Combat Speed +3 Move +1|Resist Dark
+Act Speed +5　Speed +3 Move +1|Resist Dark
 Devilishly quick.♪
 //entry 119 -----------------------
 Angel Wings
@@ -956,7 +956,7 @@ Angel Wings
 s0_12_24.iph
 i0_12_24.iph
 無
-Act Speed+5　Combat Speed+3 Move +1|Resist Light
+Act Speed+5　Speed+3 Move +1|Resist Light
 Heavenly celerity.♪
 //entry 120 -----------------------
 Coin

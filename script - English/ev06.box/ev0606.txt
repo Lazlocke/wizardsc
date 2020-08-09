@@ -1,6 +1,6 @@
-\x1A\x01\x07\x04\x06\x91\x84\x00\x01\x0E :47: \xDB "Magic Theory" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :707: \x0A\x04\x06\x91\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+\x1A\x01\x07\x04\x06\x91\x84\x00\x01\x0E :47: \xDB "Wizardry" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :707: \x0A\x04\x06\x91\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
 :47
-\x1A\x01\x07\x04\x06\x92\x84\x00\x01\x0E :A9: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :A9: \xDB "Magic Theory" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :A9: \x16 :8B1: \x0A\x04\x06\x92\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
+\x1A\x01\x07\x04\x06\x92\x84\x00\x01\x0E :A9: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :A9: \xDB "Wizardry" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :A9: \x16 :8B1: \x0A\x04\x06\x92\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
 :A9
 \x1A\x01\x07\x04\x06\x93\x84\x00\x01\x0E :10B: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :10B: \xDB "Mana Recovery" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :10B: \x16 :9FD: \x0A\x04\x06\x93\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :706: 
 :10B
@@ -50,7 +50,7 @@
 :707
 <music 10>
 <background "bg002a0.iph" 11>
--- Magic Theory --
+                 -- Wizardry --
 #
 <sprite "ta01b20.iph" 4 4 11>
 <name "Celes" "!AA6049">
@@ -77,7 +77,7 @@
 :8B1
 <music 10>
 <background "bg002a0.iph" 11>
--- Magic Theory --
+                 -- Wizardry --
 #
 <sprite "ta01b27.iph" 4 4 11>
 <name "Celes" "!AA6052">
@@ -99,7 +99,7 @@
 :9FD
 <music 10>
 <background "bg002a0.iph" 11>
--- Mana Recovery --
+               -- Mana Recovery --
 #
 <sprite "ta01b32.iph" 4 4 11>
 <name "Celes" "!AA6059">
@@ -129,7 +129,7 @@
 :BCE
 <music 26>
 <background "bg004a0.iph" 11>
--- Mana Recovery --
+               -- Mana Recovery --
 #
 <name "Lazlocke">
 "Picture a sphere inside your stomach.
@@ -181,7 +181,7 @@
 :F13
 <music 10>
 <background "bg004a0.iph" 11>
--- Mana Recovery --
+               -- Mana Recovery --
 #
 <name "Lazlocke">
 "Training to increase her mana, huh?"
@@ -219,7 +219,7 @@
 :1155
 <music 10>
 <background "bg002a0.iph" 11>
--- Elocution --
+                 -- Elocution --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6066">
@@ -268,7 +268,7 @@
 :14C2
 <music 10>
 <background "bg002a0.iph" 11>
--- Elocution --
+                 -- Elocution --
 #
 <name "Lazlocke">
 "To speed up your casting speed, you need vocal
@@ -304,7 +304,7 @@
 :16FF
 <music 10>
 <background "bg002a0.iph" 11>
--- Elocution --
+                 -- Elocution --
 #
 <name "Lazlocke">
 "Your training to increase casting speed begins
@@ -324,7 +324,7 @@
 :1843
 <music 10>
 <background "bg002a0.iph" 11>
--- Elocution --
+                 -- Elocution --
 #
 Celes is practicing casting speels in quick
 succession.
@@ -350,7 +350,7 @@ She's gotten pretty fast.
 :19A8
 <music 10>
 <background "bg004a0.iph" 11>
--- Elocution --
+                 -- Elocution --
 #
 <name "Lazlocke">
 "Let me teach you the importance of casting
@@ -469,7 +469,7 @@ another try.
 :2230
 <music 10>
 <background "bg002a0.iph" 11>
--- Synergy --
+                  -- Synergy --
 #
 <name "Lazlocke">
 "There are some tricks you can learn when you're
@@ -510,7 +510,7 @@ another try.
 :24DC
 <music 10>
 <background "bg002a0.iph" 11>
--- Synergy --
+                  -- Synergy --
 #
 <name "Lazlocke">
 "Specializing in a single element is fine, but
@@ -531,7 +531,7 @@ another try.
 :260A
 <music 10>
 <background "bg002a0.iph" 11>
--- Symbiosis --
+                 -- Symbiosis --
 #
 <sprite "ta01b06.iph" 4 4 11>
 <name "Celes" "!AA6092">
@@ -579,7 +579,7 @@ another try.
 :293A
 <music 10>
 <background "bg002a0.iph" 11>
--- Symbiosis --
+                 -- Symbiosis --
 #
 <name "Lazlocke">
 "Looks like you're studying multiple elements.
@@ -598,7 +598,7 @@ another try.
 :2A77
 <music 10>
 <background "bg002a0.iph" 11>
--- Magic Defense --
+               -- Magic Defense --
 #
 <name "Lazlocke">
 "Surround yourself with mana to blunt the
@@ -645,7 +645,7 @@ another try.
 :2D7D
 <music 10>
 <background "bg004a0.iph" 11>
--- Magic Defense --
+               -- Magic Defense --
 #
 <name "Lazlocke">
 "Use magic to charge the mana around you."
@@ -700,7 +700,7 @@ another try.
 :31A7
 <music 10>
 <background "bg004a0.iph" 11>
--- Fire Proof --
+                -- Fire Proof --
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6109">
@@ -730,7 +730,7 @@ another try.
 :3388
 <music 10>
 <background "bg004a0.iph" 11>
--- Fire Proof --
+                -- Fire Proof --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6112">
@@ -788,7 +788,7 @@ another try.
 :3768
 <music 10>
 <background "bg004a0.iph" 11>
--- Water Proof --
+                -- Water Proof --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6119">
@@ -811,7 +811,7 @@ another try.
 :38BB
 <music 10>
 <background "bg004a0.iph" 11>
--- Wind Proof --
+                -- Wind Proof --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6121">
@@ -833,7 +833,7 @@ another try.
 :3A13
 <music 10>
 <background "bg004a0.iph" 11>
--- Earth Proof --
+                -- Earth Proof --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6123">
@@ -856,7 +856,7 @@ another try.
 :3B7A
 <music 10>
 <background "bg004a0.iph" 11>
--- Lightning Proof --
+              -- Lightning Proof --
 #
 <name "Lazlocke">
 "There's a trick to protecting yourself from
@@ -888,7 +888,7 @@ another try.
 :3D66
 <music 10>
 <background "bg004a0.iph" 11>
--- Dark Proof --
+                -- Dark Proof --
 #
 <name "Lazlocke">
 "Protecting against dark attacks is easy.
@@ -933,7 +933,7 @@ another try.
 :409C
 <music 10>
 <background "bg004a0.iph" 11>
--- Light Proof --
+                -- Light Proof --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6133">

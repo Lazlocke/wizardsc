@@ -28,7 +28,7 @@
 I give her a secret potion I snuck from the 
 Guild's treasure hoard.
 #
--- Celes's HP and MP have been restored --
+    -- Celes's HP and MP have been restored --
 #
 \x9C 100 \x9D 100 
 I shouldn't get in too much trouble for that.
@@ -52,7 +52,7 @@ She's pretty fired up.
 Since she's so motivated, I give her the secret
 potion I took from the Guild.
 #
--- Celes's HP and MP have been restored --
+    -- Celes's HP and MP have been restored --
 #
 \x9C 100 \x9D 100 
 Soshiette's going to be mad about that.

@@ -1508,7 +1508,7 @@
  her family home?"
 <choice :107E: "Sewing" \x00\x00>
 <choice :107E: "Cooking" \x00\x00>
-<choice :107E: "Cleaning" \x00\x00>
+<choice :107E: "Home Ec" \x00\x00>
 <choice :EC6: "Fishing" \x00\x00>
 #
 \x18 :6CD9: 
@@ -1518,7 +1518,7 @@
  her family home?"
 <choice :107E: "Sewing" \x00\x00>
 <choice :EC6: "Fishing" \x00\x00>
-<choice :107E: "Cleaning" \x00\x00>
+<choice :107E: "Home Ec" \x00\x00>
 <choice :107E: "Cooking" \x00\x00>
 #
 :6CD9
@@ -1864,9 +1864,9 @@ battle.
 You should also prohibit her from using skills
 that you don't want her to use.
 #
-In particular, Flash Step, Dark Shield, and 
-Light Shield are a constant, large drain on mana,
-and so should be used judiciously.
+In particular, Flash Step, Nullify, and Aegis 
+are a constant, large drain on mana, and so
+should be used judiciously.
 #
 Think before using them.
 #

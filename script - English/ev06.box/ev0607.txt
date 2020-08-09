@@ -10,7 +10,7 @@
 :167
 \x1A\x01\x07\x04\x06\xB4\x84\x00\x01\x0E :1AC: \xDB "Flame Snake" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1AC: \x16 :139B: \x0A\x04\x06\xB4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :1AC
-\x1A\x01\x07\x04\x06\xB5\x84\x00\x01\x0E :1F1: \xDB "Fire Wall" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1F1: \x16 :1473: \x0A\x04\x06\xB5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
+\x1A\x01\x07\x04\x06\xB5\x84\x00\x01\x0E :1F1: \xDB "Ignition" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :1F1: \x16 :1473: \x0A\x04\x06\xB5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :1F1
 \x1A\x01\x07\x04\x06\xB6\x84\x00\x01\x0E :234: \xDB "Aqua Shot" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :234: \x16 :15CF: \x0A\x04\x06\xB6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :234
@@ -74,9 +74,9 @@
 :A53
 \x1A\x01\x07\x04\x06\xD4\x84\x00\x01\x0E :A9A: \xDB "Mana Resonance" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :A9A: \x16 :4B6B: \x0A\x04\x06\xD4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :A9A
-\x1A\x01\x07\x04\x06\xD5\x84\x00\x01\x0E :AE3: \xDB "Healing Magic" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :AE3: \x16 :4CE7: \x0A\x04\x06\xD5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
+\x1A\x01\x07\x04\x06\xD5\x84\x00\x01\x0E :AE3: \xDB "Heal" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :AE3: \x16 :4CE7: \x0A\x04\x06\xD5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :AE3
-\x1A\x01\x07\x04\x06\xD6\x84\x00\x01\x0E :B2C: \xDB "Healing Magic" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :B2C: \x16 :4EBB: \x0A\x04\x06\xD6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
+\x1A\x01\x07\x04\x06\xD6\x84\x00\x01\x0E :B2C: \xDB "Heal" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :B2C: \x16 :4EBB: \x0A\x04\x06\xD6\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :B2C
 \x1A\x01\x07\x04\x06\xD7\x84\x00\x01\x0E :B75: \xDB "Regeneration" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :B75: \x16 :5040: \x0A\x04\x06\xD7\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :DD0: 
 :B75
@@ -102,7 +102,7 @@
 :DD1
 <music 10>
 <background "bg004a0.iph" 11>
--- Flame Dart --
+                -- Flame Dart --
 #
 <name "Lazlocke">
 "Fire magic can be useful for everyday life,
@@ -117,7 +117,7 @@
 :EAB
 <music 10>
 <background "bg004a0.iph" 11>
--- Fire Ball --
+                 -- Fire Ball --
 #
 <name "Lazlocke">
 "If you're good with fire balls, you can walk
@@ -138,7 +138,7 @@
 :1013
 <music 26>
 <background "bg004a0.iph" 11>
--- Fire Burst --
+                -- Fire Burst --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6139">
@@ -163,7 +163,7 @@ Now Soshiette's trying to help.
 :1193
 <music 26>
 <background "bg004a0.iph" 11>
--- Incinerate --
+                -- Incinerate --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6140">
@@ -181,7 +181,7 @@ Now Soshiette's trying to help.
 :128F
 <music 10>
 <background "bg004a0.iph" 11>
--- Fire Ring --
+                 -- Fire Ring --
 #
 <name "Lazlocke">
 "It feels like I'm protected by a team of fire
@@ -200,7 +200,7 @@ Now Soshiette's trying to help.
 :139B
 <music 10>
 <background "bg004a0.iph" 11>
--- Flame Snake --
+                -- Flame Snake --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6143">
@@ -215,7 +215,7 @@ Now Soshiette's trying to help.
 :1473
 <music 10>
 <background "bg004a0.iph" 11>
--- Fire Wall --
+                 -- Ignition --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6144">
@@ -237,7 +237,7 @@ Now Soshiette's trying to help.
 :15CF
 <music 10>
 <background "bg004a0.iph" 11>
--- Aqua Shot --
+                 -- Aqua Shot --
 #
 <name "Lazlocke">
 "This spell is completely useless if it's too
@@ -254,7 +254,7 @@ Now Soshiette's trying to help.
 :16C1
 <music 10>
 <background "bg004a0.iph" 11>
--- Aqua Shot --
+                 -- Aqua Shot --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6147">
@@ -277,7 +277,7 @@ Now Soshiette's trying to help.
 :1806
 <music 10>
 <background "bg004a0.iph" 11>
--- Aqua Shot --
+                 -- Aqua Shot --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6149">
@@ -296,7 +296,7 @@ Now Soshiette's trying to help.
 :1918
 <music 10>
 <background "bg002a0.iph" 11>
--- Aqua Stream --
+                -- Aqua Stream --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6151">
@@ -314,7 +314,7 @@ Now Soshiette's trying to help.
 :1A1A
 <music 10>
 <background "bg002a0.iph" 11>
--- Frozen Ice --
+                -- Frozen Ice --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6153">
@@ -336,7 +336,7 @@ Now Soshiette's trying to help.
 :1B79
 <music 10>
 <background "bg002a0.iph" 11>
--- Aqua Flood --
+                -- Aqua Flood --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6155">
@@ -359,7 +359,7 @@ Now Soshiette's trying to help.
 :1CE5
 <music 10>
 <background "bg002a0.iph" 11>
--- Glacier Smash --
+               -- Glacier Smash --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6157">
@@ -392,7 +392,7 @@ Now Soshiette's trying to help.
 :1F34
 <music 10>
 <background "bg002a0.iph" 11>
--- Blessed Rain --
+               -- Blessed Rain --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6162">
@@ -409,7 +409,7 @@ I sit her down and set her straight.
 :203E
 <music 10>
 <background "bg002a0.iph" 11>
--- Wailing Well --
+               -- Wailing Well --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6161">
@@ -424,7 +424,7 @@ I sit her down and set her straight.
 :2112
 <music 10>
 <background "bg004a0.iph" 11>
--- Ice Wall --
+                 -- Ice Wall --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6163">
@@ -444,7 +444,7 @@ I sit her down and set her straight.
 :223A
 <music 10>
 <background "bg004a0.iph" 11>
--- Ice Wall --
+                 -- Ice Wall --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6165">
@@ -462,7 +462,7 @@ I sit her down and set her straight.
 :2334
 <music 10>
 <background "bg004a0.iph" 11>
--- Air Cutter --
+                -- Air Cutter --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6167">
@@ -492,7 +492,7 @@ I sit her down and set her straight.
 :2532
 <music 10>
 <background "bg004a0.iph" 11>
--- Air Chaser --
+                -- Air Chaser --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6170">
@@ -507,7 +507,7 @@ I sit her down and set her straight.
 :2625
 <music 10>
 <background "bg004a0.iph" 11>
--- Air Shot --
+                 -- Air Shot --
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA6171">
@@ -533,7 +533,7 @@ overlook this.
 :27AB
 <music 10>
 <background "bg001a0.iph" 11>
--- Raging Wind --
+                -- Raging Wind --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6173">
@@ -578,7 +578,7 @@ tornado right in front of me.
 :2A35
 <music 10>
 <background "bg002a0.iph" 11>
--- Tempest --
+                  -- Tempest --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6178">
@@ -609,7 +609,7 @@ tornado right in front of me.
 :2C13
 <music 10>
 <background "bg002a0.iph" 11>
--- Tempest --
+                  -- Tempest --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6181">
@@ -666,7 +666,7 @@ They're horrible...
 :2F88
 <music 10>
 <background "bg002a0.iph" 11>
--- Air Press --
+                 -- Air Press --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6186">
@@ -698,7 +698,7 @@ They're horrible...
 :3192
 <music 10>
 <background "bg002a0.iph" 11>
--- Wind Press --
+                -- Wind Press --
 #
 <sprite "ta01a17.iph" 4 4 11>
 <name "Celes" "!AA6189">
@@ -716,7 +716,7 @@ They're horrible...
 :32AE
 <music 10>
 <background "bg004a0.iph" 11>
--- Tailwind --
+                 -- Tailwind --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6193">
@@ -744,7 +744,7 @@ They're horrible...
 :343F
 <music 10>
 <background "bg004a0.iph" 11>
--- Flight --
+                  -- Flight --
 #
 Celes is practicing flying.
 #
@@ -852,13 +852,13 @@ And then falls right back down.
 <name "Celes" "!AA6208">
 "Yep."
 #
--- Celes's range of activities has expanded --
+ -- Celes's range of activities has expanded --
 #
 <exit>
 :3BF0
 <music 26>
 <background "bg004a0.iph" 11>
--- Flight --
+                  -- Flight --
 #
 <background "ev027a1.iph" 10>
 <name "Celes" "!AA6209">
@@ -909,13 +909,13 @@ And then falls right back down.
 <name "Celes" "!AA6216">
 "It's a shame."
 #
--- Celes's range of activities has expanded --
+ -- Celes's range of activities has expanded --
 #
 <exit>
 :3F9C
 <music 10>
 <background "bg004a0.iph" 11>
--- Stalagmite --
+                -- Stalagmite --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6217">
@@ -937,7 +937,7 @@ And then falls right back down.
 :40CE
 <music 10>
 <background "bg004a0.iph" 11>
--- Rock Shaker --
+                -- Rock Shaker --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6219">
@@ -970,7 +970,7 @@ And then falls right back down.
 :42EB
 <music 10>
 <background "bg004a0.iph" 11>
--- Rock Rage --
+                 -- Rock Rage --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6225">
@@ -986,7 +986,7 @@ And then falls right back down.
 :43DB
 <music 10>
 <background "bg004a0.iph" 11>
--- Earth Wall --
+                -- Earth Wall --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6226">
@@ -1020,7 +1020,7 @@ And then falls right back down.
 :45AC
 <music 10>
 <background "bg004a0.iph" 11>
--- Mud Bind --
+                 -- Mud Bind --
 #
 <name "Lazlocke">
 "This spell grabs your opponent's feet and
@@ -1039,7 +1039,7 @@ And then falls right back down.
 :46AC
 <music 10>
 <background "bg004a0.iph" 11>
--- Mud Bind --
+                 -- Mud Bind --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6231">
@@ -1070,7 +1070,7 @@ And then falls right back down.
 :48BB
 <music 10>
 <background "bg004a0.iph" 11>
--- Drowning Marsh --
+              -- Drowning Marsh --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6235">
@@ -1095,7 +1095,7 @@ And then falls right back down.
 :4A65
 <music 10>
 <background "bg004a0.iph" 11>
--- Body Enhance --
+               -- Body Enhance --
 #
 <name "Lazlocke">
 "Temporarily enhance your body with magic and
@@ -1113,7 +1113,7 @@ And then falls right back down.
 :4B6B
 <music 10>
 <background "bg004a0.iph" 11>
--- Mana Resonance --
+              -- Mana Resonance --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6239">
@@ -1136,7 +1136,7 @@ And then falls right back down.
 :4CE7
 <music 10>
 <background "bg004a0.iph" 11>
--- Healing Magic --
+                   -- Heal --
 #
 <name "Lazlocke">
 "When you think about healing magic, think about
@@ -1163,7 +1163,7 @@ And then falls right back down.
 :4EBB
 <music 10>
 <background "bg004a0.iph" 11>
--- Healing Magic --
+                   -- Heal --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6245">
@@ -1187,7 +1187,7 @@ And then falls right back down.
 :5040
 <music 10>
 <background "bg004a0.iph" 11>
--- Regeneration --
+               -- Regeneration --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6247">
@@ -1227,7 +1227,7 @@ And then falls right back down.
 :5321
 <music 10>
 <background "bg004a0.iph" 11>
--- Shock --
+                   -- Shock --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1168">
@@ -1273,7 +1273,7 @@ And then falls right back down.
 :561D
 <music 10>
 <background "bg004a0.iph" 11>
--- Shock --
+                   -- Shock --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6251">
@@ -1299,7 +1299,7 @@ And then falls right back down.
 :579D
 <music 10>
 <background "bg004a0.iph" 11>
--- Static Ball --
+                -- Static Ball --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6253">
@@ -1335,7 +1335,7 @@ T-That could've been dangerous.
 :59D8
 <music 10>
 <background "bg004a0.iph" 11>
--- Lightning --
+                 -- Lightning --
 #
 <name "Lazlocke">
 "Whether you call it lightning or electricity,
@@ -1362,7 +1362,7 @@ T-That could've been dangerous.
 :5BAA
 <music 10>
 <background "bg004a0.iph" 11>
--- Thor's Hammer --
+               -- Thor's Hammer --
 #
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1175">
@@ -1405,7 +1405,7 @@ T-That could've been dangerous.
 :5E89
 <music 10>
 <background "bg004a0.iph" 11>
--- Zeus's Rage --
+                -- Zeus's Rage --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6263">
@@ -1431,7 +1431,7 @@ T-That could've been dangerous.
 :6049
 <music 10>
 <background "bg004a0.iph" 11>
--- Lightning Dragon --
+             -- Lightning Dragon --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6264">
@@ -1463,7 +1463,7 @@ T-That could've been dangerous.
 :626C
 <music 10>
 <background "bg004a0.iph" 11>
--- Flash Step --
+                -- Flash Step --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6267">
@@ -1503,7 +1503,7 @@ I yell at both of them later.
 :6511
 <music 10>
 <background "bg004a0.iph" 11>
--- Flash Step --
+                -- Flash Step --
 #
 <name "Lazlocke">
 "Hmmm..."

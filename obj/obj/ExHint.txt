@@ -31,7 +31,7 @@ If you don't try lots of things,|you'll never complete the CG|gallery.
 //entry 15 -----------------------
 The Search skill is surprisingly|important!
 //entry 16 -----------------------
-Demystify is a useful skill.
+Finesse is a useful skill.
 //entry 17 -----------------------
 You can sometimes encounter an|enemy while working as an|adventurer.
 //entry 18 -----------------------
@@ -55,27 +55,27 @@ Flight will increase the number of|places you can travel.
 //entry 27 -----------------------
 If you want to work as a cook, you|should invest in the Cooking|skill.
 //entry 28 -----------------------
-If you want to help around the|house, you should learn the|Cleaning and Washing skills.
+If you want to help around the|house, you should learn the|Home Ec and Washing skills.
 //entry 29 -----------------------
 Shopping is a useful skill to have|when buying things.
 //entry 30 -----------------------
 Music will raise the success rate|of most jobs.
 //entry 31 -----------------------
-Sexuality will give you more mana|during fun times.
+Sex Ed will give you more mana|during fun times.
 //entry 32 -----------------------
 You'll find more treasure chests|with the Search skill.
 //entry 33 -----------------------
-With Demystify, you won't get lost|as often.
+With Finesse, you won't get lost|as often.
 //entry 34 -----------------------
-If you're fighting monsters, it|could be good to have|Monsterology.
+If you're fighting monsters, it|could be good to have|Zoology.
 //entry 35 -----------------------
 The Kingdom Festival is the third|week in October!
 //entry 36 -----------------------
 Trapology will help you dodge|traps.
 //entry 37 -----------------------
-Poisonology can help avoid certain|kinds of traps, and maybe a little|with cooking too.
+Botany can help avoid certain|kinds of traps, and maybe a little|with cooking too.
 //entry 38 -----------------------
-If you're going to tournaments,|you may want to learn|Gamesmanship.
+If you're going to tournaments,|you may want to learn|Cunning.
 //entry 39 -----------------------
 For a fighter, Tactics is a|valuable skill.
 //entry 40 -----------------------
@@ -123,7 +123,7 @@ If you encounter a strong enemy,|run away.
 //entry 61 -----------------------
 Why not just hang out with|Lazlocke every now and then?
 //entry 62 -----------------------
-Blade Guard and Staff Guard are|excellent defensive skills.
+Parry and Fend are excellent |defensive skills.
 //entry 63 -----------------------
 Have a solid battle plan.
 //entry 64 -----------------------

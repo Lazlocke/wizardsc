@@ -64,11 +64,11 @@ Overlord's Staff
 必殺防御の首飾り
 *
 *
-Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|Mana Recovery+10|Recovery+5
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Fend+5|Staff Hit+8|Mana Recovery+10|Recovery+5
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -91,11 +91,11 @@ Overlord's Staff
 必殺防御の首飾り
 *
 *
-Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|Mana Recovery+10|Recovery+5
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Fend+5|Staff Hit+8|Mana Recovery+10|Recovery+5
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -118,11 +118,11 @@ Overlord's Staff
 必殺防御の首飾り
 *
 *
-Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5|Staves+8|Wizard's Bride|Mana Recovery+10|Recovery+5
+Jab+4|Strike+8|Thrust+8|Slicing Staff+8|Fend+5|Staff Hit+8|Wizard's Bride|Mana Recovery+10|Recovery+5
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -145,9 +145,9 @@ Glass Knives
 必殺防御の首飾り
 魔法の首飾り
 *
-Jab+4|Throwing Knife+4|Mana Recovery+5|Recovery+5
+Jab+4|Knife Throw+4|Mana Recovery+5|Recovery+5
 Flame Dart+8|Fire Ball+6|Fire Burst+3|Fire Ring+3
-Stalagmite+6|Body Enhance+5|Healing Magic+5
+Stalagmite+6|Body Enhance+5|Heal+5
 Dark Spear+5|Pitch Black+3|Dark Despair+2
 *
 *
@@ -172,9 +172,9 @@ Glass Knives
 必殺防御の首飾り
 魔法の首飾り
 *
-Jab+4|Throwing Knife+4|Twist Knife|Mana Recovery+5|Recovery+5
+Jab+4|Knife Throw+4|Twist Knife|Mana Recovery+5|Recovery+5
 Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
-Stalagmite+10|Body Enhance+10|Healing Magic+10|Regeneration+5
+Stalagmite+10|Body Enhance+10|Heal+10|Regeneration+5
 Dark Spear+10|Pitch Black+7|Dark Despair+5|Dark Void+3
 *
 *
@@ -199,9 +199,9 @@ Glass Knives
 必殺防御の首飾り
 魔法の首飾り
 *
-Jab+4|Throwing Knife+4|Mana Recovery+5|Recovery+5
+Jab+4|Knife Throw+4|Mana Recovery+5|Recovery+5
 Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
-Stalagmite+10|Body Enhance+10|Healing Magic+10|Regeneration+5
+Stalagmite+10|Body Enhance+10|Heal+10|Regeneration+5
 Dark Spear+10|Pitch Black+7|Dark Despair+5|Dark Void+3
 *
 *
@@ -226,13 +226,13 @@ Devil's Staff
 必殺防御の首飾り
 魔法の首飾り
 *
-Jab+8|Staves+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
+Jab+8|Staff Hit+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
 Flame Dart+10|Fire Ball+10|Fire Burst+10|Fire Ring+10
 Aqua Shot+10|Aqua Stream+10|Frozen Ice+10|Aqua Flood+10
 Air Cutter+10|Air Shot+10|Raging Wind+10|Tailwind+10
-Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Healing Magic+10
+Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Heal+10
 Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+10|Zeus's Rage+10|Lightning Dragon+10
-Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Nullify+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Aegis+10
 *
 *
 自由
@@ -253,13 +253,13 @@ Devil's Staff
 必殺防御の首飾り
 魔法の首飾り
 *
-Jab+8|Staves+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
+Jab+8|Staff Hit+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
 Flame Dart+10|Fire Ball+10|Fire Burst+10|Fire Ring+10
 Aqua Shot+10|Aqua Stream+10|Frozen Ice+10|Aqua Flood+10
 Air Cutter+10|Air Shot+10|Raging Wind+10|Tailwind+10
-Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Healing Magic+10
+Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Heal+10
 Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+10|Zeus's Rage+10|Lightning Dragon+10
-Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Nullify+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Aegis+10
 *
 *
 自由
@@ -280,13 +280,13 @@ Devil's Staff
 必殺防御の首飾り
 魔法の首飾り
 *
-Jab+8|Staves+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
+Jab+8|Staff Hit+7|Strike+3|Thrust+3|Slicing Staff+3|Mana Recovery+10|Recovery+5
 Flame Dart+10|Fire Ball+10|Fire Burst+10|Fire Ring+10
 Aqua Shot+10|Aqua Stream+10|Frozen Ice+10|Aqua Flood+10
 Air Cutter+10|Air Shot+10|Raging Wind+10|Tailwind+10
-Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Healing Magic+10
+Stalagmite+10|Rock Shaker+10|Rock Rage+10|Body Enhance+10|Heal+10
 Shock+10|Static Ball+10|Lightning+10|Thor's Hammer+10|Zeus's Rage+10|Lightning Dragon+10
-Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Nullify+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Aegis+10
 *
 *
 自由
@@ -388,7 +388,7 @@ Dryad's Bow
 *
 *
 *
-Archery+10|Arrow Storm+8|Headhunter+5
+Bow Shot+10|Arrow Storm+8|Headhunter+5
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
 *
 *
@@ -415,7 +415,7 @@ Dryad's Bow
 *
 *
 *
-Archery+10|Arrow Storm+8|Headhunter+5
+Bow Shot+10|Arrow Storm+8|Headhunter+5
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
 *
 *
@@ -442,7 +442,7 @@ Warmage Staff
 *
 *
 *
-Staves+5|Strike+3|Thrust+3|Slicing Staff+3
+Staff Hit+5|Strike+3|Thrust+3|Slicing Staff+3
 Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
 *
@@ -469,7 +469,7 @@ Warmage Staff
 *
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Aqua Shot+8|Aqua Stream+6|Frozen Ice+4|Aqua Flood+2
 Dark Spear+7|Pitch Black+5|Dark Despair+2
 *
@@ -497,7 +497,7 @@ u720
 *
 *
 Jab+8|Straight Punch+6|Sonic Blow+5|Low Kick+5|High Kick+3|Flying Knee+3|Tetsuzankou+2
-Stalagmite+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Body Enhance+5|Heal+5
 Reflexes+5|Guts+5
 *
 *
@@ -523,7 +523,7 @@ Guild Staff
 *
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 *
@@ -554,9 +554,9 @@ Jab+8|Straight Punch+6|Sonic Blow+4|Flash Blow+2|Low Kick+10|High Kick+7|Flying 
 Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
 Aqua Shot+10|Aqua Stream+8|Frozen Ice+5|Aqua Flood+5
 Air Cutter+4|Air Shot+4|Raging Wind+4
-Stalagmite+4|Rock Shaker+3|Rock Rage+3|Healing Magic+10
+Stalagmite+4|Rock Shaker+3|Rock Rage+3|Heal+10
 Shock+4|Static Ball+4|Lightning+4|Thor's Hammer+4|Zeus's Rage+4|Lightning Dragon+4
-Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Nullify+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Aegis+10
 *
 *
 自由
@@ -581,9 +581,9 @@ Jab+10|Straight Punch+10|Sonic Blow+8|Flash Blow+6|Chrono Blow+4|God Blow+2|Low 
 Flame Dart+10|Fire Ball+8|Fire Burst+5|Fire Ring+5
 Aqua Shot+10|Aqua Stream+8|Frozen Ice+5|Aqua Flood+5
 Air Cutter+4|Air Shot+4|Raging Wind+4
-Stalagmite+4|Rock Shaker+3|Rock Rage+3|Healing Magic+10
+Stalagmite+4|Rock Shaker+3|Rock Rage+3|Heal+10
 Shock+4|Static Ball+4|Lightning+4|Thor's Hammer+4|Zeus's Rage+4|Lightning Dragon+4
-Dark Spear+10|Pitch Black+10|Dark Despair+10|Dark Shield+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Light Shield+10
+Dark Spear+10|Pitch Black+10|Dark Despair+10|Nullify+10|Light Spear+10|Glorious Spear+10|Effusive Light+10|Aegis+10
 *
 *
 自由
@@ -608,7 +608,7 @@ Jab+10|Straight Punch+10|Sonic Blow+10|Flash Blow+8|Chrono Blow+6|God Blow+5|Low
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -631,7 +631,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 Aqua Shot+5|Aqua Stream+3
 *
@@ -658,7 +658,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Aqua Shot+7|Aqua Stream+3
 Flame Dart+3|Fire Ball+2
 *
@@ -685,7 +685,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Air Cutter+5|Air Shot+4|Raging Wind+3
 Flame Dart+3|Fire Ball+2
 *
@@ -712,7 +712,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Stalagmite+5|Rock Shaker+3|Body Enhance+6
 Flame Dart+3|Fire Ball+2
 Air Cutter+5|Air Shot+3
@@ -739,7 +739,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Shock+6|Static Ball+5|Lightning+4
 Flame Dart+3|Fire Ball+2
 *
@@ -766,7 +766,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Dark Spear+7|Pitch Black+5
 Flame Dart+3|Fire Ball+2
 *
@@ -793,7 +793,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Light Spear+7
 Flame Dart+3|Fire Ball+2
 *
@@ -820,7 +820,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
 Air Cutter+5|Air Shot+4|Raging Wind+3
@@ -847,7 +847,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5
+Staff Hit+10|Strike+8|Thrust+8|Slicing Staff+8|Fend+5
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
 Air Cutter+5|Air Shot+4|Raging Wind+3
@@ -874,7 +874,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 Aqua Shot+5|Aqua Stream+3
 Shock+5
@@ -901,7 +901,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Aqua Shot+7|Aqua Stream+3|Frozen Ice+2
 Flame Dart+3|Fire Ball+2
 Shock+5
@@ -928,7 +928,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Air Cutter+5|Air Shot+4|Raging Wind+3
 Flame Dart+3|Fire Ball+2
 Shock+5
@@ -955,7 +955,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Stalagmite+5|Rock Shaker+3|Body Enhance+6
 Flame Dart+3|Fire Ball+2
 Air Cutter+5|Air Shot+3
@@ -982,7 +982,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Shock+6|Static Ball+5|Lightning+4
 Flame Dart+3|Fire Ball+2
 Aqua Shot+5|Aqua Stream+3
@@ -1009,7 +1009,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Dark Spear+7|Pitch Black+5
 Flame Dart+3|Fire Ball+2
 Shock+5
@@ -1036,7 +1036,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Light Spear+7|Glorious Spear+3
 Flame Dart+3|Fire Ball+2
 Shock+5
@@ -1063,11 +1063,11 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Flame Dart+6|Fire Ball+4|Fire Burst+3
 Aqua Shot+10|Aqua Stream+3|Frozen Ice+2
 Air Cutter+5|Air Shot+4|Raging Wind+3
-Stalagmite+5|Healing Magic+3
+Stalagmite+5|Heal+3
 Dark Spear+7|Pitch Black+5
 *
 *
@@ -1090,11 +1090,11 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5
+Staff Hit+10|Strike+8|Thrust+8|Slicing Staff+8|Fend+5
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 Aqua Shot+7|Aqua Stream+3|Frozen Ice+2
 Air Cutter+7|Air Shot+4|Raging Wind+3
-Stalagmite+5|Healing Magic+3
+Stalagmite+5|Heal+3
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 *
 *
@@ -1117,11 +1117,11 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+7|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+7|Strike+5|Thrust+5|Slicing Staff+5
 Flame Dart+7|Fire Ball+4
 Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
 Air Cutter+5|Air Shot+4|Raging Wind+3
-Stalagmite+5|Healing Magic+3
+Stalagmite+5|Heal+3
 Dark Spear+7|Pitch Black+5
 *
 *
@@ -1144,11 +1144,11 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+8|Thrust+8|Slicing Staff+8|Staff Guard+5
+Staff Hit+10|Strike+8|Thrust+8|Slicing Staff+8|Fend+5
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 Aqua Shot+10|Aqua Stream+3
 Air Cutter+5|Air Shot+4|Raging Wind+3
-Stalagmite+5|Healing Magic+3
+Stalagmite+5|Heal+3
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 *
 *
@@ -1171,8 +1171,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+5|Glorious Spear+1
 *
 *
@@ -1198,8 +1198,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+7|Glorious Spear+3
 *
 *
@@ -1225,8 +1225,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+10|Glorious Spear+4
 *
 *
@@ -1252,8 +1252,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+10|Glorious Spear+5
 *
 *
@@ -1279,8 +1279,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+5|Glorious Spear+1
 *
 *
@@ -1306,8 +1306,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+7|Glorious Spear+3
 *
 *
@@ -1333,8 +1333,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+10|Glorious Spear+4
 *
 *
@@ -1360,8 +1360,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+10|Glorious Spear+5
 *
 *
@@ -1387,8 +1387,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+10|Glorious Spear+4
 Flame Dart+5|Fire Ball+4|Fire Burst+3
 *
@@ -1414,8 +1414,8 @@ Combat Staff
 魔法の首飾り
 *
 *
-Blades+5|Archery+5|Staves+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5|Bow Shot+5|Staff Hit+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+10|Glorious Spear+5
 Aqua Shot+5|Aqua Stream+3|Frozen Ice+2
 *
@@ -1441,7 +1441,7 @@ Common Knives
 マフラー
 *
 *
-Throwing Knife+5|Twist Knife+5
+Knife Throw+5|Twist Knife+5
 *
 *
 *
@@ -1468,7 +1468,7 @@ Common Knives
 マフラー
 *
 *
-Throwing Knife+5|Twist Knife+5
+Knife Throw+5|Twist Knife+5
 *
 *
 *
@@ -1495,7 +1495,7 @@ Whip
 マフラー
 *
 *
-Whips+5|Serpent Whip+3
+Whip Lash+5|Serpent Whip+3
 *
 *
 *
@@ -1522,7 +1522,7 @@ Whip
 マフラー
 *
 *
-Whips+5|Serpent Whip+3
+Whip Lash+5|Serpent Whip+3
 *
 *
 *
@@ -1549,7 +1549,7 @@ Common Knives
 マフラー
 *
 *
-Throwing Knife+5|Twist Knife+5
+Knife Throw+5|Twist Knife+5
 *
 *
 *
@@ -1576,7 +1576,7 @@ Common Knives
 マフラー
 *
 *
-Throwing Knife+5|Twist Knife+5
+Knife Throw+5|Twist Knife+5
 *
 *
 *
@@ -1603,7 +1603,7 @@ Whip
 マフラー
 *
 *
-Whips+5|Serpent Whip+3
+Whip Lash+5|Serpent Whip+3
 *
 *
 *
@@ -1630,7 +1630,7 @@ Whip
 マフラー
 *
 *
-Whips+5|Serpent Whip+3
+Whip Lash+5|Serpent Whip+3
 *
 *
 *
@@ -1657,7 +1657,7 @@ Whip
 マフラー
 *
 *
-Whips+10|Serpent Whip+5
+Whip Lash+10|Serpent Whip+5
 *
 *
 *
@@ -1684,7 +1684,7 @@ Common Sword
 *
 *
 *
-Blades+7
+Sword Swing+7
 *
 *
 *
@@ -1711,7 +1711,7 @@ Common Sword
 *
 *
 *
-Blades+9
+Sword Swing+9
 *
 *
 *
@@ -1738,7 +1738,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+1
+Sword Swing+10|Slash+1
 *
 *
 *
@@ -1765,7 +1765,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+1
+Sword Swing+10|Slash+1
 *
 *
 *
@@ -1792,7 +1792,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+3
+Sword Swing+10|Slash+3
 *
 *
 *
@@ -1819,7 +1819,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+3
+Sword Swing+10|Slash+3
 *
 *
 *
@@ -1846,7 +1846,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+5
+Sword Swing+10|Slash+5
 *
 *
 *
@@ -1873,7 +1873,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+5
+Sword Swing+10|Slash+5
 *
 *
 *
@@ -1900,7 +1900,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -1927,7 +1927,7 @@ Common Sword
 *
 *
 *
-Blades+5
+Sword Swing+5
 *
 *
 *
@@ -1954,7 +1954,7 @@ Common Sword
 *
 *
 *
-Blades+7
+Sword Swing+7
 *
 *
 *
@@ -1981,7 +1981,7 @@ Common Sword
 *
 *
 *
-Blades+9
+Sword Swing+9
 *
 *
 *
@@ -2008,7 +2008,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+1
+Sword Swing+10|Slash+1
 *
 *
 *
@@ -2035,7 +2035,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+1
+Sword Swing+10|Slash+1
 *
 *
 *
@@ -2062,7 +2062,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+3
+Sword Swing+10|Slash+3
 *
 *
 *
@@ -2089,7 +2089,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+3
+Sword Swing+10|Slash+3
 *
 *
 *
@@ -2116,7 +2116,7 @@ Custom Sword
 *
 *
 *
-Blades+10|Slash+3
+Sword Swing+10|Slash+3
 *
 *
 *
@@ -2143,7 +2143,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5
+Sword Swing+10|Slash+5
 *
 *
 *
@@ -2170,7 +2170,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5
+Sword Swing+10|Slash+5
 *
 *
 *
@@ -2197,7 +2197,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5
+Sword Swing+10|Slash+5
 *
 *
 *
@@ -2224,7 +2224,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5
+Sword Swing+10|Slash+5
 *
 *
 *
@@ -2251,7 +2251,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2278,7 +2278,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2305,7 +2305,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2332,7 +2332,7 @@ Tempered Sword
 *
 *
 *
-Blades+10|Slash+10|Hard Slash+10
+Sword Swing+10|Slash+10|Hard Slash+10
 *
 *
 *
@@ -2359,9 +2359,9 @@ Schneider Blade
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 Light Spear+7|Glorious Spear+2
-Healing Magic+3
+Heal+3
 *
 *
 *
@@ -2386,9 +2386,9 @@ Schneider Blade
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+1
+Sword Swing+10|Slash+5|Hard Slash+3|Crimson Blossom+1
 Light Spear+10|Glorious Spear+3
-Healing Magic+3
+Heal+3
 *
 *
 *
@@ -2413,9 +2413,9 @@ Schneider Blade
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 Light Spear+7|Glorious Spear+2
-Healing Magic+3
+Heal+3
 *
 *
 *
@@ -2440,9 +2440,9 @@ Schneider Blade
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 Light Spear+10|Glorious Spear+3
-Healing Magic+3
+Heal+3
 *
 *
 *
@@ -2467,7 +2467,7 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
 Slash+7|Hard Slash+3
 *
 *
@@ -2494,7 +2494,7 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
 Slash+5|Hard Slash+5|Crimson Blossom+1
 *
 *
@@ -2521,10 +2521,10 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
 Air Cutter+8|Air Shot+3
 Flame Dart+7|Fire Ball+5
-Healing Magic+3
+Heal+3
 *
 *
 *
@@ -2548,8 +2548,8 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
-Stalagmite+10|Healing Magic+3
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
+Stalagmite+10|Heal+3
 Aqua Shot+8|Aqua Stream+3
 *
 *
@@ -2575,7 +2575,7 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
 Slash+7|Hard Slash+3
 *
 *
@@ -2602,7 +2602,7 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
 Slash+5|Hard Slash+5|Crimson Blossom+1
 *
 *
@@ -2629,10 +2629,10 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
 Air Cutter+8|Air Shot+3
 Flame Dart+7|Fire Ball+5
-Healing Magic+3
+Heal+3
 *
 *
 *
@@ -2656,8 +2656,8 @@ Custom Sword
 必殺防御の首飾り
 *
 *
-Blades+8|Staves+5|Axes+5|Hammers+5|Archery+5
-Stalagmite+10|Healing Magic+3
+Sword Swing+8|Staff Hit+5|Ax Swing+5|Hammers+5|Bow Shot+5
+Stalagmite+10|Heal+3
 Aqua Shot+8|Aqua Stream+3
 *
 *
@@ -2683,7 +2683,7 @@ Common Sword
 *
 *
 *
-Blades+5|Slash+5
+Sword Swing+5|Slash+5
 *
 *
 *
@@ -2710,7 +2710,7 @@ Common Sword
 *
 *
 *
-Blades+5|Slash+5
+Sword Swing+5|Slash+5
 *
 *
 *
@@ -2737,7 +2737,7 @@ Quality Bow
 *
 *
 *
-Archery+8|Arrow Storm+4|Headhunter+2
+Bow Shot+8|Arrow Storm+4|Headhunter+2
 *
 *
 *
@@ -2764,7 +2764,7 @@ Flexible Rod
 *
 *
 *
-Staves+8|Strike+6|Thrust+6|Slicing Staff+6|Staff Guard+5
+Staff Hit+8|Strike+6|Thrust+6|Slicing Staff+6|Fend+5
 *
 *
 *
@@ -2791,7 +2791,7 @@ Tempered Sword
 必殺防御の首飾り
 *
 *
-Blades+10|Archery+5|Staves+5|Slash+5|Hard Slash+3
+Sword Swing+10|Bow Shot+5|Staff Hit+5|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2818,7 +2818,7 @@ Flexible Rod
 *
 *
 *
-Staves+8|Strike+6|Thrust+6|Slicing Staff+6|Staff Guard+5
+Staff Hit+8|Strike+6|Thrust+6|Slicing Staff+6|Fend+5
 *
 *
 *
@@ -2845,7 +2845,7 @@ Tempered Sword
 必殺防御の首飾り
 *
 *
-Blades+10|Archery+5|Staves+5|Slash+5|Hard Slash+3
+Sword Swing+10|Bow Shot+5|Staff Hit+5|Slash+5|Hard Slash+3
 *
 *
 *
@@ -2899,7 +2899,7 @@ Tiger Moon Rod
 必殺防御の首飾り
 *
 *
-Staves+10|Strike+10|Thrust+10|Slicing Staff+10|Staff Guard+10
+Staff Hit+10|Strike+10|Thrust+10|Slicing Staff+10|Fend+10
 *
 *
 *
@@ -2980,7 +2980,7 @@ Valor Blade
 必殺防御の首飾り
 *
 *
-Blades+8|Archery+5|Slash+5|Hard Slash+5
+Sword Swing+8|Bow Shot+5|Slash+5|Hard Slash+5
 *
 *
 *
@@ -3034,7 +3034,7 @@ Sharp Knives
 必殺防御の首飾り
 *
 *
-Throwing Knife+5|Twist Knife+5
+Knife Throw+5|Twist Knife+5
 *
 *
 *
@@ -4010,7 +4010,7 @@ Shine
 Flame Dart+5|Fire Ball+5|Fire Burst+3
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 Air Cutter+5|Air Shot+4
-Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Heal+5
 Shock+7|Lightning+3|Thor's Hammer+1
 *
 *
@@ -4037,7 +4037,7 @@ Shine
 Flame Dart+5|Fire Ball+5|Fire Burst+3
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 Air Cutter+5|Air Shot+4
-Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Heal+5
 Shock+7|Lightning+3|Thor's Hammer+1
 *
 *
@@ -4064,7 +4064,7 @@ Shine
 Flame Dart+5|Fire Ball+5|Fire Burst+3
 Aqua Shot+8|Aqua Stream+5|Frozen Ice+3|Aqua Flood+1
 Air Cutter+5|Air Shot+4
-Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Heal+5
 Shock+7|Lightning+3|Thor's Hammer+1
 *
 *
@@ -4088,7 +4088,7 @@ u190
 *
 *
 Dancing Slash
-Blades+10|Slash+5|Hard Slash+5
+Sword Swing+10|Slash+5|Hard Slash+5
 *
 *
 *
@@ -4115,7 +4115,7 @@ u191
 *
 *
 Dancing Slash
-Blades+10|Slash+7|Hard Slash+5
+Sword Swing+10|Slash+7|Hard Slash+5
 *
 *
 *
@@ -4142,7 +4142,7 @@ u192
 *
 *
 Dancing Slash
-Blades+10|Slash+9|Hard Slash+7|Crimson Blossom+1
+Sword Swing+10|Slash+9|Hard Slash+7|Crimson Blossom+1
 *
 *
 *
@@ -4169,7 +4169,7 @@ u193
 *
 *
 Dancing Slash
-Blades+10|Slash+10|Hard Slash+8|Crimson Blossom+2
+Sword Swing+10|Slash+10|Hard Slash+8|Crimson Blossom+2
 *
 *
 *
@@ -4575,7 +4575,7 @@ u220
 *
 Forest Fire|Fire Wisp
 Flame Dart+8|Fire Ball+4|Fire Burst+3
-Stalagmite+5|Rock Shaker+4|Rock Rage+3|Healing Magic+5
+Stalagmite+5|Rock Shaker+4|Rock Rage+3|Heal+5
 *
 *
 *
@@ -4601,7 +4601,7 @@ u230
 *
 *
 Dark Slash
-Blades+8|Slash+7|Hard Slash+5
+Sword Swing+8|Slash+7|Hard Slash+5
 *
 *
 *
@@ -4818,7 +4818,7 @@ u290
 *
 Heavy Press
 Dark Spear+8|Pitch Black+6|Drain Essence+5
-Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5
+Stalagmite+5|Rock Shaker|Rock Rage|Heal+5
 Flame Dart+7|Fire Ball+5
 *
 *
@@ -4845,7 +4845,7 @@ u291
 *
 Heavy Press
 Dark Spear+8|Pitch Black+6|Drain Essence+5
-Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5
+Stalagmite+5|Rock Shaker|Rock Rage|Heal+5
 Aqua Shot+10|Aqua Stream+5
 *
 *
@@ -4872,7 +4872,7 @@ u292
 *
 Heavy Press
 Dark Spear+8|Pitch Black+6|Drain Essence+5
-Stalagmite+5|Rock Shaker|Rock Rage|Healing Magic+5|Regeneration+5
+Stalagmite+5|Rock Shaker|Rock Rage|Heal+5|Regeneration+5
 Air Cutter+5
 *
 *
@@ -5034,7 +5034,7 @@ Tempered Sword
 *
 Onyx Slash
 Dark Spear+10|Pitch Black+10
-Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+2
+Sword Swing+10|Slash+5|Hard Slash+3|Crimson Blossom+2
 *
 *
 *
@@ -5061,7 +5061,7 @@ Tempered Sword
 *
 Onyx Slash
 Dark Spear+10|Pitch Black+10
-Blades+10|Slash+5|Hard Slash+3|Crimson Blossom+2
+Sword Swing+10|Slash+5|Hard Slash+3|Crimson Blossom+2
 *
 *
 *
@@ -5198,7 +5198,7 @@ Snake Swarm
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 *
 *
 *
@@ -5249,7 +5249,7 @@ Tempered Sword
 *
 *
 M H Attack
-Blades+10|Slash+3|Hard Slash+2|Crimson Blossom+1
+Sword Swing+10|Slash+3|Hard Slash+2|Crimson Blossom+1
 繋ぎとめる泥
 *
 *
@@ -5333,7 +5333,7 @@ Silver Star
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -5356,7 +5356,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -5383,7 +5383,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -5410,7 +5410,7 @@ Common Sword
 *
 *
 *
-Blades+10|Slash+5|Hard Slash+3
+Sword Swing+10|Slash+5|Hard Slash+3
 *
 *
 *
@@ -5437,8 +5437,8 @@ Common Sword
 *
 *
 *
-Blades+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+5|Glorious Spear+1
 *
 *
@@ -5464,8 +5464,8 @@ Common Sword
 *
 *
 *
-Blades+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+5|Glorious Spear+1
 *
 *
@@ -5491,8 +5491,8 @@ Common Sword
 *
 *
 *
-Blades+5
-Stalagmite+5|Rock Shaker+3|Rock Rage+3|Healing Magic+5
+Sword Swing+5
+Stalagmite+5|Rock Shaker+3|Rock Rage+3|Heal+5
 Light Spear+5|Glorious Spear+1
 *
 *
@@ -5522,7 +5522,7 @@ u800
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -5545,11 +5545,11 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+10|Thrust+10|Slicing Staff+10
+Staff Hit+10|Strike+10|Thrust+10|Slicing Staff+10
 Flame Dart+7|Fire Ball+5|Fire Burst+3|Fire Ring+3
 Aqua Shot+10|Aqua Stream+7|Frozen Ice+5|Aqua Flood+3
 Air Cutter+5|Air Shot+5|Raging Wind+5|Tailwind+5
-Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Healing Magic+5
+Stalagmite+5|Rock Shaker+5|Rock Rage+5|Body Enhance+5|Heal+5
 Shock+5|Static Ball+5|Lightning+5|Thor's Hammer+3|Zeus's Rage+2|Lightning Dragon+1
 Dark Spear+7|Pitch Black+5|Dark Despair+2|Light Spear+10|Glorious Spear+5|Effusive Light+3
 *
@@ -5572,7 +5572,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+10|Strike+5|Thrust+5|Slicing Staff+5
 Shock+6|Static Ball+5|Lightning+4
 Flame Dart+10|Fire Ball+7
 Aqua Shot+10|Aqua Stream+3
@@ -5599,7 +5599,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+10|Strike+5|Thrust+5|Slicing Staff+5
 Dark Spear+10|Pitch Black+10
 Flame Dart+10|Fire Ball+7
 Shock+10
@@ -5626,7 +5626,7 @@ Wizard's Staff
 魔法の首飾り
 *
 *
-Staves+10|Strike+5|Thrust+5|Slicing Staff+5
+Staff Hit+10|Strike+5|Thrust+5|Slicing Staff+5
 Light Spear+10|Glorious Spear+5
 Flame Dart+10|Fire Ball+7
 Shock+10
@@ -8948,7 +8948,7 @@ u230
 *
 *
 Dark Slash
-Blades+8|Slash+7|Hard Slash+5
+Sword Swing+8|Slash+7|Hard Slash+5
 *
 *
 *

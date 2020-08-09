@@ -16,7 +16,7 @@
 :23E
 \x1A\x01\x07\x04\x06\xF3\x84\x00\x01\x0E :289: \xDB "Dark Roar" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :289: \x16 :145B: \x0A\x04\x06\xF3\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
 :289
-\x1A\x01\x07\x04\x06\xF4\x84\x00\x01\x0E :2CE: \xDB "Dark Shield" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2CE: \x16 :1547: \x0A\x04\x06\xF4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+\x1A\x01\x07\x04\x06\xF4\x84\x00\x01\x0E :2CE: \xDB "Nullify" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2CE: \x16 :1547: \x0A\x04\x06\xF4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
 :2CE
 \x1A\x01\x07\x04\x06\xF5\x84\x00\x01\x0E :32E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :32E: \xDB "Dark Mist" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :32E: \x16 :161B: \x0A\x04\x06\xF5\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
 :32E
@@ -40,13 +40,13 @@
 :5D0
 \x1A\x01\x07\x04\x06\xFF\x84\x00\x01\x0E :613: \xDB "Holy Light" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :613: \x16 :25A0: \x0A\x04\x06\xFF\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
 :613
-\x1A\x01\x07\x04\x07\x00\x84\x00\x01\x0E :658: \xDB "Light Shield" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :658: \x16 :2704: \x0A\x04\x07\x00\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
+\x1A\x01\x07\x04\x07\x00\x84\x00\x01\x0E :658: \xDB "Aegis" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :658: \x16 :2704: \x0A\x04\x07\x00\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :658: 
 :658
 \x78
 :659
 <music 10>
 <background "bg004a0.iph" 11>
--- Dark Spear --
+                -- Dark Spear --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6270">
@@ -77,7 +77,7 @@
 :85B
 <music 10>
 <background "bg004a0.iph" 11>
--- Dark Spear --
+                -- Dark Spear --
 #
 <sprite "ta01a37.iph" 4 4 11>
 <name "Celes" "!AA6273">
@@ -108,7 +108,7 @@
 :A3F
 <music 10>
 <background "bg004a0.iph" 11>
--- Dark Sphere --
+                -- Dark Sphere --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6276">
@@ -151,7 +151,7 @@ I pull her into my arms.
 :CAD
 <music 10>
 <background "bg002a0.iph" 11>
--- Pitch Black --
+                -- Pitch Black --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6279">
@@ -171,7 +171,7 @@ that, I'm not sure what to say.
 :DE2
 <music 10>
 <background "bg002a0.iph" 11>
--- Drain Essence --
+               -- Drain Essence --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6280">
@@ -204,7 +204,7 @@ that, I'm not sure what to say.
 :FD5
 <music 10>
 <background "bg002a0.iph" 11>
--- Dark Despair --
+               -- Dark Despair --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6284">
@@ -226,7 +226,7 @@ She really hates carrots.
 :1161
 <music 10>
 <background "bg002a0.iph" 11>
--- Dark Void --
+                 -- Dark Void --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6286">
@@ -256,7 +256,7 @@ She really hates carrots.
 :137B
 <music 10>
 <background "bg002a0.iph" 11>
--- Dark Darkness --
+               -- Dark Darkness --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6289">
@@ -271,7 +271,7 @@ She really hates carrots.
 :145B
 <music 10>
 <background "bg002a0.iph" 11>
--- Dark Roar --
+                 -- Dark Roar --
 #
 <sprite "ta01a10.iph" 4 4 11>
 <name "Celes" "!AA6290">
@@ -288,7 +288,7 @@ She really hates carrots.
 :1547
 <music 10>
 <background "bg002a0.iph" 11>
--- Dark Shield --
+                  -- Nullify --
 #
 <sprite "ta01a90.iph" 4 4 11>
 <name "Celes" "!AA6291">
@@ -303,7 +303,7 @@ She really hates carrots.
 :161B
 <music 10>
 <background "bg002a0.iph" 11>
--- Dark Mist --
+                 -- Dark Mist --
 #
 <name "Lazlocke">
 "Once you learn this, you can have sex anytime,
@@ -319,7 +319,7 @@ She really hates carrots.
 :1722
 <music 10>
 <background "bg002a0.iph" 11>
--- Demon Call --
+                -- Demon Call --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6293">
@@ -339,7 +339,7 @@ She really hates carrots.
 :183A
 <music 10>
 <background "bg004a0.iph" 11>
--- Light Spear --
+                -- Light Spear --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6295">
@@ -360,7 +360,7 @@ Celes holds up a spear of light.
 :197B
 <music 10>
 <background "bg004a0.iph" 11>
--- Light Spear --
+                -- Light Spear --
 #
 <name "Lazlocke">
 "If you stick that inside you, you'll glow from
@@ -383,7 +383,7 @@ Celes holds up a spear of light.
 :1AE0
 <music 10>
 <background "bg004a0.iph" 11>
--- Glorious Spear --
+              -- Glorious Spear --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6299">
@@ -411,7 +411,7 @@ Celes holds up a spear of light.
 :1C86
 <music 10>
 <background "bg004a0.iph" 11>
--- Effusive Light --
+              -- Effusive Light --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6302">
@@ -462,7 +462,7 @@ Celes holds up a spear of light.
 :201D
 <music 10>
 <background "bg004a0.iph" 11>
--- Effusive Light --
+              -- Effusive Light --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6308">
@@ -477,7 +477,7 @@ Celes holds up a spear of light.
 :20D5
 <music 10>
 <background "bg004a0.iph" 11>
--- Glamour --
+                  -- Glamour --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6309">
@@ -512,7 +512,7 @@ I got hit.
 :22D8
 <music 10>
 <background "bg004a0.iph" 11>
--- Duplicate --
+                 -- Duplicate --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6312">
@@ -529,7 +529,7 @@ She hit me.
 :23B3
 <music 10>
 <background "bg004a0.iph" 11>
--- Bind --
+                   -- Bind --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6313">
@@ -565,7 +565,7 @@ be tied up.
 :25A0
 <music 10>
 <background "bg004a0.iph" 11>
--- Holy Light --
+                -- Holy Light --
 #
 <name "Lazlocke">
 "You don't need to keep fussing with your hair.
@@ -587,7 +587,7 @@ be tied up.
 :2704
 <music 10>
 <background "bg002a0.iph" 11>
--- Light Shield --
+                   -- Aegis --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6317">

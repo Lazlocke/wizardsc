@@ -8,13 +8,13 @@
 :10C
 \x1A\x01\x07\x04\x07\x2B\x84\x00\x01\x0E :14F: \xDB "Cooking" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :14F: \x16 :ECA: \x0A\x04\x07\x2B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :14F
-\x1A\x01\x07\x04\x07\x2C\x84\x00\x01\x0E :192: \xDB "Cleaning" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :192: \x16 :10A4: \x0A\x04\x07\x2C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x2C\x84\x00\x01\x0E :192: \xDB "Home Ec" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :192: \x16 :10A4: \x0A\x04\x07\x2C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :192
-\x1A\x01\x07\x04\x07\x2D\x84\x00\x01\x0E :1D5: \xDB "Cleaning" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :1D5: \x16 :1335: \x0A\x04\x07\x2D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x2D\x84\x00\x01\x0E :1D5: \xDB "Home Ec" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :1D5: \x16 :1335: \x0A\x04\x07\x2D\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :1D5
-\x1A\x01\x07\x04\x07\x2E\x84\x00\x01\x0E :218: \xDB "Cleaning" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :218: \x16 :14B0: \x0A\x04\x07\x2E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x2E\x84\x00\x01\x0E :218: \xDB "Home Ec" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :218: \x16 :14B0: \x0A\x04\x07\x2E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :218
-\x1A\x01\x07\x04\x07\x2F\x84\x00\x01\x0E :25B: \xDB "Cleaning" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :25B: \x16 :173A: \x0A\x04\x07\x2F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x2F\x84\x00\x01\x0E :25B: \xDB "Home Ec" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :25B: \x16 :173A: \x0A\x04\x07\x2F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :25B
 \x1A\x01\x07\x04\x07\x30\x84\x00\x01\x0E :29E: \xDB "Laundry" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :29E: \x16 :1899: \x0A\x04\x07\x30\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :29E
@@ -46,27 +46,27 @@
 :656
 \x1A\x01\x07\x04\x07\x3E\x84\x00\x01\x0E :699: \xDB "Music" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :699: \x16 :3591: \x0A\x04\x07\x3E\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :699
-\x1A\x01\x07\x04\x07\x3F\x84\x00\x01\x0E :6DE: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :6DE: \x16 :386A: \x0A\x04\x07\x3F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x3F\x84\x00\x01\x0E :6DE: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :6DE: \x16 :386A: \x0A\x04\x07\x3F\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :6DE
-\x1A\x01\x07\x04\x07\x40\x84\x00\x01\x0E :73E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :73E: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :73E: \x16 :39D6: \x0A\x04\x07\x40\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x40\x84\x00\x01\x0E :73E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :73E: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :73E: \x16 :39D6: \x0A\x04\x07\x40\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :73E
-\x1A\x01\x07\x04\x07\x41\x84\x00\x01\x0E :79E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :79E: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :79E: \x16 :3BF7: \x0A\x04\x07\x41\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x41\x84\x00\x01\x0E :79E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :79E: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :79E: \x16 :3BF7: \x0A\x04\x07\x41\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :79E
-\x1A\x01\x07\x04\x07\x42\x84\x00\x01\x0E :7FE: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :7FE: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :7FE: \x16 :3F12: \x0A\x04\x07\x42\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x42\x84\x00\x01\x0E :7FE: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :7FE: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :7FE: \x16 :3F12: \x0A\x04\x07\x42\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :7FE
-\x1A\x01\x07\x04\x07\x43\x84\x00\x01\x0E :85E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :85E: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :85E: \x16 :410A: \x0A\x04\x07\x43\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x43\x84\x00\x01\x0E :85E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :85E: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :85E: \x16 :410A: \x0A\x04\x07\x43\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :85E
-\x1A\x01\x07\x04\x07\x44\x84\x00\x01\x0E :8BE: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :8BE: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :8BE: \x16 :43A0: \x0A\x04\x07\x44\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x44\x84\x00\x01\x0E :8BE: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :8BE: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :8BE: \x16 :43A0: \x0A\x04\x07\x44\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :8BE
-\x1A\x01\x07\x04\x07\x45\x84\x00\x01\x0E :91E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :91E: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :91E: \x16 :4565: \x0A\x04\x07\x45\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x45\x84\x00\x01\x0E :91E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :91E: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :91E: \x16 :4565: \x0A\x04\x07\x45\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :91E
-\x1A\x01\x07\x04\x07\x46\x84\x00\x01\x0E :97E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :97E: \xDB "Sexuality" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :97E: \x16 :4703: \x0A\x04\x07\x46\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
+\x1A\x01\x07\x04\x07\x46\x84\x00\x01\x0E :97E: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :97E: \xDB "Sex Ed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :97E: \x16 :4703: \x0A\x04\x07\x46\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :97E: 
 :97E
 \x78
 :97F
 <music 10>
 <background "bg002a0.iph" 11>
--- Cooking --
+                  -- Cooking --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6387">
@@ -93,7 +93,7 @@
 :B00
 <music 10>
 <background "bg002a0.iph" 11>
--- Cooking --
+                  -- Cooking --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA6390">
@@ -111,7 +111,7 @@
 :BE2
 <music 10>
 <background "bg002a0.iph" 11>
--- Cooking --
+                  -- Cooking --
 #
 <sprite "ta01a14.iph" 4 4 11>
 <name "Celes" "!AA6392">
@@ -127,7 +127,7 @@ It's great to have luxurious meals.
 :CCA
 <music 10>
 <background "bg002a0.iph" 11>
--- Cooking --
+                  -- Cooking --
 #
 <sprite "ta01a22.iph" 4 4 11>
 <name "Celes" "!AA6393">
@@ -163,7 +163,7 @@ I face her food with knife and fork.
 :ECA
 <music 10>
 <background "bg002a0.iph" 11>
--- Cooking --
+                  -- Cooking --
 #
 <name "Lazlocke">
 "Did you tweak the seasoning?"
@@ -194,7 +194,7 @@ I face her food with knife and fork.
 :10A4
 <music 10>
 <background "bg002a0.iph" 11>
--- Cleaning --
+                  -- Home Ec --
 #
 <name "Lazlocke">
 "You've gotten good at cleaning up."
@@ -235,7 +235,7 @@ I face her food with knife and fork.
 :1335
 <music 10>
 <background "bg002a0.iph" 11>
--- Cleaning --
+                  -- Home Ec --
 #
 Celes is polishing a pot.
 #
@@ -262,7 +262,7 @@ She falls asleep still holding it.
 :14B0
 <music 10>
 <background "bg002a0.iph" 11>
--- Cleaning --
+                  -- Home Ec --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA6406">
@@ -305,7 +305,7 @@ is gone.
 :173A
 <music 10>
 <background "bg002a0.iph" 11>
--- Cleaning --
+                  -- Home Ec --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1203">
@@ -328,7 +328,7 @@ is gone.
 :1899
 <music 10>
 <background "bg001a0.iph" 11>
--- Laundry --
+                  -- Laundry --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6409">
@@ -358,7 +358,7 @@ is gone.
 :1A76
 <music 10>
 <background "bg001a0.iph" 11>
--- Laundry --
+                  -- Laundry --
 #
 <sprite "ta01a02.iph" 4 4 11>
 <name "Celes" "!AA6414">
@@ -392,7 +392,7 @@ is gone.
 :1C91
 <music 10>
 <background "bg001a0.iph" 11>
--- Laundry --
+                  -- Laundry --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6418">
@@ -444,7 +444,7 @@ is gone.
 :1FEF
 <music 10>
 <background "bg001a0.iph" 11>
--- Laundry --
+                  -- Laundry --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6425">
@@ -468,7 +468,7 @@ is gone.
 :2142
 <music 10>
 <background "bg001a0.iph" 11>
--- Laundry --
+                  -- Laundry --
 #
 <sprite "ta01a50.iph" 4 4 11>
 <name "Celes" "!AA6427">
@@ -496,7 +496,7 @@ My will is weak.
 :22DB
 <music 10>
 <background "bg002a0.iph" 11>
--- Shopping --
+                 -- Shopping --
 #
 <name "Lazlocke">
 "It feels like we're spending less money in our
@@ -518,7 +518,7 @@ My will is weak.
 :2401
 <music 10>
 <background "bg014a0.iph" 11>
--- Shopping --
+                 -- Shopping --
 #
 <name "Lazlocke">
 "Celes, isn't this store one of the ones you 
@@ -545,7 +545,7 @@ My will is weak.
 :259D
 <music 10>
 <background "bg014a0.iph" 11>
--- Shopping --
+                 -- Shopping --
 #
 <name "Lazlocke">
 "Celes, what are you doing?"
@@ -583,7 +583,7 @@ He hands it over with tears in his eyes.
 :27EF
 <music 10>
 <background "bg014a0.iph" 11>
--- Shopping --
+                 -- Shopping --
 #
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA6437">
@@ -630,7 +630,7 @@ He hands it over with tears in his eyes.
 :2B69
 <music 10>
 <background "bg014a0.iph" 11>
--- Shopping --
+                 -- Shopping --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA6444">
@@ -701,7 +701,7 @@ But...
 :3039
 <music 10>
 <background "bg014a0.iph" 11>
--- Shopping --
+                 -- Shopping --
 #
 <name "Part Timer" "!RB0219">
 "Aiee!
@@ -730,7 +730,7 @@ But...
 :31C2
 <music 10>
 <background "bg002a0.iph" 11>
--- Music --
+                   -- Music --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6454">
@@ -748,7 +748,7 @@ I am not a good singer.
 :32B6
 <music 10>
 <background "bg002a0.iph" 11>
--- Music --
+                   -- Music --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6455">
@@ -767,14 +767,14 @@ I am not a good singer.
 "...That's something I could never do."
 #
 <removesprite -1 11>
--- 10‚a obtained --
+               -- 10‚a obtained --
 #
 \x0B\x02\x00\x0A\x02\x00\x0A 10 
 <exit>
 :342A
 <music 10>
 <background "bg002a0.iph" 11>
--- Music --
+                   -- Music --
 #
 <name "Lazlocke">
 "Celes, I'm told the church nearby wants you to
@@ -798,7 +798,7 @@ I am not a good singer.
 :3591
 <music 10>
 <background "bg002a0.iph" 11>
--- Music --
+                   -- Music --
 #
 <name "Lazlocke">
 "Hey, Celes.
@@ -839,7 +839,7 @@ to me.
 :386A
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a70.iph" 4 4 11>
 <name "Celes" "!AA6462">
@@ -866,7 +866,7 @@ her head.
 :39D6
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a50.iph" 4 4 11>
 <name "Celes" "!AA6464">
@@ -905,7 +905,7 @@ I got tackled.
 :3BF7
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA6468">
@@ -956,7 +956,7 @@ play is retired.
 :3F12
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6473">
@@ -989,7 +989,7 @@ play is retired.
 :410A
 <music 10>
 <background "bg015a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <name "Lazlocke">
 "Celes, what are you doing?
@@ -1033,7 +1033,7 @@ play is retired.
 :43A0
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA6481">
@@ -1062,7 +1062,7 @@ play is retired.
 :4565
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA6484">
@@ -1091,7 +1091,7 @@ importance of underwear.
 :4703
 <music 10>
 <background "bg002a0.iph" 11>
--- Sexuality --
+                  -- Sex Ed --
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA6487">

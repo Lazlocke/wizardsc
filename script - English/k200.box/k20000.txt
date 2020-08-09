@@ -606,7 +606,7 @@
 <music 26>
 <background "ev008a0.iph" 11>
 <name "Celes" "!AA1156">
-"Basic Magic Theory...
+"Basic Wizardry...
  I'll read this book today."
 #
 <name "Celes" "!AA1157">

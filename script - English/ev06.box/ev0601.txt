@@ -1,16 +1,16 @@
-\x1A\x01\x07\x04\x05\xF1\x84\x00\x01\x0E :47: \xDB "Combat Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :89C: \x0A\x04
+\x1A\x01\x07\x04\x05\xF1\x84\x00\x01\x0E :47: \xDB "Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :47: \x16 :89C: \x0A\x04
 #
 \xF1\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
 :47
-\x1A\x01\x07\x04\x05\xF2\x84\x00\x01\x0E :8E: \xDB "Combat Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :8E: \x16 :BB6: \x0A\x04
+\x1A\x01\x07\x04\x05\xF2\x84\x00\x01\x0E :8E: \xDB "Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :8E: \x16 :BB6: \x0A\x04
 #
 \xF2\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
 :8E
-\x1A\x01\x07\x04\x05\xF3\x84\x00\x01\x0E :F0: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :F0: \xDB "Combat Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :F0: \x16 :CFE: \x0A\x04
+\x1A\x01\x07\x04\x05\xF3\x84\x00\x01\x0E :F0: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :F0: \xDB "Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 7 \x01\x15 :F0: \x16 :CFE: \x0A\x04
 #
 \xF3\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
 :F0
-\x1A\x01\x07\x04\x05\xF4\x84\x00\x01\x0E :152: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :152: \xDB "Combat Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :152: \x16 :DC5: \x0A\x04
+\x1A\x01\x07\x04\x05\xF4\x84\x00\x01\x0E :152: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 5 \x01\x15 :152: \xDB "Speed" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :152: \x16 :DC5: \x0A\x04
 #
 \xF4\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :89B: 
 :152
@@ -90,7 +90,7 @@
 :89C
 <music 10>
 <background "bg004a0.iph" 11>
--- Speed --
+                   -- Speed --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0987">
@@ -134,7 +134,7 @@
 :BB6
 <music 10>
 <background "bg004a0.iph" 11>
--- Speed --
+                   -- Speed --
 #
 <sprite "ta04a10.iph" 4 4 11>
 <name "Soshiette" "!DA0991">
@@ -153,7 +153,7 @@
 :CFE
 <music 10>
 <background "bg002a0.iph" 11>
--- Speed --
+                   -- Speed --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA5748">
@@ -168,7 +168,7 @@
 :DC5
 <music 10>
 <background "bg002a0.iph" 11>
--- Speed --
+                   -- Speed --
 #
 <name "Lazlocke">
 "Aaaah! Your hips are moving... way too fast!"
@@ -186,7 +186,7 @@
 :ED8
 <music 10>
 <background "bg004a0.iph" 11>
--- Recovery -- 
+                 -- Recovery -- 
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5750">
@@ -245,7 +245,7 @@
 :12E5
 <music 10>
 <background "bg004a0.iph" 11>
--- Recovery --
+                 -- Recovery --
 #
 <name "Lazlocke">
 "You're recovering quickly, huh?"
@@ -267,7 +267,7 @@
 :1443
 <music 10>
 <background "bg004a0.iph" 11>
--- Recovery --
+                 -- Recovery --
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA5757">
@@ -289,7 +289,7 @@
 :15AC
 <music 10>
 <background "bg004a0.iph" 11>
--- Constitution --
+               -- Constitution --
 #
 <name "Lazlocke">
 "Even wizards need to take care of their bodies.
@@ -304,7 +304,7 @@
 :1676
 <music 10>
 <background "bg004a0.iph" 11>
--- Constitution --
+               -- Constitution --
 #
 <name "Lazlocke">
 "Even wizards need to take care of their bodies.
@@ -331,7 +331,7 @@
 :1829
 <music 10>
 <background "bg004a0.iph" 11>
--- Constitution --
+               -- Constitution --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5762">
@@ -352,7 +352,7 @@
 :194D
 <music 10>
 <background "bg004a0.iph" 11>
--- Constitution --
+               -- Constitution --
 #
 <name "Lazlocke">
 "Your stamina has improved compared to before."
@@ -389,7 +389,7 @@ before passing out.
 :1B81
 <music 10>
 <background "bg004a0.iph" 11>
--- Agility --
+                  -- Agility --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA0996">
@@ -414,7 +414,7 @@ before passing out.
 :1D20
 <music 10>
 <background "bg002a0.iph" 11>
--- Agility --
+                  -- Agility --
 #
 <sprite "ta01a09.iph" 4 4 11>
 <name "Celes" "!AA5771">
@@ -444,7 +444,7 @@ Has she gotten quicker on her feet?
 :1ED8
 <music 10>
 <background "bg004a0.iph" 11>
--- Defense --
+                  -- Defense --
 #
 <name "Lazlocke">
 "Celes, you've gotten good at defense."
@@ -480,7 +480,7 @@ Has she gotten quicker on her feet?
 :2108
 <music 10>
 <background "bg004a0.iph" 11>
--- Defense --
+                  -- Defense --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA0999">
@@ -527,7 +527,7 @@ Has she gotten quicker on her feet?
 :2447
 <music 10>
 <background "bg004a0.iph" 11>
--- Reflexes --
+                 -- Reflexes --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1008">
@@ -574,7 +574,7 @@ Has she gotten quicker on her feet?
 :278E
 <music 10>
 <background "bg004a0.iph" 11>
--- Reflexes --
+                 -- Reflexes --
 #
 <name "Lazlocke">
 "I've seen you do this multiple times, but isn't
@@ -591,7 +591,7 @@ Has she gotten quicker on her feet?
 :289C
 <music 10>
 <background "bg004a0.iph" 11>
--- Grit --
+                   -- Grit --
 #
 <sprite "ta04a22.iph" 4 4 11>
 <name "Soshiette" "!DA1010">
@@ -620,7 +620,7 @@ Has she gotten quicker on her feet?
 :2ACB
 <music 10>
 <background "bg002b0.iph" 11>
--- Grit --
+                   -- Grit --
 #
 <sprite "ta01a21.iph" 4 4 11>
 <name "Celes" "!AA5782">
@@ -636,7 +636,7 @@ Has she gotten quicker on her feet?
 :2BC7
 <music 10>
 <background "bg004a0.iph" 11>
--- Rigidity --
+                 -- Rigidity --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1013">
@@ -666,7 +666,7 @@ Has she gotten quicker on her feet?
 :2DB6
 <music 10>
 <background "bg004a0.iph" 11>
--- Rigidity --
+                 -- Rigidity --
 #
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1015">
@@ -703,7 +703,7 @@ Has she gotten quicker on her feet?
 :2FFA
 <music 10>
 <background "bg004a0.iph" 11>
--- Rigidity --
+                 -- Rigidity --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5788">
@@ -729,7 +729,7 @@ Has she gotten quicker on her feet?
 :317E
 <music 10>
 <background "bg004a0.iph" 11>
--- Rigidity --
+                 -- Rigidity --
 #
 <name "Lazlocke">
 "..."
@@ -743,7 +743,7 @@ Has she gotten quicker on her feet?
 :3235
 <music 10>
 <background "bg004a0.iph" 11>
--- Guts --
+                   -- Guts --
 #
 <name "Lazlocke">
 "There are techniques for striking your weak
@@ -764,7 +764,7 @@ Has she gotten quicker on her feet?
 :334A
 <music 10>
 <background "bg004a0.iph" 11>
--- Guts --
+                   -- Guts --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1019">
@@ -782,7 +782,7 @@ Has she gotten quicker on her feet?
 :3462
 <music 10>
 <background "bg004a0.iph" 11>
--- Guts --
+                   -- Guts --
 #
 <sprite "ta04a16.iph" 4 4 11>
 <name "Soshiette" "!DA1020">
@@ -817,7 +817,7 @@ Celes takes Soshiette's attack.
 :36CB
 <music 10>
 <background "bg004a0.iph" 11>
--- Guts --
+                   -- Guts --
 #
 <name "Lazlocke">
 "..."

@@ -3045,7 +3045,7 @@ We have a light sparring match.
 \x1A\x01\x0A\x02\x01\xA4 50 \x01\x15 :BD85: \x0A\x22\x00\x08 3 
 :BD85
 \x1A\x01\x0A\x22\x00\x08 1 \x01\x0E :BF07: 
--- Weak --
+                    -- Weak --
 #
 Celes still got a long way to go.
 She's no match for me.

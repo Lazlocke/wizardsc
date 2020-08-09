@@ -68,7 +68,7 @@
 :97C
 <music 10>
 <background "bg004a0.iph" 11>
--- Jab --
+                    -- Jab --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1023">
@@ -94,7 +94,7 @@
 :B53
 <music 10>
 <background "bg003a0.iph" 11>
--- Jab --
+                    -- Jab --
 #
 <sprite "ta01a19.iph" 4 4 11>
 <name "Celes" "!AA5797">
@@ -123,7 +123,7 @@ suffers for it.
 :CC6
 <music 10>
 <background "bg004a0.iph" 11>
--- Straight Punch --
+              -- Straight Punch --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1025">
@@ -154,7 +154,7 @@ suffers for it.
 :EE2
 <music 2>
 <background "bg013a0.iph" 11>
--- Straight Punch --
+              -- Straight Punch --
 #
 <name "Girl" "!GA0139">
 "Eek!
@@ -196,7 +196,7 @@ suffers for it.
 :11A3
 <music 10>
 <background "bg002b0.iph" 11>
--- Straight Punch --
+              -- Straight Punch --
 #
 <sprite "ta01a27.iph" 4 4 11>
 <name "Celes" "!AA5804">
@@ -217,7 +217,7 @@ scared when she does it after sex.
 :12F9
 <music 10>
 <background "bg004a0.iph" 11>
--- Sonic Blow --
+                -- Sonic Blow --
 #
 <sprite "ta04a00.iph" 4 4 11>
 <name "Soshiette" "!DA1030">
@@ -263,7 +263,7 @@ the time the sound comes.
 :1689
 <music 10>
 <background "bg004a0.iph" 11>
--- Sonic Blow --
+                -- Sonic Blow --
 #
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA5808">
@@ -310,7 +310,7 @@ the air.
 :19E1
 <music 10>
 <background "bg004a0.iph" 11>
--- Flash Blow --
+                -- Flash Blow --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1036">
@@ -382,7 +382,7 @@ apart with an impact.
 :1F90
 <music 10>
 <background "bg004a0.iph" 11>
--- Chrono Blow --
+                -- Chrono Blow --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1043">
@@ -450,7 +450,7 @@ bursts.
 :2485
 <music 10>
 <background "bg004a0.iph" 11>
--- God Blow --
+                 -- God Blow --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1049">
@@ -514,7 +514,7 @@ bursts.
 :2984
 <music 10>
 <background "bg004a0.iph" 11>
--- God Blow --
+                 -- God Blow --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5826">
@@ -575,7 +575,7 @@ once.
 :2DF0
 <music 10>
 <background "bg004a0.iph" 11>
--- God Blow --
+                 -- God Blow --
 #
 <name "Lazlocke">
 "How's she doing?"
@@ -614,7 +614,7 @@ once.
 :3079
 <music 25>
 <background "bg004a0.iph" 11>
--- Low Kick --
+                 -- Low Kick --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5831">
@@ -668,7 +668,7 @@ once.
 :3446
 <music 2>
 <background "bg015a0.iph" 11>
--- Low Kick --
+                 -- Low Kick --
 #
 Celes is spending her spare time wandering 
 around the city.
@@ -736,7 +736,7 @@ tomorrow.
 :391C
 <music 10>
 <background "bg002a0.iph" 11>
--- Low Kick --
+                 -- Low Kick --
 #
 <sprite "ta01a15.iph" 4 4 11>
 <name "Celes" "!AA5840">
@@ -770,7 +770,7 @@ I clutch my leg in pain on the floor.
 :3B48
 <music 10>
 <background "bg004a0.iph" 11>
--- High Kick --
+                 -- High Kick --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1066">
@@ -819,7 +819,7 @@ Her foot whizzes past my head.
 :3ED1
 <music 10>
 <background "bg004a0.iph" 11>
--- High Kick --
+                 -- High Kick --
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1071">
@@ -882,7 +882,7 @@ Her foot flashes right in front of my face.
 :4310
 <music 10>
 <background "bg004a0.iph" 11>
--- High Kick --
+                 -- High Kick --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5847">
@@ -941,7 +941,7 @@ right to refuse.
 :472C
 <music 10>
 <background "bg004a0.iph" 11>
--- Flying Knee --
+                -- Flying Knee --
 #
 A flying knee kick...
 #
@@ -978,7 +978,7 @@ This is a terrifying skill.
 :4975
 <music 2>
 <background "bg013a0.iph" 11>
--- Flying Knee --
+                -- Flying Knee --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5852">
@@ -1018,7 +1018,7 @@ Actually... is he even still alive?
 :4C2C
 <music 10>
 <background "bg004a0.iph" 11>
--- Tetsuzankou --
+                -- Tetsuzankou --
 #
 <name "Lazlocke">
 "Soshiette taught you a new move?"
@@ -1074,7 +1074,7 @@ And then I pass out.
 :5003
 <music 10>
 <background "bg004a0.iph" 11>
--- Tetsuzankou --
+                -- Tetsuzankou --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5860">
@@ -1132,7 +1132,7 @@ on a rock.
 :540C
 <music 10>
 <background "bg004a0.iph" 11>
--- Tetsuzankou --
+                -- Tetsuzankou --
 #
 Celes is practicing again.
 #
@@ -1158,7 +1158,7 @@ She's putting real dents in that boulder.
 :5569
 <music 10>
 <background "bg004a0.iph" 11>
--- Tetsuzankou --
+                -- Tetsuzankou --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5866">
@@ -1202,7 +1202,7 @@ can do is lie there.
 :588D
 <music 10>
 <background "bg004a0.iph" 11>
--- Sleeper Hold --
+               -- Sleeper Hold --
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA5870">
@@ -1230,7 +1230,7 @@ I pass out.
 :59F7
 <music 10>
 <background "bg004a0.iph" 11>
--- Sleeper Hold --
+               -- Sleeper Hold --
 #
 Celes is practicing her submission techniques
 on me.
@@ -1257,7 +1257,7 @@ As soon as she does, I pass out.
 :5BD2
 <music 10>
 <background "bg002b0.iph" 11>
--- Sleeper Hold --
+               -- Sleeper Hold --
 #
 <sprite "ta01a32.iph" 4 4 11>
 <name "Celes" "!AA5874">
@@ -1272,7 +1272,7 @@ As soon as she does, I pass out.
 :5C95
 <music 10>
 <background "bg004a0.iph" 11>
--- Arm Bar --
+                  -- Arm Bar --
 #
 Celes is practicing her submission techniques
 on me.
@@ -1300,7 +1300,7 @@ on me.
 :5E4C
 <music 10>
 <background "bg002a0.iph" 11>
--- Arm Bar --
+                  -- Arm Bar --
 #
 While we were in the middle of sex, Celes
 suddenly put me in an arm bar.
@@ -1324,7 +1324,7 @@ suddenly put me in an arm bar.
 :5FA7
 <music 10>
 <background "bg004a0.iph" 11>
--- Steadfast --
+                 -- Steadfast --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1090">
@@ -1367,7 +1367,7 @@ Why does me leering at her scare her so much?
 :62B6
 <music 10>
 <background "bg004a0.iph" 11>
--- Steadfast --
+                 -- Steadfast --
 #
 <name "Lazlocke">
 "When you concentrate... hard.

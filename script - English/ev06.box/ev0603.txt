@@ -1,8 +1,8 @@
-\x1A\x01\x07\x04\x06\x37\x84\x00\x01\x0E :41: \xDB "Blades" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :41: \x16 :BE5: \x0A\x04\x06\x37\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x37\x84\x00\x01\x0E :41: \xDB "Sword Swing" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :41: \x16 :BE5: \x0A\x04\x06\x37\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :41
-\x1A\x01\x07\x04\x06\x38\x84\x00\x01\x0E :82: \xDB "Blades" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :82: \x16 :E0E: \x0A\x04\x06\x38\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x38\x84\x00\x01\x0E :82: \xDB "Sword Swing" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :82: \x16 :E0E: \x0A\x04\x06\x38\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :82
-\x1A\x01\x07\x04\x06\x39\x84\x00\x01\x0E :C3: \xDB "Blades" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :C3: \x16 :F61: \x0A\x04\x06\x39\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x39\x84\x00\x01\x0E :C3: \xDB "Sword Swing" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 10 \x01\x15 :C3: \x16 :F61: \x0A\x04\x06\x39\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :C3
 \x1A\x01\x07\x04\x06\x3A\x84\x00\x01\x0E :106: \xDB "Slash" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :106: \x16 :10FF: \x0A\x04\x06\x3A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :106
@@ -18,9 +18,9 @@
 :259
 \x1A\x01\x07\x04\x06\x40\x84\x00\x01\x0E :2A0: \xDB "Crimson Blossom" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :2A0: \x16 :1A8E: \x0A\x04\x06\x40\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :2A0
-\x1A\x01\x07\x04\x06\x41\x84\x00\x01\x0E :2E1: \xDB "Staves" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2E1: \x16 :1C53: \x0A\x04\x06\x41\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x41\x84\x00\x01\x0E :2E1: \xDB "Staff Hit" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :2E1: \x16 :1C53: \x0A\x04\x06\x41\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :2E1
-\x1A\x01\x07\x04\x06\x42\x84\x00\x01\x0E :322: \xDB "Staves" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :322: \x16 :1E30: \x0A\x04\x06\x42\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x42\x84\x00\x01\x0E :322: \xDB "Staff Hit" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :322: \x16 :1E30: \x0A\x04\x06\x42\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :322
 \x1A\x01\x07\x04\x06\x43\x84\x00\x01\x0E :367: \xDB "Strike" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :367: \x16 :1FCB: \x0A\x04\x06\x43\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :367
@@ -34,11 +34,11 @@
 :47B
 \x1A\x01\x07\x04\x06\x48\x84\x00\x01\x0E :4DB: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :4DB: \xDB "Slicing Staff" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :4DB: \x16 :295A: \x0A\x04\x06\x48\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :4DB
-\x1A\x01\x07\x04\x06\x49\x84\x00\x01\x0E :51C: \xDB "Axes" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :51C: \x16 :2A66: \x0A\x04\x06\x49\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x49\x84\x00\x01\x0E :51C: \xDB "Ax Swing" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :51C: \x16 :2A66: \x0A\x04\x06\x49\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :51C
-\x1A\x01\x07\x04\x06\x4A\x84\x00\x01\x0E :55D: \xDB "Axes" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :55D: \x16 :2DEB: \x0A\x04\x06\x4A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x4A\x84\x00\x01\x0E :55D: \xDB "Ax Swing" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :55D: \x16 :2DEB: \x0A\x04\x06\x4A\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :55D
-\x1A\x01\x07\x04\x06\x4B\x84\x00\x01\x0E :59E: \xDB "Axes" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :59E: \x16 :2FDE: \x0A\x04\x06\x4B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x4B\x84\x00\x01\x0E :59E: \xDB "Ax Swing" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 8 \x01\x15 :59E: \x16 :2FDE: \x0A\x04\x06\x4B\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :59E
 \x1A\x01\x07\x04\x06\x4C\x84\x00\x01\x0E :5E5: \xDB "Quake Ax" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :5E5: \x16 :3156: \x0A\x04\x06\x4C\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :5E5
@@ -52,13 +52,13 @@
 :733
 \x1A\x01\x07\x04\x06\x51\x84\x00\x01\x0E :795: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :795: \xDB "Berserker Ax" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 5 \x01\x15 :795: \x16 :3865: \x0A\x04\x06\x51\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :795
-\x1A\x01\x07\x04\x06\x52\x84\x00\x01\x0E :7DC: \xDB "Hammers" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :7DC: \x16 :39BD: \x0A\x04\x06\x52\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x52\x84\x00\x01\x0E :7DC: \xDB "Hammer Bash" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :7DC: \x16 :39BD: \x0A\x04\x06\x52\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :7DC
-\x1A\x01\x07\x04\x06\x53\x84\x00\x01\x0E :823: \xDB "Hammers" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :823: \x16 :3C3D: \x0A\x04\x06\x53\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x53\x84\x00\x01\x0E :823: \xDB "Hammer Bash" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 3 \x01\x15 :823: \x16 :3C3D: \x0A\x04\x06\x53\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :823
-\x1A\x01\x07\x04\x06\x54\x84\x00\x01\x0E :86A: \xDB "Hammers" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :86A: \x16 :3D8A: \x0A\x04\x06\x54\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x54\x84\x00\x01\x0E :86A: \xDB "Hammer Bash" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 6 \x01\x15 :86A: \x16 :3D8A: \x0A\x04\x06\x54\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :86A
-\x1A\x01\x07\x04\x06\x55\x84\x00\x01\x0E :8CC: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :8CC: \xDB "Hammers" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :8CC: \x16 :3E59: \x0A\x04\x06\x55\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
+\x1A\x01\x07\x04\x06\x55\x84\x00\x01\x0E :8CC: \xE9 6005 \x22\x00\x02\x1A\x01\x0A\x22\x00\x02 10 \x01\x15 :8CC: \xDB "Hammer Bash" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 9 \x01\x15 :8CC: \x16 :3E59: \x0A\x04\x06\x55\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :8CC
 \x1A\x01\x07\x04\x06\x56\x84\x00\x01\x0E :917: \xDB "Spinning Hammer" \x22\x00\x06\x1A\x01\x0A\x22\x00\x06 1 \x01\x15 :917: \x16 :40A1: \x0A\x04\x06\x56\x84\x01\x0A\x04\x00\x6F\x84\x01\x15 :BE4: 
 :917
@@ -84,7 +84,7 @@
 :BE5
 <music 10>
 <background "bg004a0.iph" 11>
--- Blades --
+                -- Sword Swing --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1093">
@@ -116,7 +116,7 @@ from Soshiette.
 :E0E
 <music 25>
 <background "bg004a0.iph" 11>
--- Blades --
+                -- Sword Swing --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5885">
@@ -140,7 +140,7 @@ Celes keeps practicing.
 :F61
 <music 10>
 <background "bg004a0.iph" 11>
--- Blades --
+                -- Sword Swing --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5887">
@@ -166,7 +166,7 @@ Celes keeps practicing.
 :10FF
 <music 10>
 <background "bg004a0.iph" 11>
--- Slash --
+                   -- Slash --
 #
 <name "Lazlocke">
 "I'm not going to be fitting opponent for you to
@@ -190,7 +190,7 @@ Celes keeps practicing.
 :1258
 <music 10>
 <background "bg004a0.iph" 11>
--- Slash --
+                   -- Slash --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5892">
@@ -208,7 +208,7 @@ Celes keeps practicing.
 :1346
 <music 10>
 <background "bg004a0.iph" 11>
--- Slash --
+                   -- Slash --
 #
 <sprite "ta01d22.iph" 4 4 11>
 <name "Celes" "!AA5893">
@@ -227,7 +227,7 @@ envelope.
 :1454
 <music 10>
 <background "bg004a0.iph" 11>
--- Hard Slash --
+                -- Hard Slash --
 #
 <name "Lazlocke">
 "Celes, can you cut this log thin?"
@@ -258,7 +258,7 @@ Perfect.
 :166A
 <music 10>
 <background "bg004a0.iph" 11>
--- Hard Slash --
+                -- Hard Slash --
 #
 <sprite "ta01d17.iph" 4 4 11>
 <name "Celes" "!AA5897">
@@ -300,7 +300,7 @@ She hates carrots.
 :18D8
 <music 10>
 <background "bg004a0.iph" 11>
--- Crimson Blossom --
+              -- Crimson Blossom --
 #
 <name "Lazlocke">
 "Crimson Blossom...
@@ -327,7 +327,7 @@ She hates carrots.
 :1A8E
 <music 10>
 <background "bg004a0.iph" 11>
--- Crimson Blossom --
+              -- Crimson Blossom --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1096">
@@ -352,7 +352,7 @@ She hates carrots.
 :1C53
 <music 10>
 <background "bg004a0.iph" 11>
--- Staves --
+                 -- Staff Hit --
 #
 <name "Lazlocke">
 "Many wizards use staves to make it easier to
@@ -383,7 +383,7 @@ She hates carrots.
 :1E30
 <music 10>
 <background "bg004a0.iph" 11>
--- Staves --
+                 -- Staff Hit --
 #
 <name "Lazlocke">
 "You've gotten pretty good with a staff."
@@ -409,7 +409,7 @@ She continues practicing.
 :1FCB
 <music 10>
 <background "bg004a0.iph" 11>
--- Strike --
+                  -- Strike --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5907">
@@ -443,7 +443,7 @@ She continues practicing.
 :21D4
 <music 10>
 <background "bg004a0.iph" 11>
--- Strike --
+                  -- Strike --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5910">
@@ -463,7 +463,7 @@ Is that a good thing?
 :2312
 <music 10>
 <background "bg004a0.iph" 11>
--- Thrust --
+                  -- Thrust --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5912">
@@ -483,7 +483,7 @@ Is that a good thing?
 :248B
 <music 25>
 <background "bg004a0.iph" 11>
--- Thrust --
+                  -- Thrust --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5914">
@@ -509,7 +509,7 @@ I've had a lot of practice.
 :25FD
 <music 10>
 <background "bg004a0.iph" 11>
--- Slicing Staff --
+               -- Slicing Staff --
 #
 <sprite "ta01d21.iph" 4 4 11>
 <name "Celes" "!AA5916">
@@ -564,7 +564,7 @@ I apologized before I got hurt.
 :295A
 <music 10>
 <background "bg004a0.iph" 11>
--- Slicing Staff --
+               -- Slicing Staff --
 #
 <name "Lazlocke">
 "Hmm. Cutting with a staff, huh?"
@@ -582,7 +582,7 @@ I apologized before I got hurt.
 :2A66
 <music 10>
 <background "bg004a0.iph" 11>
--- Axes --
+                 -- Ax Swing --
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1098">
@@ -629,7 +629,7 @@ from Soshiette.
 :2DEB
 <music 10>
 <background "bg004a0.iph" 11>
--- Axes --
+                 -- Ax Swing --
 #
 Celes swings an ax and cuts into a tree.
 #
@@ -664,7 +664,7 @@ Celes escaped.
 :2FDE
 <music 10>
 <background "bg004a0.iph" 11>
--- Axes --
+                 -- Ax Swing --
 #
 <sprite "ta01d07.iph" 4 4 11>
 <name "Celes" "!AA5929">
@@ -684,7 +684,7 @@ Celes escaped.
 :3156
 <music 10>
 <background "bg004a0.iph" 11>
--- Quake Ax --
+                 -- Quake Ax --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1105">
@@ -712,7 +712,7 @@ Celes escaped.
 :3350
 <music 10>
 <background "bg004a0.iph" 11>
--- Quake Ax --
+                 -- Quake Ax --
 #
 <sprite "ta01d15.iph" 4 4 11>
 <name "Celes" "!AA5932">
@@ -728,7 +728,7 @@ Celes escaped.
 :3441
 <music 10>
 <background "bg004a0.iph" 11>
--- Raging Ax --
+                 -- Raging Ax --
 #
 <sprite "ta01d24.iph" 4 4 11>
 <name "Celes" "!AA5933">
@@ -754,7 +754,7 @@ Celes escaped.
 :35C7
 <music 10>
 <background "bg004a0.iph" 11>
--- Raging Ax --
+                 -- Raging Ax --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5936">
@@ -776,7 +776,7 @@ Celes escaped.
 :3706
 <music 10>
 <background "bg004a0.iph" 11>
--- Berserker Ax --
+               -- Berserker Ax --
 #
 <sprite "ta01d09.iph" 4 4 11>
 <name "Celes" "!AA5938">
@@ -797,7 +797,7 @@ Celes escaped.
 :3865
 <music 10>
 <background "bg004a0.iph" 11>
--- Berserker Ax --
+               -- Berserker Ax --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5940">
@@ -819,7 +819,7 @@ Celes escaped.
 :39BD
 <music 10>
 <background "bg004a0.iph" 11>
--- Hammers --
+                -- Hammer Bash --
 #
 <sprite "ta01d08.iph" 4 4 11>
 <name "Celes" "!AA5942">
@@ -855,7 +855,7 @@ hammers.
 :3C3D
 <music 10>
 <background "bg004a0.iph" 11>
--- Hammers --
+                -- Hammer Bash --
 #
 <sprite "ta01d20.iph" 4 4 11>
 <name "Celes" "!AA5945">
@@ -875,7 +875,7 @@ hammers.
 :3D8A
 <music 10>
 <background "bg004a0.iph" 11>
--- Hammers --
+                -- Hammer Bash --
 #
 <name "Lazlocke">
 "Sorry, but can you fix the roof?"
@@ -890,7 +890,7 @@ hammers.
 :3E59
 <music 10>
 <background "bg004a0.iph" 11>
--- Hammers --
+                -- Hammer Bash --
 #
 <name "Lazlocke">
 "Hmm... When I watch Celes learning how to use a
@@ -924,7 +924,7 @@ hammers.
 :40A1
 <music 10>
 <background "bg004a0.iph" 11>
--- Spinning Hammer --
+              -- Spinning Hammer --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1113">
@@ -976,7 +976,7 @@ better name for it?
 :4470
 <music 10>
 <background "bg004a0.iph" 11>
--- Spinning Hammer --
+              -- Spinning Hammer --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5952">
@@ -999,7 +999,7 @@ better name for it?
 :45D4
 <music 10>
 <background "bg004a0.iph" 11>
--- Spinning Hammer --
+              -- Spinning Hammer --
 #
 <name "Lazlocke">
 "Spinning hammer...
@@ -1025,7 +1025,7 @@ better name for it?
 :474C
 <music 10>
 <background "bg004a0.iph" 11>
--- Crash Hammer --
+               -- Crash Hammer --
 #
 <sprite "ta04a04.iph" 4 4 11>
 <name "Soshiette" "!DA1120">
@@ -1068,7 +1068,7 @@ Soshiette.
 :4A6B
 <music 10>
 <background "bg004a0.iph" 11>
--- Crash Hammer --
+               -- Crash Hammer --
 #
 <sprite "ta01d32.iph" 4 4 11>
 <name "Celes" "!AA5957">
@@ -1086,7 +1086,7 @@ Soshiette.
 :4B89
 <music 10>
 <background "bg004a0.iph" 11>
--- Blast Hammer --
+               -- Blast Hammer --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5958">
@@ -1127,7 +1127,7 @@ Celes learned a new skill from Soshiette.
 :4E7E
 <music 10>
 <background "bg001a0.iph" 11>
--- Blast Hammer --
+               -- Blast Hammer --
 #
 Celes is repairing the roof.
 #
@@ -1165,7 +1165,7 @@ Celes is repairing the roof.
 :50B0
 <music 10>
 <background "bg004a0.iph" 11>
--- Weapon Defense --
+              -- Weapon Defense --
 #
 <sprite "ta01d06.iph" 4 4 11>
 <name "Celes" "!AA5968">
@@ -1186,7 +1186,7 @@ Celes is repairing the roof.
 :51DE
 <music 10>
 <background "bg004a0.iph" 11>
--- Weapon Defense --
+              -- Weapon Defense --
 #
 <sprite "ta04a06.iph" 4 4 11>
 <name "Soshiette" "!DA1128">
@@ -1206,7 +1206,7 @@ Celes is repairing the roof.
 :5306
 <music 10>
 <background "bg004a0.iph" 11>
--- Weapon Defense --
+              -- Weapon Defense --
 #
 <name "Lazlocke">
 "..."

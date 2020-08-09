@@ -4406,7 +4406,7 @@ Mud Bind
 // Ptr: 000581C4
 #WRITE(OPTR, $000286F1)
 //âäÇÃï«
-Fire Wall
+Ignition
 <$00>
 
 //#WARN($000581CB, "WARNME")
@@ -4478,7 +4478,7 @@ Glamour
 // Ptr: 00053130
 #WRITE(OPTR, $0005E4D0)
 //êÌì¨ë¨ìx
-Combat Speed
+Speed
 <$00>
 
 //#WARN($0005313A, "WARNME")
