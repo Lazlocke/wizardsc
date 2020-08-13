@@ -54,7 +54,7 @@
 "I made it!"
 #
 <name "Celes" "!AA3715">
-"The top of the Dusk Light Tower...
+"The top of the Twilight Tower...
  It feels nice."
 #
 <exit>
@@ -82,7 +82,7 @@
 <music 23>
 <background "ev023a0.iph" 10>
 <name "Celes" "!AA3721">
-"The Tower of Dusk Light...
+"The Tower of Twilight...
  Conquered!"
 #
 <exit>

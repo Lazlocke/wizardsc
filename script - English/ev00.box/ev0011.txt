@@ -881,7 +881,7 @@ Celes is working hard.
 <sprite "ta01a06.iph" 4 4 11>
 <name "Celes" "!AA3571">
 "Master, do you know about the Tower of
- Greatness?"
+ Towers?"
 #
 <name "Lazlocke">
 "Yeah, I do."
@@ -926,7 +926,7 @@ Celes is working hard.
 <sprite "ta01a08.iph" 4 4 11>
 <name "Celes" "!AA3577">
 "Is it true that there's an ancient dragon in
- the Tower of Greatness?"
+ the Tower of Towers?"
 #
 <name "Lazlocke">
 "Yeah, there is."
@@ -975,9 +975,9 @@ Celes is working hard.
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-"The Tower of Dusk Light. There was a time when
+"The Tower of Twilight. There was a time when
  Celestia was allied with the Netherworld.
- The Tower of Dusk Light was created as proof
+ The Tower of Twilight was created as proof
  of their alliance."
 #
 <sprite "ta01a06.iph" 4 4 11>
@@ -1028,7 +1028,7 @@ Celes is working hard.
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-"You want to go to the Tower of Dusk Light?"
+"You want to go to the Tower of Twilight?"
 #
 <sprite "ta01a07.iph" 4 4 11>
 <name "Celes" "!AA3655">
@@ -1052,7 +1052,7 @@ Celes is working hard.
 <music 10>
 <background "bg002a0.iph" 11>
 <name "Lazlocke">
-"The Tower of Dusk Light, huh?"
+"The Tower of Twilight, huh?"
 #
 <name "Lazlocke">
 "It might be a little reckless though..."

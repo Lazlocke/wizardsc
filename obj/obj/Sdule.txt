@@ -235,7 +235,7 @@ Sdul_d06.iph
 *
 damiy.box
 ローリア料理大会
-Enter the Loria Chef|Tournament.|Test your mettle against|the greatest chefs of the|city.
+Enter the Loria Cook| Off.|Test your mettle against|the greatest chefs of the|city.
 //entry 34 -----------------------
 クデュールの予選に参加
 Sdul_d07.iph

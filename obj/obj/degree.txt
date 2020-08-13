@@ -55,7 +55,7 @@ Great Labyrinth Excavator
 //entry 27 -----------------------
 Labyrinth Explorer
 //entry 28 -----------------------
-Chants Champ
+Aria Ascendant
 //entry 29 -----------------------
 Godly Guardian
 //entry 30 -----------------------

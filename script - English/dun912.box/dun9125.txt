@@ -341,7 +341,7 @@ Viola Entra.
 :1658
 <music 23>
 <background "ev023a0.iph" 10>
-Celes conquered the Tower of Greatness.
+Celes conquered the Tower of Towers.
 #
 <exit>
 \x78
