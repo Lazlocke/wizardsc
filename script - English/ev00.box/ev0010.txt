@@ -857,7 +857,7 @@ Guild finally arrived.
 #
 <name "Lazlocke">
 "You think she's ready to go to the Tower of
- the Underlord and Tower of Dusk Light?"
+ the Underlord and Tower of Twilight?"
 #
 <sprite "ta05a06.iph" 4 4 12>
 <name "Rune" "!EA0059">
@@ -886,7 +886,7 @@ Guild finally arrived.
 After that, she hung out until late at night.
 #
 Still, the Tower of the Underlord and Tower of
-Dusk Light...
+Twilight...
 #
 I should talk to Celes about them before making
 a decision.
