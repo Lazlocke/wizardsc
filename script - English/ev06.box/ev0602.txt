@@ -1331,7 +1331,7 @@ suddenly put me in an arm bar.
 "In addition to physical training, you also 
  need to sharpen your concentration.
  This is an exercise for concentration.
- Concentration on it."
+ Concentrate on it."
 #
 <removesprite -1 11>
 <sprite "ta01d20.iph" 2 5 11>
