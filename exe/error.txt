@@ -1,10 +1,10 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 180 msecs
+Parsing summary: 222 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 853 msecs
+Insertion summary: 722 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -7914,32 +7914,17 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 | Block 495
 |   Start: Line 4403  File Position $612F0
-|   End: Line 4494  File Position $61354
+|   End: Line 4525  File Position $6137C
 +------------------------------------------------------------------------------
-| Script size 100
-| Bytes Inserted 100
+| Script size 140
+| Bytes Inserted 140
 |
 | Command Execution Listing
-|   WRITE: 10
+|   WRITE: 13
+|   WARN: 1
 |
 | Pointer Listing
-|   General Pointers Written: 10
-+------------------------------------------------------------------------------
-
-+------------------------------------------------------------------------------
-| Block 496
-|   Start: Line 4494  File Position $5829C
-|   End: Line 4525  File Position $582C4
-+------------------------------------------------------------------------------
-| Script size 40
-| Bytes Inserted 40
-|
-| Command Execution Listing
-|   WRITE: 3
-|   WARN: 2
-|
-| Pointer Listing
-|   General Pointers Written: 3
+|   General Pointers Written: 13
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
@@ -7948,13 +7933,13 @@ Insertion - 0 error(s), 0 warning(s)
 | Script Inserted 4657
 |
 | Command Execution Listing
-| JMP: 496
+| JMP: 495
 | ADDTBL: 1
 | ACTIVETBL: 1
 | CREATEPTR: 2
 | WRITE: 507
-| WARN: 496
+| WARN: 495
 | General Pointers Written: 507
 +------------------------------------------------------------------------------
 
-Execution time: 1076 msecs
+Execution time: 967 msecs

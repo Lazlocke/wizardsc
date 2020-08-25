@@ -4491,7 +4491,7 @@ Holy Light
 <$00>
 
 //#WARN($00058299, "WARNME")
-#JMP($0005829C)
+//#JMP($0005829C)
 
 // Ptr: 0005829C
 #WRITE(OPTR, $000289BA)
@@ -4508,7 +4508,7 @@ Drain Essence
 Wailing Well
 <$00>
 
-#WARN($000582DD, "WARNME")
+//#WARN($000582DD, "WARNME")
 //#JMP($000582C8)
 
 // Ptr: 000582C8
