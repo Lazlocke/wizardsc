@@ -4521,3 +4521,219 @@ Blessed Rain
 
 
 #WARN($00062000, "WARNME")
+#JMP($00056130)
+
+// Ptr: 00056130
+#WRITE(PTR, $0001721F)
+//上書きで保存しますか？
+Overwrite this data?
+<$00>
+
+#WARN($00056147, "WARNME")
+#JMP($00056204)
+
+// Ptr: 00056204
+#WRITE(PTR, $00017FE2)
+//この階にセットしているデータを|削除しますか？
+Delete this saved data?
+<$00>
+
+#WARN($00056232, "WARNME")
+#JMP($00059A44)
+
+// Ptr: 00059A44
+#WRITE(PTR, $0003C52B)
+//アイテムを購入します。
+Purchasing items.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059A6C, "WARNME")
+#JMP($00059A94)
+
+// Ptr: 00059A94
+#WRITE(PTR, $0003C55C)
+//アイテムの売買を行わず終了します。
+Leaving without any purchases.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059AC8, "WARNME")
+#JMP($00059AC8)
+
+// Ptr: 00059AC8
+#WRITE(PTR, $0003C590)
+//アイテムの売買選択をキャンセルします。
+Canceling buying and selling items.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059B00, "WARNME")
+#JMP($00059B7C)
+
+// Ptr: 00059B7C
+#WRITE(PTR, $0003CDB4)
+//選択をキャンセルします。
+Cancelling selection.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059BA6, "WARNME")
+#JMP($00057C7C)
+
+// Ptr: 00057C7C
+#WRITE(PTR, $0002201A)
+//スキルの選択をキャンセルしますか？
+Cancel this skill selection?
+<$00>
+
+#WARN($00057C9F, "WARNME")
+#JMP($00059864)
+
+// Ptr: 00059864
+#WRITE(PTR, $0003B02D)
+//このアイテムは装備できません。
+This item cannot be equipped.
+<$00>
+
+#WARN($00059883, "WARNME")
+#JMP($00059884)
+
+// Ptr: 00059884
+#WRITE(PTR, $0003B081)
+//装備中の物は捨てられません。
+Item is currently equipped.
+<$00>
+
+#WARN($000598A1, "WARNME")
+#JMP($000598A4)
+
+// Ptr: 000598A4
+#WRITE(PTR, $0003B09D)
+//同じ物を既に所持しています。
+Item is already owned.
+<$00>
+
+#WARN($000598C1, "WARNME")
+#JMP($000598C4)
+
+// Ptr: 000598C4
+#WRITE(PTR, $0003B0BD)
+//現在装備中の物を売却します。
+Selling equipped item.
+<$00>
+
+#WARN($000598E1, "WARNME")
+#JMP($000598E8)
+
+// Ptr: 000598E8
+#WRITE(PTR, $0003B163)
+//これ以上装備品を所持できません。
+Your inventory is full.
+<$0A>
+//一度に所持できるのは%d個までです。
+Only %d items can be owned at one time.
+<$00>
+
+#WARN($0005992C, "WARNME")
+#JMP($00059A6C)
+
+// Ptr: 00059A6C
+#WRITE(PTR, $0003C548)
+//アイテムを売却します。
+Selling items.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059A94, "WARNME")
+#JMP($00056118)
+
+// Ptr: 00056118
+#WRITE(PTR, $000171A6)
+//保存せず終了します。
+Quit without saving.
+<$00>
+
+#WARN($0005612D, "WARNME")
+#JMP($00056C64)
+
+// Ptr: 00056C64
+#WRITE(PTR, $0001CC95)
+//ゲームを終了しますか？
+Close the game?
+<$00>
+
+#WARN($00056C7B, "WARNME")
+#JMP($00056F2C)
+
+// Ptr: 00056F2C
+#WRITE(PTR, $0001EC33)
+//ゲームを初めからスタートします。
+Start a new game.
+<$00>
+
+#WARN($00056F4D, "WARNME")
+#JMP($00056F5C)
+
+// Ptr: 00056F5C
+#WRITE(PTR, $0001EC4A)
+//ゲームを続きから始めます。
+Load a saved game.
+<$00>
+
+#WARN($00056F77, "WARNME")
+#JMP($00056F78)
+
+// Ptr: 00056F78
+#WRITE(PTR, $0001EC61)
+//オプション画面を呼び出します。
+Configure game settings.
+<$00>
+
+#WARN($00056F97, "WARNME")
+#JMP($00056F98)
+
+// Ptr: 00056F98
+#WRITE(PTR, $0001EC78)
+//おまけモードです。
+View the Extras.
+<$00>
+
+#WARN($00056FAB, "WARNME")
+#JMP($00056FAC)
+
+// Ptr: 00056FAC
+#WRITE(PTR, $0001EC8F)
+//ゲームを終了します。
+Quit the game.
+<$00>
+
+#WARN($00056FC1, "WARNME")
+#JMP($00058410)
+
+// Ptr: 00058410
+#WRITE(PTR, $0002A8F8)
+//既読スキップスイッチです。
+Skip read text.
+<$00>
+
+#WARN($0005842B, "WARNME")
+#JMP($000583F8)
+
+// Ptr: 000583F8
+#WRITE(PTR, $0002A969)
+//自動再生スイッチです。
+Auto advance text.
+<$00>
+
+#WARN($0005840F, "WARNME")
