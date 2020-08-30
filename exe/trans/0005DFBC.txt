@@ -4737,3 +4737,39 @@ Auto advance text.
 <$00>
 
 #WARN($0005840F, "WARNME")
+#JMP($00059C50)
+
+// Ptr: 00059C50
+#WRITE(PTR, $0003D47A)
+//装備の変更をキャンセルします。
+Canceling equipment changes.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059C80, "WARNME")
+#JMP($00059C80)
+
+// Ptr: 00059C80
+#WRITE(PTR, $0003D4A9)
+//装備の変更をキャンセルし、終了します。
+Canceling equipment changes and exiting.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059CB8, "WARNME")
+#JMP($00059C2C)
+
+// Ptr: 00059C2C
+#WRITE(PTR, $0003D44B)
+//装備を変更します。
+Changing equipment.
+<$0A>
+//よろしいですか？
+Are you sure?
+<$00>
+
+#WARN($00059C50, "WARNME")
