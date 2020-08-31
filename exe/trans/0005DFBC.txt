@@ -4773,3 +4773,12 @@ Are you sure?
 <$00>
 
 #WARN($00059C50, "WARNME")
+#JMP($00054ED8)
+
+// Ptr: 00054ED8
+#WRITE(PTR, $000048DF)
+//  %s‚ªŽg—p‚Å‚«‚È‚­‚È‚è‚Ü‚µ‚½
+  %s can no longer be used
+<$00>
+
+#WARN($00054EF5, "WARNME")

@@ -167,7 +167,7 @@ i0_01_06.iph
 Atk +15　Mag +50|+2 Mana per battle|Type: Staff
 Made out of a demon, not for|one.
 //entry 21 -----------------------
-Chanting Staff
+Aria Staff
 棒
 s0_01_07.iph
 i0_01_07.iph
