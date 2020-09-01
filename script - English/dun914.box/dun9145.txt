@@ -175,7 +175,7 @@ mood.
 "Thank you for your troubles."
 #
 <removesprite -1 11>
-\x2B\xB3 "Chanting Staff" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :D61: \xB2 "Chanting Staff" \x00\x3C "uChanting Staffv‚ğè‚É“ü‚ê‚½B" 
+\x2B\xB3 "Aria Staff" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :D61: \xB2 "Aria Staff" \x00\x3C "Aria Staff obtained." 
 :D61
 <exit>
 :D62
