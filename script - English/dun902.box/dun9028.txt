@@ -134,7 +134,7 @@ I look her right in the eyes and steel myself.
 ".........Is that a no?"
 #
 <name "Viola" "!BA0991">
-".........Did you seriously think I'd say yes?"
+".........I can't exactly say no, can I?"
 #
 <removesprite -1 11>
 \x2B\x0A\x04\x01\x86\x84\x01
