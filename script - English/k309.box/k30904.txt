@@ -212,7 +212,7 @@ bride to weaken their power.
 "If you don't want that, keep letting out mana.
  If you need someone, the Guild will provide them.
  If you don't like that, we don't mind if you take
- a love or an apprentice."
+ a lover or an apprentice."
 #
 <name "Rune" "!EA0284">
 "Find someone."
@@ -232,7 +232,7 @@ bride to weaken their power.
 "But wait a little longer."
 #
 <name "Rune" "!EA0286">
-"A litte longer?"
+"A little longer?"
 #
 <name "Lazlocke">
 "Yes. Until Celes participates in the Coudures
@@ -265,7 +265,7 @@ mouth and on her face multiple times.
 #
 <name "Rune" "!EA0292">
 "Aaah!ÅÙ
-Å@Delicious.ÅÙ"
+ Delicious.ÅÙ"
 #
 <name "Lazlocke">
 "Urgh...

@@ -160,7 +160,7 @@ I read the book.
 #
 <name "Lazlocke">
 "The spell is more for uncovering the details
- once find an actual mystery.
+ of an actual mystery.
  Like how the victim was killed, or how the
  body got there."
 #
@@ -204,7 +204,7 @@ She's struggling with a puzzle from another
 country.
 #
 <name "Lazlocke">
-"You don't unusually have much trouble with
+"You don't usually have much trouble with
  puzzles."
 #
 <sprite "ta01a92.iph" 4 4 11>

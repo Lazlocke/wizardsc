@@ -14,7 +14,7 @@
 <sprite "ta07a06.iph" 4 4 12>
 <name "Judgeman" "!FA0048">
 "Congratulations, everybody!
- And thank you for the spectular fighting!"
+ And thank you for the spectacular fighting!"
 #
 <sprite "ta07a00.iph" 4 4 12>
 <name "Judgeman" "!FA0049">
