@@ -1,0 +1,31 @@
+#ibox_wrapper {
+    line-height:25px;
+	background-color:transparent;border:0;
+}
+#ibox_wrapper, #ibox_footer_wrapper a {  padding: 0px; margin: 0px;background-color:transparent;border:0;}
+#ibox_content { background-color:transparent; border:0; margin: 0px 0px 40px 0px; padding: 0px;}
+#ibox_footer_wrapper {
+    line-height: 25px;
+    bottom: 5px;
+    top: auto;
+font-family:'ƒqƒ‰ƒMƒmŠpƒS Pro W3','Hiragino Kaku Gothic Pro','ƒƒCƒŠƒI',Meiryo,'‚l‚r ‚oƒSƒVƒbƒN',sans-serif;font-size:9pt; font-weight:700;
+color:#fff;
+	background-color:transparent;border:0;
+}
+#ibox_footer_wrapper a {
+    text-indent: -100000px;
+    border:0;
+    background: transparent url('images/closelabel.gif') center center no-repeat;
+    width: 66px;
+    padding: 0px; margin: 0px;
+    height: 22px;
+    line-height: 22px;
+	background-color:transparent;border:0;
+}
+#ibox_footer_wrapper a:hover {background-color:transparent; border:0;}
+#ibox_loading {
+    text-indent: -100000px;
+    width: 200px;
+    height: 200px;
+    background: transparent url('images/loading.gif') center center no-repeat;border:0;
+}
