@@ -74,6 +74,17 @@ font-weight:500;
 line-height: 150%;
 padding-top:0px;
 }
+.about2{
+background-image:url("../images/aboutback2.png");
+background-position : right top;
+background-repeat:no-repeat;
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
 .aboutinner{
 padding:0px;
 margin:0px;
