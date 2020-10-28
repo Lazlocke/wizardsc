@@ -5,7 +5,7 @@
 \x01 1 
 <choice :78: "イエルと清い関係" \x22\x00>
 \x01 2 
-　お好みは？
+Which do you prefer?
 #
 :78
 <music 2>

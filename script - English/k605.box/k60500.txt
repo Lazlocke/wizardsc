@@ -757,11 +757,11 @@ I kiss her deeply.
 "You can't take it?"
 #
 <name "Celes" "!AA4962">
-「そ、そう言うワケでは……」
+"I-I just mean..."
 #
 <name "Lazlocke">
-「じゃあ、もっと胸を突き出せ。
-　可愛がってやる」
+"Then stick out your chest more.
+ I'll give it all my love."
 #
 <name "Celes" "!AA4963">
 "Mm..."

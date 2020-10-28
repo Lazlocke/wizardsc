@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 35>
@@ -28,26 +28,26 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d0.iph" 10>
 :139 + 1
-<name "ラズロック">
-「うーん」
+<name "Lazlocke">
+"Hmm..."
 #
-<name "セリス" "!AA4970">
-「な、なんですか？」
+<name "Celes" "!AA4970">
+"W-What?"
 #
-<name "ラズロック">
-「前々から何度も思っているが……」
+<name "Lazlocke">
+"I've been thinking for a while now..."
 #
-<name "セリス" "!AA4971">
-「はい？」
+<name "Celes" "!AA4971">
+"Yes?"
 #
-<name "ラズロック">
-「良い女だ」
+<name "Lazlocke">
+"You're a good woman."
 #
-<name "セリス" "!AA4972">
-「え？
-　あ、きゃぁっ♪」
+<name "Celes" "!AA4972">
+"Huh?
+ Ah! Eek!♪"
 #
-　俺は恥ずかしいセリフを誤魔化すように、激しく
-　セリスを抱いた。
+I grab her and make intense love to her to
+distract from that moment of embarrassment.
 #
 \x78\x78

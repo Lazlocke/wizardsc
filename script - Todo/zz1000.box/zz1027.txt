@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 37>

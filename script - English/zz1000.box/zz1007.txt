@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 35>
@@ -28,78 +28,78 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d2.iph" 10>
 :139 + 1
-<name "セリス" "!AA4950">
-「っっっ！」
+<name "Celes" "!AA4950">
+"Nnnnh!"
 #
-　セリスは、俺の挿入に苦痛の悲鳴を上げた。
+She groans in pain when I push it in.
 #
-　そして、痛みに耐えながら涙目で俺に訴える。
+And begs to me with watery eyes.
 #
-<name "セリス" "!AA4951">
-「し、師匠……」
+<name "Celes" "!AA4951">
+"M-Master..."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What?"
 #
-<name "セリス" "!AA4952">
-「い、挿れる場所が……違います……」
+<name "Celes" "!AA4952">
+"Y-You're putting it in... the wrong place..."
 #
-<name "ラズロック">
-「たまにはこっちでな」
+<name "Lazlocke">
+"Sometimes I like to do it here."
 #
-　俺は腰を軽く振った。
+I shake my hips a little.
 #
-<name "セリス" "!AA4953">
-「ふぁぁっ、う、動かないで……」
+<name "Celes" "!AA4953">
+"Aaah! D-Don't move..."
 #
-<name "ラズロック">
-「別に初めてじゃないだろ」
+<name "Lazlocke">
+"It's not like its your first time."
 #
-　俺はこれまで、何度もセリスの後ろの穴を使って
-　いる。
+I've used her ass multiple times now.
 #
-<name "セリス" "!AA4954">
-「きゅ、急には……」
+<name "Celes" "!AA4954">
+"B-But not this suddenly..."
 #
-<name "ラズロック">
-「お前の穴を見てたらつい……」
+<name "Lazlocke">
+"I couldn't help it when I saw your ass..."
 #
-<name "セリス" "!AA4955">
-「も、もう……」
+<name "Celes" "!AA4955">
+"G-Geez..."
 #
-<name "ラズロック">
-「動くぞ」
+<name "Lazlocke">
+"I'm going to move."
 #
-<name "セリス" "!AA4956">
-「あ、ま、待って……ふぁぁぁぁぁぁっ！」
+<name "Celes" "!AA4956">
+"Ah! W-Wait...
+ Aaahhhh!"
 #
-　俺はセリスの後ろの穴を堪能した。
+I enjoy her ass.
 #
 <music 10>
 <background "bg003a0.iph" 11>
 <sprite "ta01a64.iph" 4 4 11>
-<name "セリス" "!AA4957">
-「酷いです」
+<name "Celes" "!AA4957">
+"You're horrible."
 #
-<name "ラズロック">
-「かわいかったぞ」
+<name "Lazlocke">
+"You were adorable."
 #
 <sprite "ta01a69.iph" 4 4 12>
-<name "セリス" "!AA4958">
-「そんな言葉じゃ、誤魔化されません」
+<name "Celes" "!AA4958">
+"Saying that won't let you get away with it."
 #
-<name "ラズロック">
-「……セリス」
+<name "Lazlocke">
+"Celes."
 #
 <removesprite -1 11>
-　俺はセリスに深いキスをした。
+I kiss her deeply.
 #
-<name "ラズロック">
-「また、やらせてくれ」
+<name "Lazlocke">
+"Please let me do it again."
 #
 <sprite "ta01a75.iph" 4 4 11>
-<name "セリス" "!AA4959">
-「きゅ、急にじゃなければ……」
+<name "Celes" "!AA4959">
+"A-As long as it's not so sudden..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

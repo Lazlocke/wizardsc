@@ -1,37 +1,40 @@
 <music 35>
 <background "ev035b0.iph" 10>
-<name "ラズロック">
-「絶対、そのメガネにはなにかある」
+<name "Lazlocke">
+"There's definitely just something about
+ glasses."
 #
-<name "セリス" "!AA4993">
-「そんな事は……」
+<name "Celes" "!AA4993">
+"No there's not..."
 #
-<name "ラズロック">
-「でなければ、俺がこんなに元気な筈がない」
+<name "Lazlocke">
+"If there wasn't, I wouldn't be so turned on."
 #
-<name "セリス" "!AA4994">
-「いつも元気ですよ」
+<name "Celes" "!AA4994">
+"You're always turned on."
 #
-<name "セリス" "!AA4995">
-「でも、確かに……メガネをつけてる時は……
-　激しくなりますね」
+<name "Celes" "!AA4995">
+"But you are right...
+ Whenever I have my glasses on...
+ you're intense..."
 #
-<name "ラズロック">
-「そのメガネが原因だ」
+<name "Lazlocke">
+"It's cause of the glasses."
 #
-<name "セリス" "!AA4996">
-「あはは……」
+<name "Celes" "!AA4996">
+"Hahaha..."
 #
-<name "ラズロック">
-「とりあえず、原因が判明するまで襲い続ける」
+<name "Lazlocke">
+"Anyway, I'll just have to keep doing you until
+ we figure out why."
 #
-<name "セリス" "!AA4997">
-「え……」
+<name "Celes" "!AA4997">
+"Huh?"
 #
 <background "ev035b3.iph" 10>
-　俺は夜通し、セリスと交わった。
+I stay with her all night long.
 #
-<name "セリス" "!AA4998">
-「うう……激しかった……」
+<name "Celes" "!AA4998">
+"Ohhh... That was so intense..."
 #
 \x78\x78

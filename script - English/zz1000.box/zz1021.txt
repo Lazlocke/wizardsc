@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,37 +28,36 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev036d1.iph" 10>
 :139 + 1
-<name "セリス" "!AA5052">
-「こうやって、師匠の上に乗って、師匠のモノを喜
-　ばせていると……」
+<name "Celes" "!AA5052">
+"Being on top of you like this, and pleasuring
+ you..."
 #
-<name "セリス" "!AA5053">
-「なんだか、師匠を支配してるみたいな感覚になっ
-　てしまいます」
+<name "Celes" "!AA5053">
+"It kind of feels like I'm dominating you."
 #
-<name "ラズロック">
-「その心境を表すセリフを言ってみよう」
+<name "Lazlocke">
+"Let's hear something along those lines."
 #
-<name "セリス" "!AA5054">
-「えーっと……
-　ふははは！
-　この私に上を取らせたのが貴様の敗因だ！
-　喰らえ」
+<name "Celes" "!AA5054">
+"Umm...
+ Wahahaha!
+ Letting me be on top is your undoing!
+ Take this!"
 #
-　もの凄いセリスのテクニックに、俺のモノは呆気
-　なく屈し、激しい射精を行なった。
+My dick succumbs to her technique and I come
+hard inside her.
 #
-<name "ラズロック">
-「うう……支配されてる」
+<name "Lazlocke">
+"Ugh... I am being dominated."
 #
-<name "セリス" "!AA5055">
-「あの、激しくやっちゃいましたが、大丈夫でした
-　か？」
+<name "Celes" "!AA5055">
+"Um, that was pretty intense.
+ Are you okay?"
 #
-<name "ラズロック">
-「大丈夫だから、もう一回」
+<name "Lazlocke">
+"I'm fine. One more time."
 #
-<name "セリス" "!AA5056">
-「は、はい」
+<name "Celes" "!AA5056">
+"Y-Yes, sir."
 #
 \x78\x78

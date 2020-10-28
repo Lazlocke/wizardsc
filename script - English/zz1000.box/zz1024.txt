@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 37>
@@ -28,33 +28,33 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev037d0.iph" 10>
 :139 + 1
-<name "ラズロック">
-「つまらない事を言うけどな……」
+<name "Lazlocke">
+"I hate to say something silly, but..."
 #
-<name "セリス" "!AA5079">
-「なんですか？」
+<name "Celes" "!AA5079">
+"What?"
 #
-<name "ラズロック">
-「女のここって、不気味だよな」
+<name "Lazlocke">
+"Vaginas are kind of gross, you know."
 #
-　俺はセリスの陰部に指を入れながら呟く。
+I mutter as I put my finger inside Celes's.
 #
-<name "セリス" "!AA5080">
-「…………だ、男性のも、不気味です」
+<name "Celes" "!AA5080">
+"M-Men's are gross too."
 #
-<name "ラズロック">
-「そうか？」
+<name "Lazlocke">
+"Really?"
 #
-<name "セリス" "!AA5081">
-「そうです」
+<name "Celes" "!AA5081">
+"Really."
 #
-<name "ラズロック">
-「うおおっ、か、噛むなっ！」
+<name "Lazlocke">
+"Aaah! N-No biting!"
 #
-<name "セリス" "!AA5082">
-「はむはむ……」
+<name "Celes" "!AA5082">
+"Mph..."
 #
-　徹底した甘噛み攻撃に、俺のモノはあっけなく射
-　精を行なった。
+Even despite the sexy bite assault, my dick 
+still comes.
 #
 \x78\x78

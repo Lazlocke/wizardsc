@@ -1,205 +1,200 @@
 <music 13>
 <background "bg001b0.iph" 11>
 <background "bg002b0.iph" 11>
-　セリスは部屋で寝ている。
+Celes is asleep in her room.
 #
-　……
+...
 #
-　駄目だ。
+I can't take it.
 #
-　俺の股間で、モノが膨張している。
+My dick is hard.
 #
-　女を求めている。
+I need a woman.
 #
-　……
+...
 #
-　寝ているセリスを襲うか。
+Should I assault her in her sleep?
 #
-　駄目だ。
+No.
 #
-　俺はセリスから逃れるように離れる。
+I leave to get away from her.
 #
-　と、そこに人影があった。
+But someone's standing in front of me.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0044">
-「ご主人様」
+<name "Soshiette" "!DA0044">
+"Your Grace."
 #
-　ソシエット……
+Soshiette...
 #
-　俺はソシエットを抱き締めた。
+I pull her into my arms.
 #
-　ソシエットは抵抗せず、そのまま抱き締め返して
-　きた。
+She doesn't resist and embraces me.
 #
 <sprite "ta04a04.iph" 4 4 12>
-<name "ソシエット" "!DA0045">
-「慌てずに……
-　ここではセリスさんを起こしてしまいます。
-　ベッドの方へ……」
+<name "Soshiette" "!DA0045">
+"Don't rush. We'll wake Miss Celes if we do it
+ here. Come to the bed."
 #
 <removesprite -1 11>
 <music 40>
 <background "ev004a0.iph" 10>
-　ソシエットにベッドに連れて行かれ、数時間。
+I've been with her for hours now.
 #
-　すでに日は落ちたが、ソシエットは俺のモノを膣
-　内に収めて離さない。
+The sun's long since gone down, but my dick
+remains deep inside her.
 #
 <background "ev004a1.iph" 10>
-<name "ソシエット" "!DA0046">
-「……ん……んん……んぁ……」
+<name "Soshiette" "!DA0046">
+"Mm...mm...mm..."
 #
-　ソシエットの腰の動きは変幻自在で、絶妙だ。
+The way she winds her hips is fascinating and
+exquisite.
 #
-　グイングインと腰を捏ねるように動かしたかと思
-　うと、急に跳ねて上下運動。
+Just as I get used to her writhing, she 
+suddenly starts bouncing up and down.
 #
-　俺のモノを痛めない程度に刺激しながら、萎えさ
-　せない。
+It's constant stimulation all over that keeps
+me rock hard.
 #
-　それによって、俺は三回以上の射精を強要させら
-　れた。
+She's been able to make me come three times
+already.
 #
-　搾り取られている感じだ。
+It feels like I'm being wrung out.
 #
-<name "ソシエット" "!DA0047">
-「ぁ……ん、ふぁ……んん」
+<name "Soshiette" "!DA0047">
+"Ah...mm...ahhh...mmm..."
 #
-　だが、俺はソシエットの行為に抵抗したりはしな
-　い。
+But I don't fight her.
 #
-　逆にその行為に身を委ね、欲望を消化していく。
+I give myself to what she's doing and bask in
+pleasure.
 #
-<name "ソシエット" "!DA0048">
-「ぁん、ん……んぁ、んんん」
+<name "Soshiette" "!DA0048">
+"Ah...mm...aah...mmmmm..."
 #
-　ソシエットの動きにより、俺は出ると思った瞬間、
-　射精を開始していた。
+She brings me to the brink and I start to come
+again.
 #
-<name "ソシエット" "!DA0049">
-「んん……ん♪」
+<name "Soshiette" "!DA0049">
+"Mm...mmm...♪"
 #
 <background "ev004a2.iph" 10>
-　ドクンッドクンッドクンッドクンッ……
+Spurt... Spurt... Spurt...
 #
-　ゆっくりとだが、確実な射精。
+A long, but steady orgasm.
 #
-　ソシエットの膣奥にぶつけるように吐き出し続け
-　た。
+I keep pouring myself deep into her.
 #
-<name "ソシエット" "!DA0050">
-「ん……あ、ん♪」
+<name "Soshiette" "!DA0050">
+"Mm...ah...mm...♪"
 #
-　俺の射精が終ると、ソシエットは残りも出せとば
-　かりに膣壁を締め付け、俺のモノを搾る。
+As I finish, her walls squeeze around me like
+she's trying to milk the rest out.
 #
-<name "ソシエット" "!DA0051">
-「ん……そろそろ、終わりですか？」
+<name "Soshiette" "!DA0051">
+"Mm... 
+ Are you just about finished?"
 #
-　俺のモノはまだ大きいが、少し力がなくなってき
-　ている。
+My dick's still hard, but not as much as before.
 #
-　それに俺の体力も限界近い。
+And I don't know how much more my body can
+take.
 #
-<name "ラズロック">
-「……悪かったな」
+<name "Lazlocke">
+"Sorry."
 #
-<name "ソシエット" "!DA0052">
-「お気になさらずに。
-　こういった事態の為にも、私はご主人様の傍に居
-　るのです」
+<name "Soshiette" "!DA0052">
+"Pay it no mind.
+ This is what I'm with you for."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"I guess..."
 #
-<name "ソシエット" "!DA0053">
-「セリスさんでは、不十分でしたか？」
+<name "Soshiette" "!DA0053">
+"Is Miss Celes not enough?"
 #
-<name "ラズロック">
-「……慣れていないだけだ」
+<name "Lazlocke">
+"She's not ready yet."
 #
-<name "ソシエット" "!DA0054">
-「……魔力の捌け口がご要望でしたら、協会にお申
-　し出くださればご用意いたします」
+<name "Soshiette" "!DA0054">
+"If you need an outlet for mana, you need only
+ ask and the Guild will have one prepared."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "ソシエット" "!DA0055">
-「弟子でも、奴隷でも、ご主人様さえ望めば良いの
-　です。
-　例えそれがどのような女性でも、協会が総力を持っ
-　てご用意いたします」
+<name "Soshiette" "!DA0055">
+"An apprentice, a slave, whatever you desire.
+ The Guild will do whatever it can to find you
+ any manner of woman you want."
 #
-<name "ラズロック">
-「俺が望みさえすれば……か」
+<name "Lazlocke">
+"Provided I ask, huh?"
 #
-<name "ソシエット" "!DA0056">
-「はい」
+<name "Soshiette" "!DA0056">
+"Yes."
 #
-<name "ラズロック">
-「それが気に入らない」
+<name "Lazlocke">
+"I hate that."
 #
-<name "ソシエット" "!DA0057">
-「……」
+<name "Soshiette" "!DA0057">
+"..."
 #
-<name "ラズロック">
-「……わかっている。
-　怒るな。
-　少し、協会に対して反抗したかった……」
+<name "Lazlocke">
+"...I know. Don't be mad.
+ I just need to buck at the reins a little."
 #
-<name "ラズロック">
-「違うな。
-　協会の息の掛からない相手が欲しかっただけ……
-　かな」
+<name "Lazlocke">
+"No, that's not it. I just wanted someone who
+ had nothing to do with the Guild, I think."
 #
-<name "ソシエット" "!DA0058">
-「二人目は無いようにお願いします」
+<name "Soshiette" "!DA0058">
+"Please don't find a second person."
 #
-<name "ラズロック">
-「ああ……
-　これ以上、協会長を怒らせたりはしない。
-　安心しろ」
+<name "Lazlocke">
+"Yeah, don't worry.
+ I won't upset the head of the Guild any more
+ than I already have."
 #
-<name "ソシエット" "!DA0059">
-「お願いします」
+<name "Soshiette" "!DA0059">
+"Thank you."
 #
-<name "ラズロック">
-「それより、もう一度だ。
-　次は後ろの穴で頼む」
+<name "Lazlocke">
+"Anyway, one more time.
+ This time in the ass."
 #
-<name "ソシエット" "!DA0060">
-「はい。
-　承知しました」
+<name "Soshiette" "!DA0060">
+"All right, as you wish."
 #
-<name "ラズロック">
-「……もう少し、恥らってくれた方が嬉しいな」
+<name "Lazlocke">
+"It'd be nice if you were a little more
+ bashful."
 #
-<name "ソシエット" "!DA0061">
-「私の身体は、すでにご主人様に全てを捧げており
-　ます。
-　いまさら恥じ入るような事はありません」
+<name "Soshiette" "!DA0061">
+"I've already given all of myself to you.
+ There's nothing left to be ashamed of."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "ソシエット" "!DA0062">
-「不満そうな顔ですので、訂正いたします。
-　無理矢理、捧げさせられました。
-　奪われたと言った方がよろしいですか？」
+<name "Soshiette" "!DA0062">
+"Since you look displeased, let me rephrase.
+ You took me against my will.
+ Perhaps it's more accurate to say that you
+ stole it from me?"
 #
-<name "ラズロック">
-「……悪かった」
+<name "Lazlocke">
+"Sorry."
 #
-<name "ソシエット" "!DA0063">
-「では♪」
+<name "Soshiette" "!DA0063">
+"Well, then...・
 #
 <background "ev004a3.iph" 10>
-　ソシエットは、俺の指示通りに後ろの穴で俺のモ
-　ノを咥え込み、腰を動かし始めた。
+She moves my dick into her ass like I asked and
+begins moving her hips again.
 #
-　その慣れた動きに感心しながら、俺はソシエット
-　に身を委ねた。
+I admire her practiced movements and give 
+myself to her.
 #
 \x78\x78

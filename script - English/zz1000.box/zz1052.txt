@@ -1,198 +1,196 @@
 <music 25>
 <background "bg004a0.iph" 11>
-<name "ラズロック">
-「トレーニング中か？」
+<name "Lazlocke">
+"Exercising?"
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "セリス" "!AA5272">
-「はい。
-　でも、今は休憩中です」
+<name "Celes" "!AA5272">
+"Yes, but I'm taking a break right now."
 #
-<name "ラズロック">
-「そうか……頑張っているな」
+<name "Lazlocke">
+"I see.
+ Looks like you've been hard at work."
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "セリス" "!AA5273">
-「はい」
+<name "Celes" "!AA5273">
+"Yep."
 #
 <removesprite -1 11>
-　セリスは、どんな時だろうと朝夕に身体を動かして
-　いる。
+She's been exercising day and night.
 #
-　その様子を見に来ただけなのだが……
+I just came to check up on her, but...
 #
-　セリスの運動した後の健康的な姿に、俺のモノが刺
-　激されてしまった。
+Seeing her sweaty and flushed is getting my
+dick hard.
 #
-<name "ラズロック">
-「……セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "セリス" "!AA5274">
-「はい？」
+<name "Celes" "!AA5274">
+"Yes?"
 #
-<name "ラズロック">
-「少し、良いか？」
+<name "Lazlocke">
+"Have a moment?"
 #
 <sprite "ta01d70.iph" 4 4 12>
-<name "セリス" "!AA5275">
-「え？
-　……あ……ここで、ですか？」
+<name "Celes" "!AA5275">
+"Huh?
+ Oh... 
+ Right here?"
 #
-<name "ラズロック">
-「我慢する気は無い」
+<name "Lazlocke">
+"I'm not patient."
 #
 <removesprite -1 11>
-　俺はセリスを抱き締め、唇を奪った。
+I grab her and steal a kiss.
 #
 <music 36>
 <background "ev042a0.iph" 10>
-<name "セリス" "!AA5276">
-「ぁ、こ、こんな格好で……あぐぁっ」
+<name "Celes" "!AA5276">
+"Ah... T-This position's... ngh!"
 #
-　セリスに中腰で一本の木に手をつかせながら、片
-　足を上げさせる。
+I push her against a tree and raise her leg.
 #
-　その上げた片足を持って股を開かせ、強引にモノ
-　を挿入した。
+With her legs now open, I force my dick into
+her.
 #
 <background "ev042a1.iph" 10>
-<name "セリス" "!AA5277">
-「うぁ……あんん」
+<name "Celes" "!AA5277">
+"Ah...aaah!"
 #
-　セリスの膣内の湿気は少なかったが、俺のモノを
-　なんとか受け入れる。
+Her pussy's not very wet, but I somehow manage
+to get it in.
 #
-　挿入前に愛撫しようとしたが、それにはセリスが
-　少し抵抗した。
+I tried to fondle her a little bit, but she
+was resistant.
 #
-　運動後の汗の匂いを気にしたからだ。
+She was worried about her sweat from exercising.
 #
-　いまさら気にする仲でも無いと思うが、セリスの
-　意思を尊重しての愛撫無しの挿入だ。
+I think it's a little late for either of us to
+worry about something like that, but being able
+to put it in her without much foreplay really
+makes me wonder what she was thinking.
 #
-<name "ラズロック">
-「常に濡れているのか？」
+<name "Lazlocke">
+"Are you always this wet?"
 #
-<name "セリス" "!AA5278">
-「師匠が……キスしたからです」
+<name "Celes" "!AA5278">
+"It's because... you kissed me."
 #
-<name "ラズロック">
-「……可愛いヤツ」
+<name "Lazlocke">
+"Cute girl."
 #
-<name "セリス" "!AA5279">
-「あん」
+<name "Celes" "!AA5279">
+"Aah!"
 #
-　俺はセリスの膣内に潜り込んだモノをゆっくりと
-　動かす。
+I move slowly, filling her pussy.
 #
-　少しは濡れているとはいえ、乱暴な動きはキツイ
-　だろうとの判断だ。
+She's a little wet, but it's obvious that moving
+too roughly will be hard.
 #
-　乱暴にしてやっても良いが、練習を邪魔している
-　のは俺だ。
+I could still do it, but it'd probably make it
+too hard for her to keep exercising.
 #
-　そこでさらに乱暴にして、この後の練習に響いて
-　も申し訳無い。
+If I did, then it'd be my fault for setting
+back her progress.
 #
-　そんな事を気にするなら、襲わなければ良いのだ
-　が……
+Although if I'm worried about that, I shouldn't
+have gone after her like this in the first
+place.
 #
-　とか考える俺の思考も、セリスの膣内にある俺の
-　モノの快楽具合で、吹き飛ぶ。
+My guilt quickly vanishes in the pleasure of
+her pussy wrapped around my dick though.
 #
 <background "ev042a2.iph" 10>
-<name "セリス" "!AA5280">
-「あ、あん、あん、ああん」
+<name "Celes" "!AA5280">
+"Ah! Aah! Ah! Aaah!"
 #
-　匂いを気にするセリスの為に、あまり覆い被さら
-　ずに腰を動かしながら、俺は自分の欲情を高めて
-　いった。
+I lean over her and move my hips to seek more
+sensation, not worrying about the smell of her
+sweat.
 #
-<name "セリス" "!AA5281">
-「ふぁ、ふぁん、ん、んぁ……」
+<name "Celes" "!AA5281">
+"Aah! Aah! Mm! Mmmm..."
 #
-　セリスのギュウギュウと締め付ける膣内を、セリ
-　スの愛液に塗れた俺のモノが出入りする。
+Her pussy squeezes on me, coating my dick in
+her juices as it goes in and out.
 #
-　その時のグチュグチュという水音が、野外の為か
-　妙に耳に残る。
+The wet sound seems strangely loud outdoors.
 #
-　室内でやっている時の方が聞こえる筈なのだが。
+I'm sure it's the same inside though.
 #
-　グチュグチュグチュッ……
+Squich... squich... squich...
 #
-　俺の腰の動きに合わせている。
+It matches the movements of my waist.
 #
-　間違い無い。
+There's no doubt about it.
 #
-　いつもより、セリスが濡れているのか？
+I think she is wetter than usual.
 #
-　そんな事を考えながら、俺は一度目の射精に向け
-　て腰の動きを速めていった。
+As I wonder, I move faster, aiming to come.
 #
-<name "セリス" "!AA5282">
-「ぁっ、ぁっ、ぁぁっ、ふぁっ、くぅぁっ」
+<name "Celes" "!AA5282">
+"Ah! Aah! Ahh! Aaah! Ah!"
 #
-　俺の腰の動きで、セリスも射精が近い事を感じた
-　のか、俺に協力するように微妙に腰を動かし始め
-　た。
+She can feel it coming too and moves her hips
+in time with me.
 #
-<name "セリス" "!AA5283">
-「ふぁ、ぁっ、ぁっ、や、ぁ、ふ、くぁっ」
+<name "Celes" "!AA5283">
+"Aah! Ah! Ah! Ah! Ah! Ahh! Ahh!"
 #
-　俺はそんなセリスの行為に刺激され、一気に大量
-　の精液をセリスの膣内に流し込んだ。
+I'm stimulated by her movements and flood her
+pussy with semen.
 #
 <background "ev042a4.iph" 10>
-　ドクンッドクンッドクンッドクンッドクンッと自
-　分でも驚くほどの脈打ちで。
+I'm amazed myself at how much by dick throbs
+as I empty into her.
 #
-<name "セリス" "!AA5284">
-「ぁ、ぁ、ぁぁぁぁ……くぁ…………
-　ぁっ…………ぁぁぁぁぁぁぁぁぁぁぁんん」
+<name "Celes" "!AA5284">
+"Ah...ah...aaah...ah...
+ Ah... Aaaaaaaahhhh!"
 #
-　セリスは俺の射精を受けながら、小さく身体を震
-　わせて達した。
+She trembles as I come and has a small orgasm
+herself.
 #
-<name "セリス" "!AA5285">
-「はぁ、はぁ、ぁ、ぁぁ……ぁぁ……うぁ……
-　ぁ……はぁ……はぁ……」
+<name "Celes" "!AA5285">
+"Aah...ahhh...ah...aah...ahh...
+ Ah...aah...ahhh..."
 #
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you okay?"
 #
-<name "セリス" "!AA5286">
-「ぁ……ぁ……は、はい」
+<name "Celes" "!AA5286">
+"Ah...ah...
+ Y-Yes..."
 #
-　そう答えながらも、セリスの足はガクガクと震え
-　ていた。
+Despite her answer, her legs are tremblng.
 #
-　片足では厳しそうだ。
+Being on one leg must've been too hard.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はセリスからモノを抜いた。
+I pull my dick out of her.
 #
-<name "セリス" "!AA5287">
-「ぁ……」
+<name "Celes" "!AA5287">
+"Ah..."
 #
-　セリスが怪訝そうな顔をする。
+She looks puzzled.
 #
-　俺が一度で終えたのが不思議だったのだろうか。
+Confused that I'm done after just once?
 #
-　当然、俺は一度で終る気などない。
+Of course, I'm not.
 #
-　セリスを抱き締め、持ち上げる。
+I pull her into my arms and pick her up.
 #
-<name "ラズロック">
-「部屋で続きをやるぞ。
-　文句は？」
+<name "Lazlocke">
+"Let's continue in my room.
+ Any complaints?"
 #
-<name "セリス" "!AA5288">
-「……ありません」
+<name "Celes" "!AA5288">
+"...No."
 #
-　俺は夜まで、セリスを抱き続けた。
+I keep fucking her all night.
 #
 \x78\x78

@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,71 +28,72 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev036d1.iph" 10>
 :139 + 1
-<name "セリス" "!AA5046">
-「ん、あん、ん、んあ、あん、ん、んんんっ」
+<name "Celes" "!AA5046">
+"Mm! Aah! Mm! Aaah! Ah! Mm! Mmmmm!"
 #
-　セリスは俺のモノを咥え込みながら、俺の上で腰
-　を動かして行為に及んでいる。
+Celes winds her hips with me buried inside her.
 #
-　なかなか気持ちが良く、すでに二度ほど搾り取ら
-　れている。
+It feels pretty good, and I've already been
+able to come twice.
 #
-　昔に比べれば、格段の上達だ。
+She's significantly better than she used to
+be.
 #
-<name "セリス" "!AA5047">
-「ふぁ、あ、あん、んぁ、ああん、師匠、師匠」
+<name "Celes" "!AA5047">
+"Aah! Ah! Aah! Ah! Aaah!
+ Master! Master!"
 #
-　セリスが切なそうに呼ぶので、俺は良いぞと言う
-　と、セリスは俺の胸に飛び込んできて、抱き締め
-　た。
+She moans for me.
+I nod to her.
+She falls against my chest and hugs me tight.
 #
-　そして、ビクビクッと身体を震わせて達した。
+Her whole body trembles as we come together.
 #
-\x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :334: 
+\x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :68FD: 
 <background "ev036a3.iph" 10>
 \x2B
-:334
-\x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :35B: 
+:68FD
+\x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :6924: 
 <background "ev036b3.iph" 10>
 \x2B
-:35B
-\x1A\x01\x0A\x02\x01\x99 3 \x01\x15 :382: 
+:6924
+\x1A\x01\x0A\x02\x01\x99 3 \x01\x15 :694B: 
 <background "ev036c3.iph" 10>
 \x2B
-:382
-\x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :3A9: 
+:694B
+\x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :6972: 
 <background "ev036d3.iph" 10>
-:3A9 + 1
-<name "セリス" "!AA5048">
-「ぅ、ぅぅぁ、……ぁ、ぁぁぁぁんんっ！」
+:6972 + 1
+<name "Celes" "!AA5048">
+"Ah! Aaah! Aaah!"
 #
-　そのままセリスは余韻に浸り、俺にキスを求める
-　ので応えてやる。
+She begs me for a kiss as her orgasm echoes
+inside her.
 #
-<name "セリス" "!AA5049">
-「あむん……ん」
+<name "Celes" "!AA5049">
+"Aaah...mmmm..."
 #
-　二度、三度の軽いキスの後に、舌を絡め合う深く
-　長いキス。
+After a few light kisses, we share a long, deep
+kiss, our tongues entwining.
 #
-　そのキスをしながらも、セリスは腰を動かして俺
-　のモノを喜ばせる。
+Even as we kiss, she keeps moving her hips to
+pleasure my dick.
 #
-　俺はそんなセリスの行為にやられ、三度目の射精
-　を行なった。
+Drawn by her act, I come a third time.
 #
-<name "セリス" "!AA5050">
-「ん、んぁん」
+<name "Celes" "!AA5050">
+"Mm...mmmm..."
 #
-　そして、俺の射精が終るとセリスはまた身体を離
-　して腰を動かし始める。
+Once I finish, she raises herself up and starts
+moving her hips again.
 #
-　俺が枯れるまで、精液を搾り取るように。
+She keeps wringing the semen out of me until
+I'm soft.
 #
-<name "セリス" "!AA5051">
-「ぁ、ん、んぁ、師匠♪」
+<name "Celes" "!AA5051">
+"Ah...mmm...mmm...
+ Master...♪"
 #
-　俺はセリスが行為を止めようとするまで、交わり
-　続けた。
+I stay with her until she's finished.
 #
 \x78\x78

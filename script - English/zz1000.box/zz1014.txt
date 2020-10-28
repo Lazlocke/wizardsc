@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,11 +28,11 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev036d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA4999">
-「ん、んぁ、あん……」
+<name "Celes" "!AA4999">
+"Mm...ah...aah..."
 #
-　セリスは俺の上に乗り、自分からモノを挿入して
-　腰を動かしていた。
+Celes gets on top of me, puts my dick inside
+her, and moves her hips.
 #
 \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :1D5: 
 <background "ev036a1.iph" 10>
@@ -49,81 +49,88 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :24A: 
 <background "ev036d1.iph" 10>
 :24A + 1
-<name "セリス" "!AA5000">
-「ふぁ、ぁっ、ん……んぁ……んんん……」
+<name "Celes" "!AA5000">
+"Ah...ah...mm...mmm...mmmm..."
 #
-　俺の指示だが、セリスは嫌がらずに行為に集中し
-　ている。
+Like I ordered her to, she concentrates on the
+act without giving any resistance.
 #
-<name "セリス" "!AA5001">
-「くぅぁん、ん……ん……あ……はぁん……」
+<name "Celes" "!AA5001">
+"Nnnh...mm...ngh...ah...aah..."
 #
-<name "ラズロック">
-「どんな感じだ」
+<name "Lazlocke">
+"How does that feel?"
 #
-<name "セリス" "!AA5002">
-「ぁ……うぁ……ん……よく、わかりません」
+<name "Celes" "!AA5002">
+"Ah...ah...mmm...
+ I'm not sure..."
 #
-<name "ラズロック">
-「気持ち良いか？」
+<name "Lazlocke">
+"Do you like it?"
 #
-<name "セリス" "!AA5003">
-「……気持ちは……ぁ、あんまり……」
+<name "Celes" "!AA5003">
+"It feels... a l-little too..."
 #
-<name "ラズロック">
-「俺が上になろうか……」
+<name "Lazlocke">
+"Should I be on top?"
 #
-<name "セリス" "!AA5004">
-「い、いえ……が、頑張ります」
+<name "Celes" "!AA5004">
+"N-No, I-I'll try harder."
 #
-<name "ラズロック">
-「そうか……なら、もう少し激しくしてくれ」
+<name "Lazlocke">
+"All right.
+ Then try to do it a little more intensely."
 #
-<name "セリス" "!AA5005">
-「は、はい」
+<name "Celes" "!AA5005">
+"Y-Yes, sir."
 #
-　セリスは頑張って腰を動かし、俺から精液を搾り
-　取ろうとする。
+She struggles to move her hips and wring the
+semen out of me.
 #
-　しかし、慣れない騎乗位で俺を気持ち良くさせる
-　事は難しく、行為を延々と続ける事になった。
+But she's not used to the position and doesn't
+know how to make it feel any good, so this goes
+on for a while.
 #
-<name "セリス" "!AA5006">
-「ぁ……ぁ……うぁ……ぁ……ぁぁ……」
+<name "Celes" "!AA5006">
+"Ah...ah...aah...ah...aah..."
 #
-　セリスは疲労で倒れそうになっているが、動きを
-　止めずに頑張り続ける。
+She's about to collapse from exhaustion, but
+keeps trying without stopping.
 #
-<name "ラズロック">
-「俺が動く」
+<name "Lazlocke">
+"I'm going to move."
 #
-<name "セリス" "!AA5007">
-「い、いえ……あ、ん、んんぁ……」
+<name "Celes" "!AA5007">
+"D-Don't...
+ Ah...mm...nnnh..."
 #
-　体位を入れ替えようとする俺に抵抗し、セリスは
-　腰を動かし続けた。
+She pushes me back down and keeps moving her
+hips.
 #
-　無理矢理、体位を入れ替える事もできたが、必死
-　なセリスの様子が、それを止めた。
+I could physically force her to switch
+positions, but I'm reluctant to seeing how hard
+she's trying.
 #
-<name "ラズロック">
-「……次、止まったら俺が上になるからな」
+<name "Lazlocke">
+"Then the next time you stop, I'm getting on
+ top."
 #
-<name "セリス" "!AA5008">
-「ぁ、は、はい」
+<name "Celes" "!AA5008">
+"Ah...
+ O-Okay..."
 #
-　セリスは頑張って腰を動かし、俺から精液を一度
-　だけ搾り取った。
+She keeps trying hard, but is only able to
+squeeze semen out of me once.
 #
-<name "セリス" "!AA5009">
-「ふぁ、ぁっ、ぁっ……ぁう……」
+<name "Celes" "!AA5009">
+"Ahhh...ah...ah...ahhh..."
 #
-　そして、そのまま俺の胸に倒れ込んだ。
+And then she collapses on my chest.
 #
-　まだまだ欲求不満の俺だったが、倒れているセリ
-　スを襲う気にはなれず、セリスを寝かせて休む事
-　にした。
+I'm not satisfied yet, but I'm not in the mood
+now to attack her when she's so worn out.
+I let her rest and fall asleep with her.
 #
-　もちろん、朝に襲った。
+Of course, I did her more in the morning.
 #
 \x78\x78

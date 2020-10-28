@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 35>
@@ -28,76 +28,82 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA4960">
-「あ、あん、師匠……」
+<name "Celes" "!AA4960">
+"Ah! Aah!
+ Master..."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What?"
 #
-<name "セリス" "!AA4961">
-「さっきから胸ばっかりで……その、あの……」
+<name "Celes" "!AA4961">
+"You've just been touching my breasts...
+ Um, I mean..."
 #
-<name "ラズロック">
-「我慢できないのか？」
+<name "Lazlocke">
+"You can't take it?"
 #
-<name "セリス" "!AA4962">
-「そ、そう言うワケでは……」
+<name "Celes" "!AA4962">
+"I-I just mean..."
 #
-<name "ラズロック">
-「じゃあ、もっと胸を突き出せ。
-　可愛がってやる」
+<name "Lazlocke">
+"Then stick out your chest more.
+ I'll give it all my love."
 #
-<name "セリス" "!AA4963">
-「ん……」
+<name "Celes" "!AA4963">
+"Mm..."
 #
-<name "ラズロック">
-「……良い形だ」
+<name "Lazlocke">
+"Very nice shape."
 #
-<name "セリス" "!AA4964">
-「そんなにハッキリと感想を言わないでください。
-　恥ずかしいです」
+<name "Celes" "!AA4964">
+"Don't talk about it like that.
+ It's embarrassing
 #
-<name "ラズロック">
-「黙って揉んでいたら、文句を言ったのはお前だろう」
+<name "Lazlocke">
+"You would've whined if I had just rubbed them
+ without saying anything."
 #
-<name "セリス" "!AA4965">
-「でも……あ、あん♪」
+<name "Celes" "!AA4965">
+"But... A-Ah!♪"
 #
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
-<name "セリス" "!AA4966">
-「は、はい」
+<name "Celes" "!AA4966">
+"Y-Yes?"
 #
-<name "ラズロック">
-「我慢できないなら、自分から腰を振って良いぞ」
+<name "Lazlocke">
+"If you can't take it, then move your hips
+ yourself."
 #
-<name "セリス" "!AA4967">
-「そんな……」
+<name "Celes" "!AA4967">
+"I can't..."
 #
-<name "ラズロック">
-「俺はしばらくお前の胸しか弄らないからな」
+<name "Lazlocke">
+"Then I'm just going to play with your breasts
+ for a while."
 #
-<name "セリス" "!AA4968">
-「あん、んぁ……し、師匠……」
+<name "Celes" "!AA4968">
+"Ah! Mmm...
+ M-Master..."
 #
-　俺はセリスの胸を存分に楽しんだ。
+I enjoy her breasts to their fullest.
 #
-　その間、セリスは自分から腰を動かし、俺から二
-　回分の精液を搾り取った。
+As I do, she eventually starts moving, and 
+wrings semen out of me twice.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「いやらしいセリスも可愛いな」
+<name "Lazlocke">
+"You're pretty cute when you're acting slutty."
 #
 <sprite "ta01a75.iph" 4 4 11>
-<name "セリス" "!AA4969">
-「そ、そんな事を言わないでください」
+<name "Celes" "!AA4969">
+"P-Please don't say things like that!"
 #
 <removesprite -1 11>
-　セリスは顔を真っ赤にして抗議した。
+She blushes deeply and protests.
 #
-　そんなセリスもなかなか可愛い。
+She's pretty cute like this too.
 #
 \x78\x78

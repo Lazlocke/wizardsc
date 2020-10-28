@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,50 +28,52 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev036d1.iph" 10>
 :139 + 1
-<name "セリス" "!AA5039">
-「騎乗位って、本当に馬に乗っている感じですね」
+<name "Celes" "!AA5039">
+"The cowgirl position really does feel like
+ riding a horse."
 #
-<name "ラズロック">
-「馬に乗れるのか？」
+<name "Lazlocke">
+"You've ridden?"
 #
-<name "セリス" "!AA5040">
-「ええ、早駆けは苦手でしたが……」
+<name "Celes" "!AA5040">
+"Yes, but I was bad at galloping."
 #
-<name "ラズロック">
-「それでゆっくりなのか……」
+<name "Lazlocke">
+"So you took it slow?"
 #
-<name "セリス" "!AA5041">
-「す、すみません」
+<name "Celes" "!AA5041">
+"I-I'm sorry."
 #
-　セリスは俺の言葉に、激しく腰を動かして応えた。
+She moves her hips intensely in response.
 #
-<name "ラズロック">
-「冗談だったが……いい感じだぞ」
+<name "Lazlocke">
+"I was just teasing you, but that feels pretty
+ good."
 #
-<name "セリス" "!AA5042">
-「が、ん、頑張ります。
-　んぁん♪」
+<name "Celes" "!AA5042">
+"I-I'll do my best.
+ Mmmm!♪"
 #
-　俺はセリスの行為に身を任せながら、夜を過ごし
-　た。
+I leave her to it and enjoy the night with
+her.
 #
-<name "セリス" "!AA5043">
-「ひ、一晩中はちょっと……」
+<name "Celes" "!AA5043">
+"A-All night was a little too much..."
 #
-<name "ラズロック">
-「今度は、途中で代わってやる」
+<name "Lazlocke">
+"Next time, we'll switch halfway."
 #
-<name "セリス" "!AA5044">
-「……あの、私。
-　上よりも下の方が……その、好きなんです」
+<name "Celes" "!AA5044">
+"Um, I like it more, um... on bottom instead
+ of top."
 #
-<name "ラズロック">
-「下で強引にされる方が良いんだろ」
+<name "Lazlocke">
+"So you'd rather be pinned down, huh?"
 #
-<name "セリス" "!AA5045">
-「優しいのも好きです」
+<name "Celes" "!AA5045">
+"I like it gently too."
 #
-<name "ラズロック">
-「覚えておこう」
+<name "Lazlocke">
+"I'll keep it in mind."
 #
 \x78\x78

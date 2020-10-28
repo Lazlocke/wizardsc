@@ -1,792 +1,788 @@
 <music 10>
 <background "bg002a0.iph" 11>
-　セリスと出会い、そろそろ一ヶ月が過ぎようとし
-　ていた。
+It's been a month since I met Celes.
 #
-　その間、セリスには肉体訓練を中心にし、魔法に
-　関しては本を読ませるに留めた。
+She's been mainly focused on physical training
+so far, but I've kept her reading books on
+magic.
 #
-　文句の一つでも言ってくるかと思ったが、セリス
-　は黙って従っていた。
+I expected her to have objected at least once
+by now, but she's done everything I've told her
+to without complaint.
 #
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA0102">
-「はい」
+<name "Celes" "!AA0102">
+"Yes?"
 #
-　昼食を終えた後、読書をする為に本を取りに行こ
-　うとするセリスを俺は呼び止める。
+After lunch, I call her over when she goes to
+get a book.
 #
-<name "ラズロック">
-「……まだ、魔法使いになりたいか？」
+<name "Lazlocke">
+"Do you still want to become a wizard?"
 #
 <sprite "ta01a09.iph" 4 4 12>
-<name "セリス" "!AA0103">
-「もちろんです」
+<name "Celes" "!AA0103">
+"Of course."
 #
-<name "ラズロック">
-「相変わらず、即答だな。
-　まあ、それを感じさせるほど、良く頑張っている」
+<name "Lazlocke">
+"Prompt answer, like usual.
+ Well, you've been working hard, so you should
+ feel like you're making progress."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA0104">
-「そ、そうですか？」
+<name "Celes" "!AA0104">
+"R-Really?"
 #
-<name "ラズロック">
-「ああ……俺には勿体無いぐらいだ」
+<name "Lazlocke">
+"Yeah, I don't deserve you."
 #
 <sprite "ta01a17.iph" 4 4 12>
-<name "セリス" "!AA0105">
-「嬉しいです」
+<name "Celes" "!AA0105">
+"Thank you."
 #
 <removesprite -1 11>
-　セリスは素直に喜ぶ。
+She happily accepts the compliment.
 #
-　事実、俺には勿体無いぐらいの弟子だ。
+It's true. 
+She'd be wasted on someone like me.
 #
-　魔力さえあれば。
+...If she had mana.
 #
-<name "ラズロック">
-「……セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 12>
-<name "セリス" "!AA0106">
-「はい？」
+<name "Celes" "!AA0106">
+"Yes?"
 #
-<name "ラズロック">
-「そこのテーブルに手をついて、こっちに尻を向け
-　ろ」
+<name "Lazlocke">
+"Put your hands on the table and point your
+ butt towards me."
 #
-　俺の言葉に、セリスは戸惑った。
+She looks confused.
 #
 <sprite "ta01a06.iph" 4 4 12>
-<name "セリス" "!AA0107">
-「え？
-　あ……」
+<name "Celes" "!AA0107">
+"Huh?
+ Oh..."
 #
 <removesprite -1 11>
-　しかし、俺の言った事を理解すると、セリスはゆっ
-　くりと実行した。
+But when she understands, she slowly gets into
+position.
 #
 <music 36>
 <background "ev032a0.iph" 10>
-　俺はそのセリスの向けた尻を隠しているスカート
-　を捲くった。
+I lift the skirt that was covering her butt.
 #
-<name "セリス" "!AA0108">
-「う……」
+<name "Celes" "!AA0108">
+"..."
 #
-　セリスの身体が硬直するのがわかる。
+She stiffens.
 #
-　だが、俺は気にせずに、露わになった尻を弄った。
+But I ignore it and rub her ass.
 #
-　ストッキングと下着に阻まれながらも、その弾力
-　が俺を喜ばせる。
+Even with her stockings and underwear in the
+way, she's pleasantly soft.
 #
 <background "ev032a1.iph" 10>
-<name "セリス" "!AA0109">
-「あ……」
+<name "Celes" "!AA0109">
+"Ah..."
 #
-　俺は容赦無く、セリスの尻を撫で、そして股間を
-　弄る。
+I mercilessly stroke her butt and fondle her.
 #
-<name "セリス" "!AA0110">
-「はう……うう……」
+<name "Celes" "!AA0110">
+"Ah...oohh..."
 #
-　セリスの声に僅かな震えがある。
+Her voice is trembling.
 #
-<name "ラズロック">
-「……俺を楽しませろ」
+<name "Lazlocke">
+"Please me."
 #
-<name "セリス" "!AA0111">
-「は、はい！」
+<name "Celes" "!AA0111">
+"Y-Yes, sir!"
 #
-　セリスはそう返事をする。
+She responds immediately.
 #
-　しかし、俺の手が腹側からストッキングの中に入
-　り、股間を弄ろうとすると、セリスの足はギュッ
-　と閉じられ俺の手の動きを阻んだ。
+But as my hands move around her to the front,
+she closes her legs tight.
 #
-<name "ラズロック">
-「もう少し、足を広げろ」
+<name "Lazlocke">
+"Spread your legs a little more."
 #
-<name "セリス" "!AA0112">
-「あ、……は、はい」
+<name "Celes" "!AA0112">
+"Ah... Y-Yes, sir."
 #
-　そう返事をしても、セリスの足は広がらない。
+Despite what she said, she doesn't move.
 #
-　そうだろう。
+Not that I'm surprised.
 #
-　広げられる筈が無い。
+She can't do it.
 #
-　それほど、酷い事を俺はしている。
+I'm doing something awful to her.
 #
-　相手の欲しい物を見せ、己が欲望の捌け口にしよ
-　うとしている。
+I've shown that I want her, and I'm using her
+to satiate my desire.
 #
-　心が痛む。
+My heart aches for her.
 #
-　嘘だ。
+...But that's a lie.
 #
-　俺の股間のモノはセリスの尻を見ながら、大きく
-　膨張を始めている。
+My dick's already hard from her ass.
 #
-　セリスの肉体を求めている。
+I want to have her.
 #
-　早く突き入れたいと、願っている。
+I want to stick it inside her.
 #
-　相手が逃げない事を知りながら。
+And I know that she won't run away.
 #
-　俺の嫌いな自分だ。
+I hate myself.
 #
-　だが、それが俺だ。
+But it's who I am.
 #
-　薄汚い欲望の塊。
+A mass of lust and sin.
 #
-　自覚している。
+I know what I am.
 #
-　嫌というほど自覚している。
+I know what I am, and I hate it.
 #
-　そして、それから逃げられない事も。
+And I can't escape it.
 #
-<name "セリス" "!AA0113">
-「う……あ……うう……」
+<name "Celes" "!AA0113">
+"Oh...ah...ohh..."
 #
-　セリスはなんとか足を広げようと頑張っていた。
+She tries her best to open her legs.
 #
-　だが、やはり開かない。
+But they won't move.
 #
-　俺はもう良いと言って、セリスの尻を隠していた
-　ストッキングと下着をまとめてズリ降ろした。
+I don't need her to go any further though.
+I grab her stockings and panties and pull them
+down.
 #
 <background "ev032b1.iph" 10>
-<name "セリス" "!AA0114">
-「ひっ」
+<name "Celes" "!AA0114">
+"Eek!"
 #
-　セリスの白くて綺麗な尻が俺の視界に飛び込む。
+Her beautiful pale butt appears before me.
 #
-　その尻に、俺は直接触れる。
+I touch her directly.
 #
-<name "セリス" "!AA0115">
-「うううっ……」
+<name "Celes" "!AA0115">
+"Ohh..."
 #
-　セリスは逃げない。
+She doesn't run away.
 #
-　いや、硬直して逃げられないのかもしれない。
+No, she's probably too nervous to run.
 #
-　どちらでも構わない。
+Either way is fine.
 #
-　俺はセリスの尻に誘われるように、顔を近づけて
-　舌を伸ばした。
+I'm drawn to her ass, lean in close, and reach
+out with my tongue.
 #
-<name "セリス" "!AA0116">
-「っ！！」
+<name "Celes" "!AA0116">
+"Ah!"
 #
-　俺の舌がセリスの尻に触れた途端、セリスの背が
-　ビクンッと跳ね上がった。
+As soon as my tongue touches her, a tremble 
+runs up her spine.
 #
-<name "ラズロック">
-「……やめるか？」
+<name "Lazlocke">
+"Do you want to stop?"
 #
-　偽善だ。
+I'm being a hypocrite.
 #
-　セリスが、やめる筈がない。
+I know she's not going to stop me.
 #
 <background "ev032b0.iph" 10>
-<name "セリス" "!AA0117">
-「だ、大丈夫です」
+<name "Celes" "!AA0117">
+"I-I'm okay."
 #
-　俺の望んだ通りの答えを返す。
+She gives the answer I wanted.
 #
-　セリスと出会ってから今日まで、セリスがどれだ
-　け魔法使いになりたがっているか、十分に知って
-　いる。
+Ever since the first day I met her, I've known
+how badly she wants to be a wizard.
 #
-　知りながら、退路を示す。
+Even knowing that, I gave her a way out.
 #
-　セリスの為ではなく、俺の為に。
+Not for her, for me.
 #
-　逃げないとわかっているのに。
+Even though I know she won't run away.
 #
-　俺が楽になりたいから。
+I want to make this easy.
 #
-<name "ラズロック">
-「……セリス」
+<name "Lazlocke">
+"Celes."
 #
-<name "セリス" "!AA0118">
-「は、はい」
+<name "Celes" "!AA0118">
+"Y-Yes?"
 #
-<name "ラズロック">
-「……犯すぞ。
-　抵抗するな。
-　受け入れろ」
+<name "Lazlocke">
+"I'm going to fuck you.
+ Don't struggle.
+ Accept it."
 #
-<name "セリス" "!AA0119">
-「……ぁ……ひっ」
+<name "Celes" "!AA0119">
+"..."
 #
-　セリスの返事を待たず、俺はセリスの尻に顔を埋
-　めた。
+I don't wait for her to answer before burying
+my face against her.
 #
-　鼻先をセリスの尻の間に埋めながら、舌を陰部に
-　伸ばして這わせる。
+I reach my tongue out and drag it along her
+entrance.
 #
 <background "ev032b2.iph" 10>
-<name "セリス" "!AA0120">
-「うううっっっ！」
+<name "Celes" "!AA0120">
+"Nnnnhhh!"
 #
-　セリスの汗の匂いが、俺の舌に乗る。
+The smell of her sweat covers my tongue.
 #
-　その匂いをさらに求めるように、俺の舌がセリス
-　のまだ未成熟な陰部に、強引に潜り込んでいく。
+I run my tongue across her further to taste her
+even more.
 #
-<name "セリス" "!AA0121">
-「あっ、ああっ、あああっ！」
+<name "Celes" "!AA0121">
+"Ah! Ahhh! Ahhh!"
 #
-　セリスの閉じられた両足の間に手を入れ、強引に
-　広げる。
+I grab her thighs and force her legs open.
 #
-<name "セリス" "!AA0122">
-「ひっ、あ、し、師匠っ、ふぁ、あっ、ぁぁ……
-　く、うううっ、ぁ、だ、ひっ、ううう……」
+<name "Celes" "!AA0122">
+"Eek! Ah! M-Master! Aah! Ah! Aahh...
+ Ngh...aahh... D... Ah! Ohhh..."
 #
-　幾重にも折り畳まれた陰部のヒダを押しのけ、目
-　的の穴を見つけるとそこに舌を押し込む。
+I lick all around her, exploring her until I 
+find her hole.
 #
-<name "セリス" "!AA0123">
-「あ、ぁっ、ぁぁぁぁっ！」
+<name "Celes" "!AA0123">
+"Ah! Ah! Ahhh!"
 #
-　だが、ギュッと閉じられたその穴は、俺の舌の侵
-　入を拒む。
+But she clenches tight and refuses to let my
+tongue in.
 #
-　俺は両手の指を使い、陰部を押し拡げた。
+I hold her open with my fingers.
 #
-<name "セリス" "!AA0124">
-「ぁぁぁっ！」
+<name "Celes" "!AA0124">
+"Ahh!"
 #
-　そして、舌を潜り込ませようとさらに舌の動きを
-　速める。
+And then lick faster to get deeper in her.
 #
-　穴だけを狙って、俺は行動する。
+I'm focusing everything on her hole.
 #
-　俺の意思を明確に伝える為に。
+To convey to her exactly what I'm going to do.
 #
-　他の部分など、どうでも良い。
+I don't care about the rest of her right now.
 #
-　俺はこの穴に、俺の股間のモノを突き入れたい。
+I want to plunge my dick into her.
 #
-　それだけだ。
+That's all.
 #
-<name "セリス" "!AA0125">
-「ひっ、ひあっ、あっ、あああああっ！」
+<name "Celes" "!AA0125">
+"Aah! Ah! Aah! Aaahhh!"
 #
-　セリスは俺の舌が穴に入ろうとする度に、ビクビ
-　クと身体を震わせている。
+She shakes and trembles every time my tongue
+goes into her.
 #
-<name "セリス" "!AA0126">
-「あぁっ、あ、あうう、ううあ、うあうううっ！」
+<name "Celes" "!AA0126">
+"Aah! Ah! Oohh! Aahh! Ahhhh!"
 #
-　俺の舌が少しだけ穴に侵入した。
+My tongue's able to go in just a little.
 #
-　本当に少しだ。
+Seriously, barely at all.
 #
-　だが、すぐに強烈な締め付けで俺の舌を苦しめる。
+And as soon as it does, she clenches down
+painfully on it.
 #
-　俺は舌を抜き、両手の指で拡げられたセリスの陰
-　部を見た。
+I take my tongue out and look at her, still
+open between my fingers.
 #
-　俺の唾液によって、テカテカと光る陰部。
+Her pussy is glistening with my saliva.
 #
-　俺は自分の股間のモノを取り出し、その陰部に押
-　し当てた。
+I take out my dick and hold it against her.
 #
 <background "ev033a1.iph" 10>
-<name "セリス" "!AA0127">
-「うっ！
-　うううううぁぁっっ！！」
+<name "Celes" "!AA0127">
+"Aah!
+ Aaaahhhhh!"
 #
-　俺はセリスの上に覆い被さり、力尽くでセリスの
-　膣内へモノ先を侵入させようと試みた。
+I lean over her and try to force my way in.
 #
-<name "セリス" "!AA0128">
-「ぁっ！
-　ぁぁぁっ！
-　っ！！」
+<name "Celes" "!AA0128">
+"Ah! Aaah! Nrgh!"
 #
-　テーブルの上で、俺に押し潰されるセリス。
+She's crushed between me and the table.
 #
-　その両手が、テーブルの端を掴んで耐えている。
+She grabs the sides of the table and tries to
+endure it.
 #
-　そんなセリスの陰部に、俺のモノ先を押し込んだ。
+I keep pushing into her.
 #
-<name "セリス" "!AA0129">
-「っ！
-　あっ！
-　っ！！！」
+<name "Celes" "!AA0129">
+"Nh! Ah! Ahh!"
 #
-　モノ先が膣口を探し、その穴を見つけると同時に
-　突き挿れる。
+She can't squirm away any further and my dick
+starts to dig into her.
 #
-<name "セリス" "!AA0130">
-「っっっっ！！！」
+<name "Celes" "!AA0130">
+"Nnnnnhhhh!"
 #
-　俺のモノ先は、セリスの膣口を強引に拡げ、その
-　身を潜り込ませていく。
+It forces her open and slides in.
 #
-<name "セリス" "!AA0131">
-「ぅぁぁっ！！！！！」
+<name "Celes" "!AA0131">
+"Aaahh!"
 #
-　モノ先が入ったが、声が出そうなほど痛い締め付
-　けを味わった。
+Just the tip's in, and she's clamping down
+painfully hard.
 #
-　だが、それでも俺は怯まない。
+But I don't stop.
 #
-　逆にさらに奥へと欲望を掻き立て、腰を押し付け
-　る。
+It inflames my lust further and I push harder.
 #
-<name "セリス" "!AA0132">
-「ひぐぅっ！！！！」
+<name "Celes" "!AA0132">
+"Aagh!"
 #
-　ズズッとモノ先が侵入して行くと、弾力ある抵抗
-　が俺のモノの侵入を阻む。
+My dick is stopped by an elastic wall inside
+her.
 #
-　処女膜だ。
+Her hymen.
 #
-　それを感じた瞬間、俺の欲望がさらに増した。
+Feeling it makes me want her even more.
 #
-　グイグイと数回、乱暴に突いて処女膜を破ろうと
-　するが、なかなか破れない。
+I push against her a few times, but it doesn't
+give way easily.
 #
-　処女膜の硬さもあるが、膣の狭さが勢いを殺して
-　いる。
+It's not just her hymen.
+She's so tight that it's hard to apply much
+force.
 #
 <background "ev033a0.iph" 10>
-<name "セリス" "!AA0133">
-「っ！！！
-　！
-　っ！！！！」
+<name "Celes" "!AA0133">
+"Ah!!!
+ Nnh!
+ Nnnnngh!!!"
 #
-　セリスは苦痛に口を開けるが、声は出ない。
+She gasps painfully, but her voice doesn't
+come.
 #
-　テーブルの端を掴みながら、俺の行為に耐えてい
-　た。
+All she can do is grip the table and endure it.
 #
-　本当に痛そうにしている。
+She must be in a lot of pain.
 #
-　だが、今の俺は止める所か、さらに苦痛を与えよ
-　うと腰を動かし続ける。
+But I have no intention of stopping.
+I keep pushing, hurting her even more.
 #
-　俺の嫌いな俺。
+I hate myself.
 #
-　だが、俺は今の俺が本当の俺だと自覚していた。
+But I know that this is the real me.
 #
-　自覚しているが、止められない。
+I know it, but I can't stop it.
 #
-　俺のモノを突き入れられようとして苦しんでいる
-　セリスの姿に、俺の心は歓喜していた。
+Seeing her suffer as I bury my dick inside her
+is exhilarating.
 #
-　そして、俺は腰をさらに強く振り、セリスの処女
-　膜を破って一気にモノ先を膣奥に潜り込ませた。
+And thrust harder, break through her hymen,
+and bury myself completely inside her.
 #
-<name "セリス" "!AA0134">
-「っっっっっ！！！！」
+<name "Celes" "!AA0134">
+"Nnnnnngh!"
 #
-　もうこれ以上は侵入できない。
+I'm as deep as I can go.
 #
-　そう思わせる狭さとキツさだったが、俺はまだ奥
-　を求めてモノ先を押し込む。
+It's tight and stiff inside her, but I keep
+pushing further.
 #
-<name "セリス" "!AA0135">
-「！！！！！！！」
+<name "Celes" "!AA0135">
+"Nnnnnnghhh!!!!"
 #
-　グリグリとモノ先を捻り、強引に肉壁を押し退け
-　ながら。
+My dick plunges through her, wrenching her
+flesh open.
 #
-　そして、モノ先がセリスの膣奥の壁に当たる。
+And finally hits the deepest part of her.
 #
-　コツンコツンと何度かノックし、そこが最奥だと
-　確認して俺は動きを止めた。
+I press against her womb a few times to be
+sure of it.
 #
-<name "セリス" "!AA0136">
-「ぁ……ぁ……ぁぁ……うぁ……！！」
+<name "Celes" "!AA0136">
+"Ah...ah...ah...ah!"
 #
-　目の前には、ビクビクと身体を痙攣させ、悶え苦
-　しんでいるセリス。
+She twitches and convulses in agony.
 #
-　そのセリスの股間の大切な部分に、俺のモノが深
-　々と突き刺さっている。
+My dick is buried deep inside her most intimate
+place.
 #
-　大丈夫かとは聞かない。
+I don't ask her if she's okay.
 #
-　もう、俺の頭はセリスの肉体を楽しむ事しか考え
-　ていない。
+There's no thought in my head except savoring
+her body.
 #
-　俺はセリスの尻を揉むように掴み、腰を引いた。
+I grab her butt and pull her up.
 #
-<name "セリス" "!AA0137">
-「うっ！！！
-　……ああああああああああっ！」
+<name "Celes" "!AA0137">
+"Ngh!
+ Aaaaaaahhhhhhh!!!"
 #
-　苦労して入った俺のモノが、ズルズルッと強引に
-　セリスの内肉を引き摺りながら出てくる。
+My dick that I forced into her slides back,
+wrenching against her walls as it does.
 #
-<name "セリス" "!AA0138">
-「ぁぁっ、ぁぁぁぁぁ！
-　ぁぁぁああああああああああ！！」
+<name "Celes" "!AA0138">
+"Aaah! Ahhhhhh!
+ Aaaaaaaahhhh!!!"
 #
-　響くセリスの悲鳴。
+Her scream echoes in the air.
 #
-<name "セリス" "!AA0139">
-「ひっ、ひあっ、ひああああああっ！！
-　だ、あ、や、やめ、あああああああああああ！」
+<name "Celes" "!AA0139">
+"Ah! Aah! Ahhhhhhhhh!
+ No! Ah! D-Don't!
+ Aaaaaaaaaaaaaahhhh!!!"
 #
-　モノを半分ほど引き抜いた所で、動きを止め、ま
-　た押し込んだ。
+Once my dick is halfway out, I stop, and push
+it back in.
 #
-<name "セリス" "!AA0140">
-「っ！！！！！！！」
+<name "Celes" "!AA0140">
+"Ah!!!!"
 #
-　奥まで。
+All the way into her.
 #
-<name "セリス" "!AA0141">
-「っ！
-　っっっ！！！！」
+<name "Celes" "!AA0141">
+"Ngh!
+ Nnnnnnnngh!"
 #
-　セリスの背中が弾けるように跳ね上がったが、俺
-　はそれを身体全体でテーブルに押し付け戻す。
+A convulsion runs up her spine, but I lean on
+her harder and pin her in place.
 #
-<name "セリス" "!AA0142">
-「あっ、ああっ！
-　あああああっ！！」
+<name "Celes" "!AA0142">
+"Ah! Aaah!
+ Aaaaahhhh!"
 #
-　そうしながらも、俺は腰の動きを止めない。
+And I don't stop thrusting.
 #
-<name "セリス" "!AA0143">
-「ぁぁっ！
-　ぁ、ひっ、ひぁ、ひあうううううっ！！」
+<name "Celes" "!AA0143">
+"Aaah!
+ Ah! Ahh! Aahh!
+ Aaaahhhhhhhh!"
 #
-　グリグリとセリスの膣壁を擦り、拡張しながらモ
-　ノを出入りさせる。
+I rub my dick through the walls of her pussy,
+stretching her open around me.
 #
-<name "セリス" "!AA0144">
-「あ、あう、ひ、ひぁ！
-　う、うごか……あああああああああ！」
+<name "Celes" "!AA0144">
+"Ah! Aah! Ngh! Aah!
+ D-Don't m... Aaaahhhhhh!!!"
 #
-　セリスの言葉が耳に乗る度に、俺の興奮は高まっ
-　ていく。
+Each time she cries out, it inflames my lust
+more.
 #
-<name "セリス" "!AA0145">
-「だ、だめ、あ、あう、うあ、うああああああっ！
-　これ、これ、あひ、ひ、ひぁ、ひぁぁぁ！！」
+<name "Celes" "!AA0145">
+"N-No! Ah! Aah! Ahhhhh!
+ That's... You're... Ah! Aaahh!
+ Ahhhhh!"
 #
-　セリスの膣内の狭さ、締め付けが俺のモノを喜ば
-　せる。
+The tight squeezing of her pussy delights my
+dick.
 #
-<name "セリス" "!AA0146">
-「ひあ、ひぁ、ひぁ、ひああううう……！！！
-　うぁぁ、あぁぁぁぁぁぁぁ！！」
+<name "Celes" "!AA0146">
+"Ah! Ahh! Aah! Aaah!
+ Aaaah! Aahhhhhhh!"
 #
-　俺の身体によって押し付けられている小さな身体。
+She struggles against me.
 #
-<name "セリス" "!AA0147">
-「あ、あ、あっ、ぁぁ、あうううう……
-　くぅ……ううう、くぅぁぁぁぁ……」
+<name "Celes" "!AA0147">
+"Ah! Ah! Ah! Aah! Ahhhh...
+ Ngh... Oohh... Ahhh..."
 #
-　それを犯している。
+I keep fucking her.
 #
-<name "セリス" "!AA0148">
-「あああああああ！！
-　あひ、ひぁ、ひぁっ、うううううっ！！！
-　うあぅ、うあぁぁぁ！」
+<name "Celes" "!AA0148">
+"Aaaaah!
+ Aah! Ahh! Aah! Oohhh!
+ Aaah! Ahhhh!"
 #
-　そう思うだけで、俺のモノがさらに膨張する。
+Just thinking about it makes my dick harder.
 #
-<name "セリス" "!AA0149">
-「あああああああああああ！！！」
+<name "Celes" "!AA0149">
+"Aaaaaaaaahhhhhh!!!"
 #
-　俺の頭の中で、パンッと何かが弾けた。
+Something finally bursts in my head.
 #
-　そう感じた瞬間、俺はセリスの膣奥で射精を開始
-　していた。
+And at the same time, I start coming inside her.
 #
 <background "ev033a2.iph" 10>
-<name "セリス" "!AA0150">
-「ぁ、ぁ、ぁ……ぁぁぁ……うぁ……？」
+<name "Celes" "!AA0150">
+"Ah... Ah... Aaah...
+ Ahh?"
 #
-　ドクンッ、ドクンッ、ドクンッと力強く脈打ちな
-　がら、大量の精液をセリスの膣奥に流し込んでい
-　く。
+My dick throbs and pulses as I pour a fountain
+of semen into her.
 #
 <background "ev033a3.iph" 10>
-<name "セリス" "!AA0151">
-「あ？
-　え？
-　え？」
+<name "Celes" "!AA0151">
+"Ah? Huh?
+ Huh?"
 #
-　セリスは俺の動きが止まった事と、その後に行な
-　われた射精に戸惑っている。
+She's confused by me stopping and the sensation
+of my liquid flowing in her.
 #
-　俺のモノの脈打ちは感じているだろう。
+She can feel my dick throbbing.
 #
-　膣奥の壁に叩きつけるような射精も感じているだ
-　ろう。
+She can feel the semen beating against the walls
+of her pussy.
 #
-<name "セリス" "!AA0152">
-「あ……あ……あ……あ……？」
+<name "Celes" "!AA0152">
+"Ah...ah...ah...
+ Huh?"
 #
-　軽い混乱。
+She's unsure what to do.
 #
-　その混乱を無視しながら、俺の射精は続く。
+But I keep coming regardless.
 #
-　ドクンッ、ドクンッ、ドクンッと。
+Spurt... Spurt... Spurt...
 #
-<name "セリス" "!AA0153">
-「あ……ぁ……は、はい……あ……」
+<name "Celes" "!AA0153">
+"Ah...ah...
+ O-Okay...
+ Ah..."
 #
-　セリスは状況を身体で理解し、大きな悲鳴を上げ
-　た。
+She figures out what's happening and lets out a
+small cry.
 #
-　だが、俺の射精は執拗に続けられた。
+But my ejaculation doesn't stop.
 #
 <background "ev034a0.iph" 10>
-<name "セリス" "!AA0154">
-「うあ、ぁ……あ……」
+<name "Celes" "!AA0154">
+"Aah...ah...ah..."
 #
-　俺は、セリスがこれ以上はもう無理だと言う事が
-　分かっていたが、行為を止めなかった。
+I know that she would tell me that she can't
+take any more, but I'm not finished.
 #
-　俺はモノを挿入したままセリスの身体を持って立
-　つ。
+I stand up, still inside her.
 #
-　身長差で、セリスの足がつかないので、俺はその
-　両足を抱えた。
+Because she's so much shorter than me, her feet
+don't reach the ground. I have to hold her by
+the legs.
 #
-　そして、そのまま後ろの椅子に座り込む。
+I sit down in the chair behind me.
 #
-<name "セリス" "!AA0155">
-「っ！！！」
+<name "Celes" "!AA0155">
+"Nngh!"
 #
-　座った衝撃がセリスを責めた。
+The impact pains her.
 #
-　セリス自身の体重が、俺のモノをさらに奥へ押し
-　込もうとしている。
+Her own weight pushes me deeper into her.
 #
-　抵抗しようにも、今のセリスに自身の体重を支え
-　る事はできない。
+Right now, she doesn't have enough strength to
+hold herself up to stop it.
 #
-　ズズッとモノがセリスの膣内に深く入り、モノ先
-　がセリスの膣奥の壁を突き押す。
+My dick is buried deep inside her, pressed 
+against her womb.
 #
-<name "セリス" "!AA0156">
-「！！！！」
+<name "Celes" "!AA0156">
+"Nnnhhh!"
 #
-　それに抵抗しようとしたのか、セリスの膣がギュッ
-　と締め付けられた。
+Her pussy clamps down hard, trying to force me
+out of her.
 #
-　先程、流し込んだ精液がゴボゴボと零れ出てくる。
+The semen I just poured into her comes pouring
+out.
 #
 <background "ev034a1.iph" 10>
-<name "セリス" "!AA0157">
-「ぁ……ぁ……う……うあ……あ……」
+<name "Celes" "!AA0157">
+"Ah...ah... 
+ Ooh...aah...ah..."
 #
-　俺は苦痛に耐えるセリスの耳元で、囁く。
+I whisper in her ear as she grits her teeth
+through the pain.
 #
-<name "ラズロック">
-「腰を動かせ」
+<name "Lazlocke">
+"Move your hips."
 #
-<name "セリス" "!AA0158">
-「……え……あ……あ……」
+<name "Celes" "!AA0158">
+"Huh? Oh...ah..."
 #
-　少し時間は掛かったが、セリスは俺の言葉を理解
-　し、俺の体に手を置いてなんとか動こうとする。
+It takes her a moment to process, but she brings
+her hands down to me and tries to move.
 #
-　だが、動けない。
+She can't.
 #
-　苦痛が邪魔をする。
+The pain's too much.
 #
-　腕に力が入らない。
+She doesn't have the strength.
 #
-　俺のモノを引き抜けないでいる。
+She can't get my dick out of her.
 #
-<name "ラズロック">
-「無理か？」
+<name "Lazlocke">
+"You can't?"
 #
-<name "セリス" "!AA0159">
-「ぁ……」
+<name "Celes" "!AA0159">
+"Ah..."
 #
-　セリスは顔で訴える。
+She begs me with a look.
 #
-　無理だと。
+She can't.
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"All right."
 #
-　俺はセリスの両足を持って、セリスの身体を持ち
-　上げた。
+I grab her legs and lift her up.
 #
-<name "セリス" "!AA0160">
-「っ！！！！」
+<name "Celes" "!AA0160">
+"Ngh!"
 #
-　ズズッとモノが引かれた。
+My dick starts to slide out of her.
 #
-　そして、セリスの身体を落下させる。
+And then I let her body drop.
 #
-<name "セリス" "!AA0161">
-「っ！！！！！」
+<name "Celes" "!AA0161">
+"Ngh!"
 #
-　俺は自分の快楽の為に、それを繰り返した。
+I do it again, over and over, for my pleasure.
 #
-<name "セリス" "!AA0162">
-「ぁう……うあ……ああああああっ！」
+<name "Celes" "!AA0162">
+"Aah! Aah! Aahhhh!"
 #
-　セリスは無抵抗なまま、俺に身体を自由に上下さ
-　れた。
+She flops up and down on top of my limply.
 #
-<name "セリス" "!AA0163">
-「あ、あ、あう……うう……くぅぁ……」
+<name "Celes" "!AA0163">
+"Ah...ah...aaah...
+ Ooh...nngh..."
 #
-　セリスの小さな身体が宙を舞い、そして俺のモノ
-　を刺激する。
+Her small body bounces in the air, stimulating
+my dick.
 #
-<name "セリス" "!AA0164">
-「あ、あぁぁぁぁぁっ！！
-　ふぅぁぁ、あぁぁっっっ！！！」
+<name "Celes" "!AA0164">
+"Ah! Aaaaah!
+ Ahhhh! Aaaaahhh!"
 #
-　その度に、セリスとの接合部から俺の流し込んだ
-　精液や、破瓜の血が零れ飛び散る。
+Each time, semen and blood from her hymen splash
+out of where we're connected.
 #
-<name "セリス" "!AA0165">
-「あ、あう、うぁ、うぁぁぁぁぁ！！
-　ふぅぁ、ふぅぁぁぁ……」
+<name "Celes" "!AA0165">
+"Ah! Aah! Ahh! Aaaaah!!!
+ Aaah! Aahhhh..."
 #
-　俺は少しづつセリスを上下する動きを速めるが、
-　俺のモノはその速さ以上に快楽を求め始める。
+I start bouncing her faster.
+My dick isn't satisfied with going this slow.
 #
-<name "セリス" "!AA0166">
-「ぁぁっ、くぅぁぁっ、あ、あ、ぁぁぁっ！
-　ひぅ、な、な、ひ、ひぁ、あぁぁぁぁぁぁあぁ！」
+<name "Celes" "!AA0166">
+"Aaah! Ahhh! Ah! Ah! Aaaah!
+ Nnh! W-Wh... Ah! Aah!
+ Aaaahhhh!"
 #
-　セリスの動きを止め、俺は椅子の上で跳ねるよう
-　に腰を動かしてセリスの膣内で、モノを激しく前
-　後させた。
+I hold her still in the air and thrust up into
+her hard and fast.
 #
-<name "セリス" "!AA0167">
-「ぁ、ぁ、ぁぁぁぁぁあああ、うううぁあぁあぁ！」
+<name "Celes" "!AA0167">
+"Ah! Ah! Aaaaah!
+ Aaahhhhhh!!!"
 #
-　セリスを上下させていた時よりも激しく、乱暴に
-　モノがセリスの膣内で暴れ回る。
+It's more intense than when I was bouncing her.
+My dick pistons wildly inside her pussy.
 #
-<name "セリス" "!AA0168">
-「あがががががっ！！
-　ひ、ひ、ひぁぁぁぁぁっ！！」
+<name "Celes" "!AA0168">
+"Aaaagh!
+ Ah! Ah! Aaaah!"
 #
-　そうして俺は欲望を高め、モノに意識を集中して
-　いく。
+I give in completely to my lust and think of
+nothing but my dick.
 #
-<name "セリス" "!AA0169">
-「あ、あ、ああああああああああ！」
+<name "Celes" "!AA0169">
+"Ah! Ah!
+ Aaaaaaaahhhhhhh!!!"
 #
-　そして、不意にセリスを高く持ち上げてモノを大
-　きく引き……
+I suddenly raise her up high and pull my dick
+almost out of her.
 #
-<name "セリス" "!AA0170">
-「ぁ……」
+<name "Celes" "!AA0170">
+"Ah..."
 #
-　セリスの身体を放すと同時に、俺は腰を突き上げ
-　た。
+And as I let her go, I thrust upward.
 #
-<name "セリス" "!AA0171">
-「っ！！！」
+<name "Celes" "!AA0171">
+"Nngh!"
 #
-　俺のモノが深くセリスの膣内に侵入し、膣奥の壁
-　を突き上げる。
+My dick plunges into her, wrenching her walls
+open all at once.
 #
-<name "セリス" "!AA0172">
-「！！！！！」
+<name "Celes" "!AA0172">
+"Nnnnnnnnh!"
 #
-　そして、射精。
+And I come.
 #
 <background "ev034a3.iph" 10>
-　ドクドクドクと俺のモノ先から大量の精液が勢い
-　良く吐き出され、セリスの膣奥を汚していく。
+A torrent of semen bursts from my dick and
+defiles her insides.
 #
-<name "セリス" "!AA0173">
-「あ、あ、ぐぅぁ………………」
+<name "Celes" "!AA0173">
+"Ah! Ah! Ngh..."
 #
-　セリスは深い挿入の苦痛に身体を震わせながら、
-　俺の射精を受け止めた。
+She trembles from the pain of the sudden deep
+insertion as I ejaculate into her.
 #
-<name "セリス" "!AA0174">
-「ぁ……ぁ……う……くぁ……ぁ……
-　ぁぁ……うぁ……ぅぅぅぅっ……」
+<name "Celes" "!AA0174">
+"Ah...ah... 
+ Ohh...nh...ah...
+ Aah...aah...ohhh..."
 #
-　ドクンドクンと射精の勢いが弱まりながらも、俺
-　の長い射精は続く。
+I pour into her for a long time, until it starts
+to wear off.
 #
-<name "セリス" "!AA0175">
-「ぁ……ぁぁ……うぁ……ふぅぁ…………」
+<name "Celes" "!AA0175">
+"Ah...aah...aah...ahhh..."
 #
-　その俺の射精が終り、もう一度だと俺がモノ先を
-　捻った時、セリスは身体を硬直させた。
+Once I'm finished coming, I push deep into her
+again. She goes completely stiff.
 #
 <background "ev034a2.iph" 10>
-<name "セリス" "!AA0176">
-「ぁ……ぁ……」
+<name "Celes" "!AA0176">
+"Ah...ah..."
 #
-　俺のモノが収められている膣内がギュッと締め付
-　けられる。
+Her pussy clamps tight on my dick.
 #
-　何かに耐えているような感じだ。
+It feels like she's struggling.
 #
-　だが、弾けきれない。
+But she can't get over the last wall.
 #
-<name "セリス" "!AA0177">
-「ぁ……ぁう……うぁ……ぁ……な、……ぁ？」
+<name "Celes" "!AA0177">
+"Ah...aah...aaah...ah...
+ Wha...ah?"
 #
-　俺はそれを手助けするように、セリスの股間の割
-　れ目から少しだけ芽を出した小さなマメを指先で
-　摘まんで捻った。
+I better help her then.
+I give the small bean at the top of her
+entrance a slight pinch and then twist it.
 #
-<name "セリス" "!AA0178">
-「っ！！！」
+<name "Celes" "!AA0178">
+"Nnnh!"
 #
-　これまでまるっきり触られなかったマメを刺激さ
-　れたのは衝撃だったのか、セリスの身体の硬直は
-　さらに激しくなる。
+She jolts like she was hit. 
+Has she never touched herself there before?
+Her whole body goes rock solid.
 #
-　が、俺のモノが収められている膣内は逆にビクビ
-　クと脈打ち動く。
+But inside her pussy, her walls writhe and
+pulsate.
 #
-<name "セリス" "!AA0179">
-「あっ、あっ、あぁあっ！！！
-　………………ううううぁぁぁぁぁっ！！」
+<name "Celes" "!AA0179">
+"Ah! Ah! Aaaah!
+ Aaaaaahhhhhh!!!"
 #
-　そして、セリスは小刻みに身体を震わせながら軽
-　く達した。
+She trembles through a small orgasm.
 #
 <background "ev034a4.iph" 10>
-<name "セリス" "!AA0180">
-「ぁ……ぁ……ぁぁぁ……ぁ……ぁぁ……うぁ……」
+<name "Celes" "!AA0180">
+"Ah...ah...ahhhh...
+ Ah...aaaah...ahhhh..."
 #
-　それが精神の限界だったのか、セリスは俺にもた
-　れるように気を失ってしまった。
+It looks like that's all she could take.
+She passes out and falls limply on me.
 #
-　気を失ったセリスの頬にキスをしながら、俺は腰
-　を動かし始めた。
+I kiss her on the cheek and start moving again.
 #
-　セリスが気を失ったのだから、止めようとは思う。
+I should stop because she's unconscious.
 #
-　だが、俺の身体はまだ求めていた。
+But my body still wants more.
 #
-　俺はセリスの膣内に、もう一度だけ射精をするべ
-　くモノを動かし続けた。
+I come just one more time in her.
 #
 <background "bg021a0.iph" 10>
-　行為後、俺は気を失ったセリスを部屋に運び、寝
-　かせた。
+After I finish, I carry her to her room and
+lay her on her bed.
 #
-　その日の内に目が覚めただろうが、セリスは部屋
-　から出て来なかった。
+I hear her wake up later, but she doesn't come
+out of her room.
 #
 \x78\x78

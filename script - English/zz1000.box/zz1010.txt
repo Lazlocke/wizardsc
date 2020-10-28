@@ -1,74 +1,76 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA4973">
-「なんですか？」
+<name "Celes" "!AA4973">
+"Yes?"
 #
-<name "ラズロック">
-「ちょっと相手をしてくれ」
+<name "Lazlocke">
+"Be with me for a little bit."
 #
 <sprite "ta01a15.iph" 4 4 12>
-<name "セリス" "!AA4974">
-「え？
-　あ、はい……」
+<name "Celes" "!AA4974">
+"Huh?
+ Oh, yes, sir."
 #
-　素直に俺の傍にやってくるセリス。
+She obediently comes to me.
 #
-<name "ラズロック">
-「服を脱いで、ベッドで横になれ」
+<name "Lazlocke">
+"Undress and lay down in bed."
 #
 <removesprite -1 11>
-　俺の指示に従い、少し恥じらいながら服を脱いで
-　ベッドに入った。
+She bashfully follows my order and gets into
+bed.
 #
-　それに遅れ、俺もベッドに潜り込む。
+A moment later, I jump in with her.
 #
 <music 35>
-\x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :28F: 
+\x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :3EE3: 
 <background "ev035a1.iph" 10>
 \x2B
-:28F
-\x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :2B6: 
+:3EE3
+\x1A\x01\x0A\x02\x01\x99 2 \x01\x0E :3F0A: 
 <background "ev035b1.iph" 10>
 \x2B
-:2B6
-\x1A\x01\x0A\x02\x01\x99 3 \x01\x15 :2DD: 
+:3F0A
+\x1A\x01\x0A\x02\x01\x99 3 \x01\x15 :3F31: 
 <background "ev035c1.iph" 10>
 \x2B
-:2DD
-\x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :304: 
+:3F31
+\x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :3F58: 
 <background "ev035d1.iph" 10>
-:304 + 1
-<name "セリス" "!AA4983">
-「あ……ん♪」
+:3F58 + 1
+<name "Celes" "!AA4983">
+"Ah...mmm!♪"
 #
-　俺はセリスに深いキスをし、そのまま顔から陰部
-　にまで舌を這わせて唾液を塗りつける。
+I kiss her deeply, and then run my tongue down
+her body from her face to her pussy, covering
+her with my saliva.
 #
-<name "セリス" "!AA4984">
-「んぁ……あ、んんんっ」
+<name "Celes" "!AA4984">
+"Mmm... Ah! Mmmmm!"
 #
-　そして、強引な挿入。
+And then plunge my dick into her.
 #
-<name "セリス" "!AA4979">
-「ああん、ん、んぁ、んぁ、ぁぁ……」
+<name "Celes" "!AA4979">
+"Aaah! Mm! 
+ Mm...mmm...aahhh..."
 #
 \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :42C: 
 <background "ev035a3.iph" 10>
@@ -85,31 +87,33 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :4A1: 
 <background "ev035d3.iph" 10>
 :4A1 + 1
-　俺の身体をぶつけるように腰を振り、セリスの膣
-　内を精液で満たす。
+I thrust against her and fill her pussy.
 #
-　二度、三度。
+Twice...
+Three times...
 #
-　四度目で、俺の動きは止まった。
+After the fourth time, I stop.
 #
-　セリスを抱き締めながら、ベッドに横たわる。
+I hug her close to me as I lay down in bed.
 #
-<name "セリス" "!AA4980">
-「ぁ……ぁ……ぅ……し、師匠……うぁ……」
+<name "Celes" "!AA4980">
+"Ah...ah...ah...
+ M-Master... Ahh..."
 #
-　俺の相手をしている最中に何度もイったからだろ
-　う、俺以上にセリスは息が荒かった。
+Maybe it's because we did it so many times in a
+row, but she's breathing harder than me.
 #
-<name "セリス" "!AA4981">
-「ぁ……ん……師匠、何か……乱暴過ぎます……」
+<name "Celes" "!AA4981">
+"Ah...mmm...
+ Master, that was just... too rough..."
 #
-<name "ラズロック">
-「お前が可愛いからだ」
+<name "Lazlocke">
+"You were too cute for me to help myself."
 #
-<name "セリス" "!AA4982">
-「も、もう……」
+<name "Celes" "!AA4982">
+"G-Geez..."
 #
-　セリスは少しテレた感じで俺の頬にキスをし、も
-　う一回と催促をしてきた。
+She blushes and kisses me on the cheek.
+I make her do it one more time.
 #
 \x78\x78

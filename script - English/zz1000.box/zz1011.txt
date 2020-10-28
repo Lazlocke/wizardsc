@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 35>
@@ -28,44 +28,45 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev035d1.iph" 10>
 :139 + 1
-　俺はセリスの膣内に強引にモノを捻じ込んで納め、
-　セリスを抱き締めながら深いキスをする。
+I force my dick into her and kiss her deeply.
 #
-<name "セリス" "!AA4986">
-「ん、んぁ、あ……むぁん……んん」
+<name "Celes" "!AA4986">
+"Mm...mmm...ah...
+ Aah...mmm..."
 #
-　キスを終えると、セリスの胸に子供のようにしゃ
-　ぶりつく。
+After I finish kissing her, I suck on her breast
+like a baby.
 #
-<name "セリス" "!AA4987">
-「ぁ、し、師匠……ふぁ、ぁ、ぁぁ……」
+<name "Celes" "!AA4987">
+"Ah... M-Master...
+ Aaah...ah...aah..."
 #
-　そして、セリスの膣内に湿気が溢れ始めたのを感
-　じ、俺は腰を動かし始める。
+Once I feel her pussy start to overflow with
+her juices, I begin to move.
 #
-<name "セリス" "!AA4988">
-「ふぁ、あっ、ぁぁぁ、ぁぁうう……」
+<name "Celes" "!AA4988">
+"Ah! Ah! Aahh! Aaahh..."
 #
-　セリスの膣内での射精を行なう為に。
+I have to come inside her.
 #
-　魔力を与える為に。
+To give her mana.
 #
-　俺はセリスの肉体を貪り続けた。
+I continue indulging in her body.
 #
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta01a77.iph" 4 4 11>
-<name "セリス" "!AA4989">
-「きょ、今日の師匠……
-　いつにも増して激しかったです」
+<name "Celes" "!AA4989">
+"Y-You were... much more intense today than
+ you've ever been before."
 #
-<name "ラズロック">
-「悪い……魔力が溜まり過ぎていたようだ」
+<name "Lazlocke">
+"Sorry. I guess I accumulated too much mana."
 #
 <sprite "ta01a58.iph" 4 4 12>
-<name "セリス" "!AA4990">
-「い、いえ……あ、あれはあれで……
-　その、良かったです」
+<name "Celes" "!AA4990">
+"N-No, t-that's something else...
+ Um, thank you..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

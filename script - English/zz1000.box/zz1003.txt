@@ -1,192 +1,194 @@
 <music 10>
 <background "bg002b0.iph" 11>
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a07.iph" 4 4 11>
-<name "セリス" "!AA4892">
-「はい」
+<name "Celes" "!AA4892">
+"Yes?"
 #
-<name "ラズロック">
-「エロい事をする合図でも決めるか。
-　面と向かって、エロい事をしようと言われるのは
-　恥ずかしいだろ」
+<name "Lazlocke">
+"Would you like to agree on a signal when I 
+ want to have sex? It feels a little awkward for
+ both of us to just come out and ask you."
 #
 <sprite "ta01a70.iph" 4 4 12>
-<name "セリス" "!AA4893">
-「そ、その……ご、強引にしても、か、構いません
-　が……」
+<name "Celes" "!AA4893">
+"U-Um, y-you can just m-make me..."
 #
-<name "ラズロック">
-「……………………強引に？」
+<name "Lazlocke">
+"...Make you?"
 #
 <sprite "ta01a75.iph" 4 4 12>
-<name "セリス" "!AA4894">
-「め、命令するとか。
-　その、さ、最初の時みたいに……」
+<name "Celes" "!AA4894">
+"I-I mean order me to.
+ Um, l-like the first time..."
 #
-　最初の時……
+The first time, huh?
 #
-<name "ラズロック">
-「そこに立って、尻を向けろ」
+<name "Lazlocke">
+"Stand there, and point your ass this way."
 #
-　俺はテーブル前を指差す。
-#
-<sprite "ta01a74.iph" 4 4 12>
-<name "セリス" "!AA4895">
-「そ、そんな感じで……」
-#
-<name "ラズロック">
-「……」
+I point at the table.
 #
 <sprite "ta01a74.iph" 4 4 12>
-<name "セリス" "!AA4985">
-「……」
+<name "Celes" "!AA4895">
+"Y-Yeah, like that..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
+#
+<sprite "ta01a74.iph" 4 4 12>
+<name "Celes" "!AA4985">
+"..."
+#
+<name "Lazlocke">
+"..."
 #
 <sprite "ta01a77.iph" 4 4 12>
-<name "セリス" "!AA4896">
-「……あ、す、すみません」
+<name "Celes" "!AA4896">
+"Oh! I-I'm sorry!"
 #
-　セリスは慌てて、俺の指差した場所に立とうと動
-　き出したが、俺はそれを止めた。
+She flies into a panic and hurries over to the
+spot, but I stop her.
 #
-<name "ラズロック">
-「いい、ちょっと来い」
+<name "Lazlocke">
+"Forget it.
+ Come here."
 #
 <removesprite -1 11>
 <music 5>
-　セリスを抱き締め、唇を重ねる。
+I pull her close and kiss her.
 #
-<name "セリス" "!AA4897">
-「う……あう……うううう……」
+<name "Celes" "!AA4897">
+"Nh...ah...nnnnh..."
 #
-　セリスの唇の柔らかさを確かめながら、その口内
-　に舌を伸ばす。
+After enjoying the softness of her lips, I push
+my tongue into her mouth.
 #
-<name "セリス" "!AA4898">
-「むうー、むうううー！
-　むうぅぅぅぅっ！！」
+<name "Celes" "!AA4898">
+"Mmm! Mmmm!
+ Mmmmmmm!"
 #
-　俺の舌の動きに、セリスは困惑したように手足を
-　バタバタとさせた。
+She squirms and struggles in confusion.
 #
-　だが、俺はセリスを抱き締め離さない。
+But I hold her close and don't let her get away.
 #
-<name "セリス" "!AA4899">
-「むうぅぅぅっ……」
+<name "Celes" "!AA4899">
+"Mmmm..."
 #
-　セリスの口内を存分に楽しみ、そして解放。
+I fully enjoy her mouth before letting her go.
 #
 <sprite "ta01a70.iph" 4 4 11>
-<name "セリス" "!AA4900">
-「むはぁぁ……ぁ……ぁう……」
+<name "Celes" "!AA4900">
+"Aaah...ah...ahhh..."
 #
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you okay?"
 #
 <sprite "ta01a75.iph" 4 4 12>
-<name "セリス" "!AA4901">
-「ぁ……ぁう……キスは初めて……でした……ので」
+<name "Celes" "!AA4901">
+"Ah...ahhh...
+ That was my... first kiss..."
 #
-<name "ラズロック">
-「そうだっけ？」
+<name "Lazlocke">
+"Really?"
 #
 <sprite "ta01a70.iph" 4 4 12>
-<name "セリス" "!AA4902">
-「あうぅ……」
+<name "Celes" "!AA4902">
+"Ohh..."
 #
-<name "ラズロック">
-「とりあえず、ベッドに行くぞ」
+<name "Lazlocke">
+"Anyway, let's go to the bed."
 #
 <sprite "ta01a75.iph" 4 4 12>
-<name "セリス" "!AA4903">
-「あう……」
+<name "Celes" "!AA4903">
+"Ohh..."
 #
-<name "ラズロック">
-「返事は？」
+<name "Lazlocke">
+"What do you say?"
 #
 <sprite "ta01a74.iph" 4 4 12>
-<name "セリス" "!AA4904">
-「……はい」
+<name "Celes" "!AA4904">
+"Yes, sir..."
 #
 <removesprite -1 11>
 <music 35>
 <background "ev035a1.iph" 10>
-　衣服を脱ぎ、素っ裸になったセリスの体に抱きつ
-　きながら、俺は強引にモノを捻じ込む。
+I caress her as she undresses and then try to
+force my dick into her.
 #
-<name "セリス" "!AA4905">
-「ううっ……」
+<name "Celes" "!AA4905">
+"Nnnh..."
 #
-　挿入するまでに長々と愛撫したのだが、まだ痛い
-　ようだ。
+Even with all the foreplay, it still looks like
+it hurts.
 #
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you okay?"
 #
 <background "ev035a0.iph" 10>
-<name "セリス" "!AA4906">
-「は、はい……」
+<name "Celes" "!AA4906">
+"Y-Yes..."
 #
-　大丈夫かと聞きながらも、俺は行為を中断したり
-　はしない。
+Despite asking, I don't stop.
 #
-　モノを深く捻じ込みながら、腰をゆっくりと動か
-　し始める。
+Once I'm deep inside her, I start moving my
+hips.
 #
 <background "ev035a2.iph" 10>
-<name "セリス" "!AA4907">
-「うううっ、くぅぅっ……」
+<name "Celes" "!AA4907">
+"Nnnh...nngh..."
 #
-　モノを引く度に、セリスの膣内の肉を引き摺り出
-　し、モノを押し込む度にそれを押し込む。
+Every time I pull back, it feels like I'm 
+dragging her flesh with my dick, and when I push
+in, I'm wrenching her open.
 #
-<name "セリス" "!AA4908">
-「ふぅぁ、ぁ、うううっ……」
+<name "Celes" "!AA4908">
+"Aah....ah...nnnh..."
 #
-　俺がモノを突き挿れる度に、セリスの身体が大き
-　く揺れ、放り出されている胸が上下に揺れて俺の
-　目を楽しませる。
+Her whole body shudders every time I pierce her.
+Her exposed breasts sway up and down to
+tantalize my sight.
 #
-<name "セリス" "!AA4909">
-「あ、あん、んぁ、ああん……」
+<name "Celes" "!AA4909">
+"Ah...ahh...ahh...aaah..."
 #
-　俺は、その胸の揺れに飛びつくようにセリスの身
-　体を抱き締めながら、激しく腰を動かし続けた。
+I pull her close to me to feel her breasts
+against my body as I keep intensely pounding
+against her.
 #
-<name "セリス" "!AA4910">
-「あっ、あっ、ああっ、ふぁっ、ふぁぁぁぁぁぁっ」
+<name "Celes" "!AA4910">
+"Ah! Ahh! Aaah! Ahhh! Ahhhhh!"
 #
-　そして、一度目の射精を開始する。
+And my first ejaculation begins.
 #
 <background "ev035a3.iph" 10>
-<name "セリス" "!AA4911">
-「ぁ……ぁぁ……うぁ……ぁぁぁぁぁっ……
-　はいって、あ、あう……」
+<name "Celes" "!AA4911">
+"Ah...aaah...aah...ahhhhh...
+ It's going in...
+ Ah...aah..."
 #
-　ドクンッドクンッとモノを震わせながら、俺は大
-　量の精液をセリスの膣内に流し込んだ。
+My dick pulses and throbs as it fills her with
+semen.
 #
-<name "セリス" "!AA4912">
-「ぁ、ぁぁ……」
+<name "Celes" "!AA4912">
+"Ah...aah..."
 #
-　そして、射精が終ると同時に、また腰を動かす。
+As soon as I finish, I start moving again.
 #
-<name "セリス" "!AA4913">
-「ふぁ、ふぁんんっ」
+<name "Celes" "!AA4913">
+"Aah...aaah!"
 #
-　吐き出した精液が潤滑油となり、先程よりも断然
-　と動きやすい膣内を、俺のモノが縦横無尽に動き
-　続ける。
+The semen becomes a lubricant inside her,
+letting me move easier than before and I'm able
+to pump through her without stopping.
 #
-<name "セリス" "!AA4914">
-「ぁぁぁっ、ぁっ、ひ、ひぁ、くぅ、くぅぁ、ぁ、
-　ぁぁ、や、だ、だめ、あひ、ひぁっ、ひぁっ、っ、
-　あっ、うぁっ、ぅぁぁぁぁぁぁぁぁっ！！」
+<name "Celes" "!AA4914">
+"Aaah! Ah! Ahh! Aah! Ngh! Aaah! Ah!
+ Aah! No! D-Don't! Aahh! Ah! Aaah!
+ Ah! Aah! Aaaaahhhh!"
 #
-　俺とセリスの行為は、夜遅くまで続けられた。
+I continue with her until it's late.
 #
 \x78\x78

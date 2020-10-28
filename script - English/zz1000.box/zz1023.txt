@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 37>
@@ -28,57 +28,60 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev037d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA5072">
-「師匠……」
+<name "Celes" "!AA5072">
+"Master..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "セリス" "!AA5073">
-「男の人のこれって……みんな、こんなに大きいん
-　ですか？」
+<name "Celes" "!AA5073">
+"A man's thing...
+ Is everyone's so big?"
 #
-<name "ラズロック">
-「さあな、あまり他の連中のを見ないからわからな
-　い」
+<name "Lazlocke">
+"I have no idea.
+ I haven't seen very many others."
 #
-<name "セリス" "!AA5074">
-「見ないんですか？」
+<name "Celes" "!AA5074">
+"You haven't?"
 #
-<name "ラズロック">
-「ああ……小さい時は見れるが、でかくなっている
-　時を見る事は無いからな」
+<name "Lazlocke">
+"Yeah. I've seen a few in public baths, but
+ that's always when they're small."
 #
-<name "セリス" "!AA5075">
-「……確かにそうですよね」
+<name "Celes" "!AA5075">
+"I guess that makes sense."
 #
-<name "ラズロック">
-「俺の抱く女の大半は男性経験が無いから、比べら
-　れる事も無いしな……」
+<name "Lazlocke">
+"Most of the women I've been with didn't have
+ any experience with other men, so there's 
+ nothing to compare with."
 #
-<name "セリス" "!AA5076">
-「その……男性経験のある女性は、どう言っている
-　んですか？」
+<name "Celes" "!AA5076">
+"Um... what about the ones who have been with
+ other men?"
 #
-<name "ラズロック">
-「……うーん、乱暴とか鬼とかはよく言われるが、
-　モノのサイズに不満を言われた事は無いな」
+<name "Lazlocke">
+"Hmm... I've been called violent or a monster
+ a lot, but I've never heard a complaint about
+ the size."
 #
-<name "セリス" "!AA5077">
-「なるほど」
+<name "Celes" "!AA5077">
+"I see."
 #
-<name "ラズロック">
-「……他の男のモノに興味を持つなよ」
+<name "Lazlocke">
+"...Don't get interested in other men."
 #
-　俺はそう言いながら、セリスの尻を噛んだ。
+I lightly bite her ass as I say that.
 #
-<name "セリス" "!AA5078">
-「あううっ。
-　わ、私の膣内に入るのは、師匠のだけです」
+<name "Celes" "!AA5078">
+"Oohh...
+ Y-You're the only one who gets to be inside
+ me."
 #
-<name "ラズロック">
-「よろしい」
+<name "Lazlocke">
+"Good answer."
 #
-　俺とセリスは、イチャついた。
+Celes and I make love.
 #
 \x78\x78
