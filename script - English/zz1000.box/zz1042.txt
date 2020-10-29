@@ -1,15 +1,16 @@
 <music 35>
 <background "ev039a0.iph" 10>
-<name "セリス" "!AA5169">
-「師匠……やり過ぎで、湯船が凄い事になってます」
+<name "Celes" "!AA5169">
+"Master, you're overdoing it.
+ The bath's a mess."
 #
-<name "ラズロック">
-「別に飲めとか言わないから気にするな」
+<name "Lazlocke">
+"We're not going to drink the water, so who
+ cares?"
 #
-<name "セリス" "!AA5170">
-「はい。
-　飲むなら……直接……」
+<name "Celes" "!AA5170">
+"Yes. Swallowing should... be directly..."
 #
-　俺とセリスは、湯船で楽しくイチャついた。
+Celes and I enjoy ourselves in the bath.
 #
 \x78\x78

@@ -1,341 +1,345 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x22\x00\x08 0 \x2B
-<choice :9A: "セリスには負けん" \x22\x00>
+<choice :9A: "Weak Celes" \x22\x00>
 \x08 1 
-<choice :9A: "危ないかも" \x22\x00>
+<choice :9A: "Decent Celes" \x22\x00>
 \x08 2 
-<choice :9A: "ボコにされるかもしれん" \x22\x00>
+<choice :9A: "Powerful Celes" \x22\x00>
 \x08 3 
-　自分の強さは？
+Which do you prefer?
 #
 :9A
 <music 25>
 <background "bg004a0.iph" 11>
-<name "ラズロック">
-「セリス。
-　少し、勝負をしないか？」
+<name "Lazlocke">
+"Celes, how about a match?"
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA5171">
-「お、お願いします」
+<name "Celes" "!AA5171">
+"P-Please."
 #
 <removesprite -1 11>
-　俺はセリスと軽く模擬戦をやってみた。
+We have a light sparring match.
 #
 \x1A\x01\x0A\x22\x00\x08 1 \x01\x0E :2F1: 
-『弱い』
+                    -- Weak --
 #
-　セリスの腕は、まだまだだ。
-　俺の相手にはならない。
+Celes still got a long way to go.
+She's no match for me.
 #
 <sprite "ta01c29.iph" 4 4 11>
-<name "セリス" "!AA5172">
-「うう……勝てません」
+<name "Celes" "!AA5172">
+"Aww... I can't win."
 #
-<name "ラズロック">
-「動けるか？」
+<name "Lazlocke">
+"Can you move?"
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA5173">
-「い、いえ……」
+<name "Celes" "!AA5173">
+"N-No..."
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"I see."
 #
 <removesprite -1 11>
-　俺はセリスの身体を持ち、木陰へと運んだ。
+I pick her up and carry her to the shade.
 #
-<name "セリス" "!AA5174">
-「え？」
+<name "Celes" "!AA5174">
+"Huh?"
 #
 :2F1
 \x1A\x01\x0A\x22\x00\x08 2 \x01\x0E :49A: 
-　セリスはかなり強くなっている。
-　だが、俺の相手としてはまだ足りない。
+She's gotten much better, but she's still no
+match for me.
 #
 <sprite "ta01c29.iph" 4 4 11>
-<name "セリス" "!AA5175">
-「……参りました」
+<name "Celes" "!AA5175">
+"I surrender."
 #
-<name "ラズロック">
-「惜しかったな」
+<name "Lazlocke">
+"Good, but not good enough."
 #
 <sprite "ta01c31.iph" 4 4 12>
-<name "セリス" "!AA5177">
-「はい」
+<name "Celes" "!AA5177">
+"Yeah."
 #
-<name "ラズロック">
-「しかし、負けは負けだ。
-　ペナルティを与える。
-　そこの木陰に行け」
+<name "Lazlocke">
+"However, a loss is a loss.
+ You have to suffer a penalty.
+ Go to the shade over there."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA5178">
-「え？」
+<name "Celes" "!AA5178">
+"Huh?"
 #
 <removesprite -1 11>
 \x2B
 :49A
 \x1A\x01\x0A\x22\x00\x08 3 \x01\x0E :6A6: 
-　ぼ、ボロボロにされた……
+I-I'm battered and bruised...
 #
-　強い……
+She's strong...
 #
 <sprite "ta01c07.iph" 4 4 11>
-<name "セリス" "!AA5179">
-「師匠？」
+<name "Celes" "!AA5179">
+"Master?"
 #
-<name "ラズロック">
-「俺はお前の師匠だよな」
+<name "Lazlocke">
+"I'm your master, you know."
 #
 <sprite "ta01c06.iph" 4 4 12>
-<name "セリス" "!AA5180">
-「え、ええ……」
+<name "Celes" "!AA5180">
+"Y-Yes..."
 #
-<name "ラズロック">
-「師匠に華を持たせる気はあるか？」
+<name "Lazlocke">
+"Aren't you supposed to let your master win?"
 #
 <sprite "ta01c15.iph" 4 4 12>
-<name "セリス" "!AA5181">
-「の、望まれるのであれば……」
+<name "Celes" "!AA5181">
+"I-If that's what you want..."
 #
-<name "ラズロック">
-「じゃあ、負けた事にして、そこの木陰に行くよう
-　に」
+<name "Lazlocke">
+"Then we'll say you lost.
+ Go over to the shade over there."
 #
 <sprite "ta01c27.iph" 4 4 12>
-<name "セリス" "!AA5182">
-「は、はい？」
+<name "Celes" "!AA5182">
+"O-Okay?"
 #
 <removesprite -1 11>
 \x2B
 :6A6
 <music 38>
 <background "ev040a0.iph" 10>
-<name "セリス" "!AA5183">
-「あ、あの……師匠……これは……」
+<name "Celes" "!AA5183">
+"U-Um, Master... what are..."
 #
-　俺はセリスを木陰で押し倒した。
+I push her down.
 #
-<name "ラズロック">
-「負けた者が味わう屈辱。
-　もう少し、悔しそうな顔をしろ」
+<name "Lazlocke">
+"This is the disgrace a loser must taste.
+ Look a little more chagrined."
 #
-<name "セリス" "!AA5184">
-「は……はい……あう……」
+<name "Celes" "!AA5184">
+"Y-Yes, sir...
+ Oohh..."
 #
-　地面に横たわるセリスに、抑え込むように圧し掛
-　かる。
+I get on top of her on the ground.
 #
-<name "ラズロック">
-「いい顔だ」
+<name "Lazlocke">
+"Good look."
 #
-　そして、圧し掛かりながらセリスの服を乱し、そ
-　の隙間から素肌をさらさせる。
+Then I open her dress and expose her.
 #
-<name "セリス" "!AA5185">
-「ぁ……は……あう……うぁ……」
+<name "Celes" "!AA5185">
+"Ah...ahh...
+ Ooh...aah..."
 #
-　俺は野外での淫らな行為に興奮を感じ、動きを粗
-　雑にしていった。
+I'm excited by having sex outdoors and am a
+little rougher with her than usual.
 #
-<name "セリス" "!AA5186">
-「あ、あううっ……」
+<name "Celes" "!AA5186">
+"O-Ohh..."
 #
-　セリスの胸を露わにし、薄いピンク色の乳首を見
-　つけると、そこを含むように胸にかぶりついた。
+I lean down to her exposed breasts and suck her
+pink nipple into my mouth.
 #
-<name "セリス" "!AA5187">
-「ぁ、は……ぁ……うう……」
+<name "Celes" "!AA5187">
+"Ah...ahh...ah...ohh..."
 #
-　そして、かぶり付いたまま舌を動かし、セリスの
-　胸を味わいながら乳首を刺激していく。
+I move my tongue around her nipple as I taste
+her.
 #
-<name "セリス" "!AA5188">
-「ふぅぅ……くっ……そ、そんな風にされたら……
-　ぁぁう……」
+<name "Celes" "!AA5188">
+"Ahhh...ngh...
+ W-When you do it like that...
+ Aahhh..."
 #
-　俺に刺激された乳首は、少し大きくなり、ピンと
-　立つ。
+Her nipple swells with the stimulation and
+turns hard.
 #
-　それを確認し、もう片方の乳首も刺激していく。
+Once I'm done with it, I move to the other one.
 #
-<name "セリス" "!AA5189">
-「ぁぅ……」
+<name "Celes" "!AA5189">
+"Ah..."
 #
-　そして強引なキス。
+And then force a kiss on her.
 #
-　セリスの口内に舌を潜り込ませ、セリスの舌を弄
-　るように動かす。
+I shove my tongue into her mouth and search for
+hers.
 #
-<name "セリス" "!AA5190">
-「むぅぁんん……ん、んは……あ」
+<name "Celes" "!AA5190">
+"Mmmm...mm...mm...ah..."
 #
-　俺はセリスの口内を味わいながら、自分のズボン
-　をずらしてモノを取り出す。
+As I taste her mouth, I lower my pants and take
+out my dick.
 #
-<name "セリス" "!AA5191">
-「むぅぁ……ぁ……ぁううっ！！」
+<name "Celes" "!AA5191">
+"Mm...ah...aaah!"
 #
-　セリスは俺の動きを察して逃げようとするが、そ
-　の前に俺はモノ先を膣穴に潜り込ませた。
+She tries to move away, sensing what I'm doing,
+but I slide it into her before she can escape.
 #
-<name "セリス" "!AA5192">
-「うううっ！」
+<name "Celes" "!AA5192">
+"Nnnnh!"
 #
-　膣は殆ど濡れていない。
+Her pussy's hardly wet.
 #
-　だが、俺は一気に根元まで捻じ込んだ。
+But I plunge it straight into her.
 #
 <background "ev040c0.iph" 10>
-<name "セリス" "!AA5193">
-「っっ！！」
+<name "Celes" "!AA5193">
+"Nnh!"
 #
-　セリスが苦痛に悶える。
+She writhes in pain.
 #
-<name "セリス" "!AA5194">
-「ぅぁぁ……う……ひ、酷いです……いきなり……
-　奥まで……なんて……」
+<name "Celes" "!AA5194">
+"Aaah...oh...
+ Y-You're horrible... 
+ So suddenly...
+ I can't believe... you went all the way in..."
 #
-<name "ラズロック">
-「負けたら、こうなる」
+<name "Lazlocke">
+"This is what happens if you lose."
 #
-<name "セリス" "!AA5195">
-「そ、そんな……」
+<name "Celes" "!AA5195">
+"N-No..."
 #
-<name "ラズロック">
-「黙って、受け入れろ」
+<name "Lazlocke">
+"Be quiet and accept it."
 #
-<name "セリス" "!AA5196">
-「ぁ、ぁう、あっ、あっ、あぁっ……あうううっ」
+<name "Celes" "!AA5196">
+"Ah...ah...ah...aaah...ahhhh..."
 #
-　俺はセリスの胸を揉みながら、腰を激しく動かし、
-　膣内に侵入したモノを動かそうとする。
+I rub her breasts as I pound into her, shoving
+my dick in and out of her pussy.
 #
-　しかし、濡れていない膣内に強引に侵入した為か、
-　なかなか動き難い。
+But because I forced it into her before she
+was wet, it's hard to move.
 #
-<name "セリス" "!AA5197">
-「くぁ……い、痛いです……うぁぁぁっ」
+<name "Celes" "!AA5197">
+"Ngh... I-It hurts...
+ Aaahh..."
 #
-　俺のモノにセリスの膣壁が絡み付き、引っ張る形
-　になっている。
+Her walls wrap around my dick and are being
+wrenched around.
 #
-<name "セリス" "!AA5198">
-「ぁ、ぁっ、ぁううう……くぅぁぁっ」
+<name "Celes" "!AA5198">
+"Ah...ah...ahhh...nnngh..."
 #
-　だが、俺は動きを止めない。
+But I don't stop.
 #
-<name "セリス" "!AA5199">
-「はぁ、はぁう、はぁぁ、あうう……
-　うぁ、うぁ、あぁ……」
+<name "Celes" "!AA5199">
+"Aah...ahh...ahhh..aaah...
+ Aah...ah...ah..."
 #
-　そうしてセリスの膣内を掻き混ぜるように乱暴に
-　モノを動かしていると、ジワジワとセリスの膣壁
-　に湿気を感じ始めた。
+As I plunge my dick through her, I can feel her
+walls starting to get wet.
 #
-<name "セリス" "!AA5200">
-「ひぁ、ひぁう……あ、ひう……あううう……
-　師匠……」
+<name "Celes" "!AA5200">
+"Aah...ahh...ah...aaah...
+ Master..."
 #
-　その湿気が俺のモノに絡まると、俺の腰の動きは
-　一気に加速していく。
+As she wets my dick, I start moving faster and
+faster.
 #
-<name "セリス" "!AA5201">
-「あ、ぁっ、ぁっ……ぁ、ぁ、ぁ、ぁぁぁっ！！！」
+<name "Celes" "!AA5201">
+"Ah...ah...ah...
+ Ah...ah!
+ Aaaahh!"
 #
-　強引に、乱暴に。
+Forcefully.
+Violently.
 #
-　襲い犯す。
+I ravish her.
 #
-<name "セリス" "!AA5202">
-「ふぁ、ふぁぁっ、く、くぁ、あひ、ひぁ、ひぁぅ、
-　……むぁぁ、ひぃ、ひぃぁっ、ぁっ、ぁっ……」
+<name "Celes" "!AA5202">
+"Aah! Aahh! Ngh! Nh! Aaah! Ah! Aah!
+ Aah! Ah! Aah! Aaah! Ah!"
 #
-　ヌルリと愛液に塗れた膣壁が動くなとばかりにギュ
-　ウギュウと締め付けてくるが、俺のモノは強引に
-　そこを激しく前後していく。
+My dick is spreading her liquid through her,
+but she's still squeezing tight even as I force
+myself in and out of her.
 #
-<name "セリス" "!AA5203">
-「ああああああああっ！」
+<name "Celes" "!AA5203">
+"Aaaaaahhhhh!"
 #
-　そして、強く深く突き入れ、膣奥で射精を開始す
-　る。
+I stab deep into her and come.
 #
-　ドクンッドクンッと、俺の心音とリンクしながら
-　モノ先から大量の精液が吐き出される。
+My throbbing dick pounds with my heart as I
+empty a flood of semen into her.
 #
 <background "ev040c1.iph" 10>
-<name "セリス" "!AA5205">
-「ぁ、ぁ、ぁぁ……ぁうぁ……」
+<name "Celes" "!AA5205">
+"Ah...ah...aaah...ah...aah..."
 #
-　俺は射精が終るまで、そのままジッとしていた。
+I stay still like that until I'm finished.
 #
-<name "セリス" "!AA5207">
-「ぁ……ぁう……ぁ……」
+<name "Celes" "!AA5207">
+"Ah...aah...ah..."
 #
-　セリスの目に、苦痛からか薄い涙が溜まっている。
+Tears fill her eyes from the pain.
 #
-<name "セリス" "!AA5208">
-「ぅぁ……あ……」
+<name "Celes" "!AA5208">
+"Aah...ah..."
 #
-　自分の射精が終ったのを確認すると、挿入したま
-　ま俺はセリスの腰を抱きかかえた。
+Once I'm done, I lift her waist with me still
+inside her.
 #
-<name "セリス" "!AA5209">
-「ぁ……」
+<name "Celes" "!AA5209">
+"Ah..."
 #
-　一度で終らせたりはしない。
+Once isn't enough.
 #
-　俺はセリスの腰を抱きかかえながら、激しく腰を
-　動かした。
+Holding her by the hips, I start slamming into
+her again.
 #
-<name "セリス" "!AA5210">
-「はぅぅぅぅっ！」
+<name "Celes" "!AA5210">
+"Ahhh!"
 #
-<name "ラズロック">
-「野外で負けると、相手にこうされても文句は言え
-　ない」
+<name "Lazlocke">
+"If you lose out in the open, you have to expect
+ something like this will happen to you."
 #
-<name "セリス" "!AA5211">
-「は、はい……」
+<name "Celes" "!AA5211">
+"Y-Yes, sir..."
 #
-<name "ラズロック">
-「最悪、命を奪われるのだからな」
+<name "Lazlocke">
+"In the worst case, they'll take your life."
 #
-　俺はセリスの乳首を強く噛む。
+I bite her nipple hard.
 #
-<name "セリス" "!AA5212">
-「あうううっ」
+<name "Celes" "!AA5212">
+"Aaah!"
 #
-<name "ラズロック">
-「だが……お前も相手の命や機会、チャンスを奪う」
+<name "Lazlocke">
+"But you also have a chance to take your
+ opponent's life."
 #
-<name "セリス" "!AA5213">
-「くぅぁっ……」
+<name "Celes" "!AA5213">
+"Aah..."
 #
-<name "ラズロック">
-「戦うって事は、そういう事だ」
+<name "Lazlocke">
+"That's what's at stake in battle."
 #
-　俺は腰を動かし、セリスの膣内を掻き回す。
+I thrust and stir up her pussy.
 #
-<name "セリス" "!AA5214">
-「ぁう、ぁ、ぁん、んぁ……」
+<name "Celes" "!AA5214">
+"Aah...ah...ah...ah..."
 #
-<name "ラズロック">
-「……勝ち続けろ」
+<name "Lazlocke">
+"Only win."
 #
-<name "セリス" "!AA5215">
-「は、はい」
+<name "Celes" "!AA5215">
+"Y-Yes, sir."
 #
-<name "ラズロック">
-「そして、今は……俺に犯されろ」
+<name "Lazlocke">
+"And right now... let me fuck you."
 #
-<name "セリス" "!AA5216">
-「あ、ぁあん」
+<name "Celes" "!AA5216">
+"Ah! Aaah!"
 #
-　俺はその後、セリスの膣内に三度の射精を行なっ
-　た。
+I come in her three more times.
 #
 \x78\x78

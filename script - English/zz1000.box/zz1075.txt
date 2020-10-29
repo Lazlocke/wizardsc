@@ -1,146 +1,143 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x22\x00\x01 0 \x2B
-<choice :78: "イエルとエロい関係" \x22\x00>
+<choice :78: "A Relationship With Elle" \x22\x00>
 \x01 1 
-<choice :78: "イエルと清い関係" \x22\x00>
+<choice :78: "No Relationship With Elle" \x22\x00>
 \x01 2 
-　お好みは？
+Which do you prefer?
 #
 :78
 <music 33>
 <background "ev050a0.iph" 10>
-　セリスティーネ＝ロココは、クインズベル王国の
-　宮廷魔法使いとなった。
+Celestine Rococo became a court wizard for the
+Queensbell Kingdom.
 #
-　クデュール魔法大会での成績や、これまでの実績
-　による協会からの推薦が大きいが、セリス自身の
-　頑張りが認められた結果だ。
+Because of how she did at Coudures, and a
+recommendation from the Guild based on her
+accomplishments, it's the results of her own hard
+work.
 #
-<name "セリス" "!AA6580">
-「まさか、宮廷魔法使いになれるとは思いませんで
-　した」
+<name "Celes" "!AA6580">
+"I never thought I'd become a court wizard."
 #
-<name "ヴィオラ" "!BA1020">
-「正統な評価よ。
-　自信を持ちなさい」
+<name "Viola" "!BA1020">
+"You deserve it.
+ Be confident."
 #
 <background "ev061a0.iph" 10>
-<name "イエル" "!CA0868">
-「そうよ。
-　これからは、私と貴女でヴィオラ様を支えていく
-　んだから」
+<name "Elle" "!CA0868">
+"That's right.
+ From here on, I'll be supporting you and Miss
+ Viola."
 #
-<name "ヴィオラ" "!BA1021">
-「私じゃなくて、クインズベル王国を支えるのよ」
+<name "Viola" "!BA1021">
+"You work for Queensbell, not me."
 #
-<name "イエル" "!CA0869">
-「そうでした」
+<name "Elle" "!CA0869">
+"I guess."
 #
-　イエルも宮廷魔法使いとなっていた。
+Elle also became a court wizard.
 #
-<name "セリス" "!AA6581">
-「イエルちゃん、クルーネ帝国への訪問。
-　ご苦労様。
-　どうだった？」
+<name "Celes" "!AA6581">
+"Elle, you visited Krun, right?
+ It must have been hard.
+ How'd it go?"
 #
-<name "イエル" "!CA0870">
-「歓迎ムードだったし、特に問題無いわ。
-　それより、そっちは大変だったんじゃないの？」
+<name "Elle" "!CA0870">
+"They were welcoming, and nothing happened really.
+ Didn't you have a much harder time?"
 #
-<name "セリス" "!AA6582">
-「ええ。
-　でも、ヴィオラさんが居たから大丈夫だったわよ」
+<name "Celes" "!AA6582">
+"Yes, but Viola was there, so it turned out okay."
 #
-<name "イエル" "!CA0872">
-「宮廷内では、ヴィオラ様と呼ぶように」
+<name "Elle" "!CA0872">
+"In the court, call her Miss Viola."
 #
-<name "セリス" "!AA6583">
-「そうでした」
+<name "Celes" "!AA6583">
+"I know."
 #
-<name "ヴィオラ" "!BA1022">
-「あまり気にしなくて良いのだけど……」
+<name "Viola" "!BA1022">
+"I don't need to stand on ceremony."
 #
-<name "イエル" "!CA0873">
-「駄目です。
-　規律は守りましょう」
+<name "Elle" "!CA0873">
+"That won't due.
+ We have to follow the rules."
 #
-<name "セリス" "!AA6584">
-「了解」
+<name "Celes" "!AA6584">
+"Yes, ma'am."
 #
 <background "ev050a0.iph" 10>
-<name "ヴィオラ" "!BA1023">
-「と……そろそろ謁見の時間よ。
-　整列」
+<name "Viola" "!BA1023">
+"So... It's about time for the audience.
+ Stand at attention."
 #
-<name "セリス" "!AA6585">
-「はい」
+<name "Celes" "!AA6585">
+"Yes, ma'am."
 #
 <background "ev050a1.iph" 10>
-　ヴィオラ、セリス、イエル。
+Viola, Celes, Elle.
 #
-　この三人は、クインズベル王国の宮廷魔法使いと
-　して、数々の研究成果を残し、そして数々の事件
-　の解決者としてその名前を歴史に残していく事に
-　なる。
+The three of them are court Wizards of Queensbell,
+who will accomplish great things, and leave their
+names in history.
 #
 \x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :895: 
-　そんな弟子の成長に、俺は満足しながら次の弟子
-　を取ろうかどうか悩んでいた。
+I'm proud of what my apprentice has become, and
+wonder about taking on another one.
 #
-<name "イエル" "!CA0875">
-「必要無いと思いますよ」
+<name "Elle" "!CA0875">
+"I don't think you need to do that."
 #
-<name "セリス" "!AA6586">
-「そうそう。
-　師匠の弟子は私一人で十分です」
+<name "Celes" "!AA6586">
+"That's right. 
+ Me alone is enough apprentices for you."
 #
-<name "ラズロック">
-「お前達、仕事はどうした？
-　俺の家に来て大丈夫なのか？」
+<name "Lazlocke">
+"Don't you all have work to do?
+ Should you be coming to my house?"
 #
-<name "セリス" "!AA6587">
-「大丈夫です」
+<name "Celes" "!AA6587">
+"Don't worry about it."
 #
-<name "ヴィオラ" "!BA1024">
-「協会に用事があるの」
+<name "Viola" "!BA1024">
+"We have business with the Guild."
 #
-<name "ラズロック">
-「それで、どうして俺の家に？」
+<name "Lazlocke">
+"How does that bring you to my house?"
 #
-<name "セリス" "!AA6588">
-「ここで待ち合わせだからです」
+<name "Celes" "!AA6588">
+"This is where we meet."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺の人生において、この三人とは長い付き合いを
-　する事になった。
+I think my relationship with these three is going
+to last the rest of my life.
 #
 \x18 :9CD: 
 :895
-<name "ヴィオラ" "!BA1025">
-「例の件、そろそろいけそう？」
+<name "Viola" "!BA1025">
+"Isn't it about time to get to that?"
 #
-<name "セリス" "!AA6589">
-「はい。
-　滞り無く」
+<name "Celes" "!AA6589">
+"Yes, right away."
 #
-<name "イエル" "!CA0876">
-「手回しは済んでいます」
+<name "Elle" "!CA0876">
+"Everything is ready."
 #
-<name "ヴィオラ" "!BA1312">
-「そう……
-　何時からいけそう？」
+<name "Viola" "!BA1312">
+"I see...
+ When do we begin."
 #
-<name "セリス" "!AA6590">
-「今晩にでも」
+<name "Celes" "!AA6590">
+"Tonight."
 #
-<name "ヴィオラ" "!BA1027">
-「じゃあ、今晩ね」
+<name "Viola" "!BA1027">
+"Then tonight it is."
 #
-<name "イエル" "!CA0877">
-「はい」
+<name "Elle" "!CA0877">
+"Okay."
 #
 :9CD
 \x78\x78

@@ -1,53 +1,56 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 5>
 <background "bg002a0.iph" 11>
-　俺はセリスを後ろから抱き締め、身体を弄る。
-#
-<sprite "ta01a75.iph" 4 4 11>
-<name "セリス" "!AA5117">
-「ぁっ、ぁ、し、師匠……ぁぁっ……」
+"Ah...ah...
+ M-Master...
+ Aahh..."
 #
 <removesprite -1 11>
-　俺は長々とセリスの身体を弄んだ。
+I keep caressing her for a long time.
 #
-<name "セリス" "!AA5118">
-「ぁ……し、師匠……ふぁ……ぁ……」
+<name "Celes" "!AA5118">
+"Ah... M-Master...
+ Aah...ah..."
 #
-　だが、挿入はしていない。
+But I don't put it in.
 #
-<name "セリス" "!AA5119">
-「うぁ……そ、そろそろ……」
+<name "Celes" "!AA5119">
+"Aah... I-Isn't it time..."
 #
-<name "ラズロック">
-「ん？
-　そろそろなんだ？」
+<name "Lazlocke">
+"Hm?
+ Time for what?"
 #
-<name "セリス" "!AA5120">
-「ぇ……ぁ……そんな……」
+<name "Celes" "!AA5120">
+"Huh? Ah...
+ No..."
 #
-<name "ラズロック">
-「挿れて欲しければ、腰を振って俺を誘え」
+<name "Lazlocke">
+"If you want it, shake your butt and make me
+ want you."
 #
-<name "セリス" "!AA5121">
-「ぁん……ん……はぁん」
+<name "Celes" "!AA5121">
+"Aah...mm...ahhh..."
 #
-　セリスは拙く尻を振り、俺を必死で誘う。
+She clumsily shakes her butt and frantically
+tries to tempt me.
 #
-　その動作に色気は少なかったが、頑張っている姿
-　に俺は思わず押し倒してしまった。
+It's not all that sexy, but I'm overcome by
+desire seeing her try this hard and throw her
+down.
 #
 <music 36>
 \x1A\x01\x0A\x02\x01\x99 1 \x01\x0E :370: 
@@ -65,33 +68,33 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :3E5: 
 <background "ev038d1.iph" 10>
 :3E5 + 1
-<name "セリス" "!AA5122">
-「ぁぅ……ぅ……」
+<name "Celes" "!AA5122">
+"Ah...ah..."
 #
-　俺との長時間に及ぶ行為を終え、セリスは満足そ
-　うに気を失った。
+After a very long time, she passes out in
+satisfaction.
 #
-　俺はそんなセリスを抱き締めながら、眠りについ
-　た。
+I fall asleep with her in my arms.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "セリス" "!AA5123">
-「に、匂いが……
-　あと、色んな所にパリパリと……」
+<name "Celes" "!AA5123">
+"I-It smells...
+ And everything all over feels crusty..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺とセリスは、早朝から長く風呂に入って身体を
-　念入りに洗った。
+We both take a long bath first thing in the
+morning to clean up.
 #
-<name "ラズロック">
-「Ｈの後は、身体を綺麗にしてから寝よう」
+<name "Lazlocke">
+"After sex, it's important to clean up before
+ going to bed."
 #
 <sprite "ta01a79.iph" 4 4 11>
-<name "セリス" "!AA5124">
-「はい」
+<name "Celes" "!AA5124">
+"Yeah."
 #
 <removesprite -1 11>
 \x2B\x78\x78

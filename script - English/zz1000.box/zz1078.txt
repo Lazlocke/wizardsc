@@ -1,138 +1,138 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x22\x00\x01 0 \x2B
-<choice :78: "イエルとエロい関係" \x22\x00>
+<choice :78: "A Relationship With Elle" \x22\x00>
 \x01 1 
-<choice :78: "イエルと清い関係" \x22\x00>
+<choice :78: "No Relationship With Elle" \x22\x00>
 \x01 2 
-　お好みは？
+Which do you prefer?
 #
 :78
 <music 2>
 <background "ev062a0.iph" 10>
-　イエルは、ローリアの街を出た。
+Elle left Loria.
 #
-　そして、小さな村で魔法と普通の勉強を教える教
-　師として生計を立てているらしい。
+She's making a living as a magical, and regular,
+teacher in a small village.
 #
-<name "イエル" "!CA0889">
-「ほら、もうここがわからないと、色々と困るのよ」
+<name "Elle" "!CA0889">
+"Hey, if you don't understand this place, you'll
+ be in trouble later."
 #
-<name "イエル" "!CA0890">
-「そう。
-　その通り」
+<name "Elle" "!CA0890">
+"Yes. That's right."
 #
-<name "イエル" "!CA0891">
-「その調子で頑張れば、良い魔法使いになれるわよ」
+<name "Elle" "!CA0891">
+"If you keep working hard, you'll be able to
+ become a fine wizard."
 #
-<name "イエル" "!CA0892">
-「目標は高く、そして諦めないように」
+<name "Elle" "!CA0892">
+"Aim high, and don't give up."
 #
-<name "イエル" "!CA0893">
-「私の目標？
-　もちろん、宮廷魔法使いよ」
+<name "Elle" "!CA0893">
+"My goal?
+ Become a court wizard, of course."
 #
-<name "イエル" "!CA0894">
-「でも、その前に貴方達を一人前にする事かな」
+<name "Elle" "!CA0894">
+"But I'm going to make it on my own first."
 #
 <background "ev062a1.iph" 10>
 \x2B\x1A\x01\x0A\x22\x00\x01 2 \x01\x0E :5F4: 
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　各地を回り、流れの魔法使いとして地道な活動と
-　研究を続ける。
+She travels from place to place, constantly
+researching and teaching magic as she goes.
 #
-<name "イエル" "!CA0895">
-「魔法がもっと身近になればと思って」
+<name "Elle" "!CA0895">
+"I want everybody to become more familiar with
+ magic."
 #
-<name "ラズロック">
-「悪く無い事だと思うが……
-　地方じゃ、まだまだ危険視されるだろ」
+<name "Lazlocke">
+"That's not a bad thing, but it could still be
+ dangerous in the more rural areas."
 #
-<name "イエル" "!CA0896">
-「はい。
-　ですが、そうでなくては、やりがいがありません」
+<name "Elle" "!CA0896">
+"Yes, but if it wasn't, then it wouldn't be
+ worth doing."
 #
-<name "ラズロック">
-「たくましいな」
+<name "Lazlocke">
+"You sound confident."
 #
-<name "イエル" "!CA0897">
-「いえ、まだまだです。
-　目標は大きいですから」
+<name "Elle" "!CA0897">
+"No, I still have a ways to go, because I set my
+ goal so high."
 #
-<name "ラズロック">
-「宮廷魔法使いか」
+<name "Lazlocke">
+"A court wizard?"
 #
-<name "イエル" "!CA0898">
-「はい。
-　ヴィオラ様のような、宮廷魔法使いです」
+<name "Elle" "!CA0898">
+"Yes. A court wizard like Miss Viola."
 #
-<name "ラズロック">
-「さらに難度が高いな」
+<name "Lazlocke">
+"That's even harder."
 #
-<name "イエル" "!CA0899">
-「それぐらいが良いんです。
-　簡単だと、詰まりません」
+<name "Elle" "!CA0899">
+"That's a good thing.
+ If it was easy, it'd be boring."
 #
-<name "ラズロック">
-「……その通りだ」
+<name "Lazlocke">
+"...True enough."
 #
-　イエルが宮廷魔法使いになるのは、かなりの年を
-　経てからになる。
+She actually technically became a court wizard
+a couple years ago.
 #
-　しかし、目標に向かい続け、そして叶えたイエル
-　を世間は高く評価した。
+But she's continued to pursue her real ambition
+and win the hearts of the people around her.
 #
 \x18 :9BE: 
 :5F4
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　各地を回り、流れの魔法使いとして地道な活動と
-　研究を続ける。
+She travels from place to place, constantly
+researching and teaching magic as she goes.
 #
-　イエルが宮廷魔法使いになるのは、かなりの年を
-　経てからになるのだが、それは地道な活動が実を
-　結んだ結果だろう。
+It's been a couple years since she became a court
+wizard, but it's because of all her hard work.
 #
-　珍しく民衆に人気のある宮廷魔法使いとして、活
-　躍していく事になる。
+She's especially popular among court wizards, and
+has accomplished a lot.
 #
-<name "イエル" "!CA0900">
-「魔法がもっと身近になればと思って」
+<name "Elle" "!CA0900">
+"I want everybody to become more familiar with
+ magic."
 #
-<name "ラズロック">
-「悪く無い事だと思うが……
-　地方じゃ、まだまだ危険視されるだろ」
+<name "Lazlocke">
+"That's not a bad thing, but it could still be
+ dangerous in the more rural areas."
 #
-<name "イエル" "!CA0901">
-「そうですね。
-　槍や石を投げられるのは当たり前、お供え物を差
-　し出されたり、悪魔だと囁かれたり、夜泣きが無
-　くなったりと……」
+<name "Elle" "!CA0901">
+"Certainly.
+ It's common for them to throw spears or stones,
+ offer gifts, whisper that I'm a devil, or
+ stop their children from crying at night..."
 #
-<name "ラズロック">
-「た、大変だな」
+<name "Lazlocke">
+"S-Sounds rough."
 #
-<name "イエル" "!CA0902">
-「でも、慣れました」
+<name "Elle" "!CA0902">
+"But I'm used to it."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"I see."
 #
-<name "イエル" "!CA0903">
-「はい。
-　あ、でも困ったのが生贄ですね。
-　村の若い男達をこう、ドサッと持ってこられた時
-　は……」
+<name "Elle" "!CA0903">
+"Yeah, oh, but when they offer sacrifices, that's
+ a problem. I never know what to do when they
+ offer up young men to me."
 #
-<name "ラズロック">
-「どうしたんだ？」
+<name "Lazlocke">
+"What do you do?"
 #
-<name "イエル" "!CA0904">
-「もちろん、我慢しました。
-　浮気な女は嫌いでしょ」
+<name "Elle" "!CA0904">
+"Turn them down, of course.
+ You don't like unfaithful girls, right?"
 #
-　俺はイエルの頭を撫でてやった。
+I pat her on the head.
 #
 :9BE
 \x78\x78

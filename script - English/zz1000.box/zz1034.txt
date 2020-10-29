@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,21 +28,21 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev038d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA5125">
-「うぁ、ぁ、くぁ……ぁ……」
+<name "Celes" "!AA5125">
+"Aah...ah...nh...ah..."
 #
-<name "ラズロック">
-「大丈夫か？」
+<name "Lazlocke">
+"Are you okay?"
 #
-<name "セリス" "!AA5126">
-「だ、大丈夫ですが……頑張り過ぎ、です……」
+<name "Celes" "!AA5126">
+"I-I'm okay...
+ I think you overdid it..."
 #
-　俺はセリスの膣内に、五回を越える射精を行なっ
-　ている。
+I came in her over five times.
 #
-<name "ラズロック">
-「すまん」
+<name "Lazlocke">
+"Sorry."
 #
-　そう謝りながら、もう一回と体勢を作る俺だった。
+Despite apologizing, I do her one more time.
 #
 \x78\x78

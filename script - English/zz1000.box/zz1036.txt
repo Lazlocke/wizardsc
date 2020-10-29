@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,39 +28,41 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev038d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA5129">
-「ふぁ、ぁ……もう、だ、駄目です」
+<name "Celes" "!AA5129">
+"Aah...ah... N-No more...
+ I can't take any more..."
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"I see..."
 #
-　セリスの前の穴や後ろの穴からは、俺の精液が零
-　れている。
+My semen is pouring out of her holes in front
+and back.
 #
-<name "セリス" "!AA5130">
-「すみません。
-　続きは、その、明日に……」
+<name "Celes" "!AA5130">
+"I'm sorry.
+ We can continue... um... tomorrow..."
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"All right."
 #
-　俺とセリスは身体を拭いて綺麗にし、寝る事にした。
+We clean ourselves up and get ready for bed.
 #
-<name "セリス" "!AA5131">
-「あの」
+<name "Celes" "!AA5131">
+"Um..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "セリス" "!AA5132">
-「抱きついていて、良いですか？」
+<name "Celes" "!AA5132">
+"Could we sleep together?"
 #
-<name "ラズロック">
-「構わないが……起きた時が大変だぞ」
+<name "Lazlocke">
+"I don't mind, but you're in for it when I
+ wake up."
 #
-<name "セリス" "!AA5133">
-「楽しみです」
+<name "Celes" "!AA5133">
+"I'm looking forward to it."
 #
-　俺達は抱き合いながら、眠りについた。
+We fall asleep in each other's arms.
 #
 \x78\x78

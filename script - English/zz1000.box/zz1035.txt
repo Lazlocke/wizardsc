@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,23 +28,23 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev038d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA5127">
-「こ、今回も……激しかったです」
+<name "Celes" "!AA5127">
+"T-This time was... intense again..."
 #
-<name "ラズロック">
-「お前も、なかなか良かったぞ」
+<name "Lazlocke">
+"You were pretty good too."
 #
-<name "セリス" "!AA5128">
-「あ、ありがとう、ございます」
+<name "Celes" "!AA5128">
+"T-Thank you... very much..."
 #
-　そう答え、セリスは寝息を立て始めた。
+After answering, she falls asleep.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　その寝入ったセリスを抱き締め、もう一回と俺は
-　行為を続けた。
+I take her in my arms and do her again.
 #
-　途中で起きたセリスに、もの凄く怒られた。
+She was very mad about being woken up in the
+act.
 #
 \x78\x78

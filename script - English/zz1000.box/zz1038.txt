@@ -1,90 +1,91 @@
 <music 35>
 <background "ev039a0.iph" 10>
-<name "セリス" "!AA5139">
-「なんだか恥ずかしいですね」
+<name "Celes" "!AA5139">
+"This is kind of embarrassing."
 #
-<name "ラズロック">
-「そうだな」
+<name "Lazlocke">
+"I guess."
 #
-　俺とセリスは、一緒に風呂に入った。
+We're in the bath together.
 #
-　どうしてそうなったかは、気紛れみたいなものだ
-　が……
+As for why, just a whim, I guess.
 #
-　まあ、ここまで来ては引き下がれない。
+Well, no turning back now.
 #
-　とりあえず……
+But now...
 #
-<name "セリス" "!AA5140">
-「あうう……」
+<name "Celes" "!AA5140">
+"Oohh.."
 #
-　セリスの膣内に、モノを捻じ込んだ。
+I push my dick into her.
 #
-<name "セリス" "!AA5141">
-「やる事は一緒なんですね」
+<name "Celes" "!AA5141">
+"We're doing the same as always."
 #
-<name "ラズロック">
-「一緒だ。
-　後ろの穴の方が良かったか？」
+<name "Lazlocke">
+"We're together, aren't we?
+ Would you prefer the back hole?"
 #
-<name "セリス" "!AA5142">
-「い、いえ……
-　最初は、その、普通の方が……」
+<name "Celes" "!AA5142">
+"N-No. Just normal to start..."
 #
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
-<name "セリス" "!AA5143">
-「あ、ん、なんですか？」
+<name "Celes" "!AA5143">
+"Ah...
+ Y-Yes?"
 #
-　セリスは挿入中に名前を呼んでやると、ギュッと
-　膣内を締め上げてくる。
+When I say her name, she squeezes tight in
+reaction.
 #
-<name "ラズロック">
-「可愛いな」
+<name "Lazlocke">
+"Cute."
 #
-<name "セリス" "!AA5144">
-「ふぁん、も、もう、そんな事を言わないでくださ
-　い」
+<name "Celes" "!AA5144">
+"Aah! G-Geez, don't say that."
 #
-<name "ラズロック">
-「可愛いものは、可愛いで良いじゃないか」
+<name "Lazlocke">
+"Why can't I call a cute girl cute?"
 #
-　俺はそう言いながら、セリスの胸を揉む。
+I rub her breasts.
 #
-　女独特の柔らかい感触。
+Nothing else in the world has the same soft
+feeling as a woman.
 #
-　その感触のアクセントとして、硬くなった小さな
-　乳首。
+Her nipples get stiff to accentuate the
+sensation.
 #
-<name "ラズロック">
-「男の自惚れかもしれないが……
-　女の胸は、男を喜ばせる為にあるみたいだな」
+<name "Lazlocke">
+"Maybe it's the arrogance of being a man, but
+ it seems to me that a woman's chest exists
+ to please a man."
 #
-<name "セリス" "!AA5145">
-「じゃあ、男の胸板は女を喜ばせる為にあるんです
-　か？」
+<name "Celes" "!AA5145">
+"Then does a man's chest exist to please a
+ woman?"
 #
-<name "ラズロック">
-「胸板か……俺は、それほど立派じゃないからなぁ」
+<name "Lazlocke">
+"A man's chest, huh?
+ Mine's not that impressive."
 #
-　前に傭兵部隊の隊長の胸板を見たが、男の俺が見
-　ても立派なものだった。
+I've seen soldiers in the past.
+Even as another man, they were impressive.
 #
-<name "セリス" "!AA5146">
-「師匠ので十分、私は喜んでます」
+<name "Celes" "!AA5146">
+"Yours is more than enough for me."
 #
-<name "ラズロック">
-「……可愛いヤツめ」
+<name "Lazlocke">
+"...Cute girl."
 #
 <background "ev039a2.iph" 10>
-<name "セリス" "!AA5147">
-「あん、ふぁ、ああん」
+<name "Celes" "!AA5147">
+"Ah! Ahh! Ahhh!"
 #
-　俺はセリスと風呂場でイチャつきながら、三度の
-　射精を行なった。
+Celes and I make love in the bath and I come
+three times.
 #
-<name "セリス" "!AA5148">
-「の、のぼせ……ました」
+<name "Celes" "!AA5148">
+"I-I'm... dizzy..."
 #
 \x78\x78

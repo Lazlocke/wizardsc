@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,40 +28,40 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev038d0.iph" 10>
 :139 + 1
-<name "ラズロック">
-「無理か？」
+<name "Lazlocke">
+"No?"
 #
-<name "セリス" "!AA5134">
-「無理です」
+<name "Celes" "!AA5134">
+"No."
 #
-<name "ラズロック">
-「絶対に？」
+<name "Lazlocke">
+"You're sure?"
 #
-<name "セリス" "!AA5135">
-「絶対にです」
+<name "Celes" "!AA5135">
+"I'm sure."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"I see."
 #
-　そう言いながら、俺はセリスの後ろの穴にモノを
-　潜り込ませた。
+But I pushed it into her ass anyway.
 #
-<name "セリス" "!AA5136">
-「ぁうぁ、ぁ、んん……こ、これを最後に、あ、ぁ、
-　してくだ、さい、ね」
+<name "Celes" "!AA5136">
+"Oooh...ah...nnh...
+ T-This is the last...ah...ah... time, please.
+ Okay?"
 #
-<name "ラズロック">
-「ああ。
-　わかった」
+<name "Lazlocke">
+"Yeah, all right."
 #
-<name "セリス" "!AA5137">
-「う、ううぁ、ぁぁぁ……くぁぁぁうう……」
+<name "Celes" "!AA5137">
+"Nnh...aaah...ahhh..."
 #
-　俺はセリスの後ろの穴を堪能した。
+I enjoy her ass.
 #
-　もちろん、一回で終る事などなかった。
+Of course, once isn't enough.
 #
-<name "セリス" "!AA5138">
-「うう、酷い……」
+<name "Celes" "!AA5138">
+"Oohhh...
+ You're horrible..."
 #
 \x78\x78

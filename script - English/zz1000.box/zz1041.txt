@@ -1,37 +1,37 @@
 <music 35>
 <background "ev039a0.iph" 10>
-<name "セリス" "!AA5164">
-「師匠」
+<name "Celes" "!AA5164">
+"Master."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
-<name "セリス" "!AA5165">
-「湯船の中でやると……その、お湯が減りますね」
+<name "Celes" "!AA5165">
+"When we do it in the bath, um, the hot water
+ spills out."
 #
-<name "ラズロック">
-「ああ、かなり零れるからな」
+<name "Lazlocke">
+"Yeah, we lose a lot."
 #
-<name "セリス" "!AA5166">
-「零さないように、やってみます？」
+<name "Celes" "!AA5166">
+"Maybe we can try to keep it from spilling?"
 #
-<name "ラズロック">
-「良いだろう」
+<name "Lazlocke">
+"All right."
 #
-　俺は湯船を波立たせないように、頑張った。
+I do my best to keep the splashing down.
 #
-　イマイチだった。
+But it's not enough.
 #
-<name "セリス" "!AA5167">
-「師匠。
-　すみませんでした」
+<name "Celes" "!AA5167">
+"Master, I'm sorry.
 #
-　セリスもイマイチだったようだ。
+It's not enough for her either.
 #
-<name "セリス" "!AA5168">
-「……激しく、お願いします」
+<name "Celes" "!AA5168">
+"Do it rougher, please."
 #
-　俺とセリスは、湯船のお湯が半分無くなるぐらい、
-　激しく交わった。
+We get intense, and half the bathwater splashes
+out.
 #
 \x78\x78

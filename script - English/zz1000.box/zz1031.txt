@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 36>
@@ -28,41 +28,41 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev038d0.iph" 10>
 :139 + 1
-<name "セリス" "!AA5110">
-「し、師匠……寝てる時に、急にやるのは……
-　あうう……」
+<name "Celes" "!AA5110">
+"M-Master... Doing it all of a sudden when I'm
+ fast asleep is...
+ Ohhh..."
 #
-<name "ラズロック">
-「可愛かったからついな。
-　一応、起こそうとしたんだぞ」
+<name "Lazlocke">
+"You were too cute for me to help myself.
+ I did mean to wake you up."
 #
-<name "セリス" "!AA5111">
-「目を覚ました時には、すでに二、三回済んでいた
-　痕跡がありましたが……」
+<name "Celes" "!AA5111">
+"By the time I woke up, it looked like you had
+ already done it two or three times..."
 #
-<name "ラズロック">
-「悪かった」
+<name "Lazlocke">
+"Sorry."
 #
-<name "セリス" "!AA5112">
-「もう……」
+<name "Celes" "!AA5112">
+"Honestly..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-　セリスは足を開いた。
+She opens her legs.
 #
-　俺の吐き出した精液が、ゴボッと陰部から零れ落
-　ちる。
+My semen pours out from inside her.
 #
-<name "セリス" "!AA5113">
-「ちゃんと、やってください」
+<name "Celes" "!AA5113">
+"Do it properly."
 #
-<name "ラズロック">
-「……可愛いヤツだな」
+<name "Lazlocke">
+"...You're adorable."
 #
-　俺はセリスの要望通り、ちゃんと抱いてやった。
+I have sex with her properly, like she asked.
 #
-<name "セリス" "!AA5114">
-「あ、朝までやって欲しいなんて言ってません！」
+<name "Celes" "!AA5114">
+"I-I wasn't saying I wanted to do it all night!"
 #
 \x78\x78

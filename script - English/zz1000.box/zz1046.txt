@@ -1,19 +1,21 @@
 <music 38>
 <background "ev040c0.iph" 10>
-<name "セリス" "!AA5226">
-「ぁん、し、師匠……」
+<name "Celes" "!AA5226">
+"Aah!
+ M-Master..."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What?"
 #
-<name "セリス" "!AA5227">
-「負けない為に、襲われてるのに……
-　な、なんだか……気持ち良くなってます」
+<name "Celes" "!AA5227">
+"You keep assaulting me so that I won't want to
+ lose, but...
+ I-I think I'm... starting to like it."
 #
-<name "ラズロック">
-「この淫乱娘め」
+<name "Lazlocke">
+"Dirty girl."
 #
-<name "セリス" "!AA5228">
-「ぁう……」
+<name "Celes" "!AA5228">
+"Ohhh..."
 #
 \x78\x78

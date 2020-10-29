@@ -1,41 +1,44 @@
 <music 38>
 <background "ev040b0.iph" 10>
-<name "セリス" "!AA5217">
-「ぁっ、ぁっ、あふっ、ふぁ……ぁぁ……
-　くぅぁん、ん、んぁ、あうううううう……」
+<name "Celes" "!AA5217">
+"Ah! Ah! Aah! Ahh! Aaah!
+ Nngh! Nh! Aah! Aaaaaaah!"
 #
-<name "ラズロック">
-「襲われているのに、感じるな」
+<name "Lazlocke">
+"I'm assaulting you, but you're turned on,
+ aren't you?"
 #
-<name "セリス" "!AA5218">
-「あ、で、でも……ふあん」
+<name "Celes" "!AA5218">
+"Ah... B-But...
+ Aahh!"
 #
-<name "ラズロック">
-「負けて襲われているんだ。
-　屈辱的行為だ」
+<name "Lazlocke">
+"You're being violated for losing.
+ This is supposed to be humiliating."
 #
-<name "セリス" "!AA5219">
-「あん、師匠が……優しいから」
+<name "Celes" "!AA5219">
+"Aah! But you're being... so gentle..."
 #
-<name "ラズロック">
-「もっと激しいのを希望か？」
+<name "Lazlocke">
+"You want it rougher?"
 #
-<name "セリス" "!AA5220">
-「屈辱的行為なら……はい♪」
+<name "Celes" "!AA5220">
+"If it's supposed to be humiliating...
+ Yes!♪"
 #
-　……
+...
 #
-　俺はセリスの足腰が立たなくなるまで、犯し続け
-　た。
+I fuck her until she can't stand straight.
 #
 <background "ev040c1.iph" 10>
-<name "セリス" "!AA5221">
-「ぁ……ぁぁ……うぁ……は、激し……過ぎです」
+<name "Celes" "!AA5221">
+"Ah...aaah...aah...
+ T-Too... rough..."
 #
-<name "ラズロック">
-「潮を散々、吹いていたが？」
+<name "Lazlocke">
+"You came like a fountain though, didn't you?"
 #
-<name "セリス" "!AA5222">
-「そ、そう言う事は、口にしないでください」
+<name "Celes" "!AA5222">
+"P-Please don't say it like that!"
 #
 \x78\x78

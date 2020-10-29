@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 37>
@@ -28,36 +28,37 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev037d2.iph" 10>
 :139 + 1
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "セリス" "!AA5090">
-「あん、んぁ、な、なんですか？
-　ふぁん……」
+<name "Celes" "!AA5090">
+"Ah...mmm...
+ W-What is it?
+ Ahhhh..."
 #
-<name "ラズロック">
-「んー……目の前にあるお前の穴から、俺の精子が
-　零れて……うおっ、か、噛むなっ！」
+<name "Lazlocke">
+"Mmm... My sperm is leaking out from your h...
+ Aah! D-Don't bite!"
 #
-<name "セリス" "!AA5091">
-「こんな体勢にしておいて、そんな事は言わないで
-　ください。
-　あと、指で拡げないでください」
+<name "Celes" "!AA5091">
+"Don't say things like that after making us be
+ in this position.
+ And don't spread it with your fingers."
 #
-<name "ラズロック">
-「そう言われてもな……こんなに可愛い尻と穴を目
-　の前に置かれたら……」
+<name "Lazlocke">
+"You say that, but... when I've got such a
+ cute ass and hole in front of me..."
 #
-<name "セリス" "!AA5092">
-「また、噛みますよ」
+<name "Celes" "!AA5092">
+"I'll bite you again."
 #
-<name "ラズロック">
-「……悪かった。
-　続けてくれ」
+<name "Lazlocke">
+"...Sorry.
+ Don't stop."
 #
-<name "セリス" "!AA5093">
-「ん……あむ、ん、ぬぬぁん……ん……ぬぁぅ」
+<name "Celes" "!AA5093">
+"Mm...amph...mm...mmmm...mmm..."
 #
-　その後、セリスの口内に二度の射精を行なった。
+I come twice in her mouth after that.
 #
 \x78\x78

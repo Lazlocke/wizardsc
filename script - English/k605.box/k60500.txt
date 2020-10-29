@@ -2908,7 +2908,7 @@ of the long time spent teasing her.
 <music 35>
 <background "ev039a1.iph" 10>
 <name "Celes" "!AA5156">
-"Mmm...aah...mmm...mmm..mm...
+"Mmm...aah...mmm...mmm...mm...
  Mmmmmm...."
 #
 Her whole body trembles as she has a small

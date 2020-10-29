@@ -1,15 +1,15 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x02\x01\x99 0 \x2B
-<choice :96: "ノーマル" \x02\x01>
+<choice :96: "Normal" \x02\x01>
 \x99 1 
-<choice :96: "メガネ" \x02\x01>
+<choice :96: "Glasses" \x02\x01>
 \x99 2 
-<choice :96: "ポニー" \x02\x01>
+<choice :96: "Ponytail" \x02\x01>
 \x99 3 
-<choice :96: "ポニーメガネ" \x02\x01>
+<choice :96: "Ponytail and Glasses" \x02\x01>
 \x99 0 
-　お好みは？
+Which do you prefer?
 #
 :96
 <music 37>
@@ -28,37 +28,36 @@
 \x1A\x01\x0A\x02\x01\x99 0 \x01\x14 :139: 
 <background "ev037d1.iph" 10>
 :139 + 1
-<name "セリス" "!AA5103">
-「すみません」
+<name "Celes" "!AA5103">
+"I'm so sorry."
 #
-<name "ラズロック">
-「まあ、無理矢理こういった体位で、こういった事
-　をさせているから文句は言わないが……」
+<name "Lazlocke">
+"Well, I don't have a right to complain after
+ making us be in that position."
 #
-<name "セリス" "!AA5104">
-「すみません」
+<name "Celes" "!AA5104">
+"I'm so sorry."
 #
-<name "ラズロック">
-「まさか、小便をかけられるとは……」
+<name "Lazlocke">
+"Honestly. I can't believe you pissed on me..."
 #
-<name "セリス" "!AA5105">
-「す、すみません。
-　気持ち良くて気が緩みました」
+<name "Celes" "!AA5105">
+"I-I'm sorry.
+ It felt so good and everything went numb."
 #
-　俺がセリスの陰部を舐めていると、セリスが達し
-　て潮を吹いた後にそれなりの勢いで俺の顔に小便
-　が飛んできた。
+While I was licking her pussy, she had a huge
+orgasm and peed all over my face.
 #
-<name "ラズロック">
-「……許してやるから、気持ち良くしろ」
+<name "Lazlocke">
+"I forgive you.
+ Go ahead and enjoy yourself."
 #
-<name "セリス" "!AA5106">
-「はい。
-　すみませんでした」
+<name "Celes" "!AA5106">
+"Okay. I'm sorry."
 #
-　セリスは謝りながら口と手を操り、俺のモノから
-　三回分の精液を搾り取った。
+She uses her mouth and hands to squeeze three
+shots of semen out of me.
 #
-　なかなかのテクニシャンだ。
+Her technique's gotten pretty good.
 #
 \x78\x78

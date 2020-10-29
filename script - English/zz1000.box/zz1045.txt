@@ -1,27 +1,31 @@
 <music 38>
 <background "ev040c0.iph" 10>
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
-<name "セリス" "!AA5223">
-「ぁ、あん、んぁ、な、なんで、ふぁ……」
+<name "Celes" "!AA5223">
+"Ah! Aah! Ahh!
+ W-What?
+ Aah..."
 #
-<name "ラズロック">
-「襲われているのに、足を腰に絡めてくるな」
+<name "Lazlocke">
+"You're being violated.
+ Don't wrap your legs around me."
 #
-<name "セリス" "!AA5224">
-「え、ぁ……すみません」
+<name "Celes" "!AA5224">
+"Huh? Oh...
+ I'm sorry..."
 #
-<name "ラズロック">
-「……俺以外にはするなよ」
+<name "Lazlocke">
+"...Don't do this with anybody but me."
 #
-<name "セリス" "!AA5225">
-「師匠以外に、身体を許したりしません」
+<name "Celes" "!AA5225">
+"You're the only one I'll let touch me."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺は返事の代わりに、激しい射精を繰り返してやっ
-　た。
+Instead of answering, I come hard in her 
+multiple times.
 #
 \x78\x78
