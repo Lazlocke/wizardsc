@@ -1,527 +1,512 @@
 <music 35>
 <background "ev056a0.iph" 10>
-　イエルは俺の指示通りに壁際に立つ。
+She stands next to the wall like I told her to.
 #
-　スカートを捲り上げるのに、少しだけ躊躇してい
-　たが、真面目な顔をしてスカートを捲くり、下着
-　を晒した。
+She nervously raises her skirt and exposes her
+underwear underneath it.
 #
-<name "イエル" "!CA0590">
-「こう……ですか？」
+<name "Elle" "!CA0590">
+"Like... this?"
 #
-　俺は立ち上がってゆっくりとイエルの傍に寄って
-　いく。
+I stand up and slowly walk over to her.
 #
-<name "ラズロック">
-「先に……勘違いがあるようだから訂正しておく。
-　お前は俺に抱かれるんじゃない」
+<name "Lazlocke">
+"I need to correct a misunderstanding you have.
+ I'm not going to have sex with you."
 #
-<name "イエル" "!CA0591">
-「え？」
+<name "Elle" "!CA0591">
+"Huh?"
 #
-<name "ラズロック">
-「俺に犯されるんだ」
+<name "Lazlocke">
+"I'm going to fuck you."
 #
-<name "イエル" "!CA0592">
-「ぁ……」
+<name "Elle" "!CA0592">
+"..."
 #
-<name "ラズロック">
-「そのままジッとしていろ」
+<name "Lazlocke">
+"Just stay still."
 #
-　俺は身を屈め、イエルの露わになった下着に顔を
-　近づける。
+I lean down and bring my face close to her.
 #
-　鼻を擽る石鹸の心地良い香り。
+The pleasant scent of shampoo tickles my nose.
 #
-　先程まで、風呂に入っていたようだ。
+Apparently she bathed just before I arrived.
 #
-　準備と覚悟は出来ていると言う事か。
+Meaning that she prepared herself for this.
 #
-　俺は指を伸ばし、下着の上から陰部を押してやる。
+I reach out and touch her.
 #
-<name "イエル" "!CA0593">
-「っ」
+<name "Elle" "!CA0593">
+"Nh!"
 #
-　イエルはギュッと全身を硬直させた。
+Her whole body stiffens.
 #
-　先程まで俺の鼻息が当たってモジモジさせていた
-　足の動きも、止まっている。
+Her legs freeze and her fidgeting stops.
 #
-<name "ラズロック">
-「イエル……」
+<name "Lazlocke">
+"Elle..."
 #
-<name "イエル" "!CA0594">
-「……は、はい」
+<name "Elle" "!CA0594">
+"Y-Yes?"
 #
-　イエルの声が上擦っている。
+Her voice is trembling.
 #
-　かなり緊張しているようだ。
+She's extremely nervous.
 #
-<name "ラズロック">
-「犯し方だが……
-　死ぬほど痛くて早く終わるのと、それなりに痛く
-　てそこそこ続くのだと、どっちが良い？」
+<name "Lazlocke">
+"How do you want me to fuck you?
+ I can take your virginity fast and make it
+ quick, but that will hurt more than if we draw
+ this out."
 #
-<name "イエル" "!CA0595">
-「…………ど、どちらも、想像……できません。
-　だから……お任せ、します」
+<name "Elle" "!CA0595">
+"...I-I don't want to... think about either.
+ So... you decide."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"All right."
 #
-　俺はわかったと、下着の上からイエルの陰部を強
-　く押し、内部への侵入を試みる。
+I push my finger against her, still through her
+underwear, and try to push inside her.
 #
-<name "イエル" "!CA0596">
-「っっっ！」
+<name "Elle" "!CA0596">
+"Nnnh!"
 #
-　一瞬、スカートを持つ手を降ろしかけたが、それ
-　は耐えたようだ。
+She nearly lowers her skirt for a moment, but
+keeps holding it up.
 #
-　俺はそのまま、指を動かしてイエルの陰部を刺激
-　し続ける。
+I keep movin my finger, stimulating her.
 #
-<name "イエル" "!CA0597">
-「っ、うぁ、ぁっ」
+<name "Elle" "!CA0597">
+"Nh...ah...ah..."
 #
-　すると、あっという間にイエルの下着に露骨な愛
-　液の染みが出来た。
+A stain of her juices starts to spread
+surprisingly fast.
 #
-<name "ラズロック">
-「早いな。
-　……慣れているのか？」
+<name "Lazlocke">
+"That's quick.
+ Have you done this before?"
 #
-<name "イエル" "!CA0598">
-「ぁ……う……」
+<name "Elle" "!CA0598">
+"Ah...nh..."
 #
-<name "ラズロック">
-「言え」
+<name "Lazlocke">
+"Answer me."
 #
-<name "イエル" "!CA0599">
-「な、何度か……自分で……」
+<name "Elle" "!CA0599">
+"I-I've done it... by myself..."
 #
-<name "ラズロック">
-「男とは？」
+<name "Lazlocke">
+"Ever with a man?"
 #
-<name "イエル" "!CA0600">
-「あ、ありません……」
+<name "Elle" "!CA0600">
+"N-Never..."
 #
-<name "ラズロック">
-「一番最近にやったのは？」
+<name "Lazlocke">
+"Did you do it recently?"
 #
-<name "イエル" "!CA0601">
-「ぅ……ぁ……」
+<name "Elle" "!CA0601">
+"Nh...ah..."
 #
-<name "ラズロック">
-「最近にやったのはいつだ？」
+<name "Lazlocke">
+"When was the last time you did it?"
 #
-<name "イエル" "!CA0602">
-「さっき、お風呂に入った時に……」
+<name "Elle" "!CA0602">
+"When I was in the bath earlier today..."
 #
-<name "ラズロック">
-「……俺に抱かれる事を想像してやったのか？」
+<name "Lazlocke">
+"Were you imagining having sex with me?"
 #
-<name "イエル" "!CA0603">
-「……はい」
+<name "Elle" "!CA0603">
+"...Yes."
 #
-<name "ラズロック">
-「……悪かったな。
-　想像と違う方法で」
+<name "Lazlocke">
+"Then I'm sorry.
+ It won't be like you imagined."
 #
-　俺はそう言いながら、イエルの下着をずらした。
+I pull her underwear down.
 #
 <background "ev056b1.iph" 10>
-<name "イエル" "!CA0604">
-「っ！」
+<name "Elle" "!CA0604">
+"Ah!"
 #
-　陰部から零れる愛液が、下着にまで伸びている。
+Her juices spill out from inside her down to her
+lowered panties.
 #
-<name "ラズロック">
-「悪いが、恋人相手にするようにはしてやれない。
-　俺はただの道具だ。
-　お前に魔力を与えるだけのな」
+<name "Lazlocke">
+"I'm sorry, but I can't be your lover.
+ I'm just a tool for providing you mana."
 #
-　俺はイエルの陰部に舌を伸ばした。
+I reach my tongue out to her entrance.
 #
-<name "イエル" "!CA0605">
-「ぁ……ぅぅぅっ」
+<name "Elle" "!CA0605">
+"Ah...nnnnh..."
 #
-　愛液に溢れるイエルの陰部の割れ目に潜り込むよ
-　うに、俺は舌を伸ばしていく。
+My tongue slips into her overflowing pussy.
 #
-<name "イエル" "!CA0606">
-「ぁっ、うぁ、ぁっ、ぁぁぁっ」
+<name "Elle" "!CA0606">
+"Ah...ah...ah...aaahhh..."
 #
-　俺の舌が潜り込むと、イエルの膣内からはさらに
-　愛液が溢れ出した。
+Her juices flood out even more.
 #
-　それを舌ですくい取りながら、イエルの陰部の割
-　れ目の中を舌で蹂躙していく。
+I violate her with my tongue, exploring every
+inch inside her.
 #
-　薄いヒダを一枚一枚、念入りに舐めていき、割れ
-　目の始まり部分に隠された小さなマメを刺激して
-　膨れ上がらせる。
+I lick every one of her folds, one by one.
+The small bean covered by her lips starts to
+swell and show itself.
 #
-<name "イエル" "!CA0607">
-「ぅぁ、ぁっ、ぁぁっ」
+<name "Elle" "!CA0607">
+"Aah! Ah! Ahh!"
 #
-　俺の舌が小さなマメを刺激する度に、イエルは身
-　体をガクガクッと痙攣したように震わせている。
+Each time I stimulate it, her whole body
+trembles and convulses.
 #
-<name "イエル" "!CA0608">
-「ふぁ、あっ、ぁぁっ、ぅぅっ」
+<name "Elle" "!CA0608">
+"Ah! Aah! Ahh! Aaah!"
 #
-　俺はその小さなマメを徹底して愛撫し、そして口
-　に含んで歯を立ててやった。
+I focus my attention on that small bean, sucking
+on it and even putting it between my teeth.
 #
 <background "ev056b0.iph" 10>
-<name "イエル" "!CA0609">
-「っっっっ！！！」
+<name "Elle" "!CA0609">
+"Nnnnhhh!"
 #
-　イエルは苦痛に悶え、スカートを持ち上げていた
-　手で俺の頭を抑えようとしたが、グッと堪えた。
+She squirms uncontrollably and weakly tries to
+move my head away, but holds tight to her skirt
+and stays in place.
 #
-　たいしたものだ。
+I'm impressed.
 #
-　俺はイエルの陰部から少し顔を離す。
+I move away from her slightly.
 #
-　石鹸の香りを打ち消す、モアッとした女の匂いが
-　俺の鼻を支配する。
+The smell of her shampoo and her aroused musk
+fills my nose.
 #
-　そして、愛液と俺の唾液でベトベトになった陰部。
+Her pussy is stick with her liquids and my
+saliva.
 #
-　割れ目から控えめに飛び出している小さなマメと、
-　ヒダ。
+Her small bean is sticking out from above her
+hole.
 #
-　全てが、俺を誘っているように見える。
+All of it seems to be tempting me.
 #
-　俺の股間のモノが、グッと女を求めるように硬く
-　なった。
+My dick is hard and demanding.
 #
-　俺はイエルの体を壁に押し付けながら、その両足
-　を持って立ち上がった。
+I push her against the wall and stand up.
 #
 <background "ev057a0.iph" 10>
-<name "イエル" "!CA0610">
-「ぇっ、ぁっ」
+<name "Elle" "!CA0610">
+"Huh? Ah!"
 #
-　両足を持ち上げられたイエルの身体は、壁に支え
-　られながら不安定な体勢を維持していた。
+I lift her up so her feet are off the ground and
+pin her in that unstable position.
 #
-　そのイエルの陰部に、俺は立ち上がりながら股間
-　のそそり立ったモノを押し当て、そして突き上げ
-　た。
+I pres my engorged dick against her entrance and
+then thrust up.
 #
-<name "イエル" "!CA0611">
-「！！！」
+<name "Elle" "!CA0611">
+"Ah!!!"
 #
-　俺のモノはイエルの割れ目の中に潜り込み、モノ
-　先を膣口に当てるとそのまま膣口を強引に拡げな
-　がら侵入していく。
+My dick slides into her, wrenching her open as
+I push into her pussy.
 #
-　そして、メリメリッと肉を掻き分けると、すぐに
-　障害物にぶつかる。
+But I hit an obstacle almost immediately.
 #
-　処女膜だ。
+Her hymen.
 #
-　その弾力を楽しむ事を少し考えたが、俺は腰に力
-　を入れ、一気に突き破った。
+I consider enjoying the feeling of it for a
+moment, but then thrust hard and quickly break
+through it.
 #
 <background "ev057a1.iph" 10>
-<name "イエル" "!CA0612">
-「！！」
+<name "Elle" "!CA0612">
+"Nnnngh!"
 #
-　そして、誰の侵入も許した事のないイエルの膣奥
-　にまで一気にモノを捻じ込んだ。
+And break into the deepest part of her, where
+nobody's been before me.
 #
-<name "イエル" "!CA0613">
-「っ！！！！！」
+<name "Elle" "!CA0613">
+"Nnnngh!!!!"
 #
-　イエルは全身を硬直させながら、苦痛に悶える。
+She writhes in pain and goes rigid.
 #
-<name "イエル" "!CA0614">
-「ぅっ、ぅぅっ！
-　！！！！」
+<name "Elle" "!CA0614">
+"Nnh! Nnngh!
+ Nnnnhhh!"
 #
-　その目にはうっすらと涙が浮かべられる。
+Tears fill her eyes.
 #
-<name "イエル" "!CA0615">
-「うぁ、ぁ、ぁぅぅぅっ！」
+<name "Elle" "!CA0615">
+"Ah! Ah! Aah!"
 #
-　俺はイエルの膣奥にまでモノを捻じ込んでから、
-　動かないでいた。
+After stabbing into her, I stop moving.
 #
-　苦痛に耐えるイエルに遠慮したのではない。
+I'm not holding back to help her endure the
+pain.
 #
-　遠慮するなら、最初っから突き入れたりはしない。
+If I was holding back, I wouldn't have thrust
+in like that.
 #
-　イエルの膣奥にまでモノを突き入れた達成感に酔
-　い、ギュウギュウッと締め付けてくる膣圧を楽し
-　み、そしてこれから先の行為へ思いを馳せていた
-　だけだ。
+I'm intoxicated by the feeling of dominating 
+her and the tightness of her insides.
+Right now, I'm thinking about what to do next.
 #
-<name "イエル" "!CA0616">
-「ぁ……ぁ……ぅぁ……ぁ……」
+<name "Elle" "!CA0616">
+"Ah...ah...ah..."
 #
-　だから、イエルの痛みが和らいだあたりで、俺は
-　腰をグイッと動かした。
+So as the initial pain starts to subside, I 
+being moving my hips.
 #
-<name "イエル" "!CA0617">
-「ああああっ！！」
+<name "Elle" "!CA0617">
+"Aaaah!"
 #
-　イエルは大きく口を開け、苦痛に悶えた。
+Her mouth opens wide in pain.
 #
-<name "イエル" "!CA0618">
-「ぁ……ぁぁ！
-　……う、うごか、ないで……」
+<name "Elle" "!CA0618">
+"Ah! Aaah!
+ D-Don't... move..."
 #
-　イエルはそう懇願したが、俺はそれを無視して腰
-　をまた動かす。
+She begs me, but I ignore her.
 #
-<name "イエル" "!CA0619">
-「ぐぁぁっ！！」
+<name "Elle" "!CA0619">
+"Nnnngh!"
 #
-　イエルの色気の無い悲鳴を聞きながら、俺はリズ
-　ム良く腰を動かし始めた。
+I start pounding in a rhythm, listening to her
+sexy screams.
 #
-<name "イエル" "!CA0620">
-「ぐぐぐぐぐっ！」
+<name "Elle" "!CA0620">
+"Nnnngh!"
 #
-　小刻みに、壁に押し付けられているイエルを突き
-　上げるように。
+Little by little, I pin her harder against the
+wall.
 #
-　大きな動きをしたかったが、イエルの膣内は愛液
-　に塗れながらも俺のモノを拒むようにキツく締め
-　上げてくる。
+I want to thrust harder, but even coated by her
+juices, her pussy is still resisting my dick.
 #
-　この締め付けでは、大きな動きは難しい。
+It's hard to move when she's this tight.
 #
-　もどかしい思いをしながらも、俺は小刻みにイエ
-　ルの膣内でモノを擦り上げ続けた。
+It's frustrating, but I keep rubbing my dick in
+her, little by little.
 #
-　そうしていると、悲鳴ばかりのイエルの口から甘
-　い声が混じるようになってきた。
+As I do that, moans start to mix in with her
+screams.
 #
-<name "イエル" "!CA0621">
-「くぁ……ぁ、ぁ、ふぁ、ん、くひ、ひぁ、い、ぁ、
-　ぅぁ、ぁ、ぁ、ぁぅぁ……ぁぁくぅっ、ぁ、ぁ、
-　ぁうぁ、く、ひ、くひぁっ」
+<name "Elle" "!CA0621">
+"Ngh...ah...ah...ahh...nnh...ah...ahh...
+ Ah...aaah...ah...ahh...ah...ah...
+ Ah...nnh...nh...ah...aaah...ah!"
 #
-　その声に呼応するように、初めて異性を迎え入れ
-　た膣内はさらに愛液が追加され、俺のモノの動き
-　を助けてくれる。
+Her pussy also leaks more of her juices out as
+she accepts a man for the first time, helping me
+move easier.
 #
-　それを感じた俺は一気に腰を落としてモノを引き、
-　そして突き上げた。
+I let her drop slightly as I thrust up.
 #
-<name "イエル" "!CA0622">
-「っ！！！」
+<name "Elle" "!CA0622">
+"Nnngh!"
 #
-　二度、三度と繰り返す。
+Twice.
+Three times.
 #
-<name "イエル" "!CA0623">
-「っ！！
-　っっ！！！
-　っっっ！！！！」
+<name "Elle" "!CA0623">
+"Ngh!
+ Nnnngh!
+ Nnnnnngggh!"
 #
-　イエルの膣内は、俺のモノをキツく締め上げなが
-　らも、ドロリと溶けるような柔らかさと熱さで快
-　楽を与えてくれる。
+Her pussy squeezes hard and tight, pleasuring
+my dick in its soft warmth.
 #
-　細かく動いていたのと合わせて、俺は一気に射精
-　へと欲望を高めていく。
+I keep thrusting, and finally feel that I'm
+almost about to come.
 #
-<name "イエル" "!CA0624">
-「うぁっ、ぁっ、ああああっ！」
+<name "Elle" "!CA0624">
+"Aaah! Ah! Ahhhhhh!"
 #
-　俺の動きは少しづつ激しくなっていき、イエルは
-　それに耐えながら俺を受け入れ続けた。
+My movements grow more intense, little by
+little, but she keeps taking it.
 #
-　そして、出ると思った瞬間。
+And I can finally come.
 #
-　俺は自分のモノを深くイエルの膣内に潜り込ませ
-　て動きを止め、イエルの身体をさらに壁に押し付
-　けた。
+I bury my dick deep in her pussy and slam her
+against the wall.
 #
-<name "イエル" "!CA0625">
-「ぁっ、ぁ！」
+<name "Elle" "!CA0625">
+"Ah! Ah!"
 #
-　イエルは俺の動きが止まった事で、俺の意図を理
-　解したのだろう。
+I think she understands what's happening when
+I stop.
 #
-　グッと身体を構えたのがわかった。
+She knows from how I grab her tight.
 #
-　そこに、俺は全身を大きく震わせ、そしてモノ先
-　からドクンッドクンッと精液を放った。
+And then I shudder and release my semen into
+her.
 #
-　放たれた精液は、イエルの膣内と俺のモノの間に
-　充満し、そして子宮へと流し込まれる。
+It fills her and pours into her womb.
 #
 <background "ev057a2.iph" 10>
-<name "イエル" "!CA0626">
-「ぅっ！
-　ぅぅっ！」
+<name "Elle" "!CA0626">
+"Nnngh!
+ Nnnh!"
 #
-　イエルが初めての射精を必死で耐えようとしてい
-　たが、俺の射精は終ろうとしない。
+She desperately tries to endure it, but my
+ejaculation keeps going.
 #
-<name "イエル" "!CA0627">
-「ぁ、ぁ、ぁ……ううっ」
+<name "Elle" "!CA0627">
+"Ah...ah...ah...
+ Ohhh..."
 #
-　ドクンッドクンッと脈打ちながら大量にイエルの
-　膣内に精液を吐き出し続けた。
+My dick keeps throbbing and shoot semen into
+her.
 #
-<name "イエル" "!CA0628">
-「ぁ、ぁ……うぁ、ぁ、ぁぁっ！
-　ぅぁぁっ！」
+<name "Elle" "!CA0628">
+"Ah...ah...ahh...aaah!
+ Aahhhh!"
 #
-　そうして、俺は最後の一滴までイエルの膣内に流
-　し込んだ。
+I pour every last drop into her pussy.
 #
-<name "イエル" "!CA0629">
-「ぁ、ぁ、ぁぁ……」
+<name "Elle" "!CA0629">
+"Ah...ah...ahhh..."
 #
-　俺の射精が終った事を感じ、イエルは俺の顔を見
-　て尋ねる。
+Sensing that I'm finished, she looks up at me
+and asks.
 #
-<name "イエル" "!CA0630">
-「お、終わり……ですか？」
+<name "Elle" "!CA0630">
+"I-Is it... over?"
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺は答えずに、腰を動かした。
+Instead of answering, I thrust again.
 #
-<name "イエル" "!CA0631">
-「ぅぁっ！」
+<name "Elle" "!CA0631">
+"Aah!"
 #
-　イエルの膣内では、まだ俺のモノは大きい。
+My dick's still hard inside her.
 #
-<name "イエル" "!CA0632">
-「はぁはぁ……ぁ、ん」
+<name "Elle" "!CA0632">
+"Aah...ah...nnh!"
 #
-　俺の動きで、まだ続くと理解したイエルは覚悟を
-　決めたようだ。
+She steels herself as she figures out that I'm
+not done.
 #
-　俺はモノを挿入したままイエルを抱きかかえ、場
-　所を変えようと歩いた。
+I pick her up with my dick still inside her and
+carry her to change where we're doing it.
 #
-<name "イエル" "!CA0633">
-「っっっっ！」
+<name "Elle" "!CA0633">
+"Nnnnnh!"
 #
-　その歩行の振動はイエルにとってはかなりの苦痛
-　らしく、俺が歩く度に悲鳴を上げていた。
+The vibration must hurt a lot as she gasps with
+each step.
 #
 <background "ev058a0.iph" 10>
-　俺はイエルの部屋までイエルを抱えて歩き、そこ
-　でイエルの向きを変えて背後から突く形で行為を
-　続けた。
+I carry her to her room, put her down on her
+bed, and continue from behind.
 #
 <background "ev058a1.iph" 10>
-<name "イエル" "!CA0634">
-「ひっ！」
+<name "Elle" "!CA0634">
+"Ah!"
 #
-　先程とは違い、ベッドに手をつき尻を向けるイエ
-　ルに、俺は全身でぶつかるように腰を動かし、激
-　しくモノを突き入れた。
+Unlike before, I hang over her and thrust with
+my whole body, slamming my dick into her hard.
 #
-<name "イエル" "!CA0635">
-「ひぁっ、ひぁっ、ひあぁぁぁっ！」
+<name "Elle" "!CA0635">
+"Aah! Aaah! Aaaahhh!"
 #
-　イエルの膣内は、挿入したままの歩行でかなり拡
-　張され、一度目の射精でかなり動き易くなってい
-　る。
+After coming once in her, her pussy's stretched
+open much more and it's a lot easier to move.
 #
-<name "イエル" "!CA0636">
-「ぁぁっ、くぁ、ぅぁ、ぁ、ぁぁぁぁぁっ！」
+<name "Elle" "!CA0636">
+"Aaah! Ah! Aaah! Ahhhhh!'
 #
-　ギュウギュウに締め付けるイエルの膣内で、俺の
-　モノは傍若無人に動き続ける。
+My dick continues rampaging through her
+squeezing walls.
 #
-<name "イエル" "!CA0637">
-「ぁ、ぁ、ふぁ、ぁぁぁっ、だ、ひ、ひぁ、ぁっ、
-　むぁ、あ、ひ、ひぃっ、ひぃぁぁっ！」
+<name "Elle" "!CA0637">
+"Ah! Ah! Aaah! Ah! Aaah! Ahh!
+ Ahh! Ah! Aah! Ahh! Aaah!"
 #
-　右へ、左へ、上へ、下へとランダムに動き、イエ
-　ルに予想させない。
+Right, left, up, down. 
+I just thrust all over and around her.
 #
-　突き入れる速度にも緩急をつける。
+I even slow down and speed up to keep her from
+getting used to it.
 #
-<name "イエル" "!CA0638">
-「ぁぁ、ぁ、ぁぁぁうぁ、ひ、ひぁ、ひぐっ、うぁ、
-　ぁぁっ、や、や、あ、ひぁ、うううううううっ！」
+<name "Elle" "!CA0638">
+"Aaah! Ah! Aaah! Ah! Ah! Ngh!
+ Aaah! Ah! Ah! Aaah! Nnnnnnngh!"
 #
-　俺はイエルの腰を掴み、イエルの膣内でモノを動
-　かす事だけに集中する。
+I grab her by the hips and concentrate on 
+nothing but my dick inside her.
 #
-<name "イエル" "!CA0639">
-「ふぁ、ぁ、ぁ、うぁ、あ、ぁぁぁ、ぁぁぁぁう、
-　くぅぁ、ぁひ、ひ、ひぁ、だ、や、うぁぁっ」
+<name "Elle" "!CA0639">
+"Aaah! Ah! Ah! Ah! Aaaaah! Ahhhhh!
+ Ahh! Ah! Ah! Aaah! Ah! Ah! Aahhh!"
 #
-　パンパンッとイエルの尻と俺の腰が当たる音が部
-　屋に響く。
+The sound of my hips slamming against her ass
+fills the room.
 #
-　グチュグチュと膣内を掻き回す音が響く。
+The air is thick with the wet sounds coming
+from her pussy.
 #
-<name "イエル" "!CA0640">
-「ぁ、ぁ、ぁ、ぁぁっ、ひぁ、ひぁ、あああっ！」
+<name "Elle" "!CA0640">
+"Ah! Ah! Aah! Aaah! Aaah!"
 #
-　そして、イエルの喘ぎ声が響く。
+And her gasps.
 #
-　淫靡な演奏に俺は欲望を掻き立てながら、イエル
-　の肉体を貪り続けた。
+I indulge in her body as I violate her.
 #
 <background "ev058a2.iph" 10>
-<name "イエル" "!CA0641">
-「ひ、ひぁ、ひぁう、うぁ、うぁ、ぐ、ぐぎ、ぁっ、
-　ぁっ、ぁぁっ！
-　……ぁぁぁぁぁぁぁぁっ！」
+<name "Elle" "!CA0641">
+"Ah! Aah! Ah! Ngh! Aah! Ngh
+ Ah! Aaah!
+ Aaaaaaaahhhh!"
 #
-　そして、二度目の射精。
+And come again.
 #
-　ドクンッドクンッドクンッドクンッと一度目と同
-　じように大量の精液がイエルの膣内に流し込まれ
-　る。
+My dick floods her pussy, the same as the
+first time.
 #
-<name "イエル" "!CA0642">
-「ぁ、ぁ、ぁぁ……」
+<name "Elle" "!CA0642">
+"Ah...ah...aah..."
 #
-　ドクンッドクンッとまたも長く続く。
+It keeps pouring into her.
 #
-<name "イエル" "!CA0643">
-「ぁぅぁ……ぁ……」
+<name "Elle" "!CA0643">
+"Aaah...ah..."
 #
-　そして、射精が終ると同時に、俺は三度目の射精
-　に向けて腰を動かした。
+And as soon as I finish, I start moving again
+to come for a third time.
 #
-<name "イエル" "!CA0644">
-「ひぃぁ、ぁっ、ぁっ、ぁぁぁっ、ああああ！
-　ぁ……ぁ……だ、あ……あああああああああっ！」
+<name "Elle" "!CA0644">
+"Aaah! Ah! Ah! Aaah
+ Ah...ah... Ah...ah...
+ Aaaaaahhhhhh!!!"
 #
-　俺に膣内を掻き回され続けたイエルは、俺のモノ
-　が膣内を深く抉ったと同時に身体を震わし、大量
-　の潮を吹きながら達した。
+As I continue plunging into her, her whole body
+shudders and convulses as she orgasms while
+gushing a torrent of her own juices.
 #
 <background "ev058a3.iph" 10>
-<name "イエル" "!CA0645">
-「ぁ……ぁぁ……うぁ…………」
+<name "Elle" "!CA0645">
+"Ah...ahh...ahhh..."
 #
-　そして、そのままベッドに倒れ、気を失った。
+And then she falls onto the bed and stops 
+moving.
 #
-　気絶したようだ。
+It looks like she's passed out.
 #
-　俺はその気絶したイエル相手に容赦無く腰を振り
-　続け、膣内に三度目の射精を行なった。
+I keep thrusting without mercy for her and come for
+a third time in her pussy.
 #
-　そして、四度目の射精に向け、俺はイエルの膣内
-　からモノを引き抜いた。
+After coming for the fourth time, I pull my
+dick out of her.
 #
-　処女の証である破瓜の鮮血と、俺の流し込んだ大
-　量の精液が混じりながらゴボッと零れてくる。
+The blood from her hymen and my semen pour out.
 #
-　その様子を見ながら、俺は自分のモノ先をイエル
-　の後ろの穴に当てた。
+As I look down at her, I put my dick against her
+ass.
 #
-　イエルの初めての夜は長く、本当に長く続いた。
+Her first night is far from over.
 #
 \x78\x78
