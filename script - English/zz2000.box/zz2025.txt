@@ -1,373 +1,369 @@
 <music 11>
 <background "bg010a0.iph" 11>
-　俺は協会へ足を運んだ。
+I've come to the Guild.
 #
-　いつもの、依頼だ。
+It's the usual request.
 #
-<name "ラズロック">
-「今回は魔力を奪うのか？」
+<name "Lazlocke">
+"I'm taking away mana this time?"
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "ソシエット" "!DA0968">
-「はい」
+<name "Soshiette" "!DA0968">
+"Yes."
 #
-<name "ラズロック">
-「わかった。
-　相手は？」
+<name "Lazlocke">
+"All right.
+ Where are they?"
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0969">
-「天覧の間です」
+<name "Soshiette" "!DA0969">
+"The royal hideaway."
 #
 <removesprite -1 11>
-　ソシエットにそう言われながら、資料を手渡され
-　た。
+She hands me the report.
 #
-　さっさと部屋に向かおうとしたが、俺はその資料
-　を見て動きを止めた。
+I was going to go right there, but I stop when
+I read it.
 #
-<name "ラズロック">
-「この資料、名前だけしか書いてないぞ」
+<name "Lazlocke">
+"There's nothing here but a name."
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0970">
-「女性です。
-　ご安心ください」
+<name "Soshiette" "!DA0970">
+"It's a woman.
+ Don't worry about that."
 #
-<name "ラズロック">
-「それはそうだろうけど……
-　ルィンス？
-　聞き覚えがあるような、ないような……」
+<name "Lazlocke">
+"Okay, fine, but... Lynth?
+ I feel like I know that name..."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0971">
-「クルーネ帝国、第三皇女です」
+<name "Soshiette" "!DA0971">
+"She's the third princess of the Krun Empire."
 #
-<name "ラズロック">
-「皇女……それで、天覧の間か」
+<name "Lazlocke">
+"A princess?
+ So that's why she's in the royal hideaway?"
 #
 <removesprite -1 11>
-　天覧の間は、協会内部に作られた王侯貴族などの
-　お偉いさん達を匿う為の宿泊部屋だ。
+That place is a room set up by the Guild in order
+to hide nobility and aristocrats when they visit
+the Guild.
 #
-<name "ラズロック">
-「人質に手を出して良いのか？」
+<name "Lazlocke">
+"Am I really allowed to do anything to a hostage?"
 #
-　クルーネ帝国は、最近まで戦争をしていた相手だ。
+We've been at war with Krun until recently.
 #
-　人質である事は簡単に推測できる。
+It's obvious that she's a prisoner of war.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0972">
-「人質ですが、問題ありません。
-　よろしくお願いします」
+<name "Soshiette" "!DA0972">
+"She is a hostage, but that won't be an issue.
+ Thank you for your assistance."
 #
 <removesprite -1 11>
 <music 39>
 <background "ev080a0.iph" 10>
-　天覧の間の奥にあるベッドに向かうと、そこは淫
-　らな格好でBindされた皇女が居た。
+I go to the bed in the royal suites where the
+princess is waiting, restrained and clearly
+fuming.
 #
-　皇女は口を塞がれ、手を後ろで縛られている。
+Her mouth is gagged, and her hands are tied
+behind her back.
 #
-　そして、その両足は広げたまま固定され、皇女の
-　大切な部分が露わになっていた。
+Her legs are bound open, exposing her pussy.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺の姿を見ると、皇女の瞳には反抗する光が見え
-　た。
+When she sees me, her eyes light up with anger.
 #
-　クルーネ帝国人の特徴である獣耳、そして尻尾が
-　戦闘態勢になる。
+She has the animal ears and tail that are
+characteristic of the Krun people.
+They're perked up, showing she's ready to fight.
 #
-<name "ラズロック">
-「なるほど……」
+<name "Lazlocke">
+"I see..."
 #
-　俺はゆっくりと服を脱ぎ、全裸になって皇女に近
-　付いた。
+I slowly undress and then stand in front of her.
 #
-　皇女は露骨に敵意を見せるが、Bindされているの
-　でどうしようもない。
+She's glaring daggers, but she's helpless while
+bound.
 #
-　そんな皇女の腰に俺は腕を回し、引き寄せた。
+I put my arm around her waist and pull her to me.
 #
-<name "ルィンス" "!NB0000">
-「うううっ！」
+<name "Lynth" "!NB0000">
+"Nnnnh!"
 #
-　そのまま、皇女の胸を強く揉む。
+And then grab her breasts.
 #
-<name "ルィンス" "!NB0001">
-「ふううっ！！」
+<name "Lynth" "!NB0001">
+"Mmmmph!"
 #
-　皇女は抵抗しようと暴れ、口を塞いでいるBind具
-　に牙が当たる。
+She thrashes and tries to resist, but her fangs
+only close on the gag in her mouth.
 #
-<name "ラズロック">
-「暴れると、牙が折れるぞ」
+<name "Lazlocke">
+"If you struggle, you could break a fang."
 #
-<name "ルィンス" "!NB0002">
-「うううううっ！」
+<name "Lynth" "!NB0002">
+"Nnnnnngh!"
 #
-　皇女の目が俺を睨みつける。
+Her glare fixes on me.
 #
-　普通なら、抱く事どころか、近づく事すらできな
-　い存在である筈の皇女。
+Normally, someone like me wouldn't be able to get
+anywhere near a princess like her, let alone have
+sex with her.
 #
-　それも、プライドの高い事で有名なクルーネ帝国
-　の皇女。
+What's more, the princesses of Krun are known for
+their pride.
 #
-　それが今、目の前にいる。
+And this one is right in front of me.
 #
-　露わな格好でBindされて。
+Restrained and completely exposed.
 #
-<name "ルィンス" "!NB0003">
-「ふうううっ！」
+<name "Lynth" "!NB0003">
+"Mmmmmgh!"
 #
-　知らず知らずに、皇女の胸を揉む手に力が入って
-　いたようだ。
+I ignore her anger and squeeze her breast hard.
 #
-　皇女の綺麗な形の胸がみっともなく潰れている。
+The beautiful shape of her breasts collapses
+messily in my grasp.
 #
-　俺はその弾力を名残惜しみながら手を離し、皇女
-　を見た。
+I let go and look down at her.
 #
-<name "ルィンス" "!NB0004">
-「ううっ！」
+<name "Lynth" "!NB0004">
+"Nnh!"
 #
-　皇女は俺の腕の中で逃れようとする。
+She tries to escape from my touch.
 #
-　だが、Bind具と俺の腕が皇女を逃さない。
+But she's helpless while bound in place.
 #
-<name "ルィンス" "!NB0005">
-「ふうううっ！」
+<name "Lynth" "!NB0005">
+"Mmmmgh!"
 #
-　皇女の口が塞がれているので、俺は皇女の耳に軽
-　いキスをし、そしてそのまま噛み付いた。
+Because her mouth is blocked, I give her ear a
+light kiss, and then nibble on it.
 #
-<name "ルィンス" "!NB0006">
-「むぅぅぅぅっ！」
+<name "Lynth" "!NB0006">
+"Mmmmmmgh!"
 #
-　俺は皇女に覆い被さった。
+I get up on the bed with her.
 #
-<name "ルィンス" "!NB0007">
-「むぅっ！」
+<name "Lynth" "!NB0007">
+"Mmmgh!"
 #
-　皇女は抵抗できない。
+She can't escape.
 #
-　それを知りながら、俺は強引に事を進めていく。
+Knowing that, I get nice and close to her.
 #
-　皇女の露わになっている股間に顔を近づけ、舌を
-　伸ばして陰部を愛撫する。
+I bring my face down to her pussy and run my
+tongue along her entrance.
 #
 <background "ev080a1.iph" 10>
-<name "ルィンス" "!NB0008">
-「むふっ！
-　むふぅぅぅっ！」
+<name "Lynth" "!NB0008">
+"Mmmmgh!
+ Mmmmmmgh!"
 #
-　俺はピチャピチャと音を立てながら皇女の陰部に
-　唾液を塗りたくり、花弁を強引に開かせる。
+I slurp at her pussy, covering it with my saliva,
+and forcibly opening her with my tongue.
 #
-　そして、徐々に大きくなりつつある自分のモノを
-　その花弁に擦り付ける。
+Then I rub my swelling dick against her nub.
 #
-<name "ルィンス" "!NB0009">
-「むぅぅっ！」
+<name "Lynth" "!NB0009">
+"Mmgh!"
 #
-　そして、そのまま一気に俺のモノを皇女の花弁に
-　押し付け、膣内への侵入を試みる。
+I push my dick against her and try to enter.
 #
-　二度、三度と繰り返し、そして四度目にモノ先が
-　グリッと膣口にハマッた。
+Twice, three times...
+Finally on the fourth time, I start to sink into
+her pussy.
 #
-　そこから、ゆっくりとモノ先を捻りながら膣奥を
-　目指して強引に侵入していく。
+From there, I just keep pushing forward, forcibly
+plunging into her depths.
 #
-<name "ルィンス" "!NB0010">
-「むむむむむっ！！」
+<name "Lynth" "!NB0010">
+"Mmmmmgh!"
 #
-　男を知らない皇女は初めての苦痛に悶えるが、俺
-　は動きを止めない。
+She writhes in pain from accepting a man for the
+first time, but I don't stop.
 #
-　Bindされて動けない皇女を相手にモノを大きくさ
-　せ、強引に捻じ込んでいる。
+Knowing she's helpless and can't move just makes
+my dick harder, and I forcibly pierce her with it.
 #
-　自己嫌悪はある。
+I hate myself for that.
 #
-　あるが、それ以上に興奮が俺を支配している。
+But it arouses me more.
 #
-　その興奮は、俺をさらに暴走させる。
+The arousal makes me lose control.
 #
-　グリグリとモノ先を捻じ込み、根元まで咥え込ま
-　せる。
+I bury my dick all the way in her to the base.
 #
-　そして、そのまま腰を動かし。
+And then I start moving.
 #
-　激しく皇女の膣内を暴れ回った。
+I violently pound her pussy.
 #
-　何度も何度も。
+Over and over again.
 #
-　皇女は苦痛の悲鳴を上げた。
+She tries to scream in pain.
 #
-　その悲鳴を耳にしながら、俺は自分の欲望を吐き
-　出そうと腰を動かし続けた。
+Her gasps just excite me further and I continue
+to indulge my lust.
 #
 <background "ev080a2.iph" 10>
-<name "ルィンス" "!NB0011">
-「うっ、ううっ、うううううっ！」
+<name "Lynth" "!NB0011">
+"Nngh! Nnnngh! Nnnnnngh!"
 #
-　そして、皇女の膣内に大量の精液を吐き出す。
+And I flood her pussy with my semen.
 #
-　ドクンドクンドクンドクンと。
+It keeps shooting out.
 #
-　射精を終え。
+I finally finish coming.
 #
-　俺は荒い息を自覚する。
+I'm gasping for breath.
 #
-　そして、俺以上に荒い息の皇女。
+But her breathing is even more ragged than mine.
 #
-<name "ルィンス" "!NB0012">
-「う、うぁ、ううう……」
+<name "Lynth" "!NB0012">
+"Ngh...ngh...nnngh..."
 #
-　しかし、その目は俺を睨み殺そうとしている。
+But she's still staring daggers at me.
 #
-　良い目だ。
+It's a good look for her.
 #
-　俺は皇女に抱きつき、また腰を動かした。
+I lift her up by the hips and start moving again.
 #
-　射精を続ける為に。
+To come again.
 #
-　激しく。
+Violently.
 #
-　乱暴に。
+Wildly.
 #
-　クルーネ帝国の王族には魔法使いの資質があり、
-　魔力に溢れている。
+The royal family of Krun are particularly strong
+wizards, overflowing with mana.
 #
-　その魔力を奪う。
+I will take that from her.
 #
-　その目的を忘れ、俺はただ獣のように目の前の皇
-　女を貪った。
+But I barely think about that, and just attack
+her like an animal.
 #
-<name "ルィンス" "!NB0013">
-「ううううっ、うううあううっ！
-　ふぅ、ふぅうううう……」
+<name "Lynth" "!NB0013">
+"Nnnngh! Nnnngh!
+ Nngh! Nnnnnngh..."
 #
-　三度目の射精を終えた時に、俺はやっと動きを止
-　めた。
+After I come for a third time, I finally stop.
 #
-<name "ルィンス" "!NB0014">
-「ぅぅ……ぅ……」
+<name "Lynth" "!NB0014">
+"..."
 #
-　俺の陵辱を受けている最中、皇女は何度か気を失っ
-　たが、その後に続く苦痛で強引に起こされ続けた。
+She passed out several times while I was raping
+her, but the pain always woke her back up.
 #
-　その目には涙が浮かんでいるが、まだ俺に屈服す
-　る気は無いようだ。
+Tears are in her eyes, but she definitely hasn't
+surrendered.
 #
-　俺は皇女の膣内にモノを納めたまま、皇女の頭を
-　抱き寄せ、顔を近づけた。
+I take her head and bring her face to look me
+straight in the eyes, my dick still buried inside
+her.
 #
-<name "ラズロック">
-「良い目だ。
-　俺を許さない、殺してやる。
-　……そういう目だな」
+<name "Lazlocke">
+"That's the right look.
+ You want me to pay.
+ You want to kill me.
+ That's what I see in your eyes."
 #
-<name "ルィンス" "!NB0015">
-「ううっ！」
+<name "Lynth" "!NB0015">
+"Nngh!"
 #
-<name "ラズロック">
-「だが……残念な質問だ。
-　なぜ、目隠しをしていないか解るか？」
+<name "Lazlocke">
+"But... I have an unfortunate question for you.
+ Why do you think you haven't been blindfolded?"
 #
-<name "ルィンス" "!NB0016">
-「……うう」
+<name "Lynth" "!NB0016">
+"..."
 #
-　皇女は怯えたように首をすくめた。
+She shakes her head in sudden fear.
 #
-<name "ラズロック">
-「そうだ。
-　お前が解放される事が無い事を示している」
+<name "Lazlocke">
+"That's right.
+ It means that you will never be free."
 #
-<name "ルィンス" "!NB0017">
-「ぅ……」
+<name "Lynth" "!NB0017">
+"..."
 #
-<name "ラズロック">
-「俺はお前を犯し。
-　お前の持つ魔力を奪い続けるだけだ」
+<name "Lazlocke">
+"I will keep fucking you.
+ I will just keep taking away your mana."
 #
-　俺は皇女の膣内に入ったままのモノをグリッと捻っ
-　た。
+I thrust hard into her pussy again.
 #
-<name "ルィンス" "!NB0018">
-「うううっ！」
+<name "Lynth" "!NB0018">
+"Nnnnngh!"
 #
-　そして、俺はゆっくりと皇女から魔力を奪う。
+And slowly take all of her mana away.
 #
-<name "ルィンス" "!NB0019">
-「ふぅぁぁぁぁぁぁぁぁっ！」
+<name "Lynth" "!NB0019">
+"Nnnnnnnnngh!"
 #
-　俺の魔力奪取によって、皇女は眠るように気を失っ
-　て倒れた。
+Once her mana is drained, she passes out,
+completely unconscious.
 #
-<name "ラズロック">
-「襲っている方が言うのもなんだが、早く屈服した
-　方が楽だぞ。
-　こんなBind具も外してやれるしな」
+<name "Lazlocke">
+"...It would be much easier for both of us if
+ you just gave in though.
+ We'd at least be able to take off all these
+ ropes."
 #
-　その倒れた皇女の耳に優しく囁きながら、俺は膣
-　内からモノを抜き出した。
+I whisper in her ear as I pull my dick out of
+her.
 #
 <music 11>
 <background "bg010b0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0973">
-「ご苦労様でした」
+<name "Soshiette" "!DA0973">
+"Well done."
 #
-<name "ラズロック">
-「……丁重にな」
+<name "Lazlocke">
+"...Stow it."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0974">
-「承知しております。
-　それと……」
+<name "Soshiette" "!DA0974">
+"Understood.
+ Now then..."
 #
 <removesprite -1 11>
-　ソシエットの視線の先に、数人の女性が立ってい
-　た。
+Several women are standing in front of her.
 #
-　全員、俺から魔力を得た事のある連中だ。
+They're all supposed to receive mana from me.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0975">
-「奪った分の魔力。
-　あの方々に」
+<name "Soshiette" "!DA0975">
+"Give the mana you've taken to them."
 #
-<name "ラズロック">
-「休ませてくれないのか？」
+<name "Lazlocke">
+"Don't I get a break?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0976">
-「ご主人様の体調を考えてです」
+<name "Soshiette" "!DA0976">
+"I'm worried about your health."
 #
 <removesprite -1 11>
-　俺の中に魔力が溜まり過ぎると、俺の体調や精神
-　に都合が悪い。
+Having too much mana inside me poisons my body
+and mind.
 #
-　……
+...
 #
-<name "ラズロック">
-「わかった。
-　……しかし、皇女の事を考えれば連中を楽しませ
-　てやる気にはならないぞ」
+<name "Lazlocke">
+"Fine, but after what I did with the princess,
+ I'm not in the mood to make this pleasant for
+ anybody."
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0977">
-「ご主人様の思うままに」
+<name "Soshiette" "!DA0977">
+"As you wish."
 #
 <removesprite -1 11>
-　俺はソシエットの用意した女達と共に、別室へ向
-　かった。
+I go to another room with the women she prepared.
 #
 \x78\x78

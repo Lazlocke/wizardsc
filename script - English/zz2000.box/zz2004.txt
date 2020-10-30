@@ -1,38 +1,40 @@
 <music 36>
 <background "ev059a0.iph" 10>
-　俺はイエルの胸に吸い付く。
+I stick to Elle's breast.
 #
-<name "イエル" "!CA0692">
-「あ、ん、んぁ……」
+<name "Elle" "!CA0692">
+"Ah...mm...mmm..."
 #
-<name "ラズロック">
-「ん……良い感触だ……」
+<name "Lazlocke">
+"Mmm... That's nice..."
 #
-　セリスよりは小振りだが……
+Smaller than Celes though.
 #
-<name "イエル" "!CA0693">
-「ん！」
+<name "Elle" "!CA0693">
+"Mm!"
 #
-<name "ラズロック">
-「なんだ？
-　凄い殺気だったぞ」
+<name "Lazlocke">
+"What?
+ That look could kill."
 #
-<name "イエル" "!CA0694">
-「今、別の人の事を考えてませんでしたか？」
+<name "Elle" "!CA0694">
+"Were you just thinking about someone else?"
 #
-<name "ラズロック">
-「え？
-　あ、いや、全然」
+<name "Lazlocke">
+"Huh?
+ Oh, no.
+ Not at all."
 #
-<name "イエル" "!CA0695">
-「そうですか……すみません」
+<name "Elle" "!CA0695">
+"I see...
+ Sorry."
 #
-<name "ラズロック">
-「い、いや……」
+<name "Lazlocke">
+"D-Don't mention it..."
 #
-　女のカンは恐ろしい。
+Fear women's intuition.
 #
-　そう思い、俺はイエルの肉体に集中して行為を続
-　行した。
+With that thought, I concentrate on her body and
+continue.
 #
 \x78\x78

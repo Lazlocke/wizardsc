@@ -1,335 +1,340 @@
 <background "bg024a0.iph" 10>
 <music 5>
 <background "ev104a0.iph" 10>
-　７０７号室。
+Room 707.
 #
-　俺は隣の部屋に住む、水野さんと飲んでいた。
+I'm drinking right now with Mizuno who lives
+next door.
 #
-　どうしてこうなったかなんて、全然わからない。
+How it happened?
+I'm not sure I could say.
 #
-　前々から良いなぁと思っていた水野さんの着物姿
-　に頭をやられたようで、記憶がかなり飛んでいる。
+I remember seeing her in her kimono and thinking
+she looked pretty, but things get fuzzy after
+that.
 #
-　気が付けば、俺の部屋でビール瓶や酒瓶が多数転
-　がる状態になっていた。
+Before I realized it, the bottles were empty.
 #
-　そんなに酒に強いワケではない俺は、多分、何度
-　か気を失ったのだろう。
+I'm not great at handling my beer, so I probably
+passed out a couple times.
 #
-　記憶に残っている時間から、数時間が経過してい
-　る。
+I don't think I can say what happened over the
+last few hours.
 #
-　ああ、水野さんの着物姿に頭をやられたんじゃな
-　くて、酒にやられたんだなと自覚する。
+Aah, her kimono is what struck me, and before
+I realized it, I was drunk.
 #
-　まいった。
+Crap.
 #
-　改めて部屋を見るが、自分の部屋とは思えないほ
-　どの散らかり具合と酒の匂い。
+I look around the room again, but filled with
+empty bottles and reeking of liquor, it doesn't
+even feel like my own room.
 #
-　この匂いだけで酔いそうだ。
+I think I might be drunk on just the smell.
 #
-　それなのに、水野さんはガブガブとまるで水のよ
-　うに飲んでいる。
+But she's still drinking like it's water.
 #
-<name "鳥居さん" "!RC0000">
-「水野さん。
-　少し……いや、かなり飲みすぎなんじゃ……」
+<name "Torii" "!RC0000">
+"Mizuno, I think you've had a little too...
+ No, a lot too much too drink."
 #
-<name "水野さん" "!JC0000">
-「そんな事ありませんよ。
-　これぐらいは、家でも普通で……
-　ん……」
+<name "Mizuno" "!JC0000">
+"Not at all.
+ This much is normal for when you're home...
+ Mm..."
 #
-<name "水野さん" "!JC0002">
-「あら、着物が着崩れて……すみません。
-　みっとも無い姿を見せてしまいました」
+<name "Mizuno" "!JC0002">
+"Oh, my kimono's coming undone. 
+ Excuse me.
+ What an embarrassment."
 #
-　そんな冷静さは要らないが、そうも言えない。
+I wish I could say it's not bothering me, but
+that'd be a lie.
 #
-<name "鳥居さん" "!RC0001">
-「い、いえ……水野さん、お気になさらず……」
+<name "Torii" "!RC0001">
+"N-No, don't worry about it..."
 #
-<name "水野さん" "!JC0003">
-「そうですか？
-　でも、このままじゃ……少し直します。
-　手伝って頂けません？」
+<name "Mizuno" "!JC0003">
+"Really?
+ But I have to fix it at least a little.
+ Could you help me?"
 #
-<name "鳥居さん" "!RC0002">
-「ぼ、僕……着物の事はあまり……」
+<name "Torii" "!RC0002">
+"I-I... don't know kimonos."
 #
-<name "水野さん" "!JC0004">
-「教えますわ」
+<name "Mizuno" "!JC0004">
+"I'll teach you."
 #
-　水野さんの顔が近付く。
+Her face is so close.
 #
-　モアッとした酒の匂いに混じって、水野さんの匂
-　いが俺の鼻を強く刺激する。
+The scent of her fills my nose and blocks out
+the smell of alcohol.
 #
-　その刺激に股間が素直に反応するが、それを誤魔
-　化しながら努めて冷静に対応する。
+My dick twitches, but I try to stay calm and act
+like it's nothing.
 #
-<name "鳥居さん" "!RC0003">
-「そ、それじゃあ……どうすれば？」
+<name "Torii" "!RC0003">
+"T-Then... what should I do?"
 #
-<name "水野さん" "!JC0005">
-「まず、帯を押さえてくれますか？」
+<name "Mizuno" "!JC0005">
+"First, can you hold the belt?"
 #
-<name "鳥居さん" "!RC0004">
-「はい」
+<name "Torii" "!RC0004">
+"Okay."
 #
-　俺は水野さんの指示通りに帯を持つ。
+I take it like she said.
 #
-　水野さんの身体が近い。
+She's so close to me.
 #
-　顔も近い。
+Especially her face.
 #
-　……あれ？
+...Huh?
 #
-<name "水野さん" "!JC0006">
-「あっ、鳥居さん？
-　……え、あ、きゃあっ」
+<name "Mizuno" "!JC0006">
+"Oh? Torii?
+ Huh? Ah... eek!"
 #
-　俺は水野さんの唇を奪っていた。
+I kiss her.
 #
 <music 35>
 <background "ev105a0.iph" 10>
-<name "水野さん" "!JC0007">
-「と、鳥居さん、な、なにを……」
+<name "Mizuno" "!JC0007">
+"T-Torii, w-what are you doing?"
 #
-　俺はいつの間にか、水野さんの唇を奪っていた。
+I kissed her before I realized what I was doing.
 #
-　そしてそのまま、流れるように水野さんの着物を
-　脱がし、両腕を縛っていた。
+And then I pulled down her kimono and tied her
+hands with the belt.
 #
-<name "水野さん" "!JC0008">
-「あ、あ……」
+<name "Mizuno" "!JC0008">
+"Ah...ah..."
 #
-　そして、水野さんの淫らな姿に露骨に興奮した股
-　間のモノをズボンから解放し、水野さんの身体に
-　擦りつけた。
+I free my swollen dick from my pants, excited by
+how sexy she looks, and rub it against her.
 #
-<name "水野さん" "!JC0009">
-「そ、そんな、なにを、あ、やめて、やめてくださ
-　い」
+<name "Mizuno" "!JC0009">
+"N-No... What are you...
+ Ah... Stop...
+ Please don't..."
 #
-　そんな言葉に耳を貸さず、水野さんの身体にモノ
-　を擦り続け、そして一気に膣内への侵入を試みた。
+I ignore her and keep rubbing against her, and
+then try to quickly push inside her.
 #
-　ヌプッとした水音。
+Her wetness greets me.
 #
-<name "水野さん" "!JC0010">
-「ううぁんっ♪」
+<name "Mizuno" "!JC0010">
+"Aaaah!♪"
 #
-　悲鳴を上げるかと思ったが、予想外に甘い声が聞
-　こえた。
+I thought she'd scream, but she moans
+passionately.
 #
-　喜んでいると思った。
+She wants it.
 #
-　もう俺は止まらない。
+There's no stopping now.
 #
-　根元までモノを捻じ込み、水野さんの膣奥の壁を
-　ゴンゴンと叩き続ける。
+I bury myself to the base inside her, pushing
+through all her walls in one thrust.
 #
-<name "水野さん" "!JC0011">
-「ひぁ、ひあうっ、うはぁっ、うはぁぁうううっ！」
+<name "Mizuno" "!JC0011">
+"Aah! Ahhh! Ahhh! Ahhhhh!"
 #
-　強烈な酒の匂いと共に、水野さんの甘い匂いが部
-　屋に充満する。
+Her sweet scent fills the room along with the
+smell of alcohol.
 #
-　それに誘われるように俺は腰を動かし、水野さん
-　の膣内でモノを暴れさせた。
+Drawn by it, I move my hips and ravage her pussy.
 #
-<name "水野さん" "!JC0012">
-「ぁ、ぁ、ん、んはぁ、ぁ、ぁん、んぁぁううう、
-　うぅん、うぁ、ぁ、あ、ひ、ひぅ、ひぅぁぁ」
+<name "Mizuno" "!JC0012">
+"Ah! Ahh! Mm! Aah! Aaahh! Aahhhh!
+ Aah! Ahhh! Ah! Ahh! Ah! Ahhh!"
 #
-　水野さんの膣内は程好い締め付けと溶けるような
-　柔らかさで俺のモノを喜ばせる。
+Her pussy squeezes comfortably tight in open,
+warm pleasure.
 #
-　それに応えるように、俺はモノ先を膣内で右へ左
-　へと動かし、擦り付ける。
+I move my dick left and right inside her, rubbing
+all over.
 #
-<name "水野さん" "!JC0013">
-「あ、あん、んぁ、んぁぁぁ、ふぁん、ん、ぁ、
-　ぁぁぁ、ひ、ひぅっ、ひっ、ひあっ、そ、そこ、
-　だめ、あ、ふぁぁぁぁぁぁぁぁっ！」
+<name "Mizuno" "!JC0013">
+"Aah! Ahh! Ahh! Ahhh! Aaah! Mm! Ah!
+ Aaah! Ah! Ahh! Ah! Ahhh!
+ N-Not there! Ah! Aaaahhh!"
 #
-　左へ突き入れた時の方が、声が大きい。
+She moans louder when I go left.
 #
-　俺はそれを感じながら、左に集中的にモノを擦り
-　付けながら腰を動かした。
+I lose myself in the sensations while intensely
+rubbing against her left side.
 #
-<name "水野さん" "!JC0014">
-「ぁっ、ぁっ、ひっ、ひぁっ、う、だ、だめ……
-　あ、あう、うぁ、く、や、やめ、あ、あ、あ、
-　っ、っ、ひいぃっ」
+<name "Mizuno" "!JC0014">
+"Ah! Aah! Ah! Ah! D-Don't...
+ Ah! Aah! Ah! Ngh! S-Stop! Ah! Ah!
+ Ah! Ah! Ahhh!"
 #
-　水野さんが、俺のモノの動きで喜んでいる。
+She loves it.
 #
-　そう感じるだけで、腰がさらに激しく動く。
+Just knowing that makes me want to do it harder.
 #
-　もっとだ。
+More.
 #
-　水野さんの温もりを、柔らかさを、甘い声を、全
-　てを手に入れる。
+I want her warmth, her softness, and her moans.
 #
-　もっと。
+More.
 #
-　俺は水野さんの唇に、唇を合わせる。
+I bring my lips to hers again.
 #
-　それだけで酔いそうな酒の匂い。
+I could be drunk on that even without the liquor.
 #
-　だが、俺は舌を伸ばし、水野さんの口内を舐めて
-　まわる。
+But I push my tongue into her mouth to taste more
+of her.
 #
-　クラクラする……
+My head's swimming.
 #
-　あの水野さんとキス。
+I'm kissing her.
 #
-　それ以上の事をしているが、さらに興奮した。
+The more I do, the more turned on I get.
 #
-　そして、水野さんが俺の舌に応えるとその興奮は
-　最高潮に達した。
+And when her tongue embraces mine, my excitement
+reaches a fever pitch.
 #
-<name "水野さん" "!JC0015">
-「むぅぅぁっ……」
+<name "Mizuno" "!JC0015">
+"Mmmmm..."
 #
-　頭が真っ白になり、俺は獣のように腰を振り続け
-　ながら精液を水野さんの膣内に吐き出した。
+My whole head goes white and I shoot semen into
+her while frantically shaking my hips like an
+animal.
 #
-　ドクンドクンと激しくモノを震わせながら、俺は
-　射精を続けた。
+I come over and over into her pussy.
 #
-<name "水野さん" "!JC0016">
-「ぁ、ぁ……うぁ……あ……ああ……」
+<name "Mizuno" "!JC0016">
+"Ah...ah...ahhh...ah...aahh..."
 #
-　気付けば、水野さんを抱き締めながら俺は荒い息
-　を吐いていた。
+When I come to, I'm gasping for breath with her
+still in my arms.
 #
-<name "水野さん" "!JC0017">
-「うぁ、ひ、酷いです……」
+<name "Mizuno" "!JC0017">
+"Aah...
+ Y-You're horrible..."
 #
-　水野さんの言葉で、冷水を掛けられたように俺の
-　心が冷え込んだ。
+Her words are like cold water splashed in my
+face.
 #
-　何をやっているんだ俺は。
+What was I doing?
 #
-　後悔。
+I can't believe I did that.
 #
-　だが、俺の身体は水野さんから離れようとはしな
-　かった。
+But I don't want to move away.
 #
-　それどころか、水野さんの膣内に捻り込んでいる
-　俺のモノはまだ大きいままだ。
+My dick's still hard and still inside her.
 #
-　腰を少しだけ動かす。
+I move just a little.
 #
-<name "水野さん" "!JC0018">
-「あぅんっ」
+<name "Mizuno" "!JC0018">
+"Aah!"
 #
-　水野さんの甘い声。
+She moans.
 #
-　……
+...
 #
-　そして、信じられない言葉。
+And then surprises me.
 #
-<name "水野さん" "!JC0019">
-「そ、そう……まだ……
-　続けてください……」
+<name "Mizuno" "!JC0019">
+"N-Not yet...
+ Don't stop..."
 #
-<name "水野さん" "!JC0020">
-「一人だけ先に気持ち良くなるなんて……酷いです」
+<name "Mizuno" "!JC0020">
+"How could you come by yourself?
+ You're horrible."
 #
-　俺は水野さんの顔を見る。
+I look at her.
 #
-　水野さんは、俺を求めていた。
+She wants me.
 #
-　……
+...
 #
-　俺は腰を跳ね動かした。
+I thrust into her.
 #
-<name "水野さん" "!JC0021">
-「あっ、あぁぁっ」
+<name "Mizuno" "!JC0021">
+"Ah! Ahhh!"
 #
-　激しく、何度も。
+Intensely.
+Repeatedly.
 #
-<name "水野さん" "!JC0022">
-「ぁ、ぁ……うぁ……あううっ！」
+<name "Mizuno" "!JC0022">
+"Ah...ah...ahhh...aaahhh!"
 #
-　水野さんを喜ばせる為に。
+For her pleasure.
 #
-　そして、自分の快楽の為に。
+And for my own.
 #
-<name "水野さん" "!JC0023">
-「あ、あっ、ぁぁっ、ふぁぁぁぁぁっ！」
+<name "Mizuno" "!JC0023">
+"Ah! Aah! Ahh! Aaaaaahhh!"
 #
-　この水野さんの膣内を精液でドロドロにする。
+Her pussy is flooded with my semen.
 #
-<name "水野さん" "!JC0024">
-「ふぁ、ふぁっ、ひ、ひぁ、ひぁ、だ、だめ……
-　ぁ……ぁ……ぁぁぁぁ！」
+<name "Mizuno" "!JC0024">
+"Aaah! Aah! Ah! Ah! Aah! D-Don't...
+ Ah! Aah! Aaaaah!"
 #
-　その後は、口だ。
+And then her mouth.
 #
-　口内に流し込み、飲み込ませる。
+I come in her mouth and make her swallow it.
 #
-<name "水野さん" "!JC0025">
-「あ、ひっ、ひっ、ひぁ、ひぁ……」
+<name "Mizuno" "!JC0025">
+"Ah! Aah! Ah! Ah! Ahhh..."
 #
-　胸にもかける。
+And then on her breasts.
 #
-　その後は、後ろの穴に……
+And then in her ass...
 #
-　全てを、水野さんの全てを奪う。
+I take every part of her.
 #
-<name "水野さん" "!JC0026">
-「あああぁぁぁぁぁぁぁぁぁぁぁぁっ！」
+<name "Mizuno" "!JC0026">
+"Aaaaaaaahhhhhhhh!!!!"
 #
-　俺は水野さんを抱き続けた。
+I keep having sex with her.
 #
 <music 5>
 <background "bg024a0.iph" 10>
-　翌日、目を覚ますと猛烈な二日酔いの頭痛が襲っ
-　てきた。
+The next day, I wake up to a painful hangover.
 #
-　そして、昨日の事を思い出して周囲を見回す。
+And then I look around as I remember what 
+happened.
 #
-　水野さんは？
+Where's Mizuno?
 #
-　……
+...
 #
-　台所で、食事を作っていた。
+She's in the kitchen, cooking something.
 #
-<name "水野さん" "!JC0027">
-「あ、おはようございます。
-　もうすぐ、できますから待っててくださいね」
+<name "Mizuno" "!JC0027">
+"Ah, good morning.
+ I'll be done in a moment.
+ Just wait, okay?"
 #
-　水野さんは、昨日の行為で汚れた体にエプロンを
-　つけ、台所に立っていた。
+She's wearing an apron after everything we did
+yesterday, just there in the kitchen, like
+nothing happened.
 #
-<name "水野さん" "!JC0028">
-「……食事の後、また楽しませてくださいね」
+<name "Mizuno" "!JC0028">
+"...After breakfast, let's enjoy ourselves again."
 #
 <music 31>
 <background "bg002a0.iph" 11>
-　俺が本を読んでいると、後ろから軽く叩かれた。
+As I'm reading, I get a tap on my shoulder.
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "セリス" "!AA5734">
-「師匠、掃除中の読書は駄目ですよ」
+<name "Celes" "!AA5734">
+"Master, no reading while we're cleaning."
 #
-<name "ラズロック">
-「……す、すまない」
+<name "Lazlocke">
+"S-Sorry."
 #
 <sprite "ta01a20.iph" 4 4 12>
-<name "セリス" "!AA5735">
-「本を置いて、掃除を再開してください」
+<name "Celes" "!AA5735">
+"Put the book down and get back to cleaning."
 #
-<name "ラズロック">
-「了解」
+<name "Lazlocke">
+"Yes, ma'am."
 #
 <removesprite -1 11>
-　俺は本を置いて、掃除を再開した。
+I put the book down and get back to work.
 #
 \x78\x78

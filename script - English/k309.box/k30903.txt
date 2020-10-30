@@ -1008,9 +1008,9 @@ it.
 <sprite "ta04a26.iph" 4 4 12>
 <name "Soshiette" "!DA0893">
 "Um... We already did it five time, so...
-Å@Um... Why are you taking out that rope, candles
+ Um... Why are you taking out that rope, candles
  and whip?
-Å@And those weird devices..."
+ And those weird devices..."
 #
 <name "Lazlocke">
 "Don't worry.

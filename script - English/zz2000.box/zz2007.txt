@@ -1,90 +1,90 @@
 <music 35>
 <background "ev055a2.iph" 10>
-<name "イエル" "!CA0797">
-「ふぁ、ぁ……ぁぁう……」
+<name "Elle" "!CA0797">
+"Aah...ah...ahhh..."
 #
-<name "セリス" "!AA5671">
-「師匠、イエルちゃんばかりズルいです」
+<name "Celes" "!AA5671">
+"Master, no fair just focusing on her."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"All right."
 #
-　俺がイエルからモノを抜こうとしたら、イエルが
-　足を絡めて邪魔をした。
+When I try to pull out of her, Elle wraps her
+legs around me and stops me.
 #
-<name "イエル" "!CA0798">
-「わ、私が終ってから……」
+<name "Elle" "!CA0798">
+"I-I'm not done yet..."
 #
-<name "セリス" "!AA5672">
-「イエルちゃん！」
+<name "Celes" "!AA5672">
+"Elle!"
 #
-<name "ラズロック">
-「んー、セリス。
-　そう怒るな」
+<name "Lazlocke">
+"Mmm... Celes, don't be mad."
 #
-<name "セリス" "!AA5673">
-「でも」
+<name "Celes" "!AA5673">
+"But!"
 #
-<name "ラズロック">
-「エロい事に関しては、先輩だろ」
+<name "Lazlocke">
+"You're her big sister when it comes to sex,
+ right?"
 #
-<name "セリス" "!AA5674">
-「むう」
+<name "Celes" "!AA5674">
+"Grrr..."
 #
-<name "ラズロック">
-「それに、胸のサイズは……セリスの方がお姉ちゃ
-　んだろ」
+<name "Lazlocke">
+"And... that goes for the size of your chests
+ too, right?"
 #
-　そう言った瞬間、イエルの膣が思いっきり絞めら
-　れた。
+As I say that, Elle's pussy squeezes down hard.
 #
-<name "イエル" "!CA0799">
-「聞き逃せません」
+<name "Elle" "!CA0799">
+"I'm not sure I heard you right."
 #
-<name "セリス" "!AA5675">
-「まあまあ、イエルちゃん」
+<name "Celes" "!AA5675">
+"Now, now, Elle."
 #
-<name "イエル" "!CA0801">
-「その満面の笑みがムカツク」
+<name "Elle" "!CA0801">
+"Your huge smile is pissing me off."
 #
-<name "ラズロック">
-「胸のサイズを言ったのは俺だが……
-　別に大きければ良いって事は無いだろ」
+<name "Lazlocke">
+"I just said it was bigger, I didn't necessarily
+ say it was better."
 #
-<name "ラズロック">
-「俺は、イエルのサイズも、セリスのサイズも別に
-　嫌いじゃないぞ」
+<name "Lazlocke">
+"I don't have a problem with either of your
+ sizes."
 #
-<name "イエル" "!CA0802">
-「強いて、どちらかと言われれば？」
+<name "Elle" "!CA0802">
+"And if you had to pick, which one?"
 #
-<name "セリス" "!AA5676">
-「どっちですか？」
+<name "Celes" "!AA5676">
+"Which?"
 #
-<name "ラズロック">
-「む……」
+<name "Lazlocke">
+"Mmmmm..."
 #
-<name "ラズロック">
-「男としては……
-　行為中にそういった質問をしない方かな」
+<name "Lazlocke">
+"As a man...
+ I feel like this isn't a question you should
+ ask during sex."
 #
-　俺はそう言って、イエルからモノを抜いて行為を
-　中断しようとした。
+I say that and try to pull out to put a pause
+on activities.
 #
-　が、二人掛りで阻止された。
+But both of them stop me.
 #
-<name "セリス" "!AA5677">
-「師匠。
-　ズルイですよ」
+<name "Celes" "!AA5677">
+"Master, no fair."
 #
-<name "イエル" "!CA0804">
-「逃げるのは駄目よね」
+<name "Elle" "!CA0804">
+"No running away."
 #
-<name "ラズロック">
-「えっとだな……」
+<name "Lazlocke">
+"Um, well..."
 #
-　俺は二人に襲われる形で、夜を過ごした。
+I spend the whole night attacked by both of
+them.
 #
-　むう、女は結託すると強い。
+Women are fearsome when they work in concert.
 #
 \x78\x78

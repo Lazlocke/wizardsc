@@ -1,317 +1,322 @@
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0789">
-「ご主人様」
+<name "Soshiette" "!DA0789">
+"Your Grace."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0790">
-「セリスさんは、どちらに？」
+<name "Soshiette" "!DA0790">
+"Where is Miss Celes?"
 #
-<name "ラズロック">
-「ああ、走りに出ている。
-　少し遠くまで行くとか言っていたな」
+<name "Lazlocke">
+"Oh, she's out for a run.
+ She said she'd be gone for a while."
 #
 <sprite "ta04a02.iph" 4 4 12>
-<name "ソシエット" "!DA0791">
-「そうですか。
-　では、お帰りを待たせて頂きます」
+<name "Soshiette" "!DA0791">
+"I see.
+ Then I'll wait for her to come back."
 #
-<name "ラズロック">
-「……悪いな。
-　お前にセリスの武術面を見て貰って助かっている」
+<name "Lazlocke">
+"Sorry.
+ Thanks for always helping out with her fighting
+ lessons."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0792">
-「いえ、私も期待している部分がありますので」
+<name "Soshiette" "!DA0792">
+"It's nothing.
+ I'm interested in what she's capable of as well."
 #
-<name "ラズロック">
-「そうか……
-　俺はどうも魔法関係以外は駄目だからな」
+<name "Lazlocke">
+"Yeah...
+ I'm useless for anything but magic."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0794">
-「得手不得手は誰にでもあります。
-　お気になさらずに」
+<name "Soshiette" "!DA0794">
+"Everyone has their strengths and weaknesses.
+ Don't let it bother you."
 #
-<name "ラズロック">
-「そう言って貰えると助かる」
+<name "Lazlocke">
+"Thanks for saying that."
 #
 <sprite "ta04a72.iph" 4 4 12>
-<name "ソシエット" "!DA0795">
-「はい。
-　ところで……」
+<name "Soshiette" "!DA0795">
+"Yes.
+ Speaking of which..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta04a73.iph" 4 4 12>
-<name "ソシエット" "!DA0796">
-「私のセリスさんに対する協力に感謝しているので
-　したら、態度で示すのは悪く無いと思いますが？」
+<name "Soshiette" "!DA0796">
+"If you really are grateful for my help with her,
+ would it be so bad to show it?"
 #
-<name "ラズロック">
-「頭でも撫でてやろうか」
+<name "Lazlocke">
+"Do you want a pat on the head?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0797">
-「ご主人様」
+<name "Soshiette" "!DA0797">
+"Your Grace."
 #
-<name "ラズロック">
-「冗談だ」
+<name "Lazlocke">
+"Just kidding."
 #
 <removesprite -1 11>
-　俺はソシエットを背後から抱き締めた。
+I hug her from behind.
 #
 <music 35>
 <background "ev073a1.iph" 10>
-　ソシエットの胸を揉みながら、キスで口を塞ぎ、
-　ゆっくりとスカートを捲り上げて下着を下げる。
+I close her mouth with a kiss while rubbing her
+chest, rolling up her skirt, and pulling down her
+underwear.
 #
-<name "ソシエット" "!DA0798">
-「あ……ん」
+<name "Soshiette" "!DA0798">
+"Ah...mm..."
 #
-　そして、露わになったソシエットの尻を撫でなが
-　ら、その陰部に指を這わせた。
+As I stroke her exposed butt, I open her pussy
+and slide a finger inside her.
 #
-<name "ソシエット" "!DA0799">
-「ふぁ、ん、んんぁ……んん」
+<name "Soshiette" "!DA0799">
+"Ah...mmm...mmmm...mmmm..."
 #
-　ソシエットは抵抗を見せず、俺とのキスを続けな
-　がら、俺の指の動きを甘受する。
+She doesn't resist at all, just accepts my finger
+and kisses me back.
 #
-　俺は指を巧みに動かしながら割れ目を拡げ、膣口
-　に指を潜り込ませた。
+I open her more and slide my finger deeper into
+her.
 #
-<name "ソシエット" "!DA0800">
-「ふぁ、ぁ、ぁ……んんぁ」
+<name "Soshiette" "!DA0800">
+"Aah...ah...ah...mmmmm..."
 #
-　膣口に潜り込ませた指が、痛いほどの凄い膣圧で
-　締め付けられる。
+Her pussy squeezes really tight on my finger.
 #
-　まるで、指では不満だと言わんばかりに。
+Like it's saying that a finger's not enough.
 #
-　だが、俺はそれに反発するように指をさらに中へ
-　と潜り込ませ、弄り続けた。
+But I keep reaching deeper inside her, teasing
+her more.
 #
-<name "ソシエット" "!DA0801">
-「ぁ、ぁ、ぁう、うぁ、うぁうう……」
+<name "Soshiette" "!DA0801">
+"Ah...ah....aaah...aahhhh..."
 #
-　そうして、ソシエットの陰部が濡れ初めたのを指
-　先で確認すると、俺は指先で膣口を拡げながら、
-　そこに自分のモノを一気に潜り込ませた。
+Once I feel how wet she's getting, I open her up
+between my fingertips and slide my whole dick 
+into her at once.
 #
 <background "ev073a0.iph" 10>
-<name "ソシエット" "!DA0802">
-「うぐっ……ぁっ……ぁぁ。
-　ご、強引です……」
+<name "Soshiette" "!DA0802">
+"Ngh...ah...ah...
+ S-So forceful..."
 #
-<name "ソシエット" "!DA0803">
-「でも、嫌いじゃ……ありません」
+<name "Soshiette" "!DA0803">
+"But... I don't hate that."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"I see."
 #
-　俺はモノをソシエットの膣内に納め、空いた手で
-　ソシエットの胸を揉む。
+With my dick inside her, I move my free hand up
+to her chest.
 #
-<name "ソシエット" "!DA0804">
-「ぁ、む、胸は……止めて、ぁぅぁ、ください」
+<name "Soshiette" "!DA0804">
+"Ah... P-Please stop... aah... touching my
+ breasts..."
 #
-<name "ラズロック">
-「そう嫌がるな」
+<name "Lazlocke">
+"I don't want to."
 #
-<name "ソシエット" "!DA0805">
-「で、でも……」
+<name "Soshiette" "!DA0805">
+"B-But..."
 #
-　ソシエットの胸は小さい。
+Her chest is small.
 #
-　小さいと言うか、無い。
+Nonexistent may be a better way to put it.
 #
-　それを気にして、ソシエットは胸を触られる事を
-　嫌がる。
+Because of that, she doesn't like her chest being
+touched.
 #
-<name "ラズロック">
-「触られた方が、大きくなるって話があるぞ」
+<name "Lazlocke">
+"They say breasts get bigger if they're touched."
 #
-<name "ソシエット" "!DA0806">
-「うぁ……」
+<name "Soshiette" "!DA0806">
+"..."
 #
-<name "ラズロック">
-「隠してるから、小さいままなんじゃないか？」
+<name "Lazlocke">
+"Maybe because you always keep them so covered up
+ is why they're so small."
 #
-<name "ソシエット" "!DA0807">
-「む……」
+<name "Soshiette" "!DA0807">
+"..."
 #
-<name "ラズロック">
-「どうする？」
+<name "Lazlocke">
+"Well?"
 #
 <background "ev073a1.iph" 10>
-<name "ソシエット" "!DA0808">
-「……触ってください」
+<name "Soshiette" "!DA0808">
+"...Please touch them."
 #
-<name "ラズロック">
-「触るだけで良いのか？」
+<name "Lazlocke">
+"Just touch them?"
 #
-<name "ソシエット" "!DA0809">
-「揉んでください。
-　私の……小さな、胸を」
+<name "Soshiette" "!DA0809">
+"Please rub my... small breasts."
 #
-<name "ラズロック">
-「素直でよろしい」
+<name "Lazlocke">
+"Good girl."
 #
-<name "ソシエット" "!DA0810">
-「むう……あ、うっ……くっ」
+<name "Soshiette" "!DA0810">
+"Grr...
+ Ah...ah...ngh..."
 #
-<name "ラズロック">
-「モノを捻じ込まれているんだ。
-　我慢するな」
+<name "Lazlocke">
+"My dick's already inside you.
+ Don't start getting upset now."
 #
-<name "ソシエット" "!DA0811">
-「で、でも……ふぁ、ぁ、んんっ」
+<name "Soshiette" "!DA0811">
+"B-But...
+ Ahhh...ah...mmm..."
 #
-　俺はソシエットの胸を揉みながら、小さいながら
-　もピンと硬くなった乳首を摘み上げる。
+I rub her breasts and pinch her small, stiff
+nipples.
 #
-　コリコリっと指先でその硬さを楽しみつつ、胸を
-　揉む事も忘れない。
+I enjoy how they feel between my fingers, but 
+don't stop rubbing her chest.
 #
-　確かに胸は無い。
+There's certainly not but there.
 #
-　だが、僅かに女性としての膨らみはある。
+But she's definitely female.
 #
-<name "ソシエット" "!DA0812">
-「ふぁ、ぁん、んぁ……んん」
+<name "Soshiette" "!DA0812">
+"Ah...mmm...mmm...mmmm..."
 #
-　その僅かな膨らみを、優しく刺激しながら腰を動
-　かす。
+I move my hips while gently stimulating her.
 #
-<name "ソシエット" "!DA0813">
-「ぁぅ、ぁ、ふぁ、ふぁ……ん、んぁ、んぁ」
+<name "Soshiette" "!DA0813">
+"Ah...ah...ahhh...
+ Mm...mmm...mmm..."
 #
-　甘い声を出しているソシエットの口が誘っている
-　ようで、またキスをして塞いでしまう。
+She lets out a sweet moan, drawing me in.
+I kiss her again and close her lips.
 #
-<name "ソシエット" "!DA0814">
-「むぁ、ん、んん……」
+<name "Soshiette" "!DA0814">
+"Mm...mm...mmmm..."
 #
-　俺とソシエットは立ちながら、絡み合い続けた。
+We stay standing up, completely entangled in each
+other.
 #
-<name "ソシエット" "!DA0815">
-「んぁ、あ、んは……あ、そ、そろそろ……
-　ふぁん、ん、ぁ……あん」
+<name "Soshiette" "!DA0815">
+"Mm...ah...mmm...ah...
+ I-I'm almost...
+ Ahh...mm...ah...ah!"
 #
-　そして、ソシエットからの要求。
+She begs for more.
 #
-　言葉だけでなく、身体全体が催促しているのがわ
-　かる。
+Not just with her words, but by pressing her
+whole body against me.
 #
-　それに応えるように俺は腰の動きを強くし、先程
-　よりも深くモノを突き入れて膣内を擦り上げる。
+I thrust harder in response, piercing her deeper
+and more.
 #
-<name "ソシエット" "!DA0816">
-「ぁぁうううくぁぁ！」
+<name "Soshiette" "!DA0816">
+"Aaaaahhhhh!"
 #
-　そして突き入れた速度で引き、また突き上げる。
+I pull back faster, and push up harder.
 #
-<name "ソシエット" "!DA0817">
-「くぅぁんっ、んっ、んぁ、んぁっ、ひぁぅ、深い、
-　あ、くぁ、そんな、ぁぁ、ひぁぅぅっ！」
+<name "Soshiette" "!DA0817">
+"Aaah! Nnh! Mm! Mm! Ah!
+ Not so... ah... deep!
+ Aaah! Aaahhh!"
 #
-　それを繰り返し、俺は徐々に性欲を高めていく。
+Doing that over and over again, I slowly build her
+desire.
 #
-<name "ソシエット" "!DA0818">
-「ふぁっ、あっ、あっ、ぁぁうっ、くぁんん、んぁ、
-　や、あ、ひっ、ひぐぁぁぁっ！」
+<name "Soshiette" "!DA0818">
+"Aah! Ah! Ah! Aah! Aahhh! Ah!
+ Ah! Aah! Ah! Aaaahhhh!"
 #
-　深く突き入れる度に、モノ先がソシエットの子宮
-　を突き上げているのを感じる。
+Each time I go really deep, I feel the tip of my
+dick press against her womb.
 #
-<name "ソシエット" "!DA0819">
-「ぁっ、ぁっ、だ、駄目、ふぁ、も、もう……あ、
-　う、うぁっ、……ぁぁっ！」
+<name "Soshiette" "!DA0819">
+"Ah! Ah! I-I can't... aah... take any more...
+ Ah! Aah! Aaah! Ahhh!"
 #
-　ソシエットが一気に膣内を締め上げた。
+She suddenly clamps tight.
 #
-　そこを、俺のモノが二度、行き来した。
+My dick slides back and forth despite how hard
+she's squeezing.
 #
-　これまで以上の快楽が俺のモノに与えられ、俺の
-　頭の中が一気に白くなっていく。
+The sudden intense pleasure makes my head go
+blank all at once.
 #
-<name "ソシエット" "!DA0820">
-「ふぁぁぁぁぁぁぁぁぁっ！」
+<name "Soshiette" "!DA0820">
+"Aaaahhhhhhh!!!!!"
 #
-　ソシエットが全身を震わせて達したと同時に、俺
-　もソシエットの膣奥でモノを震わせて射精を開始
-　していた。
+At the same time as she shudders and climaxes,
+my dick throbs and I start to come deep inside
+her.
 #
-　ドクンッドクンッドクンッドクンッとモノ先から
-　精液をリズム良く吐き出し、ソシエットの膣内と
-　子宮を満たしていく。
+Semen shoots out of my dick in a steady rhythm,
+filling her pussy and womb.
 #
 <background "ev073a2.iph" 10>
-<name "ソシエット" "!DA0821">
-「ぁ、ぁぁ、ぁぁぁぁ……」
+<name "Soshiette" "!DA0821">
+"Ah...aaah...ahhhh..."
 #
-　俺は最後の一滴までソシエットの膣内に吐き出し、
-　達した余韻に浸っているソシエットの唇を奪う。
+I pour every last drop into her and kiss her as
+she basks in the echoes of her orgasm.
 #
-<name "ソシエット" "!DA0822">
-「ん……んぁ……ご主人様……」
+<name "Soshiette" "!DA0822">
+"Mm...mmm...
+ Your Grace..."
 #
-　もう一度。
+Again.
 #
-<name "ソシエット" "!DA0823">
-「むぁ……あむ……ん……」
+<name "Soshiette" "!DA0823">
+"Mm...mmm...mm..."
 #
-　俺はそうしながら、しばらくソシエットを抱き締
-　め続けた。
+I continue having sex with her for a while.
 #
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0829">
-「着替え、終りました」
+<name "Soshiette" "!DA0829">
+"I'm finished changing."
 #
-　ソシエットは、この家に置いてあったメイド服に
-　着替え戻ってきた。
+She walks back in wearing a different maid outfit.
 #
-　先程の行為で、かなり汚れたからだ。
+The original one got pretty messy.
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0830">
-「洗濯はしておきますので、取り込んでおいてくだ
-　さい」
+<name "Soshiette" "!DA0830">
+"I washed it, so please take it in later."
 #
-<name "ラズロック">
-「ああ、わかった」
+<name "Lazlocke">
+"Yeah, I know."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0831">
-「では、そろそろセリスさんの様子を見に行ってき
-　ます」
+<name "Soshiette" "!DA0831">
+"All right, I should go check up on Celes."
 #
-<name "ラズロック">
-「頼む」
+<name "Lazlocke">
+"Please."
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0832">
-「ご主人様」
+<name "Soshiette" "!DA0832">
+"Your Grace."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0833">
-「また、お願いします」
+<name "Soshiette" "!DA0833">
+"I look forward to next time."
 #
-　ソシエットはそう言って、俺の返事を待たずに部
-　屋から出ていった。
+She leaves without waiting for an answer.
 #
-　俺は居なくなったソシエットに、考えておくと答
-　え、自分の仕事に戻った。
+I quietly say that I know, and go back to my own
+work.
 #
 \x78\x78

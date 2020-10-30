@@ -1,601 +1,617 @@
 <music 40>
 <background "ev079a0.iph" 10>
-　俺の目の前には、全裸でBindされた魔法使いが居
-　た。
+A wizard is before me, bound and stark naked.
 #
-　Bindは魔法による束縛。
+Her restraints are magical.
 #
-　立ったまま床から数センチ浮かされ、身体の動き
-　を封じられている。
+She's suspended in the air, keeping her from 
+being able to move.
 #
-　空中固定と、身体の束縛。
+She's held up, and completely helpless.
 #
-　その他にも、体内魔力の不活性化や、この部屋に
-　おける魔力の排除などの魔法が、かなりのレベル
-　で多重に発動し続けている。
+On top of that, the mana inside her and the mana
+in the room is being constantly suppressed.
+The spells to do so are being activated over and
+over.
 #
-　それなりの魔法使いが、数人で掛かったのだろう。
+It's taking a few wizards to keep this setup
+running.
 #
-　それだけ、この束縛されている魔法使いが危険な
-　相手という事だ。
+Which just shows how dangerous this bound wizard
+is.
 #
-　マーコルネール＝マーコルネール
+Macornel Makolner.
 #
-　マーコルネール家は、古き魔法使いの一族として
-　有名であり、そのファミリーネームを名にする現
-　在の当主は歴代でも指折りの魔法使いと言われる。
+The Makolner family is a famous clan of wizards
+going back centuries. The current head of the
+family is said to be the finest wizards the family
+has seen in generations.
 #
-<name "マーコルネール" "!PB0000">
-「俺は協会に屈したりしねぇ。
-　出直して来い」
+<name "Macornel" "!PB0000">
+"I won't give in to the Guild.
+ Leave me alone."
 #
-　資料によれば今日でBind十七日目。
+According to the report, this is the seventeenth
+day of her imprisonment.
 #
-　殺さない為に、それなりのCookingを用意して世話係
-　が食べさせているが、束縛された状態で長時間耐
-　えるのはなかなかの精神力と言える。
+They've been feeding her and forcing her to eat
+to keep her alive, but she's got a lot of 
+willpower to have been able to endure this for
+as long as she has.
 #
-　だから、俺が呼ばれたのだろう。
+Which is why I've been called in.
 #
-　さっさと終らせようと、俺はマーコルネールに近
-　付く。
+I approach her to get this done quickly.
 #
-<name "ラズロック">
-「……最終勧告だ。
-　君が行なっていた魔法研究の資料を協会に提出し、
-　今後は協会の活動に参加するように」
+<name "Lazlocke">
+"...This is your final offer.
+ Submit the research you were working on to the
+ Guild, and assist the Guild from now on."
 #
-<name "マーコルネール" "!PB0001">
-「断わる」
+<name "Macornel" "!PB0001">
+"I refuse."
 #
-<name "ラズロック">
-「……判断が早いな」
+<name "Lazlocke">
+"...That may be a hasty decision."
 #
-<name "マーコルネール" "!PB0002">
-「けっ。
-　どうせ、俺を殺せやしねぇだろ。
-　研究結果が狙いだからな」
+<name "Macornel" "!PB0002">
+"Hmph.
+ Anyway, you can't kill me.
+ You're after my research."
 #
-<name "マーコルネール" "!PB0003">
-「殺せねぇからこうやって生かしてる。
-　俺を束縛する為に、どれだけの魔法使いが手間を
-　掛けてるんだ？
-　笑わせるぜ」
+<name "Macornel" "!PB0003">
+"I'm still alive because you need me alive.
+ How many wizards are you using to keep me
+ imprisoned here?
+ What a joke."
 #
-<name "ラズロック">
-「笑えるか……そうか」
+<name "Lazlocke">
+"A joke, huh?
+ I see."
 #
-　俺は手を伸ばし、マーコルネールの陰部を乱暴に
-　弄る。
+I reach out and violently touch her pussy.
 #
 <background "ev079a1.iph" 10>
-<name "マーコルネール" "!PB0004">
-「くっ！
-　うぁっ！
-　ぐぁっ……な、なにを！」
+<name "Macornel" "!PB0004">
+"Ngh!
+ Ah! Agh!
+ W-What are you doing!?"
 #
-<name "ラズロック">
-「感覚を数倍にしてある。
-　楽しめ」
+<name "Lazlocke">
+"Your sensations have been enhanced multiple times
+ over.
+ Enjoy it."
 #
-<name "マーコルネール" "!PB0005">
-「あ、あっ、あぁぁぁぁっ！
-　ちくしょうっ！
-　これぐらいで、屈すると思うなよっ！」
+<name "Macornel" "!PB0005">
+"Ah! Ah! Aaaah!
+ Damn it!
+ Don't think this is enough to beat me!"
 #
-<name "ラズロック">
-「魔法使いがこれぐらいで屈するわけないだろ。
-　何を言ってるんだ？」
+<name "Lazlocke">
+"No wizard would give in to just that.
+ What are you even talking about?"
 #
-<name "マーコルネール" "!PB0006">
-「ぐあああああああああああっ！！」
+<name "Macornel" "!PB0006">
+"Aaaaaaaaaagh!!!"
 #
-<name "ラズロック">
-「帰りに食材を買って帰らないと、晩飯に困る事に
-　なるんだ。
-　さっさと終らせるぞ」
+<name "Lazlocke">
+"I still need to go shopping for dinner before
+ I go home.
+ Let's make this quick."
 #
-<name "マーコルネール" "!PB0007">
-「あ、な、ひっ、あ、ああああああああっ！」
+<name "Macornel" "!PB0007">
+"Ah! W-What?
+ Ah! Aaaaaaahhhh!!!"
 #
-　俺はマーコルネールの股間に顔を近づけ、その陰
-　部に唾液を擦り付けるように舌を動かした。
+I bring my face to her pussy and use my tongue
+to rub my saliva over her entrance.
 #
-<name "マーコルネール" "!PB0008">
-「うぁあああううううっ！！！！」
+<name "Macornel" "!PB0008">
+"Aaaaaaahhhh!!!"
 #
-　魔法により、感覚を数倍にされている所為か、マ
-　ーコルネールの陰部からあっという間に大量の愛
-　液が零れてきた。
+Because of the magic enhancing what she's feeling,
+almost instantly, love juice pours out of her.
 #
-<name "マーコルネール" "!PB0009">
-「あ、あっ、あはっ……ああああっ！
-　うあぁ、あぁぁ、あぁぁぁぁっ……
-　ちく、ちくしょ……こ、このや……
-　ああぁぁ……ううぁぁぁああっ！」
+<name "Macornel" "!PB0009">
+"Ah...ah...aah...aaah!
+ Aah! Aaah! Aaaaahh...
+ D-Damn it... Y-You bastard...
+ Aaaaah...aaaaaah!!!"
 #
-　その愛液が太股を伝って床にボタボタとだらしな
-　く落ちるまで刺激し続け、俺は自分のモノをズボ
-　ンから取り出した。
+I keep stimulating her until her juices are 
+running down her thighs and onto the floor, then
+I take my dick out of my pants.
 #
-　それなりに膨張はしていて、挿入は可能そうだ。
+It's hard enough.
+I can put it in her.
 #
-<name "ラズロック">
-「男を知らなくて良かったな。
-　知っていたら俺にまわってこなくて、複数人掛か
-　りだったぞ」
+<name "Lazlocke">
+"It's lucky you've never been with a man.
+ If you had, this would've taken twice as many 
+ people."
 #
-　俺はそう言いながら、モノ先をマーコルネールの
-　陰部に押し当てた。
+As I say that, I press myself against her
+entrance.
 #
-<name "マーコルネール" "!PB0010">
-「ぁ……あぁ……くっ」
+<name "Macornel" "!PB0010">
+"Ah...aah...ngh..."
 #
-<name "ラズロック">
-「まあ、その分、残酷なんだが……」
+<name "Lazlocke">
+"Well, this is still cruel enough..."
 #
-　モノ先が膣口に当たると、俺はそのままゆっくり
-　と捻り込んだ。
+I slowly push my dick into her.
 #
 <background "ev079a2.iph" 10>
-<name "マーコルネール" "!PB0011">
-「っっっっ！！！！」
+<name "Macornel" "!PB0011">
+"Nnnnnhhhhhh!!!"
 #
-　狭い膣内を強引に掻き分けながら、俺のモノは侵
-　入を続ける。
+My dick forces its way into her narrow pussy.
 #
-<name "マーコルネール" "!PB0012">
-「ふぅぁっ、ぁっ、ぁぁっ！」
+<name "Macornel" "!PB0012">
+"Aaah! Ah! Aaahh!"
 #
-　大量に流していた愛液の潤滑油があるとはいえ、
-　強引な俺のモノの侵入に、マーコルネールは苦痛
-　に悶えた。
+Even despite all her love juices lubricating her,
+she writhes in pain from my dick wrenching her
+open.
 #
-<name "マーコルネール" "!PB0013">
-「あっ、あっ、ああああああっ！」
+<name "Macornel" "!PB0013">
+"Ah! Aah! Aaaaaaahhhh!!!"
 #
-　さらには、マーコルネールの感覚が数倍に感度を
-　上げられている。
+It's also that all her sensations are being
+enhanced right now.
 #
-　その苦痛は気を失ってもおかしく無いレベルだろ
-　う。
+This much pain is probably enough to make most
+people faint.
 #
-<name "マーコルネール" "!PB0014">
-「ぁ、ぁぐっ、ぐぁあああああっ！」
+<name "Macornel" "!PB0014">
+"Ah! Agh!
+ Aaaaggghhhhh!!!"
 #
-　俺のモノ先はマーコルネールの処女膜を破り、膣
-　奥の壁に当たっていた。
+I break through her hymen and reach the back of
+her pussy.
 #
-<name "マーコルネール" "!PB0015">
-「くぅぁ、あぁっ！！！」
+<name "Macornel" "!PB0015">
+"Ngh!!!
+ Aaaah!!!"
 #
-　だが、そのまま膣奥の壁を押しながら、俺はモノ
-　を根元まで捻じ込んだ。
+But I keep pushing deeper into her until I'm
+completely buried inside her.
 #
-<name "マーコルネール" "!PB0016">
-「ぁっ、ぁっ、あぁっ、ひぃぁっ、ぁぁ……
-　ううう……ぐぁ……ああ」
+<name "Macornel" "!PB0016">
+"Ah...ah...ah...aah...aaah...
+ Nnnh...agh...aahh..."
 #
-　ヌルヌルとした愛液に塗れたマーコルネールの膣
-　壁の窮屈過ぎる締め付けに、俺のモノは歓喜した
-　ようにさらに膨張した。
+My dick gets bigger and harder as it slides
+through her walls, coated in her slick juices.
 #
-<name "マーコルネール" "!PB0017">
-「ぁ……ぁっ、ぁぁっ……ぐあ……ぁぁう」
+<name "Macornel" "!PB0017">
+"Ah...aah...agh...aah..."
 #
-　マーコルネールは俺のモノを膣内に納めたまま、
-　苦痛に耐えた。
+She bears the pain of my dick in her pussy as
+best she can.
 #
-<name "マーコルネール" "!PB0018">
-「ぁうっ……ひぁ、ぁ……う……
-　こ、この程度で……残酷か！
-　笑わせるなっ！」
+<name "Macornel" "!PB0018">
+"Aah...ah...ah...ah...
+ T-This is... your cruelty!?
+ Don't make me laugh!"
 #
-<name "ラズロック">
-「その事じゃないんだが……
-　まあ、いずれ解る」
+<name "Lazlocke">
+"This isn't what I meant.
+ Well, you'll see soon enough."
 #
-　俺はモノを少し抜き、グイッと押し込んだ。
+I pull my dick back and then push it back in.
 #
-<name "マーコルネール" "!PB0019">
-「っ！！」
+<name "Macornel" "!PB0019">
+"Ngh!"
 #
-　マーコルネールは、声も上がらなかった。
+She gasps voicelessly.
 #
-　それを俺は繰り返す。
+I do it again.
 #
-<name "マーコルネール" "!PB0020">
-「っ！
-　っ！！」
+<name "Macornel" "!PB0020">
+"Nh!
+ Nnhh!!!"
 #
-　乱暴に、自分のモノを刺激する為だけに。
+Violently.
+Just to stimulate my dick.
 #
-　腰を動かし、モノをマーコルネールの膣内に擦り
-　続けた。
+I keep moving my hips, rubbing myself inside her.
 #
-<name "マーコルネール" "!PB0021">
-「ぁっ、ぁうううっ！！」
+<name "Macornel" "!PB0021">
+"Aah! Aaah!!!"
 #
-　俺のモノが動く度に、マーコルネールは口からヨ
-　ダレと悲鳴を垂れ流すが、抵抗はできない。
+She screams and spits every time I move, but she
+can't resist.
 #
-　ただ、俺の前に身体を差し出すだけだ。
+All she can do is dangle before me.
 #
-<name "マーコルネール" "!PB0022">
-「ぁぁぁっ、ひぁ、あうううっ、うぁぁあああっ！」
+<name "Macornel" "!PB0022">
+"Aaaah! Aah!
+ Aahhhh! Aaaaahhhh!"
 #
-　そのマーコルネールの色っぽくない悲鳴を聞きな
-　がら、俺は淡々と腰を動かし自分の快楽を突き進
-　んだ。
+I thrust for my pleasure, listening to her
+tortured screams.
 #
-<name "マーコルネール" "!PB0023">
-「ぁ、ぁ、ああっ、ひっ、ああうう……
-　やぁ、あ、ぁぁ、やめぇ、あうううう……！！」
+<name "Macornel" "!PB0023">
+"Ah! Ah! Aaah! Ah! Aaah!
+ Aah! Ah! Aaah! Stop! Aaaahhh!!!"
 #
-　その間、快楽には程遠い苦痛と、男に犯される屈
-　辱に延々とマーコルネールは耐えていた。
+She's helpless to do anything but endure the
+disgrace of being violated.
 #
-<name "マーコルネール" "!PB0024">
-「うぁぁぁ……あぁぁううっ！！」
+<name "Macornel" "!PB0024">
+"Aaah...
+ Aaaahhhhhh!!!"
 #
-　気を失う事も出来ない。
+She can't pass out.
 #
-　失っても、さらなる苦痛で起こされる。
+If she did, that would only make it hurt more.
 #
-<name "マーコルネール" "!PB0025">
-「うううぁぐぁぁっ！」
+<name "Macornel" "!PB0025">
+"Aaaaaagh!!!"
 #
-　マーコルネールにとっては永遠に続くと思われた
-　苦痛は、不意に止められる。
+The pain that seems like it will go on forever
+for her suddenly stops.
 #
-<name "マーコルネール" "!PB0026">
-「ぁっ、ぁっ、ぁっ……」
+<name "Macornel" "!PB0026">
+"Ah...ah...ah..."
 #
-　マーコルネールが終ったのかと思った瞬間、俺は
-　射精を開始した。
+As she wonders if it's over, I begin to come.
 #
-　ドクンッドクンッと脈打つ度に、マーコルネール
-　の膣内を汚していく。
+My dick spurts and stains the inside of her
+pussy.
 #
 <background "ev079a3.iph" 10>
-<name "マーコルネール" "!PB0027">
-「ぁ……ぁ……」
+<name "Macornel" "!PB0027">
+"Ah...ah..."
 #
-　俺の精液がマーコルネールの膣内に溢れ、子宮を
-　目指すとマーコルネールの全身が痙攣したように
-　震えた。
+My semen floods her pussy and her whole body
+convulses as it beats against her womb.
 #
-<name "マーコルネール" "!PB0028">
-「ぁ……ああ……うぁああぁぁぁぁぁぁぁっ！！
-　こ、殺してやる！
-　殺してやるっ！」
+<name "Macornel" "!PB0028">
+"Ah...aahh...aaaahhhhh!!!
+ I-I'll kill you!
+ I'm going to kill you!"
 #
-　俺の射精を受けながら、マーコルネールは俺を睨
-　みつけて吼えた。
+She glares at me and rages as I come inside her.
 #
-　それを俺は平然と無視する。
+I placidly ignore her.
 #
-<name "ラズロック">
-「息が荒くなると、色っぽく見えるな。
-　錯覚かな？」
+<name "Lazlocke">
+"You're pretty sexy when you're gasping for
+ breath.
+ Or am I seeing things?"
 #
-<name "マーコルネール" "!PB0029">
-「ぜ、絶対に！
-　殺してやるからなっ！」
+<name "Macornel" "!PB0029">
+"I-I swear I'll kill you!"
 #
-<name "ラズロック">
-「元気なのはわかったから、もう少し頑張って……
-　そうだな、小便を垂れ流すぐらい喘げ」
+<name "Lazlocke">
+"Since you've still got so much energy, hang in
+ there a little longer.
+ Yeah, I'm going to do this until you piss
+ yourself."
 #
-　俺はマーコルネールが小便を垂れ流すまで犯し続
-　けた。
+I keep fucking her until she can't control
+herself.
 #
 <background "bg024a0.iph" 10>
 <background "ev079a0.iph" 10>
-<name "ラズロック">
-「……気がついたか？」
+<name "Lazlocke">
+"...You awake yet?"
 #
-<name "マーコルネール" "!PB0030">
-「ぁ……ぁぁ……う……うぁ？」
+<name "Macornel" "!PB0030">
+"Ah...aah...ah...
+ Huh?"
 #
-<name "ラズロック">
-「身体の感覚は戻してやった」
+<name "Lazlocke">
+"I've removed the spell on your body."
 #
-<name "マーコルネール" "!PB0031">
-「ぁ……」
+<name "Macornel" "!PB0031">
+"Ah..."
 #
-<name "ラズロック">
-「Bindは解いてやれないが、体内魔力の不活性化は
-　解いている。
-　調子はどうだ？」
+<name "Lazlocke">
+"I can't remove the restraints, but I released
+ the spell binding the mana inside you.
+ How are you feeling?"
 #
-<name "マーコルネール" "!PB0032">
-「な……なぜ……」
+<name "Macornel" "!PB0032">
+"W-Why?"
 #
-<name "ラズロック">
-「もう用済みだからだ」
+<name "Lazlocke">
+"Because there's no need for it anymore."
 #
-<name "マーコルネール" "!PB0033">
-「……ぁ……なに？」
+<name "Macornel" "!PB0033">
+"...W-What?"
 #
-<name "ラズロック">
-「用済みだと言ったんだ。
-　お前が研究していた魔法の情報は頂いたからな」
+<name "Lazlocke">
+"I told you already, there's no need.
+ I have the magical research you were doing."
 #
-<name "マーコルネール" "!PB0034">
-「ば、馬鹿な……あれしきで俺が口を……」
+<name "Macornel" "!PB0034">
+"T-That's impossible...
+ I didn't say anything..."
 #
-<name "ラズロック">
-「口で語れる内容なのか？
-　これは？」
+<name "Lazlocke">
+"You didn't say anything?
+ What about this?"
 #
-　俺は幾つかの図式を空中に描き、マーコルネール
-　に見せてやった。
+I magically sketch a diagram in the air in front
+of her.
 #
-<name "マーコルネール" "!PB0035">
-「！」
+<name "Macornel" "!PB0035">
+"Ah!"
 #
-　その図式は、マーコルネールの研究していた魔法
-　の成果。
+The diagram is part of the magic she's been
+researching.
 #
-　肝となるべき部分。
+This should be the key part of it.
 #
-　それは、マーコルネール家が何代も重ねて積み上
-　げたものだ。
+It's probably something her family's been cooking
+up and working on for generations.
 #
-<name "マーコルネール" "!PB0036">
-「それをどこで！
-　どうやって！」
+<name "Macornel" "!PB0036">
+"Where did you get that!?
+ How!?"
 #
-<name "ラズロック">
-「……お前はどうやっても、口を割ったりはしない
-　だろう。
-　自己暗示ぐらい、しているだろうからな」
+<name "Lazlocke">
+"...I knew you'd never tell me.
+ Probably some kind of self-hypnosis."
 #
-<name "マーコルネール" "!PB0037">
-「……」
+<name "Macornel" "!PB0037">
+"..."
 #
-<name "ラズロック">
-「だから、お前の魔力に教えて貰った」
+<name "Lazlocke">
+"So I had your mana tell me."
 #
-<name "マーコルネール" "!PB0038">
-「魔力……」
+<name "Macornel" "!PB0038">
+"My mana?"
 #
-<name "ラズロック">
-「そうだ」
+<name "Lazlocke">
+"That's right."
 #
-<name "ラズロック">
-「お前の体内に宿る魔力は、お前が行なった魔法を
-　覚えている。
-　特に何代も重ねた魔法は明確にな」
+<name "Lazlocke">
+"The mana inside you remembers the magic you've
+ done, and the magic that's been passed on for
+ generations is especially clear."
 #
-<name "マーコルネール" "!PB0039">
-「そんな事が……」
+<name "Macornel" "!PB0039">
+"That's not possible..."
 #
-<name "ラズロック">
-「協会がここ十数年で勢力を拡大した事に、疑問を
-　持った事はないか？」
+<name "Lazlocke">
+"Haven't you ever wondered how the Guild has
+ accumulated so much power over the last decade
+ or so?"
 #
-<name "マーコルネール" "!PB0040">
-「ぁ……」
+<name "Macornel" "!PB0040">
+"Ah..."
 #
-<name "ラズロック">
-「そうだ。
-　この方法で、魔法を奪っていった」
+<name "Lazlocke">
+"That's right.
+ They take magic like this."
 #
-<name "マーコルネール" "!PB0041">
-「あ、ありえ……ありえない」
+<name "Macornel" "!PB0041">
+"T-That's... impossible."
 #
-<name "ラズロック">
-「目の前にあるのはなんだ？」
+<name "Lazlocke">
+"What is this before you?"
 #
-　俺は空中に描いた図式をマーコルネールの前に持っ
-　ていく。
+I bring the diagram right to her.
 #
-<name "マーコルネール" "!PB0042">
-「ぁ……ぁぁ……」
+<name "Macornel" "!PB0042">
+"Ah...aah..."
 #
-<name "ラズロック">
-「そして、お前はこの図式を忘れていく。
-　よく見ろ。
-　詳しく知っている筈なのに、意味がわからない所
-　がないか？」
+<name "Lazlocke">
+"And you're going to forget what this is.
+ Take a good look at it.
+ You should know it perfectly, but aren't pieces
+ of it already starting to get hazy?"
 #
-<name "マーコルネール" "!PB0043">
-「ぁ……ぁ……」
+<name "Macornel" "!PB0043">
+"Ah...ah..."
 #
-<name "ラズロック">
-「そのわからない所が、少しづつ増えていないか？」
+<name "Lazlocke">
+"The more you look at it, the more you realize
+ you're forgetting it."
 #
-<name "マーコルネール" "!PB0044">
-「ば……馬鹿な……」
+<name "Macornel" "!PB0044">
+"I-Impossible..."
 #
-<name "ラズロック">
-「お前の魔力から魔法を教えて貰うのは便利だが、
-　弱点もあってな。
-　元の持ち主からその魔法を奪うんだ」
+<name "Lazlocke">
+"It's useful to take magic from mana, but the
+ problem with it is that it takes the magic away
+ from whoever originally had it."
 #
-<name "マーコルネール" "!PB0045">
-「……そんな……」
+<name "Macornel" "!PB0045">
+"No..."
 #
-<name "ラズロック">
-「まあ、また何代と重ねて再勉強してくれ」
+<name "Lazlocke">
+"Well, you can always study it again.
+ It should only take a few more generations."
 #
-<name "マーコルネール" "!PB0046">
-「あああああああああああああああああああっ！」
+<name "Macornel" "!PB0046">
+"Aaaaaaaaaaahhhhhhhh!!!!!!"
 #
-<name "ラズロック">
-「俺は残酷だと言った筈だぞ」
+<name "Lazlocke">
+"I warned you it was cruel."
 #
-<name "マーコルネール" "!PB0047">
-「ひっ、いや、いやだ。
-　いやだぁぁぁぁぁぁぁぁぁぁぁっ！
-　返せ、返して……返せよぉっ！！」
+<name "Macornel" "!PB0047">
+"N-No! No!
+ Noooooooooo!!!!!
+ Give it back! Give it back!
+ Give it back!!!"
 #
-<name "ラズロック">
-「お断りする」
+<name "Lazlocke">
+"I refuse."
 #
-　実の所、魔力から魔法を読んだのは事実だが、元
-　の持ち主から魔法を奪うのは嘘だ。
+In fact, while it's true that I can read magic
+from mana, I lied when I said that doing that
+would steal it from her.
 #
-　人が覚えた知識や経験を、魔力を失った程度で無
-　くしていれば、魔法使いの大半が魔法を使う度に
-　勉強をやり直さなければいけなくなる。
+If losing your mana took the knowledge and
+experience needed to cast it, then almost every
+wizard would have to start from scratch every
+time they cast a spell.
 #
-　マーコルネールの陥った状況は、魔力を急激に奪
-　われた事による記憶混乱。
+Her memory of it is messed up because the mana
+was forcibly and quickly drained out of her.
 #
-　それに加え、俺がマーコルネールの魔法を奪った
-　と錯覚させる為に見せつけた図式による動揺。
+What's more, she's panicking because of that
+diagram I showed her from stealing her mana and
+not thinking straight.
 #
-　俺はマーコルネールの魔法を読んだが、そこに注
-　釈もなければ説明もない。
+I can read it from her mana, but there's no
+explanations or notes that come with it.
 #
-　ただ、あるがままに魔力の覚えていた図式や動き
-　を再現できるだけだ。
+All I can do is reproduce the diagram and spell
+the way it's recorded in her mana.
 #
-　あの図式が何を意味しているかは、実はさっぱり
-　わからない。
+I have no idea whatsoever what it means or what
+it's for.
 #
-　今後、長い時間を掛けて研究しなければいけない
-　だろう。
+It'd take a very long time to research that and
+figure it out.
 #
-　そんな面倒な事は、俺も協会も望まない。
+That's a hassle neither the Guild nor I want.
 #
-<name "マーコルネール" "!PB0048">
-「お願い、……お願いだ。
-　なんでもするから……
-　ぁぁぁぁ……」
+<name "Macornel" "!PB0048">
+"Please... Please...
+ I'll do anything...
+ Aaahh..."
 #
-<name "ラズロック">
-「……俺の言う事を聞くか？」
+<name "Lazlocke">
+"...You'll listen to me?"
 #
-<name "マーコルネール" "!PB0049">
-「き、聞く。
-　なんでも聞く」
+<name "Macornel" "!PB0049">
+"I-I'm listening.
+ Anything you ask."
 #
-<name "ラズロック">
-「協会の活動に協力するか？」
+<name "Lazlocke">
+"You'll join the Guild?"
 #
-<name "マーコルネール" "!PB0050">
-「する！
-　するから！」
+<name "Macornel" "!PB0050">
+"I will!
+ I will!"
 #
-　俺はマーコルネールのBindを解いた。
+I release her restraints.
 #
-<name "マーコルネール" "!PB0051">
-「ぁ……」
+<name "Macornel" "!PB0051">
+"Ah..."
 #
-<name "ラズロック">
-「返すには、もう一度抱く必要があるが……」
+<name "Lazlocke">
+"I'll need to have sex with you again to give
+ it back."
 #
-　マーコルネールは俺の言葉の意味を理解すると、
-　恥じらいながらも寝転び、俺に見せつけるよう
-　に足をゆっくりと広げた。
+When she realizes what I said, she lays down
+shamefully and slowly opens her legs.
 #
-　なかなか素直な事だ。
+Very well behaved now.
 #
-　俺は必死なマーコルネールを散々焦らしながら、
-　明け方までその身体を弄ってやった。
+I play with the desperate woman until dawn comes.
 #
 <music 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0958">
-「お見事です」
+<name "Soshiette" "!DA0958">
+"Well done."
 #
-<name "ラズロック">
-「慣れた方法だからな」
+<name "Lazlocke">
+"I'm used to it."
 #
 <removesprite -1 11>
-　一部の魔法使いが独占していた秘術を、この方法
-　で暴き、傘下に組み込んできた。
+This is the secret method that the Guild has
+used to force wizards into the fold.
 #
-　相手が女じゃなければ駄目なのが欠点だが、それ
-　でも十や二十じゃない魔法使いを落とした。
+It only works on women, but at least a dozen
+have been dealt with this way so far.
 #
-　協会がここ十数年で飛躍的に勢力を拡大した一因
-　であるのは確かな事実だ。
+It's definitely one of the big reasons why the
+Guild has been able to explosively expand its
+influence in recent years.
 #
 <sprite "ta04a02.iph" 4 4 11>
-<name "ソシエット" "!DA0959">
-「……質問があります」
+<name "Soshiette" "!DA0959">
+"...I have a question."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What is it?"
 #
 <sprite "ta04a03.iph" 4 4 12>
-<name "ソシエット" "!DA0960">
-「本当に魔法を消してしまう事もできたと思います
-　が、なぜそうしなかったのですか？」
+<name "Soshiette" "!DA0960">
+"I believe you could have actually gotten rid
+ of that magic.
+ Why didn't you?"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ラズロック">
-「………………面倒な事は嫌いだからな。
-　マーコルネールが協力すれば、一番早いだろ」
+<name "Lazlocke">
+"...I don't like trouble.
+ It's better if she cooperates."
 #
 <sprite "ta04a02.iph" 4 4 11>
-<name "ソシエット" "!DA0967">
-「そうですが、彼女は反抗心が強いです。
-　今は大人しくなっていますが、後々暴れる可能性
-　もあります」
+<name "Soshiette" "!DA0967">
+"That may be, but she has a rebellious spirit.
+ She may behave now, but it's possible she'll
+ rebel again in the future."
 #
 <sprite "ta04a01.iph" 4 4 12>
-<name "ソシエット" "!DA0962">
-「彼女の場合は、魔法を奪ってから放逐するのが正
-　解だと思います」
+<name "Soshiette" "!DA0962">
+"In her case, I think that taking her magic and
+ expelling it would have been the correct 
+ approach."
 #
-<name "ラズロック">
-「反抗と言うが、別に彼女が悪いわけじゃない。
-　悪は俺達だ」
+<name "Lazlocke">
+"She may be rebellious, but she didn't do anything
+ wrong.
+ We're the bad guys here."
 #
-<name "ラズロック">
-「魔法使い全体の為と言って彼女が守っていた伝統、
-　知識、技術の提供を一方的に強要し、断われば捕
-　まえて奪う」
+<name "Lazlocke">
+"We're taking the knowledge and traditions they
+ created and forcing her to share them with every
+ other wizard, and if they say no, forcing them
+ to do it, and stealing it if they resist."
 #
-<name "ラズロック">
-「そこらの盗賊や山賊よりもタチが悪い。
-　それに反抗するのは正常じゃないか」
+<name "Lazlocke">
+"We're worse than bandits.
+ Of course they resist."
 #
 <sprite "ta04a15.iph" 4 4 12>
-<name "ソシエット" "!DA0963">
-「ご主人様」
+<name "Soshiette" "!DA0963">
+"Your Grace."
 #
-<name "ラズロック">
-「怒るな。
-　俺は協会の盗賊で、お前は協会の殺し屋。
-　事実だろ？」
+<name "Lazlocke">
+"Don't be mad at me.
+ I'm the Guild's thief.
+ You're the Guild's killer.
+ It's the truth, yeah?"
 #
-<name "ラズロック">
-「だから、俺は協会を裏切ったりはしない。
-　今さらな……」
+<name "Lazlocke">
+"So I won't betray the Guild.
+ Not anymore..."
 #
 <removesprite -1 11>
-　そう、今さらだ。
+Yeah, not anymore.
 #
-　散々、悪事を働いて、心が痛むからと止めるには
-　遅すぎる。
+I've done too much harm to stop now, and sinned
+too much to start atoning.
 #
-<name "ラズロック">
-「生きてる限り、最後まで付き合うさ」
+<name "Lazlocke">
+"I'll stay with the Guild as long as I live.
 #
 <sprite "ta04a24.iph" 4 4 11>
-<name "ソシエット" "!DA0964">
-「……反抗的な言動はできるだけ避けてください。
-　誤解は不幸しか生みません」
+<name "Soshiette" "!DA0964">
+"...Please try to avoid seditious behavior or
+ speech.
+ Misunderstandings only lead to misfortune."
 #
-<name "ラズロック">
-「気を付ける事にしよう。
-　……マーコルネールに逆らう兆しがあったら言っ
-　てくれ。
-　なんとかするから」
+<name "Lazlocke">
+"Of course I'll be careful.
+ ...Tell me if she ever starts acting up.
+ I'll handle it."
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "ソシエット" "!DA0965">
-「承知しました」
+<name "Soshiette" "!DA0965">
+"As you wish."
 #
 <removesprite -1 11>
 \x2B\x78\x78

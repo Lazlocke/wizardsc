@@ -1,103 +1,102 @@
 <music 15>
 <background "bg011a0.iph" 11>
 <sprite "ta02b15.iph" 4 4 11>
-<name "イエル" "!CA0733">
-「……ラズロック様。
-　お願いします」
+<name "Elle" "!CA0733">
+"...Lazlocke, please."
 #
 <removesprite -1 11>
-　俺は返事をせず、そのままイエルを背後から抱き
-　締めた。
+I hug her from behind without answering her.
 #
 <music 36>
 <background "ev060a2.iph" 10>
-　俺はイエルの膣内にモノを突き入れ、掻き回し続
-　けていた。
+I thrust my dick into her pussy and keep stirring
+it.
 #
-<name "イエル" "!CA0734">
-「ぁ、ん、んぁ、あん……」
+<name "Elle" "!CA0734">
+"Ah...mmm...mmm...aah..."
 #
-　すでに一回目の射精を終え、二回目の射精も間近
-　だった。
+I've already come once, and I'm close to the
+second time.
 #
-<name "ラズロック">
-「出すぞ」
+<name "Lazlocke">
+"I'm going to come."
 #
-<name "イエル" "!CA0735">
-「ふぁ、ぁ」
+<name "Elle" "!CA0735">
+"Aah! Ah!"
 #
-<name "ラズロック">
-「出すぞ」
+<name "Lazlocke">
+"I'm going to come."
 #
-<name "イエル" "!CA0736">
-「ぁ、ぁ、ぁぁぁ、お、お願い、します」
+<name "Elle" "!CA0736">
+"Ah! Ah! Aaah! P-Please do it!"
 #
-　俺はイエルの声に応じたように、モノを震わせて
-　大量の精液をイエルの膣内に流し込んだ。
+I thrust deep into her pussy and flood it with
+semen.
 #
-<name "イエル" "!CA0737">
-「ふぁ、ぁ、……ぁぁぁぁぁっ」
+<name "Elle" "!CA0737">
+"Ah...ah...aaaahhhh!"
 #
-　イエルの膣内は俺の射精に反応し、ギュッと膣内
-　を締め上げてくる。
+Her pussy responds and clamps down hard.
 #
-<name "イエル" "!CA0738">
-「ぁ、ぁぁ、うぁ、んんん」
+<name "Elle" "!CA0738">
+"Ah! Aaah! Ahh! Mmmmm!"
 #
-　そのイエルの締め付けで、俺は最後の一滴まで搾
-　り取られた。
+Her squeezing milks every last drop out of me.
 #
-<name "イエル" "!CA0739">
-「ぁ……ぁ……ぁぁ……」
+<name "Elle" "!CA0739">
+"Ah...ah...aahh..."
 #
-<name "ラズロック">
-「……大会中だからな。
-　あまり無理はできないか」
+<name "Lazlocke">
+"...It's the middle of a tournament.
+ We shouldn't overdo it."
 #
-　俺はイエルの体力を考え、これぐらいにしようと
-　モノを引き抜こうとした。
+I'm concerned about wearing her out and try to
+pull out of her.
 #
-<name "イエル" "!CA0740">
-「ぁ」
+<name "Elle" "!CA0740">
+"Ah..."
 #
-　しかし、それをイエルに阻まれた。
+But she stops me.
 #
-<name "イエル" "!CA0741">
-「ぅ、ぁ……も、もう少し……お願いします」
+<name "Elle" "!CA0741">
+"Ah...ah...
+ A-A little more...
+ Please..."
 #
-<name "ラズロック">
-「もうすぐ、試合だろ」
+<name "Lazlocke">
+"You've got a match soon."
 #
-<name "イエル" "!CA0742">
-「もう一回ぐらいなら……」
+<name "Elle" "!CA0742">
+"There's time for one more..."
 #
-<name "ラズロック">
-「それは、魔力が欲しいのか？
-　それともエロい事をして欲しいだけか？」
+<name "Lazlocke">
+"Do you want mana?
+ Or do you just want to have sex?"
 #
-<name "イエル" "!CA0743">
-「ぁ、りょ、両方です」
+<name "Elle" "!CA0743">
+"Ah...
+ B-Both."
 #
-　俺はわかったとモノを再度、イエルの膣奥に捻じ
-　込む。
+I push my dick back into her pussy.
 #
-<name "イエル" "!CA0744">
-「ぁんんっ！」
+<name "Elle" "!CA0744">
+"Aaaahhh!"
 #
-<name "ラズロック">
-「今は魔力を受け取る事に集中しろ」
+<name "Lazlocke">
+"Concentrate on receiving mana right now."
 #
-<name "イエル" "!CA0745">
-「ぁ、は、はい」
+<name "Elle" "!CA0745">
+"Ah...
+ Y-Yes, sir."
 #
-<name "ラズロック">
-「大会が終ったら、可愛がってやる」
+<name "Lazlocke">
+"I'll love you all you want after the tournament."
 #
-<name "イエル" "!CA0746">
-「はい♪」
+<name "Elle" "!CA0746">
+"Yes, sir.♪"
 #
 <background "ev060a3.iph" 10>
-　イエルは、俺から大量の精液と魔力を受け取り、
-　そして大会へと戻っていった。
+After receiving a lot of mana and semen from me,
+Elle returns to the tournament.
 #
 \x78\x78

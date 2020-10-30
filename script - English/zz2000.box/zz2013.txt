@@ -1,52 +1,52 @@
 <music 35>
 <background "ev069b1.iph" 10>
-<name "ラズロック">
-「メガネ……似合ってるな」
+<name "Lazlocke">
+"Glasses?
+ You look good."
 #
-<name "ヴィオラ" "!BA0747">
-「そう？」
+<name "Viola" "!BA0747">
+"Oh?"
 #
-<name "ラズロック">
-「ああ」
+<name "Lazlocke">
+"Yeah."
 #
-　俺はヴィオラを抱き締めながら、キスをする。
+I pull her into my arms and kiss her.
 #
 <background "ev069b0.iph" 10>
-<name "ヴィオラ" "!BA0748">
-「ん……」
+<name "Viola" "!BA0748">
+"Mm..."
 #
-　俺はヴィオラがメガネを持っていると聞き、それ
-　を着用して見せてくれと言ったら、素直に見せて
-　くれた。
+I heard she had them, and when I asked her to put
+them on, she did so without argument.
 #
-　そして、そのまま行為に至っている。
+Which led to this.
 #
-<name "ラズロック">
-「興奮する」
+<name "Lazlocke">
+"It's arousing."
 #
-<name "ヴィオラ" "!BA0749">
-「あん、メガネに？」
+<name "Viola" "!BA0749">
+"Ahh...
+ Glasses are?"
 #
-<name "ラズロック">
-「メガネをつけたお前に」
+<name "Lazlocke">
+"You in them."
 #
 <background "ev069b3.iph" 10>
-<name "ヴィオラ" "!BA0750">
-「……ん」
+<name "Viola" "!BA0750">
+"Mm..."
 #
-　俺の言葉に、ヴィオラは黙ってキスをして応える。
+She responds with a quiet kiss.
 #
-　俺はヴィオラを抱き締めながら、腰を振り始めた。
+I hold her close and start moving my hips.
 #
 <background "ev069b2.iph" 10>
-<name "ヴィオラ" "!BA0752">
-「んぁ、あ、あん♪」
+<name "Viola" "!BA0752">
+"Mm...ah...ah!♪"
 #
 <background "ev069b4.iph" 10>
 <background "ev069b5.iph" 10>
 <background "ev069b6.iph" 10>
-　俺はヴォオラの全身を汚しながら、長い夜を過ご
-　した。
+I spend the whole night defiling her body.
 #
 <background "bg008b0.iph" 11>
 \x2B\x78\x78

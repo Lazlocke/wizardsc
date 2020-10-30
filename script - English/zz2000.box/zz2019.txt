@@ -1,512 +1,519 @@
 <music 10>
 <background "bg024a0.iph" 11>
 \x2B\x0A\x22\x00\x01 0 \x2B
-<choice :70: "パターンＡ" \x22\x00>
+<choice :70: "Ending A" \x22\x00>
 \x01 1 
-<choice :70: "パターンＢ" \x22\x00>
+<choice :70: "Ending B" \x22\x00>
 \x01 2 
-　どちらにします？
+Which do you prefer?
 #
 :70
 <music 37>
 <background "ev074a0.iph" 10>
-　俺が目を覚ますと、目の前にはソシエットが居た。
+I wake up to Soshiette right in front of me.
 #
-<name "ラズロック">
-「おい」
+<name "Lazlocke">
+"Hey."
 #
-<name "ソシエット" "!DA0860">
-「なんですか？」
+<name "Soshiette" "!DA0860">
+"What is it?"
 #
-<name "ラズロック">
-「どうして、俺のモノを咥え込んでる」
+<name "Lazlocke">
+"Why is my dick inside you?"
 #
-　ソシエットは、俺のモノをズボンから取り出し、
-　自分の膣内へと潜り込ませていた。
+She's taken it out of my pants and slipped it
+inside her.
 #
-<name "ソシエット" "!DA0862">
-「不満ですか？」
+<name "Soshiette" "!DA0862">
+"You don't want to?"
 #
-　ソシエットはゆっくりと腰を動かし続け、俺のモ
-　ノを刺激している。
+She keeps slowly moving her hips, stimulating my
+dick.
 #
-<name "ラズロック">
-「そうじゃなくてだな……」
+<name "Lazlocke">
+"I didn't say that."
 #
-<name "ソシエット" "!DA0864">
-「不満なら、止めます」
+<name "Soshiette" "!DA0864">
+"I'll stop if you don't want to."
 #
-　ソシエットは拗ねたように、動きを止めた。
+She stops moving like she's sulking.
 #
-　……
+...
 #
-<name "ラズロック">
-「悪かった。
-　止めるな」
+<name "Lazlocke">
+"Sorry.
+ Don't stop."
 #
-<name "ソシエット" "!DA0865">
-「はい」
+<name "Soshiette" "!DA0865">
+"Okay."
 #
-　ソシエットは、動きを再開した。
+She starts moving again.
 #
-　先程よりも、少し速く。
+A little faster than before.
 #
-　なかなか、わかっている。
+She's pretty good, but I knew that.
 #
-<name "ラズロック">
-「でも、質問には答えるように」
+<name "Lazlocke">
+"But answer the question."
 #
-<name "ソシエット" "!DA0866">
-「行為が終った後では、駄目ですか？」
+<name "Soshiette" "!DA0866">
+"Can't it wait until after we're done?"
 #
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
-<name "ソシエット" "!DA0867">
-「頑張ります」
+<name "Soshiette" "!DA0867">
+"I'll work hard."
 #
-　ソシエットは絶妙の腰使いで、俺のモノを刺激す
-　る。
+She exquisitely winds her hips to stimulate me.
 #
-<name "ラズロック">
-「…………わかった」
+<name "Lazlocke">
+"...Fine.
 #
-<name "ソシエット" "!DA0868">
-「ありがとうございます」
+<name "Soshiette" "!DA0868">
+"Thank you."
 #
-　俺は諦め、ソシエットに身を任せる。
+I give up and let her have her way.
 #
 <background "ev074a1.iph" 10>
-<name "ソシエット" "!DA0869">
-「ん、んぁ、あん♪」
+<name "Soshiette" "!DA0869">
+"Mm...mm...ah...♪"
 #
-　俺はソシエットの喘ぎ声を聞きながら、状況を整
-　理する。
+I consider the situation while listening to her
+moans.
 #
-　今、俺はソファーに座っている。
+Right now, I'm on the couch.
 #
-　その上にソシエットが乗って行為に及んでいる。
+Soshiette is riding me.
 #
-　少し前まで、俺は普通に机に向かって仕事をして
-　いた。
+The last thing I remember, I was working like
+usual at my desk.
 #
-　疲れたなと思った所で、ソシエットがお茶を用意
-　したからと、休憩を薦めてくれた。
+I said I felt tired.
+She said I should take a nap and offered me tea.
 #
-　俺はそのお茶を飲もうと、ソファーに座り……
+I sat down to drink, and then...
 #
-<name "ラズロック">
-「……おい。
-　茶に睡眠薬を入れただろう！」
+<name "Lazlocke">
+"...Hey.
+ You drugged the tea, didn't you!?"
 #
-<name "ソシエット" "!DA0870">
-「ん……ちゅっ」
+<name "Soshiette" "!DA0870">
+"Mm...mmm..."
 #
-　ソシエットは、誤魔化すようにキスで俺の唇を塞
-　いだ。
+She closes my mouth with a kiss to shut me up.
 #
-　そして、さらなる抗議を妨害しようと、舌を俺の
-　口内に侵入させてくる。
+And to prevent any further arguments, pushes her
+tongue into my mouth.
 #
-　温かいソシエットの舌が、俺の舌を刺激し、絡み
-　付いてくる。
+Her warm tongue wraps all over mine.
 #
-　その間も、ソシエットの腰は動き続け、俺のモノ
-　を喜ばせてくれている。
+At the same time, her waist keeps moving, 
+pleasuring my dick.
 #
-<name "ソシエット" "!DA0871">
-「……ん、んぁ、ん、む、むむぁ、ぁ、あむ」
+<name "Soshiette" "!DA0871">
+"Mmm...mm...mm...mmm...ah...mmm...mmm..."
 #
-　ソシエットは、胸の無さを補うかのように腰の使
-　い方とキスが上手い。
+She's especially good with her hips to make up for
+her lack of a chest.
 #
-　的確に俺の喜ぶようにモノを膣壁で扱き続け、ネ
-　ットリとした濃いキスは頭の中を痺れさせる。
+She writhes and squeezes me perfectly with her
+pussy while the long, deep kiss is making my head
+fuzzy.
 #
-　だが、誤魔化されないぞと、俺はソシエットの服
-　に手を掛けて胸を曝け出させた。
+But I won't let her trick me.
+I reach up and open her dress, exposing her chest.
 #
 <background "ev074b0.iph" 10>
-<name "ソシエット" "!DA0872">
-「ん……ぁ……」
+<name "Soshiette" "!DA0872">
+"Mm...ah..."
 #
-　ソシエットは少し怒った感じになるが、すぐに諦
-　める。
+She scowls for a moment, but gives up immediately.
 #
-　俺は放り出されてソシエットの乳首を摘まみなが
-　ら胸を揉む。
+I reach up to lick her nipple and rub her breasts.
 #
-<name "ソシエット" "!DA0873">
-「ん……あむん」
+<name "Soshiette" "!DA0873">
+"Mm...aah..."
 #
-　僅かにある女性の膨らみを確かめるように。
+They're small, but definitely female.
 #
-<name "ソシエット" "!DA0874">
-「むぁん、ん……
-　ぁ……ん、んぁ……」
+<name "Soshiette" "!DA0874">
+"Mm...mmm...
+ Ah...mm...mmm..."
 #
-　そして、俺はそろそろ出すぞとソシエットの尻を
-　叩き、合図する。
+I slap her butt to tell her that I'm about to
+come.
 #
-　その合図を受け、ソシエットは名残惜しそうにキ
-　スを中断し、腰の動きをさらに速めた。
+She reluctantly pulls her mouth away and moves her
+hips faster.
 #
 <background "ev074b1.iph" 10>
-<name "ソシエット" "!DA0875">
-「ん、んぁ、んぁ、あ、ん、んぁ、あっ、あっ、っ、
-　ふぁ、ふぁ、ん、んんんん……」
+<name "Soshiette" "!DA0875">
+"Mm...mmm...mmm...ah...
+ Mm! Mm! Aaah! Aah! Mm!
+ Mmmmm..."
 #
-　動きは速くなっているのに、膣圧はさらにキツく
-　俺のモノを締め付けてくる。
+Even though she's moving faster, she's squeezing
+her pussy even tighter.
 #
-　その締め付けも、全てに等しく締め付けてくるの
-　ではなく、要所要所を的確に狙って締め付けてい
-　るようだ。
+Not just squeezing though.
+She knows to squeeze and relax as she moves, 
+always stimulating my dick up and down, all over.
 #
-　それに複雑なソシエットの腰の動きに加わり、俺
-　は抵抗も出来ず射精に向けて興奮していく。
+With her winding, complex motions, it's too much
+and I can feel an intense orgasm building.
 #
-<name "ソシエット" "!DA0877">
-「ん、んぁ、あ、ん、ん、ふぁ、あ、ん、ん、んぁ、
-　ぁ、ぁ、ぁ、ん……んぁぁぁっ」
+<name "Soshiette" "!DA0877">
+"Mm...mm...ah...mmm...mm...aah...
+ Ah...mmmm...ah...mm...mm...
+ Ah...ahh...ah...mm...mmmm..."
 #
-　そして、ソシエットが出せと言わんばかりに深く
-　モノを咥え込んで締め上げた事で、俺はあっけな
-　く射精を開始した。
+She pulls up until my dick is nearly out of her
+and then drops her hips down, clamping on my dick
+buried deep inside her.
+I can't help but come.
 #
-　ドクンッドクンッと強く脈打ちながら、俺のモノ
-　先からソシエットの膣奥に向けて、大量の精液が
-　飛び出していく。
+My dick throbs and shoots out a flood of semen
+deep into her.
 #
-<name "ソシエット" "!DA0878">
-「ん、んんん…………♪」
+<name "Soshiette" "!DA0878">
+"Mm...mmmmm...♪"
 #
-　ソシエットは俺の射精が始まった事を確認すると、
-　俺に抱きついてきた。
+She clings to me as she feels me coming inside
+her.
 #
-　俺はそれを抱き締め返してやった。
+I put my arms around her and hold her tight.
 #
-　すると、ソシエットは俺の射精を受けながら小刻
-　みに身体を震わせて達した。
+She shivers as she climaxes at the same time.
 #
-<name "ソシエット" "!DA0879">
-「……んんんん♪」
+<name "Soshiette" "!DA0879">
+"Mmmmmmmm...♪"
 #
-　その達したのを隠そうとする顔は、なかなか可愛
-　くてそそるものがある。
+She's pretty cute, bashfully trying to hide her
+orgasming face from me.
 #
-　そう思いながら、俺は射精を終えた。
+I finally finish coming thinking about that.
 #
-　良い具合だった。
+That was pretty nice.
 #
-<name "ソシエット" "!DA0880">
-「ご主人様」
+<name "Soshiette" "!DA0880">
+"Your Grace."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "ソシエット" "!DA0881">
-「もう少しだけ……あむ」
+<name "Soshiette" "!DA0881">
+"Just a little more...
+ Mmmm..."
 #
-　ソシエットは俺の上から退かず、行為を続行しま
-　しょうとキスをし、腰を動かし始めた。
+She kisses me to keep me in place and starts 
+moving her hips again.
 #
-　俺はそれを拒めなかった。
+I can't say no.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「うう……」
+<name "Lazlocke">
+"Urgh..."
 #
-　行為を終えたのは、俺がソシエットの体内に五回
-　の射精を行なってからだった。
+By the time we finish, she's made me come five
+times.
 #
 <sprite "ta04a59.iph" 4 4 11>
-<name "ソシエット" "!DA0883">
-「歩くと零れてしまいます」
+<name "Soshiette" "!DA0883">
+"It'll spill if I try to walk."
 #
-<name "ラズロック">
-「お前が搾り取ったのだろう」
+<name "Lazlocke">
+"You wrung me dry."
 #
 <removesprite -1 11>
-　膣内には三回分の精液を流し込んでいる。
+I came in her pussy three times.
 #
-　それを零さないように、ギュッと締め上げている
-　のは大したものだ。
+She's probably squeezing pretty tight so none of
+it comes out.
 #
-<name "ラズロック">
-「それで、こういった行為に及んだ理由は？」
+<name "Lazlocke">
+"So what was all that for?"
 #
 <sprite "ta04a53.iph" 4 4 11>
-<name "ソシエット" "!DA0884">
-「私の欲求不満です」
+<name "Soshiette" "!DA0884">
+"My personal sexual dissatisfaction."
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"Uh huh."
 #
 <sprite "ta04a55.iph" 4 4 12>
-<name "ソシエット" "!DA0885">
-「反応は悪いですね。
-　もしかして、疑ってますね」
+<name "Soshiette" "!DA0885">
+"I don't like that reaction.
+ Does that mean you doubt me?"
 #
-<name "ラズロック">
-「当然だ」
+<name "Lazlocke">
+"Obviously."
 #
 <sprite "ta04a56.iph" 4 4 12>
-<name "ソシエット" "!DA0886">
-「酷い。
-　こんなにも私が尽くしたのに」
+<name "Soshiette" "!DA0886">
+"How cruel.
+ And after all I did for you."
 #
-<name "ラズロック">
-「欲求不満だけなら、ワザワザ俺を眠らせてから襲
-　う必要は無い」
+<name "Lazlocke">
+"If you were just frustrated, there was no need
+ to attack me after knocking me out."
 #
 <removesprite -1 11>
-　俺との行為は、ソシエットの欲求不満解消に違い
-　ないだろう。
+I'm sure what she did certainly dealt with 
+whatever frustration she may have had.
 #
-　だが、真の目的は別にある筈。
+But there has to be another reason.
 #
-　つまり……
+Meaning...
 #
-<name "ラズロック">
-「俺の足止めか？」
+<name "Lazlocke">
+"You were keeping me busy?"
 #
-　俺の答えに、ソシエットは目を逸らさない。
+She meets my eyes as I accuse her.
 #
-　だが、一瞬だけ緊張したのを俺は見逃さない。
+But I don't miss the flicker of nerviousness in
+them.
 #
-　俺の足止めの為に、睡眠薬を盛ったのだろう。
+The drugged tea was supposed to keep me down.
 #
-　毒物に対して、ある程度の耐性があると自負する
-　俺を眠らせたのだから、協会秘蔵の薬に違いない。
+But my ability makes me fairly resistant to drugs
+like that, so it must've been some kind of major
+Guild concoction.
 #
-　それを使って俺を眠らせた。
+She used that to put me to sleep.
 #
-　予定よりも早く俺が起きそうだったので、ソシエッ
-　トが身体を張って止めに来たワケだ。
+Then I started waking up earlier than she 
+expected, which is why she got on me to make sure
+I stayed where I was.
 #
-<name "ラズロック">
-「理由は？」
+<name "Lazlocke">
+"Why?"
 #
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0887">
-「なんのことでしょうか」
+<name "Soshiette" "!DA0887">
+"What could you mean?"
 #
 <removesprite -1 11>
-　まだ、隠すか……
+Still hiding, huh?
 #
-　ならばと、俺は部屋から出ようと扉を開けた。
+I open the door to leave.
 #
-　……
+...
 #
-　そして、閉めた。
+And close it.
 #
 \x1A\x01\x0A\x22\x00\x01 1 \x01\x0E :1F4D: 
-<name "ラズロック">
-「扉の向こうが魔界っぽい感じになっていたが……」
+<name "Lazlocke">
+"Why does this door look like it leads to the
+ netherworld?"
 #
 <sprite "ta04a29.iph" 4 4 11>
-<name "ソシエット" "!DA0888">
-「げ、幻覚では？」
+<name "Soshiette" "!DA0888">
+"A-An illusion?"
 #
-<name "ラズロック">
-「ほう……」
+<name "Lazlocke">
+"Oh?"
 #
 <removesprite -1 11>
-　その後、俺の執拗な尋問で全てが自白された。
+After that, she confessed everything in the face
+of my relentless interrogation.
 #
-　ソシエットは、セリスの格闘訓練相手として、魔
-　物を召喚しようとした。
+She tried to summon a demon as an opponent to help
+Celes with her combat training.
 #
-　しかし、ソシエットはDemon Callの魔法は使えない。
+But Soshiette can't use that kind of magic.
 #
-　そこで、協会のアイテムを利用した。
+So she used something from the Guild.
 #
-　だが、持って来るアイテムを間違え、魔界っぽい
-　場所と繋がってしまったようだ。
+But she brought the wrong thing, and apparently
+opened up a portal to what appears to be somewhere
+in the netherworld.
 #
-　そして、セリスはそれに巻き込まれ、脱出する為
-　に、魔界っぽい場所の中心部へと向かって進撃中
-　らしい。
+And then, Celes somehow ended up stuck inside of
+it.
 #
 <sprite "ta04a28.iph" 4 4 11>
-<name "ソシエット" "!DA0889">
-「キーアイテムを破壊すれば、セリスさんは元に戻
-　れて、魔界っぽい場所との接続も解消できるらし
-　いのです」
+<name "Soshiette" "!DA0889">
+"If we destroy the key item, Celes will be able
+ to come back, and it'll break the connection 
+ with that netherworld-like place."
 #
-<name "ラズロック">
-「なるほど」
+<name "Lazlocke">
+"I see."
 #
-<name "ラズロック">
-「セリスが帰ってくるまで、俺を足止めする予定だっ
-　たと」
+<name "Lazlocke">
+"So you were going to keep me occupied until she
+ came back."
 #
 <sprite "ta04a22.iph" 4 4 12>
-<name "ソシエット" "!DA0890">
-「は、はい」
+<name "Soshiette" "!DA0890">
+"Y-Yes."
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"I see."
 #
 <sprite "ta04a26.iph" 4 4 12>
-<name "ソシエット" "!DA0891">
-「あの、怒ってますか？」
+<name "Soshiette" "!DA0891">
+"Um, are you mad?"
 #
-<name "ラズロック">
-「いや……それより、ソシエット。
-　何をしている」
+<name "Lazlocke">
+"No. More importantly, Soshiette, what are you
+ going to do now?"
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "ソシエット" "!DA0892">
-「え？」
+<name "Soshiette" "!DA0892">
+"Huh?"
 #
-<name "ラズロック">
-「俺の相手をして、誤魔化すのだろう」
+<name "Lazlocke">
+"You were with me to keep me occupied, right?"
 #
 <sprite "ta04a26.iph" 4 4 12>
-<name "ソシエット" "!DA0893">
-「あの……もう五回もやって……その……
-　えっと……どうして、ロープやロウソクやムチを
-　取り出しているのですか？
-　それに、変な道具まで……」
+<name "Soshiette" "!DA0893">
+"Um... We already did it five time, so...
+ Um... Why are you taking out that rope, candles
+ and whip?
+ And those weird devices..."
 #
-<name "ラズロック">
-「安心しろ。
-　扉の向こうは見なかった事にしてやるから」
+<name "Lazlocke">
+"Don't worry.
+ I won't look past that door again."
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "ソシエット" "!DA0894">
-「私の趣味には、そういった物は無いのですが……」
+<name "Soshiette" "!DA0894">
+"Those kinds of things aren't to my taste..."
 #
-<name "ラズロック">
-「そうか。
-　この際だ。
-　そういった方向も試してみろ」
+<name "Lazlocke">
+"I see.
+ Now's the perfect chance to broaden your
+ horizons then."
 #
 <removesprite -1 11>
-　俺はセリスが帰って来るまで、ソシエットと共に
-　居た。
+I occupy myself with Soshiette until Celes makes
+it home.
 #
 <sprite "ta04a86.iph" 4 4 11>
-<name "ソシエット" "!DA0895">
-「うう、良かった。
-　セリスさんが三日で帰って来てくれて、本当に良
-　かった」
+<name "Soshiette" "!DA0895">
+"Oooh... Thank goodness...
+ I'm so lucky she made it back in three days..."
 #
-<name "ラズロック">
-「帰って来なかったら、どうしていたか……
-　よく考えるように」
+<name "Lazlocke">
+"What were you going to do if she didn't come
+ back?
+ Think about that very carefully."
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "ソシエット" "!DA0896">
-「は、はい」
+<name "Soshiette" "!DA0896">
+"O-Okay."
 #
 <removesprite -1 11>
 \x2B\x18 :27AF: 
 :1F4D
-<name "ラズロック">
-「扉の向こうの部屋が無くなってて、セリスが魔物
-　の死体を片付けていたが……」
+<name "Lazlocke">
+"The room is gone, and Celes is mopping up a
+ demon body..."
 #
-<name "ラズロック">
-「なんだあれは？」
+<name "Lazlocke">
+"What was that?"
 #
-　ちなみに、セリスはマスクをかぶっており、俺と
-　視線があっても、私はセリスではありませんとふ
-　ざけたジェスチャーをしていた。
+She's even got a cleaning mask on, and makes a
+gesture of helplessness when she saw me looking
+at her.
 #
 <sprite "ta04a29.iph" 4 4 11>
-<name "ソシエット" "!DA0897">
-「げ、幻覚では？」
+<name "Soshiette" "!DA0897">
+"A-An illusion?"
 #
-<name "ラズロック">
-「ほう……」
+<name "Lazlocke">
+"Oh?"
 #
 <removesprite -1 11>
-　その後、俺の執拗な尋問で全てが自白された。
+After that, she confessed everything in the face
+of my relentless interrogation.
 #
-　ソシエットは、セリスの格闘訓練相手として、魔
-　物を召喚しようとした。
+She tried to summon a demon as an opponent to help
+Celes with her combat training.
 #
-　しかし、ソシエットはDemon Callの魔法は使えない。
+But Soshiette can't use that kind of magic.
 #
-　そこで、協会のアイテムを利用した。
+So she borrowed something from the Guild.
 #
-　だが、予定外に強い魔物が出てしまい、魔物は倒
-　したものの、家や庭に大きな被害が出てしまった。
+But a stronger monster came out than she expected.
+She was able to beat it, but the house and yard
+are in shambles.
 #
-　幸い、召喚時に俺に迷惑を掛けないようにと、音
-　と振動を防いでいたので、なんとか誤魔化そうと
-　頑張ったようだ。
+Fortunately, they had insulated the room I was
+in when they summoned it so it wouldn't bother
+me, but then she had to go even further to try
+to trick me after the damage was done.
 #
-<name "ラズロック">
-「それで、家を元に戻すのにどれぐらい掛かる予定
-　だったんだ？」
+<name "Lazlocke">
+"And how long until I get my house back?"
 #
 <sprite "ta04a22.iph" 4 4 11>
-<name "ソシエット" "!DA0898">
-「協会が総力を上げて、三日で元通りにしてみせま
-　す」
+<name "Soshiette" "!DA0898">
+"The Guild will do everything it can to have it
+ repaired in three days."
 #
-<name "ラズロック">
-「三日も誤魔化すつもりだったのか？」
+<name "Lazlocke">
+"You were going to keep me occupied for three
+ days?"
 #
 <sprite "ta04a26.iph" 4 4 12>
-<name "ソシエット" "!DA0899">
-「人間、やる気次第です」
+<name "Soshiette" "!DA0899">
+"People can surprise you when they're motivated."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"I see."
 #
 <sprite "ta04a28.iph" 4 4 12>
-<name "ソシエット" "!DA0900">
-「あの、怒ってます？」
+<name "Soshiette" "!DA0900">
+"Um, are you mad?"
 #
-<name "ラズロック">
-「いや……別に怒ってないぞ」
+<name "Lazlocke">
+"No, not particularly."
 #
-　ああ、怒ってない。
+Yeah, I'm not mad.
 #
 <sprite "ta04a29.iph" 4 4 12>
-<name "ソシエット" "!DA0901">
-「そ、そうですか……」
+<name "Soshiette" "!DA0901">
+"I-I see..."
 #
-<name "ラズロック">
-「とりあえず、セリスに伝えろ。
-　三日間、俺はこの部屋から出ないから食事とかを
-　用意するように」
+<name "Lazlocke">
+"Anyway, tell Celes to make food.
+ I won't be leaving this room for the next
+ three days."
 #
 <sprite "ta04a65.iph" 4 4 12>
-<name "ソシエット" "!DA0902">
-「は、はい」
+<name "Soshiette" "!DA0902">
+"O-Okay."
 #
-<name "ラズロック">
-「それと、お前は三日間。
-　俺の相手だ」
+<name "Lazlocke">
+"And you will be with me all three days."
 #
 <sprite "ta04a24.iph" 4 4 12>
-<name "ソシエット" "!DA0903">
-「え……」
+<name "Soshiette" "!DA0903">
+"Huh?"
 #
-<name "ラズロック">
-「安心しろ、人間はやる気次第でなんとかなるらし
-　いから」
+<name "Lazlocke">
+"Don't worry.
+ People can surprise you when they're motivated,
+ right?"
 #
 <sprite "ta04a26.iph" 4 4 12>
-<name "ソシエット" "!DA0904">
-「え、えっと……あの、もう五回も……あれ？
-　なんですか？
-　そのロープとか、ロウソクとか……
-　変な道具まで取り出して……」
+<name "Soshiette" "!DA0904">
+"U-Umm... Uh, we already did it five... huh?
+ What's that?
+ Rope, candles...
+ And those strange devices..."
 #
 <removesprite -1 11>
-　俺は三日間、意地でも部屋から出なかった。
+I refused to leave the room for the next three
+days.
 #
 <sprite "ta04a23.iph" 4 4 11>
-<name "ソシエット" "!DA0905">
-「素直に謝った方が良かった……」
+<name "Soshiette" "!DA0905">
+"I should've just admitted it and apologized..."
 #
 <removesprite -1 11>
 \x2B

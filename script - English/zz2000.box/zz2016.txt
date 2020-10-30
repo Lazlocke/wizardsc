@@ -1,950 +1,963 @@
 <music 10>
 <background "bg001b0.iph" 11>
-　これまで、俺は師匠に拾われてから女を抱く事に
-　抵抗感は無かった。
+I never said no to having sex with the women my
+master chose for me.
 #
-　魔力を奪う事も、与える事も、自分にしかない能
-　力だと、妙な自覚と自信を持って行なっていた。
+Whether it was taking mana from them or giving it
+to them, I used the ability that belonged to only
+me with undeserved confidence and brashness.
 #
-　俺の後に弟子になった四人の女性も、抱いた。
+I had sex with the four other women who became
+her apprentices after me.
 #
-　理由は個々にあるが、その時の俺に後悔も抵抗も
-　なかった。
+Each of them had their own reasons, but I did it
+without argument and without a second thought.
 #
-　しかし、五人目の女性。
+But then there was the fifth.
 #
-　ヴィオラ相手には違った。
+Viola wasn't like anybody else.
 #
-　ヴィオラは、師匠や他の弟子達も認める完璧な魔
-　法使いであった。
+As a wizard, she was without flaw.
+My master and all her apprentices knew that.
 #
-　それは、俺の力をまったく必要としないと言う事
-　だ。
+And she didn't need any help from me.
 #
-　だから、俺はヴィオラを抱く事も無かったし、周
-　りも薦めたりしなかった。
+So I never had sex with her, and nobody ever
+suggested to her that she should.
 #
-　俺の力を知り、俺を求めない女の魔法使い。
+She knew about my power and didn't want me.
 #
-　そんなヴィオラに、当然のように俺は興味を持ち、
-　そして焦がれた。
+Naturally, I was drawn to someone like her, like
+a moth to a flame.
 #
-　だが、その想いを口にする事は一生無いと考えて
-　いた。
+But I knew that I could never tell her.
 #
-　男娼のように、求められるだけで女を抱く男に、
-　ヴィオラが惚れる筈が無い。
+Someone like her could never love a whore like
+me who slept with any woman who wants him to.
 #
-　そこで、俺は初めてこれまでの行為に疑問や抵抗
-　感を持った。
+For the first time, I doubted what I was doing
+and started having second thoughts.
 #
-　持った上で、女を抱き続けていた。
+But even after that, I kept sleeping with them.
 #
-　俺の存在価値は、そこにしかなかったから。
+Because that was the only thing that made me
+special.
 #
-　そんな日が延々と続いたある日、事態が一変した。
+That's how things went, until one day, everything
+changed.
 #
-　クインズベル王国とパズール王国の戦争。
+War broke out between Queensbell and Bazur.
 #
-　師匠は協会を支援してくれるクインズベル王国軍
-　に魔法使いを大量に派遣した。
+Queensbell had supported the Guild, so my master
+dispatched a ton of wizards to support their army.
 #
-　その中に、俺とヴィオラも居た。
+Including Viola and me.
 #
-　ヴィオラの戦闘力を持ってすれば、一人で数千兵
-　の働きをする。
+Viola alone was worth a thousand soldiers.
 #
-　そんなヴィオラに、俺がセットで派遣された。
+I was sent to accompany her.
 #
-　ヴィオラの魔力タンクとして。
+As her mana reserve.
 #
-　ヴィオラの魔力の回復力は凄いが、戦い続ければ
-　いずれ枯渇する。
-　そうなったら回復させるのに一日二日では時間が
-　足りない。
+Her mana recovery is impressive, but even it would
+be exhausted from fighting every day.
+If it ran out, she would need considerable time
+to even begin to recover.
 #
-　俺は抵抗したが、戦争と言う状態の中で俺個人の
-　意見が通る筈も無かった。
+I was against it, but my personal wishes didn't
+get much weight during a war.
 #
 <music 9>
 <background "bg021a0.iph" 11>
 <sprite "ta03b01.iph" 4 4 11>
-<name "ヴィオラ" "!BA0832">
-「お互い、与えられた任務はこなしましょう」
+<name "Viola" "!BA0832">
+"Let's both do what we're here for."
 #
 <removesprite -1 11>
-　ヴィオラは俺に抱かれる事を了承したと暗に言っ
-　てくれた。
+She knew she was supposed to have sex with me.
 #
-　しかし、俺は納得できなかった。
+But I couldn't do it.
 #
-　抱いてはいけないと、何かが止めていた。
+Something was stopping me.
+I couldn't have sex with her.
 #
-　なんだろうと、俺は延々と悩みながら行軍した。
+Regardless, I went to war with her.
 #
-　幸いな事に戦闘は軽く、俺の出番は無かった。
+Thankfully, the fighting wasn't intense, and I
+never had to take part myself.
 #
-　だが、行軍が続き、パズール王国の防衛の要所
-　手前にあるテロル山の陣に入った時、次の戦い
-　は激しくなると俺は直感した。
+But the war continued, and when we reached the
+Terol Mountains, just before Bazur's main
+stronghold, I knew the next battle would be 
+intense.
 #
-　だから、俺はその前にヴィオラのテントを訪ね
-　た。
+So I went to her tent before that.
 #
-<name "ラズロック">
-「ヴィオラ……
-　俺はお前を抱きたくない」
+<name "Lazlocke">
+"Viola, I don't want to have sex with you."
 #
 <sprite "ta03b00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0834">
-「……どうして」
+<name "Viola" "!BA0834">
+"...Why not?"
 #
-<name "ラズロック">
-「俺は……お前の事が好きだ」
+<name "Lazlocke">
+"I... I'm in love with you."
 #
-<name "ラズロック">
-「だから、魔力の受け渡しなんかで、お前を抱く
-　のは嫌だ」
+<name "Lazlocke">
+"I don't want to have sex with you to give you
+ mana."
 #
-　それは、好きな相手を汚す行為だから。
+It would be like defiling the one I love.
 #
 <sprite "ta03b03.iph" 4 4 12>
-<name "ヴィオラ" "!BA0835">
-「…………そう。
-　ありがとう」
+<name "Viola" "!BA0835">
+"...I see.
+ Thank you."
 #
 <sprite "ta03b04.iph" 4 4 12>
-<name "ヴィオラ" "!BA0836">
-「でも、私は貴方の事なんかどうも思ってないわ」
+<name "Viola" "!BA0836">
+"But I don't have any feelings for you."
 #
-　わかっていた返事だ。
+I knew that'd be her answer.
 #
-　だが、俺は続ける。
+But I wasn't done yet.
 #
-<name "ラズロック">
-「俺はお前を抱きたくない」
+<name "Lazlocke">
+"I don't want to have sex with you."
 #
 <sprite "ta03b18.iph" 4 4 12>
-<name "ヴィオラ" "!BA0837">
-「でも、抱いて貰わないと困るの。
-　流石の私でも、丸一日魔法を使えば魔力が無くな
-　る」
+<name "Viola" "!BA0837">
+"But if you don't, that will put me in danger.
+ Even I will run out of mana if I cast spells
+ all day."
 #
 <sprite "ta03b19.iph" 4 4 12>
-<name "ヴィオラ" "!BA0841">
-「貴方が居れば、魔力の心配をしなくてすむから連
-　れて来たのよ」
+<name "Viola" "!BA0841">
+"You're here to make sure that I don't need to
+ worry about having enough mana."
 #
-　ヴィオラは俺を諭すように、責める。
+She chastised me and argued back.
 #
-　要は、明日の戦いをどうするのだと。
+The question was what about tomorrow.
 #
-<name "ラズロック">
-「……逃げよう」
+<name "Lazlocke">
+"...Let's run away."
 #
 <sprite "ta03b31.iph" 4 4 12>
-<name "ヴィオラ" "!BA0842">
-「は？」
+<name "Viola" "!BA0842">
+"Huh?"
 #
-<name "ラズロック">
-「お前の為なら、全部捨ててやる。
-　師匠も協会も……
-　だから、一緒に逃げよう」
+<name "Lazlocke">
+"I'll give it all up for you.
+ Master, and the Guild...
+ So let's run away together."
 #
 <sprite "ta03b34.iph" 4 4 12>
-<name "ヴィオラ" "!BA0843">
-「逃げてどうするの？」
+<name "Viola" "!BA0843">
+"Run away and do what?"
 #
-<name "ラズロック">
-「どこかの街で、一緒に暮らして行こう」
+<name "Lazlocke">
+"Find a town somewhere and build a life together."
 #
 <sprite "ta03b35.iph" 4 4 12>
-<name "ヴィオラ" "!BA0844">
-「結婚してくれって事？」
+<name "Viola" "!BA0844">
+"You want me to marry you?"
 #
-<name "ラズロック">
-「ああ」
+<name "Lazlocke">
+"Yeah."
 #
-　俺の告白に、ヴィオラは大きく溜息を吐いてから
-　答えた。
-#
-<sprite "ta03b17.iph" 4 4 12>
-<name "ヴィオラ" "!BA0863">
-「お断りよ」
-#
-<sprite "ta03b19.iph" 4 4 12>
-<name "ヴィオラ" "!BA0864">
-「どうして私がアンタと結婚しなきゃいけないの」
-#
-<sprite "ta03b18.iph" 4 4 12>
-<name "ヴィオラ" "!BA0865">
-「それに、今の生活を捨てて新しい場所で一から？
-　それでどうするのよ。
-　子供でも作って家庭を守れって言うの？」
-#
-<sprite "ta03b19.iph" 4 4 12>
-<name "ヴィオラ" "!BA0866">
-「誰がそんな事をしたいって言った」
+She lets out a long sigh.
 #
 <sprite "ta03b17.iph" 4 4 12>
-<name "ヴィオラ" "!BA0867">
-「私は魔法使いとして歴史に名前を残すのよ。
-　私が欲しいのはその為の実績」
+<name "Viola" "!BA0863">
+"I decline."
+#
+<sprite "ta03b19.iph" 4 4 12>
+<name "Viola" "!BA0864">
+"Why should I have to marry you?"
 #
 <sprite "ta03b18.iph" 4 4 12>
-<name "ヴィオラ" "!BA0868">
-「そして、今は戦場で戦う為の魔力」
+<name "Viola" "!BA0865">
+"And why should I throw away my life and start a
+ new one somewhere else?
+ And then what?
+ Bear your children and be a housewife?"
+#
+<sprite "ta03b19.iph" 4 4 12>
+<name "Viola" "!BA0866">
+"Who told you that's what I wanted?"
+#
+<sprite "ta03b17.iph" 4 4 12>
+<name "Viola" "!BA0867">
+"I will engrave my name in history as a wizard.
+ That is the reason I do what I do."
+#
+<sprite "ta03b18.iph" 4 4 12>
+<name "Viola" "!BA0868">
+"And right now, I need mana to dominate the
+ battlefield."
 #
 <sprite "ta03b21.iph" 4 4 12>
-<name "ヴィオラ" "!BA0869">
-「頭を冷やしなさい！」
+<name "Viola" "!BA0869">
+"Get your head in order!"
 #
 <removesprite -1 11>
-　ヴィオラはそう言って、俺をテントから追い出し
-　た。
+She shouted at me and chased me out.
 #
 <music 18>
 <background "bg020a0.iph" 11>
-　翌日、テロル山での戦闘は激しさを増した。
+The next day, the battle was fierce.
 #
 <background "ev065a0.iph" 10>
-　兵数で劣勢だったクインズベル王国軍だが、ヴィ
-　オラの魔法がそれを補って余りあった。
+Queensbell was outnumbered, but Viola's magic
+made up the difference.
 #
-　そのヴィオラの魔法は、全ての魔力を使い切るよ
-　うな勢いだった。
+She used everything, and was left without any
+mana.
 #
 <music 9>
 <background "bg021a0.iph" 11>
-　そして夜。
+And night came.
 #
 <sprite "ta03b18.iph" 4 4 11>
-<name "ヴィオラ" "!BA0853">
-「……私の魔力はほぼカラよ。
-　どうするの？」
+<name "Viola" "!BA0853">
+"...My mana is nearly gone.
+ What are you going to do?"
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <removesprite -1 11>
-　ヴィオラのテントで、俺は固まっていた。
+I was in her tent again.
 #
-　抱く事も出来ず、一人で逃げる事も出来ず。
+I couldn't have sex with her, and I couldn't run
+away on my own.
 #
 <sprite "ta03a15.iph" 4 4 11>
-<name "ヴィオラ" "!BA0854">
-「言ったでしょ。
-　私は貴方の事なんか、どうでも良いの」
+<name "Viola" "!BA0854">
+"I told you already.
+ I have no particular feelings for you."
 #
 <sprite "ta03a18.iph" 4 4 12>
-<name "ヴィオラ" "!BA0855">
-「貴方が私をどう想っていようが、貴方が何を正義
-　と考えようが関係無い」
+<name "Viola" "!BA0855">
+"It doesn't matter how you feel about me.
+ It doesn't matter what you think is right or
+ wrong."
 #
 <sprite "ta03a19.iph" 4 4 12>
-<name "ヴィオラ" "!BA0856">
-「貴方は、私に魔力を与える為に、私を抱きなさい」
+<name "Viola" "!BA0856">
+"You need to have sex with me to give me mana."
 #
 <sprite "ta03a22.iph" 4 4 12>
-<name "ヴィオラ" "!BA0857">
-「好きな相手を抱けるんだから、それで良いでしょ。
-　それとも、もう好きでなくなった？」
+<name "Viola" "!BA0857">
+"You get to have sex with the one you love.
+ You should have no problem with it.
+ Or do you no longer fancy me?"
 #
 <sprite "ta03a18.iph" 4 4 12>
-<name "ヴィオラ" "!BA0858">
-「ま、どうでも良いけど……
-　早くしてくれないと、夜が明けちゃうわ」
+<name "Viola" "!BA0858">
+"Well, either way doesn't matter, but if you don't
+ make up your mind soon, the dawn will come."
 #
-<name "ラズロック">
-「……俺の事が嫌いか」
+<name "Lazlocke">
+"...Do you hate me?"
 #
 <sprite "ta03a21.iph" 4 4 12>
-<name "ヴィオラ" "!BA0859">
-「どこを好きになれって言うの？」
+<name "Viola" "!BA0859">
+"What is there to love?"
 #
-<name "ラズロック">
-「…………そうだな」
+<name "Lazlocke">
+"...Yeah."
 #
 <removesprite -1 11>
-　その通りだ。
+She was right.
 #
-　こんな俺のどこを好きになると言うのだ。
+What was there to love about someone like me?
 #
-　わかっていた事だ。
+I knew that.
 #
-　勝手な想いを、勝手にぶつけただけ。
+I just indulged in my own desires.
 #
-　迷惑な話だ。
+I hated it.
 #
-　そして、俺の身体は正直だ。
+But I couldn't deny my own body.
 #
-　ヴィオラを抱こうとしている。
+It wanted to be with her.
 #
-　嫌われているのだから、逃げたいと思うと同時に、
-　俺を嫌う相手を犯したいと思っている。
+She hated me.
+She didn't want to be around me.
+I wanted to fuck her for that.
 #
-　だから、嫌われるのだ。
+And that's why I hated me too.
 #
-　なんだか、笑えてきた。
+You almost had to laugh.
 #
-<name "ラズロック">
-「わかった……
-　マヌケな事を言っていたようだな」
+<name "Lazlocke">
+"I see...
+ Apparently I shouldn't have said anything."
 #
 <sprite "ta03a18.iph" 4 4 11>
-<name "ヴィオラ" "!BA0860">
-「やっとやる気になってくれ……え」
+<name "Viola" "!BA0860">
+"So you've finally found your spine...
+ Huh?"
 #
 <removesprite -1 11>
-　俺はヴィオラに背後から抱きつき、床に押し倒し
-　た。
+I grab her from behind and push her down onto
+the floor.
 #
 <music 9>
 <background "ev066a0.iph" 10>
-<name "ヴィオラ" "!BA0861">
-「ちょ、ちょっと急じゃ……」
+<name "Viola" "!BA0861">
+"H-Hey, this is too..."
 #
-<name "ラズロック">
-「煩い。
-　黙っていろ」
+<name "Lazlocke">
+"Shut up.
+ Don't say another word."
 #
-　俺は四つん這いになったヴィオラのスカートを捲
-　くり、下着をずらした。
+I rolled up her skirt and moved her underwear out
+of the way.
 #
-　綺麗な尻と陰部、フワッとした香水の匂いが俺の
-　鼻を擽る。
+Her beautiful butt and pussy delighted me, and
+the whiff of her perfume tickled my nose.
 #
-　戦場では、そうそう身体も綺麗にはできない。
+There's no bathing on the battlefield.
 #
-　今日の戦いも激しかった。
+The battle that day was intense.
 #
-　体臭隠しの為の、香水だろう。
+The perfume was to hide the smell of her sweat.
 #
-　そういった身嗜みはしっかりしているんだなと、
-　感心しながら俺はヴィオラの胸元を弄り乳を放り
-　出させる。
+I admired her vanity even as I grabbed her chest
+and exposed her breasts.
 #
-<name "ヴィオラ" "!BA0862">
-「ぁ……」
+<name "Viola" "!BA0862">
+"Ah..."
 #
-　予想していたより、大きい。
+She was bigger than I expected.
 #
-　その胸を遠慮無く搾りながら、俺は自分のモノを
-　ヴィオラの太股に擦りつけ、大きくしていく。
+I squeezed her breasts without holding back, and
+rubbed my dick against her thigh to get bigger.
 #
-<name "ヴィオラ" "!BA0870">
-「ぁ……う、ぁ……」
+<name "Viola" "!BA0870">
+"Ah...ah..."
 #
-　ヴィオラは俺の行為に抵抗しなかった。
+She didn't resist me.
 #
-　するはずも無いだろう。
+She couldn't.
 #
-　望んでいるのだから。
+It's what she wanted.
 #
-　そう、望んでいる。
+Yeah, she wanted it too.
 #
-　俺がヴィオラを好きになった理由が消えた。
+The reason I fell in love with her was gone.
 #
-　本当に、間の抜けた話だ。
+It really is practically a comedy.
 #
-　俺はヴィオラの陰部に口をつける。
+I put my mouth on her.
 #
-<name "ヴィオラ" "!BA0871">
-「ひっ……」
+<name "Viola" "!BA0871">
+"Ah..."
 #
-　ヴィオラの全身が硬直した。
+Her whole body stiffened.
 #
-　構わず、俺はヴィオラの陰部に口を付けたまま舌
-　を伸ばし、陰部の割れ目を掘るように押し込んだ。
+I ignored her anxiety and pushed my tongue deep
+into her.
 #
-<name "ヴィオラ" "!BA0872">
-「うぁ……」
+<name "Viola" "!BA0872">
+"Ah..."
 #
-　香水では隠し切れない、女の匂い、ヴィオラの匂
-　いが俺の口内を満たした。
+Her musk couldn't be hidden by her perfume.
 #
-　その匂いをさらに求めるように舌を動かし、唾液
-　を膣口周辺に塗り込む。
+I moved my tongue deeper to drag more of that
+smell out of her and smear my saliva all over
+her lips.
 #
-<name "ヴィオラ" "!BA0873">
-「ぅ……ぅぅ……」
+<name "Viola" "!BA0873">
+"Nh..."
 #
-　そうして、俺は自分の舌に疲れを感じた辺りで、
-　ヴィオラの陰部から口を離した。
+Once my tongue was tired, I took my mouth away
+from her.
 #
-　そこには俺の唾液でテカテカと光る陰部が、少し
-　だけ開かれていた。
+Her pussy gleamed from my saliva.
 #
-　それを指で拡げると、綺麗なピンク色のヒダが見
-　え、隠れるようにあった小さなマメが姿を見せた。
+I opened her with my fingers to see the beautiful
+pink folds inside, and the small bean that seemed
+like it was hiding.
 #
-　そのマメに軽くキスをし、俺は自分のモノをその
-　ヒダの中に埋もれさせた。
+I gave it a light kiss, and then buried my dick
+inside her.
 #
-<name "ヴィオラ" "!BA0874">
-「ぁっ」
+<name "Viola" "!BA0874">
+"Ah!"
 #
-　舌で膣口の位置は確認している。
+I knew exactly where to put it.
 #
-　俺のモノ先は狙い通りに膣口に当たった。
+My dick went exactly where I wanted.
 #
-<name "ヴィオラ" "!BA0875">
-「ぁ……」
+<name "Viola" "!BA0875">
+"Ah..."
 #
-　そして、俺はヴィオラの腰を持ってモノ先を膣内
-　に押し込もうとする。
+I held her hips as I pushed in.
 #
-　そこで気付いた。
+Then I noticed something.
 #
-　ヴィオラの身体が硬直し続けている事に。
+She was still rigid.
 #
-　最初、陰部を舐めた時から……
+The same as she had been since I first started
+licking her.
 #
-<name "ラズロック">
-「力を抜け」
+<name "Lazlocke">
+"Relax."
 #
-<name "ヴィオラ" "!BA0876">
-「ぇ……ぁ……」
+<name "Viola" "!BA0876">
+"Huh?
+ Ah..."
 #
-　俺の指示を、ヴィオラは聞かない。
+She didn't do what I told her to.
 #
-　ただ、身体を固めてジッとしていた。
+She just stayed there, stiff and anxious.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　ヴィオラは男性経験が無い。
+She had never been with a man before.
 #
-　俺は確信した。
+I was sure of it.
 #
-　同時に、もう少し優しくしてやれば良かったとの
-　後悔と、ヴィオラの初めての男になれた喜びが俺
-　の頭を支配した。
+I wished I had been a little gentler, but I also
+felt exhilaration at taking her first time.
 #
-　そして、俺の身体はヴィオラを求めた。
+And my body wanted her.
 #
 <background "ev066a1.iph" 10>
-<name "ヴィオラ" "!BA0877">
-「っ！！！」
+<name "Viola" "!BA0877">
+"Ngh!!!"
 #
-　強引に、モノ先をヴィオラの膣内に捻じ込んだ。
+I forced my dick into her pussy.
 #
-<name "ヴィオラ" "!BA0878">
-「ぐひっ、いっ！」
+<name "Viola" "!BA0878">
+"Ngh! Ah!"
 #
-　処女膜で、侵入を中断させられる。
+Her hymen stopped me.
 #
-　だが、強引に腰を振って処女膜を切り裂き、さら
-　に奥へと進める。
+But I forcibly thrust through it and pushed
+deeper.
 #
-　俺のモノがヴィオラの膣内に納まっていくと同時
-　に、俺の興奮は激しく高まっていく。
+Being inside her just inflamed my lust for her
+more.
 #
-　ヴィオラの膣内の柔らかさ、温かさ、締め付けを
-　求め、グイグイとモノ先を奥へと捻じ込んでいく。
+I plunged my dick into her, wanting more of her
+softness, her warmth, and her tightness.
 #
-<name "ヴィオラ" "!BA0879">
-「っっっっ！！！」
+<name "Viola" "!BA0879">
+"Nnnnnngh!"
 #
-　ヴィオラは苦痛に悶えながらも治癒魔法を唱え、
-　処女膜貫通の痛みを和らげようとしていた。
+She whispered a healing spell as she writhed,
+trying to ease the loss of her virginity.
 #
-　その効果を打ち消すように、俺は激しく腰を押し
-　込み、ヴィオラの膣内を突いた。
+I thrust harder to counteract it and stabbed into
+her pussy.
 #
-　モノ先が膣奥の壁を突き上げる。
+My dick ground against the deepest part of her.
 #
-<name "ヴィオラ" "!BA0880">
-「！！！」
+<name "Viola" "!BA0880">
+"Ngh!!!!!"
 #
-　グリグリと膣奥の壁を擦りながら、俺は自分のモ
-　ノがヴィオラの膣内に入った事に感動していた。
+I rubbed against her walls, reveling that my
+dick was inside her.
 #
-　その感動に浸りながら、俺はズズッと乱暴にモノ
-　を引き、半分ぐらい抜いた所で押し込んだ。
+As I indulged in that heady feeling, I pulled
+back and then stabbed myself right back into her.
 #
-<name "ヴィオラ" "!BA0881">
-「ああああああっ！！」
+<name "Viola" "!BA0881">
+"Aaaaaahhhhh!!!"
 #
-　さらなる快楽を感じる為に、モノをヴィオラの膣
-　内で擦り上げて扱く。
+I rubbed myself through her pussy, seeking even
+more pleasure.
 #
-<name "ヴィオラ" "!BA0882">
-「ぁっ、ぁぁぁっ！
-　ぁぁっ、ふぁ、ふぁぁぁぁぁぁっ！」
+<name "Viola" "!BA0882">
+"Aah! Aaaahh!
+ Aah! Ahh! Aaaahhh!"
 #
-　二度、三度、乱暴に。
+Two times.
+Three times.
+Violently.
 #
-　ヴィオラの膣内を楽しむように。
+I enjoyed her body.
 #
-<name "ヴィオラ" "!BA0883">
-「くふぁっ、ふぁ、あ、くっ！
-　くぅぁぁぅっ、ぅぁぁぁ……」
+<name "Viola" "!BA0883">
+"Ngh! Ah! Ah! Agh!
+ Aah! Aaaah..."
 #
-　初めて異性を迎え入れたヴィオラの膣内は、お世
-　辞にも動きやすいとは言えないが、それがヴィオ
-　ラの膣内である事で俺は十分と、モノをさらに大
-　きくしていた。
+It was hard to move because it was her first time,
+but because it was her, that was enough to make
+my dick even bigger.
 #
-　そして、早々に一度目の射精を行なおうと腰の動
-　きを速くしていく。
+And soon I was moving quickly to come for the 
+first time.
 #
-　早くヴィオラの膣内に精液を放ちたい。
+I wanted to come inside her as quickly as I could.
 #
-　その考えで頭を一杯にしながら、俺は腰を動かし
-　続けた。
+I kept moving my hips, thinking about nothing but
+that.
 #
-<name "ヴィオラ" "!BA0884">
-「う、うう、くぅぁっ、ぁっ、うぁぁう……
-　ふぁ、ぁ、ぁ、ぁぁ、くぁ、ぁ、ぁぁ」
+<name "Viola" "!BA0884">
+"Nh...ah...ah...ahhh...
+ Aahh...ah...ah...aah...agh...ah..."
 #
-　俺のモノを引く度に、ヴィオラの膣壁を引き摺り
-　出し、押し込む度にヴィオラの膣壁を巻き込むよ
-　うに捻じ込んでいる。
+Every time I pulled back, it dragged through her
+walls, and every time I pushed in, it wrenched her
+back open.
 #
-<name "ヴィオラ" "!BA0885">
-「ふぅぁ、ぁ、ぁ、ぁ、ぁっ、っ！
-　ぁっ！
-　ぁぁっ！」
+<name "Viola" "!BA0885">
+"Aah! Ah! Ah! Ah!
+ Ah! Aaaah!"
 #
-　あのヴィオラが俺の前で四つん這いになっている。
+She braced herself on her hands and knees in front
+of me.
 #
-<name "ヴィオラ" "!BA0886">
-「ふぁ、ふぁ、ふぁぁっ！」
+<name "Viola" "!BA0886">
+"Aah! Ah! Aaaah!"
 #
-　そのヴィオラに背後から捻じ込み、腰を振ってい
-　る。
+I pounded into her from behind.
 #
-<name "ヴィオラ" "!BA0887">
-「ひぁ、ひぁ、ひあう、うぁ、うぁぁ……」
+<name "Viola" "!BA0887">
+"Aah! Ah! Aah! Ah! Aah!"
 #
-　ヴィオラの白い尻を掴んで捻る。
+I grabbed her pale butt and drove into her.
 #
-<name "ヴィオラ" "!BA0888">
-「ひううっ！」
+<name "Viola" "!BA0888">
+"Aaah!"
 #
-　そして、ヴィオラの胸に手を伸ばし、その胸を強
-　く搾る。
+And then I reached for her breasts and squeezed
+them.
 #
-<name "ヴィオラ" "!BA0889">
-「ううううああああっ！」
+<name "Viola" "!BA0889">
+"Aaaaahhh!"
 #
-　程好い胸の弾力に感心しながら、ヴィオラの乳首
-　を探し、コリッと硬い弾力を見つけて摘まむと、
-　俺の頭が急に真っ白になり、モノ先を深くヴィオ
-　ラの膣内に潜りこませていた。
+After enjoying their softness, I found her stiff
+nipples and pinched them.
+My head all of a sudden went blank and I buried
+my dick deep in her.
 #
-<name "ヴィオラ" "!BA0890">
-「ぁぁっっ！」
+<name "Viola" "!BA0890">
+"Aaah!"
 #
-　そして、ヴィオラの膣奥の壁にモノ先を擦りつけ
-　ながら射精を開始した。
+And then I came, rubbing the head of my dick 
+against her deepest walls.
 #
-<name "ヴィオラ" "!BA0891">
-「うあ、あ、あ、ああああああ！」
+<name "Viola" "!BA0891">
+"Aah! Ah! Ah! Aaaaahhhhh!!!"
 #
-　ドクンッドクンッとモノ先を震わせながら精液を
-　吐き出す。
+I shot my semen into her.
 #
-<name "ヴィオラ" "!BA0892">
-「う、うぁ、あっ、くぅぁ……ぁうう！」
+<name "Viola" "!BA0892">
+"Ah! Aah! Agh...aaah!"
 #
-　ドクンッドクン……
+Over and over...
 #
-　射精は長く、終らない。
+I kept coming for what felt like forever.
 #
-　吐き出した精液の量は俺自身も驚くぐらいだが、
-　キツいヴィオラの締め付けから逆流する事もなく
-　全てを膣奥と子宮に流し込んだ。
+Even I was surprised by how much, but she was
+squeezing so tight that none of it leaked out of
+her pussy or womb.
 #
-<name "ヴィオラ" "!BA0893">
-「ぁ、ぁ……うぁ……ぁぁぁ……」
+<name "Viola" "!BA0893">
+"Ah...ah...aah...ahhh..."
 #
-　そして、射精の勢いが不意に衰え、射精を終了し
-　た。
+And just as suddenly, it was over.
 #
-<name "ヴィオラ" "!BA0894">
-「ぁ……ぁぁ……うぁ……」
+<name "Viola" "!BA0894">
+"Ah...aah...ahh..."
 #
-　俺の射精を受け、ヴィオラはピクピクと可愛い尻
-　を震わせている。
+Her beautiful ass was trembling.
 #
-　行為に及ぶ前の、ヴィオラの言葉を思い出す。
+I remembered what she said before we started.
 #
-　これまでのヴィオラへの想い……
+I remembered how I felt about her.
 #
-　やってみれば、他の女と変わらないと思ったが、
-　やはり違った。
+I thought that once I had sex with her, she would
+be no different from any other woman, but I was
+wrong.
 #
-　俺はまだまだ硬いモノを優しく動かしながら、ヴィ
-　オラの陰部の割れ目から顔を出している小さなマ
-　メを指で刺激した。
+I continued gently moving my hard dick as I 
+reached out and touched the little bean sticking
+out from her entrance.
 #
 <background "ev066a2.iph" 10>
-<name "ヴィオラ" "!BA0895">
-「ひぁっ、ぁっ、な、なに、え、ぁ、ぁ、ぁぁ……」
+<name "Viola" "!BA0895">
+"Aah! Ah! W-What? 
+ Ah...ah...ah...aaah..."
 #
-　そして、小さなマメを不意に摘まんで捻り、引っ
-　張った。
+And I give it a small pinch.
 #
-<name "ヴィオラ" "!BA0896">
-「っっっ！！」
+<name "Viola" "!BA0896">
+"Nnnnnh!!!!!"
 #
-　その苦痛に、ヴィオラは全身を震わせる。
+Her whole body shook in agony.
 #
-<name "ヴィオラ" "!BA0897">
-「……ぁ……くぁ……」
+<name "Viola" "!BA0897">
+"Ah...ah..."
 #
-　膣内が俺のモノを絞め潰すほどのキツさになった。
+The insides of her pussy clamped like a vice on
+my dick.
 #
-<name "ヴィオラ" "!BA0898">
-「ぁ……ぁ……」
+<name "Viola" "!BA0898">
+"Ah...ah..."
 #
-　ヴィオラの震えは止まらず……
+Her trembling didn't stop.
 #
-<name "ヴィオラ" "!BA0899">
-「ぁぁぁぁぁぁぁぁぁぁぁっ！」
+<name "Viola" "!BA0899">
+"Aaaaaaaaahhhhhhhhhh!!!!!"
 #
-　そのまま陰部から少量の潮を吹いて達した。
+A small gush of liquids came out from her as she
+came.
 #
-<name "ヴィオラ" "!BA0900">
-「ぁ、ぁぁ、ぁぁぁ……」
+<name "Viola" "!BA0900">
+"Ah...aaah...aaahhh..."
 #
-　軽く混乱するヴィオラ。
+Her voice was confused.
 #
-　自慰行為も、殆ど経験が無いのだろう。
+She probably almost never masturbated.
 #
-　いや、初めてかもしれない。
+That may have genuinely been her first orgasm.
 #
-　俺は腰を動かした。
+I moved my hips.
 #
-<name "ヴィオラ" "!BA0901">
-「あああっ！」
+<name "Viola" "!BA0901">
+"Aaaah!"
 #
-　余韻になど浸らせない。
+I didn't let her enjoy the afterglow.
 #
-<name "ヴィオラ" "!BA0902">
-「ふぁ、ぁっ、お、終ったんじゃ……」
+<name "Viola" "!BA0902">
+"Aaah...ah...
+ I-Isn't it over?"
 #
-<name "ラズロック">
-「始めたばかりだ」
+<name "Lazlocke">
+"I'm only getting started."
 #
-<name "ヴィオラ" "!BA0903">
-「そ、そん、そんな……」
+<name "Viola" "!BA0903">
+"N-No... No way..."
 #
-<name "ラズロック">
-「魔力が欲しいんだろ」
+<name "Lazlocke">
+"You want mana, don't you?"
 #
-　俺は自分の中の罪悪感を殺すように、ヴィオラの
-　肉体を求め続けた。
+I kept indulging in her body to assuage my guilt.
 #
 <background "ev067a0.iph" 10>
-<name "ヴィオラ" "!BA0904">
-「うぁ、ぁ、ぁぁ……ふぁぁ……」
+<name "Viola" "!BA0904">
+"Aah...ah...aah...ahhhh..."
 #
-　昼は戦い、夜は魔力の補充。
+She fought during the day, and I replenished her
+mana at night.
 #
-　初めて身体を交えた後からの毎日は、そうだった。
+That's how it went every day after that.
 #
-　昼の戦いは、ヴィオラの独壇場。
+She was the star of the show each day.
 #
-　魔法で相手を吹き飛ばし、要塞を砕いて、進軍を
-　助ける。
+She blew away the armies before her, conquered
+fortresses, and accelerated our march.
 #
-　夜はその昼の活躍が嘘のように、俺に犯されてい
-　た。
+And then at night, I fucked her like none of the
+rest ever happened.
 #
-　抵抗は許さない。
+I didn't let her say no.
 #
-　嫌がっても、俺はヴィオラに魔力を渡す為に犯し
-　続けた。
+Even when she didn't need it, I kept fucking her,
+giving her more mana.
 #
-　二十日も続けると、流石の俺の魔力も底が見え始
-　めたが、協会から派遣された女性魔法使いを犯し
-　て魔力を奪い取り、それをヴィオラに渡していた。
+After three weeks, even my mana started to run
+out, so I fucked the female wizards the Guild had
+sent, took their mana, and gave it to her.
 #
-　渡す度に、ヴィオラは汚れていく。
+Every time I did that, I defiled her more.
 #
-　前の穴はもとより、口や後ろの穴でも射精を繰り
-　返した。
+I came in her pussy, her ass, her mouth...
 #
-　その全身を舌で味わい、感触を知り、そして何度
-　も俺の精液を放って、塗り込んだ。
+I tasted her entire body with my tongue, memorized
+the feel of her skin, and covered her in my semen
+over and over again.
 #
 <background "ev067a1.iph" 10>
-<name "ヴィオラ" "!BA0905">
-「ぁ、ぁ、ふぁ、あ、うぁ、あん、ん、んぁ……」
+<name "Viola" "!BA0905">
+"Ah...ah...aah...aah...mmm...mmm..."
 #
-　最近のヴィオラは、行為になると従順だった。
+Eventually, she became accustomed and 
+accommodating to it.
 #
-<name "ヴィオラ" "!BA0906">
-「ふぁ、ふぁ……ぁ、ぁぁ……ん」
+<name "Viola" "!BA0906">
+"Aah...ah...ah...ah...mmm..."
 #
-<name "ラズロック">
-「胸を突き出せ」
+<name "Lazlocke">
+"Stick out your chest."
 #
-<name "ヴィオラ" "!BA0907">
-「ふぁ、ぁ、ぁ……」
+<name "Viola" "!BA0907">
+"Aah...ah...ah..."
 #
-　俺の指示通りに胸を反らして胸を突き出すヴィオ
-　ラ。
+She thrust out her breasts like I ordered her to.
 #
-　その胸の頂上に、ピンッと立った乳首。
+Her nipples were already stiff.
 #
-　それを口に含みながら、俺は何度目かの射精を開
-　始した。
+I sucked them into my mouth and began to come yet
+again.
 #
 <background "ev067a2.iph" 10>
-<name "ヴィオラ" "!BA0908">
-「うぁ、ぁ、ぁぁぁぁ……」
+<name "Viola" "!BA0908">
+"Aaah...ah...aahhh..."
 #
-　俺の射精が始まると、ヴィオラは俺に抱きついて
-　くる。
+As I came, she put her arms around me.
 #
-<name "ヴィオラ" "!BA0909">
-「ぁ、ぁ、ぁぁぁ……うぁ、は、はいって……あ」
+<name "Viola" "!BA0909">
+"Ah...aah...aaahh...aahhh...
+ I-It's going in...
+ Ahhh..."
 #
-　これまで俺が抱いた女達と、大差の無い行為。
+The act itself wasn't all that different from any
+other woman I had been with before.
 #
-　だが、俺は失望などしない。
+But I wasn't disappointed by it.
 #
-　昼のヴィオラの活躍を知っているからだ。
+Because I knew what she was doing during the day.
 #
-　その活躍の一端を担っている事で、俺は満足して
-　いた。
+I was happy just to be a part of her success.
 #
-<name "ヴィオラ" "!BA0910">
-「ぁ、ぁぁ……うぁ……あ」
+<name "Viola" "!BA0910">
+"Ah...aah...aaah...ah..."
 #
-　俺の射精が終ると、ヴィオラは俺に口付けを求め
-　てくる。
+After I finished coming, she brought her lips to
+mine for a kiss.
 #
-　俺はそれに応え、そしてまた腰を動かす。
+I met them, and started moving my hips again.
 #
-<name "ヴィオラ" "!BA0911">
-「ふぁ、ふぁっ、ぁっ、ぁぁっ！」
+<name "Viola" "!BA0911">
+"Aaah! Aah! Ah! Aaah!"
 #
-　射精後のキスは、俺が最初の頃に言った命令だ。
+One of the first orders I gave her was to kiss me
+after I came.
 #
-　感謝の印に、俺が射精する度にキスをしろと。
+Kiss me every time to thank me.
 #
-　ヴィオラはそれを律儀に覚えて実行している。
+She remembered it, and dutifully did so.
 #
-<name "ヴィオラ" "!BA0912">
-「ぁ、ぁっ、うぁ、うぁん、んはぁ、んはぁぁ、
-　ふぁ、ふぁん」
+<name "Viola" "!BA0912">
+"Ah...ah...aah...aah...mmm...ahhh...
+ Ahhhh...aahhh.."
 #
-　可愛い女だ。
+She really was a beautiful woman.
 #
-　ヴィオラを抱きながら、その想いがドンドンと
-　膨らんでいく。
+Every time I was with her, my feelings got the
+better of me.
 #
-　だが、こうやって身体を重ねているのは、俺の
-　魔力を求めての行為だ。
+But the reason I was with her was always to take
+my mana.
 #
-　それを忘れないように、俺は何度も自分に言い
-　聞かせる。
+I had to tell myself that over and over so I never
+forgot it.
 #
-<name "ヴィオラ" "!BA0913">
-「ぁ、ぁ、うぁ……ふぁん、ん、んぁ……」
+<name "Viola" "!BA0913">
+"Ah...ah...aah...
+ Ahhh...mm...mmmm..."
 #
-　甘い態度は、これまで魔力を渡してきた女の魔
-　法使い達は皆やっていた。
+Every female wizard I had been with to give mana
+to acted in the same amorous way.
 #
-　好きでもない男を相手に。
+For a man they didn't love.
 #
-　好きでもない俺を喜ばせる為に。
+To please me, who didn't love them.
 #
-　それだけ、魔力が欲しいのだろう。
+They just wanted my mana.
 #
-　風俗娘のようなものだ。
+Like prostitutes.
 #
-　金の為に身体を開く。
+Selling their bodies to me.
 #
-　ヴィオラは、魔力の為に身体を開いているだけ
-　だ。
+Viola was just giving her body to me for mana.
 #
-　そこまでして、魔力が欲しいか。
+She would go that far for it.
 #
-<name "ヴィオラ" "!BA0914">
-「ふぁ、ふぁ、も、もっと、あ、ぁっ、ぁぁ……
-　あ、ふぁぁ、ぁっ！」
+<name "Viola" "!BA0914">
+"Aah...ah... M-More...
+ Ah...ah...aah...
+ Ah...aaah...ah!"
 #
-　良いだろう。
+But it's fine.
 #
-<name "ヴィオラ" "!BA0915">
-「ふぁ、ふぁ、ふぁ、ぁっ、ぁぁっ、ぁぁぁっ！」
+<name "Viola" "!BA0915">
+"Aah...ahhh...ah...
+ Ah! Aaah! Aahhhh!"
 #
-　大量にくれてやる。
+I would give her all she wanted.
 #
-<name "ヴィオラ" "!BA0916">
-「くぅぁ、あ、ん、く、くる、あ、ぁっ、ひぁ、
-　駄目、駄目ぇ、あ、ひ……ふぁぁぁぁぁぁ」
+<name "Viola" "!BA0916">
+"Aah! Ah! Mm! D-Do it...
+ Ah! Ah! Aaah!
+ No... No...
+ Ah...ah...aaaaaahhhhh!"
 #
-　ヴィオラの膣内を、子宮を俺の精液で溢れさせて
-　やる。
+I flooded her pussy and womb with my semen.
 #
-<name "ヴィオラ" "!BA0917">
-「ぁぅぅ……」
+<name "Viola" "!BA0917">
+"Aahh..."
 #
-　俺はヴィオラの膣内で激しくモノを突き動かし、
-　ヴィオラの絶頂に合わせながら射精を開始した。
+I thrust violently into her and started to come
+at the same time she climaxed.
 #
-<name "ヴィオラ" "!BA0918">
-「あぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁっ！！」
+<name "Viola" "!BA0918">
+"Aaaaaaaahhhhhhh!!!"
 #
-　そして、ヴィオラは余韻に浸りながら俺にキスを
-　してくる。
+And she kissed me while basking in the echoes.
 #
-　律儀な事だ。
+Just like I told her to.
 #
-　俺は夜が来る度にヴィオラの肉体を弄びながら、
-　赴くままに射精を続けた。
+Every night, I indulged myself in her body,
+coming over and over and over again.
 #
-　魔力を与える為に。
+To give her mana.
 #
 <background "ev067a3.iph" 10>
-　そして、その行為の終わりは突然にやってきた。
+And then, it all came to a sudden end.
 #
 <music 32>
 <background "bg020a0.iph" 11>
 <sprite "ta03a15.iph" 4 4 11>
-<name "ヴィオラ" "!BA0919">
-「パズール王国が降伏したわ」
+<name "Viola" "!BA0919">
+"Bazur has surrendered."
 #
-<name "ラズロック">
-「そうか」
+<name "Lazlocke">
+"Oh."
 #
 <removesprite -1 11>
-　パズール王国は、数で勝っているのに戦闘で勝て
-　ずにいた。
+They had superior numbers, but couldn't win in
+battle.
 #
-　理由は、魔法使いの数だ。
+Because of wizards.
 #
-　各部隊に配置された魔法使いの数は、クインズベ
-　ル王国軍が圧倒的に多い。
+Queensbell had an unusually large number of 
+wizards assigned to every unit in its army.
 #
-　そして、質も違う。
+And more skilled ones too.
 #
-　パズール王国は国中の魔法使いを集めたが、どう
-　やっても対抗できないと諦めたらしい。
+Bazur gathered wizards from all over their land
+too, but they were no match.
 #
-　後は、国の仕事だ。
+The rest is up to the governments.
 #
-　協会から派遣された魔法使い達は、撤収を開始す
-　る。
+The wizards sent by the Guild began to withdraw.
 #
-　俺とヴィオラもだ。
+Including Viola and me.
 #
-　そして、それは俺とヴィオラの関係の終わりだっ
-　た。
+And that was to be the end of our relationship.
 #
-　惜しいとは思わなかった。
+I didn't regret it.
 #
-　やっと終ったかとの思いで一杯だった。
+I was full of emotions now that it was finally
+over.
 #
-　ヴィオラはこの戦いの功績で、宮廷魔法使いに任
-　命される。
+She had been named to the royal court in
+recognition of her accomplishments.
 #
-　俺は裏方なので、特に何も無い。
+I got nothing because what I did was all behind
+the scenes.
 #
-　協会内部の一部から、評価されるだけだ。
+Only certain people in the Guild thanked me.
 #
-　ヴィオラを犯しただけで、評価されても困るのだ
-　が……
+I don't know that I wanted to be thanked anyway
+when all I did was fuck her.
 #
 <sprite "ta03a18.iph" 4 4 11>
-<name "ヴィオラ" "!BA0920">
-「帰るわよ」
+<name "Viola" "!BA0920">
+"It's time to go home."
 #
-<name "ラズロック">
-「先に帰ってくれ……俺はもう少し、ここに残る。
-　戦争が終ったからって、魔法使いが全て引き上げ
-　たらどうなるかわからないからな」
+<name "Lazlocke">
+"Go on ahead of me. I'm going to stay here a
+ little longer. Just because the war's over,
+ that doesn't mean every wizard should leave all
+ at once."
 #
 <sprite "ta03a15.iph" 4 4 12>
-<name "ヴィオラ" "!BA0921">
-「……そう。
-　師匠が心配してると思うから、早く帰ってきなさ
-　いよ」
+<name "Viola" "!BA0921">
+"...I see.
+ Our master will be worried about you, so hurry
+ back."
 #
-<name "ラズロック">
-「ああ、そうする」
+<name "Lazlocke">
+"Yeah, I will."
 #
 <removesprite -1 11>
-　俺はそう言って、ヴィオラと別れた。
+After that, she left.
 #
-　ヴィオラの顔を見なくなって、これまでの行為を
-　振り返る。
+I couldn't face her again.
+I kept thinking about everything I did.
 #
-　ほぼ一ヶ月。
+It was nearly a month.
 #
-　俺はヴィオラを犯し続けた。
+I fucked her the whole time.
 #
-　笑いが出てくる。
+It was ridiculous.
 #
-　告白を受け入れてくれてからだったら、幸せな日
-　々だったかもしれない。
+If she had said yes to me, it would have probably
+been a month of bliss.
 #
-　もう少し、優しく出来たかもしれない。
+Maybe I would have been a little gentler.
 #
-　もう、どうでもいいか。
+Maybe it doesn't matter.
 #
-　そして三日後。
+Three days later...
 #
-　敗北に納得できないパズール王国軍の一部が、俺
-　の居る野営地を襲ってきた。
+Part of the Bazur army who refused to accept their
+surrender attacked the encampment I was in.
 #
-　俺はチャンスとばかりに撃退し、そしてそのまま
-　野営地から姿を消した。
+I drove them off, but it also gave me a chance
+to disappear.
 #
 <background "bg012a0.iph" 11>
-　俺が協会に戻ったのは、それから一年と数ヶ月後。
+I wouldn't return to the Guild until well over a
+year later.
 #
-　協会が各地に派遣した俺の捜索隊の一つ、ソシエッ
-　ト率いる戦闘集団にBindされながら。
+The Guild sent search parties all over the land.
+The one that found and captured me was led by
+Soshiette.
 #
 <music 10>
 <background "bg001b0.iph" 11>
 <sprite "ta03a32.iph" 4 4 11>
-<name "ヴィオラ" "!BA0922">
-「懐かしい話ね……」
+<name "Viola" "!BA0922">
+"That was a long time ago..."
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"Yeah..."
 #
 <sprite "ta03a31.iph" 4 4 12>
-<name "ヴィオラ" "!BA0924">
-「ん……」
+<name "Viola" "!BA0924">
+"Mm..."
 #
 <sprite "ta03a35.iph" 4 4 12>
-<name "ヴィオラ" "!BA0925">
-「貴方を探しに、私も駆り出されたのよ」
+<name "Viola" "!BA0925">
+"I was roped in to look for you too."
 #
-<name "ラズロック">
-「宮廷魔法使いの筆頭になるのに忙しかったと聞い
-　たが……」
+<name "Lazlocke">
+"I heard you were busy becoming the head of the
+ court wizards."
 #
 <sprite "ta03a32.iph" 4 4 12>
-<name "ヴィオラ" "!BA0926">
-「ええ……忙しかったわ」
+<name "Viola" "!BA0926">
+"Yes. I was busy."
 #
-<name "ラズロック">
-「悪かったな」
+<name "Lazlocke">
+"Sorry."
 #
 <sprite "ta03a38.iph" 4 4 12>
-<name "ヴィオラ" "!BA0927">
-「本当にね」
+<name "Viola" "!BA0927">
+"I'm sure."
 #
 <removesprite -1 11>
-　協会に戻ってから、俺は協会本部から出てローリ
-　ア郊外の家に引き篭もり、小銭を稼ぎながらの生
-　活を始めた。
+After coming back, I moved out of the Guild
+housing and into a house on the edge of Loria
+where I took small jobs and began a new life.
 #
-　そして四年……
+Four years after that...
 #
-　俺はセリスと出会った。
+I met Celes.
 #
-　……ずいぶんと時間が経ったものだ。
+...It's been a long time.
 #
 \x0A\x04\x01\x87\x84\x01\x78\x78

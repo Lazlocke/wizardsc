@@ -1,18 +1,21 @@
 <music 11>
 <background "ev079a0.iph" 10>
-　マーコルネール＝マーコルネール
+Macornel Makolner.
 #
-　協会員として活動を開始。
+She became a member of the Guild.
 #
-　コツコツと魔法の研究に勤しむ。
+She immersed herself in magical research.
 #
-　その後、二度の大きな協会反乱に巻き込まれるも、
-　協会側の立場を崩さずに反乱者を鎮圧。
+She was technically involved in two different
+insurrections within the Guild, but the
+rebellions were put down and her position wasn't
+threatened.
 #
-　地位を高めながら、協会研究部に大きな功績を残
-　した。
+She continued rising through the ranks, and made
+a name for herself in the Guild research 
+department.
 #
-<name "マーコルネール" "!PB0053">
-「協会に逆らったら、ラズロック様に怒られるから」
+<name "Macornel" "!PB0053">
+"If I go against the Guild, Lazlocke will be mad."
 #
 \x78\x78

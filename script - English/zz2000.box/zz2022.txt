@@ -2,327 +2,327 @@
 <background "bg009a0.iph" 11>
 <background "bg010a0.iph" 11>
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0952">
-「ようこそ、ご主人様。
-　依頼のお引き受け、ありがとうございます」
+<name "Soshiette" "!DA0952">
+"Welcome, Your Grace.
+ Thank you for accepting this request."
 #
 <removesprite -1 11>
-　そう言いながら、ソシエットが深々と頭を下げる。
+She bows deeply.
 #
-　協会に来るのが予定よりも三十分程遅れたが、文
-　句を言ってこない。
+I arrived half an hour late, but she's not
+complaining.
 #
-　俺が来ただけ、マシという事だろうか。
+Probably happy I showed up at all.
 #
-　そうかもしれない。
+Definitely that.
 #
-　これまで、何度か逃げてるしな。
+I've cut out multiple times already.
 #
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0953">
-「さっそくですが……」
+<name "Soshiette" "!DA0953">
+"If we can begin right away..."
 #
-<name "ラズロック">
-「わかっている。
-　相手は？」
-#
-<sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0954">
-「クレリア＝ノルザック。
-　ルーン魔法学園の生徒です」
-#
-<name "ラズロック">
-「聞いた名だな」
-#
-<sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0955">
-「学園代表生徒です」
-#
-<name "ラズロック">
-「ああ、それでか」
+<name "Lazlocke">
+"Fine.
+ Who is it?"
 #
 <sprite "ta04a62.iph" 4 4 12>
-<name "ソシエット" "!DA0956">
-「いつもの場所で、準備を終えております」
+<name "Soshiette" "!DA0954">
+"Cleria Nolzak.
+ A student of Rune Academy."
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"I've heard the name."
 #
 <sprite "ta04a00.iph" 4 4 12>
-<name "ソシエット" "!DA0957">
-「では、よろしくお願いします」
+<name "Soshiette" "!DA0955">
+"She's on the student council."
+#
+<name "Lazlocke">
+"Ah, that's right."
+#
+<sprite "ta04a62.iph" 4 4 12>
+<name "Soshiette" "!DA0956">
+"She's preparing in the usual place."
+#
+<name "Lazlocke">
+"Fine."
+#
+<sprite "ta04a00.iph" 4 4 12>
+<name "Soshiette" "!DA0957">
+"Well then, thank you very much."
 #
 <removesprite -1 11>
-　俺は了解と手を振り、足を進めた。
+I wave in understanding and leave her behind.
 #
-　場所は、協会本部の地下。
+I'm going under the Guild headquarters.
 #
-　人気の少ない場所に隠された扉を三枚くぐり、協
-　会関係者でも数名しかしらない部屋にたどり着く。
+I have to pass through three hidden doors in out
+of the way places to finally reach a room that
+only a select few in the Guild even know about.
 #
-　部屋にはベッドが一つと、それを包み隠すように
-　幾重にも張られたカーテン。
+There's a bed in the room, with a curtain around
+it.
 #
-　扉付近に置かれているテーブルの上の手紙を読み
-　ながら俺は衣服を脱ぎ、全裸になった状態でカー
-　テンを捲っていく。
+I undress while reading the letter left on the
+table by the door, and once I'm naked, I open
+the curtain.
 #
-　すると、誘淫の効果を発揮する香が俺の鼻を擽る。
+The smell of the aphrodisiac incense tickles my
+nose.
 #
-　それは、カーテンを捲るたびに大きくなり、俺の
-　股間のモノを無理矢理に膨張させていく。
+My dick starts to harden knowing what's behind
+the curtain.
 #
-　そして、カーテンの中にあるベッドに辿り着いた。
+And what's in the bed is revealed.
 #
-　そこには、目隠しをされた全裸の女性、クレリア
-　が待っていた。
+A woman is waiting there, blindfolded and
+completely naked.
 #
 <music 35>
 <background "ev077a0.iph" 10>
-<name "クレリア" "!GB0000">
-「ふぅぁぁっ！」
+<name "Cleria" "!GB0000">
+"Aaah!"
 #
-　俺はベッドの上に居たクレリアに襲い掛かるよう
-　に、貪りついた。
+I immediately attack her.
 #
-　放り出されている胸を掴み、首筋を舐め、そして、
-　陰部への強引な挿入。
+I grab her exposed breasts, lick the scruff of
+her neck, and force my dick into her.
 #
-　香が焚かれた部屋に長く居たのだろう、クレリア
-　の陰部は俺のモノを受け入れる態勢が出来ていた。
+She's been in this room with that incense burning
+for a long time, and her pussy is ready for me.
 #
-　これだけの香に晒されながら、自慰に耽っていな
-　かったのを感心するぐらいだ。
+I'm surprised that she didn't masturbate at all
+while being subjected to this.
 #
-　だが、その理由もすぐにわかった。
+But I think I know why.
 #
 <background "ev077a1.iph" 10>
-　処女だ。
+She's a virgin.
 #
-　こういった行為に縁が無かったのだろう。
+It probably didn't even occur to her.
 #
-　行為の甘さを知らねば、誘惑にもならない。
+If you don't know how good it feels, you don't
+feel any temptation to do it.
 #
-<name "クレリア" "!GB0001">
-「ぐぎぎぁ……ぁ……い、痛い……
-　ひっ……く……ぁ……やめ……やめて……」
+<name "Cleria" "!GB0001">
+"Nngh... ah... I-It hurts...
+ Ah...agh...ah...
+ Stop... Stop..."
 #
-　俺はクレリアの声を無視し、己が欲望を消化する
-　為に肉体を求めた。
+I ignore her and use her body to satisfy my own
+desire.
 #
-　クレリアはそれに抵抗するが、逃げ切れない。
+She resists, but she can't get away.
 #
-　目隠しされている上に、腕力は俺の方が強いから
-　だ。
+She's blindfolded, and I'm stronger than her.
 #
-　俺は強引に押し捕まえ、クレリアの陰部に挿入し
-　たモノを喜ばせる為に腰を動かす。
+I forcibly pin her down and push my dick into 
+purely for my own pleasure.
 #
-<name "クレリア" "!GB0002">
-「ひぃぁっ！
-　っ！
-　くぅぁっ！！！」
+<name "Cleria" "!GB0002">
+"Aah! Ngh!
+ Aah!"
 #
-　逃がさない。
+There's no escape for her.
 #
-　初めて男を受け入れた膣内を、俺のモノが強引に
-　動き回る。
+My dick forcefully goes in and out of her virgin
+pussy.
 #
-　相当な苦痛の筈だ。
+It probably hurts quite a bit.
 #
-<name "クレリア" "!GB0003">
-「ひぅぁううっ、うぁ、うあああっ！」
+<name "Cleria" "!GB0003">
+"Aaah! Aah! Ahhh!"
 #
-　だが、俺は彼女を気遣ったりはしない。
+But I'm not thinking of her.
 #
-　自分の快楽の為に根元まで捻じ込み、掻き回す。
+I bury myself in her to the base, twisting and
+stirring inside her for my own pleasure.
 #
-<name "クレリア" "!GB0004">
-「くぅぁ……ぁっ……あっ、ぁぁぁぁぁあっ！
-　ぁぁぁ！
-　ひっ、ひ……くぅぁ……ぁっ！！
-　ううぁぁぁぁっっ！！」
+<name "Cleria" "!GB0004">
+"Ngh...ah...ah...aaaah!
+ Aaah!
+ Ah! Ah! Ah! Ah!
+ Aaaahhhh!!!"
 #
-　クレリア＝ノルザック
+Cleria Nolzak.
 #
-　ルーン魔法学園の学園代表。
+One of the top students of Rune Academy.
 #
-　部屋に入った所で置かれていた手紙には、彼女が
-　なぜ魔力を求めるか書かれていた。
+The letter I read when I entered the room said
+why she wanted mana.
 #
-　曰く、自分の限界を感じた為。
+It's because she believes she's reached her limit.
 #
-　上を目指すには、今の魔力では足りない為。
+She lacks the mana to reach any further.
 #
-　そして、ノルザック家の栄光の為。
+And for the greater glory of the Nolzak family.
 #
-　魔力を欲した。
+She wants mana.
 #
-　その対価は、八万Ｂという大金とその身。
+The price she paid is 80,000Ｂ and her body.
 #
-　俺が遠慮する事は何も無い。
+There's no reason for me to hold back.
 #
-　俺は狭いクレリアの膣内で、モノを喜ばせながら
-　腰を動かし続けた。
+I keep moving my hips, pleasuring my dick inside
+her tight pussy.
 #
-<name "クレリア" "!GB0005">
-「ひっ、ひあっ、ひあうううううっ！」
+<name "Cleria" "!GB0005">
+"Ah! Aah! Aaaahhh!"
 #
-　クレリアは痛みに声を上げながら、俺の行為を受
-　け止める。
+She cries out in pain from what I'm doing to her.
 #
 <background "ev077a2.iph" 10>
-<name "クレリア" "!GB0006">
-「あ、あ、あうう、うぁ、うぁうううう……
-　ふぅぁん、ん、んぁ、んんぬぁぁっ」
+<name "Cleria" "!GB0006">
+"Ah! Ah! Aah! Ahh! Aaaaah...
+ Aaah! Nngh! Aah! Aaah!"
 #
-　そして、クレリアの声に変化が出てきた。
+A change starts to come to her voice.
 #
-　焚かれた香によって、痛みが快楽に変換され始め
-　たのだろう。
+The burning incense is turning her pain to 
+pleasure.
 #
-<name "クレリア" "!GB0007">
-「くぅぁ……ぁっ……あっ、ぁぁぁぁぁあっ！
-　ぁぁぁ！
-　ひっ、ひ……くぅぁ……ぁっ！！
-　ううぁぁぁぁっっ！！」
+<name "Cleria" "!GB0007">
+"Ngh...ah...ah...ahhhhhh!
+ Ah! Aaah...ah...ah!
+ Aaaaaah!"
 #
-　俺の腰の動きに合わせてあげていた悲鳴に、艶が
-　混じり始めた。
+Intoxication starts to mix in with her screams in
+time with my thrusts.
 #
 <background "ev077a3.iph" 10>
-<name "クレリア" "!GB0008">
-「ぁ、ぁっ、ぁぁぁううっ、うぁ、うぁぁぁ……
-　あう、あ、へ、変……あ、何？
-　あぁぁぁぁぁぁぁぁっ！」
+<name "Cleria" "!GB0008">
+"Ah! Ah! Aaah! Aaah! Aaaahh...
+ Aaah...aah... I-It feels... ah... strange...
+ Aaaaaah!"
 #
-<name "クレリア" "!GB0009">
-「あぁあ、ぁ、ひ、ぁ、あ、ぁぁ？
-　うあぁぁぁぁ、ぁっ、ぁぁぁぁ……
-　ひぁ、ひぁう……うあ？
-　なに？　なに？　え、あ……うあ？」
+<name "Cleria" "!GB0009">
+"Aaaah! Ah! Ah! Ah! Ah! Aaah!
+ Aaaaah! Ah! Aaaah...
+ Aah! Aah! Aah!
+ What? What? Huh? Ah...ah..."
 #
-　これまでに経験した事の無い感覚に、クレリアが
-　混乱する。
+She's confused by the sensations she's never felt
+before.
 #
-　目隠しをされた暗闇の中、その恐怖は倍増してい
-　るだろう。
+She must be twice as scared with this happening to
+her in darkness.
 #
-　俺はそれを知りながら、クレリアの膣内に大量の
-　精液を流し込んだ。
+Knowing that, I flood her pussy with semen.
 #
 <background "ev077a4.iph" 10>
-<name "クレリア" "!GB0010">
-「ふぅぁ、あ、あ、え、あ？
-　うぁ……ぁ……あ、あああああああ！」
+<name "Cleria" "!GB0010">
+"Aaah! Ah! Ah! Huh? Ah...
+ Aah...ah...ah! Aaaahhhhh!"
 #
-　ドクンッドクンッとモノを脈打たせながら、クレ
-　リアの膣奥に精液をぶつけるように放つ。
+My dick throbs as my semen pours into her.
 #
 <background "ev077a5.iph" 10>
-<name "クレリア" "!GB0011">
-「ぁ……うぁ……あう……あ、あ、なにぃ、
-　ぁぁ、う、あ、あん♪」
+<name "Cleria" "!GB0011">
+"Ah...aah...ah...ah...ah...
+ What?
+ Aah...ah...ah...ah!♪"
 #
-　自分でも感心するぐらい長い射精だった。
+Even I'm impressed by how long I'm coming.
 #
-　その射精が終ると同時に、俺は腰の動きを再開す
-　る。
+As soon as I finish, I start moving again.
 #
-　先程とは違い、クレリアの膣の出入り口付近で、
-　モノを小刻みに擦り付けるように。
+Not like like time though. 
+Now I'm moving shallowly, rubbing my dick at the
+entrance to her pussy.
 #
-<name "クレリア" "!GB0012">
-「ぁ、ぁ、ぁ、ぁぁぁぁぁぁぁぁぁぁっ！」
+<name "Cleria" "!GB0012">
+"Ah! Ah! Ah! Aaaaaaahhhh!"
 #
-　クレリアを喜ばせる為に、俺はモノを動かした。
+I move my dick for her pleasure.
 #
-　時々、クレリアの胸を揉み、乳首を摘まむ。
+Occasionally, I rub her breasts and pinch her
+nipples.
 #
-　尻や太股を撫でまわし、時には舌を這わせた。
+I also stroke her butt and thighs, and run my
+tongue over her face.
 #
-<name "クレリア" "!GB0013">
-「ふぁ、ふぁぁふぁうううううううっ！」
+<name "Cleria" "!GB0013">
+"Aaah! Aaaaaahhhhhh!!!"
 #
-　そして、俺の二度目の射精と同時に、クレリアは
-　達した。
+As I start to come for the second time, she
+climaxes.
 #
-　全身を痙攣させながら、陰部から大量の潮を吹き
-　散らかした。
+Her whole body shudders and a gush of liquid comes
+out of her.
 #
-　その姿に満足しながら、俺は三度目の射精に向け
-　て腰を動かす。
+I'm satisfied seeing that, and start moving to
+come a third time.
 #
-　そして、三度目の射精は、クレリアの口を開かせ
-　てその中に流し込んだ。
+For the third one, I do it in her mouth.
 #
-<name "クレリア" "!GB0014">
-「げふぉっ、ごほっ、ごほぁ……」
+<name "Cleria" "!GB0014">
+"Agh...
+ *cough* *cough*"
 #
-　殆ど吐き出されたが、気にしない。
+She spits it out, but I don't care.
 #
-　射精を終えると、また膣内にモノを捻じ込み腰を
-　振る。
+After coming, I stick it back in her pussy.
 #
-　そのまま、四度目の射精を膣内で行なった。
+That's where I come for the fourth time.
 #
-<name "クレリア" "!GB0015">
-「うううぁぁぁぁ……」
+<name "Cleria" "!GB0015">
+"Aaahh..."
 #
-　五度目は後ろの穴だと、強引に捻じ込んでやった。
+For the fifth time, I'm going to do it in her ass.
 #
-<name "クレリア" "!GB0016">
-「ひぐぐぐぁぁぁぁ……！」
+<name "Cleria" "!GB0016">
+"Aaaaghhhh!"
 #
-　香の効果か、後ろの穴への挿入は多少狭かったが
-　問題無く挿入できた。
+Maybe it's because of the incense, but even though
+it's a little tight, I can put it in easily.
 #
-　そして、そのままモノを動かして五度目の射精を
-　行なった。
+And start moving to come again.
 #
-<name "クレリア" "!GB0017">
-「ぁ……うぁぅぁぁぁ……」
+<name "Cleria" "!GB0017">
+"Ah...aaah..."
 #
-　初めての男性体験が目隠しをされ、前も後ろも口
-　も汚される。
+Her first time with a man is blindfolded, and he
+violated her front, back, and mouth.
 #
-　その陵辱の中、クレリアは両手が自由な事にも関
-　わらず、目隠しを取ろうとはしなかった。
+But despite being violated so thoroughly, she
+never tries to take off the blindfold.
 #
-　目隠しを取ったら、魔力を与えないとでも言われ
-　たのだろう。
+She's been told that if she did, she wouldn't
+receive any mana.
 #
-　そこまでして魔力が欲しいのだろう。
+That's how badly she wants mana.
 #
-　見た感じ、クレリアの魔力は平均に少しだけ足り
-　ない程度だ。
+I could tell right away that she doesn't have as
+much mana as most wizards.
 #
-　逆を言えば、これぐらいの魔力でも十分に魔法使
-　いになれる。
+On one hand, it's enough to become at least a
+passable wizard.
 #
-　しかし、魔力は多いに越した事は無い。
+But it's not enough mana to be a remarkable one.
 #
-　俺のように多過ぎると問題だが、平均以上の魔力
-　は利益しかない。
+For someone like me, too much mana is a problem,
+but for virtually everybody else, the more mana
+you have, the better.
 #
-　単純に考えても、魔法の実践練習量が大きく変化
-　する。
+Put simply, the more mana you have, the more magic
+you can do, in quantity and quality.
 #
-　だから魔力を求める。
+So she wants mana.
 #
-　どんな事をしても。
+No matter what it costs her.
 #
-　どんな事をされても。
+No matter what happens to her.
 #
-　……魔法使いは、欲深い。
+...Wizards are avaricious.
 #
-　そういう意味では、クレリアは立派な魔法使いだ。
+In that sense, she's an exemplary wizard.
 #
-<name "クレリア" "!GB0018">
-「ふぁ……ぁ……ぁう……ぅぁぁ……」
+<name "Cleria" "!GB0018">
+"Aah...ah...aah...ahhh..."
 #
-　俺はクレリアの肉体を楽しみながら、精液と魔力
-　を流し込み続けた。
+I continue pouring semen and mana into her while
+savoring her body.
 #
 <music 11>
 <background "bg010b0.iph" 11>

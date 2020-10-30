@@ -1,298 +1,313 @@
 <music 37>
 <background "ev073a0.iph" 10>
-　俺はソシエットから誘われ、行為へと発展してい
-　た。
+Soshiette came onto me, and now we're having sex.
 #
-　ソシエットの膣内には、すでに二回分の精液を流
-　し込んでいるが、俺は飽きずにまだ腰を動かして
-　いた。
+I've already come in her twice, but I'm still
+moving my hips, not satisfied yet.
 #
-<name "ソシエット" "!DA0834">
-「あん……んぁ、ん……
-　こうしていると……昔を、思い出します」
+<name "Soshiette" "!DA0834">
+"Ah...ah...mmm...
+ Doing it like this... reminds me of the old
+ days."
 #
-<name "ラズロック">
-「昔？」
+<name "Lazlocke">
+"The old days?"
 #
-<name "ソシエット" "!DA0835">
-「はい、ん……初めて、ご主人様と会った時の事を」
+<name "Soshiette" "!DA0835">
+"Yes. Mm...
+ The first time I met you..."
 #
-<name "ラズロック">
-「お前と初めて会った時か……」
+<name "Lazlocke">
+"The first time, huh?"
 #
 <background "ev090a1.iph" 10>
-　それは、俺が協会から離れて、とある山村に隠れ
-　ていた時だった。
+It was when I had run away from the Guild and was
+in hiding in a mountain village.
 #
-　俺を探す協会の一つの部隊の隊長として、ソシエッ
-　トはいた。
+Soshiette was the commander of a task force sent
+to hunt me down.
 #
-　ソシエットも、ソシエットの部下達もメイド服だっ
-　たので、最初の印象は見たままのメイド。
+Since she and everyone she was with were dressed
+like maids, I thought that's just what they were.
 #
-　なぜメイドが群がっているのか、即座に理解でき
-　なかった。
+Not that I had any idea why there was a bunch of
+maids wandering around.
 #
-　ただ、俺の敵である事はわかった。
+But it was obvious they were my enemy.
 #
 <background "ev090a0.iph" 10>
-　問答無用の雰囲気、いきなり俺の住んでいた小屋
-　を取り囲み、個々に武器を持って突入してきたの
-　だから。
+They didn't give any chance to talk it out.
+All of a sudden, the house I was staying in was
+surrounded, and they rushed in, weapons drawn.
 #
-　だから、俺は容赦無く反撃した。
+So I counterattacked, without mercy.
 #
-　その時居たソシエットの部下は全部で十五人。
+She came with fifteen others.
 #
-　ソシエットを含めて十六人の魔法使いによる襲撃
-　だった。
+So including her, it was an ambush by sixteen
+wizards.
 #
-　これが、ただの戦士であれば、危なかったかもし
-　れない。
+If they just sent regular soldiers, I could've
+been in danger.
 #
-　だが、魔法使いであった為に俺に勝てなかった。
+But because they were wizards, they never stood
+a chance.
 #
-　協会から姿を隠し、ロクに魔力を出していなかっ
-　た俺は魔力の塊のような状態だった。
+I had been hiding from the Guild, and hadn't been
+expelling my mana.
+I was like a powder keg of mana.
 #
-　それは、近付く者から問答無用に魔力を奪い取る
-　状態。
+I barely even needed to try to take away the mana
+from anybody who got close.
 #
-　魔法使いは大量の魔力を所持しており、当然なが
-　ら奪われる量も多い。
+Wizards have a lot of mana, so when I take it from
+them, I take a lot.
 #
-　急速に大量の魔力を奪われた者は昏倒していく。
+Taking mana from someone is like knocking the
+wind out of them.
+Taking a lot all at once is liable to knock most
+people right out.
 #
-　昏倒しない者も、大きく動きを鈍らせた。
+Even the ones who stay conscious are thrown for a
+loop.
 #
-　そこに、大量の魔力を背景にした俺の魔法が炸裂
-　する。
+My magic basically exploded against the mass of
+mana that came rushing at me.
 #
-　これで撃退したと思ったが、ソシエットだけが回
-　避していた。
+I thought that would be enough to repel them, but
+Soshiette avoided it.
 #
-　だが、ソシエットも魔法使い。
+However, she's still a wizard.
 #
-　魔力を奪われて動きを鈍くしている。
+Having her mana taken from her stunned her and
+slowed her down.
 #
-　そこに、再度の攻撃。
+So I attacked again.
 #
-　ソシエットだけを狙った魔法。
+Directed at just her.
 #
-　その魔法は違わずにソシエットに命中したが、ソ
-　シエットは怯まずに持っていた剣で俺に斬りかかっ
-　てきた。
+She fearlessly slashed at me with her knives, but
+my magic hit her dead on.
 #
-　だが、その剣は俺の魔法が命中した時に刃が砕け
-　ていた。
+The impact of the spell shattered her blades.
 #
-　ソシエットに、一瞬の隙ができる。
+It stopped her in her tracks for just a moment.
 #
-　ソシエットが剣を捨て、素手で俺に飛び掛る前に、
-　俺の魔法の詠唱は終っていた。
+She dropped her knives and came at me barehanded,
+but by then, it was too late, and I had finished
+my next spell.
 #
 <background "ev073a0.iph" 10>
-<name "ラズロック">
-「なかなか、勇ましかったな……」
+<name "Lazlocke">
+"You were pretty brave."
 #
-<name "ソシエット" "!DA0836">
-「あむん……ん、んぁ……
-　ご主人様には、あん、ん、んん♪」
+<name "Soshiette" "!DA0836">
+"Aaah...mmm...mmm...
+ Your Grace, you were... 
+ Ah...mm...mmm...♪"
 #
-　その後、俺はソシエットとソシエットの部下が全
-　員女である事に気付いた。
+It wasn't until afterwards that I realized they
+were all women.
 #
-　そして、思い出す。
+And I remembered.
 #
-　魔力を吐き出す為の行為。
+I remembered how I expel mana.
 #
-　俺にそんな気はなかったが、久しぶりの戦闘で血
-　が昇っていたのかもしれない。
+I'm normally not like that, but I think the blood
+might have gone from my head after being the 
+target of an assassination attempt.
 #
-　それとも、俺の生存本能だろうか。
+Or maybe it was my survival instinct.
 #
-　俺は倒れている女達を一人づつ順に犯し、奪った
-　魔力を倍以上にして返していった。
+I raped all of them, one by one, giving back at
+least twice the mana I took from any of them.
 #
 <background "ev073a1.iph" 10>
-<name "ソシエット" "!DA0837">
-「むぁ、ぁ、ぁぬんぁ、くはぁ、あん……」
+<name "Soshiette" "!DA0837">
+"Mm...ah...ah...aah...ah..."
 #
-　十六人の女を相手にしても俺の魔力は尽きず、そ
-　して魔力によって膨れ上がった俺の欲望は絶えな
-　かった。
+Even after going through sixteen women, my mana
+wasn't exhausted, and my lust, inflamed by the
+surplus of mana, wasn't subsiding.
 #
-　そうして俺は女達を相手にしながら、二週間を過
-　ごした。
+I spent two weeks with them.
 #
-　そして、俺は協会に捕えられた。
+And then the Guild captured me.
 #
-　十六人全員がそれなりに美しい娘で、処女であっ
-　た事を確認した時に、その不自然さに気付かなけ
-　ればいけなかった。
+I should've realized that all sixteen of them were
+beatuiful, young women, and virgins at that, but
+I didn't suspect anything.
 #
-　本人達には知らされていなかっただろうが、彼女
-　達は俺を捕える為の生贄だった。
+They may not have even known it themselves that
+they were bait to catch me.
 #
-　俺が女達を相手にしている間に、協会は百人を越
-　える魔法使いを派遣してきた。
+While I was busy with them, the Guild had 
+dispatched over a hundred wizards to bring me in.
 #
-　その先頭には、協会長。
+At the head of it was the leader of the Guild.
 #
-　左右に、俺の妹弟子であるヘンリエッタとキーマ。
+At her sides were my fellow apprentices, Henrietta
+and Keima.
 #
-　ゾッとする布陣だ。
+A terrifying array of magical power.
 #
-<name "ラズロック">
-「ソシエット」
+<name "Lazlocke">
+"Soshiette."
 #
 <background "ev073a2.iph" 10>
-<name "ソシエット" "!DA0838">
-「あん、なんですか？」
+<name "Soshiette" "!DA0838">
+"Aah...
+ Yes?"
 #
-<name "ラズロック">
-「……あの時は、怖い思いをさせたな」
+<name "Lazlocke">
+"...I must have terrified you back then, huh?"
 #
-　俺はソシエットにキスをする。
+I kiss her.
 #
-<name "ソシエット" "!DA0839">
-「ん……」
+<name "Soshiette" "!DA0839">
+"Mm..."
 #
-<name "ラズロック">
-「お前達が来たから、今の俺がある。
-　助かったぞ」
+<name "Lazlocke">
+"I'm who I am now because you came.
+ You saved me."
 #
-<name "ソシエット" "!DA0840">
-「んぁん♪
-　確かに、ふぁ、あの時は、怖かったです」
+<name "Soshiette" "!DA0840">
+"Mmmm!♪
+ That's right... Ahhh...
+  Back then, I was scared."
 #
-　女にしてみれば、力で襲ってくる男は恐怖だろう。
+Any woman would be scared of a man who attacks her
+by force.
 #
-<name "ソシエット" "!DA0841">
-「んぁ、あ、いえ、犯されている時よりも、ふぁん、
-　対峙している時が……」
+<name "Soshiette" "!DA0841">
+"Mm...ah... No, more then when you violated me...
+ Aah...
+ When I faced you..."
 #
-<name "ラズロック">
-「んー……そんなに怖かったか？」
+<name "Lazlocke">
+"Hm? You were that scared then?"
 #
-<name "ソシエット" "!DA0842">
-「はい……んぁん、小屋に突入した時は、失敗した
-　と、思いました」
+<name "Soshiette" "!DA0842">
+"Yes... Mmm...
+ When I entered the hut, I thought I had failed."
 #
-<name "ソシエット" "!DA0843">
-「ふぁん、んぁ……
-　数で押せば、問題無く、ん、捕えられると思った
-　事を、あれほど、後悔した事は、ん、ありません
-　でした」
+<name "Soshiette" "!DA0843">
+"Aah...mmm...
+ We had the numbers, I thought we could... mmm...
+ capture you without a struggle...
+ I've never been... mmm... as wrong as then..."
 #
-<name "ソシエット" "!DA0852">
-「それに、ん、ご主人様を、殺そうだなんて」
+<name "Soshiette" "!DA0852">
+"And... mmm... I was intending to kill you..."
 #
-<name "ラズロック">
-「殺す気だったのか？」
+<name "Lazlocke">
+"You were?"
 #
-<name "ソシエット" "!DA0845">
-「申し訳ありません。
-　ですが、あの時は……」
+<name "Soshiette" "!DA0845">
+"I'm sorry.
+ But at the time..."
 #
-<name "ラズロック">
-「気にするな。
-　今はこんな仲だ」
+<name "Lazlocke">
+"Don't worry about it.
+ This is our relationship now."
 #
-　俺は腰を動かし、ソシエットの膣内を刺激する。
+I move my hips and stimulate her pussy.
 #
-<name "ソシエット" "!DA0853">
-「あうんっ、ん……くぁ……
-　あの時ほど、ふぁ、引き受けた仕事に後悔した事
-　はありません」
+<name "Soshiette" "!DA0853">
+"Aaah...mm...ah...
+ At the time... ah... I had never regretted any
+ job I took."
 #
-　俺は悪かったと、またキスをする。
+I kiss her again in apology.
 #
-<name "ソシエット" "!DA0847">
-「ご主人様……んあ、そ、そろそろ……
-　我慢が……」
+<name "Soshiette" "!DA0847">
+"Your Grace... Mmm... I-I can't... take much
+ more..."
 #
-<name "ラズロック">
-「……昔の事を思い出して、俺は少し凶暴だぞ」
+<name "Lazlocke">
+"...Thinking about the old days is making me feel
+ like kind of a brute."
 #
-<name "ソシエット" "!DA0848">
-「凶暴な方が……ん、素敵です」
+<name "Soshiette" "!DA0848">
+"Being a brute is... mm... wonderful."
 #
-　俺はソシエットの要望に応え、激しく腰を動かし
-　た。
+I pound her intensely like she wants.
 #
-<name "ソシエット" "!DA0849">
-「あっ、あっ、ふぁ、ぁっ、ぁっ、あぁっ、ふぁ、
-　うぁん、ん、んぁ、ぁ、ぁ、ぁっ！」
+<name "Soshiette" "!DA0849">
+"Ah! Ah! Ahh! Ah! Ah! Aah! Ahh!
+ Aahh! Mm! Mm! Ah! Ah! Aah!"
 #
-　凶暴かどうかはわからないが、俺はソシエットの
-　膣内を徹底的に掻き回し、強引に三度目の射精を
-　行なった。
+I don't know how much of a brute I'm being, but I
+intensely stir her pussy and come hard for a third
+time.
 #
-<name "ソシエット" "!DA0850">
-「……んんんんんん♪」
+<name "Soshiette" "!DA0850">
+"Mmmmmmm!♪"
 #
-　ソシエットはその俺の射精を満足そうに受け止め
-　ながら、プルプルと身体を震わせながら達して果
-　てた。
+She shudders and quivers, coming herself, as she
+takes my semen into her.
 #
 <music 10>
 <background "bg002a0.iph" 11>
 <sprite "ta04a00.iph" 4 4 11>
-<name "ソシエット" "!DA0854">
-「ところで、ご主人様」
+<name "Soshiette" "!DA0854">
+"By the way, Your Grace."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0855">
-「保安部から、ご主人様との懇談会が希望されてい
-　ます。
-　日程をご検討ください」
+<name "Soshiette" "!DA0855">
+"The security division is requesting a meeting 
+ with you.
+ Please check your calendar."
 #
-<name "ラズロック">
-「ん……」
+<name "Lazlocke">
+"Hmm..."
 #
 <removesprite -1 11>
-　あの時、俺への生贄になったメイド達は、現在の
-　協会の保安部の中枢を担っている。
+The maids who ended up as bait for me back then
+form the backbone of the Guild's current security
+division.
 #
-　懇談会は単なる名目だろう。
+The meeting is just a pretext.
 #
-<name "ラズロック">
-「……仕方が無い。
-　お前も出るのか？」
+<name "Lazlocke">
+"...Whatever you say.
+ You'll be there too?"
 #
 <sprite "ta04a62.iph" 4 4 11>
-<name "ソシエット" "!DA0856">
-「もちろんです」
+<name "Soshiette" "!DA0856">
+"Of course."
 #
-<name "ラズロック">
-「あの時ほど、体力は無いのだが……」
+<name "Lazlocke">
+"I don't have the endurance I used to, you know."
 #
 <sprite "ta04a10.iph" 4 4 12>
-<name "ソシエット" "!DA0857">
-「スケジュールの調整はお任せください。
-　一日三人で、合計六日間でどうですか？」
+<name "Soshiette" "!DA0857">
+"Please leave the scheduling to me.
+ How does three people a day across six days
+ sound?"
 #
 <removesprite -1 11>
-　一日三人、十五人を五日で対処か……
+Three a day, so fifteen people across five days,
+huh?
 #
-　多分、六日目はソシエットだけなんだろう。
+And then the sixth day is probably just her.
 #
-<name "ラズロック">
-「…………わかった。
-　全部、任せる」
+<name "Lazlocke">
+"...All right.
+ I'll let you take care of everything."
 #
 <sprite "ta04a10.iph" 4 4 11>
-<name "ソシエット" "!DA0859">
-「はい、ご主人様」
+<name "Soshiette" "!DA0859">
+"Yes, Your Grace."
 #
 <removesprite -1 11>
-　ソシエットは満面の笑みで返事した。
+She answers with a smile from ear to ear.
 #
-　あの時、突入して来た時のソシエットが、こんな
-　顔をするとは想像もできなかったな。
+The first time I met her, when she was rushing
+in to kill me, I never imagined seeing her like
+this.
 #
 \x78\x78

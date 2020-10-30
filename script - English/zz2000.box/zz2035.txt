@@ -1,356 +1,365 @@
 <music 10>
 <background "bg024a0.iph" 10>
-　世の中には、男と女が居る。
+In this world, there are men and women.
 #
-　男同士でも、相手が何を考えているかわからない
-　のに、男と女で何を考えているかわかる筈が無い。
+Men often don't understand what other men are
+thinking, but then never understand what women
+are thinking.
 #
 <background "ev106a0.iph" 10>
-<name "クロカ" "!IC0000">
-「えへへ」
+<name "Kuroka" "!IC0000">
+"Heheheh..."
 #
-<name "白石くん" "!TD0000">
-「あはは……」
+<name "Shiroishi" "!TD0000">
+"Hahaha..."
 #
-<name "クロカ" "!IC0001">
-「えへへへへ……」
+<name "Kuroka" "!IC0001">
+"Heheheheheh..."
 #
-<name "白石くん" "!TD0001">
-「あ、あはは……れ、冷静に、何か喋らないか……」
+<name "Shiroishi" "!TD0001">
+"H-Hahaha...
+ C-Can't we talk about this calmly?"
 #
-<name "クロカ" "!IC0002">
-「そうね……
-　微笑みあっているのも好きだけど、白石くんとお
-　話するのはもっと好き」
+<name "Kuroka" "!IC0002">
+"I suppose...
+ I do love smiling, but I love talking with you
+ too."
 #
-<name "白石くん" "!TD0002">
-「こ、光栄だよ……あははは……
-　じゃあ、その、あの、カッターナイフ……
-　おろさない？」
+<name "Shiroishi" "!TD0002">
+"T-Thank you... Hahaha...
+ So, um, well, the box cutter...
+ Could you put it down?"
 #
-<name "クロカ" "!IC0006">
-「なぜ？」
+<name "Kuroka" "!IC0006">
+"Why?"
 #
-<name "白石くん" "!TD0003">
-「こ、怖いから」
+<name "Shiroishi" "!TD0003">
+"I-I'm scared."
 #
-<name "クロカ" "!IC0007">
-「怖い？
-　この私が怖い？
-　本当に本当に本当にそんな事を考えているの？」
+<name "Kuroka" "!IC0007">
+"Scared? Of me?
+ Are you really, really, really thinking about
+ that?"
 #
-<name "白石くん" "!TD0004">
-「違う！
-　違う違う違う！
-　君じゃない！
-　君の持ってるカッターナイフが怖いんだ！」
+<name "Shiroishi" "!TD0004">
+"No!
+ No! No! No!
+ Not you!
+ I'm scared of the box cutter!"
 #
-<name "クロカ" "!IC0008">
-「そうなの？」
+<name "Kuroka" "!IC0008">
+"Really?"
 #
-<name "白石くん" "!TD0005">
-「うん、うんうんうんうんうんうん！」
+<name "Shiroishi" "!TD0005">
+"Yeah!
+ Yeah! Yeah yeah yeah yeah yeah!"
 #
-<name "クロカ" "!IC0009">
-「このナイフをおろせば、白石くんは安心するのね」
+<name "Kuroka" "!IC0009">
+"If I put this box cutter away, you'll feel
+ safe?"
 #
-<name "白石くん" "!TD0006">
-「あ、ああ……」
+<name "Shiroishi" "!TD0006">
+"Y-Yeah..."
 #
-<name "クロカ" "!IC0010">
-「でも、これはおろせないの」
+<name "Kuroka" "!IC0010">
+"But I can't put it away."
 #
-<name "白石くん" "!TD0007">
-「なぜ？」
+<name "Shiroishi" "!TD0007">
+"Why not?"
 #
-<name "クロカ" "!IC0011">
-「こういうキャラだから」
+<name "Kuroka" "!IC0011">
+"It would be out of character."
 #
-<name "白石くん" "!TD0008">
-「……コ、コスプレにハマるのは悪くないけど、そ
-　の、あの……」
+<name "Shiroishi" "!TD0008">
+"I-I'm not saying it's a bad thing to be into
+ cosplay, it's just, um..."
 #
-<name "クロカ" "!IC0012">
-「私のコスプレ、苦手？」
+<name "Kuroka" "!IC0012">
+"You don't like my costume?"
 #
-<name "白石くん" "!TD0009">
-「そ、そんな事ないよ。
-　結構、可愛いと思うし……」
+<name "Shiroishi" "!TD0009">
+"T-That's not it.
+ It's pretty cute..."
 #
-<name "クロカ" "!IC0013">
-「そう？」
+<name "Kuroka" "!IC0013">
+"Isn't it?"
 #
-<name "白石くん" "!TD0010">
-「でも、コスプレをしてない方が可愛いと思うよ」
+<name "Shiroishi" "!TD0010">
+"But you'd be even cuter without the cosplay."
 #
-<name "クロカ" "!IC0014">
-「……………………本当？」
+<name "Kuroka" "!IC0014">
+".........Really?"
 #
-<name "白石くん" "!TD0011">
-「ああ。
-　だから、そのナイフをおろして」
+<name "Shiroishi" "!TD0011">
+"Yeah, so put away the box cutter."
 #
-<name "クロカ" "!IC0015">
-「ダメ」
+<name "Kuroka" "!IC0015">
+"Nope."
 #
-<name "白石くん" "!TD0012">
-「むうううう……
-　あ、そうだ！
-　コスプレ会場でも危険物を持つのはダメだろ？
-　マナー違反だよ」
+<name "Shiroishi" "!TD0012">
+"Ummmmm...
+ Oh, I know!
+ You're not allowed to have anything dangerous
+ in the cosplay hall, right?
+ It's against the rules."
 #
-<name "クロカ" "!IC0016">
-「……確かにそうね」
+<name "Kuroka" "!IC0016">
+"...You have a point there."
 #
-<name "白石くん" "!TD0013">
-「よし！」
+<name "Shiroishi" "!TD0013">
+"All right!"
 #
-<name "クロカ" "!IC0017">
-「そのガッツポーズ、ムカツク」
+<name "Kuroka" "!IC0017">
+"That celebration is pissing me off."
 #
-<name "白石くん" "!TD0014">
-「あ、あははははははは……
-　ナイフが近い近い近い」
+<name "Shiroishi" "!TD0014">
+"H-Hahahaha...
+ Knife's getting close... close... close!"
 #
-<name "クロカ" "!IC0018">
-「私の事、好き？」
+<name "Kuroka" "!IC0018">
+"Do you love me?"
 #
-<name "白石くん" "!TD0015">
-「あ、ああ……」
+<name "Shiroishi" "!TD0015">
+"Y-Yeah..."
 #
-<name "クロカ" "!IC0019">
-「私の事、本当に好き？」
+<name "Kuroka" "!IC0019">
+"Do you really love me?"
 #
-<name "白石くん" "!TD0016">
-「好きだ！
-　愛してる！
-　アイラブユー！」
+<name "Shiroishi" "!TD0016">
+"I do!
+ I love you!
+ I really love you!"
 #
-<name "クロカ" "!IC0020">
-「……本当？」
+<name "Kuroka" "!IC0020">
+"...Really?"
 #
-<name "白石くん" "!TD0021">
-「本当！　マジ！
-　大好きだ！
-　コスプレしているクロカは美人だ。
-　少し、入れ込み過ぎるけど」
+<name "Shiroishi" "!TD0021">
+"Really! Truly!
+ I love you!
+ You're a beautiful cosplaying woman!
+ Maybe a little too into it though."
 #
-<name "クロカ" "!IC0021">
-「…………証拠、見せて貰えるかな？」
+<name "Kuroka" "!IC0021">
+"...Could you prove it, I wonder?"
 #
-<name "白石くん" "!TD0018">
-「え？」
+<name "Shiroishi" "!TD0018">
+"Huh?"
 #
 <music 37>
 <background "ev107a0.iph" 10>
-<name "クロカ" "!IC0022">
-「あ、あん、もっと深く……そう、あう」
+<name "Kuroka" "!IC0022">
+"Ah...ah... 
+ Deeper...
+ Yeah...
+ Aah..."
 #
-　横になった俺の上にクロカが乗り、手で俺のモノ
-　を大きくした後、自分で挿入した。
+She forced me down, and after getting me hard
+with her hand, put it in all on her own.
 #
-　愛撫も無しでは痛いんじゃないかと思ったが、ク
-　ロカはその苦痛を喜びながら俺のモノを根元まで
-　咥え込んだ。
+I thought it'd hurt without any foreplay, but she
+buries me in her to the base, savoring the pain.
 #
-<name "クロカ" "!IC0023">
-「ふふ……あ、んん……じゃあ、動いて……」
+<name "Kuroka" "!IC0023">
+"Heheh...
+ Ahhh...mmm...
+ So... move..."
 #
-　俺はクロカの指示通りに腰を跳ね上げるように動
-　かす。
+I push my hips up like she ordered.
 #
-<name "クロカ" "!IC0024">
-「ぁ、ん、ん……んぁ……良いわよ。
-　ぁぁ……ふぁん……あん、あん、ああん」
+<name "Kuroka" "!IC0024">
+"Ah...mmm...mmm... That's good.
+ Ahhh...aah...ah...ahhh...aaah..."
 #
-　俺が腰を跳ね上げる度に、クロカの身体が宙に浮
-　き、そして落下してくる。
+Every time I move up, her body hangs in the air
+for a moment before falling back down.
 #
-　気持ちは良いが、なかなか体力がいる。
+It feels good, but it takes a lot of effort.
 #
-<name "クロカ" "!IC0025">
-「も、もっと、あん、は、速く……」
+<name "Kuroka" "!IC0025">
+"M-More...
+ Ahhh...ahhh...
+ Faster..."
 #
-　そう言われても、難しい。
+Easier said than done.
 #
-<name "クロカ" "!IC0026">
-「ふぁ、あん、ん、んぁ……」
+<name "Kuroka" "!IC0026">
+"Aah...ahhh...mmm...mmm..."
 #
-　クロカがナイフをどこに置いたかなぁと探し始め
-　た。
+I start looked for where she put the box cutter.
 #
-　ヤバイ。
+I'm still in danger.
 #
-　俺はクロカの両足を持ち、少し浮かした状態に固
-　定して腰を跳ね上げた。
+I hold her legs so she stays up and thrust up
+into her.
 #
-<name "クロカ" "!IC0027">
-「あっ、あっ、あっ！」
+<name "Kuroka" "!IC0027">
+"Ah! Ah! Ah!"
 #
-　宙に固定されたクロカに俺が腰を浮かして突き入
-　れるような形だ。
+This way, I can keep her in place above me as I
+thrust.
 #
-<name "クロカ" "!IC0028">
-「ふぁっ、ふぁっ、あっ、ぁっ、ぁぁぁぁっ！」
+<name "Kuroka" "!IC0028">
+"Aaah! Ahhh! Aaah! Ah! Aaaaah!"
 #
-　かなり疲れるが、行為に集中させないとクロカの
-　意識が変な方向に行ってしまう。
+It's pretty exhausting for me, but if I let her
+think about anything but sex right now, I have
+the feeling things will go very badly.
 #
-　それを阻止しようと、俺は頑張った。
+So I do my best to keep her focused.
 #
-<name "クロカ" "!IC0029">
-「ぁっ、うぁ、あ、ふぁ、ふぁん、ん、んぁ、ぁ、
-　ぁ、ぁ、ぁ、ぁぁぁん、んぁ、んぁ、んぁ……」
+<name "Kuroka" "!IC0029">
+"Ah! Aahhh! Aah! Ahhh! Mm! Mmmm...
+ Ah! Ah! Ah! Aaaah! Ahhh! Aaaahhh..."
 #
-　そうしてクロカを喜ばせていると、俺の欲求が少
-　しづつ大きくなっていく。
+As her pleasure grows, my own desire swells.
 #
-　もっと深く挿入したい。
+I want to be deeper inside her.
 #
-　今の行為では、モノが半分ぐらいまでしか挿入で
-　きていない。
+But in this position, I can only get halfway in.
 #
-　焦れる。
+It's unsatisfying.
 #
-<name "クロカ" "!IC0030">
-「あ、ん、んぁ、んぁ、ふぁ、あん、あん、ぁっ、
-　ぁっ、ぁぅっ、ふぁ……」
+<name "Kuroka" "!IC0030">
+"Ah...mmm...mmm...aaah...mm...ahh...ahh...
+ Ah...ah...aah...ahhh..."
 #
-　クロカの控えめな胸が、俺の目を喜ばせる。
+Her small breasts delight my eyes.
 #
-　グッと俺のモノが大きくなった気がした。
+I feel my dick get bigger.
 #
-　……
+...
 #
-　俺は自然とクロカを上下に動かしていた。
+I bounce her up and down on top of me.
 #
-<name "クロカ" "!IC0031">
-「ふぁっ、な、なに……あっ、あっ、ひぁっ、うっ、
-　くぁ、くぅぁぁん……」
+<name "Kuroka" "!IC0031">
+"Aaah... W-What are... Ah! Aah! Ah!
+ Ngh! Ah! Aaaah..."
 #
-　自分の腰の跳ね上げと、クロカの身体を上下にす
-　る事でさらに激しい心地良さを得る為に。
+I thrust up in time with her movements to find
+even more pleasure deeper inside her.
 #
-<name "クロカ" "!IC0032">
-「あん、い、良い、ふぁ、あっ、あ、っ、ふぁ、っ、
-　うぁ、ぁっ、ぁ……ふぁん、良い、良い……
-　あ、ぁ、ふぁぁぁっ！」
+<name "Kuroka" "!IC0032">
+"Aah! Y-Yes! Ahh! Ah! Ah! Ahhh!
+ Ahh! Ah! Aaah... Aaah!
+ Yes! Yes!
+ Aaaah! Ah! Aaaaahhh!"
 #
-　そして、クロカの下半身を抱き締めながら深くモ
-　ノを捻り込み、腰を小刻みに動かし続けた。
+I hold her by the hips tight and keep pounding
+her.
 #
-　そして、一気に射精を行なう。
+And all of a sudden come.
 #
-<name "クロカ" "!IC0033">
-「ふぁっ、あっ……あっ……あああっ！」
+<name "Kuroka" "!IC0033">
+"Aaah...ah...ah...ahhhh!"
 #
-　ドクンドクンとモノを震わせ、クロカの膣内に精
-　液を吐き出し、子宮に押し込んだ。
+My dick trembles as it spurts semen into her womb.
 #
-<name "クロカ" "!IC0034">
-「ぁ……ぁ……ぁ……な、中に……ふぁ……
-　ぁう……ぅぁ」
+<name "Kuroka" "!IC0034">
+"Ah...ah...ah... Y-You came inside...
+ Ahhh...ahhh...ahh..."
 #
-　俺の射精を受けながら、クロカは少し切なそうな
-　顔をしていた。
+She looks a little sad as she feels it flow into
+her.
 #
-　わかっている。
+I know why.
 #
-　俺は先に出して悪かったと、射精が終ると同時に
-　腰を動かした。
+Instead of apologizing for coming before her and
+it being over, I push up again.
 #
-<name "クロカ" "!IC0035">
-「ぁ、ぁ、ぁっ、ふぁっ、ふぁあっ！」
+<name "Kuroka" "!IC0035">
+"Ah! Ah! Ah! Ahhh! Aaahhhh!"
 #
-　俺の動きの再開に、クロカが嬉しそうに微笑む。
+She smiles happily when I start moving again.
 #
-<name "クロカ" "!IC0036">
-「ふぁん、ぁ、ぁん、んぁ、んぁ、んぁぁぁ……」
+<name "Kuroka" "!IC0036">
+"Aaah! Ah! Mmm! Aaah! Mmmmm..."
 #
-　射精したばかりの精液をクロカの膣内で掻き混ぜ
-　るように、腰を動かし続けた。
+I continue moving my hips, stirring up the semen
+inside her.
 #
-<name "クロカ" "!IC0037">
-「あっ、ぁっ、ぁぁ……ふぁぁぁぁぁぁぁんっ！」
+<name "Kuroka" "!IC0037">
+"Ah! Ah! Ahh...
+ Aaaaahhhhh!!!"
 #
-　クロカは全身を震わせ、潮を吹きながら俺の腹の
-　上で達した。
+Her whole body trembles as she climaxes.
 #
-<name "クロカ" "!IC0039">
-「ぁっ、ぁっ、ぁぁぁぁ……ふぁ…………
-　え？
-　あっ、だ、だめ……あ、あん、んぁぁぁ」
+<name "Kuroka" "!IC0039">
+"Ah...ahh...ahhh....ahhhhh...
+ Huh?
+ Ah! D-Don't...
+ Ah! Aah! Ahhhh!"
 #
-　だが、クロカが余韻に浸る間も与えず、俺は腰を
-　動かし続けた。
+I don't give her a second to recover and keep
+moving.
 #
-　そして、俺は二回目の射精を行なう。
+Then I come a second time.
 #
-<name "クロカ" "!IC0040">
-「ぁぁぁんんん」
+<name "Kuroka" "!IC0040">
+"Aahhhhhh!!!"
 #
 <background "bg024a0.iph" 10>
-<name "クロカ" "!IC0041">
-「あっ、も、もっと……」
+<name "Kuroka" "!IC0041">
+"Ah... M-More..."
 #
-<name "白石くん" "!TD0019">
-「もう動けないだろ？」
+<name "Shiroishi" "!TD0019">
+"You know I can't move anymore, right?"
 #
-<name "クロカ" "!IC0042">
-「でも……」
+<name "Kuroka" "!IC0042">
+"But..."
 #
-<name "白石くん" "!TD0020">
-「ナイフを探さない。
-　今の格好はただの淫乱な女の子」
+<name "Shiroishi" "!TD0020">
+"Don't look for the box cutter.
+ Just be a regular sex crazed girl."
 #
-<name "クロカ" "!IC0043">
-「じゃあ、もう一回。
-　淫乱なんだもん」
+<name "Kuroka" "!IC0043">
+"Then one more time.
+ Cause I'm a sex crazed girl."
 #
 <music 31>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「コスチュームか……
-　確かに大事だな」
+<name "Lazlocke">
+"Cosplay, huh?
+ It's certainly important."
 #
 <sprite "ta01a21.iph" 4 4 11>
-<name "セリス" "!AA5736">
-「師匠！
-　掃除をサボっちゃ駄目ですよ」
+<name "Celes" "!AA5736">
+"Master!
+ No slacking off on cleaning!"
 #
-<name "ラズロック">
-「そう言うな……」
+<name "Lazlocke">
+"Don't be like that..."
 #
 <removesprite -1 11>
-　俺は本を置いた時、ある物が目に入った。
+As I put the book down, something else catches my
+eye.
 #
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01a08.iph" 4 4 11>
-<name "セリス" "!AA5737">
-「なんですか？」
+<name "Celes" "!AA5737">
+"Yes?"
 #
-<name "ラズロック">
-「あの服、着てみるか？」
+<name "Lazlocke">
+"Want to put this on?"
 #
 <sprite "ta01a77.iph" 4 4 12>
-<name "セリス" "!AA5738">
-「えっと……なんですか？
-　この穴の開いた服は？
-　大事な部分を隠してないんですが……」
+<name "Celes" "!AA5738">
+"Um... What is it?
+ Clothes with holes in them?
+ The most important parts are wide open..."
 #
-<name "ラズロック">
-「エロい服」
+<name "Lazlocke">
+"They're sexy clothes."
 #
 <sprite "ta01a70.iph" 4 4 12>
-<name "セリス" "!AA5739">
-「…………師匠がどうしてもと言うなら着ます」
+<name "Celes" "!AA5739">
+"...If it's an order, I'll wear it."
 #
-<name "ラズロック">
-「どうしても」
+<name "Lazlocke">
+"Please."
 #
 <removesprite -1 11>
-　掃除は全然、進まなかった。
+No more cleaning got done that day.
 #
 \x78\x78

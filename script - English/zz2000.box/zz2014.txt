@@ -1,294 +1,297 @@
 <music 6>
 <background "bg006a0.iph" 11>
-　俺はイエルに魔力を与える為に、ヴィオラの家を
-　訪れた。
+I'm at Viola's manor to give Elle mana.
 #
-　そして、イエルの部屋でイチャつこうとするのだ
-　が……
+I'm trying to have sex in Elle's room, but...
 #
 <sprite "ta02a67.iph" 4 4 11>
-<name "イエル" "!CA0828">
-「えっと……その、師匠」
+<name "Elle" "!CA0828">
+"Uh...
+ Um, Master..."
 #
 <removesprite -1 11>
 <sprite "ta03a00.iph" 2 4 11>
 <sprite "ta02a67.iph" 6 5 11>
-<name "ヴィオラ" "!BA0753">
-「気にしないで」
+<name "Viola" "!BA0753">
+"Do pay me any mind."
 #
 <sprite "ta02a69.iph" 6 5 12>
-<name "イエル" "!CA0829">
-「そう言われても……」
+<name "Elle" "!CA0829">
+"You say that, but..."
 #
 <removesprite -1 11>
-　ヴィオラは、イエルの部屋から出ていこうとしな
-　い。
+She's not leaving the room.
 #
-　俺はヴィオラに近付き、小声で抗議する。
+I go to Viola and whisper to her.
 #
-<name "ラズロック">
-「邪魔するのか？」
+<name "Lazlocke">
+"You're going to get in the way?"
 #
 <sprite "ta03a02.iph" 4 4 11>
-<name "ヴィオラ" "!BA0755">
-「別に、そう言うワケじゃないわよ」
+<name "Viola" "!BA0755">
+"That's not my intention."
 #
-<name "ラズロック">
-「じゃあ、気を利かせろ。
-　イエルがお前相手に強く言えるわけないだろ」
+<name "Lazlocke">
+"Then a little tact?
+ Elle can't exactly tell you to leave."
 #
 <sprite "ta03a00.iph" 4 4 12>
-<name "ヴィオラ" "!BA0756">
-「……」
+<name "Viola" "!BA0756">
+"..."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"What?"
 #
 <sprite "ta03a51.iph" 4 4 12>
-<name "ヴィオラ" "!BA0757">
-「ど、どうせ、イエルの後は私でしょ。
-　なら……」
+<name "Viola" "!BA0757">
+"I-In any case, after Elle is me, right?
+ So..."
 #
 <removesprite -1 11>
-　俺はヴィオラの提案に、驚いた。
+I'm surprised at what she's suggesting.
 #
 <music 36>
 <background "ev070a0.iph" 10>
-<name "イエル" "!CA0830">
-「ぁ、し、師匠に、ぁ、ぁうぁ、ぁっ、ぁぁぁん」
+<name "Elle" "!CA0830">
+"Ah... M-Master, you're...
+ Ah...aah...ah...aahhhh..."
 #
-<name "ヴィオラ" "!BA0758">
-「ん、んぁ……む、ん……」
+<name "Viola" "!BA0758">
+"Mm...mmm...mmm...mmmm..."
 #
-　全裸になった二人をベッドの上で抱き合わせ、お
-　互いを愛撫させる。
+The two of them are completely naked, caressing
+each other.
 #
-　俺は二人の足を曲げさせ、俺に突き出させた陰部
-　を同時に愛撫していく。
+I lift their legs to let me touch both their 
+pussies at the same time.
 #
-　イエルはそれなりにヴィオラの胸などを愛撫して
-　いるが、ヴィオラはあまり乗っていないようだ。
+Elle's caressing Viola's breasts, but Viola 
+doesn't seem very turned on.
 #
-　まあ、恥ずかしがっているのだろう。
+Well, she's probably shy.
 #
-　俺はヴィオラを焦らすように、イエルの膣内にモ
-　ノを突き入れた。
+I push my dick into Elle's pussy to tease Viola.
 #
-<name "イエル" "!CA0831">
-「ぁっ！
-　ぁぁぁうぁっ」
+<name "Elle" "!CA0831">
+"Ah!
+ Aaaah!"
 #
-　ヴィオラは露骨に不満顔を見せたが、魔力を渡す
-　目的もあるのでこれは仕方が無い。
+Viola is openly disappointed by that, but this is
+to give Elle mana in the first place.
 #
-<name "イエル" "!CA0832">
-「ぁぁっ、ぁっ、うぁっ、ひ、ひぐぁっ、ぁっ」
+<name "Elle" "!CA0832">
+"Aaah! Ah! Ahh! Ah! Aah!"
 #
-　イエルの膣内を掻き回しながら、俺は指でヴィオ
-　ラの陰部を弄る。
+As I thrust into Elle, I play with Viola's pussy
+with my fingers.
 #
-　二人とも、なかなか締め付ける。
+They're both pretty tight.
 #
-<name "イエル" "!CA0833">
-「うぁ、ぁっ、ぁうう」
+<name "Elle" "!CA0833">
+"Aah! Ah! Aahh!"
 #
-<name "ヴィオラ" "!BA0759">
-「む……ん、んぁん」
+<name "Viola" "!BA0759">
+"Mm...mm...mmmm..."
 #
-　そして、イエルからモノを抜き、ヴィオラの膣内
-　へと潜り込ませた。
+I pull out from Elle and slide it into Viola.
 #
-<name "イエル" "!CA0834">
-「ぁっ」
+<name "Elle" "!CA0834">
+"Ah..."
 #
 <background "ev070a1.iph" 10>
-<name "ヴィオラ" "!BA0760">
-「ふぁぁっ！」
+<name "Viola" "!BA0760">
+"Aaah!"
 #
-　ヴィオラの膣内は、すでに愛液に溢れている。
+Her pussy's already overflowing with her love
+juices.
 #
-　イエルの愛液に塗れた俺のモノはスムーズに前後
-　する。
+My dick's already slick from Elle's liquids and
+smoothly slides back and forth.
 #
-<name "ヴィオラ" "!BA0761">
-「ぁっ、ぁっ、ん、んぁ、あはっ、ぁぁ」
+<name "Viola" "!BA0761">
+"Ah! Ah! Mm! Mmm!
+ Aah! Ahhhh!"
 #
-<name "イエル" "!CA0835">
-「し、師匠に」
+<name "Elle" "!CA0835">
+"M-Me too..."
 #
-<name "ヴィオラ" "!BA0762">
-「ぁうっ、うは、うはぁ、ぁ、ん、んんん……」
+<name "Viola" "!BA0762">
+"Aaah...ahhh...aaah...ah...
+ Mm...mmmmmm..."
 #
-　ヴィオラの締め付けがいつもと違う。
+She's squeezing differently than usual.
 #
-　いつもより、厳しい。
+Much tighter.
 #
-　まるで、俺のモノを離したがらないようだ。
+Like she doesn't want to let me go.
 #
-　しかし、そこを俺のモノが力尽くで激しく動き続
-　ける。
+But my dick keeps moving in and out of her, 
+roughly and intensely.
 #
-<name "ヴィオラ" "!BA0763">
-「ぁっ、ぁは、うぁ、ぁ……、ぁっ、ぁぁっ」
+<name "Viola" "!BA0763">
+"Ah...ahh...aah...ah...
+ Ah...aaah..."
 #
-　そうしてヴィオラの膣内を掻き回した後、また抜
-　いて今度はイエルの膣内に潜り込む。
+After stirring up her pussy, I pull out of her
+and push it back into Elle's.
 #
-<name "イエル" "!CA0836">
-「ふぁっ！」
+<name "Elle" "!CA0836">
+"Ahhh!"
 #
-<name "ヴィオラ" "!BA0764">
-「ぁっ……」
+<name "Viola" "!BA0764">
+"Ah..."
 #
-　ヴィオラの露骨な不満顔。
+Viola is unhappy again.
 #
-　俺はわかったわかったと、二人の陰部がくっつく
-　まで身体を密着させ、双方の膣内を行き来する。
+I know that, and move them closer together so I
+can keep going back and forth between their 
+pussies.
 #
 <background "ev070a2.iph" 10>
-<name "イエル" "!CA0837">
-「ぁっ、ぁっ、ぁぁっ♪」
+<name "Elle" "!CA0837">
+"Ah! Ah! Aaah!♪"
 #
-<name "ヴィオラ" "!BA0765">
-「ふぁっ、ぁっ、んぁ……ぁぁん♪」
+<name "Viola" "!BA0765">
+"Ahhh...ah...mmm...
+ Aaah!♪"
 #
-　そうしながら俺は興奮を高め続けた。
+As I do that, my own desire builds.
 #
-　そして射精が近付くと、俺はヴィオラの膣内で激
-　しくモノを動かし始める。
+And as I feel my orgasm coming, I pound my dick
+intensely inside of Viola.
 #
-<name "ヴィオラ" "!BA0766">
-「ぁっ、ぁっ、ふぁ、っ、ぁっ、ああああっ！」
+<name "Viola" "!BA0766">
+"Ah! Aah! Ahh! Ah! Aaaaahhh!"
 #
-　そして、出す瞬間にヴィオラの膣内から抜き、イ
-　エルの膣内へ突き入れる。
+And right before I come, I pull out of her and
+thrust into Elle.
 #
-<name "イエル" "!CA0839">
-「ああっ！」
+<name "Elle" "!CA0839">
+"Aaah!"
 #
-　そして、射精。
+And come.
 #
 <background "ev070a3.iph" 10>
-　ドクンッドクンッとイエルの膣奥に大量の精液を
-　放つ。
+A flood of semen shoots deep into Elle's pussy.
 #
-<name "イエル" "!CA0840">
-「ぁ……ぁっ、ぁぁっ……」
+<name "Elle" "!CA0840">
+"Ah...ah...aaahh..."
 #
-<name "ヴィオラ" "!BA0767">
-「うぁ、ぁ、私の……を……あんっ！」
+<name "Viola" "!BA0767">
+"Aaah...ah... In me...
+ Aah!"
 #
-　最後の最後で抜かれ、寂しそうに閉じていくヴィ
-　オラの膣口に、指を突き入れてやる。
+Viola plaintively complains as I pull out just
+before the end, so I thrust my fingers into her.
 #
-<name "ヴィオラ" "!BA0768">
-「ぁ、ぁぁぁっ……」
+<name "Viola" "!BA0768">
+"Ah...aahhh..."
 #
-　その指を膣内で曲げて膣壁を刺激しつつ、俺は射
-　精を終らせた。
+I bend my fingers up and rub the insides of her
+walls as I finish coming.
 #
-　そして、次の射精に向けて、またヴィオラの膣内
-　でモノを動かす。
+After that, I stick my dick inside her again and
+start building up to come again.
 #
-<name "ヴィオラ" "!BA0769">
-「ぁあ、あ、あ、ああっ」
+<name "Viola" "!BA0769">
+"Aah! Ah! Ah! Aaah!"
 #
-　ヴィオラは、また俺のモノを抜かれないように先
-　程よりもさらにキツく俺のモノを締め付ける。
+She squeezes even tighter than before to try to
+keep me from pulling out.
 #
-　それが俺をさらに喜ばせる。
+That feels even better.
 #
-<name "ヴィオラ" "!BA0770">
-「ふぁ、ぁっ、ぁぁっ、ぁぁ」
+<name "Viola" "!BA0770">
+"Aah! Ah! Aaah! Ahhh!"
 #
-　だが、射精はイエルの膣内で行なう。
+But I come in Elle again.
 #
-<name "イエル" "!CA0841">
-「ぁ、ぁぁ……うぁぁ……」
+<name "Elle" "!CA0841">
+"Ah...aaah...aahhhh..."
 #
-<name "ヴィオラ" "!BA0771">
-「うぁ……」
+<name "Viola" "!BA0771">
+"Aahh..."
 #
-　そしてまたヴィオラの膣内でモノを扱く。
+And then I stick it back in Viola again.
 #
-<name "ヴィオラ" "!BA0772">
-「ぁ、ぁっ、ぁぁ……ふぃぁ、ぁ、ぁ、んぁ」
+<name "Viola" "!BA0772">
+"Ah...ah...aah...
+ Aaaahhh...ah...ah...ah..."
 #
-　三度目の射精はヴィオラの膣内にしてやる。
+The third time, I come in Viola.
 #
 <background "ev070a4.iph" 10>
-<name "ヴィオラ" "!BA0773">
-「ぁぁ……ぁ、ぁぁうぁ……」
+<name "Viola" "!BA0773">
+"Aaah...ah...aaahh..."
 #
-　ヴィオラは膣内でモノをさらに締め付け、喜びを
-　表現してくる。
+She squeezes as tight as she can and moans in
+bliss.
 #
-<name "ヴィオラ" "!BA0774">
-「ぁ……うぁ……」
+<name "Viola" "!BA0774">
+"Ah...ahhh..."
 #
-　なかなか気持ち良い。
+That felt really good.
 #
 <background "ev070a5.iph" 10>
-　俺は二人の膣内を交互に突き入れながら射精を繰
-　り返し、夜を過ごした。
+I go back and forth between them the whole night.
 #
 <music 6>
 <background "bg008b0.iph" 11>
 <sprite "ta02a74.iph" 4 4 11>
-<name "イエル" "!CA0842">
-「ぁ……」
+<name "Elle" "!CA0842">
+"Ah..."
 #
 <removesprite -1 11>
 <sprite "ta03a03.iph" 2 4 11>
 <sprite "ta02a74.iph" 6 5 11>
-<name "ヴィオラ" "!BA0776">
-「……どうしたの」
+<name "Viola" "!BA0776">
+"...Is something the matter?"
 #
 <sprite "ta02a71.iph" 6 5 12>
-<name "イエル" "!CA0843">
-「い、いえ……」
+<name "Elle" "!CA0843">
+"N-No..."
 #
 <removesprite -1 11>
-　イエルはヴィオラの前で真っ赤になり、足早に部
-　屋に戻った。
+Elle blushes bright red and scampers off to her
+room.
 #
-　恥ずかしかったのだろう。
+Guess she's embarrassed.
 #
 <sprite "ta03a32.iph" 4 4 11>
-<name "ヴィオラ" "!BA0777">
-「私も恥ずかしいのだけど」
+<name "Viola" "!BA0777">
+"I'm embarrassed too."
 #
-<name "ラズロック">
-「二～三日もすれば、慣れる」
+<name "Lazlocke">
+"You'll get used to it in two or three days."
 #
 <sprite "ta03a34.iph" 4 4 12>
-<name "ヴィオラ" "!BA0778">
-「二～三日も続けるの？」
+<name "Viola" "!BA0778">
+"This will go on for two to three days?"
 #
-<name "ラズロック">
-「俺は時間の事を言ったんだが……
-　続けて欲しいのか？」
+<name "Lazlocke">
+"I told you this takes time...
+ Don't you want to keep going?"
 #
 <sprite "ta03a80.iph" 4 4 12>
-<name "ヴィオラ" "!BA0779">
-「わ、私は……別に」
+<name "Viola" "!BA0779">
+"I... I don't care."
 #
-<name "ラズロック">
-「個別の方が良いか？」
+<name "Lazlocke">
+"You prefer it one on one?"
 #
 <sprite "ta03a78.iph" 4 4 12>
-<name "ヴィオラ" "!BA0780">
-「…………そうね」
+<name "Viola" "!BA0780">
+".........I do."
 #
-<name "ラズロック">
-「でも、今回は我慢できなかったと？」
+<name "Lazlocke">
+"But you couldn't wait this time?"
 #
 <sprite "ta03a82.iph" 4 4 12>
-<name "ヴィオラ" "!BA0781">
-「……わ、悪い」
+<name "Viola" "!BA0781">
+"...I-I'm sorry."
 #
-<name "ラズロック">
-「いや、悪く無い」
+<name "Lazlocke">
+"No, it wasn't bad."
 #
 <removesprite -1 11>
 \x2B\x78\x78

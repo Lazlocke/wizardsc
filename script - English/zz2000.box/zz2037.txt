@@ -1,465 +1,476 @@
 <music 3>
 <background "bg024a0.iph" 10>
 <background "ev112a0.iph" 10>
-<name "鈴木さん" "!JD0000">
-「ここはどこかしら？」
+<name "Suzuki" "!JD0000">
+"Where am I?"
 #
-<name "猫妖精" "!RD0000">
-「えっとですね」
+<name "Cat Sidhe" "!RD0000">
+"Um, well."
 #
-<name "鈴木さん" "!JD0001">
-「黙りなさい」
+<name "Suzuki" "!JD0001">
+"Shut up."
 #
-<name "猫妖精" "!RD0001">
-「ええっ！
-　待ってください。
-　説明をしますから」
+<name "Cat Sidhe" "!RD0001">
+"Eeh!?
+ Wait a minute!
+ I'll explain."
 #
-<name "鈴木さん" "!JD0002">
-「……私は平穏に暮らしたいの」
+<name "Suzuki" "!JD0002">
+"...I just want a normal life."
 #
-<name "猫妖精" "!RD0002">
-「はぁ」
+<name "Cat Sidhe" "!RD0002">
+"Um..."
 #
-<name "鈴木さん" "!JD0003">
-「私の予定にはこんな狂った空間に招待されて、猫
-　と喋るなんて事は無いの。
-　だから黙りなさい」
+<name "Suzuki" "!JD0003">
+"I was brought some crazy place and my schedule
+ is all messed up.
+ I don't talk to cats.
+ So shut up."
 #
-<name "猫妖精" "!RD0003">
-「そ、そう言われましても……あと、私は猫じゃあ
-　りません。
-　猫妖精です。
-　猫妖精とならば、喋っても全然ＯＫ！」
+<name "Cat Sidhe" "!RD0003">
+"B-But whatever you say... 
+ Also, I'm not a cat.
+ I'm a cat sidhe.
+ It's okay to talk to cat sidhe!"
 #
-<name "鈴木さん" "!JD0004">
-「それ以上喋るなら、捻るわよ」
+<name "Suzuki" "!JD0004">
+"Say another word, and I will twist your head
+ off."
 #
-<name "猫妖精" "!RD0004">
-「はっはっはっ、この愛らしい私を捻る？
-　イタタタタタ……ば、馬鹿な！
-　この愛らしい私を捻るなんて！
-　人の心はあるのですか！」
+<name "Cat Sidhe" "!RD0004">
+"Hahaha! Twist someone as cute as me?
+ Owwwwwww! I-Impossible!
+ How can you twist someone as cute as me!?
+ Do you even have a heart!?"
 #
-<name "鈴木さん" "!JD0006">
-「有言実行がモットーなの。
-　さらに強くしてあげましょうか？」
+<name "Suzuki" "!JD0006">
+"I always do what I say.
+ Shall I do it even harder?"
 #
-<name "猫妖精" "!RD0005">
-「す、すみませんでした。
-　でも説明しないと話が進まないので、お願いしま
-　す。
-　聞いてください」
+<name "Cat Sidhe" "!RD0005">
+"I-I'm sorry, but we won't get anywhere if I don't
+ explain. 
+ Please, just listen to me."
 #
-<name "鈴木さん" "!JD0007">
-「嫌よ」
+<name "Suzuki" "!JD0007">
+"No."
 #
-<name "猫妖精" "!RD0006">
-「報酬を払いますから」
+<name "Cat Sidhe" "!RD0006">
+"I'll pay you."
 #
-<name "鈴木さん" "!JD0008">
-「黙りなさい」
+<name "Suzuki" "!JD0008">
+"Shut up."
 #
-<name "猫妖精" "!RD0007">
-「報酬は三百万です」
+<name "Cat Sidhe" "!RD0007">
+"I'll pay you three thousand."
 #
-<name "鈴木さん" "!JD0009">
-「説明しなさい。
-　端的に解りやすく」
+<name "Suzuki" "!JD0009">
+"Explain.
+ Keep it brief."
 #
-<name "猫妖精" "!RD0008">
-「その変わり身。
-　見事です」
+<name "Cat Sidhe" "!RD0008">
+"What a turnaround.
+ Wonderful."
 #
-<name "鈴木さん" "!JD0010">
-「端的に解りやすく」
+<name "Suzuki" "!JD0010">
+"Keep. It. Brief."
 #
-<name "猫妖精" "!RD0009">
-「はっ。
-　魔法少女になって頂きたい」
+<name "Cat Sidhe" "!RD0009">
+"Um...
+ I want you to be a magical girl."
 #
-<name "鈴木さん" "!JD0011">
-「ほお」
+<name "Suzuki" "!JD0011">
+"Oh?"
 #
-<name "猫妖精" "!RD0010">
-「おっと、少し馬鹿にしましたね。
-　いえいえ、わかりますよ。
-　信じられませんものね、こんな突飛な話」
+<name "Cat Sidhe" "!RD0010">
+"Hey, you're looking down on me.
+ No, no, I understand.
+ It's hard to believe such a crazy story."
 #
-<name "鈴木さん" "!JD0012">
-「猫が喋っている時点で諦めているから大丈夫よ。
-　私が馬鹿にしたのは、少女の単語。
-　私が幾つか知ってるの？」
+<name "Suzuki" "!JD0012">
+"Whatever. I'm talking to a cat. We're passed
+ that. What I can't believe is the word girl.
+ Do you have any idea how old I am?"
 #
-<name "猫妖精" "!RD0011">
-「もうすぐ……グェッ！」
+<name "Cat Sidhe" "!RD0011">
+"You're almost thgh!"
 #
-<name "鈴木さん" "!JD0013">
-「知っているなら良いの。
-　公言しないように」
+<name "Suzuki" "!JD0013">
+"Fine, you know.
+ Don't say it."
 #
-<name "猫妖精" "!RD0012">
-「き、気にする年齢じゃないと思いますが……
-　私は熟女でもＯＫですし」
+<name "Cat Sidhe" "!RD0012">
+"I-I don't think you're old enough to mind...
+ I'm okay with a mature woman."
 #
-<name "鈴木さん" "!JD0014">
-「アンタの趣味なんてどうでも良いの」
+<name "Suzuki" "!JD0014">
+"I don't care about your tastes."
 #
-<name "猫妖精" "!RD0013">
-「はっはっはっ……手厳しい。
-　ま、とりあえず変身してみますか。
-　えいっ！」
+<name "Cat Sidhe" "!RD0013">
+"Hahaha... Cruel.
+ Well, how about we get you transformed?
+ Yah!"
 #
 <background "ev112a1.iph" 10>
 <background "ev112a2.iph" 10>
-<name "鈴木さん" "!JD0015">
-「…………なに？
-　この格好？」
+<name "Suzuki" "!JD0015">
+"...What?
+ The hell is this costume?"
 #
-<name "猫妖精" "!RD0014">
-「魔法少女ルックです」
+<name "Cat Sidhe" "!RD0014">
+"It's the magical girl look."
 #
-<name "鈴木さん" "!JD0016">
-「どっかのウェイトレスかメイドみたいな格好ね」
+<name "Suzuki" "!JD0016">
+"More like a waitress or a maid."
 #
-<name "猫妖精" "!RD0015">
-「まま、そう言わずに……」
+<name "Cat Sidhe" "!RD0015">
+"Now, now, don't say that."
 #
-<name "鈴木さん" "!JD0017">
-「……それで、私をこんな格好にして、どうするつ
-　もりなの？」
+<name "Suzuki" "!JD0017">
+"...And what am I supposed to do dressed like
+ this?"
 #
-<name "猫妖精" "!RD0016">
-「では……ごほんっ。
-　妖精界を襲った魔王が、この人間界を狙っている
-　のです！
-　貴女には、魔王を倒す為に戦って頂きたい！」
+<name "Cat Sidhe" "!RD0016">
+"Well, ahem.
+ The dark lord who invaded the fairy world is
+ coming to the human world!
+ I want you to defeat the dark lord!"
 #
-<name "鈴木さん" "!JD0018">
-「へー」
+<name "Suzuki" "!JD0018">
+"Oh?"
 #
-<name "猫妖精" "!RD0017">
-「魔王に対しては魔法でなければ対抗できません！
-　頑張ってください」
+<name "Cat Sidhe" "!RD0017">
+"Only magic can fight against him!
+ Do your best!"
 #
-<name "鈴木さん" "!JD0019">
-「なるほど……それで、魔王を倒せば三百万なの？」
+<name "Suzuki" "!JD0019">
+"I see... So, three thousand for defeating this
+ dark lord?"
 #
-<name "猫妖精" "!RD0018">
-「いえ、それはこの話を引き受けて頂いた場合の報
-　酬です」
+<name "Cat Sidhe" "!RD0018">
+"No, that was the payment for listening to this
+ explanation."
 #
-<name "鈴木さん" "!JD0020">
-「ほう」
+<name "Suzuki" "!JD0020">
+"Oh?"
 #
-<name "猫妖精" "!RD0020">
-「魔王を倒せば一億。
-　幹部クラスは一千万。
-　下っ端は力に応じて五百万～百万をお支払いしま
-　す」
+<name "Cat Sidhe" "!RD0020">
+"A hundred thousand for beating the dark lord.
+ Ten thousand for beating one of his leaders.
+ One to five thousand for his minions, depending
+ on how strong they are."
 #
-<name "鈴木さん" "!JD0021">
-「乗った」
+<name "Suzuki" "!JD0021">
+"I'll do it."
 #
-<name "猫妖精" "!RD0021">
-「ありがとうございます。
-　では……」
+<name "Cat Sidhe" "!RD0021">
+"Thank you very much.
+ Well then..."
 #
-<name "鈴木さん" "!JD0022">
-「え？」
+<name "Suzuki" "!JD0022">
+"Huh?"
 #
 <music 8>
 <background "ev113a0.iph" 10>
-　猫妖精は尻尾を分裂させて伸ばし、魔法少女鈴木
-　さんに襲い掛かった。
+The cat sidhe's tail stretches out and attacks
+Magical Girl Suzuki.
 #
-<name "鈴木さん" "!JD0023">
-「こら、なによこの扱い、この格好！」
+<name "Suzuki" "!JD0023">
+"Hey! What the hell is this getup?"
 #
-<name "猫妖精" "!RD0022">
-「儀式です」
+<name "Cat Sidhe" "!RD0022">
+"A ritual."
 #
-<name "鈴木さん" "!JD0024">
-「聞いてないわよ」
+<name "Suzuki" "!JD0024">
+"You didn't say anything about this."
 #
-<name "猫妖精" "!RD0023">
-「言ってませんから」
+<name "Cat Sidhe" "!RD0023">
+"You didn't ask."
 #
-<name "鈴木さん" "!JD0025">
-「確信的な詐欺？」
+<name "Suzuki" "!JD0025">
+"So you scammed me?"
 #
-<name "猫妖精" "!RD0024">
-「いえ、不都合な情報を隠しただけです」
+<name "Cat Sidhe" "!RD0024">
+"No, I concealed inconvenient information."
 #
-<name "鈴木さん" "!JD0026">
-「誠実な取引じゃないわね」
+<name "Suzuki" "!JD0026">
+"Then the deal is void."
 #
-<name "猫妖精" "!RD0025">
-「そう言われましても、貴女ほどの逸材を逃すわけ
-　にはいきませんので」
+<name "Cat Sidhe" "!RD0025">
+"You say that, but I can't let someone as talented
+ as you go."
 #
-<name "鈴木さん" "!JD0027">
-「そう言えば、どうして私か聞いていなかったわね」
+<name "Suzuki" "!JD0027">
+"Come to think of it, why me?"
 #
-<name "猫妖精" "!RD0026">
-「処女でいつか白馬の王子がやってくるとか素で言
-　える夢見勝ちな２６歳が、魔法少女になれる条件
-　ですので」
+<name "Cat Sidhe" "!RD0026">
+"Because a requirement for becoming a magical
+ girl is an at least 26 year old virgin who dreams
+ of a prince on a white horse will come one day."
 #
-<name "鈴木さん" "!JD0028">
-「アンタ。
-　今、私の触れちゃいけない部分に触れたわよ」
+<name "Suzuki" "!JD0028">
+"You know, I have touched myself."
 #
-<name "猫妖精" "!RD0027">
-「そうですか。
-　これから、物理的に触れちゃいけない部分に触れ
-　ますが、ご容赦ください」
+<name "Cat Sidhe" "!RD0027">
+"Oh, really? Well now I'll be touching places
+ you couldn't reach, so forgive me."
 #
-　猫妖精がそう言って尻尾をさらに分裂させ、魔法
-　少女鈴木さんの胸を責めた。
+He splits his tail even more and plays with her
+breasts.
 #
 <background "ev113a1.iph" 10>
-<name "鈴木さん" "!JD0029">
-「あ、ちょっと、こら！」
+<name "Suzuki" "!JD0029">
+"Ah! Hold on!
+ Hey!"
 #
-　尻尾で胸を責めながら、猫妖精は股間部から一際
-　大きな尻尾を取り出した。
+As he toys with her breasts, a particularly large
+tail grows out from between his back legs.
 #
 <background "ev113a2.iph" 10>
-<name "猫妖精" "!RD0028">
-「さてと……」
+<name "Cat Sidhe" "!RD0028">
+"Now then..."
 #
-<name "鈴木さん" "!JD0030">
-「え、こ、こら！
-　それは尻尾じゃないでしょ」
+<name "Suzuki" "!JD0030">
+"Huh? H-Hey!
+ That's not a tail!"
 #
-<name "猫妖精" "!RD0029">
-「よくわかりましたね」
+<name "Cat Sidhe" "!RD0029">
+"You have good eyes."
 #
-<name "鈴木さん" "!JD0031">
-「見ればわかるわっ！」
+<name "Suzuki" "!JD0031">
+"It's obvious!"
 #
-<name "猫妖精" "!RD0030">
-「私、未熟者でして、尻尾だけでは儀式に足りず、
-　仕方なく、そう、本当に仕方なく代用品を……」
+<name "Cat Sidhe" "!RD0030">
+"I'm new at this, and can't do the ritual with a
+ tail, so I'm sorry, but... yeah, I need to use a
+ substitute..."
 #
-<name "鈴木さん" "!JD0032">
-「嘘つけっ！
-　ちょ、こら、私が処女だって知ってるんでしょ！
-　最初がそんなのなんてごめんだわ」
+<name "Suzuki" "!JD0032">
+"Like hell!
+ Hey! You said you knew I was a virgin!
+ I don't want this to be my first time!"
 #
-<name "猫妖精" "!RD0054">
-「ええ、王子様のイチモツをご要望なのは存じてお
-　ります。
-　ですが、今は人間界の窮地！
-　ぐっと堪えてください！」
+<name "Cat Sidhe" "!RD0054">
+"Yeah, I know that you wanted a prince on a white
+ horse. But the human world is in danger!
+ Please bear with it!"
 #
-<name "鈴木さん" "!JD0033">
-「断わるっ！」
+<name "Suzuki" "!JD0033">
+"No way!"
 #
 <background "ev113a3.iph" 10>
-<name "猫妖精" "!RD0032">
-「気持ち良くしますから」
+<name "Cat Sidhe" "!RD0032">
+"I'll make it feel good."
 #
-<name "鈴木さん" "!JD0034">
-「絶対に嫌ぁっ！」
+<name "Suzuki" "!JD0034">
+"Absolutely no way!"
 #
-<name "猫妖精" "!RD0033">
-「そう言いながらも、すでにここは……」
+<name "Cat Sidhe" "!RD0033">
+"You say that, but look at this place..."
 #
 <background "ev113a4.iph" 10>
-　魔法少女鈴木さんのパンツは濡れ始めていた。
+Her panties are starting to get wet.
 #
-<name "鈴木さん" "!JD0035">
-「あ、な、なんで……この程度で」
+<name "Suzuki" "!JD0035">
+"Ah... W-Why... this is nothing..."
 #
-<name "猫妖精" "!RD0034">
-「自分でするのとは違うんですよ」
+<name "Cat Sidhe" "!RD0034">
+"It's different from doing it yourself."
 #
-<name "鈴木さん" "!JD0036">
-「く、くっ！
-　猫に性経験で下に見られた！」
+<name "Suzuki" "!JD0036">
+"N-Ngh!
+ Being watched by a cat is out of my sexual
+ experience!"
 #
-<name "猫妖精" "!RD0035">
-「さあ、いきますよー」
+<name "Cat Sidhe" "!RD0035">
+"Okay, here I go."
 #
 <background "ev113a5.iph" 10>
-　猫妖精は尻尾を巧みに操り、魔法少女鈴木さんの
-　胸を曝け出し、乳首を器用に責めた。
+He skillfully moves his tails, exposing her 
+breasts and then nimbly teasing her nipples.
 #
-<name "鈴木さん" "!JD0037">
-「あ、あ、あん♪」
+<name "Suzuki" "!JD0037">
+"Ah! Ah! Aah!♪"
 #
-<name "猫妖精" "!RD0036">
-「可愛い声ですね」
+<name "Cat Sidhe" "!RD0036">
+"What a cute voice."
 #
-<name "鈴木さん" "!JD0038">
-「ふぁ、こ、殺す！」
+<name "Suzuki" "!JD0038">
+"Aah! I-I'll kill you!"
 #
-<name "猫妖精" "!RD0037">
-「はい、怖い顔をしないで……
-　続けますよー」
+<name "Cat Sidhe" "!RD0037">
+"Yeah, yeah. Don't look so scary.
+ I'm going to continue."
 #
 <background "ev113a6.iph" 10>
-　猫妖精は、魔法少女鈴木さんの濡れた下着を破り
-　取った。
+The cat sidhe rips off her wet underwear.
 #
-<name "猫妖精" "!RD0038">
-「魔法で服は元に戻りますから、ご安心ください」
+<name "Cat Sidhe" "!RD0038">
+"Don't worry. Magic will fix your clothes."
 #
-<name "鈴木さん" "!JD0039">
-「で、できるか、あ、あう、くぁ、や、やめ、ふう」
+<name "Suzuki" "!JD0039">
+"I-It will? 
+ Ah...aah...ngh...
+ S-Stop...
+ Ahh..."
 #
-<name "猫妖精" "!RD0039">
-「怒らない怒らない」
+<name "Cat Sidhe" "!RD0039">
+"Don't be mad."
 #
 <background "ev113a7.iph" 10>
-<name "鈴木さん" "!JD0040">
-「くぁ、ぁ、っ、こ、こら、あ、ひっ、そ、そこは
-　駄目ぇ、あ、やめ、マジで駄目だから、あっ、ぁっ
-　ぁぁぁっ、ひぐぐぐぐ……」
+<name "Suzuki" "!JD0040">
+"Ngh...ah... H-Hey! Ah...ah! N-Not there!
+ Ah! Stop! Seriously, stop! Ah! Ah!
+ Aaaah...nnngh!"
 #
-<name "猫妖精" "!RD0040">
-「我慢は身体に悪いですよ」
+<name "Cat Sidhe" "!RD0040">
+"Holding back is bad for you."
 #
 <background "ev113a8.iph" 10>
-　猫妖精は執拗に魔法少女鈴木さんの陰部を責め立
-　て潮を吹かせた。
+He relentlessly teases her until she orgasms.
 #
-<name "鈴木さん" "!JD0041">
-「ぁ……ぁ……ぁぁぁ……ね、猫にイかされた」
+<name "Suzuki" "!JD0041">
+"Ah...ah...aaaah...
+ I-I came from a cat..."
 #
-<name "猫妖精" "!RD0041">
-「はっはっはっ……
-　では、メインディッシュに行きますか」
+<name "Cat Sidhe" "!RD0041">
+"Hahaha...
+ Now, time for the real thing."
 #
-　猫妖精は、自分の股間から生える大きな尻尾……
-　いや、イチモツを魔法少女鈴木さんの陰部に当て、
-　そして一気に捻じ込んだ。
+It puts the big tail... 
+No, the penis growing from its legs against her
+and pushes it in all at once.
 #
 <background "ev113a9.iph" 10>
-<name "鈴木さん" "!JD0042">
-「ぃぃっっ！」
+<name "Suzuki" "!JD0042">
+"Nnnnnh!"
 #
-　魔法少女鈴木さんは、破瓜の痛みに声も上がらず
-　に悶絶した。
+She gasps voicelessly in pain from losing her
+virginity.
 #
-<name "猫妖精" "!RD0043">
-「すぐに慣れます。
-　あと、処女膜は魔法では治せません」
+<name "Cat Sidhe" "!RD0043">
+"You'll get used to it soon enough.
+ Also, magic can't fix your hymen."
 #
 <background "ev113aa.iph" 10>
-<name "鈴木さん" "!JD0043">
-「絶対に殺す……」
+<name "Suzuki" "!JD0043">
+"I swear I'll kill you."
 #
-<name "猫妖精" "!RD0044">
-「その態度、最後まで持てば良いですね」
+<name "Cat Sidhe" "!RD0044">
+"Going to be like that the whole way?"
 #
-<name "鈴木さん" "!JD0044">
-「ア、アンタ……本性が……あぐぐぐぐっ！」
+<name "Suzuki" "!JD0044">
+"T-This is... what you really are?
+ Aaaaggggh!"
 #
-<name "猫妖精" "!RD0045">
-「乱暴にやってすぐに終るのと、優しくして長くや
-　るのではどっちが良いですか？」
+<name "Cat Sidhe" "!RD0045">
+"Which you do prefer?
+ Quick and rough, or long and gentle?"
 #
-<name "鈴木さん" "!JD0045">
-「じ、地獄に落ち……あふぁっ、あっ、あああっ！」
+<name "Suzuki" "!JD0045">
+"G-Go to hell...
+ Aaah! Ah! Aaah!"
 #
-<name "猫妖精" "!RD0046">
-「では、私の好みで乱暴に長くやりましょうか」
+<name "Cat Sidhe" "!RD0046">
+"So, my preference then, long and rough?"
 #
-　そう言って、猫妖精は自分のイチモツを乱暴に魔
-　法少女鈴木さんの膣内で暴れさせた。
+The cat sidhe's dick intensely violates Suzuki's
+pussy.
 #
 <background "ev113a9.iph" 10>
-<name "鈴木さん" "!JD0046">
-「あっ、ああっ、ああああああっ！」
+<name "Suzuki" "!JD0046">
+"Ah! Aaaah! Aaaaaahhhh!!!"
 #
-<name "猫妖精" "!RD0047">
-「物足りなければ言ってください。
-　あと数本は追加できますから」
+<name "Cat Sidhe" "!RD0047">
+"Tell me if you're not satisfied.
+ I can still add a few more."
 #
-<name "鈴木さん" "!JD0047">
-「ふぁっ、うぁっ、あっ、し、死ぬ、あ、あ、あ、
-　ぁぁぁぁぁぁぁぁぁっ！」
+<name "Suzuki" "!JD0047">
+"Aaah! Aah! Ah! D-Die!
+ Ah! Ah! Ah!
+ Aaaaaahhhhhh!!!"
 #
-<name "猫妖精" "!RD0048">
-「そろそろ、出してしまいますよー」
+<name "Cat Sidhe" "!RD0048">
+"About time to let it out."
 #
-<name "鈴木さん" "!JD0048">
-「あっ、や、やめ、あひっ、な、なぁ……あ、ぁ、
-　うぁぁぁぁぁぁぁぁっ！」
+<name "Suzuki" "!JD0048">
+"Ah! D-Don't! Aah! Aah!
+ Ah! Ah!
+ Aaaaaaaaaahhhh!"
 #
-　魔法少女鈴木さんが達すると同時に、猫妖精は自
-　分のイチモツを震わせて射精を開始した。
+As she climaxes, the cat sidhe's dick throbs and 
+it ejaculates too.
 #
 <background "ev113ab.iph" 10>
-<name "鈴木さん" "!JD0049">
-「ぁぁぁぁぁぁぁ……」
+<name "Suzuki" "!JD0049">
+"Aaahhh..."
 #
-<name "猫妖精" "!RD0049">
-「あと六回、達して頂ければ終りますので頑張って
-　ください。
-　私も頑張りますから」
+<name "Cat Sidhe" "!RD0049">
+"If you can orgasm six more times, it'll all be
+ over, so do your best.
+ I'll try hard too."
 #
-<name "鈴木さん" "!JD0050">
-「ぁ……ぁぁぁ……うぁ……」
+<name "Suzuki" "!JD0050">
+"Ah...aaah...ahhh..."
 #
 <music 3>
 <background "bg024a0.iph" 10>
-<name "鈴木さん" "!JD0056">
-「猫相手だから、ノーカン、ノーカン……」
+<name "Suzuki" "!JD0056">
+"A cat doesn't count...
+ A cat doesn't count..."
 #
-<name "猫妖精" "!RD0050">
-「さっきから何を言っているんですか？」
+<name "Cat Sidhe" "!RD0050">
+"What do you keep mumbling?"
 #
-<name "鈴木さん" "!JD0052">
-「うるさい。
-　私の自己暗示を邪魔するな」
+<name "Suzuki" "!JD0052">
+"Shut up.
+ Don't interrupt my self-hypnosis."
 #
-<name "猫妖精" "!RD0051">
-「はっはっはっ、冷たいですね。
-　穴と言う穴の味を知っているこの私……
-　イタタタタタタタタ……
-　すみません」
+<name "Cat Sidhe" "!RD0051">
+"Hahaha. So mean.
+ I know the taste of all your hol...
+ Owwwwww!
+ I'm sorry."
 #
-<name "鈴木さん" "!JD0057">
-「猫相手だから、ノーカン、ノーカン……」
+<name "Suzuki" "!JD0057">
+"A cat doesn't count...
+ A cat doesn't count..."
 #
-<name "猫妖精" "!RD0052">
-「これから一緒に頑張りましょう。
-　ん？
-　なんですか？
-　私を見詰めて……惚れました？」
+<name "Cat Sidhe" "!RD0052">
+"Let's do our best together now.
+ Hm? What?
+ You're staring at me...
+ Fallen in love?"
 #
-<name "鈴木さん" "!JD0055">
-「手軽なバイブと考えれば良いか」
+<name "Suzuki" "!JD0055">
+"Maybe I'll just think of you like a useful
+ dildo."
 #
-<name "猫妖精" "!RD0053">
-「ひ、酷いっ！」
+<name "Cat Sidhe" "!RD0053">
+"S-So heartless!"
 #
 <music 31>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「この猫。
-　俺みたいだな……」
+<name "Lazlocke">
+"That cat's kind of like me."
 #
 <sprite "ta01a20.iph" 4 4 11>
-<name "セリス" "!AA5744">
-「なにがですか？」
+<name "Celes" "!AA5744">
+"What are you doing?"
 #
-<name "ラズロック">
-「うおっ、ビ、ビックリした……
-　急に背後に立つなよ」
+<name "Lazlocke">
+"Aah!
+ Y-You scared me.
+ Don't sneak up behind me like that."
 #
 <sprite "ta01a21.iph" 4 4 12>
-<name "セリス" "!AA5745">
-「掃除中に読書をしないでください」
+<name "Celes" "!AA5745">
+"Don't read while we're cleaning."
 #
-<name "ラズロック">
-「むう……す、すまん」
+<name "Lazlocke">
+"Mm... S-Sorry."
 #
 <removesprite -1 11>
-　俺は本を置いて、掃除を再開した。
+I put the book down and get back to work.
 #
 \x78\x78

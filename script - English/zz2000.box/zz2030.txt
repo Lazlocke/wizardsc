@@ -1,16 +1,18 @@
 <music 4>
 <background "ev081a0.iph" 10>
-　クルーネ帝国、第三皇女ルィンス。
+Lynth, the third princess of the Krun Empire.
 #
-　ルーン魔法学園を高成績で卒業。
+She graduated from Rune Academy with excellent
+grades.
 #
-　その後、協会員としてクルーネ帝国に魔法を広め
-　る事に尽力する。
+After that, she worked to spread magic through
+Krun as a member of the Guild.
 #
-　それは、魔法に関する人材や知識の収集に遅れた
-　クルーネ帝国を大きく助ける事になった。
+She helped Krun finally come to realize the
+value of magic, and begin raising its own wizards
+and gathering its knowledge.
 #
-<name "ルィンス" "!NB0038">
-「でも、時々は相手してくださいね」
+<name "Lynth" "!NB0038">
+"But please be with me every now and then, okay?"
 #
 \x78\x78

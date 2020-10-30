@@ -1,391 +1,400 @@
 <music 11>
 <background "bg018a0.iph" 11>
-<name "ラズロック">
-「急な呼び出しですが、何かありましたか？」
+<name "Lazlocke">
+"This was an unexpected call.
+ Is something the matter?"
 #
-　急と言うより、強引な呼び出しだ。
+Not unexpected so much as forcible.
 #
-　師匠の直属の秘書が迎えとして俺の家まで来て、
-　ここまで引っ張ってきたのだから。
+Her personal secretary came to my house to fetch
+me, and practically dragged me here.
 #
-　ソシエットではなく、秘書が来た事に強引さを感
-　じる。
+Somehow, it feels even more forceful than
+Soshiette's threats.
 #
 <sprite "ta05a15.iph" 4 4 11>
-<name "ルーン" "!EA0256">
-「とりあえず、そこに座りなさい」
+<name "Rune" "!EA0256">
+"First of all, sit down."
 #
 <removesprite -1 11>
-　師匠は俺にそう言った後、部屋から秘書を追い出
-　した。
+She chases her secretary out of the room.
 #
 <music 36>
 <background "ev075a0.iph" 10>
-<name "ラズロック">
-「急に呼び出したと思ったら、なんですか？」
+<name "Lazlocke">
+"What am I supposed to think about being dragged
+ here out of nowhere?"
 #
-<name "ルーン" "!EA0258">
-「溜まってるでしょ」
+<name "Rune" "!EA0258">
+"You're backed up, aren't you?"
 #
-<name "ラズロック">
-「……魔力ですか？
-　それとも、性欲？」
+<name "Lazlocke">
+"...You mean mana?
+ Or lust?"
 #
-<name "ルーン" "!EA0259">
-「魔力よ。
-　溜めちゃ駄目って、前々から言ってると思うけど」
+<name "Rune" "!EA0259">
+"Mana.
+ I keep telling you that you can't let it build
+ up."
 #
-<name "ラズロック">
-「……すみません」
+<name "Lazlocke">
+"...Sorry."
 #
-<name "ルーン" "!EA0260">
-「いいのよ。
-　それより、ふふ……相変わらず立派ね」
+<name "Rune" "!EA0260">
+"It's fine.
+ Still... Heheh...
+ As impressive as ever."
 #
-　師匠はそう言って、師匠の口技によって強引に大
-　きくした俺のモノを胸で挟んで扱く。
+She takes out my dick, forcibly gets it big by
+stroking it, and then puts it between her breasts.
 #
 <background "ev075a1.iph" 10>
-<name "ルーン" "!EA0261">
-「ん、んぁ、あむ」
+<name "Rune" "!EA0261">
+"Mm...mm...amph..."
 #
-　そうしながら、時々、俺のモノ先を口に含んだり、
-　舌で刺激したりしてくる。
+As she does that, she occasionally puts the tip
+in her mouth and stimulates me with her tongue.
 #
-　師匠の得意技と言うワケではないが、俺が行為を
-　拒んだ時に師匠が好んでやる手段だ。
+She's not that great at it, but this is what she
+prefers to do when I don't listen to her.
 #
-<name "ルーン" "!EA0262">
-「ん……あん、あむ、むぁん」
+<name "Rune" "!EA0262">
+"Mm...ah...ahmph...mm...mmm..."
 #
-　師匠の胸の弾力や温かさに、俺のモノは素直に喜
-　びを感じる。
+My dick does feel nice in the warmth and softness
+of her breasts.
 #
-　師匠の口内にモノ先だけが入るのも、俺を刺激す
-　る。
+Her mouth on the top is also stimulating.
 #
-　もっと奥までと。
+I want it deeper though.
 #
-<name "ルーン" "!EA0263">
-「ふあむ、むぁん、ん、ちゅっ、ちゅっ……
-　ふふ、ビクビクしてるわね」
+<name "Rune" "!EA0263">
+"Mmm...mmm...mmph...mmm...
+ Heheh... You're twitching."
 #
-<name "ルーン" "!EA0264">
-「早く、私の中に入りたがっているのかしら？」
+<name "Rune" "!EA0264">
+"You want to be inside me so soon?"
 #
-<name "ラズロック">
-「師匠も意地悪ですね」
+<name "Lazlocke">
+"You're a bully."
 #
-<name "ルーン" "!EA0265">
-「ラズほどじゃないわよ。
-　あむ……むむん」
+<name "Rune" "!EA0265">
+"Not as much as you are.
+ Amph...mmm..."
 #
-<name "ラズロック">
-「……別に、ワザと魔力を溜め込んでいるワケじゃ
-　ありません」
+<name "Lazlocke">
+"...It's not like I'm building up mana on 
+ purpose."
 #
-　ただ、タイミングが合わなかっただけで。
+The timing just hasn't worked out recently.
 #
-<name "ルーン" "!EA0266">
-「ラズが女の子の弟子を取るって聞いた時……
-　んぁ、あん……実は……ホッとしたのよ」
+<name "Rune" "!EA0266">
+"When I heard you took a girl apprentice...
+ Mm...ah... Actually, I was relieved..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "ルーン" "!EA0267">
-「あんん……んぁ、あん……んむ……
-　ラズが……常に魔力を与える、あん……
-　相手が、出来たってね」
+<name "Rune" "!EA0267">
+"Amph...mmm...mmm...
+ You'd always have someone...mmm... to give
+ mana to..."
 #
-<name "ルーン" "!EA0268">
-「でも、あむ……むむ……」
+<name "Rune" "!EA0268">
+"But... 
+ Mph...mmm..."
 #
-<name "ルーン" "!EA0269">
-「大事にし過ぎじゃない？」
+<name "Rune" "!EA0269">
+"Have you been being too careful?"
 #
-<name "ラズロック">
-「……そうでもありませんよ。
-　回数的には、かなり抱いています」
+<name "Lazlocke">
+"...Not really.
+ If we're talking how often, it's a lot."
 #
-<name "ルーン" "!EA0270">
-「本当に？」
+<name "Rune" "!EA0270">
+"Really?"
 #
-<name "ラズロック">
-「ええ……」
+<name "Lazlocke">
+"Yeah."
 #
-<name "ルーン" "!EA0271">
-「じゃあ、ラズにこれだけ魔力が溜まっているのは
-　どうして？」
+<name "Rune" "!EA0271">
+"Then why do you have so much mana?"
 #
-<name "ラズロック">
-「力が……強くなっているのだと思います」
+<name "Lazlocke">
+"I think... my power's getting stronger."
 #
-<name "ルーン" "!EA0272">
-「強くなった先は、わかっているでしょ」
+<name "Rune" "!EA0272">
+"I can tell that it's stronger than it used to
+ be."
 #
-<name "ラズロック">
-「ええ」
+<name "Lazlocke">
+"Yeah."
 #
-　俺の返事に、師匠は俺のモノを激しく刺激し始め
-　た。
+She stimulates my dick more intensely.
 #
-<name "ルーン" "!EA0273">
-「あん、んぁ、あ、あん、あん、んぁ……
-　んぁ、ぁぁ、あん、んぁ……ちゅっ、ちゅっ、
-　ふぁ……ん、んんんん……」
+<name "Rune" "!EA0273">
+"Ah...mmm...ah...ah...mmm...
+ Mmm...aah...mmm...mmm...mm...mmm...
+ Aah...mm...mmmmmmm..."
 #
 <background "ev075a2.iph" 10>
-　師匠の胸の擦り上げと、師匠の口の動きで、俺の
-　モノはアッサリと精液を吐き出す。
+Being rubbed between her breasts and teased by
+her mouth, my dick starts to spurt out semen.
 #
 <background "ev075a3.iph" 10>
-<name "ルーン" "!EA0274">
-「ん……あら……飛んだわね」
+<name "Rune" "!EA0274">
+"Mm... Oh my...
+ Look at it go."
 #
-<name "ラズロック">
-「……師匠の所為です」
+<name "Lazlocke">
+"...It's because of you."
 #
-<name "ルーン" "!EA0275">
-「……貴方に魔力が溜まりすぎれば、貴方の精神や
-　肉体に悪影響があるのはすでに実証済みでしょ」
+<name "Rune" "!EA0275">
+"We've already proven beyond any doubt that having
+ too much mana is bad for your body and mind."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　そう、俺が一年ほど女を断った時、俺の心はかな
-　りおかしくなっていたらしい。
+Yeah. There was about a year that I refused to
+be with any woman, and I got pretty messed up.
 #
-　今の状態になっているのが不思議なぐらいだ。
+My situation is unique.
 #
-　それは“魔法使いの花嫁”の力の悪影響。
+That's the problem with being a wizard's bride.
 #
-　人間の身体で、受け入れられる魔力の限界量と言
-　うヤツだろう。
+There's only so much mana that a human body can
+take.
 #
-　女性の“魔法使いの花嫁”は、妊娠、出産を重ね
-　る事でその能力を薄めていく。
+A female wizard's bride can dilute and reduce the
+strength of her power by getting pregnant and
+having children.
 #
-　しかし、男性の“魔法使いの花嫁”は、能力を薄
-　めていく方法が無い。
+But there's no known way for a male wizard's
+bride to weaken their power.
 #
-<name "ルーン" "!EA0277">
-「解決策は無いけど、緩和させる方法はいくらでも
-　あるわ」
+<name "Rune" "!EA0277">
+"There's no cure, but there are many ways to
+ treat it."
 #
-<name "ルーン" "!EA0278">
-「その一番の方法が、魔力を溜めない事」
+<name "Rune" "!EA0278">
+"The best way is to not let mana accumulate."
 #
-<name "ルーン" "!EA0279">
-「そうさせない為に、協会はラズに全面的に協力す
-　るわ」
+<name "Rune" "!EA0279">
+"The Guild will do whatever we can to help you
+ keep that from happening."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "ルーン" "!EA0281">
-「でも、それが聞き入れられないなら、貴方の為に
-　貴方をBindして無理矢理犯すわよ」
+<name "Rune" "!EA0281">
+"But if you won't listen to us, then I'll have to
+ restrain you and force you to you have sex for
+ your own sake."
 #
-<name "ルーン" "!EA0282">
-「今回みたいに優しくはしないわ」
+<name "Rune" "!EA0282">
+"It won't be gentle like this."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-<name "ルーン" "!EA0283">
-「それが嫌なら、魔力を出し続けなさい。
-　相手が必要なら協会が用意します。
-　それが気に入らないなら、恋人でも弟子でもなん
-　でも構わないわ」
+<name "Rune" "!EA0283">
+"If you don't want that, keep letting out mana.
+ If you need someone, the Guild will provide them.
+ If you don't like that, we don't mind if you take
+ a lover or an apprentice."
 #
-<name "ルーン" "!EA0284">
-「相手を見つけなさい」
+<name "Rune" "!EA0284">
+"Find someone."
 #
-<name "ラズロック">
-「…………そうですね」
+<name "Lazlocke">
+"...I know."
 #
-<name "ルーン" "!EA0285">
-「わかってくれた？」
+<name "Rune" "!EA0285">
+"Do you really?"
 #
-<name "ラズロック">
-「ええ……師匠が弟子想いなのは十分。
-　ありがとうございます」
+<name "Lazlocke">
+"Yes. It's enough that I have you looking out for
+ me.
+ Thank you."
 #
-<name "ラズロック">
-「でも、もう少しだけ待ってください」
+<name "Lazlocke">
+"But wait a little longer."
 #
-<name "ルーン" "!EA0286">
-「もう少し？」
+<name "Rune" "!EA0286">
+"A little longer?"
 #
-<name "ラズロック">
-「はい。
-　セリスがクデュール魔法大会に出場するまで」
+<name "Lazlocke">
+"Yes. Until Celes participates in the Coudures
+ Tournament."
 #
-<name "ルーン" "!EA0287">
-「…………」
+<name "Rune" "!EA0287">
+"........."
 #
-<name "ラズロック">
-「セリスの件が……
-　どう言う結果に終ろうとも、必ず」
+<name "Lazlocke">
+"No matter how it turns out with her, I swear."
 #
-<name "ルーン" "!EA0289">
-「約束よ」
+<name "Rune" "!EA0289">
+"You promise?"
 #
-<name "ラズロック">
-「はい。
-　それで……と言うワケではありませんが？」
+<name "Lazlocke">
+"Yes.
+ And... you know what else?"
 #
-<name "ルーン" "!EA0290">
-「なに？」
+<name "Rune" "!EA0290">
+"What?"
 #
-<name "ラズロック">
-「……一回だけでは、中途半端です」
+<name "Lazlocke">
+"...Once isn't near enough."
 #
-<name "ルーン" "!EA0291">
-「……そうね」
+<name "Rune" "!EA0291">
+"...I'm sure."
 #
-　俺は師匠の胸にモノを喜ばせながら、何度も師匠
-　の顔や口に向けて精液を放ち続けた。
+I enjoy her breasts and shoot my semen in her 
+mouth and on her face multiple times.
 #
-<name "ルーン" "!EA0292">
-「あんん♪
-　美味しい♪」
+<name "Rune" "!EA0292">
+"Aaah!♪
+ Delicious.♪"
 #
-<name "ラズロック">
-「うう……もう無理です……」
+<name "Lazlocke">
+"Urgh...
+ I can't take any more..."
 #
-<name "ルーン" "!EA0293">
-「なに言ってるの。
-　膣外に出しての行為は、魔力を殆ど吐き出してな
-　いでしょ」
+<name "Rune" "!EA0293">
+"What are you talking about?
+ Coming outside of the vagina hardly lets out any
+ mana."
 #
-　その通りだ。
+She's right.
 #
-<name "ルーン" "!EA0294">
-「次は……こっちよ」
+<name "Rune" "!EA0294">
+"Next is... here."
 #
-　師匠はそう言って、自分の下腹部を軽く叩いた。
+She taps her stomach.
 #
-<name "ラズロック">
-「……タ、タフですね」
+<name "Lazlocke">
+"...Y-You're relentless."
 #
-<name "ルーン" "!EA0295">
-「そうじゃなきゃ、協会長なんてやれないの。
-　お願いね」
+<name "Rune" "!EA0295">
+"If I wasn't, I couldn't be president of the 
+ Guild.
+ Please."
 #
-<name "ラズロック">
-「わかりました」
+<name "Lazlocke">
+"All right."
 #
 <background "ev076a0.iph" 10>
-<name "ルーン" "!EA0296">
-「あんん♪」
+<name "Rune" "!EA0296">
+"Aaaah!♪"
 #
-　俺はベッドではなく、師匠の執務机の上で押し倒
-　す。
+I throw her down on the desk.
 #
-　すでに師匠の股間は濡れまくっていた。
+She's already wet.
 #
-　俺のモノを刺激している時に、一度ぐらい達した
-　に違いない。
+She must have come at least once while pleasuring
+me.
 #
-　その濡れまくっている陰部に、師匠の唾液がつい
-　た俺のモノを強引に捻じ込んだ。
+I forcibly bury my dick into her wet pussy.
 #
 <background "ev076a1.iph" 10>
-<name "ルーン" "!EA0297">
-「ふあん♪」
+<name "Rune" "!EA0297">
+"Aaah!♪"
 #
-　モノはズルッと根元まで咥え込まれた。
+She sucks my dick inside her all the way to the
+base.
 #
-　そして、モノ先が膣奥の壁を突くと同時に、膣内
-　がギュッと締め付けられた。
+And then she squeezes her walls tight around me.
 #
-　俺のモノを離さない為だろう。
+Probably to hold onto me.
 #
-　その露骨な行為に、俺は素直に喜びながら師匠の
-　締め付けられた膣内でモノを動かし始める。
+That clear welcoming act makes me start moving
+inside her with pleasure.
 #
-<name "ルーン" "!EA0298">
-「んぁ、ぁ、んぁん……」
+<name "Rune" "!EA0298">
+"Mmm...ah...mmm..."
 #
-　ギュッと締め付けられた膣内は動き難いが、二、
-　三度動かすと、すぐに適度な締め付け具合に変わ
-　る。
+It's hard to move when she's squeezing so tight,
+but after a couple thrusts, she relaxes to a more
+plesant embrace.
 #
-　そこから、俺のモノが動く度にさらにキツくなっ
-　たり、緩くなったりする膣内。
+After that, every time I move, she squeezes and
+then loosens to let me slide in and out.
 #
-　師匠は、膣内の気持ち良い場所を擦られると緩み、
-　さらに気持ち良い場所だと締め付けてくる。
+Whenever I rub somewhere she likes, she loosens,
+and then squeezes me back to where she likes it.
 #
-　その締め付け具合で、師匠が望む場所を知る事が
-　できるのだが、俺はそんな場所を教えて貰わなく
-　ても師匠の喜ぶ場所は全て熟知している。
+From that, I can tell how and where she wants me 
+to move, but I already know all of her sweet 
+spots.
 #
-<name "ルーン" "!EA0299">
-「ふぁん、んぁ、あん、ぁ、ぁ、ぁぁぁん……
-　ラズ、良いわ、ふぁん、ん、ラズゥ……ああんん」
+<name "Rune" "!EA0299">
+"Aah...mmm...ah...ah...aaah...
+ Laz, that's nice...
+ Aah...mmm... Laz...
+ Aaaahh..."
 #
-　俺は胸まで上げた足ごと師匠を抱きかかえながら、
-　師匠の膣内でモノを動かし続ける。
+I lift her legs up next to her breasts while
+moving inside her.
 #
-　そして、目の前にある師匠の両胸にしゃぶり付く。
+And I suck on her breasts in front of me.
 #
-<name "ルーン" "!EA0300">
-「ふぁ、ん、んぁ、む、胸、あ、あん、んぁ……」
+<name "Rune" "!EA0300">
+"Aah...mmm...ah...
+ M-My breasts...
+ Ah...aah...mmm..."
 #
-　その胸の弾力、張り、そして味わい。
+I enjoy the softness, firmness, and taste of her.
 #
-　全てが俺を喜ばすようだ。
+All of it seems made to please me.
 #
-　俺は子供のように師匠の胸を求めながら、腰の動
-　きを速める。
+I suck on her breasts like a baby and move my hips
+faster.
 #
-<name "ルーン" "!EA0301">
-「ぁ、ぁ、ぁっ、ぁぁぅんんんぁ……」
+<name "Rune" "!EA0301">
+"Ah...ah...aaah...mmmmmm..."
 #
-　俺は射精に向かおうとする、自分の身体を抑えき
-　れなかった。
+I want to come, and can't control myself.
 #
-　今、ここで何があっても、行為を継続するだろう。
+Whatever happens next, I can't stop.
 #
-<name "ルーン" "!EA0302">
-「ぁ、ん、んぁ、んんぁぁく、ふぁ、ふぁ、ぁっ」
+<name "Rune" "!EA0302">
+"Ah...mmm...mmm...mmmm...
+ Ahhh...aahhh...ah..."
 #
-　俺は射精直前まで高め、そしてそれを師匠に伝え
-　る。
+I get up from her to tell her that I'm about to
+come.
 #
-<name "ルーン" "!EA0303">
-「ん、んぁ、んぁ、ん、ん、ん」
+<name "Rune" "!EA0303">
+"Mm...mmm...mmm...mm...mmm..."
 #
-　師匠は言葉にせず、ただ膣内を締め上げ、出して
-　良いわよと返事してくれた。
+She doesn't say a word, just clamps hard with her
+pussy, showing me that it's okay to come.
 #
-　その返事を感じると同時に、俺はモノを深く師匠
-　の膣内に潜り込ませ、その奥の膣壁に叩きつける
-　ように大量の精液を吐き出し始めた。
+I bury myself deep inside her pussy and start
+letting out a flood of semen into the deepest part
+of her.
 #
 <background "ev076a2.iph" 10>
-<name "ルーン" "!EA0304">
-「んんんっ！」
+<name "Rune" "!EA0304">
+"Mmmmm!!!"
 #
-　俺の射精が続いている間、師匠は身動きしない。
+She doesn't move as I come.
 #
-　ただ、俺の精液を受け止め続ける。
+She just takes my semen.
 #
-<name "ルーン" "!EA0305">
-「ん……んんんぁ……ん」
+<name "Rune" "!EA0305">
+"Mm...mmmmm...mm..."
 #
-　そして、俺の射精が終ると……
+When I finally finish...
 #
-<name "ルーン" "!EA0306">
-「ん……たくさん出したわね……
-　でも、ラズはこれぐらいで満足しないわよね」
+<name "Rune" "!EA0306">
+"Mm... You let out quite a lot...
+ But that's not enough to satisfy you, is it?"
 #
-　その通りだった。
+She's right.
 #
-　俺は師匠とキスしながら、また腰を動かし、師匠
-　の膣内に精液を流し込み続けた。
+I kiss her, move my hips again, and keep pouring
+semen into her.
 #
 \x78\x78

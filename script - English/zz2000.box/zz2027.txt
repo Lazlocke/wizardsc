@@ -1,23 +1,26 @@
 <music 11>
 <background "ev077a5.iph" 10>
-　クレリア＝ノルザック
+Cleria Nolzak.
 #
-　優秀な成績で魔法学園を卒業。
+She graduated top of her class.
 #
-　協会育成部に所属し、魔法学園教師として活躍。
+She joined the Guild's development program and
+excelled as a teacher at the wizard academy.
 #
-　派手さは無いが確実に実績を残し、多数の優秀な
-　卒業生を世に送り出した。
+She wasn't flashy, but delivered consistent
+results, and raised a number of excellent
+students into the world.
 #
-　後にルーン魔法学園の四代目校長に就任した。
+Eventually, she would become the fourth principal
+of Rune Magic Academy.
 #
-<name "クレリア" "!GB0019">
-「今の私があるのは全て、あの時に魔力を貰ったお
-　陰……」
+<name "Cleria" "!GB0019">
+"All I have now is thanks to the mana I received
+ that time..."
 #
-<name "クレリア" "!GB0020">
-「でも……
-　あの時の相手は誰だったのかしら？
-　ねえ、ラズロック様？」
+<name "Cleria" "!GB0020">
+"But... 
+ Who was that man?
+ Eh, Lazlocke?"
 #
 \x78\x78

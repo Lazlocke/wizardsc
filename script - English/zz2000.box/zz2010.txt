@@ -1,431 +1,442 @@
 <music 9>
 <background "bg008b0.iph" 11>
 <sprite "ta03a03.iph" 4 4 11>
-<name "ヴィオラ" "!BA0687">
-「終ったの」
+<name "Viola" "!BA0687">
+"You're done."
 #
-<name "ラズロック">
-「今日の分はな。
-　しばらくは通って、少しづつ魔力を増やしていく」
+<name "Lazlocke">
+"For today.
+ I'll have to keep doing for a while, and
+ increase her mana gradually."
 #
 <removesprite -1 11>
-　魔力の補給ではなく、魔力のキャパシティを上げ
-　る行為は一気にはできない。
+This isn't replenishing her own mana, and I 
+can't give her too much more than she's used to
+without putting her in danger.
 #
-　何回かに分けて、細かく調整する必要がある。
+It needs to be done over time, and I can 
+increase it little by little.
 #
 <sprite "ta03a00.iph" 4 4 11>
-<name "ヴィオラ" "!BA0688">
-「……そう。
-　どうだった？」
+<name "Viola" "!BA0688">
+"I see.
+ How was it?"
 #
-<name "ラズロック">
-「いつも通りだ」
+<name "Lazlocke">
+"Same as usual."
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "ヴィオラ" "!BA0689">
-「そっけないのね」
+<name "Viola" "!BA0689">
+"That's hardly an answer."
 #
-<name "ラズロック">
-「悪いが、今日はお前と仲良く話す気分じゃない。
-　風呂を借りたら、帰らせてもらう」
+<name "Lazlocke">
+"Sorry. I'm not in the mood for chit chat.
+ Let me borrow your bath and then I can go
+ home."
 #
 <sprite "ta03a03.iph" 4 4 12>
-<name "ヴィオラ" "!BA0690">
-「……報酬の支払いがまだよ」
+<name "Viola" "!BA0690">
+"...I haven't paid for it yet."
 #
-<name "ラズロック">
-「必要無い」
+<name "Lazlocke">
+"There's no need for that."
 #
 <sprite "ta03a06.iph" 4 4 12>
-<name "ヴィオラ" "!BA0691">
-「魔力を貰うだけでは気が引けるわ」
+<name "Viola" "!BA0691">
+"I feel awkward just taking mana from you."
 #
 <sprite "ta03a01.iph" 4 4 12>
-<name "ヴィオラ" "!BA0692">
-「せめて、イエルの為に使った分の魔力は持って帰っ
-　て欲しいのだけど」
+<name "Viola" "!BA0692">
+"At the very least, take as much mana as you
+ gave her."
 #
 <removesprite -1 11>
-　ヴィオラが俺の傍に寄ってくる。
+She steps close to me.
 #
-　……鼻に付くほど酒臭かった。
+The smell of wine hits me in the face.
 #
-　よく見れば、顔も赤い。
+Now that I take a better look, her face is
+flushed.
 #
-<name "ラズロック">
-「……酔ってるのか？
-　さっさと寝ろ」
+<name "Lazlocke">
+"Are you drunk?
+ Go to bed."
 #
 <sprite "ta03c15.iph" 4 4 11>
-<name "ヴィオラ" "!BA0693">
-「別に酔うほど、飲んでないんだけど……」
+<name "Viola" "!BA0693">
+"I haven't had enough to get drunk."
 #
 <removesprite -1 11>
-　確かに足はしっかりしている。
+Her legs are steady.
 #
-　見た目もそれほどでもないだろう。
+She doesn't look tipsy.
 #
-　だが、口を開く度に俺の鼻を刺激する酒臭さが、
-　間違い無く大量の酒を飲んだことを証明している。
+But every time she breathes, I'm choked by the
+thick scent of wine. She's definitely very
+drunk.
 #
-　ヴィオラは酒に弱いわけじゃないが、こんなに臭
-　うほど飲むタイプでもなかったと思ったが。
+I've seen her drink before. She can handle
+herself. She's not the kind to get plastered
+after a couple sips.
 #
-<name "ラズロック">
-「部屋まで送ってやる」
+<name "Lazlocke">
+"Let me take you to your room."
 #
 <sprite "ta03c22.iph" 4 4 11>
-<name "ヴィオラ" "!BA0694">
-「……イエルの為に使った分の魔力は持って帰って
-　欲しいのだけど」
+<name "Viola" "!BA0694">
+"...But I want you to take home as much mana
+ as you gave Elle."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 <removesprite -1 11>
-　俺は小さく溜息を吐き、ヴィオラを抱き締める。
+I give a small sigh and pull her into my arms.
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"All right."
 #
-<name "ラズロック">
-「別に、お前の魔力は要らないが……
-　イエルを抱いた分の報酬は貰おう」
+<name "Lazlocke">
+"I don't need your mana, but I'll take a payment
+ for having sex with her."
 #
 <music 36>
 <background "ev068a0.iph" 10>
-　ヴィオラは机の上に座りながら、スカートを捲くっ
-　て足を開いた。
+Viola sits back on the desk, removes her skirt,
+and opens her legs.
 #
-　俺はその足の間に手を伸ばし、下着の上から陰部
-　を弄ろうとしたが、その前に、ヴィオラの下着が
-　濡れている事に気付いた。
+I reach out to touch her, but before I do, I
+notice that her underwear is already wet.
 #
-<name "ラズロック">
-「……俺がイエルを抱いているのを、覗いていたの
-　か？」
+<name "Lazlocke">
+"...Were you peeping on us when I was with her?"
 #
-<name "ヴィオラ" "!BA0695">
-「そ、そんな事……」
+<name "Viola" "!BA0695">
+"I-I would never..."
 #
-<name "ラズロック">
-「正直に言え」
+<name "Lazlocke">
+"Be honest."
 #
-　俺は濡れているヴィオラの下着の上から、陰部を
-　弄る。
+I touch her through her damp underwear.
 #
-<name "ヴィオラ" "!BA0696">
-「こ、声だけ……」
+<name "Viola" "!BA0696">
+"J-Just your voices..."
 #
-<name "ラズロック">
-「自分で弄ったのか？」
+<name "Lazlocke">
+"Did you play with yourself?"
 #
-<name "ヴィオラ" "!BA0697">
-「う……や、やってないわよ」
+<name "Viola" "!BA0697">
+"Nh... I-I did not."
 #
-　ヴィオラは顔を真っ赤にして答える。
+She blushes bright red as she answers.
 #
-　本当だろう。
+It's probably the truth.
 #
-　ヴィオラはそういう事に嘘はつけない。
+She can't lie about this kind of thing.
 #
-　俺は下着の中に指を潜り込ませ、膣口に指を一本
-　潜り込ませた。
+I slide my finger into her panties and into
+her.
 #
-<name "ヴィオラ" "!BA0698">
-「ぁっ」
+<name "Viola" "!BA0698">
+"Ah..."
 #
-　膣内は愛液でヌルヌルに濡れている。
+Her pussy's already slimy with her love juices.
 #
-　もう挿入しても良いような状態だ。
+I could already easily put it in.
 #
-<name "ラズロック">
-「ここに、俺以外の男が触れた事は？」
+<name "Lazlocke">
+"Has any man besides me ever touched you here?"
 #
-<name "ヴィオラ" "!BA0699">
-「……無いわよ」
+<name "Viola" "!BA0699">
+"...No."
 #
-<name "ラズロック">
-「俺だけか？」
+<name "Lazlocke">
+"I'm the only one?"
 #
-<name "ヴィオラ" "!BA0700">
-「……貴方だけよ」
+<name "Viola" "!BA0700">
+"...Only you."
 #
-　俺はその答えを聞き、ヴィオラの下着をずらした。
+I pull her underwear down.
 #
 <background "ev068b0.iph" 10>
-<name "ヴィオラ" "!BA0701">
-「ぁ……」
+<name "Viola" "!BA0701">
+"Ah..."
 #
-　そして、その陰部へ顔を近づける。
+And bring my face close to her.
 #
-　すでに出来上がった女の匂いが俺の鼻を擽る。
+The scent of an aroused woman tickles my nose.
 #
-　先程、イエルを抱いたばかりだと言うのに、俺の
-　股間のモノは大きく膨張し、女を求めている。
+Even though I was just with Elle, my dick
+expands, desiring another woman.
 #
-　俺は舌を伸ばし、その陰部の中へと潜り込ませる。
+I reach out with my tongue and slip it into
+her.
 #
-<name "ヴィオラ" "!BA0703">
-「ん……ぁ……ぁっ、ぁっ」
+<name "Viola" "!BA0703">
+"Mm...ah...ah...ah..."
 #
-　ピチャピチャとワザと大きな音を立てながら、舌
-　を動かし続ける。
+I move my tongue around, making loud slurping
+sounds.
 #
-　ヴィオラの匂い、感触、味、久しぶりだ。
+It's been a while since I smelled, felt, and
+tasted her.
 #
-　何年振りだろう。
+How many years has it been like this?
 #
-　いや、そんな事はどうでも良い。
+No, it doesn't matter.
 #
-<name "ヴィオラ" "!BA0704">
-「う、ぅぁ、ぁっ、ぁっ、くっ……」
+<name "Viola" "!BA0704">
+"Ah...ah...ah..."
 #
-　俺は狂ったようにヴィオラの膣内を舌で蹂躙した。
+I violate her all through her insides with my
+tongue.
 #
-<name "ヴィオラ" "!BA0705">
-「ぁっ、ぁぁっ、ふぁっ、あっ、あっ、やっ、ぁっ、
-　ぁ………………」
+<name "Viola" "!BA0705">
+"Ah...aah...ah...aah...ah...ahh...ah..."
 #
-　ヴィオラの足が閉まり、俺の動きを阻害する。
+Her legs close and block me.
 #
-　それを力で押し広げ、俺はさらに求め続けた。
+I force them open and keep going.
 #
-<name "ヴィオラ" "!BA0706">
-「！
-　っ！！
-　ぁ、っ、ひっ、くっ…………」
+<name "Viola" "!BA0706">
+"Ah! Nh!
+ Ah! Ah! Nnh..."
 #
-　そんな俺の行為の前に、ヴィオラは全身を震わせ、
-　ほんの少しだけ我慢した後、果てた。
+Her whole body shudders.
+She was only able to bear it a little bit 
+before coming.
 #
 <background "ev068b1.iph" 10>
-<name "ヴィオラ" "!BA0707">
-「ああああああああああああああっ！」
+<name "Viola" "!BA0707">
+"Aaaaaahhhhh!!!"
 #
-　陰部に顔をつけている俺に、ピュッと潮と小便が
-　掛けられる。
+She gushes all over my face with her juices and
+urine.
 #
-<name "ヴィオラ" "!BA0708">
-「ぁ、ぁ、ぁ、くはぁ……ぁぁ、ぁぁぁぁ」
+<name "Viola" "!BA0708">
+"Ah...ah...ah...ahhh...
+ Ahhhh...aaahhh..."
 #
-　ヴィオラは息を荒げながら、俺の頭を抱える。
+She holds my head as she gasps for breath.
 #
-　その手を掴み、俺はヴィオラの陰部から顔を離し
-　て立ち上がった。
+I stand up with her fingers in my hair.
 #
-<name "ヴィオラ" "!BA0709">
-「ぁ……」
+<name "Viola" "!BA0709">
+"Ah..."
 #
-　そして、ズボンの中で暴れそうなぐらい膨張して
-　いるモノを取り出し、ヴィオラの前に曝け出す。
+I take my swollen dick out of my pants and hold
+it in front of her.
 #
-<name "ヴィオラ" "!BA0710">
-「ぁ、……ぁ……」
+<name "Viola" "!BA0710">
+"Ah...ah..."
 #
-　ヴィオラが俺のモノを見て、喉を鳴らしたのを俺
-　は聞き逃さなかった。
+Her breath catches in her throat when she sees
+it.
 #
-　俺はヴィオラの陰部に、モノを近づける。
+I bring it to her entrance.
 #
-　モノ先を潜り込ませ、膣口に当てる。
+And then I slide it into her.
 #
-　ヴィオラの体温を感じるだけで、俺のモノから精
-　液が飛び出そうとしている。
+Just from feeling her warmth, liquid starts to
+seep out of my dick.
 #
-　それをグッと我慢し、ゆっくりと膣内に押し込ん
-　でいった。
+I endure it and slowly push into her.
 #
 <background "ev068c0.iph" 10>
-<name "ヴィオラ" "!BA0711">
-「あっ、ぁぁぁぁぁぁぁぁぁぁ……」
+<name "Viola" "!BA0711">
+"Ah...aaaaahhhhhh..."
 #
-　ズブズブと俺のモノが潜り込んでいく。
+My dick gradually slides in.
 #
-　少しづつ、俺とヴィオラの距離が近くなっていく。
+Little by little, the distance between us
+shrinks.
 #
-　そして、俺のモノがヴィオラの膣奥の壁を突いた。
+And finally, I'm completely buried inside her.
 #
-　奥だ。
+All the way in.
 #
-　根元まで咥え込んでいる。
+She's holding me down to the base.
 #
-　ヴィオラが、俺のモノを。
+My dick... inside her.
 #
-　俺はそう考えるだけで堪えきれず、ヴィオラを抱
-　き締めながら一気に射精を始めた。
+I can't bear that thought for another second
+and pull her close as I start to come.
 #
 <background "ev068c1.iph" 10>
-<name "ヴィオラ" "!BA0712">
-「ぁ、う、ぁ、ぁぁ……んんんっ！」
+<name "Viola" "!BA0712">
+"Ah...ah...aaah...
+ Mmmmmm!"
 #
-　ヴィオラの唇をキスで塞ぐ。
+I close her lips with a kiss.
 #
-　そのまま、俺は自分の射精が終るまでジッとして
-　いた。
+We stay like that, locked together, until I
+stop coming.
 #
 <background "ev068c2.iph" 10>
-<name "ヴィオラ" "!BA0713">
-「んぁ、ぁ、んぁ、ぁぅ……ぁ……」
+<name "Viola" "!BA0713">
+"Mmm...ah...mm...ah...ah..."
 #
-<name "ラズロック">
-「ヴィオラ」
+<name "Lazlocke">
+"Viola."
 #
-<name "ヴィオラ" "!BA0714">
-「ぁ、な、んんんっ！」
+<name "Viola" "!BA0714">
+"Ah... Wh...mmmm!"
 #
-　俺はヴィオラの身体に覆い被さり、求め続けた。
+I hang over her and continue taking her.
 #
 <background "ev069a0.iph" 10>
-<name "ヴィオラ" "!BA0715">
-「ぁ、ぁ……うぁ……」
+<name "Viola" "!BA0715">
+"Ah...ah...ahhh..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はヴィオラにキスをする。
+I kiss her.
 #
-　二度、三度。
+Again, and again.
 #
-　そして、深く舌を絡め合う。
+Our tongues entwine.
 #
-<name "ヴィオラ" "!BA0716">
-「ぁ……うぁん、ん……」
+<name "Viola" "!BA0716">
+"Ah...mmmm..."
 #
-<name "ラズロック">
-「……ヴィオラ」
+<name "Lazlocke">
+"Viola..."
 #
-　俺のモノは、まだヴィオラの膣内に入っている。
+My dick's still inside her.
 #
-　モノを挿入してから、数え切れないほどの射精を
-　繰り返している。
+I come over and over again, never taking it out
+of her.
 #
-　ヴィオラの膣内や子宮は俺の精液で溢れているだ
-　ろう。
+Her pussy and womb are overflowing with my
+semen.
 #
-　そう思うだけで、またヴィオラが愛しくなる。
+Just thinking about that makes me love her all
+the more.
 #
-　俺のモノがまたヴィオラを飽きずに求める。
+My dick never gets tired of her.
 #
-　しかし、もうすぐ夜明けだ。
+But it's almost dawn.
 #
-　そろそろ終るかとモノを抜こうとしたが、ヴィオ
-　ラの足が絡んで邪魔をした。
+I try to pull out to finish, but she wraps her
+legs around me and stops me.
 #
 <background "ev069a2.iph" 10>
-<name "ヴィオラ" "!BA0717">
-「ぁ」
+<name "Viola" "!BA0717">
+"Ah..."
 #
-　ヴィオラがまた、キスを求めてくる。
+She wants another kiss.
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はそれに応えた。
+I answer her request.
 #
-　抱き合いながらキスをし、そして腰を振る。
+And I thrust again as we kiss and hold each
+other.
 #
-<name "ヴィオラ" "!BA0718">
-「んぁ、んぁ、ぁっ、ぁぁ、ぁぁぁんんぁ」
+<name "Viola" "!BA0718">
+"Mm...mm...ah...aah...aahhhh..."
 #
-　そして絡み合いながら、精液をヴィオラの膣内に
-　また流し込む。
+And as we hold each other, I pour my semen into
+her again.
 #
 <background "ev069a3.iph" 10>
-<name "ヴィオラ" "!BA0719">
-「ぁ……ふぁ……ぁ」
+<name "Viola" "!BA0719">
+"Ah...ahh...ah..."
 #
-　このまま離したくない。
+I don't want to let her go.
 #
-　名残惜しい。
+I don't want to go.
 #
-　名残惜しいが、俺はヴィオラからモノを抜いた。
+I hate to do it, but I pull my dick out of her.
 #
 <background "ev069a4.iph" 10>
-<name "ヴィオラ" "!BA0720">
-「ぁっ」
+<name "Viola" "!BA0720">
+"Ah..."
 #
-<name "ラズロック">
-「そろそろ、正気に戻れ。
-　酒も抜けただろ」
+<name "Lazlocke">
+"It's time to sober up.
+ The wine must be wearing off."
 #
-<name "ヴィオラ" "!BA0721">
-「ぁ……ん、んぁ……」
+<name "Viola" "!BA0721">
+"Ah...mmm..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はヴィオラを軽く抱き締める。
+I hold her close.
 #
-<name "ヴィオラ" "!BA0722">
-「ん……」
+<name "Viola" "!BA0722">
+"Mm..."
 #
-　しばらくしていると、ヴィオラは正気を取り戻し
-　たらしい。
+After a while, she finally comes back to her
+senses.
 #
-　耳を真っ赤にしてテレている。
+She's blushing up to her ears.
 #
-<name "ラズロック">
-「まったく……
-　お前とは良い関係になれたと思っていたのに……」
+<name "Lazlocke">
+"Honestly...
+ I thought we were getting better than this..."
 #
-　こんな風な関係を望むつもりは無かった。
+I never wanted my relationship with her to be
+like this.
 #
 <background "ev069a1.iph" 10>
-<name "ヴィオラ" "!BA0723">
-「ふん」
+<name "Viola" "!BA0723">
+"Hmph."
 #
-<name "ラズロック">
-「だが、一回やったら、二回も三回も一緒だ」
+<name "Lazlocke">
+"But there's not much difference doing it once
+ and doing it over and over again."
 #
-<name "ラズロック">
-「これから、イエルを抱いた後はお前に報酬を払っ
-　て貰うからな」
+<name "Lazlocke">
+"From now on, I'll expect payment from you
+ after I'm with Elle."
 #
-　俺の言葉に、ヴィオラが顔を真っ赤にする。
+She blushes.
 #
-<name "ラズロック">
-「いまさらテレるな。
-　俺は、お前の身体の大半は知っている」
+<name "Lazlocke">
+"It's too late to be shy.
+ I know every inch of you."
 #
-<name "ヴィオラ" "!BA0724">
-「む……」
+<name "Viola" "!BA0724">
+"Grr..."
 #
-<name "ラズロック">
-「さっきみたいに、また可愛く喘いでくれ」
+<name "Lazlocke">
+"Please give me more of those lovely moans you
+ just did."
 #
-<name "ヴィオラ" "!BA0725">
-「べ、別に可愛くないわよ」
+<name "Viola" "!BA0725">
+"T-There's nothing lovely about it."
 #
-<name "ラズロック">
-「…………ヴィオラ」
+<name "Lazlocke">
+"Viola."
 #
-<name "ヴィオラ" "!BA0726">
-「なに」
+<name "Viola" "!BA0726">
+"What?"
 #
-<name "ラズロック">
-「………………もう一回だ」
+<name "Lazlocke">
+"...One more time."
 #
-<name "ヴィオラ" "!BA0727">
-「え」
+<name "Viola" "!BA0727">
+"Huh?"
 #
-　俺はヴィオラの膣内に、再度モノを捻じ込み腰を
-　振った。
+I push my dick back into her.
 #
 <background "ev069a4.iph" 10>
-<name "ヴィオラ" "!BA0728">
-「ぁっ、あっ、うぁっ、ぁぁぁぁぁ」
+<name "Viola" "!BA0728">
+"Ah! Aah! Ahh! Aaaaah!"
 #
-　行為を終えると、ヴィオラはベッドに崩れ、その
-　まま寝息をたて始めた。
+After I finish, she collapses in bed and falls
+fast asleep.
 #
-　俺はヴィオラを寝かせたまま、部屋を出た。
+I leave her in peace.
 #
-　軽く風呂を借りよう。
+But I do borrow the bath quickly.
 #
-　朝日が眩しい。
+The morning sun is so bright.
 #
-　夜明けだった。
+It's dawn.
 #
 \x0A\x04\x00\xD9\x84\x01\x78\x78

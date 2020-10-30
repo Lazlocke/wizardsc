@@ -1,65 +1,70 @@
 <music 36>
 <background "ev059a4.iph" 10>
-<name "イエル" "!CA0684">
-「ぁ、ぁ……うぁ……ぁぁ……」
+<name "Elle" "!CA0684">
+"Ah...ah...ahhh...aah..."
 #
-　イエルは行為に疲れ、喘ぎにも疲労の色が見えた。
+Elle pants, exhausted.
 #
-　モノを突き入れてから、抜かずに七回。
+I've come in her seven times without pulling
+out.
 #
-　今、八回目の射精に向けてイエルの膣内を蹂躙し
-　ている。
+I'm thrusting into her pussy to come for an
+eighth time.
 #
-<name "イエル" "!CA0685">
-「うぁ……あ、ま、まだ……ぁ……」
+<name "Elle" "!CA0685">
+"Aah...ah...
+ A-Again?
+ Ah..."
 #
-<name "ラズロック">
-「ああ……まだ続ける」
+<name "Lazlocke">
+"Yeah, I'm not done yet."
 #
-<name "イエル" "!CA0686">
-「ぁぅ……いつ、まで……」
+<name "Elle" "!CA0686">
+"Ooh...
+ How much... longer?"
 #
-<name "ラズロック">
-「お前の膣内が、俺のモノの形を覚えるまでかな」
+<name "Lazlocke">
+"Until your pussy learns the shape of my dick."
 #
-<name "イエル" "!CA0687">
-「ぁ、それなら……もう、覚えてます」
+<name "Elle" "!CA0687">
+"Ah... it knows it... already..."
 #
-<name "ラズロック">
-「可愛いヤツだな」
+<name "Lazlocke">
+"Cute girl."
 #
-　俺は腰の動きを速め、八回目の射精を行なった。
+I move faster and start to come for the eighth
+time.
 #
-<name "イエル" "!CA0688">
-「ぁぁぁぅ……」
+<name "Elle" "!CA0688">
+"Aahhh..."
 #
-　そして、射精を終えてモノを引き抜いた。
+After I finish, I pull out of her.
 #
-　イエルの膣口は開いたまま、俺の放った大量の精
-　液を零し出した。
+Her pussy gapes open, spilling out a flood of
+semen.
 #
 <music 6>
 <background "bg006b0.iph" 11>
 <sprite "ta02a74.iph" 4 4 11>
-<name "イエル" "!CA0689">
-「こ、今回は……辛かったです」
+<name "Elle" "!CA0689">
+"T-That time... it hurt."
 #
-<name "ラズロック">
-「なかなか、良かったぞ。
-　今度は、後ろの穴に教え込んでやろう」
+<name "Lazlocke">
+"You were pretty good.
+ Next time, I'll make your other hole learn."
 #
 <sprite "ta02a76.iph" 4 4 12>
-<name "イエル" "!CA0690">
-「うう……」
+<name "Elle" "!CA0690">
+"Ohh..."
 #
-<name "ラズロック">
-「楽しみか？」
+<name "Lazlocke">
+"Did you enjoy it?"
 #
 <sprite "ta02a66.iph" 4 4 12>
-<name "イエル" "!CA0691">
-「………………少しだけ」
+<name "Elle" "!CA0691">
+".........Maybe a little."
 #
 <removesprite -1 11>
-　俺はイエルを抱き寄せ、頭を撫でてやった。
+I pull her into my arms and stroke her hair.
 #
 \x78\x78
