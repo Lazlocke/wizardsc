@@ -1,43 +1,47 @@
 <music 36>
 <background "ev042a2.iph" 10>
-<name "セリス" "!AA5295">
-「ふぁ、ぁっ、こ、こんな、あ、あん、こんな格好
-　でなんて、ああん、んぁ、んぁん」
+<name "Celes" "!AA5295">
+"Aah...ah... I-I don't... ah...ah...
+ I don't like this position...
+ Aaaah...aah...ahhh..."
 #
-<name "ラズロック">
-「あまり大きな声を出すな。
-　誰か来たらどうするんだ？」
+<name "Lazlocke">
+"Don't be so loud.
+ What if someone comes?"
 #
-<name "セリス" "!AA5296">
-「ふぁん、だ、だったら、あ、あん、こんな場所で
-　ふぁ、ぁぁ、ぁぁん、んぁ、んぁぁぁ」
+<name "Celes" "!AA5296">
+"Aaah! T-Then...ah... we shouldn't do it out
+ here...
+ Ahhh! Aah! Ahh! Ah! Ahhh!"
 #
-<name "ラズロック">
-「セリスが可愛く、尻なんか振るからだろ」
+<name "Lazlocke">
+"But your cute ass was wiggling so prettily."
 #
-<name "セリス" "!AA5297">
-「べ、別に、ふぁ、師匠を、ああん、誘ったわけじゃ
-　ありませぇあううん」
+<name "Celes" "!AA5297">
+"I-I wasn't... ahhh... trying to seduce you...
+ Aaah!"
 #
-<name "ラズロック">
-「そうだったのか？
-　じゃあ、止めるか？」
+<name "Lazlocke">
+"Really?
+ Then should we stop?"
 #
-<name "セリス" "!AA5298">
-「ふぁん、あ、ん、もう、意地悪、ふぁ、ここまで、
-　ああん」
+<name "Celes" "!AA5298">
+"Aaah! Ah! Geez! You're so mean...
+ Aahh! We're already doing it...
+ Ahhh!"
 #
-<name "ラズロック">
-「冗談だ。
-　最後までやってやる」
+<name "Lazlocke">
+"Just kidding.
+ We'll go to the very end."
 #
-<name "セリス" "!AA5299">
-「あ、あん、んぁん、は、はい。
-　うぁ、お願い、あ、し、します」
+<name "Celes" "!AA5299">
+"Aaah! Ah! Ahh! Y-Yes, sir!
+ Ahh! Please... ah... d-do!"
 #
-　俺はセリスと長く交わっていた。
+I spend a long time with her.
 #
-<name "セリス" "!AA5300">
-「うう、練習時間が……」
+<name "Celes" "!AA5300">
+"Ohhh...
+ My practice time..."
 #
 \x78\x78

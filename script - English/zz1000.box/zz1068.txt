@@ -1,74 +1,74 @@
 <music 10>
 <background "ev045a0.iph" 10>
-　セリスは、まだまだ未熟だからと俺の弟子を続け
-　ていた。
+Celes still had a lot to learn, so she remained
+my apprentice.
 #
-<name "セリス" "!AA6509">
-「師匠……とっ……はっ……やっ……」
+<name "Celes" "!AA6509">
+"Master...
+ Yah...hya...yah..."
 #
-　……
+...
 #
-<name "セリス" "!AA6510">
-「し、師匠……頭をもう少し下げて……」
+<name "Celes" "!AA6510">
+"M-Master, lower your head a little more."
 #
-　セリスはCookingを魔法で運んでいた。
+She's carrying dishes with magic.
 #
-　これまでは戦う為の魔法を多く学んでいたが、こ
-　れからはもっと幅広く学びたいらしい。
+She's learned a lot of magic for fighting, but
+she wants to learn much more than that.
 #
-　その第一歩がこれだが……
+This is the first step.
 #
-<name "ラズロック">
-「失敗したら、晩飯が無くなると言うリスキーな修
-　行だな」
+<name "Lazlocke">
+"This is a risky kind of training.
+ If you mess up, you lose your dinner."
 #
-<name "セリス" "!AA6511">
-「え、ええ……本当に」
+<name "Celes" "!AA6511">
+"Y-Yes, I'm aware."
 #
-<name "ラズロック">
-「それに俺を巻き込む理由は？」
+<name "Lazlocke">
+"And why do I have to be a part of it?"
 #
-<name "セリス" "!AA6512">
-「し、師匠と弟子は……一心……同体」
+<name "Celes" "!AA6512">
+"M-Master and apprentice... should share their
+ fates..."
 #
-<name "ラズロック">
-「ほう……」
+<name "Lazlocke">
+"Oh?"
 #
-<name "セリス" "!AA6513">
-「ああ、動いちゃ駄目です。
-　うわっ、あっ、やっ、きゃぁぁっ」
+<name "Celes" "!AA6513">
+"Aah! Don't move.
+ Aaah! Ah! Oh! Eeek!"
 #
 <background "ev045a1.iph" 10>
-　セリスティーネ＝ロココは、決して優秀とは言え
-　ず、歴史に残るような成果や、実績を残したワケ
-　ではない。
+Celestine Rococo is anything but an exemplary
+wizard, and her name definitely isn't going to go
+down in history.
 #
-　魔法使いとしては、ごく平凡な力だった。
+As a wizard, she's average at best.
 #
-　しかし、セリスはその事を嘆いたり、不満がった
-　りはしなかった。
+But she didn't grieve or lament it.
 #
-　それよりも、持ち前の努力家ぶりを発揮し、少し
-　でも上の魔法使いになろうと努力し続けた。
+She demonstrated her own perseverance and 
+continued striving to be an above-average wizard.
 #
-　そんな唯一の弟子を助けながら、俺は協会の仕事
-　をのんびりとこなし、ゆったりとした生活を送っ
-　た。
+I took on odd jobs from the Guild as I helped my
+only apprentice, and lead a carefree life.
 #
-<name "セリス" "!AA6514">
-「師匠、ご飯が冷たいです」
+<name "Celes" "!AA6514">
+"Master, the dinner's cold."
 #
-<name "ラズロック">
-「運ぶのにアレだけ時間をかけたらなぁ」
+<name "Lazlocke">
+"Then you should have carried it quicker."
 #
-<name "セリス" "!AA6515">
-「むう……
-　次はもっと頑張ります」
+<name "Celes" "!AA6515">
+"Grrr...
+ I'll try harder next time."
 #
-<name "ラズロック">
-「そうだな」
+<name "Lazlocke">
+"Yeah."
 #
-　俺はセリスの頭を撫でながら、冷たくなったご飯
-　を口に運んだ。
+I pat her on the head and take a bite of my cold
+dinner.
 #
 \x78\x78

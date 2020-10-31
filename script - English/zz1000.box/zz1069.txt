@@ -1,80 +1,79 @@
 <music 31>
 <background "ev063a0.iph" 10>
-<name "イエル" "!CA0862">
-「これと、これと……これっと」
+<name "Elle" "!CA0862">
+"This, this, and... this."
 #
-<name "ラズロック">
-「買物はこれで終わりかな」
+<name "Lazlocke">
+"Done shopping yet?"
 #
-<name "イエル" "!CA0863">
-「はい。
-　セリスが待ってます。
-　急いで帰りましょう」
+<name "Elle" "!CA0863">
+"Yes.
+ Celes is waiting.
+ Let's hurry home."
 #
-<name "ラズロック">
-「そうだな」
+<name "Lazlocke">
+"Yeah."
 #
 \x2B
 <background "ev045a0.iph" 10>
-<name "セリス" "!AA6516">
-「はい、Cookingが出来ましたよー」
+<name "Celes" "!AA6516">
+"Here, I cooked this."
 #
-<name "ラズロック">
-「魔法で運ぶ練習か？」
+<name "Lazlocke">
+"Using manipulation magic?"
 #
-<name "セリス" "!AA6517">
-「はい。
-　頑張っています」
+<name "Celes" "!AA6517">
+"Yes, I tried really hard."
 #
-<name "ラズロック">
-「頑張るのは良いが……リスキーな修行内容だ」
+<name "Lazlocke">
+"That's a good thing, but it's a risky way to
+ train."
 #
-<name "セリス" "!AA6518">
-「すみません。
-　イエルちゃんを呼んで貰えますか」
+<name "Celes" "!AA6518">
+"I'm sorry.
+ Can you call Elle?"
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"All right."
 #
 <background "ev045a1.iph" 10>
-　セリスティーネ＝ロココ
-　イエル＝ブルータクト
+Celestine Rococo and Elle Bluetact.
 #
-　二人はまだまだ修行中だ。
+They're both still training.
 #
-　そして、ヴィオラが忙しい時は、イエルも俺が面
-　倒を見るようになった。
+When Viola's busy, I look after Elle.
 #
-　最近では、ヴィオラよりも俺が見ている時間の方
-　が長いぐらいだ。
+Lately, I've been spending more time taking care
+of her than Viola has.
 #
-<name "セリス" "!AA6519">
-「むう、師匠の弟子は私一人で十分なのに」
+<name "Celes" "!AA6519">
+"Grr. I should be your only apprentice."
 #
-<name "イエル" "!CA0865">
-「独り占めは良くないわよ」
+<name "Elle" "!CA0865">
+"No hogging him."
 #
-<name "セリス" "!AA6520">
-「むう」
+<name "Celes" "!AA6520">
+"Grrr..."
 #
-<name "イエル" "!CA0866">
-「と言うワケで、今晩は二人で」
+<name "Elle" "!CA0866">
+"And I should mention, it's just the two of us
+ tonight."
 #
-<name "セリス" "!AA6521">
-「ズルイ！
-　今日は私の日なのに！」
+<name "Celes" "!AA6521">
+"No fair!
+ Today's my turn!"
 #
-<name "ラズロック">
-「喧嘩する前に、修行に励め。
-　まだまだ成績が悪い」
+<name "Lazlocke">
+"If you have energy to fight, use it to train.
+ Your grades are still terrible."
 #
-<name "セリス" "!AA6522">
-「すみません」
+<name "Celes" "!AA6522">
+"I'm sorry."
 #
-<name "イエル" "!CA0867">
-「頑張ります」
+<name "Elle" "!CA0867">
+"I'll try my best."
 #
-　この二人との付き合いは、まだまだ長くなりそう
-　だ。
+Apparently my relationship with them won't be
+ending any time soon.
 #
 \x78\x78

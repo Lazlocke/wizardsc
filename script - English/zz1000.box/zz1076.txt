@@ -1,73 +1,77 @@
 <music 32>
 <background "ev051a0.iph" 10>
-<name "セリス" "!AA6591">
-「怯まずに、前へ！
-　ここさえ抜ければ、お宝よ」
+<name "Celes" "!AA6591">
+"Don't be scared! Forward!
+ If we get through this, there's treasure!"
 #
-　セリスの声に力を貰ったセリスの仲間が、巨大な
-　魔物に斬りかかる。
+Her companions draw strength from her shout and
+stab at the huge monster.
 #
-　それをセリスが魔法で援護しながら、巨大な魔物
-　をジワジワと圧倒していった。
+She backs them up with magic.
+They overwhelm it and blast it until it's
+smoldering.
 #
-　そして、セリスの魔法が巨大な魔物に止めを刺す。
+And then, Celes's magic delivers the finishing
+blow.
 #
-<name "セリス" "!AA6592">
-「よしっ！
-　お宝よ」
+<name "Celes" "!AA6592">
+"All right!
+ Treasure!"
 #
-　セリスがそう喜んだ瞬間、先程倒した巨大な魔物
-　が三匹、現れた。
+But before she can celebrate, three more giant
+monsters appear.
 #
-　そして、その後ろにさらに巨大な魔物。
+And an even larger one behind them.
 #
-<name "セリス" "!AA6593">
-「簡単に、お宝は渡してくれないか……」
+<name "Celes" "!AA6593">
+"You won't let me have the treasure so easily,
+ huh?"
 #
-　セリスの仲間は露骨に腰が引けたが、セリスがそ
-　の前に出て、魔物と対峙した。
+Her companions shirk in fear, but Celes stands
+before them and faces the monsters.
 #
-<name "セリス" "!AA6594">
-「でも、こうでなきゃね」
+<name "Celes" "!AA6594">
+"But this is how it has to be."
 #
 <background "ev051a1.iph" 10>
-　セリスは魔物達に向かい、攻撃を開始した。
+She faces the monsters and attacks.
 #
 <background "ev051a2.iph" 10>
-　セリスは、冒険者となった。
+Celes became an adventurer.
 #
-　魔法使いとしての修行中、冒険者っぽい事をさせ
-　過ぎたからかもしれない。
+Maybe it's because she did so much adventurer
+stuff while she was training to be a wizard.
 #
-　まあ、セリスも楽しそうにやっているので、これ
-　はこれで良かったのかもしれない。
+Well, she's enjoying herself, so there's nothing
+wrong with that.
 #
-　机の前だけで活躍するのが魔法使いの道ではない
-　のだから。
+Sitting at a desk isn't the only path to being
+a wizard.
 #
-<name "セリス" "!AA6595">
-「次は、どのダンジョンを狙おうかしら」
+<name "Celes" "!AA6595">
+"Which dungeon should we do next?"
 #
-　しかし、まあ……
+Still, well...
 #
-　アウトドアな感じの魔法使いになってしまった。
+She's become kind of an outdoor wizard.
 #
-<name "セリス" "!AA6596">
-「師匠。
-　狙っているダンジョンがあるんですが、今度、一
-　緒に行きませんか？」
+<name "Celes" "!AA6596">
+"Master, there's a dungeon I want to go to.
+ Can't you come with me?"
 #
-<name "ラズロック">
-「……お前が俺を誘うぐらい、危ない場所なのか」
+<name "Lazlocke">
+"...Are the only places you're going to invite
+ me dangerous?"
 #
-<name "セリス" "!AA6597">
-「はい」
+<name "Celes" "!AA6597">
+"Yep."
 #
-<name "ラズロック">
-「すっごい笑顔で返事するんだな」
+<name "Lazlocke">
+"Don't answer like that with a big smile."
 #
-　未知や未開の場所はもちろん、魔物が多い場所に
-　行く事になる冒険者は危険な仕事だが、セリスは
-　かなり高齢まで冒険者であったらしい。
+Adventurers only go to uncivilized, unknown, and
+dangerous places, especially those full of 
+monsters and life-threatening hazards.
+She'll be an adventurer until she's old and grey.
 #
 \x78\x78

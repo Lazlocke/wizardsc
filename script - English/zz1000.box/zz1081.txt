@@ -1,123 +1,123 @@
 <music 10>
 <background "ev072a0.iph" 10>
-<name "ヴィオラ" "!BA1051">
-「お茶」
+<name "Viola" "!BA1051">
+"Tea."
 #
-<name "ラズロック">
-「丁度、用意したところだ」
+<name "Lazlocke">
+"I just made it."
 #
-<name "ヴィオラ" "!BA1052">
-「あら、私の為に？」
+<name "Viola" "!BA1052">
+"Oh? For me?"
 #
-<name "ラズロック">
-「そろそろ、来るんじゃないかと思ってな」
+<name "Lazlocke">
+"I had a hunch you'd be coming by."
 #
-　俺はヴィオラの前にお茶を並べる。
+I pour a cup of tea for her.
 #
-<name "ラズロック">
-「王都の方はどうだ？」
+<name "Lazlocke">
+"How was the capital?"
 #
-<name "ヴィオラ" "!BA1053">
-「王の頭が柔らかいから、助かってるわ。
-　経済も安定してるしね」
+<name "Viola" "!BA1053">
+"The king's easy going, so it was easy enough.
+ The economy's stable too."
 #
-<name "ヴィオラ" "!BA1054">
-「問題は、そういった王の良さを理解できない馬鹿
-　が居るって事かな」
+<name "Viola" "!BA1054">
+"The problem are the idiots who don't understand
+ the benefits of having a king like that."
 #
-<name "ラズロック">
-「俺の所で茶を飲みながらそう言った話が出来るっ
-　て事は、手は打ってあるんだろ」
+<name "Lazlocke">
+"The fact that you're here drinking tea at my
+ place while saying that means that you've got
+ it under control, doesn't it?"
 #
-<name "ヴィオラ" "!BA1055">
-「ええ、今月中に全員、捕らえられるわ。
-　正しい罪状でね」
+<name "Viola" "!BA1055">
+"Yes. They'll all be arrested by the end of the
+ month, with legitimate charges."
 #
-<name "ラズロック">
-「なるほど。
-　そうなると、王の周りの人材が足りないんじゃな
-　いか？」
+<name "Lazlocke">
+"I see.
+ Then there aren't enough trusted advisors
+ around the king?"
 #
-<name "ヴィオラ" "!BA1056">
-「頭が痛い所よ。
-　協会から何人か引っ張る事になるかも」
+<name "Viola" "!BA1056">
+"That's what gives me a migraine.
+ I may need to pull some in from the Guild."
 #
-<name "ラズロック">
-「そりゃ大変だ」
+<name "Lazlocke">
+"Sounds rough."
 #
-<name "ヴィオラ" "!BA1057">
-「貴方が、来てくれても良いんだけど」
+<name "Viola" "!BA1057">
+"You could come."
 #
-<name "ラズロック">
-「はは、考えておこう」
+<name "Lazlocke">
+"Haha. I'll think about it."
 #
 <background "ev072a1.iph" 10>
-　ヴィオラ＝エントラ
+Viola Entra.
 #
-　クインズベル王国の宮廷魔法使いとして、そして
-　優秀な政治家として確実に歴史に名前を刻んだ。
+Her name will go down in history as both a court
+wizard of Queensbell, and a master politician.
 #
-　ヴィオラの存在が無ければ、王国の歴史が二百年
-　短くなったと言われるぐらいだ。
+It's said that she alone is responsible for
+lengthening the reign of the kingdom for another
+two centuries.
 #
-　将来的には、魔法使い協会の協会長にまで上り詰
-　める事になるのだが、今の俺にはそんな事はわか
-　らない。
+She could even become the head of the Guild in
+the future, but who can say?
 #
-<name "ヴィオラ" "!BA1058">
-「しばらくはローリアの街に居るわ」
+<name "Viola" "!BA1058">
+"I'll be in Loria for a while."
 #
-<name "ラズロック">
-「王都の方は良いのか？」
+<name "Lazlocke">
+"Isn't the capital better?"
 #
-<name "ヴィオラ" "!BA1059">
-「私が居ない方が平和なのよ」
+<name "Viola" "!BA1059">
+"It's more peaceful without me around."
 #
-<name "ラズロック">
-「そうなのか？」
+<name "Lazlocke">
+"Really?"
 #
-<name "ヴィオラ" "!BA1060">
-「私が居ると、落ち着かない人が居るみたいなのよ。
-　それが色々とね」
+<name "Viola" "!BA1060">
+"A lot of people get restless around me.
+ For a number of reasons."
 #
-<name "ラズロック">
-「大変だな」
+<name "Lazlocke">
+"Sounds rough."
 #
-<name "ヴィオラ" "!BA1061">
-「あれはあれで楽しいんだけど……
-　いい加減、面倒になってきたから、協会の情報部
-　に相手の弱点探しを頼んでるの」
+<name "Viola" "!BA1061">
+"That in itself is entertaining, but the chaos
+ has gotten irritating. I think I need to ask
+ Guild Intelligence to sniff out some leverage."
 #
-<name "ラズロック">
-「それで、相手を油断させる為に、王都から離れた
-　のか」
+<name "Lazlocke">
+"So you left the capital to get them to relax
+ their guard?"
 #
-<name "ヴィオラ" "!BA1062">
-「その通り。
-　だから、しばらくはのんびりするわ」
+<name "Viola" "!BA1062">
+"Precisely.
+ So let's just relax for a while."
 #
-<name "ヴィオラ" "!BA1063">
-「で、色々とよろしくね」
+<name "Viola" "!BA1063">
+"And, thank you for everything."
 #
-<name "ラズロック">
-「色々？」
+<name "Lazlocke">
+"Everything?"
 #
-<name "ヴィオラ" "!BA1064">
-「食事とか」
+<name "Viola" "!BA1064">
+"Like dinner."
 #
-<name "ラズロック">
-「わかったわかった。
-　用意しておこう」
+<name "Lazlocke">
+"Yeah, yeah.
+ I'll go get it ready."
 #
-<name "ヴィオラ" "!BA1065">
-「こっちに泊まって良いって言ってくれると、助か
-　るんだけど」
+<name "Viola" "!BA1065">
+"It'd be nice if I could just stay here though."
 #
-<name "ラズロック">
-「はいはい。
-　断わっても、無理矢理に泊まるだろ」
+<name "Lazlocke">
+"Yeah, yeah.
+ Like you'd even let me say no."
 #
-　ヴィオラとは良い友人として、長く付き合う事に
-　なる。
+My friendly relationship with her is going to
+last a very long time.
 #
 \x78\x78

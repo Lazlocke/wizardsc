@@ -1,59 +1,62 @@
 <music 25>
 <background "bg004a0.iph" 11>
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
 <sprite "ta01d07.iph" 4 4 11>
-<name "セリス" "!AA5309">
-「師匠」
+<name "Celes" "!AA5309">
+"Master."
 #
-<name "ラズロック">
-「やるか」
+<name "Lazlocke">
+"Let's do it."
 #
 <sprite "ta01d15.iph" 4 4 12>
-<name "セリス" "!AA5310">
-「はい」
+<name "Celes" "!AA5310">
+"Okay."
 #
 <removesprite -1 11>
 <music 36>
 <background "ev042a2.iph" 10>
-<name "セリス" "!AA5311">
-「ふぁん、この格好にも、慣れ、あ、ああん」
+<name "Celes" "!AA5311">
+"Ahhh! I've gotten used to this position...
+ Aah! Ahhh!"
 #
-　俺は野外で、セリスと楽しんだ。
+I enjoy the outdoors with her.
 #
 <background "bg004a0.iph" 11>
-<name "セリス" "!AA5312">
-「あの、別に地面の上で横になっても良いですよ」
+<name "Celes" "!AA5312">
+"Um, I don't mind if we do it on the ground."
 #
-<name "ラズロック">
-「それも悪く無いが、見た目が悪い」
+<name "Lazlocke">
+"That's not bad, but it feels wrong."
 #
-<name "セリス" "!AA5313">
-「悪いですか？」
+<name "Celes" "!AA5313">
+"Wrong?"
 #
-<name "ラズロック">
-「いや、凄く襲っている感じが……」
+<name "Lazlocke">
+"I mean, it feels like I'm assaulting you."
 #
-<name "セリス" "!AA5314">
-「襲っているのだから、問題無いと思いますが？」
+<name "Celes" "!AA5314">
+"You are assaulting me, so I don't see any
+ issue with that."
 #
-<name "ラズロック">
-「……そうか」
+<name "Lazlocke">
+"I see."
 #
-　俺はセリスを地面の上に転がして、押し倒した。
+I push her to the ground.
 #
-<name "セリス" "!AA5315">
-「地面の上でやると、メチャクチャ痛いです。
-　あと、すっごく襲われた感があります」
+<name "Celes" "!AA5315">
+"It hurts a lot doing it on the rough ground.
+ And it definitely feels like you're being
+ assaulted."
 #
-<name "ラズロック">
-「だろ」
+<name "Lazlocke">
+"I know, right?"
 #
-<name "セリス" "!AA5316">
-「これはこれで興奮します」
+<name "Celes" "!AA5316">
+"That makes it exciting too though."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
 \x78\x78

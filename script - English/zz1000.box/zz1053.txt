@@ -1,62 +1,65 @@
 <music 36>
 <background "ev042a2.iph" 10>
-<name "セリス" "!AA5289">
-「ふぁ、ぁ、ん、ん、んぁぁぁ……」
+<name "Celes" "!AA5289">
+"Ahh...ah...mmm...mm...ahhh..."
 #
-　セリスは、俺のモノが膣内を動く度に、声を漏ら
-　す。
+Celes moans as my dick goes in and out of her.
 #
-　しかし、その声は何か抑えられた感じだった。
+But it feels like she's trying to hold it in.
 #
-<name "ラズロック">
-「どうした？」
+<name "Lazlocke">
+"What's the matter?"
 #
-<name "セリス" "!AA5290">
-「ふぁ、ぁ、ん、だ、誰かに、ぁ、うん、ぁ、聞か
-　れたら、ぁ、ぁぁんん」
+<name "Celes" "!AA5290">
+"Aah...ah...
+ S-Someone... ah... c-could hear...
+ Ah...ahhh..."
 #
-<name "ラズロック">
-「声を抑えていると、さらに俺の興奮を誘うぞ」
+<name "Lazlocke">
+"When you're holding back, it turns me on
+ more."
 #
-<name "セリス" "!AA5291">
-「ぁ、ん、で、でも、誰かに、ふぁ、ぁ、ん」
+<name "Celes" "!AA5291">
+"Ah...mm...
+ B-But what if someone...
+ Aaahh...ah...mmm..."
 #
-　誰かに聞かれる事を心配しているのだろう。
+She's worried about someone seeing us.
 #
-　いまさらな感じもするが……
+Now I'm thinking about it too.
 #
-<name "ラズロック">
-「大丈夫だ。
-　ここには滅多に人は来ない」
+<name "Lazlocke">
+"Don't worry.
+ Hardly anybody comes here."
 #
-　来ても、ソシエットかヴィオラだろう。
+And if someone did, it'd be Soshiette or
+Viola.
 #
-<name "ラズロック">
-「遠慮無く、声を出せ」
+<name "Lazlocke">
+"There's no need to hold back."
 #
-<name "セリス" "!AA5292">
-「ふぁ、ぁ、ぁ、ぁん、んぁ、んぁん……」
+<name "Celes" "!AA5292">
+"Aaah...ah...ah...ah...ahh...ah..."
 #
-　そう言っても、セリスはなかなか声を出さなかっ
-　た。
+But she keeps holding it in.
 #
-<name "ラズロック">
-「仕方がないな」
+<name "Lazlocke">
+"All right, then."
 #
-<name "セリス" "!AA5293">
-「す、すみま、ふぁ、せん、あぁん、師匠……」
+<name "Celes" "!AA5293">
+"I-I'm s-sorry... aah... Master..."
 #
-　俺は声を抑えたセリスを相手に二度の射精を行い、
-　行為を終えた。
+I come in her twice and finish while she keeps
+choking down her voice.
 #
 <music 10>
 <background "bg004a0.iph" 11>
-<name "ラズロック">
-「……達した時の声は、なかなかだったぞ」
+<name "Lazlocke">
+"I liked hearing you orgasm."
 #
 <sprite "ta01d77.iph" 4 4 11>
-<name "セリス" "!AA5294">
-「い、意地悪を言わないでください」
+<name "Celes" "!AA5294">
+"P-Please don't be mean."
 #
 <removesprite -1 11>
 \x2B\x78\x78

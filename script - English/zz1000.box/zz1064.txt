@@ -1,17 +1,18 @@
 <music 25>
 <background "ev053a0.iph" 10>
-<name "セリス" "!AA0702">
-「ジャーンプ！」
+<name "Celes" "!AA0702">
+"Jump!"
 #
-<name "イエル" "!CA0081">
-「むきー、ロープが……」
+<name "Elle" "!CA0081">
+"Urgh! The stupid rope..."
 #
-　二人は熱心に障害物走を楽しんでいた。
+The two of them are excitedly enjoying the
+obstacle course.
 #
-<name "ラズロック">
-「……後で庭、元に戻せよ」
+<name "Lazlocke">
+"...Put the yard back the way it was."
 #
-<name "ソシエット" "!DA0234">
-「頑張ります」
+<name "Soshiette" "!DA0234">
+"I'll do my best."
 #
 \x78\x78

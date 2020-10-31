@@ -1,25 +1,25 @@
 <music 38>
 <background "ev040a1.iph" 10>
-<name "ラズロック">
-「セリス、正直に告白しよう」
+<name "Lazlocke">
+"Celes, be honest with me."
 #
-<name "セリス" "!AA5233">
-「なんですか？」
+<name "Celes" "!AA5233">
+"Yes?"
 #
-<name "ラズロック">
-「実は俺、こうやって襲う系が好きかもしれない」
+<name "Lazlocke">
+"I feel like you actually like this kind of
+ assault roleplaying."
 #
-<name "セリス" "!AA5234">
-「師匠。
-　実は私も、こうやって襲われる感じが好きかもし
-　れません」
+<name "Celes" "!AA5234">
+"Master, actually, I think I might like feeling
+ like I'm being assaulted like this too."
 #
-<name "ラズロック">
-「セリス」
+<name "Lazlocke">
+"Celes."
 #
-<name "セリス" "!AA5235">
-「師匠」
+<name "Celes" "!AA5235">
+"Master."
 #
-　俺達は激しく野外での行為を楽しんだ。
+We enjoy an intense time outdoors.
 #
 \x78\x78

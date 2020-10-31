@@ -1,152 +1,157 @@
 <music 5>
 <background "ev071a0.iph" 10>
-<name "ヴィオラ" "!BA1028">
-「また、協会？」
+<name "Viola" "!BA1028">
+"The Guild again?"
 #
-<name "ラズロック">
-「仕事なんだから仕方が無いだろ」
+<name "Lazlocke">
+"It's work. There's not much I can do about it."
 #
-<name "ヴィオラ" "!BA1029">
-「断われるでしょ」
+<name "Viola" "!BA1029">
+"You could say no."
 #
-<name "ラズロック">
-「そう言ってもだな」
+<name "Lazlocke">
+"Easier said than done."
 #
-<name "ヴィオラ" "!BA1030">
-「魔力なら、私が全部貰って上げるって言ったわよ」
+<name "Viola" "!BA1030">
+"If it's mana, I already said that I'd take care
+ of all of that."
 #
-<name "ラズロック">
-「そうだけどな」
+<name "Lazlocke">
+"Yeah, but..."
 #
-<name "ヴィオラ" "!BA1031">
-「むう……」
+<name "Viola" "!BA1031">
+"Grr..."
 #
-<name "ラズロック">
-「怒ってるのか？」
+<name "Lazlocke">
+"Are you mad?"
 #
-<name "ヴィオラ" "!BA1032">
-「怒ってるわよ」
+<name "Viola" "!BA1032">
+"I am mad."
 #
-<name "ラズロック">
-「そうか。
-　ところで、俺はお前をたちどころに機嫌良くさせ
-　る方法を知っている」
+<name "Lazlocke">
+"I see.
+ You know, I know how to cheer you up right away."
 #
-<name "ヴィオラ" "!BA1033">
-「何をされても、機嫌良くなったりしないわよ」
+<name "Viola" "!BA1033">
+"Whatever you do, I won't be in a good mood."
 #
-<name "ラズロック">
-「手、繋ぎながら寝てやるぞ」
+<name "Lazlocke">
+"We could sleep, holding hands."
 #
-<name "ヴィオラ" "!BA1034">
-「………………」
+<name "Viola" "!BA1034">
+"........."
 #
-<name "ラズロック">
-「嫌か？」
+<name "Lazlocke">
+"No?"
 #
-<name "ヴィオラ" "!BA1035">
-「い、嫌とは言ってないでしょ！」
+<name "Viola" "!BA1035">
+"I-I didn't say no!"
 #
-<name "ラズロック">
-「そうか。
-　じゃあ、機嫌を直せ」
+<name "Lazlocke">
+"I see.
+ Then try to feel better."
 #
-<name "ヴィオラ" "!BA1036">
-「う、うん」
+<name "Viola" "!BA1036">
+"F-Fine."
 #
 <background "ev071a1.iph" 10>
-　ヴィオラ＝エントラ
+Viola Entra.
 #
-　宮廷魔法使いを続けながら俺の妻となり、円満な
-　夫婦生活を送っている。
+She became my wife, while remaining a court
+wizard, and we've been living the peaceful
+married life.
 #
-<name "ラズロック">
-「ところで……」
+<name "Lazlocke">
+"By the way..."
 #
-<name "ヴィオラ" "!BA1037">
-「なに？」
+<name "Viola" "!BA1037">
+"What?"
 #
-<name "ラズロック">
-「いつから、俺の事を？」
+<name "Lazlocke">
+"When'd you feelings for me change?"
 #
-<name "ヴィオラ" "!BA1038">
-「貴方が居なくなった時から」
+<name "Viola" "!BA1038">
+"When you went away."
 #
-<name "ラズロック">
-「と言うと……テロル山での戦いの後か？」
+<name "Lazlocke">
+"Meaning... after the fight at the Terol
+ Mountains?"
 #
-<name "ヴィオラ" "!BA1039">
-「うん。
-　貴方が居なくなったって聞いた時は、どうも思わ
-　なかったんだけど……
-　その、後から、ずっと気になってて……」
+<name "Viola" "!BA1039">
+"Yeah. When I heard you were gone, I didn't
+ think much about it, but, um, that was when I
+ started worrying..."
 #
-<name "ヴィオラ" "!BA1040">
-「何度か、私も探しに出たのよ」
+<name "Viola" "!BA1040">
+"I went out looking for you several times."
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"I see..."
 #
-<name "ヴィオラ" "!BA1041">
-「貴方が帰ってた時、その、想いを伝えようと思っ
-　たんだけど……」
+<name "Viola" "!BA1041">
+"When you came back, um, I was going to tell you
+ how I felt..."
 #
-<name "ヴィオラ" "!BA1042">
-「私が貴方に酷い事を言ったでしょ」
+<name "Viola" "!BA1042">
+"I said horrible things to you."
 #
-<name "ラズロック">
-「ああ、あれは傷ついた」
+<name "Lazlocke">
+"Yeah, that hurt."
 #
-　貴方が私をどう想っていようが、貴方が何を正義
-　と考えようが関係無い。
+It doesn't matter how you feel about me.
+It doesn't matter what you think is right or
+wrong.
 #
-　貴方は、私に魔力を与える為に、私を抱きなさい。
+You need to have sex with me to give me mana.
 #
-　好きな相手を抱けるんだから、それで良いでしょ。
-　それとも、もう好きでなくなった？
+You get to have sex with the one you love.
+You should have no problem with it.
+Or do you no longer fancy me?
 #
-　……俺の事が嫌いか。
+...Do you hate me?
 #
-　どこを好きになれって言うの。
+What is there to love?
 #
-<name "ヴィオラ" "!BA1043">
-「ごめんなさい」
+<name "Viola" "!BA1043">
+"I'm sorry."
 #
-<name "ラズロック">
-「……いいさ、気にしてない」
+<name "Lazlocke">
+"...It's fine. Don't worry about it."
 #
-<name "ヴィオラ" "!BA1044">
-「でも、私はあの言葉がずっと後悔だった」
+<name "Viola" "!BA1044">
+"But I regretted what I said for a long time."
 #
-<name "ヴィオラ" "!BA1045">
-「自分に言われたらと思ったら、足がすくんだの」
+<name "Viola" "!BA1045">
+"Whenever I thought about telling you myself, I
+ felt weak at the knees."
 #
-<name "ヴィオラ" "!BA1046">
-「そして、怖くなった」
+<name "Viola" "!BA1046">
+"And I got scared."
 #
-<name "ヴィオラ" "!BA1047">
-「ずっと、伝えたくても伝えられなかった」
+<name "Viola" "!BA1047">
+"I wanted to tell you, but I never could."
 #
-<name "ヴィオラ" "!BA1048">
-「私の言った言葉を返されたらと思ったら……」
+<name "Viola" "!BA1048">
+"I wish I could take back what I said."
 #
-<name "ラズロック">
-「……俺はヴィオラのことが好きだぞ。
-　力や魔法使いである事を除いても」
+<name "Lazlocke">
+"...I love you.
+ Even if I didn't have my power, even if you
+ weren't a wizard."
 #
-<name "ラズロック">
-「お前の真っ直ぐな所には、尊敬すらしている」
+<name "Lazlocke">
+"I even respect your honesty and directness."
 #
-<name "ヴィオラ" "!BA1049">
-「……ありがとう」
+<name "Viola" "!BA1049">
+"...Thank you."
 #
-<name "ラズロック">
-「そんな夫に言う事は？」
+<name "Lazlocke">
+"Is that what you should say to your husband?"
 #
-<name "ヴィオラ" "!BA1050">
-「……愛してるわ」
+<name "Viola" "!BA1050">
+"...I love you."
 #
-<name "ラズロック">
-「俺もだ」
+<name "Lazlocke">
+"Me too."
 #
 \x78\x78

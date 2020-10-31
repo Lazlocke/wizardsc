@@ -1,29 +1,29 @@
 <music 35>
 <background "ev043a0.iph" 10>
-　俺とセリスは、岩場で楽しんだ。
+Celes and I enjoy ourselves among the rocks.
 #
-<name "セリス" "!AA5346">
-「この場所。
-　お気に入りの場所になっちゃいましたね」
+<name "Celes" "!AA5346">
+"I think this has become one of my favorite
+ places."
 #
-<name "ラズロック">
-「そうだな」
+<name "Lazlocke">
+"Yeah."
 #
-<name "セリス" "!AA5347">
-「師匠」
+<name "Celes" "!AA5347">
+"Master."
 #
-<name "ラズロック">
-「なんだ？」
+<name "Lazlocke">
+"Yes?"
 #
-<name "セリス" "!AA5348">
-「もう一回、お願いできますか？」
+<name "Celes" "!AA5348">
+"Can we do it one more time?"
 #
-<name "ラズロック">
-「……気絶するぐらいやってやる」
+<name "Lazlocke">
+"We'll do it until you pass out."
 #
-<name "セリス" "!AA5349">
-「はい」
+<name "Celes" "!AA5349">
+"Okay!"
 #
-　俺達は、夜が来るまで行為を続けた。
+We continue until night comes.
 #
 \x78\x78

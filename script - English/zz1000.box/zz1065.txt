@@ -1,190 +1,193 @@
 <music 26>
 <background "ev054a0.iph" 10>
-　山崩し、魔法使いバージョン。
+King of the hill, wizard style.
 #
-　土で作った小さな山の頂上に旗を差し、交互に山
-　を削り、上の旗を落とした方が負けなのは、普通
-　の山崩しと同じだ。
+Normally, a little flag is put in a pile of
+sand. The players take turns removing sand, and
+whoever knocks over the flag loses.
 #
-　だが、魔法使いバージョンは、その崩し方に魔法
-　を使わなければいけない。
+But for wizards, you need to use magic to move
+the sand.
 #
-　子供の魔法使いが良くやる遊びだが、微妙な魔力
-　コントロールを必要とする為、難度は高い。
+It's a good game for young wizards since it's
+rather difficult, requiring precise control of
+your mana.
 #
-　子供の遊びと侮ってはいけない。
+Don't underestimate it just because it's a game
+for children.
 #
 <background "ev054a1.iph" 10>
-<name "イエル" "!CA0082">
-「ぬ……やるわね」
+<name "Elle" "!CA0082">
+"Grr... You're good.
 #
-<name "セリス" "!AA0703">
-「えへへ……イエルちゃんの番よ」
+<name "Celes" "!AA0703">
+"Hahaha...
+ It's your turn."
 #
-<name "イエル" "!CA0083">
-「ふふふ……見てなさい。
-　コントロールなら自信があるのよ」
+<name "Elle" "!CA0083">
+"Heheheh. Watch this.
+ I'm quite confident in my control."
 #
-<name "セリス" "!AA0704">
-「あ、ああ……」
+<name "Celes" "!AA0704">
+"O-Oh..."
 #
-<name "イエル" "!CA0084">
-「ふっ。
-　どうよ」
+<name "Elle" "!CA0084">
+"Hmph.
+ How's that?"
 #
-<name "セリス" "!AA0705">
-「ぬぬぬ……」
+<name "Celes" "!AA0705">
+"Grrr..."
 #
-　山の見た目は変わらないが、確実にイエルは山を
-　崩した。
+The pile looks the same, but she definitely
+changed it.
 #
-　山の内部の土を刳り抜いたのだ。
+She hollowed it from the inside out.
 #
-<name "セリス" "!AA0706">
-「ふぅ……」
+<name "Celes" "!AA0706">
+"..."
 #
-　セリスは大きく深呼吸した。
+Celes takes a deep breath.
 #
-　そして、バッとポーズを決める。
+And then she strikes a pose.
 #
-<name "セリス" "!AA0708">
-「見事。
-　それでこそ、生涯のライバル」
+<name "Celes" "!AA0708">
+"Impressive.
+ I'd expect no less from my true rival."
 #
-　さらにポーズを変えて……
+Then she switches to a different pose.
 #
-<name "セリス" "!AA0709">
-「しかし、私には通用しない！」
+<name "Celes" "!AA0709">
+"But it won't work on me!"
 #
-　セリスは魔法で、山の裾を削った。
+She uses magic to shave off the edges of the
+pile.
 #
-<name "イエル" "!CA0085">
-「そんなっ！
-　内部が空洞になった山の裾を削るなんて……
-　自殺行為！」
+<name "Elle" "!CA0085">
+"No way!
+ Cutting off the edges of a hollow mountain...
+ That's suicide!"
 #
-<name "セリス" "!AA0710">
-「そう思うでしょうが……」
+<name "Celes" "!AA0710">
+"I know you'd think so, but..."
 #
-<name "イエル" "!CA0086">
-「崩れない！
-　なぜ！」
+<name "Elle" "!CA0086">
+"It's not collapsing!
+ How!?"
 #
-<name "イエル" "!CA0087">
-「はっ！」
+<name "Elle" "!CA0087">
+"Ah!"
 #
-<name "イエル" "!CA0088">
-「まさか！」
+<name "Elle" "!CA0088">
+"No way!"
 #
-<name "イエル" "!CA0089">
-「砂の一粒一粒を組み合わせて、絶妙のバランスを
-　取っている！」
+<name "Elle" "!CA0089">
+"Every single grain of sand is put together in
+ perfect balance!"
 #
-<name "セリス" "!AA0711">
-「そう、その通り！」
+<name "Celes" "!AA0711">
+"Yes, that's right!"
 #
-<name "セリス" "!AA0712">
-「強いて言えば、山裾に砂のレンガ壁を作ったよう
-　なもの！」
+<name "Celes" "!AA0712">
+"It's like having a brick wall of sand around
+ the edge of the mountain!"
 #
-<name "セリス" "!AA0713">
-「崩れたりはしない！
-　さあ、イエルちゃんの番よ」
+<name "Celes" "!AA0713">
+"It won't collapse!
+ Go on, it's your turn!"
 #
-<name "イエル" "!CA0090">
-「ぬっ……」
+<name "Elle" "!CA0090">
+"Grr..."
 #
-<name "イエル" "!CA0091">
-「ふう……」
+<name "Elle" "!CA0091">
+"..."
 #
-<name "イエル" "!CA0093">
-「見事と言いたいけど……
-　甘いわね」
+<name "Elle" "!CA0093">
+"I would say I'm impressed, but you left an
+ opening."
 #
-<name "セリス" "!AA0714">
-「え？」
+<name "Celes" "!AA0714">
+"Huh?"
 #
-<name "イエル" "!CA0094">
-「これで、どう！」
+<name "Elle" "!CA0094">
+"How about this!?"
 #
-<name "セリス" "!AA0715">
-「ああっ！
-　私の作った砂のレンガを……
-　蜂の巣状に！」
+<name "Celes" "!AA0715">
+"Aah!
+ The sand brick I made...
+ It's like a beehive!"
 #
-<name "イエル" "!CA0095">
-「この形、強度……知らない事はないわね」
+<name "Elle" "!CA0095">
+"This shape, the strength...
+ There's nothing that gets past me!"
 #
-<name "セリス" "!AA0716">
-「しまった……
-　私の番の時にそうしていれば……」
+<name "Celes" "!AA0716">
+"Oh no...
+ If I do that on my turn..."
 #
-<name "イエル" "!CA0097">
-「さあ、セリスの番よ」
+<name "Elle" "!CA0097">
+"Go on, it's your turn."
 #
-<name "セリス" "!AA0717">
-「ぬぬ……」
+<name "Celes" "!AA0717">
+"Grrr..."
 #
-<name "セリス" "!AA0718">
-「これ以上は……無理」
+<name "Celes" "!AA0718">
+"There's... nothing more I can do."
 #
-<name "セリス" "!AA0719">
-「とでも言うと思った？」
+<name "Celes" "!AA0719">
+"Is that what you thought I'd say?"
 #
-<name "イエル" "!CA0098">
-「え？」
+<name "Elle" "!CA0098">
+"Huh?"
 #
-<name "セリス" "!AA0720">
-「その手はすでに読んでいた！
-　だから、もう一回削れるだけの量を……
-　イエルちゃんが空洞にした場所に放り込んでおい
-　たのよ！」
+<name "Celes" "!AA0720">
+"I knew you'd do that!
+ Which is why I can shave down one more time!
+ In the place where you made a cave!"
 #
-<name "イエル" "!CA0099">
-「なにっ！」
+<name "Elle" "!CA0099">
+"What!?"
 #
-<name "セリス" "!AA0721">
-「くらえっ！」
+<name "Celes" "!AA0721">
+"Take this!"
 #
 <background "ev054a2.iph" 10>
-　セリスが誇らしげに言った後、山が崩れて旗が倒
-　れた。
+But the pile collapses and the flag falls.
 #
-<name "セリス" "!AA0722">
-「え？
-　ど、どうして……」
+<name "Celes" "!AA0722">
+"Huh?
+ W-Why?"
 #
-　セリスは信じられないと驚愕する。
+She looks at it in complete astonishment.
 #
-　魔法のミスをしたわけではないようだ。
+She didn't mess up with the spell she cast.
 #
-<name "イエル" "!CA0100">
-「ふふふふふ……
-　崩れた山をよく見なさい」
+<name "Elle" "!CA0100">
+"Heheheh...
+ Look carefully at where it collapsed."
 #
-<name "セリス" "!AA0723">
-「え？」
+<name "Celes" "!AA0723">
+"Huh?"
 #
-<name "セリス" "!AA0724">
-「……ああああっ！
-　これは！」
+<name "Celes" "!AA0724">
+"Aaah!
+ Right there!"
 #
-　ミミズだ。
+A worm.
 #
-　ミミズが居た！
+There's a worm!
 #
-<name "セリス" "!AA0725">
-「いつの間に！」
+<name "Celes" "!AA0725">
+"When did that get there!?"
 #
-<name "イエル" "!CA0101">
-「山の中の土を抜いた時、替わりに一匹放り込んで
-　おいたのよ」
+<name "Elle" "!CA0101">
+"When I took the sand out of the mountain, I
+ left that in."
 #
-<name "セリス" "!AA0726">
-「し、しまったぁぁ！」
+<name "Celes" "!AA0726">
+"O-Oh no!"
 #
-　山崩し……
+King of the hill...
 #
-　子供の遊びと侮ってはいけない。
+Don't underestimate children's games.
 #
 \x78\x78

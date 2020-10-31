@@ -1,41 +1,42 @@
 <music 35>
 <background "ev043a1.iph" 10>
-<name "セリス" "!AA5350">
-「こんな風にされると、水着が駄目になっちゃうん
-　ですよ」
+<name "Celes" "!AA5350">
+"If we keep doing this, it'll ruin my swimsuit."
 #
-<name "ラズロック">
-「後で新しいのを用意してやる」
+<name "Lazlocke">
+"I'll get you a new one later."
 #
-<name "セリス" "!AA5351">
-「それはそれでお願いしますが、問題はここから帰る
-　時です」
+<name "Celes" "!AA5351">
+"I'll ask you for one when the time comes, but
+ the problem is when it's time to go home."
 #
-<name "ラズロック">
-「帰る時？」
+<name "Lazlocke">
+"Home?"
 #
-<name "セリス" "!AA5352">
-「服のある場所まで戻る時です。
-　当然、人目もありますが、胸元と股間の緩んだ水
-　着だと色々な憶測を呼ぶじゃないですか」
+<name "Celes" "!AA5352">
+"When we need to go back to where our clothes
+ are. There's people, obviously too, and don't
+ you think they'll notice if the chest and
+ crotch of my suit are all stretched out?"
 #
-<name "ラズロック">
-「そうか……」
+<name "Lazlocke">
+"I see..."
 #
-<name "セリス" "!AA5353">
-「海での知り合いに、真剣に心配されました」
+<name "Celes" "!AA5353">
+"I'm very concerned about the people at the
+ beach that I know."
 #
-<name "ラズロック">
-「対策を考えよう」
+<name "Lazlocke">
+"We'll have to think of something."
 #
-<name "セリス" "!AA5354">
-「お願いします。
-　では、続きをお願いします」
+<name "Celes" "!AA5354">
+"Yes, please.
+ Okay, don't stop."
 #
-<name "ラズロック">
-「……やる事はやるんだな」
+<name "Lazlocke">
+"Gotta do what you gotta do, huh?"
 #
-<name "セリス" "!AA5355">
-「もちろんです」
+<name "Celes" "!AA5355">
+"Of course."
 #
 \x78\x78

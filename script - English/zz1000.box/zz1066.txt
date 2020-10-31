@@ -1,44 +1,46 @@
 <music 26>
 <background "ev054a0.iph" 10>
-<name "セリス" "!AA0727">
-「すみません。
-　師匠、もう少し下がって貰えますか」
+<name "Celes" "!AA0727">
+"I'm sorry.
+ Master, can you please step back a little
+ further?"
 #
-<name "ラズロック">
-「え？」
+<name "Lazlocke">
+"Huh?"
 #
-<name "セリス" "!AA0728">
-「その、師匠の力で魔力が動きますから……」
+<name "Celes" "!AA0728">
+"Um, your power is affecting our mana..."
 #
-<name "ラズロック">
-「あ、ああ、悪かった」
+<name "Lazlocke">
+"O-Oh, sorry."
 #
-　二人は真剣に山崩しをしていた。
+The two of them are engrossed in a game of king
+of the hill.
 #
-　もちろん、普通の山崩しではなく、魔法によって
-　山を削る山崩しだ。
+Of course, not a normal game, but one using 
+their mana.
 #
-　ちなみに、俺は超苦手だ。
+I'm terrible at it.
 #
-　俺の力の所為で、細かいコントロールが苦手だか
-　らだ。
+My power makes me extremely bad at precise
+control.
 #
-　だから、ああいった遊びができる二人が少し羨ま
-　しい。
+So I'm a little jealous of them.
 #
-<name "ソシエット" "!DA0235">
-「ご主人様」
+<name "Soshiette" "!DA0235">
+"Your Grace."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "ソシエット" "!DA0236">
-「同志っ！」
+<name "Soshiette" "!DA0236">
+"Comrade!"
 #
-　俺とソシエットは、セリスとイエルから離れた場
-　所で山崩しをやってみた。
+Soshiette and I play king of the hill away from
+them.
 #
-　双方、一回目で山を崩してしまったので、魔法を
-　使わずにやったら、なかなか楽しかった。
+We both knock over the mountain on the first
+turn, so we switch to playing it normally and
+still have a lot of fun.
 #
 \x78\x78

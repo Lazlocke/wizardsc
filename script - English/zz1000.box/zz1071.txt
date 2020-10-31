@@ -1,138 +1,140 @@
 <music 11>
 <background "ev047a0.iph" 10>
-　セリスは協会保守部に所属し、多くの部下を鍛え
-　る立場に着いた。
+Celes joined Guild Preservation and took a 
+position where she trained a huge number of
+subordinates.
 #
-<name "セリス" "!AA6537">
-「そこ、腕の振りが甘い」
+<name "Celes" "!AA6537">
+"You, swing with more force."
 #
-　部下達の鍛錬を見回り、時には直接の手合わせを
-　して鍛え上げていく。
+She watched over their training, and occasionally
+stepped in to train them herself.
 #
-<name "ソシエット" "!DA1211">
-「ずいぶんと、鍛えましたね」
+<name "Soshiette" "!DA1211">
+"They're quite honed."
 #
-<name "セリス" "!AA6538">
-「はい。
-　ソシエットさんの部隊に、負けないようにと思っ
-　ていますので」
+<name "Celes" "!AA6538">
+"Yes. I have to surpass your own unit."
 #
-<name "ソシエット" "!DA1212">
-「明日の模擬戦ですか？」
+<name "Soshiette" "!DA1212">
+"In tomorrow's sparring match?"
 #
-<name "セリス" "!AA6539">
-「ええ、今回こそ勝ちますから」
+<name "Celes" "!AA6539">
+"Yes. This time, we'll win."
 #
-<name "ソシエット" "!DA1213">
-「楽しみです。
-　その後の個人戦も」
+<name "Soshiette" "!DA1213">
+"I look forward to it.
+ The individual matches afterwards too."
 #
-<name "セリス" "!AA6540">
-「あはは……お手柔らかに」
+<name "Celes" "!AA6540">
+"Hahaha...
+ Go easy on me."
 #
-<name "ソシエット" "!DA1214">
-「私に連勝している人が、そんな事を言ってはいけ
-　ません」
+<name "Soshiette" "!DA1214">
+"After winning repeatedly, I don't think you have
+ any right to say that."
 #
-<name "セリス" "!AA6541">
-「あはは……
-　ところで、このメイド服ですが……」
+<name "Celes" "!AA6541">
+"Hahaha...
+ By the way, about these maid dresses..."
 #
-<name "ソシエット" "!DA1215">
-「似合っていますね。
-　……サイズが合いませんか？」
+<name "Soshiette" "!DA1215">
+"It looks good on you.
+ Does it not fit?"
 #
-<name "セリス" "!AA6542">
-「いえ、ピッタリなんですけど……
-　着ないと駄目なんですか？」
+<name "Celes" "!AA6542">
+"No, it fits perfectly, but do I have to wear it?"
 #
-<name "ソシエット" "!DA1216">
-「嫌なら、ここでひん剥きますが」
+<name "Soshiette" "!DA1216">
+"If you don't like it, I can rip it right off you
+ right here."
 #
-<name "セリス" "!AA6543">
-「…………い、いえ、気に入ってます」
+<name "Celes" "!AA6543">
+"...N-No, I like it."
 #
-<name "ソシエット" "!DA1218">
-「冗談です。
-　ご主人様から、半分は私の弟子なのだから、メイ
-　ド服ぐらい着せて置けと言われましたので」
+<name "Soshiette" "!DA1218">
+"That was a joke.
+ Outside His Grace, you are half my apprentice
+ as well, so I believe that you should dress like
+ a maid."
 #
-<name "セリス" "!AA6544">
-「そうなんですか」
+<name "Celes" "!AA6544">
+"Really?"
 #
-<name "ソシエット" "!DA1219">
-「ええ、ですので、本当に嫌でしたら脱いで頂いて
-　結構です」
+<name "Soshiette" "!DA1219">
+"Yes, but if you really don't like it, feel free
+ to not wear them."
 #
-<name "セリス" "!AA6545">
-「……いえ、着続けたいと思います。
-　ソシエットさんの弟子でもありますから」
+<name "Celes" "!AA6545">
+"No, I want to keep wearing them.
+ I am your apprentice too."
 #
-<name "ソシエット" "!DA1220">
-「……」
+<name "Soshiette" "!DA1220">
+"..."
 #
-<name "セリス" "!AA6546">
-「どうしました？」
+<name "Celes" "!AA6546">
+"What is it?"
 #
-<name "ソシエット" "!DA1221">
-「いえ……ありがとうございます。
-　お礼に、模擬戦では全力で掛からせて貰います」
+<name "Soshiette" "!DA1221">
+"Nothing. Thank you.
+ In return, I'll go full strength in our sparring
+ match."
 #
-<name "セリス" "!AA6547">
-「あはは……」
+<name "Celes" "!AA6547">
+"Hahaha..."
 #
 <background "ev047a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-“協会の門番”と呼ばれ、多くの魔法使いを恐れさ
-　せる事になる魔法使い。
+Known as the Cleaner of the Guild.
+A wizard who puts fear into other wizards.
 #
-　多くの武術を研究、精通し、研磨を重ね。
+She researched and mastered countless battle
+techniques.
 #
-　鍛え抜かれた身体を魔力によってさらに強化。
+She honed her body with training and magic.
 #
-　その圧倒的なまでの戦闘力は、一流の武術家や格
-　闘家を遥かに凌ぎ、その技は竜すらも倒すと伝え
-　られた。
+An unstoppable warrior who far surpasses the
+top warriors and martial artists across the land,
+said to even be able to slay dragons.
 #
-　そして、その強さは集団で動く事を学んでからは
-　さらに凶悪なものとなっていった。
+And her strength has become even more fearsome
+once she learned how to fight in coordination
+with others.
 #
-<name "セリス" "!AA6548">
-「なかなか言う事を聞いてくれない人が居るんです
-　よ。
-　それなのに、新しい事ばかりやろうとして……」
+<name "Celes" "!AA6548">
+"There's this one person who doesn't listen to
+ me, but I keep trying to do new things..."
 #
-<name "ラズロック">
-「そう怒るな」
+<name "Lazlocke">
+"Don't get mad about it."
 #
-<name "セリス" "!AA6549">
-「いえ、怒ります。
-　もっと聞いてください」
+<name "Celes" "!AA6549">
+"No, I am mad.
+ I'm not finished yet."
 #
-<name "ラズロック">
-「はいはい」
+<name "Lazlocke">
+"Yeah, yeah."
 #
-　俺はお茶を用意しながら、セリスの愚痴を聞いた。
+I'm making tea while listening to her vent.
 #
-　まあ、愚痴と言うよりは最近の報告に近いものが
-　あるが……
+Well, it's supposed to be more like a report on
+her recent activities than venting.
 #
-<name "セリス" "!AA6550">
-「師匠。
-　私の話、聞いてます？」
+<name "Celes" "!AA6550">
+"Master, are you listening to me?"
 #
-<name "ラズロック">
-「ああ、聞いてる聞いてる」
+<name "Lazlocke">
+"Yeah, I'm listening."
 #
-　この姿を見て、誰が最強と思うのだろうか……
+I wonder who's stronger...
 #
-<name "セリス" "!AA6551">
-「なんですか？」
+<name "Celes" "!AA6551">
+"What?"
 #
-<name "ラズロック">
-「いや、なんでもない」
+<name "Lazlocke">
+"No, nothing."
 #
-　ともかく、俺の自慢の弟子だ。
+Anyway, I'm proud of my apprentice.
 #
 \x78\x78

@@ -1,92 +1,91 @@
 <music 11>
 <background "ev046a0.iph" 10>
-　セリスは、ルーン魔法学園の教師として働き始め
-　た。
+Celes started working as a teacher at Rune 
+Academy.
 #
-　その実力から、もっと上の職を目指せたのだが、
-　全てを断わって。
+Given her capabilities, she could've had a much
+better job, but she refused all offers.
 #
-<name "セリス" "!AA6523">
-「……となるわけです。
-　わかりましたか？」
+<name "Celes" "!AA6523">
+"...And it turns out like that.
+ Understand?"
 #
-<name "セリス" "!AA6524">
-「では、次に行く前に……
-　ここまでで質問のある人は居ますか？」
+<name "Celes" "!AA6524">
+"Now, before we go to the next thing...
+ Does anybody have any questions about what I've
+ covered?"
 #
-<name "セリス" "!AA6525">
-「はい、なんですか？」
+<name "Celes" "!AA6525">
+"Yes, what is it?"
 #
-<name "セリス" "!AA6526">
-「えっと……そういった質問にはお答えできません」
+<name "Celes" "!AA6526">
+"Um... I can't answer that question."
 #
-<name "セリス" "!AA6527">
-「次、同じ質問をしたら怒りますよ」
+<name "Celes" "!AA6527">
+"Next time you ask me that, I'm going to get mad."
 #
-<name "セリス" "!AA6528">
-「では、次です」
+<name "Celes" "!AA6528">
+"So, next?"
 #
 <background "ev046a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　広く知られる事は無かったが、セリスは優秀な魔
-　法使いであり、そして優秀な教師として確実に名
-　前を残した。
+While not famous, she was an excellent wizard,
+and made her name as a fine teacher.
 #
-<name "ラズロック">
-「頑張っているようだな」
+<name "Lazlocke">
+"Seems like you're hard at work."
 #
-<name "セリス" "!AA6529">
-「まだまだです。
-　将来的には、師匠のようになりたいと思いますの
-　で」
+<name "Celes" "!AA6529">
+"I've still got a long way to go.
+ I want to be like you someday."
 #
-<name "ラズロック">
-「家での悠々自適生活か？」
+<name "Lazlocke">
+"Living carefree at home?"
 #
-<name "セリス" "!AA6530">
-「それも良いですね。
-　ところで……」
+<name "Celes" "!AA6530">
+"That would be nice too.
+ By the way..."
 #
-<name "ラズロック">
-「ん？」
+<name "Lazlocke">
+"Hm?"
 #
-<name "セリス" "!AA6531">
-「新しい弟子を取るとか聞きましたが……」
+<name "Celes" "!AA6531">
+"I heard you took a new apprentice..."
 #
-<name "ラズロック">
-「ああ、協会が強く希望してきてな。
-　第二、第三のセリスを育ててくれと」
+<name "Lazlocke">
+"Yeah, the Guild's been champing at the bit for
+ me to do that. They want a second, or even third
+ Celes."
 #
-<name "セリス" "!AA6532">
-「むう」
+<name "Celes" "!AA6532">
+"Grr..."
 #
-<name "ラズロック">
-「怒るな。
-　俺の一番弟子は、お前だろ」
+<name "Lazlocke">
+"Don't be mad.
+ You're my finest apprentice."
 #
-<name "セリス" "!AA6533">
-「ですが……」
+<name "Celes" "!AA6533">
+"But..."
 #
-<name "ラズロック">
-「それに、弟子を取っても、お前のように抱いたり
-　はしない」
+<name "Lazlocke">
+"Besides, even if I take an apprentice, I won't
+ be with them like you."
 #
-<name "セリス" "!AA6534">
-「そうなんですか？」
+<name "Celes" "!AA6534">
+"Really?"
 #
-<name "ラズロック">
-「ああ……
-　それで、問題はあるか？」
+<name "Lazlocke">
+"Yeah, so is there a problem?"
 #
-<name "セリス" "!AA6535">
-「時々、お手伝いに来ても良いですか？」
+<name "Celes" "!AA6535">
+"Can I come by sometimes to help?"
 #
-<name "ラズロック">
-「構わないぞ。
-　厳しく鍛えてやってくれ」
+<name "Lazlocke">
+"I don't mind.
+ Train them hard."
 #
-<name "セリス" "!AA6536">
-「はい」
+<name "Celes" "!AA6536">
+"Yes, sir."
 #
 \x78\x78

@@ -1,111 +1,115 @@
 <music 5>
 <background "ev048a0.iph" 10>
-<name "セリス" "!AA6552">
-「すみません、すぐに着替えますから」
+<name "Celes" "!AA6552">
+"I'm sorry. I'll get changed right away."
 #
-<name "ラズロック">
-「だから、どうして俺の部屋で着替える。
-　あと、どうしてズボンを下ろして下着を見せなが
-　ら上を脱いでいる」
+<name "Lazlocke">
+"Why are you changing in my room?
+ And why did you take off your top, and then
+ switch and take off your skirt?"
 #
-<name "セリス" "!AA6553">
-「細かい事を気にしてはいけません」
+<name "Celes" "!AA6553">
+"Don't worry about the details."
 #
-<name "ラズロック">
-「このエロ娘め」
+<name "Lazlocke">
+"Pervert girl."
 #
-<name "セリス" "!AA6554">
-「お仕置きですか？」
+<name "Celes" "!AA6554">
+"Are you going to punish me?"
 #
-<name "ラズロック">
-「むー、お仕置きしても喜ばすだけなんだよな……
-　だから放置」
+<name "Lazlocke">
+"Hmm... That's just what you want, so...
+ I think I'll ignore you."
 #
-<name "セリス" "!AA6555">
-「ひ、酷い。
-　タダ見ですか」
+<name "Celes" "!AA6555">
+"S-So mean.
+ You're just going to look?"
 #
-<name "ラズロック">
-「タダ見って……お前が勝手に見せたんだ」
+<name "Lazlocke">
+"Just going to look?
+ As if you gave me any choice."
 #
-<name "セリス" "!AA6556">
-「むううう」
+<name "Celes" "!AA6556">
+"Grrrrrrr!"
 #
-<name "ラズロック">
-「ほら、怒るな」
+<name "Lazlocke">
+"Hey, calm down."
 #
-　俺はセリスを抱きかかえる。
+I pull Celes into my arms.
 #
-<name "セリス" "!AA6557">
-「えへへ」
+<name "Celes" "!AA6557">
+"Hahaha..."
 #
-<name "ラズロック">
-「まったく……お前は」
+<name "Lazlocke">
+"Honestly, you..."
 #
-　そう言いながら、お仕置きとばかりに尻を叩いて
-　やった。
+I slap her butt as punishment.
 #
-<name "セリス" "!AA6558">
-「い、痛いっ、痛い、痛いです」
+<name "Celes" "!AA6558">
+"O-Ow! That hurt!"
 #
-<name "ラズロック">
-「お仕置きされたいんだろ」
+<name "Lazlocke">
+"You wanted to be punished, didn't you?"
 #
-<name "セリス" "!AA6559">
-「い、いえ、こういった方向じゃなくて……
-　その……性的な方向で」
+<name "Celes" "!AA6559">
+"N-No, not like that...
+ Um... more sexy like..."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はセリスの尻を叩き続けた。
+I slap her butt again.
 #
 <background "ev048a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　魔法使いとして優秀だが、その過程に問題があっ
-　たのか、かなりエロくなってしまった。
+She's a fine wizard, but turned out to be a 
+saucy little minx.
+I think there may have been a problem in the
+teaching method.
 #
-　隙あらば、俺との行為を狙っている。
+She tries to jump me every time she gets the 
+chance.
 #
-　他の男に手を出そうとしない事だけは、褒めてや
-　るが……
+I should praise her for never going after any
+other men, but...
 #
-<name "セリス" "!AA6560">
-「師匠、今日は新しい技を使って良いですか？
-　良いですよね」
+<name "Celes" "!AA6560">
+"Master, can I try a new technique today?
+ It's a good one."
 #
-<name "ラズロック">
-「エロ技を覚える前に、もっと覚えないと駄目な事
-　があるだろう」
+<name "Lazlocke">
+"I feel like you should be studying more before
+ you start looking into new sex moves."
 #
-<name "セリス" "!AA6561">
-「そっちも、ちゃんと覚えています。
-　ささ、寝転がってください」
+<name "Celes" "!AA6561">
+"I'm learning that stuff too.
+ Come on, lay down."
 #
-<name "ラズロック">
-「わかったわかった」
+<name "Lazlocke">
+"All right, all right."
 #
-　俺はセリスの相手をした。
+I have sex with her.
 #
-　この関係がいつまで続くかはわからないが、エロ
-　くした理由は確実に俺だ。
+I'm not sure how long this relationship will last,
+but I'm definitely the reason it became so sex
+oriented.
 #
-　ならば、師匠として最後まで責任を持とう。
+So as her master, I'll have to see it through.
 #
-<name "セリス" "!AA6564">
-「今日は何回します？」
+<name "Celes" "!AA6564">
+"How many times should we do it today?"
 #
-<name "ラズロック">
-「……二回で」
+<name "Lazlocke">
+"...Twice."
 #
-<name "セリス" "!AA6563">
-「わかりました。
-　四回ですね」
+<name "Celes" "!AA6563">
+"All right.
+ Four times it is."
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺の体力が続く限り……
+...At least, as long as my body holds out.
 #
 \x78\x78

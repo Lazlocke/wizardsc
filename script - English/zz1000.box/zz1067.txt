@@ -1,112 +1,113 @@
 <music 31>
 <background "ev044a0.iph" 10>
-　セリスティーネ＝ロココは俺の嫁となり、息子と
-　娘の二児をもうけていた。
+Celestine Rococo became my wife, and we had a son
+and a daughter.
 #
-<name "セリス" "!AA6497">
-「こらー、喧嘩ばかりしないの！」
+<name "Celes" "!AA6497">
+"Hey! Don't just fight all the time!"
 #
-　喧嘩をしていた俺の息子と娘は、母親であるセリ
-　スを見ると言い訳を始める。
+The squabbling children began to make excuses
+when she yelled at them.
 #
-　どっちが悪い。
+Who started it?
 #
-　先に殴ったのはこっちだ。
+Both say that the other did.
 #
-　言い方は違うが、双方とも相手を悪いと訴える。
+They're saying different things, but both are
+accusing the other of going after them.
 #
-<name "セリス" "!AA6498">
-「黙りなさい！」
+<name "Celes" "!AA6498">
+"Be quiet!"
 #
-　セリスはそれを一喝。
+She scolds them.
 #
-<name "セリス" "!AA6499">
-「喧嘩は駄目です。
-　そう教えた筈です」
+<name "Celes" "!AA6499">
+"No fighting.
+ I know I taught you that."
 #
-<name "セリス" "!AA6500">
-「それを破っての喧嘩……
-　それは、この母に対する挑戦ですね」
+<name "Celes" "!AA6500">
+"If you want to fight...
+ That's a challenge for Mom."
 #
-　セリスがそう言うと、俺の息子と娘はガシッと腕
-　を組んで仲直りを表現し、頭を下げた。
+Both of them bow their heads and profusely
+apologize.
 #
-　セリスとは戦いたくないらしい。
+They don't want a fight with her.
 #
-　俺も戦いたくない。
+Nor do I.
 #
-<name "セリス" "!AA6501">
-「アナタも見てないで、子供達が喧嘩をしたら止め
-　てください」
+<name "Celes" "!AA6501">
+"And you, don't just watch.
+ If they're fighting, stop them."
 #
-<name "ラズロック">
-「そう言うな……
-　喧嘩の理由は俺の膝の上に、どっちが先に座るか
-　で始まったんだから」
+<name "Lazlocke">
+"Okay, but... the reason the argument started was
+ over who got to sit on my lap first."
 #
-<name "セリス" "!AA6502">
-「まったく……」
+<name "Celes" "!AA6502">
+"Honestly..."
 #
-<name "セリス" "!AA6503">
-「その膝は、私のですと教えているのに」
+<name "Celes" "!AA6503">
+"That privilege belongs to me."
 #
-<name "ラズロック">
-「息子や娘と奪い合うな」
+<name "Lazlocke">
+"Your kids aren't your competition."
 #
-<name "セリス" "!AA6504">
-「でしたら、もう少し可愛がってください」
+<name "Celes" "!AA6504">
+"Then please love me a little more."
 #
-<name "ラズロック">
-「そうだな。
-　じゃあ、三人目を頑張るか」
+<name "Lazlocke">
+"All right.
+ Then should we try for a third?"
 #
-<name "セリス" "!AA6505">
-「はい♪」
+<name "Celes" "!AA6505">
+"Yep.♪"
 #
-　俺とセリスがイチャつくと、その間に割って入る
-　俺の息子と娘。
+Celes and I try to be romantic, but the children
+quickly interrupt. 
 #
-<name "セリス" "!AA6506">
-「むううう！」
+<name "Celes" "!AA6506">
+"Grrrr!"
 #
-<name "ラズロック">
-「子供達と奪い合うな」
+<name "Lazlocke">
+"Don't compete with the kids."
 #
 <background "ev044a1.iph" 10>
-　セリスは魔法使いである道を諦めたわけではなかっ
-　たが、俺の子供が出来た事でその道を休憩。
+Celes hasn't given up on becoming a wizard, but
+has taken a detour with raising my children.
 #
-　そして、それはセリスにとっては良かったのかも
-　しれない。
+And maybe that's what was best for her.
 #
-　母親をやる片手間ではあるが、家庭に根付く魔法
-　を主に研究しながら、セリスはのんびりとした魔
-　法使いライフを歩んだ。
+It's a side job to being a mother, but she's still
+researching and learning magic every day.
+She's leading a calm, peaceful life as a wizard.
 #
-　残念ながら、俺の息子と娘に魔法の才能は無かっ
-　たが、セリスは特に気にした様子も無く、やりた
-　い事を探すように育てている。
+Unfortunately, neither of our children have the
+talent for magic, but Celes doesn't care and is
+helping them look for what they want to do with
+their lives.
 #
-　それに俺もなんとか協力。
+I'm helping too.
 #
-　一応、父親なんで……
+As a dad, at least.
 #
-<name "セリス" "!AA6507">
-「最近、子供達に私とアナタの馴初めを聞かれて困
-　ります」
+<name "Celes" "!AA6507">
+"Lately, I've been having trouble trying to
+ explain our relationship to the kids."
 #
-<name "ラズロック">
-「ん？
-　どうして困るんだ？
-　素直に弟子になったと言えば良いじゃないか」
+<name "Lazlocke">
+"Hm? What's the problem?
+ You should just tell them you became my devoted
+ apprentice."
 #
-<name "セリス" "!AA6508">
-「弟子に手を出す師匠ってどうなのと」
+<name "Celes" "!AA6508">
+"And you're the master who took advantage of his
+ apprentice?"
 #
-<name "ラズロック">
-「む……」
+<name "Lazlocke">
+"Hmm..."
 #
-　まあ、色々と問題はあるが……
-　こんな生活も悪く無い。
+Well, there are problems here and there, but it's
+not a bad life.
 #
 \x78\x78

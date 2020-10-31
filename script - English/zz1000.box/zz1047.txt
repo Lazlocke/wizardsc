@@ -1,24 +1,26 @@
 <music 38>
 <background "ev040a1.iph" 10>
-<name "セリス" "!AA5229">
-「悔しそうな顔ですか？」
+<name "Celes" "!AA5229">
+"Look like I'm frustrated?"
 #
-<name "ラズロック">
-「そうだ」
+<name "Lazlocke">
+"Right."
 #
-<name "セリス" "!AA5230">
-「こう……、ですか？」
+<name "Celes" "!AA5230">
+"Like... this?"
 #
-<name "ラズロック">
-「もう少し、悔しがって欲しい」
+<name "Lazlocke">
+"A little more resentful."
 #
-<name "セリス" "!AA5231">
-「えっと……こんな感じで？」
+<name "Celes" "!AA5231">
+"Umm... Like this?"
 #
-<name "ラズロック">
-「……よし、合格」
+<name "Lazlocke">
+"Yeah, that's good."
 #
-<name "セリス" "!AA5232">
-「うう……これから襲われるのに、変な感じです」
+<name "Celes" "!AA5232">
+"Oohh...
+ It's going to feel weird being assaulted like
+ this from now on."
 #
 \x78\x78

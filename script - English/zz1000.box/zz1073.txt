@@ -1,120 +1,117 @@
 <music 30>
 <background "ev049a0.iph" 10>
-<name "セリス" "!AA6565">
-「師匠。
-　お背中をお流しします♪」
+<name "Celes" "!AA6565">
+"Master, let me wash your back.♪"
 #
-　俺は実家に戻ったセリスの所に、遊びに行った。
+I came to visit Celes at her family home.
 #
-　まず、セリスの実家の大きさに圧倒された。
+I was completely awestruck when I saw it.
 #
-　ヴィオラの家が小屋に思えるサイズ。
+It's so big that it makes Viola's manor look like
+a hut.
 #
-　ここは、王家の人の別荘か何かか？
+Is this an entire royal villa?
 #
-　そう思える豪邸だった。
+It's definitely some kind of huge mansion.
 #
-　当然、その中も凄かった。
+The inside was something to behold too.
 #
-　無駄に多い部屋を管理する為の多数の使用人達。
+There are dozens of servants just to take care of
+all the empty rooms.
 #
-　その数は、小さな村を形成できるほどだ。
+This place is almost like a small village.
 #
-<name "ラズロック">
-「本気でお嬢様だな」
+<name "Lazlocke">
+"Seriously some kind of noble girl."
 #
-<name "セリス" "!AA6566">
-「誰がですか？」
+<name "Celes" "!AA6566">
+"Who is?"
 #
-<name "ラズロック">
-「お前だお前」
+<name "Lazlocke">
+"You, obviously."
 #
-<name "セリス" "!AA6567">
-「そんな事ないですよ」
+<name "Celes" "!AA6567">
+"Not at all."
 #
-　そう言われてもな……
+Speaking of which...
 #
-　この風呂場にしても、俺の家がまるまる入るサイ
-　ズの大きさだ。
+Even just this bathroom is the size of my entire
+house.
 #
-　ロココ家が名家だとは聞いていたが、ここまでと
-　は思わなかった。
+I knew the Rococo family was rich, but I didn't
+realize how rich.
 #
-　しかし、こんな家に住む生活から、俺の家での修
-　行の毎日か……
+She went from living somewhere like this to
+training at my house?
 #
-<name "ラズロック">
-「苦労してるな」
+<name "Lazlocke">
+"Talk about having it rough."
 #
-<name "セリス" "!AA6568">
-「誰がですか？」
+<name "Celes" "!AA6568">
+"Who?"
 #
-<name "ラズロック">
-「……
-　背中、流してくれ」
+<name "Lazlocke">
+"...Please wash my back."
 #
-<name "セリス" "!AA6570">
-「はい♪」
+<name "Celes" "!AA6570">
+"Yes, sir.♪"
 #
 <background "ev049a1.iph" 10>
-　この後、セリスは魔法使いとして生計を立てなが
-　ら、ロココ家を繁栄させていこうとしている。
+She's planning on working as a wizard while
+promoting the Rococo family name.
 #
-　この家の大きさから考えても、それは魔法使いに
-　なる以上に難しいだろう。
+Given the size of this mansion, the latter may
+be harder than the former.
 #
-　しかし、このセリスならやってしまうかもしれな
-　い。
+But I'm sure she can handle it.
 #
-　助けを求められたら、手伝おう。
+If she asks for my help, I'll give it to her.
 #
-　俺はそう思いながら、セリスの様子をこれからも
-　見守っていくつもりだ。
+As I think about that, I'm going to keep watching
+over her.
 #
-<name "セリス" "!AA6571">
-「あの、師匠」
+<name "Celes" "!AA6571">
+"Um, Master."
 #
-<name "ラズロック">
-「ん？
-　なんだ？」
+<name "Lazlocke">
+"Hm? What is it?"
 #
-<name "セリス" "!AA6572">
-「実は、私には兄弟がいません」
+<name "Celes" "!AA6572">
+"You know, I don't have any siblings."
 #
-<name "ラズロック">
-「ああ、そうらしいな」
+<name "Lazlocke">
+"Yeah, I know."
 #
-　セリス以外に血縁が居れば、弟子の乗っ取りなど
-　は無かった筈だ。
+If she had any other relatives, that other
+apprentice couldn't have taken over.
 #
-　魔法使いじゃないセリスが一人娘。
+She wasn't a wizard, and she was their only
+daughter.
 #
-　だから、狙われた。
+That's why he targeted her.
 #
-<name "ラズロック">
-「一人で頑張ったじゃないか」
+<name "Lazlocke">
+"You've had to work hard by yourself, huh?"
 #
-<name "セリス" "!AA6573">
-「はい。
-　ですが、このままですと血筋が絶えてしまいます」
+<name "Celes" "!AA6573">
+"Yes, but if I don't do something, my bloodline
+ will die with me."
 #
-<name "ラズロック">
-「…………」
+<name "Lazlocke">
+"..."
 #
-<name "セリス" "!AA6574">
-「そこで、お願いがあるのですが……」
+<name "Celes" "!AA6574">
+"So, I had a request..."
 #
-<name "ラズロック">
-「お願い？」
+<name "Lazlocke">
+"A request?"
 #
-　なにやら、セリスの視線が背中越しに俺の股間に
-　集中している気がする。
+I can't help but notice that she's focused 
+somewhere a bit lower than my back.
 #
-<name "セリス" "!AA6575">
-「はい。
-　師匠なら簡単な事です」
+<name "Celes" "!AA6575">
+"Yes. It should be easy for you."
 #
-　そのセリスの笑顔に、俺はお願いを断わる事が出
-　来なかった。
+I can't say no to that smile.
 #
 \x78\x78

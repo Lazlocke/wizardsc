@@ -1,75 +1,78 @@
 <music 33>
 <background "ev050a0.iph" 10>
-　セリスティーネ＝ロココは、クインズベル王国の
-　宮廷魔法使いとして招聘された。
+Celestine Rococo was invited to become a court
+wizard for Queensbell.
 #
-<name "セリス" "!AA6576">
-「え？
-　私が宮廷魔法使いですか？」
+<name "Celes" "!AA6576">
+"Huh?
+ Me? A court wizard?"
 #
-　驚くセリスだったが、少し悩んだ末に宮廷魔法使
-　いの道を歩む事にしたらしい。
+She was surprised, but in the end, she decided to
+accept the position.
 #
-　彼女が宮廷魔法使いとして招聘されたのは、これ
-　までの実績もあるが、協会からの推薦、そして現
-　役の宮廷魔法使いであるヴィオラの推薦が大きい。
+It was offered to her based on what she's
+accomplished, but she had a recommendation from
+the Guild, not to mention Viola backed her as
+well.
 #
-　正直、宮廷魔法使いとしてはまだまだ未熟だろう。
+To be honest, I'm not sure she's ready for it
+just yet.
 #
-　しかし、きっとセリスは乗り越えるだろう。
+But I know she'll figure it out.
 #
-　俺はそんな確信を持ちながら、セリスを送り出し
-　た。
+I sent her off, trusting in her.
 #
 <background "ev050a1.iph" 10>
-　セリスティーネ＝ロココ
+Celestine Rococo.
 #
-　魔法使いを目指し、そして叶えた彼女は、宮廷魔
-　法使いとして活躍しながら、多くの研究成果を残
-　していく事になる。
+She wanted to be a wizard, realized her goals,
+and as a court wizard, will research all kinds of
+new and revolutionary things.
 #
-　そんな弟子の成長に、俺は満足しながら次の弟子
-　を取ろうかどうか悩んでいた。
+I'm satisfied with how my apprentice turned out,
+but wondering now if I should take another one.
 #
-<name "セリス" "!AA6577">
-「師匠の弟子は私一人で十分です」
+<name "Celes" "!AA6577">
+"Me alone is enough apprentices for you."
 #
-<name "ラズロック">
-「その気持ちは嬉しいが……
-　あと、仕事中じゃないのか？
-　俺の家に来てると怒られるぞ」
+<name "Lazlocke">
+"Thank you for that, but don't you have work to
+ do?
+ They'll get mad if you keep coming to my house."
 #
-<name "セリス" "!AA6578">
-「ヴィオラさんも来てるから大丈夫です」
+<name "Celes" "!AA6578">
+"Viola's here too, so it's fine."
 #
-<name "ヴィオラ" "!BA1018">
-「お茶、まだかしら……」
+<name "Viola" "!BA1018">
+"Still no tea?"
 #
-　……
+...
 #
-　ふう……
+Sigh...
 #
-　この二人を見ると、クインズベル王国の宮廷魔法
-　使いは大丈夫なのかと心配が尽きない。
+Looking at the two of them, I sincerely wonder
+if the court wizards of Queensbell are going to
+be okay.
 #
-<name "ヴィオラ" "!BA1019">
-「お茶」
+<name "Viola" "!BA1019">
+"Tea."
 #
-<name "ラズロック">
-「はいはい」
+<name "Lazlocke">
+"Yeah, yeah."
 #
-<name "セリス" "!AA6579">
-「あ、師匠。
-　私の分も」
+<name "Celes" "!AA6579">
+"Ah, Master.
+ For me too."
 #
-<name "ラズロック">
-「わかっている」
+<name "Lazlocke">
+"I know."
 #
-　しかし、まあ、この二人ならどうとでもしてしま
-　うだろうと言う予感もある。
+But, well, I have a feeling that between the two
+of them, they can take care of whatever needs to
+be done.
 #
-　事実、どうとでもしてしまうだろう。
+In fact, I'm sure of it.
 #
-　頼もしい限りだ。
+...As long as they feel like it.
 #
 \x78\x78

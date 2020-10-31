@@ -1,135 +1,138 @@
 <music 10>
 <background "bg004a0.iph" 11>
 <sprite "ta02a00.iph" 4 4 11>
-<name "イエル" "!CA0078">
-「あら、運動してたの？」
+<name "Elle" "!CA0078">
+"Oh? Were you exercising?"
 #
 <removesprite -1 11>
 <sprite "ta01d07.iph" 2 5 11>
 <sprite "ta02a00.iph" 6 4 11>
-<name "セリス" "!AA0700">
-「うん。
-　魔法使いは体力だって、師匠が」
+<name "Celes" "!AA0700">
+"Yeah. My master says that a wizard needs to be
+ fit."
 #
 <sprite "ta02a06.iph" 6 4 12>
-<name "イエル" "!CA0079">
-「へー」
+<name "Elle" "!CA0079">
+"Oh?"
 #
 <sprite "ta01d09.iph" 2 5 12>
-<name "セリス" "!AA0701">
-「イエルちゃんもやってみる？」
+<name "Celes" "!AA0701">
+"Do you want to try it?"
 #
 <sprite "ta02a00.iph" 6 4 12>
-<name "イエル" "!CA0080">
-「そうね……」
+<name "Elle" "!CA0080">
+"I guess."
 #
 <removesprite -1 11>
 <music 25>
 <background "ev053a0.iph" 10>
-　セリスとイエルが二人して障害物走をしていた。
+Celes and Elle are running the obstacle course
+together.
 #
-　セリスが先行し、泥沼を越える。
+Celes is ahead and gets through the marsh.
 #
-　イエルは後方で、地面に張ったロープで戸惑って
-　いるようだ。
+Elle is behind her, still struggling with the
+ropes across the ground.
 #
-　まずまず、セリスが有利と。
+Generally, Celes has the advantage.
 #
-　それは良い。
+Good.
 #
-　それは良いんだ。
+I mean, that part's good.
 #
-　二人とも頑張っている。
+That they're both trying hard.
 #
-　素晴らしい事だと思う。
+That's great.
 #
-　しかし……
+It's just...
 #
-<name "ソシエット" "!DA0227">
-「なにか問題でも？」
+<name "Soshiette" "!DA0227">
+"Is there an issue?"
 #
-<name "ラズロック">
-「なにか問題でもと言われるとだな……」
+<name "Lazlocke">
+"Where would I begin?"
 #
-　二人が走っているコースには、かなり本格的な障
-　害物が置かれている。
+The obstacle course they're running is full of
+actual obstacles.
 #
-　スタート直後に、二メートルの垂直壁登り。
+A six foot sheer wall right after the start.
 #
-　その後、一抱えもある岩を一定距離運び、空中に
-　吊られた梯子を手で進んでいく。
+And then a rock carrying track, followed by 
+having to cross hand over hand using a ladder
+hung in the air.
 #
-　そして地面に張られたロープエリアをくぐって進
-　み、連続して配置された泥沼を連続ジャンプして
-　越える。
+Then through ropes spread over the ground, and
+jumping over a marsh.
 #
-　その先には起伏の激しい道があり、さらには砂地
-　がある。
+Then steep hills, followed by a sandy area.
 #
-　そうして、足に徹底して負担を掛けたあと、細い
-　橋をバランスを取らせて歩かせる。
+And after putting on weighted boots, they have
+to walk across a narrow plank.
 #
-　なかなか意地悪だ。
+This is all cruel.
 #
-　そうした後に、今度は三メートルの垂直壁登りが
-　五枚連続して配置されている。
+After all that, five ten foot walls are set up
+in a row.
 #
-　ゴールさせる気は無いみたいだ。
+It's like they're not supposed to reach the
+finish line.
 #
-　その後は、ゴールまでの直線。
+It's a straight shot to the end after that.
 #
-　走れば良いのだろうが……予想だが、落とし穴が
-　絶対にある。
+At least, it looks like you can just run, but
+I'd bet anything that there are pitfalls hidden
+there.
 #
-　それはともかく、何が問題かと言うと……
+Aside from all that, there's another big
+problem.
 #
-<name "ラズロック">
-「いつ、庭をこんな風に？」
+<name "Lazlocke">
+"When did you turn the yard into this?"
 #
-<name "ソシエット" "!DA0228">
-「つい先程。
-　競争しようと言う話になったので、協力致しまし
-　た」
+<name "Soshiette" "!DA0228">
+"Earlier.
+ They said they wanted to compete, so I helped
+ them."
 #
-<name "ラズロック">
-「ほう。
-　一人で作ったのか？」
+<name "Lazlocke">
+"Oh?
+ You did all this on your own?"
 #
-<name "ソシエット" "!DA0229">
-「協会の軍事部の者が何人か協力してくれました」
+<name "Soshiette" "!DA0229">
+"Some people from Guild Military helped."
 #
-<name "ラズロック">
-「そうか……
-　あとでそのリストをくれ」
+<name "Lazlocke">
+"I see.
+ I'll want a list of their names later."
 #
-<name "ソシエット" "!DA0230">
-「お褒めの言葉ですか？」
+<name "Soshiette" "!DA0230">
+"To thank them?"
 #
-<name "ラズロック">
-「そう思うか？」
+<name "Lazlocke">
+"Do you think so?"
 #
-<name "ソシエット" "!DA0231">
-「はい。
-　弟子の教育の為にここまでやってくれてありがと
-　う。
-　みたいな感じになるかと」
+<name "Soshiette" "!DA0231">
+"Yes.
+ A thank you for helping in your apprentices'
+ education.
+ Don't you agree?"
 #
-<name "ラズロック">
-「…………ソシエット君。
-　ご褒美をあげるから、部屋に行こうか」
+<name "Lazlocke">
+"...Soshiette, let's go to my room so I can
+ thank you properly."
 #
-<name "ソシエット" "!DA0232">
-「えっと……」
+<name "Soshiette" "!DA0232">
+"Um..."
 #
-<name "ラズロック">
-「わーいと喜んで良いぞ」
+<name "Lazlocke">
+"I expect jubilation."
 #
-<name "ソシエット" "!DA0233">
-「わーい」
+<name "Soshiette" "!DA0233">
+"Yay."
 #
-　俺はソシエットを抱え、部屋に向かおうとした。
+I forcefully drag her inside.
 #
-　その背後で、落とし穴に落ちたセリスとイエルの
-　悲鳴が上がった。
+Out in the yard, Celes yelps as she falls into
+a pit.
 #
 \x78\x78

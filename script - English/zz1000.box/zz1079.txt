@@ -1,79 +1,74 @@
 <music 31>
 <background "ev063a0.iph" 10>
-<name "イエル" "!CA0905">
-「そっちより、こっちの方が良いですよ」
+<name "Elle" "!CA0905">
+"Anyway, this one is better than that."
 #
-<name "ラズロック">
-「そうか？」
+<name "Lazlocke">
+"Oh?"
 #
-<name "イエル" "!CA0906">
-「はい。
-　商人の娘の目を信じてください」
+<name "Elle" "!CA0906">
+"Yes. Trust in the eyes of a merchant's daughter."
 #
-<name "ラズロック">
-「わかった」
+<name "Lazlocke">
+"All right."
 #
-　イエルはヴィオラの元で魔法使いの勉強を続けて
-　いる。
+Elle is continuing to study magic under Viola.
 #
-　ヴィオラに言わせれば、まだまだ未熟との事だ。
+According to Viola, she's not ready yet.
 #
-<name "イエル" "!CA0907">
-「今日は何を作るんですか？」
+<name "Elle" "!CA0907">
+"What are you going to make today?"
 #
-<name "ラズロック">
-「果物を使ったCookingがあってな、それに挑戦してみ
-　ようと思っている」
+<name "Lazlocke">
+"There's a fruit dish that I want to try."
 #
-<name "イエル" "!CA0908">
-「お手伝いします」
+<name "Elle" "!CA0908">
+"I'll help."
 #
-<name "ラズロック">
-「それは助かるが……」
+<name "Lazlocke">
+"That'd be nice, but..."
 #
-<name "イエル" "!CA0909">
-「もちろん、勉強もしますよ」
+<name "Elle" "!CA0909">
+"Of course, I'll study too."
 #
 <background "ev063a1.iph" 10>
-　イエル＝ブルータクト
+Elle Bluetact.
 #
-　まだまだ修行中。
+She's still in training.
 #
-　ヴィオラが忙しい時は、俺が面倒を見ているのだ
-　が、先は長そうだ。
+When Viola's busy, I look after her, and it looks
+like that's how it'll be for quite a while.
 #
-<name "イエル" "!CA0910">
-「今度、手合わせをお願いします」
+<name "Elle" "!CA0910">
+"Next time, I'd like to compete."
 #
-<name "ラズロック">
-「ああ、魔法か？
-　それともCookingか？」
+<name "Lazlocke">
+"Oh? In magic, or cooking?"
 #
-<name "イエル" "!CA0911">
-「両方です。
-　どっちも腕を上げたんですよ」
+<name "Elle" "!CA0911">
+"Both.
+ I want to get better at both."
 #
-<name "ラズロック">
-「そうか、それは楽しみだな」
+<name "Lazlocke">
+"I see. That should be fun."
 #
-<name "イエル" "!CA0912">
-「はい。
-　それと……ベッドでの技も磨いてます」
+<name "Elle" "!CA0912">
+"Yes, and... I want to hone my skills in bed too."
 #
-<name "ラズロック">
-「………………」
+<name "Lazlocke">
+"........."
 #
-<name "イエル" "!CA0913">
-「楽しみですか？」
+<name "Elle" "!CA0913">
+"Are you looking forward to that?"
 #
-<name "ラズロック">
-「……」
+<name "Lazlocke">
+"..."
 #
-　俺はイエルの頭を軽く叩いてやった。
+I bonk her on the head.
 #
-<name "イエル" "!CA0914">
-「あうう……」
+<name "Elle" "!CA0914">
+"Ohh..."
 #
-　イエルとは仲良くやっている。
+I'm getting along well with her.
 #
 \x78\x78
