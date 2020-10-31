@@ -1,195 +1,202 @@
 <music 8>
 <background "bg024a0.iph" 11>
-<name "銀狐" "!HC0001">
-「ふふ……」
+<name "Silver Fox" "!HC0001">
+"Heheheh..."
 #
-<name "白ヘビ様" "!ID0000">
-「……だ、誰ですか？
-　それにここは？」
+<name "White Snake" "!ID0000">
+"W-Who's there?
+ And where am I?"
 #
-<name "銀狐" "!HC0002">
-「私は銀狐。
-　ここは、適当な洞窟の中かな」
+<name "Silver Fox" "!HC0002">
+"I am the Silver Fox.
+ This is just a convenient cave, I suppose."
 #
-<name "白ヘビ様" "!ID0001">
-「どうして私を捕えたのですか？」
+<name "White Snake" "!ID0001">
+"Why have you captured me?"
 #
-<name "銀狐" "!HC0003">
-「どうしてって……そりゃ、決まってるだろ」
+<name "Silver Fox" "!HC0003">
+"Why?
+ Isn't it obvious?"
 #
-<name "白ヘビ様" "!ID0002">
-「え？
-　え？」
+<name "White Snake" "!ID0002">
+"Huh?
+ Huh?"
 #
-<name "銀狐" "!HC0004">
-「女の子が大好きだからさ。
-　ふふ……楽しませて貰うよ」
+<name "Silver Fox" "!HC0004">
+"Because I love little girls.
+ Heheheh...
+ Entertain me."
 #
-<name "白ヘビ様" "!ID0003">
-「え……」
+<name "White Snake" "!ID0003">
+"Huh?"
 #
 <music 39>
 <background "ev114a0.iph" 10>
-　銀狐の尻から生える無数の尻尾が触手に変化し、
-　それが白ヘビ様の周囲を取り巻いた。
+The tails growing from her back turn into 
+tentacles and descend on the girl.
 #
-　そう思った瞬間、白ヘビ様は無数の触手に絡め取
-　られていた。
+A moment later, she's wrapped in dozens of
+tentacles.
 #
-<name "白ヘビ様" "!ID0004">
-「あ、は、はな、あうっ！」
+<name "White Snake" "!ID0004">
+"Ah! Aah! Aah! Aah!"
 #
-　白ヘビ様を取り巻いていた数匹の白ヘビが抵抗す
-　るが、あっという間に白ヘビ様から引き離され、
-　放り出される。
+She fights off a few of them by summoning snakes,
+but they're quickly thrown away from her.
 #
-　その放り出された白ヘビを、銀狐は束にして持つ。
+She's wrapped up and bound in seconds.
 #
-<name "銀狐" "!HC0005">
-「っと……この白ヘビ、どうしてやろうかな」
+<name "Silver Fox" "!HC0005">
+"Now... 
+ What should I do with this little white snake?"
 #
-<name "白ヘビ様" "!ID0005">
-「ぁ、や、止めて、手を出さないで」
+<name "White Snake" "!ID0005">
+"Ah! D-Don't!
+ Don't touch me!"
 #
-<name "銀狐" "!HC0006">
-「お願いするなら、それなりの言い方があると思う
-　けど」
+<name "Silver Fox" "!HC0006">
+"If you have a request, that's not how you ask."
 #
-<name "白ヘビ様" "!ID0006">
-「お、お願い……します」
+<name "White Snake" "!ID0006">
+"P-Please..."
 #
-<name "銀狐" "!HC0007">
-「素直ね。
-　ま、別に食べても美味しそうじゃないから、どう
-　もしないわよ」
+<name "Silver Fox" "!HC0007">
+"Good girl.
+ Well, you don't look tasty enough to eat, so I
+ won't be doing that."
 #
-<name "白ヘビ様" "!ID0007">
-「ほ……」
+<name "White Snake" "!ID0007">
+"Ah..."
 #
-<name "銀狐" "!HC0008">
-「でも、貴女は……美味しそうよね」
+<name "Silver Fox" "!HC0008">
+"But... you do look delicious."
 #
-　銀狐は、触手に変えた尻尾を操る。
+She brandishes her tentacle tails.
 #
-<name "白ヘビ様" "!ID0008">
-「あ、あ、いや、あ、なに、ふぁ」
+<name "White Snake" "!ID0008">
+"Ah! Ah! No!
+ Ah! What are... ah!"
 #
-<name "銀狐" "!HC0009">
-「ふふ、いい声を聞かせて頂戴」
+<name "Silver Fox" "!HC0009">
+"Heheheh.
+ Give me a good cry."
 #
-　白ヘビ様を絡め取っている触手が個々に意識を持っ
-　たように動き、白ヘビ様の各部を弄り始める。
+The tentacles wrapped around her start to move 
+and play with her body.
 #
 <background "ev114a1.iph" 10>
-<name "白ヘビ様" "!ID0009">
-「ぁっ、ぁぁっ、ふぁ、あっ、あああああ」
+<name "White Snake" "!ID0009">
+"Ah! Aaah! Ah! Aaaaahhh!"
 #
-<name "銀狐" "!HC0010">
-「あー、良い感じ。
-　ん、そう、その調子で……」
+<name "Silver Fox" "!HC0010">
+"Aaah. That's nice.
+ Mmm... Yes, that's the way..."
 #
-　二本の触手が白ヘビ様の陰部にある前後の穴に潜
-　り込んだ。
+Two of her tentacles slide inside the girl.
 #
-<name "白ヘビ様" "!ID0010">
-「いや、あ、いや、いやぁぁぁぁぁっ！」
+<name "White Snake" "!ID0010">
+"No! Ah!
+ No! Nooooooo!!!"
 #
-　そして、白ヘビ様の膣内と腸内で暴れ回る。
+They thrash and rage inside her.
 #
-<name "白ヘビ様" "!ID0011">
-「ふぎぃっ、ぃぁ、ぁっ、ぁぁぁぁぁぁ！」
+<name "White Snake" "!ID0011">
+"Aaaagh! Ah! Aaaaahhhh!"
 #
-　その触手の動きは容赦無く、白ヘビ様を刺激して
-　いく。
+The tentacles are merciless.
 #
-　陰部や陰部の中はもちろん、胸、腹、口、腕、足
-　と容赦が無い。
+They crawl all over her breasts, stomach, mouth,
+arms, legs, pussy, and ass.
 #
-<name "白ヘビ様" "!ID0012">
-「あ、あっ、ああっ、うぁっ、あうぐ、うぐぅっ、
-　うぐぁっ、ぁっ、むぁぁぁぁぁぁっ」
+<name "White Snake" "!ID0012">
+"Ah! Ah! Aah! Ahh! Agh! Aggh!
+ Aagh! Ah! Aaaah!"
 #
-<name "銀狐" "!HC0011">
-「ふふ……
-　そろそろ、気持ち良くなってきたかしら？」
+<name "Silver Fox" "!HC0011">
+"Heheh...
+ Starting to feel good, is it?"
 #
-<name "白ヘビ様" "!ID0013">
-「むぁ、むぁ、むむぅっ、むぅぁっ、ぁぁっ！」
+<name "White Snake" "!ID0013">
+"Mmmgh! Mmgh! Mmph! Aaah!"
 #
-<name "銀狐" "!HC0013">
-「返事をする余裕も無い感じかな？
-　じゃあ、気にせずに……」
+<name "Silver Fox" "!HC0013">
+"Does it feel too good to answer?
+ Then don't you worry..."
 #
-　銀狐は、数本の触手をさらに白ヘビ様の膣内へと
-　潜り込ませる。
+She slides her tentacles deeper inside the girl.
 #
-<name "白ヘビ様" "!ID0014">
-「ふぐぐぐっ！」
+<name "White Snake" "!ID0014">
+"Mmmmmgh!"
 #
-<name "銀狐" "!HC0014">
-「ふふ……お腹が膨らんじゃって……
-　気持ち良さそうね」
+<name "Silver Fox" "!HC0014">
+"Heheh... Your stomach's swelling so much...
+ You seem to be enjoying it."
 #
-<name "白ヘビ様" "!ID0015">
-「ふぐっ、ふぐーーーーっ！」
+<name "White Snake" "!ID0015">
+"Mmmgh!
+ Mmmmmgggghhhhh!"
 #
-<name "銀狐" "!HC0015">
-「ああ、良いわ。
-　その表情。
-　こっちも、気持ち良くなって来ちゃった……」
+<name "Silver Fox" "!HC0015">
+"Aah, wonderful.
+ That's the look.
+ I'm enjoying this too..."
 #
-<name "白ヘビ様" "!ID0016">
-「むあっ、あっ、あうっ、うあっ」
+<name "White Snake" "!ID0016">
+"Mmgh! Ah! Aah! Ahh!"
 #
-<name "銀狐" "!HC0016">
-「ん……ふふ……ふぁ……ん」
+<name "Silver Fox" "!HC0016">
+"Mm... Heheheh...
+ Ahh...mmm..."
 #
-　白ヘビ様の膣内に侵入している触手の動きが、先
-　程よりも明らかに速く、激しく動く。
+The tentacles inside her pussy thrash harder and
+faster than before.
 #
-　その動きが白ヘビ様を刺激し続け、そして……
+They keep relentlessly stimulating the girl 
+until...
 #
 <background "ev114a2.iph" 10>
-<name "白ヘビ様" "!ID0017">
-「うあっ、あっ、あっ、あああああああああっ！」
+<name "White Snake" "!ID0017">
+"Aah! Ah! Ah!
+ Aaaaaaaaaahhhhhhh!!!"
 #
-　白ヘビ様は大きく身体を震わせて達し、果てた。
+Her whole body shakes and she comes.
 #
-<name "白ヘビ様" "!ID0018">
-「ぁ……うぁ……」
+<name "White Snake" "!ID0018">
+"Ah...aah..."
 #
-<name "銀狐" "!HC0017">
-「ん……んん……んんんっ」
+<name "Silver Fox" "!HC0017">
+"Mm...mmm...mmmmm..."
 #
-　そして、それに遅れるように銀狐が小さく身体を
-　震わせて、達した。
+Just after her, the woman trembles and she has a
+small orgasm.
 #
-<name "銀狐" "!HC0018">
-「んぁ……ふふ……まあ、こんなものかな」
+<name "Silver Fox" "!HC0018">
+"Mm... Heheh...
+ Well, now what?"
 #
 <background "bg024a0.iph" 11>
-　銀狐は触手を戻し、捕まえていた白ヘビを白ヘビ
-　様の元に返した。
+She withdraws her tentacles and releases the
+captured snakes.
 #
-<name "銀狐" "!HC0019">
-「良かったわよ。
-　また、お願いするわね」
+<name "Silver Fox" "!HC0019">
+"That was excellent.
+ I hope we get to play again."
 #
-　銀狐はそう言って、気を失っている白ヘビ様を置
-　いて、洞窟から出ていった。
+She drops the unconscious girl on the ground and
+leaves the cave.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-<name "ラズロック">
-「珍しいな。
-　異種間の魔物同士での行為か……
-　しかも同性」
+<name "Lazlocke">
+"Curious.
+ Sex between different kinds of demons?
+ Both girls too."
 #
-<name "ラズロック">
-「むう……」
+<name "Lazlocke">
+"Hmm..."
 #
-<name "ラズロック">
-「まあ、人間も色々なタイプがあるしな……
-　メモメモ」
+<name "Lazlocke">
+"Well, there are all kinds of people too.
+ Better make a note."
 #
 \x78\x78

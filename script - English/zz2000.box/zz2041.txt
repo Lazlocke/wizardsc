@@ -1,93 +1,94 @@
 <music 5>
 <background "bg024a0.iph" 11>
-　森の奥のそのまた奥に、隠れるようにある泉。
+A spring in hidden deepn in a forest.
 #
-　そこは、様々な魔物が集う場所だった。
+It's a place where various demons congregate.
 #
 <background "ev117a0.iph" 10>
-<name "ホーンちゃん" "!MC0000">
-「で、どうなの？」
+<name "Miss Horn" "!MC0000">
+"So, how is it going?"
 #
-　ホーンちゃんは泉に膝まで入り、立ちながら身体
-　を洗う。
+She enters the spring and washes herself.
 #
-<name "銀狐" "!HC0098">
-「どうなのって？」
+<name "Silver Fox" "!HC0098">
+"How is what going?"
 #
-　泉の辺に腰を降ろす銀狐。
+She's sitting by the spring.
 #
-　双方共、裸だ。
+Both of them are naked.
 #
-<name "ホーンちゃん" "!MC0001">
-「例の件」
+<name "Miss Horn" "!MC0001">
+"You know what I mean."
 #
-<name "銀狐" "!HC0099">
-「それなり……かな」
+<name "Silver Fox" "!HC0099">
+"Well enough, I suppose."
 #
-<name "ホーンちゃん" "!MC0002">
-「そう、私が協力できれば良かったんだけど……」
+<name "Miss Horn" "!MC0002">
+"I see. I wish I could help you."
 #
-<name "銀狐" "!HC0100">
-「いいわよ。
-　私の問題だし」
+<name "Silver Fox" "!HC0100">
+"It's fine.
+ This is my problem."
 #
-<name "ホーンちゃん" "!MC0003">
-「……そうね。
-　少し、寂しくもあるけど」
+<name "Miss Horn" "!MC0003">
+"...I suppose, but it does make me feel a little
+ lonesome."
 #
-<name "銀狐" "!HC0101">
-「悪いわね」
+<name "Silver Fox" "!HC0101">
+"I'm sorry."
 #
-<name "ホーンちゃん" "!MC0004">
-「心にも無い事、言わないで欲しいわね。
-　私の事なんかどうでも良いくせに」
+<name "Miss Horn" "!MC0004">
+"Don't say things you don't believe.
+ You don't care a thing about me."
 #
-<name "銀狐" "!HC0102">
-「ふふ……そんな事、無いわよ」
+<name "Silver Fox" "!HC0102">
+"Heheh...
+ That's not true."
 #
-<name "ホーンちゃん" "!MC0005">
-「相変わらず、嘘吐きね」
+<name "Miss Horn" "!MC0005">
+"Same liar as ever."
 #
-<name "銀狐" "!HC0103">
-「嘘じゃないわよ。
-　貴女は大事な親友。
-　……背中と尻尾、洗ってくれないかしら？」
+<name "Silver Fox" "!HC0103">
+"I'm not lying.
+ You're my precious best friend.
+ Could you wash my back and tail?"
 #
-<name "ホーンちゃん" "!MC0006">
-「はいはい。
-　相変わらずの親友使いの荒さね」
+<name "Miss Horn" "!MC0006">
+"Yeah, yeah.
+ Abusing your best friend as always."
 #
-　ホーンちゃんは、銀狐の背中と尻尾を丁寧に洗っ
-　ていく。
+She carefully cleans her back and tail.
 #
-<name "ホーンちゃん" "!MC0008">
-「見惚れるぐらい、綺麗な尻尾ね」
+<name "Miss Horn" "!MC0008">
+"Your tails always look so beautiful."
 #
-<name "銀狐" "!HC0104">
-「ありがとう」
+<name "Silver Fox" "!HC0104">
+"Thank you."
 #
-<name "ホーンちゃん" "!MC0009">
-「でも、一番綺麗な時に比べれば、ツヤが悪いわよ」
+<name "Miss Horn" "!MC0009">
+"But they've lost the sheen that they used to 
+ have."
 #
-<name "銀狐" "!HC0105">
-「む……」
+<name "Silver Fox" "!HC0105">
+"Grr..."
 #
-<name "ホーンちゃん" "!MC0010">
-「使い過ぎね。
-　ま、私が止めても聞かないんでしょうけど」
+<name "Miss Horn" "!MC0010">
+"You've used them too much.
+ Well, I know you won't listen to me if I told
+ you to stop."
 #
-<name "ホーンちゃん" "!MC0011">
-「一言だけ」
+<name "Miss Horn" "!MC0011">
+"Just one thing."
 #
-<name "銀狐" "!HC0106">
-「なに？」
+<name "Silver Fox" "!HC0106">
+"What is it?"
 #
-<name "ホーンちゃん" "!MC0012">
-「焦らない事よ」
+<name "Miss Horn" "!MC0012">
+"Don't rush."
 #
-<name "銀狐" "!HC0107">
-「……わかってるわよ」
+<name "Silver Fox" "!HC0107">
+"...I know."
 #
-　その後、二人は黙々と身体を洗い続けた。
+The two bathe in silence after that.
 #
 \x78\x78

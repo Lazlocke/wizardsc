@@ -1,130 +1,134 @@
 <music 5>
 <background "ev117a0.iph" 10>
-<name "ホーンちゃん" "!MC0038">
-「ずいぶんと弱ってるわね」
+<name "Miss Horn" "!MC0038">
+"You've become quite weak."
 #
-<name "銀狐" "!HC0108">
-「そんな事は無いと思うけど……」
+<name "Silver Fox" "!HC0108">
+"I hardly think so."
 #
-<name "ホーンちゃん" "!MC0039">
-「自慢の毛ヅヤがボロボロよ」
+<name "Miss Horn" "!MC0039">
+"The hair you're so proud of is in tatters."
 #
-<name "ホーンちゃん" "!MC0040">
-「集まらない分は、自分の力を削ったのね」
+<name "Miss Horn" "!MC0040">
+"You gave your own power to make up for what you
+ couldn't take."
 #
-<name "銀狐" "!HC0109">
-「ふふ……もう少しなの」
+<name "Silver Fox" "!HC0109">
+"Heheh... I'm almost there."
 #
-<name "ホーンちゃん" "!MC0041">
-「……知ってるわ。
-　だから、来たのよ」
+<name "Miss Horn" "!MC0041">
+"...I know.
+ That's why I'm here."
 #
-<name "銀狐" "!HC0110">
-「……」
+<name "Silver Fox" "!HC0110">
+"..."
 #
-<name "ホーンちゃん" "!MC0042">
-「これでも、応援してるのよ」
+<name "Miss Horn" "!MC0042">
+"Even now, I'm still here for you."
 #
-<name "銀狐" "!HC0111">
-「でも、貴女から取ったら」
+<name "Silver Fox" "!HC0111">
+"But if I take it from you..."
 #
-<name "ホーンちゃん" "!MC0043">
-「少し眠るだけ。
-　死にはしないわ」
+<name "Miss Horn" "!MC0043">
+"It'll just be a little nap.
+ It won't kill me."
 #
-<name "ホーンちゃん" "!MC0045">
-「だから、貴女の誓いも破れない」
+<name "Miss Horn" "!MC0045">
+"You won't be breaking your promise."
 #
-<name "銀狐" "!HC0112">
-「……」
+<name "Silver Fox" "!HC0112">
+"..."
 #
-<name "ホーンちゃん" "!MC0046">
-「協力させて頂戴」
+<name "Miss Horn" "!MC0046">
+"Let me help you."
 #
-<name "銀狐" "!HC0113">
-「……本当に良いの？」
+<name "Silver Fox" "!HC0113">
+"...Are you sure?"
 #
-<name "ホーンちゃん" "!MC0047">
-「気にしないで」
+<name "Miss Horn" "!MC0047">
+"I'm fine."
 #
-<name "銀狐" "!HC0114">
-「……ありがとう」
+<name "Silver Fox" "!HC0114">
+"...Thank you."
 #
 \x2B\x42
 <background "bg024a0.iph" 11>
-　銀狐は、尻尾を変化させた触手でホーンちゃんを
-　襲った。
+Her tails transform into tentacles and she
+attacks.
 #
-　そして数週間後。
+A few weeks later...
 #
 <music 37>
 <background "ev119a0.iph" 10>
-　銀狐は、男の胸元に飛び込んだ。
+She leaps into the man's arms.
 #
-　銀狐の目には涙が溢れている。
+Tears are pouring from her eyes.
 #
-<name "銀狐" "!HC0072">
-「会いたかった」
+<name "Silver Fox" "!HC0072">
+"I missed you."
 #
-　銀狐は、男を抱き締める。
+She hugs him tight.
 #
-　男はとある村に住む青年。
+It's a young man from a small village.
 #
-　幼い時に銀狐と出会い、そして共に生きていた青
-　年。
+They met when he was young and they lived 
+together.
 #
-　しかし、若くして病魔に倒れた。
+But he fell sick.
 #
-　その彼を助ける為に、銀狐は体内に取り込み、そ
-　してその生命を繋ぎ止める為に他の魔物を襲い続
-　けた。
+To save his life, she took him inside her, and to
+keep him alive, she attacked other demons.
 #
-　だが、他の魔物を殺して助けたと知ったら悲しむ
-　だろうと、殺さずに奪い続けた。
+But she knew that it would make him sad if she 
+were to take a life to prolong his, so she stole
+their strength without killing them.
 #
-　男から奪えば手っ取り早かったが、銀狐は青年以
-　外に身体を許す気はなかった。
+It would have been quick if she had taken the
+strength from a man, but she had no intention of
+giving her body to any man but the one before her.
 #
-　だから、時間が掛かった。
+So it took time.
 #
-　青年が倒れてからすでに百年の時が経過している。
+It's been a hundred years since the man fell ill.
 #
-　しかし、銀狐の前には病魔に倒れる前の青年が立っ
-　ていた。
+But here he is now, standing before her once
+again.
 #
-<name "銀狐" "!HC0073">
-「本当に、会いたかった……」
+<name "Silver Fox" "!HC0073">
+"I missed you so much..."
 #
-　これから先、数多の困難が待ち受けるだろう。
+There will be many trials ahead.
 #
-　だが、銀狐は青年と共に歩んでいく。
+But she will face them with him.
 #
-　傍に居てくれる。
+With him by her side.
 #
-　それだけで、銀狐は無敵なのだから。
+That alone will make her strong enough to face
+anything.
 #
 <music 10>
 <background "bg002a0.iph" 11>
-　魔物にも、色々とあるんだな……
+There are a lot of different kinds of demons,
+huh?
 #
-　メモメモ。
+Better write it all down.
 #
 <music 5>
 <background "bg024a0.iph" 11>
-　ちなみに、ホーンちゃんは三年後に復活した。
+By the way, Miss Horn woke up three years later.
 #
-<name "ホーンちゃん" "!MC0048">
-「幸せにやってると良いけど……」
+<name "Miss Horn" "!MC0048">
+"I hoped it'd work out for you..."
 #
-　そう言ったホーンちゃんの横に、復活を待ってい
-　た銀狐が居た。
+Her friend was waiting nearby for her to awaken.
 #
-<name "銀狐" "!HC0074">
-「えへへ……子供、子供」
+<name "Silver Fox" "!HC0074">
+"Heheheh...
+ We have a child."
 #
-　自慢する為に。
+She brags.
 #
-<name "ホーンちゃん" "!MC0049">
-「………………私も男を見つけよう」
+<name "Miss Horn" "!MC0049">
+".........I need to find a man too."
 #
 \x78\x78

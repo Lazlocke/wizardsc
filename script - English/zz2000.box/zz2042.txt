@@ -1,98 +1,100 @@
 <music 39>
 <background "ev118a0.iph" 10>
-<name "銀狐" "!HC0054">
-「なかなか、てこずらせてくれたわね」
+<name "Silver Fox" "!HC0054">
+"You did not make this easy for me."
 #
-　銀狐は怒りを露わにして、触手を乱暴に動かす。
+She angrily brandishes her tentacles.
 #
-<name "レイリン" "!NC0000">
-「うううっ！」
+<name "Lillim" "!NC0000">
+"Aaah!"
 #
-　レイリンはその触手によって、身体のあらゆる部
-　分が犯される。
+The girl is violated in every oriface by them.
 #
-<name "銀狐" "!HC0055">
-「余計な傷を負ったわ……許さない」
+<name "Silver Fox" "!HC0055">
+"You wounded me needlessly...
+ You will pay for that."
 #
-<name "レイリン" "!NC0001">
-「きゅ、急に襲っておいて……なにを……
-　うぐぅっ！」
+<name "Lillim" "!NC0001">
+"Y-You attacked me out of nowhere!
+ What are you...
+ Mmgh!"
 #
-<name "銀狐" "!HC0056">
-「もう少しだったのに……この……」
+<name "Silver Fox" "!HC0056">
+"I was almost there...
+ You little..."
 #
-　銀狐はさらに怒りを露わにした。
+Her anger grows.
 #
-　それに呼応するように、触手はさらに動きを活性
-　化させる。
+The tentacles become even more agitated.
 #
-<name "レイリン" "!NC0002">
-「うひっ、ひっ、ひぁっ、ひう、ぐっ、ぐぐぐぅっ」
+<name "Lillim" "!NC0002">
+"Ngh! Ah! Aah! Aggh!
+ Aaaagh!"
 #
-　レイリンの身体を捕えている触手は、ズリズリと
-　動いてレイリンの胸や尻、足や腕などを愛撫する。
+They writhe and squirm all over the girl's chest,
+butt, arms, and legs.
 #
-　膣内や腸内、口内に侵入した触手は、さらに奥へ
-　の侵入を目指して蠢き続けた。
+The tentacles plunge into her pussy, ass, and 
+mouth, wriggling the whole time.
 #
 <background "ev118a1.iph" 10>
-<name "レイリン" "!NC0003">
-「ぐぅぁぁぁぁっ、あぎっ……ぁ、ぁぁぁっ！」
+<name "Lillim" "!NC0003">
+"Mmmmmgh! Aagh!
+ Ah! Aaaah!"
 #
-　レイリンは抵抗をするが逃れられず、五分もすれ
-　ばレイリンは呆けた目で触手にされるがままにさ
-　れ始めた。
+She thrashes, but can't escape.
+In a few minutes, her eyes glaze over and she
+stops moving.
 #
-<name "レイリン" "!NC0004">
-「ぁ……ぁぁ……」
+<name "Lillim" "!NC0004">
+"Ah...aah..."
 #
-　レイリンは強制的に何度も果てさせられている。
+She's been forced to come repeatedly.
 #
-　その陰部からは大量の愛液と小便を吐き出し、触
-　手や床を汚している。
+Her liquids cover the tentacles and the floor.
 #
-<name "銀狐" "!HC0057">
-「ああ、いけないいけない」
+<name "Silver Fox" "!HC0057">
+"Aah, that's no good."
 #
-<name "銀狐" "!HC0058">
-「大丈夫？」
+<name "Silver Fox" "!HC0058">
+"Are you okay?"
 #
-<name "銀狐" "!HC0059">
-「壊れてない？」
+<name "Silver Fox" "!HC0059">
+"You're not broken?"
 #
-<name "レイリン" "!NC0005">
-「ぁ……」
+<name "Lillim" "!NC0005">
+"Ah..."
 #
-<name "銀狐" "!HC0060">
-「生きてるわね」
+<name "Silver Fox" "!HC0060">
+"You're alive."
 #
-<name "レイリン" "!NC0006">
-「ぅぁ……ぁ……」
+<name "Lillim" "!NC0006">
+"Aah...ah..."
 #
-<name "銀狐" "!HC0061">
-「つい、カッとなっちゃったわ。
-　ごめんなさい」
+<name "Silver Fox" "!HC0061">
+"I accidentally lost my control.
+ I'm sorry."
 #
-　銀狐は謝るが、触手の動きを止めようとはしない。
+She apologizes, but the tentacles keep moving.
 #
-<name "銀狐" "!HC0062">
-「そんな風に乱暴にしたら、すぐに終っちゃうわよ
-　ね」
+<name "Silver Fox" "!HC0062">
+"If I'm too rough, it'll be over too soon."
 #
-<name "銀狐" "!HC0063">
-「ジックリやらないと……」
+<name "Silver Fox" "!HC0063">
+"We need to take this nice and slow..."
 #
-<name "レイリン" "!NC0007">
-「ぁ……ゆ、ゆるし……ぁぅ……」
+<name "Lillim" "!NC0007">
+"Ah... F-Forgive me...
+ Aah..."
 #
-<name "銀狐" "!HC0064">
-「ふふ……
-　安心して、殺したりはしないから」
+<name "Silver Fox" "!HC0064">
+"Heheh...
+ Don't worry.
+ I'm not going to kill you."
 #
-　銀狐はそう言って、レイリンの頬にキスをした。
+She kisses her on the cheek.
 #
 <background "bg024a0.iph" 11>
-　レイリンが解放されたのは、これから数日後だっ
-　た。
+The girl was released several days later.
 #
 \x78\x78
