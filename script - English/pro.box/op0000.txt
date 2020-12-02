@@ -32,46 +32,46 @@ Skill Points
 \xB5 "Ragged Bed" \x24\x00\x07\x1A\x01\x07\x24\x00\x07\x84\x00\x01\x0E :1E4: \xB4 "Ragged Bed" \x84\x01
 :1E4
 \x1A\x01\x07\x44\x03\x6C\x84\x01\x01\x0E :28B: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-<choice :659: "Skill Mode" \x00\x00>
-<choice :6F6: "Glory Mode" \x00\x00>
-<choice :7A5: "Final Mode" \x00\x00>
+<choice :4C8: "Apprentice" \x00\x00>
+<choice :54F: "Novice" \x00\x00>
+<choice :5C2: "Adept" \x00\x00>
+<choice :659: "Wizard" \x00\x00>
+<choice :6F6: "Virtuoso" \x00\x00>
+<choice :7A5: "Archmage" \x00\x00>
 Which mode would you like to play?
 #
 :28B
 \x1A\x01\x07\x44\x03\x6B\x84\x01\x01\x0E :31E: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-<choice :659: "Skill Mode" \x00\x00>
-<choice :6F6: "Glory Mode" \x00\x00>
+<choice :4C8: "Apprentice" \x00\x00>
+<choice :54F: "Novice" \x00\x00>
+<choice :5C2: "Adept" \x00\x00>
+<choice :659: "Wizard" \x00\x00>
+<choice :6F6: "Virtuoso" \x00\x00>
 Which mode would you like to play?
 #
 :31E
 \x1A\x01\x07\x44\x03\x6A\x84\x01\x01\x0E :39D: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
-<choice :659: "Skill Mode" \x00\x00>
+<choice :4C8: "Apprentice" \x00\x00>
+<choice :54F: "Novice" \x00\x00>
+<choice :5C2: "Adept" \x00\x00>
+<choice :659: "Wizard" \x00\x00>
 Which mode would you like to play?
 #
 :39D
 \x1A\x01\x07\x44\x03\x69\x84\x01\x01\x0E :408: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
-<choice :5C2: "Trial Mode" \x00\x00>
+<choice :4C8: "Apprentice" \x00\x00>
+<choice :54F: "Novice" \x00\x00>
+<choice :5C2: "Adept" \x00\x00>
 Which mode would you like to play?
 #
 :408
 \x1A\x01\x07\x44\x03\x68\x84\x01\x01\x0E :4C2: 
-<choice :4C8: "Normal Mode" \x00\x00>
-<choice :54F: "Training Mode" \x00\x00>
+<choice :4C8: "Apprentice" \x00\x00>
+<choice :54F: "Novice" \x00\x00>
 Which mode would you like to play?
 (Different modes affect initial stats as well
  as when events will unlock.
- Training Mode is recommended right now.)
+ Novice is recommended right now.)
 #
 :4C2
 \x15 :4C8: 
