@@ -1,0 +1,480 @@
+html{
+  height: 100%;
+  width:100%;
+  margin:0;
+  padding:0;
+}
+body {
+  color:#ffffff;
+  font-family:'ÉqÉâÉMÉmäpÉS Pro W3','Hiragino Kaku Gothic Pro','ÉÅÉCÉäÉI',Meiryo,'ÇlÇr ÇoÉSÉVÉbÉN',sans-serif;
+  background-color : #000000;
+  font-size:9pt;
+  font-weight:700;
+  line-height: 130%;
+  text-align:center;
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  background-image:url("../images/back.jpg");
+  background-position : center center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  }
+#inner{
+ min-height:100%;
+ background-image:url("../images/lace.png");
+ background-repeat:repeat-y;
+ background-position : center top;
+ margin-bottom:-64px;
+ height:auto;
+ }
+* html #inner{
+ padding:0;
+ height:100%;
+ }
+
+#primary{
+padding-bottom:64px;
+ }
+
+#footer{
+ position:fixed;
+ bottom:0;
+ left:0;
+ width:100%;
+ height:64px;
+ }
+#lessfooter{
+ bottom:0;
+ left:0;
+ width:100%;
+ height:64px;
+ }
+
+.maintop{
+background-image:url("../images/main.jpg");
+background-position : left top;
+background-repeat:no-repeat;
+padding:0px;
+margin:0px;
+height:567px;
+font-weight:500;
+line-height: 170%;
+vertical-align:bottom;
+}
+.about{
+background-image:url("../images/aboutback.png");
+background-position : right top;
+background-repeat:no-repeat;
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
+.about2{
+background-image:url("../images/aboutback2.png");
+background-position : right top;
+background-repeat:no-repeat;
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
+.aboutinner{
+padding:0px;
+margin:0px;
+font-weight:500;
+padding-left:40px;
+padding-top:30px;
+padding-right:30px;
+line-height: 180%;
+}
+
+.modes{
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
+.modesinner{
+padding:0px;
+margin:0px;
+font-weight:500;
+padding-left:40px;
+padding-top:30px;
+padding-right:30px;
+line-height: 180%;
+}
+
+.story{
+padding:0px;
+margin:0px;
+font-weight:500;
+padding-left:40px;
+padding-top:30px;
+line-height: 250%;
+}
+.storyback{
+background-image:url("../images/story.png");
+background-position : right top;
+background-repeat:no-repeat;
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
+.chara{
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
+#charaback{
+background-image:url("../images/c1_back.png");
+background-position : right bottom;
+background-repeat:no-repeat;
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:50px;
+padding-left:5px;
+}
+.rireki{
+margin:0px;
+padding:0px;
+font-size: 70%;
+font-weight:500;
+}
+
+.text{
+padding:0px;
+margin:0px;
+font-size: 9pt;
+font-weight:500;
+line-height: 150%;
+padding-top:0px;
+}
+
+.copy{
+background-color:#000;
+background-image:url("../images/line1.jpg");
+background-position : center top;
+background-repeat:no-repeat;
+}
+
+tr.mainb td{
+background-image:url("../images/bottom3.html");
+background-position : center top;
+background-repeat:repeat-x;
+background-color : #98989E;
+
+} 
+ 
+h1 {
+  color:#ffffff;
+  font-family:'ÉqÉâÉMÉmäpÉS Pro W3','Hiragino Kaku Gothic Pro','ÉÅÉCÉäÉI',Meiryo,'ÇlÇr ÇoÉSÉVÉbÉN',sans-serif;
+  font-size: 80%;
+  font-weight:700;
+  line-height: 130%;
+  margin:0px;
+  margin-top:5px;
+  margin-bottom:5px;
+  }
+A{
+  font-weight : normal;
+  text-decoration : none;
+  color:#ffffff;
+  overflow: hidden;
+  outline: none;
+}
+a:hover { color: #44D1D8; }
+
+td, th{
+align:left;
+margin:0px;
+padding:0px;
+vertical-align:top;
+}
+
+img.df{
+margin:0px;
+padding:0px;
+vertical-align:bottom;
+}
+
+.logo{
+margin-top:56px;
+
+}
+
+.spec{
+margin:0px;
+padding:0px;
+padding-top:10px;
+padding-left:10px;
+  font-size: 70%;
+  font-weight:500;
+  line-height: 130%;
+vertical-align:middle;
+}
+
+.bar{
+background-image:url("../images/bar3.html");
+margin:0px;
+padding:0px;
+height:40px;
+width:510px;
+text-align:center;
+}
+
+.barbutton{
+margin:0px;
+padding:0px;
+padding-top:10px;
+vertical-align:top;
+align:center;
+}
+.barimg{
+margin:0px;
+padding:0px;
+margin-top:10px;
+vertical-align:top;
+}
+.bar2{
+background-image:url("../images/bar2.html");
+background-position : center top;
+background-repeat:no-repeat;
+margin:0px;
+padding:0px;
+height:40px;
+width:533px;
+text-align:center;
+}
+
+p{
+  color:#ffffff;
+  font-family:'ÉqÉâÉMÉmäpÉS Pro W3','Hiragino Kaku Gothic Pro','ÉÅÉCÉäÉI',Meiryo,'ÇlÇr ÇoÉSÉVÉbÉN',sans-serif;
+  font-size: 80%;
+  font-weight:700;
+  line-height: 130%;
+  margin:0px;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+.aboutmidashi{
+width:385px;
+height:610px;
+text-align:left;
+overflow:hidden;
+padding-right:20px;
+margin-top:20px;
+}
+
+.abouttex{
+margin:0px;
+padding:0px;
+padding-left:5px;
+width:380px;
+height:100%;
+text-align:left;
+font-size: 80%;
+font-weight:500;
+line-height: 150%;
+}
+.storytex{
+margin:0px;
+padding:0px;
+padding-left:5px;
+width:380px;
+height:100%;
+text-align:left;
+font-size: 80%;
+font-weight:500;
+line-height: 170%;
+}
+.get{
+background-image:url("../images/get2.html");
+background-position : left top;
+background-repeat:no-repeat;
+width:333px;
+height:97px;
+margin:0px;
+padding:30px;
+font-size: 70%;
+font-weight:500;
+}
+
+.productm{
+height:23px;
+background-image:url("../images/hr4.html");
+background-position : center bottom;
+background-repeat:no-repeat;
+font-size:110%;
+font-weight:700;
+color:#D0D2EC;
+margin:0px;
+padding:0px;
+margin-left:20px;
+margin-bottom:5px;
+clear:both;
+}
+
+.charaimg{
+font-weight:700;
+align:center;
+margin:0px;
+padding:0px;
+color:#ffffff;
+vertical-align:top;
+line-height: 50%;
+cursor:hand;
+text-align:center;
+}
+#charatext{
+background-color:rgba(0,0,0,0.5);
+}
+#name1,#name2,#name3,#name4,#name5,#name6{
+margin:0px;
+padding:3px;
+color:#ffffff;
+vertical-align:bottom;
+
+}
+.characlip{
+border:solid 1px #94A2B0;
+}
+
+.navi{
+background-image:url("../images/navi.jpg");
+background-position : center bottom;
+background-repeat:no-repeat;
+margin:0px;padding:0px;
+color:#ffffff;
+width:770px;
+height:50px;
+vertical-align:middle;
+
+}
+
+.navtop{
+border-bottom-style:solid;
+border-bottom-width:1px;
+border-bottom-color:#838496;
+	
+}
+
+.ss{
+border:solid 1px #ffffff;
+margin-right:15px;
+}
+.ss2{
+border:solid 1px #ffffff;
+margin-right:15px;
+margin-top:5px;
+vertical-align:top;
+}
+.ss3{
+border:solid 1px #ffffff;
+vertical-align:top;
+}
+
+.sspop{
+background-image:url("../images/img.png");
+background-position : center center;
+background-repeat:no-repeat;
+margin:0px;padding:0px;
+width:140px;
+height:108px;
+float:left;
+margin-right:10px;
+}
+.sspop2{
+background-image:url("../images/ss.png");
+background-position : center center;
+background-repeat:no-repeat;
+margin:0px;padding:0px;
+width:140px;
+height:85px;
+float:left;
+margin-right:10px;
+}
+.sspop3{
+background-image:url("../images/ss.png");
+background-position : center center;
+background-repeat:no-repeat;
+margin:0px;padding:0px;
+width:140px;
+height:85px;
+float:left;
+}
+.charapop{
+background-image:url("../images/chara.png");
+background-position : center center;
+background-repeat:no-repeat;
+margin:0px;padding:0px;
+width:102;
+height:115px;
+float:left;
+margin-right:1px;
+cursor:pointer;
+}
+img.pop{
+vertical-align:middle;
+text-align:center;
+}
+
+.line{
+background-image:url("../images/point.png");
+background-repeat:no-repeat;
+background-position : left 3px;
+text-align:left;
+margin:0px;
+padding:5px;
+padding-left:27px;
+padding-right:0px;
+padding-bottom:10px;
+font-size:11pt;
+color:#ffffff;
+font-weight:700;
+line-height:150%;
+}
+
+
+.part2{
+background-image:url("../images/part2.png");
+background-repeat:no-repeat;
+background-position : right top;
+padding:0px;
+margin:0px;
+font-weight:500;
+padding-left:40px;
+padding-right:0px;
+font-size:9pt;
+padding-top:10px;
+line-height: 180%;
+
+
+}
+.comic{
+padding:0px;
+margin:0px;
+font-weight:500;
+padding-left:20px;
+padding-top:20px;
+padding-right:40px;
+line-height: 170%;
+}
