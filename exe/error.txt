@@ -1,10 +1,10 @@
 trans\0005DFBC.txt 
 Atlas 1.11 by Klarth
 
-Parsing summary: 198 msecs
+Parsing summary: 197 msecs
 Parsing - 0 error(s), 0 warning(s)
 
-Insertion summary: 951 msecs
+Insertion summary: 876 msecs
 Insertion - 0 error(s), 0 warning(s)
 
 +------------------------------------------------------------------------------
@@ -5882,10 +5882,10 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 | Block 368
 |   Start: Line 3282  File Position $52F3C
-|   End: Line 3291  File Position $52F41
+|   End: Line 3291  File Position $52F44
 +------------------------------------------------------------------------------
-| Script size 5
-| Bytes Inserted 5
+| Script size 8
+| Bytes Inserted 8
 |
 | Command Execution Listing
 |   WRITE: 1
@@ -8330,7 +8330,7 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 | Block 521
 |   Start: Line 4776  File Position $54ED8
-|   End: Line 4784  File Position $54EF3
+|   End: Line 4786  File Position $54EF3
 +------------------------------------------------------------------------------
 | Script size 27
 | Bytes Inserted 27
@@ -8344,18 +8344,82 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 +------------------------------------------------------------------------------
-| Total Statistics
-| Script Size 5416
-| Script Inserted 5416
+| Block 522
+|   Start: Line 4786  File Position $55F20
+|   End: Line 4796  File Position $55F31
++------------------------------------------------------------------------------
+| Script size 17
+| Bytes Inserted 17
 |
 | Command Execution Listing
-| JMP: 521
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 523
+|   Start: Line 4796  File Position $55F20
+|   End: Line 4806  File Position $55F31
++------------------------------------------------------------------------------
+| Script size 17
+| Bytes Inserted 17
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 524
+|   Start: Line 4806  File Position $55F20
+|   End: Line 4815  File Position $55F31
++------------------------------------------------------------------------------
+| Script size 17
+| Bytes Inserted 17
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 525
+|   Start: Line 4815  File Position $57944
+|   End: Line 4823  File Position $57949
++------------------------------------------------------------------------------
+| Script size 5
+| Bytes Inserted 5
+|
+| Command Execution Listing
+|   WRITE: 1
+|   WARN: 1
+|
+| Pointer Listing
+|   General Pointers Written: 1
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Total Statistics
+| Script Size 5475
+| Script Inserted 5475
+|
+| Command Execution Listing
+| JMP: 525
 | ADDTBL: 1
 | ACTIVETBL: 1
 | CREATEPTR: 2
-| WRITE: 533
-| WARN: 521
-| General Pointers Written: 533
+| WRITE: 537
+| WARN: 525
+| General Pointers Written: 537
 +------------------------------------------------------------------------------
 
-Execution time: 1180 msecs
+Execution time: 1097 msecs

@@ -3284,7 +3284,7 @@ Elocution
 // Ptr: 00052F3C
 #WRITE(PTR, $0005E830)
 //素手
-素手
+Unarmed
 <$00>
 
 #WARN($00052F43, "WARNME")
@@ -4782,3 +4782,42 @@ Are you sure?
 <$00>
 
 #WARN($00054EF5, "WARNME")
+
+#JMP($00055F20)
+
+// Ptr: 00055F20
+#WRITE(PTR, $000160B4)
+//ウィザーズクライマー
+Wizard's Climber
+<$00>
+
+#WARN($00055F35, "WARNME")
+
+#JMP($00055F20)
+
+// Ptr: 00055F20
+#WRITE(PTR, $00016387)
+//ウィザーズクライマー
+Wizard's Climber
+<$00>
+
+#WARN($00055F35, "WARNME")
+
+#JMP($00055F20)
+
+// Ptr: 00055F20
+#WRITE(PTR, $0001A25C)
+//ウィザーズクライマー
+Wizard's Climber
+<$00>
+
+#WARN($00055F35, "WARNME")
+#JMP($00057944)
+
+// Ptr: 00057944
+#WRITE(PTR, $0001FA10)
+//現在
+- -
+<$0A><$00>
+
+#WARN($0005794A, "WARNME")

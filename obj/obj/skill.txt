@@ -226,7 +226,7 @@ Gotta protect your squishy bits.
 //entry 9 -----------------------
 Jab
 *
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -251,7 +251,7 @@ If you master this, the world will|be in your hands.
 //entry 10 -----------------------
 Straight Punch
 Mana Capacity+1
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -276,7 +276,7 @@ Display the strength of your main|arm.
 //entry 11 -----------------------
 Sonic Blow
 Straight Punch+5
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -301,7 +301,7 @@ The boom comes later.
 //entry 12 -----------------------
 Flash Blow
 Sonic Blow+10
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -326,7 +326,7 @@ Like a flash!
 //entry 13 -----------------------
 Chrono Blow
 Flash Blow+10
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -351,7 +351,7 @@ Even time stops for this attack.
 //entry 14 -----------------------
 God Blow
 Chrono Blow+10
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -376,7 +376,7 @@ With one blow! |...I wish.
 //entry 15 -----------------------
 Low Kick
 Mana Capacity+1
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -401,7 +401,7 @@ Not strong, but it works.
 //entry 16 -----------------------
 High Kick
 Low Kick+3
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -426,7 +426,7 @@ When it hits, it feels great.
 //entry 17 -----------------------
 Flying Knee
 Speed+20|Constitution+20
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -451,7 +451,7 @@ Against regular people, this is a|knockout blow.
 //entry 18 -----------------------
 Tetsuzankou
 Speed+50|Constitution+50
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -476,7 +476,7 @@ An eastern attack. |It's not a tackle.
 //entry 19 -----------------------
 Sleeper Hold
 Speed+40|Constitution+20
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -501,7 +501,7 @@ Unfortunately, it doesn't work on|monsters. Their bodies are too|different.
 //entry 20 -----------------------
 Arm Bar
 Speed+50|Constitution+30
-素手
+Unarmed
 物理攻撃
 格闘
 威力小
@@ -526,7 +526,7 @@ Still doesn't work on monsters. They|can wiggle right out.
 //entry 21 -----------------------
 Steadfast
 Mana Capacity+1
-素手
+Unarmed
 基本
 無
 防物理
@@ -1026,7 +1026,7 @@ Use a weapon to dodge a weapon.
 //entry 41 -----------------------
 Snap Shot
 Mana Capacity+1
-素手
+Unarmed
 物理攻撃
 遠距離
 威力小
@@ -1051,7 +1051,7 @@ Turn common items into a weapon.
 //entry 42 -----------------------
 Snap Barrage
 Snap Shot+5
-素手
+Unarmed
 物理攻撃
 遠距離
 威力小
@@ -1076,7 +1076,7 @@ The scary part is how many.
 //entry 43 -----------------------
 Snap Cannon
 Snap Shot+10
-素手
+Unarmed
 物理攻撃
 遠距離
 威力小
