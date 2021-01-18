@@ -1,15 +1,15 @@
 //entry 0 -----------------------
-Big Elephant
+Tall Stand
 演出道具
 台
 s1_00_00.iph
 i1_00_00.iph
 b
 *
-Type: Decoration|Stand just a little taller.
+Type: Decoration|Stand a little taller.
 Height is might.
 //entry 1 -----------------------
-Huge Elephant
+Uplifting Support
 演出道具
 ニセ乳
 s1_00_01.iph
@@ -19,7 +19,7 @@ i1_00_01.iph
 Type: Decoration|Stick out your chest.
 Breasts are a weapon.
 //entry 2 -----------------------
-Grand Elephant
+Loud Lexicon
 演出道具
 口上集
 s1_00_02.iph
@@ -367,7 +367,7 @@ i2_00_01.iph
 *
 m055.iph
 Type: Utensils|General +6%
-If they're too cute, people|will be intimidated to use|them.
+If they're too cute, people|will be intimidated by them.
 //entry 37 -----------------------
 Ragged Closet
 家具
@@ -417,7 +417,7 @@ i2_00_08.iph
 *
 m104.iph
 Type: Closet|General +5%
-The nicer the closet, the|better the clothing you want to|put in it.
+For a nice closet, you want|nice clothes to put in it.
 //entry 42 -----------------------
 Ragged Desk
 家具

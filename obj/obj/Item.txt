@@ -93,7 +93,7 @@ s0_00_11.iph
 i0_00_11.iph
 無
 Atk +80|Mana -5|Type: Sword
-A powerful Eastern sword that|constantly drains its user's|mana.
+A powerful Eastern sword that|drains its user's mana.
 //entry 12 -----------------------
 Amatsukumo
 剣
@@ -269,7 +269,7 @@ s0_03_00.iph
 i0_03_00.iph
 無
 Atk +20|Type: Hammer
-A hammer selected from|countless mass-produced|hammers.
+Selected from countless |mass-produced hammers.
 //entry 34 -----------------------
 Common Hammer
 ハンマー
@@ -333,7 +333,7 @@ s0_04_03.iph
 i0_04_03.iph
 無
 Atk +12|Type: Shuriken
-They say someone used these to|take over the world, but not|really.
+They say someone used these to|take over the world, but...
 //entry 42 -----------------------
 Rusty Bow
 弓
@@ -628,7 +628,7 @@ Overlord Clothing
 s0_09_07.iph
 i0_09_07.iph
 無
-Def +8　Evd +3|Res +3
+Def +8　Evd +3 Res +3
 Even an overlord needs some|protection.
 //entry 79 -----------------------
 Worn Armor
@@ -708,7 +708,7 @@ Magic Light Armor
 s0_11_03.iph
 i0_11_03.iph
 無
-Def +13　Evd +1 Res +6　Elem Res +4
+Def +13　Evd +1 Res +6　|Elem Res +4
 Blocks every kind of spell.
 //entry 89 -----------------------
 Magic Plate
@@ -716,7 +716,7 @@ Magic Plate
 s0_11_04.iph
 i0_11_04.iph
 無
-Def +14 Res +7　Elem Res +5
+Def +14 Res +7　|Elem Res +5
 Good for fighting wizards.
 //entry 90 -----------------------
 Legendary Armor
@@ -885,7 +885,7 @@ s0_12_17.iph
 i0_12_17.iph
 無
 Casting Speed +7
-A wizard's favorite.♪|Helps with tongue twisters|too.
+A wizard's favorite.♪|Helps with tongue twisters.
 //entry 111 -----------------------
 Angel Hat
 帽子
@@ -948,7 +948,7 @@ Devil Wings
 s0_12_23.iph
 i0_12_23.iph
 無
-Act Speed +5　Speed +3 Move +1|Resist Dark
+Act Speed +5　Speed +3|Move +1|Resist Dark
 Devilishly quick.♪
 //entry 119 -----------------------
 Angel Wings
@@ -956,7 +956,7 @@ Angel Wings
 s0_12_24.iph
 i0_12_24.iph
 無
-Act Speed+5　Speed+3 Move +1|Resist Light
+Act Speed+5　Speed+3|Move +1|Resist Light
 Heavenly celerity.♪
 //entry 120 -----------------------
 Coin

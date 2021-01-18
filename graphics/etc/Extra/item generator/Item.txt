@@ -133,9 +133,9 @@ Rare Antique;s3_00_11.png
 Famous Antique;s3_00_12.png
 Swallow's Nest;s3_00_13.png
 None;s9_99_99
-Big Elephant;s1_00_00.png
-Huge Elephant;s1_00_01.png
-Grand Elephant;s1_00_02.png
+Tall Stand;s1_00_00.png
+Uplifting Support;s1_00_01.png
+Loud Lexicon;s1_00_02.png
 Modest Banner;s1_00_03.png
 Common Banner;s1_00_04.png
 Flashy Banner;s1_00_05.png
