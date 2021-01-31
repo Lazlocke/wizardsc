@@ -396,7 +396,7 @@ se010.wav
 *
 *
 *
-A high accuracy, debilitating attack.
+A high accuracy, debilitating|attack.
 Not strong, but it works.
 //entry 16 -----------------------
 High Kick
@@ -546,7 +546,7 @@ Unarmed
 *
 *
 *
-Increase defense against physical attacks.
+Increase defense against physical|attacks.
 Only magic can stop me now.
 //entry 22 -----------------------
 Sword Swing
@@ -671,7 +671,7 @@ se134.wav
 *
 *
 *
-Dodge physical attacks while a sword is equipped.
+Dodge physical attacks while a|sword is equipped.
 Let your sword be your shield.
 //entry 27 -----------------------
 Staff Hit
@@ -721,7 +721,7 @@ se021.wav
 *
 *
 *
-A weak attack that can stun the opponent.
+A weak attack that can stun the|opponent.
 Hi-yah!
 //entry 29 -----------------------
 Thrust
@@ -746,7 +746,7 @@ se022.wav
 *
 *
 *
-An attack that knocks the enemy back.
+An attack that knocks the enemy|back.
 Stay away!
 //entry 30 -----------------------
 Slicing Staff
@@ -796,7 +796,7 @@ se134.wav
 *
 *
 *
-Dodge physical attacks while a staff is equipped.
+Dodge physical attacks while a|staff is equipped.
 A staff can be a shield too.
 //entry 32 -----------------------
 Ax Swing
@@ -1071,7 +1071,7 @@ se033.wav
 *
 *
 *
-Fire multiple pebbles, but low accuracy.
+Fire multiple pebbles, but low|accuracy.
 The scary part is how many.
 //entry 43 -----------------------
 Snap Cannon
@@ -1546,7 +1546,7 @@ Elocution
 *
 *
 *
-Casting speed increases for same element.
+Casting speed increases for same|element.
 If you just know one element, it'll|be easy.
 //entry 62 -----------------------
 Symbiosis
@@ -1571,7 +1571,7 @@ Elocution
 *
 *
 *
-Casting speed increases for different elements.
+Casting speed increases for|different elements.
 There are similarities even in|different schools.
 //entry 63 -----------------------
 Magic Defense
@@ -1621,7 +1621,7 @@ Magic Defense+5
 *
 *
 *
-Reduce fire magic damage and resist stun.
+Reduce fire magic damage and|resist stun.
 Tough it out.
 //entry 65 -----------------------
 Water Proof
@@ -1646,7 +1646,7 @@ Magic Defense+5
 *
 *
 *
-Reduce water magic damage and reduce stun.
+Reduce water magic damage and|reduce stun.
 Water is nothing to be afraid of.
 //entry 66 -----------------------
 Wind Proof
@@ -1671,7 +1671,7 @@ Magic Defense+5
 *
 *
 *
-Reduce wind magic damage and reduce stun.
+Reduce wind magic damage and|reduce stun.
 Don't shake in the breeze.
 //entry 67 -----------------------
 Earth Proof
@@ -1696,7 +1696,7 @@ Magic Defense+5
 *
 *
 *
-Reduce earth magic damage and reduce stun.
+Reduce earth magic damage and|reduce stun.
 Don't be scared of earthquakes.
 //entry 68 -----------------------
 Lightning Proof
@@ -1721,7 +1721,7 @@ Magic Defense+5
 *
 *
 *
-Reduce lightning magic damage and reduce stun.
+Reduce lightning magic damage and|reduce stun.
 Be grounded.
 //entry 69 -----------------------
 Dark Proof
@@ -1746,7 +1746,7 @@ Magic Defense+5
 *
 *
 *
-Reduce dark magic damage and reduce stun.
+Reduce dark magic damage and|reduce stun.
 I'm not afraid of the dark.
 //entry 70 -----------------------
 Light Proof
@@ -1771,7 +1771,7 @@ Magic Defense+5
 *
 *
 *
-Reduce light magic damage and reduce stun.
+Reduce light magic damage and|reduce stun.
 Don't be blinded by the light.
 //entry 71 -----------------------
 Flame Dart
@@ -1996,7 +1996,7 @@ se056.wav
 *
 *
 *
-A water spell that can knock enemies down.
+A water spell that can knock|enemies down.
 Let it flow.
 //entry 80 -----------------------
 Frozen Ice
@@ -2046,7 +2046,7 @@ se058.wav
 *
 *
 *
-A strong water spell that can flinch.
+A strong water spell that can|flinch.
 Blizzard!
 //entry 82 -----------------------
 Glacier Smash
@@ -2071,7 +2071,7 @@ se059.wav
 *
 *
 *
-A water spell that can flinch and knock enemies down.
+A water spell that can flinch and|knock enemies down.
 Freeze, crush, and wash them away.
 //entry 83 -----------------------
 Blessed Rain
@@ -2196,7 +2196,7 @@ se064.wav
 *
 *
 追跡する風
-Create a wind spirit that hunts down the enemy.
+Create a wind spirit that hunts|down the enemy.
 Cut down approaching enemies!
 //entry 88 -----------------------
 Air Shot
@@ -2221,7 +2221,7 @@ se065.wav
 *
 *
 *
-A wide range, inaccurate wind spell.
+A wide range, inaccurate wind|spell.
 Blow them away.
 //entry 89 -----------------------
 Raging Wind
@@ -2271,7 +2271,7 @@ se067.wav
 *
 *
 *
-A wide range, powerful, distance wind spell.
+A wide range, powerful, distance|wind spell.
 A storm of storms!
 //entry 91 -----------------------
 Air Press
@@ -2646,7 +2646,7 @@ se081.wav
 *
 *
 雷球
-Create a static ball that damages nearby enemies.
+Create a static ball that damages|nearby enemies.
 Go! Numb them!
 //entry 106 -----------------------
 Lightning
@@ -2671,7 +2671,7 @@ se082.wav
 *
 *
 *
-A strong penetrating lightning spell.
+A strong penetrating lightning|spell.
 Even more shocking.
 //entry 107 -----------------------
 Thor's Hammer
@@ -2696,7 +2696,7 @@ se083.wav
 *
 *
 *
-A vicious penetrating lightning spell.
+A vicious penetrating lightning|spell.
 Works great with other spells.
 //entry 108 -----------------------
 Zeus's Rage
@@ -2721,7 +2721,7 @@ se084.wav
 *
 *
 *
-A deadly penetrating lightning spell.
+A deadly penetrating lightning|spell.
 A little close to overkill.
 //entry 109 -----------------------
 Lightning Dragon
@@ -2746,7 +2746,7 @@ se085.wav
 *
 *
 *
-An ultimate penetrating lightning spell.
+An ultimate penetrating lightning|spell.
 Lightning is destruction.
 //entry 110 -----------------------
 Flash Step
@@ -2996,7 +2996,7 @@ se094.wav
 *
 *
 *
-Chance to avoid all physical attacks.
+Chance to avoid all physical|attacks.
 I hate getting hurt.
 //entry 120 -----------------------
 Dark Mist
@@ -3271,7 +3271,7 @@ Mana Capacity+1
 *
 *
 *
-Find treasures easier, and improve results of certain jobs.
+Find treasures easier, and improve|results of certain jobs.
 Convenient when you're looking for|something.
 //entry 131 -----------------------
 Finesse
@@ -3296,7 +3296,7 @@ Mana Capacity+1
 *
 *
 *
-Find treasures easier, and improve results of certain jobs.
+Find treasures easier, and improve|results of certain jobs.
 Gotta be able to open what you|find.
 //entry 132 -----------------------
 Zoology
@@ -3371,7 +3371,7 @@ Search+5
 *
 *
 *
-Mitigate poison and enhance cooking.
+Mitigate poison and enhance|cooking.
 May seem useless, but you never know where toxins lurk.
 //entry 135 -----------------------
 Cunning
@@ -3396,7 +3396,7 @@ Search+3
 *
 *
 *
-Avoid critical hits during tournaments and improve results of certain jobs.
+Avoid critical hits during|tournaments and improve results|of certain jobs.
 Doesn't help against monsters.
 //entry 136 -----------------------
 Tactics
