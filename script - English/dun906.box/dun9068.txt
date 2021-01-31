@@ -214,7 +214,7 @@ Celes headed home triumphantly.
 #
 <sprite "ta01a90.iph" 2 5 12>
 <name "Celes" "!AA3231">
-"My rank wasn't to become a First Class
+"My goal wasn't to become a First Class
  Archwizard, it was to win the Coudures Wizard
  Tournament and get my home back."
 #
@@ -970,7 +970,7 @@ Celes achieved the rank of Archwizard Fifth Class.
 #
 <sprite "ta05a12.iph" 6 4 12>
 <name "Rune" "!EA0157">
-"Try again later!ô"
+"Try again later!ÂÃ´"
 #
 <sprite "ta01c37.iph" 2 5 12>
 <name "Celes" "!AA3284">
